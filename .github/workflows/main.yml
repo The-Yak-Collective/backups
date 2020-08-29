@@ -1,0 +1,35 @@
+name: "Automated backups"
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 9 * * *"
+
+jobs:
+  roam-backup:
+    runs-on: ubuntu-latest
+    name: Roam backup
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Setup dependencies
+        run: |
+          pip install git+https://github.com/MatthieuBizien/roam-to-git.git
+      - name: Backup ArtOfGig graph
+        run: |
+          roam-to-git --skip-git Roam/ArtOfGig
+        env:
+          ROAMRESEARCH_USER: ${{ secrets.ROAM_USER }}
+          ROAMRESEARCH_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
+          ROAMRESEARCH_DATABASE: DelphiStrategy
+      - name: Commit changes
+        uses: elstudio/actions-js-build/commit@v3
+        with:
+          commitMessage: Automated Roam backup
