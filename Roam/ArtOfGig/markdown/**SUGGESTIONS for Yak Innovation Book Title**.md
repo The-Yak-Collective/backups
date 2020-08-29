@@ -1,0 +1,7 @@
+- The title should work for a collection of Problem Essays + Solution Essays
+- Please suggest a title in italics and put your name after it
+- feel free to add comments or riff on these ideas, as sub-bullets under the original suggestion
+- 
+- __Why corporate innovation fails - and how to fix it__ [[David McDougall]]
+- __The radical guide to fixing corporate innovation__ [[David McDougall]]
+- 

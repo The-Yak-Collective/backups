@@ -1,0 +1,61 @@
+- This page is for very basic references for those completely new to neuroscience/tech
+- Kernel Hello Humanity tl;dr
+    - Mission: From Brain-Computer Interface to Neuroscience-as-a-Service
+        - Their team of PhDs will design and implement neuroscience experiments for your applications
+    - Kernel has two hardware devices
+        - Flux uses MEG, which measures fast changes (millisecond) in magnetic field caused by neural electrical activity under the skull surface
+        - Flow uses NIRS, which measures slow changes in blood flow (~seconds) that are correlated with neural metabolic activity
+        - Form factor is a helmet that covers the entire skull 
+    - Proof of concept experiments 
+        - Neural decoding - can we decipher the content of brain signals? 
+        - Speller experiment - Figure out which letters are being looked at on a visual keyboard display 
+            - each letter flickers in a unique 2-second long pattern
+            - The measured MEG signals from each viewer reliably encode this flickering when the viewer is looking at the letter for >2 seconds 
+            - can "learn" the mapping from flicker pattern (called a Gold code) to MEG response in 1 trial 
+            - once this mapping of flicker pattern:MEG response is learned, can decode which letters the user is looking at, and ultimately spell the words that they are thinking. 
+            - Limitations 
+                - each viewer has a different mapping of flicker to MEG response, so you need to train the speller decoder uniquely on each person 
+                - takes 16+ seconds to spell an 8 letter word by looking at the visual keyboard 
+        - Audio Envelope experiment 
+            - What song or spoken word recording is listener hearing? 
+            - Can match MEG signals to audio envelope, which is the shape/amplitude of the waveform
+                - measured the correlation between brain signal and audio signal
+                - these correlations are small, so they need to accumulate evidence over 10+ seconds 
+            - can correctly pick the song or spoken audio with 100% accuracy after 1 minute
+            - can get similar performance using only 4 most informative sensors out of 16 
+            - Limitations 
+                - need to learn unique audio and brain signal weights separately for each listener
+                - takes 10-60 seconds to identify the audio
+- Useful wikipedia bunnytrail pages
+    - [Wikipedia -- neuroscience page](https://en.wikipedia.org/wiki/Neuroscience)
+    - [Wikipedia -- what is a neuron?](https://en.wikipedia.org/wiki/Neuron)
+    - [Wikipedia -- EEG](https://en.wikipedia.org/wiki/Electroencephalography)
+    - [Wikipedia -- MEG (this is one modality Kernel uses to measure brain signals)](https://en.wikipedia.org/wiki/Magnetoencephalography)
+    - [Wikipedia -- NIRS (this is the other modality Kernel uses )](https://en.wikipedia.org/wiki/Near-infrared_spectroscopy)
+    - [Wikipedia -- Transcranial magnetic stimulation](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation)
+    - [Wikipedia -- functional MRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
+    - [Wikipedia -- Brain-Computer Interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
+    - [Wikipedia -- Connectome](https://en.wikipedia.org/wiki/Connectome)
+- Useful textbook / Overview Sites
+    - [McGill University- The Brain From Top to Bottom](http://thebrain.mcgill.ca/avance.php)
+        - __NOTE: good open-ended place to explore, with beginner, intermediate, and advanced tracks__
+    - [BC Campus Intro to Psychology Textbook Ch. 4: Brains, Bodies, and Behaviour](https://opentextbc.ca/introductiontopsychology/chapter/chapter-3-brains-bodies-and-behavior/)
+        - __NOTE: while this is a psychology textbook, this chapter gives good foundational information about the breakdown of the brain...lots of overlap with above link, but for those who do better reading something straight through rather than choose-your-own-adventure-type sites__
+    - [Dartmouth Review of Clinical and Functional Neuroscience- Chapter 11: The Cerebral Cortex](https://www.dartmouth.edu/~rswenson/NeuroSci/chapter_11.html)
+        - __NOTE: This is another whole textbook on the brain; I singled out this chapter because (I am almost certain) Kernel Flow focuses on monitoring and visualizing activity specifically on the Cerebral Cortex__
+- YouTube Pages / Videos
+    - [Neuroscientifically Challenged YouTube Page](https://www.youtube.com/user/neurochallenged)
+        - __NOTE: for those who prefer video to reading, this is a good page that has a wealth of bite-sized videos, with some curated playlists covering different topic areas_
+    - [Control computers with your mind - Thomas Riordan (CTRL Labs)](https://www.youtube.com/watch?v=ulzOE5gfzk4)
+- Review papers on MEG tech used by Kernel 
+    - [Joachim Gross (2019) MEG Primer](https://sci-hub.tw/10.1016/j.neuron.2019.07.001)
+    - [Wheless et. al (2004)](https://sci-hub.tw/10.1097/01.nrl.0000126589.21840.a1)
+- Review papers on NIRS tech used by Kernel 
+    - [Sakudo (2016) - NIRS - current status and future perspective](https://sci-hub.tw/10.1016/j.cca.2016.02.009)
+    - [Lange and Tachtsidis (2019) - Clinical Brain Monitoring with Time Domain NIRS](https://sci-hub.tw/10.3390/app9081612)
+- Via [Nikhil Deshmukh](<../Nikhil Deshmukh.md>) From Wheless (2004)... a view of recording technologies by spatial/temporal/invasiveness resolution ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FLhW5LtYtDq.png?alt=media&token=6f23b561-0b7d-4818-bde3-70a5a01de18f)
+
+# Backlinks
+## [Neurofuturama](<Neurofuturama.md>)
+- [Neuroscience/Neurotech 101 Page](<../Neuroscience/Neurotech 101 Page.md>)
+

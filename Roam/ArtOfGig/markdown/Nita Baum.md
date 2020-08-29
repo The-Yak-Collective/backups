@@ -1,0 +1,8 @@
+- I'm in Harlem, NYC. 
+- Been Indie for 13+ years. Founded an indie collective of multidisciplinary/multipotentialite culture leaders called b*free  https://www.bfree.live/ 
+- "Work" "work culture" "organizations" are traumatized and have traumatized many; the trauma lives in people and in the systems/processes, organizational context and conditions exacerbate this. Race/gender/ability status and other constructs that shape our identities are also trauma. b*free's response is Workplace as HealingSpace; a holistic approach **mind-body-spirit@work**; we also focus on equity, diversity, inclusion as integral to building effective cultures. 
+- We started with programs/workshops/coaching/community for freelancers/indies/self-employed - most of that we do pro bono now
+- We evolved and mostly consult to local/global non-profits, philanthropies and small to large mission-drive orgs - exec and team coaching, org transformation, retreat facilitation
+- Key interests are applications of neuroscience/neurophysiology, psychosomatic and trauma healing therapies, adaptive learning/leadership, complexity framed through a spiritual/philosophical lens of building our individual and collective superhuman capacities to meet our fears and ride the waves of impermanence, uncertainty, disintegration, death, and transformation with levity, equanimity, and a learning orientation
+- Reach out for coaching/support as you navigate the jump to indie life or if you're in it and need a perspective on anything from purpose to pricing to power dynamics and client relationship. 
+- [[Nita Baum]] 

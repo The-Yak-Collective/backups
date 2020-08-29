@@ -1,0 +1,44 @@
+- 
+- **Relaxed Beliefs Under Pandemics**
+- With our normal operations universally disrupted, the previously stable grid space of incentives and progress destablizes, and with it people try and understand the world and find new meaning from this broadened perspective
+- 
+- As with Psycadellics being labelled 'non-specific amplifiers' how we choose to fill this gap in our collective quest for meaning will determine... with our increased receptivity.
+- 
+- Outline
+    - Defining a design space in which there is increased receptivity and increased saturarancy of media.
+    - That exists now but will stretch further and will happen again in other contexts.
+    - How to put that to the service of a better world
+    - via concrete examples or provocations?
+- 
+- Related observations
+    - peoples receptivity to new stories right now 
+    - at the same time the overwhelem of information
+    - digest the facts for me, bake the ingredients into a dish but give me the recipie open for fact checking (tiago forte's request)
+    - Yuvals, 'choices we face', citizen empowerment - examples of technology?
+- 
+- Rough notes
+    - how can we take these lessons of crisis adaptation and REBUS of the economy that we have become good at dealing with now because this is right now. and apply that to the climate crisis
+    - 
+    - how do we fill in this receptivty and meaning quest collectively to the result we desire:
+    - We crave more interoperatbility
+        - open source tools
+    - We need collective healing
+        - embodied practioniers 
+    - We embrace the non-normal
+        - Cottagecore, solarpunk, 
+    - we, the land
+        - land trust, regen food network
+    - 
+    - Open Clarity through collaborative sensemaking and storytelling
+- Sources
+    - 
+    - [1] Adapted from REBUS - Relaxed Belifs under PSycadellics
+    - REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics
+    - R. L. Carhart-Harris and K. J. Friston
+    - https://doi.org/10.1124/pr.118.017160
+    - "via their entropic effect on spontaneous cortical activity—psychedelics work to relax the precision of high-level priors or beliefs, thereby liberating bottom-up information flow, particularly via intrinsic sources such as the limbic system"
+
+# Backlinks
+## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+- [REBUP](<REBUP.md>)
+

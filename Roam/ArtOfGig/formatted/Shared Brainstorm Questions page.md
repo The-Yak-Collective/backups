@@ -1,0 +1,12 @@
+- If you had access to the first generation of Kernel devices, what **EXPERIMENTS** would you run?
+- What are the likely **TECHNICAL CONSTRAINTS** on what is possible with Kernel type technology along a reasonable evolution path?
+- What is the **INVENTION GAP** between where we are now and where we can reasonably expect to be in 2040, assuming typical rates of innovation? What features can we expect to have then that we don't have now?
+- Are there things that are **DEFINITELY POSSIBLE** given what we know about physics/biology/electronics etc. even if it's not immediately clear how it would be done?
+- Are there things there any fundamental **IMPOSSIBILITIES** we should keep in mind to keep the speculation realistic?
+- What are some good **METAPHORS and MENTAL MODELS** for thinking about this kind of tech? Eg: like we think of the internet via the document metaphor
+- For a summary of this discussion visit [Summary: Brainstorm Questions](<Summary: Brainstorm Questions.md>)
+
+# Backlinks
+## [Neurofuturama](<Neurofuturama.md>)
+- [Shared Brainstorm Questions page](<Shared Brainstorm Questions page.md>)
+

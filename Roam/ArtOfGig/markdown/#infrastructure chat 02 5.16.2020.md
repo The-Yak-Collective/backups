@@ -1,0 +1,137 @@
+- #infrastructure
+- Provocation from for this chat [[Venkatesh Rao]]
+    - **Thought experiment: unlimited resources what infrastructure would we have?** 
+    - **Chaos from illegibility vs chaos from underpowered tools**
+    - For those planning on joining the #infrastructure call today: so far our infrastructure has been camping-trip grade. Minimalist general purpose platforms that cover 80% of needs in a poor-to-mediocre way and 20% of the needs not at all. I think it’s time to at least start calibrating the maximalist extreme as a thought experiment.  If cost and labor/time were not an object what would the ideal infrastructure look like? Eg: skills database, reverse-auction-based staffing tool, blockchain-based internal economy, smart contracting infrastructure for revenue share, full email list infrastructure, marketing analytics stack, sales stack, shared subscriptions to intel services and library dbs, project billing/time tracking tools, coworking spaces in major hubs,.... I could go on. Point is not to commit to building it all out, or uncritically reproduce how traditional orgs do it, but to get a sense of the requisite functional capacity and automation needs by imagining some version of it. And asking how we can realize each aspect of it in a network-like way. More TCP/IP than SAP. We need to invent NRP: network resource planning, for our own needs.(edited)
+    - So that’s an RFB: Request For Brainstorm
+    - Principle: Apparent chaos caused by the illegibility of complex systems is good. Real chaos caused by the insufficiency of underpowered tools is bad. We on the infrastructure team need to protect the former from authoritarian high-modernist tooling impulses but address the latter with creative reimagination of corresponding industrial-corporate tooling.
+    - Principle: Test-Driven Infrastructure Evolution. Gradatim ferociter
+    - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
+    - [10:24 AM]
+    - ## Venkatesh Rao (US Pacific)Today at 10:23 AM
+- **Participants**: [[Steven Moody]], [[John Grant]], [[Scott Allen]], [[Mike Morris]], [[Sachin Benny]], [[Venkatesh Rao]]
+- [[Sachin Benny]]: noise from discord - a lot to process if you're not on-line for 2 days
+    - VGR: Fomo isn't an issue. Tune into what you want... Soft discussion works networking...
+        - Hard constraints require. Slightly infrastructure. People get demotivated
+- [[Scott Allen]] was the first to bring up skills database - needs to capabilities
+- VGR: Yesterday's governance chat — peer production discussion
+    - Also reading black death and military culture book 
+    - Anecdote: high middle age - the ways war were fought. King would tell feudal ppl to come to battle. Opt-in battle. 
+    - They would show up battle field whenever. Very weird no-time, async battle culture. France fought this way in 100 year war. Britain had moved into more modern military authority from King. 
+        - **Analogy to YC vs Mckinsey | opt-in network vs strong command structure**
+    - Partly management expectations: Email alerts, in-time communication — clear expectation of doing things and don't do things. Don't leave people hanging
+        - Clear expectations of when things need to be done for project e.g. Innovation e-book
+        - But infrastructure is falling 
+- [[Scott Allen]] +1
+    - Everyone has their own toolset and workflow
+    - You can say all you want to ... that you need to plug into Yak toolset/workflow. You don't want more inbox for each project (anti-pattern from GTD mind-set).
+        - **Yak API**
+    - Centrallized view — who committed to what and when... but also be able to work into whatever people's workflow.
+        - Alerts
+        - Not just look to Yak calendar... but plug into your own calendar 
+- [[Steven Moody]]: 
+    - Off-line connections and networking. a lot of groups have people that solve these problems. More illegible solution. 
+    - gamer culture
+    - **Hackathon ethos** 
+        - **We'll use these collections of tools this weekend. Hackathon participants don't argue tools as much. **
+        - Get tool literacy in place. 
+- John: 
+    - collective knowledge
+        - there's an endless arguments about it... but ends up being a protocol 
+    - job boards
+        - essentially they're just classified ads 
+        - recruiters and head hunters - will use tactics - create job titles but what's not the actual requirement/skillset (flattery) 
+    - push AND pull
+        - requirement is advertised and ... + commitment
+        - internal marketplace
+        - here's the requirement - think about that bidder
+            - i can bid for this price 
+            - and create the internal marketplace
+            - Venkat built this at Xerox
+                - multi-level reverse auction platform for staffing multi-role teams
+                - also applied to on-demand printing -> print shops for bids 
+                - can we build this kind of thing with 20% of the tech 
+    - programmatic advertising 
+        - clicks on a job -> bidding system -> forward application to highest bidder
+- Scott - that's widget making ... very defined work 
+    - most of scott's client work is time & materials bc there's a lot of uncertainty 
+    - prob next 1-2 years work is going to be brought-in by one of members looking for collaborators for delivery 
+    - may not have anything to do with structured marketplace 
+- [[John Grant]]
+    - visiting a public job board, don't really know where you fit in
+        - can't leverage your network / current context 
+    - start to see requirements that don't fit match you 50% but in your mind you can think i could do that
+        - probably underqualified or overqualified 
+    - bid for this challenge (project with uncertainty)
+        - bidding system could be time towards this ... 
+            - may not be undercutting on dollar but bidding on skillset
+        - so it's a risk assessment for the requestor 
+- Escalate to email quicker vs too quickly
+- [[Venkatesh Rao]] pivot to prompt - what's the competitive advantage of YC we can lean into
+    - McKinsey - has closed system ... has the back office in India
+    - we have a very open system ... anyone can contribute on discord and get a role
+    - so things that require trust network - we're back to square 1 
+    - example 1 - if we had a 10x the size of network... then you need a sensor network over a large pool and quickly find the right ppl 
+    - example 2 - very large scale staffing
+        - mckinsey can do 10-12 staffing with varying levels of skill 
+        - we can do several hundred - elemental map reduce tasks - but not mechanical turk - coordinated in a distributed way
+            - not strategy + marketing + ______
+            - certai ntask but requires certain skill + knowledge requirements
+- [[Mike Morris]]
+    - everyone who's likely to bid is roughly comparable costs 
+    - undercutting bids
+    - not enough time and interaction to build network/trust relationships
+- Complexity and illegibility of the work
+    - shared skin in the game
+- [[Steven Moody]] Archers doesn't matter what the problem is 
+    - something useful about that for coordination 
+    - Part of a similar network marketing group - they have full/time people to find ppl to fill a role
+    - Post on slack and then chase ppl in the directory ... people have already stated these are my skills (in well-defined roles)
+    - Some matter of marker of legibility or standard of competence
+    - Two is mobility - maybe it should be two channels. If someone should be need a job vs source something 
+        - knowing someone subscribed to a channel to drive coordination efforts 
+        - there can be a paradox of available and able to do the work 
+    - VGR: we should be open to the find someone 
+        - certain class of well-defined staffing problems can be solved with money 
+        - pick a gig/leave a gig 
+        - even perfect automation/free tools not possible
+- **Here are the types of projects that Yak Collective should focus on based on proven execution**
+    -  interesting project that i could put on Yak Collective
+        - existing staffing models can't solve
+            - odesk / upwork 
+            - Mckinsey
+        - not competing directly 
+            - what we are in fact good at 
+    - here are the project collaborations that we put out
+        - we do a post-mortem 
+            - what infrastructure did give 
+            - vaughn & dave are using google form w/in project + document based project plan
+        - pamela has a form for entry but not sure about follow through
+        - proven execution model tried at least 1x 
+            - maybe 2x -> becomes a template for project 
+- Closing remarks
+    - VGR
+        - Didn't expect immediately actionable
+    - John
+        - weareliminal as potential competitor
+        - YC is more of a mass movement 
+        - **__what makes this unique__**
+            - answers:
+                - diversity? 
+                - evolving answer
+                - continuous reflection 
+        - final thoughts universities may not 
+    - Steven
+        - projects
+        - thinks it will lean towards yak as credentialing program. liberal arts horizontal skill set 
+    - Scott
+        - newly back to independent consulting from 10 years in corporate life
+        - what i want to offer requires a team to execute 
+            - don't think i'll have many gigs get what i'm offering only me talking to ppl 
+            - have been through the process of white-label agencies + other indies on tap
+            - not thinking about "if i have a project through yak" trying to think in terms of for what i offer how do i add yak capabilities to what i offer 
+                - how can i offer yak through my context
+                - expand and augment my context 
+- 
+- 
+- 

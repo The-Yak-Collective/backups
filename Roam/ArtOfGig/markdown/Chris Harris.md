@@ -1,0 +1,5 @@
+- Profile
+    - Mostly open source.
+    - Indie strategic [[Software Development]] - Consulting in technical innovation shaped by a focus on product, people and communication.
+    - Around the internet on [harrischris.com](https://harrischris.com) [@hellokozmo](https://twitter.com/@hellokozmo) [@cdharris](https://github.com/cdharris)
+    - Seeking: Co-consipirators on regenerative invention, media, grant [[Writer]]s, and designers.

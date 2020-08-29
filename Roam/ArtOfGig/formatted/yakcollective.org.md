@@ -1,0 +1,7 @@
+- As of 5/1
+    - Powered by github repo owned by [Venkatesh Rao](<Venkatesh Rao.md>)
+    - Site built and designed by [Tom Critchlow](<Tom Critchlow.md>)
+        - Technologies:
+            - Github pages
+            - Jekyll
+            - https://tachyons.io/

@@ -1,0 +1,53 @@
+- Goal
+    - Goals are up for discussion in a pre-brainstorm week, but personally, my goal is to catalyze more concrete/comprehensible pictures of alternative futures
+    - rather than "police reform" and "police abolition" which seems to me to be a false binary but also not very evocative as to what a 5-10 year 20 year future would look like etc
+- Brainstorming & Research phase
+    - Pre-brainstorming Week
+        -  1. it's a sensitive subject 
+        - 2. there's a lot of prior art that we could possibly dig into.
+we'll need to have some idea of structuring the activities better
+    - Prototype and play scenario planning/game & foresight activities
+        - Built out the game into a more formal deliverable 
+    - Ethnographic work
+        - Interview communities with autonomous response projects
+        - Interview academics and policy wonks 
+            - [Ben Smith](<Ben Smith.md>) In the ethnographic vein, I thought this book was a pretty incredible look at policing from the perspective of inner-city residents: https://www.amazon.com/Run-Fugitive-Fieldwork-Encounters-Discoveries/dp/022613671X
+    - Literature review
+        - work of existing organizations 
+        - books/articles 
+        - https://docs.google.com/document/d/1B_w1qQ2_6no_AkFlvxHWtb8bi2kmUBavitYu3gIpzYo/edit?usp=sharing some resources collected here
+- Political mapping — we want to be sensitive that alternative futures could address multiple different political views. Possibly, this could be an explicit part of our exercise. 
+    - e.g. Scenarios that address each of the 4 political quadrants 
+- Possible deliverables
+    - scenario game
+    - slide deck / report 
+    - policing scorecard and other tools
+        - opendata type project
+    - comic sketches of alternative futures
+        - good reference: https://thenib.com/after-the-cops/  recent sci-fi cartoonist sketch of post-police futures
+- [Noah Raford](<Noah Raford.md>) 
+    - I’m running an online foresight exercise right now in the future of racial justice with a few hundred people in the states.
+        - https://ftr.sc/BLM
+        - https://discord.com/channels/692111190851059762/692847835766325386/721508997211095079 convo about the exercise including what the results panel looks like
+- [Jordan Peacock](<Jordan Peacock.md>)
+    - article that interviewed Jordan! https://theintercept.com/2020/06/12/minneapolis-george-floyd-police-abolition-community-defense/
+    - I've been watching the hell out of this guy, and he's got a lot of fantastic relevant stuff, but this one is a great call to the common cause for those in rural areas:
+
+https://www.youtube.com/watch?v=J5DBrOBIgNM
+- [Ben Smith](<Ben Smith.md>)
+    - I am no expert in the subject area, but would be happy to brainstorm a little with everyone on potential ideas. I think the "concrete/comprehensible pictures of alternative futures" is a potentially good angle for three reasons. (1) it may play more to the YC's strengths, (2) it is something I'd genuinely be interested in hearing some intelligent speculation on, and (3) if I very cursorily compare it to work by other orgs (https://www.rand.org/well-being/justice-policy/centers/quality-policing.html which appears wonky, directed toward police departments and adjacent practitioners, and oriented to immediate application), something a little more "far out" and "citizen-oriented" could fill a useful niche.
+    - If you really wanted to stretch your brain on alternative justice systems (of which, admittedly, policing is only a small part) it might be worthwhile to read: https://www.amazon.com/Legal-Systems-Very-Different-Ours/dp/1793386722
+- [Michael Norris](<Michael Norris.md>)
+    - I like this topic. 
+    - It may be common knowledge, but I'll also note:
+        - Justice systems are composed of police, courts and corrections. 
+        - Policing activities cover a variety of settings, jurisdictions and crime types.  
+        - Accordingly, it's imperative the proposal should have explicit focus and scope (e.g.: future approaches to community policing, approaches to future cyber crime, etc.). 
+    - The toolkit shared by [Ben Smith](<Ben Smith.md>) above is a nice "deliverable" - problem-centric, evidence-based, with implementation checklists for various stakeholders. I do think this is one area YC deliverables can improve.
+- [Mitchell Anhoury](<Mitchell Anhoury.md>)
+    -  **I think there are less academic and more interesting avenues of exploration here**: see [Old Forms of Justice in a New World ](<Old Forms of Justice in a New World .md>)
+
+# Backlinks
+## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
+- [Policing the Future](<Policing the Future.md>)
+

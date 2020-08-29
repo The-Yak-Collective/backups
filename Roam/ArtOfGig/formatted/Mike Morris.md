@@ -1,0 +1,43 @@
+- Recovering software dev/designer/architect, self-sufficiency hacker, strategist, writer, brewer, anti-authoritarian, apprentice human being. 
+- Freelance thinker based in South Cape region of South Africa. Come out of a software design/architecture background, ±25y as consultant and technical trainer in that space. Current focus is on strategy, carbon drawdown, resilience/self-sufficiency.
+- 20+ years as tech trainer and indie consultant in software, strategy, but inactive in that space these past ~5y. Interested in the opportunities that will abound in the OldStack->NewStack transition, helping steer that transition toward more Earth-friendly, sustainable directions.
+- **contact**:
+    - Web: https://www.mikro2nd.net (workish), https://one.mikro2nd.net (personal: slightly sweary warning)
+    - one.mikro2nd.net (personal)
+    - Twitter: @mikro2nd
+    - Matrix: @mikro2nd2:matrix.org
+    - www.mikro2nd.net (work)
+    - ~~Facebook~~, ~~LinkedIn~~
+- **know about/have done**
+    - self-sufficiency/small-scale farming
+    - software design and implementation
+    - small-business/startups
+    - teaching/learning (by which I include C-level consulting)
+    - tech evangelism/public speaking
+    - team leadership
+    - seed saving
+    - brewing craft beer
+    - writing (sf, non-fic)
+- **interested in working on**
+    - fixing the climate
+    - better human interactions with tech (aka UX)
+    - swarm communities, decentralised organisation & management, fediweb
+    - smarter application of tech to real problems (i.e. not shit like selling advertising or surveillance)
+
+# Backlinks
+## [[infrastructure](<infrastructure.md>) chat 02 5.16.2020](<[infrastructure](<infrastructure.md>) chat 02 5.16.2020.md>)
+- **Participants**: [Steven Moody](<Steven Moody.md>), [John Grant](<John Grant.md>), [Scott Allen](<Scott Allen.md>), [Mike Morris](<Mike Morris.md>),
+
+- [Mike Morris](<Mike Morris.md>)
+
+## [Directory](<Directory.md>)
+- [Mike Morris](<Mike Morris.md>)
+
+## [Post-COVID scenario set](<Post-COVID scenario set.md>)
+--[Mike Morris](<Mike Morris.md>)
+
+- [Mike Morris](<Mike Morris.md>)
+
+## [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
+- [Mike Morris](<Mike Morris.md>)
+

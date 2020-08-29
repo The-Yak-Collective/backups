@@ -1,0 +1,48 @@
+- **[author](<author.md>):** [Keith Ferrazzi](<Keith Ferrazzi.md>)
+- **[source](<source.md>):** https://hbr.org/2012/02/why-off-sites-should-go-virtua
+- **[tags](<tags.md>):** [articles](<articles.md>), [strategy](<strategy.md>), [events](<events.md>), #[“Your Next Strategic Offsite will be Online—here’s what to do” [[Jason Fox](<“Your Next Strategic Offsite will be Online—here’s what to do” [[Jason Fox.md>)]] 
+- I am convinced that videoconferencing and other virtual technologies give us a much better way to conduct strategic off-sites. 
+- I realize that numerous companies have held “virtual off-sites,” but typically for the wrong reason (saving money) and with the wrong goal (to replicate physical off-sites).
+- Companies need to be much smarter about how they conduct virtual off-sites. 
+    - They need to leverage virtual capabilities that overcome the shortcomings of a physical setting and vastly improve the process.
+    - The result: A new type of off-site that is actually superior to traditional off-sites. Why? Because it elicits honest feedback, encourages candid pushback and, eventually, obtains true buy-in from the entire organization
+- Why people have strategic offsites
+    - The overall goal is to figure out the best strategy for a business, a process that can be broken into five major steps:
+        - 1. **communicate **strategy, direction, and issues of importance;
+        - 2. **engage **the broader organization for feedback;
+        - 3. **finalize **strategy and build consensus;
+        - 4. **cascade **strategy into the fabric of the company; and
+        - 5. **motivate **employees and build camaraderie.
+    - Why traditional offsites don't work
+        - They are well-orchestrated gatherings conducted mostly for show after important decisions have already been made by a small cadre of executives in backroom deals.
+        - It’s no wonder so many companies end up with “let’s do more of the same” strategies that lack innovative thinking and fail to muster enthusiastic support.
+        - To devise strategies that are based on keen insights and breakthrough ideas, companies need to open up the process, bringing in the entire organization. 
+- **Communicate**
+    - **Why: **Different people absorb information in different ways. Some are very quantitative and prefer spreadsheets of raw data. Others are more visually oriented. 
+    - **What:** 
+        - In a virtual environment managers can communicate in multiple forms, utilizing everything from plain text to video and multimedia.
+        - Greater inclusion: Managers can invite many more individuals to participate in the off-site because of the low cost of adding people. Everyone will hear the exact same story with the same urgency, not need to relay the information.
+- **Engage**
+    - **Why:** In many traditional off-sites, executives ask for honest feedback but in a one-to-many format that serves mostly to push through their agendas and get everyone else to march in step. Participants suppress any pushback and offer subdued comments that result in a polite consensus, regardless of whether it actually exists.
+    - **What:** 
+        - One of the beauties of a virtual off-site is that it can be conducted in separate sessions spaced out over weeks.
+        - This allows each business unit enough time to evaluate a proposal and respond with the unvarnished truth about any potential obstacles.
+        - Everyone can participate, and the top leadership will get a better feel for the real challenges from all angles and levels.
+- **Finalize**
+    - **Why:** After receiving honest and thoughtful feedback, executives have the rich communication channels they used before
+    - **What:**
+        - We heard you and here’s the input that we’re incorporating into our strategy; here’s what needs further investigation; and here’s what we’re rejecting and these are the reasons why.
+- **Cascade**
+    - **Why:** Now comes the work of turning strategy into action, often left for after the off-site without sufficient attention given to it.
+    - **What:**
+        - The goal is to cascade the strategy throughout the organization and encourage employees to brainstorm ways in which they could best contribute to that strategy.
+        - A contest could even reward the business unit that comes up with the best plan for implementation, turning the process into a friendly competition that engages employees and helps ensure their ownership of the new initiative.
+- **Motivate**
+    - **Why:** At the end of the contest, the company could host a celebratory banquet to recognize the winners with awards such as “Most Innovative” implementation plan.
+    - **What:**
+        - This could be the first time that participants meet physically instead of virtually and should receive high visibility to help motivate employees and build camaraderie, which then prepares the organization for the tough work of strategy execution.
+
+# Backlinks
+## [“Your Next Strategic Offsite will be Online—here’s what to do” [Jason Fox](<Jason Fox.md>)](<“Your Next Strategic Offsite will be Online—here’s what to do” [Jason Fox](<Jason Fox.md>).md>)
+- [why offsites should go virtual](<why offsites should go virtual.md>)
+

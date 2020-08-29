@@ -1,0 +1,50 @@
+- This week's read: **Expert Crowdsourcing with Flash Teams**
+    - authors: Daniela Retelny, Se ́bastien Robaszkiewicz, Alexandra To, et al.
+    -  https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf
+- Link to Github repo for Foundry, a js tool for managing flash teams:
+    - https://github.com/StanfordHCI/foundry
+- 
+- ## Discussion
+- [Alex Wagner](<../../Alex Wagner.md>) – How does the Foundry framework work within the context of Yak, and considering Pournelle's Law?
+- [Chris Reid](<../../Chris Reid.md>) – How does timing and availability work here?
+- [Eric Chung](<../../Eric Chung.md>) – Availability issues seems like a big thing that needs to be addressed. Seems like that could be the 
+- [Grigori Milov](<../../Grigori Milov.md>) – Initial reaction was to look at output, in terms of this question. If it's modular, it's easier to achieve. Each "expert" acting autonomously and manager can coordinate. With regards to many deliverables/outputs, this may not be feasible.
+    - A team that know each other may actually be able to work faster than a team of strangers.
+- [Jay Kalawar](<../../Jay Kalawar.md>) – This is very similar to agile. Who puts together different sprints in this framework? 
+    - "There is some pre-emptive work that needs to be done, to set up this scaffolding."
+- [John Grant](<../../John Grant.md>) – How does this solve the differences in communication-style, methodologies, etc between experts in different fields?
+- [Jordan Peacock](<../../Jordan Peacock.md>) – Present.
+- [Lydia Laurenson](<../../Lydia Laurenson.md>) – Thinking about the paper in terms of the gig economy. Will experts push back against this model?
+    - Many peoples' primary experience of community is at work. Gig economy will continue to eat communities? Possibly, it will facilitate people finding new people that they like to work with.
+- [Praful Mathur](<../../Praful Mathur.md>) – If you try to have too much collaboration, you sometimes get blocks. 
+    - It's interesting how they manage variance and quality for each of the groups.
+    - If this was a production-level product, how would they help the teams update or iterate the project? 
+    - Looking at Numerai, creating hedge funds of uncorrelated data.
+- [Venkatesh Rao](<../../Venkatesh Rao.md>) – Paper published in 2014. ODesk since acquired by Elance.
+    - Did they use ODesk gig workers, much like a vendor would hire 
+    - Mturk microtasking vs crowdsourcing.
+        - Three outputs: User-centric design process, Animation, Education course design
+        - "Just pushing the edge of expertise just past these fairly mechanical things."
+    - Putting together a "creative contest" that allows for people to contribute their best possible ideas.
+    - This process will work for well-defined outputs. Not as well for imaginative processes.
+    - Their claim that they use AI techniques to find modular projects that haven't been done before isn't wholly accurate.
+- [Vinay Débrou](<../../Vinay Débrou.md>) – Agree with [Chris Reid](<../../Chris Reid.md>) on availability problem.
+    - Automated cache search is a very difficult problem. Requires a large sample size, among other things.
+    - How would this work for a non-generic project to succeed?
+    - Small-team assembly trough a network of contributors. It's important to have some cosmopolitanism in the network – ie some trust and familiarity.
+- [Yalor](<../../Yalor.md>) – Pass.
+- [Duncan](<../../Duncan.md>) – Pass.
+- [Yalor](<../../Yalor.md>) – Decentralized dev team, has been doing experiments with flash teams. Familiarity with skill sets, trust within teams.
+    - One thing important to successful outcomes – directly responsible individuals.
+- [Chris Reid](<../../Chris Reid.md>) – How do they handle payments? It does seem like they curate it through ODesk?
+- [Venkatesh Rao](<../../Venkatesh Rao.md>) – The way that we are managing proposals is not easy. Right now, we are having to be flexible to allow to projects to finish on their own. Overall, it's been a worthwhile experiment, and is ongoing.
+- [Hershil P ](<../../Hershil P .md>) – How to estimate time to completion for project objectives?
+- [Venkatesh Rao](<../../Venkatesh Rao.md>) – Three ways to get things done on time:
+    - 1. Martyrdom – One person shoulders the load and works overtime to eat the cost and push project across finish line.
+    - 2. Decrease quality – Manager decides to ship project at 60-70% of what the project could actually be.
+    - 3. Schedule slippage – The schedule shifts to accommodate unpredicted project obstacles.
+
+# Backlinks
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- [05/29/2020 – YC Governance Chat Minutes](<../../05/29/2020 – YC Governance Chat Minutes.md>)
+

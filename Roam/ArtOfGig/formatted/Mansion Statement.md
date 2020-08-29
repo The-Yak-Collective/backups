@@ -1,0 +1,13 @@
+- The purpose of the [Yak Collective](<Yak Collective.md>) is for all members to mutually support each other's [Mansion Projects](<Mansion Projects.md>):
+    - "A mansion project is an ambitious personal lifestyle project, such as an actual mansion to live in. It must be highly individualistic, reflect personal passions, and unashamedly ambitious. It can range from Bond Villain to altruistic, and does not require any justification to others."
+- To this end, we hold these principles to be self-evident
+    - Everybody deserves a Mansion
+    - Nobody should feel apologetic about wanting a Mansion
+    - Exit over voice
+    - Opt-in principle for all participation
+    - Default open communication and collaboration
+    - Default laissez-faire emergent coordination over planning
+    - Unpaved cowpaths over uninhabited ghost towns
+    - Personal relationships over org chart relationships
+    - All authority is earned through contributions and proof of work
+    - 

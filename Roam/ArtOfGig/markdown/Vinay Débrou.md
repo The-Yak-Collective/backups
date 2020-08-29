@@ -1,0 +1,4 @@
+- Data analytics & market-research guy. Dabbled in e-commerce consulting for a while. Occasionally I write about my life on my newsletter. 
+- Being an experimental freelancer, happy to learn and exchange curious questions and ideas-- mostly on systems design, storytelling, economics of indie creators, living space design, and product development. 
+- Currently taking research, analytics & strategy projects for e-commerce and other B2C businesses. Focused on web-first businesses. Heavy on small communities. 
+- https://twitter.com/vinaydebrou

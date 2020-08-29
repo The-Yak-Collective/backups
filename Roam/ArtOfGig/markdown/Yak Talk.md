@@ -1,0 +1,12 @@
+- The official Yak Collective Newsletter
+- 
+- Weekly Meeting Notes:
+- [[Yak Talk Minutes – 07112020]]
+- 
+- **Current Team:**
+- [[Alex Wagner]] – Editor, writer for #futurecasting track
+- [[Grigori Milov]] – Editor, writer for #online-governance track
+- 
+- **Team meeting are held 930am EDT, every Saturday**
+- 
+- [[Yak Talk Futurecasting – Working Notes]]

@@ -1,0 +1,17 @@
+- A proof-of-work based indie consulting network. Your participation in and contributions to [[Yak Collective Collaborations]] determine your stake in it, not your credentials or claims.
+- [[Yak Collective Governance]]
+- [[Internal Volunteer Opportunities]]
+    - Lead a collaboration
+- Yak Collective Org structure
+    - **Partners** -- "buy in" by taking ongoing responsibility for key pieces of shared infrastructure and/or small capital contribution to pay cash expenses. Currently:
+        - [[Tom Critchlow]]: Discord admin, building our [website](https://yakcollective.org)
+        - [[Paul Millerd]] Discord admin, collaborations model development, starting with [[Don’t Waste the Reboot]] deck as pilot instance
+        - [[Pamela Hobart]]: Discord admin, twitter account
+        - [[Venkatesh Rao]]: Discord admin, general infrastructure dogsbody
+    - **Contributors** -- "buy in" with contributions to collaborations, for eg to [[Don’t Waste the Reboot]] and accumulate points/yakcoin in proportion to contributions
+    - **Volunteers** — “buy in” by doing small support things that need doing. And we have a lot of [[Things We Need]]
+    - **Members** -- people who just hang out shitposting on the [[Yak Discord server]], help signal boost things we do, swap gigs/leads/info etc.
+- **Website copy**
+    - [[About Page]]
+    - [[Intro text for [[Don’t Waste the Reboot]] report page]]
+    - [[Intro text for home page]]

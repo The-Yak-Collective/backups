@@ -1,0 +1,6 @@
+- Software developer, project manager, engineer. A generalist by heart, I feel comfortable wearing many hats. I look at the world and I see so many problems I don't even know where to start.
+    - MSc in Operational Communications, Coventry University
+    - Website and blog: https://www.rodrigoplp.com
+    - Twitter: https://twitter.com/Rodrigo_plp
+    - LinkedIn: https://www.linkedin.com/in/rodrigopedroso/
+    - Timezone: Montreal, Canada (GMT-4)

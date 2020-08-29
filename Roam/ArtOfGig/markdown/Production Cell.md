@@ -1,0 +1,101 @@
+- Stub::
+    - updated [[August 17th, 2020]]
+    - [[August 3rd, 2020]]
+- Single-Wringable Neck::
+    - [[Jenna Dixon]]
+- Invited::
+    - [[YakWorld: Astonishing Stories of What's Next]]
+        - [[Amanda Reeves]]
+        - [[Sachin Benny]]
+    - [[Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans]] 
+        - [[Siva Swaroop]]
+        - [[Venkatesh Rao]]
+- Related Infrastructure::
+    - [[Yak Collective Website]]
+    - [[Yak Talk Newsletter – To Do and Content Ideas]]
+    - [[Publishing Projects Sampler]]
+    - [[Yak Project Production History]]
+    - others?
+- Suggested coordination tools::
+    - __How granular to be? eg a Kanban in Notion or Trello with a card for each piece__
+    - [[Roam Production Kanban]]
+    - Notion test — [invite link](https://www.notion.so/invite/c58785e67336468df996a71942d153005c95d02b) — [public link](https://www.notion.so/41ff3b37d55c4cfbaddaed83ad16b9d6?v=046dfa62ab774f688c03b1a246516036)
+    - Trello test — [public link](https://trello.com/b/ewxc9qCV/project-production-kanban)
+- ----------------------------------------------------------------------------
+- # 1. Model workflow from a final draft
+- {{mermaid}}
+    - graph LR
+    final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
+- # 2. Production contributor roles — stub
+    - ## Developmental editor aka Referee
+        - __Read at the forest level. Big picture on structure and content. 
+More formal than reader or sparring partner.__
+        - Add your name here if interested in this role::
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Grigori Milov]]
+            - [[Firstname Lastname]]
+    - ## Copy editor
+        - __Read at the tree level. Lover of details.__
+        - Add your name here if interested in this role::
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Jenna Dixon]]
+    - ## Design/layout
+        - __Work with [[Yak Collective Website]] to add projects to the website. 
+Native, Webflow, Carrd, Google Slides....__
+        - Add your name here if interested in this role::
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Grigori Milov]]
+            - [[Jenna Dixon]]
+    - ## Proofread
+        - __Super helpful to have eyes on that have never seen a piece before. 
+Eg restaurant menu proofreader, back when that was a thing.__
+        - Add your name here if interested in this role::
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Jenna Dixon]]
+        - 
+    - ## 🎨 Illustrations 🎨
+        - __On their own production timeline. Can be original or found. If found, prefer CC.__
+        - ### Original illustrations
+            - Add your name here if interested in this role::
+                - [[Firstname Lastname]]
+                - [[Firstname Lastname]]
+                - [[Firstname Lastname]]
+                - [[Firstname Lastname]]
+        - ###  Found illustrations
+            - Have permission. Give attribution:
+                - https://creativecommons.org/use-remix/attribution/
+                - 
+                - 
+- 
+- # 3. Production contribution requests
+    - __All: please contribute any links you know about or come across /jd__ [[August 3rd, 2020]]  
+    - [[Yak Collective Collaborations]]
+        - "Volunteers for copyediting, proof-reading design, etc"
+- 
+- 
+- 
+- 
+- # Alternate workflow models
+- __aka Mermaid play__
+    - cf https://twitter.com/Conaw/status/1281421725121404928/photo/1
+- 
+- https://twitter.com/Conaw/status/1281423537090162690/photo/1
+    - 
+- {{mermaid}}
+    - graph LR
+        - final_draft-->dev_edit-->author_review1-->copyedit-->author_review1-->design-->layout1-->author_review2-->design-->proofread-->author_review3-->layout2-->publish
+- 
+- 
+- {{mermaid}}
+    - graph TD
+        - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish

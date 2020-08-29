@@ -1,0 +1,69 @@
+- ## Discussion
+- [[Venkatesh Rao]] – Short intro.
+- [[Pamela Hobart]]
+    - New Old Home is about the idea of bringing production to the home, and how homes might change.
+    - How the project came together
+        - Didn't expect folks to vote for it.
+        - Pamela emailed a brief and template to interested parties.
+        - [[Drew Schorno]] picked up a significant amount of slack and made the project possible by taking ownership of design aspect.
+        - Pamela gave feedback on about 2/3rds of the slides. The project took it's own shape because the idea was to have a collection of diverse perspectives.
+- [[Drew Schorno]]
+    - Made the cover, people liked it. Figured he should step up and standardize the design side since it didn't look like anyone else was going to.
+    - Google Slides – not super flexible as a design tool. Basically had to "bully the content" into alignment.
+    - Suggests waiting until close to the end of the project before making the deck. People will naturally make changes until the project is locked, so it's much easier to decide on a workflow that minimizes having to keep revising the design of the deck.
+    - Interesting thing I learned about this: throughout the course of the project, decisions __need to be made__. At some point things just need to get done.
+- [[Pamela Hobart]]
+    - Project was predestined to be messy. [[Drew Schorno]]'s experience and skills were a boon to the project.
+    - If I were to lead another project, deadlines would be very firm.
+- [[Drew Schorno]]
+    - "The end product needs to be fairly, firmly standardized."
+    - "People aren't inclined to fit their ideas to the format."
+        - It might be easier to have people submit their content through a form, rather than a slide template.
+- [[Pamela Hobart]]
+    - Initial idea was, "just make the content exist" and we will shape it.
+- [[Jordan Peacock]]
+    - Contributed "Pandemic Coparenting"
+        - Living this currently. In creating his slides, wanted to strike the right balance in "raising myself up to risk".
+- [[Sachin Benny]]
+    - [inaudible]
+- [[Scott Garlinger]]
+    - Trying to find a grammar about what we don't know is going to happen yet.
+    - Curious about the response that it will get online.
+- [[Pamela Hobart]]
+- [[Benjamin P Taylor - London]]
+    - Regarding his own contribution, was expecting to be challenged more.
+    - "Should we be, rather than assuming, doing some harvesting of ideas" and batching them, synthesizing, etc
+- [[Pamela Hobart]]
+    - W/r/t the "light-touch" as far as editing and feedback, it was a combination of time constraints, and the grab-bag aesthetic we were going for.
+    - How can we extend this conversation? How can we tease out a longer span of engagement w/r/t this project?
+- [[Siva Swaroop]]
+    - From #voice-meta
+        - Questions to both Pamela and Drew
+            - 1. When you proposed this were you really sure a deck is the right output instead of an essay? 
+            - 2. How did you go about working in a flash volunteer team ? At least initially did you have any doubts about volunteers knowledge and skills for required for the work that you have imagined ?
+            - 3. Can you guys also talk a little about the  review mechanism for the work ?
+- [[Pamela Hobart]]
+    - In terms of review mechanisms: 
+        - Tough to be a hardass around deadlines when we're all volunteering.
+- [[Drew Schorno]]
+    - If we edit everything into one essay, people lose out on the incentive of being able to point to their work.
+- [[Venkatesh Rao]]
+    - [[Yaks do innovation consulting]] project is in essay-anthology format, so this __is possible.__
+    - "How strong the central thesis is drives" how tight the feedback process needs to be.
+    - Feedback for NOH was a little bit light. It was ok for this project. 
+        - More feedback is needed at the initial ideas phase of the project.
+        - One immediate consequence of this is creating a brainstorm week for the [[Neurofuturama]] project.
+            - Went with the approach to "do more feedback at the idea-level, and less feedback at the design/finishing-level"
+            - Tuning problem here, coherence of idea/thesis vs process.
+- [[Pamela Hobart]]
+    - Spent a lot of project putting out fires. Project had potential to be more but it exists! And we are learning from it.
+- [[Venkatesh Rao]]
+    - For any future projects, highly suggest building in a few days of cross-talk.
+- [[Jay Kalawar]]
+    - Wondering whether you are planning to set up any collisions with urban planning domain, and architecture domain?
+- [[Hershil P ]]
+- [[Pamela Hobart]]
+- [[Venkatesh Rao]]
+    - Closing meeting. 
+    - Hopefully this was helpful for people who are planning on submitting project proposals and leading projects in the future.
+    - Any questions, you can reach out to not only Pamela and Drew, but all other project contributors as well.

@@ -1,0 +1,2 @@
+- I work at the intersection of design + technology + business strategy
+- 🐳[@su](https://twitter.com/Su)

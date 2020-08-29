@@ -1,0 +1,63 @@
+- # 0001 [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+    - Published: APRIL 30TH, 2020 UTC. DAY 45 PANDEMIC MEAN TIME
+    - **[Lead Editors](<Lead Editors.md>):**
+        - on website: [Paul Millerd](https://www.yakcollective.org/members/paul-millerd) & [Venkatesh Rao](https://www.yakcollective.org/members/venkatesh-rao)
+        - on Roam:
+            - [Paul Millerd](<Paul Millerd.md>)
+            - [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Collaborators](<Collaborators.md>):**
+        - on website: [David McDougall](https://www.yakcollective.org/members/david-mcdougall), [Darren Kong](https://www.yakcollective.org/members/darren-kong), [Vaughn Tan](https://www.yakcollective.org/members/vaughn-tan), [Randy Lubin](https://www.yakcollective.org/members/randy-lubin), [Vlad Mehakovic](https://www.yakcollective.org/members/vlad-mehakovic), [Thomas Verhagen](https://www.yakcollective.org/members/thomas-verhagen), [Alex Dobrenko](https://www.yakcollective.org/members/alex-dobrenko), [Sachin Benny](https://www.yakcollective.org/members/sachin-benny), [Amanda Reeves](https://www.yakcollective.org/members/amanda-reeves), [Jordan Peacock](https://www.yakcollective.org/members/jordan-peacock), [Anne-Laure Le Cunff](https://www.yakcollective.org/members/anne-laure-le-cunff), [Martha Balaile](https://www.yakcollective.org/members/martha-balaile), [Benjamin Taylor](https://www.yakcollective.org/members/benjamin-taylor), [Nita Baum](https://www.yakcollective.org/members/nita-baum), [Vinay Débrou](https://www.yakcollective.org/members/vinay-debrou), [Tom Critchlow](https://www.yakcollective.org/members/tom-critchlow), [Rodrigo Pinto](https://www.yakcollective.org/members/rodrigo-pinto), [Ben Mosior](https://www.yakcollective.org/members/ben-mosior), [Harry Pottash](https://www.yakcollective.org/members/harry-pottash), [Jordan Allen](https://www.yakcollective.org/members/jordan-allen)
+        - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>) [Vlad Mehakovic](<Vlad Mehakovic.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Alex Dobrenko](<Alex Dobrenko.md>) [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>). [Jordan Peacock](<Jordan Peacock.md>) [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) [Martha Balaile](<Martha Balaile.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Nita Baum](<Nita Baum.md>) [Vinay Débrou](<Vinay Débrou.md>) [Tom Critchlow](<Tom Critchlow.md>) [Rodrigo Pinto](<Rodrigo Pinto.md>) [Ben Mosior](<Ben Mosior.md>) [Harry Pottash](<Harry Pottash.md>) [Jordan Allen](<Jordan Allen.md>)
+    - **[Developmental edit aka Spar aka Reader](<Developmental edit aka Spar aka Reader.md>):**
+        - __may want to break this down by piece__
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+    - **[Copyedit](<Copyedit.md>):**
+        - __may want to break this down by piece__
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+    - **[Design](<Design.md>):**
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+    - **[Layout](<Layout.md>):**
+        - [Google Slides](<Google Slides.md>)
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+    - **[Proofread](<Proofread.md>):**
+        - __normally one person would serve as final proofreader__
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+- # 0002 [The New Old Home](<The New Old Home.md>)
+    - Published: JUNE 10TH, 2020 UTC. DAY 86 PANDEMIC MEAN TIME
+    - **[Lead Editors](<Lead Editors.md>):**
+        - on website: [Pamela Hobart](https://www.yakcollective.org/members/pamela-hobart) & [Drew Schorno](https://www.yakcollective.org/members/drew-schorno)
+        - in Roam:
+            - [Pamela Hobart](<Pamela Hobart.md>)
+            - [Drew Schorno](<Drew Schorno.md>)
+    - **[Collaborators](<Collaborators.md>):**
+        - on website: [Amanda Reeves](https://www.yakcollective.org/members/amanda-reeves), [Benjamin Taylor](https://www.yakcollective.org/members/benjamin-taylor), [Benton Heimsath](https://www.yakcollective.org/members/benton-heimsath), [Chris Clark](https://www.yakcollective.org/members/chris-clark), [David McDougall](https://www.yakcollective.org/members/david-mcdougall), [Drew Shiel](https://www.yakcollective.org/members/drew-shiel), [Jordan Peacock](https://www.yakcollective.org/members/jordan-peacock), [Kannen Ramsamy](https://www.yakcollective.org/members/kannen-ramsamy), [Michael Colin](https://www.yakcollective.org/members/michael-colin), [Ryan Hume](https://www.yakcollective.org/members/ryan-hume), [Sachin Benny](https://www.yakcollective.org/members/sachin-benny), [Scott Garlinger](https://www.yakcollective.org/members/scott-garlinger), [Shreeda Segan](https://www.yakcollective.org/members/shreeda-segan), [Thomas Hollands](https://www.yakcollective.org/members/thomas-hollands), [Thomas Verhagen](https://www.yakcollective.org/members/thomas-verhagen), [Toby Shorin](https://www.yakcollective.org/members/toby-shorin), [Tom Critchlow](https://www.yakcollective.org/members/tom-critchlow), [Venkatesh Rao](https://www.yakcollective.org/members/venkatesh-rao)
+        - in Roam:
+            - [Amanda Reeves](<Amanda Reeves.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Benton Heimsath](<Benton Heimsath.md>) [Chris Clark](<Chris Clark.md>) [David McDougall](<David McDougall.md>) [Drew Shiel](<Drew Shiel.md>) [Jordan Peacock](<Jordan Peacock.md>) [Kannen Ramsamy](<Kannen Ramsamy.md>) [Michael Colin](<Michael Colin.md>) [Ryan Hume](<Ryan Hume.md>) [Sachin Benny](<Sachin Benny.md>) [Scott Garlinger](<Scott Garlinger.md>) [Shreeda Segan](<Shreeda Segan.md>) [Thomas Hollands](<Thomas Hollands.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Toby Shorin](<Toby Shorin.md>) [Tom Critchlow](<Tom Critchlow.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Developmental edit aka Spar aka Reader](<Developmental edit aka Spar aka Reader.md>):**
+        - __may want to break this down by piece__
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+    - **[Copyedit](<Copyedit.md>):**
+        - __may want to break this down by piece__
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+    - **[Design](<Design.md>):**
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+    - **[Layout](<Layout.md>):**
+        - [Google Slides](<Google Slides.md>)
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+    - **[Proofread](<Proofread.md>):**
+        - [Fname Lname](<Fname Lname.md>)
+        - [Fname Lname](<Fname Lname.md>)
+
+# Backlinks
+## [Production Cell](<Production Cell.md>)
+- [Yak Project Production History](<Yak Project Production History.md>)
+

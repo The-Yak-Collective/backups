@@ -1,0 +1,17 @@
+- Status::
+    - [[Yak Project]] page started [[August 18th, 2020]]
+- Project folk::
+    - [[Vinay Débrou]] lead
+    - [[Claire Peters]] contributor
+- Concept doc::
+    - [v1.0 prototype - Scope & Roadmap Document](https://docs.google.com/document/d/13ihQ2VdjZbfjWjxeOmCvFl_gt9Y1xuFkolyHdW6yNGY/edit?pli=1)
+    - __comment threads on the Google doc ^__
+- Connections::
+    - [[infrastructure]]
+- Meetings::
+    - call [[August 18th, 2020]]
+        - ![](https://media.discordapp.net/attachments/739944326913851488/745295101785407498/unknown.png)
+    - Attending: [[Vinay Débrou]] | [[Jenna Dixon]] | [[Maier Fenster]]
+    - Follow up: [[Vinay Débrou]] will propose possible times for a joint call on the [[DIscord]] [[infrastructure]] channel
+- 
+- 

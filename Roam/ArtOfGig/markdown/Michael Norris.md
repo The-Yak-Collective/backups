@@ -1,0 +1,1 @@
+- Consultant, based in Shanghai. My odds-and-ends include strategy, market research, executive education and investing.

@@ -1,0 +1,9 @@
+- Paycheck type currently working in the non-profit space, but planning on making the jump to independence.
+- Long-time follower of [Ribbonfarm](https://www.ribbonfarm.com/), which is how I discovered [[Breaking Smart]] and [[Art of Gig]].
+- Twitter: [@nathan_acks](https://twitter.com/nathan_acks)
+- Websites (redevelopment in process)
+    - [Delphi Strategy](https://www.delphi-strategy.com/) (newsletter, thoughts about the future)
+    - [Digital Orrery](https://www.digital-orrery.com/) (photography)
+    - [EcoPunk.info](https://www.ecopunk.info/) (personal page)
+- M.S. in Applied Mathematics specializing in [Operations Research](https://en.wikipedia.org/wiki/Operations_research)
+- For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. :-)

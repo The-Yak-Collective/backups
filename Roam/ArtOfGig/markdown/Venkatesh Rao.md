@@ -1,0 +1,3 @@
+- Free-agent consultant since 2011. [[Writer]] of [[Art of Gig]] newsletter, the [[Ribbonfarm]] blog, and the [[Breaking Smart]] tech+futures commentary podcast newsletter. Often in the market for help with graphic and [[Web Design]], [[Data Analysis]], and simple web-app coding tasks.
+- You can contact me via [this form](https://www.ribbonfarm.com/contact/) if you don’t already have my email.
+- 

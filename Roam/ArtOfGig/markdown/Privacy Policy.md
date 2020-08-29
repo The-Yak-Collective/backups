@@ -1,0 +1,14 @@
+- status:: stub [[August 25th, 2020]]
+- s-r-n:: [[Fname Lname]]
+- contributors:: [[Fname Lname]] | [[Fname Lname]] | [[Fname Lname]]
+- examples::
+    - https://automattic.com/privacy/
+    - https://indivisible.org/indivisible-privacy-policy
+    - https://en.wikipedia.org/wiki/Privacy_policy
+- generators::
+    - https://www.privacypolicies.com/
+- 
+- 
+- 
+- 
+- 

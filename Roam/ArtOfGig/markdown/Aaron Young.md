@@ -1,0 +1,5 @@
+- Indie work: Hodgepodge of research projects (surveys, writing, presentations)
+- Indie work: Hodgepodge of research projects (surveys, writing, presentations)
+- Interests: Product strategy and specifically customer interviews
+- Skills: qualitative research, designing executive presentations / slide creation
+- Background: Led a research division at Atlantic Media (modeled after CEB)

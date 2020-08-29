@@ -1,0 +1,38 @@
+- Process developed and executed by Jordan Peacock and Venkatesh Rao
+- Freedom Ways was missing from the list of folkways.
+- Applications submitted via Google Form (designed by Venkatesh Rao)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FO6WqTRJP1B.png?alt=media&token=2bcf00d8-7f06-4ee7-b296-6c6647becde2)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fh68wTQESFH.png?alt=media&token=6cf59295-8d1e-47f8-9e32-db70917cb107)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Ft2efyVC6PW.png?alt=media&token=8383a0dc-8736-41d4-b277-584ef5122ff0)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0G9O2UdbQ3.png?alt=media&token=5057a6c0-17b1-400c-b6cf-b4b9dd7d8b13)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FESeJ44zqWC.png?alt=media&token=fcfbfbc7-52d9-4ed4-84f3-86d296a06dec)
+    - Reflections on form:
+        - Freedom Ways was missing from the list of folkways.
+        - Maximum # of modules should have been capped at 2 (per principal's preference to minimize W2s required)
+        - Preferred folkways should have had rank voting.
+        - Applicant Matching Process
+            - 4 different models were developed.
+                - Maximum contributors
+                - Minimum contributors
+                - Two variants capping contributions at 2 per applicant.
+                - Venkatesh reviewed all four, and offered feedback on a couple modifications to better fit certain folkways to contributors he knew had deep relevant professional experience. He selected the second "cap-at-2-folkways" variant.
+                - When assigning, the first pass assigned the topics with the fewest interested applicants, and then the second pass assigned the remainder going from highest weight to lowest.
+            - Jordan laid out why some applicants who were weighted higher (past contributions + expertise) were skipped; in every case, due to the folkway in question having only a small number of applicants
+            - Venkatesh also lowered commitments for specific individuals (Ryan Hume, Luke Butler, Nikhil Deshmukh) because of his desire to utilize them for other paying aspects of the project (artwork and neuroscience expertise).
+            - Chris Reid was just shy of the cutoff, and was asked if he would consider taking Freedom Ways, as the form had mistakenly left it off. He accepted.
+        - Communication
+            - Approved applicants were CCed on a welcome email sent by Jordan.
+            - Unapproved applicants were BCCed on an email explaining that they were not selected but would have read and write access to the project channel and were welcome to participate in discussions relating to the project to the extent they wished.
+            - The results were shared in Roam and Discord, and pinned to the project channel.
+        - **General Thoughts for improvement**
+            - In situations where applicants are selecting multiple items from a list, they should provide a ranking to better prioritize.
+            - Applicants should be informed and consent to how their emails or other personal information will be used.
+            - Jordan provided the weighting of responses to the principal, but not broadly to the Yak Collective. Should the collective decide that this should be published, it can be made available.
+            - Feel free to add your own feedback.
+            - >> I feel as though the criteria were unclear; I thought I'd missed something on the form - there didn't seem to be a way to 'make a case' for what you wanted to work on, or why you should be selected. [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)
+- Results from the above form were exported into a database (Jordan used Notion), and sorted based on domain-specific expertise and past contribution history.
+
+# Backlinks
+## [Neurofuturama](<Neurofuturama.md>)
+- [Neurofuturama Applicant Selection Process](<Neurofuturama Applicant Selection Process.md>)
+

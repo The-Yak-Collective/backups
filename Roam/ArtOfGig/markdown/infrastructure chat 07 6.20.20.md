@@ -1,0 +1,50 @@
+- Consulting diagram talk by [[Steven Moody]]
+    - Charts
+        - Could post 5 2x2s that regularly came up about from work 
+        - Pick 2 of 3 — drop the mic 
+            - Which of these is most important to you?  
+                - Pick 1 of 3 
+        - 3 circle venn
+            - difficulty in fitting text appropriately
+            - 2 circle is easier
+        - Flywheel
+            - Amazon
+            - if you work diligently enough --- get the free lunch 
+        - Spectrum
+            - Good question prompt 
+            - Also what's similar 
+            - Could use for MBTI
+                - e vs i
+            - References
+                - Socionics
+                - Personality Hackers 
+        - Bounding Box
+            - Porter 5 forces
+            - Another reference is the video game skill diagram/pentagram
+                - Teams
+        - Stack
+        - Pillars
+    - Other formats
+        - Keynote now 
+        - Figma
+        - Cloud ...
+    - Challenger Sale
+    - Compress paragraph into a chart
+- Jordan discord bots 
+    - __Working on proposal for how to apply this to YC__
+    - Carlbot
+        - Opt-in roles
+            - Notifications 
+                - Could use this to hide channels until opt-in to reveal 
+    - Multivac
+        - Landing page
+        - Opt-in some rules
+    - Craig 
+    - .
+    - Conflict resolution
+- Next steps
+    - next format: Google Slides 
+    - Diagrams
+        - Use for workshops
+        - social media? 
+    - 1 Hour of Chart Competition Prompts 

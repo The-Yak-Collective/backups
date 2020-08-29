@@ -1,0 +1,1 @@
+- Newsletter:: https://artofgig.substack.com/

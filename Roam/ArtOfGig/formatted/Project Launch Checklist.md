@@ -1,0 +1,29 @@
+- __Project Launch Checklist for All YC Projects__
+- 
+- ## Checklist
+    - 1. **Has project been QC'd by two independent Yak reviewers?**
+        - Make sure to give appropriate lead time(suggested: 1 week) so that feedback can be implemented, if desired. 
+    - 2. **Schedule online "launch event"**
+        - Essentially an online panel or chat open to the public. This may coincide with release of the project's public-facing project deliverable, or be scheduled after release of deliverable.
+    - 3. **Write description to include in weekly email.**
+    - 4. **Schedule and write social media posts**
+        - Twitter announcement, pinned
+        - Twitter thread, one idea at a time, tagging contributors
+        - LinkedIn, tagging contributors
+        - Facebook
+    - **Member-driven promotion**
+        - Cue relevant members to write blog posts, newsletter mentions etc 
+        - Ask contributors to tweet screenshots of their slides with link to whole
+        - Ask people to share personally with relevant interesting parties (not “influencers” but people who might actually have an interesting response) 
+- **Ongoing/inbound**
+    - Monitor for mentions and RT tweets etc
+    - Mention on any podcasts etc you might be invited to
+- ** Internal townhall, to debrief on learnings**
+    - Schedule with [Yak Collective Governance](<Yak Collective Governance.md>) to do a Friday townhall or on another day... learning opp for future project managers to learn from this experience
+- ## Future Considerations
+    - Notify preferred press outlets with appropriate lead time.
+
+# Backlinks
+## [infrastructure](<infrastructure.md>)
+- [Project Launch Checklist](<Project Launch Checklist.md>)
+

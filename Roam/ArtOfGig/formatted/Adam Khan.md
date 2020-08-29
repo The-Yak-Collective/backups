@@ -1,0 +1,15 @@
+- I'm a web developer/designer trading as http://engaging.net surprised that a book entitled __Enterprise Ontology__ (by Jan L. G Dietz) is just what I was looking for despite the equations and whatnot.
+- Re tech:
+    - Current
+        - **Nuxt** https://nuxtjs.org as the web framework
+        - **Strapi** https://strapi.io as the [Back-end](<Back-end.md>)
+        - **Apollo** https://apollo.vuejs.org/ as the glue between them
+    - Legacy
+        - **ExpressionEngine** https://expressionengine.com as the monolithic content management system
+        - **jQuery** https://jquery.com as the JavaScript leg-up
+- Hit me up at __adam@engaging.net__
+
+# Backlinks
+## [Directory](<Directory.md>)
+- [Adam Khan](<Adam Khan.md>)
+

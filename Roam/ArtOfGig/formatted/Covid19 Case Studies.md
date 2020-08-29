@@ -1,0 +1,46 @@
+- [HEB response to Covid-19](https://www.texasmonthly.com/food/heb-prepared-coronavirus-pandemic/)
+- [The robots of Covid-19](https://www.brookings.edu/blog/the-avenue/2020/03/24/the-robots-are-ready-as-the-covid-19-recession-spreads/)
+- [How to reopen factories](https://amp.economist.com/briefing/2020/04/08/how-to-reopen-factories-after-covid-19)
+- [Hospitals and PE](https://www.inquirer.com/health/coronavirus/hospital-layoff-coronavirus-staff-covid-19-furlough-trinity-bayada-temple-shore-pottstown-20200403.html)
+- [Bill Gates vaccine manufacturing](https://www.businessinsider.com.au/bill-gates-factories-7-different-vaccines-to-fight-coronavirus-2020-4)
+- [Toilet paper shortage real explanation](https://marker.medium.com/what-everyones-getting-wrong-about-the-toilet-paper-shortage-c812e1358fe0)
+- [Food tour company pivoting to digital culinary experiences](https://medium.com/@avitalungar/how-i-reinvented-our-company-in-5-days-24353c12819f)
+- [Food glut for institutions, shortage for consumer demand](https://www.npr.org/sections/thesalt/2020/04/03/826006362/food-shortages-nope-too-much-food-in-the-wrong-places)
+- [Farm to table collapse](https://www.nytimes.com/2020/04/09/dining/farm-to-table-coronavirus.html)
+- [Coffee shortage](https://business.financialpost.com/commodities/agriculture/we-are-drinking-too-much-coffee-at-home-and-now-theres-a-mad-scramble-for-coffee-beans/amp?__twitter_impression=true)
+- [Meat supply collapsing](https://www.npr.org/sections/coronavirus-live-updates/2020/04/13/833110486/u-s-meat-supply-is-perilously-close-to-a-shortage-ceo-warns)
+- [China economic recovery](https://twitter.com/_danielsinclair/status/1248084338601795584?s=21)
+- [9 day conversion of exhibition centre to Nightingale ward](https://www.architectsjournal.co.uk/news/nhs-nightingale-bdp-on-the-first-nine-days-converting-the-excel-centre/10046749.article)
+- [Electricity demand shift](https://www.pecanstreet.org/2020/04/covid/)
+- [Restaurants in Berlin](https://berlinfoodstories.com/2020/04/14/in-the-wake-of-corona/)
+- [Milan reboots into different mode](https://www.theguardian.com/world/2020/apr/21/milan-seeks-to-prevent-post-crisis-return-of-traffic-pollution)
+- [Universities reaching into waitlists](https://www.nytimes.com/2020/05/01/us/coronavirus-college-enrollment.html?action=click&module=Top%20Stories&pgtype=Homepage)
+- I'm gathering examples of what companies are doing to adjust to Covid-19. These examples give a glimpse into what companies are prioritizing, and are opportunities to identify which efforts may be more valuable and impactful. -- [Juan F Mena](<Juan F Mena.md>) 
+- [Tweet thread](https://twitter.com/72mena/status/1242482095726800897)
+    - The one about Disney Parks apps is interesting because there's a typo in the notification. It's just a typo, but I think it speaks volumes of how they may be trying to react fast and errors will be made because of it. 
+- [Green Brands Have a Head Start on Fashion’s Post-Virus Recovery](https://www.bloomberg.com/news/articles/2020-05-01/green-brands-out-ahead-of-fashion-s-post-coronavirus-recovery)
+    - 
+- 
+
+# Backlinks
+## [Case Studies](<Case Studies.md>)
+- [Covid19 Case Studies](<Covid19 Case Studies.md>)
+
+## [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>)
+- [Covid19 Case Studies](<Covid19 Case Studies.md>)
+
+## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+- Maybe 1 slide with a view of [Covid19 Case Studies](<Covid19 Case Studies.md>)
+
+## [Index](<Index.md>)
+- [Covid19 Case Studies](<Covid19 Case Studies.md>)
+
+## [Things We Need](<Things We Need.md>)
+- A way to automatically move links from discord to [Case Studies](<Case Studies.md>) and the sub-page [Covid19 Case Studies](<Covid19 Case Studies.md>)
+
+## [Weekly Prompts](<Weekly Prompts.md>)
+- **April 9, 2020**: Find and add a good business case study to the [Covid19 Case Studies](<Covid19 Case Studies.md>)
+
+## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
+- Better [Covid19 Case Studies](<Covid19 Case Studies.md>)
+

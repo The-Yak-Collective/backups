@@ -1,0 +1,51 @@
+- by [Paul Sas](<Paul Sas.md>) contributed [August 13th, 2020](<August 13th, 2020.md>)
+- My inspiration comes from watching Forte Shelter Container Tour https://www.forteshelter.com/
+    - Front door welcome sign
+        - Modifications: Message at Perimeter should dynamically indicate assessment of the individual's proof of hygiene (POH)
+    - Entance to the kitchen, with shelving and sink
+        - Sink should be privileged transition point, prior to touching doorknob. Handwashing ritual can be certified in order to unlock front door
+        - Theater of purity will be much more ritualized, far beyond the take-your-shoes off gentility that is bourgeois norm today
+        - Forte has 2 distinct sinks - kitchen and bathroom. Third plumbed line is the shower. 
+            - The sink could be a wonderful spot to hang out (is there a pattern Chris Alexander can provide here?)
+            - Showering may be deprecated in future, as appreciation of microbiome tilts toward minimizing disturbance
+            - Obsessive handwashing could induce a reaction against total sterilization. Simplify ablutions for the rest of the body once inside. 
+            - Hygiene may fork into the sterilized domain (usually hands and respiration) vs probiotically naturalized (the wooly state of padding around in bed clothes, unshaved, )
+    - Container width (8'4'') can function as a wind tunnel. One end of canister interfaces with an integrated automotive device. Instead of the garage being converted to an office, the car gets grafted onto the garage like a choo-choo engine, with the container as Pullman cabin. 
+        - Car's capital investment can be liberated to service the home too
+            - Autonomous cars need not have real windows. The outside is just one channel to choose to display on the interior screens. Instead of Tesla X wrap around windows to see the sun & road, the monitors will wrap the inside of the Car Cave
+            - Internal layout of an autonomous car is just a conference room on wheels, dispensing with steering wheel, brakes, seats pointing in the same direction as traffic flow
+            - The interior will most effectively function as if it's optimized to be a TV sound stage. The occupant is a news podcaster/weather man who wants good lighting, backdrop, Sound system for car can double for home
+            - Solar power stored in car batteries
+            - Filtration for the cannister powered by Tesla
+            - Specialized sensors, pumps, pipes, etc integrated into the i-Tesla
+                - Plumbing should filter water, extracting biometric information along the way
+                - Haptic feedback device may naturally derive mechanics from car control haptics
+            - For significant occasions (weddings, conferences, high value business meetings), very specialized cars could be hailed
+                - Bring to the container extremely expensive gear (medical test equipment, professional tools for makers, high end production equipment for self-casting). Maybe peloton rentable body suits for physical training. 
+    - Dichotomy of indoors/outdoors will be flipped
+        - Instead of a Great Room, wealth may be flaunted by Great yards like an 18th c monarch's courtyard. 
+            - Open air affords safe spaces for hosting outsiders to distantly socialize
+        - The outdoors will be domesticated. Even if restaurants become as quaint as a horse with a carriage, much of the climate control tech of Parisian cafes will migrate to homes. Heat lamps, shading umbrellas, envelopes that suck air at a perimeter
+            - Circulating air plus Sunlight is one of the most natural disinfectants
+                - Air flow reduces persistence of aerosols
+                - Sunlight promotes vitamin D, which may help
+                - Air circulation not useful for certain catastophes, such as forest fires or other airborne toxic events
+        - Filtration at the perimeter will be the new AC
+            - HEPA airflow as common as wooden floors in bobo homes today
+            - Designs should support switch between pressurized air pushing out (when not in quarantine) and negative pressure with outside air passed through a filter (if an interior is hosting an infected individual)
+        - Tenting and Shading. If i-Tesla docks with container, it could intersplice an accordion of modular hallway space. If it drove in loops, it would enclose the central space in a torus of indoor shelter, with the hole of the donut as hortus conclusus
+    - Anemia of videoconferencing will push us to use our whole bodies more
+    - Standing will replace much of our previous work spent sitting
+        - Upright posture and balance will leverage our peripatetic nature
+        - When deploying holographic avatars, agents will need full-body fluency to manage interactions via rotoscoping.
+            - Must prevent wall-e-fication. 
+            - Physical Intelligence will be increasingly recognized as far richer and more integral to our cognitive and emotional lives 
+            - James-Lange style thinking reminds us to move our muscles to modulate our moods. 
+        - Voice & lidar-sensed control turn the model of a keyboard and trackpad into relics as passe as mousepads seem today. Hand movements can be tracked in mid-air to control screen behavior
+        -  Autos will also be tall enough to stand in since they're rooms rather than conductor bucket seats
+    - Docking Area of home will be the new 'garage' - Jeff-Daddy's Amazon drone deliveries will dock with secure storage, refrigeration, electrification, public wifi-access, all enabled without passing into the envelope of the home.
+
+# Backlinks
+## [August 13th, 2020](<August 13th, 2020.md>)
+- [Forte Shelter Container Tour - overview](<Forte Shelter Container Tour - overview.md>)
+

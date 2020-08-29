@@ -1,0 +1,13 @@
+- Gallup's short piece dated April 13, 2020 on [how large companies are responding to the COVID-19 challenge](https://www.gallup.com/workplace/308210/evolving-covid-responses-world-largest-companies.aspx)
+- Strategy+Business short piece on April 17, 2020 on [responding when a crisis is the new normal](https://www.strategy-business.com/blog/How-to-respond-when-a-crisis-becomes-the-new-normal)
+- McKinsey has been unbelievably prolific in churning out multiple surveys, analytical reports, advice lists every day in March-April 2020. In their [Coronovirus page](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis) they have posts on specific industry impact such as airlines, insurance, and supply chain.
+- One of the better analyses among Big 4 Consulting types is this one, [Win the Fight, Win the Future](https://www.bcg.com/en-in/publications/2020/covid-scenario-planning-winning-the-future-series.aspx) from BCG on April 16, 2020.
+
+They say that the typical good questions everybody is asking such as How to adjust our budget and When will this end are not to be asked at this point but instead focus on framing potential scenarios. They identify three phases, **Flatten, Fight, and Future** that cities, sectors, and countries are undergoing.
+- McKinsey's March 2020 piece on the [path to the next normal](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/beyond-coronavirus-the-path-to-the-next-normal) draws parallels to the financial crisis of 2008 and its aftermath to suggest a five stage process: **Resolve, Resilience, Return, Reimagination, and Reform**.
+- 
+
+# Backlinks
+## [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>)
+- [Ganesh (RG) Ramakrishnan Links on Big 4 Consulting Virus Response Advice](<Ganesh (RG) Ramakrishnan Links on Big 4 Consulting Virus Response Advice.md>)
+

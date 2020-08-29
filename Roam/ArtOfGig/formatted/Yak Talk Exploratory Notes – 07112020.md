@@ -1,0 +1,56 @@
+- **INTERSECTING ANGLES:**
+    - Tech / infrastructure:
+    - Substack; delivery/analytics
+    - Discord; comms/curation
+    - G.Docs; drafting/editing
+    - User / customer needs and experience:
+- 
+- **Four groups:**
+    - 1) Yaks with a weak/passive interest in YC - Aim: ???
+    - 2) Non-Yaks with a weak/passive interest in YC - Aim: ???
+    - 3) Yaks with a strong/active interest in YC - Aim: ???
+    - 4) Non-Yaks with a strong/active interest in YC - Aim: ???
+- Ranking?
+- ## Business needs and objectives:
+    - Yak Collective: 
+        - 1) Enhance YC cohesion
+        - 2) Inform YC direction (dual sense) 
+        - 3) Generate members
+        - 4) Convert members to contributors
+        - 5) Generate project leads/revenue
+- Ranking?
+- **EACH GROUP WILL WANT TO KNOW AT LEAST ONE OF FOUR THINGS:**
+    - 1) What YC is Doing (events and projects)
+    - 2) What YC is Thinking (talk and discussion)
+    - 3) What YC is Making (Yak-produced content)
+    - 4) What YC is Learning (Yak-recommended content)
+- Thus, a clearly marked four-part structure:
+    - 1) DOING = summary of current/upcoming events and projects.
+    - 2) THINKING = 3 x summaries of most active channels/discussion in past week.
+    - 3) MAKING = 3 x links to Yak-produced content, with link to full archive.
+    - 4) LEARNING = 3 x links to Yak-recommended content/resources.
+- **Additional points:**
+    - Possibly sandwiched with intro/outro, though likely extraneous.
+    - Titles/headers/sections that de-emphasise text, despite literary-industrial leanings.
+    - Structure spectrum: listicle (TF 5 Bullet, A.Kleon 10, JC 3-2-1 vs B.Pickings, B.Smart, Stratchery)
+    - Frequency and length are key constraints that decide all else.
+- **POSSIBLE ROLES / RESPONSIBILITIES:**
+    - 1 x DOING writer. Provide summary of project status / YC trajectory / events.
+    - 3 x THINKING writers. Provide summary of most active channel's ideas.
+    - 1 x MAKING wrangler. Gather consensus on Yak content and maintain archive.
+    - 1 x LEARNING wrangler. Gather consensus on Yak recc'd content and resources.
+- - - - - - - - - -
+- **TEMPO / CADENCE:**
+    - Weekly...
+- **TESTS / ANALYTICS:**
+    - ???
+- **OTHER NOTICINGS:**
+    - Link YC.org to YakTalk SS
+    - Lead with title/hook, not date, maybe an issue number?
+
+# Backlinks
+## [Yak Talk Minutes – 07112020](<Yak Talk Minutes – 07112020.md>)
+- Reading: [Matthew Sweet](<Matthew Sweet.md>)'s [Yak Talk Exploratory Notes – 07112020](<Yak Talk Exploratory Notes – 07112020.md>)
+
+- [Yak Talk Exploratory Notes – 07112020](<Yak Talk Exploratory Notes – 07112020.md>)
+

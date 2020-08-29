@@ -1,0 +1,5 @@
+- [[July 6th, 2020]] Yak Chat
+    - Thing from the future 
+    - Shock - Social Science Fiction RPG game. [[Tim Kuehlhorn]] interested in running a free play session
+    - We may run a free play session for Thing from the Future this week - limited number of participants to test out Roll20 and our methodology
+    - https://hieroglyph.asu.edu/ - spec fiction recommendation 

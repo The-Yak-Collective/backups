@@ -1,0 +1,69 @@
+- [Johnicholas Hines](<Johnicholas Hines.md>)
+    - had several convos with [Thomas Verhagen](<Thomas Verhagen.md>) and [James Young](<James Young.md>)
+        - they were thinking Ethereum 
+    - requirement for more illegibility
+        - what if the bot doesn't enforce accounting
+        - but what if it summarizes sociologically what have been doing
+        - people can consult that summary to enforce various actual consequences
+        - thumbs up a message doesn't necessarily correspond to votes or 
+            - aggregating thumbs up though
+        - wrote some code to interface w discord 
+        - captures emoji reacts
+            - likely possibilities
+                - google sheets
+                - airtable
+                - plain-text accounting in git
+            - more remote possibilities:
+                - sqlite or google firestore db 
+            - each of these technologies -> corporate relationship 
+        - intentionally illegible system vs map to money 
+        - plain text accounting tools https://plaintextaccounting.org/
+            - hledger
+        - ports and adapter
+            - the existing bot is essentially between discord API -> center
+        - google sheets
+            - glide https://www.glideapps.com/
+    - johnicholas - didn't get much feedback once moving away from ethereum/bitcoin 
+    - Venkat - i like this whole direction
+        - there's a lot of people that are into blockchain/DAO
+            - we can insert that, but it's not primary intent to be an experiment for cryptocurrency community, so it's ok to lose that crowd 
+        - until we play around with a bot, can't participate in the discussion
+    - minting vs deducting from a balance
+        - negative emoji balance. could have soft rules... emoji balances per channel 
+    - interfaces
+        - ledger
+        - balance sheet
+    - units / systems 
+        - voting
+        - auctions
+        - currencies
+        - retweets/likes/thumbs up/thumbs down
+    - integrating into website - version 3 
+        - there will be a backend 
+            - next 2-3 months 
+        - we could link to read-only view of google sheets
+        - client side javascript pull
+        - or build from git csv
+    - different types of value
+        - how do we reconcile clever comment vs contribution 
+        - can only use one react per project 
+            - 1, 2, 4, 8 multipliers
+            - could also have a direct transaction bot for more than both 
+    - two emojis?
+        - thank you ? 
+            - could be a "promise" to an outstanding task 
+        - hands up ? 
+    - MVP
+        - 3 emojis, 3 denominations - 9 emojis
+            - 1. infrastructure 
+            - 2. project contributions
+            - 3. social 
+        - google sheets
+
+# Backlinks
+## [infrastructure](<infrastructure.md>)
+- [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>)
+
+## [infrastructure chats](<infrastructure chats.md>)
+- [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>)
+

@@ -1,0 +1,5 @@
+- Husband, father of four, CEO and cofounder of Becoming Machinic Inc., founder of Sortilege Incorporated.
+- Becoming Machinic: We do business process automation for niche domains for the middle market. Specialty is manufacturing/industrial/logistics and people still running AS/400s. We have a cloud app and an on-premise virtual appliance. We build business applications for our clients that run atop our framework.
+- Sortilege: I do game design. I've made custom Magic: the Gathering sets, a card game for the Gottlieb Duttweiler Institute, and have been working on a collectible card game called Situation Normal, as well as a homebrew roleplaying game campaign called Un Coup de Des, using the Invisible Sun system.
+- For the unexpectedly homebound, if you're new to RPGs, I'm coordinating a "Festival of Fictions". Take a look at the [proposed games](https://airtable.com/shrxGwRY1R85PTQXf), and you can [sign up as a player](https://airtable.com/shryQnFyTB8Thunbv). Once enough players have expressed interest, the GM will reach out and schedule with you.
+- 

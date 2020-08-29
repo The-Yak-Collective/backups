@@ -1,0 +1,3 @@
+- xref: #cities; city in [[California]], [[United States]]
+- members:
+    - [[Venkatesh Rao]]

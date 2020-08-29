@@ -1,0 +1,2 @@
+- Page written by: [[Rob Haisfield]]
+- definition:: A target behavior is something that we want the users to do in order to benefit themselves, benefit the company, or align with the company vision.

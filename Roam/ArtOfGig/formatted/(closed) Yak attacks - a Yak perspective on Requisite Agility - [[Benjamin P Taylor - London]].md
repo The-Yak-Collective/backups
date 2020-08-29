@@ -1,0 +1,5 @@
+- There's a [Requisite Agility](<Requisite Agility.md>) conference in June - https://requisiteagility.org/attend/exploring-new-realities#
+- This project idea is for a group of Yaks willing to grok what RA is all about (see [Requisite Agility](<Requisite Agility.md>) for key concepts), and create a deck on their perspectives on it
+- Contact me if interested - [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>) on the Discord - or benjamin.taylor@redquadrant.com
+- 
+- links to 

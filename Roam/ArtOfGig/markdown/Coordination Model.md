@@ -1,0 +1,4 @@
+- Contribution models are general project templates/patterns
+- So far we have the following models either validated or undergoing validated
+- [[Pop-Up Think Tank]]
+- Co-authored ebook

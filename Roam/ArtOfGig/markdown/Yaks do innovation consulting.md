@@ -1,0 +1,340 @@
+- **DRAFT TITLE: Fixing Corporate Innovation**
+- **HOW TO CONTRIBUTE** (New: Call for PM/Editorial/Design/Marketing contributors)
+    - **Deadline Tues 7/7**: Use [this form to submit a proposal for a Solution Essay](https://forms.gle/JWVcmBFPsbuhkuVb8).
+    - **NEW**: You can contribute Project Management, Editorial, Design, or Marketing.
+        - Fill in [this form if you're interested in PM/Editorial/Design/Marketing](https://forms.gle/UTXkVTCDjzCWiSrm6). Currently there's no deadline to express interest, but the sooner the better. 
+        - Roles are emergent and tasks are uncertain—we don’t know how much time they will take or what they will entail in detail
+            - Project management contributor
+            - Design contributor
+            - Editorial contributor
+            - Marketing contributor
+        - Probably needs someone with a comfortable amount of unallocated time each day (for PM and Editorial especially)
+        - More specific role descriptions below
+            - **Project Management contributor**
+                - Responsible for:
+                    - Defining milestones, tasks and deadlines for successful project launch
+                    - Iterative redefinition as project progresses - this will be an extremely agile process, focused on quality over precommitted deadlines
+                    - Ensuring progress to timeline across multiple workstreams, or revising timelines on ongoing basis
+                - Peak work times: Ongoing between now and September.
+                - Time/interaction requirements:
+                    - Checkin/collab w/ D&V multiple times per week (sync and/or async) between now and early September
+                    - Working with PE/SE authors as needed to track to project timings
+            - **Editorial contributor**
+                - Responsible for:
+                    - Early stages: Working with Problem Essay authors and D/V to clarify Solution Essays conceptually
+                    - Later stages: Line and other copyediting to prepare SEs for final release.
+                - Peak work time: July to early Aug is likely to require most work.
+                - Time/interaction requirements:
+                    - Check-in and collab w/ D&V multiple times per week (sync and/or async)
+                    - Working with PE/SE authors as needed (sync and/or async)
+            - **Design contributor**
+                - Responsible for:
+                    - Design and delivery of web version of the essays
+                    - Design and delivery of the ebook version of the essays
+                    - Commissioning from Yaks other art as needed
+                - Peak work times: Major work surge in early-mid August through delivery at end of August.
+                - Time/interaction requirements:
+                    - Probably fairly independent other than early stage definition of design brief (brief discussions with D/V can happen any time between now and end of July).
+                    - Working with PE/SE authors and Yak artists as needed throughout
+            - **Marketing contributor**
+                - Responsible for:
+                    - Defining outreach strategy for full project launch - how can we reach the right audience?
+                    - Executing on prelaunch and launch strategy (reaching out to key bloggers/twitter/possibly MSM/PR)
+                - Peak work times: Early stage planning probably in early August when Solution Essays are part-baked. Major work surge in late August to early September around pre-launch and launch.
+                - Time/interaction requirements:
+                    - Working with Yakshavers and D/V to define outreach strategy (probably a few separate sync meetings)
+                    - Working independently to execute on strategy
+    - You can contribute by writing a [Problem Essay (Round 1)](((XeQghFwG6))) or a [Solution Essay (Round 2)](((PLrseoKgs))). To write a Problem Essay, you must produce Parts A-F below, focusing on only one innovation problem faced by large, established corporations. During the submission process, each author will be paired with another Problem Essay author who will serve as an “editing sparring partner” to challenge the thinking and improve the prose.
+- **Questions?** contact [[David McDougall]] and [Vaughn Tan](https://vaughntan.org/)
+- **CURRENT CONTENT**
+    - Round 1 output: [Problem Essays](https://docs.google.com/document/d/1HtM1xP17PyqpLNxKWWMN5V6ixVGZaNAC-hn-ekVJbNk/edit) (please read before submitting a Solution Essay proposal)
+    - [[**SUGGESTIONS for Yak Innovation Book Title**]]
+- **ROUND 2: SOLUTION ESSAYS** (Includes requirements and workflow)
+    - To contribute to a Solution Essay, you must produce Parts D, E, and F below (Problem Essays make up Parts A, B, and C). You may contribute more than one Solution Essay—to do so you must produce Parts D-F for each. **You don’t need to have been a Problem Essay author to contribute a Solution Essay.**
+    - All Solution Essays must directly address a problem raised in a Problem Essay. **Important**: The same problem can have many causes. Each Problem Essay identifies a specific cause of a specific problem. Make sure your proposed solution addresses the specific cause of the problem identified and __not__ other causes or other problems.
+    - With DM/VT, each Problem Essay author will work with Solution Essay contributors to develop their contributions.
+    - Before proposing a Solution Essay, you must read the main [Yak Innovation project Roam page](https://roamresearch.com/#/app/ArtOfGig/page/oU4N1ayp4) **and** the [Problem Essays](https://docs.google.com/document/d/1HtM1xP17PyqpLNxKWWMN5V6ixVGZaNAC-hn-ekVJbNk/edit?usp=sharing)
+    - Use [this form to submit a proposal for a Solution Essay](https://forms.gle/JWVcmBFPsbuhkuVb8). 
+    - **Parts of the Solution Essay**
+        - **Part D**__: 140 characters: Describe the conceptual solution to the problem in a nutshell__
+            - This is a teaser for the Solution Essay (see below)
+        - **Part F**__: 400-500 words: Illustrate this solution and its practical implications.__
+            - This **must** be
+                - an example that clearly and intuitively captures the conceptual solution,
+                - highlights the specific ways in which the solution solves the problem by addressing the cause identified in the Problem Essay
+                - shows how the solution is implementable and pitch-ready.
+        - **Part E**__: 400-500 words: Describe the conceptual solution in more detail.__
+            - This **must** be
+                - clearly linked to the cause of the problem identified in the Problem Essay, and
+                - deliverable as a scoped, closed-ended consulting product
+                - unconventional or counterintuitive.
+    - **Yak Innovation Round 2 work schedule:**
+        - From Round 1, we've found it difficult to predict the number, intensity, and duration of sprints needed to do editorial uplift on essays. For Round 2, we will be announcing confirmed sprint timings progressively—that is to say, we will confirm sprint timings on a rolling basis.  
+        - With DM/VT, each Problem Essay author will work with Solution Essay contributors to develop their contributions.
+        - Provisional schedule (all times UK GMT+1). Key dates/times and specific tasks will be added as the sprints progress.
+            - Sprint 1 (starts 6/30)
+                - 6/30, 2359h: Problem Essays are launched internally to YC. Solution Essay proposal window opens.
+                - During this sprint, Yaks interested in submitting SE proposals should contact sub-editors to discuss and refine their ideas.
+            - Sprint 2 (starts 7/7)
+                - 7/7, 2359h: Solution Essay proposal window closes. 
+                - Sub-editors: Consider proposals and discuss them with proposers.
+                - DM/VT/Sub-editors: Meet to confirm Solution Essay contributors
+            - Sprint 3 (starts TBD): 
+                - DM/VT: Announce SE contributors
+                - SE contributors: Begin preparing first draft 
+            - Sprint 4 (starts TBD): 
+                - SE contributors: First drafts of Solution Essays due
+                - Sub-editors: Arrange and conduct first round of editorial feedback.
+                - DM/VT/Sub-editors: Meet to discuss progress for individual Solution Essays 
+            - Sprint 5 (starts TBD): 
+                - SE contributors: Second drafts of Solution Essays due
+                - Sub-editors: Arrange and conduct second round of editorial feedback. 
+                - DM/VT/Editorial contributor: Offer editorial support on request
+                - Design and marketing contributors: Begin preliminary planning.
+            - Sprint 6 (starts TBD): 
+                - SE contributors: Final drafts of Solution Essays due
+                - Sub-editors: Quick final conceptual edit.
+                - DM/VT/Editorial contributor: Copyediting begins.
+            - Sprint 7 (starts TBD): 
+                - DM/VT/Editorial contributor: Copyediting ends. Production versions of Problem and Solution Essays sent to design. 
+                - Design contributor: Book production begins.
+                - Marketing contributor: Prelaunch planning begins.
+            - Sprint 8 (starts TBD): External launch
+- **ROUND 1: PROBLEM ESSAYS** 
+    - **IMPORTANT: **Each Problem Essay author will also edit the equivalent Solution Essay(s) (see end of next section).
+    - **Part A**__: 140 characters: Describe the conceptual problem in a nutshell.__
+    - **Part B**__: 400-500 words: Describe the conceptual problem in more detail. __
+        - This **must** be
+            - specific to large, established organisations,
+            - clearly linked to the inherent uncertainty of innovation work, and
+            - unconventional or counterintuitive.
+    - **Part C**__: 400-500 words: Illustrate this problem and its practical implications.__
+        - This **must**
+            - be an example that clearly and intuitively captures the conceptual problem,
+            - highlight the specific ways in which the problem impedes innovation, and
+            - come from an organisation plausibly describable as large and established
+- **PROJECT DETAILS** (Framing, motivation, audience)
+    - **Goals**
+        - **Eventual goal**:
+Develop an unconventional consulting offering for big corporations wanting to improve their ability to innovate. Why the focus on big corporations? Because they have big budgets and they need __really__ unconventional thinking. Aiming at big corporates also forces discipline in construing problems and solutions so they are well-scoped, closed-ended consulting deliverables.
+        - **Short-term goal **:
+Develop an idea framework that offers Yak-distinctive—i.e., unconventional but empirically grounded—explanations for why big corporations try but fail to innovate, and offer pragmatic solutions that can solve for the unique challenges of large, established companies face in innovating.
+
+This will be delivered as a pair of free multiple-authored ebooks on the problems of corporate innovation and their solutions, as outlined below.
+    - **Frame: What is “innovation” and how should corporations solve the innovation problem?**
+        - For this project, we take a broad view: corporations are innovative (vs simply creative) when they come up with new and useful things.
+
+These “things” can be products or services, and they can be radically or incrementally new. However, they cannot stop at being novel. To be innovative, they must also be buildable, and there must be a big enough group of customers that want to and have the ability to buy them.
+
+The reality is that innovation is hard to do.
+
+Innovation work is fundamentally different from all other types of work because it involves uncertainty both in how to do the work and in what the work is intended to achieve—ie both __how to proceed__ and __what success means__ are inherently uncertain. The inherent uncertainty of innovation work makes it uniquely challenging for large, established corporations because they are organised to execute and optimise an existing repeatable and scalable business model.
+
+Making big corporations more innovative requires first framing the problems, then identifying the solutions. Corporations hire traditional consulting companies to do this for them all the time. Their problem-framings are usually uninteresting, and their solutions ineffective. One boring obstacle to innovation is simply not having the “right” innovation resources in-house. A boring solution to this problem is mergers and acquisitions (M&A), in which a corporation fuses with or buys another, presumably more innovative, corporation. (This usually doesn’t work.)
+
+A Yak might frame the problem differently and come up with unconventional and more effective solutions. An example of a weirder view might be that large corporations are siloed, and that innovation-relevant goals and skills aren’t mutually legible across silos. A Yak-solution to this problem might be to create a team of part-time employees whose role is specifically to cross silos and make goals/skills legible across the organization—human mRNA.
+
+Between M&A and human mRNA lies an enormous range of possible problem-framings and solutions. Each problem-framing might have multiple possible solutions. This project is designed to open up space for Yaks to
+            - articulate both intuitive and counterintuitive framings of the problems large, established corporations face in innovating, and
+            - present pragmatic but counter-intuitive solutions to those problems that can plausibly be translated into consulting engagements.
+    - **Overall project deliverables:**
+        - An introductory chapter, to be written by Vaughn and/or David, to frame the problems for the readers
+        - 10 short Problem Essays (1000-1500 words max), each answering the question: “What makes inherently uncertain innovation work so difficult for large, established corporations to do?” [This is built from Parts A through F from each contributor—see below]
+        - 10+ Solution Essays, at least one for each Problem Essay in Ebook1. Each Solution Essay presents 1 solution to that problem as defined in Parts G through I—see below (each solution 600-1200 words max)
+        - A concluding chapter that wraps up / conceptualizes the types of approaches on offer and the diversity of Yak approaches to solving these problems
+- **OTHER STUFF** (Postmortem notes, deprecated content, Yak comments)
+    - **POSTMORTEM FOR ROUND 1: SUN 6/28, 1930-2030 London**
+        - On Discord voice—all Yaks welcome
+        - Agenda
+            - What we’ve learned
+                - This was a much bigger project than we expected—primarily because of the amount of work involved in editing and revising for quality
+                    - projects that evolve ideas (high uncertainty) vs projects that consolidate existing ideas (much lower uncertainty)
+                    - VT: idea evolution took up many cycles, at least 2 sprints
+                    - CKB: iterations confirming the heavy lift from idea refinement. not conceptually prepared for the amount of work either! But the learning process was great.
+                - We decided upfront to trade quality for speed—but we did not communicate this clearly to contributors or Yaks
+                    - tradeoff based on where YC is now (fledgling community)
+                    - fail: did not communicate at all to contribs/yaks
+                    - needed to be more explicit about making the decision and the reasoning behind it
+                    - alex wagner: how did we define target audience and desired impact? 
+                        - DM: if project works, we should get it on the desk of F500 etc VP/SVP. make a sr decisionmaker with budget and interest to go after corp innov because the ideas are weird and unconventional
+                        - VT: reason we scoped project was for target audience and desired impacts. problem should resonate in audience's org, explained in a way that's novel and very "Yak" 
+                            - we should have been more explicit in defining what this goal looks like, and how it gets us to the objective
+                            - lead-gen for Yak or for contributors
+                        - Alex: thinking about target audiences,  how to target Yak projects to senior execs
+                    - CKB: are the essays up to snuff now? what more needs to be done?
+                        - DM: really close. many essays at v0.9. (VT agrees)
+                    - Hershil P: issues identified came up on infrastructure chat. qns about how collective wants to move as a whole. q clear that people did not want to tread on others' toes. YC should be force multiplier rather than supplanter of consulting work
+                    - David Ing: 28y with ibm, 9 in biz transformation, 3y writing open innovation learning. am i appropriate for this? Global Innovation Outlook. looking at the drafts—highly critical of the v0.9. is PE-->1:many, many:1, many:many?  
+                        - DM: essays are meant to evoke, not to rigorously argue at the level of peer-reviewed article. essays should give a new lens to understand innovation life in a big organization. essays don't need to be universally applicable. needs a different conversation of empirical evidence for this kind of provocation essay. solution essays: meant to be in response to a given problem (or problems). needs more explicit statement of what "evidence" and "empirical" means in this context. need to think about what to assess the essays against. "if i had a trusted relationship with a VP, would i give the collection to him?"
+                - Project planning and timeline communication—should have been much more explicit about limited insight into long-term milestones. The work process was more like iterating towards the goal of a high-quality book and much less like the waterfall project plan we presented along the way
+                    - DK: goals made a lot of sense. may not have been as clear with other contributors. after chat with DM, the deliverables became clearer. was challenging to understand why the specific deadlines were placed where they were. maybe the deadlines could just have been further out? hard to work on this project until weekend. not so much the workload but the timing of the work.
+                    - DM: YC ethos of fast push. this kind of project probably cannot feasibly fit in the fast push model. limitations and diversity in terms of when people can work. projects need to be accessible to the diversity of peoples' situation
+                - Communicating the editorial decision process—not done well or transparently, as we were figuring this out along the way
+                    - DS: not clear up front how many rounds of editing were envisaged. found self after 2nd or 3rd deadline losing sense of professionalism. work/effort allocation would have been easier with clarity about rounds/type of editing.
+                    - DM: we thought we were asking for fully baked ideas. the review cycle made it clear that ideas were fully baked at submission but then editors unbaked the ideas, which resulted in that many sprints
+                - Editorial workflow (sparring ideas and making suggestions in doc) was effective
+                    - process learnings.
+                        - take essay, look at it
+                        - spar for conceptual clarity vs suggestions in doc vs line-type edits
+                        - saving of time, efficient use of person-time
+                - We should have set up editorial contributors/design contributors earlier
+                    - independent editorial contribs who don't have writing responsibilities
+                    - more diverse views/perspectives for editorial would have been useful
+            - What we wish we had
+                - Better Project Management inclination/skills
+                - Editorial contributors
+                - Design/style/formatting contributors
+                - More time, more bandwidth
+                - Alex W: client acquisition system for YC?
+            - Second round changes in process
+                - Seeking new project contributors—[high-level descriptions here](https://roamresearch.com/#/app/ArtOfGig/page/6ygo4SwGj)
+                - Anticipating more and longer sprints for editorial uplift
+                - More buffer to be built into sprints
+                - Proposing solutions as default interaction mode by contributors
+                - Gdocs is good but instead of one massive doc, one doc linking to individual contributor docs
+                - Need clear document templates/formats before writing begins
+        - David Ing's comments
+            - The tone is very arrogant to be the point of being offensive 
+            - DM: this is a real problem but we've not gotten to that level of prose edit
+            - IBM took best from mckinsey, bain etc, and created new framework
+            - "who are these guys and who do they think they are?" tone feels wrong
+            - CKB: YC profile is curious, out of the box/edge/marginal. YI is not academic exercise. driven by practitioners trying to find something new. as consultant >10y where has been doing all the conventional things. wants to be more provocative even if not "scientifically" based. would take to clients to have something else instead of what they see all the time.
+            - IBM is a very process-based consulting model. person is fungible, the process is paramount. then moved to person-based consulting role. one qn is legal liability.
+            - are YC projects fundamentally different from other consulting firms: generally smaller, person-brand oriented,  
+            - traceability—what is the methodology and evidentiary backing.
+            - DM: how can we be more persuasive (cogn/affective, depending on the prospective client)? what is the mode of trust?
+            - VT: should we be offensive? 
+            - DI: even fairly neutral essays seem quite offensive
+            - Question of presentation of content
+                - Length
+                - Text
+                - Signoff on a single deliverable slide
+            - Sequencing of essays—who's first gets read
+            - **VT/DI: need to start with the customer. is it someone who feels marginalized  in a bigcorp? we should identify who the customer is and who we are willing to abandon. 
+            - CKB: net promoter score is an interesting metric
+            - DK: specific essays will be shared with specific clients. mode of sharing is individual essays and quite tailored
+            - hershil: series of releases. yak innovation week, find some way to deaggregate
+    - **DEPRECATED CONTENT**
+        - **SCHEDULE UPDATE 6/27:**
+            - 29 June, 1930-2030h London: Postmortem for Round 1 (on Discord voice)—all Yaks welcome
+            - 29 June, midnight London: Internal launch of Problem Essays; Solution Essay proposal form goes up
+            - 6 July, midnight London: Solution Essay proposals due
+        - **SCHEDULE UPDATE 6/21:**
+            - Scheduling -- The road to Solution Essays (all times 2359h Pacific):
+            - 
+            - 
+            - 6/26 - Publish Version 0.9 of Solution Essays to Yak Collective
+            - 
+            - 6/26 - Open up Submissions for Problem Essays. All Problem Essay writers will have access to this doc, and will be responsible for reviewing those initial submissions.
+            - 
+            - 7/3 - Close submissions for Solution Essay proposals. The long submission window is intended to give Yaks more time to develop clear proposals for Solution Essays.
+            - 
+            - 7/3 - Aim to lock Problem Essays
+            - 7/3-7/5 - Problem Essay writers discuss proposals with Solution Essay writers
+            - 
+            - 7/5 - Problem Essay writers notify Solution Essay writers of selection
+            - 7/12 - Solution Essay 1st draft submissions
+        - **DRAFT SCHEDULE OF WORK**
+            - **Round 1—Problem Essays**
+                - Delivery sprint (10/6 to 21/6) deadlines
+                    - 1400h London Wed 10/6—all authors are emailed by editors with next steps
+                    - 2100h London Sun 14/6—complete all spars, eds send suggests/line edits
+                    - 0800h London Thu 18/6—authors submit final versions for copy edit
+                    - 2300h London Sun 21/6—problem essays locked
+                - Thursday 14 May midnight Pacific: Submit proposals for Problem Essays on [this form](https://forms.gle/ArGhkrDZrPw2HfvG9). These proposals are 1 paragraph summaries of what their essay would be about (ie, a summary of Parts A-F). If there are submissions for close/overlapping topics, editors will invite collaboration.
+                - Saturday 16 May before noon Pacific: Editors confirm final 10 Problem Essay topics and committed authors.
+                    - In case of a large number of submissions, Proposals can be voted on by Yak Collective in open voting process during days 4-5.: Day 5: Confirm final 10 Problem Essay topics and committed authors.
+                - By EOD Pacific Time 1 June: Schedule time for 1h sparring sessions with your assigned editing lead (Vaughn or David)
+                - Friday 22 May before midnight Pacific: Problem Essay authors submit first draft.
+                    - Problem essay writers are paired to act as editorial sparring partners to improve thinking and prose. Authors submit first draft to their sparring partner. Drafts are packaged for Yak Collective reading. 
+                    - [See all Problem Essay drafts here](https://docs.google.com/document/d/1HtM1xP17PyqpLNxKWWMN5V6ixVGZaNAC-hn-ekVJbNk/edit?usp=sharing)
+                    - Problem Essay editorial sparring partners are:
+                        - [[Thomas Hollands]]+[[Greg Docter]] <> [[Vaughn Tan]]
+                        - [[Tom Critchlow]] <> [[Sachin Benny]]
+                        - [[David McDougall]] <> [[Meredith Noelle]]+[[Grigori Milov]]
+                        - [[Darren Kong]] <> [[Sterling Proffer]]
+                        - [[Christian Bacher]] <> [[Damian Stewart]]
+                    - We encourage sparring on voice, and line-edits in documents (please do this in a separate doc) 
+                - By middle of Week 3: Brief editorial comments expected from editorial sparring partners to Problem Essay authors.
+                - **If you're wondering why the timeline is elastic**: __We are adjusting the timeline to ensure that each essay has enough sparring and revision time to meet a high quality bar.__
+                - **TIMELINE UPDATE FOR PROBLEM ESSAY AUTHORS as of 31 May 2020:**
+                    -  
+                    - June 1-6: 1h Sparring calls with editing leads
+                    - BY EOD Pacific June 8: Resubmission of new versions
+            - **Round 2—Solution Essays** (NOTE: this timecycle only begins when finalized Problem Essays launch internally to YC). VERY IMPORTANT: Each Problem Essay author serves as lead editor for the corresponding Solution Essays. This includes confirming contributors and serving as editorial sparring partner to improve thinking and prose.
+                - sprint 1 (proposals) —1 wk:
+                    - yaks read PEs
+                    - anyone can submit an SE draft proposal [need a google form]
+                    - PE authors review and greenlight SE proposals
+                - sprint 2 (1st drafts) —1 wk:
+                    - greenlit SE proposals → SE first draft
+                    - PE authors assign sparring partners for their SE drafts
+                    - SE authors revise and submit based on spar.
+                - sprint 3 (2nd drafts) —1 wk:
+                    - PE authors spar each SE draft
+                    - SE authors revise and resubmit based on spar
+                    - PE authors review and greenlight SE drafts. Kill decision should be made with DM/VT
+                    - At this point DM VT clarify timelines and expectations for sprint 4
+                - sprint 4 (by end, achieve final draft for copyedit)—N wks:
+                    - potentially DM VT sparring/commenting
+                    - DM VT review and confirm greenlit SE drafts
+                - sprint last (copyedit + design + launch)—2 wks
+        - **OTHER DEPRECATED SCHEDULE STUFF** 
+            - **Important**: 
+                - Week 1 (the week finalized Problem Essays are released internally to YC): Call for proposals for contributions to Solution Essays. Proposers submit 1 paragraph summarising what their essay would be about (ie, summary of Parts G-I).
+                - By end of Week 1: Problem Essay authors filter proposals. If proposals are for close/overlapping solutions, they may invite collaborations. They confirm commitment from Solution Essay contributors.
+                - By end of Week 2: Solution Essay contributors submit first draft of Parts G-I to Problem Essay authors.
+                - By middle of Week 3: Problem Essay authors return editorial comments to Solution Essay contributors.
+                - By beginning of Week 4: Authors submit final draft of Parts G-I. Editors complete framing texts. Final text for Problem Essays, copyedited and to design.
+                - By end of Week 4: Final text for Solution Essays copyedited and to design. __Ebook1__ production completes.
+                - By end of Week 5: __Ebook2__ production completes.
+    - **Comments by other Yaks**
+        - [[Greg Docter]] Just dropping my gut reaction thoughts here. I imagine this would have to be about reconstituting the culture and values of the organization - either writ large or specific groups within it - and so, the individual people within it.  It's seems like the organization has to destroy itself in self way to improve their ability to innovate.  __Giant Caveat__: i have 0 experience at big corps. 
+        - [[Christian Bacher]], 
+            - Hey David&Vaughn, this is IMHO not such a super-straight-forward topic as "innovation" is quite a large buzzword which means you clearly need to state what you mean. However, I like the approach. Here is my contribution, if you want to directly re-use/include it. Also, happy to change/add/mix&match with others, as well as to comment and give feedback. See here: https://www.linkedin.com/pulse/corporate-innovation-theater-you-welcome-why-we-need-drama-bacher/
+                - More thoughts & questions (after thinking for a while) 
+                    - What is the intention of the slide deck? I know, a silly question but here is my point: Libraries are full with "innovation"-books, plenty of academic courses, paid conferences, consulting slidedecks, departments and people carrying "innovation" titles. So, I think the question "What makes inherently uncertain innovation work so difficult for large, established corporations to do?" has already been answered in multiple ways, even (and what I like about the proposal) "unconventional but empirically grounded explanations". From my perspective there is no point in jamming another slide deck into bigcorps faces - it's also no proof of being innovative in itself, UNLESS ...
+                    - ... you do something really strange/really unconvential/provocative/unexpected with the content you created. This could be its packaging and delivery. Instead of a slidedeck think about a (fairy) tale to tell. Or this is the "Game-of-trones-intro to innovation /in times of Corona-crisis /by indie-consultants". Then you distribute typical roles in the innovation play across the multitude of GOT-characters. So, what roles would the "Lannisters", the "Starks" have, the "white wanderers", "the crows", Thereon, Danaeris, and yes, certainly - THE DRAGONS! This would be funny and very remarkable and give you heaps of cool memes.
+                        - But the GOT (alternatively Star Wars/Trek)-universe might already be used up for the innovation topic: https://www.valuer.ai/blog/what-corporate-innovation-has-in-common-with-game-of-thrones & https://disruptorleague.com/2019/04/29/game-of-thrones-star-trek-and-innovation/ 
+                    - Big corps, why? IMO, big corps don't buy from indie consultants. Big corps buy from big corp consultancies. Second, the bigger the more risk averse, as a) even board member are just expensive employees, clinging to their seats and b) worse if stock-listed companies which structurally do not take risks (apart from incremental improvements) as they threaten quarterly results. Third, __innovation__ in big corps means for the majority of its use "Innovation Marketing" (= telling your customers you are innovative but you aren't) and/or "Innovation Theater" (= telling your employees you are ..., but ... ). So even if you mean it serious, the big corps buying center just uses your content differently. I am totally with Christensen here. 
+                    - Individuals in big corps, who run their own cost centers including a little treasure box pocket money, may buy from indies. But their power/money is only borrowed. So why not address __owners__ who run their companies, which leaves you merely with SMEs and startups, associations, NGOs, campaigns - quite a wide field. 
+                    - What I find really interesting and what totally puzzles me: If, as I said, knowledge, tools, methods dealing with the mystery of "innovation" are available everywhere why nothing happens? What I experienced: Even if you have all the logic and arguments on your side, and the recipients of your "you/this-must-change"-message do clearly comprehend what you say and nod their heads, your impact will be close to zero. Why is this? My really rough answer: You don't change corporate cultures through an "innovation-project". People totally forget what you said, once they enter their cubicals again (even if they just exist in their minds). So, innovation is not a logical/technical problem to be solved (as it has been already), it is about understanding humans acting within an organization. Think about Climate Change. This brings me to the realm of systems dynamic, complexity theory, sociology, anthropology, game theory, behavioral economics, .... - all the nice things you don't learn in business school ....
+                    - One more: Borrowing on what I learned in my NLP-courses and actually, David, you used it in https://innovationatscale.substack.com/p/innovation-at-scale-7-will-corona: Innovation is not about picking up something new (which is conceptually easy, see above), but about dropping something __old__ (i.e. outdated products, processes, attitudes, titles, structures, behaviors, memes, styles, statuses, etc. ). Once the house is tidied/emptied up new things will occupy its space on their own naturally. The challenge: How to make an organization __forget__ what was once very useful. ...  and you don't want to wait until the old people die and make way for the youngsters. 
+                    - I apologize for spitting this out here so promptly, didn't mean to bother ....
+        - [[Damian Stewart]] i like the approach. The part-splits suggests a split-authorship model - i.e. there doesn't have to be a 1:1 correspondence essay:author - is that right? I personally do not know enough about how __largeco__s operate to be able to submit something that fits the bill for that requirement of parts B or C, __but__ if i'm fed a particular problem case that doesn't have a known, accepted 'solution' i think i could do a good job of pinpointing why it might be "trouble" and suggesting super left-field ways out of it. in other words - do you see a (partial) decoupling of idea generation from idea writing and research? or are you expecting 1 idea = 1 writer = 1 essay? 
+            - i kinda feel like, this is me volunteering for both __sargeant__ and __infantry__ duty? point me in the direction of __X__ and i'll do my damnedest to write an essay that gets there (and perhaps beyond), but ask me to pick a direction in order to find an appropriate __X__ and i'll be like 'uhh i don't know'
+        - [[Grigori Milov]] I worked for large companies and had a chance to observe quite a few of them. My initial take is that they typically don't have a lot of problems with early-stage innovations. People there have a lot of ideas. Some of them are quite good.
+The problem large companies are really having with innovations is that even the very best of their ideas (or innovations) fail to make a difference. It is an organizational problem related mostly to incentive structure and performance management.  A small team with very good ideas may underperform according to metrics that companies use for established business units. And there are no incentives in place to support underperforming units.
+        - [[Richard Hughes-Jones]] I don't know exactly where this fits in or if it is even helpful, but I'm interested in the 'leadership' angle to this (which no one seems to talk about). To [[Grigori Milov]] point above, you can have the best ideas and intentions around innovation but if often falls down at the 'people' and 'psychology' stage. In the same way that corporates go to established strategy consultancies for innovation the also go to established leadership development firms for their leadership development (and often the consultancies have a people/leadership team within them). 
+        - The leadership development industry is failing to help large business deal with disruption because the market leading leadership development firms are themselves struggling to understand and adapt to the very same types of disruption as the clients that they are serving. To build on that, there appears to be a lot of homophily in leadership development... The stereotype of executive/leadership coaches as being older (50+) and former senior leaders in the same industry they now serve as a coach (empirical observation) doesn't appear to be unfounded - leaders 'surround themselves with people just like them', which we know creates an echo-chamber and prevents diverse and creative thinking. 
+        - Fundamentally, corporates say that they want to 'think like startups' but I don't see this mindset being embedded in leadership development - I'm trying to look at this through the specific lens of leadership development (as opposed to innovation, disruption etc). I think that unless you get under the skin of the 'human factors' in relation to innovation (particularly career risk) progress will be limited. 
+        - Ultimately, I'd like to see engaged a generation of leadership development coaches with senior leaders. An 'innovation coach' sounds a bit naff, but someone who can help guide a leader/s responsible for innovation agendas through the process whilst at the same time developing them as 'disruptive leaders'. Don't know if that could be an option here? Bit more on disruptive leadership here: https://in40.co.uk/jb-disruptive-leadership/
+        - [[Thomas Hollands]] I'm keen to write a problem essay. Some thoughts on the brief: 
+            - So the idea is to write enough "problem" essays that prospective readers can skim through, finding problems that are relevant to their own organisations. This might then lead into potential gigs? Incentives ofc are a huge problem. Will some of the essays or the intro "get the obvious reasons out the way" which then leaves space for people to develop counterintuitive ones? What is the bar for a counterintuitive problem/solution?
+            - I'm a big fan of the tweet -> describe -> explain framework.
+        - [[Alex Dobrenko]] I'd be happy to edit these. 
+        - [[Alex Wagner]] Can help with ebook production.
+        - [[Paul Millerd]] would love to write an essay
+        - [[Tom Critchlow]] I'm game to contribute an essay. Worked at Google Creative Lab (in house innovation agency) and consulted for clients large and small on innovation (e.g. NYT)
+        - [[Antoine Buteau]] would love to help reviewing. Focusing on [[“Your Next Strategic Offsite will be Online—here’s what to do” [[Jason Fox]]]] for content review
+        - [[Vinay Débrou]] - I would like to contribute a Solution essay as the larger innovation problem you are tacking is basically an extension of what I mentioned in my slides in the first deck. Big overlap with the problem I have been focusing on recently. The application of a small-world network structure to cross-breed and innovate/evolve faster like the Horizontal Gene Transfer in antibiotic-resistant bacteria. I want to take this solution and convert it into an ready-to-pitch consulting product. 
+        - [[Sterling Proffer]] – I would be excited to write an essay – could be either problem or solution – on building temples to false gods & [[Goodhart's Law]]. I worked at a small media company that became large (40 - 4k) and watched the entire media industry (incumbent & challenger, brand/publisher/agency) flail in service of Comscore/Facebook.
+        - [[Jakub Polec]] would love to help. Last 3 years working as Head of Innovation, working with decent customers on their business models, sustained opportunities, spotting gaps in customers' needs (useful, usable, meaningful), both Human-Centric as Process-Centric, etc. Probably more on solution essays (Round 2).
+        - [[David Ing]] says:  I think that I can contribute to the solution essays.  I was writing a dissertation for [[Aalto University]] in Finland, that became a published book in 2017-2018, [Open Innovation Learning](http://openinnovationlearning.com/) : Theory building on open sourcing while private sourcing.
+            - When I was just joining the Yak Collective, I had written in the Introduction in Discord, the following note.
+                - For my doctoral research at Aalto U., I am theory-building on (Open) Innovation Learning.  The mainstream discussion on innovation seems to be mostly on declaring that it be so, rather than legitimately appreciating the innovating is a skill to be learned, both at an individual and collective level.
+                - Here's a quick summary of findings.
+                - Three descriptive theory streams (i.e. how do you know when innovation learning is taking place) include:
+                    - Quality-generating sequencing; 
+                    - Affordances wayfaring;  and
+                    - Anticipatory appreciating.
+                - Three normative theory streams (i.e. how to progress innovation learning) include:
+                    - Innovation learning FOR;
+                    - Innovation learning BY; and
+                    - Innovation learning ALONGSIDE.
+                - The research method was multiparadigm inquiry, so, this could be taken as three (descriptive) dissertations, leading to one (normative) dissertation.  It's fair to say that the normative theory has not been tested in the field, and the practical way of doing that would be through action research or action learning.
+                - The book is about 220 pages, with 400 pages of case study summaries, and 1051 footnotes.  This took practically three years full-timing writing to complete.
+                - I'm interested in making this contribution to the Yak Collective.  That being said, on June 15, I started a new assignment that has me essentially locked up 8 hours per day.
+            - Coming in late, I'm not sure how to engage, you'll have to direct me better.  (Presumably, someone pings me in Discord?)
+    - **WORK SCHEDULE**
+        - David and Vaughn have a more detailed schedule that can be shared if anyone's interested 

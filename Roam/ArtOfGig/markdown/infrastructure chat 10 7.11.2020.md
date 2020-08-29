@@ -1,0 +1,14 @@
+- Security
+    - Tracking system - who has which key chain
+    - Yesterday's call
+        - test for governance
+    - make copies of decks
+        - yakcollective.org gmail account 
+            - transfer ownership ? 
+            - 
+- Subscribe bot
+    - no write privileges but can @ role 
+    - second stage - role locking channel
+    - Pull list of members for a project (Role) on website? 
+        - Role.members
+- 

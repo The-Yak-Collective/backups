@@ -1,0 +1,3 @@
+- P
+- 20 years of veganism
+- Based in Slovenia, Europe. Interested in complexity science, natural systems, permaculture, anarchism, animal rights

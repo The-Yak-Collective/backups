@@ -1,0 +1,74 @@
+- # Bitwarden
+    - I've not personally used this option.
+    - ## Pros
+        - The least expensive of the paid options
+        - Tons of apps. Integrates with everything.
+        - Looks easy to import/export data (CSV or JSON)
+    - ## Cons
+        - Costs money ($5/month for the first 5 users, $2/user/month thereafter)
+        - Admins can easily gain access to all passwords
+        - Only admins can import/export organizational data (which is all of the data we care about in our case)
+    - ## Probably Best For...
+        - ...Organizations that want to share passwords while having a nice user experience, and who aren't worried about their admins going rogue.
+- # KeePass (and friends)
+    - ## Pros
+        - Free
+        - Lots of clients
+        - KeeWeb + Google Drive allows vault-level password sharing (read-write or read-only)
+        - Limited versioning
+            - Vault level with Google Drive
+            - Password level -- but without blame -- in the vault. This is client-dependent.
+    - ## Cons
+        - Vault-level password sharing only
+        - Only nice macOS/iOS apps are paid
+    - ## Probably Best For...
+        - ...Organizations who don't want to pay anything and have relatively simple team-based sharing needs.
+- # Lastpass
+    - ## Pros
+        - Folder or individual password sharing
+            - Individual password sharing is free, but has a "hub-and-spokes" model where the password isn't really "owned" by both people.
+        - Master password recovery
+        - Easy import/export.
+    - ## Cons
+        - Costs money ($4/user/month for shared folders)
+        - Interface is very... Enterprise
+        - Admins can easily gain access to all passwords
+    - ## Probably Best For...
+        - ...Organizations that want to share passwords and aren't worried about their admins going rogue.
+- # 1Password
+    - ## Pros
+        - Beautiful
+        - Works really __really__ well. **Really.**
+        - Easy to add passwords
+    - ## Cons
+        - Cost money ($4/user/month)
+        - Vault-level password sharing only
+        - Hard to export passwords (if we decide to leave)
+    - ## Probably Best For...
+        - ...Organizations with well-defined teams who are willing to pay a premium for a world-class experience.
+- # Pass (and friends)
+    - ## Pros
+        - Free
+        - Full versioning via Git
+        - Password sharing via multiple "stores" (at least when using [gopass](https://www.gopass.pw/))
+        - Password "ownership" is really about decryption, so very little worry about loosing access
+        - Easy to import and export passwords... __If__ you're comfortable with the command line.
+    - ## Cons
+        - A bit technical to set up
+            - __Abandon all hope, ye who fear the terminal__
+        - Desktop and mobile clients are decidedly meh
+        - GitHub becomes Class 1 infrastructure
+        - One-store-per-password becomes awkward
+        - No way to revoke password access -- passwords __must__ be rotated
+        - "Easy to import and export passwords... __If__ you're comfortable with the command line."
+        - Minor coordination problem: Passwords can be stored in a couple of different ways, so we'd all need to agree on one.
+            - Fortunately, there's a template system for this
+    - ## Probably Best For...
+        - ...People who want/need fine grained password versioning and spend most of their time at the command line.
+
+# Backlinks
+## [IT Assets and Security](<IT Assets and Security.md>)
+- [Password Manager Comparison](<Password Manager Comparison.md>)
+
+- [Password Manager Comparison](<Password Manager Comparison.md>)
+

@@ -1,0 +1,66 @@
+- **[Reading](<../../Reading.md>):**
+    - https://jorgdesign.springeropen.com/articles/10.1186/s41469-017-0026-x
+- **[Discussion](<../../Discussion.md>):**
+    - Opening statement: [Grigori Milov](<../../Grigori Milov.md>)
+        - Summary: Scientific paper on Chinese firm that flips management practices upside down going from top-down hierarchy to platform based firm with startup teams 
+        - Prompts
+            - How can we implement the same with YC? 
+            - How can we overcome challenges [1](<../../1.md>) - role confusion and [2](<../../2.md>) control imbalance? 
+    - [Hershil Patel](<../../Hershil Patel.md>)
+        - 
+    - [Jenna Dixon](<../../Jenna Dixon.md>) wonder if there’s a recent update on how they are doing now
+        - entrepreneurial units interesting
+        - > Based on these interviews, we designed and administered a survey that was made available on the Firm’s intranet to over 10,000 employees from September to December 2015. Only 286 survey responses were obtained from 9 platform owners, 33 micro-enterprise owners, and 244 micro-enterprise members.
+        - Are there recent updates to the study from this firm? 
+        - Survey was unsuccessful  
+        - Not interested in helping large orgs get bigger. instead more interested in small organizations’ success. eg related author: [David Korten](<../../David Korten.md>)
+[__When Corporations Rule the World__](<../../__When Corporations Rule the World__.md>) || [author link](https://davidkorten.org/wcrw/) || [publisher link](https://www.bkconnection.com/books/title/when-corporations-rule-the-world). 
+[__The Post-Corporate World: Life After Capitalism__](<../../__The Post-Corporate World: Life After Capitalism__.md>), [publisher link](https://www.bkconnection.com/books/title/the-post-corporate-world)
+    - [Jessica Burton](<../../Jessica Burton.md>)
+        - seen orgs do something less radical with mixed success
+        - going to platform is exchanging problems 
+        - hard to flip the hierarchy when you have automata employees need strong leaders and clear goals
+        - strength of model: all the boring tasks like HR, finance, etc are handled by firm instead of entrepreneurs 
+        - model needs strong connection to customers for entrepreneurial leads 
+    - [Praful Mathur](<../../Praful Mathur.md>)
+        - YC is much closer to campaign teams running for federal elections i.e. once election is over the organization disbands 
+        - Papers like this are less releveant to YC because it's more of a network vs a long lived purpose driven organization 
+    - [Sachin Benny](<../../Sachin Benny.md>)
+        - Would like to hear from new Yaks re: role confusion
+            - What's the effort to learn the role people play? 
+    - [Venkatesh Rao](<../../Venkatesh Rao.md>)
+        - Implicit 2x2: Claim to invert the pyramid (fully vs partial) vs decentralization (decentralized vs completely centralized) probably there's risk element with pyramid inversion 
+            - Successful pyramid inversion: rideshare companies where the drivers take the risk and now CA is discussing whether drivers are employees or entrepreneurs
+                - Rideshare doesn't work with driver employees 
+                - if CA is successful, then rideshare will leave 
+                - Shows what it takes to invert pyramid, have to give up control from the central  org e.g. if rideshare has employees need to mandate hours which removes control from drivers 
+                - CA wants to recentralize risk with the firms rather than keep them with the driver
+        - YC has role confusion with all these transient siloed projects that are short lived 
+            - role confusion is exacerbated because projects are siloed you need to go out of your way to find out what's going on so even very visible projects are invisible to most members
+            - related the common knowledge problem where information flows are not widespread i.e. it's hard to know what everyone knows everyone knows 
+            - project might not be active in channel and instead will be in private chats so makes it hard to know state of project which makes it harder to determine available roles 
+        - Mostly interested in helping individuals figure out how to participate in projects vs scaling to large scale 
+            - Process
+                - Search for project you're interested in by criteria and talking to PMs
+                - Add to your queue 
+                - Figure out how to participate 
+                - Work to get to finish line
+            - People should be able to participate without knowing the full YC infrastructure
+            - There's value in reading papers about org that "rhyme" that are slightly distant to generate ideas that are related as opposed to only reading relevant papers
+        - Projects span from top-down to network plays
+            - Innovation Consulting/Neurofuturama -- more hierarchical due to Quality Assurance 
+            - Old New Home -- more networky 
+            - [Sachin Benny](<../../Sachin Benny.md>) - 2 parts:
+                - part 1 with the future ideation was networky with synchronous comm
+                - part 2 getting stories to published is more hierarchical with clear structure with editing scrum task with office hours with contributors 
+            - Andy Grove talks about: "Allow chaos to reign then rein in the chaos" 
+    - [Grigori Milov](<../../Grigori Milov.md>) 
+        - Neurofuturama was the only customer facing project so more we get closer to client, the closer it gets to hierarchical 
+        - [Venkatesh Rao](<../../Venkatesh Rao.md>) -- as more money comes in, then the person close to the money gets hierarchical as they are the chokepoint "if you don't do what I say then you don't get the money?" 
+        - [Hershil Patel](<../../Hershil Patel.md>) -- wouldn't want to take something back to client that doesn't meet quality standards 
+        - [Venkatesh Rao](<../../Venkatesh Rao.md>) -- as they were existing clients so there was more at stake personal which is a legitimate reason for those bringing in projects to be more authoritarian/hierarchical so it's helpful and less freeform  
+
+# Backlinks
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<../../08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
+

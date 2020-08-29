@@ -1,0 +1,87 @@
+- Reading for today: https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/
+- 
+- Prompt question: Is this herding/homogenization versus IGC dynamic necessary? Or can you promote enough pluralism somehow that you can just avoid this whole dynamic?
+- 
+- ## Discussion
+- [Alex Wagner](<../../Alex Wagner.md>)
+    - How to sublimate the cyclical piling-on of the IGC?
+        - "Sport as sublimated warfare"
+- [Claire Peters](<../../Claire Peters.md>)
+    - In groups that form around trading ideas instead of achieving a common goal, disagreements can more often be perceived as a boon.
+- [Daithi Gleeson](<../../Daithi Gleeson.md>)
+    - Common phenomenon in political space. Needs to be observed so that it doesn't become and energetic black hole for the community.
+- [Greg Kramer](<../../Greg Kramer.md>)
+- [Grigori Milov](<../../Grigori Milov.md>)
+    - Does not believe that the dynamic is actually observable. The dynamic is recognizable but not always existent.
+    - Often those who come from hierarchical backgrounds bring that thinking to communities, and unknowingly replicate hierarchies.
+    - "Yes, and" should be encouraged and enforced to curb the IGC dynamic.
+        - https://en.wikipedia.org/wiki/Yes,_and
+- [Hershil P ](<../../Hershil P .md>)
+    - Contrarian is a personality trait. As a group of indie consult
+- [Jordan Peacock](<../../Jordan Peacock.md>)
+    - Pluralism will tend toward factionalism unless arrested by a federalism where no one faction can dictate terms to the others.
+    - Easy exit actually exacerbates this risk.
+- [Khalil G. Haddad](<../../Khalil G. Haddad.md>)
+    - doer vs critic IGC distinction, hits the real problem and I've seen both these types of roles play out, with one leading to a more creative culture and atmosphere and one more towards shaming and trolling others
+    - If it is institutionalized role, then the devil is in the details and incentivizing the IGC to constructively problem-solve to get an outcome within given constraints vs alluding to idealistic appeals with no practical applications besides dissent
+    - In group contrarians are also the hackers within a world, tinkering with belief systems of the group, which can lead to more resilient belief reinforcement if channeled properly
+    - VCs against journalists. Within communities those tweeting as the IGC dynamic.
+    - If the IGC is not the leader, they can be the scapegoat. They can be leveraged by the leader to point out deficiencies, and energy of the group can be directed towards IGC as an antibody response, and the leader can expel them while achieving the goal of overcoming roadblocks in organizational dynamism.
+    - It comes down to signals, which is why hard for people to decipher intent and trustworthiness of the individual being IGC
+    - There's different types of in-group contrarian
+        - The meta-troll
+        - The one who is actually asking the right questions 
+    - In-group can be formal or informal
+- [Sachin Benny](<../../Sachin Benny.md>)
+    - https://www.ribbonfarm.com/2017/05/04/fluid-rigor/
+    - http://thesciencenetwork.org/docs/BB3/Turchin_AgrarianEmpires.pdf
+    - Maybe if the BDFL role was avoided, this would solve IGC dynamic, perhaps in-group is mirrors BDFL response
+- [Scott Garlinger](<../../Scott Garlinger.md>)
+    - Unorthodoxy vs. Heterodoxy
+        - Unorthodoxy – They kick you out and ban you
+        - Heterodoxy – Allow you to leave and retain bonds. Encouraged diverse perspectives
+    - https://theanarchistlibrary.org/library/giorgio-agamben-the-coming-community[toc1](<../../toc1.md>)
+- [Tim Kuehlhorn](<../../Tim Kuehlhorn.md>)
+    - The dimensions of contrarianism in organizations
+        - Values or Ethics disagreement
+        - Effectiveness of Means
+    - High-information vs low-information contrarians
+        - Changing the Washington Redskins name. Contrarians became mainstream
+        - Florida folks protesting mask use at city board meetings
+- [Venkatesh Rao](<../../Venkatesh Rao.md>)
+    - The primary reason this manifests as the problem:
+        - Often the value the IGC is contributing is not aligned with the in-group's values
+        - Sometimes IGC brings in a perspective that needs to be heard, but is often still an energetic or resource drain on in-group
+    - Bullshit isometric principle
+    - 12 Angry Men
+    - If the focus of the group has a concrete focus point that is not rooted in culture warring, the IGC dynamic can be "grounded out" or otherwise circumvented
+    - The BDFL effect
+    - The "true test of whether the contrarian instinct is adding value"
+        - Can a project be built around it?
+        - Create a "soft exit test" for the contrarianism
+    - Value to accommodating contrarian perspective but it needs to be somehow vetted
+    - Veep
+- [Alex Wagner](<../../Alex Wagner.md>)
+    - discussion and sports as sublimated warfare
+    - "Play" as a way to ground out IGC dynamic
+- [Khalil G. Haddad](<../../Khalil G. Haddad.md>)
+- [Tim Kuehlhorn](<../../Tim Kuehlhorn.md>)
+    - Consultant as time-limited IGC
+    - IGC as "fireable messenger"
+- [Daithi Gleeson](<../../Daithi Gleeson.md>)
+    - The purchasing of empathy as a service
+    - Sometimes the contrarian lacks the empathy to understand the effect that their contribution is having on the group
+- [Sachin Benny](<../../Sachin Benny.md>)
+    - There's a certain amount of effort and goodwill that you have to invest to create valuable, complex contrarianism
+- [Venkatesh Rao](<../../Venkatesh Rao.md>)
+    - Re: referees
+        - Referees need to know something about the project, but will not actually participate in the project. Referee as IGC
+    - In-group vs Out-group
+        - When the primary activity of the group is production, the dynamic becomes doers vs critics
+            - Peer-review is a way of handling contrarian perspectives
+            - Creating mechanisms to getting criticism from outside the group
+
+# Backlinks
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- [07/03/2020 – YC Gov Chat Minutes](<../../07/03/2020 – YC Gov Chat Minutes.md>)
+

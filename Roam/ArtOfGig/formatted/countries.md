@@ -1,0 +1,19 @@
+- A
+    - [Australia](<Australia.md>)
+    - [Austria](<Austria.md>)
+- B
+- C
+    - [Canada](<Canada.md>)
+- E
+    - [EU](<EU.md>) - European Union 
+- G
+    - [Germany](<Germany.md>)
+- S
+    - [Spain](<Spain.md>)
+- U
+    - [United States](<United States.md>)
+        - [California](<California.md>)
+        - [Colorado](<Colorado.md>)
+        - 
+    - [Ukraine](<Ukraine.md>)
+- Z

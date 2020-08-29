@@ -1,0 +1,103 @@
+- **Prompt question:** how do you get the benefits of platformization without a Jeff Bezos type BDFL laying down the law?
+- **Reading:**
+    - https://gist.github.com/chitchcock/1281611
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F849gerl-AS.png?alt=media&token=c183ff5c-ad43-4d05-adb8-fe8ff75ea2ef)
+- **Discussion:**
+    - [Venkatesh Rao](<../../../Venkatesh Rao.md>)
+        - Kick off
+            - 
+    - [Alex Wagner](<../../../Alex Wagner.md>)
+        - Bezos is a DFL there's no benevolence in his leadership style 
+        - Amazing how successful Amazon has become as he has little consideration for people or products so must be great at platforms 
+        - Having a guide that can keep track is important 
+    - [Chris Daniel](<../../../Chris Daniel.md>) 
+    - [Chris Reid](<../../../Chris Reid.md>)
+        - Unclear if platforms can be set up without a Bezos-type leader 
+        - Bezos needed to change the culture violently as it's unclear
+    - [Greg Kramer](<../../../Greg Kramer.md>)
+        - Has put customer first and has killed it here
+    - [Grigori Milov](<../../../Grigori Milov.md>)
+        - Platformization is really hard
+        -  We're all product people as that's how our brains are set up 
+        - Idea 1: Create a track in Discord for Platform Thinking 
+        - Idea 2: How did Bezos come to the platform philosophy? 
+    - [Hershil Patel](<../../../Hershil Patel.md>)
+    - [Jenna Dixon](<../../../Jenna Dixon.md>)
+        - [Participatory management](https://en.wikipedia.org/wiki/Participatory_management) to become a platform has a limiter of do humans have the toolset to manage power structures?
+        - Read Walkaway discussion 
+            - >[...] __Walkaway__ is a remarkable "story of a utopia in progress, as messy as every new thing ever is, told in the form of people talking to each other, arguing with each other and working together to solve problems. It's all about the deep, disturbing, recognizable weirdness of the future that must come from the present we have already made for ourselves, trying to figure out what went wrong and what comes next."[1](<../../../1.md>)(https://en.wikipedia.org/wiki/Walkaway_(Doctorow_novel)[cite_note-npr-1](<../../../cite_note-npr-1.md>))
+        - https://en.wikipedia.org/wiki/Founder%27s_syndrome related to [Venkatesh Rao](<../../../Venkatesh Rao.md>)'s point on YC continuing with YakShavers leaving 
+        - https://en.wikipedia.org/wiki/Code_of_conduct related to [Siva Swaroop](<../../../Siva Swaroop.md>)'s point on how to ensure the use of the platform doesn't lead to harmful outcomes 
+    - [Johnicholas Hines](<../../../Johnicholas Hines.md>)
+    - [Khalil G. Haddad](<../../../Khalil G. Haddad.md>)
+        - Switch BDFL to BGFL (benevolent guru for life) where students are learning from a guru 
+        - Creating a decentralized culture through memetic models 
+        - How do we create a gov structure where coordination generate tremendous value 
+        - YC Success Metric: Create different federations for different client contexts
+        - Additional Notes
+            - Yak Collective as Platform:
+            - The focus is on developing the governance platform of the Yak Collective in which all projects must grow. Since a gig worker operates in the shadows, the Yak Collective platform is a shadow platform that is deployed to solve client needs.
+            - Much like the gig worker is a shadow, the Yak Collective "begins like superhero origin [story], with some sort of horrifying accident. The shadow’s journey though, unlike the hero’s journey, doesn’t end in either triumph or tragedy. In fact, the shadow’s journey does not end at all. At some point, it simply becomes __billable__." and so the Yak Collective becomes a platform that allows collective gig workers to become billable.
+            - Yaks must eat their own dog food, meaning "start with a [Yak] platform, and then use it for everything," otherwise challenges will come later down the line as the Yak Collective attempts to scale. This entails ensuring governance standards are met for projects.
+            - If we take the remixed guru-shishya parampara educational model, the Benevolent Guru-Dictator would need Benevolent Yak Apprentice Students.
+            - It's a hybrid graduate-apprentice student Yak helping guide project leaders and new Yaks within a research laboratory if you will. These Yak graduate students will monitor projects to make sure they abide by the Yak Collective platform governance standards. So the focus is not on critiquing projects but ensuring they abide by the governance standards.
+            - Taking from Ven's Guru Factor article, these Yak graduates will serve in creating a tradition of Yaking, with young Yaks "practicing scales and set compositions in ragas, and [move] on to learning to render compositions in particular styles, peculiar to specific traditions" and "head towards the free-form structured improvisation that is raga performance. These performances often involve a strong element of sparring with accompanying [Yaks]."
+            - By monitoring and guiding projects, the governance model will be instilled among other Yak who will gain the tacit knowledge to operate independently, so that Yaks can identity the "right nut to tighten" in the Yak governance motor to operate successfully. 
+            - It creates a "structured structurelessness" that perpetuates and produces a Yak elite that will become stewards of the collective and entails having responsibilities of serving Yak members.
+            - Since the intent of the Yak Collective is to be porous, security is not as much of a concern, accessibility should take precedence in allowing new yaks to quickly grasp the essentials to operate effectively within the Yak universe. "The team must plan and design to be able to expose the interface to developers in the outside world. No exceptions."
+            - But perhaps a more appropriate dilemma is not accessibility vs security, but accessibility vs reputation. By its very nature, if the Yak Collective is decentralized and operates as a shadow platform, being part of the Yak Collective is more of a status symbol among Yaks rather than towards clients at this stage of its development. 
+            - By Yaks contributing to projects, a concern to their reputation might be part of their decision matrix in how much vested interest they are willing to deploy in a project. 
+            - Having Flag successful projects that can serve as mythologies for Yaks will reinforce the benefit of contributing to Yak projects.
+            - The key indicator of success is Yaks exporting the model to create federations or small colonies of Yaks across the globe. Forking the Yak Collective into new Yak worlds to be explored for experimentation, which would lead to a more resilient collective. 
+            - This also provides an outlet for in-group contrarians to demonstrate if they have a better way of doing things, with the market serving as the ultimate judge so that any faulty assumptions are smoothed out by the rigid surface of the market pavement.
+            - If successful, any gig worker stands to benefit from contributing to the collective to develop a network of other gig workers who can patch their weaknesses and help better deploy solutions to serve clients and take on bigger gigs.
+            - Any gig worker will realize they stand to benefit by being part of the collective if it functions properly because the surplus value generated for coordinated action will be far superior to the one generated alone (ex: Innovation Consulting project, ability to pool resources to take on big clients).
+            - Since gig work is ultimately about client service, everything should operate "in a services-first fashion. It is now fundamental to how they approach all designs, including internal designs for stuff that might never see the light of day externally." The Yak Collective becomes a "repurposable computing platform."
+    - [Praful Mathur](<../../../Praful Mathur.md>)
+        - BillG: Platform Value Creation > Market Cap of Platform Company
+        - Platforms built around products 
+        - Microsoft started with BASIC Intrepreter and created a dev community which it leveraged with IBM when building its Operating System 
+        - What's the product for Yak Collective? 
+        - Products built on platforms have high failure rate which is why you want to set up platforms to start up 
+    - [Sachin Benny](<../../../Sachin Benny.md>)
+        - Companies have another reason to platformize than the product 
+            - Amazon was getting commoditized 
+            - Microsoft wanted to commoditize their complements and the hardware to kill IBM
+            - Slack tried to become a platform but wasn't successful as the medium might have restricted its value to customers 
+    - [Scott Garlinger](<../../../Scott Garlinger.md>)
+        - Narrative around platform 
+        - Platform is a theater term where the plot develops around it 
+        - Narrative for YC is galvanizing around a few projects that are hotspots 
+    - [Siva Swaroop](<../../../Siva Swaroop.md>)
+        - In auto industry, platformization is used for collaboration and reduce costs
+        - Platforms are joint ventures which reduces dev time for auto companies 
+        - Cars now take 2 - 3 years vs ??? back in 80s before platforms were introduced 
+        - Unsure how platforms can be leveraged by YC 
+    - [Todd Davies](<../../../Todd Davies.md>)
+    - [Venkatesh Rao](<../../../Venkatesh Rao.md>)
+        - Think of template project as a platform similar to chassis platforms in auto industry 
+        - Discord -> Deliverable process is the factory which can also be set up as a platform for new dev 
+        - [Chaos Monkey](https://en.wikipedia.org/wiki/Chaos_Monkey) is a platform that Netflix uses to determine systemic reliability as it's a system that randomly removes machines. What happens if you take Yak Shavers offline can YC still continue? 
+        - Platform question is more around resilience of reducing single points of failure. 
+        - Scott's thought on theater are interesting; YC projects are like mini plays 
+    - [Vinay Débrou](<../../../Vinay Débrou.md>)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FpuNjPQasvc.png?alt=media&token=ea496dc1-cdc6-49ca-a9a0-8067806b8805)
+    - [Hershil Patel](<../../../Hershil Patel.md>)
+        - YC is a breeding ground for leaders where everyone can become a leader in some way depending on projects they're leading 
+    - [Venkatesh Rao](<../../../Venkatesh Rao.md>)
+        - Leadership redundancy is necessary to get to platformization 
+        - How to get to platformization in a decentralized network?
+        - Things are de-risked and can happen at scale in a platform 
+        - Failure rate for new restaurants is 90% whereas franchises (which are restaurant platforms) failure rate is 30% which is how platforms de-risk the operations 
+        - How does YC become a indie freelance platform so people can quit their jobs and have stable revenue from ongoing gigs? 
+    - [Siva Swaroop](<../../../Siva Swaroop.md>)
+        - Youtube is a great platform but has derogatory content which harms others 
+        - How does YC Platform take responsibility for the use? 
+    - [Khalil G. Haddad](<../../../Khalil G. Haddad.md>)
+        - A16Z podcast on hacker groups especially decentralized anonymous groups: how people across the globe are able to coordinate within a decentralized context https://podcasts.apple.com/us/podcast/cybercrime-incorporated/id842818711?i=1000485365823 
+        - [Khalil Governance Notes](<../../../Khalil Governance Notes.md>)
+
+# Backlinks
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- [07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process](<../../../07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process.md>)
+

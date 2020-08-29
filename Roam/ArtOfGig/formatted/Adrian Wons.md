@@ -1,0 +1,5 @@
+- I am Adrian an Innovator from Berlin
+    - Co-Founder of Wagestolz, a platform to create and show your previous work (case studies, portfolios, prototypes) to find new work www.wagestolz.de 
+    - Heading the Institute for Entrepreneurship & Innovation at the University of Digital Science in Berlin (UDS) www.uds.berlin
+    - Leading the Wagestolz Innovators Community - one of the biggest in the field in Germany
+    - Consulting in the field of innovation strategy, innovation management & blockchain

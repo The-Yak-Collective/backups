@@ -1,0 +1,91 @@
+- tags: [voice-chat](<../../voice-chat.md>), [minutes](<../../minutes.md>), [meeting-notes](<../../meeting-notes.md>), [amazonian-group-read](<../../amazonian-group-read.md>)
+- [Amazonian Group Read](<../../Amazonian Group Read.md>) chat format. 
+- The topic was **"How to do brand building for Yak Collective?"**
+- [Amazonian Group Read](<../../Amazonian Group Read.md>) chat format. We read
+- [Sachin Benny](<../../Sachin Benny.md>) also suggested Venkat's [The 7 Dimensions of Positioning](https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2010/08/innInfl.jpg)
+- In attendance: [Chris Reid](<../../Chris Reid.md>), [Drew Schorno](<../../Drew Schorno.md>), Grigori Milov, [Jordan Peacock](<../../Jordan Peacock.md>), [John Grant](<../../John Grant.md>), [Sachin Benny](<../../Sachin Benny.md>) (apologies if I forgot anyone)
+- ---
+- ## **Notes from Round-Robin Discussion:**
+- 
+- 
+- ## **Round Robin Chat**
+- ### **Round One**
+- [Chris Reid](<../../Chris Reid.md>)
+    - 1. "with regards to marketing and communications “emphasis on consistency and repetition”
+        - “in this case, what does it mean to be inside of yak collective?”"
+            -  “in order for their to be consistency, there has to be some thing to " "__be consistent about”__
+        - for yak collective, if i was on the outside looking in… who exactly am i talking to and what are their experiences that are driving value to me?”
+    - 2. "any time you produce an artifact, it should be immediate grist for the mill for subsequent artifacts”
+        - “is there anything we’re building on top of this deck, in terms of, breaking out parts of this deck and elaborating on it
+            - for example, putting it into a podcast, breaking it into tweets, breaking it into bite-size pieces, different formats.
+            - “recycling content intelligently”
+- 
+- **Drew Scherzo**
+    - with regards to this article(it's kind of old)how has SEO changed?
+        - since 2016, when the article was published, you can’t game SEO anymore. the answer is, “just make content that people like”
+    - generating content and packaging content so people can engage with it across channels.
+    - the slide deck is not so "web-native". why about a group blog?
+- 
+- **Grigori Milov**
+    - with regards to audience, you have to be very deliberate in the content that you create
+        - “you can have a million readers read your stuff, for all the wrong reasons”
+        - the goal for content should be to generate meaningful engagement.
+        - **“the key question is: what kind of audience are we looking for?**
+        - what kinds of clients does Yak Collective want to attract?
+- 
+- **Jordan Peacock**
+    - getting past perfectionism with regards to writing and publishing content
+        - “been trying to find ways to ‘trick myself’ into putting forth ideas in situations where there’s an appropriate audience”
+- 
+- **Sachin Benny**
+    - “marketing positioning has the advantage that, once you have a certain positioning then basically the direction becomes clear, and the work hinges on that.”
+        - the wrong position can be limiting as well. if no work coming in, a clear signal to reinvent yourself
+        - a series of pilot projects based on the deck may help us find our positioning
+- ****
+- **Alex Wagner**
+    - It’s apparent that we are unanimous that all Yak content needs to be high-quality
+    - Small group working on a “Minimum Viable Workshop” with @vinaydebrou and @shreedasegan
+    - “I hope YC retains this kind of chaotic – a bunch of crazy cats working on computer and content projects”
+- 
+- ### **Round Two**
+- ****
+- [Chris Reid](<../../Chris Reid.md>)
+    - Is down to work on a small project
+    - There’s a lot that we can do to use the community to build on those ideas.
+    - ^^****One major question, with regards to brand: “Do we[as YC] have a solid enough core thesis or theme?”^^
+        - “Is the theme itself that we all have different theses?”
+            - The strength of a diverse number of fringier ideas
+    - Feeling like coming in, not sure if he had anything worth contributing. Now, after being in YC for a short period, feels like he could’ve contributed.
+        - ^^__Ed note: I have heard this from at least 4 or 5 people so far. It seems to be a common refrain, and maybe an opportunity to develop an onboarding experience for those that want to participate, and an opportunity to build a culture at YC that encourages contribution, if one is unsure. - Alex__^^
+        - Chris suggests an internal-facing document that outlines how an idea should be proposed, how to shape the idea so that it can be received by YC.
+            - “That makes it clear to people what is the bar you need to meet that says, ‘this is enough, you’re ready to put on the Yak mask and present it to the public’
+- ****
+- **Drew Schorno**
+    - ^^Venkat proposed a content grading system for YC, and only releasing content that meets a certain grade.^^
+    - YC: all Yaks should have their own branding, YC exists to collaborate and signal boost
+    - “What is the Yak Collective going to grow into?”
+        - “Do you release something under the Yak brand or your own brand?”
+    - “YC as a kind of middleware that connects indie consultants with larger institutions that wouldn’t otherwise hire them”
+        - ^^YC could grow into a profitable business functioning as sort of consultant/company match-maker and taking a small percentage^^
+    - The deck was client-oriented, but there’s a big opportunity for internal-facing content
+        - “content for training each other, and different skill sets”
+        - Could mirror The Art of Gig, it could be a rich repository of “support content”
+- **Grigori Milov**
+    - With regards to “7 dimensions of positioning”
+        - You have to have all levels to be good at positioning. As an individual, it’s very difficult to be good at every dimension.
+            - This is where YC can help. If you believe you are good at 2 of those 7, you can find someone to fill the gaps
+        - ^^Different exercise we’ll have to do someday, is to figure out how to position the collective.^^
+- **John**
+    - From academic contact, “can’t figure out if the deck is useful yet, or if it’s just charismatic”
+        - This is a good thing, it shows that the deck elicits a reaction. If it draws attention to a different way of looking at things,
+    - With regards to the future of work: “9-to-5 is history. Yak is the future, the decentralized way of working”
+        - Covid pandemic is a kind of gift to accelerate this transition. Is a tragedy in terms of health and peoples’ lives, but allows us to consider climate and inequality issues.
+    - ^^“Topic hacking”^^
+        - A specific kind of work-related affinity group, applying an open source style of problem-solving.
+    - ^^“We are moving into the ‘complexity-domain’ as the norm.”^^
+    - ^^With regards to online learning, working with people is more useful than watching video courses.^^
+    - Let’s not write-off blockchain. The space is maturing, and will continue to do so.
+        - Blockchain companies working on preventing “the tragedy of the commons”
+        - Suggests creating a similar incentive in YC, a way to reward/incentivize contributions to YC
+    - ^^there are similar groups to YC, although they are not open. one such group is [weareliminal.co](weareliminal.co)^^
+    - 

@@ -1,0 +1,39 @@
+- Reading: [Matthew Sweet](<Matthew Sweet.md>)'s [Yak Talk Exploratory Notes – 07112020](<Yak Talk Exploratory Notes – 07112020.md>)
+- 
+- ## Questions
+- [Alex Wagner](<Alex Wagner.md>)
+    - Meeting agenda
+        - Debrief from last week
+            - What are you thinking about wrt?
+        - What are you planning to write this week
+- 
+- ## Discussion 
+- [Grigori Milov](<Grigori Milov.md>)
+    - Strategic tracks take some of the guesswork of maintaining a column/or a flow of content for the newsletter.
+    - We will never be able to describe or brand YC exactly, but we __can__ do this with the newsletter.
+    - Proposing an additional newsletter for YC-generated fiction.
+- [Shreeda Segan](<Shreeda Segan.md>)
+    - Description of Yak Collective:
+        - "The Yak Collective is an experimental network-governed organization made up of over 300 independent consultants, coaches, and freelancers with varied technical and creative skills. The goal is to allow indie consultants to band together and compete at the scale of large bureaucratic consultancies (McKinsey, BCG, Bain, etc) while maintaining their complete autonomy."
+    - Thinking of Yak Collective as a product
+        - Matt's product road map
+            - [Yak Talk Exploratory Notes – 07112020](<Yak Talk Exploratory Notes – 07112020.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+    - Good starting point for this week for [online-governance-studies](<online-governance-studies.md>) track https://twitter.com/vgr/status/1281632821056954369?s=20
+    - "Writing is about 20% of the work."
+        - The rest of the work is __product work__.
+            - To put out a really good product on a regular basis. 
+                - **"We need two engines" **
+                    - 1. A content engine – We need to produce content every week.
+                    - 2. An external engine – We need to look at analytics of newsletter to see what people are reading, and what they are responding to
+    - Re: writing for complexity
+        - A lot of consulting businesses do "complexity management"
+            - Yak Collective can outcompete the big guys
+- [Grigori Milov](<Grigori Milov.md>)
+    - We should create our own dashboard
+- 
+
+# Backlinks
+## [Yak Talk](<Yak Talk.md>)
+- [Yak Talk Minutes – 07112020](<Yak Talk Minutes – 07112020.md>)
+

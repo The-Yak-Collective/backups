@@ -1,0 +1,7 @@
+- for social ways: https://discordapp.com/channels/692111190851059762/712459471787393054/714538828500828210
+- https://www.newyorker.com/magazine/2018/04/30/japans-rent-a-family-industry
+- for marriage ways: https://www.theschooloflife.com/thebookoflife/how-we-end-up-marrying-the-wrong-people/
+- some thoughts. i think we may want to take a broader view of what Marriage type relationships will be like. Like what if polyamory becomes more viable? It's already somewhat popular in SV among certain communities. how does neural data interact with that. 
+    - + how this plays into [[Scott Garlinger: Sex Ways]] and [[Pamela Hobart: Gender Ways, Child-Rearing Ways]]  of course 
+    - what kind of new rituals would one expect given that neural data becomes more important? there can be different forms of dating now ? where before someone might have social match making? now perhaps, someone consults their horoscopes and whether they had a good time on a date? and want to co-habitate. can we think of neural data   [[Darren Kong]]
+- 

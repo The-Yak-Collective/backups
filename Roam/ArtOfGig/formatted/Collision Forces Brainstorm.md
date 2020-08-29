@@ -1,0 +1,31 @@
+- AI/machine learning -- where will be in 20 years given current state of the art with gpt2, alpha go zero, etc?
+- Personal computing stack evolution -- at least 2 more Moore's Law doublings left to say 3-5nm processes
+- Blockchain
+- Aging population
+- Trend towards neotraditionalism/domesticity
+- Climate change effects
+- Pandemic recovery long-term effects (which could last 20 years, since even GFC lasted ~10y)
+- Breakdown of nation state?
+- Highlights from the discussion on 29th May, 2020
+    - "My reflexive collision points are longer-term trends:
+- More/much older people (impacts on healthcare, biotech, finance. More elderly than children across the non-African world in 2040.)
+- Bigger cities (cultural attitudes, power devolution from countries, concentrations of wealth, energy. 2/3 of humans will be urban in 2040.)
+- Climate Change (energy, supply chains, general mitigation)
+- Internet/AI (still eating the world, esp undisrupted sectors e.g. construction)"  
+[Chris Reid](<Chris Reid.md>)
+    - " A subtler collision force is neurotech itself... the original "traffic jam" model is not cars+another trend, but isolated car ownership --> pervasive car ownership and infrastructure shift. So a homogeneous pattern of traffic jam = everybody has some access to neurotech, either through data, or NaaS, or the devices themselves, and infrastructure has evolved to support it. Like asphalt roads for cars." [Venkatesh Rao](<Venkatesh Rao.md>)
+    - "New methods for authentication per the whole faceID - neuroID line of thought" [Darren Kong](<Darren Kong.md>)
+    - "I really like the idea of anyone being able to mock up an image or direct a movie through visualization and some AI assist on details. It's like not just no-code but also no-body production" [Chris Reid](<Chris Reid.md>)
+    - "My anecdotal evidence from my time in academia is consistent with this small-world network view of neurotech. Program officers at funding agencies have ties to the academic labs they were trained in, which biases how the money flows and ultimately which collaborations persist or become important.  In terms of neurotech colliding with itself, you could get an Apple vs. Microsoft dynamic between competing visions of the neurotech ecosystem." [Nikhil Deshmukh](<Nikhil Deshmukh.md>)
+    - "In terms of collisions with trends in AI, I think Kernel offers a way to cross the uncanny valley. You no longer need to label large quantities of data to get human-level performance in language modeling or computer vision. One can simply read the error signal from the brain directly and feed that back into the optimizer." [Nikhil Deshmukh](<Nikhil Deshmukh.md>)
+    - "Another AI collision is in the area of Neural Architecture Search. Currently, decisions about how artificial neurons are wired together in deep neural nets are driven by intuition and trial/error, not as much by theory or principles. Neurotech enables looking at nature to inspire the structure of deep learning models, which could unlock traditionally hard tasks for computers such as complex pattern recognition, memory, and more. Riffing on the "find stuff in nature" idea, could neurotech lead to serendipitous discoveries like the "penicillin" for depression or anxiety?" [Nikhil Deshmukh](<Nikhil Deshmukh.md>)
+
+# Backlinks
+## [Neurofuturama](<Neurofuturama.md>)
+- May 29: [Collision Forces Brainstorm](<Collision Forces Brainstorm.md>)
+
+- Review Week 1 summaries, especially [Notes on call with Kernel, May 26 2020](<Notes on call with Kernel, May 26 2020.md>) and [Collision Forces Brainstorm](<Collision Forces Brainstorm.md>)
+
+## [Summary: 27th May Brainstorm](<Summary: 27th May Brainstorm.md>)
+- **I started a [Collision Forces Brainstorm](<Collision Forces Brainstorm.md>)
+

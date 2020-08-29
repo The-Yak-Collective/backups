@@ -1,0 +1,13 @@
+- Former: management consultant, product manager, digital nomad
+- Current: indie consultant (2 years) living in CDMX 
+    - process mgmt
+    - product mgmt
+    - implementation mgmt
+    - strategy & planning 
+- Twitter: brinkerhoft
+- Website: heycolo.com
+
+# Backlinks
+## [Directory](<Directory.md>)
+- [Tracy Brinkerhoff](<Tracy Brinkerhoff.md>)
+

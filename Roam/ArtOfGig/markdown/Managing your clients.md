@@ -1,0 +1,2 @@
+- setting expectations, managing boundaries etc
+- 

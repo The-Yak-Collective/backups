@@ -1,0 +1,273 @@
+- 
+    - Attendees
+        - Venkatesh Rao - Yak
+        - Scott Allen - Yak
+        - Amanda Reeves - Yak
+        - Drew Schorno - Yak
+        - Antonio Lara
+        - Brian Ahuja - Yak
+        - Bryan Johnson - Kernel
+        - Chris Reid - Yak
+        - Darren Kong - Yak
+        - Ethan Pratt - Kernel, Flux
+        - Gabe Lerner - Kernel
+        - Jamu Alford - Kernel
+        - Jason Johnson
+        - Jayant Kalawar - Yak
+        - Joseph Fridman - Yak
+        - Julian Kates-Harbeck - Kernel, physics, ML, AI, compsci - Algorithms & Insights
+        - Luke Butler - Yak
+        - Michael Colin
+        - Nikhil D. - Yak
+        - Pamela Hobart - Yak
+        - Patrick House - Kernel, Neuroscience
+        - Promise Tewogbola - Yak
+        - Ryan Field - Kernel Flow
+        - Ryan Hume - Yak
+        - Sachin Benny - Yak
+        - Scott Garlinger - Yak
+        - Shreeda Segan - Yak
+        - Venkata Siva Swaroop - Yak
+        - Vlad Mehakovic - Yak
+        - 
+    - __Questions about the technology/science__
+        - Luke Butler
+            - What is the current spatial resolution of the brain (NIRS, etc)?
+                - Source localisation problem: pre-surgical identification (don't want to cut out). Typical state-of-art MEG get mm resolution. Kernel expects to accomplish equiv localisation due to similar density of information channels capturing MEG data. Sensors are closer to the head, so may even be slightly better. Not convinced that source localisation is the only thing to do; correlations of synchronization structures may be more salient.
+        - Nikhil
+            - To Julian: re: modeling source signals using AI. How do you determine ground truth?
+                - You don't. There is no way to determine. You have a set of different ways to approach.
+                    - Phantoms: items with known properties to measure (a coil with a known magnetic field), to calibrate.
+                    - Neuroscience priors: tasks that have well-understood responses, as well as temporal/frequency characteristics.
+                    - Predictive ability: if you train a ML model, if you're not fooling yourself, then increasing your ability to make predictions correlates with higher-quality source reconstruction.
+        - Brian Ahuja
+            - How does data acquired correlate to behaviors, emotional states, etc?
+            - How do you move from objectivity to subjectivity?
+            - Patrick: If the signal:noise is constant; making it portable alone vastly changes what you can do with it. People who couldn't get into an fMRI.
+            - The variable does not have to be what do we do with new kinds of brain data?
+            - Gabe: We're just now targeting genes with medications.
+            - Bryan: They would not have been able to stand this up without Bryan funding this personally. They built the hardware ahead of knowing what to do with it. So now the question is, what do we do?
+            - People bought genetic data with expected future value.
+        - Joseph Fridman
+            - How does the limitations of MEG and NIRS ??? subcortical nuclei.
+                - Ethan: Pure signal:noise. Farther you get from the sensors, better signal:noise you need, so origin of sources closest to surface are easier. But nothing synthetic *blocking*.
+                - Patrick: Face ID on the phones; that was trained on a model of some amount of people. N of many can mean 1 million, not just a dozen or so.
+            - Are you interested in psychophysiology?
+                - 
+            - Claims of generalizability are often wildly overstated; cause for skepticism.
+                - Julian: Hesitate to make claims about generalizability (haven't shown yet), but are setting up for success should generalizability be realizable. You want to validate pipelines, clean signals.
+                - Make data valuable for people who do not have deep knowledge of the experimental paradigm, just the output data.
+                - Hidden thesis: the more data you collect in a clean way, the more likely big data approaches will work.
+                - Adding data streams (heart rate, video recording, etc) will enhance value of data, provide context.
+                - Bryan: Longitudinal studies with participants. Genome sequences, sleep studies, etc. Ideally, 50-100k professional research volunteers. Life regimen tracked.
+                - Jordan: phantom experiments like white balancing. Tool calibration.
+        - Jordan Peacock
+            - Q. how do you noise-reduce in MEG? w/o shielding? (Jordan, for Ethan)
+                - Technical and elaborate - will follow up 1:1
+            - Q for Julian; what are the blocks on simultaneous recording of MEG/fMRI of the same subject at the same time? (Jordan)
+                - Basically a hardware issue; would require a significant redesign. MEG would be sensitive to the other device.
+                - They are planning on using EEG with FNIRS
+            - Question for Gabe - community tools for working with source space (code folding at home equiv)
+                - Housing data sets for research papers
+                - Metadata
+                - How can we ethically share data?
+        - Luke Butler
+            - Bryan: history of the genome; walked into a benign/positive setting (superbabies were not part of initial discussion). Brain interfaces have negative precursors (Black Mirror, etc)
+            - Ideally, not responsible for neuroscience outcomes.
+            - Work with research partners; let them offer services on top of Kernel.
+        - Darren Kong
+            - Kernel as it relates to a personal computing stack. How does it relate to airpods, Siri, etc.
+            - Bryan: Brainome, neurome. Imagine you're playing Fortnite for 10 hours, and you record the stimuli of it. We have a model of you doing this, could it be useful enough to engage with other peripherals? Music tuning, notifications, etc. If someone spends 30 minutes a day investing in updating their brainome, what becomes possible for them?
+            - Gabe: People think of brain devices as one-way; but this is biofeedback.
+        - Scott Garlinger
+            - What metaphors are more or less useful (horseless carriages)? And what do you cringe at?
+            - Gabe: doesn't feel like a word/metaphor has been made yet
+            - Jamu: brainome is a good starting point. Negative side to avoid is with reading minds, being super smart (association with evil villain).
+            - Bryan: It is not obvious to people why they would care to collect neural data, in the same way that they didn't use to care about cholesterol. People perceive that they have full awareness of their brain. People believe they are rational, overconfidence in themselves. Potentially a memetic void around neuroscience. \
+            - Patrick: fMRI as a telescope. At what time point are we relative to the telescope? We're pre-Galileo. Maybe fMRI is the lens grinder. You're not just getting more, better data, you're changing the type of data. Not merely peering into a void. You used to talk about people having the personality trait "ulceric", or "cancerous". Medicine caught up. Depression, etc might get proper explanations as well, and those terms might change.
+            - Jordan: improved metaphor might be animals in captivity in the zoo under observation, versus in the wild.
+            - Gabe: Pacemakers should detect that your heart is not beating, and then shock you, not just randomly shock you.
+        - Luke Butler
+            - https://icd.umn.edu/people/zelazo/
+            - Neuroplasticity - we are the rat, the scientist, and the maze.
+            - In house, have you made ideas of brainome projection, composites
+        - Joseph Fridman
+            - Surveillance Capitalism
+                - Extraction of predictive surplus from people
+                - What does Kernel think about its business practices, and the geopolitical/economic implications.
+                - Data brokers, etc.
+            - Bryan: would hope to reverse/neutralize the abuse of humans by bots; paternalistic territory.
+        - Scott Allen
+            - Boundaries, edges, constraints
+            - Bryan: n=1 is the immediate term, but n=many is what needs to be positively envisioned to compete with the negative associations already present in spades.
+            - What about reframing negatives?
+            - Patrick: Can't this be used for nefarious purposes? Implicit argument is that action, and development of the tools, is the immoral act. Two responses: 1) yeah, technology can be used for good/evil; 2) inaction is the immoral act; we still don't know what sadness is, suicide is on the rise - why are we paralyzed by inaction?
+        - Bryan participated in the documentary "I am Human", the story of brain tech through a woman with ALS, a man whose vision was restored, and #3. Personal stories.
+    - __Other questions__
+        - What do you want to be able to do at the end of this process that you are unable to do now?
+        - What is the current spatial resolution of the TD-NIRS in terms of mm, and how to they see this technology advancing / refining in regards to spatial resolution?
+        - Any thoughts around non-invasive monitoring of sub-cortical activity / considerations for how this tech can develop?
+        - With Kernel's ambitions to "enable and accelerate population-level neuroscience," how have they thought about scaling up a culture of brain education & knowledge as part of their work, or is this outside the scope of their mission?
+        - 
+- Spaceflight moment of the brain.
+- Braintree sold to PayPal, this has been evolving since ~2014-2015.
+- Bryan's remarks:
+    - We can quantify almost everything except our minds.
+    - We can do quantification in low resolution, or in acute settings. But nothing scalable, systematic, in a natural environment, that results in actionable information.
+    - How can we enable the equivalent of a blood panel for the brain?
+    - Criteria for the tech:
+        - Economic potential to warrant substantial capital.
+            - Gov money primary; how to bring in VC? Need some large multiplier potential
+        - EEG is low cost and accessible, but not high quality enough.
+        - fMRI is interesting, but the machine is huge and you're constrained.
+        - Do what Illumina did for the genome; acquire at scale 
+            - Just making data accessible creates markets
+        - Looked at the papers, set up the tech, tested in-house and mapped it to uses.
+        - If it required a custom chip, what factories can build it, can they scale?
+        - No one else has really thought through the entire supply stack as comprehensively.
+        - Being in natural environments is significant.
+        - Signal-processing pipeline
+        - Speed of acquisition.
+        - N^x value scenario
+        - Most people in world of brain interfaces think of n=1; the utility will be for the one person. (Meditation, controlling drones, etc)
+        - n^x: closing the loop between lo-fi hip-hop beats and brain state.
+        - Have a study with 100, 1000 participants; what happens when people listen to music in these different contexts?
+        - Improve ML with neural data sets
+        - What does NLP look like?
+        - Where does Kernel point their technology? What experiments do they run?
+        - There is no one customer that is funding; trying to solidify methodology and build a bridge for people's imagination.
+        - How do you play the game of credibility establishment in the scientific community?
+        - Flux / Flow are the two initial apps.
+    - Ryan Field: Kernel Flow
+        - Electrical Engineer bg
+        - Kernel Flow: time-domain
+            - NIRS; looking at differential response in oxy/de-oxy hemoglobin
+            - Bigger cloud of photons spends more time in the tissue
+            - Measure time of flight; estimate on average how deep they would have penetrated.
+            - Similar to fMRI signals.
+            - Main diff is that the device is the size of a hard hat, instead of requiring an fMRI.
+            - Custom ASIC and laser driver that mini the hardware
+            - Currently between Beta (79k) and Gamma (3.3k target by 2023 at scale)
+    - Ethan Pratt, Kernel Flux
+        - MEG; catches magnetic current
+        - Same principle as EEG, but EEG is disturbed by conductive fluid; this doesn't have distortion.
+        - Very fast, as the magnetic field tracks with the neural firings (several hundred Hz)
+        - System tradeoffs to use it in a natural environment, instead of optimizing for signal by creating a tomb.
+        - Shielding can disturb the signal in EEG contexts
+    - Julian Kates-Harbeck, Kernel, Sensor Fusion
+        - Using Flow + Flux together, to complement.
+        - Currently, simultaneous recording with both on the same subject is not available/in scope.
+        - Data needs to be cleaned
+        - Representation space for comparing data streams from different people
+        - Instead of working with raw sensor signals, working with inferred neural activity (source space)
+        - Analyses, predictive models can be run atop this data.
+    - Jamu Alford, Kernel
+        - Next 7 years of large-scale neuronal interfaces
+        - What does the emergent ecosystem look like?
+        - (?missed)
+        - Wearables (optical, magnetic, etc)
+        - Folded into med devices
+            - Inside and outside the body
+        - Specialization; not full head coverage but aimed at specific areas of the brain for specific signals
+    - Patrick House, Kernel
+        - How does this relate to the neuroscience community
+        - Why hasn't fMRI made its way out of academia and hospitals?
+        - We don't know what sadness is.
+        - Compare 1940s-50s computers
+        - Brain scanning devices today are computers from the 1950s
+        - What happens when you overcome those bottlenecks and scale things massively?
+        - As they shrink, the use cases widen, explode
+        - Research to consumer path
+        - Surveyed researchers, lack of imagination in responses
+        - Mainframes to PCs wasn't the same thing multiplied by 1000.
+        - Google scanned every book in the world... but then you had ngrams, and other kinds of interesting data. Feedback into translation. etc
+        - What is the google books data set for the brain?
+        - Break researchers of their 1940 POV
+    - Gabe, Kernel data & cloud
+        - Full stack, full control
+        - What's on the device, storage, data infrastructure, internal tools
+        - How do you build communities around the data?
+        - What would an API to the brain look like
+- __Questions about the technology/science__
+    - Luke Butler
+        - What is the current spatial resolution of the brain (NIRS, etc)?
+            - Source localisation problem: pre-surgical identification (don't want to cut out). Typical state-of-art MEG get mm resolution. Kernel expects to accomplish equiv localisation due to similar density of information channels capturing MEG data. Sensors are closer to the head, so may even be slightly better. Not convinced that source localisation is the only thing to do; correlations of synchronization structures may be more salient.
+    - Nikhil
+        - To Julian: re: modeling source signals using AI. How do you determine ground truth?
+            - You don't. There is no way to determine. You have a set of different ways to approach.
+                - Phantoms: items with known properties to measure (a coil with a known magnetic field), to calibrate.
+                - Neuroscience priors: tasks that have well-understood responses, as well as temporal/frequency characteristics.
+                - Predictive ability: if you train a ML model, if you're not fooling yourself, then increasing your ability to make predictions correlates with higher-quality source reconstruction.
+    - Brian Ahuja
+        - How does data acquired correlate to behaviors, emotional states, etc?
+        - How do you move from objectivity to subjectivity?
+        - Patrick: If the signal:noise is constant; making it portable alone vastly changes what you can do with it. People who couldn't get into an fMRI.
+        - The variable does not have to be what do we do with new kinds of brain data?
+        - Gabe: We're just now targeting genes with medications.
+        - Bryan: They would not have been able to stand this up without Bryan funding this personally. They built the hardware ahead of knowing what to do with it. So now the question is, what do we do?
+        - People bought genetic data with expected future value.
+    - Joseph Fridman
+        - How does the limitations of MEG and NIRS ??? subcortical nuclei.
+            - Ethan: Pure signal:noise. Farther you get from the sensors, better signal:noise you need, so origin of sources closest to surface are easier. But nothing synthetic *blocking*.
+            - Patrick: Face ID on the phones; that was trained on a model of some amount of people. N of many can mean 1 million, not just a dozen or so.
+        - Are you interested in psychophysiology?
+            - 
+        - Claims of generalizability are often wildly overstated; cause for skepticism.
+            - Julian: Hesitate to make claims about generalizability (haven't shown yet), but are setting up for success should generalizability be realizable. You want to validate pipelines, clean signals.
+            - Make data valuable for people who do not have deep knowledge of the experimental paradigm, just the output data.
+            - Hidden thesis: the more data you collect in a clean way, the more likely big data approaches will work.
+            - Adding data streams (heart rate, video recording, etc) will enhance value of data, provide context.
+            - Bryan: Longitudinal studies with participants. Genome sequences, sleep studies, etc. Ideally, 50-100k professional research volunteers. Life regimen tracked.
+            - Jordan: phantom experiments like white balancing. Tool calibration.
+    - Jordan Peacock
+        - Q. how do you noise-reduce in MEG? w/o shielding? (Jordan, for Ethan)
+            - Technical and elaborate - will follow up 1:1
+        - Q for Julian; what are the blocks on simultaneous recording of MEG/fMRI of the same subject at the same time? (Jordan)
+            - Basically a hardware issue; would require a significant redesign. MEG would be sensitive to the other device.
+            - They are planning on using EEG with FNIRS
+        - Question for Gabe - community tools for working with source space (code folding at home equiv)
+            - Housing data sets for research papers
+            - Metadata
+            - How can we ethically share data?
+    - Luke Butler
+        - Bryan: history of the genome; walked into a benign/positive setting (superbabies were not part of initial discussion). Brain interfaces have negative precursors (Black Mirror, etc)
+        - Ideally, not responsible for neuroscience outcomes.
+        - Work with research partners; let them offer services on top of Kernel.
+    - Darren Kong
+        - Kernel as it relates to a personal computing stack. How does it relate to airpods, Siri, etc.
+        - Bryan: Brainome, neurome. Imagine you're playing Fortnite for 10 hours, and you record the stimuli of it. We have a model of you doing this, could it be useful enough to engage with other peripherals? Music tuning, notifications, etc. If someone spends 30 minutes a day investing in updating their brainome, what becomes possible for them?
+        - Gabe: People think of brain devices as one-way; but this is biofeedback.
+    - Scott Garlinger
+        - What metaphors are more or less useful (horseless carriages)? And what do you cringe at?
+        - Gabe: doesn't feel like a word/metaphor has been made yet
+        - Jamu: brainome is a good starting point. Negative side to avoid is with reading minds, being super smart (association with evil villain).
+        - Bryan: It is not obvious to people why they would care to collect neural data, in the same way that they didn't use to care about cholesterol. People perceive that they have full awareness of their brain. People believe they are rational, overconfidence in themselves. Potentially a memetic void around neuroscience. \
+        - Patrick: fMRI as a telescope. At what time point are we relative to the telescope? We're pre-Galileo. Maybe fMRI is the lens grinder. You're not just getting more, better data, you're changing the type of data. Not merely peering into a void. You used to talk about people having the personality trait "ulceric", or "cancerous". Medicine caught up. Depression, etc might get proper explanations as well, and those terms might change.
+        - Jordan: improved metaphor might be animals in captivity in the zoo under observation, versus in the wild.
+        - Gabe: Pacemakers should detect that your heart is not beating, and then shock you, not just randomly shock you.
+    - Luke Butler
+        - https://icd.umn.edu/people/zelazo/
+        - Neuroplasticity - we are the rat, the scientist, and the maze.
+        - In house, have you made ideas of brainome projection, composites
+    - Joseph Fridman
+        - Surveillance Capitalism
+            - Extraction of predictive surplus from people
+            - What does Kernel think about its business practices, and the geopolitical/economic implications.
+            - Data brokers, etc.
+        - Bryan: would hope to reverse/neutralize the abuse of humans by bots; paternalistic territory.
+    - Scott Allen
+        - Boundaries, edges, constraints
+        - Bryan: n=1 is the immediate term, but n=many is what needs to be positively envisioned to compete with the negative associations already present in spades.
+        - What about reframing negatives?
+        - Patrick: Can't this be used for nefarious purposes? Implicit argument is that action, and development of the tools, is the immoral act. Two responses: 1) yeah, technology can be used for good/evil; 2) inaction is the immoral act; we still don't know what sadness is, suicide is on the rise - why are we paralyzed by inaction?
+    - Bryan participated in the documentary "I am Human", the story of brain tech through a woman with ALS, a man whose vision was restored, and #3. Personal stories.
+- __Other questions__
+    - What do you want to be able to do at the end of this process that you are unable to do now?
+    - What is the current spatial resolution of the TD-NIRS in terms of mm, and how to they see this technology advancing / refining in regards to spatial resolution?
+    - Any thoughts around non-invasive monitoring of sub-cortical activity / considerations for how this tech can develop?
+    - With Kernel's ambitions to "enable and accelerate population-level neuroscience," how have they thought about scaling up a culture of brain education & knowledge as part of their work, or is this outside the scope of their mission?
+    - 
+- Random musings from Jordan
+    - The mirror neuron, Youtube-reaction channel, feedback loop (people wanting to watch other people enjoy, react to stimuli)
+    - How do you manage rights to your brain data?
+        - Gabe talks about handling it ethically, but we genuinely don't know what insights can be obtained yet.

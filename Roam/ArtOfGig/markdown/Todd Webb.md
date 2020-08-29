@@ -1,0 +1,1 @@
+- Founder of Resilien.Tech. Creator of The Tech Leader’s Workshop. Product and Software Engineering Leader.

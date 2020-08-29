@@ -1,0 +1,3 @@
+- The spirit of the Discord server is the same as this Roam database. Laissez-faire, with minimal rules, but that doesn't mean anything goes/anarchy. We'll figure out rules as we go along, but for now there is only two rules. 
+- The improv rule of [Yes, And](https://en.wikipedia.org/wiki/Yes,_and...).
+- The [[Don't Make Us Make A Rule]] rule

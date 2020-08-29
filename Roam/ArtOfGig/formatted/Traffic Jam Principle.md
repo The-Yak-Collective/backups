@@ -1,0 +1,7 @@
+- **“Somebody once said that a good science-fiction story should be able to predict not the automobile but the traffic jam. We agree. And so should good science.” -- Fred Pohl**
+- We do NOT want to make up wild sci-fi futures for their entertainment value. We want to create a thought-starter speculative view of the future to drive real innovation, business creation, application development, and so forth. Success will be measured by how much this deck catalyzes interesting activity, not how accurate it turns out to be
+
+# Backlinks
+## [Neurofuturama](<Neurofuturama.md>)
+- [Traffic Jam Principle](<Traffic Jam Principle.md>)
+

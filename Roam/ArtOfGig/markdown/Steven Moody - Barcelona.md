@@ -1,0 +1,6 @@
+- Hi!  I'm Steven
+- Connect:
+    - Linkedin (please add personal intro or I'll assume a bot): https://www.linkedin.com/in/stevenmoody/
+    - Twitter: https://twitter.com/sjmoody
+- I'm an independent consultant since 2010 dabbling in marketing automation, growth hacking, [[Software Development]], improv, and psychometrics.  Far more interested in sensemaking than money making
+- 

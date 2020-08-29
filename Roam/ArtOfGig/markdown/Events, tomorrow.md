@@ -1,0 +1,104 @@
+- author:: [[Alistair Croll]]
+- source:: https://www.crowdcast.io/e/events-tomorrow/1
+- tags:: #webinar, #events, #marketing, #[[“Your Next Strategic Offsite will be Online—here’s what to do” [[Jason Fox]]]]
+- Platform: crowdcast
+- Events industry has been crashing slowly
+- Tech turns benefits into customer pain
+- Have amazing set of tools
+- Crisis force companies to deal with innovation debt
+- Business model for online events is different. Can build better events than ever before
+- Physical event organizer need to change your business model
+- Sponsoring virtual event has been 
+    - ROI on physical event not super good
+    - People go to tradeshows come back with good, not great leads
+    - Virtual environment - you know who is the best people and who was engaged
+    - Run the world, networking - 45s they record you, then 5 minutes to do
+    - Understanding human psychology will be good
+    - Digital conference, everything is recorded, tremendous amount of accountability in the event industry
+- People don't watch after
+    - How to make recorded content much better
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FnOPSBeOvgO.png?alt=media&token=b9013c80-60fb-4d76-8045-207d745d2a53)
+        - Transcript, chat, slides
+- Tools: https://docs.google.com/spreadsheets/d/1Grmwx-a3huFqdRThWE3vmeteWkfEKDPJDGT8e3Z1Cc0/htmlview?pru=AAABchkpJcY*lFNrrYSWWfqoq2cSB8W5rw#gid=1941368468
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2Fj5JvzasdAh.png?alt=media&token=efcdd6ba-3b0d-4fc5-a13a-0ff23a2dc23a)
+- 11 speculations
+    - 1.  community
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FrH9sheDKp4.png?alt=media&token=68b0617c-c002-472b-b118-36dee607298a)
+        - Who can convene the right community. For itself, sponsor, speakers
+    - 2. Skeuomorphism
+        - Skeuomorphism is the design concept of making items represented resemble their real-world counterparts. Skeuomorphism is commonly used in many design fields, including user interface (UI) and Web design, architecture, ceramics and interior design.
+        - Step way back ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FtWydmGI1jM.png?alt=media&token=4ebb3c40-4f74-43a0-84c7-c2430b501b08)
+    - 3. Time and space
+        - Parallel tracks? holdover from atoms 
+    - 4. Your 3 screens
+        - Why at the desktop?
+        - Moving the user from the tv (consume) to phone (engage) to browser (create)
+    - 5. Physical artifacts
+        - The door knocker
+        - What I can send to people?
+        - Whatever you can create that makes people part of the community
+    - 6. Content timeliness
+        - Some content is best delivered in real time because it's novel, transient or interactive (needs to be timely)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FMkXMzKLaez.png?alt=media&token=02f083e1-4aee-42c5-bd49-0657c61701a6)
+        - Look no further than talk shows - the moderator is as important as the guest. Look at John Krasinski
+        - People will come together to watch something together
+    - 7. The attendee is always in the shopping cart
+        - Idea: Pay-what-you will live events
+    - 8. This can be better for sponsors
+        - Engagement is the best measure of lead quality
+    - 9. Narrative slide are dead
+    - 10. Every speaker is a duo or a trio
+    - 11 Video is the new normal
+- The tech
+    - Learn to fish
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2Fb4N0a4a85z.png?alt=media&token=62043c63-e09e-4fa1-b1cd-120f8efee225)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FeWne6nStk_.png?alt=media&token=716e2661-1397-4582-a255-7d4c3f55459a)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FvKfyse2Hqk.png?alt=media&token=15e3d64e-bc38-45ee-8c76-e8e93b5539e1)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FMw9AS14Oac.png?alt=media&token=fc0195d5-8a1e-46cc-822b-3129789e69f9)
+    - Have a fish
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FcwQ-3MInCg.png?alt=media&token=9ffdf7c3-ebcb-4690-b638-f582f3a2f480)
+- Hybrid model
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FTqrhllvjzL.png?alt=media&token=5c2c80c2-c9f3-4903-89cc-de002de462c1)
+- Consequences
+    - Video is the new norm
+    - From ticket to subscribtion (community, time & space broke)
+    - Recorded content can be much more
+    - Global sales gets weird because everyone comes from everywhere
+    - Do more onboarding
+    - Speakers give a talk 3 times
+    - Wannamaker 
+    - More niche events that aren't for profit will self-organize
+- Rules to live by
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2F_KpTqGjyxf.png?alt=media&token=7a349cd9-1e0b-4e99-832a-231055794414)
+- Do what the platforms can't
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FPr6N_l4UQP.png?alt=media&token=684fe05d-9beb-4c47-b917-2186f1ca6884)
+- New ways to make money
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2Fb-wZvW1OT_.png?alt=media&token=bfcab4bf-6f71-44cb-a37f-b04514ee3b92)
+- Think about other stuff
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2F9QmSNLpvN6.png?alt=media&token=cb7c165e-7e17-4e58-b5a8-6529c281c2c0)
+- Questions
+    - How to make sure people are engaged
+        - Send physical artifact
+        - More like a talk show interactive and engaging
+        - Could be on Chromecast and engage on phone
+    - Optimal length
+        - Webinar for about 1 hour
+        - Then longuer need to be an event
+        - Expect people to jump in and jump out
+    - How do you prep speakers for virtual events
+        - 1. $100 webcam; 2. some type of cheap <$100 LED light that can sit on their desk that shines on their face; 3. get on ethernet; 4. use an audio app to identify and turn off local noise; https://www.amazon.ca/hz/wishlist/ls/372MXSXOYPXIU?ref_=wl_share
+        - Every "speaker" needs to be a team. A behind-the-scenes real-time partner is invaluable
+        - teach them to look at the screen
+        - Not presenter anymore but Youtuber
+        - Send checklist and ch
+        - Don't bring a narrative slide deck
+            - 10 slide with 100 as backup slide
+        - Every event is a new event
+    - How do you replace in-person networking
+        - will never be able to replace it, the crush of human flesh
+        - need to find new ways to network
+        - how to be more diverse. hard because you don't see people
+        - but somewhat addressed because people
+        - how do i find new digital format
+    - Security
+        - PCI for events

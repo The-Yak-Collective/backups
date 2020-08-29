@@ -1,0 +1,122 @@
+- Expert-generalists are individuals with a broad skill base and deep expertise in one or more areas. Though there are slight nuances in the definitions, these individuals may also be referred to as T-shaped, polymaths, and multipotentialites.
+- Hypothesis 1: People with skills in multiple disciplines accelerate innovation in a collaborative context.
+    - Much innovation is based on the intersection of knowledge from different domains.
+    - Having team members with multiple skill areas increases the opportunities for intersection, exponentially with the total number of topics known.
+    - Intersections between topics within one individual take place at the speed of thought.
+- Hypothesis 2: Indies tend to be expert-generalists, both by nature and necessity.
+    - Individuals with a specialist mindset are more drawn to corporate/academic roles, in which they can focus on their specialty. 
+    - Indie consultants end up becoming expert-generalists out of necessity, even if they weren't already. They're required to learn, at least a moderate level of competency, most aspects of business: marketing, sales, product/service development, finances, customer service, etc. Even if they eventually outsource some of those functions, most indies go through some period of managing it themselves, and know enough to outsource effectively.
+- Proposal ideas:
+    - I'd like to do a survey to validate the 2nd hypothesis.
+    - Someone really good with diagrams would be great to illustrate hypothesis 1.
+    - I think there's a potential mathematical model for hypothesis 1. Anyone with experience with math for networks?
+- Comments/Feedback
+    - Needs a Covid19 hook... are people with this personality type better at adapting? Can we find examples to support? — venkat
+        - Good question. People who advocate for this certainly assert it to be true. Let me work on finding some examples. Hard research may be harder to come by.
+        - Possible Covid19-related examples of transdisciplinary solutions:
+            - Retooling distilleries/breweries to produce hand sanitizer.
+            - Machine learning scientists using AI to detect Covid-19 in CT and x-ray images.
+            - Ventilators built with windshield wiper motors and other spare parts
+                - https://www.startribune.com/university-of-minnesota-is-going-full-on-macgyver-against-covid-19/569000032/
+                - https://www.machinedesign.com/medical-design/article/21127908/researchers-build-a-ventilator-using-an-automotive-motor
+                - 
+            - https://innovation.mit.edu/c19rapidinnodash_globalproj/
+            - Draganfly drone
+            - Miaza Mirror - https://www.smithsonianmag.com/innovation/how-innovators-are-adapting-existing-technologies-fight-covid-19-180974662/
+            - Disinfection robots
+            - Hands-free door openers
+        - Jason Yip's article demonstrates how a team of T-shaped people is an approach to adapting to varying demand (vs. demand-leveling):
+            - **[source](<source.md>):**https://medium.com/@jchyip/why-t-shaped-people-e8706198e437
+            - **[excerpt](<excerpt.md>):**
+                - # T-shaped people is about adapting to varying demand.
+                - Product delivery teams get asked to do a lot of different things, each of which require different skillsets.
+                - ![](https://miro.medium.com/max/60/1*qlhvBxrN8V8lyD5wPSkb-Q.png?q=20)
+                - ![](https://miro.medium.com/max/613/1*qlhvBxrN8V8lyD5wPSkb-Q.png)
+                - Stuff to do vs what we can handle
+                - We have two general ways to respond to this. The first is to adjust what gets scheduled to balance against what we can handle, aka [demand-leveling](https://en.wikipedia.org/wiki/Production_leveling[Demand_leveling](<Demand_leveling.md>)).
+                - ![](https://miro.medium.com/max/60/1*9FUMRy_mrE2na1z7ts8zYg.png?q=20)
+                - ![](https://miro.medium.com/max/802/1*9FUMRy_mrE2na1z7ts8zYg.png)
+                - Address variability by shaping demand
+                - The second approach is to** make our response more adaptable through T-shaped people.**
+                - ![](https://miro.medium.com/max/60/1*CIuS8vh5lCgxJskLfR69mA.png?q=20)
+                - ![](https://miro.medium.com/max/942/1*CIuS8vh5lCgxJskLfR69mA.png)
+                - Address variability by being prepared to adapt
+        - From __Innovation Ultimatum__ by Steve Brown:
+            - **[source](<source.md>):**https://books.google.com/books?id=Lm_NDwAAQBAJ&pg=PT116&lpg=PT116&dq=are+t-shaped+individuals+more+%22adaptable%22&source=bl&ots=6mm7Ij9VwL&sig=ACfU3U2gd6aUpbhE8mUtr2nUIkn0IgJTEw&hl=en&sa=X&ved=2ahUKEwjelYHPmJbpAhUNlKwKHW8DCyEQ6AEwF3oECAoQAQ[v](<v.md>)=onepage&q=are%20t-shaped%20individuals%20more%20%22adaptable%22&f=false
+            - **[excerpt](<excerpt.md>):**
+                - p. 159
+                - The next set of human challenges are big and complex. They cannot be solve by any one organization or any single approach. These challenges will only be addressed by high-functioning, diverse teams that span many disciplines.
+                - Consider the evolution of the automobile. A car-design team in the 1950s needed mechanical, petrochemical, electrical, and industrial engineers who worked with aerodynamis experts and designers. Cares were made of steel, copper, wood, leather, glass, and rubber. A Modern car design team adds new disciplines: electronic engineers, semiconductor design, programmers, experience designers, safety engineers, and so on. Designes incorporate aluminum, metal alloys, carbon fiber, plastics, and electronics. Autonomous vehicles require yet more expertise in AI, machine ethics, simulation, data science, and sensor technology.
+                - To collaborate effectively, people from different disciplines and backgrounds must understand something about each other's expertise. Importantly, they must have respect for other disciplines. All too often, liberal arts students are dismissive of engineering, and engineers pour equal scorn on the liberal arts. Our education system must create well-rounded specialists with a working understanding of many other disciplines and a curiosity to learn beyond their chosen field. These "T-shaped" or "π-shaped" individuals will combine deep knowledge and problem-solving capabilities in at least one discipline with a working understanding of many other disciplines. These people also have skills that allow them to cross boundaries: strong communication skills, interpersonal networking skills, and teaming skills.
+                - To produce world-changing results, companies must build diverse teams of T-shaped (or π- or ♏︎-shaped) people. For those teams to flourish, leaders must foster a culture of constant curiosity and mutual respect.
+    - Re Venkatesh' point about covid: maybe something about organisation's -failure- to recognise need for this profile in response team leading to too siloed approach, and delays? [Thomas Verhagen](<Thomas Verhagen.md>)
+        - Was thinking that T-shapes could be useful to have in fat tail preparation teams
+        - This to cover the three steps needed for such preparations (prediction, mitigation, contingencies) outlined by Bent Flyvbjerg below
+            - https://www.linkedin.com/pulse/regression-tail-how-mitigate-pandemics-climate-change-bent/?trackingId=Wa%2Fa%2FILkTD2n4zepA2dZEg%3D%3D
+    - I’m a little concerned this proposal feels rather self-congratulatory and identity-based
+    - related to Venkat's point about identity and "do vs be," I think that teams need this mix of skills to succeed, because working in new areas often requires deep insight in one area (eg technology) in order to apply it in other areas that you understand functionally. An individual with such a skill set is valuable, but a high-performing team with one is even better. How can we talk about what it takes to constitute those teams, and what it looks like to do so, and how to know which areas require what levels of depth? It usually starts with an *insight* that straddles a deep knowledge and a useful knowledge. - [David McDougall](<David McDougall.md>)
+- **[references](<references.md>):**
+    - [Transdisciplinary](<Transdisciplinary.md>)
+        - [Institute for the Future report - Future Work Skills 2020](http://www.iftf.org/uploads/media/SR-1382A_UPRI_future_work_skills_sm.pdf)
+            - See p. 11, item 7 - Transdisciplinarity
+        - [Becoming Trandisciplinary: The Emergence of the Trandisciplinary Individual](https://www.researchgate.net/publication/265173163_Becoming_Transdisciplinary_The_Emergence_of_the_Transdisciplinary_Individual)
+        - "[The Charter of Transdisciplinarity](http://inters.org/Freitas-Morin-Nicolescu-Transdisciplinarity)"
+        - "[Manifesto of Transdisciplinarity](https://muse.jhu.edu/book/9032)"
+    - [semicolon shaped people article by venkat](https://breakingsmart.substack.com/p/semicolon-shaped-people)
+        - Love this, and agree it's a more apt metaphor/visual for it. I think if we want to sell organizations on the value of this (per [Darren Kong](<Darren Kong.md>) comment on Discord), we need to find some bridging terminology that is familiar in that world without sacrificing what you describe here. [Scott Allen](<Scott Allen.md>)
+            - T-shaped / pi-shaped / comb-shaped - doesn't fit your (our) metaphor.
+            - Polymath - potentially sounds pretentious/academic. There's some backlash against people calling themselves polymaths.
+            - Multipotentialite - more popular/accepted in current culture, but I've also heard backlash that these are dabblers who simply don't kno what they do. Implication is potential <> action.
+            - Expert-generalist - It was (supposedly) coined by Bain & Company Chairman Orit Gadiesh. She defined it as "Someone who has the ability and curiosity to master and collect expertise in many different disciplines, industries, skills, capabilities, countries and topics., etc." Although fairly widely used, I'm not sure we want to use it, given the strong connection to Bain and wanting to position ourselves in contrast to big consulting firms.
+            - Transdisciplinary - This is used in both academic research and high-level leadership. It's the term Institute for the Future Used in their report on future work skills. We should be careful, though, in that there actually is a manifesto/charter for this. That said, the Charter is worth a read, and we may find it fairly well aligns with what we're trying to do.
+                - [Manifesto of Transdisciplinarity](https://muse.jhu.edu/book/9032)
+                - [The Charter of Transdisciplinarity](http://inters.org/Freitas-Morin-Nicolescu-Transdisciplinarity)
+                    - ## Article 1:
+                    - Any attempt to reduce the human being by formally defining what a human being is and subjecting the human being to reductive analyses within a framework of formal structures, no matter what they are, is incompatible with the transdisciplinary vision.
+                    - ## Article 2:
+                    - The recognition of the existence of different levels of reality governed by different types of logic is inherent in the transdisciplinary attitude. Any attempt to reduce reality to a single level governed by a single form of logic does not lie within the scope of Transdisciplinarity.
+                    - ## Article 3:
+                    - Transdisciplinarity complements disciplinary approaches. It occasions the emergence of new data and new interactions from out of the encounter between disciplines. It offers us a new vision of nature and reality. Transdisciplinarity does not strive for mastery of several disciplines but aims to open all disciplines to that which they share and to that which lies beyond them.
+                    - ## Article 4:
+                    - The keystone of Transdisciplinarity is the semantic and practical unification of the meanings that traverse and lie beyond different disciplines. It presupposes an open-minded rationality by re-examining the concepts of "definition" and "objectivity." An excess of formalism, rigidity of definitions and a claim to total objectivity, entailing the exclusion of the subject, can only have a life-negating effect.
+                    - ## Article 5:
+                    - The transdisciplinary vision is resolutely open insofar as it goes beyond the field of the exact sciences and demands their dialogue and their reconciliation with the humanities and the social sciences as well as with art, literature, poetry and spiritual experience.
+                    - ## Article 6:
+                    - In comparison with interdisciplinarity and multidisciplinarity, transdisciplinarity is multireferential and multidimensional. While taking account of the various approaches to time and history, transdisciplinarity does not exclude a transhistorical horizon.
+                    - ## Article 7:
+                    - Transdisciplinarity constitutes neither a new religion, nor a new philosophy, nor a new metaphysics, nor a science of sciences.
+                    - ## Article 8:
+                    - The dignity of the human being is of both planetary and cosmic dimensions. The appearance of human beings on Earth is one of the stages in the history of the Universe. The recognition of the Earth as our home is one of the imperatives of transdisciplinarity. Every human being is entitled to a nationality, but as an inhabitant of the Earth is also a transnational being. The acknowledgement by international law of this twofold belonging, to a nation and to the Earth, is one of the goals of transdisciplinary research.
+                    - ## Article 9:
+                    - Transdisciplinarity leads to an open attitude towards myths and religions, and also towards those who respect them in a transdisciplinary spirit.
+                    - ## Article 10:
+                    - No single culture is privileged over any other culture. The transdisciplinary approach is inherently transcultural.
+                    - ## Article 11:
+                    - Authentic education cannot value abstraction over other forms of knowledge. It must teach contextual, concrete and global approaches. Transdisciplinary education revalues the role of intuition, imagination, sensibility and the body in the transmission of knowledge.
+                    - ## Article 12:
+                    - The development of a transdisciplinary economy is based on the postulate that the economy must serve the human being and not the reverse.
+                    - ## Article 13:
+                    - The transdisciplinary ethic rejects any attitude that refuses dialogue and discussion, regardless of whether the origin of this attitude is ideological, scientistic, religious, economic, political or philosophical. Shared knowledge should lead to a shared understanding based on an absolute __respect __for the collective and individual Otherness united by our common life on one and the same Earth.
+                    - ## Article 14:
+                    - __Rigor, opening __and __tolerance __are the fundamental characteristics of the transdisciplinary attitude and vision. __Rigor __in argument, taking into account of all existing data, is the best defense against possible distortions. __Opening __involves an acceptance of the unknown, the unexpected and the unpredictable. __Tolerance __implies acknowledging the right to ideas and truths opposed to our own.
+    - T-shaped
+        - https://en.wikipedia.org/wiki/T-shaped_skills
+        - https://www.forbes.com/sites/michaelsimmons/2015/03/23/how-one-life-hack-from-a-self-made-billionaire-leads-to-exceptional-success/
+        - https://chiefexecutive.net/ideo-ceo-tim-brown-t-shaped-stars-the-backbone-of-ideoaes-collaborative-culture__trashed/
+        - https://www.adventureswithagile.com/2017/07/12/heres-thing-t-shaped-people/
+        - https://medium.com/@jchyip/why-t-shaped-people-e8706198e437
+        - https://collegeinfogeek.com/become-t-shaped-person/
+        - https://agileleanlife.com/t-shaped-skills-every-area-life/
+    - Expert-generalist
+        - https://medium.com/@jijimajiriugboma/expert-generalist-why-a-diverse-skill-set-is-good-for-your-career-and-personal-growth-8311cbb49954
+        - https://guidetopurposefulsuccess.com/what-is-an-expert-generalist/
+        - https://coreplanningstrategies.com/blog/the-business-case-for-the-expert-generalist
+        - https://journals.lww.com/academicmedicine/fulltext/2015/08000/the_expert_generalist__a_contradiction_whose_time.10.aspx (interesting application in medicine)
+
+# Backlinks
+## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+- Section 2 - [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>)
+
+## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
+- [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>)
+

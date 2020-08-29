@@ -1,0 +1,3 @@
+- Mondragon Cooperative's Resiliency comes from having aligned-incentive structure and inter-cooperative flow of ideas-that-work, financial support-to-survive and people-with-tacit-knowledge. A small world network structure has porous gatens, with positive gatekeeping --*percolative*
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fl-wqwN3WaX?alt=media&token=b98f03f7-21e6-4ddf-a21c-423a6804caa0)
+- Can this be attached to 'Organizing for Learning' category --@venkatesh rao
