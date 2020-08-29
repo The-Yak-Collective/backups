@@ -28,7 +28,7 @@ jobs:
         env:
           ROAMRESEARCH_USER: ${{ secrets.ROAM_USER }}
           ROAMRESEARCH_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
-          ROAMRESEARCH_DATABASE: DelphiStrategy
+          ROAMRESEARCH_DATABASE: ArtOfGig
       - name: Commit changes
         uses: elstudio/actions-js-build/commit@v3
         with:
