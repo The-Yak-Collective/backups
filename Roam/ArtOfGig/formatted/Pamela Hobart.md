@@ -69,7 +69,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 [Pamela Hobart](<Pamela Hobart.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- [Pamela Hobart](<Pamela Hobart.md>):
+[Pamela Hobart](<Pamela Hobart.md>):
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Pamela Hobart](<Pamela Hobart.md>)

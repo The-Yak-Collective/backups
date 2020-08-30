@@ -52,24 +52,23 @@
 ## [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)
 
+## [Carl](<Carl.md>)
+owner:: [Jordan Peacock](<Jordan Peacock.md>)
+
 ## [Collaboration model/economy](<Collaboration model/economy.md>)
 https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=sharing [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Directory](<Directory.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)
 
+## [Discord](<Discord.md>)
+owner:: [Jordan Peacock](<Jordan Peacock.md>)
+
 ## [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - 10 PM - 10:30 PM Central Time(14h00-14h30 UTC), hosted by [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Governance Tests](<Governance Tests.md>)
 - Governance tests are accepted through a transparent and documented procedure. [Jordan Peacock](<Jordan Peacock.md>)
-
-## [IT Assets and Security](<IT Assets and Security.md>)
-- Carl (Discord automation, [Jordan Peacock](<Jordan Peacock.md>))
-
-- [Jordan Peacock](<Jordan Peacock.md>)
-
-- [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Nature is Healing](<Nature is Healing.md>)
 - [Thomas Verhagen](<Thomas Verhagen.md>): maybe link this up with the Situation Normal: N Futures proposal by [Jordan Peacock](<Jordan Peacock.md>)?
@@ -103,6 +102,9 @@ https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=shari
 
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Posted 4/9/2020** [Jordan Peacock](<Jordan Peacock.md>)
+
+## [Twitter](<Twitter.md>)
+owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/[comment-271146](<comment-271146.md>) [Jordan Peacock](<Jordan Peacock.md>)

@@ -38,7 +38,7 @@
 - [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>) [David McDougall](<David McDougall.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- [David McDougall](<David McDougall.md>):
+[David McDougall](<David McDougall.md>):
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>)

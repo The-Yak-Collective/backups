@@ -11005,11 +11005,31 @@
     "title": "research"
   },
   {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748483665,
+        "string": "owner:: [[Alex Wagner]]",
+        "uid": "KMEmeiny8"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748476358,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "eQL_Ivmjy"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748476358,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "ED_h1dVyR"
+      }
+    ],
     "create-email": "shreedashreeda@gmail.com",
     "create-time": 1586200578434,
-    "edit-email": "shreedashreeda@gmail.com",
-    "edit-time": 1586200578454,
-    "title": "substack"
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748473880,
+    "title": "Substack"
   },
   {
     "create-email": "shreedashreeda@gmail.com",
@@ -20502,8 +20522,9 @@
               }
             ],
             "create-time": 1598723794647,
-            "edit-time": 1598724098425,
-            "string": "revisit [[IT Assets and Security]]",
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598745611674,
+            "string": "revisit [[Threat Model]]",
             "uid": "34Yhsvuh7"
           }
         ],
@@ -25040,6 +25061,26 @@
     "title": "Email"
   },
   {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748512657,
+        "string": "owner:: [[Jordan Peacock]]",
+        "uid": "Z8EvzC27A"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748504183,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "P1Ata3j52"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748504183,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "cT9RTIXeN"
+      }
+    ],
     "create-email": "id@tomlisankie.com",
     "create-time": 1588618880695,
     "edit-email": "id@tomlisankie.com",
@@ -25686,6 +25727,26 @@
     "title": "Texas"
   },
   {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748593619,
+        "string": "owner:: ???",
+        "uid": "ffyDQunfQ"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748593619,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "35Xds_rvk"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748593619,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "I6HA94wxk"
+      }
+    ],
     "create-email": "amir.h.hajizamani@gmail.com",
     "create-time": 1588628911796,
     "edit-email": "amir.h.hajizamani@gmail.com",
@@ -38212,9 +38273,9 @@
           {
             "children": [
               {
-                "edit-email": "shreedashreeda@gmail.com",
-                "edit-time": 1586200578432,
-                "string": "[[substack]], podcast, twitter networking",
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598748473880,
+                "string": "[[Substack]], podcast, twitter networking",
                 "uid": "i5pk_GeSu"
               }
             ],
@@ -73168,241 +73229,28 @@
   {
     "children": [
       {
-        "children": [
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742629019,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593746972367,
-            "string": "((YOrROHoOo))",
-            "uid": "fWT31G5Hi"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742633333,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593746980245,
-            "string": "((cZxsqogkP))",
-            "uid": "CBH9WT5nI"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593747004742,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593747010462,
-            "string": "((g7su11bA1))",
-            "uid": "-eiss00uq"
-          }
-        ],
         "create-email": "roam@delphi-strategy.com",
-        "create-time": 1593742582258,
+        "create-time": 1598744365940,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1593747028837,
-        "string": "**TL;DR**",
-        "uid": "5IP9Dt58v"
+        "edit-time": 1598744380194,
+        "string": "owner:: [[Nathan Acks]]",
+        "uid": "wL5cn_dgU"
       },
       {
-        "children": [
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593570565759,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593570713452,
-                "string": "`yakcollective.org@gmail.com` (Gmail)",
-                "uid": "-slkw97y5"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593570510883,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593570651596,
-                "string": "[[Venkatesh Rao]] (calendar)",
-                "uid": "Y-BxSZy3q"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593570654910,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593570683968,
-                "string": "[[Paul Millerd]] ([Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit))",
-                "uid": "1fH-u6K_x"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593570685598,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593570703409,
-                "string": "[[Drew Schorno]] ([The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit#slide=id.p))",
-                "uid": "FuwniplL_"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572269052,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572288570,
-                "string": "Registration Google Form (who owns this?)",
-                "uid": "YSjZopsfZ"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593570853268,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572269058,
-                "string": "Other documents?",
-                "uid": "Wm-wTeqbN"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570496547,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570718164,
-            "string": "Google",
-            "uid": "WaVM-PCkW"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570573368,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570722661,
-            "string": "GitHub",
-            "uid": "4Z6F88XfL"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@fensterfamily.net",
-                "create-time": 1597602737199,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1597602850280,
-                "string": "Jekyll (tooling)",
-                "uid": "1-2ijDzGy"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570723247,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570725700,
-            "string": "Netlify",
-            "uid": "kVROBWr5H"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570725694,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570728185,
-            "string": "IFTTT",
-            "uid": "4x9Rmwd9E"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570728237,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570739653,
-            "string": "Glitch (currently unused)",
-            "uid": "PZt4SiE8k"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1597602720037,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1597602737938,
-            "string": "Carl (Discord automation, [[Jordan Peacock]])",
-            "uid": "4wIwJNl35"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570740660,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570823211,
-            "string": "DNS (Namecheap?)",
-            "uid": "tqa3sY77M"
-          },
-          {
-            "children": [
-              {
-                "create-email": "hewhocutsdown@gmail.com",
-                "create-time": 1593823450985,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1597602834231,
-                "string": "[[Jordan Peacock]] (admin)",
-                "uid": "09_Ir03lV"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570869785,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570871997,
-            "string": "Discord",
-            "uid": "QHEVzvxpU"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570871993,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570873899,
-            "string": "Roam",
-            "uid": "iaRXi50wc"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570938483,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570941392,
-            "string": "Substack",
-            "uid": "J6GwGtUzA"
-          },
-          {
-            "children": [
-              {
-                "create-email": "hewhocutsdown@gmail.com",
-                "create-time": 1593823456816,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1597602839033,
-                "string": "[[Jordan Peacock]]",
-                "uid": "wQZtQgsrj"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570941388,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570943448,
-            "string": "Twitter",
-            "uid": "Mfocs2vGz"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570943446,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570946098,
-            "string": "Facebook",
-            "uid": "Sh7y3Y2ZS"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570946722,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570949372,
-            "string": "LinkedIn",
-            "uid": "XpQ6T2mhm"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593570900760,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593570906880,
-            "string": "Other services?",
-            "uid": "Eq6f65LmN"
-          }
-        ],
         "create-email": "roam@delphi-strategy.com",
-        "create-time": 1593570028122,
+        "create-time": 1598744380192,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1593570913209,
-        "heading": 1,
-        "string": "(IT) Assets",
-        "uid": "YYF1f3MQe"
+        "edit-time": 1598744391132,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "YEKGHpOb9"
+      },
+      {
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598744391125,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598745603374,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "9qbr7Egrs"
       },
       {
         "children": [
@@ -73438,8 +73286,8 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593570345661,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593570383494,
-                "string": "Data loss (Roam, Google, GitHub)",
+                "edit-time": 1598745868924,
+                "string": "Data loss (Roam, Google, GitHub, etc.)",
                 "uid": "oRKR6t1mt"
               },
               {
@@ -73662,16 +73510,16 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593571864554,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572099591,
-                "string": "((-slkw97y5))",
+                "edit-time": 1598745716521,
+                "string": "((4K18TzUqd))",
                 "uid": "2hTOhHdqP"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593572196007,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572200692,
-                "string": "((tqa3sY77M))",
+                "edit-time": 1598745725853,
+                "string": "((Uj_QEinxw))",
                 "uid": "o10eHO08R"
               },
               {
@@ -73686,9 +73534,17 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593572229892,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572240845,
-                "string": "((iaRXi50wc))",
+                "edit-time": 1598745733463,
+                "string": "((TZGF43uM4))",
                 "uid": "tWPMcmKuX"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598745294169,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598745738977,
+                "string": "((LCeECFQlR))",
+                "uid": "az0W0PvaF"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
@@ -73715,17 +73571,17 @@
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1593572061411,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593572077730,
-                    "string": "((FuwniplL_))",
+                    "edit-time": 1598745747599,
+                    "string": "((zZYvOqOB4))",
                     "uid": "S2otIjeL-"
                   },
                   {
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593572077726,
+                    "create-time": 1598745150273,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593572299315,
-                    "string": "((1fH-u6K_x))",
-                    "uid": "sjPVEDQDl"
+                    "edit-time": 1598745754918,
+                    "string": "((WHQis_t2j))",
+                    "uid": "jyTKwf7SP"
                   }
                 ],
                 "create-email": "roam@delphi-strategy.com",
@@ -73737,35 +73593,27 @@
               },
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572108029,
+                "create-time": 1598745156640,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572175641,
-                "string": "((4Z6F88XfL))",
-                "uid": "m6NJ62LBm"
+                "edit-time": 1598745760899,
+                "string": "((qdK4xcp5B))",
+                "uid": "WP0Z15U5j"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572122663,
+                "create-time": 1598745161053,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572172368,
-                "string": "((kVROBWr5H))",
-                "uid": "cwu2kCpOX"
+                "edit-time": 1598745765582,
+                "string": "((svWf7xaFU))",
+                "uid": "tfYD87NTx"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572213746,
+                "create-time": 1598745203361,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572228886,
-                "string": "((QHEVzvxpU))",
-                "uid": "mDDU4XSGF"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572322954,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572339232,
-                "string": "((J6GwGtUzA))",
-                "uid": "8Wbqub7m-"
+                "edit-time": 1598745772841,
+                "string": "((BjZrB-wgH))",
+                "uid": "AUM_Rzw8l"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
@@ -73780,43 +73628,67 @@
             "children": [
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572302802,
+                "create-time": 1598745221706,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572310007,
-                "string": "((YSjZopsfZ))",
-                "uid": "GFL9SyMpO"
+                "edit-time": 1598745801436,
+                "string": "((cV3pRWHEr))",
+                "uid": "NlKgj0zOJ"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593571935960,
+                "create-time": 1598745229376,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572168407,
-                "string": "((4x9Rmwd9E))",
-                "uid": "MiBYOWnMx"
+                "edit-time": 1598745807009,
+                "string": "((5wHuC3ToC))",
+                "uid": "gMNcpebTb"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572340226,
+                "create-time": 1598745232509,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572356199,
-                "string": "((Mfocs2vGz))",
-                "uid": "VQI_UVqCQ"
+                "edit-time": 1598745811565,
+                "string": "((IKpww20Ca))",
+                "uid": "XRzx-u8Sp"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572356193,
+                "create-time": 1598745264514,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572361438,
-                "string": "((Sh7y3Y2ZS))",
-                "uid": "WfS9SBnaJ"
+                "edit-time": 1598745819051,
+                "string": "((OTcVV-as4))",
+                "uid": "f4Oam7B9G"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593572361432,
+                "create-time": 1598745205272,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572367865,
-                "string": "((XpQ6T2mhm))",
-                "uid": "-tk8lFKiI"
+                "edit-time": 1598745786887,
+                "string": "((CDUB4hQA8))",
+                "uid": "ddEKtQ-FA"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598745237536,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598745823659,
+                "string": "((XljWqMcir))",
+                "uid": "F4ve9YVe6"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598745241435,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598745828045,
+                "string": "((sRpQ5R6um))",
+                "uid": "hCv0eA6G7"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598745243961,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598745832010,
+                "string": "((RHx3qE4kk))",
+                "uid": "BwiYPbJh9"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
@@ -73831,11 +73703,19 @@
             "children": [
               {
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593571934603,
+                "create-time": 1598745273655,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593572192782,
-                "string": "((PZt4SiE8k))",
-                "uid": "rRlKnR-Zn"
+                "edit-time": 1598745838709,
+                "string": "((ZO3c6TUHd))?",
+                "uid": "knEHtOKTb"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598745250530,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598745845681,
+                "string": "((_u2TY_1rk))",
+                "uid": "_ozjDT8cF"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
@@ -73887,8 +73767,8 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593573111907,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593573177993,
-                "string": "`yakcollective.org@gmail.com` acts as a failsafe for a set of our accounts. Only __very__ trusted people should have access to this account!",
+                "edit-time": 1598745353254,
+                "string": "The Yak Collective Robot acts as a failsafe for a set of our accounts. Only __very__ trusted people should have access to this account!",
                 "uid": "SpkYVRN5c"
               }
             ],
@@ -73978,32 +73858,6 @@
                 "edit-time": 1593572918715,
                 "string": "Using a password manager will also make it easier to routinely rotate passwords and audit who has access to what",
                 "uid": "MCBtkqCgZ"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593746570492,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593746583578,
-                    "string": "This is __very__ difficult to realize in practice, however.",
-                    "uid": "X83yNFn9j"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593573520567,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593573573562,
-                    "string": "[[Password Manager Comparison]]",
-                    "uid": "Hr22ai6SB"
-                  }
-                ],
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593573212542,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746570384,
-                "string": "Separation of duties suggests that we should ideally not have a single password vault, or a system where a single role/entity could access all password information.",
-                "uid": "7htYSnKxs"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
@@ -74082,16 +73936,16 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593741632261,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593741675058,
-                "string": "Class 1 assets should be restricted to only highly trusted users (probably don't want a nobody like me getting access to `yakcollective.org@gmail.com` again).",
+                "edit-time": 1598745451107,
+                "string": "Class 1 assets should be restricted to only highly trusted users.",
                 "uid": "N4ab83kND"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593741430820,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593741467890,
-                "string": "All assets and admin users should be centrally tracked (I think this could just be a spreadsheet in Google).",
+                "edit-time": 1598745494612,
+                "string": "All assets and admin users should be centrally tracked in the [[IT Infrastructure]] document.",
                 "uid": "l54UCxDOQ"
               },
               {
@@ -74130,24 +73984,16 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593741707047,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593741754274,
+                "edit-time": 1598745511857,
                 "string": "This doesn't mean that project contributors have to work out of that Drive. When a project is ready, we should just copy assets into the Drive and use those assets for actual sharing on the website, etc.",
                 "uid": "4CRc2suF9"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742309909,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742318891,
-                "string": "Asset/Admin tracking should also live here.",
-                "uid": "nYrIHEjMp"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
             "create-time": 1593741253761,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593741707055,
-            "string": "We should copy critical documents into the `yakcollective.org@gmail.com` Google Drive.",
+            "edit-time": 1598745508012,
+            "string": "We should copy critical documents into the Yak Collective Robot Google Drive.",
             "uid": "4O8xtlZej"
           },
           {
@@ -74161,53 +74007,19 @@
                 "uid": "KtmHLwKFH"
               },
               {
-                "children": [
-                  {
-                    "create-time": 1594483619172,
-                    "edit-time": 1594483631637,
-                    "string": "No requirement for a unified password infrastructure yet.",
-                    "uid": "gr9CeDWP_"
-                  }
-                ],
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593741890447,
                 "edit-email": "roam@delphi-strategy.com",
                 "edit-time": 1594483591432,
                 "string": "Passwords should be rotated whenever someone steps away from their role, or if they think they may have been compromised (ransomware, etc.), or at a minimum annually.",
                 "uid": "LsTfXkCTz"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593742483817,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593742505290,
-                    "string": "But I'd __strongly__ encourage any admin people to up their security game.",
-                    "uid": "Wyh1Uygje"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593742522396,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593742531466,
-                    "string": "We should still track access...",
-                    "uid": "O-czD5jVf"
-                  }
-                ],
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742452992,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742483825,
-                "string": "Obviously, services where we're using our personal accounts (GitHub, Facebook, anything else?) should just keep using those accounts.",
-                "uid": "GTa3OYwHA"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
             "create-time": 1593741754638,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593741800831,
-            "string": "We should move to using strong, randomized passwords from a password manager + 2FA for all accounts that support it.",
+            "edit-time": 1598745531575,
+            "string": "All admins should move to using strong, randomized passwords from a password manager + 2FA for all accounts that support it.",
             "uid": "8kwyaXyKj"
           }
         ],
@@ -74224,244 +74036,6 @@
           {
             "children": [
               {
-                "create-time": 1594483469992,
-                "edit-time": 1594483674474,
-                "string": "After much thought, I __don\u2019t__ think we should standardize on a password manager, unless there\u2019s appetite to do so. Instead, we should continue to use our own systems, but rotate passwords regularly/on \u201cstaff\u201d change.",
-                "uid": "oFUEr28w6"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593746642580,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746653769,
-                "string": "[[Password Manager Comparison]]",
-                "uid": "8ZDb31r9K"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593746653763,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746743831,
-                "string": "Bitwarden or LastPass probably come closest if we use a one-password-per-collection paradigm. But the admins of these systems can then gain access to everything, violating our desire for more dispersed responsibilities.",
-                "uid": "Uo7V0j417"
-              },
-              {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "children": [
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747180959,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747267724,
-                            "string": "((iaRXi50wc))",
-                            "uid": "B8Xx68vf0"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747251863,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747260889,
-                            "string": "((QHEVzvxpU))",
-                            "uid": "e_x8qSikN"
-                          },
-                          {
-                            "children": [
-                              {
-                                "create-email": "roam@delphi-strategy.com",
-                                "create-time": 1593747217609,
-                                "edit-email": "roam@delphi-strategy.com",
-                                "edit-time": 1593747431818,
-                                "string": "Only if we don't go with something like KeePass/KeeWeb or Gopass, in which case we'd just include this with the appropriate bit of external infrastructure.",
-                                "uid": "bQrOL6bVZ"
-                              }
-                            ],
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747213385,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747217615,
-                            "string": "((FQSTvrLT7))",
-                            "uid": "csaJh3uke"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747189559,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747201434,
-                            "string": "((iaoTZPVuw))",
-                            "uid": "qYyaJajER"
-                          }
-                        ],
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1593746918798,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1593747325727,
-                        "string": "**Internal infrastructure**",
-                        "uid": "licmBqHOR"
-                      },
-                      {
-                        "children": [
-                          {
-                            "children": [
-                              {
-                                "create-email": "roam@delphi-strategy.com",
-                                "create-time": 1593747116269,
-                                "edit-email": "roam@delphi-strategy.com",
-                                "edit-time": 1593747177189,
-                                "string": "Per recommendations, I think this should also host all of our docs/files (at least in an archival sense).",
-                                "uid": "_u3ZDza-n"
-                              }
-                            ],
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747049757,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747075595,
-                            "string": "((-slkw97y5))",
-                            "uid": "NLjYPb8Nn"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747075588,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747082743,
-                            "string": "((tqa3sY77M))",
-                            "uid": "dgPUpzlze"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747082715,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747094697,
-                            "string": "((4Z6F88XfL))",
-                            "uid": "9XNXL60Pf"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747094688,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747100866,
-                            "string": "((kVROBWr5H))",
-                            "uid": "b8u5KGH1y"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747100859,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747115430,
-                            "string": "((4x9Rmwd9E))",
-                            "uid": "YI9nb2Pe-"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747285104,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747290652,
-                            "string": "((PZt4SiE8k))",
-                            "uid": "bm8Wi64nj"
-                          }
-                        ],
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1593746908552,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1593747323000,
-                        "string": "**External infrastructure**",
-                        "uid": "tbs4dz1ZP"
-                      },
-                      {
-                        "children": [
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747291168,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747297328,
-                            "string": "((J6GwGtUzA))",
-                            "uid": "TgzAenujr"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747297321,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747302558,
-                            "string": "((Mfocs2vGz))",
-                            "uid": "s_4Rv8LR6"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747302552,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747309381,
-                            "string": "((Sh7y3Y2ZS))",
-                            "uid": "AS8G376w_"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1593747309375,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1593747315249,
-                            "string": "((XpQ6T2mhm))",
-                            "uid": "DZrZ4URb6"
-                          }
-                        ],
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1593746923276,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1593747321584,
-                        "string": "**Outreach**",
-                        "uid": "YqN2WVf9v"
-                      }
-                    ],
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593746857678,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593746884479,
-                    "string": "There __is__ a rough division of duties that the current assets suggest...",
-                    "uid": "d4d6RyUPW"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593746884472,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593747487161,
-                    "string": "This feels like  a more formal set of lines of responsibility that we seem to want.",
-                    "uid": "7frylBkgV"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593747355487,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593747462501,
-                    "string": "That said, going this route and then paying for a password manager like Bitwarden or 1Password creates a nice set of checks between the internal and external infrastructure people.",
-                    "uid": "PWc9IZlJ4"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593747476110,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593747528092,
-                    "string": "...It's kinda hard in this scenario for [[Venkatesh Rao]] to step back from the role of benevolent dictator, given that they probably need access to items from all three groups...",
-                    "uid": "LfpW80IVO"
-                  }
-                ],
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593746743879,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746803831,
-                "string": "If we divide into more discrete teams, then any of the proposed solutions would work. KeeWeb + Google Drive is great if we're cheap (or Gopass if we're cheap and technical). 1Password is best-in-breed.",
-                "uid": "krdYhc5mq"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593746626420,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593746658789,
-            "string": "None of the password managers I've looked at really meet our requirements.",
-            "uid": "BTzzGU_um"
-          },
-          {
-            "children": [
-              {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593742225513,
                 "edit-email": "roam@delphi-strategy.com",
@@ -74473,27 +74047,9 @@
             "create-email": "roam@delphi-strategy.com",
             "create-time": 1593742194517,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742222355,
-            "string": "We should have some kind of heads-up + veto system for new admins.",
+            "edit-time": 1598745583583,
+            "string": "Should we have some kind of heads-up + veto system for new admins?",
             "uid": "YfiPr8rso"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742084892,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742091178,
-                "string": "We may need a custom bot for this.",
-                "uid": "JJWLDVIoM"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593741934140,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742084899,
-            "string": "We may want to consider setting some kind of retention period for Discord.",
-            "uid": "rRl7Yv60o"
           },
           {
             "create-email": "roam@delphi-strategy.com",
@@ -74514,621 +74070,8 @@
       }
     ],
     "edit-email": "roam@delphi-strategy.com",
-    "edit-time": 1593747638025,
-    "title": "IT Assets and Security"
-  },
-  {
-    "children": [
-      {
-        "children": [
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593744511190,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593744519725,
-            "string": "I've not personally used this option.",
-            "uid": "aO-0pL7wc"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744300740,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744316619,
-                "string": "The least expensive of the paid options",
-                "uid": "3haDVkb3r"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744388921,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744399327,
-                "string": "Tons of apps. Integrates with everything.",
-                "uid": "u8Qrrk4pF"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744624090,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744638948,
-                "string": "Looks easy to import/export data (CSV or JSON)",
-                "uid": "zQod3UuJ6"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742808280,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742810144,
-            "heading": 2,
-            "string": "Pros",
-            "uid": "SZjYnjUzz"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743842280,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743861386,
-                "string": "Costs money ($5/month for the first 5 users, $2/user/month thereafter)",
-                "uid": "lUi3HQ89P"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744319874,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744342349,
-                "string": "Admins can easily gain access to all passwords",
-                "uid": "OR6KRUUTk"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744640648,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744662796,
-                "string": "Only admins can import/export organizational data (which is all of the data we care about in our case)",
-                "uid": "PZQSw2M79"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742810135,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742811677,
-            "heading": 2,
-            "string": "Cons",
-            "uid": "YL4agHp8n"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593745296706,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593745571400,
-                "string": "...Organizations that want to share passwords while having a nice user experience, and who aren't worried about their admins going rogue.",
-                "uid": "sptdT7AA2"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593745281522,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593745294503,
-            "heading": 2,
-            "string": "Probably Best For...",
-            "uid": "xdLYQ_A77"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1593573585392,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1593573588327,
-        "heading": 1,
-        "string": "Bitwarden",
-        "uid": "u6aJSCs61"
-      },
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742867891,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742870753,
-                "string": "Free",
-                "uid": "-dyq4KApv"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742871038,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742882081,
-                "string": "Lots of clients",
-                "uid": "Gy9rPUj1N"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742886748,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742914386,
-                "string": "KeeWeb + Google Drive allows vault-level password sharing (read-write or read-only)",
-                "uid": "GwI4A74FB"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593743027438,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593743027438,
-                    "string": "Vault level with Google Drive",
-                    "uid": "EfChSB0uO"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593742978429,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593743038256,
-                    "string": "Password level -- but without blame -- in the vault. This is client-dependent.",
-                    "uid": "82TLXVXNz"
-                  }
-                ],
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743021679,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743021679,
-                "string": "Limited versioning",
-                "uid": "HOYORHh3v"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742801240,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742805214,
-            "heading": 2,
-            "string": "Pros",
-            "uid": "gEe4uj-ez"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742914894,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742921503,
-                "string": "Vault-level password sharing only",
-                "uid": "LQ2vzXw7x"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742936943,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742952424,
-                "string": "Only nice macOS/iOS apps are paid",
-                "uid": "aV20DTftT"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742805205,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742807094,
-            "heading": 2,
-            "string": "Cons",
-            "uid": "1tuzScqQZ"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593745714938,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593745752648,
-                "string": "...Organizations who don't want to pay anything and have relatively simple team-based sharing needs.",
-                "uid": "7tqpOimGr"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593745706916,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593745713291,
-            "heading": 2,
-            "string": "Probably Best For...",
-            "uid": "TGgoP0oAv"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1593573588322,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1593742878784,
-        "heading": 1,
-        "string": "KeePass (and friends)",
-        "uid": "gOnNRwuE-"
-      },
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593744998664,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593745064579,
-                    "string": "Individual password sharing is free, but has a \"hub-and-spokes\" model where the password isn't really \"owned\" by both people.",
-                    "uid": "lJjMyzZgQ"
-                  }
-                ],
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744989648,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744998188,
-                "string": "Folder or individual password sharing",
-                "uid": "eUZvurLra"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593745126377,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593745131900,
-                "string": "Master password recovery",
-                "uid": "qN18xzldg"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593745578266,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593745583084,
-                "string": "Easy import/export.",
-                "uid": "Ey0WkaMM6"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742812711,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742814597,
-            "heading": 2,
-            "string": "Pros",
-            "uid": "dTyCeJ-Yr"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744695464,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744987093,
-                "string": "Costs money ($4/user/month for shared folders)",
-                "uid": "YG_9ORvQC"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744711175,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744764645,
-                "string": "Interface is very... Enterprise",
-                "uid": "HMjs1v45M"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593745238841,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593745247729,
-                "string": "Admins can easily gain access to all passwords",
-                "uid": "5IVOrl1yn"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742814589,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742816147,
-            "heading": 2,
-            "string": "Cons",
-            "uid": "NI-MpmbAg"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593745591085,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593745655606,
-                "string": "...Organizations that want to share passwords and aren't worried about their admins going rogue.",
-                "uid": "tmPBGiQ7H"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593745584535,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593745589708,
-            "heading": 2,
-            "string": "Probably Best For...",
-            "uid": "PFXh5vonE"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1593573580936,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1593573585411,
-        "heading": 1,
-        "string": "Lastpass",
-        "uid": "CN2G11INC"
-      },
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743584710,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743587986,
-                "string": "Beautiful",
-                "uid": "5DcSb3kvg"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743587975,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743728157,
-                "string": "Works really __really__ well. **Really.**",
-                "uid": "ZJP7uEx_G"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744444589,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744449200,
-                "string": "Easy to add passwords",
-                "uid": "zeT7CRzPZ"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742816871,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742818630,
-            "heading": 2,
-            "string": "Pros",
-            "uid": "tljmJsY3D"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743603721,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743614819,
-                "string": "Cost money ($4/user/month)",
-                "uid": "Nh8XEf4rd"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743615155,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743748710,
-                "string": "Vault-level password sharing only",
-                "uid": "N05hMEagI"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744438542,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744460239,
-                "string": "Hard to export passwords (if we decide to leave)",
-                "uid": "JG_2yuWVY"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742818622,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742820088,
-            "heading": 2,
-            "string": "Cons",
-            "uid": "Be-xagmSE"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593745672460,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593745700504,
-                "string": "...Organizations with well-defined teams who are willing to pay a premium for a world-class experience.",
-                "uid": "0p-exwPm4"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593745666784,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593745671711,
-            "heading": 2,
-            "string": "Probably Best For...",
-            "uid": "Opzzwebty"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1593573595849,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1593742710731,
-        "heading": 1,
-        "string": "1Password",
-        "uid": "lBW9-IyFC"
-      },
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742956282,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593742958719,
-                "string": "Free",
-                "uid": "A0h2Io8o0"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593742958713,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743056599,
-                "string": "Full versioning via Git",
-                "uid": "G1DlFI_NV"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743041842,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746357121,
-                "string": "Password sharing via multiple \"stores\" (at least when using [gopass](https://www.gopass.pw/))",
-                "uid": "FWY8sVJWb"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743633478,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743677364,
-                "string": "Password \"ownership\" is really about decryption, so very little worry about loosing access",
-                "uid": "xtYJ2c1QA"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744471984,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744488892,
-                "string": "Easy to import and export passwords... __If__ you're comfortable with the command line.",
-                "uid": "VohOQ5OkA"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742820743,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742822445,
-            "heading": 2,
-            "string": "Pros",
-            "uid": "BLSYGJnjF"
-          },
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593743413473,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593743498349,
-                    "string": "__Abandon all hope, ye who fear the terminal__",
-                    "uid": "jfuk1-cDL"
-                  }
-                ],
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743075792,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743411464,
-                "string": "A bit technical to set up",
-                "uid": "HPKzuzCVy"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743429738,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746079331,
-                "string": "Desktop and mobile clients are decidedly meh",
-                "uid": "KEqfcxaea"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593743679433,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593743699100,
-                "string": "GitHub becomes Class 1 infrastructure",
-                "uid": "xQqvj_dkK"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593746368068,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746380293,
-                "string": "One-store-per-password becomes awkward",
-                "uid": "yY6CNy4KT"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593746384829,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746408731,
-                "string": "No way to revoke password access -- passwords __must__ be rotated",
-                "uid": "HLNNsc-HF"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593744493296,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593744498338,
-                "string": "((VohOQ5OkA))",
-                "uid": "a_ntx-HVD"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1593746471112,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1593746479548,
-                    "string": "Fortunately, there's a template system for this",
-                    "uid": "eoG5NQXU0"
-                  }
-                ],
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593746111316,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746135343,
-                "string": "Minor coordination problem: Passwords can be stored in a couple of different ways, so we'd all need to agree on one.",
-                "uid": "nAEYLBKXy"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593742822437,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593742823906,
-            "heading": 2,
-            "string": "Cons",
-            "uid": "iU0Fk97u2"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1593745373535,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1593746433460,
-                "string": "...People who want/need fine grained password versioning and spend most of their time at the command line.",
-                "uid": "Gyb0yoNws"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1593745366204,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593745371664,
-            "heading": 2,
-            "string": "Probably Best For...",
-            "uid": "QjbHNmLlp"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1593573687215,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1593742716863,
-        "heading": 1,
-        "string": "Pass (and friends)",
-        "uid": "j74kw6dTn"
-      }
-    ],
-    "create-email": "roam@delphi-strategy.com",
-    "create-time": 1593573573563,
-    "edit-email": "roam@delphi-strategy.com",
-    "edit-time": 1593573573568,
-    "title": "Password Manager Comparison"
+    "edit-time": 1598745611674,
+    "title": "Threat Model"
   },
   {
     "children": [
@@ -86797,9 +85740,9 @@
           {
             "create-email": "j@djinna.com",
             "create-time": 1597768512597,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1597768559975,
-            "string": "Follow up: [[Vinay D\u00e9brou]] will propose possible times for a joint call on the [[DIscord]] [[infrastructure]] channel",
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748132909,
+            "string": "Follow up: [[Vinay D\u00e9brou]] will propose possible times for a joint call on the [[Discord]] [[infrastructure]] channel",
             "uid": "ptISbOqjQ"
           }
         ],
@@ -88921,13 +87864,6 @@
   },
   {
     "create-email": "j@djinna.com",
-    "create-time": 1597768550405,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1597768550406,
-    "title": "DIscord"
-  },
-  {
-    "create-email": "j@djinna.com",
     "create-time": 1597768580948,
     "edit-email": "j@djinna.com",
     "edit-time": 1597768580949,
@@ -89451,39 +88387,115 @@
   {
     "children": [
       {
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598743026848,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598743037230,
+        "string": "owner:: [[Nathan Acks]]",
+        "uid": "Pza2MQGiQ"
+      },
+      {
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598743037225,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598743059948,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "JmW48Z9NU"
+      },
+      {
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598743059941,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598744268796,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "bOonAwjZD"
+      },
+      {
         "children": [
           {
-            "create-time": 1592786306249,
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598743997651,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598744004036,
+                "string": "Current Branches",
+                "uid": "xsu8TUbrb"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598744004033,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598747595553,
+                "string": "Ingested RSS Feeds",
+                "uid": "_A0D-bQEW"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598743639929,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593538166526,
-            "string": "**Deploy page:** https://app.netlify.com/sites/practical-lichterman-20c7e0/deploys",
-            "uid": "0ZeHUlq_4"
-          }
-        ],
-        "create-time": 1592786278941,
-        "edit-time": 1592786305869,
-        "string": "![Netlify\u00a0Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)",
-        "uid": "cqEt8e790"
-      },
-      {
-        "children": [
+            "edit-time": 1598747355595,
+            "string": "Website Architecture",
+            "uid": "XmxPn3xIw"
+          },
           {
-            "create-time": 1592780573633,
-            "edit-time": 1592780716518,
-            "string": "The easiest way to do this is to make updates in Roam, **Export** the page as Markdown using the \"three dots\" overflow menu in the upper right, and then overwrite `README.md` with the contents of that file.",
-            "uid": "PuXmPGrSU"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598744126095,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598747384401,
+                "string": "Website Code Style Guide",
+                "uid": "xHuSsrMQj"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598744092494,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598747387971,
+                "string": "[Current Website Issues and Projects](https://github.com/The-Yak-Collective/yakcollective/issues)",
+                "uid": "fbJsp4zAX"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598743922864,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598747372466,
+                "string": "Building the Website",
+                "uid": "HqoZZSHCg"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598743853253,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598747379384,
+            "string": "Contributing to the Website",
+            "uid": "O6duuuKjE"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598743466900,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598747374294,
+            "string": "Website Version History",
+            "uid": "UINo7T7d9"
           }
         ],
-        "create-time": 1592780443762,
-        "edit-time": 1592965602512,
-        "string": "When updating this document, please make sure to keep the [Roam page](https://roamresearch.com/#/app/ArtOfGig/page/chpV4mwUT) and [site README file](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/README.md) in sync!",
-        "uid": "RHLddGaIl"
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598743831436,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598744281289,
+        "string": "![Netlify\u00a0Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)",
+        "uid": "VEDNdSJI1"
       },
       {
-        "create-time": 1592780371116,
-        "edit-time": 1592780720775,
-        "string": "Last updated June 21, 2020 by [[Nathan Acks]].",
-        "uid": "8-fGjDn5y"
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598744144292,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598744148324,
+        "string": "---",
+        "text-align": "center",
+        "uid": "LIxFD4Jgp"
       },
       {
         "children": [
@@ -91597,5 +90609,600 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1598732306141,
     "title": "August 29th, 2020"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1598743032601,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598743032606,
+    "title": "owner"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1598743043527,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598743043527,
+    "title": "last updated"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1598743050601,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598743050607,
+    "title": "August 30th, 2020"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1598743071970,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598743071971,
+    "title": "last updated by"
+  },
+  {
+    "children": [
+      {
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598747305319,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747311993,
+        "string": "owner:: [[Nathan Acks]]",
+        "uid": "3fTVKRBd4"
+      },
+      {
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598747311988,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747322530,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "TQMo0u4hn"
+      },
+      {
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598747322526,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747331085,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "SWc-X6b2w"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598748750846,
+                    "string": "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])",
+                    "uid": "5wHuC3ToC"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598748759416,
+                    "string": "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([[Paul Millerd]])",
+                    "uid": "zZYvOqOB4"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598748763686,
+                    "string": "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([[Drew Schorno]])",
+                    "uid": "WHQis_t2j"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598748809452,
+                    "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) (who owns this?)",
+                    "uid": "cV3pRWHEr"
+                  }
+                ],
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598748613383,
+                "string": "Data that needs to be merged in...",
+                "uid": "WcADAfz1n"
+              }
+            ],
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598747908280,
+            "string": "[[Yak Collective Robot]]",
+            "uid": "4K18TzUqd"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598747952836,
+            "string": "[[GitHub]]",
+            "uid": "qdK4xcp5B"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598747978436,
+            "string": "[[Netlify]]",
+            "uid": "svWf7xaFU"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598747997335,
+            "string": "[[IFTTT]]",
+            "uid": "IKpww20Ca"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748050491,
+            "string": "[[Glitch]]",
+            "uid": "_u2TY_1rk"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748199447,
+            "string": "[[Carl]]",
+            "uid": "OTcVV-as4"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748261679,
+            "string": "[[Namecheap]]",
+            "uid": "Uj_QEinxw"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748279158,
+            "string": "[[Discord]]",
+            "uid": "BjZrB-wgH"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748315703,
+            "string": "[[Roam]]",
+            "uid": "TZGF43uM4"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598744898844,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748343287,
+            "string": "[[Knack]]",
+            "uid": "LCeECFQlR"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598744931542,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748377156,
+            "string": "[[Zapier]]",
+            "uid": "ZO3c6TUHd"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748490137,
+            "string": "[[Substack]]",
+            "uid": "CDUB4hQA8"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748521627,
+            "string": "[[Twitter]]",
+            "uid": "XljWqMcir"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748581132,
+            "string": "[[Facebook]]",
+            "uid": "sRpQ5R6um"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748602336,
+            "string": "[[LinkedIn]]",
+            "uid": "RHx3qE4kk"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598744401971,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598745080606,
+        "heading": 1,
+        "string": "Assets",
+        "uid": "vOO6clOfi"
+      },
+      {
+        "children": [
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598744444785,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598745080606,
+            "string": "[[Yak Collective Website]]",
+            "uid": "atscjRjxV"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598744441056,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598745080606,
+        "heading": 1,
+        "string": "Projects",
+        "uid": "IZAo4l-0v"
+      },
+      {
+        "children": [
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598744494455,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598745617506,
+            "string": "[[Threat Model]]",
+            "uid": "5h7cdrZj5"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598744446777,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598745080606,
+        "heading": 1,
+        "string": "Documents",
+        "uid": "qxKXiiPg5"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598745076945,
+    "title": "IT Infrastructure"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747888880,
+        "string": "owner:: [[Nathan Acks]]",
+        "uid": "Ay39x0acI"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747888880,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "zLhoprt6l"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747888880,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "Hm9FDyvsM"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598747884941,
+    "title": "Yak Collective Robot"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747941400,
+        "string": "owner:: [[Yak Collective Robot]]",
+        "uid": "Jgpoimrjz"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747929793,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "buU1xi-gC"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747929793,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "ei_lPoVHa"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598747926135,
+    "title": "GitHub"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747970651,
+        "string": "owner:: [[Yak Collective Robot]]",
+        "uid": "TexSpph22"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747970651,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "Vp0u_g0Sn"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747970651,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "IT04k_WOj"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598747966729,
+    "title": "Netlify"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747989699,
+        "string": "owner:: [[Yak Collective Robot]]",
+        "uid": "rHrL04jeR"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747989699,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "6LL044OIM"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598747989699,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "pkGk0QERT"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598747986188,
+    "title": "IFTTT"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748014399,
+        "string": "owner:: [[Yak Collective Robot]]",
+        "uid": "63n9sf_wc"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748014399,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "1DhPVGXt5"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748014399,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "ZfJaec8m-"
+      },
+      {
+        "children": [
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598748024592,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748042539,
+            "string": "Currently unused.",
+            "uid": "B0GPALEgk"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598748204684,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748206715,
+        "heading": 1,
+        "string": "Role",
+        "uid": "5li9I5YiS"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748010438,
+    "title": "Glitch"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748090159,
+        "string": "owner:: [[Jordan Peacock]]",
+        "uid": "nA5T2ztc6"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748075625,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "rdRkSb1Ye"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748075625,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "zg_FdW5Gz"
+      },
+      {
+        "children": [
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598748157294,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748163932,
+            "string": "[[Discord]] automation.",
+            "uid": "8xrRPzR8D"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598748165845,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748179648,
+        "heading": 1,
+        "string": "Role",
+        "uid": "rhqKXv_6O"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748073015,
+    "title": "Carl"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748147775,
+        "string": "owner:: [[Jordan Peacock]]",
+        "uid": "hbE79V5Rd"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748141682,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "TlXRRHhy1"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748141682,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "I7ipCGiRK"
+      }
+    ],
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1598748105410,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748105410,
+    "title": "Discord"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748243752,
+        "string": "owner:: [[Venkatesh Rao]]",
+        "uid": "cO05BCvI_"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748237688,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "wKeYGY9LX"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748237688,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "uOimXMqVm"
+      },
+      {
+        "children": [
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598748247530,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598748251138,
+            "string": "DNS",
+            "uid": "hhOhpMrll"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598748244597,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748246591,
+        "heading": 1,
+        "string": "Role",
+        "uid": "EB7Vb1TGJ"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748234845,
+    "title": "Namecheap"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748301836,
+        "string": "owner:: [[Venkatesh Rao]]",
+        "uid": "fE52iYVAF"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748295483,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "qnTLqwsUa"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748308700,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "kjTK48yEd"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748292620,
+    "title": "Roam"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748337516,
+        "string": "owner:: [[Maier Fenster]]",
+        "uid": "AAhkfps_m"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748329437,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "_VRv40EAD"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748329437,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "zphZsu1ET"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748326647,
+    "title": "Knack"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748369753,
+        "string": "owner:: [[Venkatesh Rao]]",
+        "uid": "mxb6T2BoG"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748353880,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "dROjPUX2d"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748353880,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "_UF5sKYny"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748350521,
+    "title": "Zapier"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748570650,
+        "string": "owner:: ???",
+        "uid": "A2SDN_NYG"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748565572,
+        "string": "last updated:: [[August 29th, 2020]]",
+        "uid": "qvdwPO2qh"
+      },
+      {
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1598748565572,
+        "string": "last updated by:: [[Nathan Acks]]",
+        "uid": "Rk2XSwBs2"
+      }
+    ],
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1598748562625,
+    "title": "Facebook"
   }
 ]

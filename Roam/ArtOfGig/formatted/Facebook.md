@@ -3,13 +3,9 @@ last updated:: [August 29th, 2020](<August 29th, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
 # Backlinks
-## [Amir Hajizamani](<Amir Hajizamani.md>)
-- **[Twitter](<Twitter.md>):** [@amirhhz](https://twitter.com/amirhhz)
-    - **[LinkedIn](<LinkedIn.md>):**
-
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- [LinkedIn](<LinkedIn.md>)
+- [Facebook](<Facebook.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "[LinkedIn](<LinkedIn.md>)"
+- "[Facebook](<Facebook.md>)"
 

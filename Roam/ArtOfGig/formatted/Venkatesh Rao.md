@@ -160,13 +160,14 @@
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [IT Assets and Security](<IT Assets and Security.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- ...It's kinda hard in this scenario for [Venkatesh Rao](<Venkatesh Rao.md>)
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Namecheap](<Namecheap.md>)
+owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Neurofuturama](<Neurofuturama.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -182,6 +183,9 @@
 
 ## [Relief Resources for Self-Employed](<Relief Resources for Self-Employed.md>)
 - [Gigging in the time of Corona](https://artofgig.substack.com/p/gigging-in-the-time-of-corona) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Roam](<Roam.md>)
+owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Roam Help](<Roam Help.md>)
 - This February 2020 post on __A Text Renaissance__ by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -275,6 +279,9 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Threat Model](<Threat Model.md>)
+- "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+
 ## [Vlad Meh: Naming Ways, Magic Ways](<Vlad Meh: Naming Ways, Magic Ways.md>)
 - [True Name idea](https://en.wikipedia.org/wiki/True_name) -- [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -328,11 +335,11 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- Once you've made your change, ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>), or [Venkatesh Rao](<Venkatesh Rao.md>)
+Once you've made your change, ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>), or [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- As a last resort, or in the unlikely event of an emergency update, you can ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>), or [Venkatesh Rao](<Venkatesh Rao.md>)
+As a last resort, or in the unlikely event of an emergency update, you can ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>), or [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [Venkatesh Rao](<Venkatesh Rao.md>):
+[Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -349,6 +356,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 ## [Yak-Walk Map](<Yak-Walk Map.md>)
 - -> "How do I put this together into a gig that could solve this pain-pointfor me?"  ---- YC gig organization: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Zapier](<Zapier.md>)
+owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - tentatively [Venkatesh Rao](<Venkatesh Rao.md>)

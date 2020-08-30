@@ -89,6 +89,9 @@
 ## [Strengthsfinder after the Apocalypse - discover your narrative in a post Covid World - Steven Moody](<Strengthsfinder after the Apocalypse - discover your narrative in a post Covid World - Steven Moody.md>)
 - Interested to learn more about this and see where I can contribute. - [Alex Wagner](<Alex Wagner.md>)
 
+## [Substack](<Substack.md>)
+owner:: [Alex Wagner](<Alex Wagner.md>)
+
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Idea:** save search for ["remote gig"](https://twitter.com/search?q=remote%20gig&src=typed_query) on twitter. Might be noisy, might be fortuitous. [Alex Wagner](<Alex Wagner.md>)
 

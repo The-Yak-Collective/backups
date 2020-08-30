@@ -62,13 +62,13 @@ I think the key things writing (i.e. blogging) gives you is: a) an awareness tha
 - [Tom Critchlow](<Tom Critchlow.md>):
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- Once you've made your change, ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>),
+Once you've made your change, ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>),
 
-- As a last resort, or in the unlikely event of an emergency update, you can ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>),
+As a last resort, or in the unlikely event of an emergency update, you can ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>),
 
-- [Tom Critchlow](<Tom Critchlow.md>):
+[Tom Critchlow](<Tom Critchlow.md>):
 
-- Built by [Tom Critchlow](<Tom Critchlow.md>).
+Built by [Tom Critchlow](<Tom Critchlow.md>).
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)

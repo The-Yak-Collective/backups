@@ -65,7 +65,7 @@
 [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- [Vinay Débrou](<Vinay Débrou.md>):
+[Vinay Débrou](<Vinay Débrou.md>):
 
 ## [Yak Network Map](<Yak Network Map.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)

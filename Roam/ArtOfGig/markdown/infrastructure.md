@@ -67,7 +67,7 @@
             - example: https://mathieudutour.github.io/gatsby-digital-garden/
             - concern on data consistency but will be addressed with Roam's new backend
     - move the chat to Sunday which is better for Nathan and Maier
-    - revisit [[IT Assets and Security]]
+    - revisit [[Threat Model]]
         - do another pass at the credential documentation in this page
         - currently share netlify account that is owned by our "robot" github account - we would need 3 members if we were to go paid $19 per member x3 members / mo
         - 

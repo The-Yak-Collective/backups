@@ -12,7 +12,7 @@
     - call [August 18th, 2020](<August 18th, 2020.md>)
         - ![](https://media.discordapp.net/attachments/739944326913851488/745295101785407498/unknown.png)
     - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Maier Fenster](<Maier Fenster.md>)
-    - Follow up: [Vinay Débrou](<Vinay Débrou.md>) will propose possible times for a joint call on the [DIscord](<DIscord.md>) [infrastructure](<infrastructure.md>) channel
+    - Follow up: [Vinay Débrou](<Vinay Débrou.md>) will propose possible times for a joint call on the [Discord](<Discord.md>) [infrastructure](<infrastructure.md>) channel
 - 
 - 
 

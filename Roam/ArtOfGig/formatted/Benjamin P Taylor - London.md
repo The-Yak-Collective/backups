@@ -52,5 +52,5 @@
 - [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
+[Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
 

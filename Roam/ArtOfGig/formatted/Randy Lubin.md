@@ -32,7 +32,7 @@
 - [Randy Lubin](<Randy Lubin.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- [Randy Lubin](<Randy Lubin.md>):
+[Randy Lubin](<Randy Lubin.md>):
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>)
