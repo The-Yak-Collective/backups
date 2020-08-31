@@ -129,6 +129,15 @@
 ## [Contribution Interest & Ratings for Proposals - May 2020](<Contribution Interest & Ratings for Proposals - May 2020.md>)
 - 40 participants submitted ratings for 13 Project Proposals on the Google Form poll shared by [Venkatesh Rao](<Venkatesh Rao.md>).
 
+## [Data Sources](<Data Sources.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>):
+
+- "[Venkatesh Rao](<Venkatesh Rao.md>):
+
+- "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+
+- "[Venkatesh Rao](<Venkatesh Rao.md>):
+
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - OODA loops as buying time - [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -158,6 +167,9 @@
 
 - you might want to have a look at http://www.oecd.org/futures/ as well, Space x Oceans is quite a topic of interest for some and as [Venkatesh Rao](<Venkatesh Rao.md>)
 
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [GitHub](<GitHub.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
@@ -327,19 +339,15 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - [Nature is Healing](<Nature is Healing.md>) — [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Venkatesh Rao](<Venkatesh Rao.md>)
 
 [Venkatesh Rao](<Venkatesh Rao.md>)
 
 [Venkatesh Rao](<Venkatesh Rao.md>)
-
-## [Yak Collective Website](<Yak Collective Website.md>)
-Once you've made your change, ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>), or [Venkatesh Rao](<Venkatesh Rao.md>)
-
-As a last resort, or in the unlikely event of an emergency update, you can ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>), or [Venkatesh Rao](<Venkatesh Rao.md>)
-
-[Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)

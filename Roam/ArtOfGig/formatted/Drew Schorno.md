@@ -57,9 +57,6 @@
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [The New Old Home](<The New Old Home.md>) - led by  [Pamela Hobart](<Pamela Hobart.md>) and [Drew Schorno](<Drew Schorno.md>)
 
-## [Yak Collective Website](<Yak Collective Website.md>)
-`portmantoad-beautify` ([Drew Schorno](<Drew Schorno.md>)
-
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Drew Schorno](<Drew Schorno.md>)
 

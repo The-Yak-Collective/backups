@@ -6,6 +6,12 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Carl](<Carl.md>)
 - [Discord](<Discord.md>)
 
+## [Contributing to the Website](<Contributing to the Website.md>)
+4. For emergency updates, ping someone with **owner** level access in [GitHub](<GitHub.md>) on [Discord](<Discord.md>).
+
+## [Data Sources](<Data Sources.md>)
+# [Discord](<Discord.md>)
+
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Discord](<Discord.md>)
 

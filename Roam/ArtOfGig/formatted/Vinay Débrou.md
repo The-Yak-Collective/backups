@@ -27,6 +27,13 @@
 ## [Chat Formats](<Chat Formats.md>)
 - Case Clinic: For the first session on April 3rd, we tried out the Case Clinic idea suggested by [Vinay Débrou](<Vinay Débrou.md>).
 
+## [Data Sources](<Data Sources.md>)
+- [Vinay Débrou](<Vinay Débrou.md>):
+
+- "[Vinay Débrou](<Vinay Débrou.md>):
+
+- "[Vinay Débrou](<Vinay Débrou.md>):
+
 ## [Directory](<Directory.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
 
@@ -63,9 +70,6 @@
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Vinay Débrou](<Vinay Débrou.md>)
-
-## [Yak Collective Website](<Yak Collective Website.md>)
-[Vinay Débrou](<Vinay Débrou.md>):
 
 ## [Yak Network Map](<Yak Network Map.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)

@@ -8,6 +8,9 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Namecheap](<Namecheap.md>)
 
+## [Netlify](<Netlify.md>)
+- [Namecheap](<Namecheap.md>)
+
 ## [Threat Model](<Threat Model.md>)
 - "[Namecheap](<Namecheap.md>)"
 

@@ -1,77 +1,14 @@
 owner:: [[Nathan Acks]]
-last updated:: [[August 29th, 2020]]
+last updated:: [[August 30th, 2020]]
 last updated by:: [[Nathan Acks]]
 ![Netlify Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)
-    - Website Architecture
-        - Current Branches
-        - Ingested RSS Feeds
-    - Contributing to the Website
-        - Website Code Style Guide
+    - [[Website Architecture]]
+    - [[Contributing to the Website]]
+        - [[Website Code Style Guide]]
         - [Current Website Issues and Projects](https://github.com/The-Yak-Collective/yakcollective/issues)
-        - Building the Website
-    - Website Version History
+        - [[Building the Website]]
+    - [[Website Version History]]
 ---
-# Contributing
-    ## Content Updates
-        Website content is all stored in GitHub: https://github.com/The-Yak-Collective/yakcollective
-        ### Website
-            Most site updates (project pages, member info, about page, etc.) can be done through the [admin panel](https://www.yakcollective.org/admin/). You need a [GitHub](https://github.com/) account, but shouldn't need to know Markdown, HTML, or CSS (though some knowledge is helpful!). You may want to review the "Site Structure".
-                Once you've made your change, ping [[Nathan Acks]], [[Tom Critchlow]], or [[Venkatesh Rao]] (in that order) to approve it.
-                **Important!** This functionality is broken right now. See [GitHub issue #10](https://github.com/The-Yak-Collective/yakcollective/issues/10).
-            For structural changes (or if you prefer your own editor/workflow), you can also [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) our repo, make the changes you want, and then submit a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
-            If you're not comfortable with any of the above, you should [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new) clearly describing the change you want to make.
-            As a last resort, or in the unlikely event of an emergency update, you can ping [[Nathan Acks]], [[Tom Critchlow]], or [[Venkatesh Rao]] (in that order) on Discord.
-        ### Writings
-            Writings are pushed into the following places:
-                The website GitHub repo (which then triggers a site rebuild) using [IFTTT](https://ifttt.com/) + [the `create-post` function](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js).
-                The [@yak_collective](https://twitter.com/yak_collective) Twitter feed using IFTTT.
-            Writings are sourced from member RSS feeds.
-            These feeds are __documented__ below, but adding them requires making changes in IFTTT. If you wish to add an RSS feed or update an existing feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
-            **Member RSS Feeds**
-                Anne-Laure Le Cunff: https://nesslabs.com/author/annelaure/feed
-                [[Ben Mosior]]: https://hiredthought.com/feed/
-                [[Benjamin P Taylor - London]]: https://medium.com/feed/@antlerboy
-                Benton Heimsath: https://www.bentonheimsath.com/writing?format=rss
-                [[David McDougall]]: https://innovationatscale.substack.com/feed/
-                [[Pamela Hobart]]: https://www.pamelajhobart.com/blog?format=rss
-                [[Paul Millerd]]: https://think-boundless.com/feed/
-                [[Randy Lubin]]: https://blog.randylubin.com/feed.xml
-                [[Shreeda Segan]]: https://shreeda.substack.com/feed/
-                [[Toby Shorin]]: https://subpixel.space/feed.xml
-                [[Tom Critchlow]]: https://tomcritchlow.com/feed
-                [[Vaughn Tan]]: https://uncertaintymindset.substack.com/feed/
-                [[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/
-                [[Vinay Débrou]]: https://vinaydebrou.com/feed.xml
-            **Newsletter Archive**
-                https://yakcollective.substack.com/feed/
-    ## Site Development
-        ### Current Active Branches
-            `netlify-prod` (production)
-                **GitHub:** https://github.com/The-Yak-Collective/yakcollective/tree/netlify-prod
-                **Netlify:** https://practical-lichterman-20c7e0.netlify.app/
-            `portmantoad-beautify` ([[Drew Schorno]] design work)
-                **GitHub:** https://github.com/The-Yak-Collective/yakcollective/tree/portmantoad-beautify
-                **Netlify:** https://inspiring-villani-8898ca.netlify.app/
-        ### Helping Out
-            Check out the [GitHub issue tracker for the site](https://github.com/The-Yak-Collective/yakcollective/issues) for a list of current ideas, known issues, etc.
-                If you see a problem or have an idea, submit a ticket. This will help us keep track of things more easily than documenting these ideas in Roam.
-                You don't have to have write access to contribute changes! [Pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) welcome.
-                Help on any issue (and cool new ideas via pull requests) is welcome. [Issues marked as "help wanted"](https://github.com/The-Yak-Collective/yakcollective/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) are those that need further thought and/or require skills (like website accessibility and graphic design) that the current team isn't strong in.
-        ### Development Process
-            Significant website changes should be made using short-lived [topic branches](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows) that are merged into `netlify-prod` when ready.
-                The Yak Collective Netlify account can be used to create temporary websites (see "Current Active Branches") when such changes need to be reviewed broadly.
-            Issues, features, and website milestones are [tracked in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues).
-        ### Make It Go
-            To build things locally...
-                ```clojure
-bundle config set path vendor/bundle
-bundle install
-bundle exec jekyll build```
-            When doing local development, you may want to run `bundle exec jekyll serve` instead to fire up Jekyll's local server mode so that you can connect to [http://localhost:4000](http://localhost:4000) and browse the current version of the site.
-            Netlify will rebuild the site automatically whenever changes are pushed to the repo and/or merged in.
-                **Warning!** Netlify's build environment uses UTC, so when using `site.time` to mask pages (which we do sometimes), be aware that they will become unmasked relative to UTC!
-    ## Related Projects
-        [[Yak Talk Newsletter – To Do and Content Ideas]]
 # Site Structure
     Here's a quick rundown of the moving parts...
     ## Pages
@@ -96,7 +33,7 @@ bundle exec jekyll build```
             Sequences used to group projects. Projects are counted in "days released since X".
     ## Member Feeds
         Posts in `writings/_posts` and `newsletter/_posts` are auto-pushed from member RSS feeds using [IFTTT](https://ifttt.com/) and [Netlify Functions](https://functions.netlify.com/).
-        Current feeds pulled are documented above in "**Member RSS Feeds**". To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
+        Current feeds pulled are documented above in the [[Data Sources]] document. To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
         Relevant infrastructure bits:
             `packages.json`
             `functions/create-post.js`

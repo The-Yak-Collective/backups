@@ -15,6 +15,9 @@
 ## [Directory](<Directory.md>)
 - [editor](<editor.md>) of [Yak Talk](<Yak Talk.md>)
 
+## [Substack](<Substack.md>)
+- [Yak Talk](<Yak Talk.md>)
+
 ## [Yak Job Board Project](<Yak Job Board Project.md>)
 - List jobs in [Yak Talk](<Yak Talk.md>)
 

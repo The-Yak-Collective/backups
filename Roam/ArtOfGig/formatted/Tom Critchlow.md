@@ -41,7 +41,22 @@
 
 -  [Tom Critchlow](<Tom Critchlow.md>)
 
+## [Contributing to the Website](<Contributing to the Website.md>)
+- `master` (point: [Tom Critchlow](<Tom Critchlow.md>))
+
+- Original website by [Tom Critchlow](<Tom Critchlow.md>),
+
+## [Data Sources](<Data Sources.md>)
+- [Tom Critchlow](<Tom Critchlow.md>):
+
+- "[Tom Critchlow](<Tom Critchlow.md>):
+
+- "[Tom Critchlow](<Tom Critchlow.md>):
+
 ## [Directory](<Directory.md>)
+- [Tom Critchlow](<Tom Critchlow.md>)
+
+## [GitHub](<GitHub.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [Sparring Consulting](<Sparring Consulting.md>)
@@ -61,13 +76,10 @@ I think the key things writing (i.e. blogging) gives you is: a) an awareness tha
 ## [Yak Collective](<Yak Collective.md>)
 - [Tom Critchlow](<Tom Critchlow.md>):
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Tom Critchlow](<Tom Critchlow.md>)
+
 ## [Yak Collective Website](<Yak Collective Website.md>)
-Once you've made your change, ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>),
-
-As a last resort, or in the unlikely event of an emergency update, you can ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>),
-
-[Tom Critchlow](<Tom Critchlow.md>):
-
 Built by [Tom Critchlow](<Tom Critchlow.md>).
 
 ## [Yak Discord server](<Yak Discord server.md>)

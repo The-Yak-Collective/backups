@@ -4,6 +4,13 @@
 ## [Best reads for Gig Economy](<Best reads for Gig Economy.md>)
 - An overview of the [consulting talent platforms](https://think-boundless.com/freelance-strategy-consulting-talent-marketplaces/) by [Paul Millerd](<Paul Millerd.md>)
 
+## [Data Sources](<Data Sources.md>)
+- [Paul Millerd](<Paul Millerd.md>):
+
+- "[Paul Millerd](<Paul Millerd.md>):
+
+- "[Paul Millerd](<Paul Millerd.md>):
+
 ## [Directory](<Directory.md>)
 - [Paul Millerd](<Paul Millerd.md>)
 
@@ -47,9 +54,6 @@
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Paul Millerd](<Paul Millerd.md>)
-
-## [Yak Collective Website](<Yak Collective Website.md>)
-[Paul Millerd](<Paul Millerd.md>):
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Paul Millerd](<Paul Millerd.md>)

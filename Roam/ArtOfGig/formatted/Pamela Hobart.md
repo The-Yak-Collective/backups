@@ -40,6 +40,13 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 
 - 19 April 2020 with [Pamela Hobart](<Pamela Hobart.md>):
 
+## [Data Sources](<Data Sources.md>)
+- [Pamela Hobart](<Pamela Hobart.md>):
+
+- "[Pamela Hobart](<Pamela Hobart.md>):
+
+- "[Pamela Hobart](<Pamela Hobart.md>):
+
 ## [Directory](<Directory.md>)
 - [Pamela Hobart](<Pamela Hobart.md>)
 
@@ -67,9 +74,6 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Pamela Hobart](<Pamela Hobart.md>)
-
-## [Yak Collective Website](<Yak Collective Website.md>)
-[Pamela Hobart](<Pamela Hobart.md>):
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Pamela Hobart](<Pamela Hobart.md>)

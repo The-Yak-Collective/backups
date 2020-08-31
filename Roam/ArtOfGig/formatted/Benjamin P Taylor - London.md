@@ -30,6 +30,13 @@
 ## [Collaboration model/economy](<Collaboration model/economy.md>)
 - Note from [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)
 
+## [Data Sources](<Data Sources.md>)
+- [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
+
+- "[Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
+
+- "[Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
+
 ## [David Ing](<David Ing.md>)
 - [Systems Community of Inquiry](https://stream.syscoi.com/) in partnership with [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)
 
@@ -50,7 +57,4 @@
 
 ## [The New Old Home](<The New Old Home.md>)
 - [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)
-
-## [Yak Collective Website](<Yak Collective Website.md>)
-[Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
 

@@ -101,7 +101,7 @@
     - MICE framework - http://www.sfcenter.ku.edu/Workshop-stuff/MICE-Quotient.htm
 
 # Backlinks
-## [**Astonishing Stories**](<**Astonishing Stories**.md>)
+## [Astonishing Stories](<Astonishing Stories.md>)
 - [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
 
 ## [Production Cell](<Production Cell.md>)

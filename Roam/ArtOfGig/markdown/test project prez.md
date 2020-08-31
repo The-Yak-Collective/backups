@@ -1,0 +1,17 @@
+- page for testing concept of each project having roam page, but voting interface being via discord 
+- very much under testing
+- each project will have a number
+- &&p1 a first test project&& 
+    - lead: [[Maier Fenster]]
+    - short blurb: This is a first test project
+    - longer description: this is a much much much much longer description
+    - status: proposal
+    - upvotes: &&p1 upvotes&&
+    - downvotes: &&p1 downvotes&&
+- &&p2 a second test project&& 
+    - lead: [[Maier Fenster]]
+    - short blurb: This is a second test project
+    - longer description: this is a way way way much much much much longer description
+    - status: level 1
+    - upvotes: &&p2 upvotes&&
+    - downvotes: &&p2 downvotes&&

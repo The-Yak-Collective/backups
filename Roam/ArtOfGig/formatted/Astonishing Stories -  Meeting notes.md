@@ -5,7 +5,7 @@
     - https://hieroglyph.asu.edu/ - spec fiction recommendation 
 
 # Backlinks
-## [**Astonishing Stories**](<**Astonishing Stories**.md>)
+## [Astonishing Stories](<Astonishing Stories.md>)
 - [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 
 ## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)

@@ -92,6 +92,8 @@
 ## [Substack](<Substack.md>)
 owner:: [Alex Wagner](<Alex Wagner.md>)
 
+- [Alex Wagner](<Alex Wagner.md>)
+
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Idea:** save search for ["remote gig"](https://twitter.com/search?q=remote%20gig&src=typed_query) on twitter. Might be noisy, might be fortuitous. [Alex Wagner](<Alex Wagner.md>)
 
@@ -132,6 +134,9 @@ was working with this client to think about how they might productize senior web
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - I would like to take this on [Alex Wagner](<Alex Wagner.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Alex Wagner](<Alex Wagner.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Alex Wagner](<Alex Wagner.md>)

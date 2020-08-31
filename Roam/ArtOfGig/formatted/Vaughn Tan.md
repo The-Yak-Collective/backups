@@ -1,5 +1,12 @@
 
 # Backlinks
+## [Data Sources](<Data Sources.md>)
+- [Vaughn Tan](<Vaughn Tan.md>):
+
+- "[Vaughn Tan](<Vaughn Tan.md>):
+
+- "[Vaughn Tan](<Vaughn Tan.md>):
+
 ## [Sparring Consulting](<Sparring Consulting.md>)
 - Question from [Vaughn Tan](<Vaughn Tan.md>)
 
@@ -8,9 +15,6 @@
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Vaughn Tan](<Vaughn Tan.md>)
-
-## [Yak Collective Website](<Yak Collective Website.md>)
-[Vaughn Tan](<Vaughn Tan.md>):
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>)

@@ -1,11 +1,58 @@
-owner:: [Yak Collective Robot](<Yak Collective Robot.md>)
-last updated:: [August 29th, 2020](<August 29th, 2020.md>)
+owner:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 30th, 2020](<August 30th, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
+# Purpose
+    - Stores code and some data in [The Yak Collective](https://github.com/The-Yak-Collective) team.
+    - Repos
+        - [yakcollective](https://github.com/The-Yak-Collective/yakcollective): The [Yak Collective Website](<Yak Collective Website.md>)
+        - [backups](https://github.com/The-Yak-Collective/backups): Holds various git-appropriate backups.
+            - [ArtOfGig](https://roamresearch.com/#/app/ArtOfGig) [Roam](<Roam.md>) graph (backed up daily by [roam-to-git](https://github.com/MatthieuBizien/roam-to-git))
+        - [yakcollective-ifttt-connector](https://github.com/The-Yak-Collective/yakcollective-ifttt-connector): Archive of an old [Glitch](<Glitch.md>) automation which was subsequently replaced by [Netlify Functions](https://docs.netlify.com/functions/overview/).
+# Access
+    - Owners
+        - [Nathan Acks](<Nathan Acks.md>) ([necopinus](https://github.com/necopinus))
+        - [Maier Fenster](<Maier Fenster.md>) ([tilnow](https://github.com/tilnow))
+        - [Venkatesh Rao](<Venkatesh Rao.md>) ([vgururao](https://github.com/vgururao))
+        - [Yak Collective Robot](<Yak Collective Robot.md>) ([yakcollective-robot](https://github.com/yakcollective-robot))
+    - Members
+        - [Tom Critchlow](<Tom Critchlow.md>) ([tomcritchlow](https://github.com/tomcritchlow))
+            - Maintainer for `yakcollective` repo
 
 # Backlinks
+## [Contributing to the Website](<Contributing to the Website.md>)
+- Website content is currently stored in [GitHub](<GitHub.md>).
+
+3. Once you've made your change, ping someone with **owner** level access in [GitHub](<GitHub.md>)
+
+4. For emergency updates, ping someone with **owner** level access in [GitHub](<GitHub.md>)
+
+- Writings and newsletter data are archived in [GitHub](<GitHub.md>)
+
+- [GitHub](<GitHub.md>):
+
+- [GitHub](<GitHub.md>):
+
+- [GitHub](<GitHub.md>):
+
+- [GitHub](<GitHub.md>):
+
+- [GitHub](<GitHub.md>):
+
+- [GitHub](<GitHub.md>):
+
+- [GitHub](<GitHub.md>):
+
+## [Data Sources](<Data Sources.md>)
+- Pages and metadata in [GitHub](<GitHub.md>).
+
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [GitHub](<GitHub.md>)
 
 ## [Threat Model](<Threat Model.md>)
 - "[GitHub](<GitHub.md>)"
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [GitHub](<GitHub.md>)
+
+- [Roam](<Roam.md>) (used for backups to [GitHub](<GitHub.md>))
 
