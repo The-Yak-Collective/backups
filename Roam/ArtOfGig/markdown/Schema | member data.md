@@ -1,15 +1,23 @@
 - status:: draft v1 [[August 24th, 2020]]
 - srn:: [[Fname Lname]]
 - contributors:: [[Vinay Débrou]] | [[Maier Fenster]] | [[Nathan Acks]] | [[Jordan Peacock]]
-- ## Template
+- ## Template - member data
     - Name::
     - Title:: 
+    - Date:: 
     - Indie Status::
-    - Currently::
-    - Previously::
-    - Short Bio::
     - @twitter::
+    - Tagline:: 
+    - Previously::
+    - Currently::
+    - Avatar:: 
+    - (...other?)::
     - 
+- 
+- ## Github member.md structure [[August 31st, 2020]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FHEvvWCbTUm.png?alt=media&token=10227c51-5eeb-483f-b81d-41eabc410560)
+    - 
+- 
 - # Members
 - Yak Collective members have contributed to one or more projects.
 - [   Alex Dobrenko Improviser / Writer / Filmmaker Indie status: 5+ years Previously: Distance / UCB / Funny or Die  alexdobrenko.com    @Dobrenkz  ](https://www.yakcollective.org/members/alex-dobrenko/)

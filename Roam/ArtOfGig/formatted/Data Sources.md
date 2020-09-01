@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 30th, 2020](<August 30th, 2020.md>)
+last updated:: [August 31st, 2020](<August 31st, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # [Yak Collective Website](<Yak Collective Website.md>)
     - Pages and metadata in [GitHub](<GitHub.md>). Refer to the [Website Architecture](<Website Architecture.md>) document for details.
@@ -40,7 +40,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
     - "[Substack](<Substack.md>) (via [IFTTT](<IFTTT.md>)): https://yakcollective.substack.com/feed/"
     - "Featured Yak" feed from the [Yak Collective Website](<Yak Collective Website.md>) (via [IFTTT](<IFTTT.md>))
 # [Discord](<Discord.md>)
-    - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))"
+    - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))" (via ???)
     - "Member websites (via [IFTTT](<IFTTT.md>))"
         - "[Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>): https://nesslabs.com/author/annelaure/feed"
         - "[Ben Mosior](<Ben Mosior.md>): https://hiredthought.com/feed/"
@@ -64,6 +64,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Data Sources](<Data Sources.md>)
 
-## [Yak Collective Website](<Yak Collective Website.md>)
-Current feeds pulled are documented above in the [Data Sources](<Data Sources.md>)
+## [Website Architecture](<Website Architecture.md>)
+- Current feeds pulled are documented above in the [Data Sources](<Data Sources.md>)
 

@@ -55,6 +55,8 @@
 ## [Carl](<Carl.md>)
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
+- [Jordan Peacock](<Jordan Peacock.md>)
+
 ## [Collaboration model/economy](<Collaboration model/economy.md>)
 https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=sharing [Jordan Peacock](<Jordan Peacock.md>)
 
@@ -63,6 +65,8 @@ https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=shari
 
 ## [Discord](<Discord.md>)
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
+
+- [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - 10 PM - 10:30 PM Central Time(14h00-14h30 UTC), hosted by [Jordan Peacock](<Jordan Peacock.md>)
@@ -105,6 +109,8 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Twitter](<Twitter.md>)
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
+
+- [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/[comment-271146](<comment-271146.md>) [Jordan Peacock](<Jordan Peacock.md>)

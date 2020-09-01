@@ -1,9 +1,9 @@
 owner:: [[Nathan Acks]]
-last updated:: [[August 29th, 2020]]
+last updated:: [[August 31st, 2020]]
 last updated by:: [[Nathan Acks]]
 # Threats
     ## Current
-        - Data loss (Roam, Google, GitHub, etc.)
+        - Data loss ([[Roam]], [[Yak Collective Robot]], [[GitHub]], etc.)
             - Wanton destruction or ransom attempts (includes some social media take-overs)
             - Members leaving who have access to data/billing
             - Service disruptions
@@ -17,10 +17,11 @@ last updated by:: [[Nathan Acks]]
     ## (Possible) Future
         - Data breach (We don't collect enough, or the right type, of information right now through our sign-up form for this to be a problem, but we might at some point.)
             - Google Form
-            - Discord?
+            - Google Analytics?
+            - [[Discord]]?
         - Disclosure (This probably only really matters if we have projects where premature disclosure would be harmful to the client.)
             - Works in progress
-            - Discord chats
+            - [[Discord]] chats
         - Financial (We don't have a bank account now, but as soon as we do there are all sorts of new internal and external risks.)
     ## Non-Threats
         - Physical threats
@@ -47,6 +48,7 @@ last updated by:: [[Nathan Acks]]
     ## Class 3  (Inconvenience)
         - "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) (who owns this?)"
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])"
+        - "Google Analytics ([[Tom Critchlow]])"
         - "[[IFTTT]]"
         - "[[Carl]]"
         - "[[Substack]]"
@@ -61,7 +63,7 @@ last updated by:: [[Nathan Acks]]
     - Separation of duties for Class 1 and 2 assets
         - No one person should have access to __all__ assets in a category
         - Conversely, none of these asset should be controlled by only a single person
-        - The Yak Collective Robot acts as a failsafe for a set of our accounts. Only __very__ trusted people should have access to this account!
+        - The [[Yak Collective Robot]] acts as a failsafe for a set of our accounts. Only __very__ trusted people should have access to this account!
     - Principal of least access for access to assets
         - We shouldn't go nuts about this, but we also shouldn't just give people access to something if unneeded
         - Access should be periodically audited
@@ -85,7 +87,7 @@ last updated by:: [[Nathan Acks]]
         - All admins are responsible for periodically auditing access for assets they control (that record login information) __at least__ once per month.
         - All admins are responsible for periodically backing up and auditing access for assets they control __at least__ once per month.
         - If we have two admins per asset, each admin does a backup/audit of their assets every two months with a one-month offset, then we easily meet this goal with probably only an hour or so of time commitment (on average) per admin.
-    - We should copy critical documents into the Yak Collective Robot Google Drive.
+    - We should copy critical documents into the [[Yak Collective Robot]] Google Drive.
         - This doesn't mean that project contributors have to work out of that Drive. When a project is ready, we should just copy assets into the Drive and use those assets for actual sharing on the website, etc.
     - All admins should move to using strong, randomized passwords from a password manager + 2FA for all accounts that support it.
         - Fine for the moment, I think, to store 2FA in the password manager. This __does__ make the password manager a single point of failure for those logins, but it is still better than having no 2FA. If we start dealing with bank accounts, etc., then we may want to rethink this.

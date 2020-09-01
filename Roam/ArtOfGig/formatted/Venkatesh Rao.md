@@ -146,6 +146,9 @@
 ## [Directory](<Directory.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>):
 
+## [Discord](<Discord.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - Hosts: please tweet a reminder no more than 30 minutes before the chat and tag @yak_collective. Also share your own twitter handle at the end of chats so people can follow you and get alerted. Include a bit of detail about the theme. For standing weekly chat sessions, please contact [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -181,6 +184,8 @@
 ## [Namecheap](<Namecheap.md>)
 owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Neurofuturama](<Neurofuturama.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -198,6 +203,8 @@ owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Roam](<Roam.md>)
 owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Roam Help](<Roam Help.md>)
 - This February 2020 post on __A Text Renaissance__ by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -294,6 +301,9 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
 ## [Threat Model](<Threat Model.md>)
 - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
 
+## [Twitter](<Twitter.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Vlad Meh: Naming Ways, Magic Ways](<Vlad Meh: Naming Ways, Magic Ways.md>)
 - [True Name idea](https://en.wikipedia.org/wiki/True_name) -- [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -340,6 +350,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - [Nature is Healing](<Nature is Healing.md>) — [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
+- "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
@@ -367,6 +379,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 ## [Zapier](<Zapier.md>)
 owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - tentatively [Venkatesh Rao](<Venkatesh Rao.md>)

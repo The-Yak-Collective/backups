@@ -17,6 +17,9 @@
 ## [August 14th, 2020](<August 14th, 2020.md>)
 - 10:17 created [Roam Help](<Roam Help.md>) || [Jenna Dixon](<Jenna Dixon.md>)
 
+## [August 31st, 2020](<August 31st, 2020.md>)
+- light edits on [Schema | member data](<Schema | member data.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Production Cell](<Production Cell.md>)
 - [Jenna Dixon](<Jenna Dixon.md>)
 

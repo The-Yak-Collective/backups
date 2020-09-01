@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 30th, 2020](<August 30th, 2020.md>)
+last updated:: [August 31st, 2020](<August 31st, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Building Locally
     ## Build Requirements
@@ -50,6 +50,7 @@ bundle install```
             - If you need to see the actual files Jekyll will generate, use `bundle exec jekyll build` instead. The output will be in the `_site` directory.
 # Building on [Netlify](<Netlify.md>)
     - Netlify will automatically rebuild the site whenever changes are pushed to the repo and/or merged in.
+    - Refer to the [Netlify](<Netlify.md>) document for information about options used, etc.
     - ^^**Warning!** Be aware that Netlify's build environment uses UTC.^^
 
 # Backlinks

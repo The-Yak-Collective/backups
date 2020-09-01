@@ -26,6 +26,9 @@
 ## [Directory](<Directory.md>)
 - [Drew Schorno](<Drew Schorno.md>)
 
+## [Discord](<Discord.md>)
+- [Drew Schorno](<Drew Schorno.md>)
+
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
 
@@ -56,6 +59,9 @@
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [The New Old Home](<The New Old Home.md>) - led by  [Pamela Hobart](<Pamela Hobart.md>) and [Drew Schorno](<Drew Schorno.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Drew Schorno](<Drew Schorno.md>)

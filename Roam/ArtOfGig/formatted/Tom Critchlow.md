@@ -56,8 +56,14 @@
 ## [Directory](<Directory.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)
 
+## [Discord](<Discord.md>)
+- [Tom Critchlow](<Tom Critchlow.md>)
+
 ## [GitHub](<GitHub.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)
+
+## [IT Infrastructure](<IT Infrastructure.md>)
+- Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
 
 ## [Sparring Consulting](<Sparring Consulting.md>)
 - Thoughts / Questions from [Tom Critchlow](<Tom Critchlow.md>)
@@ -68,6 +74,14 @@
 ## [Things We Need](<Things We Need.md>)
 - ~~Website~~  [Tom Critchlow](<Tom Critchlow.md>)
 
+## [Threat Model](<Threat Model.md>)
+- "Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
+
+## [Website Version History](<Website Version History.md>)
+- Various formatting tweaks suggested by [Tom Critchlow](<Tom Critchlow.md>).
+
+- [Tom Critchlow](<Tom Critchlow.md>)
+
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 I think the key things writing (i.e. blogging) gives you is: a) an awareness that you're "for hire" and b) what projects you would be a good fit for. You're basically looking to maximise the number of people who could make a good intro for you when an opportunity arises. [Tom Critchlow](<Tom Critchlow.md>)
 
@@ -77,10 +91,9 @@ I think the key things writing (i.e. blogging) gives you is: a) an awareness tha
 - [Tom Critchlow](<Tom Critchlow.md>):
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-- [Tom Critchlow](<Tom Critchlow.md>)
+- "Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
 
-## [Yak Collective Website](<Yak Collective Website.md>)
-Built by [Tom Critchlow](<Tom Critchlow.md>).
+- [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)

@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Schema | member data](<Schema | member data.md>)
-- **[Indie Status](<Indie Status.md>):**
+- **[Previously](<Previously.md>):**
     - **[Currently](<Currently.md>):**
 

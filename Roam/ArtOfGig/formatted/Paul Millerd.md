@@ -14,6 +14,9 @@
 ## [Directory](<Directory.md>)
 - [Paul Millerd](<Paul Millerd.md>)
 
+## [Discord](<Discord.md>)
+- [Paul Millerd](<Paul Millerd.md>)
+
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 - This is the first of what we hope will be many [Yak Collective Collaborations](<Yak Collective Collaborations.md>). This one is being coordinated by [Paul Millerd](<Paul Millerd.md>).
 
@@ -51,6 +54,9 @@
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) led by [Paul Millerd](<Paul Millerd.md>)
 
 - Interested in partnering with someone on this -[Paul Millerd](<Paul Millerd.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([Paul Millerd](<Paul Millerd.md>))
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Paul Millerd](<Paul Millerd.md>)

@@ -45,11 +45,37 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Data Sources](<Data Sources.md>)
 - Pages and metadata in [GitHub](<GitHub.md>).
 
+## [IFTTT](<IFTTT.md>)
+- Push member blog posts and newsletters into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>),
+
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [GitHub](<GitHub.md>)
 
+## [Netlify](<Netlify.md>)
+- `GH_BRANCH` - [GitHub](<GitHub.md>)
+
+- `GH_TOKEN` - GitHub user token for API access. Generated using the [Yak Collective Robot](<Yak Collective Robot.md>) [GitHub](<GitHub.md>)
+
+- **Access control** must be turned on to enable authentication to [Netlify CMS](https://www.netlifycms.org/), and a [GitHub](<GitHub.md>)
+
+- **Access control** must be turned on to enable authentication to [Netlify CMS](https://www.netlifycms.org/), and a [GitHub](<GitHub.md>) provider installed. Provider ID and secret values are generated using the [Yak Collective Robot](<Yak Collective Robot.md>) [GitHub](<GitHub.md>)
+
 ## [Threat Model](<Threat Model.md>)
+- Data loss ([Roam](<Roam.md>), [Yak Collective Robot](<Yak Collective Robot.md>), [GitHub](<GitHub.md>),
+
 - "[GitHub](<GitHub.md>)"
+
+## [Website Architecture](<Website Architecture.md>)
+- Netlify CMS uses [GitHub](<GitHub.md>)
+
+- The `create-post` function stores configuration information, a [GitHub](<GitHub.md>)
+
+## [Website Version History](<Website Version History.md>)
+- Fixed Netlify CMS for folks not already in the [GitHub](<GitHub.md>)
+
+- Documentation (originally just in the [GitHub](<GitHub.md>)
+
+- Post contents are cached in the [GitHub](<GitHub.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - [GitHub](<GitHub.md>)

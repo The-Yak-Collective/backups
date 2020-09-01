@@ -7,5 +7,5 @@
 - [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
 
 ## [Yak Discord server](<Yak Discord server.md>)
-- There is an [Art of Gig](<Art of Gig.md>) discord server. Please respect the [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
+- There is an [Art of Gig](<Art of Gig.md>) [Discord](<Discord.md>) server. Please respect the [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
 

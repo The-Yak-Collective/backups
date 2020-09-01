@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[August 30th, 2020]]
+last updated:: [[August 31st, 2020]]
 last updated by:: [[Nathan Acks]]
 # [[Yak Collective Website]]
     - Pages and metadata in [[GitHub]]. Refer to the [[Website Architecture]] document for details.
@@ -40,7 +40,7 @@ last updated by:: [[Nathan Acks]]
     - "[[Substack]] (via [[IFTTT]]): https://yakcollective.substack.com/feed/"
     - "Featured Yak" feed from the [[Yak Collective Website]] (via [[IFTTT]])
 # [[Discord]]
-    - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])"
+    - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])" (via ???)
     - "Member websites (via [[IFTTT]])"
         - "[[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed"
         - "[[Ben Mosior]]: https://hiredthought.com/feed/"

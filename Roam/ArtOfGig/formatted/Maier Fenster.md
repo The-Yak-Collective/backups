@@ -10,17 +10,27 @@
 
 - `admin-improvements-bak-202008118` (point: [Maier Fenster](<Maier Fenster.md>))
 
+## [Discord](<Discord.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [GitHub](<GitHub.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [Knack](<Knack.md>)
 owner:: [Maier Fenster](<Maier Fenster.md>)
 
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Netlify](<Netlify.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
 - **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
+
+## [Website Version History](<Website Version History.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Maier Fenster](<Maier Fenster.md>)

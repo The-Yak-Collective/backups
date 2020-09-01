@@ -1,5 +1,11 @@
-owner:: [[Yak Collective Robot]]
-last updated:: [[August 29th, 2020]]
+owner:: [[Nathan Acks]]
+last updated:: [[August 31st, 2020]]
 last updated by:: [[Nathan Acks]]
-# Role
-    - Currently unused.
+# Purpose
+    - General automation.
+    - Currently unused. Better alternatives:
+        - [[Carl]]
+        - [Netlify Functions](https://docs.netlify.com/functions/overview/)
+# Access
+    - [[Nathan Acks]]
+    - [[Yak Collective Robot]]

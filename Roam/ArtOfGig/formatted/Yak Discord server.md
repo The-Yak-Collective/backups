@@ -1,9 +1,9 @@
 - __Some of this info is applicable to future "Join Us" page on Yak site.__
-- There is an [Art of Gig](<Art of Gig.md>) discord server. Please respect the [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
+- There is an [Art of Gig](<Art of Gig.md>) [Discord](<Discord.md>) server. Please respect the [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
 - Here is the Google Form to access the invite link: https://forms.gle/V81aePxEoTMXU1FN7
 - [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - [Office hours with YakShavers](<Office hours with YakShavers.md>)
-- Discord server admins -- known as YakShavers
+- [Discord](<Discord.md>) server admins -- known as YakShavers
     - [Venkatesh Rao](<Venkatesh Rao.md>)
     - [Paul Millerd](<Paul Millerd.md>)
     - [Tom Critchlow](<Tom Critchlow.md>)

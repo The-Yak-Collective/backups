@@ -1,15 +1,23 @@
 - **[status](<status.md>):** draft v1 [August 24th, 2020](<August 24th, 2020.md>)
 - **[srn](<srn.md>):** [Fname Lname](<Fname Lname.md>)
 - **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>) | [Jordan Peacock](<Jordan Peacock.md>)
-- ## Template
+- ## Template - member data
     - **[Name](<Name.md>):**
     - **[Title](<Title.md>):** 
+    - **[Date](<Date.md>):** 
     - **[Indie Status](<Indie Status.md>):**
-    - **[Currently](<Currently.md>):**
-    - **[Previously](<Previously.md>):**
-    - **[Short Bio](<Short Bio.md>):**
     - **[@twitter](<@twitter.md>):**
+    - **[Tagline](<Tagline.md>):** 
+    - **[Previously](<Previously.md>):**
+    - **[Currently](<Currently.md>):**
+    - **[Avatar](<Avatar.md>):** 
+    - **[(...other?)](<(...other?).md>):**
     - 
+- 
+- ## Github member.md structure [August 31st, 2020](<August 31st, 2020.md>)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FHEvvWCbTUm.png?alt=media&token=10227c51-5eeb-483f-b81d-41eabc410560)
+    - 
+- 
 - # Members
 - Yak Collective members have contributed to one or more projects.
 - [   Alex Dobrenko Improviser / Writer / Filmmaker Indie status: 5+ years Previously: Distance / UCB / Funny or Die  alexdobrenko.com    @Dobrenkz  ](https://www.yakcollective.org/members/alex-dobrenko/)
@@ -50,6 +58,9 @@
 # Backlinks
 ## [August 24th, 2020](<August 24th, 2020.md>)
 - started a draft page for member data schema » [Schema | member data](<Schema | member data.md>)
+
+## [August 31st, 2020](<August 31st, 2020.md>)
+- light edits on [Schema | member data](<Schema | member data.md>)
 
 ## [infrastructure](<infrastructure.md>)
 - [Schema | member data](<Schema | member data.md>)
