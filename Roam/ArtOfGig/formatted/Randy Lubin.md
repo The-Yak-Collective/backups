@@ -15,13 +15,6 @@
     - https://linkedin.com/in/randylubin
 
 # Backlinks
-## [Data Sources](<Data Sources.md>)
-- [Randy Lubin](<Randy Lubin.md>):
-
-- "[Randy Lubin](<Randy Lubin.md>):
-
-- "[Randy Lubin](<Randy Lubin.md>):
-
 ## [Directory](<Directory.md>)
 - [Randy Lubin](<Randy Lubin.md>)
 
@@ -31,6 +24,9 @@
 - Mine the cultural fringe as free R&D [Randy Lubin](<Randy Lubin.md>)
 
 - Hedge for radically different contingencies / scenarios, choose work for maximum repurposing across scenarios [Randy Lubin](<Randy Lubin.md>)
+
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Randy Lubin](<Randy Lubin.md>):
 
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Randy Lubin](<Randy Lubin.md>)

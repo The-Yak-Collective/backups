@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[August 30th, 2020]]
+last updated:: [[September 1st, 2020]]
 last updated by:: [[Nathan Acks]]
 # Content Updates
     ## Website
@@ -15,10 +15,11 @@ last updated by:: [[Nathan Acks]]
             4. For emergency updates, ping someone with **owner** level access in [[GitHub]] on [[Discord]].
     ## Member Writings & Newsletter Archive
         - Member writings and newsletters are pulled in using [[IFTTT]] from various RSS.
-            - See the [[Data Sources]] document for the current list
-            - Writings and newsletter data are archived in [[GitHub]]
-                - Member writings aren't exposed directly on the finished site; instead, the intention is to push visitors out to the original websites
-                - Newsletter data isn't displayed right now, but in the future will be exposed in an "archive"
+            - {{[[embed]]: ((RLF445t5m))}}
+            - {{[[embed]]: ((URd0ZDDRF))}}
+        - Writings and newsletter data are archived in [[GitHub]]
+            - Member writings aren't exposed directly on the finished site; instead, the intention is to push visitors out to the original websites
+            - Newsletter data isn't displayed right now, but in the future will be exposed in an "archive"
         - If you want to add an RSS feed or update an existing feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
 # Site Development
     ## Current Branches

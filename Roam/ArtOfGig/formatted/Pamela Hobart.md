@@ -40,13 +40,6 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 
 - 19 April 2020 with [Pamela Hobart](<Pamela Hobart.md>):
 
-## [Data Sources](<Data Sources.md>)
-- [Pamela Hobart](<Pamela Hobart.md>):
-
-- "[Pamela Hobart](<Pamela Hobart.md>):
-
-- "[Pamela Hobart](<Pamela Hobart.md>):
-
 ## [Directory](<Directory.md>)
 - [Pamela Hobart](<Pamela Hobart.md>)
 
@@ -55,6 +48,9 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 
 ## [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - 5pm - 5:30pm Eastern Time (21h00-21h30 UTC), hosted by [Pamela Hobart](<Pamela Hobart.md>)
+
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Pamela Hobart](<Pamela Hobart.md>):
 
 ## [The New Old Home](<The New Old Home.md>)
 - I [Pamela Hobart](<Pamela Hobart.md>)

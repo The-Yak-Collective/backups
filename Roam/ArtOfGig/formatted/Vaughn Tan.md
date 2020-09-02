@@ -1,11 +1,7 @@
 
 # Backlinks
-## [Data Sources](<Data Sources.md>)
+## [IT Infrastructure](<IT Infrastructure.md>)
 - [Vaughn Tan](<Vaughn Tan.md>):
-
-- "[Vaughn Tan](<Vaughn Tan.md>):
-
-- "[Vaughn Tan](<Vaughn Tan.md>):
 
 ## [Sparring Consulting](<Sparring Consulting.md>)
 - Question from [Vaughn Tan](<Vaughn Tan.md>)

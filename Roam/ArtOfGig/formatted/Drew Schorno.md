@@ -49,7 +49,7 @@
 - [Drew Schorno](<Drew Schorno.md>):
 
 ## [Threat Model](<Threat Model.md>)
-- "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
+- [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
 
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
 - [Drew Schorno](<Drew Schorno.md>):
@@ -61,7 +61,7 @@
 - [The New Old Home](<The New Old Home.md>) - led by  [Pamela Hobart](<Pamela Hobart.md>) and [Drew Schorno](<Drew Schorno.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-- "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
+- [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Drew Schorno](<Drew Schorno.md>)

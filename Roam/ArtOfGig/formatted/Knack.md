@@ -1,8 +1,8 @@
 owner:: [Maier Fenster](<Maier Fenster.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
+last updated:: [September 1st, 2020](<September 1st, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Purpose
-    - Member database
+    - Member database (future website release)
 # Access ^^(Shared Login!)^^
     - [Maier Fenster](<Maier Fenster.md>)
 
@@ -10,12 +10,9 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - Work on migrating member data to [Knack](<Knack.md>).
 
-## [Data Sources](<Data Sources.md>)
-- [Knack](<Knack.md>)
-
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Knack](<Knack.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "[Knack](<Knack.md>)"
+- [Knack](<Knack.md>)
 

@@ -29,18 +29,14 @@
 ## [A New Old Pattern Language](<A New Old Pattern Language.md>)
 - module led by [Shreeda Segan](<Shreeda Segan.md>)
 
-## [Data Sources](<Data Sources.md>)
-- [Shreeda Segan](<Shreeda Segan.md>):
-
-- "[Shreeda Segan](<Shreeda Segan.md>):
-
-- "[Shreeda Segan](<Shreeda Segan.md>):
-
 ## [Directory](<Directory.md>)
 - [Shreeda Segan](<Shreeda Segan.md>)
 
 ## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
 - [Shreeda Segan](<Shreeda Segan.md>)
+
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Shreeda Segan](<Shreeda Segan.md>):
 
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - [Shreeda Segan](<Shreeda Segan.md>)

@@ -129,15 +129,6 @@
 ## [Contribution Interest & Ratings for Proposals - May 2020](<Contribution Interest & Ratings for Proposals - May 2020.md>)
 - 40 participants submitted ratings for 13 Project Proposals on the Google Form poll shared by [Venkatesh Rao](<Venkatesh Rao.md>).
 
-## [Data Sources](<Data Sources.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>):
-
-- "[Venkatesh Rao](<Venkatesh Rao.md>):
-
-- "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
-
-- "[Venkatesh Rao](<Venkatesh Rao.md>):
-
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - OODA loops as buying time - [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -177,6 +168,8 @@
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+
+- [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -299,7 +292,7 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+- [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
 
 ## [Twitter](<Twitter.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -350,7 +343,7 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - [Nature is Healing](<Nature is Healing.md>) — [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-- "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+- [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 

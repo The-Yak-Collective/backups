@@ -1,10 +1,12 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 30th, 2020](<August 30th, 2020.md>)
+last updated:: [September 1st, 2020](<September 1st, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - Stores code and some data in [The Yak Collective](https://github.com/The-Yak-Collective) team.
     - Repos
         - [yakcollective](https://github.com/The-Yak-Collective/yakcollective): The [Yak Collective Website](<Yak Collective Website.md>)
+            - Holds site scaffolding, static pages, project data, member data, etc.
+                - See [Website Architecture](<Website Architecture.md>) for details
         - [backups](https://github.com/The-Yak-Collective/backups): Holds various git-appropriate backups.
             - [ArtOfGig](https://roamresearch.com/#/app/ArtOfGig) [Roam](<Roam.md>) graph (backed up daily by [roam-to-git](https://github.com/MatthieuBizien/roam-to-git))
         - [yakcollective-ifttt-connector](https://github.com/The-Yak-Collective/yakcollective-ifttt-connector): Archive of an old [Glitch](<Glitch.md>) automation which was subsequently replaced by [Netlify Functions](https://docs.netlify.com/functions/overview/).
@@ -42,9 +44,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
 - [GitHub](<GitHub.md>):
 
-## [Data Sources](<Data Sources.md>)
-- Pages and metadata in [GitHub](<GitHub.md>).
-
 ## [IFTTT](<IFTTT.md>)
 - Push member blog posts and newsletters into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>),
 
@@ -63,7 +62,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Threat Model](<Threat Model.md>)
 - Data loss ([Roam](<Roam.md>), [Yak Collective Robot](<Yak Collective Robot.md>), [GitHub](<GitHub.md>),
 
-- "[GitHub](<GitHub.md>)"
+- [GitHub](<GitHub.md>)
 
 ## [Website Architecture](<Website Architecture.md>)
 - Netlify CMS uses [GitHub](<GitHub.md>)

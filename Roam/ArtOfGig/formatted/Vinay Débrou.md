@@ -27,18 +27,14 @@
 ## [Chat Formats](<Chat Formats.md>)
 - Case Clinic: For the first session on April 3rd, we tried out the Case Clinic idea suggested by [Vinay Débrou](<Vinay Débrou.md>).
 
-## [Data Sources](<Data Sources.md>)
-- [Vinay Débrou](<Vinay Débrou.md>):
-
-- "[Vinay Débrou](<Vinay Débrou.md>):
-
-- "[Vinay Débrou](<Vinay Débrou.md>):
-
 ## [Directory](<Directory.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - 9 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), hosted by [Vinay Débrou](<Vinay Débrou.md>)
+
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Vinay Débrou](<Vinay Débrou.md>):
 
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - A few core areas where we can offer in-demand expertise are web branding/media strategy, online learning, multidisciplinary remote collaboration, designing online spaces. [Vinay Débrou](<Vinay Débrou.md>)

@@ -13,9 +13,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - **[Aside](<Aside.md>):** Comedy nerd, mimetic mediator
     - **[Twitter](<Twitter.md>):**
 
-## [Data Sources](<Data Sources.md>)
-# [Twitter](<Twitter.md>)
-
 ## [IFTTT](<IFTTT.md>)
 - Push member blog posts, newsletters, and featured yaks to [Twitter](<Twitter.md>).
 
@@ -27,7 +24,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - **[Twitter](<Twitter.md>):**
 
 ## [Threat Model](<Threat Model.md>)
-- "[Twitter](<Twitter.md>)"
+- [Twitter](<Twitter.md>)
 
 ## [Website Architecture](<Website Architecture.md>)
 - Feed containing a single item -- today's featured member. Picked up by [IFTTT](<IFTTT.md>) and then pushed to [Twitter](<Twitter.md>).

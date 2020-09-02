@@ -18,7 +18,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [Glitch](<Glitch.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "[Glitch](<Glitch.md>)"
+- [Glitch](<Glitch.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - [Glitch](<Glitch.md>)

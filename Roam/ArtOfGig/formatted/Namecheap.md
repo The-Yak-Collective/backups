@@ -14,5 +14,5 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [Namecheap](<Namecheap.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "[Namecheap](<Namecheap.md>)"
+- [Namecheap](<Namecheap.md>)
 

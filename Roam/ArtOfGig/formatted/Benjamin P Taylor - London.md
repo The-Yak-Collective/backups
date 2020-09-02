@@ -30,13 +30,6 @@
 ## [Collaboration model/economy](<Collaboration model/economy.md>)
 - Note from [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)
 
-## [Data Sources](<Data Sources.md>)
-- [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
-
-- "[Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
-
-- "[Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
-
 ## [David Ing](<David Ing.md>)
 - [Systems Community of Inquiry](https://stream.syscoi.com/) in partnership with [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)
 
@@ -45,6 +38,9 @@
 
 ## [Directory](<Directory.md>)
 - [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)
+
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>):
 
 ## [Neurofuturama Applicant Selection Process](<Neurofuturama Applicant Selection Process.md>)
 - >> I feel as though the criteria were unclear; I thought I'd missed something on the form - there didn't seem to be a way to 'make a case' for what you wanted to work on, or why you should be selected. [Benjamin P Taylor - London](<Benjamin P Taylor - London.md>)

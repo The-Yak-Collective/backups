@@ -19,9 +19,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Contributing to the Website](<Contributing to the Website.md>)
 4. For emergency updates, ping someone with **owner** level access in [GitHub](<GitHub.md>) on [Discord](<Discord.md>).
 
-## [Data Sources](<Data Sources.md>)
-# [Discord](<Discord.md>)
-
 ## [IFTTT](<IFTTT.md>)
 - Push member blog posts and newsletters into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>), and then to the `yaktalk-content` channel in [Discord](<Discord.md>).
 
@@ -38,7 +35,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
 - [Discord](<Discord.md>)
 
-- "[Discord](<Discord.md>)"
+- [Discord](<Discord.md>)
 
 ## [Website Version History](<Website Version History.md>)
 - Incoming member blog posts are now pushed to [Twitter](<Twitter.md>) and the `yaktalk-content` [Discord](<Discord.md>)

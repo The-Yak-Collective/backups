@@ -11,5 +11,5 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [Zapier](<Zapier.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "[Zapier](<Zapier.md>)"
+- [Zapier](<Zapier.md>)?
 

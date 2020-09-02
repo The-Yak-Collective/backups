@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[August 31st, 2020]]
+last updated:: [[September 1st, 2020]]
 last updated by:: [[Nathan Acks]]
 # Pages
     - `about.md`
@@ -39,7 +39,10 @@ last updated by:: [[Nathan Acks]]
         - Sequences used to group projects. Projects are counted in "days released since X".
 # Member Feeds
     - Posts in `writings/_posts` and `newsletter/_posts` are auto-pushed from member RSS feeds using [[IFTTT]] to a [Netlify Functions](https://functions.netlify.com/) hook.
-    - Current feeds pulled are documented above in the [[Data Sources]] document. To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
+    - Current feeds:
+        - {{[[embed]]: ((RLF445t5m))}}
+        - {{[[embed]]: ((URd0ZDDRF))}}
+    - To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
     - Relevant infrastructure bits:
         - `packages.json`
             - NPM packages used by JavaScript files in `functions`.

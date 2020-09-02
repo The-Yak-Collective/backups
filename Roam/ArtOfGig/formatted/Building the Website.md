@@ -57,6 +57,9 @@ bundle install```
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - [Building the Website](<Building the Website.md>)
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+- See [Building the Website](<Building the Website.md>)
+
 ## [Netlify](<Netlify.md>)
 - See [Building the Website](<Building the Website.md>)
 

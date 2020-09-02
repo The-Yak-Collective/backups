@@ -15,5 +15,5 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [LinkedIn](<LinkedIn.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "[LinkedIn](<LinkedIn.md>)"
+- [LinkedIn](<LinkedIn.md>)
 

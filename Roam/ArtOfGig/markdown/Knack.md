@@ -1,7 +1,7 @@
 owner:: [[Maier Fenster]]
-last updated:: [[August 31st, 2020]]
+last updated:: [[September 1st, 2020]]
 last updated by:: [[Nathan Acks]]
 # Purpose
-    - Member database
+    - Member database (future website release)
 # Access ^^(Shared Login!)^^
     - [[Maier Fenster]]

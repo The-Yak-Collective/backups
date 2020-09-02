@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
+last updated:: [September 1st, 2020](<September 1st, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Pages
     - `about.md`
@@ -39,7 +39,10 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
         - Sequences used to group projects. Projects are counted in "days released since X".
 # Member Feeds
     - Posts in `writings/_posts` and `newsletter/_posts` are auto-pushed from member RSS feeds using [IFTTT](<IFTTT.md>) to a [Netlify Functions](https://functions.netlify.com/) hook.
-    - Current feeds pulled are documented above in the [Data Sources](<Data Sources.md>) document. To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
+    - Current feeds:
+        - {{[embed](<embed.md>): ((RLF445t5m))}}
+        - {{[embed](<embed.md>): ((URd0ZDDRF))}}
+    - To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
     - Relevant infrastructure bits:
         - `packages.json`
             - NPM packages used by JavaScript files in `functions`.
@@ -110,8 +113,8 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
 - [Website Architecture](<Website Architecture.md>)
 
-## [Data Sources](<Data Sources.md>)
-- Pages and metadata in [GitHub](<GitHub.md>). Refer to the [Website Architecture](<Website Architecture.md>)
+## [GitHub](<GitHub.md>)
+- See [Website Architecture](<Website Architecture.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
 - [Website Architecture](<Website Architecture.md>)

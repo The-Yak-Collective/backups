@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
+last updated:: [September 1st, 2020](<September 1st, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Threats
     ## Current
@@ -32,32 +32,32 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
                 - If the Yak Collective ever worked on a particularly controversial project, this would raise __all__ of our risks -- including physical risks to our members.
 # Asset Classes
     ## Class 1 (Existential Threats)
-        - "[Yak Collective Robot](<Yak Collective Robot.md>)"
-        - "[Namecheap](<Namecheap.md>)"
+        - [Yak Collective Robot](<Yak Collective Robot.md>)
+        - [Namecheap](<Namecheap.md>)
         - Password managers or databases
-        - "[Roam](<Roam.md>)"
-        - "[Knack](<Knack.md>)"
+        - [Roam](<Roam.md>)
+        - [Knack](<Knack.md>)
         - Bank accounts, should we ever have such a thing
     ## Class 2 (Serious Disruption to Normal Operations)
         - Loss of access to important public and internal Google Docs
-            - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([Paul Millerd](<Paul Millerd.md>))"
-            - "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))"
-        - "[GitHub](<GitHub.md>)"
-        - "[Netlify](<Netlify.md>)"
-        - "[Discord](<Discord.md>)"
+            - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([Paul Millerd](<Paul Millerd.md>))
+            - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
+        - [GitHub](<GitHub.md>)
+        - [Netlify](<Netlify.md>)
+        - [Discord](<Discord.md>)
     ## Class 3  (Inconvenience)
-        - "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) (who owns this?)"
-        - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))"
-        - "Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))"
-        - "[IFTTT](<IFTTT.md>)"
-        - "[Carl](<Carl.md>)"
-        - "[Substack](<Substack.md>)"
-        - "[Twitter](<Twitter.md>)"
-        - "[Facebook](<Facebook.md>)"
-        - "[LinkedIn](<LinkedIn.md>)"
+        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ^^(who owns this?)^^
+        - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+        - Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
+        - [IFTTT](<IFTTT.md>)
+        - [Carl](<Carl.md>)
+        - [Substack](<Substack.md>)
+        - [Twitter](<Twitter.md>)
+        - [Facebook](<Facebook.md>)
+        - [LinkedIn](<LinkedIn.md>)
     ## Class 4 (¯\_(ツ)_/¯)
-        - "[Zapier](<Zapier.md>)"?
-        - "[Glitch](<Glitch.md>)"
+        - [Zapier](<Zapier.md>)?
+        - [Glitch](<Glitch.md>)
 # Possible Mitigations
     - Trust between members (especially members with access to various assets)
     - Separation of duties for Class 1 and 2 assets

@@ -7,11 +7,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
     - [Alex Wagner](<Alex Wagner.md>)
 
 # Backlinks
-## [Data Sources](<Data Sources.md>)
-- [Substack](<Substack.md>)
-
-- "[Substack](<Substack.md>)
-
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Substack](<Substack.md>)
 
@@ -19,5 +14,5 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [Substack](<Substack.md>),
 
 ## [Threat Model](<Threat Model.md>)
-- "[Substack](<Substack.md>)"
+- [Substack](<Substack.md>)
 

@@ -13,11 +13,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Breaking Smart](<Breaking Smart.md>)
 - **[Yak Collective Website](<Yak Collective Website.md>):**
 
-## [Data Sources](<Data Sources.md>)
-# [Yak Collective Website](<Yak Collective Website.md>)
-
-- "Featured Yak" feed from the [Yak Collective Website](<Yak Collective Website.md>)
-
 ## [Frederic Laloux](<Frederic Laloux.md>)
 - **[Yak Collective Website](<Yak Collective Website.md>):**
 
@@ -30,6 +25,8 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - Rebuild the [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
+- [Yak Collective Website](<Yak Collective Website.md>)
+
 - [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)

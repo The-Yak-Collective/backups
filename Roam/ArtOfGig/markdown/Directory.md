@@ -454,6 +454,7 @@ hello@sampanter.info"
     - Mentoring and Consulting Startups on Business Development, Digital Marketing and Productivity
     - Interested in the crossroads between Technology, Psychology and Productivity in the digital age
     - https://linkedin.com/in/jeremie-rykner
+- [[Clo S.]]
 - [[Drew Schorno]]
     - "Website: http://drewschorno.com/"
     - "Twitter: [@dschorno](https://twitter.com/dschorno)"

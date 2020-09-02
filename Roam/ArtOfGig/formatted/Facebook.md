@@ -11,5 +11,5 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [Facebook](<Facebook.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "[Facebook](<Facebook.md>)"
+- [Facebook](<Facebook.md>)
 

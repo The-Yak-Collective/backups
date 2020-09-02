@@ -3728,6 +3728,14 @@
         "uid": "KRRI7SpLG"
       },
       {
+        "create-email": "hiclo@protonmail.com",
+        "create-time": 1598995064758,
+        "edit-email": "hiclo@protonmail.com",
+        "edit-time": 1598995072188,
+        "string": "[[Clo S.]]",
+        "uid": "TxD_Byiwc"
+      },
+      {
         "children": [
           {
             "create-email": "dschorno@gmail.com",
@@ -73362,8 +73370,8 @@
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1598744380192,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598927347331,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1599020179960,
+        "string": "last updated:: [[September 1st, 2020]]",
         "uid": "YEKGHpOb9"
       },
       {
@@ -73640,16 +73648,16 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593571864554,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745716521,
-                "string": "((4K18TzUqd))",
+                "edit-time": 1599019867894,
+                "string": "[[Yak Collective Robot]]",
                 "uid": "2hTOhHdqP"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593572196007,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745725853,
-                "string": "((Uj_QEinxw))",
+                "edit-time": 1599019873522,
+                "string": "[[Namecheap]]",
                 "uid": "o10eHO08R"
               },
               {
@@ -73664,16 +73672,16 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1593572229892,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745733463,
-                "string": "((TZGF43uM4))",
+                "edit-time": 1599019877848,
+                "string": "[[Roam]]",
                 "uid": "tWPMcmKuX"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745294169,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745738977,
-                "string": "((LCeECFQlR))",
+                "edit-time": 1599019882682,
+                "string": "[[Knack]]",
                 "uid": "az0W0PvaF"
               },
               {
@@ -73701,16 +73709,16 @@
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1593572061411,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598745747599,
-                    "string": "((zZYvOqOB4))",
+                    "edit-time": 1599019984907,
+                    "string": "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([[Paul Millerd]])",
                     "uid": "S2otIjeL-"
                   },
                   {
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1598745150273,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598745754918,
-                    "string": "((WHQis_t2j))",
+                    "edit-time": 1599019993269,
+                    "string": "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([[Drew Schorno]])",
                     "uid": "jyTKwf7SP"
                   }
                 ],
@@ -73725,24 +73733,24 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745156640,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745760899,
-                "string": "((qdK4xcp5B))",
+                "edit-time": 1599019998831,
+                "string": "[[GitHub]]",
                 "uid": "WP0Z15U5j"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745161053,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745765582,
-                "string": "((svWf7xaFU))",
+                "edit-time": 1599020005951,
+                "string": "[[Netlify]]",
                 "uid": "tfYD87NTx"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745203361,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745772841,
-                "string": "((BjZrB-wgH))",
+                "edit-time": 1599020011367,
+                "string": "[[Discord]]",
                 "uid": "AUM_Rzw8l"
               }
             ],
@@ -73760,72 +73768,72 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745221706,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745801436,
-                "string": "((cV3pRWHEr))",
+                "edit-time": 1599020156785,
+                "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ^^(who owns this?)^^",
                 "uid": "NlKgj0zOJ"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745229376,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745807009,
-                "string": "((5wHuC3ToC))",
+                "edit-time": 1599020031012,
+                "string": "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])",
                 "uid": "gMNcpebTb"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598927379974,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598927384856,
-                "string": "((muUf7RVWr))",
+                "edit-time": 1599020037259,
+                "string": "Google Analytics ([[Tom Critchlow]])",
                 "uid": "8Wrp8SBar"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745232509,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745811565,
-                "string": "((IKpww20Ca))",
+                "edit-time": 1599020043931,
+                "string": "[[IFTTT]]",
                 "uid": "XRzx-u8Sp"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745264514,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745819051,
-                "string": "((OTcVV-as4))",
+                "edit-time": 1599020048198,
+                "string": "[[Carl]]",
                 "uid": "f4Oam7B9G"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745205272,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745786887,
-                "string": "((CDUB4hQA8))",
+                "edit-time": 1599020052718,
+                "string": "[[Substack]]",
                 "uid": "ddEKtQ-FA"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745237536,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745823659,
-                "string": "((XljWqMcir))",
+                "edit-time": 1599020058531,
+                "string": "[[Twitter]]",
                 "uid": "F4ve9YVe6"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745241435,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745828045,
-                "string": "((sRpQ5R6um))",
+                "edit-time": 1599020062744,
+                "string": "[[Facebook]]",
                 "uid": "hCv0eA6G7"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745243961,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745832010,
-                "string": "((RHx3qE4kk))",
+                "edit-time": 1599020068519,
+                "string": "[[LinkedIn]]",
                 "uid": "BwiYPbJh9"
               }
             ],
@@ -73843,16 +73851,16 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745273655,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745838709,
-                "string": "((ZO3c6TUHd))?",
+                "edit-time": 1599020079802,
+                "string": "[[Zapier]]?",
                 "uid": "knEHtOKTb"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745250530,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598745845681,
-                "string": "((_u2TY_1rk))",
+                "edit-time": 1599020085087,
+                "string": "[[Glitch]]",
                 "uid": "_ozjDT8cF"
               }
             ],
@@ -89606,8 +89614,8 @@
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1598747311988,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598927304751,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1599020624226,
+        "string": "last updated:: [[September 1st, 2020]]",
         "uid": "TQMo0u4hn"
       },
       {
@@ -89621,198 +89629,781 @@
       {
         "children": [
           {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598809586094,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598809601284,
-            "string": "https://tilnow.github.io/docjs/index",
-            "uid": "p7KxTnDp7"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598809582044,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598809584922,
-        "heading": 1,
-        "string": "Overview",
-        "uid": "vLHSSMx_p"
-      },
-      {
-        "children": [
-          {
             "children": [
               {
                 "children": [
                   {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1599020704091,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598748750846,
-                    "string": "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])",
-                    "uid": "5wHuC3ToC"
-                  },
-                  {
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598748759416,
-                    "string": "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([[Paul Millerd]])",
-                    "uid": "zZYvOqOB4"
-                  },
-                  {
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598748763686,
-                    "string": "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([[Drew Schorno]])",
-                    "uid": "WHQis_t2j"
-                  },
-                  {
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598748809452,
-                    "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) (who owns this?)",
-                    "uid": "cV3pRWHEr"
+                    "edit-time": 1599020718217,
+                    "string": "Google account; currently holds no assets itself.",
+                    "uid": "2RAFYut-Z"
                   },
                   {
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598927305776,
+                    "create-time": 1599020655293,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598927320314,
-                    "string": "Google Analytics ([[Tom Critchlow]])",
-                    "uid": "muUf7RVWr"
+                    "edit-time": 1599020702721,
+                    "string": "Google services currently held by individual members should eventually be migrated into this account.",
+                    "uid": "o_hDsCy-t"
                   }
                 ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599019315370,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598748613383,
-                "string": "Data that needs to be merged in...",
-                "uid": "WcADAfz1n"
+                "edit-time": 1599019322918,
+                "string": "[[Yak Collective Robot]]",
+                "uid": "P29ohOPik"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016454146,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599020313861,
+                "string": "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])",
+                "uid": "r8GGZkDUp"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016502531,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599019929362,
+                "string": "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([[Drew Schorno]])",
+                "uid": "sGxc8YzrD"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016494917,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599019919937,
+                "string": "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([[Paul Millerd]])",
+                "uid": "s7km8fEQp"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016514425,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016698082,
+                "string": "Google Analytics ([[Tom Critchlow]])",
+                "uid": "gkim0kNQ8"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016508796,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599020137688,
+                "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ^^(who owns this?)^^",
+                "uid": "jndSmXO3Q"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016331177,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016997554,
+                "string": "[[Carl]] `calendar_yak` Bot",
+                "uid": "uALMjAWD7"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016983120,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016994232,
+                "string": "[[Carl]] `yakyak` Bot",
+                "uid": "BWwrUt7M7"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016972574,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016982555,
+                "string": "[[Carl]] `welcome_bot`",
+                "uid": "fMcY_GSkN"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016341830,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016355836,
+                "string": "[[Discord]]",
+                "uid": "JikaUQVs7"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016335688,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016341833,
+                "string": "[[Namecheap]]",
+                "uid": "mok6AJiGM"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016361593,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016365245,
+                "string": "[[Knack]]",
+                "uid": "MA5oeL3n2"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016355828,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016361239,
+                "string": "[[Roam]]",
+                "uid": "FYX0Mw0q8"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1599019611056,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019632772,
+                    "string": "See [[Building the Website]] for more details",
+                    "uid": "1R6n4eCfd"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599017195283,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599020845145,
+                "string": "[[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))",
+                "uid": "lfZqzDmtI"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599017516066,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599017525171,
+                "string": "[[Netlify]] CDN",
+                "uid": "R-E2CDAe2"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016566808,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599020969669,
+                "string": "[[Netlify]] [Functions](https://docs.netlify.com/functions/overview/) ([create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js))",
+                "uid": "dNvBSN8X7"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016390432,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016398150,
+                "string": "[[Yak Collective Website]]",
+                "uid": "WWXSgTgsd"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016435541,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599021005450,
+                "string": "[[Yak Collective Website]] [\"Featured Yak\" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)",
+                "uid": "2cSJVg6PE"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016293533,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599017213584,
+                "string": "[[GitHub]]",
+                "uid": "Fnq1bFrSK"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016818268,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599020877497,
+                "string": "[[IFTTT]] [Netlify Build Hook](https://docs.netlify.com/configure-builds/build-hooks/) Applet (Timer)",
+                "uid": "EWP06EjZH"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016312778,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016816981,
+                "string": "[[IFTTT]] Twitter Applets",
+                "uid": "j7DInC9sg"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016859952,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599020979016,
+                "string": "[[IFTTT]] [create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js) Applets",
+                "uid": "ucCeiIsih"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016365240,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016369911,
+                "string": "[[Zapier]]",
+                "uid": "YGbop__HZ"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016323368,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016331181,
+                "string": "[[Glitch]]",
+                "uid": "ZOe5Y4HbG"
+              },
+              {
+                "children": [
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed",
+                    "uid": "ZUTCBaztj"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Ben Mosior]]: https://hiredthought.com/feed/",
+                    "uid": "Xgb62p6Gf"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Benjamin P Taylor - London]]:\u00a0https://medium.com/feed/@antlerboy",
+                    "uid": "7Pd6AvZ84"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Benton Heimsath]]: https://www.bentonheimsath.com/writing?format=rss",
+                    "uid": "d38ggbmLS"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[David McDougall]]: https://innovationatscale.substack.com/feed/",
+                    "uid": "QXq8UHQR3"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Pamela Hobart]]: https://www.pamelajhobart.com/blog?format=rss",
+                    "uid": "CfsAjkTOL"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Paul Millerd]]: https://think-boundless.com/feed/",
+                    "uid": "9N4b8oMQb"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Randy Lubin]]: https://blog.randylubin.com/feed.xml",
+                    "uid": "UpPJQtivw"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Shreeda Segan]]: https://shreeda.substack.com/feed/",
+                    "uid": "EZHybwU_R"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Toby Shorin]]: https://subpixel.space/feed.xml",
+                    "uid": "38F__nyfl"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Tom Critchlow]]:\u00a0https://tomcritchlow.com/feed",
+                    "uid": "Ct6Jkp9Ft"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Vaughn Tan]]: https://uncertaintymindset.substack.com/feed/",
+                    "uid": "7xUDFWuP_"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/",
+                    "uid": "sDi65A6C7"
+                  },
+                  {
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019270436,
+                    "string": "[[Vinay D\u00e9brou]]: https://vinaydebrou.com/feed.xml",
+                    "uid": "MIaeRWApM"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016421599,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016435544,
+                "string": "Member RSS Feeds",
+                "uid": "RLF445t5m"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1599019303438,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019307171,
+                    "string": "RSS feed: https://yakcollective.substack.com/feed/",
+                    "uid": "ZNQUded2G"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016370107,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016374937,
+                "string": "[[Substack]]",
+                "uid": "URd0ZDDRF"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016374933,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016381155,
+                "string": "[[Twitter]]",
+                "uid": "1ZYzfMt4S"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016381152,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016385427,
+                "string": "[[Facebook]]",
+                "uid": "3Mnpbicx4"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599016385423,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599016390436,
+                "string": "[[LinkedIn]]",
+                "uid": "X2mTWu8DL"
               }
             ],
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598747908280,
-            "string": "[[Yak Collective Robot]]",
-            "uid": "4K18TzUqd"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598747952836,
-            "string": "[[GitHub]]",
-            "uid": "qdK4xcp5B"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598747978436,
-            "string": "[[Netlify]]",
-            "uid": "svWf7xaFU"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598747997335,
-            "string": "[[IFTTT]]",
-            "uid": "IKpww20Ca"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748050491,
-            "string": "[[Glitch]]",
-            "uid": "_u2TY_1rk"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748199447,
-            "string": "[[Carl]]",
-            "uid": "OTcVV-as4"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748261679,
-            "string": "[[Namecheap]]",
-            "uid": "Uj_QEinxw"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748279158,
-            "string": "[[Discord]]",
-            "uid": "BjZrB-wgH"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748315703,
-            "string": "[[Roam]]",
-            "uid": "TZGF43uM4"
-          },
-          {
             "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598744898844,
+            "create-time": 1599016024295,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748343287,
-            "string": "[[Knack]]",
-            "uid": "LCeECFQlR"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598744931542,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748377156,
-            "string": "[[Zapier]]",
-            "uid": "ZO3c6TUHd"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748490137,
-            "string": "[[Substack]]",
-            "uid": "CDUB4hQA8"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748521627,
-            "string": "[[Twitter]]",
-            "uid": "XljWqMcir"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748581132,
-            "string": "[[Facebook]]",
-            "uid": "sRpQ5R6um"
-          },
-          {
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598748602336,
-            "string": "[[LinkedIn]]",
-            "uid": "RHx3qE4kk"
+            "edit-time": 1599016250376,
+            "props": {
+              "diagram": {
+                "groups": {
+                  "uuid6f329e1a-c36e-4e5b-b75c-3194527464b4": {
+                    "height": 418.17584906346406,
+                    "id": "uuid6f329e1a-c36e-4e5b-b75c-3194527464b4",
+                    "member-ids": [
+                      "j7DInC9sg",
+                      "ucCeiIsih",
+                      "EWP06EjZH"
+                    ],
+                    "width": 522.7198113293302,
+                    "x": 635.9821038652738,
+                    "y": 429.7490037584455
+                  },
+                  "uuid7a6ec110-a59e-411b-be20-424105da3b11": {
+                    "height": 442.7744284201385,
+                    "id": "uuid7a6ec110-a59e-411b-be20-424105da3b11",
+                    "member-ids": [
+                      "s7km8fEQp",
+                      "P29ohOPik",
+                      "sGxc8YzrD",
+                      "jndSmXO3Q",
+                      "gkim0kNQ8",
+                      "r8GGZkDUp"
+                    ],
+                    "width": 784.0797169939954,
+                    "x": -1092.0680959411004,
+                    "y": -249.78675096968357
+                  },
+                  "uuidb6122297-5fdc-44ea-a35f-4b239f0251b2": {
+                    "height": 704.1343340848038,
+                    "id": "uuidb6122297-5fdc-44ea-a35f-4b239f0251b2",
+                    "member-ids": [
+                      "2cSJVg6PE",
+                      "dNvBSN8X7",
+                      "lfZqzDmtI",
+                      "R-E2CDAe2",
+                      "WWXSgTgsd"
+                    ],
+                    "width": 596.5155493993535,
+                    "x": -295.68908926876804,
+                    "y": 223.73590164629763
+                  },
+                  "uuidb678f281-f862-443c-a456-ba2298121255": {
+                    "height": 310.5570643780138,
+                    "id": "uuidb678f281-f862-443c-a456-ba2298121255",
+                    "member-ids": [
+                      "BWwrUt7M7",
+                      "uALMjAWD7",
+                      "fMcY_GSkN"
+                    ],
+                    "width": 285.95848502133936,
+                    "x": -1027.4968251298299,
+                    "y": 595.7894144159975
+                  },
+                  "uuidd42b2c1c-be97-4da4-8108-d3d6dffad67a": {
+                    "height": 353.60457825219396,
+                    "id": "uuidd42b2c1c-be97-4da4-8108-d3d6dffad67a",
+                    "member-ids": [
+                      "2cSJVg6PE",
+                      "dNvBSN8X7",
+                      "WWXSgTgsd"
+                    ],
+                    "width": 501.1960543922403,
+                    "x": -252.64157539458756,
+                    "y": 282.1575276183994
+                  }
+                },
+                "links": {
+                  "uuid0ff566d8-b36a-44ee-8cdc-6043c17aa611": {
+                    "from": "r8GGZkDUp",
+                    "id": "uuid0ff566d8-b36a-44ee-8cdc-6043c17aa611",
+                    "to": "uALMjAWD7"
+                  },
+                  "uuid11c06107-bad5-4e10-a8e9-a68b96193441": {
+                    "from": "gkim0kNQ8",
+                    "id": "uuid11c06107-bad5-4e10-a8e9-a68b96193441",
+                    "to": "WWXSgTgsd"
+                  },
+                  "uuid1aa0e680-e5c6-428d-ad6f-425da99b60e8": {
+                    "from": "R-E2CDAe2",
+                    "id": "uuid1aa0e680-e5c6-428d-ad6f-425da99b60e8",
+                    "to": "dNvBSN8X7"
+                  },
+                  "uuid2edfe0df-21f2-46c7-9fc2-1337a68dc43f": {
+                    "from": "2cSJVg6PE",
+                    "id": "uuid2edfe0df-21f2-46c7-9fc2-1337a68dc43f",
+                    "to": "j7DInC9sg"
+                  },
+                  "uuid5323f132-5fff-4a25-852b-c7af7d54d97a": {
+                    "from": "j7DInC9sg",
+                    "id": "uuid5323f132-5fff-4a25-852b-c7af7d54d97a",
+                    "to": "1ZYzfMt4S"
+                  },
+                  "uuid5e200cae-155b-412f-b155-ef29307fdcb9": {
+                    "from": "WWXSgTgsd",
+                    "id": "uuid5e200cae-155b-412f-b155-ef29307fdcb9",
+                    "to": "jndSmXO3Q"
+                  },
+                  "uuid62fdb8e5-8e11-4524-91c4-c535047f1f69": {
+                    "from": "URd0ZDDRF",
+                    "id": "uuid62fdb8e5-8e11-4524-91c4-c535047f1f69",
+                    "to": "ucCeiIsih"
+                  },
+                  "uuid73e36332-3a76-418d-84ad-64ee59d1d977": {
+                    "from": "URd0ZDDRF",
+                    "id": "uuid73e36332-3a76-418d-84ad-64ee59d1d977",
+                    "to": "j7DInC9sg"
+                  },
+                  "uuid74075c86-2f9c-4fac-bd05-6b1b98f7aeea": {
+                    "from": "RLF445t5m",
+                    "id": "uuid74075c86-2f9c-4fac-bd05-6b1b98f7aeea",
+                    "to": "ucCeiIsih"
+                  },
+                  "uuid770bdcf5-3d58-4c28-9801-4185542ffcd0": {
+                    "from": "jndSmXO3Q",
+                    "id": "uuid770bdcf5-3d58-4c28-9801-4185542ffcd0",
+                    "to": "JikaUQVs7"
+                  },
+                  "uuid86e3bac7-a2c2-48e9-8ceb-271526809e8b": {
+                    "from": "lfZqzDmtI",
+                    "id": "uuid86e3bac7-a2c2-48e9-8ceb-271526809e8b",
+                    "to": "R-E2CDAe2"
+                  },
+                  "uuid8ba17bcf-efa3-4297-a64d-9fdf44e4fe1d": {
+                    "from": "sGxc8YzrD",
+                    "id": "uuid8ba17bcf-efa3-4297-a64d-9fdf44e4fe1d",
+                    "to": "WWXSgTgsd"
+                  },
+                  "uuid8fd7ff9e-4565-47b2-8ce4-efeea1e2e7e6": {
+                    "from": "R-E2CDAe2",
+                    "id": "uuid8fd7ff9e-4565-47b2-8ce4-efeea1e2e7e6",
+                    "to": "2cSJVg6PE"
+                  },
+                  "uuid958b8d08-3578-4db0-a5b3-23a1620d7739": {
+                    "from": "fMcY_GSkN",
+                    "id": "uuid958b8d08-3578-4db0-a5b3-23a1620d7739",
+                    "to": "JikaUQVs7"
+                  },
+                  "uuid96aa68f2-cb3c-4011-a091-5bb2bd7a2516": {
+                    "from": "EWP06EjZH",
+                    "id": "uuid96aa68f2-cb3c-4011-a091-5bb2bd7a2516",
+                    "to": "lfZqzDmtI"
+                  },
+                  "uuida63e7de7-482a-4b09-b149-7a7e20b26e57": {
+                    "from": "BWwrUt7M7",
+                    "id": "uuida63e7de7-482a-4b09-b149-7a7e20b26e57",
+                    "to": "JikaUQVs7"
+                  },
+                  "uuidcd08c25f-2fcf-431e-abcb-af0dac2c3273": {
+                    "from": "mok6AJiGM",
+                    "id": "uuidcd08c25f-2fcf-431e-abcb-af0dac2c3273",
+                    "to": "R-E2CDAe2"
+                  },
+                  "uuidd32a6f5a-a966-4ba0-81f9-425af98d8f4d": {
+                    "from": "ucCeiIsih",
+                    "id": "uuidd32a6f5a-a966-4ba0-81f9-425af98d8f4d",
+                    "to": "dNvBSN8X7"
+                  },
+                  "uuidda9b95d8-2fab-4ab1-b4f2-3b90a19df7fa": {
+                    "from": "s7km8fEQp",
+                    "id": "uuidda9b95d8-2fab-4ab1-b4f2-3b90a19df7fa",
+                    "to": "WWXSgTgsd"
+                  },
+                  "uuidde6a4d31-57dc-4726-9a87-c8491cb3f595": {
+                    "from": "Fnq1bFrSK",
+                    "id": "uuidde6a4d31-57dc-4726-9a87-c8491cb3f595",
+                    "to": "lfZqzDmtI"
+                  },
+                  "uuide132f286-7947-4775-951c-b799dbcce897": {
+                    "from": "dNvBSN8X7",
+                    "id": "uuide132f286-7947-4775-951c-b799dbcce897",
+                    "to": "Fnq1bFrSK"
+                  },
+                  "uuidec5d29cc-e992-4baf-964d-488ee0a74ea8": {
+                    "from": "RLF445t5m",
+                    "id": "uuidec5d29cc-e992-4baf-964d-488ee0a74ea8",
+                    "to": "j7DInC9sg"
+                  },
+                  "uuidf257dfe2-43c0-4e2f-b033-1862c0c7b7b4": {
+                    "from": "R-E2CDAe2",
+                    "id": "uuidf257dfe2-43c0-4e2f-b033-1862c0c7b7b4",
+                    "to": "WWXSgTgsd"
+                  },
+                  "uuidfe4cc35f-68df-426d-91e2-0351645360b0": {
+                    "from": "uALMjAWD7",
+                    "id": "uuidfe4cc35f-68df-426d-91e2-0351645360b0",
+                    "to": "JikaUQVs7"
+                  }
+                },
+                "nodes": {
+                  "1ZYzfMt4S": {
+                    "height": 48,
+                    "id": "1ZYzfMt4S",
+                    "width": 100,
+                    "x": 1007.4849095003491,
+                    "y": 177.19188592561767
+                  },
+                  "2cSJVg6PE": {
+                    "height": 69.52375693708996,
+                    "id": "2cSJVg6PE",
+                    "width": 200,
+                    "x": 29.046824643051366,
+                    "y": 540.9191108310789
+                  },
+                  "3Mnpbicx4": {
+                    "height": 51.07482241958439,
+                    "id": "3Mnpbicx4",
+                    "width": 116.97979467122423,
+                    "x": 654.3088363919229,
+                    "y": 76.00658475913627
+                  },
+                  "BWwrUt7M7": {
+                    "height": 49.22446725875261,
+                    "id": "BWwrUt7M7",
+                    "width": 166.1769533845727,
+                    "x": -975.6607962458588,
+                    "y": 746.3781196976487
+                  },
+                  "EWP06EjZH": {
+                    "height": 66.4489345175059,
+                    "id": "EWP06EjZH",
+                    "width": 178.47624306291027,
+                    "x": 738.0500958944951,
+                    "y": 742.5270790835567
+                  },
+                  "FYX0Mw0q8": {
+                    "height": 49.224467258753066,
+                    "id": "FYX0Mw0q8",
+                    "width": 100,
+                    "x": 205.71062623220587,
+                    "y": 1077.5236186112293
+                  },
+                  "Fnq1bFrSK": {
+                    "height": 48,
+                    "id": "Fnq1bFrSK",
+                    "width": 200,
+                    "x": 385.9215453493131,
+                    "y": 704.8619979008942
+                  },
+                  "JikaUQVs7": {
+                    "height": 51.07482241958428,
+                    "id": "JikaUQVs7",
+                    "width": 104.68050499288677,
+                    "x": -552.0134319975135,
+                    "y": 747.9285354425591
+                  },
+                  "MA5oeL3n2": {
+                    "height": 44.92517758041549,
+                    "id": "MA5oeL3n2",
+                    "width": 100,
+                    "x": -106.55435726607448,
+                    "y": 1075.4633301802144
+                  },
+                  "P29ohOPik": {
+                    "height": 48,
+                    "id": "P29ohOPik",
+                    "width": 189.92527138084733,
+                    "x": -1020.9058334075057,
+                    "y": -164.55390077949926
+                  },
+                  "R-E2CDAe2": {
+                    "height": 48,
+                    "id": "R-E2CDAe2",
+                    "width": 135.4287291887299,
+                    "x": -152.3100343121813,
+                    "y": 707.5555457693941
+                  },
+                  "RLF445t5m": {
+                    "height": 48,
+                    "id": "RLF445t5m",
+                    "width": 200,
+                    "x": 483.54429889103744,
+                    "y": 188.4770222180373
+                  },
+                  "URd0ZDDRF": {
+                    "height": 48,
+                    "id": "URd0ZDDRF",
+                    "width": 113.90497225163972,
+                    "x": 779.9867017892195,
+                    "y": 191.64645507616217
+                  },
+                  "WWXSgTgsd": {
+                    "height": 48,
+                    "id": "WWXSgTgsd",
+                    "width": 200,
+                    "x": -238.37624749578157,
+                    "y": 429.54930938294734
+                  },
+                  "X2mTWu8DL": {
+                    "height": 44.925177580415834,
+                    "id": "X2mTWu8DL",
+                    "width": 104.68050499288711,
+                    "x": 892.3537019774059,
+                    "y": 73.95605963867274
+                  },
+                  "YGbop__HZ": {
+                    "height": 48,
+                    "id": "YGbop__HZ",
+                    "width": 100,
+                    "x": 827.8329366691046,
+                    "y": 936.2270172926408
+                  },
+                  "ZOe5Y4HbG": {
+                    "height": 48,
+                    "id": "ZOe5Y4HbG",
+                    "width": 100,
+                    "x": 1019.6964919315981,
+                    "y": 938.5532610369316
+                  },
+                  "dNvBSN8X7": {
+                    "height": 72.59857935667435,
+                    "id": "dNvBSN8X7",
+                    "width": 163.10213096498865,
+                    "x": -15.392046421214559,
+                    "y": 342.46662490147804
+                  },
+                  "fMcY_GSkN": {
+                    "height": 44.92517758041549,
+                    "id": "fMcY_GSkN",
+                    "width": 166.1769533845727,
+                    "x": -975.4798114740533,
+                    "y": 831.5866405418456
+                  },
+                  "gkim0kNQ8": {
+                    "height": 66.44893451750568,
+                    "id": "gkim0kNQ8",
+                    "width": 156.95248612581975,
+                    "x": -492.16255371173565,
+                    "y": -190.16958459329987
+                  },
+                  "j7DInC9sg": {
+                    "height": 48,
+                    "id": "j7DInC9sg",
+                    "width": 196.9251775804155,
+                    "x": 924.2818958844452,
+                    "y": 658.036487755559
+                  },
+                  "jndSmXO3Q": {
+                    "height": 67.87195643098107,
+                    "id": "jndSmXO3Q",
+                    "width": 143.83161438996206,
+                    "x": -865.3842919828649,
+                    "y": 94.33860342385941
+                  },
+                  "lfZqzDmtI": {
+                    "height": 69.52375693708996,
+                    "id": "lfZqzDmtI",
+                    "width": 172.32659822374126,
+                    "x": 3.920177498199905,
+                    "y": 828.6264898703129
+                  },
+                  "mok6AJiGM": {
+                    "height": 48,
+                    "id": "mok6AJiGM",
+                    "width": 138.50355160831407,
+                    "x": -451.4403150830134,
+                    "y": 1002.8058384501951
+                  },
+                  "r8GGZkDUp": {
+                    "height": 69.52375693709007,
+                    "id": "r8GGZkDUp",
+                    "width": 163.10213096498842,
+                    "x": -1055.3109228071557,
+                    "y": 29.11410350822098
+                  },
+                  "s7km8fEQp": {
+                    "height": 72.59857935667435,
+                    "id": "s7km8fEQp",
+                    "width": 181.55106548249432,
+                    "x": -697.9165228774903,
+                    "y": -129.12565486061268
+                  },
+                  "sGxc8YzrD": {
+                    "height": 66.44893451750579,
+                    "id": "sGxc8YzrD",
+                    "width": 163.10213096498842,
+                    "x": -843.8921617605897,
+                    "y": -33.53460691039126
+                  },
+                  "uALMjAWD7": {
+                    "height": 48,
+                    "id": "uALMjAWD7",
+                    "width": 200,
+                    "x": -992.4248686739534,
+                    "y": 652.8658615375498
+                  },
+                  "ucCeiIsih": {
+                    "height": 64.45164163609638,
+                    "id": "ucCeiIsih",
+                    "width": 175.32253754585508,
+                    "x": 673.544384731759,
+                    "y": 532.0438513789683
+                  }
+                },
+                "selected": []
+              }
+            },
+            "string": "{{[[diagram]]}}",
+            "uid": "seX3IuIsL"
           }
         ],
         "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598744401971,
+        "create-time": 1599019411839,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598745080606,
+        "edit-time": 1599019422667,
         "heading": 1,
         "string": "Assets",
-        "uid": "vOO6clOfi"
+        "uid": "QEt2nOYQG"
       },
       {
         "children": [
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598744444785,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598745080606,
-            "string": "[[Yak Collective Website]]",
-            "uid": "atscjRjxV"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598744441056,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598745080606,
-        "heading": 1,
-        "string": "Projects",
-        "uid": "IZAo4l-0v"
-      },
-      {
-        "children": [
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805308206,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598805321782,
-            "string": "[[Data Sources]]",
-            "uid": "Ziw3D17-J"
-          },
           {
             "create-email": "roam@delphi-strategy.com",
             "create-time": 1598744494455,
@@ -89825,7 +90416,7 @@
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1598744446777,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598745080606,
+        "edit-time": 1599019733793,
         "heading": 1,
         "string": "Documents",
         "uid": "qxKXiiPg5"
@@ -89845,8 +90436,8 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598927233776,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1599020191332,
+        "string": "last updated:: [[September 1st, 2020]]",
         "uid": "zLhoprt6l"
       },
       {
@@ -89918,44 +90509,34 @@
           {
             "children": [
               {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598927238724,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598927247753,
-                "string": "((5wHuC3ToC))",
-                "uid": "XGKzLK6vc"
+                "edit-time": 1599020122126,
+                "string": "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])",
+                "uid": "mR0DCiiKE"
               },
               {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598927247751,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598927255697,
-                "string": "((zZYvOqOB4))",
-                "uid": "u7UMzdOlH"
+                "edit-time": 1599020122125,
+                "string": "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([[Paul Millerd]])",
+                "uid": "KOjmO2ihj"
               },
               {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598927255694,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598927266818,
-                "string": "((WHQis_t2j))",
-                "uid": "CqWKHUMEf"
+                "edit-time": 1599020122125,
+                "string": "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([[Drew Schorno]])",
+                "uid": "4AV2vTC0O"
               },
               {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598927266811,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598927274768,
-                "string": "((cV3pRWHEr))",
-                "uid": "1mdXqDdE2"
+                "edit-time": 1599020146330,
+                "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ^^(who owns this?)^^",
+                "uid": "oG9FwDcRH"
               },
               {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598927332180,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598927337043,
-                "string": "((muUf7RVWr))",
-                "uid": "R9h8N_ThW"
+                "edit-time": 1599020122126,
+                "string": "Google Analytics ([[Tom Critchlow]])",
+                "uid": "3jQbpnZIs"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
@@ -90032,8 +90613,8 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598808721589,
-        "string": "last updated:: [[August 30th, 2020]]",
+        "edit-time": 1599019154675,
+        "string": "last updated:: [[September 1st, 2020]]",
         "uid": "buU1xi-gC"
       },
       {
@@ -90055,6 +90636,26 @@
           {
             "children": [
               {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "roam@delphi-strategy.com",
+                        "create-time": 1599019127007,
+                        "edit-email": "roam@delphi-strategy.com",
+                        "edit-time": 1599019143278,
+                        "string": "See [[Website Architecture]] for details",
+                        "uid": "912GjXw5_"
+                      }
+                    ],
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1599019034515,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599019126272,
+                    "string": "Holds site scaffolding, static pages, project data, member data, etc.",
+                    "uid": "gU8Dn2cmL"
+                  }
+                ],
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598806776245,
                 "edit-email": "roam@delphi-strategy.com",
@@ -90201,8 +90802,8 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598921807885,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1599021068862,
+        "string": "last updated:: [[September 1st, 2020]]",
         "uid": "Vp0u_g0Sn"
       },
       {
@@ -90313,6 +90914,14 @@
       },
       {
         "children": [
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599021043424,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599021058313,
+            "string": "Netlify has great [documentation](https://docs.netlify.com/).",
+            "uid": "kpXYuiyIt"
+          },
           {
             "create-email": "roam@delphi-strategy.com",
             "create-time": 1598921841394,
@@ -90849,6 +91458,14 @@
             "edit-time": 1598926741469,
             "string": "The knowledge of the Yak.",
             "uid": "TDD1XS6tA"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599019187769,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599019199494,
+            "string": "Holds website data (future release).",
+            "uid": "UDaEi966O"
           }
         ],
         "edit-email": "roam@delphi-strategy.com",
@@ -90895,8 +91512,8 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926672990,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1599019183921,
+        "string": "last updated:: [[September 1st, 2020]]",
         "uid": "_VRv40EAD"
       },
       {
@@ -90909,8 +91526,8 @@
         "children": [
           {
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598926692463,
-            "string": "Member database",
+            "edit-time": 1599019175629,
+            "string": "Member database (future website release)",
             "uid": "kHNCe2lmT"
           }
         ],
@@ -91054,406 +91671,14 @@
     "children": [
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598805142174,
-        "string": "owner:: [[Nathan Acks]]",
-        "uid": "ac17GdW7i"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598927435189,
-        "string": "last updated:: [[August 31st, 2020]]",
-        "uid": "wf2Br9Ujh"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598805142174,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "QGGz27_Q3"
-      },
-      {
-        "children": [
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805160805,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598805502145,
-            "string": "Pages and metadata in [[GitHub]]. Refer to the [[Website Architecture]] document for details.",
-            "uid": "OaIfsgFnp"
-          },
-          {
-            "children": [
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805678332,
-                "string": "[[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed",
-                "uid": "9kIovQBhV"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Ben Mosior]]: https://hiredthought.com/feed/",
-                "uid": "zggObJ2wL"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Benjamin P Taylor - London]]:\u00a0https://medium.com/feed/@antlerboy",
-                "uid": "SovmcI61R"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805688342,
-                "string": "[[Benton Heimsath]]: https://www.bentonheimsath.com/writing?format=rss",
-                "uid": "DDm-XhuwA"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[David McDougall]]: https://innovationatscale.substack.com/feed/",
-                "uid": "PG6LyPwC9"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Pamela Hobart]]: https://www.pamelajhobart.com/blog?format=rss",
-                "uid": "2aQn9yCC6"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Paul Millerd]]: https://think-boundless.com/feed/",
-                "uid": "O9-HNt40_"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Randy Lubin]]: https://blog.randylubin.com/feed.xml",
-                "uid": "xgzhiJ9ww"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Shreeda Segan]]: https://shreeda.substack.com/feed/",
-                "uid": "k5ljjgffO"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Toby Shorin]]: https://subpixel.space/feed.xml",
-                "uid": "cX4CVVPTn"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Tom Critchlow]]:\u00a0https://tomcritchlow.com/feed",
-                "uid": "jwC28a8Bf"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Vaughn Tan]]: https://uncertaintymindset.substack.com/feed/",
-                "uid": "Rhr6tpH32"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/",
-                "uid": "S5i3cDYK1"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805662995,
-                "string": "[[Vinay D\u00e9brou]]: https://vinaydebrou.com/feed.xml",
-                "uid": "1gKAmDdQH"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805608091,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598806055620,
-            "string": "Member websites (via [[IFTTT]])",
-            "uid": "hChzjZfwx"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805620518,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598806067866,
-            "string": "[[Substack]] (via [[IFTTT]]): https://yakcollective.substack.com/feed/",
-            "uid": "Z2chBHI8m"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805502133,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598805569305,
-            "string": "[[Knack]] (future release)",
-            "uid": "DrN1AXiHc"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805573049,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598805856154,
-            "string": "[[Roam]] (future release)",
-            "uid": "gnmW_nigK"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598805144612,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598805405117,
-        "heading": 1,
-        "string": "[[Yak Collective Website]]",
-        "uid": "X2u9O45v4"
-      },
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((9kIovQBhV))",
-                "uid": "4hYbf2rvA"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((zggObJ2wL))",
-                "uid": "qWw2nc2VM"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((SovmcI61R))",
-                "uid": "xx-D5QsYQ"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((DDm-XhuwA))",
-                "uid": "PQzk99J8V"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((PG6LyPwC9))",
-                "uid": "zMXH5FGpz"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((2aQn9yCC6))",
-                "uid": "N_SIVqvw3"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((O9-HNt40_))",
-                "uid": "iTRuEbwDp"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((xgzhiJ9ww))",
-                "uid": "c_WIN-88Y"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((k5ljjgffO))",
-                "uid": "5U0h4PfLT"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((cX4CVVPTn))",
-                "uid": "D7vQLuaGM"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931756,
-                "string": "((jwC28a8Bf))",
-                "uid": "2P0gBdqIv"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931757,
-                "string": "((Rhr6tpH32))",
-                "uid": "yvppbiWFz"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931757,
-                "string": "((S5i3cDYK1))",
-                "uid": "chsrzkOOQ"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805931757,
-                "string": "((1gKAmDdQH))",
-                "uid": "L4sBwuL4b"
-              }
-            ],
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598805931757,
-            "string": "((hChzjZfwx))",
-            "uid": "aqWHme-N0"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805943434,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598805960469,
-            "string": "((Z2chBHI8m))",
-            "uid": "amnnfrU1r"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805168262,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598813933728,
-            "string": "\"Featured Yak\" feed from the [[Yak Collective Website]] (via [[IFTTT]])",
-            "uid": "SZKlJimjP"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598805162912,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598805397996,
-        "heading": 1,
-        "string": "[[Twitter]]",
-        "uid": "82C21KMI2"
-      },
-      {
-        "children": [
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598805257785,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598927424028,
-            "string": "((5wHuC3ToC)) (via ???)",
-            "uid": "lB139QdyN"
-          },
-          {
-            "children": [
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((9kIovQBhV))",
-                "uid": "Epa1MaiPi"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((zggObJ2wL))",
-                "uid": "mYWwgDy8Q"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((SovmcI61R))",
-                "uid": "gE6-Z7ETM"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((DDm-XhuwA))",
-                "uid": "neK6pJHSW"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((PG6LyPwC9))",
-                "uid": "mxbQ0Pj_l"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((2aQn9yCC6))",
-                "uid": "wouvIoZBd"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((O9-HNt40_))",
-                "uid": "48Oas3Qcr"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((xgzhiJ9ww))",
-                "uid": "EG967d4Zm"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((k5ljjgffO))",
-                "uid": "o_MmkWpnl"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((cX4CVVPTn))",
-                "uid": "Ng_dyOTnv"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((jwC28a8Bf))",
-                "uid": "UwwZcnqfl"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((Rhr6tpH32))",
-                "uid": "swbOCltIy"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((S5i3cDYK1))",
-                "uid": "QijPOVprI"
-              },
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598805979968,
-                "string": "((1gKAmDdQH))",
-                "uid": "26o-ZBmGm"
-              }
-            ],
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598805979968,
-            "string": "((hChzjZfwx))",
-            "uid": "3cmneq4a6"
-          }
-        ],
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598805171241,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598805401297,
-        "heading": 1,
-        "string": "[[Discord]]",
-        "uid": "7SRxh7nd8"
-      }
-    ],
-    "edit-email": "roam@delphi-strategy.com",
-    "edit-time": 1598805321782,
-    "title": "Data Sources"
-  },
-  {
-    "children": [
-      {
-        "edit-email": "roam@delphi-strategy.com",
         "edit-time": 1598805472634,
         "string": "owner:: [[Nathan Acks]]",
         "uid": "mH20D4dOe"
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598923230267,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1599020245376,
+        "string": "last updated:: [[September 1st, 2020]]",
         "uid": "9LgGxlxFu"
       },
       {
@@ -91754,9 +91979,35 @@
             "uid": "rWRwCdjOb"
           },
           {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599019507685,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599019541667,
+                "string": "{{[[embed]]: ((RLF445t5m))}}",
+                "uid": "N56AbdJDG"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599019542489,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599019567110,
+                "string": "{{[[embed]]: ((URd0ZDDRF))}}",
+                "uid": "UfbZCXDTA"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599019519822,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598923259897,
-            "string": "Current feeds pulled are documented above in the [[Data Sources]] document. To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).",
+            "edit-time": 1599019519822,
+            "string": "Current feeds:",
+            "uid": "a1zgpX3KU"
+          },
+          {
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599019507697,
+            "string": "To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).",
             "uid": "bmDEBl39I"
           },
           {
@@ -92258,7 +92509,7 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598883343038,
+        "edit-time": 1599020283795,
         "string": "last updated:: [[August 31st, 2020]]",
         "uid": "yEDRyuPR2"
       },
@@ -93315,8 +93566,8 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598808773382,
-        "string": "last updated:: [[August 30th, 2020]]",
+        "edit-time": 1599020270555,
+        "string": "last updated:: [[September 1st, 2020]]",
         "uid": "lVBJXfWtX"
       },
       {
@@ -93420,35 +93671,17 @@
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1598809658070,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598809778647,
-                    "string": "See the [[Data Sources]] document for the current list",
+                    "edit-time": 1599019667851,
+                    "string": "{{[[embed]]: ((RLF445t5m))}}",
                     "uid": "fe9lGDbWV"
                   },
                   {
-                    "children": [
-                      {
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598809779326,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598809820742,
-                        "string": "Member writings aren't exposed directly on the finished site; instead, the intention is to push visitors out to the original websites",
-                        "uid": "fJNT4LFxl"
-                      },
-                      {
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598809827801,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598809859692,
-                        "string": "Newsletter data isn't displayed right now, but in the future will be exposed in an \"archive\"",
-                        "uid": "LOKihJ1OW"
-                      }
-                    ],
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598809756400,
+                    "create-time": 1599019668655,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598809777036,
-                    "string": "Writings and newsletter data are archived in [[GitHub]]",
-                    "uid": "ozXPhtOq-"
+                    "edit-time": 1599019679184,
+                    "string": "{{[[embed]]: ((URd0ZDDRF))}}",
+                    "uid": "oVqKzlGSK"
                   }
                 ],
                 "create-email": "roam@delphi-strategy.com",
@@ -93457,6 +93690,32 @@
                 "edit-time": 1598809716119,
                 "string": "Member writings and newsletters are pulled in using [[IFTTT]] from various RSS.",
                 "uid": "YcRY9GPUs"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1598809779326,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598809820742,
+                    "string": "Member writings aren't exposed directly on the finished site; instead, the intention is to push visitors out to the original websites",
+                    "uid": "fJNT4LFxl"
+                  },
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1598809827801,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598809859692,
+                    "string": "Newsletter data isn't displayed right now, but in the future will be exposed in an \"archive\"",
+                    "uid": "LOKihJ1OW"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598809756400,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598809777036,
+                "string": "Writings and newsletter data are archived in [[GitHub]]",
+                "uid": "ozXPhtOq-"
               },
               {
                 "edit-email": "roam@delphi-strategy.com",
@@ -93994,5 +94253,112 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1598951747733,
     "title": "September 1st, 2020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "hiclo@protonmail.com",
+            "create-time": 1598995145748,
+            "edit-email": "hiclo@protonmail.com",
+            "edit-time": 1598995154572,
+            "string": "I've been working independently since December 2017.",
+            "uid": "HF7C96K5G"
+          },
+          {
+            "children": [
+              {
+                "create-email": "hiclo@protonmail.com",
+                "create-time": 1598995564816,
+                "edit-email": "hiclo@protonmail.com",
+                "edit-time": 1598995764085,
+                "string": "The conversational designer, to help launch and grow their chatbot",
+                "uid": "NMaUGuKzl"
+              },
+              {
+                "create-email": "hiclo@protonmail.com",
+                "create-time": 1598995624433,
+                "edit-email": "hiclo@protonmail.com",
+                "edit-time": 1598995641947,
+                "string": "A product designer working on the customer assistance scope (iOS and Android)",
+                "uid": "nJwJZOuaG"
+              }
+            ],
+            "create-email": "hiclo@protonmail.com",
+            "create-time": 1598995608482,
+            "edit-email": "hiclo@protonmail.com",
+            "edit-time": 1598995618491,
+            "string": "Recently, I worked with Europcar as",
+            "uid": "1Ceo4ul-P"
+          }
+        ],
+        "create-email": "hiclo@protonmail.com",
+        "create-time": 1598995077772,
+        "edit-email": "hiclo@protonmail.com",
+        "edit-time": 1598995374404,
+        "string": "UX researcher, UX designer, Conversational designer.",
+        "uid": "-WrJ4zAdh"
+      },
+      {
+        "children": [
+          {
+            "create-email": "hiclo@protonmail.com",
+            "create-time": 1598995154564,
+            "edit-email": "hiclo@protonmail.com",
+            "edit-time": 1598995543684,
+            "string": "Website: https://thistooshallgrow.com/",
+            "uid": "HwrGq1HP7"
+          },
+          {
+            "create-email": "hiclo@protonmail.com",
+            "create-time": 1598995536105,
+            "edit-email": "hiclo@protonmail.com",
+            "edit-time": 1598995553585,
+            "string": "Twitter: https://twitter.com/clo__s",
+            "uid": "lNWNis02v"
+          }
+        ],
+        "create-email": "hiclo@protonmail.com",
+        "create-time": 1598995499789,
+        "edit-email": "hiclo@protonmail.com",
+        "edit-time": 1598995510100,
+        "string": "Contact me:",
+        "uid": "1uuKhRJoC"
+      },
+      {
+        "create-email": "hiclo@protonmail.com",
+        "create-time": 1598995547791,
+        "edit-email": "hiclo@protonmail.com",
+        "edit-time": 1598995556290,
+        "string": "I'm interested in applying UX to mental health and privacy.",
+        "uid": "PZ_OfAHYi"
+      },
+      {
+        "create-email": "hiclo@protonmail.com",
+        "create-time": 1598995658795,
+        "edit-email": "hiclo@protonmail.com",
+        "edit-time": 1598995781947,
+        "string": "I'm based in Paris, and I'm used to working with remote clients.",
+        "uid": "SOAURXBa8"
+      }
+    ],
+    "create-email": "hiclo@protonmail.com",
+    "create-time": 1598995072190,
+    "edit-email": "hiclo@protonmail.com",
+    "edit-time": 1598995072193,
+    "title": "Clo S."
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599016028007,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599016028012,
+    "title": "diagram"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1599021659392,
+    "title": "September 2nd, 2020"
   }
 ]

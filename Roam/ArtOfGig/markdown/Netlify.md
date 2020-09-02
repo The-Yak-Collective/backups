@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[August 31st, 2020]]
+last updated:: [[September 1st, 2020]]
 last updated by:: [[Nathan Acks]]
 # Purpose
     - Provides the build environment for the [[Yak Collective Website]]
@@ -13,6 +13,7 @@ last updated by:: [[Nathan Acks]]
     - [[Nathan Acks]]
     - [[Maier Fenster]]
 # Notes
+    - Netlify has great [documentation](https://docs.netlify.com/).
     - When setting up a new Netlify site, be sure to set **Settings > Build & deploy > Build settings > Deploy log visibility** to **Logs are private**!
     - The [[Yak Collective Website]] requires the following **Environment variables**.
         - `DISCORD_CHANNEL` - [[Discord]] channel ID for `yaktalk-content`.

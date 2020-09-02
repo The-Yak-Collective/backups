@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
+last updated:: [September 1st, 2020](<September 1st, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - Provides the build environment for the [Yak Collective Website](<Yak Collective Website.md>)
@@ -13,6 +13,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
     - [Nathan Acks](<Nathan Acks.md>)
     - [Maier Fenster](<Maier Fenster.md>)
 # Notes
+    - Netlify has great [documentation](https://docs.netlify.com/).
     - When setting up a new Netlify site, be sure to set **Settings > Build & deploy > Build settings > Deploy log visibility** to **Logs are private**!
     - The [Yak Collective Website](<Yak Collective Website.md>) requires the following **Environment variables**.
         - `DISCORD_CHANNEL` - [Discord](<Discord.md>) channel ID for `yaktalk-content`.
@@ -46,8 +47,12 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Netlify](<Netlify.md>)
 
+- [Netlify](<Netlify.md>)
+
+- [Netlify](<Netlify.md>)
+
 ## [Threat Model](<Threat Model.md>)
-- "[Netlify](<Netlify.md>)"
+- [Netlify](<Netlify.md>)
 
 ## [Website Architecture](<Website Architecture.md>)
 - In order to ensure that we get a new featured member every day, [IFTTT](<IFTTT.md>) hits a [build hook](https://docs.netlify.com/configure-builds/build-hooks/) in [Netlify](<Netlify.md>)

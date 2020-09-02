@@ -31,11 +31,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
 - `v3.0` (point: [Nathan Acks](<Nathan Acks.md>))
 
-## [Data Sources](<Data Sources.md>)
-owner:: [Nathan Acks](<Nathan Acks.md>)
-
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
-
 ## [Directory](<Directory.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 

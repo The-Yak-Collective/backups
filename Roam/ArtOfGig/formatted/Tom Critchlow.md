@@ -46,13 +46,6 @@
 
 - Original website by [Tom Critchlow](<Tom Critchlow.md>),
 
-## [Data Sources](<Data Sources.md>)
-- [Tom Critchlow](<Tom Critchlow.md>):
-
-- "[Tom Critchlow](<Tom Critchlow.md>):
-
-- "[Tom Critchlow](<Tom Critchlow.md>):
-
 ## [Directory](<Directory.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)
 
@@ -65,6 +58,8 @@
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
 
+- [Tom Critchlow](<Tom Critchlow.md>):
+
 ## [Sparring Consulting](<Sparring Consulting.md>)
 - Thoughts / Questions from [Tom Critchlow](<Tom Critchlow.md>)
 
@@ -75,7 +70,7 @@
 - ~~Website~~  [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- "Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
+- Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
 
 ## [Website Version History](<Website Version History.md>)
 - Various formatting tweaks suggested by [Tom Critchlow](<Tom Critchlow.md>).
@@ -91,7 +86,7 @@ I think the key things writing (i.e. blogging) gives you is: a) an awareness tha
 - [Tom Critchlow](<Tom Critchlow.md>):
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-- "Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
+- Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
 
 - [Tom Critchlow](<Tom Critchlow.md>)
 
