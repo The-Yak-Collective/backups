@@ -56,7 +56,7 @@
 - [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
+- **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
 
 - [Tom Critchlow](<Tom Critchlow.md>):
 

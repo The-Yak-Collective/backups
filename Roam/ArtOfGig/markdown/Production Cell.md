@@ -17,10 +17,10 @@
     - [[Yak Project Production History]]
     - others?
 - Suggested coordination tools::
-    - __How granular to be? eg a Kanban in Notion or Trello with a card for each piece__
+    - __How granular to be? eg a Kanban in Notion or Trello with a card for each piece__ ^^update^^ [[September 2nd, 2020]] __consensus for now is to use in-Roam kanban__
     - [[Roam Production Kanban]]
-    - Notion test — [invite link](https://www.notion.so/invite/c58785e67336468df996a71942d153005c95d02b) — [public link](https://www.notion.so/41ff3b37d55c4cfbaddaed83ad16b9d6?v=046dfa62ab774f688c03b1a246516036)
-    - Trello test — [public link](https://trello.com/b/ewxc9qCV/project-production-kanban)
+    - ~~Notion test~~ — [invite link](https://www.notion.so/invite/c58785e67336468df996a71942d153005c95d02b) — [public link](https://www.notion.so/41ff3b37d55c4cfbaddaed83ad16b9d6?v=046dfa62ab774f688c03b1a246516036)~~
+    - ~~Trello test~~ — [public link](https://trello.com/b/ewxc9qCV/project-production-kanban)
 - ----------------------------------------------------------------------------
 - # 1. Model workflow from a final draft
 - {{mermaid}}

@@ -18,7 +18,7 @@
 - Go no-code - leverage no-code tools to test new opps (suggested by [Paul Millerd](<Paul Millerd.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([Paul Millerd](<Paul Millerd.md>))
+- **[owner](<owner.md>):** [Paul Millerd](<Paul Millerd.md>)
 
 - [Paul Millerd](<Paul Millerd.md>):
 

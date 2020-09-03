@@ -60,6 +60,9 @@
 ## [Governance Tests](<Governance Tests.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+- **["owner](<"owner.md>):** [Alex Wagner](<Alex Wagner.md>)"
+
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 

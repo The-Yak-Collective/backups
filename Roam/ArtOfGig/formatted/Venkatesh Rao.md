@@ -167,7 +167,13 @@
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 - [Venkatesh Rao](<Venkatesh Rao.md>):
 

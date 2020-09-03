@@ -21,7 +21,8 @@
     - [Managing your clients](<Managing your clients.md>) setting expectations, managing boundaries etc
     - [Consulting frameworks and services for indie consultants](<Consulting frameworks and services for indie consultants.md>)
 - **[Roam help](<Roam help.md>):**
-    - We're all on the learning curve with Roam lol. There seems to be a tipping point where befuddlement or frustration shifts into flying around in a way other text editors don't let you. This post on "a text renaissance" by Venkatesh in February is useful for a high-level why-bother carrot » https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/
+    - We're all on the learning curve with Roam lol. There seems to be a tipping point where befuddlement or frustration shifts into flying around in a way other text editors don't let you. This post on "a text renaissance" by Venkatesh in February is useful for a high-level why-bother carrot 
+» https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/
     - YouTubers have jumped on Roam. Here's a sampler of vids that you might find helpful, in increasing levels of complexity.
         - [Maya Kristof](<Maya Kristof.md>) who's about 11
             - [Roam Research: Formatting](https://www.youtube.com/watch?v=DRwXwSfPzbw)

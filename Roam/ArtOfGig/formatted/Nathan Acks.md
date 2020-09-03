@@ -66,6 +66,30 @@ owner:: [Nathan Acks](<Nathan Acks.md>)
 
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
+^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
 ## [Knack](<Knack.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 

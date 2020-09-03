@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 1st, 2020]]
+last updated:: [[September 2nd, 2020]]
 last updated by:: [[Nathan Acks]]
 # Threats
     ## Current
@@ -83,7 +83,8 @@ last updated by:: [[Nathan Acks]]
             - Given the small size of the Yak Collective, we probably want to aim for 2 in most cases.
         - No one person should have access to more than 50% of the assets in a given category.
         - Class 1 assets should be restricted to only highly trusted users.
-        - All assets and admin users should be centrally tracked in the [[IT Infrastructure]] document.
+        - All assets should be centrally tracked in the [[IT Infrastructure]] document.
+            - All users with access to a service should be tracked in a page for that service linked off of the [[IT Infrastructure]] document. When a service supports multiple roles or levels of access, this should be noted there.
         - All admins are responsible for periodically auditing access for assets they control (that record login information) __at least__ once per month.
         - All admins are responsible for periodically backing up and auditing access for assets they control __at least__ once per month.
         - If we have two admins per asset, each admin does a backup/audit of their assets every two months with a one-month offset, then we easily meet this goal with probably only an hour or so of time commitment (on average) per admin.

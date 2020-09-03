@@ -62,6 +62,9 @@
 ## [August 31st, 2020](<August 31st, 2020.md>)
 - light edits on [Schema | member data](<Schema | member data.md>)
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Schema | member data](<Schema | member data.md>)
+
 ## [infrastructure](<infrastructure.md>)
 - [Schema | member data](<Schema | member data.md>)
 

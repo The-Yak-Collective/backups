@@ -74,6 +74,17 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 ## [Governance Tests](<Governance Tests.md>)
 - Governance tests are accepted through a transparent and documented procedure. [Jordan Peacock](<Jordan Peacock.md>)
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+
+- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+
+- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+
+- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+
+- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+
 ## [Nature is Healing](<Nature is Healing.md>)
 - [Thomas Verhagen](<Thomas Verhagen.md>): maybe link this up with the Situation Normal: N Futures proposal by [Jordan Peacock](<Jordan Peacock.md>)?
 

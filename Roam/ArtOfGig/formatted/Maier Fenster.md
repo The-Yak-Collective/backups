@@ -16,6 +16,13 @@
 ## [GitHub](<GitHub.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + mapping work done by [Maier Fenster](<Maier Fenster.md>).
+
+- Roam diagrams are pretty limited, so see [Maier Fenster](<Maier Fenster.md>)'
+
+- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+
 ## [Knack](<Knack.md>)
 owner:: [Maier Fenster](<Maier Fenster.md>)
 

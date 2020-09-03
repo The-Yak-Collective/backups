@@ -1,35 +1,62 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 1st, 2020]]
+last updated:: [[September 2nd, 2020]]
 last updated by:: [[Nathan Acks]]
 # Assets
+    ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + mapping work done by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
+        - See the [Roam diagram documentation](https://roamresearch.com/#/app/help/page/OB_uynVDM) to learn how to work with native diagrams.
+        - Roam diagrams are pretty limited, so see [[Maier Fenster]]'s asset map for an even more detailed version: https://tilnow.github.io/docjs/
     {{[[diagram]]}}
         - [[Yak Collective Robot]]
+            - "owner:: [[Nathan Acks]]"
             - Google account; currently holds no assets itself.
-            - Google services currently held by individual members should eventually be migrated into this account.
-        - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])
-        - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([[Drew Schorno]])
-        - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([[Paul Millerd]])
-        - Google Analytics ([[Tom Critchlow]])
-        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ^^(who owns this?)^^
+            - Google data/documents/services currently held by individual members should eventually be migrated into this account.
+        - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
+            - owner:: [[Venkatesh Rao]]
+        - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck
+            - owner:: [[Drew Schorno]]
+        - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
+            - owner:: [[Paul Millerd]]
+        - Google Analytics
+            - owner:: [[Tom Critchlow]]
+        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
+            - owner:: ^^???^^
         - [[Carl]] `calendar_yak` Bot
+            - "owner:: [[Jordan Peacock]]"
         - [[Carl]] `yakyak` Bot
+            - "owner:: [[Jordan Peacock]]"
         - [[Carl]] `welcome_bot`
+            - "owner:: [[Jordan Peacock]]"
         - [[Discord]]
+            - "owner:: [[Jordan Peacock]]"
         - [[Namecheap]]
+            - "owner:: [[Venkatesh Rao]]"
         - [[Knack]]
+            - "owner:: [[Maier Fenster]]"
         - [[Roam]]
+            - "owner:: [[Venkatesh Rao]]"
         - [[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))
+            - "owner:: [[Nathan Acks]]"
             - See [[Building the Website]] for more details
         - [[Netlify]] CDN
+            - "owner:: [[Nathan Acks]]"
         - [[Netlify]] [Functions](https://docs.netlify.com/functions/overview/) ([create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js))
+            - "owner:: [[Nathan Acks]]"
         - [[Yak Collective Website]]
+            - "owner:: [[Nathan Acks]]"
         - [[Yak Collective Website]] ["Featured Yak" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)
+            - "owner:: [[Nathan Acks]]"
         - [[GitHub]]
+            - "owner:: [[Nathan Acks]]"
         - [[IFTTT]] [Netlify Build Hook](https://docs.netlify.com/configure-builds/build-hooks/) Applet (Timer)
+            - "owner:: [[Nathan Acks]]"
         - [[IFTTT]] Twitter Applets
+            - "owner:: [[Nathan Acks]]"
         - [[IFTTT]] [create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js) Applets
+            - "owner:: [[Nathan Acks]]"
         - [[Zapier]]
+            - "owner:: [[Venkatesh Rao]]"
         - [[Glitch]]
+            - "owner:: [[Nathan Acks]]"
         - Member RSS Feeds
             - [[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed
             - [[Ben Mosior]]: https://hiredthought.com/feed/
@@ -46,9 +73,14 @@ last updated by:: [[Nathan Acks]]
             - [[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/
             - [[Vinay Débrou]]: https://vinaydebrou.com/feed.xml
         - [[Substack]]
+            - "owner:: [[Alex Wagner]]"
             - RSS feed: https://yakcollective.substack.com/feed/
         - [[Twitter]]
+            - "owner:: [[Jordan Peacock]]"
         - [[Facebook]]
+            - "owner:: ^^???^^"
         - [[LinkedIn]]
+            - "owner:: ^^???^^"
 # Documents
+    - [[Schema | member data]] (draft)
     - [[Threat Model]]
