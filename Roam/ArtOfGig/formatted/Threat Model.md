@@ -46,7 +46,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
         - [Netlify](<Netlify.md>)
         - [Discord](<Discord.md>)
     ## Class 3  (Inconvenience)
-        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ^^(who owns this?)^^
+        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([Venkatesh Rao](<Venkatesh Rao.md>))
         - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
         - Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
         - [IFTTT](<IFTTT.md>)

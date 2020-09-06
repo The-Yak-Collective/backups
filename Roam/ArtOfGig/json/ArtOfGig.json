@@ -73768,8 +73768,8 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598745221706,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1599020156785,
-                "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ^^(who owns this?)^^",
+                "edit-time": 1599410302748,
+                "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([[Venkatesh Rao]])",
                 "uid": "NlKgj0zOJ"
               },
               {
@@ -89778,8 +89778,8 @@
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1599100353336,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1599100516963,
-                    "string": "owner:: ^^???^^",
+                    "edit-time": 1599410265790,
+                    "string": "owner:: [[Venkatesh Rao]]",
                     "uid": "XgKB31hQS"
                   }
                 ],
@@ -90851,8 +90851,8 @@
               },
               {
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1599020146330,
-                "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ^^(who owns this?)^^",
+                "edit-time": 1599410329101,
+                "string": "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([[Venkatesh Rao]])",
                 "uid": "oG9FwDcRH"
               },
               {
@@ -94708,5 +94708,10 @@
     "edit-email": "gmilov@yandex.ru",
     "edit-time": 1599285435415,
     "title": "September 5th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1599411057910,
+    "title": "September 6th, 2020"
   }
 ]

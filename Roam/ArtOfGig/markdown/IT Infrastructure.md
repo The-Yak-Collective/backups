@@ -19,7 +19,7 @@ last updated by:: [[Nathan Acks]]
         - Google Analytics
             - owner:: [[Tom Critchlow]]
         - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
-            - owner:: ^^???^^
+            - owner:: [[Venkatesh Rao]]
         - [[Carl]] `calendar_yak` Bot
             - "owner:: [[Jordan Peacock]]"
         - [[Carl]] `yakyak` Bot

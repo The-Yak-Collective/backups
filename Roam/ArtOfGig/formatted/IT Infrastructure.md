@@ -19,7 +19,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
         - Google Analytics
             - **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
         - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
-            - **[owner](<owner.md>):** ^^???^^
+            - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
         - [Carl](<Carl.md>) `calendar_yak` Bot
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Carl](<Carl.md>) `yakyak` Bot
