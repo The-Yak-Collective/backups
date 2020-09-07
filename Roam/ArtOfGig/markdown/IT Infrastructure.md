@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 2nd, 2020]]
+last updated:: [[September 6th, 2020]]
 last updated by:: [[Nathan Acks]]
 # Assets
     ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + mapping work done by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -83,4 +83,5 @@ last updated by:: [[Nathan Acks]]
             - "owner:: ^^???^^"
 # Documents
     - [[Schema | member data]] (draft)
+    - [[Code Style Guide]]
     - [[Threat Model]]

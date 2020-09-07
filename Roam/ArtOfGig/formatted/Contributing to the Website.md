@@ -54,7 +54,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
     ## Helping Out
         - Things you should take a look at first:
             - [Website Architecture](<Website Architecture.md>)
-            - [Website Code Style Guide](<Website Code Style Guide.md>)
+            - [Code Style Guide](<Code Style Guide.md>)
             - [Building the Website](<Building the Website.md>)
         - Check out the [GitHub issue tracker for the site](https://github.com/The-Yak-Collective/yakcollective/issues) for a list of current ideas, known issues, etc.
             - If you see a problem or have an idea, submit a ticket.

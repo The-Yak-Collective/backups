@@ -34,7 +34,7 @@
 - [[infrastructure chat 14 8.8.2020]]
     - [[Yak Collective State of the Union]] roam version
 - skipped 8.15.2020
-- infrastructure chat 15 8.22.2020 
+- infrastructure chat 15 8.22.2020 (notes in-line)
     - [[Yak Collective Website]]update from [[Nathan Acks]]
         - V2.2 website, backend clean up, documentation/code comments
             - Wanting to beef up the Roam page to help with onboarding other people 
@@ -46,7 +46,7 @@
             - there's experiments with combining Roam + Gatsby as presentation layer
     - Roam back up - currently manual monthly... automatic? 
     - Making updates to [[Yak Collective State of the Union]]
-- infrastructure chat 16 8.29.2020 
+- infrastructure chat 16 8.29.2020 (notes in-line)
     - https://tilnow.github.io/docjs/index
         - Tried to look into how this could work in Roam using the mermaid diagram... can't link out to pages atm
     - Nathan - documentation sprint on Roam  [[Yak Collective Website]] page
@@ -70,4 +70,44 @@
     - revisit [[Threat Model]]
         - do another pass at the credential documentation in this page
         - currently share netlify account that is owned by our "robot" github account - we would need 3 members if we were to go paid $19 per member x3 members / mo
-        - 
+- infrastructure chat 17 9.06.2020 (noes in-line)
+    - assets for social 
+        - substack
+            - grigori - asked about the email list if they could compare to substack 
+            - Matthew Sweet is slowly taking over 
+            - possibility of email signup for specific project 
+                - switch to another email newsletter tool that supports multiple lists? 
+            - two newsletters?
+                - prospective client
+                - prospective members
+            - export newsletter email list 
+            - subscribe google form emails to substack?
+        - twitter
+            - ?
+        - facebook
+            - ?
+    - marketing
+        - there's not enough dedicated marketing personnel 
+            - don't necessarily need to do a weekly newsletter 
+    - member onboarding?
+        - capturing info Discord intro -> subscribe to newsletter?
+            - newsletter - curious 
+                - there's also pruning mechanisms like if you haven't opened the last email  
+            - have to get involved 
+            - have to ask for more information 
+            - website - after they stick around 
+        - hellobot - DM 
+            - yak map
+            - newsletter 
+        - nothing new since 
+            - emoji reacts in introduction channel
+            - + weekly welcome by Jordan 
+        - be more directive of onboarding ... to paths 
+            - list of links - look around 
+            - complete minimal steps 
+            - not sure if Carl can do a drip or triggered messages 
+            - join - first message, intro-  second message?, third message - fill out this web  form?
+    - Documentation guidelines
+    - Action items:
+        - Look into triggered / drip messages for Carl 
+        - Twitter/fb accounts

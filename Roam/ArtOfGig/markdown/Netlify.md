@@ -10,6 +10,7 @@ last updated by:: [[Nathan Acks]]
         - "API" endpoints ([Netlify Functions](https://docs.netlify.com/functions/overview/)) pushed out to [Amazon Lambda](https://aws.amazon.com/lambda/)
 # Access ^^(Shared Login!)^^
     - [[Yak Collective Robot]]
+        - Doesn't log in itself, but can be used for password resets.
     - [[Nathan Acks]]
     - [[Maier Fenster]]
 # Notes

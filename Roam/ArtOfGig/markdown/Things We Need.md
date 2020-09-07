@@ -3,6 +3,7 @@
 - New member orientation stuff __working on here:__ [[Onboarding for New Yaks]]
     - ~~Help document for roam and discord~~ - [[Alex Wagner]] volunteers
     - Starter list of things to do
+        - volunteer for light [[Production Cell]] efforts eg design-copyedit-proofread (added [[September 6th, 2020]] jd)
     - Tips sheet for being effective in an open network community
 - Marketing presence
     - ~~Twitter~~   [[Pamela Hobart]] +3-4 people 

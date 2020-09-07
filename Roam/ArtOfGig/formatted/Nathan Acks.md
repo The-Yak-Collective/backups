@@ -17,6 +17,11 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Carl](<Carl.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
+## [Code Style Guide](<Code Style Guide.md>)
+owner:: [Nathan Acks](<Nathan Acks.md>)
+
+last updated by:: [Nathan Acks](<Nathan Acks.md>)
+
 ## [Colorado/Denver](<Colorado/Denver.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -129,11 +134,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Website Architecture](<Website Architecture.md>)
-owner:: [Nathan Acks](<Nathan Acks.md>)
-
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
-
-## [Website Code Style Guide](<Website Code Style Guide.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
 last updated by:: [Nathan Acks](<Nathan Acks.md>)

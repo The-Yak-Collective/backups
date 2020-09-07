@@ -4,7 +4,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ![Netlify Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)
     - [Website Architecture](<Website Architecture.md>)
     - [Contributing to the Website](<Contributing to the Website.md>)
-        - [Website Code Style Guide](<Website Code Style Guide.md>)
+        - [Code Style Guide](<Code Style Guide.md>)
         - [Current Website Issues and Projects](https://github.com/The-Yak-Collective/yakcollective/issues)
         - [Building the Website](<Building the Website.md>)
     - [Website Version History](<Website Version History.md>)
@@ -12,6 +12,9 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Backlinks
 ## [Breaking Smart](<Breaking Smart.md>)
 - **[Yak Collective Website](<Yak Collective Website.md>):**
+
+## [Code Style Guide](<Code Style Guide.md>)
+- For the [Yak Collective Website](<Yak Collective Website.md>),
 
 ## [Frederic Laloux](<Frederic Laloux.md>)
 - **[Yak Collective Website](<Yak Collective Website.md>):**
@@ -50,9 +53,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Thomas Lisankie](<Thomas Lisankie.md>)
 - **[Twitter](<Twitter.md>):** [TomLisankie](https://twitter.com/TomLisankie)
 - **[Yak Collective Website](<Yak Collective Website.md>):**
-
-## [Website Code Style Guide](<Website Code Style Guide.md>)
-- For the [Yak Collective Website](<Yak Collective Website.md>),
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - [GitHub](<GitHub.md>) (fail-safe admin account, owns the OAuth connector used by Netlify CMS on the [Yak Collective Website](<Yak Collective Website.md>))

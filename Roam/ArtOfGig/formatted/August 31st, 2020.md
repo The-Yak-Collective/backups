@@ -34,9 +34,6 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>)
 ## [Twitter](<Twitter.md>)
 last updated:: [August 31st, 2020](<August 31st, 2020.md>)
 
-## [Website Code Style Guide](<Website Code Style Guide.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
-
 ## [Website Version History](<Website Version History.md>)
 last updated:: [August 31st, 2020](<August 31st, 2020.md>)
 

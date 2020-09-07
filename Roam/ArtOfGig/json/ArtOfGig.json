@@ -15110,6 +15110,16 @@
             "uid": "uEGPpm1f2"
           },
           {
+            "children": [
+              {
+                "create-email": "j@djinna.com",
+                "create-time": 1599417126231,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599417229147,
+                "string": "volunteer for light [[Production Cell]] efforts eg design-copyedit-proofread (added [[September 6th, 2020]] jd)",
+                "uid": "g_VWWS9xl"
+              }
+            ],
             "create-email": "vgururao@gmail.com",
             "create-time": 1588520849568,
             "edit-email": "vgururao@gmail.com",
@@ -20404,8 +20414,8 @@
         "create-email": "j@djinna.com",
         "create-time": 1596929072991,
         "edit-email": "j@djinna.com",
-        "edit-time": 1598117760794,
-        "string": "infrastructure chat 15 8.22.2020 ",
+        "edit-time": 1599416336698,
+        "string": "infrastructure chat 15 8.22.2020 (notes in-line)",
         "uid": "YO3uZ7AXl"
       },
       {
@@ -20559,12 +20569,6 @@
                 "edit-time": 1598724895296,
                 "string": "currently share netlify account that is owned by our \"robot\" github account - we would need 3 members if we were to go paid $19 per member x3 members / mo",
                 "uid": "XPLuERjaX"
-              },
-              {
-                "create-time": 1598724860325,
-                "edit-time": 1598724860325,
-                "string": "",
-                "uid": "V5h8KW2l8"
               }
             ],
             "create-time": 1598723794647,
@@ -20575,9 +20579,287 @@
           }
         ],
         "create-time": 1598722037972,
-        "edit-time": 1598722044798,
-        "string": "infrastructure chat 16 8.29.2020 ",
+        "edit-time": 1599416340129,
+        "string": "infrastructure chat 16 8.29.2020 (notes in-line)",
         "uid": "o2_EXrCwU"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-time": 1599414041463,
+                    "edit-time": 1599414128630,
+                    "string": "grigori - asked about the email list if they could compare to substack ",
+                    "uid": "JznF99L8F"
+                  },
+                  {
+                    "create-time": 1599414117919,
+                    "edit-time": 1599414122553,
+                    "string": "Matthew Sweet is slowly taking over ",
+                    "uid": "NH7rE7HV0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-time": 1599414270395,
+                        "edit-time": 1599414278674,
+                        "string": "switch to another email newsletter tool that supports multiple lists? ",
+                        "uid": "EVmtehG3H"
+                      }
+                    ],
+                    "create-time": 1599414188641,
+                    "edit-time": 1599414221401,
+                    "string": "possibility of email signup for specific project ",
+                    "uid": "1B4xH5ihz"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-time": 1599414410439,
+                        "edit-time": 1599414414901,
+                        "string": "prospective client",
+                        "uid": "62ZNQqlz5"
+                      },
+                      {
+                        "create-time": 1599414414895,
+                        "edit-time": 1599414422545,
+                        "string": "prospective members",
+                        "uid": "brctBBtsN"
+                      }
+                    ],
+                    "create-time": 1599414408223,
+                    "edit-time": 1599414558029,
+                    "string": "two newsletters?",
+                    "uid": "ITEJ4qoW4"
+                  },
+                  {
+                    "create-time": 1599414787358,
+                    "edit-time": 1599414798010,
+                    "string": "export newsletter email list ",
+                    "uid": "TEmB8Qrs5"
+                  },
+                  {
+                    "create-time": 1599414798005,
+                    "edit-time": 1599414806373,
+                    "string": "subscribe google form emails to substack?",
+                    "uid": "Yf3gPETry"
+                  }
+                ],
+                "create-time": 1599414036133,
+                "edit-time": 1599414037367,
+                "string": "substack",
+                "uid": "mcaT3ZSF0"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1599414365522,
+                    "edit-time": 1599414366270,
+                    "string": "?",
+                    "uid": "FQbD5AFHZ"
+                  }
+                ],
+                "create-time": 1599414037364,
+                "edit-time": 1599414038013,
+                "string": "twitter",
+                "uid": "thfrmEVo2"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1599414367280,
+                    "edit-time": 1599414368656,
+                    "string": "?",
+                    "uid": "ZuYX1s4ih"
+                  }
+                ],
+                "create-time": 1599414038008,
+                "edit-time": 1599414038952,
+                "string": "facebook",
+                "uid": "cwUIZ274l"
+              }
+            ],
+            "create-time": 1599413996451,
+            "edit-time": 1599414040594,
+            "string": "assets for social ",
+            "uid": "CmmtTM4sv"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-time": 1599414588057,
+                    "edit-time": 1599414593779,
+                    "string": "don't necessarily need to do a weekly newsletter ",
+                    "uid": "Qq9UxloYN"
+                  }
+                ],
+                "create-time": 1599414563169,
+                "edit-time": 1599414569513,
+                "string": "there's not enough dedicated marketing personnel ",
+                "uid": "MVCc0I3ve"
+              }
+            ],
+            "create-time": 1599414559619,
+            "edit-time": 1599414563173,
+            "string": "marketing",
+            "uid": "OC1U7tKDo"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-time": 1599415218719,
+                        "edit-time": 1599415306080,
+                        "string": "there's also pruning mechanisms like if you haven't opened the last email  ",
+                        "uid": "e48U0XYT6"
+                      }
+                    ],
+                    "create-time": 1599415299042,
+                    "edit-time": 1599415299042,
+                    "string": "newsletter - curious ",
+                    "uid": "ntC1LqTgC"
+                  },
+                  {
+                    "create-time": 1599415222776,
+                    "edit-time": 1599415225511,
+                    "string": "have to get involved ",
+                    "uid": "31ruf8-H6"
+                  },
+                  {
+                    "create-time": 1599415227252,
+                    "edit-time": 1599415236148,
+                    "string": "have to ask for more information ",
+                    "uid": "7qIYYYi4e"
+                  },
+                  {
+                    "create-time": 1599415256957,
+                    "edit-time": 1599415262330,
+                    "string": "website - after they stick around ",
+                    "uid": "WSPnsXIgJ"
+                  }
+                ],
+                "create-time": 1599414966118,
+                "edit-time": 1599415135066,
+                "string": "capturing info Discord intro -> subscribe to newsletter?",
+                "uid": "EqKI4mI5K"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1599415425785,
+                    "edit-time": 1599415431241,
+                    "string": "yak map",
+                    "uid": "iVSTsUU1U"
+                  },
+                  {
+                    "create-time": 1599415431237,
+                    "edit-time": 1599415434178,
+                    "string": "newsletter ",
+                    "uid": "IFtBL3q3A"
+                  }
+                ],
+                "create-time": 1599415396658,
+                "edit-time": 1599415400125,
+                "string": "hellobot - DM ",
+                "uid": "DQcOEJq5s"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1599415630662,
+                    "edit-time": 1599415634188,
+                    "string": "emoji reacts in introduction channel",
+                    "uid": "OXfKanYQ4"
+                  },
+                  {
+                    "create-time": 1599415634183,
+                    "edit-time": 1599415638255,
+                    "string": "+ weekly welcome by Jordan ",
+                    "uid": "RydF10a_y"
+                  }
+                ],
+                "create-time": 1599415628209,
+                "edit-time": 1599415630665,
+                "string": "nothing new since ",
+                "uid": "YG2cfJhkP"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1599415784107,
+                    "edit-time": 1599415789865,
+                    "string": "list of links - look around ",
+                    "uid": "zSm6lifAN"
+                  },
+                  {
+                    "create-time": 1599415802252,
+                    "edit-time": 1599415819177,
+                    "string": "complete minimal steps ",
+                    "uid": "8EwVdrS6f"
+                  },
+                  {
+                    "create-time": 1599416001346,
+                    "edit-time": 1599416009124,
+                    "string": "not sure if Carl can do a drip or triggered messages ",
+                    "uid": "k-N9jKDKc"
+                  },
+                  {
+                    "create-time": 1599415856855,
+                    "edit-time": 1599416025710,
+                    "string": "join - first message, intro-  second message?, third message - fill out this web  form?",
+                    "uid": "gtk7Jxo_n"
+                  }
+                ],
+                "create-time": 1599415668179,
+                "edit-time": 1599415675240,
+                "string": "be more directive of onboarding ... to paths ",
+                "uid": "5auAD1rKY"
+              }
+            ],
+            "create-time": 1599415136647,
+            "edit-time": 1599415140642,
+            "string": "member onboarding?",
+            "uid": "8MguC-ICn"
+          },
+          {
+            "create-time": 1599416315428,
+            "edit-time": 1599416323172,
+            "string": "Documentation guidelines",
+            "uid": "-VDGt6jZZ"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1599416674755,
+                "edit-time": 1599416686385,
+                "string": "Look into triggered / drip messages for Carl ",
+                "uid": "AYxGzQwhl"
+              },
+              {
+                "create-time": 1599416679969,
+                "edit-time": 1599416692154,
+                "string": "Twitter/fb accounts",
+                "uid": "jvx5ZrqpV"
+              }
+            ],
+            "create-time": 1599416318860,
+            "edit-time": 1599416674766,
+            "string": "Action items:",
+            "uid": "E9e8yJxsd"
+          }
+        ],
+        "create-time": 1598724860325,
+        "edit-time": 1599416342750,
+        "string": "infrastructure chat 17 9.06.2020 (noes in-line)",
+        "uid": "V5h8KW2l8"
       }
     ],
     "create-time": 1588439941127,
@@ -88582,8 +88864,8 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598744126095,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598808577070,
-                "string": "[[Website Code Style Guide]]",
+                "edit-time": 1599416553863,
+                "string": "[[Code Style Guide]]",
                 "uid": "xHuSsrMQj"
               },
               {
@@ -89624,8 +89906,8 @@
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1598747311988,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599057146149,
-        "string": "last updated:: [[September 2nd, 2020]]",
+        "edit-time": 1599416582107,
+        "string": "last updated:: [[September 6th, 2020]]",
         "uid": "TQMo0u4hn"
       },
       {
@@ -90729,6 +91011,14 @@
           },
           {
             "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599416564630,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599416569137,
+            "string": "[[Code Style Guide]]",
+            "uid": "oF6gRqN-f"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
             "create-time": 1598744494455,
             "edit-email": "roam@delphi-strategy.com",
             "edit-time": 1598745617506,
@@ -91203,6 +91493,16 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599413950264,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599413963277,
+                "string": "Doesn't log in itself, but can be used for password resets.",
+                "uid": "-uUQ6pEfU"
+              }
+            ],
             "create-email": "roam@delphi-strategy.com",
             "create-time": 1598808189985,
             "edit-email": "roam@delphi-strategy.com",
@@ -93704,8 +94004,8 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598927473058,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1599416551551,
+        "string": "last updated:: [[September 6th, 2020]]",
         "uid": "KnsYX1XCI"
       },
       {
@@ -93820,48 +94120,6 @@
             "edit-time": 1598928482539,
             "string": "Parentheses, brackets, and braces",
             "uid": "-3y-Kig4m"
-          },
-          {
-            "children": [
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598928259708,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598928259708,
-                "string": "Every file (unless it's __very__ simple) should begin with a comment describing its purpose and giving other high-level information as applicable.",
-                "uid": "hZrV4sG1b"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598928200406,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598928276127,
-                "string": "Every block of code should be preceded with a block of comments describing its operation.",
-                "uid": "visMwS3qb"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598928276125,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598928350735,
-                "string": "Comments within blocks of code should be used only if what's happening in a given line isn't obvious from context + the code block's main body of comments.",
-                "uid": "_QbTHE8OK"
-              },
-              {
-                "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598928354655,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598928443460,
-                "string": "For the [[Yak Collective Website]], [Liquid comments](https://shopify.github.io/liquid/tags/comment/) should be preferred in processed files.",
-                "uid": "SKy3ohq63"
-              }
-            ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598928063185,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598928200409,
-            "string": "Comments are our friends",
-            "uid": "1Fzu_Wadw"
           }
         ],
         "create-email": "roam@delphi-strategy.com",
@@ -93871,13 +94129,56 @@
         "heading": 1,
         "string": "Formatting",
         "uid": "WHGibHrxi"
+      },
+      {
+        "children": [
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598928259708,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598928259708,
+            "string": "Every file (unless it's __very__ simple) should begin with a comment describing its purpose and giving other high-level information as applicable.",
+            "uid": "hZrV4sG1b"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598928200406,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598928276127,
+            "string": "Every block of code should be preceded with a block of comments describing its operation.",
+            "uid": "visMwS3qb"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598928276125,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599416316304,
+            "string": "Comments within blocks of code should be used only if what's happening in a given line isn't obvious from context + the code block's main body of comments.",
+            "uid": "_QbTHE8OK"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598928354655,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598928443460,
+            "string": "For the [[Yak Collective Website]], [Liquid comments](https://shopify.github.io/liquid/tags/comment/) should be preferred in processed files.",
+            "uid": "SKy3ohq63"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598928063185,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1599416369747,
+        "heading": 1,
+        "string": "Code Comments",
+        "uid": "1Fzu_Wadw"
       }
     ],
     "create-email": "roam@delphi-strategy.com",
     "create-time": 1598808577071,
     "edit-email": "roam@delphi-strategy.com",
-    "edit-time": 1598808577072,
-    "title": "Website Code Style Guide"
+    "edit-time": 1599416553863,
+    "title": "Code Style Guide"
   },
   {
     "children": [
@@ -94329,8 +94630,8 @@
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1598810573509,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598810585519,
-                    "string": "[[Website Code Style Guide]]",
+                    "edit-time": 1599416553863,
+                    "string": "[[Code Style Guide]]",
                     "uid": "Tkm8iB2dW"
                   },
                   {
@@ -94713,5 +95014,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1599411057910,
     "title": "September 6th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1599470155688,
+    "title": "September 7th, 2020"
   }
 ]

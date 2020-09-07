@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 2nd, 2020](<September 2nd, 2020.md>)
+last updated:: [September 6th, 2020](<September 6th, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Assets
     ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + mapping work done by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -83,6 +83,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
             - **["owner](<"owner.md>):** ^^???^^"
 # Documents
     - [Schema | member data](<Schema | member data.md>) (draft)
+    - [Code Style Guide](<Code Style Guide.md>)
     - [Threat Model](<Threat Model.md>)
 
 # Backlinks
