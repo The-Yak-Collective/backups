@@ -20586,6 +20586,14 @@
       {
         "children": [
           {
+            "create-email": "j@djinna.com",
+            "create-time": 1599526560127,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599526632741,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FjzX_MdmIS_.jpeg?alt=media&token=620f7414-6f61-417e-919b-64b41f8a086d)",
+            "uid": "PHGU5XVGI"
+          },
+          {
             "children": [
               {
                 "children": [
@@ -20857,8 +20865,9 @@
           }
         ],
         "create-time": 1598724860325,
-        "edit-time": 1599416342750,
-        "string": "infrastructure chat 17 9.06.2020 (noes in-line)",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599526550658,
+        "string": "infrastructure chat 17 9.06.2020 (notes in-line)",
         "uid": "V5h8KW2l8"
       }
     ],
@@ -95019,5 +95028,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1599470155688,
     "title": "September 7th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1599556543598,
+    "title": "September 8th, 2020"
   }
 ]

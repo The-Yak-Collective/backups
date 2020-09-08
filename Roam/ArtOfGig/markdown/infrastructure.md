@@ -70,7 +70,8 @@
     - revisit [[Threat Model]]
         - do another pass at the credential documentation in this page
         - currently share netlify account that is owned by our "robot" github account - we would need 3 members if we were to go paid $19 per member x3 members / mo
-- infrastructure chat 17 9.06.2020 (noes in-line)
+- infrastructure chat 17 9.06.2020 (notes in-line)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FjzX_MdmIS_.jpeg?alt=media&token=620f7414-6f61-417e-919b-64b41f8a086d)
     - assets for social 
         - substack
             - grigori - asked about the email list if they could compare to substack 
