@@ -11,8 +11,8 @@
     - If I dislike something, I tend to prevent others from buying into it.
     - 2020 has been a strange year -- I have gained so much but lost even more.
     - I get paid to engage people who use certain software tools.
-    - I revel in the fact that I'm a jack of all trades.
     - If I dislike something, I tend to prevent others from buying into it.
+    - I revel in the fact that I'm a jack of all trades.
     - In particular, I am good at selling my ideas and writing about them.
     - I get paid to engage people who use certain software tools.
     - I'm driven by building value and not by personal gain.
@@ -21,5 +21,3 @@
     - I think remote work is a boon.
         - Right now (Aug 2020), I spend a bulk of my time helping [Integromat](https://www.integromat.com) grow.
         - The rest of my time goes into building [Data-led Academy](http://dataled.academy/) -- an initiative to foster data-literacy amongst non-engineers. 
-- I spend too much time thinking about data, automation, and APIs, and how I can enable a large number of people to learn about them. 
-- And when I'm not thinking about data, automation, and APIs, I like to talk to my dog and cook with my wife.

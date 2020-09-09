@@ -6,5 +6,5 @@
 
 # Backlinks
 ## [Directory](<Directory.md>)
-- [Keith Adams](<Keith Adams.md>)
+- {{embed: [Keith Adams](<Keith Adams.md>)}
 

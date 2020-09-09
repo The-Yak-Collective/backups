@@ -346,340 +346,261 @@
   {
     "children": [
       {
-        "create-email": "scottallentvh@gmail.com",
-        "create-time": 1588968790378,
-        "edit-email": "speak.serendipity@gmail.com",
-        "edit-time": 1592071223855,
-        "string": "{{[[Benito Berretta]]}} Minimalist version: just insert a page with your name in alphabetical order (by last name), and then do what you like with that page. ",
-        "uid": "fd-8Nv53j"
+        "create-email": "j@djinna.com",
+        "create-time": 1599577760451,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578374151,
+        "string": "About:: __A self-generated directory of Yaks.__",
+        "uid": "s5eWdUsuf"
       },
       {
         "children": [
           {
-            "create-email": "scottallentvh@gmail.com",
-            "create-time": 1588968839054,
-            "edit-email": "mitch.anhoury@gmail.com",
-            "edit-time": 1592954712119,
-            "string": "Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.",
-            "uid": "B_wnLZ-u-"
-          },
-          {
-            "create-email": "scottallentvh@gmail.com",
-            "create-time": 1588968845534,
-            "edit-email": "scottallentvh@gmail.com",
-            "edit-time": 1591043889242,
-            "string": "Copy the block ref of that summary paragraph",
-            "uid": "I9PQo7QtU"
-          },
+            "create-email": "j@djinna.com",
+            "create-time": 1599577768461,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578324516,
+            "string": "Additional Page Wranglers:: [[Jenna Dixon]] | [[Fname Lname]] ",
+            "uid": "yLGD_Wx5V"
+          }
+        ],
+        "create-email": "j@djinna.com",
+        "create-time": 1599577767991,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578314280,
+        "string": "Chief Page Wrangler:: [[Scott Allen]]",
+        "uid": "OqhODfQh_"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599577769066,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578329458,
+        "string": "Last Updated:: [[September 8th, 2020]]",
+        "uid": "egWQzhEdd"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599577769671,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578342837,
+        "string": "Last Updated By:: [[Jenna Dixon]]",
+        "uid": "DOpI8-DzJ"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599577770118,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599577770581,
+        "string": " ",
+        "uid": "ieJXFHprv"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599577770569,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578408793,
+        "heading": 3,
+        "string": " How to jump in here",
+        "uid": "0AW2GndcO"
+      },
+      {
+        "children": [
           {
             "children": [
+              {
+                "create-email": "j@djinna.com",
+                "create-time": 1599578435628,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599578435628,
+                "string": "[[Benito Berretta]] ",
+                "uid": "ktFEKG3B4"
+              }
+            ],
+            "create-email": "scottallentvh@gmail.com",
+            "create-time": 1588968790378,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599579289298,
+            "string": "Insert a page with your name in alphabetical order (by last name), and then do what you like with that page. ",
+            "uid": "fd-8Nv53j"
+          }
+        ],
+        "create-email": "j@djinna.com",
+        "create-time": 1599579279074,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599579279074,
+        "string": "Minimalist version: ",
+        "uid": "a8kSKHHne"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "scottallentvh@gmail.com",
+                "create-time": 1588968839054,
+                "edit-email": "mitch.anhoury@gmail.com",
+                "edit-time": 1592954712119,
+                "string": "Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.",
+                "uid": "B_wnLZ-u-"
+              },
               {
                 "create-email": "scottallentvh@gmail.com",
-                "create-time": 1588969003039,
-                "edit-email": "h2@unbabel.com",
-                "edit-time": 1596358438483,
-                "string": "Indented under your name on this page, start typing ```html\n{{embed: ((Trivedi Girish))}}``` and then paste your block ref. It should end up looking something like this: ```clojure\n{{embed: ((((Hello, my name is Girish Trivedi and Iam based in New Delhi , India. Iam a Consultant focused around technology, Media and Telecom vertical. I work on Growth strategies, Got to market strategies and Segmentation projects. I am also a transition coach for professionals in transition and on my way towards becoming ICF( International Coach Federation) certified coach.                 ))))}}```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.",
-                "uid": "PqOF8HiKh"
+                "create-time": 1588968845534,
+                "edit-email": "scottallentvh@gmail.com",
+                "edit-time": 1591043889242,
+                "string": "Copy the block ref of that summary paragraph",
+                "uid": "I9PQo7QtU"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "scottallentvh@gmail.com",
+                    "create-time": 1588969003039,
+                    "edit-email": "h2@unbabel.com",
+                    "edit-time": 1596358438483,
+                    "string": "Indented under your name on this page, start typing ```html\n{{embed: ((Trivedi Girish))}}``` and then paste your block ref. It should end up looking something like this: ```clojure\n{{embed: ((((Hello, my name is Girish Trivedi and Iam based in New Delhi , India. Iam a Consultant focused around technology, Media and Telecom vertical. I work on Growth strategies, Got to market strategies and Segmentation projects. I am also a transition coach for professionals in transition and on my way towards becoming ICF( International Coach Federation) certified coach.                 ))))}}```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.",
+                    "uid": "PqOF8HiKh"
+                  }
+                ],
+                "create-email": "scottallentvh@gmail.com",
+                "create-time": 1588969464008,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599576834732,
+                "string": "Embed (don't just copy) the block under your name on this page",
+                "uid": "0XRqjSnXo"
+              },
+              {
+                "create-email": "speak.serendipity@gmail.com",
+                "create-time": 1591871085771,
+                "edit-email": "speak.serendipity@gmail.com",
+                "edit-time": 1596449741309,
+                "string": "If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.",
+                "uid": "X5wGvrUL0"
               }
             ],
             "create-email": "scottallentvh@gmail.com",
-            "create-time": 1588969464008,
-            "edit-email": "scottallentvh@gmail.com",
-            "edit-time": 1588969541371,
-            "string": "Embed (don't just copy)the block under your name on this page",
-            "uid": "0XRqjSnXo"
-          },
-          {
-            "create-email": "speak.serendipity@gmail.com",
-            "create-time": 1591871085771,
-            "edit-email": "speak.serendipity@gmail.com",
-            "edit-time": 1596449741309,
-            "string": "If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.",
-            "uid": "X5wGvrUL0"
+            "create-time": 1588968779578,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599579298887,
+            "string": "Allows people to read your page embedded within this page instead of jumping around:",
+            "uid": "UEzckQ_BV"
           }
         ],
-        "create-email": "scottallentvh@gmail.com",
-        "create-time": 1588968779578,
-        "edit-email": "arth@overthinker.in",
-        "edit-time": 1593478387524,
-        "string": "High-usability version (allows people to read your page embedded within this page instead of jumping around):",
-        "uid": "UEzckQ_BV"
+        "create-email": "j@djinna.com",
+        "create-time": 1599579292579,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599579292579,
+        "string": "High-usability version ",
+        "uid": "XIeSBRA8V"
       },
       {
-        "create-time": 1596449744445,
-        "edit-time": 1596449765920,
-        "string": "{{embed: ((zTOoO1I_p))}}",
-        "uid": "Btf6v6Eak"
+        "create-email": "j@djinna.com",
+        "create-time": 1599578382972,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578509698,
+        "string": "",
+        "uid": "LVnrIzDBg"
       },
       {
-        "children": [
-          {
-            "create-time": 1597171123716,
-            "edit-time": 1597171234980,
-            "string": "{{embed: ((ADzLX5agE))",
-            "uid": "DRqPB-kzp"
-          }
-        ],
-        "create-time": 1596449765902,
-        "edit-time": 1597171120425,
-        "string": "[[Letts Jon]]",
-        "uid": "ADzLX5agE"
+        "create-email": "j@djinna.com",
+        "create-time": 1599578474812,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578718345,
+        "string": "",
+        "uid": "I-GPoBnxA"
       },
       {
-        "children": [
-          {
-            "create-time": 1596359647125,
-            "edit-time": 1596359663459,
-            "string": "{{embed: (())}}",
-            "uid": "iVnEUlqUH"
-          }
-        ],
-        "create-time": 1596359591194,
-        "edit-time": 1596359638352,
-        "string": "[[Arpit Choudhury]]  ",
-        "uid": "YdEzzlBtJ"
-      },
-      {
-        "children": [
-          {
-            "create-time": 1596359816962,
-            "edit-time": 1596359981068,
-            "string": "{{embed: ((((nZ6mopVus)))}}",
-            "uid": "0OENKbygE"
-          },
-          {
-            "create-time": 1596359832031,
-            "edit-time": 1596359832031,
-            "string": "",
-            "uid": "jBA_gjDGj"
-          }
-        ],
-        "create-time": 1596359807523,
-        "edit-time": 1596359816971,
-        "string": "[[Choudhury Arpit]]",
-        "uid": "ls58I7tJO"
-      },
-      {
-        "create-email": "notifyme@gmail.com",
-        "create-time": 1589017178761,
-        "edit-email": "notifyme@gmail.com",
-        "edit-time": 1596358472428,
-        "string": "[[magdum aashutosh]]",
-        "uid": "ugJMKLvlN"
-      },
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "create-time": 1596288268834,
-                "edit-time": 1596288350867,
-                "string": "Focus is on using foresight methodologies for helping imagine alternative, non-tech focused futures, with a particular interest in alternative economies, future of food, and future of education.",
-                "uid": "7sDrVIKM7"
-              },
-              {
-                "create-time": 1596288171876,
-                "edit-time": 1596288266463,
-                "string": "I received an MS in Foresight from the University of Houston. During that time, I was a fellow at the Association of Professional Futurists researching post-capitalism from a Global South perspective",
-                "uid": "Vks3Mlt84"
-              },
-              {
-                "children": [
-                  {
-                    "create-time": 1596287968251,
-                    "edit-time": 1596288103310,
-                    "string": "https://soif.org.uk/ ",
-                    "uid": "Jyb14y4B2"
-                  }
-                ],
-                "create-time": 1596287898084,
-                "edit-time": 1596287908748,
-                "string": "Operations Manager at School of International Futures",
-                "uid": "Xwqq8se95"
-              },
-              {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "create-time": 1596288121631,
-                        "edit-time": 1596288168752,
-                        "string": "https://www.nesta.org.uk/report/our-futures-people-people/ ",
-                        "uid": "p9Z7lpxDA"
-                      }
-                    ],
-                    "create-time": 1596287966038,
-                    "edit-time": 1596288128755,
-                    "string": "Helped develop a framework for understanding Participatory Futures for Nesta's Collective Intelligence team",
-                    "uid": "t_9VZaPl3"
-                  }
-                ],
-                "create-time": 1596287908742,
-                "edit-time": 1596288398436,
-                "string": "Futurist at the Global Swarm, a collective of futurists from diverse backgrounds and interests.",
-                "uid": "Y9p7XeNtl"
-              },
-              {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "create-time": 1596288138063,
-                        "edit-time": 1596288147213,
-                        "string": "http://projectgastronomia.org/en/events/project-gastronomia-towards-personalized-gastronomy-2050/ ",
-                        "uid": "_lkm2cPBy"
-                      }
-                    ],
-                    "create-time": 1596287919106,
-                    "edit-time": 1596288157958,
-                    "string": "Co-Authored two reports on the Future of Food for the Basque Culinary Center, latest one won an award from the Association of Professional Futurists",
-                    "uid": "vqyI0A6CK"
-                  }
-                ],
-                "create-time": 1596287916666,
-                "edit-time": 1596288136812,
-                "string": "Plural Futures ",
-                "uid": "PkSxfXH1K"
-              }
-            ],
-            "create-time": 1596287520572,
-            "edit-time": 1596287897330,
-            "string": "Academically-Trained Futurist in San Sebastian",
-            "uid": "jiqrS62M8"
-          }
-        ],
-        "create-time": 1596287368887,
-        "edit-time": 1596287520616,
-        "string": "[[Daniel Riveong]]",
-        "uid": "pEjRxoMwO"
-      },
-      {
-        "children": [
-          {
-            "create-email": "me@jspha.com",
-            "create-time": 1588982570073,
-            "edit-email": "me@jspha.com",
-            "edit-time": 1588982587369,
-            "string": "((utEEKQvO1))",
-            "uid": "OVN8qfHNL"
-          }
-        ],
         "create-email": "me@jspha.com",
         "create-time": 1588982368377,
-        "edit-email": "me@jspha.com",
-        "edit-time": 1588982374489,
-        "string": "[[Joseph Abrahamson]]",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578984864,
+        "string": "{{embed: [[Joseph Abrahamson]]}}",
         "uid": "wdiAXrCIQ"
       },
       {
-        "children": [
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1586438421379,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1586438421379,
-            "string": "((iMncDX5qs))",
-            "uid": "l9qSpWJ57"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1584655804800,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1593377238267,
-            "string": "((k4bgHkA5H))",
-            "uid": "uUjmmdJyE"
-          }
-        ],
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1584655699600,
-        "edit-email": "me@jspha.com",
-        "edit-time": 1588982421435,
-        "string": "[[Nathan Acks]]",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578995552,
+        "string": "{{embed: [[Nathan Acks]]}}",
         "uid": "7StIhT3-O"
       },
       {
         "create-email": "kmadams@gmail.com",
         "create-time": 1585418234073,
-        "edit-email": "kmadams@gmail.com",
-        "edit-time": 1585418237752,
-        "string": "[[Keith Adams]]",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599579032561,
+        "string": "{{embed: [[Keith Adams]]}}",
         "uid": "M-666kjq_"
       },
       {
-        "children": [
-          {
-            "create-time": 1588546490806,
-            "edit-time": 1588546492866,
-            "string": "((ntoX9byDu))",
-            "uid": "HsieOI4ae"
-          }
-        ],
         "create-time": 1584646938474,
-        "edit-time": 1588546031411,
-        "string": "[[Kartik Agaram]]",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599579063533,
+        "string": "{{embed: [[Kartik Agaram]]}}",
         "uid": "Yap6In6xw"
       },
       {
-        "create-email": "khalil.g.haddad@gmail.com",
-        "create-time": 1592440420722,
-        "edit-email": "khalil.g.haddad@gmail.com",
-        "edit-time": 1592440420722,
-        "string": "",
-        "uid": "01Sl0V8HS"
-      },
-      {
-        "children": [
-          {
-            "create-email": "scottallentvh@gmail.com",
-            "create-time": 1588965741341,
-            "edit-email": "scottallentvh@gmail.com",
-            "edit-time": 1588969617625,
-            "string": "{{embed: ((((sOudXb4qS))))}}",
-            "uid": "MxO1SNMDE"
-          }
-        ],
         "create-email": "vgururao@gmail.com",
         "create-time": 1588547058427,
-        "edit-email": "shreedashreeda@gmail.com",
-        "edit-time": 1591115350142,
-        "string": "[[Scott Allen]]",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599579105092,
+        "string": "{{embed: [[Scott Allen]]}}",
         "uid": "8edzXVHnQ"
       },
       {
-        "children": [
-          {
-            "create-email": "mitch.anhoury@gmail.com",
-            "create-time": 1592954810088,
-            "edit-email": "mitch.anhoury@gmail.com",
-            "edit-time": 1592954861255,
-            "string": "{{embed: ((((gA_SUPrpo))))}}",
-            "uid": "HH879EP_s"
-          }
-        ],
         "create-email": "mitch.anhoury@gmail.com",
         "create-time": 1592953551442,
-        "edit-email": "mitch.anhoury@gmail.com",
-        "edit-time": 1592953559500,
-        "string": "[[Mitchell Anhoury]]",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599579125593,
+        "string": "{{embed: [[Mitchell Anhoury]]}}",
         "uid": "eO60XarKI"
       },
       {
-        "children": [
-          {
-            "create-email": "maggie.fm.appleton@gmail.com",
-            "create-time": 1594146720167,
-            "edit-email": "maggie.fm.appleton@gmail.com",
-            "edit-time": 1594146722255,
-            "string": "{{embed: ((kFeLZGuin))}}",
-            "uid": "MuEld4pp5"
-          }
-        ],
         "create-email": "maggie.fm.appleton@gmail.com",
         "create-time": 1586417715512,
-        "edit-email": "maggie.fm.appleton@gmail.com",
-        "edit-time": 1586417748157,
-        "string": "[[Maggie Appleton]]",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599579156693,
+        "string": "{{embed: [[Maggie Appleton]]}}",
         "uid": "acTqXc2VI"
+      },
+      {
+        "create-email": "notifyme@gmail.com",
+        "create-time": 1589017178761,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578881336,
+        "string": "{{embed: [[magdum aashutosh]]}}",
+        "uid": "ugJMKLvlN"
+      },
+      {
+        "create-time": 1596359591194,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578845355,
+        "string": "{{embed: [[Arpit Choudhury]]}}",
+        "uid": "YdEzzlBtJ"
+      },
+      {
+        "create-time": 1596449765902,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599580008931,
+        "string": "{{embed: [[Jon Letts]]}}",
+        "uid": "ADzLX5agE"
+      },
+      {
+        "create-time": 1596287368887,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578896171,
+        "string": "{{embed: [[Daniel Riveong]]}}",
+        "uid": "pEjRxoMwO"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599578608705,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578710489,
+        "string": "{{embed: [[Adrian Wons]]}}",
+        "uid": "TixU-OzO8"
       },
       {
         "edit-email": "info@davisausterberry.com",
@@ -70278,8 +70199,8 @@
           {
             "create-email": "mitch.anhoury@gmail.com",
             "create-time": 1592954894493,
-            "edit-email": "mitch.anhoury@gmail.com",
-            "edit-time": 1592954902169,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599579136584,
             "string": "Twitter: @mitanho",
             "uid": "GC_T74l0I"
           }
@@ -70290,14 +70211,6 @@
         "edit-time": 1592954658229,
         "string": "Public Safety thinker and consultant, researching what public safety will look like in 2050 and how we get there. Have carved out an industry niche in the intersection between tech and policy, and the power dynamics among the human agents in the municipal process (elected/appointed, civilian/sworn, executive/legislative). Math/Biostatistics background.",
         "uid": "gA_SUPrpo"
-      },
-      {
-        "create-email": "mitch.anhoury@gmail.com",
-        "create-time": 1592954507565,
-        "edit-email": "mitch.anhoury@gmail.com",
-        "edit-time": 1592954788127,
-        "string": "",
-        "uid": "mo74lgysc"
       }
     ],
     "create-email": "mitch.anhoury@gmail.com",
@@ -82277,6 +82190,86 @@
     "title": "07/31/2020 \u2013 YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business'"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578909014,
+            "string": "Focus is on using foresight methodologies for helping imagine alternative, non-tech focused futures, with a particular interest in alternative economies, future of food, and future of education.",
+            "uid": "SwDJm7H2w"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578909014,
+            "string": "I received an MS in Foresight from the University of Houston. During that time, I was a fellow at the Association of Professional Futurists researching post-capitalism from a Global South perspective",
+            "uid": "i4uqyXxoM"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599578909014,
+                "string": "https://soif.org.uk/ ",
+                "uid": "IFucWsZaV"
+              }
+            ],
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578909014,
+            "string": "Operations Manager at School of International Futures",
+            "uid": "NPt9YA8ER"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1599578909014,
+                    "string": "https://www.nesta.org.uk/report/our-futures-people-people/ ",
+                    "uid": "3zR49dKW-"
+                  }
+                ],
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599578909014,
+                "string": "Helped develop a framework for understanding Participatory Futures for Nesta's Collective Intelligence team",
+                "uid": "msJp8hRYj"
+              }
+            ],
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578909014,
+            "string": "Futurist at the Global Swarm, a collective of futurists from diverse backgrounds and interests.",
+            "uid": "YdYTKIlDQ"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1599578909014,
+                    "string": "http://projectgastronomia.org/en/events/project-gastronomia-towards-personalized-gastronomy-2050/ ",
+                    "uid": "nIN8KwUSa"
+                  }
+                ],
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599578909014,
+                "string": "Co-Authored two reports on the Future of Food for the Basque Culinary Center, latest one won an award from the Association of Professional Futurists",
+                "uid": "vqf8erOJB"
+              }
+            ],
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578909014,
+            "string": "Plural Futures ",
+            "uid": "X5gque4RJ"
+          }
+        ],
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578909014,
+        "string": "Academically-Trained Futurist in San Sebastian",
+        "uid": "kQjl4trkE"
+      }
+    ],
     "create-time": 1596287520619,
     "edit-time": 1596287520625,
     "title": "Daniel Riveong"
@@ -82487,48 +82480,54 @@
   {
     "children": [
       {
-        "children": [
-          {
-            "create-email": "j@djinna.com",
-            "create-time": 1597675359274,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1597675368924,
-            "string": "updated [[August 17th, 2020]]",
-            "uid": "jE9z0Tg2S"
-          },
-          {
-            "create-email": "j@djinna.com",
-            "create-time": 1596635577563,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1597675378878,
-            "string": "[[August 3rd, 2020]]",
-            "uid": "gGsQT32eq"
-          }
-        ],
         "create-email": "j@djinna.com",
-        "create-time": 1596635585192,
+        "create-time": 1599576635497,
         "edit-email": "j@djinna.com",
-        "edit-time": 1596635587686,
-        "string": "Stub::",
-        "uid": "ha4k-ZY_F"
+        "edit-time": 1599576725397,
+        "string": "About:: __A place to build a group of yaks to contribute to producing Collaborative work outputs.__",
+        "uid": "Zpg5w7ghn"
       },
       {
         "children": [
           {
             "create-email": "j@djinna.com",
-            "create-time": 1597675388681,
+            "create-time": 1599576642873,
             "edit-email": "j@djinna.com",
-            "edit-time": 1597675425187,
-            "string": "[[Jenna Dixon]]",
-            "uid": "6UgeZt2NY"
+            "edit-time": 1599576643224,
+            "string": "Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] ",
+            "uid": "TbKvMk30F"
           }
         ],
         "create-email": "j@djinna.com",
-        "create-time": 1597675378916,
+        "create-time": 1599576642596,
         "edit-email": "j@djinna.com",
-        "edit-time": 1597675408556,
-        "string": "Single-Wringable Neck::",
-        "uid": "DMYOdxqjK"
+        "edit-time": 1599576683947,
+        "string": "Chief Page Wrangler:: [[Jenna Dixon]]",
+        "uid": "nGH_CPH63"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576643220,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576690387,
+        "string": "Last Updated:: [[September 8th, 2020]]",
+        "uid": "drpcaR-f_"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576643534,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576750588,
+        "string": "Last Updated By:: [[Jenna Dixon]]",
+        "uid": "h7DJSCTrI"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576644065,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576644862,
+        "string": " ",
+        "uid": "sDVKoLwkz"
       },
       {
         "children": [
@@ -82591,6 +82590,14 @@
         "edit-time": 1596643481221,
         "string": "Invited::",
         "uid": "dGq5eOE8j"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576742525,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576742525,
+        "string": "",
+        "uid": "I0r82g-ac"
       },
       {
         "children": [
@@ -86405,20 +86412,16 @@
     "children": [
       {
         "create-time": 1597171162753,
-        "edit-time": 1597171294878,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578769005,
         "string": "Airtable consultant ",
         "uid": "bvQog15qx"
-      },
-      {
-        "create-time": 1597171166221,
-        "edit-time": 1597171166221,
-        "string": "",
-        "uid": "8yKnr1RRt"
       }
     ],
     "create-time": 1597171110560,
-    "edit-time": 1597171110561,
-    "title": "Letts Jon"
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599580008931,
+    "title": "Jon Letts"
   },
   {
     "edit-email": "hewhocutsdown@gmail.com",
@@ -88184,13 +88187,6 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1597715130470,
     "title": "August 17th, 2020"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1597675408558,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1597675408559,
-    "title": "Single-Wringable Neck"
   },
   {
     "create-email": "j@djinna.com",
@@ -95030,8 +95026,349 @@
     "title": "September 7th, 2020"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "j@djinna.com",
+            "create-time": 1599576454059,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599576474383,
+            "string": "added Roam template PoC by @ViktorTabori",
+            "uid": "3l7OTqik1"
+          },
+          {
+            "children": [
+              {
+                "create-email": "j@djinna.com",
+                "create-time": 1599576490368,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599576764187,
+                "string": "call by typing :header: at the beginning of any block",
+                "uid": "R7g7e2397"
+              }
+            ],
+            "create-email": "j@djinna.com",
+            "create-time": 1599576435913,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599576483091,
+            "string": "made: template/header v1",
+            "uid": "upqxl4XW7"
+          }
+        ],
+        "create-email": "j@djinna.com",
+        "create-time": 1599576446575,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576453881,
+        "string": "made roam/js page",
+        "uid": "QJFb4aQ5f"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576524723,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576783034,
+        "string": "updated [[Production Cell]] header with new template",
+        "uid": "eITQgMKFS"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576783778,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576783778,
+        "string": "",
+        "uid": "kVeh6YWTf"
+      }
+    ],
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1599556543598,
     "title": "September 8th, 2020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "j@djinna.com",
+            "create-time": 1599576203061,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599576282480,
+            "string": "```javascript\n/*\n * Roam template PoC by @ViktorTabori\n * 0.1alpha\n *\n * How to install it:\n *  - go to `roam/js` page`\n *  - make a new node: {{[[roam/js]]}}\n *  - put this code under that node\n *  - set type to javascript and allow the js to run\n *  - create a template page with some content: [[template]]/test\n *  - write :test: to you daily page and see what happens\n * \n * known issues:\n *  - looks hacky\n *  - for longer templates it messes up some lines\n */\n\ndocument.addEventListener('input', function(e){\n\tif ('_templateHook' in window) {\n\t\tsetTimeout(function(){ window._templateHook(e); }, 0);\n\t}\n});\n\nwindow._templateHook = async function(e) {\n\t// logging\n\twindow._e = e;\n\n\t// exit if not target\n\tvar elem = e.target\n\tif (elem.nodeName != 'TEXTAREA' || e.data != ':') return;\n\n\tconsole.log('ok',elem.value, elem);\n\n\t// nativeValueSetter to bypass\n\tvar nativeSetter = Object.getOwnPropertyDescriptor(window.HTMLTextAreaElement.prototype,\"value\").set;\n\n\t// resolve templates\n\tvar tab = 0;\n\tvar text = elem.value;\n\telem.value.replace(/:([^:]+):/g, async function(_, v, position){\n\t\t// lookup template\n\t\tvar tmp = getTemplate(v);\n\n\t\t// if no result\n\t\tif (!tmp) {\n\t\t\treturn _;\n\t\t}\n\n\t\tconsole.log('template:',v,tmp);\n\n\t\t// remove first \n\t\ttmp = tmp.replace(/^\\s*- /,'').split(\"\\n\");\n\n\t\t// process first line\n\t\tvar line = tmp.shift();\n\t\ttext = text.replace(_, line);\n\n\t\t// handle heading\n\t\theading = (line.match(/^(#*) ?/)||['',''])[1].length;\n\t\tif (heading > 0) {\n\t\t\tconsole.log('heading:', heading, line.match(/^(#*) ?/));\n\t\t\tKeyboardLib.changeHeading(heading);\n\t\t}\n\t\tline = line.replace(/^#* ?/, '');\n\t\tif (line == '') line = ' ';\n\n\t\t// set value\n\t\tnativeSetter.call(e.target, line);\n\t\te.target.selectionStart = position;\n\t\te.target.selectionEnd = position;\n\t\te.target.dispatchEvent(new Event('input', {bubbles: true, cancelable: true }));\n\n\t\t// process lines\n\t\twhile (tmp.length) {\n\t\t\t// get new line\n\t\t\telem.focus();\n\t\t\telem.selectionStart = elem.value.length;\n\t\t\telem.selectionEnd = elem.value.length;\n\n\t\t\t// get new line and row\n\t\t\tawait KeyboardLib.pressEnter();\n\t\t\telem = KeyboardLib.getActiveEditElement();\n\t\t\tline = tmp.shift();\n\n\t\t\t// handle tabs\n\t\t\tconsole.log('line:', line)\n\t\t\ttab = line.match(/^\\s*/)[0].length/2-tab; // tab difference\n\t\t\tconsole.log('tab:',tab);\n\t\t\tif (tab > 0) {\n\t\t\t\tfor (var i=0; i<tab; i++) {\n\t\t\t\t\tawait KeyboardLib.pressTab()\n\t\t\t\t}\n\t\t\t} else if (tab < 0) {\n\t\t\t\tfor (var i=0; i<-tab; i++) {\n\t\t\t\t\tawait KeyboardLib.pressShiftTab();\n\t\t\t\t}\n\t\t\t}\n\t\t\ttab = line.match(/^\\s*/)[0].length/2; // save current tab length\n\n\t\t\t// handle heading\n\t\t\theading = (line.match(/^\\s*- (#*) ?/)||['',''])[1].length;\n\t\t\tif (heading > 0) {\n\t\t\t\tconsole.log('heading:', heading, line.match(/^\\s*- (#*) ?/));\n\t\t\t\tKeyboardLib.changeHeading(heading);\n\t\t\t}\n\n\t\t\t// set element value\n\t\t\telem = KeyboardLib.getActiveEditElement();\n\t\t\tline = line.replace(/^\\s*- #* ?/,'');\n\t\t\tif (line == '') line = ' ';\n\t\t\tnativeSetter.call(elem, line);\n\t\t\telem.selectionStart = elem.value.length;\n\t\t\telem.selectionEnd = elem.value.length;\n\t\t\tconsole.log('dispatch event');\n\t\t\telem.dispatchEvent(new Event('input', {bubbles: true, cancelable: true }));\n\n\t\t\tawait KeyboardLib.delay(150);\n\t\t}\n\t});\n}\n\nwindow.getTemplate = function(name) {\n\t/* resolve node function by @ViktorTabori\n\t * id: node id\n\t * level: depth needed for indention\n\t * trail: list of ids to avoid loops\n\t * resolve: resolve block references and embeds starting with an exclamation mark: !{{embed:((blockid))}} and !((blockid))\n\t * skipFirstPrefix: no prefix, needed for block embeds and references\n\t * stop: doesn't resolve children, needed for block reference resolution\n\t */\n\tfunction resolveNode(id, level, trail, resolve, skipFirstPrefix, stop){\n\t\tvar level = level || 0; // for indentation\n\t\tvar trail = Object.assign({}, trail); // to avoid loops\n\t\tvar prefix = skipFirstPrefix ? '' : ' '.repeat(2*Math.max(level-1,0)) + '- '; // indention starting from level 2\n\t\tvar newLine = skipFirstPrefix && stop ? '' : \"\\n\"; // no new line when we resolve simple block references\n\t\tvar ret = '';\n\n\t\t// avoid loops: skip if trail already contains id\n\t\tif (trail[id]) return;\n\t\ttrail[id] = true;\n\n\t\t// get node info\n\t\tvar node = window.roamAlphaAPI.pull(\"[*]\",id);\n\n\t\t// node order\n\t\tvar order = node[':block/order'] || 0;\n\n\t\t// add heading to prefix\n\t\tif (node[':block/heading'] && node[':block/heading'] > 0) {\n\t\t\tprefix += '#'.repeat(node[':block/heading'])+' ';\n\t\t}\n\n\t\t// current node string\n\t\tif (typeof node[':block/string'] != 'undefined') {\n\t\t\t// resolve block EMBEDs\n\t\t\tvar regexEmbed = resolve ? /!?{{\\[*embed\\]*\\s*:\\s*\\(\\(([^\\)]*)\\)\\)\\s*}}/ig : /!{{\\[*embed\\]*\\s*:\\s*\\(\\(([^\\)]*)\\)\\)\\s*}}/ig;\n\t\t\tnode[':block/string'] = node[':block/string'].replace(regexEmbed, function(_, v){ \n\t\t\t\tvar uid = v.trim();\n\t\t\t\tvar id = window.roamAlphaAPI.q(\"[:find ?e :in $ ?a :where [?e :block/uid ?a]]\", uid);\n\t\t\t\tif (id.length == 0) {\n\t\t\t\t\treturn _;\n\t\t\t\t}\n\t\t\t\tvar block = resolveNode(id[0][0], level, trail, true, true); // resolve node, no prefix\n\t\t\t\tif (typeof block != 'undefined') { // for loops we got back undefined\n\t\t\t\t\treturn block;\n\t\t\t\t} else {\n\t\t\t\t\treturn 'LOOP:'+_;\n\t\t\t\t}\n\t\t\t});\n\n\t\t\t// resolve block REFERENCEs\n\t\t\tvar regexReference = resolve ? /!?\\(\\(([^\\)]*)\\)\\)/ig : /!\\(\\(([^\\)]*)\\)\\)/ig;\n\t\t\tnode[':block/string'] = node[':block/string'].replace(regexReference, function(_, v){ \n\t\t\t\tvar uid = v.trim();\n\t\t\t\tvar id = window.roamAlphaAPI.q(\"[:find ?e :in $ ?a :where [?e :block/uid ?a]]\", uid);\n\t\t\t\tif (id.length == 0) {\n\t\t\t\t\treturn _;\n\t\t\t\t}\n\t\t\t\tvar block = resolveNode(id[0][0], level, trail, true, true, true); // resolve node, no prefix, don't resolve children\n\t\t\t\tif (typeof block != 'undefined') { // for loops we got back undefined\n\t\t\t\t\treturn block;\n\t\t\t\t} else {\n\t\t\t\t\treturn 'LOOP:'+_;\n\t\t\t\t}\n\t\t\t});\n\n\n\t\t\t// add block text to return\n\t\t\tret += prefix + node[':block/string'] + newLine;\n\t\t}\n\n\t\t// handle children\n\t\tif (node[':block/children'] && !stop) {\n\t\t\tvar children = [];\n\t\t\tvar tmp;\n\n\t\t\t// get children data\n\t\t\tfor (var i in node[':block/children']) {\n\t\t\t\ttmp = resolveNode(node[':block/children'][i][':db/id'], level+1, trail);\n\t\t\t\tif (typeof tmp != 'undefined') {\n\t\t\t\t\tchildren.push(tmp);\n\t\t\t\t}\n\t\t\t}\n\n\t\t\t// sort children in order\n\t\t\tchildren.sort(function(a,b){return a.order-b.order})\n\n\t\t\t// concat children text\n\t\t\tret += children.map(function(i){return i.txt}).join('');\n\t\t}\n\n\t\t// return based on how deep we are in the graph\n\t\tif (level == 0 || skipFirstPrefix) {\n\t\t\treturn ret;\n\t\t} else {\n\t\t\treturn {txt: ret, order: order};\n\t\t}\n\t}\n\n\t// check API endpoint\n\tif (!window.roamAlphaAPI || !window.roamAlphaAPI.q || !window.roamAlphaAPI.pull) return; // no api endpoint\n\n\t// search node ID\n\tvar nodeId; // page we look for\n\tvar search = ['template','[[template]]']; // search for template in template/name, [[template]]/name, ...\n\tfor (var i in search) {\n\t\tnodeId = window.roamAlphaAPI.q(\"[:find ?e :in $ ?a :where [?e :node/title ?a]]\", search[i]+'/'+name);\n\t\tif (nodeId.length) {\n\t\t\tnodeId = nodeId[0][0];\n\t\t\tbreak;\n\t\t}\n\t}\n\n\tif (!nodeId || nodeId.length == 0) return; // no such template\n\n\treturn resolveNode(nodeId);\n}\n\nwindow.KeyboardLib = {\n\t// thank you @VladyslavSitalo for the awesome Roam Toolkit, and the basis for this code\n    LEFT_ARROW: 37,\n    UP_ARROW: 38,\n    RIGHT_ARROW: 39,\n    DOWN_ARROW: 40,\n    BASE_DELAY: 20,\n\n    delay(millis) {\n    \treturn new Promise(resolve => setTimeout(resolve, millis))\n\t},\n\tgetKeyboardEvent: function(type, code, opts) {\n\t    return new KeyboardEvent(type, {\n\t        bubbles: true,\n\t        cancelable: true,\n\t        keyCode: code,\n\t        ...opts,\n\t    })\n\t},\n\tgetActiveEditElement: function() {\n\t    // stolen from Surfingkeys. Needs work.\n\t    var element = document.activeElement\n\t    // on some pages like chrome://history/, input is in shadowRoot of several other recursive shadowRoots.\n\t    while (element.shadowRoot) {\n\t        if (element.shadowRoot.activeElement) {\n\t            element = element.shadowRoot.activeElement\n\t        } else {\n\t            var subElement = element.shadowRoot.querySelector('input, textarea, select')\n\t            if (subElement) {\n\t                element = subElement\n\t            }\n\t            break\n\t        }\n\t    }\n\t    return element\n\t},\n\tasync simulateSequence(events, delayOverride) {\n    \t;events.forEach(function(e){\n\t\t\treturn KeyboardLib.getActiveEditElement().dispatchEvent(KeyboardLib.getKeyboardEvent(e.name, e.code, e.opt));\n\t\t});\n        return this.delay(delayOverride || this.BASE_DELAY);\n    },\n    async simulateKey(code, delayOverride, opts) {\n        return this.simulateSequence([{name:'keydown', code:code, opt:opts}, {name:'keyup', code:code, opt:opts}], delayOverride);\n    },\n    async changeHeading(heading, delayOverride) {\n        return this.simulateSequence(\n        \t[\n        \t\t{name:'keydown', code:18, opt:{altKey:true}},\n\t\t\t\t{name:'keydown', code:91, opt:{metaKey:true}},\n\t\t\t\t{name:'keydown', code:48+heading, opt:{altKey:true, metaKey:true}},\n\t\t\t\t{name:'keyup', code:91, opt:{altKey:true}},\n\t\t\t\t{name:'keyup', code:18, opt:{}}\n\t\t\t],\n        \tdelayOverride);\n    },\n    async pressEnter(delayOverride) {\n        return this.simulateKey(13, delayOverride)\n    },\n    async pressEsc(delayOverride) {\n        return this.simulateKey(27, delayOverride)\n    },\n    async pressBackspace(delayOverride) {\n        return this.simulateKey(8, delayOverride)\n    },\n    async pressTab(delayOverride) {\n        return this.simulateKey(9, delayOverride)\n    },\n    async pressShiftTab(delayOverride) {\n        return this.simulateKey(9, delayOverride, {shiftKey: true})\n    },\n    async pressCtrlV(delayOverride) {\n        return this.simulateKey(118, delayOverride, {metaKey: true})\n    },\n\tgetInputEvent() {\n\t    return new Event('input', {\n\t        bubbles: true,\n\t        cancelable: true,\n\t    })\n\t},\n}```",
+            "uid": "PPRzRUEoq"
+          }
+        ],
+        "create-email": "j@djinna.com",
+        "create-time": 1599576205492,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576236206,
+        "string": "{{[[roam/js]]}}",
+        "uid": "eqQ8x5PWk"
+      }
+    ],
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599576199678,
+    "title": "roam/js"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1599576220647,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599576220649,
+    "title": "template"
+  },
+  {
+    "children": [
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576397521,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576416214,
+        "string": "About:: __XXX__",
+        "uid": "qFfr1wm14"
+      },
+      {
+        "children": [
+          {
+            "create-email": "j@djinna.com",
+            "create-time": 1599576582407,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599576606094,
+            "string": "Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] ",
+            "uid": "2puB0w0EJ"
+          }
+        ],
+        "create-email": "j@djinna.com",
+        "create-time": 1599576321413,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576427344,
+        "string": "Chief Page Wrangler:: [[Fname Lname]]",
+        "uid": "JWYpIgYgG"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576332843,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576372866,
+        "string": "Last Updated::",
+        "uid": "q-NrsNtrh"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576372863,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576614970,
+        "string": "Last Updated By:: [[Fname Lname]]",
+        "uid": "DvGJUEPu4"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576379934,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599576379934,
+        "string": "",
+        "uid": "XtY--beRr"
+      }
+    ],
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599576290792,
+    "title": "template/header"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1599576332662,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599576332671,
+    "title": "Chief Page Wrangler"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1599576372868,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599576372869,
+    "title": "Last Updated"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1599576377789,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599576377790,
+    "title": "Last Updated By"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1599576402476,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599576402476,
+    "title": "About"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1599576590762,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599576590772,
+    "title": "Additional Page Wranglers"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1599578428654,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599578428657,
+    "title": "Benito Berretta"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "I'm driven by building value and not by personal gain. ",
+            "uid": "nCbOY8s9_"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "I like to think about the big challenges we are facing as a society, work on challenging problems, and challenge the status quo.",
+            "uid": "hvoW3MoR6"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "Software excites me, great software makes me want to jump!",
+            "uid": "wUrO94yVY"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "I'm a huge proponent of tools that enable non-technical folks to do stuff that was previously only possible with code.",
+            "uid": "wrY7btpko"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "If I like something, I tend to sell it to everybody. ",
+            "uid": "x8Ef4bif0"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "Software excites me, great software makes me want to jump!",
+            "uid": "D5kP0BHQ7"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "I revel in the fact that I'm a jack of all trades.",
+            "uid": "x571pMCXH"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "If I like something, I tend to sell it to everybody.",
+            "uid": "FSRf3u5KD"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "In particular, I am good at selling my ideas and writing about them.",
+            "uid": "9xAhYM5AO"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "If I dislike something, I tend to prevent others from buying into it.",
+            "uid": "8KoqlXeNp"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "2020 has been a strange year -- I have gained so much but lost even more.",
+            "uid": "3IHSQVtM2"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "I get paid to engage people who use certain software tools.",
+            "uid": "vTD_ulXPB"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "If I dislike something, I tend to prevent others from buying into it.",
+            "uid": "LFomcGhmN"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832404,
+            "string": "I revel in the fact that I'm a jack of all trades.",
+            "uid": "1G7XbFNeI"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "In particular, I am good at selling my ideas and writing about them.",
+            "uid": "r74DAD8RB"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832403,
+            "string": "I get paid to engage people who use certain software tools.",
+            "uid": "7mtZ9Omc1"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832404,
+            "string": "I'm driven by building value and not by personal gain.",
+            "uid": "MLFnOqOVF"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832404,
+            "string": "I am passionate about contributing to communities",
+            "uid": "hUdXnAg4T"
+          },
+          {
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832404,
+            "string": "I prefer written over verbal communication.",
+            "uid": "AuaYJgBYJ"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599578832404,
+                "string": "Right now (Aug 2020), I spend a bulk of my time helping [Integromat](https://www.integromat.com) grow.",
+                "uid": "nZwNVYMGU"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1599578832404,
+                "string": "The rest of my time goes into building [Data-led Academy](http://dataled.academy/) -- an initiative to foster data-literacy amongst non-engineers. ",
+                "uid": "gE3YRPpnl"
+              }
+            ],
+            "edit-email": "j@djinna.com",
+            "edit-time": 1599578832404,
+            "string": "I think remote work is a boon.",
+            "uid": "KSR4zZU-8"
+          }
+        ],
+        "edit-email": "j@djinna.com",
+        "edit-time": 1599578832404,
+        "string": "Hi! I\u2019m Arpit, an independent growth/product marketing consultant based in Kolkata, India.",
+        "uid": "V2sL0hzo4"
+      }
+    ],
+    "create-email": "j@djinna.com",
+    "create-time": 1599578776638,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1599578776647,
+    "title": "Arpit Choudhury"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1599643013300,
+    "title": "September 9th, 2020"
   }
 ]

@@ -1,8 +1,9 @@
-- Stub::
-    - updated [[August 17th, 2020]]
-    - [[August 3rd, 2020]]
-- Single-Wringable Neck::
-    - [[Jenna Dixon]]
+- About:: __A place to build a group of yaks to contribute to producing Collaborative work outputs.__
+- Chief Page Wrangler:: [[Jenna Dixon]]
+    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
+- Last Updated:: [[September 8th, 2020]]
+- Last Updated By:: [[Jenna Dixon]]
+-  
 - Invited::
     - [[YakWorld: Astonishing Stories of What's Next]]
         - [[Amanda Reeves]]
@@ -10,6 +11,7 @@
     - [[Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans]] 
         - [[Siva Swaroop]]
         - [[Venkatesh Rao]]
+- 
 - Related Infrastructure::
     - [[Yak Collective Website]]
     - [[Yak Talk Newsletter – To Do and Content Ideas]]

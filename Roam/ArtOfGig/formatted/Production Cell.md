@@ -1,8 +1,9 @@
-- **[Stub](<Stub.md>):**
-    - updated [August 17th, 2020](<August 17th, 2020.md>)
-    - [August 3rd, 2020](<August 3rd, 2020.md>)
-- **[Single-Wringable Neck](<Single-Wringable Neck.md>):**
-    - [Jenna Dixon](<Jenna Dixon.md>)
+- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Collaborative work outputs.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+-  
 - **[Invited](<Invited.md>):**
     - [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
         - [Amanda Reeves](<Amanda Reeves.md>)
@@ -10,6 +11,7 @@
     - [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) 
         - [Siva Swaroop](<Siva Swaroop.md>)
         - [Venkatesh Rao](<Venkatesh Rao.md>)
+- 
 - **[Related Infrastructure](<Related Infrastructure.md>):**
     - [Yak Collective Website](<Yak Collective Website.md>)
     - [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
@@ -101,6 +103,9 @@ Eg restaurant menu proofreader, back when that was a thing.__
         - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish
 
 # Backlinks
+## [September 8th, 2020](<September 8th, 2020.md>)
+- updated [Production Cell](<Production Cell.md>)
+
 ## [Things We Need](<Things We Need.md>)
 - volunteer for light [Production Cell](<Production Cell.md>)
 

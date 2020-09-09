@@ -7,5 +7,5 @@
 
 # Backlinks
 ## [Directory](<Directory.md>)
-- [Kartik Agaram](<Kartik Agaram.md>)
+- {{embed: [Kartik Agaram](<Kartik Agaram.md>)}
 

@@ -40,8 +40,3 @@
     - Sleep studies or other physical/pharmaceutical trials can potentially monetize the down time
     - Dedicated skill-building could be another frame that enriches the time: Learn to use Roam, Build a Second Brain, etc
     - Regimes that demand 2 to 4 hours a day might be right-sized. Instead of a long-distance airplane flight, the passage affords a useable transition to concentrate on specific facets of personal development
-
-# Backlinks
-## [Production Cell](<Production Cell.md>)
-- updated [August 17th, 2020](<August 17th, 2020.md>)
-

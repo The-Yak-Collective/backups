@@ -2,5 +2,5 @@
 
 # Backlinks
 ## [Directory](<Directory.md>)
-- [magdum aashutosh](<magdum aashutosh.md>)
+- {{embed: [magdum aashutosh](<magdum aashutosh.md>)}
 

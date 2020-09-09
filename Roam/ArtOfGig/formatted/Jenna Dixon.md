@@ -20,8 +20,15 @@
 ## [August 31st, 2020](<August 31st, 2020.md>)
 - light edits on [Schema | member data](<Schema | member data.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Directory](<Directory.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Production Cell](<Production Cell.md>)
-- [Jenna Dixon](<Jenna Dixon.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 

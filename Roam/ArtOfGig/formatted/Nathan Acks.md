@@ -37,7 +37,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - `v3.0` (point: [Nathan Acks](<Nathan Acks.md>))
 
 ## [Directory](<Directory.md>)
-- [Nathan Acks](<Nathan Acks.md>)
+- {{embed: [Nathan Acks](<Nathan Acks.md>)}
 
 ## [Discord](<Discord.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)

@@ -40,7 +40,9 @@
 - [Scott Allen](<Scott Allen.md>)
 
 ## [Directory](<Directory.md>)
-- [Scott Allen](<Scott Allen.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Scott Allen](<Scott Allen.md>)
+
+- {{embed: [Scott Allen](<Scott Allen.md>)}
 
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 - Section 2 - [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>) [Scott Allen](<Scott Allen.md>)

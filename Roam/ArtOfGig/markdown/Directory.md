@@ -1,48 +1,36 @@
-- {{[[Benito Berretta]]}} Minimalist version: just insert a page with your name in alphabetical order (by last name), and then do what you like with that page. 
-- High-usability version (allows people to read your page embedded within this page instead of jumping around):
-    - Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.
-    - Copy the block ref of that summary paragraph
-    - Embed (don't just copy)the block under your name on this page
-        - Indented under your name on this page, start typing ```html
+- About:: __A self-generated directory of Yaks.__
+- Chief Page Wrangler:: [[Scott Allen]]
+    - Additional Page Wranglers:: [[Jenna Dixon]] | [[Fname Lname]] 
+- Last Updated:: [[September 8th, 2020]]
+- Last Updated By:: [[Jenna Dixon]]
+-  
+- ###  How to jump in here
+- Minimalist version: 
+    - Insert a page with your name in alphabetical order (by last name), and then do what you like with that page. 
+        - [[Benito Berretta]] 
+- High-usability version 
+    - Allows people to read your page embedded within this page instead of jumping around:
+        - Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.
+        - Copy the block ref of that summary paragraph
+        - Embed (don't just copy) the block under your name on this page
+            - Indented under your name on this page, start typing ```html
 {{embed: ((Trivedi Girish))}}``` and then paste your block ref. It should end up looking something like this: ```clojure
 {{embed: ((((Hello, my name is Girish Trivedi and Iam based in New Delhi , India. Iam a Consultant focused around technology, Media and Telecom vertical. I work on Growth strategies, Got to market strategies and Segmentation projects. I am also a transition coach for professionals in transition and on my way towards becoming ICF( International Coach Federation) certified coach.                 ))))}}```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.
-    - If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.
-- {{embed: ((zTOoO1I_p))}}
-- [[Letts Jon]]
-    - {{embed: "[[Letts Jon]]"
-- [[Arpit Choudhury]]  
-    - {{embed: (())}}
-- [[Choudhury Arpit]]
-    - {{embed: ((((nZ6mopVus)))}}
-    - 
-- [[magdum aashutosh]]
-- [[Daniel Riveong]]
-    - Academically-Trained Futurist in San Sebastian
-        - Focus is on using foresight methodologies for helping imagine alternative, non-tech focused futures, with a particular interest in alternative economies, future of food, and future of education.
-        - I received an MS in Foresight from the University of Houston. During that time, I was a fellow at the Association of Professional Futurists researching post-capitalism from a Global South perspective
-        - Operations Manager at School of International Futures
-            - https://soif.org.uk/ 
-        - Futurist at the Global Swarm, a collective of futurists from diverse backgrounds and interests.
-            - Helped develop a framework for understanding Participatory Futures for Nesta's Collective Intelligence team
-                - https://www.nesta.org.uk/report/our-futures-people-people/ 
-        - Plural Futures 
-            - Co-Authored two reports on the Future of Food for the Basque Culinary Center, latest one won an award from the Association of Professional Futurists
-                - http://projectgastronomia.org/en/events/project-gastronomia-towards-personalized-gastronomy-2050/ 
-- [[Joseph Abrahamson]]
-    - "Two time startup founder in education and healthcare. Off-and-on indie consultant, currently employed at a very non-indie, but smallish technology strategy consulting firm. Looking to start something new. Math, software, product."
-- [[Nathan Acks]]
-    "Paycheck type currently working in the non-profit space, but planning on making the jump to independence."
-    "Twitter: [@nathan_acks](https://twitter.com/nathan_acks)"
-- [[Keith Adams]]
-- [[Kartik Agaram]]
-    - "Gig-curious programmer and researcher"
+        - If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.
 - 
-- [[Scott Allen]]
-    - {{embed: ((((sOudXb4qS))))}}
-- [[Mitchell Anhoury]]
-    - {{embed: ((((gA_SUPrpo))))}}
-- [[Maggie Appleton]]
-    - {{embed: ((kFeLZGuin))}}
+- 
+- {{embed: [[Joseph Abrahamson]]}}
+- {{embed: [[Nathan Acks]]}}
+- {{embed: [[Keith Adams]]}}
+- {{embed: [[Kartik Agaram]]}}
+- {{embed: [[Scott Allen]]}}
+- {{embed: [[Mitchell Anhoury]]}}
+- {{embed: [[Maggie Appleton]]}}
+- {{embed: [[magdum aashutosh]]}}
+- {{embed: [[Arpit Choudhury]]}}
+- {{embed: [[Jon Letts]]}}
+- {{embed: [[Daniel Riveong]]}}
+- {{embed: [[Adrian Wons]]}}
 - [[Davis Austerberry]]
 - [[David B]] I'm just planning to lurk visibly, here.
 - [[Christian Bacher]] 

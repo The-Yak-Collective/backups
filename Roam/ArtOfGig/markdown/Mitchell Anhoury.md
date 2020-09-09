@@ -7,4 +7,3 @@
     - Worked for 2 years at [Axon](https://www.axon.com/), maker of Tasers and bodyworn camera leader
         - on the product/GTM team for the Records Management System product (essentially the CRM for law enforcement). 
     - Twitter: @mitanho
-- 

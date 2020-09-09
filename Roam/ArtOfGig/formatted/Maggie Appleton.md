@@ -13,7 +13,7 @@
 
 # Backlinks
 ## [Directory](<Directory.md>)
-- [Maggie Appleton](<Maggie Appleton.md>)
+- {{embed: [Maggie Appleton](<Maggie Appleton.md>)}
 
 ## [Illustration](<Illustration.md>)
 - [Maggie Appleton](<Maggie Appleton.md>)
