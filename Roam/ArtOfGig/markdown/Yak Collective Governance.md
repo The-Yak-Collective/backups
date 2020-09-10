@@ -64,6 +64,8 @@ or something similar
     - This one is free and also interesting
 https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period
 And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.
+    - Another China Related Addition 
+https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]

@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 6th, 2020](<September 6th, 2020.md>)
+last updated:: [September 9th, 2020](<September 9th, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # File Naming
     - Use `lower-case-with-dashes.txt` instead of `Mixed_Caps_And_Underscored.TXT`.
@@ -8,6 +8,8 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
     - Keep things logically organized!
 # Formatting
     - [Indent with tabs, align with spaces.](https://dmitryfrank.com/articles/indent_with_tabs_align_with_spaces)
+    - In general, lines should be wrapped at 72 characters. Don't be slavish to this though; if your line is 74 characters, or wrapping it would be aesthetically detrimental, this rule can be broken. Try to keep lines below 80 characters max, however, if at all possible.
+        - For the purposes of wrapping, a tab should be considered equivalent to 4 spaces.
     - Variable and function names
         - For YAML and Liquid, use `lower-case-with-dashes`
         - For everything else, use `camelCase`

@@ -25833,6 +25833,14 @@
             "edit-time": 1598306956111,
             "string": "This one is free and also interesting\nhttps://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period\nAnd the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.",
             "uid": "7YRm3Ciyk"
+          },
+          {
+            "create-email": "gmilov@yandex.ru",
+            "create-time": 1599724447664,
+            "edit-email": "gmilov@yandex.ru",
+            "edit-time": 1599724469254,
+            "string": "Another China Related Addition \nhttps://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf",
+            "uid": "3IpYSL-SW"
           }
         ],
         "create-time": 1595610699400,
@@ -94009,8 +94017,8 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599416551551,
-        "string": "last updated:: [[September 6th, 2020]]",
+        "edit-time": 1599707594165,
+        "string": "last updated:: [[September 9th, 2020]]",
         "uid": "KnsYX1XCI"
       },
       {
@@ -94073,6 +94081,24 @@
             "edit-time": 1598928161837,
             "string": "[Indent with tabs, align with spaces.](https://dmitryfrank.com/articles/indent_with_tabs_align_with_spaces)",
             "uid": "-Qw8upNiE"
+          },
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599707566098,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599707584066,
+                "string": "For the purposes of wrapping, a tab should be considered equivalent to 4 spaces.",
+                "uid": "vLgUYqVR9"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599707437606,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599707566102,
+            "string": "In general, lines should be wrapped at 72 characters. Don't be slavish to this though; if your line is 74 characters, or wrapping it would be aesthetically detrimental, this rule can be broken. Try to keep lines below 80 characters max, however, if at all possible.",
+            "uid": "2S2AmhfkX"
           },
           {
             "children": [
@@ -95370,5 +95396,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1599643013300,
     "title": "September 9th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1599729334464,
+    "title": "September 10th, 2020"
   }
 ]
