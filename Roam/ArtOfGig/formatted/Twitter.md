@@ -1,5 +1,5 @@
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
+last updated:: [September 10th, 2020](<September 10th, 2020.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - ???
@@ -7,6 +7,8 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
     - [Jordan Peacock](<Jordan Peacock.md>)
     - [Venkatesh Rao](<Venkatesh Rao.md>)
     - [Nathan Acks](<Nathan Acks.md>)
+    - [Pamela Hobart](<Pamela Hobart.md>)
+    - [Scott Allen](<Scott Allen.md>)
 
 # Backlinks
 ## [Amir Hajizamani](<Amir Hajizamani.md>)

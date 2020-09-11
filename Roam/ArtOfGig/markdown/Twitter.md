@@ -1,5 +1,5 @@
 owner:: [[Jordan Peacock]]
-last updated:: [[August 31st, 2020]]
+last updated:: [[September 10th, 2020]]
 last updated by:: [[Nathan Acks]]
 # Purpose
     - ???
@@ -7,3 +7,5 @@ last updated by:: [[Nathan Acks]]
     - [[Jordan Peacock]]
     - [[Venkatesh Rao]]
     - [[Nathan Acks]]
+    - [[Pamela Hobart]]
+    - [[Scott Allen]]

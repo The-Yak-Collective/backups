@@ -8152,8 +8152,8 @@
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1584654296800,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1593377197966,
-        "string": "For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. :-)",
+        "edit-time": 1599793564363,
+        "string": "For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. \ud83e\udd13",
         "uid": "IynqvheBU"
       }
     ],
@@ -25328,8 +25328,8 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926628686,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1599794147155,
+        "string": "last updated:: [[September 10th, 2020]]",
         "uid": "P1Ata3j52"
       },
       {
@@ -25376,6 +25376,22 @@
             "edit-time": 1598926635647,
             "string": "[[Nathan Acks]]",
             "uid": "wo51mAolz"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599794112673,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599794117101,
+            "string": "[[Pamela Hobart]]",
+            "uid": "aavGDk9lR"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599794118407,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599794122298,
+            "string": "[[Scott Allen]]",
+            "uid": "KBp-EeLrk"
           }
         ],
         "edit-email": "roam@delphi-strategy.com",
@@ -95401,5 +95417,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1599729334464,
     "title": "September 10th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1599815725306,
+    "title": "September 11th, 2020"
   }
 ]

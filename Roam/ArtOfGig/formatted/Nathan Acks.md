@@ -6,7 +6,7 @@
     - [Digital Orrery](https://www.digital-orrery.com/) (photography)
     - [EcoPunk.info](https://www.ecopunk.info/) (personal page)
 - M.S. in Applied Mathematics specializing in [Operations Research](https://en.wikipedia.org/wiki/Operations_research)
-- For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. :-)
+- For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
 
 # Backlinks
 ## [Building the Website](<Building the Website.md>)

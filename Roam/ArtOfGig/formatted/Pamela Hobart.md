@@ -60,6 +60,9 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 
 - ~~A Twitter list of members would be helpful both in making it easier to engage with other yaks (vs. relying on Twitter's algorithms) and help increase visibility. I started to do one on my personal account, but then realized it should be on @yak_collective. I volunteer to set it up and help maintain it if I can get access to the Twitter account~~—[Pamela Hobart](<Pamela Hobart.md>)?
 
+## [Twitter](<Twitter.md>)
+- [Pamela Hobart](<Pamela Hobart.md>)
+
 ## [Vlad Meh: Naming Ways, Magic Ways](<Vlad Meh: Naming Ways, Magic Ways.md>)
 - Hey Vlad I'm just catching up on this convo so I don't know what other people chimed in on here, but I guess I see names as possibly developing an anachronistic kind of charm - like they aren't strictly necessary for communication purposes anymore but they might all feel like nicknames, or kind of pleasantly vestigial - [Pamela Hobart](<Pamela Hobart.md>)
 
