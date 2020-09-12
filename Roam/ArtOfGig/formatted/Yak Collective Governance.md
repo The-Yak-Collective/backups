@@ -66,6 +66,8 @@ https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_t
 And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.
     - Another China Related Addition 
 https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
+    - Underutilized fixed assets created market places 
+        - https://kwokchain.com/2020/01/23/underutilized-fixed-assets/
 - [Governance Tests](<Governance Tests.md>)
 - 
 - ## [Governance Meetings Minutes](<Governance Meetings Minutes.md>)
@@ -84,6 +86,9 @@ https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepap
 - [08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization](<08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization.md>)
 - [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
 - [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
+- [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
+- 
+- 
 - 
 - 
 - 

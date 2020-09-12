@@ -49,6 +49,9 @@
 ## [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
+## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
+- [Sachin Benny](<Sachin Benny.md>)
+
 ## [Amazonian Group Read](<Amazonian Group Read.md>)
 - April 20, [John Salavatier, Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) hosted by [Sachin Benny](<Sachin Benny.md>)
 

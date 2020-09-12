@@ -45,6 +45,9 @@
 ## [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
+## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
 ## [Directory](<Directory.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 

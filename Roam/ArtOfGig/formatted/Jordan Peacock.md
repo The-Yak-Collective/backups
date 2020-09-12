@@ -52,6 +52,9 @@
 ## [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)
 
+## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
+- [Jordan Peacock](<Jordan Peacock.md>)
+
 ## [Carl](<Carl.md>)
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
