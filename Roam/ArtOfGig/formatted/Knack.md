@@ -13,6 +13,9 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Knack](<Knack.md>)
 
+## [Schema | member data](<Schema | member data.md>)
+- [Nathan Acks](<Nathan Acks.md>) says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [Knack](<Knack.md>))
+
 ## [Threat Model](<Threat Model.md>)
 - [Knack](<Knack.md>)
 

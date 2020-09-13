@@ -115,7 +115,11 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
+- **[last updated](<last updated.md>):** [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
 - **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
 
 ## [Substack](<Substack.md>)
 last updated by:: [Nathan Acks](<Nathan Acks.md>)

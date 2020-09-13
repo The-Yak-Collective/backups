@@ -29,7 +29,9 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>)
 last updated:: [August 31st, 2020](<August 31st, 2020.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- ## Github member.md structure [August 31st, 2020](<August 31st, 2020.md>)
+- # Examples as of [August 31st, 2020](<August 31st, 2020.md>)
+
+- # Current Members as of [August 31st, 2020](<August 31st, 2020.md>)
 
 ## [Website Version History](<Website Version History.md>)
 last updated:: [August 31st, 2020](<August 31st, 2020.md>)

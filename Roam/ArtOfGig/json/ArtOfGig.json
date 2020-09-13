@@ -89000,6 +89000,14 @@
         "uid": "5mkyYOYl4"
       },
       {
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1599961746305,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1599961761208,
+        "string": "last updated:: [[September 12th, 2020]] by [[Nathan Acks]]",
+        "uid": "o_RykpZd-"
+      },
+      {
         "create-email": "j@djinna.com",
         "create-time": 1598274535045,
         "edit-email": "j@djinna.com",
@@ -89018,109 +89026,309 @@
       {
         "children": [
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598274528026,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598274660138,
-            "string": "Name::",
-            "uid": "RJquaO4Xu"
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1599961395906,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1599961700051,
+                    "string": "[[Nathan Acks]] says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [[Knack]]), I'd use some kind of non-name UID (`a34bce`, etc.) instead.",
+                    "uid": "wVkKDs2Oe"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958457641,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959151864,
+                "string": "**(Required)** Internal member ID, used for webpage URLs and some website `<div/>` IDs.",
+                "uid": "x17yEcwNC"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958528953,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599958557837,
+                "string": "Example: `nathan-acks`",
+                "uid": "OL549ODxl"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599958449526,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599958457055,
+            "string": "name::",
+            "uid": "owADL2PRF"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598274709504,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598274712289,
-            "string": "Title:: ",
-            "uid": "u3sMVPbQx"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958515387,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959159830,
+                "string": "**(Required)** Full member name.",
+                "uid": "atBJtD-8R"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958559600,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599958566222,
+                "string": "Example: `Nathan Acks`",
+                "uid": "MkMi76cRZ"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599958511368,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599958515392,
+            "string": "title::",
+            "uid": "9SqtvcJjC"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598889773232,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598889777220,
-            "string": "Date:: ",
-            "uid": "e3-6AQR_l"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958571746,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959167900,
+                "string": "**(Required)** Member \"join date\". Generally the date of the first project that member is associated with.",
+                "uid": "_DtU-dZkE"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958622937,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599958717938,
+                "string": "Example: `2020-05-03`",
+                "uid": "aWNxFt8ps"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599958566739,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599958571751,
+            "string": "date::",
+            "uid": "HDRvx1dam"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598274599694,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598274688428,
-            "string": "Indie Status::",
-            "uid": "6DHgiMpW2"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958726944,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959176197,
+                "string": "(Optional) Number of year the member has been indie.",
+                "uid": "MYtsB11Vt"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958740319,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959220174,
+                "string": "Example: `1 year`",
+                "uid": "qptWcgvea"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599958721413,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599958726953,
+            "string": "indie_status::",
+            "uid": "h9CHcBC6M"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598274684302,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598360724412,
-            "string": "@twitter::",
-            "uid": "sgL17uo6h"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958759486,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959182410,
+                "string": "(Optional) The member's chosen self-description.",
+                "uid": "v7TpFQK0W"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958925540,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599958976265,
+                "string": "Example: `Armchair Futurist / Defense Against the Dark Arts`",
+                "uid": "mE79qx7qx"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599958754064,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599958759489,
+            "string": "tagline::",
+            "uid": "2xXkxODVX"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598889796934,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598889801925,
-            "string": "Tagline:: ",
-            "uid": "8e4dFBqZl"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959601102,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959617434,
+                "string": "(Optional) Member's current role, projects, etc.",
+                "uid": "A-7y7M1P1"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959617480,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959648395,
+                "string": "Example: `Wannabe hacker`",
+                "uid": "np1Mwq4HZ"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599959597200,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599959600954,
+            "string": "current::",
+            "uid": "OJDhvAMgZ"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598274639929,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598274675193,
-            "string": "Previously::",
-            "uid": "ZUWRYgKlt"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959049250,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959209788,
+                "string": "(Optional) Previous roles that the member has had, organizations worked for, etc.",
+                "uid": "0ONhUC1-S"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959209777,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959242089,
+                "string": "Example: `The Public Interest Network`",
+                "uid": "xBAxIDUyZ"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599959040706,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599959049252,
+            "string": "previously::",
+            "uid": "osRzNZgpP"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598274628165,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598274670895,
-            "string": "Currently::",
-            "uid": "QBuDgjLuZ"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599958984188,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959186836,
+                "string": "(Optional) The member's Twitter handle, sans the https://twitter.com/ bit.",
+                "uid": "ehQCGKHiG"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959025090,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959033094,
+                "string": "Example: `nathan_acks`",
+                "uid": "kRzc1paSM"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599958979690,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599958984197,
+            "string": "twitter::",
+            "uid": "dBfddlAfh"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598274643342,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598889824918,
-            "string": "Avatar:: ",
-            "uid": "xNhT8aHvO"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959248395,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959279216,
+                "string": "**(Required)** Path (relative to the web root) of the member's avatar.",
+                "uid": "093oMTt0B"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959279197,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959290743,
+                "string": "Example: `/assets/dynamic/nathan-acks.jpg`",
+                "uid": "XwYzBACvf"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599959243389,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599959248397,
+            "string": "avatar::",
+            "uid": "V4wZpx1FC"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598274700474,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598886757499,
-            "string": "(...other?)::",
-            "uid": "xsCdK3cTX"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959297537,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599959450538,
+                "string": "(Optional) A YAML array of link objects. Each object has a **url:** attribute (the, well, URL) and a **title:** attribute (the name that should be used for this URL).",
+                "uid": "x_SPfCByV"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599959425823,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599960836395,
+                "string": "Example: `[{title: Homepage, url: https://delphi-strategy.com/}, {title: Photography, url: https://digital-orrery.com/}, {title: Web Log, url: https://ecopunk.info/}]`",
+                "uid": "9QqgcfGD4"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599959291685,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599959297527,
+            "string": "links::",
+            "uid": "XcQCIXHp5"
           },
           {
-            "create-email": "j@djinna.com",
-            "create-time": 1598886758684,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598886758684,
-            "string": "",
-            "uid": "XD_CbdnmD"
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599960912893,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599960941886,
+                "string": "(Optional) Free-form content using Markdown. Currently unused.",
+                "uid": "-eprwLFHt"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599960947571,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599961067290,
+                "string": "This isn't a \"real\" field -- rather members are currently represented using Markdown files in a `members` [Jekyll collection](https://jekyllrb.com/docs/collections/). All of the information __except__ this field is YAML frontmatter, while the **content:** is just the actual Markdown data.",
+                "uid": "1AtXtlVEq"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1599960907696,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599960912852,
+            "string": "content::",
+            "uid": "TXHO5Hn4-"
           }
         ],
         "create-email": "j@djinna.com",
         "create-time": 1598274415094,
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598886720133,
-        "heading": 2,
-        "string": "Template - member data",
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1599960796695,
+        "heading": 1,
+        "string": "Current Website Member Data Template",
         "uid": "c6WF0pUsX"
-      },
-      {
-        "create-email": "j@djinna.com",
-        "create-time": 1598889715502,
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598889715502,
-        "string": "",
-        "uid": "wkPYOC8ji"
       },
       {
         "children": [
@@ -89143,244 +89351,240 @@
           {
             "create-email": "j@djinna.com",
             "create-time": 1598889749569,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1598889749569,
-            "string": "",
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1599961090261,
+            "string": "```yaml\n---\nname: jordan-peacock\ntitle: Jordan Peacock\ndate: 2020-04-30\nindie_status: 3+ years\ntwitter: hewhocutsdown\ntagline: CEO, Becoming Machinic; Founder, Sortilege\npreviously: U.S. Bank, HelpSystems\navatar: /assets/dynamic/jordan-peacock.jpg\nlinks:\n  - title: LinkedIn\n    url: https://www.linkedin.com/in/hewhocutsdown/\n---```",
             "uid": "RnbxD2DUU"
           }
         ],
         "create-email": "j@djinna.com",
         "create-time": 1598889713518,
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598889743475,
-        "heading": 2,
-        "string": "Github member.md structure [[August 31st, 2020]]",
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1599961157926,
+        "heading": 1,
+        "string": "Examples as of [[August 31st, 2020]]",
         "uid": "COJlcSa6k"
       },
       {
-        "create-email": "j@djinna.com",
-        "create-time": 1598889713334,
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598889713334,
-        "string": "",
-        "uid": "pIxDA8jpx"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406488,
+        "children": [
+          {
+            "children": [
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406485,
+                "string": "[   Alex Dobrenko Improviser / Writer / Filmmaker Indie status: 5+ years Previously: Distance / UCB / Funny or Die  alexdobrenko.com    @Dobrenkz  ](https://www.yakcollective.org/members/alex-dobrenko/)",
+                "uid": "I8Y-bFirR"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406485,
+                "string": "[   Amanda Reeves Indie status: 1+ years Previously: Strategic coaching & health service redesign  Wabi Sabi Futures / Ahoyhoy    @WabiSabiFutures  ](https://www.yakcollective.org/members/amanda-reeves/)",
+                "uid": "Kl35P7aEm"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406485,
+                "string": "[   Anne-Laure Le Cunff Indie status: 2+ years Previously: Google, Entrepreneur First  Founder, Ness Labs    @anthilemoon  ](https://www.yakcollective.org/members/anne-laure-le-cunff/)",
+                "uid": "PZpBhQdYm"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406485,
+                "string": "[   Ben Mosior Indie status: 6+ years  Methodology whisperer / Hired Thought    @HiredThought  ](https://www.yakcollective.org/members/ben-mosior/)",
+                "uid": "qmvyT5quH"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Benjamin Taylor Indie status: 11 years Previously: PwC, Capita, Adviser to Mayor in a London Borough  RedQuadrant / Systems Practice    @antlerboy  ](https://www.yakcollective.org/members/benjamin-taylor/)",
+                "uid": "fC-GiENtA"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Darren Kong Indie status: 3+ years Previously: Other Internet  Varietal Digital    @varietalxyz  ](https://www.yakcollective.org/members/darren-kong/)",
+                "uid": "mDAkB27Rq"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   David McDougall Currently: Director of Product, Arabesque S-Ray Previously: Founder, Lusiad Innovation  Innovation at Scale    @dmcdougall  ](https://www.yakcollective.org/members/david-mcdougall/)",
+                "uid": "kGR2ezZU1"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Harry Pottash Philosopher & Investor Indie status: 5+ years Previously: Engineer, Founder  ](https://www.yakcollective.org/members/harry-pottash/)",
+                "uid": "r9H3fEE9B"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Jordan Allen Business Development & Revenue Generation Indie status: 1+ years   @quickdrawyall  ](https://www.yakcollective.org/members/jordan-allen/)",
+                "uid": "XjvSk9TBS"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Jordan Peacock CEO, Becoming Machinic; Founder, Sortilege Indie status: 3+ years Previously: U.S. Bank, HelpSystems  LinkedIn    @hewhocutsdown  ](https://www.yakcollective.org/members/jordan-peacock/)",
+                "uid": "w5n6EImhJ"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Martha Balaile Indie status: 1+ years  Illustrator    @MythologyStudio  ](https://www.yakcollective.org/members/martha-balaile/)",
+                "uid": "ytJU3yDUS"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Nita Baum Indie status: 13 years  b*free / Solar Responders    @bfree_live  ](https://www.yakcollective.org/members/nita-baum/)",
+                "uid": "7OJz9UjMD"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Pamela Hobart Philosopher, Mother of 3 Indie status: 3+ years Currently: The Life Coach for Smart People  pamelajhobart.com / Substack    @amelapay  ](https://www.yakcollective.org/members/pamela-hobart/)",
+                "uid": "zj8bpCFbC"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Paul Millerd Indie status: 3+ years Previously: McKinsey, BCG, GE, Russell Reynolds  Boundless / Strategy U    @p_millerd  ](https://www.yakcollective.org/members/paul-millerd/)",
+                "uid": "w7p5WoryD"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Randy Lubin Indie status: 10+ years  Consulting Entrepreneur    @randylubin  ](https://www.yakcollective.org/members/randy-lubin/)",
+                "uid": "uZKPvApuD"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Rodrigo Pinto Indie status: 3+ years  Project management and software development    @Rodrigo_plp  ](https://www.yakcollective.org/members/rodrigo-pinto/)",
+                "uid": "5p6dxIlSg"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Sachin Benny Indie status: 1+ years Previously: Led growth for an online DTC furniture brand  Marketing strategy & positioning    @sachinb91  ](https://www.yakcollective.org/members/sachin-benny/)",
+                "uid": "JAuFfMX0u"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Thomas Verhagen Indie status: 1+ year  Analyze, structure & boost    @thomasverhagen  ](https://www.yakcollective.org/members/thomas-verhagen/)",
+                "uid": "DhOET4ifc"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Tom Critchlow Indie status: 5+ years Previously: Google  tomcritchlow.com / Little Futures    @tomcritchlow  ](https://www.yakcollective.org/members/tom-critchlow/)",
+                "uid": "TT-emvFcC"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Vaughn Tan Indie status: 5+ years Currently: University College London School of Management Previously: Google  bio / book / newsletter    @vaughn_tan  ](https://www.yakcollective.org/members/vaughn-tan/)",
+                "uid": "-qHCOSS9m"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Venkatesh Rao Indie status: 9+ years Previously: Xerox  VenkateshRao.com    @vgr  ](https://www.yakcollective.org/members/venkatesh-rao/)",
+                "uid": "_9Iu6vHaD"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Vinay D\u00e9brou Indie status: 2+ years Previously: Data Analyst at a Fintech SaaS company  Consultant, Data & Brand Strategy / Substack    @vinaydebrou  ](https://www.yakcollective.org/members/vinay-debrou/)",
+                "uid": "-OxW1iUEQ"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Vlad Mehakovic Indie status: Aug 2019  mehakovic.com    @vladiim  ](https://www.yakcollective.org/members/vlad-mehakovic/)",
+                "uid": "th-8LuR7T"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Benton Heimsath  bentonheimsath.com    @bentonheimsath  ](https://www.yakcollective.org/members/benton-heimsath/)",
+                "uid": "KLeV0mma2"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Chris Clark Freelance Data Projects   @chrisclark1729  ](https://www.yakcollective.org/members/chris-clark/)",
+                "uid": "jtZ7L8-Bf"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Drew Schorno Clown school graduate. Failed startup alumni. Currently: Caring for my grandmother at home.  drewschorno.com    @dschorno  ](https://www.yakcollective.org/members/drew-schorno/)",
+                "uid": "lUtPcqhSL"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Drew Shiel Independent Domestic Historian Currently: Moderator at AskHistorians   @gothwalk  ](https://www.yakcollective.org/members/drew-shiel/)",
+                "uid": "YO_xeXjy8"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Kannen Ramsamy Policy & Communications  LinkedIn   ](https://www.yakcollective.org/members/kannen-ramsamy/)",
+                "uid": "2lr9ZfeDA"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406486,
+                "string": "[   Michael Colin Supply Chain; Logistics; Freight Tech Currently: Founder & CEO, MVMNT   @divinix_chi  ](https://www.yakcollective.org/members/michael-colin/)",
+                "uid": "LLw7ZvdXM"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406488,
+                "string": "[   Ryan Hume Industrial Designer + Illustrator + Music Technologist Indie status: 1+ years  ryanhume.com   ](https://www.yakcollective.org/members/ryan-hume/)",
+                "uid": "wD-miGYxS"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406488,
+                "string": "[   Scott Garlinger Director of Business Development, Groupmuse; A.I. Operator, Dynasty   @scott_garlinger  ](https://www.yakcollective.org/members/scott-garlinger/)",
+                "uid": "ixCys_zA_"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406488,
+                "string": "[   Shreeda Segan Design Thinker & Writer  Substack / Portfolio    @freeshreeda  ](https://www.yakcollective.org/members/shreeda-segan/)",
+                "uid": "z_u3vSevq"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406488,
+                "string": "[   Thomas Hollands Writing and Strategy Currently: L.E.K. Consulting Previously: Barclays & UCL  blog / LinkedIn    @tdoggyholhol  ](https://www.yakcollective.org/members/thomas-hollands/)",
+                "uid": "ioXlVUT_f"
+              },
+              {
+                "edit-email": "j@djinna.com",
+                "edit-time": 1598274406488,
+                "string": "[   Toby Shorin Previously: Other Internet  tobyshorin.com   ](https://www.yakcollective.org/members/toby-shorin/)",
+                "uid": "toMlwhN7k"
+              }
+            ],
+            "edit-email": "j@djinna.com",
+            "edit-time": 1598274406485,
+            "string": "Yak Collective members have contributed to one or more projects.",
+            "uid": "nUARyA_Ou"
+          }
+        ],
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1599961160913,
         "heading": 1,
-        "string": "Members",
+        "string": "Current Members as of [[August 31st, 2020]]",
         "uid": "JKQxS2730"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406485,
-        "string": "Yak Collective members have contributed to one or more projects.",
-        "uid": "nUARyA_Ou"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406485,
-        "string": "[   Alex Dobrenko Improviser / Writer / Filmmaker Indie status: 5+ years Previously: Distance / UCB / Funny or Die  alexdobrenko.com    @Dobrenkz  ](https://www.yakcollective.org/members/alex-dobrenko/)",
-        "uid": "I8Y-bFirR"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406485,
-        "string": "[   Amanda Reeves Indie status: 1+ years Previously: Strategic coaching & health service redesign  Wabi Sabi Futures / Ahoyhoy    @WabiSabiFutures  ](https://www.yakcollective.org/members/amanda-reeves/)",
-        "uid": "Kl35P7aEm"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406485,
-        "string": "[   Anne-Laure Le Cunff Indie status: 2+ years Previously: Google, Entrepreneur First  Founder, Ness Labs    @anthilemoon  ](https://www.yakcollective.org/members/anne-laure-le-cunff/)",
-        "uid": "PZpBhQdYm"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406485,
-        "string": "[   Ben Mosior Indie status: 6+ years  Methodology whisperer / Hired Thought    @HiredThought  ](https://www.yakcollective.org/members/ben-mosior/)",
-        "uid": "qmvyT5quH"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Benjamin Taylor Indie status: 11 years Previously: PwC, Capita, Adviser to Mayor in a London Borough  RedQuadrant / Systems Practice    @antlerboy  ](https://www.yakcollective.org/members/benjamin-taylor/)",
-        "uid": "fC-GiENtA"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Darren Kong Indie status: 3+ years Previously: Other Internet  Varietal Digital    @varietalxyz  ](https://www.yakcollective.org/members/darren-kong/)",
-        "uid": "mDAkB27Rq"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   David McDougall Currently: Director of Product, Arabesque S-Ray Previously: Founder, Lusiad Innovation  Innovation at Scale    @dmcdougall  ](https://www.yakcollective.org/members/david-mcdougall/)",
-        "uid": "kGR2ezZU1"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Harry Pottash Philosopher & Investor Indie status: 5+ years Previously: Engineer, Founder  ](https://www.yakcollective.org/members/harry-pottash/)",
-        "uid": "r9H3fEE9B"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Jordan Allen Business Development & Revenue Generation Indie status: 1+ years   @quickdrawyall  ](https://www.yakcollective.org/members/jordan-allen/)",
-        "uid": "XjvSk9TBS"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Jordan Peacock CEO, Becoming Machinic; Founder, Sortilege Indie status: 3+ years Previously: U.S. Bank, HelpSystems  LinkedIn    @hewhocutsdown  ](https://www.yakcollective.org/members/jordan-peacock/)",
-        "uid": "w5n6EImhJ"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Martha Balaile Indie status: 1+ years  Illustrator    @MythologyStudio  ](https://www.yakcollective.org/members/martha-balaile/)",
-        "uid": "ytJU3yDUS"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Nita Baum Indie status: 13 years  b*free / Solar Responders    @bfree_live  ](https://www.yakcollective.org/members/nita-baum/)",
-        "uid": "7OJz9UjMD"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Pamela Hobart Philosopher, Mother of 3 Indie status: 3+ years Currently: The Life Coach for Smart People  pamelajhobart.com / Substack    @amelapay  ](https://www.yakcollective.org/members/pamela-hobart/)",
-        "uid": "zj8bpCFbC"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Paul Millerd Indie status: 3+ years Previously: McKinsey, BCG, GE, Russell Reynolds  Boundless / Strategy U    @p_millerd  ](https://www.yakcollective.org/members/paul-millerd/)",
-        "uid": "w7p5WoryD"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Randy Lubin Indie status: 10+ years  Consulting Entrepreneur    @randylubin  ](https://www.yakcollective.org/members/randy-lubin/)",
-        "uid": "uZKPvApuD"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Rodrigo Pinto Indie status: 3+ years  Project management and software development    @Rodrigo_plp  ](https://www.yakcollective.org/members/rodrigo-pinto/)",
-        "uid": "5p6dxIlSg"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Sachin Benny Indie status: 1+ years Previously: Led growth for an online DTC furniture brand  Marketing strategy & positioning    @sachinb91  ](https://www.yakcollective.org/members/sachin-benny/)",
-        "uid": "JAuFfMX0u"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Thomas Verhagen Indie status: 1+ year  Analyze, structure & boost    @thomasverhagen  ](https://www.yakcollective.org/members/thomas-verhagen/)",
-        "uid": "DhOET4ifc"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Tom Critchlow Indie status: 5+ years Previously: Google  tomcritchlow.com / Little Futures    @tomcritchlow  ](https://www.yakcollective.org/members/tom-critchlow/)",
-        "uid": "TT-emvFcC"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Vaughn Tan Indie status: 5+ years Currently: University College London School of Management Previously: Google  bio / book / newsletter    @vaughn_tan  ](https://www.yakcollective.org/members/vaughn-tan/)",
-        "uid": "-qHCOSS9m"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Venkatesh Rao Indie status: 9+ years Previously: Xerox  VenkateshRao.com    @vgr  ](https://www.yakcollective.org/members/venkatesh-rao/)",
-        "uid": "_9Iu6vHaD"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Vinay D\u00e9brou Indie status: 2+ years Previously: Data Analyst at a Fintech SaaS company  Consultant, Data & Brand Strategy / Substack    @vinaydebrou  ](https://www.yakcollective.org/members/vinay-debrou/)",
-        "uid": "-OxW1iUEQ"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Vlad Mehakovic Indie status: Aug 2019  mehakovic.com    @vladiim  ](https://www.yakcollective.org/members/vlad-mehakovic/)",
-        "uid": "th-8LuR7T"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Benton Heimsath  bentonheimsath.com    @bentonheimsath  ](https://www.yakcollective.org/members/benton-heimsath/)",
-        "uid": "KLeV0mma2"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Chris Clark Freelance Data Projects   @chrisclark1729  ](https://www.yakcollective.org/members/chris-clark/)",
-        "uid": "jtZ7L8-Bf"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Drew Schorno Clown school graduate. Failed startup alumni. Currently: Caring for my grandmother at home.  drewschorno.com    @dschorno  ](https://www.yakcollective.org/members/drew-schorno/)",
-        "uid": "lUtPcqhSL"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Drew Shiel Independent Domestic Historian Currently: Moderator at AskHistorians   @gothwalk  ](https://www.yakcollective.org/members/drew-shiel/)",
-        "uid": "YO_xeXjy8"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Kannen Ramsamy Policy & Communications  LinkedIn   ](https://www.yakcollective.org/members/kannen-ramsamy/)",
-        "uid": "2lr9ZfeDA"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406486,
-        "string": "[   Michael Colin Supply Chain; Logistics; Freight Tech Currently: Founder & CEO, MVMNT   @divinix_chi  ](https://www.yakcollective.org/members/michael-colin/)",
-        "uid": "LLw7ZvdXM"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406488,
-        "string": "[   Ryan Hume Industrial Designer + Illustrator + Music Technologist Indie status: 1+ years  ryanhume.com   ](https://www.yakcollective.org/members/ryan-hume/)",
-        "uid": "wD-miGYxS"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406488,
-        "string": "[   Scott Garlinger Director of Business Development, Groupmuse; A.I. Operator, Dynasty   @scott_garlinger  ](https://www.yakcollective.org/members/scott-garlinger/)",
-        "uid": "ixCys_zA_"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406488,
-        "string": "[   Shreeda Segan Design Thinker & Writer  Substack / Portfolio    @freeshreeda  ](https://www.yakcollective.org/members/shreeda-segan/)",
-        "uid": "z_u3vSevq"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406488,
-        "string": "[   Thomas Hollands Writing and Strategy Currently: L.E.K. Consulting Previously: Barclays & UCL  blog / LinkedIn    @tdoggyholhol  ](https://www.yakcollective.org/members/thomas-hollands/)",
-        "uid": "ioXlVUT_f"
-      },
-      {
-        "edit-email": "j@djinna.com",
-        "edit-time": 1598274406488,
-        "string": "[   Toby Shorin Previously: Other Internet  tobyshorin.com   ](https://www.yakcollective.org/members/toby-shorin/)",
-        "uid": "toMlwhN7k"
       }
     ],
     "edit-email": "j@djinna.com",
@@ -89424,41 +89628,6 @@
     "title": "contributors"
   },
   {
-    "create-email": "j@djinna.com",
-    "create-time": 1598274660147,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598274660148,
-    "title": "Name"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1598274670897,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598274670897,
-    "title": "Currently"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1598274675195,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598274675196,
-    "title": "Previously"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1598274688430,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598274688431,
-    "title": "Indie Status"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1598274712290,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598274712291,
-    "title": "Title"
-  },
-  {
     "children": [
       {
         "create-email": "j@djinna.com",
@@ -89480,13 +89649,6 @@
     "edit-email": "farhat.habib@gmail.com",
     "edit-time": 1598350200865,
     "title": "August 25th, 2020"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1598360724415,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598360724417,
-    "title": "@twitter"
   },
   {
     "children": [
@@ -90648,6 +90810,14 @@
                 "edit-time": 1599016390436,
                 "string": "[[LinkedIn]]",
                 "uid": "X2mTWu8DL"
+              },
+              {
+                "create-email": "evan.rse+roamresearch@gmail.com",
+                "create-time": 1599969325966,
+                "edit-email": "evan.rse+roamresearch@gmail.com",
+                "edit-time": 1599969325966,
+                "string": "",
+                "uid": "gdRsY6jPH"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
@@ -90983,6 +91153,13 @@
                     "width": 166.1769533845727,
                     "x": -257.97254138361666,
                     "y": 5.675276951073613
+                  },
+                  "gdRsY6jPH": {
+                    "height": 48,
+                    "id": "gdRsY6jPH",
+                    "width": 200,
+                    "x": -441.23269684137006,
+                    "y": 114.27563472654845
                   },
                   "gkim0kNQ8": {
                     "height": 44.70914678542789,
@@ -94935,34 +95112,6 @@
     "title": "August 31st, 2020"
   },
   {
-    "create-email": "j@djinna.com",
-    "create-time": 1598886757500,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598886757512,
-    "title": "(...other?)"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1598889776456,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598889776457,
-    "title": "Date"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1598889801927,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598889801929,
-    "title": "Tagline"
-  },
-  {
-    "create-email": "j@djinna.com",
-    "create-time": 1598889824067,
-    "edit-email": "j@djinna.com",
-    "edit-time": 1598889824078,
-    "title": "Avatar"
-  },
-  {
     "children": [
       {
         "create-email": "j@djinna.com",
@@ -95660,5 +95809,87 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1599902093305,
     "title": "September 12th, 2020"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599958457060,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599958457066,
+    "title": "name"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599958515393,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599958515394,
+    "title": "title"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599958571751,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599958571759,
+    "title": "date"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599958726954,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599958726954,
+    "title": "indie_status"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599958759490,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599958759490,
+    "title": "tagline"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599958984197,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599958984205,
+    "title": "twitter"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599959049253,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599959049257,
+    "title": "previously"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599959248398,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599959248402,
+    "title": "avatar"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599959297529,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599959297535,
+    "title": "links"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599959600955,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599959600955,
+    "title": "current"
+  },
+  {
+    "create-email": "roam@delphi-strategy.com",
+    "create-time": 1599960912854,
+    "edit-email": "roam@delphi-strategy.com",
+    "edit-time": 1599960912856,
+    "title": "content"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1599988523984,
+    "title": "September 13th, 2020"
   }
 ]

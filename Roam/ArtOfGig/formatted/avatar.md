@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Schema | member data](<Schema | member data.md>)
-- ## Template - member data
-    - **[Name](<Name.md>):**
+- Example: `nathan_acks`
+    - **[avatar](<avatar.md>):**
 

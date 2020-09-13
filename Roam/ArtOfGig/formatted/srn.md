@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Schema | member data](<Schema | member data.md>)
-- **[status](<status.md>):** draft v1 [August 24th, 2020](<August 24th, 2020.md>)
+- **[last updated](<last updated.md>):** [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[srn](<srn.md>):**
 
