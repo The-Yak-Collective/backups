@@ -1,6 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 6th, 2020](<September 6th, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Assets
     ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + mapping work done by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
         - See the [Roam diagram documentation](https://roamresearch.com/#/app/help/page/OB_uynVDM) to learn how to work with native diagrams.
@@ -8,10 +7,11 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
     {{[diagram](<diagram.md>)}}
         - [Yak Collective Robot](<Yak Collective Robot.md>)
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
-            - Google account; currently holds no assets itself.
+            - Google account; holds __some__ shared assets.
             - Google data/documents/services currently held by individual members should eventually be migrated into this account.
-        - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
-            - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+        - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
+            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - Part of the [Yak Collective Robot](<Yak Collective Robot.md>) account
         - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck
             - **[owner](<owner.md>):** [Drew Schorno](<Drew Schorno.md>)
         - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
@@ -20,6 +20,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
             - **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
         - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
             - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+            - After signing up here, folks are taken to a page with a [Discord](<Discord.md>) invite link
         - [Carl](<Carl.md>) `calendar_yak` Bot
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Carl](<Carl.md>) `yakyak` Bot
@@ -81,7 +82,6 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
             - **["owner](<"owner.md>):** ^^???^^"
         - [LinkedIn](<LinkedIn.md>)
             - **["owner](<"owner.md>):** ^^???^^"
-        - 
 # Documents
     - [Schema | member data](<Schema | member data.md>) (draft)
     - [Code Style Guide](<Code Style Guide.md>)
@@ -92,4 +92,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - All assets should be centrally tracked in the [IT Infrastructure](<IT Infrastructure.md>)
 
 - All users with access to a service should be tracked in a page for that service linked off of the [IT Infrastructure](<IT Infrastructure.md>)
+
+## [infrastructure](<infrastructure.md>)
+- [IT Infrastructure](<IT Infrastructure.md>)
 

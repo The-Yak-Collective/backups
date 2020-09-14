@@ -1,6 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 1st, 2020](<September 1st, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 1st, 2020](<September 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Pages
     - `about.md`
     - `index.md`
@@ -47,7 +46,8 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
         - `packages.json`
             - NPM packages used by JavaScript files in `functions`.
         - `functions/create-post.js`
-            - Netlify function that takes incoming data from [IFTTT](<IFTTT.md>) and commits a new file to the appropriate directory.
+            - Netlify function that takes incoming data from [IFTTT](<IFTTT.md>) and commits a new file to the appropriate directory in the `netlify-prod` branch.
+                - Because commits to `netlify-prod` trigger rebuilds in [Netlify](<Netlify.md>), this causes the website to be refreshed, and the new page to show up within a minute or two.
 # Templates
     - `_layouts/default.html`
         - Base layout. This isn't actually used on any pages, but is inherited by other layouts.

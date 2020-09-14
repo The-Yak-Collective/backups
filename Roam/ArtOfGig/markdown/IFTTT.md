@@ -1,10 +1,9 @@
 owner:: [[Nathan Acks]]
-last updated:: [[August 31st, 2020]]
-last updated by:: [[Nathan Acks]]
+last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
 # Purpose
     - Simple automation.
-        - Push member blog posts and newsletters into the [[Yak Collective Website]] via [[GitHub]], and then to the `yaktalk-content` channel in [[Discord]].
-        - Push member blog posts, newsletters, and featured yaks to [[Twitter]].
+        - Monitor member website and [[Yak Talk]] newsletter RSS feeds, pushing content into the [[Yak Collective Website]] via [[GitHub]]. On successful commit, also push this content to the `yaktalk-content` channel in [[Discord]].
+        - Monitor member website, [[Yak Talk]] newsletter, and featured yak RSS feeds, pushing content updates to [[Twitter]].
         - Rebuild the [[Yak Collective Website]] once per day (to ensure that featured yaks are fresh).
 # Access ^^(Shared Login!)^^
     - [[Nathan Acks]]

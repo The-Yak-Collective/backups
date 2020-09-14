@@ -1,6 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 9th, 2020]]
-last updated by:: [[Nathan Acks]]
+last updated:: [[September 9th, 2020]] by [[Nathan Acks]]
 # File Naming
     - Use `lower-case-with-dashes.txt` instead of `Mixed_Caps_And_Underscored.TXT`.
         - Of course, sometimes you've just gotta use an underscore (Jekyll collections, etc.).

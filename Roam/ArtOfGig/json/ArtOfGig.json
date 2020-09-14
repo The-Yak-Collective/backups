@@ -10943,15 +10943,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598808925889,
-        "string": "last updated:: [[August 30th, 2020]]",
+        "edit-time": 1600014563863,
+        "string": "last updated:: [[August 30th, 2020]] by [[Nathan Acks]]",
         "uid": "eQL_Ivmjy"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748476358,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "ED_h1dVyR"
       },
       {
         "children": [
@@ -20040,6 +20034,12 @@
             "edit-time": 1592185835351,
             "string": "[[Onboarding for New Yaks]]",
             "uid": "MLzd30E9l"
+          },
+          {
+            "create-time": 1600019835965,
+            "edit-time": 1600019842258,
+            "string": "[[IT Infrastructure]]",
+            "uid": "4EZFXfnxW"
           }
         ],
         "create-time": 1592185824623,
@@ -20207,8 +20207,8 @@
       },
       {
         "create-time": 1594488987586,
-        "edit-time": 1595701483493,
-        "string": "infrastructure chat 11 7.18.2020  - worked on spotight/case study ",
+        "edit-time": 1600023387887,
+        "string": "infrastructure chat 11 7.18.2020  - worked on spotlight/case study ",
         "uid": "plkIagKNb"
       },
       {
@@ -20790,6 +20790,633 @@
         "edit-time": 1599526550658,
         "string": "infrastructure chat 17 9.06.2020 (notes in-line)",
         "uid": "V5h8KW2l8"
+      },
+      {
+        "children": [
+          {
+            "create-email": "j@djinna.com",
+            "create-time": 1600019166332,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1600019310498,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fia1JXLwU6y.jpeg?alt=media&token=e916e06f-1982-4e51-8b17-ddb5e8b990be)",
+            "uid": "dJuD40smQ"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1600019532296,
+                "edit-time": 1600019543587,
+                "string": "Discord levels have audio bandwidth tier ",
+                "uid": "sCuLzls1S"
+              },
+              {
+                "create-time": 1600018759400,
+                "edit-time": 1600019530015,
+                "string": "Updating Discord level ... 30 boosts $5/mo",
+                "uid": "SieNpALoL"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-time": 1600019024150,
+                        "edit-time": 1600019032217,
+                        "string": "Change meeting to google meet - use Nathan's account",
+                        "uid": "xMc7YIESH"
+                      }
+                    ],
+                    "create-time": 1600018820377,
+                    "edit-time": 1600018822096,
+                    "string": "google meet",
+                    "uid": "qSCmZ9LjP"
+                  },
+                  {
+                    "create-time": 1600018822093,
+                    "edit-time": 1600018823295,
+                    "string": "zoom ",
+                    "uid": "bWVLrzuOn"
+                  }
+                ],
+                "create-time": 1600018815013,
+                "edit-time": 1600018820381,
+                "string": "alternative meeting infrastructure",
+                "uid": "4yz0xljcM"
+              }
+            ],
+            "create-time": 1600018473342,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1600018941477,
+            "string": "Audio bandwidth",
+            "uid": "vQz2LnmbT"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-time": 1600019245041,
+                    "edit-time": 1600019273012,
+                    "string": "15 people access to edit",
+                    "uid": "Mo64MFoiJ"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-time": 1600019259087,
+                        "edit-time": 1600019910863,
+                        "string": "Added modify sharing permissions to yak collective gmail ",
+                        "uid": "RMlLor6Fq"
+                      }
+                    ],
+                    "create-time": 1600019246407,
+                    "edit-time": 1600019892880,
+                    "string": "Currently owned by Venkat ",
+                    "uid": "qHrDXZI0K"
+                  }
+                ],
+                "create-time": 1600019012853,
+                "edit-time": 1600019895356,
+                "string": "Calendar",
+                "uid": "aOOjBNa4f"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1600019079382,
+                    "edit-time": 1600019915068,
+                    "string": "change email address from Venkat to yak collective gmail ",
+                    "uid": "i2-PmkktZ"
+                  },
+                  {
+                    "create-time": 1600019916751,
+                    "edit-time": 1600019923444,
+                    "string": "Tweetdeck teams is how permissions are shared",
+                    "uid": "HQiZ_LWOW"
+                  }
+                ],
+                "create-time": 1600019020616,
+                "edit-time": 1600019115712,
+                "string": "[[Twitter]]",
+                "uid": "vDEes4uag"
+              }
+            ],
+            "create-time": 1600019505964,
+            "edit-time": 1600019505964,
+            "string": "Assets ",
+            "uid": "cYa_mwg28"
+          },
+          {
+            "create-time": 1600019497106,
+            "edit-time": 1600019502833,
+            "string": "Carl drip discord messages",
+            "uid": "9Xi4ZiIXX"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-time": 1600020201692,
+                    "edit-time": 1600020208339,
+                    "string": "Final Frontiers - illness ",
+                    "uid": "lU_23zcUE"
+                  },
+                  {
+                    "create-time": 1600020218111,
+                    "edit-time": 1600020226005,
+                    "string": "Innovation Consulting - last editing cycle, stuck in resourcing production piece ",
+                    "uid": "t6i4FbvAT"
+                  },
+                  {
+                    "create-time": 1600020208336,
+                    "edit-time": 1600020235569,
+                    "string": "Astonishing stories - budget to graphics",
+                    "uid": "I9wLbjg_h"
+                  }
+                ],
+                "create-time": 1600020194597,
+                "edit-time": 1600020263324,
+                "string": "Active projects - have run into logistical issues. Something systematic going on? First set of projects had momentum. ",
+                "uid": "FtHChCMrf"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1600020289658,
+                    "edit-time": 1600020292781,
+                    "string": "Automate the proposal ",
+                    "uid": "brDqlyxQz"
+                  },
+                  {
+                    "create-time": 1600020301897,
+                    "edit-time": 1600020346413,
+                    "string": "Move from sync, not every month, 3 months, etc",
+                    "uid": "27sD2AP1G"
+                  },
+                  {
+                    "create-time": 1600020339300,
+                    "edit-time": 1600020340372,
+                    "string": "Async on-demand process, 2-3 people interested in working on something... kick off on their own timeline, decentralized",
+                    "uid": "kaRJxdeQq"
+                  },
+                  {
+                    "create-time": 1600020348286,
+                    "edit-time": 1600020368511,
+                    "string": "Move to smaller demand, easier to market themselves easily, filling resourcing needs, lots of little thing that need to be fixed ",
+                    "uid": "kPZeh4pCT"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-time": 1600020561514,
+                                "edit-time": 1600020564603,
+                                "string": "Marketing is decentralized now ",
+                                "uid": "ZVrMgbl3F"
+                              }
+                            ],
+                            "create-time": 1600020466412,
+                            "edit-time": 1600020496362,
+                            "string": "Marketing - Marketing resources - newsletter, twitter, page...",
+                            "uid": "dTYj14UBu"
+                          },
+                          {
+                            "create-time": 1600020284837,
+                            "edit-time": 1600020500598,
+                            "string": "Staffing - In theory, pool of resources ",
+                            "uid": "vchBXfMw7"
+                          },
+                          {
+                            "create-time": 1600020502474,
+                            "edit-time": 1600020504381,
+                            "string": "Financial ",
+                            "uid": "vo1Mzi5Jf"
+                          }
+                        ],
+                        "create-time": 1600020459344,
+                        "edit-time": 1600020459344,
+                        "string": "What resources/value do yakcollective get? ",
+                        "uid": "16qv8b9h8"
+                      }
+                    ],
+                    "create-time": 1600020450407,
+                    "edit-time": 1600020450407,
+                    "string": "Maier: channel on discord - the projects keep bubbling up... you can't talk. only vote up projects. ",
+                    "uid": "C2U7F8X3B"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-time": 1600020597492,
+                            "edit-time": 1600020601989,
+                            "string": "how many views, how many outreach, how much money? ",
+                            "uid": "IbIkLaHmz"
+                          },
+                          {
+                            "create-time": 1600020642973,
+                            "edit-time": 1600020678073,
+                            "string": "probably zero, but it was more of an introduction ",
+                            "uid": "BGpT7Jr8j"
+                          },
+                          {
+                            "create-time": 1600020691723,
+                            "edit-time": 1600020699848,
+                            "string": "get insight into how the projects get positioned, what does well, etc",
+                            "uid": "1XCPDnun9"
+                          }
+                        ],
+                        "create-time": 1600020554026,
+                        "edit-time": 1600020597494,
+                        "string": "Don't waste on the reboot",
+                        "uid": "awonO8Rj5"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-time": 1600020758496,
+                            "edit-time": 1600020822855,
+                            "string": "Structurally we have 1/3 gig job site and 2/3 is missing. ",
+                            "uid": "n8ncAXmB9"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-time": 1600020929813,
+                                "edit-time": 1600020994833,
+                                "string": "New independent consultants, gain experience",
+                                "uid": "jWt_ekRvK"
+                              },
+                              {
+                                "create-time": 1600020920347,
+                                "edit-time": 1600021010308,
+                                "string": "Survey ? ",
+                                "uid": "1FS6IUNEa"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "create-time": 1600020925168,
+                                    "edit-time": 1600021034342,
+                                    "string": "to help qualify and give structure for members to contribute... ",
+                                    "uid": "jg1A5yuPH"
+                                  }
+                                ],
+                                "create-time": 1600021034340,
+                                "edit-time": 1600021054677,
+                                "string": "+ Defining and stating what membership means ",
+                                "uid": "Hlk6IO4Gp"
+                              }
+                            ],
+                            "create-time": 1600020918138,
+                            "edit-time": 1600020923453,
+                            "string": "Why are people joining? Why are people contributing",
+                            "uid": "FuGOWIoUm"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-time": 1600021145590,
+                                "edit-time": 1600021147542,
+                                "string": "Slider?",
+                                "uid": "BIRaWMVsy"
+                              },
+                              {
+                                "create-time": 1600021169351,
+                                "edit-time": 1600021175699,
+                                "string": "Can also take an aggregate view of yak collective availability ",
+                                "uid": "PXakjDPmm"
+                              },
+                              {
+                                "create-time": 1600021239040,
+                                "edit-time": 1600021241329,
+                                "string": "gig weather pulse ",
+                                "uid": "g67V-pQDG"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "create-time": 1600021340196,
+                                    "edit-time": 1600021343837,
+                                    "string": "Discord bot? ",
+                                    "uid": "1LlStsDzs"
+                                  },
+                                  {
+                                    "create-time": 1600021345088,
+                                    "edit-time": 1600021381751,
+                                    "string": "Email?",
+                                    "uid": "LdMVKSIXa"
+                                  }
+                                ],
+                                "create-time": 1600021290216,
+                                "edit-time": 1600021299249,
+                                "string": "1x month - temperature check",
+                                "uid": "oW4d4_jLe"
+                              }
+                            ],
+                            "create-time": 1600021112271,
+                            "edit-time": 1600021117270,
+                            "string": "Member available/not available",
+                            "uid": "lxbxp12HK"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-time": 1600021853272,
+                                "edit-time": 1600021857796,
+                                "string": "Member updates",
+                                "uid": "EWyCUQ6LA"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "create-time": 1600021858142,
+                                    "edit-time": 1600021862735,
+                                    "string": "Active project as an entity ",
+                                    "uid": "oiM-zB8ME"
+                                  },
+                                  {
+                                    "create-time": 1600021871932,
+                                    "edit-time": 1600021892071,
+                                    "string": "Either project is dead or backburner or ... Project is a living thing. Polled just like an individual ",
+                                    "uid": "rZdkAm1mC"
+                                  }
+                                ],
+                                "create-time": 1600021849470,
+                                "edit-time": 1600021869321,
+                                "string": "Project - Scrum updates",
+                                "uid": "VBCDaznHD"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "create-time": 1600022017824,
+                                    "edit-time": 1600022051977,
+                                    "string": "Extract updates - structured fields ",
+                                    "uid": "in4akWq9U"
+                                  }
+                                ],
+                                "create-time": 1600021945970,
+                                "edit-time": 1600021948134,
+                                "string": "Roam ",
+                                "uid": "PzGSuJqXc"
+                              },
+                              {
+                                "create-time": 1600022041608,
+                                "edit-time": 1600022068440,
+                                "string": "Analogy streak checkins with Github ",
+                                "uid": "ZGsZ8jxtC"
+                              }
+                            ],
+                            "create-time": 1600021846030,
+                            "edit-time": 1600022079718,
+                            "string": "Discord, Roam -> email",
+                            "uid": "XdTiWxdED"
+                          }
+                        ],
+                        "create-time": 1600020755037,
+                        "edit-time": 1600020758499,
+                        "string": "600 yaks but 34 members ",
+                        "uid": "1WRpIbE1D"
+                      }
+                    ],
+                    "create-time": 1600020744701,
+                    "edit-time": 1600020750855,
+                    "string": "Marketing",
+                    "uid": "f2bEtn1vn"
+                  }
+                ],
+                "create-time": 1600020279624,
+                "edit-time": 1600020289664,
+                "string": "Make sure Venkat isn't the bottleneck for the next set ",
+                "uid": "QTj0KxWdi"
+              }
+            ],
+            "create-time": 1600019493749,
+            "edit-time": 1600019496240,
+            "string": "Proposal structure",
+            "uid": "n__zNIxQp"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1600019761112,
+                "edit-time": 1600019764097,
+                "string": "UX of pinned messages ",
+                "uid": "FvGZ070of"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1600020009352,
+                    "edit-time": 1600020022593,
+                    "string": "Did so with infrastructure  ",
+                    "uid": "Y8RfnF0k2"
+                  }
+                ],
+                "create-time": 1600020016782,
+                "edit-time": 1600020016782,
+                "string": "Add roam page to channel topic",
+                "uid": "EERoEK6Uw"
+              },
+              {
+                "create-time": 1600019858552,
+                "edit-time": 1600021188792,
+                "string": "Roam unfurl preview is not helpful atm, but probably Roam will fix.",
+                "uid": "HcBQ3LWpE"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1600019771706,
+                    "edit-time": 1600019776863,
+                    "string": "Bureaucracy vs farmer's market",
+                    "uid": "OvdDK50Vj"
+                  },
+                  {
+                    "create-time": 1600019778076,
+                    "edit-time": 1600019781124,
+                    "string": "Have to walk into the right stall ",
+                    "uid": "WYiz4vuLl"
+                  },
+                  {
+                    "create-time": 1600019880895,
+                    "edit-time": 1600019882696,
+                    "string": "How do we ",
+                    "uid": "mYorRdMLb"
+                  }
+                ],
+                "create-time": 1600019749551,
+                "edit-time": 1600019760714,
+                "string": "People come with wrong expectation. That they should have high level visibility of everything",
+                "uid": "LntHCcxjS"
+              }
+            ],
+            "create-time": 1600019496225,
+            "edit-time": 1600019749556,
+            "string": "Discord",
+            "uid": "k7CWYfShB"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1600020102749,
+                "edit-time": 1600020107415,
+                "string": "Help orient people to get active ",
+                "uid": "MyESf0xNa"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1600020093146,
+                    "edit-time": 1600020097689,
+                    "string": "Historical, Active ",
+                    "uid": "LUBNfrOXr"
+                  }
+                ],
+                "create-time": 1600020060210,
+                "edit-time": 1600020101660,
+                "string": "State of the union update -> web active page ",
+                "uid": "k45mEsnat"
+              }
+            ],
+            "create-time": 1600020028781,
+            "edit-time": 1600020059277,
+            "string": "Website could have a \"now\" page or what the active projects are",
+            "uid": "c6Ur0w5pj"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1600023354061,
+                "edit-time": 1600023360468,
+                "string": "No one's worked on this",
+                "uid": "rhaZbR6s3"
+              }
+            ],
+            "create-time": 1600020724491,
+            "edit-time": 1600020727989,
+            "string": "Prospectus ",
+            "uid": "HhZeiJHed"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1600022138215,
+                "edit-time": 1600022170046,
+                "string": "1. Email inward facing member/project member thing",
+                "uid": "QocXiWQ-o"
+              },
+              {
+                "children": [
+                  {
+                    "create-time": 1600022215687,
+                    "edit-time": 1600022251727,
+                    "string": "Venkatesh owning V2 \"human\" side ",
+                    "uid": "9PqI03l8y"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-time": 1600022353951,
+                        "edit-time": 1600022356605,
+                        "string": "Use Knack? ",
+                        "uid": "8Q4ZngIm7"
+                      }
+                    ],
+                    "create-time": 1600022235002,
+                    "edit-time": 1600022242939,
+                    "string": "Define set of specs - to do a roam page, here there are 3 fields. ",
+                    "uid": "fJQ0U5mfi"
+                  }
+                ],
+                "create-time": 1600022144171,
+                "edit-time": 1600022170045,
+                "string": "2. Update proposal project thats async ",
+                "uid": "lSR07sdae"
+              },
+              {
+                "create-time": 1600022150087,
+                "edit-time": 1600022172702,
+                "string": "3. CMO role",
+                "uid": "dHMSwBIiO"
+              }
+            ],
+            "create-email": "j@djinna.com",
+            "create-time": 1600018978721,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1600022169542,
+            "string": "Next steps/projects:",
+            "uid": "-ABGfWi5i"
+          }
+        ],
+        "create-email": "j@djinna.com",
+        "create-time": 1600018941470,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1600019149252,
+        "string": "infrastructure chat 18 9.13.2020 (notes in-line) ",
+        "uid": "aMm9XfIZR"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1600018978918,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1600018978918,
+        "string": "",
+        "uid": "zimu995L4"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1600018979095,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1600018979095,
+        "string": "",
+        "uid": "i637IxoP_"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1600018979332,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1600018979332,
+        "string": "",
+        "uid": "ab6lwrh-h"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1600018979475,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1600018979475,
+        "string": "",
+        "uid": "eQzuMy5k9"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1600018979644,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1600018979644,
+        "string": "",
+        "uid": "ySn7v3xAk"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1600018979818,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1600018979818,
+        "string": "",
+        "uid": "_dBIGOmKN"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1600018977714,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1600018977714,
+        "string": "",
+        "uid": "zErGxnESK"
       }
     ],
     "create-time": 1588439941127,
@@ -25328,15 +25955,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599794147155,
-        "string": "last updated:: [[September 10th, 2020]]",
+        "edit-time": 1600025649617,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "P1Ata3j52"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748504183,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "cT9RTIXeN"
       },
       {
         "children": [
@@ -25356,48 +25977,67 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598926608831,
+                "string": "[[Jordan Peacock]]",
+                "uid": "F7V0MoE3o"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599794118407,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599794122298,
+                "string": "[[Scott Allen]]",
+                "uid": "KBp-EeLrk"
+              }
+            ],
+            "create-time": 1600019121257,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598926608831,
-            "string": "[[Jordan Peacock]]",
-            "uid": "F7V0MoE3o"
+            "edit-time": 1600025618819,
+            "string": "Via Tweetdeck teams",
+            "uid": "37Fdgp4vN"
           },
           {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598926608828,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598926613021,
+                "string": "[[Venkatesh Rao]]",
+                "uid": "jWWhKPphP"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598926631788,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598926635647,
+                "string": "[[Nathan Acks]]",
+                "uid": "wo51mAolz"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1599794112673,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1599794117101,
+                "string": "[[Pamela Hobart]]",
+                "uid": "aavGDk9lR"
+              }
+            ],
             "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598926608828,
+            "create-time": 1600025622339,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598926613021,
-            "string": "[[Venkatesh Rao]]",
-            "uid": "jWWhKPphP"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598926631788,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598926635647,
-            "string": "[[Nathan Acks]]",
-            "uid": "wo51mAolz"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1599794112673,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1599794117101,
-            "string": "[[Pamela Hobart]]",
-            "uid": "aavGDk9lR"
-          },
-          {
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1599794118407,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1599794122298,
-            "string": "[[Scott Allen]]",
-            "uid": "KBp-EeLrk"
+            "edit-time": 1600025629280,
+            "string": "^^Shared login^^",
+            "uid": "mFyplsaAe"
           }
         ],
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926555269,
+        "edit-time": 1600019134039,
         "heading": 1,
-        "string": "Access ^^(Shared Login!)^^",
+        "string": "Access",
         "uid": "7O9CAVJpA"
       }
     ],
@@ -26106,15 +26746,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926586394,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600014671562,
+        "string": "last updated:: [[August 31st, 2020]] by [[Nathan Acks]]",
         "uid": "35Xds_rvk"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748593619,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "I6HA94wxk"
       },
       {
         "children": [
@@ -73640,17 +74274,9 @@
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1598744380192,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599057608443,
-        "string": "last updated:: [[September 2nd, 2020]]",
+        "edit-time": 1600014648402,
+        "string": "last updated:: [[September 2nd, 2020]] by [[Nathan Acks]]",
         "uid": "YEKGHpOb9"
-      },
-      {
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598744391125,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598745603374,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "9qbr7Egrs"
       },
       {
         "children": [
@@ -88907,17 +89533,9 @@
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1598743037225,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598805127138,
-        "string": "last updated:: [[August 30th, 2020]]",
+        "edit-time": 1600014663861,
+        "string": "last updated:: [[August 30th, 2020]] by [[Nathan Acks]]",
         "uid": "JmW48Z9NU"
-      },
-      {
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598743059941,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598744268796,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "bOonAwjZD"
       },
       {
         "children": [
@@ -90119,13 +90737,6 @@
     "title": "August 30th, 2020"
   },
   {
-    "create-email": "roam@delphi-strategy.com",
-    "create-time": 1598743071970,
-    "edit-email": "roam@delphi-strategy.com",
-    "edit-time": 1598743071971,
-    "title": "last updated by"
-  },
-  {
     "children": [
       {
         "create-email": "roam@delphi-strategy.com",
@@ -90139,17 +90750,9 @@
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1598747311988,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599416582107,
-        "string": "last updated:: [[September 6th, 2020]]",
+        "edit-time": 1600016704389,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "TQMo0u4hn"
-      },
-      {
-        "create-email": "roam@delphi-strategy.com",
-        "create-time": 1598747322526,
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598747331085,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "SWc-X6b2w"
       },
       {
         "children": [
@@ -90195,8 +90798,8 @@
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1599020704091,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1599020718217,
-                    "string": "Google account; currently holds no assets itself.",
+                    "edit-time": 1600025932237,
+                    "string": "Google account; holds __some__ shared assets.",
                     "uid": "2RAFYut-Z"
                   },
                   {
@@ -90221,16 +90824,24 @@
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1599100343862,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1599100456305,
-                    "string": "owner:: [[Venkatesh Rao]]",
+                    "edit-time": 1600025760054,
+                    "string": "((pAkDDgQy9))",
                     "uid": "ikwR1uUWG"
+                  },
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600025981968,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600026003004,
+                    "string": "Part of the [[Yak Collective Robot]] account",
+                    "uid": "uUdNJb8qB"
                   }
                 ],
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1599016454146,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1599100449961,
-                "string": "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)",
+                "edit-time": 1600025751340,
+                "string": "((5JAKKBvdi))",
                 "uid": "r8GGZkDUp"
               },
               {
@@ -90296,6 +90907,14 @@
                     "edit-time": 1599410265790,
                     "string": "owner:: [[Venkatesh Rao]]",
                     "uid": "XgKB31hQS"
+                  },
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600016655826,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600016693476,
+                    "string": "After signing up here, folks are taken to a page with a [[Discord]] invite link",
+                    "uid": "lTn4jX6JD"
                   }
                 ],
                 "create-email": "roam@delphi-strategy.com",
@@ -90799,7 +91418,7 @@
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1599100412222,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1599100642936,
+                    "edit-time": 1600013789381,
                     "string": "((ffyDQunfQ))",
                     "uid": "hp9Lsgc11"
                   }
@@ -90810,14 +91429,6 @@
                 "edit-time": 1599016390436,
                 "string": "[[LinkedIn]]",
                 "uid": "X2mTWu8DL"
-              },
-              {
-                "create-email": "evan.rse+roamresearch@gmail.com",
-                "create-time": 1599969325966,
-                "edit-email": "evan.rse+roamresearch@gmail.com",
-                "edit-time": 1599969325966,
-                "string": "",
-                "uid": "gdRsY6jPH"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
@@ -90913,6 +91524,11 @@
                     "from": "2cSJVg6PE",
                     "id": "uuid2edfe0df-21f2-46c7-9fc2-1337a68dc43f",
                     "to": "j7DInC9sg"
+                  },
+                  "uuid52d9d5ab-0aa2-4461-8a13-db90fd355ed0": {
+                    "from": "P29ohOPik",
+                    "id": "uuid52d9d5ab-0aa2-4461-8a13-db90fd355ed0",
+                    "to": "r8GGZkDUp"
                   },
                   "uuid5323f132-5fff-4a25-852b-c7af7d54d97a": {
                     "from": "j7DInC9sg",
@@ -91088,8 +91704,8 @@
                     "height": 48,
                     "id": "P29ohOPik",
                     "width": 182.67867547015476,
-                    "x": -1087.7391768205093,
-                    "y": -41.50940012541463
+                    "x": -1100.7513733886738,
+                    "y": -50.80382624553232
                   },
                   "R-E2CDAe2": {
                     "height": 44.37670204465371,
@@ -91153,13 +91769,6 @@
                     "width": 166.1769533845727,
                     "x": -257.97254138361666,
                     "y": 5.675276951073613
-                  },
-                  "gdRsY6jPH": {
-                    "height": 48,
-                    "id": "gdRsY6jPH",
-                    "width": 200,
-                    "x": -441.23269684137006,
-                    "y": 114.27563472654845
                   },
                   "gkim0kNQ8": {
                     "height": 44.70914678542789,
@@ -91297,15 +91906,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599020191332,
-        "string": "last updated:: [[September 1st, 2020]]",
+        "edit-time": 1600025834702,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "zLhoprt6l"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598747888880,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "Hm9FDyvsM"
       },
       {
         "children": [
@@ -91320,6 +91923,16 @@
           {
             "children": [
               {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600025783559,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600025785505,
+                    "string": "((Jgpoimrjz))",
+                    "uid": "u6vbStMVX"
+                  }
+                ],
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598807731772,
                 "edit-email": "roam@delphi-strategy.com",
@@ -91328,6 +91941,16 @@
                 "uid": "eiyhlFy7x"
               },
               {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600025794285,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600025795533,
+                    "string": "((63n9sf_wc))",
+                    "uid": "Ls2hbLaLZ"
+                  }
+                ],
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598807785344,
                 "edit-email": "roam@delphi-strategy.com",
@@ -91336,6 +91959,42 @@
                 "uid": "mQmuGZ8Tk"
               },
               {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600019309537,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600025720419,
+                    "string": "owner:: [[Venkatesh Rao]]",
+                    "uid": "pAkDDgQy9"
+                  },
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600025564553,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600025591334,
+                    "string": "Yak Collective events, mostly scheduled chats and team meetings.",
+                    "uid": "2V8OL6tGO"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600025689727,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600025689727,
+                "string": "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)",
+                "uid": "5JAKKBvdi"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600025801220,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600025802482,
+                    "string": "((rHrL04jeR))",
+                    "uid": "DrZRq26EY"
+                  }
+                ],
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598807801746,
                 "edit-email": "roam@delphi-strategy.com",
@@ -91344,6 +92003,16 @@
                 "uid": "N0ZUGhsW9"
               },
               {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600025808685,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600025809833,
+                    "string": "((TexSpph22))",
+                    "uid": "ngAWgaUTi"
+                  }
+                ],
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598807809518,
                 "edit-email": "roam@delphi-strategy.com",
@@ -91352,6 +92021,16 @@
                 "uid": "Smoj6TTJ9"
               },
               {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600025814835,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600025816141,
+                    "string": "((fE52iYVAF))",
+                    "uid": "ZOV9ED6RN"
+                  }
+                ],
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598807822831,
                 "edit-email": "roam@delphi-strategy.com",
@@ -91369,12 +92048,6 @@
           },
           {
             "children": [
-              {
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1599020122126,
-                "string": "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])",
-                "uid": "mR0DCiiKE"
-              },
               {
                 "edit-email": "roam@delphi-strategy.com",
                 "edit-time": 1599020122125,
@@ -91474,24 +92147,28 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599019154675,
-        "string": "last updated:: [[September 1st, 2020]]",
+        "edit-time": 1600016601291,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "buU1xi-gC"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598747929793,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "ei_lPoVHa"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600016532250,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600016595046,
+                "string": "Currently holds member data; plan is to migrate this to [[Knack]] to allow for better GDPR compliance, easier self-maintenance of member records, etc.",
+                "uid": "aN9PZPIoy"
+              }
+            ],
             "create-email": "roam@delphi-strategy.com",
             "create-time": 1598808323316,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598808323316,
-            "string": "Stores code and some data in [The Yak Collective](https://github.com/The-Yak-Collective) team.",
+            "edit-time": 1600016530919,
+            "string": "Stores code and __some__ data in [The Yak Collective](https://github.com/The-Yak-Collective) team.",
             "uid": "wm2IDUHic"
           },
           {
@@ -91663,15 +92340,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599021068862,
-        "string": "last updated:: [[September 1st, 2020]]",
+        "edit-time": 1600016393313,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "Vp0u_g0Sn"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598747970651,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "IT04k_WOj"
       },
       {
         "children": [
@@ -91681,9 +92352,17 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598808183518,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598808501353,
+                "edit-time": 1600017056867,
                 "string": "See [[Building the Website]] for more details",
                 "uid": "f5B-DR4no"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600016915718,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600016993103,
+                "string": "{{[[embed]]: ((8OtMboOmK))}}",
+                "uid": "g_FllBF73"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
@@ -91704,6 +92383,24 @@
                     "edit-time": 1598808690174,
                     "string": "[[Namecheap]] DNS points to Netlify \"load balancer\"",
                     "uid": "91dzhJA5O"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "roam@delphi-strategy.com",
+                        "create-time": 1600016165342,
+                        "edit-email": "roam@delphi-strategy.com",
+                        "edit-time": 1600016251366,
+                        "string": "Of course, all of these are actually made up of servers, so it's really just [turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down).",
+                        "uid": "tftt3nKkr"
+                      }
+                    ],
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600016060360,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600016164910,
+                    "string": "This means that the website is \"serverless\", in that it exists as a set of CDN files + some load balancer intelligence.",
+                    "uid": "83jjv2TZB"
                   }
                 ],
                 "create-email": "roam@delphi-strategy.com",
@@ -91917,15 +92614,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598927059276,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600016380116,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "6LL044OIM"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598747989699,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "pkGk0QERT"
       },
       {
         "children": [
@@ -91935,16 +92626,16 @@
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598927129953,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598927173202,
-                "string": "Push member blog posts and newsletters into the [[Yak Collective Website]] via [[GitHub]], and then to the `yaktalk-content` channel in [[Discord]].",
+                "edit-time": 1600016368615,
+                "string": "Monitor member website and [[Yak Talk]] newsletter RSS feeds, pushing content into the [[Yak Collective Website]] via [[GitHub]]. On successful commit, also push this content to the `yaktalk-content` channel in [[Discord]].",
                 "uid": "gg1Rhn-k9"
               },
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1598927097491,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598927129437,
-                "string": "Push member blog posts, newsletters, and featured yaks to [[Twitter]].",
+                "edit-time": 1600016459343,
+                "string": "Monitor member website, [[Yak Talk]] newsletter, and featured yak RSS feeds, pushing content updates to [[Twitter]].",
                 "uid": "vb-TjfidT"
               },
               {
@@ -92006,15 +92697,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598927033600,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600014615942,
+        "string": "last updated:: [[August 31st, 2020]] by [[Nathan Acks]]",
         "uid": "1DhPVGXt5"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748014399,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "ZfJaec8m-"
       },
       {
         "children": [
@@ -92095,25 +92780,45 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926908208,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600015919673,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "rdRkSb1Ye"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926899198,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "zg_FdW5Gz"
       },
       {
         "children": [
           {
             "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598748157294,
+            "create-time": 1600015141450,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598926889909,
-            "string": "[[Discord]] automation.",
-            "uid": "8xrRPzR8D"
+            "edit-time": 1600016488330,
+            "string": "`calendar_yak` -- Reads calendar events and pushes them to the `events` channel in [[Discord]].",
+            "uid": "HB6pYl8y1"
+          },
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600017429051,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600017437560,
+                "string": "{{[[embed]]: ((hXkWRxrzr))}}",
+                "uid": "ZxiJIq_qU"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1600016500507,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1600017455409,
+            "string": "`welcome_bot` -- Greets new [[Discord]] users and informs them of the minimal participation bar.",
+            "uid": "zXjWI-iSj"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1600016496387,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1600017560350,
+            "string": "`yakyak` -- Automatically culls users who have not posted in `introductions` within their first week.",
+            "uid": "Wr8zsoGZ5"
           }
         ],
         "edit-email": "roam@delphi-strategy.com",
@@ -92152,15 +92857,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926862804,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600017249762,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "TlXRRHhy1"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748141682,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "I7ipCGiRK"
       },
       {
         "children": [
@@ -92169,6 +92868,48 @@
             "edit-time": 1598926874485,
             "string": "Yak Collective comms & coordination.",
             "uid": "EjVhtw2t2"
+          },
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600017256852,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600017276321,
+                "string": "Change server display name to given/chosen name",
+                "uid": "FVGHc6Fla"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600017276537,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600017298037,
+                "string": "Add time zone to server display name (helps with coordination)",
+                "uid": "C0f9B5Rvd"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600017298443,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600017462056,
+                "string": "Post a short introduction to `introductions`",
+                "uid": "h9m6GIpG2"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1600017224045,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1600017256854,
+            "string": "Minimal participation bar:",
+            "uid": "hXkWRxrzr"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1600017314764,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1600017342516,
+            "string": "Users who don't meet the minimal participation bar after one week are pruned.",
+            "uid": "vDW7uXmcY"
           }
         ],
         "edit-email": "roam@delphi-strategy.com",
@@ -92257,19 +92998,41 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926836618,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600015930185,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "wKeYGY9LX"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748237688,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "uOimXMqVm"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600015572614,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600015853075,
+                    "string": "Why? Because [CNAME record \"alias\" other records, and thus can't be combined with other record types](https://www.freecodecamp.org/news/why-cant-a-domain-s-root-be-a-cname-8cbab38e5f5c/#cname-limitations) (MX, NS, etc.).",
+                    "uid": "-MLB-O1EN"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600015217710,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600015572620,
+                "string": "`yakcollective.org` -- A record pointing to [[Netlify]]'s CDN/load balancer",
+                "uid": "XUHnpjaeM"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600015280305,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600015538476,
+                "string": "`www.yakcollective.org` -- CNAME pointing to current [[Netlify]] site (https://practical-lichterman-20c7e0.netlify.app/)",
+                "uid": "cfFT03dpO"
+              }
+            ],
             "edit-email": "roam@delphi-strategy.com",
             "edit-time": 1598926822195,
             "string": "DNS",
@@ -92312,15 +93075,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926856859,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600014587103,
+        "string": "last updated:: [[August 31st, 2020]] by [[Nathan Acks]]",
         "uid": "qnTLqwsUa"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748308700,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "kjTK48yEd"
       },
       {
         "children": [
@@ -92383,21 +93140,25 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599019183921,
-        "string": "last updated:: [[September 1st, 2020]]",
+        "edit-time": 1600017727259,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "_VRv40EAD"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748329437,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "zphZsu1ET"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600017645157,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600017713530,
+                "string": "Minimal information from [[Discord]] (server name, user ID, role data) will be moved over using a `yak_shaver` bot. May or may not commit info to [[GitHub]] along the way.",
+                "uid": "-OUopK-ql"
+              }
+            ],
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1599019175629,
+            "edit-time": 1600017617957,
             "string": "Member database (future website release)",
             "uid": "kHNCe2lmT"
           }
@@ -92438,15 +93199,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926654082,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600014572398,
+        "string": "last updated:: [[August 31st, 2020]] by [[Nathan Acks]]",
         "uid": "dROjPUX2d"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748353880,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "_UF5sKYny"
       },
       {
         "children": [
@@ -92493,15 +93248,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598926593609,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600014554243,
+        "string": "last updated:: [[August 31st, 2020]] by [[Nathan Acks]]",
         "uid": "qvdwPO2qh"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748565572,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "Rk2XSwBs2"
       },
       {
         "children": [
@@ -92548,15 +93297,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599020245376,
-        "string": "last updated:: [[September 1st, 2020]]",
+        "edit-time": 1600014542717,
+        "string": "last updated:: [[September 1st, 2020]] by [[Nathan Acks]]",
         "uid": "9LgGxlxFu"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598805472634,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "gOhdKZCOw"
       },
       {
         "children": [
@@ -92902,11 +93645,21 @@
               {
                 "children": [
                   {
+                    "children": [
+                      {
+                        "create-email": "roam@delphi-strategy.com",
+                        "create-time": 1600015953766,
+                        "edit-email": "roam@delphi-strategy.com",
+                        "edit-time": 1600016010988,
+                        "string": "Because commits to `netlify-prod` trigger rebuilds in [[Netlify]], this causes the website to be refreshed, and the new page to show up within a minute or two.",
+                        "uid": "RAQpCb26I"
+                      }
+                    ],
                     "create-email": "roam@delphi-strategy.com",
                     "create-time": 1598924288398,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598924322216,
-                    "string": "Netlify function that takes incoming data from [[IFTTT]] and commits a new file to the appropriate directory.",
+                    "edit-time": 1600015972112,
+                    "string": "Netlify function that takes incoming data from [[IFTTT]] and commits a new file to the appropriate directory in the `netlify-prod` branch.",
                     "uid": "GE5xxxrmu"
                   }
                 ],
@@ -93380,15 +94133,92 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599020283795,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600014534726,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "yEDRyuPR2"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600016832952,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600016869028,
+                "string": "Plan is to move to [Gatsby](https://www.gatsbyjs.com/) in the near future.",
+                "uid": "XVbzDsSuU"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1600013961379,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1600014003895,
+            "string": "We currently use [Jekyll](https://jekyllrb.com/) to build the website.",
+            "uid": "VcEUIRJFf"
+          },
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598811155931,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598811923664,
+                "string": "If you already use Ubuntu, or can work on an Ubuntu virtual machine, then you should have no issues.",
+                "uid": "G2I5m7Eac"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600014093790,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600014134574,
+                    "string": "^^Remember that the macOS file system is __not__ case sensitive!^^",
+                    "uid": "tPtarSfH3"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600014128950,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600014128950,
+                "string": "macOS is also known to work without issue.",
+                "uid": "ooEt7S-A0"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1600014140776,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1600014305143,
+                    "string": "Jekyll currently doesn't monitor file changes correctly on NTFS file systems, so `jekyll serve` won't work quite right if you're just checking out files into your home directory.",
+                    "uid": "SkrtKR2dW"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1600014050470,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1600014081435,
+                "string": "This can be replicated on Windows 10 Pro with the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL).",
+                "uid": "jNzNigAd7"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1600014032957,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1600014050473,
+            "string": "[[Netlify]] uses an [Ubuntu](https://ubuntu.com/) container for builds.",
+            "uid": "v40aksvNP"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1600013950261,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598810988580,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "TIfa76XHa"
+        "edit-time": 1600013959949,
+        "heading": 1,
+        "string": "General Notes",
+        "uid": "UhxhULDmV"
       },
       {
         "children": [
@@ -93398,343 +94228,306 @@
                 "children": [
                   {
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598811155931,
+                    "create-time": 1598811533901,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598811923664,
-                    "string": "If you already use Ubuntu, or can work on an Ubuntu virtual machine, then you should have no issues.",
-                    "uid": "G2I5m7Eac"
+                    "edit-time": 1598812058651,
+                    "string": "Open up your **Settings** app and go to **Apps > Apps & features > Related settings > More Windows features**.",
+                    "uid": "CXzytsd5P"
                   },
                   {
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598811924347,
+                    "create-time": 1598812036477,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598811960210,
-                    "string": "macOS also should work.",
-                    "uid": "8Nhx6gOFT"
+                    "edit-time": 1598812063045,
+                    "string": "Install the **Windows Subsystem for Linux**. Reboot when prompted.",
+                    "uid": "QzzA3EYtF"
                   },
                   {
-                    "children": [
-                      {
-                        "children": [
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1598811533901,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1598812058651,
-                            "string": "Open up your **Settings** app and go to **Apps > Apps & features > Related settings > More Windows features**.",
-                            "uid": "CXzytsd5P"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1598812036477,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1598812063045,
-                            "string": "Install the **Windows Subsystem for Linux**. Reboot when prompted.",
-                            "uid": "QzzA3EYtF"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1598812063042,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1598812106250,
-                            "string": "Open up the **Microsoft Store** and install [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6).",
-                            "uid": "UKIWzY-Bf"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1598812107428,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1598812125666,
-                            "string": "Open up the **Ubuntu** app to finish the installation.",
-                            "uid": "Wm8CARavs"
-                          }
-                        ],
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598811400818,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598811531632,
-                        "string": "Basic setup",
-                        "uid": "SJWWz--B9"
-                      },
-                      {
-                        "children": [
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1598811586521,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1598812186037,
-                            "string": "Follow the steps above to install Ubuntu.",
-                            "uid": "8eyz-Fn7V"
-                          },
-                          {
-                            "children": [
-                              {
-                                "create-email": "roam@delphi-strategy.com",
-                                "create-time": 1598812226666,
-                                "edit-email": "roam@delphi-strategy.com",
-                                "edit-time": 1598812236517,
-                                "string": "Hyper-V",
-                                "uid": "VaRxPoQGv"
-                              },
-                              {
-                                "create-email": "roam@delphi-strategy.com",
-                                "create-time": 1598812236798,
-                                "edit-email": "roam@delphi-strategy.com",
-                                "edit-time": 1598812241994,
-                                "string": "Virtual Machine Platform",
-                                "uid": "95jPlUtqP"
-                              },
-                              {
-                                "create-email": "roam@delphi-strategy.com",
-                                "create-time": 1598812242203,
-                                "edit-email": "roam@delphi-strategy.com",
-                                "edit-time": 1598812250481,
-                                "string": "Windows Hypervisor Platform",
-                                "uid": "iQFh4XmBm"
-                              }
-                            ],
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1598812158608,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1598812221936,
-                            "string": "Go back to your **Settings** app, go to **Apps > Apps & features > Related settings > More Windows features**, and install the following features:",
-                            "uid": "f04id5Dh4"
-                          },
-                          {
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1598812251240,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1598812257745,
-                            "string": "Reboot.",
-                            "uid": "Ij0PRSPe_"
-                          },
-                          {
-                            "children": [
-                              {
-                                "create-email": "roam@delphi-strategy.com",
-                                "create-time": 1598812304259,
-                                "edit-email": "roam@delphi-strategy.com",
-                                "edit-time": 1598812338476,
-                                "string": "```shell\nwsl.exe --set-version Ubuntu 2```",
-                                "uid": "AK-lxB7Gl"
-                              }
-                            ],
-                            "create-email": "roam@delphi-strategy.com",
-                            "create-time": 1598812257742,
-                            "edit-email": "roam@delphi-strategy.com",
-                            "edit-time": 1598812304263,
-                            "string": "Open up **PowerShell** and run the following command:",
-                            "uid": "DKiLenuiQ"
-                          }
-                        ],
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598811535442,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598811586301,
-                        "string": "If you're running Windows 10 release 1903 or later, you can get __much__ better results by converting to WSL 2.",
-                        "uid": "Mcr_rOdcO"
-                      }
-                    ],
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598811191575,
+                    "create-time": 1598812063042,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598811969667,
-                    "string": "If you have Windows 10 Pro, you can use the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL).",
-                    "uid": "YgA-UpNyZ"
+                    "edit-time": 1598812106250,
+                    "string": "Open up the **Microsoft Store** and install [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6).",
+                    "uid": "UKIWzY-Bf"
                   },
                   {
-                    "children": [
-                      {
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598811708975,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598811766632,
-                        "string": "^^However, some website features do __not__ build correctly on native Windows installs.^^",
-                        "uid": "KIj_kjMO3"
-                      },
-                      {
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598811767346,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598811972576,
-                        "string": "If you're building on Windows natively and something seems broken in `netlify-prod`, it's a good bet that the problem is your build environment, and __not__ the website.",
-                        "uid": "adZfItiqy"
-                      }
-                    ],
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598811587701,
+                    "create-time": 1598812107428,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598811708978,
-                    "string": "If you are running Windows 10 Home or don't want to install WSL, it is possible to [install Jekyll on Windows natively](https://jekyllrb.com/docs/installation/windows/).",
-                    "uid": "h5B3sc_xz"
+                    "edit-time": 1598812125666,
+                    "string": "Open up the **Ubuntu** app to finish the installation.",
+                    "uid": "Wm8CARavs"
                   }
                 ],
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598811108336,
+                "create-time": 1598811400818,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598811149728,
-                "string": "[[Netlify]] uses an [Ubuntu](https://ubuntu.com/) container for builds.",
-                "uid": "oWc0xa0ks"
+                "edit-time": 1598811531632,
+                "string": "Basic setup",
+                "uid": "SJWWz--B9"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1598811586521,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598812186037,
+                    "string": "Follow the steps above to install Ubuntu.",
+                    "uid": "8eyz-Fn7V"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "roam@delphi-strategy.com",
+                        "create-time": 1598812226666,
+                        "edit-email": "roam@delphi-strategy.com",
+                        "edit-time": 1598812236517,
+                        "string": "Hyper-V",
+                        "uid": "VaRxPoQGv"
+                      },
+                      {
+                        "create-email": "roam@delphi-strategy.com",
+                        "create-time": 1598812236798,
+                        "edit-email": "roam@delphi-strategy.com",
+                        "edit-time": 1598812241994,
+                        "string": "Virtual Machine Platform",
+                        "uid": "95jPlUtqP"
+                      },
+                      {
+                        "create-email": "roam@delphi-strategy.com",
+                        "create-time": 1598812242203,
+                        "edit-email": "roam@delphi-strategy.com",
+                        "edit-time": 1598812250481,
+                        "string": "Windows Hypervisor Platform",
+                        "uid": "iQFh4XmBm"
+                      }
+                    ],
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1598812158608,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598812221936,
+                    "string": "Go back to your **Settings** app, go to **Apps > Apps & features > Related settings > More Windows features**, and install the following features:",
+                    "uid": "f04id5Dh4"
+                  },
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1598812251240,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598812257745,
+                    "string": "Reboot.",
+                    "uid": "Ij0PRSPe_"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "roam@delphi-strategy.com",
+                        "create-time": 1598812304259,
+                        "edit-email": "roam@delphi-strategy.com",
+                        "edit-time": 1598812338476,
+                        "string": "```shell\nwsl.exe --set-version Ubuntu 2```",
+                        "uid": "AK-lxB7Gl"
+                      }
+                    ],
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1598812257742,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598812304263,
+                    "string": "Open up **PowerShell** and run the following command:",
+                    "uid": "DKiLenuiQ"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598811535442,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598811586301,
+                "string": "If you're running Windows 10 release 1903 or later, you can get __much__ better results by converting to WSL 2.",
+                "uid": "Mcr_rOdcO"
               }
             ],
             "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598811235983,
+            "create-time": 1598811191575,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598812381332,
-            "heading": 2,
-            "string": "Build Requirements",
-            "uid": "hVvUFCk7E"
+            "edit-time": 1598811969667,
+            "string": "If you have Windows 10 Pro, you can use the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL).",
+            "uid": "YgA-UpNyZ"
+          },
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598811708975,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598811766632,
+                "string": "^^However, some website features do __not__ build correctly on native Windows installs.^^",
+                "uid": "KIj_kjMO3"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598811767346,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598811972576,
+                "string": "If you're building on Windows natively and something seems broken in `netlify-prod`, it's a good bet that the problem is your build environment, and __not__ the website.",
+                "uid": "adZfItiqy"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598811587701,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598811708978,
+            "string": "If you are running Windows 10 Home or don't want to install WSL, it is possible to [install Jekyll on Windows natively](https://jekyllrb.com/docs/installation/windows/).",
+            "uid": "h5B3sc_xz"
+          }
+        ],
+        "create-email": "roam@delphi-strategy.com",
+        "create-time": 1598811235983,
+        "edit-email": "roam@delphi-strategy.com",
+        "edit-time": 1600014374091,
+        "heading": 1,
+        "string": "Windows 10 Setup",
+        "uid": "hVvUFCk7E"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1598812887986,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1598813006777,
+                    "string": "```shell\nsudo apt update\nsudo apt full-upgrade\nsudo apt install bundler```",
+                    "uid": "Ce58ADCMZ"
+                  }
+                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598812854322,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598812887988,
+                "string": "If you're using Ubuntu (either natively or via WSL):",
+                "uid": "7Q5heEmUu"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598812889738,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598812941339,
+                "string": "If you're running macOS, follow the [Jekyll on macOS](https://jekyllrb.com/docs/installation/macos/) guide.",
+                "uid": "RKBCd5esC"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598812941337,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598812973459,
+                "string": "If you're running Windows (__without WSL__), follow the [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/) guide.",
+                "uid": "X9BFCIU7r"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598812844548,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598812853855,
+            "string": "Make sure you have the necessary system-wide pre-requisites.",
+            "uid": "ZPzrM76zS"
+          },
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598813077052,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598813190044,
+                "string": "Unless you already have commit access, you'll want to [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the [The-Yak-Collective/yakcollective](https://github.com/The-Yak-Collective/yakcollective/) repo first.",
+                "uid": "oKvyPwAJH"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598813194711,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598813264506,
+                "string": "The [GitHub Desktop](https://desktop.github.com/) app makes working with repos really easy, and is highly recommended.",
+                "uid": "2Tr-6ssy7"
+              }
+            ],
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1598813066086,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598813076856,
+            "string": "Check out the [website repo](https://github.com/The-Yak-Collective/yakcollective/).",
+            "uid": "Mjh7tKm8f"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1598813379409,
+                "string": "```shell\ncd $REPO_PATH\nbundle config set path vendor/bundle\nbundle install```",
+                "uid": "_6vRCCEmk"
+              }
+            ],
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1598813413953,
+            "string": "Set up the your local build environment (this all happens using the terminal; where you see `$REPO_PATH`, just use whatever path you checked the repository out to in the last step):",
+            "uid": "usFWdRLTJ"
           },
           {
             "children": [
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598812887986,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598813006777,
-                        "string": "```shell\nsudo apt update\nsudo apt full-upgrade\nsudo apt install bundler```",
-                        "uid": "Ce58ADCMZ"
-                      }
-                    ],
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598812854322,
+                    "create-time": 1598813626832,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598812887988,
-                    "string": "If you're using Ubuntu (either natively or via WSL):",
-                    "uid": "7Q5heEmUu"
+                    "edit-time": 1598813718114,
+                    "string": "Jekyll won't detect changes that are made on Windows' file systems (so, any time you're using Jekyll natively, or if you're working with directories under `/mnt/c` in WSL).",
+                    "uid": "SHOutGqJw"
                   },
                   {
                     "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598812889738,
+                    "create-time": 1598813718112,
                     "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598812941339,
-                    "string": "If you're running macOS, follow the [Jekyll on macOS](https://jekyllrb.com/docs/installation/macos/) guide.",
-                    "uid": "RKBCd5esC"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598812941337,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598812973459,
-                    "string": "If you're running Windows (__without WSL__), follow the [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/) guide.",
-                    "uid": "X9BFCIU7r"
+                    "edit-time": 1598813769457,
+                    "string": "Changes to `_config.yml` aren't detected.",
+                    "uid": "nzc_i1v0j"
                   }
                 ],
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598812844548,
+                "create-time": 1598813581395,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598812853855,
-                "string": "Make sure you have the necessary system-wide pre-requisites.",
-                "uid": "ZPzrM76zS"
+                "edit-time": 1598813688562,
+                "string": "__Most of the time__, Jekyll will automatically rebuild the site whenever you make a change.",
+                "uid": "TMFQavs_V"
               },
               {
-                "children": [
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598813077052,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598813190044,
-                    "string": "Unless you already have commit access, you'll want to [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the [The-Yak-Collective/yakcollective](https://github.com/The-Yak-Collective/yakcollective/) repo first.",
-                    "uid": "oKvyPwAJH"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598813194711,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598813264506,
-                    "string": "The [GitHub Desktop](https://desktop.github.com/) app makes working with repos really easy, and is highly recommended.",
-                    "uid": "2Tr-6ssy7"
-                  }
-                ],
                 "create-email": "roam@delphi-strategy.com",
-                "create-time": 1598813066086,
+                "create-time": 1598813769453,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598813076856,
-                "string": "Check out the [website repo](https://github.com/The-Yak-Collective/yakcollective/).",
-                "uid": "Mjh7tKm8f"
+                "edit-time": 1598813790100,
+                "string": "To stop the Jekyll server, use **Ctrl + C**.",
+                "uid": "PwwIW0gqU"
               },
               {
-                "children": [
-                  {
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598813379409,
-                    "string": "```shell\ncd $REPO_PATH\nbundle config set path vendor/bundle\nbundle install```",
-                    "uid": "_6vRCCEmk"
-                  }
-                ],
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1598813790097,
                 "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598813413953,
-                "string": "Set up the your local build environment (this all happens using the terminal; where you see `$REPO_PATH`, just use whatever path you checked the repository out to in the last step):",
-                "uid": "usFWdRLTJ"
-              },
-              {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598813626832,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598813718114,
-                        "string": "Jekyll won't detect changes that are made on Windows' file systems (so, any time you're using Jekyll natively, or if you're working with directories under `/mnt/c` in WSL).",
-                        "uid": "SHOutGqJw"
-                      },
-                      {
-                        "create-email": "roam@delphi-strategy.com",
-                        "create-time": 1598813718112,
-                        "edit-email": "roam@delphi-strategy.com",
-                        "edit-time": 1598813769457,
-                        "string": "Changes to `_config.yml` aren't detected.",
-                        "uid": "nzc_i1v0j"
-                      }
-                    ],
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598813581395,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598813688562,
-                    "string": "__Most of the time__, Jekyll will automatically rebuild the site whenever you make a change.",
-                    "uid": "TMFQavs_V"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598813769453,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598813790100,
-                    "string": "To stop the Jekyll server, use **Ctrl + C**.",
-                    "uid": "PwwIW0gqU"
-                  },
-                  {
-                    "create-email": "roam@delphi-strategy.com",
-                    "create-time": 1598813790097,
-                    "edit-email": "roam@delphi-strategy.com",
-                    "edit-time": 1598813859389,
-                    "string": "If you need to see the actual files Jekyll will generate, use `bundle exec jekyll build` instead. The output will be in the `_site` directory.",
-                    "uid": "npkfScdl6"
-                  }
-                ],
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1598813578284,
-                "string": "Run `bundle exec jekyll serve` to fire up Jekyll's local server mode. This will build your site and then let you see it by going to [http://localhost:4000](http://localhost:4000) in your web browser.",
-                "uid": "qy0giAYd0"
+                "edit-time": 1598813859389,
+                "string": "If you need to see the actual files Jekyll will generate, use `bundle exec jekyll build` instead. The output will be in the `_site` directory.",
+                "uid": "npkfScdl6"
               }
             ],
-            "create-email": "roam@delphi-strategy.com",
-            "create-time": 1598811229579,
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598812392707,
-            "heading": 2,
-            "string": "Build Process",
-            "uid": "d3Yp93_dD"
+            "edit-time": 1598813578284,
+            "string": "Run `bundle exec jekyll serve` to fire up Jekyll's local server mode. This will build your site and then let you see it by going to [http://localhost:4000](http://localhost:4000) in your web browser.",
+            "uid": "qy0giAYd0"
           }
         ],
         "create-email": "roam@delphi-strategy.com",
         "create-time": 1598810990536,
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598811007831,
+        "edit-time": 1600014423266,
         "heading": 1,
         "string": "Building Locally",
         "uid": "UoBFCUzid"
@@ -93787,15 +94580,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598925339860,
-        "string": "last updated:: [[August 31st, 2020]]",
+        "edit-time": 1600014526167,
+        "string": "last updated:: [[August 31st, 2020]] by [[Nathan Acks]]",
         "uid": "8gWDAuLUp"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598925339860,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "pCflAuuyI"
       },
       {
         "children": [
@@ -94252,15 +95039,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599707594165,
-        "string": "last updated:: [[September 9th, 2020]]",
+        "edit-time": 1600014503898,
+        "string": "last updated:: [[September 9th, 2020]] by [[Nathan Acks]]",
         "uid": "KnsYX1XCI"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598927473058,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "hyWOcOu0I"
       },
       {
         "children": [
@@ -94456,15 +95237,9 @@
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1599020270555,
-        "string": "last updated:: [[September 1st, 2020]]",
+        "edit-time": 1600017127350,
+        "string": "last updated:: [[September 13th, 2020]] by [[Nathan Acks]]",
         "uid": "lVBJXfWtX"
-      },
-      {
-        "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598808773382,
-        "string": "last updated by:: [[Nathan Acks]]",
-        "uid": "EjSR6CdLS"
       },
       {
         "children": [
@@ -94875,9 +95650,9 @@
               }
             ],
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1598809918410,
+            "edit-time": 1600017133935,
             "heading": 2,
-            "string": "Current Branches",
+            "string": "Current [[GitHub]] Branches",
             "uid": "8OtMboOmK"
           },
           {
@@ -95891,5 +96666,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1599988523984,
     "title": "September 13th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1600074963405,
+    "title": "September 14th, 2020"
   }
 ]

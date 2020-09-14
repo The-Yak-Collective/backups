@@ -1,8 +1,8 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 1st, 2020](<September 1st, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
-    - Stores code and some data in [The Yak Collective](https://github.com/The-Yak-Collective) team.
+    - Stores code and __some__ data in [The Yak Collective](https://github.com/The-Yak-Collective) team.
+        - Currently holds member data; plan is to migrate this to [Knack](<Knack.md>) to allow for better GDPR compliance, easier self-maintenance of member records, etc.
     - Repos
         - [yakcollective](https://github.com/The-Yak-Collective/yakcollective): The [Yak Collective Website](<Yak Collective Website.md>)
             - Holds site scaffolding, static pages, project data, member data, etc.
@@ -30,6 +30,8 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
 - Writings and newsletter data are archived in [GitHub](<GitHub.md>)
 
+## Current [GitHub](<GitHub.md>)
+
 - [GitHub](<GitHub.md>):
 
 - [GitHub](<GitHub.md>):
@@ -45,10 +47,13 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [GitHub](<GitHub.md>):
 
 ## [IFTTT](<IFTTT.md>)
-- Push member blog posts and newsletters into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>),
+- Monitor member website and [Yak Talk](<Yak Talk.md>) newsletter RSS feeds, pushing content into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>).
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [GitHub](<GitHub.md>)
+
+## [Knack](<Knack.md>)
+- Minimal information from [Discord](<Discord.md>) (server name, user ID, role data) will be moved over using a `yak_shaver` bot. May or may not commit info to [GitHub](<GitHub.md>)
 
 ## [Netlify](<Netlify.md>)
 - `GH_BRANCH` - [GitHub](<GitHub.md>)

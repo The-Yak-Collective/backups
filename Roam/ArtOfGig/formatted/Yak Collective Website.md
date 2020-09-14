@@ -1,6 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 30th, 2020](<August 30th, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 ![Netlify Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)
     - [Website Architecture](<Website Architecture.md>)
     - [Contributing to the Website](<Contributing to the Website.md>)
@@ -23,7 +22,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [yakcollective](https://github.com/The-Yak-Collective/yakcollective): The [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [IFTTT](<IFTTT.md>)
-- Push member blog posts and newsletters into the [Yak Collective Website](<Yak Collective Website.md>)
+- Monitor member website and [Yak Talk](<Yak Talk.md>) newsletter RSS feeds, pushing content into the [Yak Collective Website](<Yak Collective Website.md>)
 
 - Rebuild the [Yak Collective Website](<Yak Collective Website.md>)
 

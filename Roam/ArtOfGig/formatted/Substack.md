@@ -1,6 +1,5 @@
 owner:: [Alex Wagner](<Alex Wagner.md>)
-last updated:: [August 30th, 2020](<August 30th, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - [Yak Talk](<Yak Talk.md>) newsletter
 # Access ^^(Shared Login!)^^

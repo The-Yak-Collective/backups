@@ -1,8 +1,8 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 1st, 2020]]
-last updated by:: [[Nathan Acks]]
+last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
 # Purpose
-    - Stores code and some data in [The Yak Collective](https://github.com/The-Yak-Collective) team.
+    - Stores code and __some__ data in [The Yak Collective](https://github.com/The-Yak-Collective) team.
+        - Currently holds member data; plan is to migrate this to [[Knack]] to allow for better GDPR compliance, easier self-maintenance of member records, etc.
     - Repos
         - [yakcollective](https://github.com/The-Yak-Collective/yakcollective): The [[Yak Collective Website]]
             - Holds site scaffolding, static pages, project data, member data, etc.

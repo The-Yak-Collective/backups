@@ -4,6 +4,7 @@
     - [[Things We Need]]
     - [[Internal Volunteer Opportunities]]
     - [[Onboarding for New Yaks]]
+    - [[IT Infrastructure]]
 - ## Upcoming chat topics
     - Scheduled
     - Unscheduled
@@ -27,7 +28,7 @@
 - [[infrastructure chat 08 6.27.20]] marketing outreach w/ [[Alex Wagner]]+ levelling up discord w/ [[Jordan Peacock]]
 - [[infrastructure chat 09 7.04.2020]] Yakcoin dev updates and discussion w/ [[Johnicholas Hines]]
 - [[infrastructure chat 10 7.11.2020]] 
-- infrastructure chat 11 7.18.2020  - worked on spotight/case study 
+- infrastructure chat 11 7.18.2020  - worked on spotlight/case study 
 - [[infrastructure chat 12 7.25.2020]] 
 - infrastructure chat 13 8.1.2020 - state of the union deck
     - https://docs.google.com/presentation/d/12pLjGxC6egO4QJvy06AjBTWm_4XhkfStyfdQ7p6DoOg/edit#slide=id.p
@@ -112,3 +113,93 @@
     - Action items:
         - Look into triggered / drip messages for Carl 
         - Twitter/fb accounts
+- infrastructure chat 18 9.13.2020 (notes in-line) 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fia1JXLwU6y.jpeg?alt=media&token=e916e06f-1982-4e51-8b17-ddb5e8b990be)
+    - Audio bandwidth
+        - Discord levels have audio bandwidth tier 
+        - Updating Discord level ... 30 boosts $5/mo
+        - alternative meeting infrastructure
+            - google meet
+                - Change meeting to google meet - use Nathan's account
+            - zoom 
+    - Assets 
+        - Calendar
+            - 15 people access to edit
+            - Currently owned by Venkat 
+                - Added modify sharing permissions to yak collective gmail 
+        - [[Twitter]]
+            - change email address from Venkat to yak collective gmail 
+            - Tweetdeck teams is how permissions are shared
+    - Carl drip discord messages
+    - Proposal structure
+        - Active projects - have run into logistical issues. Something systematic going on? First set of projects had momentum. 
+            - Final Frontiers - illness 
+            - Innovation Consulting - last editing cycle, stuck in resourcing production piece 
+            - Astonishing stories - budget to graphics
+        - Make sure Venkat isn't the bottleneck for the next set 
+            - Automate the proposal 
+            - Move from sync, not every month, 3 months, etc
+            - Async on-demand process, 2-3 people interested in working on something... kick off on their own timeline, decentralized
+            - Move to smaller demand, easier to market themselves easily, filling resourcing needs, lots of little thing that need to be fixed 
+            - Maier: channel on discord - the projects keep bubbling up... you can't talk. only vote up projects. 
+                - What resources/value do yakcollective get? 
+                    - Marketing - Marketing resources - newsletter, twitter, page...
+                        - Marketing is decentralized now 
+                    - Staffing - In theory, pool of resources 
+                    - Financial 
+            - Marketing
+                - Don't waste on the reboot
+                    - how many views, how many outreach, how much money? 
+                    - probably zero, but it was more of an introduction 
+                    - get insight into how the projects get positioned, what does well, etc
+                - 600 yaks but 34 members 
+                    - Structurally we have 1/3 gig job site and 2/3 is missing. 
+                    - Why are people joining? Why are people contributing
+                        - New independent consultants, gain experience
+                        - Survey ? 
+                        - + Defining and stating what membership means 
+                            - to help qualify and give structure for members to contribute... 
+                    - Member available/not available
+                        - Slider?
+                        - Can also take an aggregate view of yak collective availability 
+                        - gig weather pulse 
+                        - 1x month - temperature check
+                            - Discord bot? 
+                            - Email?
+                    - Discord, Roam -> email
+                        - Member updates
+                        - Project - Scrum updates
+                            - Active project as an entity 
+                            - Either project is dead or backburner or ... Project is a living thing. Polled just like an individual 
+                        - Roam 
+                            - Extract updates - structured fields 
+                        - Analogy streak checkins with Github 
+    - Discord
+        - UX of pinned messages 
+        - Add roam page to channel topic
+            - Did so with infrastructure  
+        - Roam unfurl preview is not helpful atm, but probably Roam will fix.
+        - People come with wrong expectation. That they should have high level visibility of everything
+            - Bureaucracy vs farmer's market
+            - Have to walk into the right stall 
+            - How do we 
+    - Website could have a "now" page or what the active projects are
+        - Help orient people to get active 
+        - State of the union update -> web active page 
+            - Historical, Active 
+    - Prospectus 
+        - No one's worked on this
+    - Next steps/projects:
+        - 1. Email inward facing member/project member thing
+        - 2. Update proposal project thats async 
+            - Venkatesh owning V2 "human" side 
+            - Define set of specs - to do a roam page, here there are 3 fields. 
+                - Use Knack? 
+        - 3. CMO role
+- 
+- 
+- 
+- 
+- 
+- 
+- 

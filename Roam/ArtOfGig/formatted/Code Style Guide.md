@@ -1,6 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 9th, 2020](<September 9th, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 9th, 2020](<September 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # File Naming
     - Use `lower-case-with-dashes.txt` instead of `Mixed_Caps_And_Underscored.TXT`.
         - Of course, sometimes you've just gotta use an underscore (Jekyll collections, etc.).

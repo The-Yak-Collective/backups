@@ -1,14 +1,15 @@
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
-last updated:: [September 10th, 2020](<September 10th, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - ???
-# Access ^^(Shared Login!)^^
-    - [Jordan Peacock](<Jordan Peacock.md>)
-    - [Venkatesh Rao](<Venkatesh Rao.md>)
-    - [Nathan Acks](<Nathan Acks.md>)
-    - [Pamela Hobart](<Pamela Hobart.md>)
-    - [Scott Allen](<Scott Allen.md>)
+# Access
+    - Via Tweetdeck teams
+        - [Jordan Peacock](<Jordan Peacock.md>)
+        - [Scott Allen](<Scott Allen.md>)
+    - ^^Shared login^^
+        - [Venkatesh Rao](<Venkatesh Rao.md>)
+        - [Nathan Acks](<Nathan Acks.md>)
+        - [Pamela Hobart](<Pamela Hobart.md>)
 
 # Backlinks
 ## [Amir Hajizamani](<Amir Hajizamani.md>)
@@ -16,7 +17,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
     - **[Twitter](<Twitter.md>):**
 
 ## [IFTTT](<IFTTT.md>)
-- Push member blog posts, newsletters, and featured yaks to [Twitter](<Twitter.md>).
+- Monitor member website, [Yak Talk](<Yak Talk.md>) newsletter, and featured yak RSS feeds, pushing content updates to [Twitter](<Twitter.md>).
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Twitter](<Twitter.md>)
@@ -35,4 +36,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - Push "featured yak" to [Twitter](<Twitter.md>).
 
 - Incoming member blog posts are now pushed to [Twitter](<Twitter.md>)
+
+## [infrastructure](<infrastructure.md>)
+- [Twitter](<Twitter.md>)
 

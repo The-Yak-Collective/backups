@@ -1,14 +1,17 @@
 owner:: [Maier Fenster](<Maier Fenster.md>)
-last updated:: [September 1st, 2020](<September 1st, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - Member database (future website release)
+        - Minimal information from [Discord](<Discord.md>) (server name, user ID, role data) will be moved over using a `yak_shaver` bot. May or may not commit info to [GitHub](<GitHub.md>) along the way.
 # Access ^^(Shared Login!)^^
     - [Maier Fenster](<Maier Fenster.md>)
 
 # Backlinks
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - Work on migrating member data to [Knack](<Knack.md>).
+
+## [GitHub](<GitHub.md>)
+- Currently holds member data; plan is to migrate this to [Knack](<Knack.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Knack](<Knack.md>)

@@ -1,6 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 2nd, 2020]]
-last updated by:: [[Nathan Acks]]
+last updated:: [[September 2nd, 2020]] by [[Nathan Acks]]
 # Threats
     ## Current
         - Data loss ([[Roam]], [[Yak Collective Robot]], [[GitHub]], etc.)

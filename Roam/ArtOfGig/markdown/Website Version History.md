@@ -1,6 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[August 31st, 2020]]
-last updated by:: [[Nathan Acks]]
+last updated:: [[August 31st, 2020]] by [[Nathan Acks]]
 # v2.2
     - [[Nathan Acks]]
         - Push "featured yak" to [[Twitter]].

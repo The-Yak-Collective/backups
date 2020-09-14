@@ -1,8 +1,12 @@
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - Yak Collective comms & coordination.
+    - Minimal participation bar:
+        - Change server display name to given/chosen name
+        - Add time zone to server display name (helps with coordination)
+        - Post a short introduction to `introductions`
+    - Users who don't meet the minimal participation bar after one week are pruned.
 # Access
     - [Jordan Peacock](<Jordan Peacock.md>)
     - [Tom Critchlow](<Tom Critchlow.md>)
@@ -14,16 +18,23 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 
 # Backlinks
 ## [Carl](<Carl.md>)
-- [Discord](<Discord.md>)
+- `calendar_yak` -- Reads calendar events and pushes them to the `events` channel in [Discord](<Discord.md>).
+
+- `welcome_bot` -- Greets new [Discord](<Discord.md>)
 
 ## [Contributing to the Website](<Contributing to the Website.md>)
 4. For emergency updates, ping someone with **owner** level access in [GitHub](<GitHub.md>) on [Discord](<Discord.md>).
 
 ## [IFTTT](<IFTTT.md>)
-- Push member blog posts and newsletters into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>), and then to the `yaktalk-content` channel in [Discord](<Discord.md>).
+- Monitor member website and [Yak Talk](<Yak Talk.md>) newsletter RSS feeds, pushing content into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>). On successful commit, also push this content to the `yaktalk-content` channel in [Discord](<Discord.md>).
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
+- After signing up here, folks are taken to a page with a [Discord](<Discord.md>)
+
 - [Discord](<Discord.md>)
+
+## [Knack](<Knack.md>)
+- Minimal information from [Discord](<Discord.md>)
 
 ## [Netlify](<Netlify.md>)
 - `DISCORD_CHANNEL` - [Discord](<Discord.md>)

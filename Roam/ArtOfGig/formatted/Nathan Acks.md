@@ -12,15 +12,15 @@
 ## [Building the Website](<Building the Website.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Carl](<Carl.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Code Style Guide](<Code Style Guide.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 9th, 2020](<September 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Colorado/Denver](<Colorado/Denver.md>)
 - [Nathan Acks](<Nathan Acks.md>)
@@ -28,7 +28,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Contributing to the Website](<Contributing to the Website.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - `netlify-prod` (point: [Nathan Acks](<Nathan Acks.md>))
 
@@ -40,36 +40,36 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - {{embed: [Nathan Acks](<Nathan Acks.md>)}
 
 ## [Discord](<Discord.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Facebook](<Facebook.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [GitHub](<GitHub.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Glitch](<Glitch.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [IFTTT](<IFTTT.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
 
@@ -96,23 +96,23 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 
 ## [Knack](<Knack.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [LinkedIn](<LinkedIn.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Namecheap](<Namecheap.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Netlify](<Netlify.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Roam](<Roam.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
 - **[last updated](<last updated.md>):** [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -122,7 +122,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Substack](<Substack.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Things We Need](<Things We Need.md>)
 - ~~v2.0~~ [Nathan Acks](<Nathan Acks.md>)
@@ -130,22 +130,22 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Threat Model](<Threat Model.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 2nd, 2020](<September 2nd, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Twitter](<Twitter.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Website Architecture](<Website Architecture.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 1st, 2020](<September 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Website Version History](<Website Version History.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -159,7 +159,15 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -169,10 +177,10 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
 ## [Yak Collective Website](<Yak Collective Website.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Zapier](<Zapier.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [infrastructure](<infrastructure.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)

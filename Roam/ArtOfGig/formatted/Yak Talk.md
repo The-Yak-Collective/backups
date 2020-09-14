@@ -15,6 +15,11 @@
 ## [Directory](<Directory.md>)
 - [editor](<editor.md>) of [Yak Talk](<Yak Talk.md>)
 
+## [IFTTT](<IFTTT.md>)
+- Monitor member website and [Yak Talk](<Yak Talk.md>)
+
+- Monitor member website, [Yak Talk](<Yak Talk.md>)
+
 ## [Substack](<Substack.md>)
 - [Yak Talk](<Yak Talk.md>)
 

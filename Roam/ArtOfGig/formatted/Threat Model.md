@@ -1,6 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 2nd, 2020](<September 2nd, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 2nd, 2020](<September 2nd, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Threats
     ## Current
         - Data loss ([Roam](<Roam.md>), [Yak Collective Robot](<Yak Collective Robot.md>), [GitHub](<GitHub.md>), etc.)

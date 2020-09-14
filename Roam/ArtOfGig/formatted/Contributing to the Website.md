@@ -1,6 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 1st, 2020](<September 1st, 2020.md>)
-last updated by:: [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Content Updates
     ## Website
         - Website content is currently stored in [GitHub](<GitHub.md>).
@@ -22,7 +21,7 @@ last updated by:: [Nathan Acks](<Nathan Acks.md>)
             - Newsletter data isn't displayed right now, but in the future will be exposed in an "archive"
         - If you want to add an RSS feed or update an existing feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
 # Site Development
-    ## Current Branches
+    ## Current [GitHub](<GitHub.md>) Branches
         - `netlify-prod` (point: [Nathan Acks](<Nathan Acks.md>))
             - Production branch.
                 - ^^Major changes should never be made directly to this branch.^^

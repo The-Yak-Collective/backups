@@ -1,11 +1,12 @@
 owner:: [[Jordan Peacock]]
-last updated:: [[September 10th, 2020]]
-last updated by:: [[Nathan Acks]]
+last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
 # Purpose
     - ???
-# Access ^^(Shared Login!)^^
-    - [[Jordan Peacock]]
-    - [[Venkatesh Rao]]
-    - [[Nathan Acks]]
-    - [[Pamela Hobart]]
-    - [[Scott Allen]]
+# Access
+    - Via Tweetdeck teams
+        - [[Jordan Peacock]]
+        - [[Scott Allen]]
+    - ^^Shared login^^
+        - [[Venkatesh Rao]]
+        - [[Nathan Acks]]
+        - [[Pamela Hobart]]

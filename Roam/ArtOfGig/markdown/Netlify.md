@@ -1,12 +1,14 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 1st, 2020]]
-last updated by:: [[Nathan Acks]]
+last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
 # Purpose
     - Provides the build environment for the [[Yak Collective Website]]
         - See [[Building the Website]] for more details
+        - {{[[embed]]: ((8OtMboOmK))}}
     - Manages web presence "plumbing"
         - Site data pushed out to [Amazon CloudFront](https://aws.amazon.com/cloudfront/)
             - [[Namecheap]] DNS points to Netlify "load balancer"
+            - This means that the website is "serverless", in that it exists as a set of CDN files + some load balancer intelligence.
+                - Of course, all of these are actually made up of servers, so it's really just [turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down).
         - "API" endpoints ([Netlify Functions](https://docs.netlify.com/functions/overview/)) pushed out to [Amazon Lambda](https://aws.amazon.com/lambda/)
 # Access ^^(Shared Login!)^^
     - [[Yak Collective Robot]]

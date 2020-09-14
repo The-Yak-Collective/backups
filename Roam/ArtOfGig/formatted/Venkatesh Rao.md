@@ -167,7 +167,7 @@
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -353,7 +353,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - [Nature is Healing](<Nature is Healing.md>) — [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-- [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([Venkatesh Rao](<Venkatesh Rao.md>))
 
