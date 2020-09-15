@@ -1,7 +1,17 @@
 
 # Backlinks
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Directory](<Directory.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):**
+
+## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Production Cell](<Production Cell.md>)

@@ -14,12 +14,15 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Netlify](<Netlify.md>)
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
+            - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+            - Sign up form; wrapped by https://www.yakcollective.org/join/
+            - After signing up here, folks are taken to a page with a [Discord](<Discord.md>) invite link
         - [Roam](<Roam.md>) (used for backups to [GitHub](<GitHub.md>))
             - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
     - In the future, Yak Collective documents, files, calendars, forms, etc. should be stored by this account.
         - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([Paul Millerd](<Paul Millerd.md>))
         - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
-        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([Venkatesh Rao](<Venkatesh Rao.md>))
         - Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
 # Access ^^(Shared Login!)^^
     - [Nathan Acks](<Nathan Acks.md>)
@@ -39,6 +42,8 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Yak Collective Robot](<Yak Collective Robot.md>)
+
+- Part of the [Yak Collective Robot](<Yak Collective Robot.md>)
 
 - Part of the [Yak Collective Robot](<Yak Collective Robot.md>)
 

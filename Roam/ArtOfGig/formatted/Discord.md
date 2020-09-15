@@ -29,8 +29,6 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 - Monitor member website and [Yak Talk](<Yak Talk.md>) newsletter RSS feeds, pushing content into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>). On successful commit, also push this content to the `yaktalk-content` channel in [Discord](<Discord.md>).
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- After signing up here, folks are taken to a page with a [Discord](<Discord.md>)
-
 - [Discord](<Discord.md>)
 
 ## [Knack](<Knack.md>)
@@ -50,6 +48,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 ## [Website Version History](<Website Version History.md>)
 - Incoming member blog posts are now pushed to [Twitter](<Twitter.md>) and the `yaktalk-content` [Discord](<Discord.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- After signing up here, folks are taken to a page with a [Discord](<Discord.md>)
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - There is an [Art of Gig](<Art of Gig.md>) [Discord](<Discord.md>)

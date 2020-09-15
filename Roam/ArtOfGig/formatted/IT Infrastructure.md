@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Assets
     ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + mapping work done by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
         - See the [Roam diagram documentation](https://roamresearch.com/#/app/help/page/OB_uynVDM) to learn how to work with native diagrams.
@@ -18,9 +18,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
             - **[owner](<owner.md>):** [Paul Millerd](<Paul Millerd.md>)
         - Google Analytics
             - **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
-        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
-            - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
-            - After signing up here, folks are taken to a page with a [Discord](<Discord.md>) invite link
+        - "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
+            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - Part of the [Yak Collective Robot](<Yak Collective Robot.md>) account
         - [Carl](<Carl.md>) `calendar_yak` Bot
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Carl](<Carl.md>) `yakyak` Bot

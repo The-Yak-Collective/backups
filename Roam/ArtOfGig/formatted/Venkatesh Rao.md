@@ -169,7 +169,7 @@
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
@@ -355,9 +355,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([Venkatesh Rao](<Venkatesh Rao.md>))
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 

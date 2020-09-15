@@ -19,15 +19,17 @@
 ## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
 - [Hershil Patel](<Hershil Patel.md>)
 
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- [Hershil Patel](<Hershil Patel.md>)
+
+- [Hershil Patel](<Hershil Patel.md>)
+
+- [Hershil Patel](<Hershil Patel.md>)
+
+- [Hershil Patel](<Hershil Patel.md>)
+
 ## [Hershil P ](<Hershil P .md>)
-- [Hershil Patel](<Hershil Patel.md>)
-
-## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
-- [Hershil Patel](<Hershil Patel.md>)
-
-- [Hershil Patel](<Hershil Patel.md>)
-
-- [Hershil Patel](<Hershil Patel.md>)
-
 - [Hershil Patel](<Hershil Patel.md>)
 

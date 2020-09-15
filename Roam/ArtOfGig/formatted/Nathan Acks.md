@@ -9,6 +9,13 @@
 - For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
 
 # Backlinks
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [ ] test this option [Nathan Acks](<Nathan Acks.md>)
+
 ## [Building the Website](<Building the Website.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
@@ -69,7 +76,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
 

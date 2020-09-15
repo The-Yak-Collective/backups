@@ -1,3 +1,10 @@
+- About:: __XXX__
+- Chief Page Wrangler:: [[Fname Lname]]
+- Last Updated::
+- Last Updated By:: [[Fname Lname]]
+-  
+-  
+- 
 - # Outline
     - Mapping possible future scenarios to create worlds for speculative fiction. Combines updated thinking on previous proposals [[Speculative Fiction for the reboot ]] and [[Post-COVID scenario set]]
     - **Leads:** [[Sachin Benny]] & [[Amanda Reeves]]
@@ -99,3 +106,48 @@
     - Future Fragments - https://roamresearch.com/#/app/Astonishing_Stories/page/YLj-7R4GY
     - Scenarios - https://roamresearch.com/#/app/Astonishing_Stories/page/zh6lSZyAk
     - MICE framework - http://www.sfcenter.ku.edu/Workshop-stuff/MICE-Quotient.htm
+- 
+- [[September 14th, 2020]] Notes on project call w/ [[Sachin Benny]] [[Amanda Reeves]] [[Jenna Dixon]]
+    - [[Nathan Acks]] asked [[September 10th, 2020]] on » [Discord](
+https://discordapp.com/channels/@me/741807575024271430/753791288956158042)
+        - key things i need:
+(1) advice on the accent color (unless you like the blue i just kinda made up)
+            - __answer: let's wait and let the illustrators get involved - pull out a colour from the hero image__
+            - {{[[TODO]]}} add that to the brief [[Sachin Benny]] [[September 14th, 2020]]
+        - (2) a hero image (unless you like the gears)
+            - __answer: to be included as a deliverable with the call for artists__
+            - {{[[TODO]]}} add that to the brief [[Sachin Benny]] [[September 14th, 2020]]
+            - {{[[TODO]]}} test this option [[Nathan Acks]] [[September 21st, 2020]] 
+vvv untwirl! vvv
+                - background-color: #ffffec; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='%235c8bfb' fill-opacity='0.4'%3E%3Cpath fill-rule='evenodd' d='M11 0l5 20H6l5-20zm42 31a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM0 72h40v4H0v-4zm0-8h31v4H0v-4zm20-16h20v4H20v-4zM0 56h40v4H0v-4zm63-25a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM53 41a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-30 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-28-8a5 5 0 0 0-10 0h10zm10 0a5 5 0 0 1-10 0h10zM56 5a5 5 0 0 0-10 0h10zm10 0a5 5 0 0 1-10 0h10zm-3 46a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM21 0l5 20H16l5-20zm43 64v-4h-4v4h-4v4h4v4h4v-4h4v-4h-4zM36 13h4v4h-4v-4zm4 4h4v4h-4v-4zm-4 4h4v4h-4v-4zm8-8h4v4h-4v-4z'/%3E%3C/g%3E%3C/svg%3E");
+                - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fno3iNzpXA_.zip?alt=media&token=2e893843-bd01-44dc-8422-f5dc57f6c9a5
+                - taken from » Random Shapes on https://www.heropatterns.com/
+                - 
+        - (3) project tagline + 1 or 2 paragraph leader
+            - __answer: [[Amanda Reeves]] will take first crack__ [[September 15th, 2020]]
+                - We did a little test play via developer mode....
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FOlXcA_suRN.png?alt=media&token=be39179b-9715-43b1-b950-fb8e2fd65643)
+        - (4) any additional information you want to include on the page (currently will appear under the stories)
+
+            - __answer: tbd__
+        - (5) go-live date for the project page
+
+            - __answer: tbd. Some art may be ready by the end of the week.__
+        - (6) story content itself, with each story having: (a) title, (b) author, (c) text + images, (d) 1 sentence teaser, (e) go-live date for that story (if different than the project as a whole)
+
+we can iterate through layouts, etc. since there hasn't been a lot of feedback, i'm assuming right now that things more-or-less look good, which means that i can drop content in pretty quickly. ideally, we should probably have content ready ~1 week ahead of time (and least 2 - 4 days) so folks can look at it and decide tweaks.
+
+iirc, part of the idea was for these to go out in yak talk. in that case, we'll need to decide whether yak talk should link to the story on the site (in which case i don't need to do anything except get all concerned the links where stories will go), or if story cards should link to yak talk archive pages (in which case my guess is that the newsletter will need to go out first, and then i'll need to do a quick rebuild so that i'm using the right archive link)
+    - Typeface thoughts. 
+        - Still thinking about using typography from the pulp fiction zone. A couple of examples
+            - ![NPM 📚 📸 on Twitter | Pulp magazine, Chromatic, Font types](https://i.pinimg.com/originals/c2/f7/c0/c2f7c0d88752c91bec2d292fb42703b8.jpg)
+            - ![Pulp Fonts | Fontcraft: Scriptorium Fonts, Art and Design](https://www.fontcraft.com/images/startlingstoriesmf.jpg)
+            - Jenna: it could be fun to have 3-4 pairings available and let our authors choose the combo for their story. 
+        - https://fonts.google.com/specimen/Mouse+Memoirs?query=mouse
+        - https://fonts.google.com/specimen/Mouse+Memoirs?query=mouse#pairings
+            - ^^Bangers + Mouse Memoirs^^. A fun, ambitious choice. make body larger than in the Google Font demo.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FBJ0s1MGDin.png?alt=media&token=b3d3c286-373b-4511-9ac1-654b9c4433c9)
+                - ^^Mouse Memoirs + Roboto^^. A clearly nice choice and combo
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FIg53Valxqk.png?alt=media&token=bb42996e-c996-4065-ac25-04c24a2644c9)
+    - 
+    - 

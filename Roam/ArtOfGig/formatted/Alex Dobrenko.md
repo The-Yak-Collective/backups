@@ -4,6 +4,11 @@
 - [website](alexdobrenko.com) 
 
 # Backlinks
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- [Alex Dobrenko](<Alex Dobrenko.md>)
+
 ## [Directory](<Directory.md>)
 - [Alex Dobrenko](<Alex Dobrenko.md>)
 
@@ -25,9 +30,6 @@
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>) [Vlad Mehakovic](<Vlad Mehakovic.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Alex Dobrenko](<Alex Dobrenko.md>)
-
-## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
-- [Alex Dobrenko](<Alex Dobrenko.md>)
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Alex Dobrenko](<Alex Dobrenko.md>)

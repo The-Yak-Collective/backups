@@ -57,6 +57,17 @@
 
 - May 4 , [More is Different](http://robotics.cs.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf) hosted by [Sachin Benny](<Sachin Benny.md>)
 
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- **Leads:** [Sachin Benny](<Sachin Benny.md>)
+
+- [September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>)
+
+- [ ] add that to the brief [Sachin Benny](<Sachin Benny.md>)
+
+- [ ] add that to the brief [Sachin Benny](<Sachin Benny.md>)
+
 ## [Chat Formats](<Chat Formats.md>)
 - "Closing tabs with So-and-so": [Sachin Benny](<Sachin Benny.md>)
 
@@ -77,6 +88,9 @@
 
 ## [Reflections and Reviews ](<Reflections and Reviews .md>)
 - [Sachin Benny](<Sachin Benny.md>)'
+
+## [September 14th, 2020](<September 14th, 2020.md>)
+- "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>)
 
 ## [Six Uneasy Pieces](<Six Uneasy Pieces.md>)
 - [Sachin Benny](<Sachin Benny.md>)
@@ -117,7 +131,7 @@ https://artplusmarketing.com/avoiding-anchoring-effect-in-marketing-f48802f6b978
 - In attendance: [Chris Reid](<Chris Reid.md>), [Drew Schorno](<Drew Schorno.md>), Grigori Milov, [Jordan Peacock](<Jordan Peacock.md>), [John Grant](<John Grant.md>), [Sachin Benny](<Sachin Benny.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
-- [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>) - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>)
+...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>)
 
 - [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) [Sachin Benny](<Sachin Benny.md>)
 
@@ -127,9 +141,6 @@ https://artplusmarketing.com/avoiding-anchoring-effect-in-marketing-f48802f6b978
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>) [Vlad Mehakovic](<Vlad Mehakovic.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Alex Dobrenko](<Alex Dobrenko.md>) [Sachin Benny](<Sachin Benny.md>)
 
 - [Amanda Reeves](<Amanda Reeves.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Benton Heimsath](<Benton Heimsath.md>) [Chris Clark](<Chris Clark.md>) [David McDougall](<David McDougall.md>) [Drew Shiel](<Drew Shiel.md>) [Jordan Peacock](<Jordan Peacock.md>) [Kannen Ramsamy](<Kannen Ramsamy.md>) [Michael Colin](<Michael Colin.md>) [Ryan Hume](<Ryan Hume.md>) [Sachin Benny](<Sachin Benny.md>)
-
-## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
-- **Leads:** [Sachin Benny](<Sachin Benny.md>)
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Tom Critchlow](<Tom Critchlow.md>) <> [Sachin Benny](<Sachin Benny.md>)

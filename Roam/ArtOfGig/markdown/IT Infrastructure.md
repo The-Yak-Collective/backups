@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
+last updated:: [[September 14th, 2020]] by [[Nathan Acks]]
 # Assets
     ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + mapping work done by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
         - See the [Roam diagram documentation](https://roamresearch.com/#/app/help/page/OB_uynVDM) to learn how to work with native diagrams.
@@ -18,9 +18,9 @@ last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
             - owner:: [[Paul Millerd]]
         - Google Analytics
             - owner:: [[Tom Critchlow]]
-        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
-            - owner:: [[Venkatesh Rao]]
-            - After signing up here, folks are taken to a page with a [[Discord]] invite link
+        - "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
+            - "owner:: [[Venkatesh Rao]]"
+            - Part of the [[Yak Collective Robot]] account
         - [[Carl]] `calendar_yak` Bot
             - "owner:: [[Jordan Peacock]]"
         - [[Carl]] `yakyak` Bot

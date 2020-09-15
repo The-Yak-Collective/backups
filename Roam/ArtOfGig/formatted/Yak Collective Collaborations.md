@@ -3,7 +3,8 @@
     - [The New Old Home](<The New Old Home.md>) - led by  [Pamela Hobart](<Pamela Hobart.md>) and [Drew Schorno](<Drew Schorno.md>)
 - **July-August 2020 Proposal Pages**
     - Starting with this cycle, we are introducing a formal [Project Referee Role](<Project Referee Role.md>)
-    - [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>) - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>). Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) and [Post-COVID scenario set](<Post-COVID scenario set.md>)
+    - [[Astonishing Stories
+...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>). Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) and [Post-COVID scenario set](<Post-COVID scenario set.md>)
         - [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) [Sachin Benny](<Sachin Benny.md>)
             - 2-3 people per speculative fiction piece
             - in collaboration with

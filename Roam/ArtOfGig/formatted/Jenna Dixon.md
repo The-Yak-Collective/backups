@@ -17,6 +17,11 @@
 ## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
 - [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- [September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [August 14th, 2020](<August 14th, 2020.md>)
 - 10:17 created [Roam Help](<Roam Help.md>) || [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -47,6 +52,9 @@
 
 ## [Roam Production Kanban](<Roam Production Kanban.md>)
 - created [August 5th, 2020](<August 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+## [September 14th, 2020](<September 14th, 2020.md>)
+- "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)"
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jenna Dixon](<Jenna Dixon.md>)

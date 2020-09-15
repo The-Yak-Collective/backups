@@ -28,7 +28,8 @@
 [Siva Swaroop](<Siva Swaroop.md>) lead
         - [Yaks do innovation consulting](<Yaks do innovation consulting.md>) cell
 [Vaughn Tan](<Vaughn Tan.md>) lead
-        - [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>) cell
+        - [[Astonishing Stories
+...of what’s next]] cell
 [Amanda Reeves](<Amanda Reeves.md>) lead
         - [infrastructure](<infrastructure.md>) cell 
 [Darren Kong](<Darren Kong.md>) lead

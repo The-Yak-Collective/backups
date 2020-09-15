@@ -1,4 +1,5 @@
 - [[Astonishing-Stories Graph]]
 - [[Astonishing Stories -  Meeting notes]]
-- [[YakWorld: Astonishing Stories of What's Next]]
+- [[Astonishing Stories
+...of what’s next]]
 - 

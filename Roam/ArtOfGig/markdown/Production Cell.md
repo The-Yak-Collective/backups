@@ -1,11 +1,12 @@
-- About:: __A place to build a group of yaks to contribute to producing Collaborative work outputs.__
+- About:: __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
 - Chief Page Wrangler:: [[Jenna Dixon]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
 - Last Updated:: [[September 8th, 2020]]
 - Last Updated By:: [[Jenna Dixon]]
 -  
 - Invited::
-    - [[YakWorld: Astonishing Stories of What's Next]]
+    - [[Astonishing Stories
+...of what’s next]]
         - [[Amanda Reeves]]
         - [[Sachin Benny]]
     - [[Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans]] 

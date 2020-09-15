@@ -1,11 +1,12 @@
-- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Collaborative work outputs.__
+- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 -  
 - **[Invited](<Invited.md>):**
-    - [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
+    - [[Astonishing Stories
+...of what’s next]]
         - [Amanda Reeves](<Amanda Reeves.md>)
         - [Sachin Benny](<Sachin Benny.md>)
     - [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) 

@@ -28,7 +28,8 @@
 [[Siva Swaroop]] lead
         - [[Yaks do innovation consulting]] cell
 [[Vaughn Tan]] lead
-        - [[YakWorld: Astonishing Stories of What's Next]] cell
+        - [[Astonishing Stories
+...of what’s next]] cell
 [[Amanda Reeves]] lead
         - [[infrastructure]] cell 
 [[Darren Kong]] lead

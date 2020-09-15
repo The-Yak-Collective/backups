@@ -8,6 +8,8 @@
 ## [Astonishing Stories](<Astonishing Stories.md>)
 - [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 
-## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
 - [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 
