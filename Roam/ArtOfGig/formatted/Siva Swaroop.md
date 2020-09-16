@@ -32,8 +32,6 @@
 
 - [Contents](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8dc164a1ac_0_87) page 2pp [Siva Swaroop](<Siva Swaroop.md>)
 
-- [Editorial Comments](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_184) 5pp | [Siva Swaroop](<Siva Swaroop.md>)
-
 - [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page [Siva Swaroop](<Siva Swaroop.md>)
 
 - [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | section intro [Siva Swaroop](<Siva Swaroop.md>)
@@ -45,6 +43,8 @@
 - [Skills and Jobs with Space Growth](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_12_0) | [Siva Swaroop](<Siva Swaroop.md>)
 
 - [Satellites by and for each village](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_45_0) | [Siva Swaroop](<Siva Swaroop.md>)
+
+- [Editorial Comments](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_184) 5pp | [Siva Swaroop](<Siva Swaroop.md>)
 
 ## [Production Cell](<Production Cell.md>)
 - [Siva Swaroop](<Siva Swaroop.md>)

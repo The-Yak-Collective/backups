@@ -1,5 +1,13 @@
 
 # Backlinks
+## [IT Infrastructure](<IT Infrastructure.md>)
+- **["owner](<"owner.md>):** [Matthew Sweet](<Matthew Sweet.md>)"
+
+## [Substack](<Substack.md>)
+owner:: [Matthew Sweet](<Matthew Sweet.md>)
+
+- [Matthew Sweet](<Matthew Sweet.md>)
+
 ## [Yak Talk Minutes – 07112020](<Yak Talk Minutes – 07112020.md>)
 - Reading: [Matthew Sweet](<Matthew Sweet.md>)'
 

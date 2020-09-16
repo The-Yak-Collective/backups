@@ -10937,14 +10937,14 @@
     "children": [
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1598748483665,
-        "string": "owner:: [[Alex Wagner]]",
+        "edit-time": 1600228010060,
+        "string": "owner:: [[Matthew Sweet]]",
         "uid": "KMEmeiny8"
       },
       {
         "edit-email": "roam@delphi-strategy.com",
-        "edit-time": 1600014563863,
-        "string": "last updated:: [[August 30th, 2020]] by [[Nathan Acks]]",
+        "edit-time": 1600228019234,
+        "string": "last updated:: [[September 14th, 2020]] by [[Nathan Acks]]",
         "uid": "eQL_Ivmjy"
       },
       {
@@ -10975,6 +10975,14 @@
             "edit-time": 1598808976979,
             "string": "[[Alex Wagner]]",
             "uid": "oassWYJ_p"
+          },
+          {
+            "create-email": "roam@delphi-strategy.com",
+            "create-time": 1600227997853,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1600228003924,
+            "string": "[[Matthew Sweet]]",
+            "uid": "SLEuyQe7U"
           }
         ],
         "create-email": "roam@delphi-strategy.com",
@@ -41770,10 +41778,18 @@
               {
                 "create-email": "alex.wagner5@gmail.com",
                 "create-time": 1589659081923,
-                "edit-email": "alex.wagner5@gmail.com",
-                "edit-time": 1589659096127,
-                "string": "[First Client Meeting: What Should You Do?]()",
+                "edit-email": "carlos@cg.consulting",
+                "edit-time": 1600207644773,
+                "string": "[First Client Meeting: What Should You Do?](https://www.youtube.com/watch?v=ot8GVe3m5w0)",
                 "uid": "6iza02NzS"
+              },
+              {
+                "create-email": "carlos@cg.consulting",
+                "create-time": 1600207644761,
+                "edit-email": "carlos@cg.consulting",
+                "edit-time": 1600207644761,
+                "string": "",
+                "uid": "oQfMmp0KD"
               }
             ],
             "create-email": "alex.wagner5@gmail.com",
@@ -86021,14 +86037,6 @@
                       },
                       {
                         "create-email": "j@djinna.com",
-                        "create-time": 1597686114475,
-                        "edit-email": "j@djinna.com",
-                        "edit-time": 1597687243644,
-                        "string": "[Editorial Comments](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g86ae70180b_36_184) 5pp | [[Siva Swaroop]]",
-                        "uid": "ylpOWz6TV"
-                      },
-                      {
-                        "create-email": "j@djinna.com",
                         "create-time": 1597686156929,
                         "edit-email": "j@djinna.com",
                         "edit-time": 1597687232382,
@@ -86216,6 +86224,14 @@
                         "edit-time": 1597686618692,
                         "string": "[Overview Effect - Democratize](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8cac20a276_19_0) | [[Ryan Hogan]]",
                         "uid": "R68qkYA_q"
+                      },
+                      {
+                        "create-email": "j@djinna.com",
+                        "create-time": 1597686114475,
+                        "edit-email": "j@djinna.com",
+                        "edit-time": 1597687243644,
+                        "string": "[Editorial Comments](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g86ae70180b_36_184) 5pp | [[Siva Swaroop]]",
+                        "uid": "ylpOWz6TV"
                       }
                     ],
                     "edit-email": "j@djinna.com",
@@ -97104,5 +97120,10 @@
     "create-time": 1600130899582,
     "edit-time": 1600130899585,
     "title": "May 23th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1600247731795,
+    "title": "September 16th, 2020"
   }
 ]

@@ -60,9 +60,6 @@
 ## [Governance Tests](<Governance Tests.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
-## [IT Infrastructure](<IT Infrastructure.md>)
-- **["owner](<"owner.md>):** [Alex Wagner](<Alex Wagner.md>)"
-
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
@@ -93,8 +90,6 @@
 - Interested to learn more about this and see where I can contribute. - [Alex Wagner](<Alex Wagner.md>)
 
 ## [Substack](<Substack.md>)
-owner:: [Alex Wagner](<Alex Wagner.md>)
-
 - [Alex Wagner](<Alex Wagner.md>)
 
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)

@@ -74,7 +74,7 @@ last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks
             - [Venkatesh Rao](<Venkatesh Rao.md>): https://breakingsmart.substack.com/feed/
             - [Vinay Débrou](<Vinay Débrou.md>): https://vinaydebrou.com/feed.xml
         - [Substack](<Substack.md>)
-            - **["owner](<"owner.md>):** [Alex Wagner](<Alex Wagner.md>)"
+            - **["owner](<"owner.md>):** [Matthew Sweet](<Matthew Sweet.md>)"
             - RSS feed: https://yakcollective.substack.com/feed/
         - [Twitter](<Twitter.md>)
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"

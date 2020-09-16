@@ -1,9 +1,10 @@
-owner:: [Alex Wagner](<Alex Wagner.md>)
-last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+owner:: [Matthew Sweet](<Matthew Sweet.md>)
+last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - [Yak Talk](<Yak Talk.md>) newsletter
 # Access ^^(Shared Login!)^^
     - [Alex Wagner](<Alex Wagner.md>)
+    - [Matthew Sweet](<Matthew Sweet.md>)
 
 # Backlinks
 ## [IT Infrastructure](<IT Infrastructure.md>)

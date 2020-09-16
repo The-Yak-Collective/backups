@@ -129,7 +129,7 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nat
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Substack](<Substack.md>)
-last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Things We Need](<Things We Need.md>)
 - ~~v2.0~~ [Nathan Acks](<Nathan Acks.md>)
