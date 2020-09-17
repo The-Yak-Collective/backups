@@ -53,6 +53,9 @@ last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nat
 - **[Twitter](<Twitter.md>):** [TomLisankie](https://twitter.com/TomLisankie)
 - **[Yak Collective Website](<Yak Collective Website.md>):**
 
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- [Yak Collective Website](<Yak Collective Website.md>)
+
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - [GitHub](<GitHub.md>) (fail-safe admin account, owns the OAuth connector used by Netlify CMS on the [Yak Collective Website](<Yak Collective Website.md>))
 

@@ -102,3 +102,10 @@
                     - [Grigori Milov](<Grigori Milov.md>)We want to have a brand (which has strong elements of predictability, reliability, high-quality to it), don't we? This is something proto-consultants or new consultants don't usually have. 
                         - [Alex Wagner](<Alex Wagner.md>)
                             - Is it a worthwhile project to show new consultants how to build a consulting brand?
+
+# Backlinks
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
+
+- [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
+

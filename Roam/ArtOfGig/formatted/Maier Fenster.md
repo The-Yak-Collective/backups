@@ -39,6 +39,11 @@ owner:: [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- [Hugo Macedo](<Hugo Macedo.md>) volunteered - initial conversation with [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Maier Fenster](<Maier Fenster.md>)
 

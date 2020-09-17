@@ -99,6 +99,11 @@
 
 - [Grigori Milov](<Grigori Milov.md>):
 
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
 ## [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

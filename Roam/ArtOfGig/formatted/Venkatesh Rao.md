@@ -337,6 +337,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- from discord announcements channel by [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 

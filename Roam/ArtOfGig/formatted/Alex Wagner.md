@@ -119,6 +119,11 @@ was working with this client to think about how they might productize senior web
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
 - __Still in progress. -__ [Alex Wagner](<Alex Wagner.md>)
 
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- "[Alex Wagner](<Alex Wagner.md>)T
+
+- "[Alex Wagner](<Alex Wagner.md>)
+
 ## [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 

@@ -13,3 +13,13 @@
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [September 16th, 2020](<September 16th, 2020.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- Initial random notes from [Hugo Macedo](<Hugo Macedo.md>)
+
