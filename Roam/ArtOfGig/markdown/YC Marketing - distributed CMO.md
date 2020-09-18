@@ -5,12 +5,12 @@ __Area 2: Developing a proper marketing capability around our assets and members
     - [[Hugo Macedo]] volunteered - initial conversation with [[Maier Fenster]]
     - [[Matthew Sweet]] that is running the Newsletter wants to be involved
     - [[Grigori Milov]] also volunteered to join
+    - [[Venkatesh Rao]] is interested in creating a “Hire Us” brochure page for the website and trying a short fishing expedition with it in October/November  
     - previous discussions
         - [[Yak Branding Principles Proposal]]
             - {{embed: ((d99rmaMjn))}}
             - {{embed: ((3Tsd4wWqP))}}
             - "YC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__"
-        - 
         - "[[Alex Wagner]]The hard work of positioning YC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides."
         - "[[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to branding and positioning."
         - 
