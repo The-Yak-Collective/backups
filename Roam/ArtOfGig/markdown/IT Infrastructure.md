@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 14th, 2020]] by [[Nathan Acks]]
+last updated:: [[September 19th, 2020]] by [[Nathan Acks]]
 # Assets
     ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + mapping work done by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
         - See the [Roam diagram documentation](https://roamresearch.com/#/app/help/page/OB_uynVDM) to learn how to work with native diagrams.
@@ -12,15 +12,15 @@ last updated:: [[September 14th, 2020]] by [[Nathan Acks]]
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
             - "owner:: [[Venkatesh Rao]]"
             - Part of the [[Yak Collective Robot]] account
+        - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
+            - "owner:: [[Venkatesh Rao]]"
+            - Part of the [[Yak Collective Robot]] account
         - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck
             - owner:: [[Drew Schorno]]
         - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
             - owner:: [[Paul Millerd]]
         - Google Analytics
             - owner:: [[Tom Critchlow]]
-        - "[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
-            - "owner:: [[Venkatesh Rao]]"
-            - Part of the [[Yak Collective Robot]] account
         - [[Carl]] `calendar_yak` Bot
             - "owner:: [[Jordan Peacock]]"
         - [[Carl]] `yakyak` Bot

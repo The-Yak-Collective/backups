@@ -11,9 +11,6 @@
 
 - [ ] add that to the brief [Sachin Benny](<Sachin Benny.md>) [September 14th, 2020](<September 14th, 2020.md>)
 
-## [IT Infrastructure](<IT Infrastructure.md>)
-last updated:: [September 14th, 2020](<September 14th, 2020.md>)
-
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>)
 

@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
+last updated:: [[September 19th, 2020]] by [[Nathan Acks]]
 # Purpose
     - The `yakcollective.org@gmail.com` Google account.
     - "Owns" a set of core services, as well as inter-app connections and automations that run on these services.
@@ -14,7 +14,7 @@ last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
             - "owner:: [[Nathan Acks]]"
         - [[Netlify]]
             - "owner:: [[Nathan Acks]]"
-        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
+        - [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
             - owner:: [[Venkatesh Rao]]
             - Sign up form; wrapped by https://www.yakcollective.org/join/
             - After signing up here, folks are taken to a page with a [[Discord]] invite link

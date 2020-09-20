@@ -76,7 +76,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 19th, 2020](<September 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
 
@@ -128,6 +128,11 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nat
 
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [September 19th, 2020](<September 19th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [Substack](<Substack.md>)
 last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
@@ -166,7 +171,7 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nat
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 19th, 2020](<September 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 

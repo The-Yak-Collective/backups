@@ -68,6 +68,9 @@ And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise
 https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
     - Underutilized fixed assets created market places 
         - https://kwokchain.com/2020/01/23/underutilized-fixed-assets/
+    - Netflix Culture Deck. Short version is here.
+https://jobs.netflix.com/culture
+https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
 - [Governance Tests](<Governance Tests.md>)
 - 
 - ## [Governance Meetings Minutes](<Governance Meetings Minutes.md>)
