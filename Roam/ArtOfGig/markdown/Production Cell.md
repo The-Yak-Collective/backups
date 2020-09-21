@@ -1,7 +1,7 @@
 - About:: __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
 - Chief Page Wrangler:: [[Jenna Dixon]]
-    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
-- Last Updated:: [[September 8th, 2020]]
+    - Additional Page Wranglers:: [[Suwaythan Nahaganeshan]] | [[Fname Lname]] 
+- Last Updated:: [[September 20th, 2020]]
 - Last Updated By:: [[Jenna Dixon]]
 -  
 - Invited::
@@ -51,7 +51,7 @@ More formal than reader or sparring partner.__
         - __Work with [[Yak Collective Website]] to add projects to the website. 
 Native, Webflow, Carrd, Google Slides....__
         - Add your name here if interested in this role::
-            - [[Firstname Lastname]]
+            - [[Suwaythan Nahaganeshan]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Grigori Milov]]
@@ -90,15 +90,9 @@ Eg restaurant menu proofreader, back when that was a thing.__
 - 
 - # Alternate workflow models
 - __aka Mermaid play__
-    - cf https://twitter.com/Conaw/status/1281421725121404928/photo/1
-- 
-- https://twitter.com/Conaw/status/1281423537090162690/photo/1
-    - 
 - {{mermaid}}
     - graph LR
         - final_draft-->dev_edit-->author_review1-->copyedit-->author_review1-->design-->layout1-->author_review2-->design-->proofread-->author_review3-->layout2-->publish
-- 
-- 
 - {{mermaid}}
     - graph TD
         - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish

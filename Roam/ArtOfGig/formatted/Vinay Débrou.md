@@ -30,7 +30,7 @@
 ## [Directory](<Directory.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 9 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), hosted by [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
@@ -82,6 +82,9 @@
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
+
+## [infrastructure](<infrastructure.md>)
+- [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [infrastructure chat 03 5.23.2020](<infrastructure chat 03 5.23.2020.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)

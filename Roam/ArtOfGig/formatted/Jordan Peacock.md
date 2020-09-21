@@ -71,7 +71,7 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
 - [Jordan Peacock](<Jordan Peacock.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 10 PM - 10:30 PM Central Time(14h00-14h30 UTC), hosted by [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Governance Tests](<Governance Tests.md>)
@@ -159,6 +159,8 @@ https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/[comment-271146](<comm
 
 ## [infrastructure](<infrastructure.md>)
 - [infrastructure chat 08 6.27.20](<infrastructure chat 08 6.27.20.md>) marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [Jordan Peacock](<Jordan Peacock.md>)
+
+- [ ] receive reply from [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [infrastructure chat 03 5.23.2020](<infrastructure chat 03 5.23.2020.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)

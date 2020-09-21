@@ -9,6 +9,3 @@
 ## [Directory](<Directory.md>)
 - **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
 
-## [Production Cell](<Production Cell.md>)
-- **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
-

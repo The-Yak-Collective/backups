@@ -23,3 +23,6 @@
 ## [Mansion Statement](<Mansion Statement.md>)
 - The purpose of the [Yak Collective](<Yak Collective.md>)
 
+## [Start Here](<Start Here.md>)
+- Welcome to the [Yak Collective](<Yak Collective.md>)
+

@@ -51,7 +51,7 @@
 ## [Directory](<Directory.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 8:30 PM - 9:00PM US Central Time, hosted by [Scott Garlinger](<Scott Garlinger.md>).
 
 ## [Summary: 26th May Brainstorm](<Summary: 26th May Brainstorm.md>)

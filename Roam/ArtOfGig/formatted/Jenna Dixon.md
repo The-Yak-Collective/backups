@@ -56,9 +56,17 @@
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)"
 
+## [September 20th, 2020](<September 20th, 2020.md>)
+- Production call 14:45 [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Network Map](<Yak Network Map.md>)
 - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+
+## [infrastructure](<infrastructure.md>)
+- [x] Knack: is it time? [Jenna Dixon](<Jenna Dixon.md>):
 

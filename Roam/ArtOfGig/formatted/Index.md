@@ -1,12 +1,12 @@
 - **[Goal](<Goal.md>):**
     - The goal of this index page is to have a central place to link all root pages while we figure out a better organization scheme. 
 - **[Suggest](<Suggest.md>):** 
-    - Check out the [Welcome](<Welcome.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>) page. 
+    - Check out the [Start Here](<Start Here.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>) page. 
     - 👈 The Shortcuts left sidebar has links to top-level pages.
 - **[Need ideas for what to do?](<Need ideas for what to do?.md>):**
     - Check out the [Weekly Prompts](<Weekly Prompts.md>) page
 - **[Want to chat with people about this database and other things?](<Want to chat with people about this database and other things?.md>):**
-    - Check out the [Yak Discord server](<Yak Discord server.md>) and [Discord Chat Schedule](<Discord Chat Schedule.md>)
+    - Check out the [Yak Discord server](<Yak Discord server.md>) and [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - **[Need a gig? Have a gig to offer?](<Need a gig? Have a gig to offer?.md>):**
     - Check out the [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>) page. There is also a channel for trading gigs on the discord server.
 - **[Directory](<Directory.md>):** 
@@ -48,8 +48,8 @@
 
 # Backlinks
 ## [Index](<Index.md>)
-- Check out the [Welcome](<Welcome.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>)
+- Check out the [Start Here](<Start Here.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>)
 
-## [Welcome](<Welcome.md>)
+## [Start Here](<Start Here.md>)
 - Now check out the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then go to the [Index](<Index.md>)
 

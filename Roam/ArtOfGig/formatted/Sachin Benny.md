@@ -74,7 +74,7 @@
 ## [Directory](<Directory.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 4:00PM - 4:30PM (21h00-21h30 UTC) US Central Time, hosted by [Sachin Benny](<Sachin Benny.md>)
 
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)

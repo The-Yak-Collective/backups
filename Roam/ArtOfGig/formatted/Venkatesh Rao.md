@@ -140,10 +140,10 @@
 ## [Discord](<Discord.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
-- Hosts: please tweet a reminder no more than 30 minutes before the chat and tag @yak_collective. Also share your own twitter handle at the end of chats so people can follow you and get alerted. Include a bit of detail about the theme. For standing weekly chat sessions, please contact [Venkatesh Rao](<Venkatesh Rao.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
+- You can request permission from [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- Here is the shared [Google Calender link](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). You can request permission from [Venkatesh Rao](<Venkatesh Rao.md>)
+- Hosts: please tweet a reminder no more than 30 minutes before the chat and tag @yak_collective. Also share your own twitter handle at the end of chats so people can follow you and get alerted. Include a bit of detail about the theme. For standing weekly chat sessions, please contact [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - 9:00 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), Governance Chat hosted by [Venkatesh Rao](<Venkatesh Rao.md>).
 

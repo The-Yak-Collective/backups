@@ -1,3 +1,4 @@
+- 
 - __Directory Listing for Things Discussed in Yak #infrastructure Discord channel__
 - ## Lists/Docs
     - [[Project Launch Checklist]]
@@ -196,8 +197,81 @@
             - Define set of specs - to do a roam page, here there are 3 fields. 
                 - Use Knack? 
         - 3. CMO role
-- 
-- 
+- ### infrastructure chat 9.20.2020 [[September 20th, 2020]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FA7_7gZSq2J.png?alt=media&token=91c594a8-94c9-401d-8466-0c3b0ec1c019)
+    - Discordpy
+        - Testing for activity ``````
+        - User/project Heartbeat 
+            - User availability ping on Discord
+        - Project heartbeat
+            - Discord
+            - Roam
+            - Github
+        - Semantic emoji -> message
+    - marketing
+        - spoke with Maier
+        - chatted with Grigori
+        - early days 
+        - expectations for marketing
+        - What's important right now?
+            - Projects haven't had much marketing
+                - Mostly relying on Twitter and social capital of Venkat and other members 
+                - 1. Astonishing Stories and 2. Innovation Consulting both need marketing support 
+                - Defining project audience for each project 
+                    - define audience at project start rather than at end 
+            - Internal marketing 
+                - engaging users more 
+                    - making opportunities/activity visible.. where can people plug in? 
+                    - get the /now page going
+                    - onboarding
+                        - new Yak chat is good for meeting and getting to know each other
+                        - Venkat's chat otherwise is the only one that has threshold of attendance. 
+                        - chats are easy to join vs project works 
+                    - reactivation is key. we already have a lot of community members
+                    - gap with community members that don't have as strong of a self-starting lean
+            - External marketing 
+                - potential customers
+            - Newsletter
+                - shift to more internal focus? 
+                - communicate project activity more ? 
+    - roam js+templates [[Roam template PoC by @ViktorTabori]]
+        - can turn on/off js [[roam/js]]
+        - populates the template :header:   [[template/header]]
+        - have some template for Roam page 
+            - write up quick start guide for Roam ?
+            - could use [*](((B6fmZASx5))) {{[[r/moved]]}} to trigger a reminder to refresh
+        - have metadata and context so pages don't go stale
+            - allows for Roam cell:  Roam wrangling/librarian/archivist role
+    - Roam
+        - could potentially use daily notes for harvesting activity ? 
+        - Sidebar - shortcuts - keep updated
+        - Directory is deprecated
+        - there's a lot of quiescent pages
+            - last modified info - view for control ? 
+            - pull everything out of sidebar that's inactive 
+            - identify the single wringable neck for each page - associated with cell? 
+        - Index/welcome page for the Roam - useful structure
+    - Project mgt as independent role »»  [[Production Cell]]
+    - project activity measurement, etc.
+    - Nathan has more availability post-November
+    - Onboarding continue to be a painpoint
+        - go through discord channels - and add links to Discord topics 
+    - **Action Items:**
+        - {{[[TODO]]}} Everyone (+Paul)- Clean up Roam 
+            - Review changes next week 
+        - {{[[TODO]]}} Darren - Add roam links to each discord channel 
+        - {{[[TODO]]}} Nathan - Pass at Now page 
+        - {{[[TODO]]}} Hugo - assess and consider marketing plan
+        - {{[[TODO]]}} Darren - experiment w Discord analytics 
+            - {{[[TODO]]}} messages sent per channel/week 
+            - {{[[TODO]]}} webhook to YC website? 
+        - {{[[TODO]]}} Nathan - @Bardia works at Roam, interested in knowing about Astonishing Stories/Yak experience with roam 
+    - member database:
+        - {{[[DONE]]}} Knack: is it time? [[Jenna Dixon]]: check with Jordan (payment) (dm'd on Discord)
+            - {{[[TODO]]}} receive reply from [[Jordan Peacock]]
+        - {{[[DONE]]}} yak map: is it time? [[Darren Kong]]check with Vinay (data schema)
+            - {{[[TODO]]}} receive reply from [[Vinay Débrou]]
+    - 
 - 
 - 
 - 

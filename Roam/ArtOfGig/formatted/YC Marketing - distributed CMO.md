@@ -1,3 +1,9 @@
+- **[About](<About.md>):** YC Marketing capability
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+-  
 - # Background
     - request for help on establishing a YC Marketing function 
         - from discord announcements channel by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -30,12 +36,15 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - channels & tools
         - recurring calls
 - # Workstreams
-    - **Positioning**
+    - **Foundations - Positioning**
 all foundational topics related to value proposition, benefits, barriers, target personas, brand
+    - **Showcase Projects Launch** 
+how do we launch showcase projects to maximize target visibility and engagement
     - **Channels**
 where and how do we communicate and engage with the target audience
     - **Resources**
-artifacts that we need or have that will be the base of our communication - what and how to build them
+artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") 
+    - 
 - ### Random Notes
     - to be edit/comment/upgraded to the main doc
     - Initial random notes from [Hugo Macedo](<Hugo Macedo.md>)
@@ -128,7 +137,7 @@ Yaks competing for attention
                     - Reddit style?
                     - Board of curators doesn't look like a fit
                     - A Mix to encourage new writers? like Medium does?
-            - 
+                - YC Netflix - a bundle of Yak's content, each Yak is a producer
             - 
         - Marketing Operations Capabilities
             - Copywriting

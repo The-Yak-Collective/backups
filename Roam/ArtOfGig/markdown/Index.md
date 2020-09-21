@@ -1,12 +1,12 @@
 - Goal::
     - The goal of this index page is to have a central place to link all root pages while we figure out a better organization scheme. 
 - Suggest:: 
-    - Check out the [[Welcome]] page, then the [[Rules and Code of Conduct]] page, then get started here on this [[Index]] page. 
+    - Check out the [[Start Here]] page, then the [[Rules and Code of Conduct]] page, then get started here on this [[Index]] page. 
     - 👈 The Shortcuts left sidebar has links to top-level pages.
 - Need ideas for what to do?::
     - Check out the [[Weekly Prompts]] page
 - Want to chat with people about this database and other things?::
-    - Check out the [[Yak Discord server]] and [[Discord Chat Schedule]]
+    - Check out the [[Yak Discord server]] and [[Discord Chat Calendar]]
 - Need a gig? Have a gig to offer?::
     - Check out the [[Take a Gig, Leave a Gig]] page. There is also a channel for trading gigs on the discord server.
 - Directory:: 

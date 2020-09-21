@@ -1,7 +1,7 @@
 - __Some of this info is applicable to future "Join Us" page on Yak site.__
 - There is an [Art of Gig](<Art of Gig.md>) [Discord](<Discord.md>) server. Please respect the [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
 - Here is the Google Form to access the invite link: https://forms.gle/V81aePxEoTMXU1FN7
-- [Discord Chat Schedule](<Discord Chat Schedule.md>)
+- [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - [Office hours with YakShavers](<Office hours with YakShavers.md>)
 - [Discord](<Discord.md>) server admins -- known as YakShavers
     - [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -12,7 +12,7 @@
     - [Jordan Peacock](<Jordan Peacock.md>)
 
 # Backlinks
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - If you'd like to volunteer to host a weekly **VOICE chat session** on the [Yak Discord server](<Yak Discord server.md>),
 
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)

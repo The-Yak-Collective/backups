@@ -1,7 +1,7 @@
 - __Some of this info is applicable to future "Join Us" page on Yak site.__
 - There is an [[Art of Gig]] [[Discord]] server. Please respect the [[Yak Collective Discord Code of Conduct]]
 - Here is the Google Form to access the invite link: https://forms.gle/V81aePxEoTMXU1FN7
-- [[Discord Chat Schedule]]
+- [[Discord Chat Calendar]]
 - [[Office hours with YakShavers]]
 - [[Discord]] server admins -- known as YakShavers
     - [[Venkatesh Rao]]

@@ -46,7 +46,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 ## [Discord](<Discord.md>)
 - [Pamela Hobart](<Pamela Hobart.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 5pm - 5:30pm Eastern Time (21h00-21h30 UTC), hosted by [Pamela Hobart](<Pamela Hobart.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)

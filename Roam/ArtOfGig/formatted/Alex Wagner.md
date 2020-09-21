@@ -51,7 +51,7 @@
 ## [Directory](<Directory.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 12 PM - 12:30 PM Eastern Time (16h00-16h30 UTC), hosted by [Alex Wagner](<Alex Wagner.md>)
 
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
@@ -61,9 +61,6 @@
 - [Alex Wagner](<Alex Wagner.md>)
 
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
-- [Alex Wagner](<Alex Wagner.md>)
-
-## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
 ## [Pilot Workshop – Executive Sparring](<Pilot Workshop – Executive Sparring.md>)

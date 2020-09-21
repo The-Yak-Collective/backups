@@ -1,7 +1,7 @@
 - **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
-- **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 -  
 - **[Invited](<Invited.md>):**
@@ -51,7 +51,7 @@ More formal than reader or sparring partner.__
         - __Work with [Yak Collective Website](<Yak Collective Website.md>) to add projects to the website. 
 Native, Webflow, Carrd, Google Slides....__
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
-            - [Firstname Lastname](<Firstname Lastname.md>)
+            - [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Grigori Milov](<Grigori Milov.md>)
@@ -90,20 +90,17 @@ Eg restaurant menu proofreader, back when that was a thing.__
 - 
 - # Alternate workflow models
 - __aka Mermaid play__
-    - cf https://twitter.com/Conaw/status/1281421725121404928/photo/1
-- 
-- https://twitter.com/Conaw/status/1281423537090162690/photo/1
-    - 
 - {{mermaid}}
     - graph LR
         - final_draft-->dev_edit-->author_review1-->copyedit-->author_review1-->design-->layout1-->author_review2-->design-->proofread-->author_review3-->layout2-->publish
-- 
-- 
 - {{mermaid}}
     - graph TD
         - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish
 
 # Backlinks
+## [September 20th, 2020](<September 20th, 2020.md>)
+- [Jenna Dixon](<Jenna Dixon.md>) added [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) to [Production Cell](<Production Cell.md>)
+
 ## [September 8th, 2020](<September 8th, 2020.md>)
 - updated [Production Cell](<Production Cell.md>)
 
@@ -112,6 +109,9 @@ Eg restaurant menu proofreader, back when that was a thing.__
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Production Cell](<Production Cell.md>)
+
+## [infrastructure](<infrastructure.md>)
+- Project mgt as independent role »»  [Production Cell](<Production Cell.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - proofreading for typos » [Production Cell](<Production Cell.md>)

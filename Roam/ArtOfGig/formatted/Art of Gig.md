@@ -19,9 +19,6 @@
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - Free-agent consultant since 2011. [Writer](<Writer.md>) of [Art of Gig](<Art of Gig.md>)
 
-## [Welcome](<Welcome.md>)
-- Welcome to the [Art of Gig](<Art of Gig.md>)
-
 ## [Yak Discord server](<Yak Discord server.md>)
 - There is an [Art of Gig](<Art of Gig.md>)
 

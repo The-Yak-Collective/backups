@@ -5,7 +5,7 @@ When:
 - **Interested in hosting office hours on any specific topics?**
 Topic:
 When: 
-- Schedule to be published on [[Discord Chat Schedule]]
+- Schedule to be published on [[Discord Chat Calendar]]
 - Office hours with [[Venkatesh Rao]] available as follows
     - Tuesdays 4:00-5:30 PM (23h00 - 00h30 UTC), 15 min x 4, with 5 minute breaks in between. [Calendly link](https://calendly.com/ribbonfarm/yak-collective-office-hour-slot)
     - More -- TBD

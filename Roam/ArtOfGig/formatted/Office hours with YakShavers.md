@@ -5,14 +5,14 @@ When:
 - **Interested in hosting office hours on any specific topics?**
 Topic:
 When: 
-- Schedule to be published on [Discord Chat Schedule](<Discord Chat Schedule.md>)
+- Schedule to be published on [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>) available as follows
     - Tuesdays 4:00-5:30 PM (23h00 - 00h30 UTC), 15 min x 4, with 5 minute breaks in between. [Calendly link](https://calendly.com/ribbonfarm/yak-collective-office-hour-slot)
     - More -- TBD
 
 # Backlinks
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
-- Here is the shared [Google Calender link](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). You can request permission from [Venkatesh Rao](<Venkatesh Rao.md>) to modify it if you're hosting regular weekly events or [Office hours with YakShavers](<Office hours with YakShavers.md>).
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
+- You can request permission from [Venkatesh Rao](<Venkatesh Rao.md>) to modify it if you're hosting regular weekly events or [Office hours with YakShavers](<Office hours with YakShavers.md>).
 
 - [Office hours with YakShavers](<Office hours with YakShavers.md>)
 

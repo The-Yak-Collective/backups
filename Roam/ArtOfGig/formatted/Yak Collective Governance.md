@@ -105,7 +105,7 @@ https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
 ## [August 28th, 2020](<August 28th, 2020.md>)
 - [Yak Collective Governance](<Yak Collective Governance.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) focused particularly on [Yak Collective Governance](<Yak Collective Governance.md>)
 
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)

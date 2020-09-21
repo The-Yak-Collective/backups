@@ -1,3 +1,4 @@
+- could use  {{[∆](<∆.md>):1+2}}
 
 # Backlinks
 ## [Astonishing Stories

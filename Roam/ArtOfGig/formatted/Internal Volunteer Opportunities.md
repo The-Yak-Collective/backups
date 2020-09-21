@@ -15,7 +15,7 @@
     - Contribute to a [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 
 # Backlinks
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - Weekly volunteer task list pruning [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)

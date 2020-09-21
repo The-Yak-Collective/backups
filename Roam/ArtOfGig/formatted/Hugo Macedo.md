@@ -17,6 +17,10 @@
 - [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
 - [Hugo Macedo](<Hugo Macedo.md>)
 
 - [Hugo Macedo](<Hugo Macedo.md>)

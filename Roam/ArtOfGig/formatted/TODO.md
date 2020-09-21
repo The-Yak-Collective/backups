@@ -23,6 +23,27 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [infrastructure](<infrastructure.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [infrastructure chat 03 5.23.2020](<infrastructure chat 03 5.23.2020.md>)
 - {{[TODO](<TODO.md>)}
 
