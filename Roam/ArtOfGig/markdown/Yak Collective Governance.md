@@ -71,6 +71,7 @@ https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepap
     - Netflix Culture Deck. Short version is here.
 https://jobs.netflix.com/culture
 https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
+https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]

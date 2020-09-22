@@ -34,6 +34,9 @@
 ## [Summary: 26th May Brainstorm](<Summary: 26th May Brainstorm.md>)
 3. security/privacy model + an imagination of the computing stack could use some consideration. since we're talking a number of APIs, service integrations." [Darren Kong](<Darren Kong.md>)
 
+## [Venkatesh Rao](<Venkatesh Rao.md>)
+- [ ] State of the Union deck with [Darren Kong](<Darren Kong.md>)
+
 ## [Vinay Debrou: Work Ways](<Vinay Debrou: Work Ways.md>)
 - Also might leak data, allow one to be manipulated? How do we manage privacy ? Anonymize neural data ? Matching and seeing conflicts ? Maybe test exercises + neural data will be helpful. What were they actually thinking while playing the simulation game [Darren Kong](<Darren Kong.md>)
 

@@ -22,6 +22,13 @@
 ...of what’s next.md>)
 - [September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)
+
+- [ ] [Sachin Benny](<Sachin Benny.md>) will draft and push to [Jenna Dixon](<Jenna Dixon.md>)
+
+- suggestion from [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [August 14th, 2020](<August 14th, 2020.md>)
 - 10:17 created [Roam Help](<Roam Help.md>) || [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -60,6 +67,9 @@
 - Production call 14:45 [Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
+
+## [September 21st, 2020](<September 21st, 2020.md>)
+- [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jenna Dixon](<Jenna Dixon.md>)

@@ -30,6 +30,11 @@
 
 - __answer: [Amanda Reeves](<Amanda Reeves.md>)
 
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>)
+
+- [ ] proofreader volunteer: 🎉💥 [Amanda Reeves](<Amanda Reeves.md>)
+
 ## [Australia](<Australia.md>)
 - [Amanda Reeves](<Amanda Reeves.md>),
 
@@ -44,6 +49,9 @@
 
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>)
+
+## [September 21st, 2020](<September 21st, 2020.md>)
+- [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>)
 
 ## [Shreeda Segan: Death Ways](<Shreeda Segan: Death Ways.md>)
 - Comments from [Amanda Reeves](<Amanda Reeves.md>):

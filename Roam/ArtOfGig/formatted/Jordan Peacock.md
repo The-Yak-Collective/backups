@@ -55,6 +55,9 @@
 ## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)
 
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>) [Jordan Peacock](<Jordan Peacock.md>)
+
 ## [Carl](<Carl.md>)
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
@@ -105,6 +108,9 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
 - **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>) | [Jordan Peacock](<Jordan Peacock.md>)
+
+## [September 21st, 2020](<September 21st, 2020.md>)
+- [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>) [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
 - [Jordan Peacock](<Jordan Peacock.md>)

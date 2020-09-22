@@ -10,6 +10,9 @@
     - currently VP of Community/Crowd at unbabel.com 
 
 # Backlinks
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- [ ] suggest: connect with [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 

@@ -52,6 +52,12 @@
 [Jordan Peacock](<Jordan Peacock.md>) lead
 
 # Backlinks
+## [Grigori Milov](<Grigori Milov.md>)
+- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+
+## [Venkatesh Rao](<Venkatesh Rao.md>)
+- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+
 ## [infrastructure](<infrastructure.md>)
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 

@@ -1,7 +1,7 @@
 - **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>) 
-- **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
+- **[Last Updated](<Last Updated.md>):** [September 21th, 2020](<September 21th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 -  
 - **[Invited](<Invited.md>):**
@@ -70,7 +70,7 @@ Eg restaurant menu proofreader, back when that was a thing.__
         - __On their own production timeline. Can be original or found. If found, prefer CC.__
         - ### Original illustrations
             - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
-                - [Firstname Lastname](<Firstname Lastname.md>)
+                - [Justice](<Justice.md>) 💸
                 - [Firstname Lastname](<Firstname Lastname.md>)
                 - [Firstname Lastname](<Firstname Lastname.md>)
                 - [Firstname Lastname](<Firstname Lastname.md>)
@@ -98,8 +98,14 @@ Eg restaurant menu proofreader, back when that was a thing.__
         - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish
 
 # Backlinks
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- [Sachin Benny](<Sachin Benny.md>) will add folks to [Production Cell](<Production Cell.md>)
+
 ## [September 20th, 2020](<September 20th, 2020.md>)
 - [Jenna Dixon](<Jenna Dixon.md>) added [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) to [Production Cell](<Production Cell.md>)
+
+## [September 21st, 2020](<September 21st, 2020.md>)
+- added [Justice](<Justice.md>) to [Production Cell](<Production Cell.md>)
 
 ## [September 8th, 2020](<September 8th, 2020.md>)
 - updated [Production Cell](<Production Cell.md>)

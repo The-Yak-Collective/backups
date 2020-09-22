@@ -282,6 +282,9 @@
 ## [**infrastructure**](<**infrastructure**.md>)
 - [infrastructure](<infrastructure.md>)
 
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- [ ] propose: adding Newsletter link to website on the [infrastructure](<infrastructure.md>)
+
 ## [September 20th, 2020](<September 20th, 2020.md>)
 - [infrastructure](<infrastructure.md>)
 

@@ -1,7 +1,7 @@
 - About:: __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
 - Chief Page Wrangler:: [[Jenna Dixon]]
     - Additional Page Wranglers:: [[Suwaythan Nahaganeshan]] | [[Fname Lname]] 
-- Last Updated:: [[September 20th, 2020]]
+- Last Updated:: [[September 21th, 2020]]
 - Last Updated By:: [[Jenna Dixon]]
 -  
 - Invited::
@@ -70,7 +70,7 @@ Eg restaurant menu proofreader, back when that was a thing.__
         - __On their own production timeline. Can be original or found. If found, prefer CC.__
         - ### Original illustrations
             - Add your name here if interested in this role::
-                - [[Firstname Lastname]]
+                - [[Justice]] 💸
                 - [[Firstname Lastname]]
                 - [[Firstname Lastname]]
                 - [[Firstname Lastname]]

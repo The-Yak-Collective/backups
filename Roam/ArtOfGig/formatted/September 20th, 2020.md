@@ -9,9 +9,6 @@
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
 
-## [Production Cell](<Production Cell.md>)
-- **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
-
 ## [September 20th, 2020](<September 20th, 2020.md>)
 - "infrastructure chat 9.20.2020 [September 20th, 2020](<September 20th, 2020.md>)"
 

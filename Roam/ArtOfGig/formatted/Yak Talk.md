@@ -12,6 +12,9 @@
 - [Yak Talk Futurecasting – Working Notes](<Yak Talk Futurecasting – Working Notes.md>)
 
 # Backlinks
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- [Yak Talk](<Yak Talk.md>)
+
 ## [Directory](<Directory.md>)
 - [editor](<editor.md>) of [Yak Talk](<Yak Talk.md>)
 

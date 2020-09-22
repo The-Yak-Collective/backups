@@ -156,6 +156,12 @@ Yaks competing for attention
     - 
 
 # Backlinks
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- [ ] suggest: connect with [Hugo Macedo](<Hugo Macedo.md>) to connect story launches with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>) Started [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [Venkatesh Rao](<Venkatesh Rao.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

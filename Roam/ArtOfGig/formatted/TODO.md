@@ -9,6 +9,21 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -16,6 +31,13 @@
 - {{[TODO](<TODO.md>)}
 
 ## [United States](<United States.md>)
+- {{[TODO](<TODO.md>)}
+
+## [Venkatesh Rao](<Venkatesh Rao.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)

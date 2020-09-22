@@ -68,6 +68,17 @@
 
 - [ ] add that to the brief [Sachin Benny](<Sachin Benny.md>)
 
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>)
+
+- [Sachin Benny](<Sachin Benny.md>)
+
+- [ ] [Sachin Benny](<Sachin Benny.md>)
+
+- [ ] notes tk from [Sachin Benny](<Sachin Benny.md>)
+
+- [ ] [Sachin Benny](<Sachin Benny.md>)
+
 ## [Chat Formats](<Chat Formats.md>)
 - "Closing tabs with So-and-so": [Sachin Benny](<Sachin Benny.md>)
 
@@ -91,6 +102,9 @@
 
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>)
+
+## [September 21st, 2020](<September 21st, 2020.md>)
+- [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>)
 
 ## [Six Uneasy Pieces](<Six Uneasy Pieces.md>)
 - [Sachin Benny](<Sachin Benny.md>)

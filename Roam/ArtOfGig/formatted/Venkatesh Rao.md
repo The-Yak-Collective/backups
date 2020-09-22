@@ -1,6 +1,20 @@
 - Free-agent consultant since 2011. [Writer](<Writer.md>) of [Art of Gig](<Art of Gig.md>) newsletter, the [Ribbonfarm](<Ribbonfarm.md>) blog, and the [Breaking Smart](<Breaking Smart.md>) tech+futures commentary podcast newsletter. Often in the market for help with graphic and [Web Design](<Web Design.md>), [Data Analysis](<Data Analysis.md>), and simple web-app coding tasks.
 - You can contact me via [this form](https://www.ribbonfarm.com/contact/) if you don’t already have my email.
-- 
+- Stuff below is for tracking my own participation in Yak Collective, feel free to drop anything you like into my inbox below, as a bullet point, and DM me. I'll help if I can.
+- ** Scratch **
+    - Public Inbox (put anything you like under here)
+        - Sample item
+    - Links for me
+        - [Roam Production Kanban](<Roam Production Kanban.md>)
+        - [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+        - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+        - [Yak Collective Governance](<Yak Collective Governance.md>)
+        - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+    - Venkat's to do
+        - [ ] Something something new decentralized CFP
+        - [ ] Blog post on experiments so far
+        - [ ] State of the Union deck with [Darren Kong](<Darren Kong.md>)
+        - 
 
 # Backlinks
 ## [[infrastructure](<infrastructure.md>) chat 02 5.16.2020](<[infrastructure](<infrastructure.md>) chat 02 5.16.2020.md>)

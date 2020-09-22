@@ -9,6 +9,9 @@
 
 - [Paul Sas](<Paul Sas.md>)
 
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- Feedback from [Paul Sas](<Paul Sas.md>)
+
 ## [August 13th, 2020](<August 13th, 2020.md>)
 - [Forte Shelter Container Tour - overview](<Forte Shelter Container Tour - overview.md>) by [Paul Sas](<Paul Sas.md>)
 

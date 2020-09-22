@@ -1,0 +1,1 @@
+- dynamics of online groups and how they tend to implode

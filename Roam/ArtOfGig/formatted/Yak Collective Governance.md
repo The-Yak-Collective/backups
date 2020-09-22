@@ -71,6 +71,7 @@ https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepap
     - Netflix Culture Deck. Short version is here.
 https://jobs.netflix.com/culture
 https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
+https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
 - [Governance Tests](<Governance Tests.md>)
 - 
 - ## [Governance Meetings Minutes](<Governance Meetings Minutes.md>)
@@ -108,11 +109,17 @@ https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) focused particularly on [Yak Collective Governance](<Yak Collective Governance.md>)
 
+## [Grigori Milov](<Grigori Milov.md>)
+- [Yak Collective Governance](<Yak Collective Governance.md>)
+
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 - Consider participating in the [Yak Collective Governance](<Yak Collective Governance.md>)
 
 ## [Project Launch Checklist](<Project Launch Checklist.md>)
 - Schedule with [Yak Collective Governance](<Yak Collective Governance.md>)
+
+## [Venkatesh Rao](<Venkatesh Rao.md>)
+- [Yak Collective Governance](<Yak Collective Governance.md>)
 
 ## [YC Client Project](<YC Client Project.md>)
 - Filed in [Yak Collective Governance](<Yak Collective Governance.md>)

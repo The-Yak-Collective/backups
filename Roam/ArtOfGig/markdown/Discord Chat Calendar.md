@@ -1,6 +1,6 @@
 - About:: 
     - You can request permission from [[Venkatesh Rao]] to modify it if you're hosting regular weekly events or [[Office hours with YakShavers]]. 
-    - Here is the shared [Google Calendar link](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
+    - ^^Here is the shared [Google Calendar link](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).^^
     - For one-off meetings, please coordinate among yourselves and post to the events channel or other appropriate channel. These will not be added to the group calendar unless it is a major one like a town hall.
 - Chief Page Wrangler:: [[Fname Lname]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
