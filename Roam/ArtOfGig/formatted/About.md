@@ -1,3 +1,4 @@
+- 
 
 # Backlinks
 ## [Astonishing Stories
@@ -11,7 +12,19 @@
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - **[About](<About.md>):**
 
+## [Foundations - Positioning](<Foundations - Positioning.md>)
+- **[About](<About.md>):**
+
+## [Marketing Channels](<Marketing Channels.md>)
+- **[About](<About.md>):**
+
+## [Marketing Resources](<Marketing Resources.md>)
+- **[About](<About.md>):**
+
 ## [Production Cell](<Production Cell.md>)
+- **[About](<About.md>):**
+
+## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[About](<About.md>):**
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)

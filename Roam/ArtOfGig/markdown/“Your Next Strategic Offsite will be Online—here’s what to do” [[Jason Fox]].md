@@ -114,7 +114,7 @@
             - **What's the opportunity for Yak**
                 - it's a market waiting to be created... take all the weary, zoom-fatigued people and give them an online change of scenery #[[Venkatesh Rao]]
                 - Opportunity to re-enchant how we gather—that’s where I see us in the Yak Collective play very well. #[[Jason Fox]]
-                - I suspect there may be perspectives we can contribute that will make any senior leader feel more inspired/confident to do it (whilst also positioning the Yak Collective as a potential facilitation partner/guide). #[[Jason Fox]]
+                - I suspect there may be perspectives we can contribute that will make any senior leader feel more inspired/confident to do it (whilst also [[positioning]] the Yak Collective as a potential facilitation partner/guide). #[[Jason Fox]]
             - **Who is this for**
                 - If we have in mind a senior leader who wants to gather their distributed team (virtually) for an offsite-equivelant, the lens for this collaboration would be to collect and collate pragmatic-yet-refreshing perspectives on how this can be done. #[[Jason Fox]]
             - **What types of offsites are we targetting**

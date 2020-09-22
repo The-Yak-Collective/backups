@@ -200,7 +200,8 @@
 - ### infrastructure chat 9.20.2020 [[September 20th, 2020]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FA7_7gZSq2J.png?alt=media&token=91c594a8-94c9-401d-8466-0c3b0ec1c019)
     - Discordpy
-        - Testing for activity ``````
+        - Testing for activity ```javascript
+```
         - User/project Heartbeat 
             - User availability ping on Discord
         - Project heartbeat

@@ -12,8 +12,24 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Foundations - Positioning](<Foundations - Positioning.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Marketing Channels](<Marketing Channels.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Marketing Resources](<Marketing Resources.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Production Cell](<Production Cell.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Showcase Projects Launch](<Showcase Projects Launch.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)

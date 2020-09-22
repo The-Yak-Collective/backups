@@ -6,12 +6,12 @@
     - https://yakcollective.org/about
 - It also doesn't hurt to have a look at:
     - [[Discord Chat Calendar]]
-    - [Things We Need](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
+    - [[Things We Need]]
     - New Yaks can [log questions here.](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
 - ## **Welcome**
 - Hello and welcome, aspiring Yak! 🐂 :)
 - ## **What Is Yak Collective?**
-- Yak Collective is a place for people who are thinking about, or are currently making their living as an indie consultant.
+- Yak Collective is a place for people who are thinking about, or are currently making their living as an indie consultant. #needsupdate 
 - ## **What Is This Document?**
 - The first thing you should know: the Yak Collective is an__ experimental__ and __loosely-coordinated__ network of independent consultants. It is still very much an active experiment. Read about the Yak Collective’s origins and why it was formed at the [[About Page]].
 - YC operates by a simple [[Rules and Code of Conduct]] 

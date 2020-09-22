@@ -40,6 +40,20 @@
 
 [Fname Lname](<Fname Lname.md>)
 
+## [Marketing Channels](<Marketing Channels.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+
+## [Marketing Resources](<Marketing Resources.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
+
 ## [Privacy Policy](<Privacy Policy.md>)
 - **[s-r-n](<s-r-n.md>):** [Fname Lname](<Fname Lname.md>)
 
@@ -54,6 +68,11 @@
 
 ## [Schema | member data](<Schema | member data.md>)
 - **[srn](<srn.md>):** [Fname Lname](<Fname Lname.md>)
+
+## [Showcase Projects Launch](<Showcase Projects Launch.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)

@@ -17,13 +17,18 @@ __Area 2: Developing a proper marketing capability around our assets and members
             - {{embed: ((d99rmaMjn))}}
             - {{embed: ((3Tsd4wWqP))}}
             - "YC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__"
-        - "[Alex Wagner](<Alex Wagner.md>)The hard work of positioning YC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides."
-        - "[Alex Wagner](<Alex Wagner.md>) I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to branding and positioning."
+        - "[Alex Wagner](<Alex Wagner.md>)The hard work of [positioning](<positioning.md>) YC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides."
+        - "[Alex Wagner](<Alex Wagner.md>) I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to [branding](<branding.md>) and [positioning](<positioning.md>)."
         - 
         - 
 - # Objective
     - to create a distributed CMO function shared by several Yaks to elevate YC Marketing capability that fuels its growth
-    - {{embed: ((fSwdNDWQJ))}}
+    - What is the Scope?
+        - Clients - attract and engage potential clients
+            - Client - an executive, a person - we don't engage with companies we engage with individuals, people, executives
+        - Yaks - attract and engage new Yaks
+            - not a primary scope
+            - may overlap with internal comms/coordination
     - What does success looks like?
 - # Team
     - Members
@@ -36,13 +41,13 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - channels & tools
         - recurring calls
 - # Workstreams
-    - **Foundations - Positioning**
-all foundational topics related to value proposition, benefits, barriers, target personas, brand
-    - **Showcase Projects Launch** 
+    - [Foundations - Positioning](<Foundations - Positioning.md>)
+all foundational topics related to the value proposition, benefits, barriers, target personas, [branding](<branding.md>)
+    - [Showcase Projects Launch](<Showcase Projects Launch.md>)
 how do we launch showcase projects to maximize target visibility and engagement
-    - **Channels**
+    - [Marketing Channels](<Marketing Channels.md>)
 where and how do we communicate and engage with the target audience
-    - **Resources**
+    - [Marketing Resources](<Marketing Resources.md>)
 artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") 
     - 
 - ### Random Notes
@@ -158,6 +163,20 @@ Yaks competing for attention
 # Backlinks
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 - [ ] suggest: connect with [Hugo Macedo](<Hugo Macedo.md>) to connect story launches with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [Foundations - Positioning](<Foundations - Positioning.md>)
+- **[About](<About.md>):** all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [Hugo Macedo](<Hugo Macedo.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+- kickoff [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [Marketing Channels](<Marketing Channels.md>)
+- **[About](<About.md>):** where and how do we communicate and engage with the target audience - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [Marketing Resources](<Marketing Resources.md>)
+- **[About](<About.md>):** artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>) Started [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)

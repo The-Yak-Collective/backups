@@ -27,7 +27,7 @@
     - 3 slides on Big3 stuff
     - 1 slide with 2x2 showing meta-view of lots of reports/decks
     - Maybe 1 slide with a view of [Covid19 Case Studies](<Covid19 Case Studies.md>) so far
-    - 1 slide on the Yak Collective, with a 1 line tagline level positioning, and simply a list of all the people who contributed to the deck. Can simply cut and past the boxes from the individual contribution slides
+    - 1 slide on the Yak Collective, with a 1 line tagline level [positioning](<positioning.md>), and simply a list of all the people who contributed to the deck. Can simply cut and past the boxes from the individual contribution slides
     - 1 slide with a COLLECTIVE call to action, as in "Email Paul to schedule a session with one or more Yak Collective members" (should design this offer... something any of us can deliver)
 - Links to other people/orgs decks or reports
     - [Hyde Park VC](https://blog.hydeparkvp.com/modeling-covid-19s-impact-and-making-hard-decisions-6003944142ef)

@@ -17,13 +17,18 @@ __Area 2: Developing a proper marketing capability around our assets and members
             - {{embed: ((d99rmaMjn))}}
             - {{embed: ((3Tsd4wWqP))}}
             - "YC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__"
-        - "[[Alex Wagner]]The hard work of positioning YC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides."
-        - "[[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to branding and positioning."
+        - "[[Alex Wagner]]The hard work of [[positioning]] YC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides."
+        - "[[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to [[branding]] and [[positioning]]."
         - 
         - 
 - # Objective
     - to create a distributed CMO function shared by several Yaks to elevate YC Marketing capability that fuels its growth
-    - {{embed: ((fSwdNDWQJ))}}
+    - What is the Scope?
+        - Clients - attract and engage potential clients
+            - Client - an executive, a person - we don't engage with companies we engage with individuals, people, executives
+        - Yaks - attract and engage new Yaks
+            - not a primary scope
+            - may overlap with internal comms/coordination
     - What does success looks like?
 - # Team
     - Members
@@ -36,13 +41,13 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - channels & tools
         - recurring calls
 - # Workstreams
-    - **Foundations - Positioning**
-all foundational topics related to value proposition, benefits, barriers, target personas, brand
-    - **Showcase Projects Launch** 
+    - [[Foundations - Positioning]]
+all foundational topics related to the value proposition, benefits, barriers, target personas, [[branding]]
+    - [[Showcase Projects Launch]]
 how do we launch showcase projects to maximize target visibility and engagement
-    - **Channels**
+    - [[Marketing Channels]]
 where and how do we communicate and engage with the target audience
-    - **Resources**
+    - [[Marketing Resources]]
 artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") 
     - 
 - ### Random Notes

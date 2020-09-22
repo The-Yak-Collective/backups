@@ -196,6 +196,9 @@
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Marketing Resources](<Marketing Resources.md>)
+- "[Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Namecheap](<Namecheap.md>)
 owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 

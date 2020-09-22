@@ -26,7 +26,7 @@
 - [David McDougall](<David McDougall.md>)
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
-- one thing I would be especially conscious of, in terms of positioning and sales but also the work itself, it that you should be solving your clients’ problems first and foremost, and using the toolbox in order to solve those problems. One doesn’t hire a guy with wrenches, one hires a plumber aka a guy who fixes pipes. So do be sure to have a problem-centric frame. Don’t sell me your grass seed, sell me my lawn [David McDougall](<David McDougall.md>)
+- one thing I would be especially conscious of, in terms of [positioning](<positioning.md>) and sales but also the work itself, it that you should be solving your clients’ problems first and foremost, and using the toolbox in order to solve those problems. One doesn’t hire a guy with wrenches, one hires a plumber aka a guy who fixes pipes. So do be sure to have a problem-centric frame. Don’t sell me your grass seed, sell me my lawn [David McDougall](<David McDougall.md>)
 
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
 - [David McDougall](<David McDougall.md>):

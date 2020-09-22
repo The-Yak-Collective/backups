@@ -1,4 +1,4 @@
-- __As of 2020-06-13, this needs to be updated. Will set a reminder to follow up here. - __[Alex Wagner](<Alex Wagner.md>)
+- __As of 2020-06-13, this needs to be updated. Will set a reminder to follow up here. - __[Alex Wagner](<Alex Wagner.md>) [needsupdate](<needsupdate.md>)
 - The [Yak Collective Collaborations](<Yak Collective Collaborations.md>) need these things to work at a scale and sophistication comparable to mid-sized boutique firms
 - New member orientation stuff __working on here:__ [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
     - ~~Help document for roam and discord~~ - [Alex Wagner](<Alex Wagner.md>) volunteers
@@ -74,6 +74,8 @@
 - [Things We Need](<Things We Need.md>)
 
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
+- [Things We Need](<Things We Need.md>)
+
 - Look through [Things We Need](<Things We Need.md>)
 
 ## [Yak Collective](<Yak Collective.md>)

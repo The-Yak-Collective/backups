@@ -1,0 +1,25 @@
+- About:: where and how do we communicate and engage with the target audience - part of [[YC Marketing - distributed CMO]]
+- Chief Page Wrangler:: [[Hugo Macedo]] 
+    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
+- Last Updated:: `[[September 22nd, 2020]]
+- Last Updated By:: 
+-  ----------------------------------------------
+- 
+- Content Aggregator/Network - YC Content Network (YCCN)
+    - Stage {{or: idea|considering|decided|WIP|done}}
+    - {{[[slider]]}}
+    - 
+    - Why?
+        - How to leverage Yak's audience/following
+        - Generate traffic to YC web property
+    - What?
+        - Every Yak content outlet becomes part of the YC Content Network
+            - each outlet/post references the network 
+            - has a bloc of suggested network reading (Outbrain style)
+        - On top there's a YC Aggregator - like Techmeme
+            - links to network articles
+            - original content
+    - How?
+        - needs some development - although you probably can use a mix of CMS + RSS + Zapier
+        - needs a clear pitch to the Yaks - why they should join the YCCN 
+- 

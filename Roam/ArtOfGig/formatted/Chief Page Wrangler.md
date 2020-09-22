@@ -17,8 +17,24 @@
 ## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Foundations - Positioning](<Foundations - Positioning.md>)
+- **[About](<About.md>):** all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) 
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [Marketing Channels](<Marketing Channels.md>)
+- **[About](<About.md>):** where and how do we communicate and engage with the target audience - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [Marketing Resources](<Marketing Resources.md>)
+- **[About](<About.md>):** artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Production Cell](<Production Cell.md>)
 - **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [Showcase Projects Launch](<Showcase Projects Launch.md>)
+- **[About](<About.md>):** __XXX__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
