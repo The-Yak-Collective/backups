@@ -167,6 +167,9 @@ Yaks competing for attention
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[About](<About.md>):** all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [Grigori Milov](<Grigori Milov.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

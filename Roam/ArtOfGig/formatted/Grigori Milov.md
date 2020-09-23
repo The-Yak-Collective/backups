@@ -2,6 +2,7 @@
 - [Yak Collective Governance](<Yak Collective Governance.md>)
 - [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 # Backlinks
 ## [05/08/2020 – YC Governance Minutes](<05/08/2020 – YC Governance Minutes.md>)

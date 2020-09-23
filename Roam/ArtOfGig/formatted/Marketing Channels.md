@@ -7,22 +7,24 @@
 - 
 - Content Aggregator/Network - YC Content Network (YCCN)
     - Stage {{or: idea|considering|decided|WIP|done}}
-    - {{[slider](<slider.md>)}}
-    - 
     - Why?
-        - How to leverage Yak's audience/following
+        - How to leverage each Yak's audience/following?
         - Generate traffic to YC web property
+        - Increase awareness and engagement 
     - What?
         - Every Yak content outlet becomes part of the YC Content Network
-            - each outlet/post references the network 
+            - each outlet/post references/links the network (__part of the YCCN__)
             - has a bloc of suggested network reading (Outbrain style)
         - On top there's a YC Aggregator - like Techmeme
             - links to network articles
             - original content
     - How?
         - needs some development - although you probably can use a mix of CMS + RSS + Zapier
+        - some SEO expertise< might be needed
         - needs a clear pitch to the Yaks - why they should join the YCCN 
-- 
+    - Potential barriers
+        - technical complexity
+        - low adoption from Yaks 
 
 # Backlinks
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
