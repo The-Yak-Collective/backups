@@ -35,6 +35,9 @@
 ## [August 31st, 2020](<August 31st, 2020.md>)
 - light edits on [Schema | member data](<Schema | member data.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>)](<Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>).md>)
+- ### from [Jenna Dixon](<Jenna Dixon.md>):
+
 ## [Directory](<Directory.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 

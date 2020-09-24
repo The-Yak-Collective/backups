@@ -21,6 +21,9 @@ owner:: [Nathan Acks](<Nathan Acks.md>)
 
 last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
+## [Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>)](<Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>).md>)
+- ### from [Nathan Acks](<Nathan Acks.md>)
+
 ## [Carl](<Carl.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
