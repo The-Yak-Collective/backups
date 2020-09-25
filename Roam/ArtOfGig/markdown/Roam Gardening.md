@@ -1,0 +1,12 @@
+- About:: Taking care our ~~garden~~ Roam to ensure is updated and easy to use, by establishing style guides and practice periodic maintenance tasks.
+- Chief Page Wrangler:: [[Jenna Dixon]]
+    - Additional Page Wranglers:: [[Hugo Macedo]]
+- Last Updated:: [[September 24th, 2020]]
+- Last Updated By:: [[Hugo Macedo]] 
+-  
+- [[YC Roam Style Guide (TBD)]] 
+- 
+- # Gardening principles 
+- Roam CC Theme
+    - should we choose a CSS theme? What theme brings value to the content experience?
+        - 

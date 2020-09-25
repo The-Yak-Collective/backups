@@ -57,6 +57,9 @@
 ## [Publishing Projects Sampler](<Publishing Projects Sampler.md>)
 -  [August 4th, 2020](<August 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Roam Gardening](<Roam Gardening.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Roam Help](<Roam Help.md>)
 - [August 18th, 2020](<August 18th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 

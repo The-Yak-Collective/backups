@@ -28,6 +28,10 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Roam Gardening](<Roam Gardening.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**

@@ -127,6 +127,13 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Posted 4/9/2020** [Jordan Peacock](<Jordan Peacock.md>)
 
+## [Threat Model](<Threat Model.md>)
+- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+
+- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+
+- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+
 ## [Twitter](<Twitter.md>)
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
 

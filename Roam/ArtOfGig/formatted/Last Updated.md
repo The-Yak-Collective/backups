@@ -34,6 +34,10 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**
 
+## [Roam Gardening](<Roam Gardening.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**

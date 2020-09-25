@@ -70,7 +70,7 @@
 - ~~Website~~  [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
+- **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
 
 ## [Website Version History](<Website Version History.md>)
 - Various formatting tweaks suggested by [Tom Critchlow](<Tom Critchlow.md>).

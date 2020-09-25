@@ -71,7 +71,7 @@ Eg restaurant menu proofreader, back when that was a thing.__
         - ### Original illustrations
             - Add your name here if interested in this role::
                 - [[Justice]] 💸
-                - [[Firstname Lastname]]
+                - [[Aiswarya Enolla]]
                 - [[Firstname Lastname]]
                 - [[Firstname Lastname]]
         - ###  Found illustrations

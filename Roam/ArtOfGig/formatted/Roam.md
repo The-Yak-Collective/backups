@@ -1,6 +1,7 @@
 owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
+    - You are here.
     - The knowledge of the Yak.
     - Holds website data (future release).
 # Access

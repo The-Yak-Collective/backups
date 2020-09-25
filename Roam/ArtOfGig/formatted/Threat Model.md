@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 2nd, 2020](<September 2nd, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Threats
     ## Current
         - Data loss ([Roam](<Roam.md>), [Yak Collective Robot](<Yak Collective Robot.md>), [GitHub](<GitHub.md>), etc.)
@@ -32,31 +32,50 @@ last updated:: [September 2nd, 2020](<September 2nd, 2020.md>) by [Nathan Acks](
 # Asset Classes
     ## Class 1 (Existential Threats)
         - [Yak Collective Robot](<Yak Collective Robot.md>)
+            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Namecheap](<Namecheap.md>)
+            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - Password managers or databases
         - [Roam](<Roam.md>)
+            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [Knack](<Knack.md>)
+            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
         - Bank accounts, should we ever have such a thing
     ## Class 2 (Serious Disruption to Normal Operations)
-        - Loss of access to important public and internal Google Docs
-            - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([Paul Millerd](<Paul Millerd.md>))
-            - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
+        - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck"
+            - **["owner](<"owner.md>):** [Paul Millerd](<Paul Millerd.md>)"
+        - "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck"
+            - **["owner](<"owner.md>):** [Drew Schorno](<Drew Schorno.md>)"
         - [GitHub](<GitHub.md>)
+            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Netlify](<Netlify.md>)
+            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Discord](<Discord.md>)
+            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
     ## Class 3  (Inconvenience)
-        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([Venkatesh Rao](<Venkatesh Rao.md>))
-        - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
-        - Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
+        - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
+            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+        - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
+            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+        - "Google Analytics"
+            - **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
         - [IFTTT](<IFTTT.md>)
+            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Carl](<Carl.md>)
+            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+        - [Zapier](<Zapier.md>)
+            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [Substack](<Substack.md>)
+            - **["owner](<"owner.md>):** [Matthew Sweet](<Matthew Sweet.md>)"
         - [Twitter](<Twitter.md>)
+            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Facebook](<Facebook.md>)
+            - **["owner](<"owner.md>):** ^^???^^"
         - [LinkedIn](<LinkedIn.md>)
+            - **["owner](<"owner.md>):** ^^???^^"
     ## Class 4 (¯\_(ツ)_/¯)
-        - [Zapier](<Zapier.md>)?
         - [Glitch](<Glitch.md>)
+            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 # Possible Mitigations
     - Trust between members (especially members with access to various assets)
     - Separation of duties for Class 1 and 2 assets
@@ -100,6 +119,9 @@ last updated:: [September 2nd, 2020](<September 2nd, 2020.md>) by [Nathan Acks](
 # Backlinks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Threat Model](<Threat Model.md>)
+
+## [September 24th, 2020](<September 24th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) added owners to infrastructure systems listed in the [Threat Model](<Threat Model.md>)
 
 ## [infrastructure](<infrastructure.md>)
 - revisit [Threat Model](<Threat Model.md>)

@@ -31,6 +31,11 @@
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Roam Gardening](<Roam Gardening.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 

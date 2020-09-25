@@ -3,9 +3,6 @@
 ## [Building the Website](<Building the Website.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 
-## [Carl](<Carl.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>)
-
 ## [Contributing to the Website](<Contributing to the Website.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 

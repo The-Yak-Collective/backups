@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 2nd, 2020]] by [[Nathan Acks]]
+last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
 # Threats
     ## Current
         - Data loss ([[Roam]], [[Yak Collective Robot]], [[GitHub]], etc.)
@@ -32,31 +32,50 @@ last updated:: [[September 2nd, 2020]] by [[Nathan Acks]]
 # Asset Classes
     ## Class 1 (Existential Threats)
         - [[Yak Collective Robot]]
+            - "owner:: [[Nathan Acks]]"
         - [[Namecheap]]
+            - "owner:: [[Venkatesh Rao]]"
         - Password managers or databases
         - [[Roam]]
+            - "owner:: [[Venkatesh Rao]]"
         - [[Knack]]
+            - "owner:: [[Maier Fenster]]"
         - Bank accounts, should we ever have such a thing
     ## Class 2 (Serious Disruption to Normal Operations)
-        - Loss of access to important public and internal Google Docs
-            - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([[Paul Millerd]])
-            - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([[Drew Schorno]])
+        - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck"
+            - "owner:: [[Paul Millerd]]"
+        - "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck"
+            - "owner:: [[Drew Schorno]]"
         - [[GitHub]]
+            - "owner:: [[Nathan Acks]]"
         - [[Netlify]]
+            - "owner:: [[Nathan Acks]]"
         - [[Discord]]
+            - "owner:: [[Jordan Peacock]]"
     ## Class 3  (Inconvenience)
-        - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([[Venkatesh Rao]])
-        - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([[Venkatesh Rao]])
-        - Google Analytics ([[Tom Critchlow]])
+        - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
+            - "owner:: [[Venkatesh Rao]]"
+        - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
+            - "owner:: [[Venkatesh Rao]]"
+        - "Google Analytics"
+            - "owner:: [[Tom Critchlow]]"
         - [[IFTTT]]
+            - "owner:: [[Nathan Acks]]"
         - [[Carl]]
+            - "owner:: [[Jordan Peacock]]"
+        - [[Zapier]]
+            - "owner:: [[Venkatesh Rao]]"
         - [[Substack]]
+            - "owner:: [[Matthew Sweet]]"
         - [[Twitter]]
+            - "owner:: [[Jordan Peacock]]"
         - [[Facebook]]
+            - "owner:: ^^???^^"
         - [[LinkedIn]]
+            - "owner:: ^^???^^"
     ## Class 4 (¯\_(ツ)_/¯)
-        - [[Zapier]]?
         - [[Glitch]]
+            - "owner:: [[Nathan Acks]]"
 # Possible Mitigations
     - Trust between members (especially members with access to various assets)
     - Separation of duties for Class 1 and 2 assets

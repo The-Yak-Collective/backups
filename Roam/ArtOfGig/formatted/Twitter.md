@@ -37,6 +37,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 - Incoming member blog posts are now pushed to [Twitter](<Twitter.md>)
 
+## [Zapier](<Zapier.md>)
+- Pushes events from the Yak Collective "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)" into [Discord](<Discord.md>) and [Twitter](<Twitter.md>).
+
 ## [infrastructure](<infrastructure.md>)
 - [Twitter](<Twitter.md>)
 

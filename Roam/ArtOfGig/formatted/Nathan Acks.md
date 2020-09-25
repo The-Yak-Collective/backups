@@ -25,7 +25,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 - ### from [Nathan Acks](<Nathan Acks.md>)
 
 ## [Carl](<Carl.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Code Style Guide](<Code Style Guide.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
@@ -79,9 +79,11 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 19th, 2020](<September 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
+
+Roam diagrams are pretty limited; [Maier Fenster](<Maier Fenster.md>)'s asset map provides a more detailed/accurate version: https://tilnow.github.io/docjs/ but not uptodate anymore. [Nathan Acks](<Nathan Acks.md>)
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 
@@ -122,7 +124,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Roam](<Roam.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
 - **[last updated](<last updated.md>):** [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -136,6 +138,11 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nat
 
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [September 24th, 2020](<September 24th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [Substack](<Substack.md>)
 last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
@@ -145,7 +152,17 @@ last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks
 ## [Threat Model](<Threat Model.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 2nd, 2020](<September 2nd, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 
 ## [Twitter](<Twitter.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -195,7 +212,7 @@ owner:: [Nathan Acks](<Nathan Acks.md>)
 last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Zapier](<Zapier.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [infrastructure](<infrastructure.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)

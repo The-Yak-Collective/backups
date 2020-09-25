@@ -71,7 +71,7 @@ Eg restaurant menu proofreader, back when that was a thing.__
         - ### Original illustrations
             - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
                 - [Justice](<Justice.md>) 💸
-                - [Firstname Lastname](<Firstname Lastname.md>)
+                - [Aiswarya Enolla](<Aiswarya Enolla.md>)
                 - [Firstname Lastname](<Firstname Lastname.md>)
                 - [Firstname Lastname](<Firstname Lastname.md>)
         - ###  Found illustrations

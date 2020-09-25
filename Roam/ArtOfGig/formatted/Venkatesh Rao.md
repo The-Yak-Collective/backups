@@ -317,9 +317,15 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) ([Venkatesh Rao](<Venkatesh Rao.md>))
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) ([Venkatesh Rao](<Venkatesh Rao.md>))
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 ## [Twitter](<Twitter.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)

@@ -19,7 +19,7 @@
 ## [IT Infrastructure](<IT Infrastructure.md>)
 ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + mapping work done by [Maier Fenster](<Maier Fenster.md>).
 
-- Roam diagrams are pretty limited, so see [Maier Fenster](<Maier Fenster.md>)'
+Roam diagrams are pretty limited; [Maier Fenster](<Maier Fenster.md>)'
 
 - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
 
@@ -33,6 +33,9 @@ owner:: [Maier Fenster](<Maier Fenster.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
 - **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
+
+## [Threat Model](<Threat Model.md>)
+- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
 
 ## [Website Version History](<Website Version History.md>)
 - [Maier Fenster](<Maier Fenster.md>)

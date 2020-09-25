@@ -23,6 +23,9 @@
 
 - Monitor member website, [Yak Talk](<Yak Talk.md>)
 
+## [Marketing Channels](<Marketing Channels.md>)
+- [Yak Talk](<Yak Talk.md>)
+
 ## [Substack](<Substack.md>)
 - [Yak Talk](<Yak Talk.md>)
 

@@ -5,6 +5,16 @@
 - Last Updated By:: 
 -  ----------------------------------------------
 - 
+- [[Yak Talk]] Newsletter
+    - Update from [[Matthew Sweet]] on [[September 24th, 2020]]
+        - With the newsletter, we've been trying to build a consistent product that can help to find and establish an external audience, expand it and potentially bring in commissioned projects.
+The plan was to establish three tracks/beats: 
+            - trends and futures
+            - online governance
+            - complexity. 
+        - Current status:
+            - Initially, we wanted content for each track published each week. That turned out to be a lot, so we scaled back to one a week. Even that, absent preprepared content, proved difficult given the voluntary nature and the need for basically all of us to fit duties around other work/projects. We had semi-established roles a few weeks ago, but now we've seen attrition regarding publishing/involvement. Now, we are considering either recruiting more people to the effort, folding it in and forming the newsletter as an instrument of the infrastructure arm, or just abandoning/handing it off altogether.
+            - It's tended to average 500 or so views per edition, an open rate hovering around 50% and a current subscriber base of 330.
 - Content Aggregator/Network - YC Content Network (YCCN)
     - Stage {{or: idea|considering|decided|WIP|done}}
     - Why?

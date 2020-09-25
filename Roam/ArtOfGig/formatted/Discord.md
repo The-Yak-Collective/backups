@@ -18,9 +18,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 # Backlinks
 ## [Carl](<Carl.md>)
-- `calendar_yak` -- Reads calendar events and pushes them to the `events` channel in [Discord](<Discord.md>).
-
-- `welcome_bot` -- Greets new [Discord](<Discord.md>)
+- Greets new [Discord](<Discord.md>)
 
 ## [Contributing to the Website](<Contributing to the Website.md>)
 4. For emergency updates, ping someone with **owner** level access in [GitHub](<GitHub.md>) on [Discord](<Discord.md>).
@@ -59,4 +57,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 ## [Yak Network Map](<Yak Network Map.md>)
 - Follow up: [Vinay Débrou](<Vinay Débrou.md>) will propose possible times for a joint call on the [Discord](<Discord.md>)
+
+## [Zapier](<Zapier.md>)
+- Pushes events from the Yak Collective "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)" into [Discord](<Discord.md>)
 
