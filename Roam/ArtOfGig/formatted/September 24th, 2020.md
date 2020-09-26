@@ -5,11 +5,6 @@
 ## [Carl](<Carl.md>)
 last updated:: [September 24th, 2020](<September 24th, 2020.md>)
 
-## [IT Infrastructure](<IT Infrastructure.md>)
-last updated:: [September 24th, 2020](<September 24th, 2020.md>)
-
-**Last updated:** [September 24th, 2020](<September 24th, 2020.md>)
-
 ## [Marketing Channels](<Marketing Channels.md>)
 - Update from [Matthew Sweet](<Matthew Sweet.md>) on [September 24th, 2020](<September 24th, 2020.md>)
 

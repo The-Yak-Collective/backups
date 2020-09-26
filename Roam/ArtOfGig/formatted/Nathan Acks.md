@@ -79,11 +79,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [September 25th, 2020](<September 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
-
-Roam diagrams are pretty limited; [Maier Fenster](<Maier Fenster.md>)'s asset map provides a more detailed/accurate version: https://tilnow.github.io/docjs/ but not uptodate anymore. [Nathan Acks](<Nathan Acks.md>)
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 
@@ -147,6 +145,8 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 - [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [online-governance](<online-governance.md>) + [online-governance-studies](<online-governance-studies.md>) »»» [Yak Collective Governance](<Yak Collective Governance.md>) or consistency [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>) [Nathan Acks](<Nathan Acks.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [Yak Collective Governance](<Yak Collective Governance.md>) »»» added [template/header](<template/header.md>) [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>) [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
 
 ## [Substack](<Substack.md>)
 last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)

@@ -1,91 +1,113 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
+last updated:: [[September 25th, 2020]] by [[Nathan Acks]]
 # Assets
-    ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + mapping work done by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
-    ## SVG Infrastructure Diagram
-        **Last updated:** [[September 24th, 2020]]
-        Roam diagrams are pretty limited; [[Maier Fenster]]'s asset map provides a more detailed/accurate version: https://tilnow.github.io/docjs/ but not uptodate anymore. [[Nathan Acks]] is in process of making his more updated map be linked to by thepage 
-        ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FPWVFNk2nA0.svg?alt=media&token=a650eee1-8269-4adc-b9f7-639e9ea8dd52)
-    ## Roam Infrastructure Diagram + Asset List
-        See the [Roam diagram documentation](https://roamresearch.com/#/app/help/page/OB_uynVDM) to learn how to work with native diagrams.
-        {{[[diagram]]}}
-            - [[Yak Collective Robot]]
-                - "owner:: [[Nathan Acks]]"
-                - Google account; holds __some__ shared assets.
-                - Google data/documents/services currently held by individual members should eventually be migrated into this account.
-            - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
-                - "owner:: [[Venkatesh Rao]]"
-                - Part of the [[Yak Collective Robot]] account
-            - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
-                - "owner:: [[Venkatesh Rao]]"
-                - Part of the [[Yak Collective Robot]] account
-            - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck
-                - owner:: [[Drew Schorno]]
-            - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
-                - owner:: [[Paul Millerd]]
-            - Google Analytics
-                - owner:: [[Tom Critchlow]]
-            - [[Carl]] `calendar_yak` Bot
-                - "owner:: [[Jordan Peacock]]"
-            - [[Carl]] `yakyak` Bot
-                - "owner:: [[Jordan Peacock]]"
-            - [[Carl]] `welcome_bot`
-                - "owner:: [[Jordan Peacock]]"
-            - [[Discord]]
-                - "owner:: [[Jordan Peacock]]"
-            - [[Namecheap]]
-                - "owner:: [[Venkatesh Rao]]"
-            - [[Knack]]
-                - "owner:: [[Maier Fenster]]"
-            - [[Roam]]
-                - "owner:: [[Venkatesh Rao]]"
-            - [[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))
-                - "owner:: [[Nathan Acks]]"
-                - See [[Building the Website]] for more details
-            - [[Netlify]] CDN
-                - "owner:: [[Nathan Acks]]"
-            - [[Netlify]] [Functions](https://docs.netlify.com/functions/overview/) ([create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js))
-                - "owner:: [[Nathan Acks]]"
-            - [[Yak Collective Website]]
-                - "owner:: [[Nathan Acks]]"
-            - [[Yak Collective Website]] ["Featured Yak" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)
-                - "owner:: [[Nathan Acks]]"
-            - [[GitHub]]
-                - "owner:: [[Nathan Acks]]"
-            - [[IFTTT]] [Netlify Build Hook](https://docs.netlify.com/configure-builds/build-hooks/) Applet (Timer)
-                - "owner:: [[Nathan Acks]]"
-            - [[IFTTT]] Twitter Applets
-                - "owner:: [[Nathan Acks]]"
-            - [[IFTTT]] [create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js) Applets
-                - "owner:: [[Nathan Acks]]"
-            - [[Zapier]]
-                - "owner:: [[Venkatesh Rao]]"
-            - [[Glitch]]
-                - "owner:: [[Nathan Acks]]"
-            - Member RSS Feeds
-                - [[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed
-                - [[Ben Mosior]]: https://hiredthought.com/feed/
-                - [[Benjamin P Taylor - London]]: https://medium.com/feed/@antlerboy
-                - [[Benton Heimsath]]: https://www.bentonheimsath.com/writing?format=rss
-                - [[David McDougall]]: https://innovationatscale.substack.com/feed/
-                - [[Pamela Hobart]]: https://www.pamelajhobart.com/blog?format=rss
-                - [[Paul Millerd]]: https://think-boundless.com/feed/
-                - [[Randy Lubin]]: https://blog.randylubin.com/feed.xml
-                - [[Shreeda Segan]]: https://shreeda.substack.com/feed/
-                - [[Toby Shorin]]: https://subpixel.space/feed.xml
-                - [[Tom Critchlow]]: https://tomcritchlow.com/feed
-                - [[Vaughn Tan]]: https://uncertaintymindset.substack.com/feed/
-                - [[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/
-                - [[Vinay Débrou]]: https://vinaydebrou.com/feed.xml
-            - [[Substack]]
-                - "owner:: [[Matthew Sweet]]"
-                - RSS feed: https://yakcollective.substack.com/feed/
-            - [[Twitter]]
-                - "owner:: [[Jordan Peacock]]"
-            - [[Facebook]]
-                - "owner:: ^^???^^"
-            - [[LinkedIn]]
-                - "owner:: ^^???^^"
+    ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + SVG diagram development by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
+    [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [[Maier Fenster]] has developed an SVG diagram that (currently) more completely captures the relationship between different components of the Yak Collective's IT infrastructure than is possible natively.
+    The symbols used in the infrastructure map have the following meanings:
+        {{[[table]]}}
+            - **Symbol**
+                - **Macro**
+                    - **Meaning**
+            - Double Green Circle
+                - `STATIC_DATA`
+                    - Website or service that functions as a (relatively) static data source/destination
+            - Green Oval
+                - `EXTERNAL_SERVICE`
+                    - Externally-facing web service used by YC members/participants (and sometimes others)
+            - Blue Oval
+                - `INTERNAL_SERVICE`
+                    - Internally-facing web service used by few YC members (sometimes not accessible at all)
+            - Blue Rectangle
+                - `APPLET`
+                    - A function, service applet, or internal tool; contained by and run by some service
+            - Red Line
+                - `USER_DATA`
+                    - Manual data flow (someone creates an account, reviews a list and takes action, etc.)
+            - Black Line
+                - `AUTO_DATA`
+                    - Automatic data flows (service takes action based on a timer, webhook, etc.)
+    Important links:
+        - [Infrastructure Map GitHub Repository](https://github.com/The-Yak-Collective/infrastructure-map)
+        - [Edit the current map](https://github.com/The-Yak-Collective/infrastructure-map/edit/master/infrastructure.dot) (note that it can take a couple of minutes to update here)
+        - [Full-sized version of the current map](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg) (assets link back to pages in this Roam graph)
+    ![Yak Collective IT Infrastructure diagram](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg)
+        - [[Yak Collective Robot]]
+            - "owner:: [[Nathan Acks]]"
+            - Google account; holds __some__ shared assets.
+            - Google data/documents/services currently held by individual members should eventually be migrated into this account.
+        - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
+            - "owner:: [[Venkatesh Rao]]"
+            - Part of the [[Yak Collective Robot]] account
+        - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
+            - "owner:: [[Venkatesh Rao]]"
+            - Part of the [[Yak Collective Robot]] account
+        - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck
+            - owner:: [[Drew Schorno]]
+        - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
+            - owner:: [[Paul Millerd]]
+        - Google Analytics
+            - owner:: [[Tom Critchlow]]
+        - [[Carl]] `calendar_yak` Bot
+            - "owner:: [[Jordan Peacock]]"
+        - [[Carl]] `yakyak` Bot
+            - "owner:: [[Jordan Peacock]]"
+        - [[Carl]] `welcome_bot`
+            - "owner:: [[Jordan Peacock]]"
+        - [[Discord]]
+            - "owner:: [[Jordan Peacock]]"
+        - [[Namecheap]]
+            - "owner:: [[Venkatesh Rao]]"
+        - [[Knack]]
+            - "owner:: [[Maier Fenster]]"
+        - [[Roam]]
+            - "owner:: [[Venkatesh Rao]]"
+        - [[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))
+            - "owner:: [[Nathan Acks]]"
+            - See [[Building the Website]] for more details
+        - [[Netlify]] CDN
+            - "owner:: [[Nathan Acks]]"
+        - [[Netlify]] [Functions](https://docs.netlify.com/functions/overview/) ([create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js))
+            - "owner:: [[Nathan Acks]]"
+        - [[Yak Collective Website]]
+            - "owner:: [[Nathan Acks]]"
+        - [[Yak Collective Website]] ["Featured Yak" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)
+            - "owner:: [[Nathan Acks]]"
+        - [[GitHub]]
+            - "owner:: [[Nathan Acks]]"
+        - [[IFTTT]] [Netlify Build Hook](https://docs.netlify.com/configure-builds/build-hooks/) Applet (Timer)
+            - "owner:: [[Nathan Acks]]"
+        - [[IFTTT]] Twitter Applets
+            - "owner:: [[Nathan Acks]]"
+        - [[IFTTT]] [create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js) Applets
+            - "owner:: [[Nathan Acks]]"
+        - [[Zapier]]
+            - "owner:: [[Venkatesh Rao]]"
+        - [[Glitch]]
+            - "owner:: [[Nathan Acks]]"
+        - Member RSS Feeds
+            - [[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed
+            - [[Ben Mosior]]: https://hiredthought.com/feed/
+            - [[Benjamin P Taylor - London]]: https://medium.com/feed/@antlerboy
+            - [[Benton Heimsath]]: https://www.bentonheimsath.com/writing?format=rss
+            - [[David McDougall]]: https://innovationatscale.substack.com/feed/
+            - [[Pamela Hobart]]: https://www.pamelajhobart.com/blog?format=rss
+            - [[Paul Millerd]]: https://think-boundless.com/feed/
+            - [[Randy Lubin]]: https://blog.randylubin.com/feed.xml
+            - [[Shreeda Segan]]: https://shreeda.substack.com/feed/
+            - [[Toby Shorin]]: https://subpixel.space/feed.xml
+            - [[Tom Critchlow]]: https://tomcritchlow.com/feed
+            - [[Vaughn Tan]]: https://uncertaintymindset.substack.com/feed/
+            - [[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/
+            - [[Vinay Débrou]]: https://vinaydebrou.com/feed.xml
+        - [[Substack]]
+            - "owner:: [[Matthew Sweet]]"
+            - RSS feed: https://yakcollective.substack.com/feed/
+        - [[Twitter]]
+            - "owner:: [[Jordan Peacock]]"
+        - [[Facebook]]
+            - "owner:: ^^???^^"
+        - [[LinkedIn]]
+            - "owner:: ^^???^^"
 # Documents
     - [[Schema | member data]] (draft)
     - [[Code Style Guide]]
