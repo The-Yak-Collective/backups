@@ -1,4 +1,4 @@
-name: "Automated backups"
+name: Automated backups
 
 on:
   push:
