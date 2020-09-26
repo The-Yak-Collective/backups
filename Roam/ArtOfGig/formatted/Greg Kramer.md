@@ -33,6 +33,9 @@
 ## [Directory](<Directory.md>)
 - [Greg Kramer](<Greg Kramer.md>)
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [Greg Kramer](<Greg Kramer.md>)
+
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Greg Kramer](<Greg Kramer.md>)
 

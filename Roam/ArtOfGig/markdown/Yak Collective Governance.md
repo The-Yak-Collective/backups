@@ -1,3 +1,9 @@
+- About:: __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
+- Chief Page Wrangler:: [[Venkatesh Rao]]
+    - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]] 
+- Last Updated:: `/today`
+- Last Updated By:: [[Fname Lname]]
+-  
 - As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...
 - **Completed Readings**
     - [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
@@ -70,6 +76,7 @@ https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepap
         - https://kwokchain.com/2020/01/23/underutilized-fixed-assets/
     - Netflix Culture Deck. Short version is here.
 https://jobs.netflix.com/culture
+    - Context: https://hbr.org/2014/01/how-netflix-reinvented-hr
 https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
 https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
 - [[Governance Tests]]
@@ -91,7 +98,7 @@ https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
 - [[08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams]]
 - [[08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem]]
 - [[09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces]]
-- 
+- [[September 25th, 2020]] [[YC Gov Chat Minutes - Netflix culture deck]]
 - 
 - 
 - 

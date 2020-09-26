@@ -77,6 +77,14 @@
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)
 
+## [September 25th, 2020](<September 25th, 2020.md>)
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jenna Dixon](<Jenna Dixon.md>)
 

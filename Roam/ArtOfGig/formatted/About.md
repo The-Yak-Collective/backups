@@ -30,7 +30,13 @@
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[About](<About.md>):**
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- **[About](<About.md>):**
+
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- **[About](<About.md>):**
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[About](<About.md>):**
 
 ## [template/header](<template/header.md>)

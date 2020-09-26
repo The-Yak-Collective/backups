@@ -41,8 +41,16 @@
 - **[About](<About.md>):** __XXX__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- **[About](<About.md>):** __chat minutes for [September 25th, 2020](<September 25th, 2020.md>) [Yak Collective Governance](<Yak Collective Governance.md>) weekly call__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[About](<About.md>):** YC Marketing capability
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[About](<About.md>):** __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [template/header](<template/header.md>)

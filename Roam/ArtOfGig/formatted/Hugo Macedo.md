@@ -39,6 +39,11 @@
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [September 25th, 2020](<September 25th, 2020.md>)
+- [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [online-governance](<online-governance.md>) + [online-governance-studies](<online-governance-studies.md>) »»» [Yak Collective Governance](<Yak Collective Governance.md>) or consistency [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [Yak Collective Governance](<Yak Collective Governance.md>) »»» added [template/header](<template/header.md>) [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 

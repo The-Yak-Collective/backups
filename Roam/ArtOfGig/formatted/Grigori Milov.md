@@ -96,6 +96,9 @@
 
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
@@ -121,6 +124,9 @@
 - [Grigori Milov](<Grigori Milov.md>)W
 
 - [Grigori Milov](<Grigori Milov.md>)W
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>)
 
 ## [Yak Talk](<Yak Talk.md>)
 - [Grigori Milov](<Grigori Milov.md>)

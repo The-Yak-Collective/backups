@@ -4,3 +4,8 @@
 - The prompt questions are:
 - 1. What components of Yak Collective experience are making you happy so far?
 - 2. What are the missing parts?
+
+# Backlinks
+## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
+- [September 11th, 2020](<September 11th, 2020.md>)
+

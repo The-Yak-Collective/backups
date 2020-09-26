@@ -1,3 +1,9 @@
+- **[About](<About.md>):** __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):** `/today`
+- **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
+-  
 - As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...
 - **Completed Readings**
     - [Tao of the IETF](https://www.ietf.org/about/participate/tao/[what](<what.md>))
@@ -70,6 +76,7 @@ https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepap
         - https://kwokchain.com/2020/01/23/underutilized-fixed-assets/
     - Netflix Culture Deck. Short version is here.
 https://jobs.netflix.com/culture
+    - Context: https://hbr.org/2014/01/how-netflix-reinvented-hr
 https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
 https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
 - [Governance Tests](<Governance Tests.md>)
@@ -91,7 +98,7 @@ https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
 - [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
 - [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
 - [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
-- 
+- [September 25th, 2020](<September 25th, 2020.md>) [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - 
 - 
 - 
@@ -102,6 +109,9 @@ https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
 - [Yak Collective Governance](<Yak Collective Governance.md>)
 
 - "In closing, please post any links you want to share in [Yak Collective Governance](<Yak Collective Governance.md>)
+
+## [07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business'](<07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business'.md>)
+- [Alex Wagner](<Alex Wagner.md>) recording voice chat via voice memo and transcribing via [Descript app](https://www.descript.com). [Praful Mathur](<Praful Mathur.md>) will taking over notes for future [Yak Collective Governance](<Yak Collective Governance.md>)
 
 ## [August 28th, 2020](<August 28th, 2020.md>)
 - [Yak Collective Governance](<Yak Collective Governance.md>)
@@ -118,11 +128,21 @@ Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) foc
 ## [Project Launch Checklist](<Project Launch Checklist.md>)
 - Schedule with [Yak Collective Governance](<Yak Collective Governance.md>)
 
+## [September 25th, 2020](<September 25th, 2020.md>)
+- [Yak Collective Governance](<Yak Collective Governance.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [online-governance](<online-governance.md>) + [online-governance-studies](<online-governance-studies.md>) »»» [Yak Collective Governance](<Yak Collective Governance.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [Yak Collective Governance](<Yak Collective Governance.md>)
+
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - [Yak Collective Governance](<Yak Collective Governance.md>)
 
 ## [YC Client Project](<YC Client Project.md>)
 - Filed in [Yak Collective Governance](<Yak Collective Governance.md>)
+
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- **[About](<About.md>):** __chat minutes for [September 25th, 2020](<September 25th, 2020.md>) [Yak Collective Governance](<Yak Collective Governance.md>)
 
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Yak Collective Governance](<Yak Collective Governance.md>)
@@ -134,6 +154,15 @@ Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) foc
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Yak Collective Governance](<Yak Collective Governance.md>)
+
+## [Yak Talk](<Yak Talk.md>)
+- [Grigori Milov](<Grigori Milov.md>) – Editor, writer for [online-governance](<online-governance.md>) [Yak Collective Governance](<Yak Collective Governance.md>)
+
+## [Yak Talk Futurecasting – Working Notes](<Yak Talk Futurecasting – Working Notes.md>)
+- __Potential to collaborate with [online-governance](<online-governance.md>) [Yak Collective Governance](<Yak Collective Governance.md>)
+
+## [Yak Talk Minutes – 07112020](<Yak Talk Minutes – 07112020.md>)
+- Good starting point for this week for [Yak Collective Governance](<Yak Collective Governance.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - governance source docs » [Yak Collective Governance](<Yak Collective Governance.md>)

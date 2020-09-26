@@ -36,8 +36,16 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [template/header](<template/header.md>)

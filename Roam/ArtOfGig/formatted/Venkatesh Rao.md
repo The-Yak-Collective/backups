@@ -344,6 +344,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - Think potential energy. Build up an asset and network over years. Don’t look for ways to generate leads from a cold start in weeks. What you do now might get you leads in 2021. Think leadgen with a min 12 month horizon - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - **Meeting Lead:** [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -379,6 +382,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - [Six Uneasy Pieces](<Six Uneasy Pieces.md>) — needs primary but [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Nature is Healing](<Nature is Healing.md>) — [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)

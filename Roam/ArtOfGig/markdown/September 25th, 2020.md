@@ -1,0 +1,5 @@
+- [[Yak Collective Governance]] weekly chat 09:00 PT
+    - [[Jenna Dixon]] #gardened #online-governance + #online-governance-studies »»» [[Yak Collective Governance]] or consistency #ping [[Hugo Macedo]] [[Nathan Acks]]
+    - [[Jenna Dixon]] #gardened [[Yak Collective Governance]] »»» added [[template/header]] #ping [[Hugo Macedo]] [[Nathan Acks]]
+    - 
+- 

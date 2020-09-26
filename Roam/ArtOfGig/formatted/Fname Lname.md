@@ -74,10 +74,24 @@
 
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
+
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
 
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - [Fname Lname](<Fname Lname.md>)

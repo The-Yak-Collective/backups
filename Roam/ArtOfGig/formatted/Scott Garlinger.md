@@ -63,6 +63,9 @@ The synchronization of brain and environment moves closer with each advent. The 
 ## [The New Old Home](<The New Old Home.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 

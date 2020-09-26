@@ -42,8 +42,16 @@
 - **[Last Updated](<Last Updated.md>):** [September 22nd, 2020](<September 22nd, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- **[Last Updated](<Last Updated.md>):** [September 25th, 2020](<September 25th, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):**
+
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):**
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Last Updated](<Last Updated.md>):** `/today`
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [template/header](<template/header.md>)

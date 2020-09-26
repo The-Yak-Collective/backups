@@ -1,3 +1,4 @@
+- [September 11th, 2020](<../../September 11th, 2020.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FS-GqXaAxxX.jpeg?alt=media&token=1c375434-68cf-4c1e-ba90-12247a54a170)
 - 
 - [Hershil Patel](<../../Hershil Patel.md>)

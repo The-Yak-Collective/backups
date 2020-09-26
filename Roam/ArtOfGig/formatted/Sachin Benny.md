@@ -133,6 +133,9 @@
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 https://artplusmarketing.com/avoiding-anchoring-effect-in-marketing-f48802f6b978 [Sachin Benny](<Sachin Benny.md>)
 
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [Sachin Benny](<Sachin Benny.md>)
+
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
