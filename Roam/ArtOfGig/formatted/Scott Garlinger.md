@@ -54,6 +54,9 @@
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 8:30 PM - 9:00PM US Central Time, hosted by [Scott Garlinger](<Scott Garlinger.md>).
 
+## [Production Cell](<Production Cell.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
 ## [Summary: 26th May Brainstorm](<Summary: 26th May Brainstorm.md>)
 The synchronization of brain and environment moves closer with each advent. The difference with Kernel is... a recursive, real-time sync?" [Scott Garlinger](<Scott Garlinger.md>)
 

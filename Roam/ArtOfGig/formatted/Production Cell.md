@@ -9,7 +9,7 @@
 ...of what’s next]]
         - [Amanda Reeves](<Amanda Reeves.md>)
         - [Sachin Benny](<Sachin Benny.md>)
-    - [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) 
+    - [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>) 
         - [Siva Swaroop](<Siva Swaroop.md>)
         - [Venkatesh Rao](<Venkatesh Rao.md>)
 - 
@@ -30,43 +30,49 @@
     - graph LR
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
 - # 2. Production contributor roles — stub
-    - ## Developmental editor aka Referee
+    - ## Developmental editors aka Referees
         - __Read at the forest level. Big picture on structure and content. 
-More formal than reader or sparring partner.__
+More formal than [reader](<reader.md>) or [sparring-partner](<sparring-partner.md>).__
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
-            - [Firstname Lastname](<Firstname Lastname.md>)
+            - [Scott Garlinger](<Scott Garlinger.md>)
+                - [Astonishing Stories](<Astonishing Stories.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Grigori Milov](<Grigori Milov.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
-    - ## Copy editor
-        - __Read at the tree level. Lover of details.__
+    - ## Copyeditors
+        - __Read at the tree level. Lover of details.__ 
+        - __Revise manuscripts to improve readability and fitness, as well as ensuring that text is free of grammatical and factual errors. Align texts with__ [Yak House Style](<Yak House Style.md>), __keeping the preferred style, grammar, spelling, and punctuation consistent across project. Make simple revisions to smooth awkward passages (no license to rewrite line by line). Query structural and organizational problems (not expected to fix these problems).__
+        - fmi: [Copyediting](https://en.wikipedia.org/wiki/Copy_editing) (Wikipedia)
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
-            - [Firstname Lastname](<Firstname Lastname.md>)
+            - [Alex Dobrenko](<Alex Dobrenko.md>)
+                - [Astonishing Stories](<Astonishing Stories.md>)
             - [Jenna Dixon](<Jenna Dixon.md>)
-    - ## Design/layout
-        - __Work with [Yak Collective Website](<Yak Collective Website.md>) to add projects to the website. 
+    - ## Design & Layout
+        - __Work with__ [Yak Collective Website](<Yak Collective Website.md>) __to add projects to the website. 
 Native, Webflow, Carrd, Google Slides....__
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
             - [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>)
+                - [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Grigori Milov](<Grigori Milov.md>)
             - [Jenna Dixon](<Jenna Dixon.md>)
-    - ## Proofread
-        - __Super helpful to have eyes on that have never seen a piece before. 
-Eg restaurant menu proofreader, back when that was a thing.__
+    - ## Proofreaders
+        - __Proofreading is the final step in the editorial cycle before publication. A proofreader looks at an increment of text on the manuscript and compares it to the corresponding typeset increment and marks any errors. Proofreaders have no editorial authority; they can mark queries for typesetters, editors, or authors.__
+        - fmi: [Proofreading](https://en.wikipedia.org/wiki/Proofreading) (Wikipedia)
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
-            - [Firstname Lastname](<Firstname Lastname.md>)
+            - [Amanda Reeves](<Amanda Reeves.md>)
+                - [Astonishing Stories](<Astonishing Stories.md>)
             - [Jenna Dixon](<Jenna Dixon.md>)
         - 
-    - ## 🎨 Illustrations 🎨
+    - ## 🎨 Illustrators 🎨
         - __On their own production timeline. Can be original or found. If found, prefer CC.__
         - ### Original illustrations
             - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
@@ -100,6 +106,9 @@ Eg restaurant menu proofreader, back when that was a thing.__
 # Backlinks
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 - [Sachin Benny](<Sachin Benny.md>) will add folks to [Production Cell](<Production Cell.md>)
+
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+- [ ] [Jenna Dixon](<Jenna Dixon.md>) share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [Production Cell](<Production Cell.md>)
 
 ## [September 20th, 2020](<September 20th, 2020.md>)
 - [Jenna Dixon](<Jenna Dixon.md>) added [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) to [Production Cell](<Production Cell.md>)

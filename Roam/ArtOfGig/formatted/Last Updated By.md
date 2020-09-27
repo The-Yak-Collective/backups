@@ -14,8 +14,8 @@
 - **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Last Updated](<Last Updated.md>):**
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+- **[Last Updated](<Last Updated.md>):** [September 26th, 2020](<September 26th, 2020.md>) 10:00 PT
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
@@ -27,7 +27,7 @@
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Marketing Resources](<Marketing Resources.md>)
-- **[Last Updated](<Last Updated.md>):** `/today`
+- **[Last Updated](<Last Updated.md>):** [September 25th, 2020](<September 25th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Production Cell](<Production Cell.md>)
@@ -35,7 +35,7 @@
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)
-- **[Last Updated](<Last Updated.md>):** [September 24th, 2020](<September 24th, 2020.md>)
+- **[Last Updated](<Last Updated.md>):** [September 26th, 2020](<September 26th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
@@ -48,6 +48,10 @@
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):**
+
+## [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+- **[Last Updated](<Last Updated.md>):** [September 26th, 2020](<September 26th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)

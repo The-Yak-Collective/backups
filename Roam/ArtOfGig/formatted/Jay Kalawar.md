@@ -6,7 +6,7 @@
 ## [06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief](<06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief.md>)
 - [Jay Kalawar](<Jay Kalawar.md>)
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - [Human Hibernation and Space Colonization](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86d9c7c2bb_7_0) | [Jay Kalawar](<Jay Kalawar.md>)
 
 - [Billions of Miles: Keeping Young, Growing Wiser](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86d9c7c2bb_7_157) | [Jay Kalawar](<Jay Kalawar.md>)

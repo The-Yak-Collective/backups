@@ -8,13 +8,16 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Siva Swaroop](<Siva Swaroop.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Hugo Macedo](<Hugo Macedo.md>)
+- {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[Additional Page Wranglers](<Additional Page Wranglers.md>)}
 
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
@@ -42,6 +45,10 @@
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)

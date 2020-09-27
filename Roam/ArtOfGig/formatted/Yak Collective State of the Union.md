@@ -24,7 +24,7 @@
         - [Production Cell](<Production Cell.md>) cell
 [Jenna Dixon](<Jenna Dixon.md>) lead
     - **Active Cells**
-        - [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) cell
+        - [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>) cell
 [Siva Swaroop](<Siva Swaroop.md>) lead
         - [Yaks do innovation consulting](<Yaks do innovation consulting.md>) cell
 [Vaughn Tan](<Vaughn Tan.md>) lead

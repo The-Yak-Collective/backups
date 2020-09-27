@@ -11,9 +11,6 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>)
 ## [Roam](<Roam.md>)
 last updated:: [September 24th, 2020](<September 24th, 2020.md>)
 
-## [Roam Gardening](<Roam Gardening.md>)
-- **[Last Updated](<Last Updated.md>):** [September 24th, 2020](<September 24th, 2020.md>)
-
 ## [Threat Model](<Threat Model.md>)
 last updated:: [September 24th, 2020](<September 24th, 2020.md>)
 

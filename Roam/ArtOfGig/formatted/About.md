@@ -36,6 +36,9 @@
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[About](<About.md>):**
 
+## [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+- **[About](<About.md>):**
+
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[About](<About.md>):**
 

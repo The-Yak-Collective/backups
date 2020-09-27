@@ -14,8 +14,8 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Jenna Dixon](<Jenna Dixon.md>) 
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
@@ -48,6 +48,10 @@
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):**
+
+## [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)

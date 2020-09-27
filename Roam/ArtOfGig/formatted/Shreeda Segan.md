@@ -32,7 +32,7 @@
 ## [Directory](<Directory.md>)
 - [Shreeda Segan](<Shreeda Segan.md>)
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - [Shreeda Segan](<Shreeda Segan.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)

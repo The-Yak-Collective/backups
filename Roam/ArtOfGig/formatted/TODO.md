@@ -30,6 +30,17 @@
 ## [Directory](<Directory.md>)
 - {{[TODO](<TODO.md>)}
 
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - {{[TODO](<TODO.md>)}
 

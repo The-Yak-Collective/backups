@@ -44,7 +44,7 @@ last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nat
 ## [Production Cell](<Production Cell.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)
 
-- __Work with [Yak Collective Website](<Yak Collective Website.md>)
+- __Work with__ [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Things We Need](<Things We Need.md>)
 - Check out the [Yak Collective Website](<Yak Collective Website.md>)

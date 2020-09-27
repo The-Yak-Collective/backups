@@ -7,6 +7,9 @@
 ## [IT Infrastructure](<IT Infrastructure.md>)
 last updated:: [September 25th, 2020](<September 25th, 2020.md>)
 
+## [Marketing Resources](<Marketing Resources.md>)
+- **[Last Updated](<Last Updated.md>):** [September 25th, 2020](<September 25th, 2020.md>)
+
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - **[About](<About.md>):** __chat minutes for [September 25th, 2020](<September 25th, 2020.md>)
 

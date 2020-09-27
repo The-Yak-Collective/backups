@@ -12,9 +12,14 @@
 - **[Involved in](<Involved in.md>):** 
     - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) as enabler
     - [infrastructure](<infrastructure.md>) as interested 
+    - [Roam Gardening](<Roam Gardening.md>)
+    - Pages Wrangler in
+        - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[Additional Page Wranglers](<Additional Page Wranglers.md>)}}}}
 - Current pipeline - highlevel
     - kickoff [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
-    - Yak Onboarding and Roam
+    - Yak Onboarding and [Roam Gardening](<Roam Gardening.md>)
+- Ping
+    - {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>)}}}
 
 # Backlinks
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
@@ -23,13 +28,24 @@
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+- [ ] ping: [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Hugo Macedo](<Hugo Macedo.md>)
+- {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){
+
+- {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>)}
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+## [Marketing Resources](<Marketing Resources.md>)
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
@@ -59,4 +75,11 @@
 - [Hugo Macedo](<Hugo Macedo.md>)
 
 - Initial random notes from [Hugo Macedo](<Hugo Macedo.md>)
+
+## [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- before we get a way to hack notifications we use the tag [ping](<ping.md>) and the name of the person (page) -  "Let me know what you think [Hugo Macedo](<Hugo Macedo.md>)
 

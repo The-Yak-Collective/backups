@@ -12,6 +12,11 @@
 - Involved in:: 
     - [[YC Marketing - distributed CMO]] as enabler
     - [[infrastructure]] as interested 
+    - [[Roam Gardening]]
+    - Pages Wrangler in
+        - {{[[query]]: {and: [[Hugo Macedo]]{or: [[Chief Page Wrangler]][[Additional Page Wranglers]]}}}}
 - Current pipeline - highlevel
     - kickoff [[YC Marketing - distributed CMO]]
-    - Yak Onboarding and Roam
+    - Yak Onboarding and [[Roam Gardening]]
+- Ping
+    - {{[[query]]: {and: [[ping]][[Hugo Macedo]]}}}

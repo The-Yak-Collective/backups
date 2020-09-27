@@ -9,7 +9,7 @@
 ...of what’s next]]
         - [[Amanda Reeves]]
         - [[Sachin Benny]]
-    - [[Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans]] 
+    - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]] 
         - [[Siva Swaroop]]
         - [[Venkatesh Rao]]
 - 
@@ -30,43 +30,49 @@
     - graph LR
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
 - # 2. Production contributor roles — stub
-    - ## Developmental editor aka Referee
+    - ## Developmental editors aka Referees
         - __Read at the forest level. Big picture on structure and content. 
-More formal than reader or sparring partner.__
+More formal than #reader or #sparring-partner.__
         - Add your name here if interested in this role::
-            - [[Firstname Lastname]]
+            - [[Scott Garlinger]]
+                - [[Astonishing Stories]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Grigori Milov]]
             - [[Firstname Lastname]]
-    - ## Copy editor
-        - __Read at the tree level. Lover of details.__
+    - ## Copyeditors
+        - __Read at the tree level. Lover of details.__ 
+        - __Revise manuscripts to improve readability and fitness, as well as ensuring that text is free of grammatical and factual errors. Align texts with__ [[Yak House Style]], __keeping the preferred style, grammar, spelling, and punctuation consistent across project. Make simple revisions to smooth awkward passages (no license to rewrite line by line). Query structural and organizational problems (not expected to fix these problems).__
+        - fmi: [Copyediting](https://en.wikipedia.org/wiki/Copy_editing) (Wikipedia)
         - Add your name here if interested in this role::
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
-            - [[Firstname Lastname]]
+            - [[Alex Dobrenko]]
+                - [[Astonishing Stories]]
             - [[Jenna Dixon]]
-    - ## Design/layout
-        - __Work with [[Yak Collective Website]] to add projects to the website. 
+    - ## Design & Layout
+        - __Work with__ [[Yak Collective Website]] __to add projects to the website. 
 Native, Webflow, Carrd, Google Slides....__
         - Add your name here if interested in this role::
             - [[Suwaythan Nahaganeshan]]
+                - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Grigori Milov]]
             - [[Jenna Dixon]]
-    - ## Proofread
-        - __Super helpful to have eyes on that have never seen a piece before. 
-Eg restaurant menu proofreader, back when that was a thing.__
+    - ## Proofreaders
+        - __Proofreading is the final step in the editorial cycle before publication. A proofreader looks at an increment of text on the manuscript and compares it to the corresponding typeset increment and marks any errors. Proofreaders have no editorial authority; they can mark queries for typesetters, editors, or authors.__
+        - fmi: [Proofreading](https://en.wikipedia.org/wiki/Proofreading) (Wikipedia)
         - Add your name here if interested in this role::
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
-            - [[Firstname Lastname]]
+            - [[Amanda Reeves]]
+                - [[Astonishing Stories]]
             - [[Jenna Dixon]]
         - 
-    - ## 🎨 Illustrations 🎨
+    - ## 🎨 Illustrators 🎨
         - __On their own production timeline. Can be original or found. If found, prefer CC.__
         - ### Original illustrations
             - Add your name here if interested in this role::

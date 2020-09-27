@@ -47,6 +47,8 @@
 ## [Production Cell](<Production Cell.md>)
 - [Amanda Reeves](<Amanda Reeves.md>)
 
+- [Amanda Reeves](<Amanda Reeves.md>)
+
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>)
 

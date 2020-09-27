@@ -8,7 +8,7 @@
     - initiative for less radio silence and having the first welcoming 
 - Production committee
     - Needs on [Yaks do innovation consulting](<Yaks do innovation consulting.md>) project
-    - Illustrator needs on [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) project
+    - Illustrator needs on [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>) project
     - Other needs?
 - - Cells list - Active
     - Projects

@@ -14,12 +14,15 @@
 - For one-off meetings, please coordinate among yourselves and post to the events channel or other appropriate channel. These will not be added to the group calendar unless it is a major one like a town hall.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[About](<About.md>):** all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) 
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [Hugo Macedo](<Hugo Macedo.md>)
+- {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[
 
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[About](<About.md>):** where and how do we communicate and engage with the target audience - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
@@ -37,6 +40,10 @@
 - **[About](<About.md>):** Taking care our ~~garden~~ Roam to ensure is updated and easy to use, by establishing style guides and practice periodic maintenance tasks.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+- [Chief Page Wrangler](<Chief Page Wrangler.md>)
+
+- Anyone can create a page as long they use the [template/header](<template/header.md>) and define a [Chief Page Wrangler](<Chief Page Wrangler.md>)
+
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[About](<About.md>):** __XXX__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
@@ -47,6 +54,10 @@
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[About](<About.md>):** YC Marketing capability
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+- **[About](<About.md>):** Defines our agreed conventions on how to use Roam
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)

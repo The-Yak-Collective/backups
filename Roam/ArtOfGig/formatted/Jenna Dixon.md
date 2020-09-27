@@ -43,6 +43,19 @@
 
 - **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+^^[Jenna Dixon](<Jenna Dixon.md>)^
+
+- ^^[Jenna Dixon](<Jenna Dixon.md>)^
+
+- [ ] [Jenna Dixon](<Jenna Dixon.md>)
+
+- [x] [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Production Cell](<Production Cell.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -82,8 +95,14 @@
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 
+## [September 26th, 2020](<September 26th, 2020.md>)
+- Started on [Roam Gardening](<Roam Gardening.md>) and [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) [ping](<ping.md>) [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [Jenna Dixon](<Jenna Dixon.md>)
+
+## [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jenna Dixon](<Jenna Dixon.md>)
