@@ -29,6 +29,13 @@ jobs:
           ROAMRESEARCH_USER: ${{ secrets.ROAM_USER }}
           ROAMRESEARCH_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
           ROAMRESEARCH_DATABASE: ArtOfGig
+      - name: Backup Astonishing_Stories graph
+        run: |
+          roam-to-git --skip-git Roam/Astonishing_Stories
+        env:
+          ROAMRESEARCH_USER: ${{ secrets.ROAM_USER }}
+          ROAMRESEARCH_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
+          ROAMRESEARCH_DATABASE: Astonishing_Stories
       - name: Commit changes
         uses: elstudio/actions-js-build/commit@v3
         with:
