@@ -1,0 +1,1 @@
+- **Collapse **scenarios are built around a major disruption to social order, and society can no longer function in the way it has been accustomed to. Collapse might be triggered by a variety of catalysts: economic instability, environmental overload, moral degradation, civil war, natural disaster, and of course pandemic.

@@ -20,5 +20,5 @@
 
 # Backlinks
 ## [Start Here](<Start Here.md>)
-- [Sandbox Page](<Sandbox Page.md>)
+- To familiarize yourself with Roam, start at [Sandbox Page](<Sandbox Page.md>)
 

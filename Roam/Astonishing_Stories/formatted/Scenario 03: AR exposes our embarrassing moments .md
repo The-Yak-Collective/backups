@@ -1,0 +1,45 @@
+- ## Fragments (2 or more):
+    - [Fragment 020: Your 25th birthday dossier](<Fragment 020: Your 25th birthday dossier.md>)
+        - In a [collapse](<collapse.md>) future [a decade](<a decade.md>) from now, there is an [ritual](<ritual.md>) related to [justice](<justice.md>) that creates a feeling of [shame](<shame.md>). On your 25th birthday, a public dossier is compiled of everything offensive or controversial you've said or done. it's visible to potential employers, friends, partners etc.
+    - [Fragment 038: AR tagging](<Fragment 038: AR tagging.md>)
+        - In a [transformation](<transformation.md>) future [a generation](<a generation.md>) from now, there is an [sticker](<sticker.md>) related to [identity](<identity.md>) that creates a feeling of [dread](<dread.md>). Augmented reality tagging has gone out of control - businesses and people are concerned that slight social misunderstandings lead to clouds of negative words, images, and thought imprints following them around, affecting their social interactions.
+- ## Describe this scenario
+    - [Common Thread](<Common Thread.md>)
+    - Most people view and interact with the world through AR glasses or ocular implants. People's public dossiers follow them around in a sort of bubble cloud of information that can be easily seen and explored by those they interact with and pass by in "meatspace." The tendency for people to remake themselves or live a different life in cyberspace intensifies.
+- ## What tensions, paradoxes, challenges exist in this world?
+    - You could imagine a lot of mechanisms cropping up to support this. One is insurance--getting employment, happy relationships, etc. insured against negative dossier comments. But also HIPAA-type laws that determine who can see what in AR, the process for getting the record "expunged" because you're a juvenile or for some other reason, and so having the AR bubbles blurred out, different social norms popping up--people bond or chemistry develops over embarassing moments first or at the same time as more typical things like looks or sense of humor, and of course records getting mixed up--accidentally having someone else's embarrassing tweets attached to your name and following you around in AR. It could be considered suspicious if people are bubble-less (without any AR details following them around, as if they've never done anything embarrassing that's been recorded). Stereotypes, biases, and prejudices could also develop based on certain classes of controversies that color our interactions with one another.
+- ## What year is this scenario set in?
+    - 2035 in the United States
+- ## How did we get from here to there?
+    - This is a future in which both collapse and profound transformation have occurred. 
+    - The pandemic led to a sustained downturn in economic activity as vaccines were less successful than hoped. A decent one isn't widely distributed until 2025 and it only confers short-lived, partial immunity. Frequent booster shots are required. Virtual technology develops apace spurred by remote working and learning requirements. AR glasses and ocular implants start to go mainstream in 2032 and more and more people view and interact with the world through them, grafting an increasingly vibrant online world onto an increasingly subdued meatspace world. An increasing proportion of people's everyday social interaction occurs online.
+    - In 2030, an HR/employment-tech B2B startup creates a Public Dossiers product--a compilation done at age 25 of everything offensive or controversial you've said or done, mostly online but offline as well. The tech spread and now often follows them around in a sort of AR-bubble cloud of information that can be easily seen and explored by those they interact with and pass by in "meatspace."
+- ## How does it feel to live in this time?
+    - Many things are the same: politics is as contentious as ever. The military is doing its thing. The physical environment and physical infrastructure are roughly the same. A few broad things have changed. Economic activity is subdued but still vigorous and capable of meeting most people's needs. 5G becomes ubiquitous and is an underlying technology that makes AR and public dossiers work.
+    - The largest sources of change concern the role of information in everyday life and the social ramifications.
+    - There is continuing uncertainty and wariness about technology in daily life. Like many transformative technologies, there are many pundits and prognosticators foretelling doom on one side and espousing the wonderful-life enhancing benefits of the the new technology on the other. The perception of the lay public falls along a similar spectrum, but nascent norms, behaviors, technologies, laws, and policies are already beginning to crop up as people adapt. New forms of insurance are being developed--getting employment, happy relationships, etc. insured against negative dossier comments. HIPAA-type laws are being proposed that delineate who can see what in AR as well as the process for getting the record "expunged" because your embarrassing or controversial actions were done as a juvenile.
+    - Different social norms begin to form as well--people bond or chemistry develops over embarrassing moments first or at the same time as more typical things like looks or sense of humor, and of course records getting mixed up--accidentally having someone else's embarrassing tweets attached to your name and following you around in AR, and people who are suspiciously bubble-less (without any AR details following them around), and then of course all the prejudices and biases that color our interactions with one another.
+    - The tendency for people to remake themselves or live a different life in cyberspace intensifies.
+    - There have been potentially positive effects though--more activities are centered around the home and families have become stronger as a result. Social networks are more geographically constrained. Far flung travel is less common.
+    - New cultural norms develop
+- ## Who wins in this future? Who loses?
+    - Given the heterogeneity of the virus itself and its varying effects on different groups of people, younger countries with less virulent strains did relatively well but older countries with more virulent strains have done relatively worse.
+    - Other winners include:
+        - (1) As a result of reduced economic activity, families that can exist on a single income--however, more families can do this as remote working technology allows relocation to lower COL areas
+        - (2) By extension of (1), families who earn income in non-service sectors are better off.
+        - (3) People who value and are better at developing fewer, deeper relationships since places like bars and events like music festivals, networking events, etc. are more limited.
+    - Losers include:
+        - Many service jobs that include or require lots of face-to-face interaction. --hospitality, restaurants, etc.
+        - Extroverts and social butterflies, except online, although the standard tools are still rudimentary and not like meatspace
+        - People prone to embarrassing moments.
+        - Creative or free-thinking people who make controversial statements.
+- ## How do people talk about the choices we made in 2020?
+    - 
+- ## What keeps you up at night?
+    - 
+- **Described by:** [Ben S](<Ben S.md>)
+
+# Backlinks
+## [Sprint 2: Scenarios](<Sprint 2: Scenarios.md>)
+- [Scenario 03: AR exposes our embarrassing moments ](<Scenario 03: AR exposes our embarrassing moments .md>)
+

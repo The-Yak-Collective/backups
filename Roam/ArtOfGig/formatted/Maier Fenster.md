@@ -32,7 +32,7 @@ owner:: [Maier Fenster](<Maier Fenster.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
+- **[gardeners](<gardeners.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 ## [Threat Model](<Threat Model.md>)
 - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"

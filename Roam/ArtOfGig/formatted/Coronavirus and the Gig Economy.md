@@ -13,5 +13,5 @@ Sorry, Roam noob here. If the above page title or where it should be linked shou
 - [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>):
 
 ## [Start Here](<Start Here.md>)
-- Welcome to the [Yak Collective](<Yak Collective.md>) community Roam database. The goal is to build a resource that is long-term useful to the gig economy community, starting with immediately useful things related to the [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>)
+- Initially, useful things here are primarily related to the [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>)
 

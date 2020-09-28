@@ -26,3 +26,7 @@
 ## [Start Here](<Start Here.md>)
 - Welcome to the [Yak Collective](<Yak Collective.md>)
 
+- The content and construction mirrors the basic methods of [Yak Collective](<Yak Collective.md>),
+
+- Participation in a project is the point, so joining  [Yak Collective](<Yak Collective.md>)
+

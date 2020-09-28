@@ -1,0 +1,8 @@
+- **Scenario:** 
+    - In a [[collapse]] future [[a century]] from now, there is a [[tool]] related to [[forests]] that creates a feeling of [[longing]].
+- Fragment:: 
+    - Forest fires have burned down major parts of all national parks in the US. Hikers now wear a neural link that simulates the smell, touch and look of a forest. When the user returns to the basecamp they have to go through a cleaning process to remove all the ash and dirt from their body, which reminds them of the time when forests were real
+- Created by:: [[sachin]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348992122770&cot=11)
+- **Pockets of this future visible in the present**
+    - 

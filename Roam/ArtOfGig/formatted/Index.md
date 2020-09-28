@@ -51,5 +51,5 @@
 - Check out the [Start Here](<Start Here.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>)
 
 ## [Start Here](<Start Here.md>)
-- Now check out the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then go to the [Index](<Index.md>)
+- [ ] Find the [Index](<Index.md>)
 

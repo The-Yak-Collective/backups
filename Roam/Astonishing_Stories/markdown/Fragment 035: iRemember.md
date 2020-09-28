@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[transformation]] future [[a generation]] from now, there is an [[instrument]] related to [[family]] that creates a feeling of [[anxiety]].
+- Fragment:: 
+    - iRemember: Apple creates a device that records your thoughts and memories. Combined with your digital footprint (public and private), this instrument allows you and your family to remember everything about you, now and forever.
+- Created by:: [[Alex Dobrenko]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942644114&cot=6)
+- **Pockets of this future visible in the present**
+    - 

@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[discipline]] future [[a few years]] from now, there is an [[advertisement]] related to [[agriculture]] that creates a feeling of [[delight]].
+- Fragment:: 
+    - In a few years, an ad for seeds that can be densely packed together allows a young couple to finally grow most of their vegetables on their fire escape, significantly reducing their need to go out for shopping and risking infection, and allowing them to completely end their DTC pseudo-CSA subscription.
+- Created by:: [[Mike Wimsatt]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348949446752&cot=11)
+- **Pockets of this future visible in the present**
+    - Small space permaculture

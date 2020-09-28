@@ -1,0 +1,13 @@
+- **Terrain** is the thematic context or location where this object could be found in that future.
+- [[agriculture]]
+    - {{[[query]]: {and: [[agriculture]]}}}
+- [[learning]] 2
+    - {{[[query]]: {and: [[learning]]}}}
+- [[wealth]] 2
+    - {{[[query]]: {and: [[wealth]]}}}
+- [[drones]] 2
+    - {{[[query]]: {and: [[drones]]}}}
+- [[family]]
+    - {{[[query]]: {and: [[family]]}}}
+- [[cloning]]
+    - {{[[query]]: {and: [[cloning]]}}}

@@ -1,0 +1,11 @@
+- ## Fragments:
+    - [[Fragment 016: Hyperpersonalized homeschooling kit]]
+        - a kit of hyper personalized learning tools based on quantified activity from the previous year. This could be subjects, training for specific activities etc. coincides with increase in homescholling
+    - [[Fragment 026: Hygiene 3.0]]
+        - A post-pandemic hygiene 3.0 world, where people across all different types of relationships touch each other far less and generally keep a higher level of distance between one another. Personalised biotechnology continues to develop at a rapid rate as triggered by the pandemic, to serve the purpose of maintaining personal health/hygience. Social norms of a disciplinary nature develop around this.
+- ## Describe this world
+    - [[Collision Forces]]
+    - Collision force 1: Homeschooling becomes the educational norm by way of law for hygiene/public health purposes  
+- ## What tensions, paradoxes, challenges exist in this world?
+    - The intellectual advancement that comes with a more precise and effective form of homeschooling versus the partial alienation of homeschooling, which has been mandated by law for public health purposes. Note partial here because technology now allows a level of interaction with peers that was not possible before the age of computing. However an interesting challenge here is the idea of play in this type of future. How will children replace playing with one another, an important form of development, in a hyperpersonalised home schooled hygiene 3.0 world? 
+- **Described by:** [[Kannen]]

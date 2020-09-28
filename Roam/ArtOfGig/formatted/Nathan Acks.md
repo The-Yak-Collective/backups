@@ -128,9 +128,11 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[last updated](<last updated.md>):** [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-- **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>)
+- **[srn](<srn.md>):** [Nathan Acks](<Nathan Acks.md>)
+
+- **[gardeners](<gardeners.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 

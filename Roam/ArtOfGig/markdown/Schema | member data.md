@@ -1,39 +1,44 @@
 - status:: draft v1 [[August 24th, 2020]]
-- last updated:: [[September 12th, 2020]] by [[Nathan Acks]]
-- srn:: [[Fname Lname]]
-- contributors:: [[Vinay Débrou]] | [[Maier Fenster]] | [[Nathan Acks]] | [[Jordan Peacock]]
+- last updated:: 
+    - [[September 12th, 2020]] by [[Nathan Acks]]
+    - [[September 27th, 2020]] by [[Jenna Dixon]]
+- srn:: [[Nathan Acks]]
+- gardeners:: [[Vinay Débrou]] | [[Maier Fenster]] | [[Nathan Acks]] | [[Jordan Peacock]]
 - # Current Website Member Data Template
-    - name::
+    - UID::
         - ^^Required^^ Internal member ID, used for webpage URLs and some website `<div/>` IDs.
             - [[Nathan Acks]] says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [[Knack]]), I'd use some kind of non-name UID (`a34bce`, etc.) instead.
         - Example: `nathan-acks`
-    - title::
+            - {{[[TODO]]}} [[September 27th, 2020]] [[Jenna Dixon]] »»» ~~agree totally. Out of the box we can have~~ `Nathan-Acks` -- ~~ie I'll have to find a way to lower case the names. I also would suggest~~ `Acks-Nathan` ie `Lname-Fname` ~~to make sorting the list in the backend with a click possible.~~ hold this thought, I may be misunderstanding what you are suggesting above. ID should __not__ use actual names, will get Knack to autogenerate a non-name UID √
+    - Name::
         - ^^Required^^ Full member name.
         - Example: `Nathan Acks`
-    - date::
+    - Join Date::
         - ^^Required^^ Member "join date". Generally the date of the first project that member is associated with.
         - Example: `2020-05-03`
-    - indie_status::
+    - Indie Status::
         - __Optional__ Number of year the member has been indie.
         - Example: `1 year`
-    - tagline::
+    - Tagline::
         - __Optional__ The member's chosen self-description.
         - Example: `Armchair Futurist / Defense Against the Dark Arts`
-    - current::
+    - Current::
         - __Optional__ Member's current role, projects, etc.
         - Example: `Wannabe hacker`
-    - previously::
+    - Previously::
         - __Optional__ Previous roles that the member has had, organizations worked for, etc.
         - Example: `The Public Interest Network`
-    - twitter::
+    - Twitter::
         - __Optional__ The member's Twitter handle, sans the https://twitter.com/ bit.
         - Example: `nathan_acks`
-    - avatar::
+    - Avatar::
         - ^^Required^^ Path (relative to the web root) of the member's avatar.
         - Example: `/assets/dynamic/nathan-acks.jpg`
+            - {{[[TODO]]}} #ping ^^ link or upload? jd ^^ [[September 27th, 2020]]
     - links::
         - __Optional__ A YAML array of link objects. Each object has a **url:** attribute (the, well, URL) and a **title:** attribute (the name that should be used for this URL).
         - Example: `[{title: Homepage, url: https://delphi-strategy.com/}, {title: Photography, url: https://digital-orrery.com/}, {title: Web Log, url: https://ecopunk.info/}]`
+            - {{[[TODO]]}} #ping ^^ we wouldn't ask them to do this, would we? just ask for the links+lables? hmmm /jd^^ [[September 27th, 2020]]
     - content::
         - __Optional__ Free-form content using Markdown. Currently unused.
         - This isn't a "real" field -- rather members are currently represented using Markdown files in a `members` [Jekyll collection](https://jekyllrb.com/docs/collections/). All of the information __except__ this field is YAML frontmatter, while the **content:** is just the actual Markdown data.

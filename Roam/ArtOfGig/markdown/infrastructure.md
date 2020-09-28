@@ -197,7 +197,7 @@
             - Define set of specs - to do a roam page, here there are 3 fields. 
                 - Use Knack? 
         - 3. CMO role
-- ### infrastructure chat 9.20.2020 [[September 20th, 2020]]
+- ### infrastructure chat 19 9.20.2020 [[September 20th, 2020]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FA7_7gZSq2J.png?alt=media&token=91c594a8-94c9-401d-8466-0c3b0ec1c019)
     - Discordpy
         - Testing for activity ```javascript
@@ -273,7 +273,85 @@
         - {{[[DONE]]}} yak map: is it time? [[Darren Kong]]check with Vinay (data schema)
             - {{[[TODO]]}} receive reply from [[Vinay Débrou]]
     - 
-- 
+- infrastructure chat 20 09.27.2020 [[September 27th, 2020]]
+    - Yak talk newsletter
+        - Hey everyone, myself and a few of the yak talk team will be dropping in today to talk about the newsletter, how its changing, and how we can collaborate.
+    - What I know...
+- YakTalk
+- YakMap data schema
+- YakMap form: confirm build in Knack (or out)
+- Knack login ready for first testing >>> https://yak.knack.com/yaks#yak-profile/
+        - first pass close!
+        - haven't added yak map member
+        - haven't made any ask of members
+        - Maier integration testing with the API 
+            - Do we want to embed in yakcollective website?  (iframe)
+        - member speedbump
+            - fill out knack profile before contributing to a project? 
+            - knack profile to replace the signup google form? 
+                - add the post-sign up page with discord invite link
+                    - also show the active projects and how to get involved, who to contact, CFP 
+                        - project tracking in knack
+                    - don't have to solicit engagement but more an invitation with 3 options
+                        - 1. read more?
+                        - 2. jump in? 
+                    - We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [[Hugo Macedo]] 
+                        - what's a successful onboarding: 
+                            - {{[[DONE]]}} Profile created
+                            - {{[[DONE]]}} joined discord 
+                                - {{[[DONE]]}} intro in discord
+                            - {{[[DONE]]}} go to Roam and read Start Here
+                        - What's the "minimum viable interaction" you need to feel included/part of? 
+assume that you can't know/digest everything at once - YC is a complex and labyrintic  mansion just pick a small "room"
+                    - Way for members to get announcements or updates from projects
+            - internal fields for project contributions -> display member page 
+    - updated infrastructure map 
+    - discord python library - discord onboarding experience or analytics - no update 
+    - now page - no update, priority for this week - wrap into astonishing stories branch
+        - yakcollective.org/now or /current  
+    - Newsletter
+        -  Praful taking over from Alex and Matt
+        - newsletter has a global team 
+        - weekly cadence
+        - been hard to sustain
+        - proposal
+            - make the newsletter more sustainable 
+            - newsletter as an interface for engaging w YC as an "outsider"
+            - jobs to be done
+                - level up as a freelancer
+                - social group
+            - train up a network of members that can lead projects 
+            - sections
+                - member spotlight
+                - decision
+            - get a few stories drafted by Tues/Wed and edit Wed/Thurs ... send out on Fridays
+                - have less intensity around requiring every track to be represented
+        - automate the production of yak talk more... center it more around project updates w/ editors providing commentary? 
+            - project updates, analytics -> aggregated for newsletter
+                - update could be knack form
+                    -  single place to update would be great. instead of discord, email, call...
+        - content in some ways can actually detract from figuring out what's going on in yak collective
+        - possibility of using another tool besides substack like buttondown 
+            - substack doesn't have good analytics
+        - crosschecking member emails vs substack emails 
+        - GPT-3 assisted newsletter writing?
+    - Yak Map
+        - market through discord announcement channel and Yak Talk newsletter
+        - form draft in channel
+        - open questions
+            - knack vs google form? 
+                - allowing members to change data in knack with the rest of their profile... could be a separate section 
+                    - GDPR
+                    - can pull in the data via the API 
+                - although updates don't HAVE to be real-time
+            - are there fields that we want to add? 
+            - bio cards
+                - iframe?
+                - api -> biocard will need help
+                    - will be used to generate markdown format 
+        - push to launch next week
+        - jenna - share admin page 
+    - paul updated start here page 
 - 
 - 
 - 

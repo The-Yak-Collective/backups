@@ -1,0 +1,37 @@
+- ## Inspired by fragments (2 or more):
+    - [[Fragment 002: The Dunning-Kruger Supplement]]
+        - "The Dunning-Kruger supplement is what you take right after you start to realize that you don't know what you are talking about. Even though there are more errors that happen, we realized that they were not as bad as being stuck in old ways of thinking. Truth-sayers use the supplement to stop themselves from being dragged down by the dominant logic of old models."
+    - [[Fragment 017: Virtual HouseGuest]]
+        - "Virtual HouseGuest - family can now drop in and participate in your normal routine. Dinner time, movie night, by ringing a virtual doorbell and being invited to cameras and screens within the house"
+    - [[Fragment 023: Police shame ritual]]
+        - "An annual ceremony. Police lay on the ground and chant "I can't breathe" as a reminder to be just in our actions and embody shame for past actions"
+    - [[Fragment 042: The Medicis are back]]
+        - "We return to the rennaisance era where art and enterprise is solely funded by wealthy families. Return to the medicis and symbols of medicis and the families become as ubiquitous as the apple logo"
+    - Yak Collective consulting
+- ## Describe this scenario
+    - Relationship consultants for people. Like wedding planners for everyday events but an almost religious-like order.
+    - Super romantic people are really rich because they can afford the right consultants. 
+    - Just like great design thinking, agile, etc. of the 2020s we have rituals around events like holidays, events, important milestones in relationships including breakups. 
+    - These are based on an algorithm for the most 'meaningful' life. This means that some events that seem random will happen because it was judged best for everyone involved. 
+    - Sometimes groups of people will come together for a special celebration or event to create it. Even breakups will have other people of the order participating to create the ritual of the breakup.
+    - Gifts are based on "top n lists" from years ago that no one knows where they came from.
+    - Members of the order are paid 'scale' like SAG union members are paid depending on their roles. Everyone is trying to get more and more central roles in the events. Some people are very famous in the world of the order.
+- ## What year is this scenario set in?
+    - 2040
+- ## How does it feel to live in this time?
+    - More connected than ever with people in your life. 
+    - Long tail relationships are not as important. This was learned through the connecting of everyone in the 2020s and how horrible it became.
+    - You know that participating in the rituals show you care rather than depending on you actually doing the things. 
+    - But in the back of your mind you wonder how it would be without these rituals.
+- ## Who wins in this future? Who loses?
+    - Power still matters but money slightly less so.
+    - People that don't participate are seen to be not caring about each other. Like luddites they find other ways to muddle along.
+- ## How did we get from here to there?
+    - Improving people's strengths mostly focused on being less biased, more confidence, and more easy going with VUCA. 
+    - Their weaknesses like living up to other people's standards were not really improved for a while. That is until people started to realize that it wasn't them that was bad it was the expectations that couldn't be changed. We all bought diamond rings anyways. 
+- ## How do people talk about the choices we made in 2020?
+    - We were barbaric in how we treated each other. Why would anyone want to forget a special event on purpose?!
+- ## What keeps you up at night?
+    - What happens when relationship maintenance becomes "secular?"
+    - Do powerful people get away with more of what they want in relationships by consultants back-channeling to other consultants?
+- **Described by:** [[Chris Butler]]

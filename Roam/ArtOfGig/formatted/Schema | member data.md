@@ -1,39 +1,44 @@
 - **[status](<status.md>):** draft v1 [August 24th, 2020](<August 24th, 2020.md>)
-- **[last updated](<last updated.md>):** [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-- **[srn](<srn.md>):** [Fname Lname](<Fname Lname.md>)
-- **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>) | [Jordan Peacock](<Jordan Peacock.md>)
+- **[last updated](<last updated.md>):** 
+    - [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+    - [September 27th, 2020](<September 27th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[srn](<srn.md>):** [Nathan Acks](<Nathan Acks.md>)
+- **[gardeners](<gardeners.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>) | [Jordan Peacock](<Jordan Peacock.md>)
 - # Current Website Member Data Template
-    - **[name](<name.md>):**
+    - **[UID](<UID.md>):**
         - ^^Required^^ Internal member ID, used for webpage URLs and some website `<div/>` IDs.
             - [Nathan Acks](<Nathan Acks.md>) says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [Knack](<Knack.md>)), I'd use some kind of non-name UID (`a34bce`, etc.) instead.
         - Example: `nathan-acks`
-    - **[title](<title.md>):**
+            - [ ] [September 27th, 2020](<September 27th, 2020.md>) [Jenna Dixon](<Jenna Dixon.md>) »»» ~~agree totally. Out of the box we can have~~ `Nathan-Acks` -- ~~ie I'll have to find a way to lower case the names. I also would suggest~~ `Acks-Nathan` ie `Lname-Fname` ~~to make sorting the list in the backend with a click possible.~~ hold this thought, I may be misunderstanding what you are suggesting above. ID should __not__ use actual names, will get Knack to autogenerate a non-name UID √
+    - **[Name](<Name.md>):**
         - ^^Required^^ Full member name.
         - Example: `Nathan Acks`
-    - **[date](<date.md>):**
+    - **[Join Date](<Join Date.md>):**
         - ^^Required^^ Member "join date". Generally the date of the first project that member is associated with.
         - Example: `2020-05-03`
-    - **[indie_status](<indie_status.md>):**
+    - **[Indie Status](<Indie Status.md>):**
         - __Optional__ Number of year the member has been indie.
         - Example: `1 year`
-    - **[tagline](<tagline.md>):**
+    - **[Tagline](<Tagline.md>):**
         - __Optional__ The member's chosen self-description.
         - Example: `Armchair Futurist / Defense Against the Dark Arts`
-    - **[current](<current.md>):**
+    - **[Current](<Current.md>):**
         - __Optional__ Member's current role, projects, etc.
         - Example: `Wannabe hacker`
-    - **[previously](<previously.md>):**
+    - **[Previously](<Previously.md>):**
         - __Optional__ Previous roles that the member has had, organizations worked for, etc.
         - Example: `The Public Interest Network`
-    - **[twitter](<twitter.md>):**
+    - **[Twitter](<Twitter.md>):**
         - __Optional__ The member's Twitter handle, sans the https://twitter.com/ bit.
         - Example: `nathan_acks`
-    - **[avatar](<avatar.md>):**
+    - **[Avatar](<Avatar.md>):**
         - ^^Required^^ Path (relative to the web root) of the member's avatar.
         - Example: `/assets/dynamic/nathan-acks.jpg`
+            - [ ] [ping](<ping.md>) ^^ link or upload? jd ^^ [September 27th, 2020](<September 27th, 2020.md>)
     - **[links](<links.md>):**
         - __Optional__ A YAML array of link objects. Each object has a **url:** attribute (the, well, URL) and a **title:** attribute (the name that should be used for this URL).
         - Example: `[{title: Homepage, url: https://delphi-strategy.com/}, {title: Photography, url: https://digital-orrery.com/}, {title: Web Log, url: https://ecopunk.info/}]`
+            - [ ] [ping](<ping.md>) ^^ we wouldn't ask them to do this, would we? just ask for the links+lables? hmmm /jd^^ [September 27th, 2020](<September 27th, 2020.md>)
     - **[content](<content.md>):**
         - __Optional__ Free-form content using Markdown. Currently unused.
         - This isn't a "real" field -- rather members are currently represented using Markdown files in a `members` [Jekyll collection](https://jekyllrb.com/docs/collections/). All of the information __except__ this field is YAML frontmatter, while the **content:** is just the actual Markdown data.

@@ -42,7 +42,7 @@
 - [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[contributors](<contributors.md>):** [Vinay Débrou](<Vinay Débrou.md>)
+- **[gardeners](<gardeners.md>):** [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [Summary: 27th May Brainstorm](<Summary: 27th May Brainstorm.md>)
 2. sharing neural data to public, private circles   and no-one. Something tells me it wouldn't be the repeat of the ongoing conversation on digital data privacy [Vinay Débrou](<Vinay Débrou.md>)

@@ -52,9 +52,6 @@
 ## [Production Cell](<Production Cell.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>)
 
-## [Schema | member data](<Schema | member data.md>)
-- **[srn](<srn.md>):** [Fname Lname](<Fname Lname.md>)
-
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
 

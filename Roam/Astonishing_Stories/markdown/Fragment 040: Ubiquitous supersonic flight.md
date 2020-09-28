@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[discipline]] future [[a generation]] from now, there is an [[device]] related to [[flight]] that creates a feeling of [[pride]].
+- Fragment:: 
+    - Supersonic flight becomes ubiquitous and Moore's law for air-travel is defined - "flight costs per mile reduce by 75% everytime flight time reduces by half".
+- Created by:: [[sachin]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849827657&cot=6)
+- **Pockets of this future visible in the present**
+    - 

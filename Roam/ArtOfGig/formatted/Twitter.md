@@ -22,6 +22,10 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Twitter](<Twitter.md>)
 
+## [Schema | member data](<Schema | member data.md>)
+- Example: `The Public Interest Network`
+    - **[Twitter](<Twitter.md>):**
+
 ## [Thomas Lisankie](<Thomas Lisankie.md>)
 - **[Email](<Email.md>):** hello@tomlisankie.com
 - **[Twitter](<Twitter.md>):**

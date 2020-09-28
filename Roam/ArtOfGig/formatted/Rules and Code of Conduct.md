@@ -13,5 +13,5 @@
 - YC operates by a simple [Rules and Code of Conduct](<Rules and Code of Conduct.md>)
 
 ## [Start Here](<Start Here.md>)
-- Now check out the [Rules and Code of Conduct](<Rules and Code of Conduct.md>)
+- The community is codifying [Rules and Code of Conduct](<Rules and Code of Conduct.md>),
 

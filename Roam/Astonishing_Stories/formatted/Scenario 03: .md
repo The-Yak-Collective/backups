@@ -1,0 +1,10 @@
+- ## Fragments:
+    - [Fragment name](<Fragment name.md>)
+        - [Fragment description](<Fragment description.md>)
+    - [Fragment name](<Fragment name.md>)
+        - [Fragment description](<Fragment description.md>)
+- ## Describe this world
+    - 
+- ## What tensions, paradoxes, challenges exist in this world?
+    - 
+- **Described by:** [[]]

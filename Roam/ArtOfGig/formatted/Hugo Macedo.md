@@ -83,3 +83,6 @@
 
 - before we get a way to hack notifications we use the tag [ping](<ping.md>) and the name of the person (page) -  "Let me know what you think [Hugo Macedo](<Hugo Macedo.md>)
 
+## [infrastructure](<infrastructure.md>)
+- We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [Hugo Macedo](<Hugo Macedo.md>)
+
