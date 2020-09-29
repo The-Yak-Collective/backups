@@ -45,7 +45,7 @@
 - Anyone can create a page as long they use the [template/header](<template/header.md>) and define a [Chief Page Wrangler](<Chief Page Wrangler.md>)
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
-- **[About](<About.md>):** __XXX__
+- **[About](<About.md>):** __Project launch activity and planning__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)

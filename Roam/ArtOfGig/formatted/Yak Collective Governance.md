@@ -79,6 +79,10 @@ https://jobs.netflix.com/culture
     - Context: https://hbr.org/2014/01/how-netflix-reinvented-hr
 https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
 https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
+    - On Fifth Generation Management, added by [Grigori Milov](<Grigori Milov.md>)
+https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
+    - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
+    - 
 - [Governance Tests](<Governance Tests.md>)
 - 
 - ## [Governance Meetings Minutes](<Governance Meetings Minutes.md>)

@@ -39,7 +39,7 @@
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
-- **[Last Updated](<Last Updated.md>):** [September 22nd, 2020](<September 22nd, 2020.md>)
+- **[Last Updated](<Last Updated.md>):** [September 28th, 2020](<September 28th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)

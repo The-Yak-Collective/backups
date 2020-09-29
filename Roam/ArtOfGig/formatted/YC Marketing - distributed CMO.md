@@ -124,16 +124,15 @@ artifacts that we need or have that will be the base of our communication - what
                 - Survey
         - good old SWOT that everyone understands
             - {{[table](<table.md>)}}
-                - ^^**Strengths**
+                - ^^** Strengths **
 ^^Diversity - skills, experience, sectors, mind-sets
-                    - ^^**Weakness**
+                    - ^^** Weakness **
 ^^coordinate effort in a decentralized organization
 consistency of message
-                - ^^**Opportunities**
+                - ^^** Opportunities **
 ^^size and footprint of the network
 content from the network
-
-                    - ^^**Threats **^^
+                    - ^^** Threats **^^
 Yaks competing for attention
         - Ideas need sorting
             - YC Publication (twitter, blog, podcast, newsletter) - curated content from the YC
@@ -158,6 +157,8 @@ Yaks competing for attention
     - [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
     - {{embed: ((3v5fGASRG))}}
     - [Yak Collective Website](<Yak Collective Website.md>)
+- ### Meeting Notes
+    - {{[query](<query.md>): {and: [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) [meeting-notes](<meeting-notes.md>)}}}
     - 
 
 # Backlinks
@@ -184,6 +185,12 @@ Yaks competing for attention
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>) Started [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [September 29th, 2020](<September 29th, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- {{[query](<query.md>): {and: [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

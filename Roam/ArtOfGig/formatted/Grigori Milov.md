@@ -128,6 +128,8 @@
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>)
 
+- On Fifth Generation Management, added by [Grigori Milov](<Grigori Milov.md>)
+
 ## [Yak Talk](<Yak Talk.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

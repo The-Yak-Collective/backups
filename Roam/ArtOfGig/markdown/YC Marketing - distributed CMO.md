@@ -124,16 +124,15 @@ artifacts that we need or have that will be the base of our communication - what
                 - Survey
         - good old SWOT that everyone understands
             - {{[[table]]}}
-                - ^^**Strengths**
+                - ^^** Strengths **
 ^^Diversity - skills, experience, sectors, mind-sets
-                    - ^^**Weakness**
+                    - ^^** Weakness **
 ^^coordinate effort in a decentralized organization
 consistency of message
-                - ^^**Opportunities**
+                - ^^** Opportunities **
 ^^size and footprint of the network
 content from the network
-
-                    - ^^**Threats **^^
+                    - ^^** Threats **^^
 Yaks competing for attention
         - Ideas need sorting
             - YC Publication (twitter, blog, podcast, newsletter) - curated content from the YC
@@ -158,4 +157,6 @@ Yaks competing for attention
     - [[Yak Branding Principles Proposal]]
     - {{embed: ((3v5fGASRG))}}
     - [[Yak Collective Website]]
+- ### Meeting Notes
+    - {{[[query]]: {and: [[YC Marketing - distributed CMO]] [[meeting-notes]]}}}
     - 

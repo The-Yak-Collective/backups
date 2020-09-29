@@ -45,6 +45,16 @@ e.g. positioning
     - 
 - # Use cases best practices
     - Meeting minutes
+        - One option is to include in daily note with #meeting-notes tag and associated page/tag #to-be-decided
+            - {{[[slider]]}}
+            - Pros: 
+                - you don't have to search where does the project/cell files the minutes - they will be reference in the page and can be filtered or queried via `meeting-notes` tag
+            - Cons:
+                - makes daily notes with too much content
+                    - you can "close" the block so only if you want you dive into the details
+                - change current behaviour
+                    - we can argue that there's no better time then now :) 
+                    - we can tag previous meeting notes with `meeting-notes` tag to make it consistent 
     - Project Pages
     - Cell Pages
 - 
