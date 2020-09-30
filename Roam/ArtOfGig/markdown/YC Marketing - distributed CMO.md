@@ -3,7 +3,11 @@
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
 - Last Updated:: [[September 20th, 2020]]
 - Last Updated By:: [[Hugo Macedo]]
--  
+- 
+- ### Meeting Notes 
+    - {{[[query]]: {and: [[YC Marketing - distributed CMO]] [[meeting-notes]]}}}
+    - 
+- 
 - # Background
     - request for help on establishing a YC Marketing function 
         - from discord announcements channel by [[Venkatesh Rao]]
@@ -39,10 +43,11 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - ...
     - Workflows - how the team operates, coordinates and communicates
         - channels & tools
+            - `yc-marketing` discord channel 
         - recurring calls
 - # Workstreams
     - [[Foundations - Positioning]]
-all foundational topics related to the value proposition, benefits, barriers, target personas, [[branding]]
+all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning
     - [[Showcase Projects Launch]]
 how do we launch showcase projects to maximize target visibility and engagement
     - [[Marketing Channels]]
@@ -157,6 +162,3 @@ Yaks competing for attention
     - [[Yak Branding Principles Proposal]]
     - {{embed: ((3v5fGASRG))}}
     - [[Yak Collective Website]]
-- ### Meeting Notes
-    - {{[[query]]: {and: [[YC Marketing - distributed CMO]] [[meeting-notes]]}}}
-    - 

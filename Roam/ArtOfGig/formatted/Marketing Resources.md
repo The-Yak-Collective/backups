@@ -12,6 +12,9 @@
 - 
 
 # Backlinks
+## [September 29th, 2020](<September 29th, 2020.md>)
+- "[Marketing Resources](<Marketing Resources.md>)
+
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - [Marketing Resources](<Marketing Resources.md>)
 

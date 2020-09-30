@@ -47,6 +47,9 @@
 ## [Marketing Resources](<Marketing Resources.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Movement Marketing: 4 Strategies For Sparking A Brand Movement](<Movement Marketing: 4 Strategies For Sparking A Brand Movement.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
@@ -59,6 +62,17 @@
 - [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [online-governance](<online-governance.md>) + [online-governance-studies](<online-governance-studies.md>) »»» [Yak Collective Governance](<Yak Collective Governance.md>) or consistency [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [Yak Collective Governance](<Yak Collective Governance.md>) »»» added [template/header](<template/header.md>) [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>)
+
+## [September 29th, 2020](<September 29th, 2020.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- "[ ] book a some time to go over AS launch plan" [Hugo Macedo](<Hugo Macedo.md>)
+
+- [ ] book weekly call [Hugo Macedo](<Hugo Macedo.md>)
+
+- [ ] Share initial Workstreams [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)

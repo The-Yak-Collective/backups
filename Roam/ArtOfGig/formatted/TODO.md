@@ -51,6 +51,19 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [September 29th, 2020](<September 29th, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
+
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - {{[TODO](<TODO.md>)}
 

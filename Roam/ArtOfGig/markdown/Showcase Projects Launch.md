@@ -2,11 +2,13 @@
 - Chief Page Wrangler:: [[Hugo Macedo]] 
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
 - Last Updated:: [[September 28th, 2020]]
-- Last Updated By:: [[Hugo Macedo]] 
+- Last Updated By:: [[Hugo Macedo]] [[Grigori Milov]]
 - ----------------------------------------------
+- Governance? (TBC)
 - ### Upcoming Launches (TBC)
     - [[Astonishing Stories]] - date?
     - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]] - date?
+    - [[Innovation Consulting]] - WTF happened to it? [[Grigori Milov]]
 - # Launch Framework
     - `defines the steps, checklists and can become a template to be filled together with the Project owner`
     - **Goal of the Product**

@@ -2,11 +2,13 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):** [September 28th, 2020](<September 28th, 2020.md>)
-- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>) [Grigori Milov](<Grigori Milov.md>)
 - ----------------------------------------------
+- Governance? (TBC)
 - ### Upcoming Launches (TBC)
     - [Astonishing Stories](<Astonishing Stories.md>) - date?
     - [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>) - date?
+    - [Innovation Consulting](<Innovation Consulting.md>) - WTF happened to it? [Grigori Milov](<Grigori Milov.md>)
 - # Launch Framework
     - `defines the steps, checklists and can become a template to be filled together with the Project owner`
     - **Goal of the Product**
@@ -44,6 +46,11 @@
         - 
 
 # Backlinks
+## [September 29th, 2020](<September 29th, 2020.md>)
+- Urgent - "[Showcase Projects Launch](<Showcase Projects Launch.md>)
+
+- [Showcase Projects Launch](<Showcase Projects Launch.md>)
+
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - [Showcase Projects Launch](<Showcase Projects Launch.md>)
 

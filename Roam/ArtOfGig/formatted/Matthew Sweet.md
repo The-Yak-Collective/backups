@@ -6,6 +6,9 @@
 ## [Marketing Channels](<Marketing Channels.md>)
 - Update from [Matthew Sweet](<Matthew Sweet.md>)
 
+## [September 29th, 2020](<September 29th, 2020.md>)
+- [Matthew Sweet](<Matthew Sweet.md>)
+
 ## [Substack](<Substack.md>)
 owner:: [Matthew Sweet](<Matthew Sweet.md>)
 

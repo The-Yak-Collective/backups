@@ -3,7 +3,11 @@
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
--  
+- 
+- ### Meeting Notes 
+    - {{[query](<query.md>): {and: [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) [meeting-notes](<meeting-notes.md>)}}}
+    - 
+- 
 - # Background
     - request for help on establishing a YC Marketing function 
         - from discord announcements channel by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -39,10 +43,11 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - ...
     - Workflows - how the team operates, coordinates and communicates
         - channels & tools
+            - `yc-marketing` discord channel 
         - recurring calls
 - # Workstreams
     - [Foundations - Positioning](<Foundations - Positioning.md>)
-all foundational topics related to the value proposition, benefits, barriers, target personas, [branding](<branding.md>)
+all foundational topics related to the value proposition, benefits, barriers, target personas, [branding](<branding.md>), [positioning](<positioning.md>)
     - [Showcase Projects Launch](<Showcase Projects Launch.md>)
 how do we launch showcase projects to maximize target visibility and engagement
     - [Marketing Channels](<Marketing Channels.md>)
@@ -157,9 +162,6 @@ Yaks competing for attention
     - [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
     - {{embed: ((3v5fGASRG))}}
     - [Yak Collective Website](<Yak Collective Website.md>)
-- ### Meeting Notes
-    - {{[query](<query.md>): {and: [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) [meeting-notes](<meeting-notes.md>)}}}
-    - 
 
 # Backlinks
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)

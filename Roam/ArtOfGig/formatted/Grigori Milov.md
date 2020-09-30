@@ -88,6 +88,11 @@
 
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [Movement Marketing: 4 Strategies For Sparking A Brand Movement](<Movement Marketing: 4 Strategies For Sparking A Brand Movement.md>)
+- reference by [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
@@ -95,6 +100,22 @@
 - [Grigori Milov](<Grigori Milov.md>)
 
 - [Grigori Milov](<Grigori Milov.md>)
+
+## [September 29th, 2020](<September 29th, 2020.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+- How do we know that we are actually in a position to help? E. g. are we familiar with different channels that sci-fiction writers and publishers are using? Can we ramp up our presence there before the AS launch? How? Is it going to be helpful for YC as a whole? [Grigori Milov](<Grigori Milov.md>)
+
+But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori Milov.md>)
+
+- [Movement Marketing](https://www.strawberryfrog.com/movement-marketing-4-strategies-for-sparking-a-brand-movement) ref by [Grigori Milov](<Grigori Milov.md>)
+
+## [Showcase Projects Launch](<Showcase Projects Launch.md>)
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>) [Grigori Milov](<Grigori Milov.md>)
+
+- [Innovation Consulting](<Innovation Consulting.md>) - WTF happened to it? [Grigori Milov](<Grigori Milov.md>)
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [Grigori Milov](<Grigori Milov.md>)

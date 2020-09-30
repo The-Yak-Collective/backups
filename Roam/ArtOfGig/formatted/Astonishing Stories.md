@@ -18,6 +18,9 @@
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - added [Justice](<Justice.md>) to [Production Cell](<Production Cell.md>) illustrator. working on [Astonishing Stories](<Astonishing Stories.md>)
 
+## [September 29th, 2020](<September 29th, 2020.md>)
+- [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - [Astonishing Stories](<Astonishing Stories.md>)
 

@@ -106,6 +106,13 @@
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>)
 
+## [September 29th, 2020](<September 29th, 2020.md>)
+- [Sachin Benny](<Sachin Benny.md>)
+
+- [Sachin Benny](<Sachin Benny.md>)
+
+- "[ ] book a some time to go over AS launch plan" [Hugo Macedo](<Hugo Macedo.md>) [Sachin Benny](<Sachin Benny.md>)
+
 ## [Six Uneasy Pieces](<Six Uneasy Pieces.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
