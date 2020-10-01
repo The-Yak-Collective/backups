@@ -1,6 +1,6 @@
 - Welcome to the [Yak Collective](<Yak Collective.md>) community Roam database. 
 - This resource aims to be of on-going use to the gig economy community. 
-- The content and construction mirrors the basic methods of [Yak Collective](<Yak Collective.md>), similar to open source software: decentralized, communal, voluntary participation, booting up greater expertise through iterative refinements 
+- The content and construction mirrors the basic methods of [Yak Collective](<Yak Collective.md>), similar to open source software: decentralized, communal, voluntary participation, booting up greater expertise through iterative refinements. IF you haven't yet read the website introductory post, go here: https://www.yakcollective.org/about/
 - There's several ways to plug into the collective
     - Discord is a bazaar that hosts a wide range of topics. It's chatty, and you'll learn who is most active, which correlates with their engagement & expertise
     - To familiarize yourself with Roam, start at [Sandbox Page](<Sandbox Page.md>) to learn basics. There's also a [Help Database](https://roamresearch.com/#/v8/help/page/1308)
