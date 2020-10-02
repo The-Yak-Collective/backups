@@ -5,6 +5,11 @@
 - 
 
 # Backlinks
+## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+- ^^[Astonishing Stories](<Astonishing Stories.md>)
+
+- **Project:** [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - Template and content updates for the upcoming [Astonishing Stories](<Astonishing Stories.md>)
 
@@ -19,8 +24,5 @@
 - added [Justice](<Justice.md>) to [Production Cell](<Production Cell.md>) illustrator. working on [Astonishing Stories](<Astonishing Stories.md>)
 
 ## [September 29th, 2020](<September 29th, 2020.md>)
-- [Astonishing Stories](<Astonishing Stories.md>)
-
-## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - [Astonishing Stories](<Astonishing Stories.md>)
 

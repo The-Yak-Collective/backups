@@ -25,6 +25,11 @@
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 - [ ] suggest: connect with [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 

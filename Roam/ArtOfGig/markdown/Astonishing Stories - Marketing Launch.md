@@ -1,0 +1,65 @@
+- About:: __Marketing Launch plan for Astonishing Stories project__
+- Chief Page Wrangler:: [[Hugo Macedo]] 
+    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
+- Last Updated:: [[October 1st, 2020]]
+- Last Updated By:: [[Hugo Macedo]] 
+-  
+- ^^[[Astonishing Stories]] team - please help fill out the fields bellow - especially the highlighted^^
+- 
+- # Launch Plan 
+    - **Project:** [[Astonishing Stories]]
+    - **Goal of the Product**
+        - To generate awareness to Yak Collective
+        - To position YC in foresight and prospective 
+    - **Launch success:**
+        - ^^{{[[TODO]]}} what success looks like?^^
+            - AS webpages visits?
+            - downloads? ^^will we have any PDF downloadable format?^^
+    - **Audience**
+        - ^^{{[[TODO]]}} Who's the target audience?^^
+            - CEO's looking how the future may unfold
+            - deep Tech - AI/Crypto/Biotech/Energy/Fintech... - they are building the future with all the related society impacts
+            - Think Tanks
+            - ...
+    - **Messaging**
+        - ^^{{[[TODO]]}} oneliner/tweet^^
+            - 
+        - ^^{{[[TODO]]}} long description^^
+something real clear but interesting (not too poetic, but also not too dry) - if you have the dry-version we can later edit the copywrite
+        - {{[[TODO]]}} ^^Quote/Comment on business relevance and link to foresight/prospective skills/service^^
+            - Why did we did this? What is the value of AS to business leaders?
+        - social proof
+            - {{[[TODO]]}} can we get testimonials to validate the value? (see bellow)
+    - ^^**Pre-launch Campaign**^^
+        - ^^{{[[TODO]]}} early-access + testimonials^^
+            - get an initial interest and testimonials from a list that has exclusive pre-launch access in exchange for a testimonial
+            - Key Steps:
+                - build a list of key targets
+                    - we can distribute this across the team or YC - each yak provides 5 names
+                - provide boilerplate - to make it ease for yaks
+                - engage/message the content
+                - engage/message to request testimonial
+                - collect/curate testemonial - incorporate in website
+    - **Channels**
+        - {{[[TODO]]}} Yak talk newsletter - 1 story/week 
+        - {{[[TODO]]}} contributors social channels inc. blog/newsletters
+        - {{[[TODO]]}} other Yaks social channels inc. blog/newsletters
+        - ^^{{[[TODO]]}} 3rd party channels^^
+            - guest appearances - one of the contributors appears on well-known related media to present/talk about the project
+                - media
+                    - blogs/newsletters
+                    - podcasts
+                    - mainstream media
+                - ^^{{[[TODO]]}} identify and pitch target hosts^^
+        - other potential referrals
+            - {{[[TODO]]}} roamcult community - example of project done leveraging Roam 
+            - {{[[TODO]]}} The Thing from the Future - Situation Lab ([Stuart Candy](http://futuryst.blogspot.com/) & [Jeff Watson](http://remotedevice.net/)). 
+            - 
+    - **Launch Timeline**
+        - Launch date: `TBD`
+        - `list milestones and key activities`
+    - Potential targets - for PR
+        - https://www.newyorker.com/tech/annals-of-technology/better-business-through-sci-fi - [Nick Romeo](https://www.newyorker.com/contributors/nick-romeo)
+        - [SciFutures Probes Your Company’s Dystopian Nightmares And Dreams Up The Solutions](https://www.fastcompany.com/3063187/scifutures-probes-your-companys-dystopian-nightmares-and-dreams-up-solutions) - [BY MARK SULLIVAN](https://www.fastcompany.com/user/mark-sullivan)
+        - 
+- 

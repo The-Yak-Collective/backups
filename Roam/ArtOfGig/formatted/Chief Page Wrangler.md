@@ -6,6 +6,10 @@
 - **[About](<About.md>):** __XXX__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+- **[About](<About.md>):** __Marketing Launch plan for Astonishing Stories project__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Directory](<Directory.md>)
 - **[About](<About.md>):** __A self-generated directory of Yaks.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

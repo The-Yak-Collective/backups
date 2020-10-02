@@ -6,6 +6,10 @@
 - **[Last Updated](<Last Updated.md>):**
 - **[Last Updated By](<Last Updated By.md>):**
 
+## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+- **[Last Updated](<Last Updated.md>):** [October 1st, 2020](<October 1st, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):**
+
 ## [Directory](<Directory.md>)
 - **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**

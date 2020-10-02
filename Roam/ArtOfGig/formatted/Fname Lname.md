@@ -7,6 +7,11 @@
 
 - **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
 
+## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+
 ## [Directory](<Directory.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>) | [Fname Lname](<Fname Lname.md>)
 

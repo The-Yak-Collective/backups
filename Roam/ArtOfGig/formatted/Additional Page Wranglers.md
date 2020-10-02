@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Directory](<Directory.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Scott Allen](<Scott Allen.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**

@@ -1,0 +1,38 @@
+- [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
+    - [Maier Fenster](<Maier Fenster.md>) should this ping us only ONCE on discord? and after it pings, should it self-erase? or manual?
+- # [Nathan Acks](<Nathan Acks.md>)
+    - ## Backend
+        - Overall looks good.
+            - [Maier Fenster](<Maier Fenster.md>) i am not sure if/how i can see backend at this time
+        - It looks like Knack can't do structured fields (I'm not surprised, as that's not a very database-y thing). So I think we just need to say there are X available link slots (seems like 2 - 4 would be right), as it __looks__ like the link data type should be sufficient for our use.
+            - [Maier Fenster](<Maier Fenster.md>) not quite. you have some preset structured fields and you can, but i prefer not, to have feilds that link to other tables. another option is the multiple choice field, where you can choose several form a list. perfect for how yak-map is done now.
+            - [Maier Fenster](<Maier Fenster.md>) but that is exactly what i did in my wireup...
+            - [Maier Fenster](<Maier Fenster.md>) testing the comment button (move mouse over this line to see) {{comment-button}}
+        - It's unclear if we can submit directly to a Knack form (I can't find any documentation on this, but in all fairness it's not a documented Google Forms feature either), but we can at least [pass variables to them](https://support.knack.com/hc/en-us/articles/115000997068-How-to-Use-URL-Variables-to-Pre-Populate-a-Form).
+            - [Maier Fenster](<Maier Fenster.md>) why do we need this? is it not enough to directly populate the database
+        - Should we use `0` **Decimal places** for the **Indie Status** field?
+            - [Maier Fenster](<Maier Fenster.md>) depends what it means. maybe it should be text, perhaps multiple choice. it __was__ a year count. but that makes no sense, as time passes. 
+        - We might want to use `Rich Text` for the **Background Info** field.
+            - This should __not__ be a required field.
+        - There look to be extra fields when adding records to the `Yaks` table: **TelephoneNumber**, **Company**, **Address**. Is this on purpose?
+            - [Maier Fenster](<Maier Fenster.md>)1. maybe these are the built-in structured fields
+        - Looks like each save walks down a single formula field level?
+            - Tried creating a record; the main UID field get populated right away, but it looks like the lowercase version doesn't get populated until the __second__ save?
+                - [Maier Fenster](<Maier Fenster.md>) i think the cased ones are the internal structured fields
+            - This might not be a big deal... We could easily switch to using the cased field name internally (or we could lower-case it when pulling the data over the API).
+                - I know I originally suggested using a non-name UID, but looking at Knack, I'm not sure how to best pull this in... __Unless__ we __also__ integrate RSS feeds and project pages into Knack.
+                    - [Maier Fenster](<Maier Fenster.md>) why should we not? i think discord internal id, which si unique and unchanging should be the one
+    - ## User Experience
+        - After submitting changes to your profile, you should probably just be redirected back to **Your Public Yak Details** page.
+            - [Maier Fenster](<Maier Fenster.md>) i think it is ok as is 
+    - ## General Integration Thoughts
+        - It pains me to say this, but the more I think about it, the more it feels like basic project management/data (essentially, what lives in the `_projects` collection right now) and RSS data should live in the same place as member data. There's just too many links between the these data types.
+            - [Maier Fenster](<Maier Fenster.md>) for feeds, i agree - a user has control over which of his feeds he **wants** yc to use. we (yc) can select a subset of these. for projects, I am not sure i agree. BUT i do want a central listing of projects, and if we already have a database, what better place than knack for it? also,knack allows us to enforce minimal uniform data entry for a project 
+        - I think it still makes sense to have stand-alone pages (including member blog posts and the new "project pages" concept being rolled out for __Astonishing Stories__) live in Git (and maybe, eventually, Roam, though I'm becoming less sure about that).
+            - [Maier Fenster](<Maier Fenster.md>) while i like the idea for main project page - i told you i think project itself should always be hosted elsewhere and linked to or iframed, but for blog posts, i prefer to let readers experience the original as intended by the member.
+        - Ideally, we could even have some basic checks in Knack to make sure that project leads __have__ to do things like think of landing page text before declaring the project "ready to go live" (getting people to do this now is kind of like pulling teeth).
+            - [Maier Fenster](<Maier Fenster.md>) worth a stand alone discussion - as we define the project infrastructure path (from proposal to launch), this should be fit in
+        - I think the work Maier's done around member pages can be generalized to project pages pretty easily.
+            - [Maier Fenster](<Maier Fenster.md>) if you mean "generate from knack", then yes. and it should be
+        - One disadvantage (perhaps) of this approach is that some pages will continue to need to have author UIDs added to them, and there's probably some edge cases around field content, so webdev people will always need to have at least read-only access to Knack. This seems fine to me in a "small org" situation like ours.
+            - [Maier Fenster](<Maier Fenster.md>) what i have done (not suitable for knack forms) is store the data as a list in a field. the s/w knows how to read the list. idk, but maybe knack would support getting a uuid, testing its validity and adding it as a string concated on an existing string field.
