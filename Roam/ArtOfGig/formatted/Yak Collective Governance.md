@@ -19,12 +19,12 @@
     - [Common knowledge problem](https://plato.stanford.edu/entries/common-knowledge/)
     - [Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)
     - [Free Rider Problem](https://en.wikipedia.org/wiki/Free-rider_problem)
-- **Queued** (Governance track -- Venkat)
-    - [The Open Participatory Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
+    - Bonnita Roy stuff
+        - [The Open Participatory Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
+        - [OCO Manifesto](https://medium.com/open-participatory-organized/a-manifesto-for-open-participation-60b62d327684)
     - [Guild leaders handbook](https://nostarch.com/guildleaderhb[content](<content.md>))
-    - [OCO Manifesto](https://medium.com/open-participatory-organized/a-manifesto-for-open-participation-60b62d327684)
+- **Queued** (Governance track -- Venkat)
     - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
-    - [An Open Architecture for Self-Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09) (via Jenna Dixon)
     - Single wringable neck
         - https://www.mountaingoatsoftware.com/blog/the-fallacy-of-one-throat-to-choke
         - https://agileforall.com/agile-pondering-is-it-agile-to-have-a-single-wringable-neck/

@@ -1,5 +1,6 @@
 - [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
     - [Maier Fenster](<Maier Fenster.md>) should this ping us only ONCE on discord? and after it pings, should it self-erase? or manual?
+    - [Jenna Dixon](<Jenna Dixon.md>) thanks for starting this up Nathan [ping](<ping.md>) #[Nathan Acks](<Nathan Acks.md>) I’m on the road today [October 2nd, 2020](<October 2nd, 2020.md>) with limited connectivity. look forward to diving in on tomorrow [October 3rd, 2020](<October 3rd, 2020.md>)
 - # [Nathan Acks](<Nathan Acks.md>)
     - ## Backend
         - Overall looks good.

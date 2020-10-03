@@ -118,6 +118,8 @@
 ## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>)
 
+- [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [infrastructure](<infrastructure.md>)
 - [x] Knack: is it time? [Jenna Dixon](<Jenna Dixon.md>):
 

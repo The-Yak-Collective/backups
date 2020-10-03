@@ -225,6 +225,8 @@ last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nat
 last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
+- [Jenna Dixon](<Jenna Dixon.md>) thanks for starting this up Nathan [ping](<ping.md>) #[Nathan Acks](<Nathan Acks.md>)
+
 - # [Nathan Acks](<Nathan Acks.md>)
 
 ## [infrastructure](<infrastructure.md>)
