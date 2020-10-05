@@ -273,7 +273,7 @@
         - {{[[DONE]]}} yak map: is it time? [[Darren Kong]]check with Vinay (data schema)
             - {{[[TODO]]}} receive reply from [[Vinay Débrou]]
     - 
-- infrastructure chat 20 09.27.2020 [[September 27th, 2020]]
+- ### infrastructure chat 20 09.27.2020 [[September 27th, 2020]]
     - Yak talk newsletter
         - Hey everyone, myself and a few of the yak talk team will be dropping in today to talk about the newsletter, how its changing, and how we can collaborate.
     - What I know...
@@ -352,7 +352,35 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
         - push to launch next week
         - jenna - share admin page 
     - paul updated start here page 
-- 
+- ### Infrastructure Chat 21 10.04.2020 [[October 4th, 2020]]
+    - participants:: [[Nathan Acks]] | [[Maier Fenster]] | [[Hershil Patel]] | [[Jenna Dixon]] | [[Vinay Débrou]]
+    - Jenna has integrated the Yak Map questions into Knack.
+        - So, the idea is to drive the Yak Map first, and __then__ create an account if that makes sense.
+    - YakTalk is burned out. Too intense to produce.
+        - Needs to be reconstituted.
+    - Maier proposes "Yak Orbits" based upon [[Vaugh Tan]]'s work.
+        - Maier's idea is to present this as a non-editable field.
+        - Jenna thinks this should just be assignable on the back end.
+        - This would be an additional number, in addition to the Discord level and heat map.
+    - The idea is to use Vinay's Yak Map project to jump start data entry here.
+        - Current conceptual levels (via Vinay):
+            - Yaks (posted info)
+            - Active Yaks (participating in any form)
+                - Project Participants
+            - Made Yaks (actually named in projects)
+    - UID issues
+        - Maier suggests we use the 15 digit Discord UID
+            - General agreement that this is the way to go.
+        - Vinay's using Discord username
+    - Maier proposes that we push people from Discord -> Knack as part of onboarding
+    - Jenna thinks we have Yak Map questions __first__ in Knack
+        - Knack can send out welcome emails.
+            - But Discord won't provide these (see below).
+        - Vinay will send Jenna the initial scraped CSV. This CSV has the Discord UID.
+    - Maier points out that Discord only provides UID, username, and role
+        - We can bootstrap these comms using Maier's `yak_scraper` robot
+        - For the moment, we'll just DM people; later, we __may__ add interactivity.
+            - Reminders will be on a timer.
 - 
 - 
 - 

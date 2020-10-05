@@ -31,6 +31,14 @@ something real clear but interesting (not too poetic, but also not too dry) - if
 Our working process is open and visible to all on our Roam Graph. The future fragments were developed by Indie consultants from different industries and experience levels through playing sessions of The Thing From The Future. The fragments provided a jumping off point for authors of short speculative fiction and can be used by anyone to develop stories of their own or speculate on the post-covid world
 
 The stories here are not meant to predict the future but to be imagination extenders for entrepreneurs and consultants navigating a post-Covid landscape 
+        - ^^Questionnaire to feed the messaging^^
+            - Answering these questions will help us build the right content/messaging to market the project
+                - Who are you? "about the team to emphasise relevant experience"
+                - Why did you decided to embark on this project? 
+                - Why is this relevant to executives or other consultants? 
+                - Why now? 
+                - What was the process to arrive to this stories? 
+                - What's next?
         - {{[[TODO]]}} ^^Quote/Comment on business relevance and link to foresight/prospective skills/service^^
             - Why did we did this? What is the value of AS to business leaders?
         - social proof

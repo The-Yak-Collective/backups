@@ -82,7 +82,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 25th, 2020](<September 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
 
@@ -121,6 +121,11 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
 last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+## [October 4th, 2020](<October 4th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -227,7 +232,7 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 ## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
-- [Jenna Dixon](<Jenna Dixon.md>) thanks for starting this up Nathan [ping](<ping.md>) #[Nathan Acks](<Nathan Acks.md>)
+- [ping](<ping.md>) #[Nathan Acks](<Nathan Acks.md>)
 
 - # [Nathan Acks](<Nathan Acks.md>)
 
@@ -255,4 +260,6 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 
 ## [infrastructure](<infrastructure.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)
+
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>)
 

@@ -86,6 +86,8 @@
 ## [infrastructure](<infrastructure.md>)
 - [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)
 
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Vinay Débrou](<Vinay Débrou.md>)
+
 ## [infrastructure chat 03 5.23.2020](<infrastructure chat 03 5.23.2020.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
 

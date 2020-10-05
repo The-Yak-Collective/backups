@@ -16,5 +16,5 @@
 - [ ] [ping](<ping.md>) ^^ we wouldn't ask them to do this, would we? just ask for the links+lables? hmmm /jd^^ [September 27th, 2020](<September 27th, 2020.md>)
 
 ## [infrastructure](<infrastructure.md>)
-- infrastructure chat 20 09.27.2020 [September 27th, 2020](<September 27th, 2020.md>)
+- ### infrastructure chat 20 09.27.2020 [September 27th, 2020](<September 27th, 2020.md>)
 

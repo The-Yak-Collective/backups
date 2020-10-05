@@ -93,6 +93,12 @@ owner:: [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [infrastructure](<infrastructure.md>)
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
+
+## [onboarding it - thought about onboarding infrastructure](<onboarding it - thought about onboarding infrastructure.md>)
+- prepared by [Maier Fenster](<Maier Fenster.md>)
+
 ## [test project prez](<test project prez.md>)
 - lead: [Maier Fenster](<Maier Fenster.md>)
 

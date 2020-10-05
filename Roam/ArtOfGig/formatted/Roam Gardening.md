@@ -13,6 +13,9 @@
         - Anyone can create a page as long they use the [template/header](<template/header.md>) and define a [Chief Page Wrangler](<Chief Page Wrangler.md>)
 - ## Roam CC Theme
     - should we choose a CSS theme? What theme brings value to the content experience?
+        - [Jenna Dixon](<Jenna Dixon.md>) [October 4th, 2020](<October 4th, 2020.md>) 08:26 [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>)
+            - Roam is hard enough to get going in that staying with stock seems like a high value.
+            - I've tried various themes on my own graphs and so far they've end up borking something :} so I've go back to standard. Happy to have a Yak with better luck do a bit of customizing eg just our own color palette?
 - # Gardening Workflow
     - anyone can mark a page or block with [needsupdate](<needsupdate.md>) tag
     - A page that was re-organized is tagged with [gardened](<gardened.md>) 
@@ -28,6 +31,12 @@
 - [Roam Gardening](<Roam Gardening.md>)
 
 - Yak Onboarding and [Roam Gardening](<Roam Gardening.md>)
+
+## [Jenna Dixon](<Jenna Dixon.md>)
+- [Roam Gardening](<Roam Gardening.md>)
+
+## [October 4th, 2020](<October 4th, 2020.md>)
+- [Roam Gardening](<Roam Gardening.md>)
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - {{[query](<query.md>): {and: [needsupdate](<needsupdate.md>) {not: {or:[gardened](<gardened.md>) [Roam Gardening](<Roam Gardening.md>)]

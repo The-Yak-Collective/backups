@@ -55,10 +55,15 @@
 ## [Movement Marketing: 4 Strategies For Sparking A Brand Movement](<Movement Marketing: 4 Strategies For Sparking A Brand Movement.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [October 4th, 2020](<October 4th, 2020.md>)
+- 08:39 [Jenna Dixon](<Jenna Dixon.md>) joining [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) [October 4th, 2020](<October 4th, 2020.md>) 08:26 [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)

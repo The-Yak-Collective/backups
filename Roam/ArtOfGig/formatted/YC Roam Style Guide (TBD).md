@@ -28,10 +28,10 @@ and Roam automatic references
                     - Roam automatic references
 (optional) brief description of tag for disambiguation
 (optional) link to related tags
-            - **Formating**
+            - **Formatting**
                 - Capitalised words 
 e.g. Yak Collective Collaborations
-                    - lowecase
+                    - lowercase
 e.g. positioning
 - ### How to comment/discuss
     - Roam is still not very friendly to track discussions and comments
@@ -42,7 +42,6 @@ e.g. positioning
             - use the query command in his own page - it avoids always setting the filter each time.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FQ42qOI-5xG.png?alt=media&token=ef45b04e-cd66-4ce3-b2dd-ae77c22d4fd2)
                 - 
-    - 
 - # Use cases best practices
     - Meeting minutes
         - One option is to include in daily note with [meeting-notes](<meeting-notes.md>) tag and associated page/tag [to-be-decided](<to-be-decided.md>)
@@ -60,6 +59,12 @@ e.g. positioning
 - 
 
 # Backlinks
+## [Jenna Dixon](<Jenna Dixon.md>)
+- [Roam Gardening](<Roam Gardening.md>) [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+
+## [October 4th, 2020](<October 4th, 2020.md>)
+- [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+
 ## [Roam Gardening](<Roam Gardening.md>)
 - related to: [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
 

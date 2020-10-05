@@ -1,3 +1,10 @@
+-  2020-10-04 08:49 
+    - [x] review: Hugo's Gardening pages
+        - [Roam Gardening](<Roam Gardening.md>) [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
+    - [x] 08:59 review: AS pages https://optimistic-jennings-266cab.netlify.app/projects/astonishing-stories/ 
+    - [ ] tk
+    - 
+- {{[query](<query.md>): {and: [Jenna Dixon](<Jenna Dixon.md>) [ping](<ping.md>)}}}
 
 # Backlinks
 ## [07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process](<07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process.md>)
@@ -56,6 +63,12 @@
 
 - [x] [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Jenna Dixon](<Jenna Dixon.md>)
+- {{[query](<query.md>): {and: [Jenna Dixon](<Jenna Dixon.md>)
+
+## [October 4th, 2020](<October 4th, 2020.md>)
+- 08:39 [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Production Cell](<Production Cell.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -72,6 +85,8 @@
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Roam Help](<Roam Help.md>)
 - [August 18th, 2020](<August 18th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
@@ -122,4 +137,6 @@
 
 ## [infrastructure](<infrastructure.md>)
 - [x] Knack: is it time? [Jenna Dixon](<Jenna Dixon.md>):
+
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 

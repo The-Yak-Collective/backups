@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 25th, 2020](<September 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Assets
     ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
     [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>) has developed an SVG diagram that (currently) more completely captures the relationship between different components of the Yak Collective's IT infrastructure than is possible natively.
@@ -112,8 +112,14 @@ last updated:: [September 25th, 2020](<September 25th, 2020.md>) by [Nathan Acks
     - [Schema | member data](<Schema | member data.md>) (draft)
     - [Code Style Guide](<Code Style Guide.md>)
     - [Threat Model](<Threat Model.md>)
+# Discussions & Decisions
+    - [onboarding it - thought about onboarding infrastructure](<onboarding it - thought about onboarding infrastructure.md>)
+    - Etc.
 
 # Backlinks
+## [October 4th, 2020](<October 4th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) added [Discussions & Decisions](https://roamresearch.com/#/app/ArtOfGig/page/GfLUKnfjQ) sections to the [IT Infrastructure](<IT Infrastructure.md>)
+
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) updated the [IT Infrastructure](<IT Infrastructure.md>)
 
