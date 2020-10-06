@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Yak Network Map](<Yak Network Map.md>)
-- [infrastructure](<infrastructure.md>)
+- [Infrastructure](<Infrastructure.md>)
 - **[Meetings](<Meetings.md>):**
 

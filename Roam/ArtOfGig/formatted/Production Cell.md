@@ -110,6 +110,9 @@ Native, Webflow, Carrd, Google Slides....__
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - [ ] [Jenna Dixon](<Jenna Dixon.md>) share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [Production Cell](<Production Cell.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- Project mgt as independent role »»  [Production Cell](<Production Cell.md>)
+
 ## [September 20th, 2020](<September 20th, 2020.md>)
 - [Jenna Dixon](<Jenna Dixon.md>) added [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) to [Production Cell](<Production Cell.md>)
 
@@ -124,9 +127,6 @@ Native, Webflow, Carrd, Google Slides....__
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Production Cell](<Production Cell.md>)
-
-## [infrastructure](<infrastructure.md>)
-- Project mgt as independent role »»  [Production Cell](<Production Cell.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - proofreading for typos » [Production Cell](<Production Cell.md>)

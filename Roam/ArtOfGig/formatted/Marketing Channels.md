@@ -1,7 +1,7 @@
 - **[About](<About.md>):** where and how do we communicate and engage with the target audience - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
-- **[Last Updated](<Last Updated.md>):** `[September 22nd, 2020](<September 22nd, 2020.md>)
+- **[Last Updated](<Last Updated.md>):** [September 22nd, 2020](<September 22nd, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):** 
 -  ----------------------------------------------
 - 

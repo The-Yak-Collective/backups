@@ -31,7 +31,7 @@
         - [[Astonishing Stories
 ...of what’s next]] cell
 [[Amanda Reeves]] lead
-        - [[infrastructure]] cell 
+        - [[Infrastructure]] cell 
 [[Darren Kong]] lead
         - [[Yak Collective Governance]] cell
 [[Venkatesh Rao]] lead

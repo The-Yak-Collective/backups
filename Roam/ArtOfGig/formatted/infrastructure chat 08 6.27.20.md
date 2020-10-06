@@ -89,9 +89,6 @@
 - 
 
 # Backlinks
-## [infrastructure](<infrastructure.md>)
-- [infrastructure chat 08 6.27.20](<infrastructure chat 08 6.27.20.md>)
-
 ## [infrastructure chats](<infrastructure chats.md>)
 - [infrastructure chat 08 6.27.20](<infrastructure chat 08 6.27.20.md>)
 

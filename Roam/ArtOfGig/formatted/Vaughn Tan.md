@@ -3,6 +3,9 @@
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Vaughn Tan](<Vaughn Tan.md>):
 
+## [Infrastructure](<Infrastructure.md>)
+- Amorphous organizations article from [Vaughn Tan](<Vaughn Tan.md>)
+
 ## [Sparring Consulting](<Sparring Consulting.md>)
 - Question from [Vaughn Tan](<Vaughn Tan.md>)
 
@@ -17,7 +20,4 @@
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Thomas Hollands](<Thomas Hollands.md>)+[Greg Docter](<Greg Docter.md>) <> [Vaughn Tan](<Vaughn Tan.md>)
-
-## [infrastructure](<infrastructure.md>)
-- Amorphous organizations article from [Vaughn Tan](<Vaughn Tan.md>)
 

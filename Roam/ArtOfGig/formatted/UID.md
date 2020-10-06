@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Schema | member data](<Schema | member data.md>)
-- # Current Website Member Data Template
+- # Website Member Data Template
     - **[UID](<UID.md>):**
 

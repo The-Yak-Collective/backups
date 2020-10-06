@@ -29,14 +29,14 @@
 ## [Directory](<Directory.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+Yakcoin dev updates and discussion w/ [Johnicholas Hines](<Johnicholas Hines.md>)
+
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)
 
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)
-
-## [infrastructure](<infrastructure.md>)
-- [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>) Yakcoin dev updates and discussion w/ [Johnicholas Hines](<Johnicholas Hines.md>)
 
 ## [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)

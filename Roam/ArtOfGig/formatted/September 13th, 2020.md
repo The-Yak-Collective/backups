@@ -15,8 +15,11 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 ## [IFTTT](<IFTTT.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 
-## [Knack](<Knack.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>)
+## [Infrastructure](<Infrastructure.md>)
+- infrastructure chat 18 [September 13th, 2020](<September 13th, 2020.md>)
+
+## [Knack.com](<Knack.com.md>)
+Previous update:: [September 13th, 2020](<September 13th, 2020.md>)
 
 ## [Namecheap](<Namecheap.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>)
@@ -26,7 +29,4 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 
 ## [Twitter](<Twitter.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>)
-
-## [infrastructure](<infrastructure.md>)
-- infrastructure chat 18 9.13.2020 (notes in-line) [September 13th, 2020](<September 13th, 2020.md>)
 

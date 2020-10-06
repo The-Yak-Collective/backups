@@ -57,8 +57,8 @@ last updated:: [[October 4th, 2020]] by [[Nathan Acks]]
             - "owner:: [[Jordan Peacock]]"
         - [[Namecheap]]
             - "owner:: [[Venkatesh Rao]]"
-        - [[Knack]]
-            - "owner:: [[Maier Fenster]]"
+        - [[Knack.com]]
+            - AAhkfps_m
         - [[Roam]]
             - "owner:: [[Venkatesh Rao]]"
         - [[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))

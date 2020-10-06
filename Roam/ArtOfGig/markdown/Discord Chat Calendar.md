@@ -39,9 +39,9 @@
         UTC +2 time: 6 - 6:30pm
         Our main format will be an [[Amazonian Group Read]] focused particularly on [[Yak Collective Governance]] readings
 - **Saturday**
-    - 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) #infrastructure chat hosted by [[Darren Kong]] and you (??)
+    - 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) #Infrastructure chat hosted by [[Darren Kong]] and you (??)
         - Weekly volunteer task list pruning [[Internal Volunteer Opportunities]]
-        - Discussion on how to move forward #infrastructure , possible first spotlight will be on "indie 101 hub" [[Self-Employed life starter pack]] + [[Collaboration model/economy]]
+        - Discussion on how to move forward #Infrastructure , possible first spotlight will be on "indie 101 hub" [[Self-Employed life starter pack]] + [[Collaboration model/economy]]
             - Occasional readings posted in advance to support  
 - **Sunday**
     - 5pm - 5:30pm Eastern Time (21h00-21h30 UTC), hosted by [[Pamela Hobart]] : Philosophical Grab Bag

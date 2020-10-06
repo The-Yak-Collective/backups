@@ -22,6 +22,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Twitter](<Twitter.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- [Twitter](<Twitter.md>)
+
 ## [Schema | member data](<Schema | member data.md>)
 - Example: `The Public Interest Network`
     - **[Twitter](<Twitter.md>):**
@@ -43,7 +46,4 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 ## [Zapier](<Zapier.md>)
 - Pushes events from the Yak Collective "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)" into [Discord](<Discord.md>) and [Twitter](<Twitter.md>).
-
-## [infrastructure](<infrastructure.md>)
-- [Twitter](<Twitter.md>)
 

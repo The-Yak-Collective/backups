@@ -14,7 +14,7 @@
         - [ ] Something something new decentralized CFP
         - [ ] Blog post on experiments so far
         - [ ] State of the Union deck with [Darren Kong](<Darren Kong.md>)
-        - 
+        - [YC CONOPS -- The Natural Way to Work and Play](<YC CONOPS -- The Natural Way to Work and Play.md>)
 
 # Backlinks
 ## [[infrastructure](<infrastructure.md>) chat 02 5.16.2020](<[infrastructure](<infrastructure.md>) chat 02 5.16.2020.md>)

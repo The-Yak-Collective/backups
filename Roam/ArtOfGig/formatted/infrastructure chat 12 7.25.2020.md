@@ -30,9 +30,6 @@
 ## [July 25th, 2020](<July 25th, 2020.md>)
 - [infrastructure chat 12 7.25.2020](<infrastructure chat 12 7.25.2020.md>)
 
-## [infrastructure](<infrastructure.md>)
-- [infrastructure chat 12 7.25.2020](<infrastructure chat 12 7.25.2020.md>)
-
 ## [infrastructure chats](<infrastructure chats.md>)
 - [infrastructure chat 12 7.25.2020](<infrastructure chat 12 7.25.2020.md>)
 

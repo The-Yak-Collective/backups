@@ -34,7 +34,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
             - [GitHub](<GitHub.md>): https://github.com/The-Yak-Collective/yakcollective/tree/astonishing-stories
             - [Netlify](<Netlify.md>): https://app.netlify.com/sites/optimistic-jennings-266cab/overview
         - `knack-migration` (point: [Maier Fenster](<Maier Fenster.md>))
-            - Work on migrating member data to [Knack](<Knack.md>).
+            - Work on migrating member data to [Knack.com](<Knack.com.md>).
             - [GitHub](<GitHub.md>): https://github.com/The-Yak-Collective/yakcollective/tree/knack-migration
             - [Netlify](<Netlify.md>): https://app.netlify.com/sites/competent-shockley-33f53c/overview
         - `admin-improvements` (point: [Maier Fenster](<Maier Fenster.md>))

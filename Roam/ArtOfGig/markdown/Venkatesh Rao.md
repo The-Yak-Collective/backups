@@ -14,4 +14,4 @@
         - {{[[TODO]]}} Something something new decentralized CFP
         - {{[[TODO]]}} Blog post on experiments so far
         - {{[[TODO]]}} State of the Union deck with [[Darren Kong]]
-        - 
+        - [[YC CONOPS -- The Natural Way to Work and Play]]

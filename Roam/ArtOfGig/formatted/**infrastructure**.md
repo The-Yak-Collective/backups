@@ -1,2 +1,2 @@
-- [infrastructure](<infrastructure.md>)
+- [Infrastructure](<Infrastructure.md>)
 - 

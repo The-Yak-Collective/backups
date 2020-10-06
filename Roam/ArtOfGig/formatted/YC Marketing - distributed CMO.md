@@ -39,7 +39,7 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - [Hugo Macedo](<Hugo Macedo.md>) - enabler (better than leader)
         - [Matthew Sweet](<Matthew Sweet.md>) - involved 
         - [Grigori Milov](<Grigori Milov.md>) - member
-        - [Maier Fenster](<Maier Fenster.md>) - support and connect to [infrastructure](<infrastructure.md>) and other YC links 
+        - [Maier Fenster](<Maier Fenster.md>) - support and connect to [Infrastructure](<Infrastructure.md>) and other YC links 
         - ...
     - Workflows - how the team operates, coordinates and communicates
         - channels & tools

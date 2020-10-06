@@ -28,6 +28,10 @@
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[
 
+## [Infrastructure](<Infrastructure.md>)
+- **[About](<About.md>):** __Directory Listing for Things Discussed in Yak [Infrastructure](<Infrastructure.md>) Discord channel__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[About](<About.md>):** where and how do we communicate and engage with the target audience - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
@@ -47,6 +51,10 @@
 - [Chief Page Wrangler](<Chief Page Wrangler.md>)
 
 - Anyone can create a page as long they use the [template/header](<template/header.md>) and define a [Chief Page Wrangler](<Chief Page Wrangler.md>)
+
+## [Schema | member data](<Schema | member data.md>)
+- **[About](<About.md>):** __map of fields in__ [Knack.com](<Knack.com.md>) __member database__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[About](<About.md>):** __Project launch activity and planning__

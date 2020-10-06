@@ -108,8 +108,21 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 
-## [Knack](<Knack.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+## [Infrastructure](<Infrastructure.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Nathan Acks](<Nathan Acks.md>)
+
+- [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)
+
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>)
+
+## [Knack.com](<Knack.com.md>)
+Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>)
+
+Previous update:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- Alternate Builder access as needed: [Nathan Acks](<Nathan Acks.md>)
 
 ## [LinkedIn](<LinkedIn.md>)
 last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -133,11 +146,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)
+
 - [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-- **[srn](<srn.md>):** [Nathan Acks](<Nathan Acks.md>)
-
-- **[gardeners](<gardeners.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -229,7 +240,7 @@ last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nat
 ## [Zapier](<Zapier.md>)
 last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
+## [[Knack.com](<[Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack.com](<Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
 - [ping](<ping.md>) #[Nathan Acks](<Nathan Acks.md>)
@@ -257,9 +268,4 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 - [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
-
-## [infrastructure](<infrastructure.md>)
-- [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)
-
-- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>)
 

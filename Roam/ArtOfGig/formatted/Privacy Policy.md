@@ -17,6 +17,6 @@
 ## [August 25th, 2020](<August 25th, 2020.md>)
 - started a draft page for a privacy policy » [Privacy Policy](<Privacy Policy.md>)
 
-## [infrastructure](<infrastructure.md>)
+## [Infrastructure](<Infrastructure.md>)
 - how do we want to handle - Jenna has been leading some of that [Privacy Policy](<Privacy Policy.md>)
 

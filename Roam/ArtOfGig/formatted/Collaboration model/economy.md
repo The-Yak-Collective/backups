@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=shari
 
 # Backlinks
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
-- Discussion on how to move forward [infrastructure](<../infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<../Self-Employed life starter pack.md>) + [Collaboration model/economy](<../Collaboration model/economy.md>)
+- Discussion on how to move forward [Infrastructure](<../Infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<../Self-Employed life starter pack.md>) + [Collaboration model/economy](<../Collaboration model/economy.md>)
 
 ## [Things We Need](<Things We Need.md>)
 - [Collaboration model/economy](<../Collaboration model/economy.md>)

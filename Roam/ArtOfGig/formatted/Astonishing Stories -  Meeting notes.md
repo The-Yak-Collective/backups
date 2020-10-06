@@ -6,7 +6,7 @@
                 - [Sachin Benny](<Sachin Benny.md>) will add folks to [Production Cell](<Production Cell.md>) Illustrator section
             - Timeline for publishing stories since we are close on engaging an illustrator
                 - [Yak Talk](<Yak Talk.md>) newsletter may be going on hiatus. can be hijacked for AS stories
-                - [ ] propose: adding Newsletter link to website on the [infrastructure](<infrastructure.md>) call [September 27th, 2020](<September 27th, 2020.md>)
+                - [ ] propose: adding Newsletter link to website on the [Infrastructure](<Infrastructure.md>) call [September 27th, 2020](<September 27th, 2020.md>)
                 - [ ] suggest: connect with [Hugo Macedo](<Hugo Macedo.md>) to connect story launches with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
             - CFP process for 5 new stories 
                 - [ ] [Sachin Benny](<Sachin Benny.md>) will draft and push to [Jenna Dixon](<Jenna Dixon.md>) for review

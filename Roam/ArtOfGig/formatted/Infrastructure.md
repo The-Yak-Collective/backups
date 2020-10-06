@@ -1,12 +1,20 @@
-- 
-- __Directory Listing for Things Discussed in Yak [infrastructure](<infrastructure.md>) Discord channel__
-- ## Lists/Docs
+- **[About](<About.md>):** __Directory Listing for Things Discussed in Yak [Infrastructure](<Infrastructure.md>) Discord channel__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>) 
+- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):** [Nathan Acks](<Nathan Acks.md>)
+- **[Last Gardened](<Last Gardened.md>):** [October 5th, 2020](<October 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+    - standardized on roam-style dates in chat headers
+    - added `[meeting-notes](<meeting-notes.md>)` per [Hugo Macedo](<Hugo Macedo.md>)'s suggestion on [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) | "we can tag previous meeting notes with `meeting-notes` tag to make it consistent "
+    - added `:header:`
+    - added `[needsupdate](<needsupdate.md>)` to Lists/Docs and Upcoming chat topics
+- ## Lists/Docs [needsupdate](<needsupdate.md>)
     - [Project Launch Checklist](<Project Launch Checklist.md>)
     - [Things We Need](<Things We Need.md>)
     - [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
     - [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
     - [IT Infrastructure](<IT Infrastructure.md>)
-- ## Upcoming chat topics
+- ## Upcoming chat topics [needsupdate](<needsupdate.md>)
     - Scheduled
     - Unscheduled
         - Marketing w/ [Alex Wagner](<Alex Wagner.md>) and others
@@ -18,25 +26,36 @@
         - 2jplEZUYM
         - 
 - ## Infrastructure Chat Notes
-- [[infrastructure](<infrastructure.md>) chat 01 5.9.20](<[infrastructure](<infrastructure.md>) chat 01 5.9.20.md>) On-boarding new members [May 9th, 2020](<May 9th, 2020.md>)
-- [[infrastructure](<infrastructure.md>) chat 02 5.16.2020](<[infrastructure](<infrastructure.md>) chat 02 5.16.2020.md>) Speculative discussion on ideal-state for YC infrastructure [May 16th, 2020](<May 16th, 2020.md>)
-- [infrastructure chat 03 5.23.2020](<infrastructure chat 03 5.23.2020.md>) Updates on new-member onboarding, feedback mechanisms, event ideas [May 23th, 2020](<May 23th, 2020.md>)
-- [infrastructure chat 04 5.30.2020](<infrastructure chat 04 5.30.2020.md>) Project Capacity + experiences with Yakcoin discussion [May 30th, 2020](<May 30th, 2020.md>)
-- [infratructure chat 05 6.6.2020](<infratructure chat 05 6.6.2020.md>) didn't happen but agenda topics here [June 6th, 2020](<June 6th, 2020.md>)
-- infrastructure chat 06 6.13.2020: notes in — [Yak Collective Website](<Yak Collective Website.md>) + [Newsletter](<Newsletter.md>) [June 13th, 2020](<June 13th, 2020.md>)
+- [[infrastructure](<infrastructure.md>) chat 01](<[infrastructure](<infrastructure.md>) chat 01.md>) [May 9th, 2020](<May 9th, 2020.md>) 
+On-boarding new members [meeting-notes](<meeting-notes.md>)
+- [[infrastructure](<infrastructure.md>) chat 02](<[infrastructure](<infrastructure.md>) chat 02.md>) [May 16th, 2020](<May 16th, 2020.md>) 
+Speculative discussion on ideal-state for YC infrastructure [meeting-notes](<meeting-notes.md>)
+- [infrastructure chat 03](<infrastructure chat 03.md>) [May 23th, 2020](<May 23th, 2020.md>) 
+Updates on new-member onboarding, feedback mechanisms, event ideas [meeting-notes](<meeting-notes.md>)
+- [infrastructure chat 04](<infrastructure chat 04.md>) [May 30th, 2020](<May 30th, 2020.md>)
+Project Capacity + experiences with Yakcoin discussion [meeting-notes](<meeting-notes.md>)
+- [infrastructure chat 05](<infrastructure chat 05.md>) [June 6th, 2020](<June 6th, 2020.md>) 
+didn't happen but agenda topics here [meeting-notes](<meeting-notes.md>)
+- infrastructure chat 06 [June 13th, 2020](<June 13th, 2020.md>) 
+notes in — [Yak Collective Website](<Yak Collective Website.md>) + [Newsletter](<Newsletter.md>) [meeting-notes](<meeting-notes.md>)
     - Audio Recording: https://drive.google.com/file/d/1DVi_QFWCoyJjT1UPUXp52tQ876NS-vp2/view
-- [infrastructure chat 07 6.20.20](<infrastructure chat 07 6.20.20.md>) Consulting diagrams w/ [Steven Moody](<Steven Moody.md>) [June 20th, 2020](<June 20th, 2020.md>)
-- [infrastructure chat 08 6.27.20](<infrastructure chat 08 6.27.20.md>) marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [Jordan Peacock](<Jordan Peacock.md>) [June 27th, 2020](<June 27th, 2020.md>)
-- [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>) Yakcoin dev updates and discussion w/ [Johnicholas Hines](<Johnicholas Hines.md>) [July 4th, 2020](<July 4th, 2020.md>)
-- [infrastructure chat 10 7.11.2020](<infrastructure chat 10 7.11.2020.md>) [July 11th, 2020](<July 11th, 2020.md>)
-- infrastructure chat 11 7.18.2020  - worked on spotlight/case study [July 18th, 2020](<July 18th, 2020.md>)
-- [infrastructure chat 12 7.25.2020](<infrastructure chat 12 7.25.2020.md>) [July 25th, 2020](<July 25th, 2020.md>)
-- infrastructure chat 13 8.1.2020 - state of the union deck [August 1st, 2020](<August 1st, 2020.md>)
+- [infrastructure chat 07](<infrastructure chat 07.md>) [June 20th, 2020](<June 20th, 2020.md>) 
+Consulting diagrams w/ [Steven Moody](<Steven Moody.md>) [meeting-notes](<meeting-notes.md>)
+- [infrastructure chat 08](<infrastructure chat 08.md>) [June 27th, 2020](<June 27th, 2020.md>)
+marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [Jordan Peacock](<Jordan Peacock.md>) [meeting-notes](<meeting-notes.md>)
+- [infrastructure chat 09](<infrastructure chat 09.md>) [July 4th, 2020](<July 4th, 2020.md>) 
+Yakcoin dev updates and discussion w/ [Johnicholas Hines](<Johnicholas Hines.md>) [meeting-notes](<meeting-notes.md>)
+- [infrastructure chat 10](<infrastructure chat 10.md>) [July 11th, 2020](<July 11th, 2020.md>) [meeting-notes](<meeting-notes.md>)
+- infrastructure chat 11 [July 18th, 2020](<July 18th, 2020.md>)
+worked on spotlight/case study [meeting-notes](<meeting-notes.md>)
+- [infrastructure chat 12](<infrastructure chat 12.md>) [July 25th, 2020](<July 25th, 2020.md>) [meeting-notes](<meeting-notes.md>)
+- infrastructure chat 13 [August 1st, 2020](<August 1st, 2020.md>)
+state of the union deck [meeting-notes](<meeting-notes.md>)
     - https://docs.google.com/presentation/d/12pLjGxC6egO4QJvy06AjBTWm_4XhkfStyfdQ7p6DoOg/edit[slide](<slide.md>)=id.p
-- [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>) [August 8th, 2020](<August 8th, 2020.md>)
+- [infrastructure chat 14](<infrastructure chat 14.md>) [August 8th, 2020](<August 8th, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - [Yak Collective State of the Union](<Yak Collective State of the Union.md>) roam version
-- skipped 8.15.2020 [August 15th, 2020](<August 15th, 2020.md>)
-- infrastructure chat 15 8.22.2020 (notes in-line) [August 22nd, 2020](<August 22nd, 2020.md>)
+- skipped [August 15th, 2020](<August 15th, 2020.md>) [meeting-notes](<meeting-notes.md>)
+- infrastructure chat 15 [August 22nd, 2020](<August 22nd, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)
         - V2.2 website, backend clean up, documentation/code comments
             - Wanting to beef up the Roam page to help with onboarding other people 
@@ -48,7 +67,7 @@
             - there's experiments with combining Roam + Gatsby as presentation layer
     - Roam back up - currently manual monthly... automatic? 
     - Making updates to [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-- infrastructure chat 16 8.29.2020 (notes in-line) [August 29th, 2020](<August 29th, 2020.md>)
+- infrastructure chat 16 [August 29th, 2020](<August 29th, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - https://tilnow.github.io/docjs/index
         - Tried to look into how this could work in Roam using the mermaid diagram... can't link out to pages atm
     - Nathan - documentation sprint on Roam  [Yak Collective Website](<Yak Collective Website.md>) page
@@ -72,7 +91,7 @@
     - revisit [Threat Model](<Threat Model.md>)
         - do another pass at the credential documentation in this page
         - currently share netlify account that is owned by our "robot" github account - we would need 3 members if we were to go paid $19 per member x3 members / mo
-- infrastructure chat 17 9.06.2020 (notes in-line) [September 6th, 2020](<September 6th, 2020.md>)
+- infrastructure chat 17 [September 6th, 2020](<September 6th, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FjzX_MdmIS_.jpeg?alt=media&token=620f7414-6f61-417e-919b-64b41f8a086d)
     - assets for social 
         - substack
@@ -114,7 +133,7 @@
     - Action items:
         - Look into triggered / drip messages for Carl 
         - Twitter/fb accounts
-- infrastructure chat 18 9.13.2020 (notes in-line) [September 13th, 2020](<September 13th, 2020.md>)
+- infrastructure chat 18 [September 13th, 2020](<September 13th, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fia1JXLwU6y.jpeg?alt=media&token=e916e06f-1982-4e51-8b17-ddb5e8b990be)
     - Audio bandwidth
         - Discord levels have audio bandwidth tier 
@@ -197,7 +216,7 @@
             - Define set of specs - to do a roam page, here there are 3 fields. 
                 - Use Knack? 
         - 3. CMO role
-- ### infrastructure chat 19 9.20.2020 [September 20th, 2020](<September 20th, 2020.md>)
+- infrastructure chat 19 [September 20th, 2020](<September 20th, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FA7_7gZSq2J.png?alt=media&token=91c594a8-94c9-401d-8466-0c3b0ec1c019)
     - Discordpy
         - Testing for activity ```javascript
@@ -273,7 +292,7 @@
         - [x] yak map: is it time? [Darren Kong](<Darren Kong.md>)check with Vinay (data schema)
             - [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)
     - 
-- ### infrastructure chat 20 09.27.2020 [September 27th, 2020](<September 27th, 2020.md>)
+- infrastructure chat 20 [September 27th, 2020](<September 27th, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - Yak talk newsletter
         - Hey everyone, myself and a few of the yak talk team will be dropping in today to talk about the newsletter, how its changing, and how we can collaborate.
     - What I know...
@@ -352,7 +371,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
         - push to launch next week
         - jenna - share admin page 
     - paul updated start here page 
-- ### Infrastructure Chat 21 10.04.2020 [October 4th, 2020](<October 4th, 2020.md>)
+- Infrastructure Chat 21 [October 4th, 2020](<October 4th, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Vinay Débrou](<Vinay Débrou.md>)
     - Jenna has integrated the Yak Map questions into Knack.
         - So, the idea is to drive the Yak Map first, and __then__ create an account if that makes sense.
@@ -360,9 +379,10 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
         - Needs to be reconstituted.
     - Maier proposes "Yak Orbits" based upon [Vaugh Tan](<Vaugh Tan.md>)'s work.
         - Maier's idea is to present this as a non-editable field.
-        - Jenna thinks this should just be assignable on the back end.
+        - Jenna thinks this assignable on the back end.
+            - to display or not to display, on member profile [openquestion](<openquestion.md>)
         - This would be an additional number, in addition to the Discord level and heat map.
-    - The idea is to use Vinay's Yak Map project to jump start data entry here.
+    - The idea is to use Vinay's Yak Map project to jumpstart data entry here.
         - Current conceptual levels (via Vinay):
             - Yaks (posted info)
             - Active Yaks (participating in any form)
@@ -377,6 +397,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
         - Knack can send out welcome emails.
             - But Discord won't provide these (see below).
         - Vinay will send Jenna the initial scraped CSV. This CSV has the Discord UID.
+            - [October 5th, 2020](<October 5th, 2020.md>) https://docs.google.com/spreadsheets/d/1IPpiOm17In1ZLQqcNeVh4lVc-7T21dOdtZ8zPOm9ONA/edit?usp=sharing
     - Maier points out that Discord only provides UID, username, and role
         - We can bootstrap these comms using Maier's `yak_scraper` robot
         - For the moment, we'll just DM people; later, we __may__ add interactivity.
@@ -387,22 +408,25 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
 
 # Backlinks
 ## [**infrastructure**](<**infrastructure**.md>)
-- [infrastructure](<infrastructure.md>)
+- [Infrastructure](<Infrastructure.md>)
 
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
-- [ ] propose: adding Newsletter link to website on the [infrastructure](<infrastructure.md>)
+- [ ] propose: adding Newsletter link to website on the [Infrastructure](<Infrastructure.md>)
 
 ## [Hugo Macedo](<Hugo Macedo.md>)
-- [infrastructure](<infrastructure.md>)
+- [Infrastructure](<Infrastructure.md>)
+
+## [October 5th, 2020](<October 5th, 2020.md>)
+- 20:07 [Jenna Dixon](<Jenna Dixon.md>) gardened [Infrastructure](<Infrastructure.md>)
 
 ## [September 20th, 2020](<September 20th, 2020.md>)
-- [infrastructure](<infrastructure.md>)
+- [Infrastructure](<Infrastructure.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-- [infrastructure](<infrastructure.md>)
+- [Infrastructure](<Infrastructure.md>)
 
 ## [Yak Network Map](<Yak Network Map.md>)
-- [infrastructure](<infrastructure.md>)
+- [Infrastructure](<Infrastructure.md>)
 
-- Follow up: [Vinay Débrou](<Vinay Débrou.md>) will propose possible times for a joint call on the [Discord](<Discord.md>) [infrastructure](<infrastructure.md>)
+- Follow up: [Vinay Débrou](<Vinay Débrou.md>) will propose possible times for a joint call on the [Discord](<Discord.md>) [Infrastructure](<Infrastructure.md>)
 

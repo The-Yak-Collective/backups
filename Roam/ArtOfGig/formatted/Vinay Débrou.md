@@ -36,13 +36,23 @@
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Vinay Débrou](<Vinay Débrou.md>):
 
+## [Infrastructure](<Infrastructure.md>)
+- [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)
+
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Vinay Débrou](<Vinay Débrou.md>)
+
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - A few core areas where we can offer in-demand expertise are web branding/media strategy, online learning, multidisciplinary remote collaboration, designing online spaces. [Vinay Débrou](<Vinay Débrou.md>)
 
 - [Vinay Débrou](<Vinay Débrou.md>)
 
+## [October 5th, 2020](<October 5th, 2020.md>)
+- 21:04 [Jenna Dixon](<Jenna Dixon.md>) knacked the Yak Map fields + imported [Vinay Débrou](<Vinay Débrou.md>)'
+
 ## [Schema | member data](<Schema | member data.md>)
-- **[gardeners](<gardeners.md>):** [Vinay Débrou](<Vinay Débrou.md>)
+[Vinay Débrou](<Vinay Débrou.md>)
+
+- [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>) we will use [Discord UID](<Discord UID.md>). Rcvd scrape from [Vinay Débrou](<Vinay Débrou.md>),
 
 ## [Summary: 27th May Brainstorm](<Summary: 27th May Brainstorm.md>)
 2. sharing neural data to public, private circles   and no-one. Something tells me it wouldn't be the repeat of the ongoing conversation on digital data privacy [Vinay Débrou](<Vinay Débrou.md>)
@@ -82,11 +92,6 @@
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
-
-## [infrastructure](<infrastructure.md>)
-- [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)
-
-- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [infrastructure chat 03 5.23.2020](<infrastructure chat 03 5.23.2020.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)

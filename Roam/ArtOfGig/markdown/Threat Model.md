@@ -38,8 +38,8 @@ last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
         - Password managers or databases
         - [[Roam]]
             - "owner:: [[Venkatesh Rao]]"
-        - [[Knack]]
-            - "owner:: [[Maier Fenster]]"
+        - [[Knack.com]]
+            - AAhkfps_m
         - Bank accounts, should we ever have such a thing
     ## Class 2 (Serious Disruption to Normal Operations)
         - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck"

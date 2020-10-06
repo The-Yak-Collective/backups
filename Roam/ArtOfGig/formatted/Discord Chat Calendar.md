@@ -39,9 +39,9 @@
         UTC +2 time: 6 - 6:30pm
         Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) focused particularly on [Yak Collective Governance](<Yak Collective Governance.md>) readings
 - **Saturday**
-    - 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) [infrastructure](<infrastructure.md>) chat hosted by [Darren Kong](<Darren Kong.md>) and you (??)
+    - 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) [Infrastructure](<Infrastructure.md>) chat hosted by [Darren Kong](<Darren Kong.md>) and you (??)
         - Weekly volunteer task list pruning [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
-        - Discussion on how to move forward [infrastructure](<infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<Self-Employed life starter pack.md>) + [Collaboration model/economy](<Collaboration model/economy.md>)
+        - Discussion on how to move forward [Infrastructure](<Infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<Self-Employed life starter pack.md>) + [Collaboration model/economy](<Collaboration model/economy.md>)
             - Occasional readings posted in advance to support  
 - **Sunday**
     - 5pm - 5:30pm Eastern Time (21h00-21h30 UTC), hosted by [Pamela Hobart](<Pamela Hobart.md>) : Philosophical Grab Bag

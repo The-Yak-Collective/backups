@@ -11,7 +11,7 @@
         - currently VP of Community/Crowd at unbabel.com 
 - **[Involved in](<Involved in.md>):** 
     - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) as enabler
-    - [infrastructure](<infrastructure.md>) as interested 
+    - [Infrastructure](<Infrastructure.md>) as interested 
     - [Roam Gardening](<Roam Gardening.md>)
     - Pages Wrangler in
         - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[Additional Page Wranglers](<Additional Page Wranglers.md>)}}}}
@@ -19,7 +19,8 @@
     - kickoff [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
     - Yak Onboarding and [Roam Gardening](<Roam Gardening.md>)
 - Ping
-    - {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>)}}}
+    - {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>) {not: [pong](<pong.md>)]}}}}
+    - 
 
 # Backlinks
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
@@ -44,7 +45,12 @@
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){
 
-- {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>)}
+- {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>)
+
+## [Infrastructure](<Infrastructure.md>)
+- added `[meeting-notes](<meeting-notes.md>)` per [Hugo Macedo](<Hugo Macedo.md>)'
+
+- We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
@@ -105,8 +111,5 @@
 
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
-- before we get a way to hack notifications we use the tag [ping](<ping.md>) and the name of the person (page) -  "Let me know what you think [Hugo Macedo](<Hugo Macedo.md>)
-
-## [infrastructure](<infrastructure.md>)
-- We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [Hugo Macedo](<Hugo Macedo.md>)
+- before we get a way to hack notifications we use the tag ^^[ping](<ping.md>)^^ and the name of the person (page) -  "Let me know what you think [Hugo Macedo](<Hugo Macedo.md>)
 

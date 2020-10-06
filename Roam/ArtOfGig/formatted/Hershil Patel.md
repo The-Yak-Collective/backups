@@ -33,6 +33,6 @@
 ## [Hershil P ](<Hershil P .md>)
 - [Hershil Patel](<Hershil Patel.md>)
 
-## [infrastructure](<infrastructure.md>)
+## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>)
 

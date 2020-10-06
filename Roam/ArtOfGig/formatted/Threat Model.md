@@ -38,8 +38,8 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
         - Password managers or databases
         - [Roam](<Roam.md>)
             - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
-        - [Knack](<Knack.md>)
-            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+        - [Knack.com](<Knack.com.md>)
+            - AAhkfps_m
         - Bank accounts, should we ever have such a thing
     ## Class 2 (Serious Disruption to Normal Operations)
         - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck"
@@ -120,9 +120,9 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Threat Model](<Threat Model.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- revisit [Threat Model](<Threat Model.md>)
+
 ## [September 24th, 2020](<September 24th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) added owners to infrastructure systems listed in the [Threat Model](<Threat Model.md>)
-
-## [infrastructure](<infrastructure.md>)
-- revisit [Threat Model](<Threat Model.md>)
 

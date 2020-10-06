@@ -73,6 +73,9 @@
 ## [Inaugural Meeting](<Inaugural Meeting.md>)
 - [Things We Need](<Things We Need.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- [Things We Need](<Things We Need.md>)
+
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 - [Things We Need](<Things We Need.md>)
 
@@ -82,8 +85,5 @@
 - **Volunteers** — “buy in” by doing small support things that need doing. And we have a lot of [Things We Need](<Things We Need.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-- [Things We Need](<Things We Need.md>)
-
-## [infrastructure](<infrastructure.md>)
 - [Things We Need](<Things We Need.md>)
 

@@ -57,8 +57,8 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Namecheap](<Namecheap.md>)
             - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
-        - [Knack](<Knack.md>)
-            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+        - [Knack.com](<Knack.com.md>)
+            - AAhkfps_m
         - [Roam](<Roam.md>)
             - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [Netlify](<Netlify.md>) Continuous Integration ([Jekyll](https://jekyllrb.com/))
@@ -117,6 +117,9 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
     - Etc.
 
 # Backlinks
+## [Infrastructure](<Infrastructure.md>)
+- [IT Infrastructure](<IT Infrastructure.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) added [Discussions & Decisions](https://roamresearch.com/#/app/ArtOfGig/page/GfLUKnfjQ) sections to the [IT Infrastructure](<IT Infrastructure.md>)
 
@@ -133,7 +136,4 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 - All assets should be centrally tracked in the [IT Infrastructure](<IT Infrastructure.md>)
 
 - All users with access to a service should be tracked in a page for that service linked off of the [IT Infrastructure](<IT Infrastructure.md>)
-
-## [infrastructure](<infrastructure.md>)
-- [IT Infrastructure](<IT Infrastructure.md>)
 

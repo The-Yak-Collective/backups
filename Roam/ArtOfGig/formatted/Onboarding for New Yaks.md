@@ -48,13 +48,13 @@
         - Submit your own proposals! Create a stub in Roam, and discuss those proposals in [collaboration](<collaboration.md>) channel on Discord
         - Submit a channel idea in [create-destroy-channels](<create-destroy-channels.md>)
         - Find people with which to collaborate (see above: Try to make Friends)
-        - Look through [Things We Need](<Things We Need.md>) and [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>) and participate in [infrastructure](<infrastructure.md>) channel and Saturday voice chats
+        - Look through [Things We Need](<Things We Need.md>) and [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>) and participate in [Infrastructure](<Infrastructure.md>) channel and Saturday voice chats
 - Help the Yak Collective, help a Yak. 
     - Are you a new Yak still with a question?
         - Drop into [general](<general.md>) or an appropriate channel and ask away. 
         - [a doc for new Yaks to log questions.](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
     - Are you a new Yak with ideas on how to better this document and process?
-        - Please join us in [infrastructure](<infrastructure.md>) with your thoughts and comments.
+        - Please join us in [Infrastructure](<Infrastructure.md>) with your thoughts and comments.
     - Are you a Yak interested in how the Yak Collective is governed and where it's going? 
         - Consider participating in the [Yak Collective Governance](<Yak Collective Governance.md>) chats on Friday.
 - ## How to Invite People to Yak Collective
@@ -73,6 +73,9 @@
 ## [Important Links for New Yaks](<Important Links for New Yaks.md>)
 - [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
+
 ## [Things We Need](<Things We Need.md>)
 - New member orientation stuff __working on here:__ [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 
@@ -81,7 +84,4 @@
 
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - **Purpose**: WHAT is consulting? Any questions on onboarding should be directed to [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
-
-## [infrastructure](<infrastructure.md>)
-- [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 

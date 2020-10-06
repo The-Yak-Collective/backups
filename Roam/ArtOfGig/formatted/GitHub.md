@@ -2,7 +2,7 @@ owner:: [Nathan Acks](<Nathan Acks.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - Stores code and __some__ data in [The Yak Collective](https://github.com/The-Yak-Collective) team.
-        - Currently holds member data; plan is to migrate this to [Knack](<Knack.md>) to allow for better GDPR compliance, easier self-maintenance of member records, etc.
+        - Currently holds member data; plan is to migrate this to [Knack.com](<Knack.com.md>) to allow for better GDPR compliance, easier self-maintenance of member records, etc.
     - Repos
         - [yakcollective](https://github.com/The-Yak-Collective/yakcollective): The [Yak Collective Website](<Yak Collective Website.md>)
             - Holds site scaffolding, static pages, project data, member data, etc.
@@ -52,7 +52,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [GitHub](<GitHub.md>)
 
-## [Knack](<Knack.md>)
+## [Knack.com](<Knack.com.md>)
 - Minimal information from [Discord](<Discord.md>) (server name, user ID, role data) will be moved over using a `yak_shaver` bot. May or may not commit info to [GitHub](<GitHub.md>)
 
 ## [Netlify](<Netlify.md>)

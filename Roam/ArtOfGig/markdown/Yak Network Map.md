@@ -7,11 +7,11 @@
     - [v1.0 prototype - Scope & Roadmap Document](https://docs.google.com/document/d/13ihQ2VdjZbfjWjxeOmCvFl_gt9Y1xuFkolyHdW6yNGY/edit?pli=1)
     - __comment threads on the Google doc ^__
 - Connections::
-    - [[infrastructure]]
+    - [[Infrastructure]]
 - Meetings::
     - call [[August 18th, 2020]]
         - ![](https://media.discordapp.net/attachments/739944326913851488/745295101785407498/unknown.png)
     - Attending: [[Vinay Débrou]] | [[Jenna Dixon]] | [[Maier Fenster]]
-    - Follow up: [[Vinay Débrou]] will propose possible times for a joint call on the [[Discord]] [[infrastructure]] channel
+    - Follow up: [[Vinay Débrou]] will propose possible times for a joint call on the [[Discord]] [[Infrastructure]] channel
 - 
 - 

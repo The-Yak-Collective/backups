@@ -14,9 +14,6 @@
 - 
 
 # Backlinks
-## [infrastructure](<infrastructure.md>)
-- [infrastructure chat 10 7.11.2020](<infrastructure chat 10 7.11.2020.md>)
-
 ## [infrastructure chats](<infrastructure chats.md>)
 - [infrastructure chat 10 7.11.2020](<infrastructure chat 10 7.11.2020.md>)
 

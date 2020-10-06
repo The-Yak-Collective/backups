@@ -61,9 +61,6 @@
         - google sheets
 
 # Backlinks
-## [infrastructure](<infrastructure.md>)
-- [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>)
-
 ## [infrastructure chats](<infrastructure chats.md>)
 - [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>)
 

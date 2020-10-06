@@ -18,6 +18,9 @@
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - Weekly volunteer task list pruning [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
+
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 - Look through [Things We Need](<Things We Need.md>) and [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 
@@ -25,8 +28,5 @@
 - [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-- [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
-
-## [infrastructure](<infrastructure.md>)
 - [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 

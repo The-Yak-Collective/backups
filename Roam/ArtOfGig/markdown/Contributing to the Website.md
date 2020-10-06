@@ -34,7 +34,7 @@ last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
             - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/astonishing-stories
             - [[Netlify]]: https://app.netlify.com/sites/optimistic-jennings-266cab/overview
         - `knack-migration` (point: [[Maier Fenster]])
-            - Work on migrating member data to [[Knack]].
+            - Work on migrating member data to [[Knack.com]].
             - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/knack-migration
             - [[Netlify]]: https://app.netlify.com/sites/competent-shockley-33f53c/overview
         - `admin-improvements` (point: [[Maier Fenster]])

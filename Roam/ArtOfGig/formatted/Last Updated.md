@@ -26,6 +26,10 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 - **[Last Updated](<Last Updated.md>):**
 
+## [Infrastructure](<Infrastructure.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>) 
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**
@@ -40,6 +44,10 @@
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+- **[Last Updated](<Last Updated.md>):**
+
+## [Schema | member data](<Schema | member data.md>)
+[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)

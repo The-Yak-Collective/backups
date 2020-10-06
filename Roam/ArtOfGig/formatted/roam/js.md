@@ -321,7 +321,7 @@ window.KeyboardLib = {
 }```
 
 # Backlinks
-## [infrastructure](<infrastructure.md>)
+## [Infrastructure](<Infrastructure.md>)
 - can turn on/off js [roam/js](<../roam/js.md>)
 
 ## [roam/js](<roam/js.md>)

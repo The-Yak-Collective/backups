@@ -49,7 +49,8 @@
     - A shorter article based on the book is here:
     - https://sloanreview.mit.edu/article/the-future-of-platforms/
     - 6. Len Rachitsky recently had an excellent 4 part series on modern platforms:
-    - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace
+    - **Chicken or Egg Problem **
+https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace
     - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-9ee
     - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911
     - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-2e5

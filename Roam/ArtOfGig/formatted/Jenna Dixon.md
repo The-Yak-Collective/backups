@@ -1,4 +1,4 @@
--  2020-10-04 08:49 
+- 
     - [x] review: Hugo's Gardening pages
         - [Roam Gardening](<Roam Gardening.md>) [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
     - [x] 08:59 review: AS pages https://optimistic-jennings-266cab.netlify.app/projects/astonishing-stories/ 
@@ -63,11 +63,34 @@
 
 - [x] [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** [October 5th, 2020](<October 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- [x] Knack: is it time? [Jenna Dixon](<Jenna Dixon.md>):
+
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Jenna Dixon](<Jenna Dixon.md>)
 - {{[query](<query.md>): {and: [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Knack.com](<Knack.com.md>)
+Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
+
+Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
+
+- Share login: [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - 08:39 [Jenna Dixon](<Jenna Dixon.md>)
+
+## [October 5th, 2020](<October 5th, 2020.md>)
+- 19:58 [Jenna Dixon](<Jenna Dixon.md>)
+
+- 20:07 [Jenna Dixon](<Jenna Dixon.md>)
+
+- 21:04 [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Production Cell](<Production Cell.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
@@ -95,9 +118,13 @@
 - created [August 5th, 2020](<August 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
+[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+
 - [September 27th, 2020](<September 27th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
-- [ ] [September 27th, 2020](<September 27th, 2020.md>) [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Gardened](<Last Gardened.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+- [x] [September 27th, 2020](<September 27th, 2020.md>) [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)"
@@ -130,13 +157,8 @@
 ## [Yak Network Map](<Yak Network Map.md>)
 - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
-## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
+## [[Knack.com](<[Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack.com](<Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
-
-## [infrastructure](<infrastructure.md>)
-- [x] Knack: is it time? [Jenna Dixon](<Jenna Dixon.md>):
-
-- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 

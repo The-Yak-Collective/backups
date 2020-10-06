@@ -48,13 +48,13 @@
         - Submit your own proposals! Create a stub in Roam, and discuss those proposals in #collaboration channel on Discord
         - Submit a channel idea in #create-destroy-channels
         - Find people with which to collaborate (see above: Try to make Friends)
-        - Look through [[Things We Need]] and [[Internal Volunteer Opportunities]] and participate in #infrastructure channel and Saturday voice chats
+        - Look through [[Things We Need]] and [[Internal Volunteer Opportunities]] and participate in #Infrastructure channel and Saturday voice chats
 - Help the Yak Collective, help a Yak. 
     - Are you a new Yak still with a question?
         - Drop into #general or an appropriate channel and ask away. 
         - [a doc for new Yaks to log questions.](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
     - Are you a new Yak with ideas on how to better this document and process?
-        - Please join us in #infrastructure with your thoughts and comments.
+        - Please join us in #Infrastructure with your thoughts and comments.
     - Are you a Yak interested in how the Yak Collective is governed and where it's going? 
         - Consider participating in the [[Yak Collective Governance]] chats on Friday.
 - ## How to Invite People to Yak Collective

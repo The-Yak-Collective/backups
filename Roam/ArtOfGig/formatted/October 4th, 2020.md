@@ -12,9 +12,14 @@
 ## [IT Infrastructure](<IT Infrastructure.md>)
 last updated:: [October 4th, 2020](<October 4th, 2020.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>)
+
+- Infrastructure Chat 21 [October 4th, 2020](<October 4th, 2020.md>)
+
 ## [Roam Gardening](<Roam Gardening.md>)
 - [Jenna Dixon](<Jenna Dixon.md>) [October 4th, 2020](<October 4th, 2020.md>)
 
-## [infrastructure](<infrastructure.md>)
-- ### Infrastructure Chat 21 10.04.2020 [October 4th, 2020](<October 4th, 2020.md>)
+## [Schema | member data](<Schema | member data.md>)
+- [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>)
 

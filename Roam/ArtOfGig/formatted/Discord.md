@@ -29,7 +29,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Discord](<Discord.md>)
 
-## [Knack](<Knack.md>)
+## [Knack.com](<Knack.com.md>)
 - Minimal information from [Discord](<Discord.md>)
 
 ## [Netlify](<Netlify.md>)

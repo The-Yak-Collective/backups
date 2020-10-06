@@ -18,6 +18,9 @@
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[About](<About.md>):**
 
+## [Infrastructure](<Infrastructure.md>)
+- **[About](<About.md>):**
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[About](<About.md>):**
 
@@ -28,6 +31,9 @@
 - **[About](<About.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)
+- **[About](<About.md>):**
+
+## [Schema | member data](<Schema | member data.md>)
 - **[About](<About.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)

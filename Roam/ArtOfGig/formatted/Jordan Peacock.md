@@ -91,6 +91,16 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
 - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
 
+## [Infrastructure](<Infrastructure.md>)
+marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [Jordan Peacock](<Jordan Peacock.md>)
+
+- [ ] receive reply from [Jordan Peacock](<Jordan Peacock.md>)
+
+## [Knack.com](<Knack.com.md>)
+- Share login: [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
+
+- [Jordan Peacock](<Jordan Peacock.md>)
+
 ## [Nature is Healing](<Nature is Healing.md>)
 - [Thomas Verhagen](<Thomas Verhagen.md>): maybe link this up with the Situation Normal: N Futures proposal by [Jordan Peacock](<Jordan Peacock.md>)?
 
@@ -107,7 +117,7 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 - piece_17_lname [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[gardeners](<gardeners.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Nathan Acks](<Nathan Acks.md>) | [Jordan Peacock](<Jordan Peacock.md>)
+[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>) [Jordan Peacock](<Jordan Peacock.md>)
@@ -169,11 +179,6 @@ https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/[comment-271146](<comm
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>) [Vlad Mehakovic](<Vlad Mehakovic.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Alex Dobrenko](<Alex Dobrenko.md>) [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>). [Jordan Peacock](<Jordan Peacock.md>)
 
 - [Amanda Reeves](<Amanda Reeves.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Benton Heimsath](<Benton Heimsath.md>) [Chris Clark](<Chris Clark.md>) [David McDougall](<David McDougall.md>) [Drew Shiel](<Drew Shiel.md>) [Jordan Peacock](<Jordan Peacock.md>)
-
-## [infrastructure](<infrastructure.md>)
-- [infrastructure chat 08 6.27.20](<infrastructure chat 08 6.27.20.md>) marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [Jordan Peacock](<Jordan Peacock.md>)
-
-- [ ] receive reply from [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [infrastructure chat 03 5.23.2020](<infrastructure chat 03 5.23.2020.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)

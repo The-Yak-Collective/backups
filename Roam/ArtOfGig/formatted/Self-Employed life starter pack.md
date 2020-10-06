@@ -59,7 +59,7 @@
 - related page: [Self-Employed life starter pack](<Self-Employed life starter pack.md>)
 
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
-- Discussion on how to move forward [infrastructure](<infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<Self-Employed life starter pack.md>)
+- Discussion on how to move forward [Infrastructure](<Infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<Self-Employed life starter pack.md>)
 
 ## [Index](<Index.md>)
 - [Self-Employed life starter pack](<Self-Employed life starter pack.md>):

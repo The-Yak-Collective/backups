@@ -73,12 +73,31 @@
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - {{[TODO](<TODO.md>)}
 
+## [Infrastructure](<Infrastructure.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [Jenna Dixon](<Jenna Dixon.md>)
 - {{[TODO](<TODO.md>)}
 
 ## [Schema | member data](<Schema | member data.md>)
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -139,27 +158,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-## [infrastructure](<infrastructure.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

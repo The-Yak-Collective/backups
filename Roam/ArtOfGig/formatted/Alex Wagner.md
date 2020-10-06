@@ -60,6 +60,11 @@
 ## [Governance Tests](<Governance Tests.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- Marketing w/ [Alex Wagner](<Alex Wagner.md>)
+
+marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+
+
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
@@ -184,11 +189,6 @@ was working with this client to think about how they might productize senior web
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Alex Wagner](<Alex Wagner.md>)
-
-## [infrastructure](<infrastructure.md>)
-- Marketing w/ [Alex Wagner](<Alex Wagner.md>)
-
-- [infrastructure chat 08 6.27.20](<infrastructure chat 08 6.27.20.md>) marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+
 
 ## [“Your Next Strategic Offsite will be Online—here’s what to do” [Jason Fox](<Jason Fox.md>)](<“Your Next Strategic Offsite will be Online—here’s what to do” [Jason Fox](<Jason Fox.md>).md>)
 - [Alex Wagner](<Alex Wagner.md>)

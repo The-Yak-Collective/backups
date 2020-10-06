@@ -21,26 +21,24 @@
 
 [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>)
 
-- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
-## [Knack](<Knack.md>)
-owner:: [Maier Fenster](<Maier Fenster.md>)
+## [Knack.com](<Knack.com.md>)
+Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
-- [Maier Fenster](<Maier Fenster.md>)
+- Alternate Builder access as needed: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 ## [Netlify](<Netlify.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[gardeners](<gardeners.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
+[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
-
-## [Threat Model](<Threat Model.md>)
-- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
 
 ## [Website Version History](<Website Version History.md>)
 - [Maier Fenster](<Maier Fenster.md>)
@@ -58,7 +56,7 @@ owner:: [Maier Fenster](<Maier Fenster.md>)
 ## [Yak Network Map](<Yak Network Map.md>)
 - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Maier Fenster](<Maier Fenster.md>)
 
-## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
+## [[Knack.com](<[Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack.com](<Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
@@ -92,9 +90,6 @@ owner:: [Maier Fenster](<Maier Fenster.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
-
-## [infrastructure](<infrastructure.md>)
-- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 ## [onboarding it - thought about onboarding infrastructure](<onboarding it - thought about onboarding infrastructure.md>)
 - prepared by [Maier Fenster](<Maier Fenster.md>)

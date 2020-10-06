@@ -31,7 +31,7 @@
         - [[Astonishing Stories
 ...of what’s next]] cell
 [Amanda Reeves](<Amanda Reeves.md>) lead
-        - [infrastructure](<infrastructure.md>) cell 
+        - [Infrastructure](<Infrastructure.md>) cell 
 [Darren Kong](<Darren Kong.md>) lead
         - [Yak Collective Governance](<Yak Collective Governance.md>) cell
 [Venkatesh Rao](<Venkatesh Rao.md>) lead
@@ -55,13 +55,13 @@
 ## [Grigori Milov](<Grigori Milov.md>)
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
-## [Venkatesh Rao](<Venkatesh Rao.md>)
-- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-
-## [infrastructure](<infrastructure.md>)
+## [Infrastructure](<Infrastructure.md>)
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
 - Making updates to [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+
+## [Venkatesh Rao](<Venkatesh Rao.md>)
+- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - state of the union deck » [Yak Collective State of the Union](<Yak Collective State of the Union.md>)

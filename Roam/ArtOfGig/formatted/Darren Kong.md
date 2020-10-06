@@ -17,10 +17,15 @@
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - Questions will also serve as fodder for iterating the [Onboarding for New Yaks](<Onboarding for New Yaks.md>), being shepherded by [Darren Kong](<Darren Kong.md>).
 
-- 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) [infrastructure](<infrastructure.md>) chat hosted by [Darren Kong](<Darren Kong.md>)
+- 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) [Infrastructure](<Infrastructure.md>) chat hosted by [Darren Kong](<Darren Kong.md>)
 
 ## [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>)
 - Love this, and agree it's a more apt metaphor/visual for it. I think if we want to sell organizations on the value of this (per [Darren Kong](<Darren Kong.md>)
+
+## [Infrastructure](<Infrastructure.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
+
+- [x] yak map: is it time? [Darren Kong](<Darren Kong.md>)c
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>) and [Darren Kong](<Darren Kong.md>)
@@ -65,9 +70,6 @@
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Darren Kong](<Darren Kong.md>)
-
-## [infrastructure](<infrastructure.md>)
-- [x] yak map: is it time? [Darren Kong](<Darren Kong.md>)c
 
 ## [token](<token.md>)
 - __status:__ notes from chat discussions (currently [Darren Kong](<Darren Kong.md>)

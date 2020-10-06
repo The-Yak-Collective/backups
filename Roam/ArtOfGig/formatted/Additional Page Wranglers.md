@@ -23,6 +23,10 @@
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[Additional Page Wranglers](<Additional Page Wranglers.md>)}
 
+## [Infrastructure](<Infrastructure.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
@@ -37,6 +41,10 @@
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Schema | member data](<Schema | member data.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
