@@ -94,6 +94,9 @@
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [Sachin Benny](<Sachin Benny.md>)
+
 ## [Production Cell](<Production Cell.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 

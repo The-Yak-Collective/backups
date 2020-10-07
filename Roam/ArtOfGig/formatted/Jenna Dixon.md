@@ -162,3 +162,8 @@ Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 
+## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
+- **[Last Updated](<Last Updated.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+

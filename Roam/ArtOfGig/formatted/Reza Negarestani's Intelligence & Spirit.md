@@ -8,9 +8,6 @@
     - https://www.notion.so/hewhocutsdown/Intelligence-Spirit-Notes-42f490e21a8d4ce19a5353971c3046fa
 
 # Backlinks
-## [Discord Chat Calendar](<Discord Chat Calendar.md>)
-- Topic: [Reza Negarestani's Intelligence & Spirit](<Reza Negarestani's Intelligence & Spirit.md>)
-
 ## [Summary: Brainstorm Questions](<Summary: Brainstorm Questions.md>)
 - [Jordan Peacock](<Jordan Peacock.md>) will host a recurring chat on [Reza Negarestani's Intelligence & Spirit](<Reza Negarestani's Intelligence & Spirit.md>)
 

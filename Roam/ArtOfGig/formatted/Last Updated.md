@@ -70,6 +70,10 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**
 
+## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
+- **[Created](<Created.md>):** [Maier Fenster](<Maier Fenster.md>) [October 4th, 2020](<October 4th, 2020.md>)
+- **[Last Updated](<Last Updated.md>):**
+
 ## [template/header](<template/header.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**

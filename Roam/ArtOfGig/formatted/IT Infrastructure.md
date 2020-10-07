@@ -113,7 +113,7 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
     - [Code Style Guide](<Code Style Guide.md>)
     - [Threat Model](<Threat Model.md>)
 # Discussions & Decisions
-    - [onboarding it - thought about onboarding infrastructure](<onboarding it - thought about onboarding infrastructure.md>)
+    - [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
     - Etc.
 
 # Backlinks

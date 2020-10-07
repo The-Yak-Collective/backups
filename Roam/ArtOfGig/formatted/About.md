@@ -51,6 +51,9 @@
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[About](<About.md>):**
 
+## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
+- **[About](<About.md>):**
+
 ## [template/header](<template/header.md>)
 - **[About](<About.md>):**
 

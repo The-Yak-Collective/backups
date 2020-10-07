@@ -93,6 +93,9 @@
 
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

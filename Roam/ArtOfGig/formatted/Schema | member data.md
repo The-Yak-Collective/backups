@@ -14,9 +14,11 @@
         - Example: `nathan-acks`
             - [x] [September 27th, 2020](<September 27th, 2020.md>) [Jenna Dixon](<Jenna Dixon.md>) »»» ~~agree totally. Out of the box we can have~~ `Nathan-Acks` -- ~~ie I'll have to find a way to lower case the names. I also would suggest~~ `Acks-Nathan` ie `Lname-Fname` ~~to make sorting the list in the backend with a click possible.~~ hold this thought, I may be misunderstanding what you are suggesting above. ID should __not__ use actual names, will get Knack to autogenerate a non-name UID √
             - [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>) we will use [Discord UID](<Discord UID.md>). Rcvd scrape from [Vinay Débrou](<Vinay Débrou.md>), imported into Knack.
+        - [Maier Fenster](<Maier Fenster.md>) but i _also_ want the discord name _and_ the name format we use in the website (`firstname-lastname`) because there are some conversion issues and Issume, for example, we will use this name when we give a website a name
     - **[Name](<Name.md>):**
         - ^^Required^^ Full member name.
         - Example: `Nathan Acks`
+        - [Maier Fenster](<Maier Fenster.md>) when you say name, do you mean the knack composite name field? i prefer two fields, one for surname and oen for given name
     - **[Join Date](<Join Date.md>):**
         - ^^Required^^ Member "join date". Generally the date of the first project that member is associated with.
         - Example: `2020-05-03`
@@ -39,13 +41,18 @@
         - ^^Required^^ Path (relative to the web root) of the member's avatar.
         - Example: `/assets/dynamic/nathan-acks.jpg`
             - [ ] [ping](<ping.md>) ^^ link or upload? jd ^^ [September 27th, 2020](<September 27th, 2020.md>)
+        - [Maier Fenster](<Maier Fenster.md>) upload to cloud.
     - **[links](<links.md>):**
         - __Optional__ A YAML array of link objects. Each object has a **url:** attribute (the, well, URL) and a **title:** attribute (the name that should be used for this URL).
         - Example: `[{title: Homepage, url: https://delphi-strategy.com/}, {title: Photography, url: https://digital-orrery.com/}, {title: Web Log, url: https://ecopunk.info/}]`
             - [ ] [ping](<ping.md>) ^^ we wouldn't ask them to do this, would we? just ask for the links+lables? hmmm /jd^^ [September 27th, 2020](<September 27th, 2020.md>)
+        - [Maier Fenster](<Maier Fenster.md>)does knack support user entry of a yaml into a single item? if not, i suggest having 3 pairs of title1, linke1, title2, link2, title3, link3
     - **[content](<content.md>):**
         - __Optional__ Free-form content using Markdown. Currently unused.
         - This isn't a "real" field -- rather members are currently represented using Markdown files in a `members` [Jekyll collection](https://jekyllrb.com/docs/collections/). All of the information __except__ this field is YAML frontmatter, while the **content:** is just the actual Markdown data.
+    - **yak orbit**: (display only) will reflect how member-like the yak is, generally, but not exactly corresponding to yak..member scale [Maier Fenster](<Maier Fenster.md>)
+    - **password**: [Maier Fenster](<Maier Fenster.md>) (display to admin and user only) we need to store this somewhere, no?
+    - [Maier Fenster](<Maier Fenster.md>)yak-map items seem missing, i would assume: 'yak map opt in', 'domain1','domain2','freetextdomain'
 - # Examples as of [August 31st, 2020](<August 31st, 2020.md>)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FHEvvWCbTUm.png?alt=media&token=10227c51-5eeb-483f-b81d-41eabc410560)
     - ```yaml

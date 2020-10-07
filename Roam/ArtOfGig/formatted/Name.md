@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Schema | member data](<Schema | member data.md>)
-- [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>) we will use [Discord UID](<Discord UID.md>). Rcvd scrape from [Vinay Débrou](<Vinay Débrou.md>), imported into Knack.
+- [Maier Fenster](<Maier Fenster.md>) but i _also_ want the discord name _and_ the name format we use in the website (`firstname-lastname`) because there are some conversion issues and Issume, for example, we will use this name when we give a website a name
     - **[Name](<Name.md>):**
 

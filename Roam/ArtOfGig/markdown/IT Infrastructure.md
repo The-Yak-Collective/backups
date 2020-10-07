@@ -113,5 +113,5 @@ last updated:: [[October 4th, 2020]] by [[Nathan Acks]]
     - [[Code Style Guide]]
     - [[Threat Model]]
 # Discussions & Decisions
-    - [[onboarding it - thought about onboarding infrastructure]]
+    - [[onboarding it - thoughts about onboarding infrastructure]]
     - Etc.

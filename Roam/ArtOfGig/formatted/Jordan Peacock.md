@@ -74,9 +74,6 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
 - [Jordan Peacock](<Jordan Peacock.md>)
 
-## [Discord Chat Calendar](<Discord Chat Calendar.md>)
-- 10 PM - 10:30 PM Central Time(14h00-14h30 UTC), hosted by [Jordan Peacock](<Jordan Peacock.md>)
-
 ## [Governance Tests](<Governance Tests.md>)
 - Governance tests are accepted through a transparent and documented procedure. [Jordan Peacock](<Jordan Peacock.md>)
 

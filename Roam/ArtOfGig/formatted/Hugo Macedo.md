@@ -64,6 +64,11 @@
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - 08:39 [Jenna Dixon](<Jenna Dixon.md>) joining [Hugo Macedo](<Hugo Macedo.md>)
 
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
@@ -112,4 +117,7 @@
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
 - before we get a way to hack notifications we use the tag ^^[ping](<ping.md>)^^ and the name of the person (page) -  "Let me know what you think [Hugo Macedo](<Hugo Macedo.md>)
+
+## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
 

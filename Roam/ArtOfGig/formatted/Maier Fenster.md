@@ -32,8 +32,25 @@ Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<M
 ## [Netlify](<Netlify.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Schema | member data](<Schema | member data.md>)
 [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)d
+
+- **yak orbit**: (display only) will reflect how member-like the yak is, generally, but not exactly corresponding to yak..member scale [Maier Fenster](<Maier Fenster.md>)
+
+- **password**: [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)y
 
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - [Maier Fenster](<Maier Fenster.md>)
@@ -91,8 +108,12 @@ Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<M
 
 - [Maier Fenster](<Maier Fenster.md>)
 
-## [onboarding it - thought about onboarding infrastructure](<onboarding it - thought about onboarding infrastructure.md>)
-- prepared by [Maier Fenster](<Maier Fenster.md>)
+## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
+
+- **[Created](<Created.md>):** [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
 
 ## [test project prez](<test project prez.md>)
 - lead: [Maier Fenster](<Maier Fenster.md>)
