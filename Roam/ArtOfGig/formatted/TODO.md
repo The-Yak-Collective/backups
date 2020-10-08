@@ -97,6 +97,13 @@
 ## [Jenna Dixon](<Jenna Dixon.md>)
 - {{[TODO](<TODO.md>)}
 
+## [October 7th, 2020](<October 7th, 2020.md>)
+- ^^{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- ^^{{[TODO](<TODO.md>)}
+
 ## [Schema | member data](<Schema | member data.md>)
 - {{[TODO](<TODO.md>)}
 

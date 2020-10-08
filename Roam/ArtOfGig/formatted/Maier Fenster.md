@@ -33,7 +33,7 @@ Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<M
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- [Maier Fenster](<Maier Fenster.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
 [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)

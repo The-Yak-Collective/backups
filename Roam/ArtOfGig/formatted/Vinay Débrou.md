@@ -49,6 +49,9 @@
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - 21:04 [Jenna Dixon](<Jenna Dixon.md>) knacked the Yak Map fields + imported [Vinay Débrou](<Vinay Débrou.md>)'
 
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [x] [Vinay Débrou](<Vinay Débrou.md>)
+
 ## [Schema | member data](<Schema | member data.md>)
 [Vinay Débrou](<Vinay Débrou.md>)
 

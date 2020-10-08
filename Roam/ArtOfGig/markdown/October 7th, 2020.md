@@ -1,15 +1,16 @@
 - [[YC Marketing - distributed CMO]] weekly sync meeting #meeting-notes
     - **Time: **3:30pm-4:30pm UTC+1 - check [YC Google Calendar ](https://calendar.google.com/calendar/u/0/r?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
     - **Participants (TBC):**
-        - [[Hugo Macedo]]
-        - [[Maier Fenster]]
-        - [[Grigori Milov]]
-        - [[Sachin Benny]]
-        - ...
+        - {{[[DONE]]}} [[Hugo Macedo]]
+        - {{[[DONE]]}} [[Maier Fenster]]
+        - {{[[DONE]]}} [[Grigori Milov]]
+        - {{[[DONE]]}} [[Sachin Benny]]
+        - {{[[DONE]]}} [[Vinay Débrou]]
+        - 
     - **Location:** discord general?
     - **Agenda and Minutes:**
-        - Weekly meeting - lock a day/time 
-        - Priority: Internal vs. External - what should our initial focus be?
+        - ^^{{[[TODO]]}} Weekly meeting - lock a day/time - run a doodle #nextsteps [[Hugo Macedo]]^^
+        - {{[[TODO]]}} Priority: Internal vs. External - what should our initial focus be?
             - context - discord discussion
                 - started [here](https://discordapp.com/channels/692111190851059762/756113566452678707/762740941852508240)
                 - [[Hugo Macedo]] comments:
@@ -25,13 +26,101 @@ This means that we need to give priority to Yak Marketing vs. YC Marketing.
 ...
 Once we have a stronger base, we will attract and activate and maintain  great talent, we will be much stronger. 
 We will have a common root that we can talk about and we can build on top a brand, a value proposition, products,...
-                - October 6, 2020
+                - 
+            - discussion
+                - ^^GM^^
+                    - not the first time it appears the question
+                    - is a collective not clearly defined
+                    - is very difficult because diversity
+                    - instead define what we do - not a noun but a verb 
+                        - does a newsletter - THE YC newsletter not A newsletter, or several newsletter [[Grigori Milov]] I was trying to say that it is a mistake to treat Yak Talk as The Newsletter. We don't know what YC is, how can we know what The Newsletter should look like?
+So we came up with an idea for a newsletter, and I was one of it's authors, and implemented it. Others can have their own ideas and their own newsletters. and many members of YC actually do. Don't like Yak Talk -- go ahead, create your own, it takes like 2 minutes to register at Substack.
+                        - has a discussion on governance. [[Grigori Milov]] and Philosophy, and potentially Art, and, maybe Music, etc.
+                        - does project X, Y, Z
+                        - ...
+                - ^^MF^^
+                    - YC still does know what it is - is premature optimization, we're still exploring
+                    - What could YC do for you?
+                        - not we do newsletter
+                            - you can participate and build a newsletter with other Yaks
+                    - Why should you be interested?
+                - ^^HM^^
+                    - from a top down to a bottom up
+                - ^^MF^^
+                    - I don't expect to know the definitive answer 
+                    - it will always be an open question, is changing over time 
+                    - e.g., When Yak Map launches we can discover new things that today we don't know.
+                - ^^VD^^
+                    - use call for proposals template/framework - generalize to collect yearly ideas 
+                        - to collect future ideas - help define possibilities 
+                    - adds to what we do now(and before), with what we can do in the future (past-present-future)
+                - the system is alive and growing
+                - ^^{{[[TODO]]}} [[Hugo Macedo]] to work on these ideas #nextsteps ^^
+                - ^^GM^^
+                    - the YC feels different now than a few months ago
+                    - is becoming confused
+                    - it needs momentum 
+                    - we need to understand how to overcome this - to build the momentum
+                - ^^MF^^
+                    - connection beyween momentum, newsletter, marketing
+                        - newsletter want news, noise,... - wants momentum to build on
+                - ^^VD^^
+                    - we need an incentive for these key positions - project leader
+                    - did we decided the newsletter should be internal or external
+                - ^^GM^^
+                    - we need to decide how do we decide - governance
+                    - give agency the people - this motivates people
+                    - we need a team that makes all the decisions 
+                    - [[Grigori Milov]]many teams, actually. Each project should have a team with agency and proper governance. 
+In case of a newsletter, good editor says No most of the time. Especially to outsiders. Want a newsletter - go do it.
+https://twitter.com/grigorimilov/status/1313928927900037120?s=20
+
+                    - most people have a lot of opinions - impossible to navigate and satisfy 
+                - ^^HM^^
+                    -  - veto, what not to do
+                    - define big boundaries and let people play/create and have agency
+                - ^^VD^^
+                    - the editor should be able to decide
+                - MF
+                    - ^^How do we market/convince/sell to the members to Yaks that they have agency? ^^
+                        - GM - by example
+                        - HM - testemonials
+                - GM
+                    - YC should trust Yaks
+                    - and Yaks trust YC
+                    - risks - if the leader decided to leave in the middle of the project?
+                        - if you contribute and never ships
+                        - we have some examples already
+                - MF
+                    - we also have examples
+                    - people were given agency 
+                        - highlight the good examples
+                - GM
+                    - celebrate success
+                    - do post-morten to projects not successful/stalled
+                    - we need to ship and then celebrate
+                - MF
+                    - ^^relaunch the don't miss the re-boot project^^
+                    - AS launch
+                - 
+        - {{[[DONE]]}} Newsletter - is an important marketing channel - how can we help?
+        - {{[[DONE]]}} [[Grigori Milov]] Governance and Trust
+        - [[Grigori Milov]] So, what happened to YC Innovation Consulting?
+        - {{[[DONE]]}} [[Astonishing Stories - Marketing Launch]] review and next steps
+            - we can use the Newsletter audience/substack
+            - still in proofreading and wireframe
+            - 
         - Positioning - approach
             - VGR comment on discord: 
 `Positioning discussion thought-starter phrase: work-as-play. It’d be great if we can strongly tie YC to that concept. Cf “sufficiently advanced work is indistinguishable from play” — Seb Paquet`
             - Positioning YC will be hard with so many diverse perspectives - what's the best way to embrace and distill (?) this diversity?
-        - [[Astonishing Stories - Marketing Launch]] review and next steps
-        - Newsletter - is a important marketing channel - how can we help?
         - [[maier fenster]] project launch & pages as a tool for personal branding
+            - they should be optimized to be a leverage for personal branding 
+            - AS can be test case
+            - question - how we relate personal vs. YC branding in marketing activities, to make sure it can be separated and have synergy
         - [[maier fenster]] YC resources as a marketing tool
+            - library examples of frameworks/case-studies/proposals
+            - HM - is this connected to networked content -  "Content Aggregator/Network - YC Content Network (YCCN)"
+            - YakMap - expose the YakMap to external
         - [[maier fenster]] time permitting - onboarding vs. daily life
+            - we are putting significant effort into onboarding new yaks. the existing yaks, however, are a significant 'resource" and we should be thinking about how we make their touch points with the yak collective more valuable and perhaps more frequent as well. there are all sorts of activities such as yak-map, to encourage connect, and job-board (in zombie state) to help find work. but i think there should be some overall direction here. and, of course, this is used to market the advantages of being in yc, to yaks.

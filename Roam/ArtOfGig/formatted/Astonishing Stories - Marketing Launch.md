@@ -79,7 +79,7 @@ The stories here are not meant to predict the future but to be imagination exten
 
 # Backlinks
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+- [x] [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)

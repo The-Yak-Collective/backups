@@ -94,6 +94,16 @@
 - [Grigori Milov](<Grigori Milov.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- does a newsletter - THE YC newsletter not A newsletter, or several newsletter [Grigori Milov](<Grigori Milov.md>)
+
+- has a discussion on governance. [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)m
+
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
 - [Grigori Milov](<Grigori Milov.md>)
 
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
