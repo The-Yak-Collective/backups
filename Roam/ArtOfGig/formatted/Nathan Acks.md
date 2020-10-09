@@ -142,6 +142,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [October 8th, 2020](<October 8th, 2020.md>)
+- 20:00 convo [Nathan Acks](<Nathan Acks.md>)
+
 ## [Roam](<Roam.md>)
 last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 

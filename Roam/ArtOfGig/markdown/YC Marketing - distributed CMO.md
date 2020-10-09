@@ -9,7 +9,7 @@
     - 
 - 
 - # Background
-    - request for help on establishing a YC Marketing function 
+    - request for help on establishing a YakC Marketing function 
         - from discord announcements channel by [[Venkatesh Rao]]
 __Area 2: Developing a proper marketing capability around our assets and members. Ie, keeping track of how our project output is doing, leads coming in, maybe developing marketing assets to land more paid collective projects and leads for gigs for individual members etc. Basically a decenteralized/cooperative CMO type activity.__
     - [[Hugo Macedo]] volunteered - initial conversation with [[Maier Fenster]]
@@ -20,13 +20,13 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - [[Yak Branding Principles Proposal]]
             - {{embed: ((d99rmaMjn))}}
             - {{embed: ((3Tsd4wWqP))}}
-            - "YC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__"
-        - "[[Alex Wagner]]The hard work of [[positioning]] YC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides."
+            - "YakC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__"
+        - "[[Alex Wagner]]The hard work of [[positioning]] YakC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides."
         - "[[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to [[branding]] and [[positioning]]."
         - 
         - 
 - # Objective
-    - to create a distributed CMO function shared by several Yaks to elevate YC Marketing capability that fuels its growth
+    - to create a distributed CMO function shared by several Yaks to elevate YakC Marketing capability that fuels its growth
     - What is the Scope?
         - Clients - attract and engage potential clients
             - Client - an executive, a person - we don't engage with companies we engage with individuals, people, executives
@@ -39,7 +39,7 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - [[Hugo Macedo]] - enabler (better than leader)
         - [[Matthew Sweet]] - involved 
         - [[Grigori Milov]] - member
-        - [[Maier Fenster]] - support and connect to #Infrastructure and other YC links 
+        - [[Maier Fenster]] - support and connect to #Infrastructure and other YakC links 
         - ...
     - Workflows - how the team operates, coordinates and communicates
         - channels & tools

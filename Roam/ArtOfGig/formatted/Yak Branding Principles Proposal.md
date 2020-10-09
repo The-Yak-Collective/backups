@@ -15,7 +15,7 @@
                 - Dunford's [positioning](<positioning.md>) methodology 
                     - Consists of 5 parts:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fqcq-iXC9tz.png?alt=media&token=560bd59d-4748-4d90-ac69-cb9722bf44bc)
-                        - [Alex Wagner](<Alex Wagner.md>)The hard work of [positioning](<positioning.md>) YC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides.
+                        - [Alex Wagner](<Alex Wagner.md>)The hard work of [positioning](<positioning.md>) YakC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides.
     - How do you do [positioning](<positioning.md>) for Yak?
         - With what means do we position ourselves?
             - First, our projects

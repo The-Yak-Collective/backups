@@ -4,13 +4,13 @@
 - **[Last Updated](<Last Updated.md>):** [October 1st, 2020](<October 1st, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
 -  
-- ^^[Astonishing Stories](<Astonishing Stories.md>) team - please help fill out the fields bellow - especially the highlighted^^
+- ^^[Astonishing Stories](<Astonishing Stories.md>) team - please help fill out the fields below - especially the highlighted^^
 - 
 - # Launch Plan 
     - **Project:** [Astonishing Stories](<Astonishing Stories.md>)
     - **Goal of the Product**
         - To generate awareness to Yak Collective
-        - To position YC in foresight and prospective 
+        - To position YakC in foresight and prospective 
     - **Launch success:**
         - ^^[ ] what success looks like?^^
             - AS webpages visits?
@@ -23,7 +23,7 @@
             - ...
     - **Messaging**
         - ^^[ ] oneliner/tweet^^
-            - An anthology of short speculative fiction developed from the networked thoughts of 30 Indie consultants 
+            - An anthology of short speculative fiction developed from the networked thoughts of 30 indie consultants 
         - ^^[ ] long description^^
 something real clear but interesting (not too poetic, but also not too dry) - if you have the dry-version we can later edit the copywrite
             - The upside of an extremely uncertain environment is that we have been free to purely indulge in speculation about the future. The result is Astonishing Stories, an anthology of short speculative fiction developed from the networked thoughts of over 30 Indie consultants. 
@@ -48,15 +48,15 @@ The stories here are not meant to predict the future but to be imagination exten
             - get an initial interest and testimonials from a list that has exclusive pre-launch access in exchange for a testimonial
             - Key Steps:
                 - build a list of key targets
-                    - we can distribute this across the team or YC - each yak provides 5 names
-                - provide boilerplate - to make it ease for yaks
+                    - we can distribute this across the team or YakC - each yak provides 5 names
+                - provide boilerplate - to make it easy for yaks
                 - engage/message the content
                 - engage/message to request testimonial
                 - collect/curate testemonial - incorporate in website
     - **Channels**
-        - [ ] Yak talk newsletter - 1 story/week 
+        - [ ] Yak Talk newsletter - 1 story/week 
         - [ ] contributors social channels inc. blog/newsletters
-        - [ ] other Yaks social channels inc. blog/newsletters
+        - [ ] other yaks’ social channels inc. blog/newsletters
         - ^^[ ] 3rd party channels^^
             - guest appearances - one of the contributors appears on well-known related media to present/talk about the project
                 - media
@@ -80,6 +80,9 @@ The stories here are not meant to predict the future but to be imagination exten
 # Backlinks
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+
+## [October 8th, 2020](<October 8th, 2020.md>)
+- 19:49 [Jenna Dixon](<Jenna Dixon.md>) lightly gardened [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)

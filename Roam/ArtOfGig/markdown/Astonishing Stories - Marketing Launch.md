@@ -4,13 +4,13 @@
 - Last Updated:: [[October 1st, 2020]]
 - Last Updated By:: [[Hugo Macedo]] 
 -  
-- ^^[[Astonishing Stories]] team - please help fill out the fields bellow - especially the highlighted^^
+- ^^[[Astonishing Stories]] team - please help fill out the fields below - especially the highlighted^^
 - 
 - # Launch Plan 
     - **Project:** [[Astonishing Stories]]
     - **Goal of the Product**
         - To generate awareness to Yak Collective
-        - To position YC in foresight and prospective 
+        - To position YakC in foresight and prospective 
     - **Launch success:**
         - ^^{{[[TODO]]}} what success looks like?^^
             - AS webpages visits?
@@ -23,7 +23,7 @@
             - ...
     - **Messaging**
         - ^^{{[[TODO]]}} oneliner/tweet^^
-            - An anthology of short speculative fiction developed from the networked thoughts of 30 Indie consultants 
+            - An anthology of short speculative fiction developed from the networked thoughts of 30 indie consultants 
         - ^^{{[[TODO]]}} long description^^
 something real clear but interesting (not too poetic, but also not too dry) - if you have the dry-version we can later edit the copywrite
             - The upside of an extremely uncertain environment is that we have been free to purely indulge in speculation about the future. The result is Astonishing Stories, an anthology of short speculative fiction developed from the networked thoughts of over 30 Indie consultants. 
@@ -48,15 +48,15 @@ The stories here are not meant to predict the future but to be imagination exten
             - get an initial interest and testimonials from a list that has exclusive pre-launch access in exchange for a testimonial
             - Key Steps:
                 - build a list of key targets
-                    - we can distribute this across the team or YC - each yak provides 5 names
-                - provide boilerplate - to make it ease for yaks
+                    - we can distribute this across the team or YakC - each yak provides 5 names
+                - provide boilerplate - to make it easy for yaks
                 - engage/message the content
                 - engage/message to request testimonial
                 - collect/curate testemonial - incorporate in website
     - **Channels**
-        - {{[[TODO]]}} Yak talk newsletter - 1 story/week 
+        - {{[[TODO]]}} Yak Talk newsletter - 1 story/week 
         - {{[[TODO]]}} contributors social channels inc. blog/newsletters
-        - {{[[TODO]]}} other Yaks social channels inc. blog/newsletters
+        - {{[[TODO]]}} other yaks’ social channels inc. blog/newsletters
         - ^^{{[[TODO]]}} 3rd party channels^^
             - guest appearances - one of the contributors appears on well-known related media to present/talk about the project
                 - media

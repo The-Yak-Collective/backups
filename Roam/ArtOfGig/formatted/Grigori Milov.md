@@ -96,7 +96,7 @@
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)
 
-- does a newsletter - THE YC newsletter not A newsletter, or several newsletter [Grigori Milov](<Grigori Milov.md>)
+- does a newsletter - THE YakC newsletter not A newsletter, or several newsletter [Grigori Milov](<Grigori Milov.md>)
 
 - has a discussion on governance. [Grigori Milov](<Grigori Milov.md>)
 

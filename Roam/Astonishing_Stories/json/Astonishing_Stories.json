@@ -11652,8 +11652,8 @@
               "iframe": {
                 "wrapper": {
                   "size": {
-                    "height": 199,
-                    "width": 889
+                    "height": 197,
+                    "width": 1000
                   }
                 }
               }
@@ -11730,18 +11730,18 @@
                     "uid": "l1rdJa_A0"
                   },
                   {
-                    "edit-email": "sachben91@gmail.com",
-                    "edit-time": 1601678229634,
-                    "string": "[[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) ",
-                    "uid": "gxTA6agA_"
-                  },
-                  {
                     "create-email": "sachben91@gmail.com",
                     "create-time": 1598311958493,
                     "edit-email": "j@djinna.com",
                     "edit-time": 1600731701875,
                     "string": "[[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
                     "uid": "8yEaJjIrg"
+                  },
+                  {
+                    "edit-email": "sachben91@gmail.com",
+                    "edit-time": 1601678229634,
+                    "string": "[[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) ",
+                    "uid": "gxTA6agA_"
                   },
                   {
                     "edit-email": "j@djinna.com",
@@ -12153,5 +12153,201 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1602148706526,
     "title": "October 8th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204471389,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204507198,
+        "string": "kajsdf;k",
+        "uid": "z5VqVIRWG"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204507193,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204508050,
+        "string": "asldkfjn;k",
+        "uid": "F_A1TYLfl"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204508044,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204568171,
+        "string": "asdfkjnasdf",
+        "uid": "fRB-XmfrY"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204699615,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204706151,
+        "string": "__ital__",
+        "uid": "Ql4c3HoZN"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204706146,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204713283,
+        "string": "[[ref]]",
+        "uid": "bdVT5ERCQ"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204713277,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204726510,
+        "string": "**Bold**",
+        "uid": "3iaxN2J4-"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204471620,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204471620,
+        "string": "",
+        "uid": "TbsC6xVkt"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204471736,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204736776,
+        "string": "*ital* ",
+        "uid": "nb9r4Oqmh"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204736867,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204766771,
+        "string": "**bold*",
+        "uid": "XVL4RI0fc"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204770898,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204770898,
+        "string": "",
+        "uid": "tCQ3xxO-1"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204787801,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204801915,
+        "string": "`code`",
+        "uid": "_dRULaVsE"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204801972,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204801972,
+        "string": "",
+        "uid": "2ighriV1Y"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602204794406,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602204794406,
+        "string": "",
+        "uid": "h1Eg_56fk"
+      }
+    ],
+    "edit-email": "j@djinna.com",
+    "edit-time": 1602204465747,
+    "title": "test page"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1602204713284,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1602204713285,
+    "title": "ref"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "__...My algorithm finds that you are currently at the 46th percentile amongst clarinetists in your peer competition group. Practice your arpeggios to improve your score before the final evaluation! 16-year-olds in your city with finely articulated arpeggios generally rank in the top quartile. Those with a strong swing-eighths style generally rank in the top decile. Say 'practice arpeggios' or 'practice swing-eighths ' for a lesson...__",
+        "uid": "ncaW4SA44"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "\u201cJudd!\u201d His father yelled as he walked into the garage. \u201cWhy the hell is your Clarinet-MLv2 in pieces? How are you going to make regional youth orchestra with a broken Machine Learning Clarinet?\u201d In-person socializing among children had become another luxury good, doled out to high achievers and those who could afford the best virtual instruction. In an age of pandemics and rolling lockdowns, his dad saw the youth orchestra as an opportunity for kids like his son to get out of the house.",
+        "uid": "wwVVtunF0"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "__\u201c__Whoa!\u201d Judd put up his hands as if to deflect his father's anger, \u201cI can explain.\u201d Shunting his father to the corner of the garage and away from the decomposed Clarinet, he began breathlessly, \u201cSo I'm practicing yesterday like normal, getting feedback from the clarinet's evaluation algorithm. But I notice it just keeps repeating the same thing, in the same patronizing British accent. And I mean, No. Matter. What. I. Played. I practiced my arpeggios for 2 hours and it tells me I'm 46th percentile. I play a series of high-pitched squeals: 'Practice your arpeggios...' I even take the thing apart and remove the analog-to-digital converter so I can feed it recordings of Benny Goodman. \u201cYou're at the 46th percentile. Practice your arpeggios.\u201d Judd throws up his hands in exasperation.",
+        "uid": "ybdvJ_hIc"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "Listening, Judd's dad pursed his lips and thought back to how lucky he'd felt to snag an early-model Machine Learning Clarinet in the lottery his son's public school ran last year. Judd had zero musical aptitude, but he received one of the few instruments they had available for enhanced musical instruction. Even though the spit valve had rusted shut and the software was crude, it had required a hefty deposit. He looked over his son's shoulder at the dismembered Clarinet with, as the commercial advertisements would claim, \"Built-in machine learning software that provides personalized teaching and testing with no dangerous human interaction necessary!\"\u00a0 He worried they might lose it if Judd was unable to put the thing back together.",
+        "uid": "e8xZt0p-K"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "Meanwhile, Judd was still speaking quickly. \"So, I start digging into the software settings. I tune a few of the hyperparameters related to...\" His father has no idea what he's talking about and is skeptical that Judd does either. \u201c...and then something crazy happened.\"",
+        "uid": "Ick-LZBPL"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "His dad's attention refocuses, and he sees his son smiling broadly now.",
+        "uid": "faT0X_uUe"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "\"The company doesn't support this model any longer, but I come across an unofficial firmware update that promise to fix some of the problems I'm having. I install it and reboot. All of a sudden Clarence is back to his old, obnoxious self again. I play the arpeggios I've been practicing, and this time he tells me I'm ranked in the top 5%!\" Judd looks at his father expectantly, \"I think there was just some kind of buffering problem. It wasn't capturing the new input and so the algo was slow to update.\"",
+        "uid": "VlSQHZgR_"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "Judd's father's eyes brightened in surprise. \"Really?\"",
+        "uid": "SGYqKrrDx"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "\"Clarence even said I was eligible for a statewide scholarship!\"",
+        "uid": "lAgA6yEal"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "\"Judd, that's wonderful.\" His skepticism took a sudden backseat at the prospect of reduced tuition. Maybe Judd __wasn't__ just fooling around out here.",
+        "uid": "DO3oE3-HY"
+      },
+      {
+        "edit-email": "j@djinna.com",
+        "edit-time": 1602205549421,
+        "string": "\"I know! They said they'd send a check. All we have to do is deposit it in the bank, then wire half of it to a numbered account which they'll provide separately. That will cover tuition, and I can keep the other half for living expenses.\"",
+        "uid": "AR2bNnFBL"
+      }
+    ],
+    "edit-email": "j@djinna.com",
+    "edit-time": 1602205576019,
+    "title": "Your Payment Is Ready"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1602235128618,
+    "title": "October 9th, 2020"
   }
 ]

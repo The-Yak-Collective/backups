@@ -148,4 +148,6 @@ iirc, part of the idea was for these to go out in yak talk. in that case, we'll 
                 - ^^Mouse Memoirs + Roboto^^. A clearly nice choice and combo
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FIg53Valxqk.png?alt=media&token=bb42996e-c996-4065-ac25-04c24a2644c9)
     - 
-    - 
+    - [Noto Sans](https://fonts.google.com/specimen/Noto+Sans?query=noto&preview.text=Astonishing%20stories&preview.text_type=custom)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F26Fa2WtGM6.png?alt=media&token=c8b7a10a-9026-4662-ba1b-b3956f0674f2)
+        - 

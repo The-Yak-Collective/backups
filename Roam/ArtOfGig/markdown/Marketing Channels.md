@@ -15,17 +15,17 @@ The plan was to establish three tracks/beats:
         - Current status:
             - Initially, we wanted content for each track published each week. That turned out to be a lot, so we scaled back to one a week. Even that, absent preprepared content, proved difficult given the voluntary nature and the need for basically all of us to fit duties around other work/projects. We had semi-established roles a few weeks ago, but now we've seen attrition regarding publishing/involvement. Now, we are considering either recruiting more people to the effort, folding it in and forming the newsletter as an instrument of the infrastructure arm, or just abandoning/handing it off altogether.
             - It's tended to average 500 or so views per edition, an open rate hovering around 50% and a current subscriber base of 330.
-- Content Aggregator/Network - YC Content Network (YCCN)
+- Content Aggregator/Network - YakC Content Network (YCCN)
     - Stage {{or: idea|considering|decided|WIP|done}}
     - Why?
         - How to leverage each Yak's audience/following?
-        - Generate traffic to YC web property
+        - Generate traffic to YakC web property
         - Increase awareness and engagement 
     - What?
-        - Every Yak content outlet becomes part of the YC Content Network
+        - Every Yak content outlet becomes part of the YakC Content Network
             - each outlet/post references/links the network (__part of the YCCN__)
             - has a bloc of suggested network reading (Outbrain style)
-        - On top there's a YC Aggregator - like Techmeme
+        - On top there's a YakC Aggregator - like Techmeme
             - links to network articles
             - original content
     - How?
