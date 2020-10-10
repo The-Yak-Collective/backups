@@ -36,3 +36,6 @@
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>)
 
+## [Production Cell](<Production Cell.md>)
+- [Hershil Patel](<Hershil Patel.md>)
+

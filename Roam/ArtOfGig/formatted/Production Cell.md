@@ -36,7 +36,7 @@ More formal than [reader](<reader.md>) or [sparring-partner](<sparring-partner.m
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
             - [Scott Garlinger](<Scott Garlinger.md>)
                 - [Astonishing Stories](<Astonishing Stories.md>)
-            - [Firstname Lastname](<Firstname Lastname.md>)
+            - [Hershil Patel](<Hershil Patel.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Grigori Milov](<Grigori Milov.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)

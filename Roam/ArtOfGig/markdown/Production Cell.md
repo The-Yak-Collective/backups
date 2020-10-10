@@ -36,7 +36,7 @@ More formal than #reader or #sparring-partner.__
         - Add your name here if interested in this role::
             - [[Scott Garlinger]]
                 - [[Astonishing Stories]]
-            - [[Firstname Lastname]]
+            - [[Hershil Patel]]
             - [[Firstname Lastname]]
             - [[Grigori Milov]]
             - [[Firstname Lastname]]

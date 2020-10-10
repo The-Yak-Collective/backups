@@ -29,6 +29,9 @@ Previous update:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan A
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - 19:58 [Jenna Dixon](<Jenna Dixon.md>) updated [Knack.com](<Knack.com.md>)
 
+## [October 8th, 2020](<October 8th, 2020.md>)
+- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>) [Knack.com](<Knack.com.md>)
+
 ## [Schema | member data](<Schema | member data.md>)
 - **[About](<About.md>):** __map of fields in__ [Knack.com](<Knack.com.md>)
 

@@ -93,9 +93,9 @@ Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
 - 21:04 [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
-- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>)
-
 - 19:49 [Jenna Dixon](<Jenna Dixon.md>)
+
+- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Production Cell](<Production Cell.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)

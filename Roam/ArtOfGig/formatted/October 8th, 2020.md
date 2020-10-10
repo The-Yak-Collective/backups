@@ -1,4 +1,8 @@
-- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>)
+- 19:49 [Jenna Dixon](<Jenna Dixon.md>) lightly gardened [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+    - [Sachin Benny](<Sachin Benny.md>) shared the link with me in Discord
+    - feeling kinda strongly about __YakC__ instead of __YC__
+    - 
+- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>) [Knack.com](<Knack.com.md>)
     - [ ] configure: AS alt type
     - [ ] configure: AS story teaser setup
     - [ ] configure: ^^copyediting^^ » layout » proofreading process
@@ -13,8 +17,4 @@
         - https://medium.com/@stymied/what-slides-from-markdown-5239ed31e7ac
         - https://revealjs.com/markdown/
     - Final Frontiers deck »» https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?usp=sharing
-    - 
-- 19:49 [Jenna Dixon](<Jenna Dixon.md>) lightly gardened [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
-    - [Sachin Benny](<Sachin Benny.md>) shared the link with me in Discord
-    - feeling kinda strongly about __YakC__ instead of __YC__
     - 
