@@ -52,22 +52,22 @@
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
     - {{kanban}}
         - Strawman draft
-            - [[Sachin Benny]] 
-[Title tk](#)
             - [[Paul Sas]] [[Quarentiny Portals]]
         - Dev Editor Review
             - ^^**editors** 
 [[Sachin Benny]]
 [[Scott Garlinger]]^^
-            - [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
             - [[Ben Smith]] [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
         - Copyedit+Illustration 
             - ^^**copyeditor**
 [[Fname Lname]]^^ 
 ^^**illustrator** [[Justice]]^^
-            - [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)
+            - [[Sachin Benny]] 
+[Title tk](#)
+            - [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
             - [[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) 
-            - [[Ben Smith]] [In a class of their own](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
+            - [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
+            - [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)
         - layout
             - ^^**webdev**
 [[Nathan Acks]]^^

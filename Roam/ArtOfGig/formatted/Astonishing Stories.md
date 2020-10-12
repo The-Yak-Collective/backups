@@ -13,6 +13,9 @@
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - Template and content updates for the upcoming [Astonishing Stories](<Astonishing Stories.md>)
 
+## [October 11th, 2020](<October 11th, 2020.md>)
+- [ ] review: [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>)
 

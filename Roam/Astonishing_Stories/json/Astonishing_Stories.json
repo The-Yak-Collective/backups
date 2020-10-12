@@ -11666,12 +11666,6 @@
               {
                 "children": [
                   {
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1600731863568,
-                    "string": "[[Sachin Benny]] \n[Title tk](#)",
-                    "uid": "aepoSikiN"
-                  },
-                  {
                     "edit-email": "contact@wabisabifutures.com",
                     "edit-time": 1600731867296,
                     "string": "[[Paul Sas]] [[Quarentiny Portals]]",
@@ -11694,14 +11688,6 @@
                     "edit-time": 1600732873924,
                     "string": "^^**editors** \n[[Sachin Benny]]\n[[Scott Garlinger]]^^",
                     "uid": "TqXQa5KOF"
-                  },
-                  {
-                    "create-email": "sachben91@gmail.com",
-                    "create-time": 1598311715852,
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1600731810336,
-                    "string": "[[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)",
-                    "uid": "BgxvY636h"
                   },
                   {
                     "create-email": "sachben91@gmail.com",
@@ -11730,12 +11716,16 @@
                     "uid": "l1rdJa_A0"
                   },
                   {
-                    "create-email": "sachben91@gmail.com",
-                    "create-time": 1598311958493,
                     "edit-email": "j@djinna.com",
-                    "edit-time": 1600731701875,
-                    "string": "[[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
-                    "uid": "8yEaJjIrg"
+                    "edit-time": 1600731863568,
+                    "string": "[[Sachin Benny]] \n[Title tk](#)",
+                    "uid": "aepoSikiN"
+                  },
+                  {
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1602465133575,
+                    "string": "[[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
+                    "uid": "upEZlclsc"
                   },
                   {
                     "edit-email": "sachben91@gmail.com",
@@ -11744,10 +11734,20 @@
                     "uid": "gxTA6agA_"
                   },
                   {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1598311715852,
                     "edit-email": "j@djinna.com",
-                    "edit-time": 1600731719136,
-                    "string": "[[Ben Smith]] [In a class of their own](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
-                    "uid": "upEZlclsc"
+                    "edit-time": 1600731810336,
+                    "string": "[[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)",
+                    "uid": "BgxvY636h"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1598311958493,
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1600731701875,
+                    "string": "[[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
+                    "uid": "8yEaJjIrg"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -12359,5 +12359,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1602407915379,
     "title": "October 11th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1602494375871,
+    "title": "October 12th, 2020"
   }
 ]

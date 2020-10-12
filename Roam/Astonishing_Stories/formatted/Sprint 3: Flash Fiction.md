@@ -52,22 +52,22 @@
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
     - {{kanban}}
         - Strawman draft
-            - [Sachin Benny](<Sachin Benny.md>) 
-[Title tk](#)
             - [Paul Sas](<Paul Sas.md>) [Quarentiny Portals](<Quarentiny Portals.md>)
         - Dev Editor Review
             - ^^**editors** 
 [Sachin Benny](<Sachin Benny.md>)
 [Scott Garlinger](<Scott Garlinger.md>)^^
-            - [Chris Butler](<Chris Butler.md>) [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
             - [Ben Smith](<Ben Smith.md>) [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
         - Copyedit+Illustration 
             - ^^**copyeditor**
 [Fname Lname](<Fname Lname.md>)^^ 
 ^^**illustrator** [Justice](<Justice.md>)^^
-            - [Nathan Chen](<Nathan Chen.md>) [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)
+            - [Sachin Benny](<Sachin Benny.md>) 
+[Title tk](#)
+            - [Ben Smith](<Ben Smith.md>) [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
             - [Scott Garlinger](<Scott Garlinger.md>) [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) 
-            - [Ben Smith](<Ben Smith.md>) [In a class of their own](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
+            - [Chris Butler](<Chris Butler.md>) [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
+            - [Nathan Chen](<Nathan Chen.md>) [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)
         - layout
             - ^^**webdev**
 [Nathan Acks](<Nathan Acks.md>)^^

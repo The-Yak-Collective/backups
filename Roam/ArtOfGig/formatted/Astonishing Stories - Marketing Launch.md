@@ -34,11 +34,19 @@ The stories here are not meant to predict the future but to be imagination exten
         - ^^Questionnaire to feed the messaging^^
             - Answering these questions will help us build the right content/messaging to market the project
                 - Who are you? "about the team to emphasise relevant experience"
+                    - 30+ indie consultants with various levels of experience, from all over the world. Amanda Reeves, one of the lead editors runs a strategic foresight consulting practice. The story writers come from different back grounds - tech, consulting, product manager, growth marketer, researcher and brings a diversity of perspective 
                 - Why did you decided to embark on this project? 
+                    - science fiction seemed like an indulgent way to think about the future when the whole world is experiencing some form of a sense of foreshortened future 
                 - Why is this relevant to executives or other consultants? 
+                    - The stories are not meant to predict the future but to be imagination extenders to think about the future, make decisions and to be comfortable with uncertainty 
                 - Why now? 
+                    - The pandemic has gone from being the main event to be the background for other events to take place, we wanted to explore what this would be like 
                 - What was the process to arrive to this stories? 
+                    - We organized sessions of[ A Thing From The Future ](http://situationlab.org/project/the-thing-from-the-future/)where over 30 indie consultants came together to create future fragments and scenarios that described objects from the future. 
+                    - These future fragments and scenarios were organized in a Roam Graph which was used by writers to create stories by combining, remixing and connecting these ideas 
                 - What's next?
+                    - Want to create a story? Visit the Roam Graph and create your own and see our process
+                    - Get in touch with Yak Collective to get a diverse perspective of the future about your industry/company 
         - [ ] ^^Quote/Comment on business relevance and link to foresight/prospective skills/service^^
             - Why did we did this? What is the value of AS to business leaders?
         - social proof

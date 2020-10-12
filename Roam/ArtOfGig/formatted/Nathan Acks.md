@@ -137,6 +137,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [October 11th, 2020](<October 11th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 

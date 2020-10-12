@@ -402,6 +402,13 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
         - We can bootstrap these comms using Maier's `yak_scraper` robot
         - For the moment, we'll just DM people; later, we __may__ add interactivity.
             - Reminders will be on a timer.
-- 
+- infrastructure chat 22 [[October 11th, 2020]] #meeting-notes
+    - Knackifying the yak network map google form https://yak.knack.com/yaks#yakmap-participation-signup/
+    - There may be minor data normalization that needs to happen with capitalization, spaces, etc
+    - Test email 
+    - Added password to knack form
+    - Discord bot is set up that can message based on UID
+    - Bot can compose parameters from discord into knack url like snowflake iD (UUID)
+    - Astonishing stories launching 1x week. card can be iterated upon.
 - 
 - 
