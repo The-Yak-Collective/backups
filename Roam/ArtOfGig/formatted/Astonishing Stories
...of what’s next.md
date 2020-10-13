@@ -92,6 +92,7 @@
         - Work with Speculative fiction creators to produce visuals (art, graphic design etc)that help convey the story
         - ### Want to create visuals? Add your name here
             - [Maggie Appleton](<Maggie Appleton.md>)
+            - [Justice](<Justice.md>)
     - ## Website designer
         - Work with the curator/s to design the interactive website hosting the fiction
         - ### Want to design the site? Add your name here
@@ -151,3 +152,17 @@ iirc, part of the idea was for these to go out in yak talk. in that case, we'll 
     - [Noto Sans](https://fonts.google.com/specimen/Noto+Sans?query=noto&preview.text=Astonishing%20stories&preview.text_type=custom)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F26Fa2WtGM6.png?alt=media&token=c8b7a10a-9026-4662-ba1b-b3956f0674f2)
         - 
+- 
+- 
+- [October 12th, 2020](<October 12th, 2020.md>) 19:43 call 
+    - [Sachin Benny](<Sachin Benny.md>) [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>)
+    - edit cycles
+    - [ ] ping authors re copyedits SB
+    - [ ] create footnotes SB
+    - [ ] author bios - add at the bottom of the story
+    - type choices
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fj4CYuoaGXs.png?alt=media&token=045a7160-a64c-4337-bc95-d379aaa5134a)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FkZrI001du1.png?alt=media&token=3ed2d9f8-da71-4752-89e8-b5c9211cb70f)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F2-W_C5kHmE.png?alt=media&token=3d2a360f-e77d-43ba-9f40-81be2acd4e2c)
+    - 
+- 

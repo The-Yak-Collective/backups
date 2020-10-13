@@ -6,5 +6,5 @@
 ## [Sprint 3: Flash Fiction](<Sprint 3: Flash Fiction.md>)
 [Scott Garlinger](<Scott Garlinger.md>)^
 
-- [Scott Garlinger](<Scott Garlinger.md>)
+- 03 [Scott Garlinger](<Scott Garlinger.md>)
 

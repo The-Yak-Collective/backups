@@ -68,6 +68,8 @@
 
 - [ ] add that to the brief [Sachin Benny](<Sachin Benny.md>)
 
+- [Sachin Benny](<Sachin Benny.md>)
+
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 - call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>)
 

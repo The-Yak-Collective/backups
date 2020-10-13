@@ -1,6 +1,11 @@
 - dynamics of online groups and how they tend to implode
 
 # Backlinks
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- [Justice](<Justice.md>)
+
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 - call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>) [Jordan Peacock](<Jordan Peacock.md>) [Justice](<Justice.md>)
 
