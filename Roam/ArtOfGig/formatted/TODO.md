@@ -121,7 +121,9 @@
 
 - {{[TODO](<TODO.md>)}
 
-- ^^{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - {{[TODO](<TODO.md>)}

@@ -1,16 +1,15 @@
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) weekly sync meeting [meeting-notes](<meeting-notes.md>)
     - **Time: **3:30pm-4:30pm UTC+1 - check [YC Google Calendar ](https://calendar.google.com/calendar/u/0/r?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-    - **Participants (TBC):**
+    - **Participants:**
         - [x] [Hugo Macedo](<Hugo Macedo.md>)
         - [x] [Maier Fenster](<Maier Fenster.md>)
         - [x] [Grigori Milov](<Grigori Milov.md>)
         - [x] [Sachin Benny](<Sachin Benny.md>)
         - [x] [Vinay Débrou](<Vinay Débrou.md>)
-        - 
-    - **Location:** discord general?
+    - **Location:** discord general
     - **Agenda and Minutes:**
-        - ^^[ ] Weekly meeting - lock a day/time - run a doodle [nextsteps](<nextsteps.md>) [Hugo Macedo](<Hugo Macedo.md>)^^
-        - [ ] Priority: Internal vs. External - what should our initial focus be?
+        - ^^[x] Weekly meeting - lock a day/time - run a doodle [nextsteps](<nextsteps.md>) [Hugo Macedo](<Hugo Macedo.md>)^^ - here's the [doodle](https://doodle.com/poll/quh299azqsu9tinc)
+        - [x] Priority: Internal vs. External - what should our initial focus be?
             - context - discord discussion
                 - started [here](https://discordapp.com/channels/692111190851059762/756113566452678707/762740941852508240)
                 - [Hugo Macedo](<Hugo Macedo.md>) comments:
@@ -28,46 +27,46 @@ Once we have a stronger base, we will attract and activate and maintain  great t
 We will have a common root that we can talk about and we can build on top a brand, a value proposition, products,...
                 - 
             - discussion
-                - ^^GM^^
+                - [Grigori Milov](<Grigori Milov.md>)
                     - not the first time it appears the question
                     - is a collective not clearly defined
                     - is very difficult because diversity
-                    - instead define what we do - not a noun but a verb 
+                    - ^^instead define what we do - not a noun but a verb ^^
                         - does a newsletter - THE YakC newsletter not A newsletter, or several newsletter [Grigori Milov](<Grigori Milov.md>) I was trying to say that it is a mistake to treat Yak Talk as The Newsletter. We don't know what YakC is, how can we know what The Newsletter should look like?
 So we came up with an idea for a newsletter, and I was one of its authors, and implemented it. Others can have their own ideas and their own newsletters. and many members of YakC actually do. Don't like Yak Talk -- go ahead, create your own, it takes like 2 minutes to register at Substack.
                         - has a discussion on governance. [Grigori Milov](<Grigori Milov.md>) and Philosophy, and potentially Art, and, maybe Music, etc.
                         - does project X, Y, Z
                         - ...
-                - ^^MF^^
+                - [Maier Fenster](<Maier Fenster.md>)
                     - YakC still does know what it is - is premature optimization, we're still exploring
                     - What could YakC do for you?
                         - not we do newsletter
                             - you can participate and build a newsletter with other Yaks
                     - Why should you be interested?
-                - ^^HM^^
+                - [Hugo Macedo](<Hugo Macedo.md>) 
                     - from a top down to a bottom up
-                - ^^MF^^
+                - [Maier Fenster](<Maier Fenster.md>)
                     - I don't expect to know the definitive answer 
                     - it will always be an open question, is changing over time 
                     - e.g., When Yak Map launches we can discover new things that today we don't know.
-                - ^^VD^^
+                - [Vinay Débrou](<Vinay Débrou.md>)
                     - use call for proposals template/framework - generalize to collect yearly ideas 
                         - to collect future ideas - help define possibilities 
                     - adds to what we do now(and before), with what we can do in the future (past-present-future)
                 - the system is alive and growing
                 - ^^[ ] [Hugo Macedo](<Hugo Macedo.md>) to work on these ideas [nextsteps](<nextsteps.md>) ^^
-                - ^^GM^^
+                - [Grigori Milov](<Grigori Milov.md>)
                     - the YakC feels different now than a few months ago
                     - is becoming confused
                     - it needs momentum 
                     - we need to understand how to overcome this - to build the momentum
-                - ^^MF^^
+                - [Maier Fenster](<Maier Fenster.md>)
                     - connection beyween momentum, newsletter, marketing
                         - newsletter want news, noise,... - wants momentum to build on
-                - ^^VD^^
+                - [Vinay Débrou](<Vinay Débrou.md>)
                     - we need an incentive for these key positions - project leader
                     - did we decided the newsletter should be internal or external
-                - ^^GM^^
+                - [Grigori Milov](<Grigori Milov.md>)
                     - we need to decide how do we decide - governance
                     - give agency the people - this motivates people
                     - we need a team that makes all the decisions 
@@ -76,30 +75,30 @@ In case of a newsletter, good editor says No most of the time. Especially to out
 https://twitter.com/grigorimilov/status/1313928927900037120?s=20
 
                     - most people have a lot of opinions - impossible to navigate and satisfy 
-                - ^^HM^^
+                - [Hugo Macedo](<Hugo Macedo.md>)
                     -  - veto, what not to do
                     - define big boundaries and let people play/create and have agency
-                - ^^VD^^
+                - [Vinay Débrou](<Vinay Débrou.md>)
                     - the editor should be able to decide
-                - MF
+                - [Maier Fenster](<Maier Fenster.md>)
                     - ^^How do we market/convince/sell to the members to Yaks that they have agency? ^^
                         - GM - by example
                         - HM - testemonials
-                - GM
+                - [Grigori Milov](<Grigori Milov.md>)
                     - YakC should trust Yaks
                     - and Yaks trust YakC
                     - risks - if the leader decided to leave in the middle of the project?
                         - if you contribute and never ships
                         - we have some examples already
-                - MF
+                - [Maier Fenster](<Maier Fenster.md>)
                     - we also have examples
                     - people were given agency 
                         - highlight the good examples
-                - GM
+                - [Grigori Milov](<Grigori Milov.md>)
                     - celebrate success
                     - do post-morten to projects not successful/stalled
                     - we need to ship and then celebrate
-                - MF
+                - [Maier Fenster](<Maier Fenster.md>)
                     - ^^relaunch the don't miss the re-boot project^^
                     - AS launch
                 - 
@@ -109,18 +108,35 @@ https://twitter.com/grigorimilov/status/1313928927900037120?s=20
         - [x] [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>) review and next steps
             - we can use the Newsletter audience/substack
             - still in proofreading and wireframe
-            - 
-        - Positioning - approach
+        - [ ] Positioning - approach 
             - VGR comment on discord: 
 `Positioning discussion thought-starter phrase: work-as-play. It’d be great if we can strongly tie YC to that concept. Cf “sufficiently advanced work is indistinguishable from play” — Seb Paquet`
             - Positioning YC will be hard with so many diverse perspectives - what's the best way to embrace and distill (?) this diversity?
-        - [maier fenster](<maier fenster.md>) project launch & pages as a tool for personal branding
+        - [Maier Fenster](<Maier Fenster.md>) project launch & pages as a tool for personal branding
             - they should be optimized to be a leverage for personal branding 
             - AS can be test case
             - question - how we relate personal vs. YakC branding in marketing activities, to make sure it can be separated and have synergy
-        - [maier fenster](<maier fenster.md>) YakC resources as a marketing tool
+        - [Maier Fenster](<Maier Fenster.md>) YakC resources as a marketing tool
             - library examples of frameworks/case-studies/proposals
             - HM - is this connected to networked content -  "Content Aggregator/Network - YakC Content Network (YCCN)"
             - YakMap - expose the YakMap to external
-        - [maier fenster](<maier fenster.md>) time permitting - onboarding vs. daily life
-            - we are putting significant effort into onboarding new yaks. the existing yaks, however, are a significant 'resource" and we should be thinking about how we make their touch points with the yak collective more valuable and perhaps more frequent as well. there are all sorts of activities such as yak-map, to encourage connect, and job-board (in zombie state) to help find work. but i think there should be some overall direction here. and, of course, this is used to market the advantages of being in yakc, to yaks.
+        - [Maier Fenster](<Maier Fenster.md>)time permitting - onboarding vs. daily life
+            - we are putting significant effort into onboarding new yaks. the existing yaks, however, are a significant 'resource" and we should be thinking about how we make their touchpoints with the yak collective more valuable and perhaps more frequent as well. there are all sorts of activities such as yak-map, to encourage connect, and job-board (in zombie state) to help find work. but i think there should be some overall direction here. and, of course, this is used to market the advantages of being in yakc, to yaks.
+    - Main takeaways:
+        - Internal Marketing is key to start with - we need to figure out who we are and what YC is for Yaks before we're able to revisit/scale our external marketing
+        - YC should be defined by what we do and what we could do - what we do will define who we are (emergence). Defining who we are is premature-optimization. A bottom-up instead of a top-down approach.
+            - this seems more in-tuned with our decentralised, diverse DNA
+        - YC can/should(?) be a place to do projects - have the freedom to leverage the Yaks and Collective to do projects.
+            - we can even have projects that are similar but different - because they have a different idea/purpose - e.g. we can have several Newsletters
+        - The best way to communicate this "playground" idea is to give examples and testimonials
+        -  Relaunch the [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)?
+            - what would we add to that? a behind the scenes, making-of that tells about the potential?
+        - Next Steps:
+            - [ ] List all the projects in their different stage (idea/concept/wip/stalled/delivered)
+            - [ ] survey Yaks to understand their motives/expectations/experience (TBD)
+                - from here we can do some 1-1 interviews
+            - Copy write some content on
+                - What we do is who we are
+                - YC as a "playground"/opportunities to build new projects
+            - [Maier Fenster](<Maier Fenster.md>) consider specifically issue of helping yaks market
+            - [Maier Fenster](<Maier Fenster.md>) @ajgram: is there any published material on the ideal customer profile for YC, and the type of projects it is best positioned to deliver superior results vs. traditional consulting firms?

@@ -67,11 +67,15 @@
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Hugo Macedo](<Hugo Macedo.md>)
 
-- ^^[ ] Weekly meeting - lock a day/time - run a doodle [nextsteps](<nextsteps.md>) [Hugo Macedo](<Hugo Macedo.md>)^
+- ^^[x] Weekly meeting - lock a day/time - run a doodle [nextsteps](<nextsteps.md>) [Hugo Macedo](<Hugo Macedo.md>)^
+
+- [Hugo Macedo](<Hugo Macedo.md>)
 
 - [Hugo Macedo](<Hugo Macedo.md>)
 
 - ^^[ ] [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)

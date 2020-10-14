@@ -52,6 +52,12 @@
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Vinay Débrou](<Vinay Débrou.md>)
 
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
 ## [Schema | member data](<Schema | member data.md>)
 [Vinay Débrou](<Vinay Débrou.md>)
 
