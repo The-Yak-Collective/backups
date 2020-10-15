@@ -32,6 +32,13 @@ Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<M
 ## [Netlify](<Netlify.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [October 14th, 2020](<October 14th, 2020.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
+- "[Maier Fenster](<Maier Fenster.md>)
+
+- "[Maier Fenster](<Maier Fenster.md>)
+
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
 

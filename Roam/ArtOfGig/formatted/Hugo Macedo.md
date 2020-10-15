@@ -61,6 +61,11 @@
 ## [Movement Marketing: 4 Strategies For Sparking A Brand Movement](<Movement Marketing: 4 Strategies For Sparking A Brand Movement.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [October 14th, 2020](<October 14th, 2020.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [ ] followup on messaging and give feedback [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - 08:39 [Jenna Dixon](<Jenna Dixon.md>) joining [Hugo Macedo](<Hugo Macedo.md>)
 

@@ -14,6 +14,9 @@
 ## [Netlify](<Netlify.md>)
 - {{[embed](<embed.md>):
 
+## [October 14th, 2020](<October 14th, 2020.md>)
+- {{[embed](<embed.md>):
+
 ## [Sandbox Page](<Sandbox Page.md>)
 - {{[embed](<embed.md>):
 

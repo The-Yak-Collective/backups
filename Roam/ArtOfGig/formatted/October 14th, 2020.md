@@ -1,15 +1,15 @@
-- [[YC Marketing - distributed CMO]] sync #meeting-notes
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) sync [meeting-notes](<meeting-notes.md>)
     - Location: discord 
     - Time: 3pm-4pm UTC+1 
     - Participants (TBC)
-        - [[Hugo Macedo]] 
-        - [[Maier Fenster]]
-        - [[Grigori Milov]]
+        - [Hugo Macedo](<Hugo Macedo.md>) 
+        - [Maier Fenster](<Maier Fenster.md>)
+        - [Grigori Milov](<Grigori Milov.md>)
         - ...
     - Agenda/Minutes 
         - 
-            - {{[[embed]]: ((AKz3adabk))}}
-        - {{[[DONE]]}} "{{[[TODO]]}} List all the projects in their different stage (idea/concept/wip/stalled/delivered)"
+            - {{[embed](<embed.md>): ((AKz3adabk))}}
+        - [x] "[ ] List all the projects in their different stage (idea/concept/wip/stalled/delivered)"
             - GM
                 - list project that people can join now
                     - define what's next - what can I do now? 
@@ -27,7 +27,7 @@
                     - see here what process was (?): https://roamresearch.com/#/app/ArtOfGig/page/MWN2i9e3v
             - MF
                 - onboarding should cover this question - "if I have a project what do I do?"
-        - {{[[TODO]]}} "{{[[TODO]]}} survey Yaks to understand their motives/expectations/experience (TBD)"
+        - [ ] "[ ] survey Yaks to understand their motives/expectations/experience (TBD)"
             - GM
                 - survey - is backward looking - we should look forward 
                 - the future is more interesting
@@ -44,13 +44,13 @@
                 - Portfolio of Project can include
                     - BIg thought leadership
                     - Client Projects
-                    - Fast-in-fast-out - starter low-touch projects #onboarding 
+                    - Fast-in-fast-out - starter low-touch projects [onboarding](<onboarding.md>) 
             - Actions
-                - {{[[TODO]]}} Project proposal process 
-                - {{[[TODO]]}} Generate project ideas
-        - {{[[TODO]]}} AS Launch 
-            - {{[[TODO]]}} followup on messaging and give feedback [[Hugo Macedo]] 
-        - {{[[TODO]]}} " Relaunch the [[Don’t Waste the Reboot]]?"
+                - [ ] Project proposal process 
+                - [ ] Generate project ideas
+        - [ ] AS Launch 
+            - [ ] followup on messaging and give feedback [Hugo Macedo](<Hugo Macedo.md>) 
+        - [ ] " Relaunch the [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)?"
             - we need to rethink the slide/launch
             - MF
                 - relaunch as workshops - interactive 
@@ -61,8 +61,8 @@
                 - Micro-workshops are free, virtual, interactive experiences, customized for your company. Different from webinars, these micro-workshops are hands-on and led by our best facilitators and topic experts. They are designed for small groups of around 10 people and are about 60-90 minutes long.
                 - At the end of each micro-workshop, you’ll receive a customized output or report, capturing what you learned for future use.
                 - You’ll collaborate in small groups. You’ll learn something new. You’ll get something done. You’ll move the needle. **Join us!**
-        - {{[[TODO]]}} YC Ideal customer profile
-            - "[[Maier Fenster]] @ajgram: is there any published material on the ideal customer profile for YC, and the type of projects it is best positioned to deliver superior results vs. traditional consulting firms?"
-        - {{[[TODO]]}} helping yaks market 
-            - "[[Maier Fenster]] consider specifically issue of helping yaks market"
+        - [ ] YC Ideal customer profile
+            - "[Maier Fenster](<Maier Fenster.md>) @ajgram: is there any published material on the ideal customer profile for YC, and the type of projects it is best positioned to deliver superior results vs. traditional consulting firms?"
+        - [ ] helping yaks market 
+            - "[Maier Fenster](<Maier Fenster.md>) consider specifically issue of helping yaks market"
         - 
