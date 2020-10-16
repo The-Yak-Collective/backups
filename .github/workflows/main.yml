@@ -21,10 +21,12 @@ jobs:
           python-version: 3.8
       - name: Setup dependencies
         run: |
+          sudo apt install jq
           pip install git+https://github.com/MatthieuBizien/roam-to-git.git
       - name: Backup ArtOfGig graph
         run: |
           roam-to-git --skip-git Roam/ArtOfGig
+          bash .bin/roam_asset_downloader.sh Roam/ArtOfGig
         env:
           ROAMRESEARCH_USER: ${{ secrets.ROAM_USER }}
           ROAMRESEARCH_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
@@ -32,6 +34,7 @@ jobs:
       - name: Backup Astonishing_Stories graph
         run: |
           roam-to-git --skip-git Roam/Astonishing_Stories
+          bash .bin/roam_asset_downloader.sh Roam/Astonishing_Stories
         env:
           ROAMRESEARCH_USER: ${{ secrets.ROAM_USER }}
           ROAMRESEARCH_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
