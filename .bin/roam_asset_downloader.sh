@@ -18,6 +18,6 @@ FIREBASE_PREFIX="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.ap
 for FILE_WITH_TOKEN in $(cat "$ROAM_DIR/json"/*.json | jq "." | grep "$FIREBASE_PREFIX/" | sed -e "s#.*$FIREBASE_PREFIX/\([^)}\"]\+\).*#\1#"); do
 	FILE="$(echo "$FILE_WITH_TOKEN" | sed -e 's#\?.*##')"
 	if [[ ! -e "$ROAM_DIR/assets/$FILE" ]]; then
-		curl --silent --show-error --location --create-dirs --output "$ROAM_DIR/assets/$FILE" "$FIREBASE_PREFIX/$FILE_WITH_TOKEN"
+		curl --silent --show-error --location --create-dirs --output "$ROAM_DIR/assets/$FILE" "$FIREBASE_PREFIX/$FILE_WITH_TOKEN" && echo "Backed up: $FILE"
 	fi
 done
