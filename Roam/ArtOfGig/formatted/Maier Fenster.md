@@ -1,6 +1,13 @@
 - 
 
 # Backlinks
+## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Maier Fenster](<Maier Fenster.md>)
+
+- **[project lead](<project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
+
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - `knack-migration` (point: [Maier Fenster](<Maier Fenster.md>))
 
@@ -73,7 +80,7 @@ Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<M
 
 - [Maier Fenster](<Maier Fenster.md>)
 
-- [Maier Fenster](<Maier Fenster.md>)d
+- [Maier Fenster](<Maier Fenster.md>)
 
 - **yak orbit**: (display only) will reflect how member-like the yak is, generally, but not exactly corresponding to yak..member scale [Maier Fenster](<Maier Fenster.md>)
 
@@ -95,6 +102,9 @@ Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<M
 - [Hugo Macedo](<Hugo Macedo.md>) volunteered - initial conversation with [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
+
+## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
+- [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>) - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. lead by [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Maier Fenster](<Maier Fenster.md>)

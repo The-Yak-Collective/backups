@@ -5,6 +5,7 @@
 - **[Last Updated](<Last Updated.md>):** 
     - [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
     - [September 27th, 2020](<September 27th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+    - [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Gardened](<Last Gardened.md>):** [Jenna Dixon](<Jenna Dixon.md>) [October 5th, 2020](<October 5th, 2020.md>)
 - 
 - # Website Member Data Template
@@ -46,7 +47,11 @@
         - __Optional__ A YAML array of link objects. Each object has a **url:** attribute (the, well, URL) and a **title:** attribute (the name that should be used for this URL).
         - Example: `[{title: Homepage, url: https://delphi-strategy.com/}, {title: Photography, url: https://digital-orrery.com/}, {title: Web Log, url: https://ecopunk.info/}]`
             - [ ] [ping](<ping.md>) ^^ we wouldn't ask them to do this, would we? just ask for the links+lables? hmmm /jd^^ [September 27th, 2020](<September 27th, 2020.md>)
-        - [Maier Fenster](<Maier Fenster.md>)does knack support user entry of a yaml into a single item? if not, i suggest having 3 pairs of title1, linke1, title2, link2, title3, link3
+        - [Maier Fenster](<Maier Fenster.md>) does knack support user entry of a yaml into a single item? if not, i suggest having 3 pairs of title1, linke1, title2, link2, title3, link3
+            - [Jenna Dixon](<Jenna Dixon.md>) so far I think the answer is no [October 15th, 2020](<October 15th, 2020.md>)
+    - **[RSS](<RSS.md>):** 
+        - [Nathan Acks](<Nathan Acks.md>) we should also have an "rss feed" field in the member data (for feeds to be aggregated on the "writings" page) [October 15th, 2020](<October 15th, 2020.md>)
+        - [Jenna Dixon](<Jenna Dixon.md>) nice catch √ just added the field, and added it to the profile edit page for yaks and admins [October 15th, 2020](<October 15th, 2020.md>)
     - **[content](<content.md>):**
         - __Optional__ Free-form content using Markdown. Currently unused.
         - This isn't a "real" field -- rather members are currently represented using Markdown files in a `members` [Jekyll collection](https://jekyllrb.com/docs/collections/). All of the information __except__ this field is YAML frontmatter, while the **content:** is just the actual Markdown data.

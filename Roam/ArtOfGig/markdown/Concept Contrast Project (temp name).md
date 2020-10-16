@@ -1,0 +1,32 @@
+- About:: project page for embryonic project contrasting YC conceptualization with standard conceptionalization
+- Chief Page Wrangler:: [[Rafael Fernandez]]
+    - Additional Page Wranglers:: [[Maier Fenster]]
+- Last Updated:: [[October 16, 2020]]
+- Last Updated By:: [[Maier Fenster]]  
+- vote:: **please vote on this line using emoticon (👍👎) reactions so this project can mature**
+- Meta::
+    - what this project is about::
+        - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes
+    - deliverable::
+    - 3 intermediate milestones::
+        - XX on YY meets requirement ZZ
+    - Referees (non-participating reviewers)::
+    - project lead:: [[Rafael Fernandez]] & [[Maier Fenster]]
+    - Also in project:: 
+    - Why you should join::
+    - status::
+    - help wanted::
+    - Meeting minutes::
+    - relevant files and drafts (Graph or website or google docs)::
+    - Genesis::
+        - https://discordapp.com/channels/692111190851059762/706606552819433482/766052418219147274
+            - We were talking about viable old-fashioned journalism opportunity?
+My suggestion is: we have the power to call out new controversial perspectives.
+MVP Recommendation: find companies which are already going against the grain.
+Scalability: take the approach, generalise and take to potential clients
+        - Comments (Rafael) - Specifically, I was envisioning a short article regarding investigating organizations that are already pursuing alternative strategies to traditional consulting perspective. I consider the traditional consulting perspective to be central command and control. I think in the Reboot deck, they explain this in some examples.
+- Putative plan::
+- Pivots so far::
+- Jobs and ways to contribute::
+    - various "jobs"
+- ?

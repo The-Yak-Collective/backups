@@ -1,6 +1,8 @@
 - **Completed collaborations**
     - [[Don’t Waste the Reboot]] led by [[Paul Millerd]] and [[Venkatesh Rao]]
     - [[The New Old Home]] - led by  [[Pamela Hobart]] and [[Drew Schorno]]
+- September-October 2020 proposal pages::
+    - [[Concept Contrast Project (temp name)]] - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. lead by [[Rafael Fernandez]] & [[Maier Fenster]]
 - **July-August 2020 Proposal Pages**
     - Starting with this cycle, we are introducing a formal [[Project Referee Role]]
     - [[Astonishing Stories

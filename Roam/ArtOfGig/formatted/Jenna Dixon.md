@@ -132,9 +132,15 @@ Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
 
 - [September 27th, 2020](<September 27th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+- [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 - **[Last Gardened](<Last Gardened.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
 - [x] [September 27th, 2020](<September 27th, 2020.md>) [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)"

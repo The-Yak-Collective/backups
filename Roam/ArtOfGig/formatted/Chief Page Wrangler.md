@@ -10,6 +10,10 @@
 - **[About](<About.md>):** __Marketing Launch plan for Astonishing Stories project__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
+- **[About](<About.md>):** project page for embryonic project contrasting YC conceptualization with standard conceptionalization
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Directory](<Directory.md>)
 - **[About](<About.md>):** __A self-generated directory of Yaks.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

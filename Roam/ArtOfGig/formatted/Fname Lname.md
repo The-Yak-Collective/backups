@@ -134,5 +134,7 @@
 
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
 
-- **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 
