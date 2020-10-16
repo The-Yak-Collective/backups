@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Schema | member data](<Schema | member data.md>)
-- [Jenna Dixon](<Jenna Dixon.md>) so far I think the answer is no [October 15th, 2020](<October 15th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) In Knack, set to three URL fields with both link text and a URL component.
     - **[RSS](<RSS.md>):**
 

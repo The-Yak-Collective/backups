@@ -142,6 +142,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [October 15th, 2020](<October 15th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -157,6 +160,10 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)
 
 - [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 

@@ -6,14 +6,19 @@
 - vote:: **please vote on this line using emoticon (👍👎) reactions so this project can mature**
 - Meta::
     - what this project is about::
-        - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes
+        - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others
     - deliverable::
+    - project size::
+        - small
     - 3 intermediate milestones::
         - XX on YY meets requirement ZZ
     - Referees (non-participating reviewers)::
     - project lead:: [[Rafael Fernandez]] & [[Maier Fenster]]
     - Also in project:: 
     - Why you should join::
+    - intended audiance::
+        - who::
+        - value for them::
     - status::
     - help wanted::
     - Meeting minutes::
@@ -28,5 +33,6 @@ Scalability: take the approach, generalise and take to potential clients
 - Putative plan::
 - Pivots so far::
 - Jobs and ways to contribute::
-    - various "jobs"
+    - jobs::
+    - how else you can help::
 - ?

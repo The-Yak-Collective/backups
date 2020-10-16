@@ -49,9 +49,11 @@
             - [ ] [ping](<ping.md>) ^^ we wouldn't ask them to do this, would we? just ask for the links+lables? hmmm /jd^^ [September 27th, 2020](<September 27th, 2020.md>)
         - [Maier Fenster](<Maier Fenster.md>) does knack support user entry of a yaml into a single item? if not, i suggest having 3 pairs of title1, linke1, title2, link2, title3, link3
             - [Jenna Dixon](<Jenna Dixon.md>) so far I think the answer is no [October 15th, 2020](<October 15th, 2020.md>)
+        - [Nathan Acks](<Nathan Acks.md>) In Knack, set to three URL fields with both link text and a URL component.
     - **[RSS](<RSS.md>):** 
         - [Nathan Acks](<Nathan Acks.md>) we should also have an "rss feed" field in the member data (for feeds to be aggregated on the "writings" page) [October 15th, 2020](<October 15th, 2020.md>)
         - [Jenna Dixon](<Jenna Dixon.md>) nice catch √ just added the field, and added it to the profile edit page for yaks and admins [October 15th, 2020](<October 15th, 2020.md>)
+        - [Nathan Acks](<Nathan Acks.md>) In Knack, set to a URL field with no link text.
     - **[content](<content.md>):**
         - __Optional__ Free-form content using Markdown. Currently unused.
         - This isn't a "real" field -- rather members are currently represented using Markdown files in a `members` [Jekyll collection](https://jekyllrb.com/docs/collections/). All of the information __except__ this field is YAML frontmatter, while the **content:** is just the actual Markdown data.
@@ -123,4 +125,7 @@ links:
 
 ## [Infrastructure](<Infrastructure.md>)
 - [Schema | member data](<Schema | member data.md>)
+
+## [October 15th, 2020](<October 15th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) updated [Schema | member data](<Schema | member data.md>)
 

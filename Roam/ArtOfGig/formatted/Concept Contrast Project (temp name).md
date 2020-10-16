@@ -6,14 +6,19 @@
 - **[vote](<vote.md>):** **please vote on this line using emoticon (👍👎) reactions so this project can mature**
 - **[Meta](<Meta.md>):**
     - **[what this project is about](<what this project is about.md>):**
-        - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes
+        - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others
     - **[deliverable](<deliverable.md>):**
+    - **[project size](<project size.md>):**
+        - small
     - **[3 intermediate milestones](<3 intermediate milestones.md>):**
         - XX on YY meets requirement ZZ
     - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):**
     - **[project lead](<project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
     - **[Also in project](<Also in project.md>):** 
     - **[Why you should join](<Why you should join.md>):**
+    - **[intended audiance](<intended audiance.md>):**
+        - **[who](<who.md>):**
+        - **[value for them](<value for them.md>):**
     - **[status](<status.md>):**
     - **[help wanted](<help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
@@ -28,7 +33,8 @@ Scalability: take the approach, generalise and take to potential clients
 - **[Putative plan](<Putative plan.md>):**
 - **[Pivots so far](<Pivots so far.md>):**
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
-    - various "jobs"
+    - **[jobs](<jobs.md>):**
+    - **[how else you can help](<how else you can help.md>):**
 - ?
 
 # Backlinks
