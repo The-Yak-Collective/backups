@@ -23,12 +23,14 @@
         - [The Open Participatory Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
         - [OCO Manifesto](https://medium.com/open-participatory-organized/a-manifesto-for-open-participation-60b62d327684)
     - [Guild leaders handbook](https://nostarch.com/guildleaderhb#content)
-- **Queued** (Governance track -- Venkat)
-    - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
     - Single wringable neck
         - https://www.mountaingoatsoftware.com/blog/the-fallacy-of-one-throat-to-choke
         - https://agileforall.com/agile-pondering-is-it-agile-to-have-a-single-wringable-neck/
         - https://tobeagile.com/the-single-wringable-neck/
+- **Queued** (Governance track -- Venkat)
+    - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
+    - Libertarians and bears, [The town that went feral](https://newrepublic.com/article/159662/libertarian-walks-into-bear-book-review-free-town-project?fbclid=IwAR0zeB-yuJKpDQkTVye1NwbUz5lf4DoPNIIlINWtN6YGaYGkSjqt9TEs6_o)
+    - Bear management vs wolf slaughter, [Frank Chimero talk](https://frankchimero.com/blog/2014/only-openings/)
 - **Queued** (Platforms track -- Grigori)
     - [Frederic Laloux points out the fragility of platforms. It is not the first time he is talking about it, of course.](https://www.rolandberger.com/en/Point-of-View/Frederic-Laloux-on-what-lies-ahead-for-business.html)
         - "There are not that many leaders yet who have internalized this new paradigm and can adopt the coherent set of management practices it calls for. But even when you have such a leader, there often remains a risk one level up: the board of directors. It's happened with more than one of these new organizations that the board at some point pulled the plug: "This is all working really well, but this is all a mystery to us. Let's put in a CEO that will do that top-down thing we understand and trust."
