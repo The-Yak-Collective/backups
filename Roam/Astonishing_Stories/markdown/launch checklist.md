@@ -1,0 +1,14 @@
+- Checklist for every story
+    - {{[[TODO]]}} Final proof
+    - {{[[TODO]]}} Footnotes of fragments 
+    - {{[[TODO]]}} Author's bio
+    - {{[[TODO]]}} Final artwork 
+    - {{[[TODO]]}} Letting author know before its published
+    - {{[[TODO]]}} handover artwork and story snippet to Yak Talk team 
+- [[October 23rd, 2020]]
+    - {{[[TODO]]}} For stories that dont have artwork, use the artwork that is currently not used as a placeholder
+    - {{[[TODO]]}} Story order - Wholeness in a timeless, your payment is ready, department of restoration, Mechanical turks all the way down, agglomerizing the aesthetic, GPT 51 Pre Fab
+    - {{[[TODO]]}} Replace artwork for "your payment is ready" 
+    - {{[[TODO]]}} add placeholder card for GPT-51 Pre-Fab Father 
+    - {{[[TODO]]}} update list of contributors 
+    - {{[[TODO]]}} Update description for Astonishing stories 

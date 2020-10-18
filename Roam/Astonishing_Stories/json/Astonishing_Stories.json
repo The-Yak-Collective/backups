@@ -12386,8 +12386,168 @@
     "title": "October 16th, 2020"
   },
   {
+    "children": [
+      {
+        "create-email": "sachben91@gmail.com",
+        "create-time": 1602958060227,
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1602958078898,
+        "string": "[[launch checklist]]",
+        "uid": "tcE_4nbnp"
+      },
+      {
+        "create-email": "sachben91@gmail.com",
+        "create-time": 1602958066978,
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1602958066978,
+        "string": "",
+        "uid": "wCMetF5FY"
+      }
+    ],
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1602926375724,
     "title": "October 17th, 2020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602958609576,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602958618758,
+            "string": "{{[[TODO]]}} Final proof",
+            "uid": "R01RSck22"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602958626496,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602958633655,
+            "string": "{{[[TODO]]}} Footnotes of fragments ",
+            "uid": "QX-mQycSb"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602958618755,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602958626500,
+            "string": "{{[[TODO]]}} Author's bio",
+            "uid": "D6YKkC4SQ"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602958633650,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602958650256,
+            "string": "{{[[TODO]]}} Final artwork ",
+            "uid": "NWbTA6QC7"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602958651710,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602958663233,
+            "string": "{{[[TODO]]}} Letting author know before its published",
+            "uid": "7gYXf4TK4"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602958663230,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602958686783,
+            "string": "{{[[TODO]]}} handover artwork and story snippet to Yak Talk team ",
+            "uid": "GZKkTbX_9"
+          }
+        ],
+        "create-email": "sachben91@gmail.com",
+        "create-time": 1602958601996,
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1602958609581,
+        "string": "Checklist for every story",
+        "uid": "xhbJVyjaC"
+      },
+      {
+        "children": [
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602961938618,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602961988684,
+            "string": "{{[[TODO]]}} For stories that dont have artwork, use the artwork that is currently not used as a placeholder",
+            "uid": "KFM_DvGwt"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602962074444,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602962141775,
+            "string": "{{[[TODO]]}} Story order - Wholeness in a timeless, your payment is ready, department of restoration, Mechanical turks all the way down, agglomerizing the aesthetic, GPT 51 Pre Fab",
+            "uid": "BNaZzmEPQ"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602961988672,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602962005493,
+            "string": "{{[[TODO]]}} Replace artwork for \"your payment is ready\" ",
+            "uid": "4AJb50GEW"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602962005893,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602962043855,
+            "string": "{{[[TODO]]}} add placeholder card for GPT-51 Pre-Fab Father ",
+            "uid": "Y_2BcEa6U"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602962050219,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602962058638,
+            "string": "{{[[TODO]]}} update list of contributors ",
+            "uid": "-Yb2chASJ"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1602962058634,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1602962160586,
+            "string": "{{[[TODO]]}} Update description for Astonishing stories ",
+            "uid": "FIW9VUFEu"
+          }
+        ],
+        "create-email": "sachben91@gmail.com",
+        "create-time": 1602961929667,
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1602961936917,
+        "string": "[[October 23rd, 2020]]",
+        "uid": "qPRjzk2Rs"
+      }
+    ],
+    "create-email": "sachben91@gmail.com",
+    "create-time": 1602958066985,
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1602958078897,
+    "title": "launch checklist"
+  },
+  {
+    "create-email": "sachben91@gmail.com",
+    "create-time": 1602958084469,
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1602958084471,
+    "title": "TODO"
+  },
+  {
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1602961936917,
+    "title": "October 23rd, 2020"
+  },
+  {
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1602997206058,
+    "title": "October 18th, 2020"
   }
 ]
