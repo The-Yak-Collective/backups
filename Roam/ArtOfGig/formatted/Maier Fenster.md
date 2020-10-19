@@ -4,9 +4,9 @@
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 
-- **[Last Updated By](<Last Updated By.md>):** [Maier Fenster](<Maier Fenster.md>)
+- **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
-- **[project lead](<project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
+- **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
 
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - `knack-migration` (point: [Maier Fenster](<Maier Fenster.md>))

@@ -58,5 +58,5 @@ https://www.knack.com/developer-documentation/[move-field-instructions](<move-fi
 
 # Backlinks
 ## [Infrastructure](<Infrastructure.md>)
-- infrastructure chat 22 [October 11th, 2020](<October 11th, 2020.md>)
+- Infrastructure Chat 22 [October 11th, 2020](<October 11th, 2020.md>)
 

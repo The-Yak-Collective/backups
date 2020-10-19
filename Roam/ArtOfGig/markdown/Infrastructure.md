@@ -402,7 +402,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
         - We can bootstrap these comms using Maier's `yak_scraper` robot
         - For the moment, we'll just DM people; later, we __may__ add interactivity.
             - Reminders will be on a timer.
-- infrastructure chat 22 [[October 11th, 2020]] #meeting-notes
+- Infrastructure Chat 22 [[October 11th, 2020]] #meeting-notes
     - Knackifying the yak network map google form https://yak.knack.com/yaks#yakmap-participation-signup/
     - There may be minor data normalization that needs to happen with capitalization, spaces, etc
     - Test email 
@@ -410,5 +410,32 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
     - Discord bot is set up that can message based on UID
     - Bot can compose parameters from discord into knack url like snowflake iD (UUID)
     - Astonishing stories launching 1x week. card can be iterated upon.
-- 
-- 
+- Infrastructure Chat 23 [[October 18th, 2020]] #meeting-notes
+    - {{or: Early Concept | Proposal | Active | Complete}} 
+    - yak NM engagement
+        - send discord announcement
+        - email newsletter? 
+            - Praful
+        - minimum for next stage is 50-100 people
+        - no specification for the next phase - of matching 
+    - Project page template (knack integration?)
+        - [[Concept Contrast Project (temp name)]]
+    - Discord bot
+        - Maier made a test bot
+        - commands
+            - $whosenew
+            - $hello
+        - $10/mo  
+        - made it a private repository 
+        - make discord bot provision permission based on a list of snowflake IDs? 
+        - .
+        - Project updates
+            - Have dedicated channel 
+            - Every few days - 1 for each project what's going on 
+            - discord -> roam & knack? or discord -> knack 
+                - knack as management of frontend/data 
+                - website as a view into some of that data
+    - Discord gardening
+    - AMA
+    - What are the current 6 pages that are hot? 
+    - or what's the status on each project? 

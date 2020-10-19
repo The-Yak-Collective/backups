@@ -10,10 +10,6 @@
 - **[Last Updated](<Last Updated.md>):** [October 1st, 2020](<October 1st, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
-## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>)
-- **[Last Updated By](<Last Updated By.md>):**
-
 ## [Directory](<Directory.md>)
 - **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**

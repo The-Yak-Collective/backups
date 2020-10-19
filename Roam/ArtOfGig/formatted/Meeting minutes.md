@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[help wanted](<help wanted.md>):**
+- **[Help wanted](<Help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
 
