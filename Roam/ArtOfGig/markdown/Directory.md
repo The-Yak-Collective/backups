@@ -46,6 +46,8 @@
 - [Giacomo Balli](http://giacomoballi.com?utm_campaign=roamresearch)
     - Giacomo Balli is a **mobile strategy consultant** who helps business owners transition their business to mobile. Unlike other mobile strategy consultants, clients work directly with Giacomo and not a group of junior employees who are learning on the job.
 - [[Nita Baum]]
+- [[Mike Baxter]]
+    - {{embed: ((Mike Baxter((RIm34qt1Y))))}}
 - [[Sachin Benny]]
     - Gig-curious salaryman working in product marketing. Used to do contract product marketing gigs for two years prior to this
     - Planning to make jump to independent consulting in the next couple of months

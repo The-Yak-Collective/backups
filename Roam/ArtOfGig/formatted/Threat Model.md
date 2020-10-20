@@ -30,7 +30,7 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
                 - The more information we gather about our members, the more dangerous we become to them (stalkers, etc.).
                 - If the Yak Collective ever worked on a particularly controversial project, this would raise __all__ of our risks -- including physical risks to our members.
 # Asset Classes
-    ## Class 1 (Existential Threats)
+    - ## Class 1 (Existential Threats)
         - [Yak Collective Robot](<Yak Collective Robot.md>)
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Namecheap](<Namecheap.md>)
@@ -41,7 +41,7 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
         - [Knack.com](<Knack.com.md>)
             - AAhkfps_m
         - Bank accounts, should we ever have such a thing
-    ## Class 2 (Serious Disruption to Normal Operations)
+    - ## Class 2 (Serious Disruption to Normal Operations)
         - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck"
             - **["owner](<"owner.md>):** [Paul Millerd](<Paul Millerd.md>)"
         - "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck"
@@ -52,7 +52,7 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Discord](<Discord.md>)
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
-    ## Class 3  (Inconvenience)
+    - ## Class 3  (Inconvenience)
         - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
             - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
@@ -73,7 +73,7 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
             - **["owner](<"owner.md>):** ^^???^^"
         - [LinkedIn](<LinkedIn.md>)
             - **["owner](<"owner.md>):** ^^???^^"
-    ## Class 4 (¯\_(ツ)_/¯)
+    - ## Class 4 (¯\_(ツ)_/¯)
         - [Glitch](<Glitch.md>)
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 # Possible Mitigations

@@ -99,8 +99,8 @@
         "uid": "s6b20pb0X"
       },
       {
-        "edit-email": "contact@wabisabifutures.com",
-        "edit-time": 1595502444447,
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1603158417809,
         "string": "**Created by** [[Michael]]",
         "uid": "CVkmzTs6-"
       },
@@ -11730,14 +11730,6 @@
                     "uid": "l1rdJa_A0"
                   },
                   {
-                    "create-email": "sachben91@gmail.com",
-                    "create-time": 1598311958493,
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1602544153344,
-                    "string": "01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
-                    "uid": "8yEaJjIrg"
-                  },
-                  {
                     "edit-email": "j@djinna.com",
                     "edit-time": 1602544161724,
                     "string": "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
@@ -11770,6 +11762,14 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "1YBPRfM4h"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1598311958493,
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1602544153344,
+                    "string": "01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
+                    "uid": "8yEaJjIrg"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -12454,6 +12454,32 @@
           },
           {
             "create-email": "sachben91@gmail.com",
+            "create-time": 1603152281051,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1603163103521,
+            "string": "{{[[TODO]]}} Proof on the website",
+            "uid": "UHj3zKk6D"
+          },
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1603162856240,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1603163138311,
+                "string": "^^[[Nathan Acks]]: **NB** When should this go out? Remember, I'm on Mountain Time...^^",
+                "uid": "4dELReuY8"
+              }
+            ],
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1603152770316,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603155901542,
+            "string": "{{[[TODO]]}} Tweeting when each story goes out - Nathan",
+            "uid": "C5SIxuUPO"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
             "create-time": 1602958663230,
             "edit-email": "sachben91@gmail.com",
             "edit-time": 1602958686783,
@@ -12464,45 +12490,173 @@
         "create-email": "sachben91@gmail.com",
         "create-time": 1602958601996,
         "edit-email": "sachben91@gmail.com",
-        "edit-time": 1602958609581,
-        "string": "Checklist for every story",
+        "edit-time": 1603155981353,
+        "heading": 1,
+        "string": "Checklist for individual story launch",
         "uid": "xhbJVyjaC"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "sachben91@gmail.com",
+                "create-time": 1603152355563,
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603152724696,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2F8_2vjsm4jr.jpg?alt=media&token=227bf013-4ca2-4226-b582-4453b01de8e3)",
+                "uid": "H0cfL6tpt"
+              }
+            ],
             "create-email": "sachben91@gmail.com",
             "create-time": 1602961938618,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602961988684,
-            "string": "{{[[TODO]]}} For stories that dont have artwork, use the artwork that is currently not used as a placeholder",
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1603162311740,
+            "string": "{{[[DONE]]}} For stories that dont have artwork, use the artwork that is currently not used as a placeholder",
             "uid": "KFM_DvGwt"
           },
           {
             "create-email": "sachben91@gmail.com",
             "create-time": 1602962074444,
             "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602962141775,
-            "string": "{{[[TODO]]}} Story order - Wholeness in a timeless, your payment is ready, department of restoration, Mechanical turks all the way down, agglomerizing the aesthetic, GPT 51 Pre Fab",
+            "edit-time": 1603158920900,
+            "string": "{{[[DONE]]}} Story order - Wholeness in a timeless, your payment is ready, department of restoration, Mechanical turks all the way down, agglomerizing the aesthetic, GPT 51 Pre Fab",
             "uid": "BNaZzmEPQ"
           },
           {
+            "children": [
+              {
+                "create-email": "sachben91@gmail.com",
+                "create-time": 1603152378135,
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603153830517,
+                "string": "![](https://cdn.discordapp.com/attachments/748199697218404353/764983763406815232/in_a_class_of_their_own.jpg)",
+                "uid": "X6VEoYBBV"
+              },
+              {
+                "create-email": "sachben91@gmail.com",
+                "create-time": 1603153832658,
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603153832657,
+                "string": "",
+                "uid": "bS94YvbyC"
+              }
+            ],
             "create-email": "sachben91@gmail.com",
             "create-time": 1602961988672,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602962005493,
-            "string": "{{[[TODO]]}} Replace artwork for \"your payment is ready\" ",
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1603162315075,
+            "string": "{{[[DONE]]}} Replace artwork for \"your payment is ready\" ",
             "uid": "4AJb50GEW"
           },
           {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1603162867155,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1603162892716,
+                "string": "^^[[Nathan Acks]]: Right now this is all lorem ipsum. Would be good to at least have a description.^^",
+                "uid": "-BOZg2pml"
+              }
+            ],
             "create-email": "sachben91@gmail.com",
             "create-time": 1602962005893,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602962043855,
-            "string": "{{[[TODO]]}} add placeholder card for GPT-51 Pre-Fab Father ",
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1603162865388,
+            "string": "{{[[DONE]]}} add placeholder card for GPT-51 Pre-Fab Father ",
             "uid": "Y_2BcEa6U"
           },
           {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1603162895001,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1603162932439,
+                "string": "^^[[Nathan Acks]]: I assume you mean __Agglomerizing the Aesthetic__?^^",
+                "uid": "Vh8-HU7-z"
+              }
+            ],
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1603152406625,
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1603162460950,
+            "string": "{{[[DONE]]}} placeholder card for bens story",
+            "uid": "W8XoWPRls"
+          },
+          {
+            "children": [
+              {
+                "create-email": "sachben91@gmail.com",
+                "create-time": 1603156070099,
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603158848210,
+                "string": "{{[[DONE]]}} Sent request to fill out yak map to all list of contributors ",
+                "uid": "65NnzqFBL"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1603156125944,
+                    "edit-email": "sachben91@gmail.com",
+                    "edit-time": 1603156137287,
+                    "string": "Lead editors: Sachin Benny, Amanda Reeves",
+                    "uid": "Xg1bUfllB"
+                  },
+                  {
+                    "create-email": "roam@delphi-strategy.com",
+                    "create-time": 1603160982795,
+                    "edit-email": "roam@delphi-strategy.com",
+                    "edit-time": 1603165022263,
+                    "string": "Co-editors: Nathan Acks, Jenna Dixon, Scott Garlinger, Shreeda Sagan, Praful Mathur",
+                    "uid": "aXyrif6YR"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1603158609938,
+                    "edit-email": "sachben91@gmail.com",
+                    "edit-time": 1603158844356,
+                    "string": "Writers: Nathan Chen, Chris Butler, Ben Smith, Sachin Benny, Scott Garlinger",
+                    "uid": "p9tZ3XQGy"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1603156270134,
+                    "edit-email": "sachben91@gmail.com",
+                    "edit-time": 1603156278026,
+                    "string": "Illustrator: Justice",
+                    "uid": "slKQ_-RcB"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1603156186125,
+                    "edit-email": "sachben91@gmail.com",
+                    "edit-time": 1603158810410,
+                    "string": "Collaborators: Chris Reid, Claire Peters, Zhan Li, Erik Sandberg, Murilo Loureiro, Prashant Gandhi, Sumit Paul-Choudhury, Michael de la Maza, Maggie Appleton, Mike WImsat, Tracy Brinkerhoff",
+                    "uid": "4S5ITaFCZ"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1603157689695,
+                    "edit-email": "sachben91@gmail.com",
+                    "edit-time": 1603159059105,
+                    "props": {
+                      "POMO": 1603157699260
+                    },
+                    "string": "{{[[POMO]]: 25}}",
+                    "uid": "xKd2mx6da"
+                  }
+                ],
+                "create-email": "sachben91@gmail.com",
+                "create-time": 1603156092074,
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603156118349,
+                "string": "Lead editors, co-editors, writers, future fragment creators",
+                "uid": "FAJW1STWf"
+              }
+            ],
             "create-email": "sachben91@gmail.com",
             "create-time": 1602962050219,
             "edit-email": "sachben91@gmail.com",
@@ -12522,8 +12676,9 @@
         "create-email": "sachben91@gmail.com",
         "create-time": 1602961929667,
         "edit-email": "sachben91@gmail.com",
-        "edit-time": 1602961936917,
-        "string": "[[October 23rd, 2020]]",
+        "edit-time": 1603155934121,
+        "heading": 1,
+        "string": "[[October 23rd, 2020]] First Story Launch",
         "uid": "qPRjzk2Rs"
       }
     ],
@@ -12551,8 +12706,37 @@
     "title": "October 18th, 2020"
   },
   {
-    "edit-email": "yakcollective.org@gmail.com",
-    "edit-time": 1603099299971,
+    "children": [
+      {
+        "create-email": "sachben91@gmail.com",
+        "create-time": 1603161734982,
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1603161739122,
+        "string": "/",
+        "uid": "3W4tmcPgr"
+      }
+    ],
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1603122787471,
     "title": "October 19th, 2020"
+  },
+  {
+    "create-email": "sachben91@gmail.com",
+    "create-time": 1603157693966,
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1603157693968,
+    "title": "POMO"
+  },
+  {
+    "create-email": "sachben91@gmail.com",
+    "create-time": 1603158848212,
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1603158848214,
+    "title": "DONE"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1603185605587,
+    "title": "October 20th, 2020"
   }
 ]

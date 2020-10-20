@@ -8,9 +8,9 @@
     - ## Methods for selecting fragments
         There is a plethora of ways to create combinations of fragments; we recommend experimenting with a few different approaches to find something that you find sticky. Some pathways in:
         **Create a sequence unfolding over time:** [String together fragments that occur in different time horizons](https://www.slideshare.net/wendyinfutures/future-of-universities-an-example-of-scenario-building-using-the-harman-fan). What kind of narrative follows the ebbs and flows of these particular fragments? What stories emerge from the spaces between these fragments?
-            ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2FaVay3GrfQ3.png?alt=media&token=a41367a4-758b-4873-802d-7ba926727bf6)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2FaVay3GrfQ3.png?alt=media&token=a41367a4-758b-4873-802d-7ba926727bf6)
         **Collisions at a point in time:** Bring together fragments predominantly within a single time horizon. What opposing forces are at play in this world? What dilemmas might you encounter living at this point in time? If set a way in the future, how might the people living in this time talk about the choices we made at this moment?
-            [Time scales](<Time scales.md>)
+            - [Time scales](<Time scales.md>)
         **Follow a common thread:** Bring together fragments created from a common prompt - be it an [Arc](<Arc.md>), a [Terrain](<Terrain.md>), an [Object](<Object.md>), or a [Mood](<Mood.md>). How are these fragments interacting? What commonalities lie between them? How do they differ? What different world views & perspectives might be at play in this world?
         **Random selection:** Much like creating prompts in The Thing From The Future, sometimes the most interesting ideas come from seemingly unrelated groupings. Look for combinations that make you pause or see a possibility you hadn't realised before.
 - # Master list: All scenarios

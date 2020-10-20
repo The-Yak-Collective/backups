@@ -2,7 +2,7 @@ About:: __GDPR-compliant platform for storing member profile information.
 API access to/from Discord+Roam+Website. 
 Member login for maintaining their own public Yak information.__
 Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
-    Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) 
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) 
 Last Updated:: [October 5th, 2020](<October 5th, 2020.md>)
 Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
 Previous update:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)

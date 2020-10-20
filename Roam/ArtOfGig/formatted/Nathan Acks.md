@@ -86,7 +86,7 @@ owner:: [Nathan Acks](<Nathan Acks.md>)
 
 last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
+- ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 
@@ -120,7 +120,7 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>)
 
 ## [Knack.com](<Knack.com.md>)
-Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
 
 Previous update:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 

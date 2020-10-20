@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- Understanding that the value of a consultant depends on the difference between cost of lack of expertise and difficult of onboarding 
+- A lower cost, more agile delivery mechanism could put consultancy within reach of department, division, territory or brand managers
         - **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**
 

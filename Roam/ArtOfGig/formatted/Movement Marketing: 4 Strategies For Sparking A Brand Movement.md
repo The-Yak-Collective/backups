@@ -3,10 +3,10 @@
 - ### Article Text w/ ^^highlights^^ 
     # Movement Marketing: 4 Strategies For Sparking A Brand Movement
     **Movement Marketing** is an innovative marketing model in which brands ^^tap into existing cultural movements that align with their shared values, passions and goals^^. The result can be a long term marketing [strategy](https://www.strawberryfrog.com/movement-strategy/) that will not only allow you to dominate market share but just might change the world.
-        1. Tap into a cultural movement and ^^group of people – not the individual^^ as is done in traditional marketing.
-        2. ^^Do not focus on persuading people^^ in the traditional marketing sense – it is about ^^understanding and tapping into what they already believe^^.
-        3. Emphasize ^^sharing instead of selling^^. Think Pull versus Push marketing and ^^engaging with your audience rather than talking at them^^.
-        4. Most importantly, ^^stop talking about yourself^^ / your brand and ^^join a conversation about anything but your product^^.
+        - 1. Tap into a cultural movement and ^^group of people – not the individual^^ as is done in traditional marketing.
+        - 2. ^^Do not focus on persuading people^^ in the traditional marketing sense – it is about ^^understanding and tapping into what they already believe^^.
+        - 3. Emphasize ^^sharing instead of selling^^. Think Pull versus Push marketing and ^^engaging with your audience rather than talking at them^^.
+        - 4. Most importantly, ^^stop talking about yourself^^ / your brand and ^^join a conversation about anything but your product^^.
     The term **Movement Marketing** was first coined in 1999 by Scott Goodson, founder of the world’s first cultural [movement marketing company](https://strawberryfrog.com/best-advertising-agencies/), StrawberryFrog. Scott recently spoke at the IAA in Romania with the title: Igniting Movements and how brands, entrepreneurs, and companies can rise to the occasion together with Robin Wright from the hit TV show House of Cards and the CEO of Burning Man, Marian Goodell.
     Although movements in marketing date back much farther than that. Just think about the first Apple Mac or the Volkswagen Beetle in the ’60s.
     Apple went against the IBM corporate business mentality of the time and set out to make computers fun. The entire culture at Apple rallied behind this idea and it was present in everything they did and advertised. The result has been nothing less than the most passionate group of customers and advocates on the planet. Because Apple was smart enough to recognize, tap and propel a movement towards enjoying technology, they now completely dominate the consumer electronics industry.
@@ -20,10 +20,10 @@
     **Movement Marketing** is the answer to the stale traditional campaigns of yesteryear. Companies that fail to focus on ^^sharing passion with their customers ^^will ultimately lose their market share to companies that are able to. You could also argue that the only challenge that should concern marketers today is ^^getting consumers to connect with and rally around a shared purpose^^.
     With the advent of the Internet, Social Media and Mobile technology, the entire world is your audience. As entrepreneurs, business owners and marketers we now have access to a global network of resources and customers. ^^**Movement Marketing** seeks to unite business with social movements with the goal of mobilizing an audience via shared brand experiences^^. Begin your own marketing movement by taking action today and following these simple steps:
     **Movement Marketing Action Steps**
-        ^^1. **DISCOVER** what your business is passionate about and identify a cultural movement aligned with your interests/expertise.^^
-        ^^2. **LEARN** everything you can about the movement and figure out how you can selflessly add value towards achieving the movement’s purpose and taking it the next level.^^
-        ^^3. **EVOLVE** by ensuring that your company’s culture is internally on board with the movement before promoting it outside of your organization. Stop trying to sell your product and instead align your brand with furthering the movement’s goals.^^
-        ^^4. **SUSTAIN** the movement both within and outside your company by continually finding ways to uniquely add value to the movement. Practice the 80/20 rule in which you add value 80% of the time and offer your product/service as a solution 20% of the time.^^
+        - ^^1. **DISCOVER** what your business is passionate about and identify a cultural movement aligned with your interests/expertise.^^
+        - ^^2. **LEARN** everything you can about the movement and figure out how you can selflessly add value towards achieving the movement’s purpose and taking it the next level.^^
+        - ^^3. **EVOLVE** by ensuring that your company’s culture is internally on board with the movement before promoting it outside of your organization. Stop trying to sell your product and instead align your brand with furthering the movement’s goals.^^
+        - ^^4. **SUSTAIN** the movement both within and outside your company by continually finding ways to uniquely add value to the movement. Practice the 80/20 rule in which you add value 80% of the time and offer your product/service as a solution 20% of the time.^^
     **25 million participants can’t be wrong.**
     How to launch a healthy dog food brand and build a massive following.
     **Long Live Pets**

@@ -20,9 +20,9 @@
     - ## Neurological memento mori
     - One of my own strong interests is in time perception, and one of the fascinating things about aging is that there are clear differences in how older people think versus younger based on the perceived time-left-to-live horizon (see Linda Cartensen research at Stanford). Young people end up with the same "old" time horizon attitudes when diagnosed with a terminal illness, or caught up in war or pandemic or other conditions where the future seems foreshortened. So if you can __artificially__ create this foreshortened horizon effect with neural techniques you'd have a neurological [memento mori](https://en.wikipedia.org/wiki/Memento_mori) tech [Venkatesh Rao](<Venkatesh Rao.md>)
         ### Interesting collisions
-            
+            - 
         ### Comments from other Yaks (please tag yourself)
-            
+            - 
     - ## External memory
         - “Christina, you’ve asked me to remind you when you forget peoples’ faces. This is David, your son’s son, the last time you saw him was after he was born three months ago. I can replay how you reacted if you would like.” was something I wrote for Death Ways design fiction that I think has large crossover with aging ways [Shreeda Segan: Death Ways](<Shreeda Segan: Death Ways.md>)
         - ### Interesting collisions

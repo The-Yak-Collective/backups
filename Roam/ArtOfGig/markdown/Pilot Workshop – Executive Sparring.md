@@ -22,14 +22,14 @@
     5. CONSULTANT: Was the "fit" good or bad?
     6. CLIENT: Was the "fit" good or bad?
     7. For CONSULTANT: What style did your sparring session gravitate to from your end?
-        1. CROW
-        2. RAT
-        3. GOAT
+        - CROW
+        - RAT
+        - GOAT
     8. For CLIENT: What posture did you end up adopting?
-        1. Thinking out loud
-        2. Seeking advice
-        3. Trying to explain
-        4. ...
+        - Thinking out loud
+        - Seeking advice
+        - Trying to explain
+        - ...
 - **Post-mortem debrief/reflection**
     - How well did the notes email match your recollection of the conversation?
 - **Logistics**

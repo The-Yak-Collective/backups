@@ -1,16 +1,33 @@
-- Checklist for every story
+- # Checklist for individual story launch
     - [ ] Final proof
     - [ ] Footnotes of fragments 
     - [ ] Author's bio
     - [ ] Final artwork 
     - [ ] Letting author know before its published
+    - [ ] Proof on the website
+    - [ ] Tweeting when each story goes out - Nathan
+        - ^^[Nathan Acks](<Nathan Acks.md>): **NB** When should this go out? Remember, I'm on Mountain Time...^^
     - [ ] handover artwork and story snippet to Yak Talk team 
-- [October 23rd, 2020](<October 23rd, 2020.md>)
-    - [ ] For stories that dont have artwork, use the artwork that is currently not used as a placeholder
-    - [ ] Story order - Wholeness in a timeless, your payment is ready, department of restoration, Mechanical turks all the way down, agglomerizing the aesthetic, GPT 51 Pre Fab
-    - [ ] Replace artwork for "your payment is ready" 
-    - [ ] add placeholder card for GPT-51 Pre-Fab Father 
+- # [October 23rd, 2020](<October 23rd, 2020.md>) First Story Launch
+    - [x] For stories that dont have artwork, use the artwork that is currently not used as a placeholder
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2F8_2vjsm4jr.jpg?alt=media&token=227bf013-4ca2-4226-b582-4453b01de8e3)
+    - [x] Story order - Wholeness in a timeless, your payment is ready, department of restoration, Mechanical turks all the way down, agglomerizing the aesthetic, GPT 51 Pre Fab
+    - [x] Replace artwork for "your payment is ready" 
+        - ![](https://cdn.discordapp.com/attachments/748199697218404353/764983763406815232/in_a_class_of_their_own.jpg)
+        - 
+    - [x] add placeholder card for GPT-51 Pre-Fab Father 
+        - ^^[Nathan Acks](<Nathan Acks.md>): Right now this is all lorem ipsum. Would be good to at least have a description.^^
+    - [x] placeholder card for bens story
+        - ^^[Nathan Acks](<Nathan Acks.md>): I assume you mean __Agglomerizing the Aesthetic__?^^
     - [ ] update list of contributors 
+        - [x] Sent request to fill out yak map to all list of contributors 
+        - Lead editors, co-editors, writers, future fragment creators
+            - Lead editors: Sachin Benny, Amanda Reeves
+            - Co-editors: Nathan Acks, Jenna Dixon, Scott Garlinger, Shreeda Sagan, Praful Mathur
+            - Writers: Nathan Chen, Chris Butler, Ben Smith, Sachin Benny, Scott Garlinger
+            - Illustrator: Justice
+            - Collaborators: Chris Reid, Claire Peters, Zhan Li, Erik Sandberg, Murilo Loureiro, Prashant Gandhi, Sumit Paul-Choudhury, Michael de la Maza, Maggie Appleton, Mike WImsat, Tracy Brinkerhoff
+            - {{[POMO](<POMO.md>): 25}}
     - [ ] Update description for Astonishing stories 
 
 # Backlinks

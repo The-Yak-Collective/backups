@@ -1,10 +1,10 @@
 owner:: [[Nathan Acks]]
 last updated:: [[October 4th, 2020]] by [[Nathan Acks]]
 # Assets
-    ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + SVG diagram development by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
-    [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [[Maier Fenster]] has developed an SVG diagram that (currently) more completely captures the relationship between different components of the Yak Collective's IT infrastructure than is possible natively.
-    The symbols used in the infrastructure map have the following meanings:
-        {{[[table]]}}
+    - ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + SVG diagram development by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
+    - [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [[Maier Fenster]] has developed an SVG diagram that (currently) more completely captures the relationship between different components of the Yak Collective's IT infrastructure than is possible natively.
+    - The symbols used in the infrastructure map have the following meanings:
+        - {{[[table]]}}
             - **Symbol**
                 - **Macro**
                     - **Meaning**
@@ -26,11 +26,11 @@ last updated:: [[October 4th, 2020]] by [[Nathan Acks]]
             - Black Line
                 - `AUTO_DATA`
                     - Automatic data flows (service takes action based on a timer, webhook, etc.)
-    Important links:
+    - Important links:
         - [Infrastructure Map GitHub Repository](https://github.com/The-Yak-Collective/infrastructure-map)
         - [Edit the current map](https://github.com/The-Yak-Collective/infrastructure-map/edit/master/infrastructure.dot) (note that it can take a couple of minutes to update here)
         - [Full-sized version of the current map](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg) (assets link back to pages in this Roam graph)
-    ![Yak Collective IT Infrastructure diagram](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg)
+    - ![Yak Collective IT Infrastructure diagram](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg)
         - [[Yak Collective Robot]]
             - "owner:: [[Nathan Acks]]"
             - Google account; holds __some__ shared assets.

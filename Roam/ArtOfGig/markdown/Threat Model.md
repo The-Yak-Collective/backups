@@ -30,7 +30,7 @@ last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
                 - The more information we gather about our members, the more dangerous we become to them (stalkers, etc.).
                 - If the Yak Collective ever worked on a particularly controversial project, this would raise __all__ of our risks -- including physical risks to our members.
 # Asset Classes
-    ## Class 1 (Existential Threats)
+    - ## Class 1 (Existential Threats)
         - [[Yak Collective Robot]]
             - "owner:: [[Nathan Acks]]"
         - [[Namecheap]]
@@ -41,7 +41,7 @@ last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
         - [[Knack.com]]
             - AAhkfps_m
         - Bank accounts, should we ever have such a thing
-    ## Class 2 (Serious Disruption to Normal Operations)
+    - ## Class 2 (Serious Disruption to Normal Operations)
         - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck"
             - "owner:: [[Paul Millerd]]"
         - "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck"
@@ -52,7 +52,7 @@ last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
             - "owner:: [[Nathan Acks]]"
         - [[Discord]]
             - "owner:: [[Jordan Peacock]]"
-    ## Class 3  (Inconvenience)
+    - ## Class 3  (Inconvenience)
         - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
             - "owner:: [[Venkatesh Rao]]"
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
@@ -73,7 +73,7 @@ last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
             - "owner:: ^^???^^"
         - [[LinkedIn]]
             - "owner:: ^^???^^"
-    ## Class 4 (¯\_(ツ)_/¯)
+    - ## Class 4 (¯\_(ツ)_/¯)
         - [[Glitch]]
             - "owner:: [[Nathan Acks]]"
 # Possible Mitigations

@@ -24,15 +24,15 @@
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>).
+- ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>).
 
-[Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>)
+- [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 ## [Knack.com](<Knack.com.md>)
-Additional Page Wranglers:: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 - Alternate Builder access as needed: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 

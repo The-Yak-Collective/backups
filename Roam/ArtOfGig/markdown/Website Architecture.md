@@ -88,7 +88,7 @@ last updated:: [[September 1st, 2020]] by [[Nathan Acks]]
     - `_includes/toc.html`
         - Table of contents for `_layouts/page.html` elements. Does unreal things with Liquid. Probably black magic.
 # Build Infrastructure
-    ## Repo
+    - ## Repo
         - `admin/*`
             - [Netlify CMS](https://www.netlifycms.org/).
         - `_config.yml`
@@ -103,6 +103,6 @@ last updated:: [[September 1st, 2020]] by [[Nathan Acks]]
         - `.gitignore`
         - `.github/workflows/*`
             - Additional build automation; currently unused and/or used in different branches.
-    ## Secrets
+    - ## Secrets
         - Netlify CMS uses [[GitHub]] as an OAuth provider; connection secrets can be found in [[Netlify]] under **Settings > Access control > OAuth**.
         - The `create-post` function stores configuration information, a [[GitHub]] access token, and a token used to authenticate incoming requests, and Discord webhook channel and token information in [[Netlify]] under **Settings > Build & deploy > Environment > Environment variables**.

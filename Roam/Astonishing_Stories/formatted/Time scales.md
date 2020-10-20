@@ -29,5 +29,5 @@
 - Created and populated pages for the [Arc](<Arc.md>), [Time scales](<Time scales.md>),
 
 ## [Sprint 2: Scenarios](<Sprint 2: Scenarios.md>)
-[Time scales](<Time scales.md>)
+- [Time scales](<Time scales.md>)
 

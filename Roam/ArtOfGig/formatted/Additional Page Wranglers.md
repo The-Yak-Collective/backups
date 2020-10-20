@@ -31,6 +31,10 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Knack.com](<Knack.com.md>)
+Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**

@@ -156,12 +156,12 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
     2. Jordan explains Yak Collective briefly
     3. Jordan introduces NOH collab
     4. Jordan introduces Pamela Hobart: 
-        1. "Pamela aka The Life Coach for Smart People is an independent philosopher in private practice. She proposed the NOH project in April, I'll let her explain the concept to you ... take it away Pamela"
+        - "Pamela aka The Life Coach for Smart People is an independent philosopher in private practice. She proposed the NOH project in April, I'll let her explain the concept to you ... take it away Pamela"
     5. **Pamela** introduces "New Old Home" concept
     5. Bios
-        1. Yak Collective
-        2. Pamela Hobart
-        3. Drew Schorno
+        - Yak Collective
+        - Pamela Hobart
+        - Drew Schorno
     6. Pamela invites Drew as co-lead take it away Drew...
     7. **Drew ** introduces himself 
     8. Drew: so without further ado, let's dig into the deck... 

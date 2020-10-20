@@ -24,13 +24,13 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - Website content is currently stored in [GitHub](<GitHub.md>).
 
-3. Once you've made your change, ping someone with **owner** level access in [GitHub](<GitHub.md>)
+- Once you've made your change, ping someone with **owner** level access in [GitHub](<GitHub.md>)
 
 4. For emergency updates, ping someone with **owner** level access in [GitHub](<GitHub.md>)
 
 - Writings and newsletter data are archived in [GitHub](<GitHub.md>)
 
-## Current [GitHub](<GitHub.md>)
+- ## Current [GitHub](<GitHub.md>)
 
 - [GitHub](<GitHub.md>):
 
