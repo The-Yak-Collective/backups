@@ -166,6 +166,11 @@
 
 - Sectoral impact dashboard ((suggested by [Venkatesh Rao](<Venkatesh Rao.md>))
 
+## [Facebook](<Facebook.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -203,8 +208,15 @@
 
 - [Venkatesh Rao](<Venkatesh Rao.md>):
 
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [LinkedIn](<LinkedIn.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Marketing Resources](<Marketing Resources.md>)
 - "[Venkatesh Rao](<Venkatesh Rao.md>)
@@ -216,6 +228,9 @@ owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Neurofuturama](<Neurofuturama.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [October 23rd, 2020](<October 23rd, 2020.md>)
+- Updated the [Facebook](<Facebook.md>) and [LinkedIn](<LinkedIn.md>) [IT Infrastructure](<IT Infrastructure.md>) pages based on [Venkatesh Rao](<Venkatesh Rao.md>)'
 
 ## [Office hours with YakShavers](<Office hours with YakShavers.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -336,6 +351,8 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
 - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Twitter](<Twitter.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)

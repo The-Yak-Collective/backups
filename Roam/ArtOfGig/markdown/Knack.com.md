@@ -3,9 +3,9 @@ API access to/from Discord+Roam+Website.
 Member login for maintaining their own public Yak information.__
 Chief Page Wrangler:: [[Jenna Dixon]]
     - Additional Page Wranglers:: [[Nathan Acks]] | [[Maier Fenster]] 
-Last Updated:: [[October 5th, 2020]]
-Last Updated By:: [[Jenna Dixon]]
-Previous update:: [[September 13th, 2020]] by [[Nathan Acks]]
+Created:: [[September 13th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[October 5th, 2020]] by [[Jenna Dixon]]
+Last Gardened:: [[October 21st, 2020]] by [[Jenna Dixon]]
 # Purpose
     - Member database (future website release)
         - Minimal information from [[Discord]] (server name, user ID, role data) will be moved over using a `yak_shaver` bot. May or may not commit info to [[GitHub]] along the way.

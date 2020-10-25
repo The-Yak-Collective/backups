@@ -27,12 +27,12 @@
                     - see here what process was (?): https://roamresearch.com/#/app/ArtOfGig/page/MWN2i9e3v
             - MF
                 - onboarding should cover this question - "if I have a project what do I do?"
-        - [ ] "[ ] survey Yaks to understand their motives/expectations/experience (TBD)"
+        - [x] "[ ] survey Yaks to understand their motives/expectations/experience (TBD)"
             - GM
                 - survey - is backward looking - we should look forward 
                 - the future is more interesting
             - MF
-                - risk of hourse-car dilema (Henry Ford)
+                - risk of horse-car dilema (Henry Ford)
             - GM
                 - learning by doing
             - HM

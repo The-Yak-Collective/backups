@@ -1,13 +1,10 @@
 - **[About](<About.md>):** __Directory Listing for Things Discussed in Yak [Infrastructure](<Infrastructure.md>) Discord channel__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>) 
-- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>)
-- **[Last Updated By](<Last Updated By.md>):** [Nathan Acks](<Nathan Acks.md>)
-- **[Last Gardened](<Last Gardened.md>):** [October 5th, 2020](<October 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-    - standardized on roam-style dates in chat headers
-    - added `[meeting-notes](<meeting-notes.md>)` per [Hugo Macedo](<Hugo Macedo.md>)'s suggestion on [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) | "we can tag previous meeting notes with `meeting-notes` tag to make it consistent "
-    - added `:header:`
-    - added `[needsupdate](<needsupdate.md>)` to Lists/Docs and Upcoming chat topics
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+- **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
+- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- 
 - ## Lists/Docs [needsupdate](<needsupdate.md>)
     - [Project Launch Checklist](<Project Launch Checklist.md>)
     - [Things We Need](<Things We Need.md>)
@@ -415,13 +412,13 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
     - yak NM engagement
         - send discord announcement
         - email newsletter? 
-            - Praful
+            - [Praful Mathur](<Praful Mathur.md>)
         - minimum for next stage is 50-100 people
         - no specification for the next phase - of matching 
     - Project page template (knack integration?)
         - [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
     - Discord bot
-        - Maier made a test bot
+        - [Maier Fenster](<Maier Fenster.md>) made a test bot
         - commands
             - $whosenew
             - $hello
@@ -453,9 +450,6 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - [Infrastructure](<Infrastructure.md>)
 
-- [Infrastructure](<Infrastructure.md>)
-
-## [October 18th, 2020](<October 18th, 2020.md>)
 - [Infrastructure](<Infrastructure.md>)
 
 ## [October 5th, 2020](<October 5th, 2020.md>)

@@ -4,6 +4,8 @@
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 
+- **[Created](<Created.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+
 - **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
 - **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
@@ -31,6 +33,8 @@
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Knack.com](<Knack.com.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
@@ -45,6 +49,9 @@
 - "[Maier Fenster](<Maier Fenster.md>)
 
 - "[Maier Fenster](<Maier Fenster.md>)
+
+## [October 22nd, 2020](<October 22nd, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
@@ -150,7 +157,7 @@
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
 
-- **[Created](<Created.md>):** [Maier Fenster](<Maier Fenster.md>)
+- **[Created](<Created.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
 

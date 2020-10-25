@@ -19,5 +19,8 @@
 - **Described by:** [Chris Butler](<Chris Butler.md>)
 
 ## [Sprint 3: Flash Fiction](<Sprint 3: Flash Fiction.md>)
-- [Chris Butler](<Chris Butler.md>)
+- 04 [Chris Butler](<Chris Butler.md>)
+
+## [launch checklist](<launch checklist.md>)
+- "04 [Chris Butler](<Chris Butler.md>)
 

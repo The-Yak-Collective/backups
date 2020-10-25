@@ -1,1 +1,2 @@
-- /
+- [[launch checklist]] created on weekly call #meeting-notes
+- 

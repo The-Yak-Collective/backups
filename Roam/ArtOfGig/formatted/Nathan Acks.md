@@ -55,7 +55,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Facebook](<Facebook.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - ^^[Nathan Acks](<Nathan Acks.md>)^
@@ -82,9 +82,11 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-owner:: [Nathan Acks](<Nathan Acks.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Created:: `/today` by [Nathan Acks](<Nathan Acks.md>)
+
+Last Updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
 
@@ -113,7 +115,7 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 ## [Infrastructure](<Infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
 
-- **[Last Updated By](<Last Updated By.md>):** [Nathan Acks](<Nathan Acks.md>)
+- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)
 
@@ -122,12 +124,12 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 ## [Knack.com](<Knack.com.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
 
-Previous update:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Created:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - Alternate Builder access as needed: [Nathan Acks](<Nathan Acks.md>)
 
 ## [LinkedIn](<LinkedIn.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Namecheap](<Namecheap.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)

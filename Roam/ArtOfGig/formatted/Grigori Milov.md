@@ -96,6 +96,9 @@
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [October 22nd, 2020](<October 22nd, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)
 

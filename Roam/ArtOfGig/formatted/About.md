@@ -30,6 +30,9 @@
 ## [Marketing Resources](<Marketing Resources.md>)
 - **[About](<About.md>):**
 
+## [Privacy Policy](<Privacy Policy.md>)
+- **[About](<About.md>):**
+
 ## [Production Cell](<Production Cell.md>)
 - **[About](<About.md>):**
 
@@ -40,6 +43,9 @@
 - **[About](<About.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
+- **[About](<About.md>):**
+
+## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[About](<About.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)

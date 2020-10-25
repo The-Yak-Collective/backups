@@ -1,13 +1,10 @@
 - About:: __Directory Listing for Things Discussed in Yak #Infrastructure Discord channel__
 - Chief Page Wrangler:: [[Darren Kong]]
-    - Additional Page Wranglers:: [[Nathan Acks]] | [[Jenna Dixon]] 
-- Last Updated:: [[October 4th, 2020]]
-- Last Updated By:: [[Nathan Acks]]
-- Last Gardened:: [[October 5th, 2020]] by [[Jenna Dixon]]
-    - standardized on roam-style dates in chat headers
-    - added `#meeting-notes` per [[Hugo Macedo]]'s suggestion on [[YC Roam Style Guide (TBD)]] | "we can tag previous meeting notes with `meeting-notes` tag to make it consistent "
-    - added `:header:`
-    - added `#needsupdate` to Lists/Docs and Upcoming chat topics
+    - Additional Page Wranglers:: [[Nathan Acks]] | [[Jenna Dixon]]
+- Created:: [[May 9th, 2020]] by [[Darren Kong]]
+- Last Updated:: [[October 4th, 2020]] by [[Nathan Acks]]
+- Last Gardened:: [[October 21th, 2020]] by [[Jenna Dixon]]
+- 
 - ## Lists/Docs #needsupdate
     - [[Project Launch Checklist]]
     - [[Things We Need]]
@@ -415,13 +412,13 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
     - yak NM engagement
         - send discord announcement
         - email newsletter? 
-            - Praful
+            - [[Praful Mathur]]
         - minimum for next stage is 50-100 people
         - no specification for the next phase - of matching 
     - Project page template (knack integration?)
         - [[Concept Contrast Project (temp name)]]
     - Discord bot
-        - Maier made a test bot
+        - [[Maier Fenster]] made a test bot
         - commands
             - $whosenew
             - $hello

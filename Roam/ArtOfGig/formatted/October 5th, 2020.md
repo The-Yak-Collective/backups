@@ -6,8 +6,6 @@
 
 # Backlinks
 ## [Infrastructure](<Infrastructure.md>)
-- **[Last Gardened](<Last Gardened.md>):** [October 5th, 2020](<October 5th, 2020.md>)
-
 - [October 5th, 2020](<October 5th, 2020.md>)
 
 ## [Knack.com](<Knack.com.md>)

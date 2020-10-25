@@ -16,6 +16,10 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Facebook](<Facebook.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Siva Swaroop](<Siva Swaroop.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
@@ -27,6 +31,10 @@
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[Additional Page Wranglers](<Additional Page Wranglers.md>)}
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
@@ -35,11 +43,19 @@
 Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [LinkedIn](<LinkedIn.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Marketing Resources](<Marketing Resources.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Privacy Policy](<Privacy Policy.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
@@ -57,6 +73,10 @@ Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)

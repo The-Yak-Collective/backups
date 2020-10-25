@@ -10,7 +10,7 @@
 
 # Backlinks
 ## [IT Infrastructure](<IT Infrastructure.md>)
-last updated:: [October 4th, 2020](<October 4th, 2020.md>)
+Last Updated:: [October 4th, 2020](<October 4th, 2020.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
 - **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>)
@@ -24,5 +24,5 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>)
 - [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
-- **[Created](<Created.md>):** [Maier Fenster](<Maier Fenster.md>) [October 4th, 2020](<October 4th, 2020.md>)
+- **[Created](<Created.md>):** [October 4th, 2020](<October 4th, 2020.md>)
 

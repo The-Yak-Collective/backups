@@ -119,9 +119,7 @@
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [x] "{{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
-- [ ] "{{[TODO](<TODO.md>)}
+- [x] "{{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -133,6 +131,11 @@
 
 - {{[TODO](<TODO.md>)}
 
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+## [October 22nd, 2020](<October 22nd, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

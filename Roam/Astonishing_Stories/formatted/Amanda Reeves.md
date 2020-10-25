@@ -18,3 +18,6 @@
 ## [Sprint 3: Flash Fiction](<Sprint 3: Flash Fiction.md>)
 [Amanda Reeves](<Amanda Reeves.md>)^
 
+## [launch checklist](<launch checklist.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Amanda Reeves](<Amanda Reeves.md>)
+

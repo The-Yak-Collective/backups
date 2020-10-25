@@ -58,7 +58,7 @@
 [[Sachin Benny]]
 [[Scott Garlinger]]^^
             - [[Ben Smith]] [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
-            - [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
+            - 04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
             - [[Sachin Benny]] 
 [Title tk](#)
         - Copyedit+Illustration 
@@ -71,12 +71,12 @@
             - ^^**webdev**
 [[Nathan Acks]]^^
             - tk
-            - 01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)
         - proofread
 
             - ^^**proofreader**
 [[Amanda Reeves]]^^
             - tk
+            - 01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)
         - publish
             - ^^**webdev**
 [[Nathan Acks]]^^

@@ -1,6 +1,7 @@
 - About:: __XXX__
 - Chief Page Wrangler:: [[Fname Lname]]
-    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
+    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
+- Created:: `/today` by [[Fname Lname]]
 - Last Updated:: `/today` by [[Fname Lname]]
-- Last Gardened:: `/today` by [[Fname Lname]] 
+- Last Gardened:: `/today` by [[Fname Lname]]
 - 

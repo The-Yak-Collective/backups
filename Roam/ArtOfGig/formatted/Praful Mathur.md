@@ -18,6 +18,9 @@
 ## [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
 - [Praful Mathur](<Praful Mathur.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- [Praful Mathur](<Praful Mathur.md>)
+
 ## [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
 - [Praful Mathur](<Praful Mathur.md>)
 

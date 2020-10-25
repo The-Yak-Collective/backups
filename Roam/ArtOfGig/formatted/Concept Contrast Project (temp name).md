@@ -2,8 +2,9 @@
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Rafael Fernandez](<Rafael Fernandez.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
-- **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>) 
-- **[Last Gardened](<Last Gardened.md>):** [October 18th, 2020](<October 18th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Created](<Created.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
@@ -26,7 +27,7 @@
         - XX on YY meets requirement ZZ
     - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):**
     - **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
-    - **[Also in project](<Also in project.md>):** 
+    - **[Also in project](<Also in project.md>):** [Mike Baxter](<Mike Baxter.md>)
     - **[Why you should join](<Why you should join.md>):**
         - tk
     - **[Intended audience](<Intended audience.md>):**
@@ -41,8 +42,10 @@
                         - consultants should act as accelerators (inwards of company) and leverage (outward of company), not as exchange (consultant should create ability and sustainability =  teach more than they learn)
                     - Understanding that the value of a consultant depends on the difference between cost of lack of expertise and difficult of onboarding 
             - Option 2: Department / Division / Brand leads in enterprise-scale organisations [Mike Baxter](<Mike Baxter.md>)
-                - Big-3 consultancy firms are usually very expensive and hence are budgeted and managed centrally
-                - A lower cost, more agile delivery mechanism could put consultancy within reach of department, division, territory or brand managers
+                - **[Value for them](<Value for them.md>):**
+                    - more control and autonomy
+                        - Big-3 consultancy firms are usually very expensive and hence are budgeted and managed centrally
+                        - A lower cost, more agile delivery mechanism could put consultancy within reach of department, division, territory or brand managers
         - **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**
             - contrast- what is not this concept
             - what problems should be related to this concept (what issues should recall this concept) = examples of a few common business problems that should be related to this concept

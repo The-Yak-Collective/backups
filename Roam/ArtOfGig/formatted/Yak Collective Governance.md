@@ -106,6 +106,7 @@ https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
 - [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
 - [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
 - [September 25th, 2020](<September 25th, 2020.md>) [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [October 23rd, 2020](<October 23rd, 2020.md>) [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - 
 - 
 - 

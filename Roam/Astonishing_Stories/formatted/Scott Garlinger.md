@@ -8,3 +8,6 @@
 
 - 03 [Scott Garlinger](<Scott Garlinger.md>)
 
+## [launch checklist](<launch checklist.md>)
+- "03 [Scott Garlinger](<Scott Garlinger.md>)
+

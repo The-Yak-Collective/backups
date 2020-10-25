@@ -5,3 +5,6 @@
 
 - 02 [Ben Smith](<Ben Smith.md>)
 
+## [launch checklist](<launch checklist.md>)
+- "02 [Ben Smith](<Ben Smith.md>)
+

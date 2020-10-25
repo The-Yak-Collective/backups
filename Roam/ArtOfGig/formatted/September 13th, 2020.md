@@ -19,7 +19,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 - infrastructure chat 18 [September 13th, 2020](<September 13th, 2020.md>)
 
 ## [Knack.com](<Knack.com.md>)
-Previous update:: [September 13th, 2020](<September 13th, 2020.md>)
+Created:: [September 13th, 2020](<September 13th, 2020.md>)
 
 ## [Namecheap](<Namecheap.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>)

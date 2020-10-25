@@ -44,6 +44,10 @@
 - **[About](<About.md>):** artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Privacy Policy](<Privacy Policy.md>)
+- **[About](<About.md>):** __stub page for collecting privacy policy inspo__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Production Cell](<Production Cell.md>)
 - **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
@@ -62,6 +66,10 @@
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[About](<About.md>):** __Project launch activity and planning__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
+- **[About](<About.md>):** __weekly online-governance-chat minutes__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)

@@ -2,8 +2,9 @@
 - Page Type:: #Project
 - Chief Page Wrangler:: [[Rafael Fernandez]]
     - Additional Page Wranglers:: [[Maier Fenster]]
-- Last Updated:: [[October 16, 2020]] by [[Maier Fenster]] 
-- Last Gardened:: [[October 18th, 2020]] by [[Jenna Dixon]]
+- Created:: [[October 16, 2020]] by [[Maier Fenster]]
+- Last Updated:: [[October 16, 2020]] by [[Maier Fenster]]
+- Last Gardened:: [[October 21th, 2020]] by [[Jenna Dixon]]
 - Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - Status:: {{or: Early Concept | Active | Proposal | Complete}}
 - Jobs and ways to contribute::
@@ -26,7 +27,7 @@
         - XX on YY meets requirement ZZ
     - Referees (non-participating reviewers)::
     - Project lead:: [[Rafael Fernandez]] & [[Maier Fenster]]
-    - Also in project:: 
+    - Also in project:: [[Mike Baxter]]
     - Why you should join::
         - tk
     - Intended audience::
@@ -41,8 +42,10 @@
                         - consultants should act as accelerators (inwards of company) and leverage (outward of company), not as exchange (consultant should create ability and sustainability =  teach more than they learn)
                     - Understanding that the value of a consultant depends on the difference between cost of lack of expertise and difficult of onboarding 
             - Option 2: Department / Division / Brand leads in enterprise-scale organisations [[Mike Baxter]]
-                - Big-3 consultancy firms are usually very expensive and hence are budgeted and managed centrally
-                - A lower cost, more agile delivery mechanism could put consultancy within reach of department, division, territory or brand managers
+                - Value for them::
+                    - more control and autonomy
+                        - Big-3 consultancy firms are usually very expensive and hence are budgeted and managed centrally
+                        - A lower cost, more agile delivery mechanism could put consultancy within reach of department, division, territory or brand managers
         - Questions to be answered by deliverable::
             - contrast- what is not this concept
             - what problems should be related to this concept (what issues should recall this concept) = examples of a few common business problems that should be related to this concept

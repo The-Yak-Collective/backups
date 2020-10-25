@@ -38,6 +38,9 @@
 
 - suggestion from [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
+- **[Last Gardened](<Last Gardened.md>):** [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [August 14th, 2020](<August 14th, 2020.md>)
 - 10:17 created [Roam Help](<Roam Help.md>) || [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -48,12 +51,15 @@
 - ### from [Jenna Dixon](<Jenna Dixon.md>):
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[Last Gardened](<Last Gardened.md>):** [October 18th, 2020](<October 18th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Directory](<Directory.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
 - **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+## [Facebook](<Facebook.md>)
+Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Jenna Dixon](<Jenna Dixon.md>)
@@ -68,10 +74,13 @@
 
 - [x] [Jenna Dixon](<Jenna Dixon.md>)
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
-- **[Last Gardened](<Last Gardened.md>):** [October 5th, 2020](<October 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 - [x] Knack: is it time? [Jenna Dixon](<Jenna Dixon.md>):
 
@@ -83,11 +92,27 @@
 ## [Knack.com](<Knack.com.md>)
 Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
 
-Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
+Last Updated:: [October 5th, 2020](<October 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+Last Gardened:: [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 - Share login: [Jenna Dixon](<Jenna Dixon.md>)
 
+## [LinkedIn](<LinkedIn.md>)
+Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+## [October 20th, 2020](<October 20th, 2020.md>)
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+## [October 21st, 2020](<October 21st, 2020.md>)
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+## [October 23rd, 2020](<October 23rd, 2020.md>)
 - [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
@@ -104,6 +129,11 @@ Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
 - 19:49 [Jenna Dixon](<Jenna Dixon.md>)
 
 - 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>)
+
+## [Privacy Policy](<Privacy Policy.md>)
+- **[Created](<Created.md>):** [August 25th, 2020](<August 25th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Last Updated](<Last Updated.md>):** [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Production Cell](<Production Cell.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
@@ -164,6 +194,11 @@ Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
 ## [September 26th, 2020](<September 26th, 2020.md>)
 - Started on [Roam Gardening](<Roam Gardening.md>) and [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) [ping](<ping.md>) [Jenna Dixon](<Jenna Dixon.md>)
 
+## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
+- **[Created](<Created.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -182,7 +217,7 @@ Last Updated By:: [Jenna Dixon](<Jenna Dixon.md>)
 - [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
-- **[Last Updated](<Last Updated.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):** [October 6th, 2020](<October 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
-- **[Last Gardened](<Last Gardened.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 

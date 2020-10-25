@@ -29,7 +29,9 @@
 ## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
-- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+- **[Created](<Created.md>):** [October 1st, 2020](<October 1st, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
+
+- **[Last Updated](<Last Updated.md>):** [October 1st, 2020](<October 1st, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
@@ -48,8 +50,6 @@
 - {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-- added `[meeting-notes](<meeting-notes.md>)` per [Hugo Macedo](<Hugo Macedo.md>)'
-
 - We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Marketing Channels](<Marketing Channels.md>)
@@ -65,6 +65,9 @@
 - [Hugo Macedo](<Hugo Macedo.md>)
 
 - [ ] followup on messaging and give feedback [Hugo Macedo](<Hugo Macedo.md>)
+
+## [October 22nd, 2020](<October 22nd, 2020.md>)
+- [x] [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - 08:39 [Jenna Dixon](<Jenna Dixon.md>) joining [Hugo Macedo](<Hugo Macedo.md>)

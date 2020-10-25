@@ -1,8 +1,9 @@
 - About:: __Marketing Launch plan for Astonishing Stories project__
 - Chief Page Wrangler:: [[Hugo Macedo]] 
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
-- Last Updated:: [[October 1st, 2020]]
-- Last Updated By:: [[Hugo Macedo]] 
+- Created:: [[October 1st, 2020]] by [[Hugo Macedo]]
+- Last Updated:: [[October 1st, 2020]] by [[Hugo Macedo]]
+- Last Gardened:: [[October 21st, 2020]] by [[Jenna Dixon]]
 -  
 - ^^[[Astonishing Stories]] team - please help fill out the fields below - especially the highlighted^^
 - 
@@ -47,6 +48,15 @@ The stories here are not meant to predict the future but to be imagination exten
                 - What's next?
                     - Want to create a story? Visit the Roam Graph and create your own and see our process
                     - Get in touch with Yak Collective to get a diverse perspective of the future about your industry/company 
+                - What does the story make you feel like
+                - [[October 22nd, 2020]]
+                    - The upside of an extremely uncertain environment is that we have been free to indulge in pure speculation about the know knowns and unknown unknowns of the future. The result is __Astonishing Stories__, an anthology of short speculative fiction developed from the networked thoughts of over 30 indie consultants.
+                    - Our working process is open and visible to all on our [Roam graph](https://roamresearch.com/#/app/Astonishing_Stories/graph) where we developed provoking descriptions of objects from the near and far future using [The Thing From The Future. ](http://situationlab.org/project/the-thing-from-the-future/). The objects served as jumping off points for our authors as they tried to imagine a world in which the pandemic is the background event for other shifts. 
+                    - The stories here are not meant to predict the future but to be imagination extenders for entrepreneurs and consultants navigating a post-COVID landscape.
+                - Short description
+                    - Astonishing stories is an anthology of short speculative fiction developed from the networked thoughts of over 30 consultants. 
+
+#1 Wholeness in a Timeles activity by Nathan Chen explores the future of the restaurant experience through the perspective of a chef
         - {{[[TODO]]}} ^^Quote/Comment on business relevance and link to foresight/prospective skills/service^^
             - Why did we did this? What is the value of AS to business leaders?
         - social proof

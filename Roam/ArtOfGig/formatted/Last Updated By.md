@@ -6,10 +6,6 @@
 - **[Last Updated](<Last Updated.md>):**
 - **[Last Updated By](<Last Updated By.md>):**
 
-## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
-- **[Last Updated](<Last Updated.md>):** [October 1st, 2020](<October 1st, 2020.md>)
-- **[Last Updated By](<Last Updated By.md>):**
-
 ## [Directory](<Directory.md>)
 - **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
@@ -24,10 +20,6 @@
 
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[Last Updated](<Last Updated.md>):** [September 22nd, 2020](<September 22nd, 2020.md>)
-- **[Last Updated By](<Last Updated By.md>):**
-
-## [Infrastructure](<Infrastructure.md>)
-- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Marketing Channels](<Marketing Channels.md>)

@@ -7,11 +7,11 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Created](<Created.md>):** [October 1st, 2020](<October 1st, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
+- **[Created](<Created.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Directory](<Directory.md>)
@@ -31,7 +31,7 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Infrastructure](<Infrastructure.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>) 
+- **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Marketing Channels](<Marketing Channels.md>)
@@ -40,6 +40,10 @@
 
 ## [Marketing Resources](<Marketing Resources.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):**
+
+## [Privacy Policy](<Privacy Policy.md>)
+- **[Created](<Created.md>):** [August 25th, 2020](<August 25th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Production Cell](<Production Cell.md>)
@@ -56,6 +60,10 @@
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):**
+
+## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
+- **[Created](<Created.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
@@ -75,10 +83,10 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
-- **[Created](<Created.md>):** [Maier Fenster](<Maier Fenster.md>) [October 4th, 2020](<October 4th, 2020.md>)
+- **[Created](<Created.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [template/header](<template/header.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Created](<Created.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Updated](<Last Updated.md>):**
 

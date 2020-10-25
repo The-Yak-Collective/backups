@@ -70,9 +70,9 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
         - [Twitter](<Twitter.md>)
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Facebook](<Facebook.md>)
-            - **["owner](<"owner.md>):** ^^???^^"
+            - ""
         - [LinkedIn](<LinkedIn.md>)
-            - **["owner](<"owner.md>):** ^^???^^"
+            - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - ## Class 4 (¯\_(ツ)_/¯)
         - [Glitch](<Glitch.md>)
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"

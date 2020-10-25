@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Privacy Policy](<Privacy Policy.md>)
-- https://en.wikipedia.org/wiki/Privacy_policy
+- https://threads.com/privacy
 - **[generators](<generators.md>):**
 

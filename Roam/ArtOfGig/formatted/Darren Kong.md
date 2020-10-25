@@ -25,6 +25,8 @@
 ## [Infrastructure](<Infrastructure.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
 
+- **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
+
 - [x] yak map: is it time? [Darren Kong](<Darren Kong.md>)c
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
@@ -55,6 +57,9 @@
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 - my $.02, is potentially all of the above, but also that it's a legitimately hard problem. [Darren Kong](<Darren Kong.md>)
+
+## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
 
 ## [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
 - **Competitive diagramming** – proposed by [Darren Kong](<Darren Kong.md>)

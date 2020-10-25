@@ -1,9 +1,9 @@
 - About:: __draft process map for onboarding new yaks in the backend__
 - Chief Page Wrangler:: [[Maier Fenster]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
-- Created:: [[Maier Fenster]] [[October 4th, 2020]]
-- Last Updated:: [[Jenna Dixon]] [[October 6th, 2020]]
-- Last Gardened:: [[Jenna Dixon]] [[October 6th, 2020]]
+- Created:: [[October 4th, 2020]] by [[Maier Fenster]]
+- Last Updated:: [[October 6th, 2020]] by [[Jenna Dixon]]
+- Last Gardened:: [[October 21th, 2020]] by [[Jenna Dixon]] 
 - 
 - it looks like we are talking about some combination of:
 

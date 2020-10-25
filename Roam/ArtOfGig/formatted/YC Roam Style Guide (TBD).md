@@ -60,9 +60,6 @@ e.g. positioning
 - 
 
 # Backlinks
-## [Infrastructure](<Infrastructure.md>)
-- added `[meeting-notes](<meeting-notes.md>)` per [Hugo Macedo](<Hugo Macedo.md>)'s suggestion on [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
-
 ## [Jenna Dixon](<Jenna Dixon.md>)
 - [Roam Gardening](<Roam Gardening.md>) [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
 

@@ -70,9 +70,9 @@ last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
         - [[Twitter]]
             - "owner:: [[Jordan Peacock]]"
         - [[Facebook]]
-            - "owner:: ^^???^^"
+            - ""
         - [[LinkedIn]]
-            - "owner:: ^^???^^"
+            - owner:: [[Venkatesh Rao]]
     - ## Class 4 (¯\_(ツ)_/¯)
         - [[Glitch]]
             - "owner:: [[Nathan Acks]]"

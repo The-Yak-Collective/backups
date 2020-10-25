@@ -1,5 +1,10 @@
-owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __documenting YakC shared infrastructure__
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+Created:: `/today` by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
     - [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>) has developed an SVG diagram that (currently) more completely captures the relationship between different components of the Yak Collective's IT infrastructure than is possible natively.
@@ -105,9 +110,9 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
         - [Twitter](<Twitter.md>)
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Facebook](<Facebook.md>)
-            - **["owner](<"owner.md>):** ^^???^^"
+            - ""
         - [LinkedIn](<LinkedIn.md>)
-            - **["owner](<"owner.md>):** ^^???^^"
+            - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 # Documents
     - [Schema | member data](<Schema | member data.md>) (draft)
     - [Code Style Guide](<Code Style Guide.md>)
@@ -119,6 +124,11 @@ last updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 # Backlinks
 ## [Infrastructure](<Infrastructure.md>)
 - [IT Infrastructure](<IT Infrastructure.md>)
+
+## [October 23rd, 2020](<October 23rd, 2020.md>)
+- Updated the [Facebook](<Facebook.md>) and [LinkedIn](<LinkedIn.md>) [IT Infrastructure](<IT Infrastructure.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) gardened to add new \template\header to [IT Infrastructure](<IT Infrastructure.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) added [Discussions & Decisions](https://roamresearch.com/#/app/ArtOfGig/page/GfLUKnfjQ) sections to the [IT Infrastructure](<IT Infrastructure.md>)

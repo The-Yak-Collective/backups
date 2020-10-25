@@ -11701,8 +11701,8 @@
                     "create-email": "sachben91@gmail.com",
                     "create-time": 1598311715852,
                     "edit-email": "j@djinna.com",
-                    "edit-time": 1600731810336,
-                    "string": "[[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)",
+                    "edit-time": 1603203749455,
+                    "string": "04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)",
                     "uid": "BgxvY636h"
                   },
                   {
@@ -11762,14 +11762,6 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "1YBPRfM4h"
-                  },
-                  {
-                    "create-email": "sachben91@gmail.com",
-                    "create-time": 1598311958493,
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1602544153344,
-                    "string": "01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
-                    "uid": "8yEaJjIrg"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -11792,6 +11784,14 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "2vwqbiZg3"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1598311958493,
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1602544153344,
+                    "string": "01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
+                    "uid": "8yEaJjIrg"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -12411,53 +12411,103 @@
   {
     "children": [
       {
+        "create-email": "h2@unbabel.com",
+        "create-time": 1600788155933,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1603203167455,
+        "string": "About:: __draft template for a launch checklist__",
+        "uid": "3ZA-wWKTe"
+      },
+      {
+        "children": [
+          {
+            "create-email": "j@djinna.com",
+            "create-time": 1599576582407,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203120541,
+            "string": "Additional Page Wranglers:: [[Amanda Reeves]] | [[Jenna Dixon]] ",
+            "uid": "2puB0w0EJ"
+          }
+        ],
+        "create-email": "j@djinna.com",
+        "create-time": 1599576321413,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1603203102277,
+        "string": "Chief Page Wrangler:: [[Sachin Benny]]",
+        "uid": "JWYpIgYgG"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1599576332843,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1603203154238,
+        "string": "Last Updated:: [[October 19th, 2020]] by [[Sachin Benny]]",
+        "uid": "q-NrsNtrh"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1603203135522,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1603203140164,
+        "string": "Last Gardened:: [[October 20th, 2020]] by [[Jenna Dixon]] ",
+        "uid": "wDMRitbHF"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1602784669791,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1603203051490,
+        "string": "",
+        "uid": "LGZKMWfAI"
+      },
+      {
         "children": [
           {
             "create-email": "sachben91@gmail.com",
             "create-time": 1602958609576,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602958618758,
-            "string": "{{[[TODO]]}} Final proof",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203243674,
+            "string": "{{[[TODO]]}} Final proof `/today` by [[Fname Lname]]",
             "uid": "R01RSck22"
           },
           {
             "create-email": "sachben91@gmail.com",
             "create-time": 1602958626496,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602958633655,
-            "string": "{{[[TODO]]}} Footnotes of fragments ",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203252645,
+            "string": "{{[[TODO]]}} Footnotes of fragments `/today` by [[Fname Lname]]",
             "uid": "QX-mQycSb"
           },
           {
             "create-email": "sachben91@gmail.com",
             "create-time": 1602958618755,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602958626500,
-            "string": "{{[[TODO]]}} Author's bio",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203254204,
+            "string": "{{[[TODO]]}} Author's bio `/today` by [[Fname Lname]]",
             "uid": "D6YKkC4SQ"
           },
           {
             "create-email": "sachben91@gmail.com",
             "create-time": 1602958633650,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602958650256,
-            "string": "{{[[TODO]]}} Final artwork ",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203255846,
+            "string": "{{[[TODO]]}} Final artwork `/today` by [[Fname Lname]]",
             "uid": "NWbTA6QC7"
           },
           {
             "create-email": "sachben91@gmail.com",
             "create-time": 1602958651710,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602958663233,
-            "string": "{{[[TODO]]}} Letting author know before its published",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203257418,
+            "string": "{{[[TODO]]}} Letting author know before its published `/today` by [[Fname Lname]]",
             "uid": "7gYXf4TK4"
           },
           {
             "create-email": "sachben91@gmail.com",
             "create-time": 1603152281051,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1603163103521,
-            "string": "{{[[TODO]]}} Proof on the website",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203259205,
+            "string": "{{[[TODO]]}} Proof on the website `/today` by [[Fname Lname]]",
             "uid": "UHj3zKk6D"
           },
           {
@@ -12465,34 +12515,50 @@
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1603162856240,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1603163138311,
-                "string": "^^[[Nathan Acks]]: **NB** When should this go out? Remember, I'm on Mountain Time...^^",
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603418428683,
+                "string": "^^[[Nathan Acks]]: **NB** When should this go out? Remember, I'm on Mountain Time...^^ - 2ET",
                 "uid": "4dELReuY8"
               }
             ],
             "create-email": "sachben91@gmail.com",
             "create-time": 1603152770316,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1603155901542,
-            "string": "{{[[TODO]]}} Tweeting when each story goes out - Nathan",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203277920,
+            "string": "{{[[TODO]]}} Tweeting when each story goes out `/today` by [[Nathan Acks]]",
             "uid": "C5SIxuUPO"
           },
           {
             "create-email": "sachben91@gmail.com",
             "create-time": 1602958663230,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1602958686783,
-            "string": "{{[[TODO]]}} handover artwork and story snippet to Yak Talk team ",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203283741,
+            "string": "{{[[TODO]]}} handover artwork and story snippet to Yak Talk team `/today` by [[Fname Lname]]",
             "uid": "GZKkTbX_9"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1603326281605,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603326404197,
+            "string": "{{[[TODO]]}} Twitter, LinkedIn, Facebook template ",
+            "uid": "2Gk7-IQF7"
+          },
+          {
+            "create-email": "j@djinna.com",
+            "create-time": 1603203301604,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203301604,
+            "string": "",
+            "uid": "8PF1rBdRt"
           }
         ],
         "create-email": "sachben91@gmail.com",
         "create-time": 1602958601996,
-        "edit-email": "sachben91@gmail.com",
-        "edit-time": 1603155981353,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1603202741583,
         "heading": 1,
-        "string": "Checklist for individual story launch",
+        "string": "Checklist template for individual story launch",
         "uid": "xhbJVyjaC"
       },
       {
@@ -12510,36 +12576,78 @@
             ],
             "create-email": "sachben91@gmail.com",
             "create-time": 1602961938618,
-            "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1603162311740,
-            "string": "{{[[DONE]]}} For stories that dont have artwork, use the artwork that is currently not used as a placeholder",
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603203306936,
+            "string": "{{[[DONE]]}} For stories that don't have artwork, use the artwork that is currently not used as a placeholder",
             "uid": "KFM_DvGwt"
           },
           {
-            "create-email": "sachben91@gmail.com",
-            "create-time": 1602962074444,
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1603158920900,
-            "string": "{{[[DONE]]}} Story order - Wholeness in a timeless, your payment is ready, department of restoration, Mechanical turks all the way down, agglomerizing the aesthetic, GPT 51 Pre Fab",
-            "uid": "BNaZzmEPQ"
+            "children": [
+              {
+                "create-email": "j@djinna.com",
+                "create-time": 1603203538042,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1603412497804,
+                "string": "[01 Nathan Chen](((8yEaJjIrg)))",
+                "uid": "cbiePmIfg"
+              },
+              {
+                "create-email": "j@djinna.com",
+                "create-time": 1603203703602,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1603203716486,
+                "string": "((upEZlclsc))",
+                "uid": "kal-kXFo5"
+              },
+              {
+                "create-email": "j@djinna.com",
+                "create-time": 1603203543521,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1603203735403,
+                "string": "((gxTA6agA_))",
+                "uid": "9xk9YuI-g"
+              },
+              {
+                "create-email": "j@djinna.com",
+                "create-time": 1603203546356,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1603203757478,
+                "string": "((BgxvY636h))",
+                "uid": "N7o8YFerd"
+              },
+              {
+                "create-email": "j@djinna.com",
+                "create-time": 1603203549122,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1603203811839,
+                "string": "^^agglomerizing the aesthetic^^",
+                "uid": "k6zacMqOD"
+              },
+              {
+                "create-email": "sachben91@gmail.com",
+                "create-time": 1602962074444,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1603203828177,
+                "string": "^^GPT 51 Pre Fab^^",
+                "uid": "BNaZzmEPQ"
+              }
+            ],
+            "create-email": "j@djinna.com",
+            "create-time": 1603203531626,
+            "edit-email": "j@djinna.com",
+            "edit-time": 1603412490003,
+            "string": "{{[[TODO]]}} Story order ",
+            "uid": "ZlRdl6FuZ"
           },
           {
             "children": [
               {
                 "create-email": "sachben91@gmail.com",
                 "create-time": 1603152378135,
-                "edit-email": "sachben91@gmail.com",
-                "edit-time": 1603153830517,
+                "edit-email": "j@djinna.com",
+                "edit-time": 1603203835227,
                 "string": "![](https://cdn.discordapp.com/attachments/748199697218404353/764983763406815232/in_a_class_of_their_own.jpg)",
                 "uid": "X6VEoYBBV"
-              },
-              {
-                "create-email": "sachben91@gmail.com",
-                "create-time": 1603153832658,
-                "edit-email": "sachben91@gmail.com",
-                "edit-time": 1603153832657,
-                "string": "",
-                "uid": "bS94YvbyC"
               }
             ],
             "create-email": "sachben91@gmail.com",
@@ -12554,10 +12662,18 @@
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1603162867155,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1603162892716,
-                "string": "^^[[Nathan Acks]]: Right now this is all lorem ipsum. Would be good to at least have a description.^^",
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603325777728,
+                "string": "^^[[Nathan Acks]]: Right now this is all lorem ipsum. Would be good to at least have a description.^^ - https://docs.google.com/document/d/1ypHVOPVaIv-XLi8RxXVM77XIdwEy266-viriWmlBNAg/edit?ts=5f7d4e09",
                 "uid": "-BOZg2pml"
+              },
+              {
+                "create-email": "sachben91@gmail.com",
+                "create-time": 1603325778350,
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603325790814,
+                "string": "{{[[TODO]]}} Add Text for GPT-51",
+                "uid": "S6hamzU0K"
               }
             ],
             "create-email": "sachben91@gmail.com",
@@ -12572,9 +12688,9 @@
               {
                 "create-email": "roam@delphi-strategy.com",
                 "create-time": 1603162895001,
-                "edit-email": "roam@delphi-strategy.com",
-                "edit-time": 1603162932439,
-                "string": "^^[[Nathan Acks]]: I assume you mean __Agglomerizing the Aesthetic__?^^",
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603203361857,
+                "string": "^^[[Nathan Acks]]: I assume you mean __Agglomerizing the Aesthetic__?^^ - yup",
                 "uid": "Vh8-HU7-z"
               }
             ],
@@ -12633,20 +12749,9 @@
                     "create-email": "sachben91@gmail.com",
                     "create-time": 1603156186125,
                     "edit-email": "sachben91@gmail.com",
-                    "edit-time": 1603158810410,
+                    "edit-time": 1603203343926,
                     "string": "Collaborators: Chris Reid, Claire Peters, Zhan Li, Erik Sandberg, Murilo Loureiro, Prashant Gandhi, Sumit Paul-Choudhury, Michael de la Maza, Maggie Appleton, Mike WImsat, Tracy Brinkerhoff",
                     "uid": "4S5ITaFCZ"
-                  },
-                  {
-                    "create-email": "sachben91@gmail.com",
-                    "create-time": 1603157689695,
-                    "edit-email": "sachben91@gmail.com",
-                    "edit-time": 1603159059105,
-                    "props": {
-                      "POMO": 1603157699260
-                    },
-                    "string": "{{[[POMO]]: 25}}",
-                    "uid": "xKd2mx6da"
                   }
                 ],
                 "create-email": "sachben91@gmail.com",
@@ -12665,12 +12770,64 @@
             "uid": "-Yb2chASJ"
           },
           {
+            "children": [
+              {
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603418442622,
+                "string": "The upside of an extremely uncertain environment is that we have been free to indulge in pure speculation about the know knowns and unknown unknowns of the future. The result is\u00a0__Astonishing Stories__, an anthology of short speculative fiction developed from the networked thoughts of over 30 indie consultants.",
+                "uid": "in0euxjv8"
+              },
+              {
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603418442622,
+                "string": "Our working process is open and visible to all on our\u00a0[Roam graph](https://roamresearch.com/#/app/Astonishing_Stories/graph) where we developed provoking descriptions of objects from the near and far future using [The Thing From The Future. ](http://situationlab.org/project/the-thing-from-the-future/). The objects served as jumping off points for our authors as they tried to imagine a world in which the pandemic is the background event for other shifts. ",
+                "uid": "LLXYaGmca"
+              },
+              {
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603418442622,
+                "string": "The stories here are not meant to predict the future but to be imagination extenders for entrepreneurs and consultants navigating a post-COVID landscape.",
+                "uid": "U0297zXH4"
+              }
+            ],
             "create-email": "sachben91@gmail.com",
             "create-time": 1602962058634,
             "edit-email": "sachben91@gmail.com",
             "edit-time": 1602962160586,
             "string": "{{[[TODO]]}} Update description for Astonishing stories ",
             "uid": "FIW9VUFEu"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1603325889154,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603325922288,
+            "string": "{{[[TODO]]}} Timing for Yak Talk newsletter - confirm ",
+            "uid": "SF7i5DvOK"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1603326250419,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603326274267,
+            "string": "{{[[TODO]]}} Test Twittee login - [[Nathan Acks]]",
+            "uid": "rrzN00UP1"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1603418456897,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418464123,
+            "string": "[[Issue 1]]",
+            "uid": "XhVdILHfu"
+          },
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1603418464118,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418464118,
+            "string": "",
+            "uid": "AovF71hBs"
           }
         ],
         "create-email": "sachben91@gmail.com",
@@ -12696,8 +12853,26 @@
     "title": "TODO"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "sachben91@gmail.com",
+            "create-time": 1603503013345,
+            "edit-time": 1603615130098,
+            "string": "Bulgarian split Squat improve balance on left lef\n\n",
+            "uid": "tWWnfFLBB"
+          }
+        ],
+        "create-email": "sachben91@gmail.com",
+        "create-time": 1603503013345,
+        "edit-time": 1603615130098,
+        "string": "#[[Quick Capture]]",
+        "uid": "wMM4YN4uS"
+      }
+    ],
     "edit-email": "sachben91@gmail.com",
-    "edit-time": 1602961936917,
+    "edit-time": 1603615130098,
     "title": "October 23rd, 2020"
   },
   {
@@ -12710,22 +12885,23 @@
       {
         "create-email": "sachben91@gmail.com",
         "create-time": 1603161734982,
-        "edit-email": "sachben91@gmail.com",
-        "edit-time": 1603161739122,
-        "string": "/",
+        "edit-email": "j@djinna.com",
+        "edit-time": 1603202800802,
+        "string": "[[launch checklist]] created on weekly call #meeting-notes",
         "uid": "3W4tmcPgr"
+      },
+      {
+        "create-email": "j@djinna.com",
+        "create-time": 1603202801482,
+        "edit-email": "j@djinna.com",
+        "edit-time": 1603202801472,
+        "string": "",
+        "uid": "TeJRw2R0f"
       }
     ],
     "edit-email": "sachben91@gmail.com",
     "edit-time": 1603122787471,
     "title": "October 19th, 2020"
-  },
-  {
-    "create-email": "sachben91@gmail.com",
-    "create-time": 1603157693966,
-    "edit-email": "sachben91@gmail.com",
-    "edit-time": 1603157693968,
-    "title": "POMO"
   },
   {
     "create-email": "sachben91@gmail.com",
@@ -12738,5 +12914,183 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1603185605587,
     "title": "October 20th, 2020"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1603202800804,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1603202800805,
+    "title": "meeting-notes"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1603203051503,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1603203051504,
+    "title": "About"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1603203051511,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1603203051512,
+    "title": "Chief Page Wrangler"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1603203051525,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1603203051526,
+    "title": "Additional Page Wranglers"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1603203051543,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1603203051544,
+    "title": "Last Updated"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1603203051558,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1603203051559,
+    "title": "Last Gardened"
+  },
+  {
+    "create-email": "j@djinna.com",
+    "create-time": 1603203120543,
+    "edit-email": "j@djinna.com",
+    "edit-time": 1603203120544,
+    "title": "Jenna Dixon"
+  },
+  {
+    "edit-email": "nathanielchen8@gmail.com",
+    "edit-time": 1603277994817,
+    "title": "October 21st, 2020"
+  },
+  {
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1603396525037,
+    "title": "October 22nd, 2020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418505537,
+            "string": "{{[[DONE]]}} Final proof `/today` by [[Fname Lname]]",
+            "uid": "KiyJWVLSb"
+          },
+          {
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418504538,
+            "string": "{{[[DONE]]}} Footnotes of fragments `/today` by [[Fname Lname]]",
+            "uid": "0tVAYdra2"
+          },
+          {
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418501121,
+            "string": "{{[[DONE]]}} Author's bio `/today` by [[Fname Lname]]",
+            "uid": "8CneE89UU"
+          },
+          {
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418499851,
+            "string": "{{[[DONE]]}} Final artwork `/today` by [[Fname Lname]]",
+            "uid": "srApCTdq8"
+          },
+          {
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418503485,
+            "string": "{{[[DONE]]}} Letting author know before its published `/today` by [[Fname Lname]]",
+            "uid": "d2T_vvnlG"
+          },
+          {
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418467958,
+            "string": "{{[[TODO]]}} Proof on the website `/today` by [[Fname Lname]]",
+            "uid": "x1G2_tm7g"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "sachben91@gmail.com",
+                "edit-time": 1603418467958,
+                "string": "^^[[Nathan Acks]]: **NB** When should this go out? Remember, I'm on Mountain Time...^^ - 2ET",
+                "uid": "Yf2tBhPMB"
+              }
+            ],
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418467958,
+            "string": "{{[[TODO]]}} Tweeting when each story goes out `/today` by [[Nathan Acks]]",
+            "uid": "dvGfAOMlI"
+          },
+          {
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418509319,
+            "string": "{{[[DONE]]}} handover artwork and story snippet to Yak Talk team `/today` by [[Fname Lname]]",
+            "uid": "aH3eJ-iox"
+          },
+          {
+            "children": [
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1603473280617,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1603473280617,
+                "string": "\"Astonishing Stories\" is a short speculative fiction anthology developed from the networked thoughts of over 30 consultants.",
+                "uid": "UwQlkeMtW"
+              },
+              {
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1603473280621,
+                "string": "\"Wholeness in a Timeless Activity\" by @iam_nChen explores the future of restaurants through the perspective of a chef.",
+                "uid": "KXJKW8mq1"
+              },
+              {
+                "create-email": "roam@delphi-strategy.com",
+                "create-time": 1603473282145,
+                "edit-email": "roam@delphi-strategy.com",
+                "edit-time": 1603473289399,
+                "string": "https://www.yakcollective.org/projects/astonishing-stories/wholeness-in-a-timeless-activity/",
+                "uid": "HNJliPhDl"
+              }
+            ],
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1603473384590,
+            "string": "{{[[TODO]]}} Twitter, LinkedIn, Facebook template ",
+            "uid": "rHVEyZAY0"
+          },
+          {
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1603418467958,
+            "string": "",
+            "uid": "rv3z_EgeI"
+          }
+        ],
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1603418467958,
+        "heading": 1,
+        "string": "Checklist template for individual story launch",
+        "uid": "68LG6qKo6"
+      }
+    ],
+    "create-email": "sachben91@gmail.com",
+    "create-time": 1603418464124,
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1603418464125,
+    "title": "Issue 1"
+  },
+  {
+    "edit-time": 1603614428844,
+    "title": "October 25th, 2020"
+  },
+  {
+    "create-time": 1603615130105,
+    "edit-time": 1603615130107,
+    "title": "Quick Capture"
   }
 ]
