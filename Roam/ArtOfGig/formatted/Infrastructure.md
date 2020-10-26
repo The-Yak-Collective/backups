@@ -2,7 +2,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 - **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
-- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- **[Last Updated](<Last Updated.md>):** [October 25th, 2020](<October 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - 
 - ## Lists/Docs [needsupdate](<needsupdate.md>)
@@ -436,6 +436,29 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
     - AMA
     - What are the current 6 pages that are hot? 
     - or what's the status on each project? 
+- Infrastructure Chat 24 [October 25th, 2020](<October 25th, 2020.md>) [meeting-notes](<meeting-notes.md>)
+    - Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>) [Maier Fenster](<Maier Fenster.md>) [Paul Sas](<Paul Sas.md>) [Kacper Wikiel](<Kacper Wikiel.md>)
+    - Walked through website changes related to [Astonishing Stories](<Astonishing Stories.md>)
+        - These are temporary -- [Nathan Acks](<Nathan Acks.md>) is working on a new "widgetized" back end. Aiming to go live on [October 30th, 2020](<October 30th, 2020.md>)
+            - Project headers, Google slide shows, lists of writings, member cards, images, and more are now includable widgets
+            - Future website pages will not be constrained to a particular layout
+            - Some tweaks, like image positioning and fine-grained placement, still require CSS. Some "advanced" widgets will require knowledge of Liquid. But the goal is that people can build a good-looking page without knowing CSS or HTML or Liquid at all.
+            - Documentation will be on Roam + a set of template pages that can be used as reference/starter pages
+            - [Maier Fenster](<Maier Fenster.md>) calls this a "design language"
+                - Also: Should we revisit the existing website milestones? They don't seem as applicable anymore...
+    - Talked about building ebooks as part of the publishing flow
+        - [Nathan Acks](<Nathan Acks.md>) thinks we can do something quick-and-dirty using Pandoc
+            - https://pandoc.org/epub.html
+        - [Maier Fenster](<Maier Fenster.md>) suggests building the ePub file first, and then using an in-page ePub viewer
+            - https://github.com/futurepress/epub.js/
+        - Another possibility: Use two different site generators, one for the main body of the website, and another to build "subsites" like [Astonishing Stories](<Astonishing Stories.md>) + relevant ebook
+    - [Sachin Benny](<Sachin Benny.md>) points out that we still don't have Google Analytics access. [Nathan Acks](<Nathan Acks.md>) will follow up with [Tom Critchlow](<Tom Critchlow.md>).
+        - Worst-case scenario, we just call old data a loss and spin up a new account.
+    - Long-term, move some IFTTT automation into GitHub using Actionflow
+        - https://github.com/actionsflow/actionsflow
+        - [Maier Fenster](<Maier Fenster.md>) points out that this doesn't roll in the Google Calendar to [Discord](<Discord.md>) connector currently powered by [Zapier](<Zapier.md>)
+            - Best idea seems to be to use the server Maier's built the `yak_scraper` bot on
+            - We'll need [Venkatesh Rao](<Venkatesh Rao.md>) to add a new A record pointing to this server. Maybe hook it into `robot.yakcollective.org`?
 
 # Backlinks
 ## [**infrastructure**](<**infrastructure**.md>)

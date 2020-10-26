@@ -115,11 +115,19 @@ Last Updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 ## [Infrastructure](<Infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
 
-- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- **[Last Updated](<Last Updated.md>):** [October 25th, 2020](<October 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)
 
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>)
+
+- Attendees: [Nathan Acks](<Nathan Acks.md>)
+
+- These are temporary -- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Sachin Benny](<Sachin Benny.md>) points out that we still don't have Google Analytics access. [Nathan Acks](<Nathan Acks.md>)
 
 ## [Knack.com](<Knack.com.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)

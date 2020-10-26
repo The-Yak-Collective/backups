@@ -9,7 +9,7 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Infrastructure](<Infrastructure.md>)
-- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- **[Last Updated](<Last Updated.md>):** [October 25th, 2020](<October 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Privacy Policy](<Privacy Policy.md>)

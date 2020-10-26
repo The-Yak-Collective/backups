@@ -18,6 +18,9 @@
 ## [Forte Shelter Container Tour - overview](<Forte Shelter Container Tour - overview.md>)
 - by [Paul Sas](<Paul Sas.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>) [Maier Fenster](<Maier Fenster.md>) [Paul Sas](<Paul Sas.md>)
+
 ## [October 22nd, 2020](<October 22nd, 2020.md>)
 - [x] [Paul Sas](<Paul Sas.md>)
 

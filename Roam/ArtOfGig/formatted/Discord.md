@@ -29,6 +29,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Discord](<Discord.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- [Maier Fenster](<Maier Fenster.md>) points out that this doesn't roll in the Google Calendar to [Discord](<Discord.md>)
+
 ## [Knack.com](<Knack.com.md>)
 - Minimal information from [Discord](<Discord.md>)
 

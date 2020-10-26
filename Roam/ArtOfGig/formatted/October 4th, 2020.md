@@ -13,8 +13,6 @@
 Last Updated:: [October 4th, 2020](<October 4th, 2020.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-- **[Last Updated](<Last Updated.md>):** [October 4th, 2020](<October 4th, 2020.md>)
-
 - Infrastructure Chat 21 [October 4th, 2020](<October 4th, 2020.md>)
 
 ## [Roam Gardening](<Roam Gardening.md>)

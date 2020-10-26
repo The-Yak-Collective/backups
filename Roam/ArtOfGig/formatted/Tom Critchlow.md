@@ -60,6 +60,9 @@
 
 - [Tom Critchlow](<Tom Critchlow.md>):
 
+## [Infrastructure](<Infrastructure.md>)
+- [Sachin Benny](<Sachin Benny.md>) points out that we still don't have Google Analytics access. [Nathan Acks](<Nathan Acks.md>) will follow up with [Tom Critchlow](<Tom Critchlow.md>).
+
 ## [Sparring Consulting](<Sparring Consulting.md>)
 - Thoughts / Questions from [Tom Critchlow](<Tom Critchlow.md>)
 

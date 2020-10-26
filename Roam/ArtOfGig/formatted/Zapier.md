@@ -9,6 +9,9 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Zapier](<Zapier.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- [Maier Fenster](<Maier Fenster.md>) points out that this doesn't roll in the Google Calendar to [Discord](<Discord.md>) connector currently powered by [Zapier](<Zapier.md>)
+
 ## [September 24th, 2020](<September 24th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) clarified the role of [Zapier](<Zapier.md>)
 

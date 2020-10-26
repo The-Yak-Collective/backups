@@ -13,6 +13,11 @@
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - Template and content updates for the upcoming [Astonishing Stories](<Astonishing Stories.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- Walked through website changes related to [Astonishing Stories](<Astonishing Stories.md>)
+
+- Another possibility: Use two different site generators, one for the main body of the website, and another to build "subsites" like [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - [ ] review: [Astonishing Stories](<Astonishing Stories.md>)
 

@@ -96,6 +96,11 @@
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>)
+
+- [Sachin Benny](<Sachin Benny.md>)
+
 ## [LinkedIn](<LinkedIn.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 

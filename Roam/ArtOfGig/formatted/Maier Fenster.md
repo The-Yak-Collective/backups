@@ -35,6 +35,14 @@
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+- Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>) [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Knack.com](<Knack.com.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
