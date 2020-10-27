@@ -128,7 +128,7 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 ## [October 23rd, 2020](<October 23rd, 2020.md>)
 - Updated the [Facebook](<Facebook.md>) and [LinkedIn](<LinkedIn.md>) [IT Infrastructure](<IT Infrastructure.md>)
 
-- [Jenna Dixon](<Jenna Dixon.md>) gardened to add new \template\header to [IT Infrastructure](<IT Infrastructure.md>)
+[IT Infrastructure](<IT Infrastructure.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) added [Discussions & Decisions](https://roamresearch.com/#/app/ArtOfGig/page/GfLUKnfjQ) sections to the [IT Infrastructure](<IT Infrastructure.md>)

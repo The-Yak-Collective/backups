@@ -24,7 +24,7 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 ## [October 23rd, 2020](<October 23rd, 2020.md>)
 - Updated the [Facebook](<Facebook.md>) and [LinkedIn](<LinkedIn.md>)
 
-- [Jenna Dixon](<Jenna Dixon.md>) gardened to add new \template\header to [IT Infrastructure](<IT Infrastructure.md>) [Facebook](<Facebook.md>) [LinkedIn](<LinkedIn.md>)
+[IT Infrastructure](<IT Infrastructure.md>) [Facebook](<Facebook.md>) [LinkedIn](<LinkedIn.md>)
 
 ## [Threat Model](<Threat Model.md>)
 - [LinkedIn](<LinkedIn.md>)
