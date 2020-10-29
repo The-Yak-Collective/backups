@@ -9,6 +9,9 @@
 ## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
 - **[About](<About.md>):**
 
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[About](<About.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[About](<About.md>):**
 

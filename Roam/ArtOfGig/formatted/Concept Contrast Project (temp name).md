@@ -84,6 +84,9 @@
 ## [Infrastructure](<Infrastructure.md>)
 - [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 
+## [October 28th, 2020](<October 28th, 2020.md>)
+- based on [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
+
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 

@@ -36,6 +36,9 @@
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>)
 
+## [October 28th, 2020](<October 28th, 2020.md>)
+- [x] [Hershil Patel](<Hershil Patel.md>)
+
 ## [Production Cell](<Production Cell.md>)
 - [Hershil Patel](<Hershil Patel.md>)
 

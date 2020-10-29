@@ -11731,12 +11731,6 @@
                   },
                   {
                     "edit-email": "j@djinna.com",
-                    "edit-time": 1602544161724,
-                    "string": "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
-                    "uid": "upEZlclsc"
-                  },
-                  {
-                    "edit-email": "j@djinna.com",
                     "edit-time": 1602544165691,
                     "string": "03 [[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) ",
                     "uid": "gxTA6agA_"
@@ -11762,6 +11756,12 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "1YBPRfM4h"
+                  },
+                  {
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1602544161724,
+                    "string": "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
+                    "uid": "upEZlclsc"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -11784,14 +11784,6 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "2vwqbiZg3"
-                  },
-                  {
-                    "create-email": "sachben91@gmail.com",
-                    "create-time": 1598311958493,
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1602544153344,
-                    "string": "01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
-                    "uid": "8yEaJjIrg"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -11818,6 +11810,14 @@
                     "edit-time": 1600732961791,
                     "string": "",
                     "uid": "su_JGTYcA"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1598311958493,
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1602544153344,
+                    "string": "01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
+                    "uid": "8yEaJjIrg"
                   }
                 ],
                 "edit-email": "j@djinna.com",
@@ -13094,13 +13094,33 @@
     "title": "Quick Capture"
   },
   {
-    "edit-email": "yakcollective.org@gmail.com",
-    "edit-time": 1603704181002,
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1603937266900,
     "title": "October 26th, 2020"
   },
   {
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1603790499558,
     "title": "October 27th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "sachben91@gmail.com",
+        "create-time": 1603937282014,
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1603937282014,
+        "string": "",
+        "uid": "v1DrS50gR"
+      }
+    ],
+    "edit-email": "sachben91@gmail.com",
+    "edit-time": 1603937261994,
+    "title": "October 28th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1603963315051,
+    "title": "October 29th, 2020"
   }
 ]

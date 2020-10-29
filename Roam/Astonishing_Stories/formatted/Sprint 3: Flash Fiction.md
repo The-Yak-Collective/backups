@@ -65,19 +65,19 @@
             - ^^**copyeditor**
 [Fname Lname](<Fname Lname.md>)^^ 
 ^^**illustrator** [Justice](<Justice.md>)^^
-            - 02 [Ben Smith](<Ben Smith.md>) [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
             - 03 [Scott Garlinger](<Scott Garlinger.md>) [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) 
         - layout
             - ^^**webdev**
 [Nathan Acks](<Nathan Acks.md>)^^
             - tk
+            - 02 [Ben Smith](<Ben Smith.md>) [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
         - proofread
 
             - ^^**proofreader**
 [Amanda Reeves](<Amanda Reeves.md>)^^
             - tk
-            - 01 [Nathan Chen](<Nathan Chen.md>) [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)
         - publish
             - ^^**webdev**
 [Nathan Acks](<Nathan Acks.md>)^^
             - 
+            - 01 [Nathan Chen](<Nathan Chen.md>) [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)

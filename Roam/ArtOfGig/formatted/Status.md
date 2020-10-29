@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
+- **[Status](<Status.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - **[Status](<Status.md>):**

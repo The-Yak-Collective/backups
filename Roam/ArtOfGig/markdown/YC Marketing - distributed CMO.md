@@ -5,8 +5,11 @@
 - Last Updated By:: [[Hugo Macedo]]
 - 
 - ### Meeting Notes 
+    - Weekly meeting on Wednesdays at 5pm GMT on Discord
     - {{[[query]]: {and: [[YC Marketing - distributed CMO]] [[meeting-notes]]}}}
     - 
+- ### TODO 
+    - {{[[query]]: {and: [[TODO]] [[YC Marketing - distributed CMO]]}}}
 - 
 - # Background
     - request for help on establishing a YakC Marketing function 
@@ -44,7 +47,7 @@ __Area 2: Developing a proper marketing capability around our assets and members
     - Workflows - how the team operates, coordinates and communicates
         - channels & tools
             - `yc-marketing` discord channel 
-        - recurring calls
+        - Weekly calls - Wednesday at 5pm GMT
 - # Workstreams
     - [[Foundations - Positioning]]
 all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning

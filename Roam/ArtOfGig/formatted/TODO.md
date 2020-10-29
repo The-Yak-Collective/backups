@@ -140,6 +140,19 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [October 28th, 2020](<October 28th, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - ^^{{[TODO](<TODO.md>)}
 
@@ -225,6 +238,8 @@
 - {{[TODO](<TODO.md>)}
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- {{[query](<query.md>): {and: [TODO](<TODO.md>)
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

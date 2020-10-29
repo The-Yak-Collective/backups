@@ -1,6 +1,11 @@
 - 
 
 # Backlinks
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
+
+- **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 
@@ -59,6 +64,9 @@
 - "[Maier Fenster](<Maier Fenster.md>)
 
 ## [October 22nd, 2020](<October 22nd, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
+
+## [October 28th, 2020](<October 28th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)

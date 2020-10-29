@@ -10,6 +10,10 @@
 - **[Created](<Created.md>):** [October 1st, 2020](<October 1st, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
 - **[Last Updated](<Last Updated.md>):**
 
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[Created](<Created.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Created](<Created.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Updated](<Last Updated.md>):**

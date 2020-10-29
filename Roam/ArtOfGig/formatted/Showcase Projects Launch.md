@@ -46,6 +46,9 @@
         - 
 
 # Backlinks
+## [October 28th, 2020](<October 28th, 2020.md>)
+- [ ] [Showcase Projects Launch](<Showcase Projects Launch.md>)
+
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - Urgent - "[Showcase Projects Launch](<Showcase Projects Launch.md>)
 

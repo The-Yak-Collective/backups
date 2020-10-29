@@ -4,6 +4,10 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Grigori Milov](<Grigori Milov.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Rafael Fernandez](<Rafael Fernandez.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**

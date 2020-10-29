@@ -10,6 +10,10 @@
 - **[About](<About.md>):** __Marketing Launch plan for Astonishing Stories project__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[Page Type](<Page Type.md>):** [Project](<Project.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

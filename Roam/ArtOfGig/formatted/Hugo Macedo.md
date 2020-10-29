@@ -69,6 +69,9 @@
 ## [October 22nd, 2020](<October 22nd, 2020.md>)
 - [x] [Hugo Macedo](<Hugo Macedo.md>)
 
+## [October 28th, 2020](<October 28th, 2020.md>)
+- [x] [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - 08:39 [Jenna Dixon](<Jenna Dixon.md>) joining [Hugo Macedo](<Hugo Macedo.md>)
 

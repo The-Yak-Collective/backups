@@ -48,6 +48,13 @@
 ## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Grigori Milov](<Grigori Milov.md>)
+
+- **[Created](<Created.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
+
+- **[Last Updated](<Last Updated.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
+
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
@@ -98,6 +105,11 @@
 
 ## [October 22nd, 2020](<October 22nd, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)
+
+## [October 28th, 2020](<October 28th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- Roampage with present the project and each model #[Grigori Milov](<Grigori Milov.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)

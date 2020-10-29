@@ -5,8 +5,11 @@
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 - 
 - ### Meeting Notes 
+    - Weekly meeting on Wednesdays at 5pm GMT on Discord
     - {{[query](<query.md>): {and: [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) [meeting-notes](<meeting-notes.md>)}}}
     - 
+- ### TODO 
+    - {{[query](<query.md>): {and: [TODO](<TODO.md>) [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)}}}
 - 
 - # Background
     - request for help on establishing a YakC Marketing function 
@@ -44,7 +47,7 @@ __Area 2: Developing a proper marketing capability around our assets and members
     - Workflows - how the team operates, coordinates and communicates
         - channels & tools
             - `yc-marketing` discord channel 
-        - recurring calls
+        - Weekly calls - Wednesday at 5pm GMT
 - # Workstreams
     - [Foundations - Positioning](<Foundations - Positioning.md>)
 all foundational topics related to the value proposition, benefits, barriers, target personas, [branding](<branding.md>), [positioning](<positioning.md>)
@@ -190,6 +193,9 @@ Yaks competing for attention
 ## [October 22nd, 2020](<October 22nd, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [October 28th, 2020](<October 28th, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
@@ -204,4 +210,6 @@ Yaks competing for attention
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - {{[query](<query.md>): {and: [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+- {{[query](<query.md>): {and: [TODO](<TODO.md>) [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)}
 
