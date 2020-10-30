@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
-- Developing two contrasting roadmaps for further developing Yak Collective Narratives
+- Developing two contrasting roadmaps for further developing Yak Collective narratives
     - **[Deliverable](<Deliverable.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)

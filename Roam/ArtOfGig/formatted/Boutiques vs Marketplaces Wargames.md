@@ -4,65 +4,38 @@
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 - **[Created](<Created.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
 - **[Last Updated](<Last Updated.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
-- **[Last Gardened](<Last Gardened.md>):** [October 29, 2020](<October 29, 2020.md>) Please, Don't
-- **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
+- **[Last Gardened](<Last Gardened.md>):** [October 29, 2020](<October 29, 2020.md>) ^^Please, Don't^^
+- **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^👍
 - **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
-    - **[jobs](<jobs.md>):** Two Teams, Two Team Leads: Team Red (Marketplace) and Team Blue (Boutique)
-    - **[how else you can help](<how else you can help.md>):** Join any of the teams. Each team has to decide how to structure itself.
+    - **[jobs](<jobs.md>):** Two Teams, Two Team Leads: E.g. Team Red Pill (Marketplace) and Team Blue Pill (Boutique)
+    - **[how else you can help](<how else you can help.md>):** Join any of the teams based on initial assessment of the . Can't join both. Each team has to decide how to structure itself. Will have to explain the decisions.
 - **[Meta](<Meta.md>):**
     - **[This project is about](<This project is about.md>):**
-        - Developing two contrasting roadmaps for further developing Yak Collective Narratives
+        - Developing two contrasting roadmaps for further developing Yak Collective narratives
     - **[Deliverable](<Deliverable.md>):**
         - Two short Pitch Decks
-        - **[a process for generating such position papers](<a process for generating such position papers.md>):**
-            - a framework for developing Pitch Decks fast
-            - instructions for generating them
+        - **[a process for generating such pitch decks](<a process for generating such pitch decks.md>):**
     - **[Project size](<Project size.md>):**
         - medium
-    - **[3 intermediate milestones](<3 intermediate milestones.md>):**
-        - XX on YY meets requirement ZZ
+    - **[2 intermediate milestones](<2 intermediate milestones.md>):**
+        - Decks will be judged internally on quality of the decks and team presentations. The criteria will not be disclosed to the teams until after the presentations. We will have scores but there will be no losers. 
     - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):**
-    - **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
-    - **[Also in project](<Also in project.md>):** [Mike Baxter](<Mike Baxter.md>)
+    - **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>) & [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&[Mike Baxter](<Mike Baxter.md>)
+    - **[Also in project](<Also in project.md>):** 
     - **[Why you should join](<Why you should join.md>):**
-        - tk
+        - You can learn a lot
     - **[Intended audience](<Intended audience.md>):**
-        - **[Who](<Who.md>):**
-            - Option 1: early stage founders
-                - **[Value for them](<Value for them.md>):**
-                    - Realizing that and how they can take advantage of consultants
-                        - in particular use them instead of hiring certain talents that cannot be found, fed, satisfied or used
-                        - in particular, instead of looking for co-founder, look for partnership with a indie-consulting collective which acts as **a flexible brain** 
-                        - cofounders are units vs. YC is a fragmentation of brains
-                        - consultants act as brain (processing ideas) less as workforce (building product)
-                        - consultants should act as accelerators (inwards of company) and leverage (outward of company), not as exchange (consultant should create ability and sustainability =  teach more than they learn)
-                    - Understanding that the value of a consultant depends on the difference between cost of lack of expertise and difficult of onboarding 
-            - Option 2: Department / Division / Brand leads in enterprise-scale organisations [Mike Baxter](<Mike Baxter.md>)
-                - **[Value for them](<Value for them.md>):**
-                    - more control and autonomy
-                        - Big-3 consultancy firms are usually very expensive and hence are budgeted and managed centrally
-                        - A lower cost, more agile delivery mechanism could put consultancy within reach of department, division, territory or brand managers
+        - **[Who](<Who.md>):** Internal Audience: Consultants and Aspiring Consultants. The idea is to learn as much as we can about current state of YC and to shape its future
         - **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**
-            - contrast- what is not this concept
-            - what problems should be related to this concept (what issues should recall this concept) = examples of a few common business problems that should be related to this concept
-            - how the YC can provide this concept
-        - **[Value for YC](<Value for YC.md>):**
-            - yaks are eminently suitable for ESSU because they are flexible and do not need a lot of runway to deliver the MLCC (minimal life-changing consulting)
-            - help prospective clients figure out what they can get form working with YC
+            - What is that we are trying to do at YC?
+            - How do we proceed building up capabilities, processes and structures to achieve the goal?
+            - What are the possible outcomes for the org and individuals involved?
+        - **[Value for YC](<Value for YC.md>):** Clarity, Transparency, Motivation, Momentum. May affect governance structure as well. 
     - **[Help wanted](<Help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
-        - [October 18th, 2020](<October 18th, 2020.md>) [meeting-notes](<meeting-notes.md>)
-            - next step - choose a don't waste the report slide and build a deliverable from it
-                - choose a concept
-                - get permission
-                - draft something, at least the contrast
-    - **[Relevant files and drafts (Graph or website or google docs)](<Relevant files and drafts (Graph or website or google docs).md>):**
-    - **[Genesis](<Genesis.md>):**
-        - https://discordapp.com/channels/692111190851059762/706606552819433482/766052418219147274
-            - We were talking about viable old-fashioned journalism opportunity?
 
-            - My suggestion is: we have the power to call out new controversial perspectives.
-            - MVP Recommendation: find companies which are already going against the grain.
-            - Scalability: take the approach, generalise and take to potential clients
-        - Comments (Rafael) - Specifically, I was envisioning a short article regarding investigating organizations that are already pursuing alternative strategies to traditional consulting perspective. I consider the traditional consulting perspective to be central command and control. I think in the Reboot deck, they explain this in some examples.
+# Backlinks
+## [October 29th, 2020](<October 29th, 2020.md>)
+- [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+

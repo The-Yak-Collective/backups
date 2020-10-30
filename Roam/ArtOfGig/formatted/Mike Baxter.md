@@ -5,9 +5,7 @@
 
 # Backlinks
 ## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
-- **[Also in project](<Also in project.md>):** [Mike Baxter](<Mike Baxter.md>)
-
-- Option 2: Department / Division / Brand leads in enterprise-scale organisations [Mike Baxter](<Mike Baxter.md>)
+- **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>) & [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&[Mike Baxter](<Mike Baxter.md>)
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Also in project](<Also in project.md>):** [Mike Baxter](<Mike Baxter.md>)

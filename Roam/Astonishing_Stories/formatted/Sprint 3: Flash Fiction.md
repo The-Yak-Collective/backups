@@ -70,12 +70,12 @@
             - ^^**webdev**
 [Nathan Acks](<Nathan Acks.md>)^^
             - tk
-            - 02 [Ben Smith](<Ben Smith.md>) [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
         - proofread
 
             - ^^**proofreader**
 [Amanda Reeves](<Amanda Reeves.md>)^^
             - tk
+            - 02 [Ben Smith](<Ben Smith.md>) [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
         - publish
             - ^^**webdev**
 [Nathan Acks](<Nathan Acks.md>)^^

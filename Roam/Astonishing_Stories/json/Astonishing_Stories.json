@@ -11756,12 +11756,6 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "1YBPRfM4h"
-                  },
-                  {
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1602544161724,
-                    "string": "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
-                    "uid": "upEZlclsc"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -11784,6 +11778,12 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "2vwqbiZg3"
+                  },
+                  {
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1602544161724,
+                    "string": "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
+                    "uid": "upEZlclsc"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -13122,5 +13122,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1603963315051,
     "title": "October 29th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1604049457063,
+    "title": "October 30th, 2020"
   }
 ]

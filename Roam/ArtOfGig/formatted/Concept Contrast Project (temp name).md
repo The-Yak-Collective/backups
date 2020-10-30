@@ -23,8 +23,8 @@
             - a frame for yak engagement with readers of the papers.
     - **[Project size](<Project size.md>):**
         - small
-    - **[3 intermediate milestones](<3 intermediate milestones.md>):**
-        - XX on YY meets requirement ZZ
+    - **[2 intermediate milestones](<2 intermediate milestones.md>):**
+        - We will probably perform two separate sprints and two evaluations an initial one with extensive feedback and a final one.
     - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):**
     - **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
     - **[Also in project](<Also in project.md>):** [Mike Baxter](<Mike Baxter.md>)

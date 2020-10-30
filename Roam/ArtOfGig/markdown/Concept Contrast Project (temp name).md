@@ -23,8 +23,8 @@
             - a frame for yak engagement with readers of the papers.
     - Project size::
         - small
-    - 3 intermediate milestones::
-        - XX on YY meets requirement ZZ
+    - 2 intermediate milestones::
+        - We will probably perform two separate sprints and two evaluations an initial one with extensive feedback and a final one.
     - Referees (non-participating reviewers)::
     - Project lead:: [[Rafael Fernandez]] & [[Maier Fenster]]
     - Also in project:: [[Mike Baxter]]

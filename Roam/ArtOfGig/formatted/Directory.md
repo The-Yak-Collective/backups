@@ -205,6 +205,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
     - "Aspirational free-agent, currently full-time employed as a [Software Architect](<Software Architect.md>) at a fairly large software company."
     - "Website: https://www.howell.io/"
     - "Twitter: [@dehowell](http://twitter.com/dehowell)"
+- [Shakir Hussain](<Shakir Hussain.md>)
 - [David Ing](<David Ing.md>)
     - {{embed: ((C561qT2If))}}
 - [Richard Hughes-Jones](<Richard Hughes-Jones.md>)

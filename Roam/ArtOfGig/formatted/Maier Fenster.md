@@ -4,7 +4,7 @@
 ## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 
-- **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
+- **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>) & [Maier Fenster](<Maier Fenster.md>)&
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)

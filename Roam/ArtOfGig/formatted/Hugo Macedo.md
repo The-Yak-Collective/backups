@@ -33,6 +33,9 @@
 
 - **[Last Updated](<Last Updated.md>):** [October 1st, 2020](<October 1st, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>) & [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&
+
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 

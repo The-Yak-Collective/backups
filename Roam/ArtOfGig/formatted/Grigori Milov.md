@@ -55,6 +55,8 @@
 
 - **[Last Updated](<Last Updated.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
 
+- **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>)
+
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
@@ -110,6 +112,9 @@
 - [x] [Grigori Milov](<Grigori Milov.md>)
 
 - Roampage with present the project and each model #[Grigori Milov](<Grigori Milov.md>)
+
+## [October 29th, 2020](<October 29th, 2020.md>)
+- [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>) kickoff [Grigori Milov](<Grigori Milov.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)

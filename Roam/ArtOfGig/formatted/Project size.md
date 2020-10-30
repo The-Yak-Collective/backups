@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
-- instructions for generating them
+- **[a process for generating such pitch decks](<a process for generating such pitch decks.md>):**
     - **[Project size](<Project size.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
