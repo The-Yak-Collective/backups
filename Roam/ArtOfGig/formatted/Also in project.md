@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
-- **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>) & [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&[Mike Baxter](<Mike Baxter.md>)
+- [Maier Fenster](<Maier Fenster.md>) too many project leads. should be just one. at most two. here, due to conflict, i suggest one, to prevent side taking, maybe grigori.
     - **[Also in project](<Also in project.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)

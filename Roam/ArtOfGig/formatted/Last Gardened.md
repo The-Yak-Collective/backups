@@ -12,6 +12,10 @@
 - **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[Last Updated](<Last Updated.md>):** [October 25th, 2020](<October 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):**
@@ -25,6 +29,10 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 

@@ -54,7 +54,3 @@
 - **[Last Updated](<Last Updated.md>):** [September 26th, 2020](<September 26th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
-## [Yak Collective Governance](<Yak Collective Governance.md>)
-- **[Last Updated](<Last Updated.md>):** `/today`
-- **[Last Updated By](<Last Updated By.md>):**
-

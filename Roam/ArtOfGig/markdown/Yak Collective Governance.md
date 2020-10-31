@@ -1,9 +1,9 @@
 - About:: __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]] 
-- Last Updated:: `/today`
-- Last Updated By:: [[Fname Lname]]
+- Last Updated:: [[October 30th, 2020]] By:: [[Jenna Dixon]]
 -  
+- 
 - As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...
 - **Completed Readings**
     - [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
@@ -27,10 +27,12 @@
         - https://www.mountaingoatsoftware.com/blog/the-fallacy-of-one-throat-to-choke
         - https://agileforall.com/agile-pondering-is-it-agile-to-have-a-single-wringable-neck/
         - https://tobeagile.com/the-single-wringable-neck/
-- **Queued** (Governance track -- Venkat)
-    - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
     - Libertarians and bears, [The town that went feral](https://newrepublic.com/article/159662/libertarian-walks-into-bear-book-review-free-town-project?fbclid=IwAR0zeB-yuJKpDQkTVye1NwbUz5lf4DoPNIIlINWtN6YGaYGkSjqt9TEs6_o)
     - Bear management vs wolf slaughter, [Frank Chimero talk](https://frankchimero.com/blog/2014/only-openings/)
+- **Queued** (Governance track -- Venkat)
+    - [Hurling Frootmig principle](https://sites.google.com/site/h2g2theguide/Index/h/206017)
+    - [Wind in the Willow principle](https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29)
+    - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
 - **Queued** (Platforms track -- Grigori)
     - [Frederic Laloux points out the fragility of platforms. It is not the first time he is talking about it, of course.](https://www.rolandberger.com/en/Point-of-View/Frederic-Laloux-on-what-lies-ahead-for-business.html)
         - "There are not that many leaders yet who have internalized this new paradigm and can adopt the coherent set of management practices it calls for. But even when you have such a leader, there often remains a risk one level up: the board of directors. It's happened with more than one of these new organizations that the board at some point pulled the plug: "This is all working really well, but this is all a mystery to us. Let's put in a CEO that will do that top-down thing we understand and trust."
@@ -107,6 +109,7 @@ https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
 - [[09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces]]
 - [[September 25th, 2020]] [[YC Gov Chat Minutes - Netflix culture deck]]
 - [[October 23rd, 2020]] [[YC Gov Chat Minutes - AMA Mike Baxter]]
+- [[October 30th, 2020]] [[YC Gov Chat Minutes - Master Operating Principle]]
 - 
 - 
 - 

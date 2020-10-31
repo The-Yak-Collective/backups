@@ -14,17 +14,24 @@
     - This project is about::
         - Developing two contrasting roadmaps for further developing Yak Collective narratives
     - Deliverable::
-        - Two short Pitch Decks
+        - Two short Pitch Decks. one for each position. [[Maier Fenster]] - feel free to change these definitions, for now
+            - YC should be a marketplace for matching yaks/yak teams with clients in need, perhaps a newly created market
+            - YC should act as a boutique consulting service, with a small number of niches. which ones?
+        - a debate (TBD) which the pitch decks are presented, a panel asks questions, etc.
         - a process for generating such pitch decks::
+            - which we hope can be used outside the yak collective
     - Project size::
         - medium
     - 2 intermediate milestones::
         - Decks will be judged internally on quality of the decks and team presentations. The criteria will not be disclosed to the teams until after the presentations. We will have scores but there will be no losers. 
     - Referees (non-participating reviewers)::
     - Project lead:: [[Grigori Milov]] & [[Maier Fenster]]&[[Hugo Macedo]]&[[Mike Baxter]]
+        - [[Maier Fenster]] too many project leads. should be just one. at most two. here, due to conflict, i suggest one, to prevent side taking, maybe grigori.
     - Also in project:: 
+        - [[maier fenster]] we actually need two deputies here, one for each approach, AND each approach should have "also in project"
     - Why you should join::
-        - You can learn a lot
+        - You can learn a lot about marketplace and matching up skills to potential clients. Y
+        - You can change the way(s) the yak collective develops and works
     - Intended audience::
         - Who:: Internal Audience: Consultants and Aspiring Consultants. The idea is to learn as much as we can about current state of YC and to shape its future
         - Questions to be answered by deliverable::

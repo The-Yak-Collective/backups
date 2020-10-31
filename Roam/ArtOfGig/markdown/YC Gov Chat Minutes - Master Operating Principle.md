@@ -1,0 +1,43 @@
+- About:: __XXX__
+- Chief Page Wrangler:: [[Venkatesh Rao]]
+    - Additional Page Wranglers:: [[Jenna Dixon]] | [[Fname Lname]]
+- Created:: [[October 30th, 2020]] by [[Jenna Dixon]]
+- Last Updated:: `/today` by [[Fname Lname]]
+- Last Gardened:: `/today` by [[Fname Lname]]
+- 
+- Attendees::
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F_CTIS_xcWZ.png?alt=media&token=0beb10d5-b28f-4b5c-8332-8edfa3229268)
+- Readings::
+    - [[Venkatesh Rao]]
+    - https://discord.com/channels/692111190851059762/698566364595486720/771750608977920060
+    - We will read 3 very short extracts today in the governance chat. A bit from Hitchhikers Guide, a bit from the Wind in the Willows, and wikipedia page on the CAP theorem. Together all 3 should take under 10 minutes.
+    - 1. Hurling Frootmig principle: https://sites.google.com/site/h2g2theguide/Index/h/206017
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FtP2ktIw4_L.png?alt=media&token=cdf63514-188f-4c12-9fae-fb69e758905d)
+    - 2. Vanishing Otter norm: https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29
+        - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wind_in_the_Willows.djvu/page29-1024px-Wind_in_the_Willows.djvu.jpg)
+    - 3. CAP theorem: https://en.wikipedia.org/wiki/CAP_theorem
+        - [Consistency](https://en.wikipedia.org/wiki/Consistency_model): Every read receives the most recent write or an error
+        - [Availability](https://en.wikipedia.org/wiki/Availability): Every request receives a (non-error) response, without the guarantee that it contains the most recent write
+        - [Partition tolerance](https://en.wikipedia.org/wiki/Network_partitioning): The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+    - The goal/prompt: try and conceptually connect these into a master operating principle for YC. We will wrap the governance chat at 9:30 and then do a quick chat on the #future-frontiers project. Join for either/both.
+    - update: pick two of three
+- 
+- Discussion::
+    - [[Sachin Benny]]
+        - tk
+    - [[Jordan Peacock]]
+        - tk
+    - [[Jenna Dixon]]
+        - volunteer v paid gigs distinction
+        - in production the triangle is good-fast-cheap
+    - [[Grigori Milov]]
+        - tk
+    - [[Scott Garlinger]]
+        - tk
+    - [[ritesh]]
+        - tk
+    - [[Anuraj R]]
+        - tk
+    - [[Venkatesh Rao]]
+        - tk
+    - 

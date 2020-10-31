@@ -21,6 +21,9 @@
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - **[About](<About.md>):**
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[About](<About.md>):**
+
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[About](<About.md>):**
 
@@ -49,6 +52,9 @@
 - **[About](<About.md>):**
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
+- **[About](<About.md>):**
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[About](<About.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)

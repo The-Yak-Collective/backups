@@ -171,6 +171,9 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -373,6 +376,13 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - +1 to David’s point. I’ve never successfully structured a gig around a tool or idea just because I wanted to apply it or thought they needed it. The only thing you sell is solutions to problems. Creating problems corresponding to tools (in the good sense) is a mob for books rather than gigs.[Venkatesh Rao](<Venkatesh Rao.md>)
 
 - Think potential energy. Build up an asset and network over years. Don’t look for ways to generate leads from a cold start in weeks. What you do now might get you leads in 2021. Think leadgen with a min 12 month horizon - [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)

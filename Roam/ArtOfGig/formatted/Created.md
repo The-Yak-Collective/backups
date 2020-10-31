@@ -12,6 +12,10 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 - **[Created](<Created.md>):**
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+- **[Created](<Created.md>):**
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 - **[Created](<Created.md>):**
@@ -22,6 +26,10 @@
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+- **[Created](<Created.md>):**
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>) | [Fname Lname](<Fname Lname.md>)
 - **[Created](<Created.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)

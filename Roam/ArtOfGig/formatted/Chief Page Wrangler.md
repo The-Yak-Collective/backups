@@ -26,6 +26,10 @@
 - For one-off meetings, please coordinate among yourselves and post to the events channel or other appropriate channel. These will not be added to the group calendar unless it is a major one like a town hall.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[About](<About.md>):** __The Rat hummed a tune, and the Mole recollected that animal-etiquette forbade any sort of comment on the sudden disappearance of one's friends at any moment, for any reason or no reason whatever.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
@@ -74,6 +78,10 @@
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[About](<About.md>):** __weekly online-governance-chat minutes__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- **[About](<About.md>):** __XXX__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)

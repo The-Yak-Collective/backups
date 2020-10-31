@@ -60,6 +60,9 @@
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>)
+
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_15_6) | **[Grigori Milov](<Grigori Milov.md>)
 
@@ -162,6 +165,9 @@ But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>) [Grigori Milov](<Grigori Milov.md>)
 
 - [Innovation Consulting](<Innovation Consulting.md>) - WTF happened to it? [Grigori Milov](<Grigori Milov.md>)
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- [Grigori Milov](<Grigori Milov.md>)
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [Grigori Milov](<Grigori Milov.md>)

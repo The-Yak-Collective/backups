@@ -31,6 +31,11 @@
 
 Created:: `/today` by [Fname Lname](<Fname Lname.md>)
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - ^^[Fname Lname](<Fname Lname.md>)^
 
@@ -88,6 +93,13 @@ Created:: `/today` by [Fname Lname](<Fname Lname.md>)
 
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>) | [Fname Lname](<Fname Lname.md>)
+
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
 
@@ -104,8 +116,6 @@ Created:: `/today` by [Fname Lname](<Fname Lname.md>)
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>)
-
-- **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - [Fname Lname](<Fname Lname.md>)

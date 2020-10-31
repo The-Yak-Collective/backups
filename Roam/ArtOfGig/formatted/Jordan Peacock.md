@@ -149,6 +149,9 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/[comment-271146](<comment-271146.md>) [Jordan Peacock](<Jordan Peacock.md>)
 
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- [Jordan Peacock](<Jordan Peacock.md>)
+
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)
 

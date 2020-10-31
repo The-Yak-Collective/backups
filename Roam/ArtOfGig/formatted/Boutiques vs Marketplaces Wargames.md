@@ -14,17 +14,24 @@
     - **[This project is about](<This project is about.md>):**
         - Developing two contrasting roadmaps for further developing Yak Collective narratives
     - **[Deliverable](<Deliverable.md>):**
-        - Two short Pitch Decks
+        - Two short Pitch Decks. one for each position. [Maier Fenster](<Maier Fenster.md>) - feel free to change these definitions, for now
+            - YC should be a marketplace for matching yaks/yak teams with clients in need, perhaps a newly created market
+            - YC should act as a boutique consulting service, with a small number of niches. which ones?
+        - a debate (TBD) which the pitch decks are presented, a panel asks questions, etc.
         - **[a process for generating such pitch decks](<a process for generating such pitch decks.md>):**
+            - which we hope can be used outside the yak collective
     - **[Project size](<Project size.md>):**
         - medium
     - **[2 intermediate milestones](<2 intermediate milestones.md>):**
         - Decks will be judged internally on quality of the decks and team presentations. The criteria will not be disclosed to the teams until after the presentations. We will have scores but there will be no losers. 
     - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):**
     - **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>) & [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&[Mike Baxter](<Mike Baxter.md>)
+        - [Maier Fenster](<Maier Fenster.md>) too many project leads. should be just one. at most two. here, due to conflict, i suggest one, to prevent side taking, maybe grigori.
     - **[Also in project](<Also in project.md>):** 
+        - [maier fenster](<maier fenster.md>) we actually need two deputies here, one for each approach, AND each approach should have "also in project"
     - **[Why you should join](<Why you should join.md>):**
-        - You can learn a lot
+        - You can learn a lot about marketplace and matching up skills to potential clients. Y
+        - You can change the way(s) the yak collective develops and works
     - **[Intended audience](<Intended audience.md>):**
         - **[Who](<Who.md>):** Internal Audience: Consultants and Aspiring Consultants. The idea is to learn as much as we can about current state of YC and to shape its future
         - **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**

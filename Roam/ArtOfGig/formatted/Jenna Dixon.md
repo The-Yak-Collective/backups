@@ -61,6 +61,11 @@
 ## [Facebook](<Facebook.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -199,11 +204,21 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 
 - **[Last Gardened](<Last Gardened.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Last Updated](<Last Updated.md>):** [October 30th, 2020](<October 30th, 2020.md>) By:: [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jenna Dixon](<Jenna Dixon.md>)

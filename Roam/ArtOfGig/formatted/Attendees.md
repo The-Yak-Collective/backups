@@ -8,3 +8,7 @@
 - ![](https://s3-eu-west-1.amazonaws.com/goalatlas.marketing/uploads/2020/09/StrategyManual_Front_Cover.png) 
 - **[Attendees](<Attendees.md>):**
 
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- 
+- **[Attendees](<Attendees.md>):**
+

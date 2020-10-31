@@ -75,9 +75,9 @@
             - ^^**proofreader**
 [[Amanda Reeves]]^^
             - tk
-            - 02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
         - publish
             - ^^**webdev**
 [[Nathan Acks]]^^
             - 
             - 01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)
+            - 02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)

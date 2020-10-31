@@ -11778,12 +11778,6 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "2vwqbiZg3"
-                  },
-                  {
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1602544161724,
-                    "string": "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
-                    "uid": "upEZlclsc"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -11818,6 +11812,12 @@
                     "edit-time": 1602544153344,
                     "string": "01 [[Nathan Chen]] [Wholeness in a timeless activity](https://docs.google.com/document/d/1Uke-4h8kYARpFZixBfa5Ht6H-UWa7PyJar9Iqq8-rCE/edit?usp=sharing)",
                     "uid": "8yEaJjIrg"
+                  },
+                  {
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1602544161724,
+                    "string": "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
+                    "uid": "upEZlclsc"
                   }
                 ],
                 "edit-email": "j@djinna.com",
@@ -13127,5 +13127,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1604049457063,
     "title": "October 30th, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1604135572297,
+    "title": "October 31st, 2020"
   }
 ]

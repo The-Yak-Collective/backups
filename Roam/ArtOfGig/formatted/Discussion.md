@@ -8,3 +8,7 @@
 - Prompt question: How do you tell participation inequality due to skill or time constraints from free-riding behaviors? And how do you mitigate it on an opt-in open network?
 - **[Discussion](<Discussion.md>):**
 
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- 
+- **[Discussion](<Discussion.md>):**
+

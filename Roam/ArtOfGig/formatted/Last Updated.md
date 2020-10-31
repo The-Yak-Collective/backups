@@ -26,6 +26,10 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**
 
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Jenna Dixon](<Jenna Dixon.md>) 
 - **[Last Updated](<Last Updated.md>):**
@@ -68,6 +72,10 @@
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Created](<Created.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):**
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
