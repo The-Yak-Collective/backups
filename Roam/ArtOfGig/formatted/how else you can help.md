@@ -8,3 +8,7 @@
 - **[jobs](<jobs.md>):**
     - **[how else you can help](<how else you can help.md>):**
 
+## [Fair equity  ](<Fair equity  .md>)
+- Creating spreadsheet example 
+    - **[how else you can help](<how else you can help.md>):**
+

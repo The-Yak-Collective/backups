@@ -8,3 +8,7 @@
 - **[Also in project](<Also in project.md>):** [Mike Baxter](<Mike Baxter.md>)
     - **[Why you should join](<Why you should join.md>):**
 
+## [Fair equity  ](<Fair equity  .md>)
+- 
+    - **[Why you should join](<Why you should join.md>):**
+

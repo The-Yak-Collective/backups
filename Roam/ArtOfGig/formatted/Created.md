@@ -12,6 +12,10 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 - **[Created](<Created.md>):**
 
+## [Fair equity  ](<Fair equity  .md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [ ](< .md>)
+- **[Created](<Created.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 - **[Created](<Created.md>):**

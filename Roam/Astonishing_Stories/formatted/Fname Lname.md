@@ -11,7 +11,7 @@
 
 - [x] Letting author know before its published `/today` by [Fname Lname](<Fname Lname.md>)
 
-- [ ] Proof on the website `/today` by [Fname Lname](<Fname Lname.md>)
+- [x] Proof on the website `/today` by [Fname Lname](<Fname Lname.md>)
 
 - [x] handover artwork and story snippet to Yak Talk team `/today` by [Fname Lname](<Fname Lname.md>)
 

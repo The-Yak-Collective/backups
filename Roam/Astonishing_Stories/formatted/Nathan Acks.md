@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Issue 1](<Issue 1.md>)
-- [ ] Tweeting when each story goes out `/today` by [Nathan Acks](<Nathan Acks.md>)
+- [x] Tweeting when each story goes out `/today` by [Nathan Acks](<Nathan Acks.md>)
 
 - ^^[Nathan Acks](<Nathan Acks.md>):
 

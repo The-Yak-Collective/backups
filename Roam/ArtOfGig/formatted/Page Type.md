@@ -8,3 +8,6 @@
 - **[About](<About.md>):** project page for embryonic project contrasting YC conceptualization with standard conceptionalization
 - **[Page Type](<Page Type.md>):**
 
+## [Fair equity  ](<Fair equity  .md>)
+- **[Page Type](<Page Type.md>):**
+

@@ -8,3 +8,7 @@
 - **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
 
+## [Fair equity  ](<Fair equity  .md>)
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
+

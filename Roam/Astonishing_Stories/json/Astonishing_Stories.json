@@ -13009,9 +13009,9 @@
             "uid": "d2T_vvnlG"
           },
           {
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1603418467958,
-            "string": "{{[[TODO]]}} Proof on the website `/today` by [[Fname Lname]]",
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1604154866461,
+            "string": "{{[[DONE]]}} Proof on the website `/today` by [[Fname Lname]]",
             "uid": "x1G2_tm7g"
           },
           {
@@ -13023,9 +13023,9 @@
                 "uid": "Yf2tBhPMB"
               }
             ],
-            "edit-email": "sachben91@gmail.com",
-            "edit-time": 1603418467958,
-            "string": "{{[[TODO]]}} Tweeting when each story goes out `/today` by [[Nathan Acks]]",
+            "edit-email": "roam@delphi-strategy.com",
+            "edit-time": 1604154868866,
+            "string": "{{[[DONE]]}} Tweeting when each story goes out `/today` by [[Nathan Acks]]",
             "uid": "dvGfAOMlI"
           },
           {
@@ -13060,8 +13060,8 @@
               }
             ],
             "edit-email": "roam@delphi-strategy.com",
-            "edit-time": 1603473384590,
-            "string": "{{[[TODO]]}} Twitter, LinkedIn, Facebook template ",
+            "edit-time": 1604154862574,
+            "string": "{{[[DONE]]}} Twitter, LinkedIn, Facebook template ",
             "uid": "rHVEyZAY0"
           },
           {
@@ -13132,5 +13132,10 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1604135572297,
     "title": "October 31st, 2020"
+  },
+  {
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1604221992227,
+    "title": "November 1st, 2020"
   }
 ]

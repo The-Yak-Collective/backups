@@ -24,6 +24,10 @@
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Fair equity  ](<Fair equity  .md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Kacper Wikieł](<Kacper Wikieł.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**

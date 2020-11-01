@@ -26,6 +26,10 @@
 - For one-off meetings, please coordinate among yourselves and post to the events channel or other appropriate channel. These will not be added to the group calendar unless it is a major one like a town hall.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Fair equity  ](<Fair equity  .md>)
+- **[Page Type](<Page Type.md>):** [Project](<Project.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[About](<About.md>):** __The Rat hummed a tune, and the Mole recollected that animal-etiquette forbade any sort of comment on the sudden disappearance of one's friends at any moment, for any reason or no reason whatever.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

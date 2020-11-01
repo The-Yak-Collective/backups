@@ -34,7 +34,7 @@
         - tk
     - [Scott Garlinger](<Scott Garlinger.md>)
         - tk
-    - [ritesh](<ritesh.md>)
+    - [Ritesh](<Ritesh.md>)
         - tk
     - [Anuraj R](<Anuraj R.md>)
         - tk

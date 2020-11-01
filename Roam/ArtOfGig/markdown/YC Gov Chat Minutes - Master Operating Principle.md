@@ -34,7 +34,7 @@
         - tk
     - [[Scott Garlinger]]
         - tk
-    - [[ritesh]]
+    - [[Ritesh]]
         - tk
     - [[Anuraj R]]
         - tk
