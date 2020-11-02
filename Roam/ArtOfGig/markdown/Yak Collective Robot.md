@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[September 19th, 2020]] by [[Nathan Acks]]
+last updated:: [[November 1st, 2020]] by [[Nathan Acks]]
 # Purpose
     - The `yakcollective.org@gmail.com` Google account.
     - "Owns" a set of core services, as well as inter-app connections and automations that run on these services.
@@ -29,3 +29,4 @@ last updated:: [[September 19th, 2020]] by [[Nathan Acks]]
     - [[Venkatesh Rao]]
     - [[Tom Critchlow]]
     - [[Alex Wagner]]
+    - [[Maier Fenster]]

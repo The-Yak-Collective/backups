@@ -26,6 +26,7 @@
     - Project size::
         - small
     - intermediate milestones::
+        - google sheet spreadsheet with work contribution and calculator 
         - 
     - Why you should join::
         - 

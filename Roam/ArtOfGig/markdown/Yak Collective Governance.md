@@ -3,7 +3,6 @@
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]] 
 - Last Updated:: [[October 30th, 2020]] By:: [[Jenna Dixon]]
 -  
-- 
 - As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...
 - **Completed Readings**
     - [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
@@ -29,11 +28,19 @@
         - https://tobeagile.com/the-single-wringable-neck/
     - Libertarians and bears, [The town that went feral](https://newrepublic.com/article/159662/libertarian-walks-into-bear-book-review-free-town-project?fbclid=IwAR0zeB-yuJKpDQkTVye1NwbUz5lf4DoPNIIlINWtN6YGaYGkSjqt9TEs6_o)
     - Bear management vs wolf slaughter, [Frank Chimero talk](https://frankchimero.com/blog/2014/only-openings/)
-- **Queued** (Governance track -- Venkat)
     - [Hurling Frootmig principle](https://sites.google.com/site/h2g2theguide/Index/h/206017)
     - [Wind in the Willow principle](https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29)
-    - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
+- **Queued** (Governance track -- Venkat)
+    - Anarchism track
+    - [Goodreads page for Two Cheers for Anarchism](https://www.goodreads.com/book/show/14891877-two-cheers-for-anarchism)
+    - [Crimethinc: Work](https://crimethinc.com/books/work)
+    - [Jesus Radicals](https://www.jesusradicals.com/iconocast); the Iconocast podcast and their library are both quite good. Coming from a Christian anarchist perspective.
+    - [Beau of the Fifth Column](https://youtu.be/y-PbSFZASR0?t=125)
+    - [PhilosophyTube on Antifa](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
+    - Music like Propagandhi
+    - Emma Goldman's writings
 - **Queued** (Platforms track -- Grigori)
+    - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
     - [Frederic Laloux points out the fragility of platforms. It is not the first time he is talking about it, of course.](https://www.rolandberger.com/en/Point-of-View/Frederic-Laloux-on-what-lies-ahead-for-business.html)
         - "There are not that many leaders yet who have internalized this new paradigm and can adopt the coherent set of management practices it calls for. But even when you have such a leader, there often remains a risk one level up: the board of directors. It's happened with more than one of these new organizations that the board at some point pulled the plug: "This is all working really well, but this is all a mystery to us. Let's put in a CEO that will do that top-down thing we understand and trust."
         - [[Frederic Laloux]]

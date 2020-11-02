@@ -52,6 +52,34 @@
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Knack.com](<Knack.com.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
@@ -132,6 +160,9 @@
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>) - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others led by [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Maier Fenster](<Maier Fenster.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Maier Fenster](<Maier Fenster.md>)

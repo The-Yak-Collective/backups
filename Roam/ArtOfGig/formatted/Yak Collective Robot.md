@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 19th, 2020](<September 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [November 1st, 2020](<November 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - The `yakcollective.org@gmail.com` Google account.
     - "Owns" a set of core services, as well as inter-app connections and automations that run on these services.
@@ -29,6 +29,7 @@ last updated:: [September 19th, 2020](<September 19th, 2020.md>) by [Nathan Acks
     - [Venkatesh Rao](<Venkatesh Rao.md>)
     - [Tom Critchlow](<Tom Critchlow.md>)
     - [Alex Wagner](<Alex Wagner.md>)
+    - [Maier Fenster](<Maier Fenster.md>)
 
 # Backlinks
 ## [GitHub](<GitHub.md>)
@@ -53,6 +54,9 @@ last updated:: [September 19th, 2020](<September 19th, 2020.md>) by [Nathan Acks
 - `GH_TOKEN` - GitHub user token for API access. Generated using the [Yak Collective Robot](<Yak Collective Robot.md>)
 
 - **Access control** must be turned on to enable authentication to [Netlify CMS](https://www.netlifycms.org/), and a [GitHub](<GitHub.md>) provider installed. Provider ID and secret values are generated using the [Yak Collective Robot](<Yak Collective Robot.md>)
+
+## [November 1st, 2020](<November 1st, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) updated ACL for the [Yak Collective Robot](<Yak Collective Robot.md>)
 
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) tweaked the capitalization on the [Yak Collective Robot](<Yak Collective Robot.md>)

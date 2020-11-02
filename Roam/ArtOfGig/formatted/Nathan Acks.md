@@ -129,6 +129,14 @@ Last Updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 
 - [Sachin Benny](<Sachin Benny.md>) points out that we still don't have Google Analytics access. [Nathan Acks](<Nathan Acks.md>)
 
+- Notes by [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [Knack.com](<Knack.com.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
 
@@ -147,6 +155,9 @@ owner:: [Nathan Acks](<Nathan Acks.md>)
 
 last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
+- [Nathan Acks](<Nathan Acks.md>)
+
+## [November 1st, 2020](<November 1st, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [October 11th, 2020](<October 11th, 2020.md>)
@@ -244,7 +255,7 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nat
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 19th, 2020](<September 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [November 1st, 2020](<November 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 

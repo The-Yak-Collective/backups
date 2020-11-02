@@ -60,6 +60,10 @@
 
 - Making updates to [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
+- audit the [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+
+- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 

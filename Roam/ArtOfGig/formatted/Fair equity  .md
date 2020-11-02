@@ -26,6 +26,7 @@
     - **[Project size](<Project size.md>):**
         - small
     - **[intermediate milestones](<intermediate milestones.md>):**
+        - google sheet spreadsheet with work contribution and calculator 
         - 
     - **[Why you should join](<Why you should join.md>):**
         - 

@@ -459,3 +459,150 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
         - [[Maier Fenster]] points out that this doesn't roll in the Google Calendar to [[Discord]] connector currently powered by [[Zapier]]
             - Best idea seems to be to use the server Maier's built the `yak_scraper` bot on
             - We'll need [[Venkatesh Rao]] to add a new A record pointing to this server. Maybe hook it into `robot.yakcollective.org`?
+- infrastructure chat 25 [[November 1st, 2020]]
+    - Notes by [[Darren Kong]]
+        - state of yak meeting
+            - date and time 
+                - date - do a doodle - first couple weeks in Dec
+                - time probably around 8-9 AM PST?
+            - general townhall, opportunity to reset state 
+            - need commitment for project leads to present for 3-4 minutes 
+                - audit the [[Yak Collective State of the Union]]
+            - prompts for leads
+                - update
+                - what help they needed
+            - 70-80 people showed up at the first townhall after the launch 
+            - outreach
+                - newsletter
+                - ribbonfarm blog post on yak collective
+            - ~~discord or~~ zoom 
+        - AMA chats 
+            - content 
+            - focus on something interesting they are doing - that they have a public facing footprint
+            - 80% indie 20% yak collective 
+            - website/ newsletter 
+            - AMA guest
+                - Venkat volunteers
+            - look into [[Ben Mosior]]'s project when he interviewed 
+            - Marketing also talked about "how we built this" 
+            - Twitch stream?
+                - Automation video 
+        - newsletter
+            - Newsletter needs to be sent.
+            - 1X week - Astonishing Stories. Tile is on web, but newsletter didn't go out. 
+            - Praful is the only one working on it atm and was busy with work yesterday.
+        - discord bot
+            - server $5-10 mo 
+            - capabilities we can see user behaviors and have event triggers
+            - future - knack and roam API
+        - web
+            - who has insight into the web infrastructure?
+                - it's dispersed
+                - documentation
+        - discord mgmt
+            - new projects 
+                - collaborations was doing it
+            - experimental category
+                - make it easy to create/destroy channels in that category
+    - Notes by [[Nathan Acks]]
+        - [[Yak Collective State of the Union]]
+            - [[Venkatesh Rao]]
+                - Venkat thinks we should do something at the end of the year
+                - Maybe do a Doodle to identify a couple of good dates in December
+                - Opportunity to reset state
+                - What's everyone's projects? General updates?
+                - We need:
+                    - A date
+                    - A commitment from people leading projects to do a presentation/pitch
+                        - What have we been doing?
+                        - What do we need for support?
+                        - What opportunities?
+                - Jenna's been maintaining a Kanban board of various projects
+            - [[Maier Fenster]] Would this be a format that other people could use?
+            - [[Venkatesh Rao]] This would be more like a general meeting. Something high enough stakes to get everyone excited. We should do something like this once a year.
+                - {{[[TODO]]}} I need to take a look at Jenna's project Kanban board
+            - [[Maier Fenster]] We need to cover the whole infrastructure map.
+            - [[Maier Fenster]] More people seem to be engaged in infrastructure, but this is inward looking
+            - [[Venkatesh Rao]]
+                - We should have all projects present. If someone doesn't present, it's not happening
+                - Half "what's happening", half "open ended discussion about what we need"
+                - Venkat will organize
+            - [[Maier Fenster]] How long? Two or three hours?
+            - [[Venkatesh Rao]] That would be ambitious. __Maybe__ two hours with 12 people presenting
+            - [[Venkatesh Rao]]
+                - We should advertise this on the newsletter. Will also advertise on Ribbonfarm.
+                - This will be an open meeting. No need to be a member.
+            - [[Nathan Acks]] I'd suggest using Zoom -- Discord doesn't seem to work well for large meetings.
+        - AMA format/feedback (Darren)
+            - [[Darren Kong]] Do we want more interactive activities? This might give us more fodder for content.
+            - [[Venkatesh Rao]] I like this idea. We could have AMAs for individual Yak Collective members.
+            - [[Darren Kong]]
+                - The newsletter folks originally were prompting for more content.
+                - We could go back to the project leads, we could do random folks.
+            - [[Venkatesh Rao]] Internally-facing content is boring for outsiders. We should focus on externally-facing content.
+            - [[Darren Kong]] The idea would be to focus on folks' indie background.
+                - If this seems worthwhile, Darren will run.
+                - More worthwhile if we can push content into the newsletter, etc.
+            - [[Maier Fenster]] There was an idea in the marketing channel -- "how did we build this?"
+                - Focus on practical outcomes. What makes our prospective clients interested in us?
+                - Sort of a "real stories" from the trenches things. Less "what can I do", and more "here's how I did X"
+            - [[Nathan Acks]] Have we coordinated with the newsletter folks?
+            - [[Sachin Benny]] Right now, only Praful is working on this.
+                - ^^(Seems like the newsletter folks may need some help)^^
+            - [[Darren Kong]] I will reach out
+        - Prototype shepherd bot (Maier)
+            - [[Maier Fenster]]
+                - The shepherd robot is currently in a [private repo](https://github.com/The-Yak-Collective/onboarding_robot) until we're confident in our security model.
+                - Robot runs on a server that Maier maintains. This allows for the robots to run and respond continuously.
+                - People can work on robots without logging onto the server -- there's a script that pushes new/updated robots to the server.
+                - Right now we have one robot, which pulls data for the `yak_scraper` -- Discord UID, join date, etc.
+                - Discord robots are easy -- generate a key, and then Discord will push events to the robot's web hook.
+                - If you write `$hello`, the robot will answer.
+                - Only Maier can kill the robot right now.
+                - There are options for more sophisticated commands.
+                    - We could talk to Knack, the Roam API.
+                    - Soon, it should show calendar reminders.
+                    - Can potentially send project updates.
+                - The "shepherd' robot keeps track of new yaks via states. When a yak enters a state, a specified internal function is run.
+                    - Currently, watches for introductions and promotes people who've done this into full yaks. It then sends a thank-you DM.
+                    - If you don't send an introduction, it reminds you periodically.
+                    - If you haven't posted an introduction in 7 days, the shepherd kicks you out o the server.
+                    - Additional onboarding logic can be fairly easily added when/if we decide to do this.
+                - Yaks can be in multiple states -- for example, running a project, and also still receiving introductory turorials.
+                - Maier can provide fuller tutorials for folks who want to extend this.
+            - [[Venkatesh Rao]]
+                - Venkat wants to zero out finances by the end of the year, so we can definitely pay for this server.
+                - How many people actually understand the infrastructure?
+            - [[Maier Fenster]]
+                - We should move the server over to the Yak Collective robot.
+                - In general, we're trying to document things so that people can pick things up, but also to build user-friendly "APIs" for less technical folks.
+            - [[Nathan Acks]]
+                - We have a general problem in that nobody really has their head around all of our infrastructure.
+                - Documentation in Roam is being kept up-to-date as well as possible, but is known to have missing/inaccurate bits.
+            - [[Venkatesh Rao]] Long-term, custom infrastructure has a better chance of surviving when exposed as open source projects
+            - [[Maier Fenster]] There should always be multiple people who knows what's going on for a given project
+        - Proto-project channels (Maier)
+            - [[Maier Fenster]]
+                - Projects need channels before they're projects -- a place where people can discuss whether they __want__ an idea to become a project
+                - Current channel policy doesn't seem to work well
+                - Maybe we want an "embryonic channels" group
+            - [[Venkatesh Rao]]
+                - The "Collaborations" channel is supposed to serve this function, but it's not that clear. We should clean this up.
+                - We __do__ have an "infrastructure" channel
+            - [[Maier Fenster]] A single channel may not be good -- people need a space to talk.
+            - [[Venkatesh Rao]] We should have an "experimental" category with a really low create/destroy threshold.
+            - [[Grigori Milov]]
+                - The "pie slices" folks seem to have already nucleated, and there's a request in create/destroy channels already.
+                - Maybe we should just let people figure out how to coordinate, rather than perscribing something.
+            - [[Darren Kong]] We should do a sweep of all channels... We kind of have too many right now.
+            - [[Venkatesh Rao]]
+                - We need to prevent channel proliferation.
+                - Maybe require a sandbox channel. Keep things open.
+            - [[Maier Fenster]] New category for experimental channels, with "pie slicing" the first one.
+            - [[Grigori Milov]] Agreed.
+            - [[Maier Fenster]] will set up a new category ("probationary channels" or some such)
+            - [[Darren Kong]] Maybe we should put potentially dead channels there?
+            - [[Maier Fenster]] I can grab channel stats with the website
+            - [[Venkatesh Rao]] That would be something cool to see on the website.
+            - [[Maier Fenster]] I have something like this already, but would need to be adapted for the website.
+- 
