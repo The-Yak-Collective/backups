@@ -9,7 +9,7 @@
 ...of what’s next]]
         - [[Amanda Reeves]]
         - [[Sachin Benny]]
-    - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]] 
+    - [[Future Frontiers]] 
         - [[Siva Swaroop]]
         - [[Venkatesh Rao]]
 - 
@@ -56,7 +56,7 @@ More formal than #reader or #sparring-partner.__
 Native, Webflow, Carrd, Google Slides....__
         - Add your name here if interested in this role::
             - [[Suwaythan Nahaganeshan]]
-                - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]]
+                - [[Future Frontiers]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Grigori Milov]]

@@ -9,7 +9,7 @@
 ...of what’s next]]
         - [Amanda Reeves](<Amanda Reeves.md>)
         - [Sachin Benny](<Sachin Benny.md>)
-    - [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>) 
+    - [Future Frontiers](<Future Frontiers.md>) 
         - [Siva Swaroop](<Siva Swaroop.md>)
         - [Venkatesh Rao](<Venkatesh Rao.md>)
 - 
@@ -56,7 +56,7 @@ More formal than [reader](<reader.md>) or [sparring-partner](<sparring-partner.m
 Native, Webflow, Carrd, Google Slides....__
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
             - [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>)
-                - [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+                - [Future Frontiers](<Future Frontiers.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Firstname Lastname](<Firstname Lastname.md>)
             - [Grigori Milov](<Grigori Milov.md>)
@@ -107,7 +107,7 @@ Native, Webflow, Carrd, Google Slides....__
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 - [Sachin Benny](<Sachin Benny.md>) will add folks to [Production Cell](<Production Cell.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - [ ] [Jenna Dixon](<Jenna Dixon.md>) share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [Production Cell](<Production Cell.md>)
 
 ## [Infrastructure](<Infrastructure.md>)

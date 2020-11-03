@@ -14,12 +14,12 @@
 - **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Last Updated](<Last Updated.md>):** [September 26th, 2020](<September 26th, 2020.md>) 10:00 PT
-- **[Last Updated By](<Last Updated By.md>):**
-
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[Last Updated](<Last Updated.md>):** [September 22nd, 2020](<September 22nd, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):**
+
+## [Future Frontiers](<Future Frontiers.md>)
+- **[Last Updated](<Last Updated.md>):** November 1, 2020
 - **[Last Updated By](<Last Updated By.md>):**
 
 ## [Marketing Channels](<Marketing Channels.md>)

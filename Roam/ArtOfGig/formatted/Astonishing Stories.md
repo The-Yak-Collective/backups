@@ -13,6 +13,9 @@
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - Template and content updates for the upcoming [Astonishing Stories](<Astonishing Stories.md>)
 
+## [Infinity Pool](<Infinity Pool.md>)
+- Currently two projects are following an infinity pool model: [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [Infrastructure](<Infrastructure.md>)
 - Walked through website changes related to [Astonishing Stories](<Astonishing Stories.md>)
 

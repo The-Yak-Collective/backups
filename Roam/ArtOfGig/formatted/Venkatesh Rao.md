@@ -6,7 +6,7 @@
         - Sample item
     - Links for me
         - [Roam Production Kanban](<Roam Production Kanban.md>)
-        - [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+        - [Future Frontiers](<Future Frontiers.md>)
         - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
         - [Yak Collective Governance](<Yak Collective Governance.md>)
         - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
@@ -174,12 +174,18 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+## [Future Frontiers](<Future Frontiers.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- This is a project proposal for July/Aug 2020 cycle by [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Updated By](<Last Updated By.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- If approved by the editor (currently [Venkatesh Rao](<Venkatesh Rao.md>))
+
+- If you need to break the default format, talk to the editor [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Democratized Underwater Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_177) |[Venkatesh Rao](<Venkatesh Rao.md>)
+
+- This is a project proposal for July/Aug 2020 cycle by [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [x] [September 26th, 2020](<September 26th, 2020.md>) restart call inaugurated by project Sous Chef [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -443,7 +449,7 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) led by [Paul Millerd](<Paul Millerd.md>) and [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>) [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>)
+- [Future Frontiers](<Future Frontiers.md>) [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Six Uneasy Pieces](<Six Uneasy Pieces.md>) — needs primary but [Venkatesh Rao](<Venkatesh Rao.md>)
 

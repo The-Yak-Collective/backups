@@ -11,7 +11,7 @@
 ## [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>)
 - Re Venkatesh' point about covid: maybe something about organisation's -failure- to recognise need for this profile in response team leading to too siloed approach, and delays? [Thomas Verhagen](<Thomas Verhagen.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - [Thomas Verhagen](<Thomas Verhagen.md>)
 
 ## [Governance, Trust, Media, and Markets - Nate Baird](<Governance, Trust, Media, and Markets - Nate Baird.md>)

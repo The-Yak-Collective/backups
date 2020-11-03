@@ -6,7 +6,7 @@
         - Sample item
     - Links for me
         - [[Roam Production Kanban]]
-        - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]]
+        - [[Future Frontiers]]
         - [[YC Marketing - distributed CMO]]
         - [[Yak Collective Governance]]
         - [[Yak Collective State of the Union]]

@@ -11,7 +11,7 @@
 ## [Directory](<Directory.md>)
 - [Bardia Pourvakil](<Bardia Pourvakil.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - [Bardia Pourvakil](<Bardia Pourvakil.md>)
 
 ## [September 23rd, 2020](<September 23rd, 2020.md>)

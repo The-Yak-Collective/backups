@@ -66,14 +66,12 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 
 - **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+## [Future Frontiers](<Future Frontiers.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  | [Jenna Dixon](<Jenna Dixon.md>)
 
-- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+- If approved by the editor (currently [Venkatesh Rao](<Venkatesh Rao.md>)) it will go into a lightweight production process (currently coordinated by [Jenna Dixon](<Jenna Dixon.md>))
 
-^^[Jenna Dixon](<Jenna Dixon.md>)^
-
-- ^^[Jenna Dixon](<Jenna Dixon.md>)^
+- If you need to break the default format, talk to the editor [Venkatesh Rao](<Venkatesh Rao.md>) and/or production lead [Jenna Dixon](<Jenna Dixon.md>)
 
 - [ ] [Jenna Dixon](<Jenna Dixon.md>)
 

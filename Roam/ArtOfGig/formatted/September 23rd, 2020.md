@@ -6,6 +6,6 @@
 ## [Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>)](<Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>).md>)
 - [September 23rd, 2020](<September 23rd, 2020.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - [ ] [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) push: design along to v2 ahead of call with jenna on Wed [September 23rd, 2020](<September 23rd, 2020.md>)
 

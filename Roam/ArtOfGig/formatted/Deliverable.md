@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
-- Developing two contrasting roadmaps for further developing Yak Collective narratives
+- [Hugo Macedo](<Hugo Macedo.md>) comment: Do we want a roadmap (from A->B) or a pitch of why we should adopt the model?
     - **[Deliverable](<Deliverable.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)

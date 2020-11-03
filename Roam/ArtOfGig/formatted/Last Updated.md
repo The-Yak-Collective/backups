@@ -30,12 +30,12 @@
 - **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Jenna Dixon](<Jenna Dixon.md>) 
-- **[Last Updated](<Last Updated.md>):**
-
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
+- **[Last Updated](<Last Updated.md>):**
+
+## [Future Frontiers](<Future Frontiers.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  | [Jenna Dixon](<Jenna Dixon.md>) [Siva Swaroop](<Siva Swaroop.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Infrastructure](<Infrastructure.md>)

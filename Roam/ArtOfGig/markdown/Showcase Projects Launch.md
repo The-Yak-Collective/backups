@@ -7,7 +7,7 @@
 - Governance? (TBC)
 - ### Upcoming Launches (TBC)
     - [[Astonishing Stories - Marketing Launch]]
-    - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]] - date?
+    - [[Future Frontiers]] - date?
     - [[Innovation Consulting]] - WTF happened to it? [[Grigori Milov]]
 - # Launch Framework
     - `defines the steps, checklists and can become a template to be filled together with the Project owner`

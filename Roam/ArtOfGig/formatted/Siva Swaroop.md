@@ -25,12 +25,8 @@
 ## [Directory](<Directory.md>)
 - [Siva Swaroop](<Siva Swaroop.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Siva Swaroop](<Siva Swaroop.md>)
-
-- This is a project proposal for July/Aug 2020 cycle by [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Contents](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8dc164a1ac_0_87) page 2pp [Siva Swaroop](<Siva Swaroop.md>)
+## [Future Frontiers](<Future Frontiers.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  | [Jenna Dixon](<Jenna Dixon.md>) [Siva Swaroop](<Siva Swaroop.md>)
 
 - [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page [Siva Swaroop](<Siva Swaroop.md>)
 
@@ -48,7 +44,14 @@
 
 - [Title Page](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.p) [Siva Swaroop](<Siva Swaroop.md>)
 
+- [Contents](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8dc164a1ac_0_87) page 2pp [Siva Swaroop](<Siva Swaroop.md>)
+
+- This is a project proposal for July/Aug 2020 cycle by [Siva Swaroop](<Siva Swaroop.md>)
+
 - [ ] [Venkatesh Rao](<Venkatesh Rao.md>) ping: [Siva Swaroop](<Siva Swaroop.md>)
+
+## [PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework](<PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework.md>)
+- A framework for thinking about the future introduced for the [Future Frontiers](<Future Frontiers.md>) project by [Siva Swaroop](<Siva Swaroop.md>)
 
 ## [Production Cell](<Production Cell.md>)
 - [Siva Swaroop](<Siva Swaroop.md>)
@@ -65,7 +68,7 @@ Before finding colliding themes to these ideas, what exactly is memory and can w
 - [Siva Swaroop](<Siva Swaroop.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
-- [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>) [Siva Swaroop](<Siva Swaroop.md>)
+- [Future Frontiers](<Future Frontiers.md>) [Siva Swaroop](<Siva Swaroop.md>)
 
 - I am interested in this. [Siva Swaroop](<Siva Swaroop.md>)
 

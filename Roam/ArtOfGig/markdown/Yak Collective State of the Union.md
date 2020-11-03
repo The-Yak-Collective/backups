@@ -24,7 +24,7 @@
         - [[Production Cell]] cell
 [[Jenna Dixon]] lead
     - **Active Cells**
-        - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]] cell
+        - [[Future Frontiers]] cell
 [[Siva Swaroop]] lead
         - [[Yaks do innovation consulting]] cell
 [[Vaughn Tan]] lead

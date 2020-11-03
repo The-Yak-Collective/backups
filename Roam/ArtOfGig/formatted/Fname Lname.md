@@ -36,13 +36,7 @@ Created:: `/today` by [Fname Lname](<Fname Lname.md>)
 
 - **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- ^^[Fname Lname](<Fname Lname.md>)^
-
-- ^^[Fname Lname](<Fname Lname.md>)^
-
-- ^^[Fname Lname](<Fname Lname.md>)^
-
+## [Future Frontiers](<Future Frontiers.md>)
 - ^^[Fname Lname](<Fname Lname.md>)^
 
 ## [IT Infrastructure](<IT Infrastructure.md>)

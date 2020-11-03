@@ -32,12 +32,12 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Siva Swaroop](<Siva Swaroop.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
-
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Future Frontiers](<Future Frontiers.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Hugo Macedo](<Hugo Macedo.md>)

@@ -13,10 +13,12 @@
 - **[Meta](<Meta.md>):**
     - **[This project is about](<This project is about.md>):**
         - Developing two contrasting roadmaps for further developing Yak Collective narratives
+            - [Hugo Macedo](<Hugo Macedo.md>) comment: Do we want a roadmap (from A->B) or a pitch of why we should adopt the model?
     - **[Deliverable](<Deliverable.md>):**
         - Two short Pitch Decks. one for each position. [Maier Fenster](<Maier Fenster.md>) - feel free to change these definitions, for now
             - YC should be a marketplace for matching yaks/yak teams with clients in need, perhaps a newly created market
             - YC should act as a boutique consulting service, with a small number of niches. which ones?
+            - [Hugo Macedo](<Hugo Macedo.md>) comment: I wonder if the definition of new-market/niche is part of the different approaches? It seems to me that the differentiation between boutique and marketplace is that in boutique YC controls who delivers the service, while in marketplace its for the client to choose who he works with. 
         - a debate (TBD) which the pitch decks are presented, a panel asks questions, etc.
         - **[a process for generating such pitch decks](<a process for generating such pitch decks.md>):**
             - which we hope can be used outside the yak collective
@@ -27,6 +29,7 @@
     - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):**
     - **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>) & [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&[Mike Baxter](<Mike Baxter.md>)
         - [Maier Fenster](<Maier Fenster.md>) too many project leads. should be just one. at most two. here, due to conflict, i suggest one, to prevent side taking, maybe grigori.
+            - [Hugo Macedo](<Hugo Macedo.md>) : there can be only one! agree
     - **[Also in project](<Also in project.md>):** 
         - [maier fenster](<maier fenster.md>) we actually need two deputies here, one for each approach, AND each approach should have "also in project"
     - **[Why you should join](<Why you should join.md>):**

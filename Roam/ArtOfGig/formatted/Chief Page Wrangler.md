@@ -34,11 +34,11 @@
 - **[About](<About.md>):** __The Rat hummed a tune, and the Mole recollected that animal-etiquette forbade any sort of comment on the sudden disappearance of one's friends at any moment, for any reason or no reason whatever.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
-
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[About](<About.md>):** all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) 
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [Future Frontiers](<Future Frontiers.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Hugo Macedo](<Hugo Macedo.md>)

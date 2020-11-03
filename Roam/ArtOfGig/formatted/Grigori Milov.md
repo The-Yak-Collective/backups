@@ -1,6 +1,6 @@
 - The pages I follow:
 - [Yak Collective Governance](<Yak Collective Governance.md>)
-- [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+- [Future Frontiers](<Future Frontiers.md>)
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
@@ -63,7 +63,7 @@
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_15_6) | **[Grigori Milov](<Grigori Milov.md>)
 
 - [Orbital Data Centers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_105) | [Grigori Milov](<Grigori Milov.md>)

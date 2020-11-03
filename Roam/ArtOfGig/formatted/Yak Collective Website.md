@@ -18,6 +18,11 @@ last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nat
 ## [Frederic Laloux](<Frederic Laloux.md>)
 - **[Yak Collective Website](<Yak Collective Website.md>):**
 
+## [Future Frontiers](<Future Frontiers.md>)
+- If approved by the editor (currently [Venkatesh Rao](<Venkatesh Rao.md>)) it will go into a lightweight production process (currently coordinated by [Jenna Dixon](<Jenna Dixon.md>)) and end up as a page on the [Yak Collective Website](<Yak Collective Website.md>)
+
+- The **default output format** is a page on the [Yak Collective Website](<Yak Collective Website.md>),
+
 ## [GitHub](<GitHub.md>)
 - [yakcollective](https://github.com/The-Yak-Collective/yakcollective): The [Yak Collective Website](<Yak Collective Website.md>)
 

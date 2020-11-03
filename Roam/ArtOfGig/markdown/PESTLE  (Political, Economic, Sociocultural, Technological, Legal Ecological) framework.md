@@ -1,0 +1,3 @@
+- A framework for thinking about the future introduced for the [[Future Frontiers]] project by [[Siva Swaroop]]
+- Here is an [introductory link](https://pestleanalysis.com/what-is-pestle-analysis/)
+- 

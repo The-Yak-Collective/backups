@@ -34,18 +34,24 @@
 - **[Last Updated](<Last Updated.md>):** [October 1st, 2020](<October 1st, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
 - **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>) & [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&
+
+- [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
-
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
-- [ ] ping: [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+## [Future Frontiers](<Future Frontiers.md>)
+- [ ] ping: [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){

@@ -93,7 +93,7 @@
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 - Use the [under utilized fixed asset](https://kwokchain.com/2020/01/23/underutilized-fixed-assets/) model to think about new business models or repurposing businesses. suggested by [Sachin Benny](<Sachin Benny.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
 ## [Infrastructure](<Infrastructure.md>)

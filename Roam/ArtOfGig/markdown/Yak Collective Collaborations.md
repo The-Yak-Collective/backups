@@ -11,7 +11,7 @@
             - 2-3 people per speculative fiction piece
             - in collaboration with
         - [[Post-COVID scenario set]] - a collaboratively built scenario generator exploring pathways from COVID over the next 5 years, led by [[Amanda Reeves]] & [[Reanna Browne]]
-    - [[Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans]] [[Siva Swaroop]] & [[Venkatesh Rao]] 
+    - [[Future Frontiers]] [[Siva Swaroop]] & [[Venkatesh Rao]] 
     - [[Evidence Based Design]] Collecting, Publishing, and Packaging Redesigns grounded in Crowd Collected Evidence [[Paul Sas]]
     - [[Old Forms of Justice in a New World ]] - [[Mitchell Anhoury]] - Justice, New Sheriffs in Town, and the Tech That Makes it Happen
         - [[Policing the Future]] [[Darren Kong]] - towards alternative futures of law enforcement and policing

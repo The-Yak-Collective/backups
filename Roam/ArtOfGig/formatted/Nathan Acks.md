@@ -57,7 +57,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [Facebook](<Facebook.md>)
 Last Updated:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-## [Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers: Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - ^^[Nathan Acks](<Nathan Acks.md>)^
 
 ## [GitHub](<GitHub.md>)
