@@ -482,6 +482,8 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - I'm also in the military--initially full-time, and now part-time as a Reservist in the Navy. Despite my best attempts, it deeply colors the way I see the world, and I continue to find military people and organizations simultaneously infuriating and fascinating. I was a submariner long ago, and more recently I've deployed with a Special Operations unit in an operational support role.
     - LinkedIn: https://www.linkedin.com/in/benjamin-smith-b2723a75/
     - I have Methodological Experience in survey design, statistical analysis of survey data, semi-structured interviews, focus group moderation, and thematic analysis.
+- [Matt Smith](<Matt Smith.md>)
+    - {{[embed](<embed.md>): ((((xSN6IdjYE))))}}
 - [James Stuber](<James Stuber.md>)
     - "paychecked engineer in fusion energy"
     - "Productivity coach for a tiny number of clients"

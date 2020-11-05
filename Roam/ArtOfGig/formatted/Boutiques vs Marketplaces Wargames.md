@@ -46,6 +46,9 @@
     - **[Meeting minutes](<Meeting minutes.md>):**
 
 # Backlinks
+## [November 4th, 2020](<November 4th, 2020.md>)
+- [x] followup on [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
 

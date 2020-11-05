@@ -187,6 +187,9 @@ Yaks competing for attention
 ## [Marketing Resources](<Marketing Resources.md>)
 - **[About](<About.md>):** artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [November 4th, 2020](<November 4th, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

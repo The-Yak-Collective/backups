@@ -8,6 +8,9 @@
 
 - {{[embed](<embed.md>):
 
+## [Directory](<Directory.md>)
+- {{[embed](<embed.md>):
+
 ## [Moe 'enable human' Ali](<Moe 'enable human' Ali.md>)
 - "{{[embed](<embed.md>):
 

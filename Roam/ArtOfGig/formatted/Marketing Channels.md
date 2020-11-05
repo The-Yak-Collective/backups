@@ -37,6 +37,9 @@ The plan was to establish three tracks/beats:
         - low adoption from Yaks 
 
 # Backlinks
+## [November 4th, 2020](<November 4th, 2020.md>)
+- We need to develop [Marketing Channels](<Marketing Channels.md>)
+
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - "[Marketing Channels](<Marketing Channels.md>)
 

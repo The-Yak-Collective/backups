@@ -70,6 +70,9 @@
 ## [Movement Marketing: 4 Strategies For Sparking A Brand Movement](<Movement Marketing: 4 Strategies For Sparking A Brand Movement.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [November 4th, 2020](<November 4th, 2020.md>)
+- [x] [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 

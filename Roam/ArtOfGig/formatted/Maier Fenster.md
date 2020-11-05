@@ -88,6 +88,9 @@
 ## [Netlify](<Netlify.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [November 4th, 2020](<November 4th, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 

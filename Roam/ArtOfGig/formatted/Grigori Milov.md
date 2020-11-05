@@ -110,6 +110,11 @@
 
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [November 4th, 2020](<November 4th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- [x] [Future Frontiers](<Future Frontiers.md>) Launch, [Grigori Milov](<Grigori Milov.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

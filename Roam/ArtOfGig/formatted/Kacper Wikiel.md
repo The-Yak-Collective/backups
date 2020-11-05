@@ -6,3 +6,6 @@
 ## [Infrastructure](<Infrastructure.md>)
 - Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>) [Maier Fenster](<Maier Fenster.md>) [Paul Sas](<Paul Sas.md>) [Kacper Wikiel](<Kacper Wikiel.md>)
 
+## [November 4th, 2020](<November 4th, 2020.md>)
+- [x] [Kacper Wikiel](<Kacper Wikiel.md>)
+

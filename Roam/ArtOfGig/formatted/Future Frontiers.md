@@ -157,6 +157,9 @@ Next decade can bring more examples like this one.
 ## [Infinity Pool](<Infinity Pool.md>)
 - Currently two projects are following an infinity pool model: [Astonishing Stories](<Astonishing Stories.md>) and [Future Frontiers](<Future Frontiers.md>)
 
+## [November 4th, 2020](<November 4th, 2020.md>)
+- [x] [Future Frontiers](<Future Frontiers.md>)
+
 ## [PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework](<PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework.md>)
 - A framework for thinking about the future introduced for the [Future Frontiers](<Future Frontiers.md>)
 

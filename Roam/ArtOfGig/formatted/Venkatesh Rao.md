@@ -267,6 +267,9 @@ owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Neurofuturama](<Neurofuturama.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [November 4th, 2020](<November 4th, 2020.md>)
+- we should have a call with [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [October 23rd, 2020](<October 23rd, 2020.md>)
 - Updated the [Facebook](<Facebook.md>) and [LinkedIn](<LinkedIn.md>) [IT Infrastructure](<IT Infrastructure.md>) pages based on [Venkatesh Rao](<Venkatesh Rao.md>)'
 
