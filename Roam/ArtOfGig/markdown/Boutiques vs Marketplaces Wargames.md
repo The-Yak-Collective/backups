@@ -5,7 +5,7 @@
 - Created:: [[October 29, 2020]] by [[Grigori Milov]]
 - Last Updated:: [[October 29, 2020]] by [[Grigori Milov]]
 - Last Gardened:: [[October 29, 2020]] ^^Please, Don't^^
-- Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^👍
+- Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^👍 
 - Status:: {{or: Early Concept | Active | Proposal | Complete}}
 - Jobs and ways to contribute::
     - jobs:: Two Teams, Two Team Leads: E.g. Team Red Pill (Marketplace) and Team Blue Pill (Boutique)

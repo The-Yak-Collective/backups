@@ -5,7 +5,7 @@
 - **[Created](<Created.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
 - **[Last Updated](<Last Updated.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
 - **[Last Gardened](<Last Gardened.md>):** [October 29, 2020](<October 29, 2020.md>) ^^Please, Don't^^
-- **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^👍
+- **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^👍 
 - **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
     - **[jobs](<jobs.md>):** Two Teams, Two Team Leads: E.g. Team Red Pill (Marketplace) and Team Blue Pill (Boutique)
