@@ -11728,12 +11728,6 @@
                     "edit-time": 1600732740709,
                     "string": "^^**copyeditor**\n[[Fname Lname]]^^ \n^^**illustrator** [[Justice]]^^",
                     "uid": "l1rdJa_A0"
-                  },
-                  {
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1602544165691,
-                    "string": "03 [[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) ",
-                    "uid": "gxTA6agA_"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -11818,6 +11812,12 @@
                     "edit-time": 1602544161724,
                     "string": "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
                     "uid": "upEZlclsc"
+                  },
+                  {
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1602544165691,
+                    "string": "03 [[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) ",
+                    "uid": "gxTA6agA_"
                   }
                 ],
                 "edit-email": "j@djinna.com",
@@ -13167,5 +13167,12 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1604567674027,
     "title": "November 5th, 2020"
+  },
+  {
+    "create-email": "yakcollective.org@gmail.com",
+    "create-time": 1604654087733,
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1604654087734,
+    "title": "November 6th, 2020"
   }
 ]
