@@ -1,7 +1,7 @@
 - **[About](<About.md>):** __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>) 
-- **[Last Updated](<Last Updated.md>):** [October 30th, 2020](<October 30th, 2020.md>) By:: [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):** [November 6th, 2020](<November 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 -  
 - As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...
 - **Completed Readings**
@@ -117,7 +117,7 @@ https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
 - [September 25th, 2020](<September 25th, 2020.md>) [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [October 23rd, 2020](<October 23rd, 2020.md>) [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - [October 30th, 2020](<October 30th, 2020.md>) [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
-- 
+- [November 6th, 2020](<November 6th, 2020.md>) [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
 - 
 - 
 - 

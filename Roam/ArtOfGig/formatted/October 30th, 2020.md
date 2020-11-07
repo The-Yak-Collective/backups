@@ -13,7 +13,5 @@
 - **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>)
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
-- **[Last Updated](<Last Updated.md>):** [October 30th, 2020](<October 30th, 2020.md>)
-
 - [October 30th, 2020](<October 30th, 2020.md>)
 

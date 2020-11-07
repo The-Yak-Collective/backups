@@ -32,6 +32,10 @@
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**

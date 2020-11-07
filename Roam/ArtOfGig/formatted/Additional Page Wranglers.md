@@ -91,6 +91,10 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**

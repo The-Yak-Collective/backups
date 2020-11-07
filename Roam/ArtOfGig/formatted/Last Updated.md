@@ -74,6 +74,10 @@
 - **[Created](<Created.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- **[Created](<Created.md>):** [November 6th, 2020](<November 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):**
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**

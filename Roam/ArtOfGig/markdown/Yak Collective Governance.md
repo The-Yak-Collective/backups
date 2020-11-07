@@ -1,7 +1,7 @@
 - About:: __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]] 
-- Last Updated:: [[October 30th, 2020]] By:: [[Jenna Dixon]]
+- Last Updated:: [[November 6th, 2020]] by [[Jenna Dixon]]
 -  
 - As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...
 - **Completed Readings**
@@ -117,7 +117,7 @@ https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
 - [[September 25th, 2020]] [[YC Gov Chat Minutes - Netflix culture deck]]
 - [[October 23rd, 2020]] [[YC Gov Chat Minutes - AMA Mike Baxter]]
 - [[October 30th, 2020]] [[YC Gov Chat Minutes - Master Operating Principle]]
-- 
+- [[November 6th, 2020]] [[YC Gov Chat Minutes - Collective Intentionality]]
 - 
 - 
 - 

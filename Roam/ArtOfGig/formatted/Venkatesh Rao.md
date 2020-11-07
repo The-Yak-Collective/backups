@@ -412,6 +412,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - Think potential energy. Build up an asset and network over years. Don’t look for ways to generate leads from a cold start in weeks. What you do now might get you leads in 2021. Think leadgen with a min 12 month horizon - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 

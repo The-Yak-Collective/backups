@@ -87,6 +87,17 @@ Created:: `/today` by [Fname Lname](<Fname Lname.md>)
 
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>) | [Fname Lname](<Fname Lname.md>)
 

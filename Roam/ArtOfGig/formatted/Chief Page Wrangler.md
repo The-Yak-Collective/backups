@@ -84,6 +84,10 @@
 - **[About](<About.md>):** __weekly online-governance-chat minutes__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- **[About](<About.md>):** __chat notes for weekly call__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[About](<About.md>):** __XXX__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

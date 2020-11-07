@@ -66,6 +66,9 @@ The synchronization of brain and environment moves closer with each advent. The 
 ## [The New Old Home](<The New Old Home.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 

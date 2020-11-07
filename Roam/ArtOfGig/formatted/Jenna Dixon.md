@@ -202,6 +202,11 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 
 - **[Last Gardened](<Last Gardened.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- **[Created](<Created.md>):** [November 6th, 2020](<November 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -216,7 +221,7 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
-- **[Last Updated](<Last Updated.md>):** [October 30th, 2020](<October 30th, 2020.md>) By:: [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):** [November 6th, 2020](<November 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jenna Dixon](<Jenna Dixon.md>)

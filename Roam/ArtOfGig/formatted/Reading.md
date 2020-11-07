@@ -7,3 +7,7 @@
 - [August 28th, 2020](<August 28th, 2020.md>)
 - **[Reading](<Reading.md>):**
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- 
+- **[Reading](<Reading.md>):**
+

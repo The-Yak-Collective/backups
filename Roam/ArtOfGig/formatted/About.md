@@ -54,6 +54,9 @@
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[About](<About.md>):**
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- **[About](<About.md>):**
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - **[About](<About.md>):**
 
