@@ -1,6 +1,5 @@
 - Stub for notes and excerpts as we read through.
 - Notes from Wednesday night discussions will also be added here.
-- 
 - https://www.urbanomic.com/document/reengineering-philosophy/
 - https://mitpress.mit.edu/books/intelligence-and-spirit
 - https://www.youtube.com/watch?v=5VA7u2BADbA
