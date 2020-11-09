@@ -605,4 +605,99 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
             - [[Maier Fenster]] I can grab channel stats with the website
             - [[Venkatesh Rao]] That would be something cool to see on the website.
             - [[Maier Fenster]] I have something like this already, but would need to be adapted for the website.
-- 
+- infrastructure chat 26 [[November 8th, 2020]]
+    - [[Darren Kong]]'s notes
+        - knack
+            - switch snowflake IDs to string.. float conversion error? 
+        - channels
+            - promoting the probationary channels
+                - criteria
+                    - two week probationary period  
+                    - minimum viable activity 
+                        - 1 message/day? 
+                        - 10 messages/week ? 
+            - deleting channel
+                - 
+            - archive channel
+                - remove posting from archive
+                - how do we resurrect a channel? 
+            - between section 
+                - public plaza
+                    - post events to general? 
+                - coworking-cafe - is a commitment buddy 
+            - channel map
+                - discord bot - explain what each channel does
+                - channel tagging
+                - keyword mapping
+        - types of members
+            - subset on knack
+            - subset on website 
+            - subset never introduced themselves 
+            - how do we make a decision?
+        - testing/deployment 
+            - post on discord, ask for feedback, as long as no one hates it 
+            - Roam checklist 
+        - yak map
+    - [[Nathan Acks]] notes
+        - Channels (Darren)
+            - Darren: Provisional channels are going well. Should we promote them?
+            - Maier: How are channels normally handled?
+            - Darren: We have more channels, and more specific channels, than more. Our users are also generally less sophisticated.
+            - Maier: I would wait two week, and then promote things that are still active.
+            - Darren: Any other criteria? One post per day?
+            - Nathan: Sometimes channels can skip a day. I'd do something more like 5 - 10 a week.
+            - Maier: We should have a dashboard (posts per day, new people, etc.), and then make a decision.
+            - Nathan: I'd go to for something simpler with a defined lifecycle.
+            - Darren: Mix probationary and archive? Like levels?
+            - Maier: I don't want to mix the babies and dying channels.
+            - Nathan: What about resurrected channels?
+            - Maier: No opinions.
+            - Darren: I can write some proposed criteria.
+            - Nathan: I can write up a lifecycle proposal. We should coordinate.
+            - Darren: General is pretty dead.
+            - Nathan: Why don't we post Events in General?
+            - Darren: No reason.
+            - Maier: We should have a (text) map of channels.
+            - Vinay: I like this idea. Can this maybe be combined with the Yak Map? This might be too complicated.
+            - Maier: We are building a capability to pre-launch channel recommendations. We can also output a list of active channels (once we start monitoring channels). We could also have a tool that looks for keywords.
+            - Vinay: We definitely need some new tools. Maybe we could prioritize this list?
+            - Nathan: Is there a way to tag channels?
+            - Maier: We'd need to write a custom system to do this. But I'd recommend we just build this "tag/word cloud" automatically.
+            - Nathan: This goes back to an idea we've periodically kicked around. "Here's the top 5 most active channels this past week," etc. I think there are three points here:
+                - When do we archive/promote channels?
+                - How do we better organize/consolidate channels?
+                - How do we increase channel discoverability?
+            - Vinay: I think discoverability is very connected to promotion and archiving.
+        - Types of members (Maier)
+            - Maier: Right now we have several types of members, but we need better definitions. Then we need to map these levels to who __can__ be in Vinay's map.
+                - Not members
+                - Yaks
+                - Made yaks
+                - Kicked out (because they haven't done anything)
+            - Nathan: I don't have opinions.
+            - Maier: We just someone to make a decision. These are the types, these are the people on the website, these are the people in the Yak Map. (Also, I don't think we're actually kicking people off right now.)
+            - Vinay: I think it goes...
+                - Yaks (everyone in Discord)
+                - Active yaks (people with an intro, can be in Network Map)
+                - Made yak (public project participation, on website, can be in Network Map)
+                - Yak shaver (admin people)
+            - Vinay: Just post a suggestion in Infrastructure.
+            - Nathan: I will just write up something.
+        - Testing and deployment (Maier)
+            - Maier: What is our standard for launching things?
+            - Nathan: I just ping the infrastructure channel a few days to a week ahead of time.
+            - Maier: We need some kind of semi-official second pair of eyes.
+            - Vinay: You should write something up, and send it to Nathan. We probably need one or more QA people, maybe someone who is outside of the infrastructure group, or at least someone who's more of a "normal" user.
+            - Nathan: We already have a semi-formal project review process.
+            - Maier: So, we should have a Roam page for every infrastructure project. We'd need a checklist for each release with a formal sign-off (doesn't need to be the same reviewer/QA person as listed on the Roam page).
+            - Nathan: So, there needs to be a checklist for each project, but it won't necessarily be the same checklist for each project. I don't want to write this, but Maier's right.
+            - Vinay: I think checklists already exist.
+            - Nathan: Whoever runs the project should write up the page. I will roll mine in with the rest of the documentation updates, so I might be late to the party.
+        - Update on the Network Map (Vinay)
+            - Vinay: Going to add some simple documentation + a guide on how to use. Then do a simple demo for people, and then next week have a discussion on this call about how best to integrate this into the website.
+            - Nathan: Are changes just JavaScript + JSON, or does it involve HTML changes?
+            - Vinay: Using a plug-in to generate things. Just JSON changes.
+            - Maier: We could do this with an iframe?
+            - Nathan: Theoretically, yes, but I'd rather not if we don't have to.
+            - Vinay: Version 1.0 is ready, we just need to get people's impressions now, and see if this is worthwhile to folks. Focused on this in the next month.
+            - Nathan: I'll drop in the new JSON.

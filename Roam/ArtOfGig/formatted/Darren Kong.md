@@ -43,6 +43,8 @@
 
 - [Darren Kong](<Darren Kong.md>)
 
+- [Darren Kong](<Darren Kong.md>)'
+
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>) and [Darren Kong](<Darren Kong.md>)
 
