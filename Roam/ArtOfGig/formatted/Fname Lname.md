@@ -31,6 +31,9 @@
 
 Created:: `/today` by [Fname Lname](<Fname Lname.md>)
 
+## [Fair equity](<Fair equity.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 
@@ -74,6 +77,20 @@ Created:: `/today` by [Fname Lname](<Fname Lname.md>)
 
 ## [Production Cell](<Production Cell.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>)
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+
+Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
+
+## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+
+Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)

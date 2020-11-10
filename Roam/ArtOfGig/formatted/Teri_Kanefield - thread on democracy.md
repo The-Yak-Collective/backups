@@ -1,0 +1,66 @@
+- https://twitter.com/Teri_Kanefield/status/1325958390481211393
+- https://twitter.com/Teri_Kanefield/status/1325963115347939328
+- [Tweet](https://twitter.com/i/status/1325958390481211393) by [@Teri_Kanefield](https://twitter.com/Teri_Kanefield) on [November 10th, 2020](<November 10th, 2020.md>):
+- Dear doomsayers: If you're new to my feed, please check out my FAQs.
+    - Don't say untrue things like "the entire system is broken." It's just as big a lie as "the election was rigged and Trump didn't lose."
+    - As [@selectedwisdom](https://twitter.com/selectedwisdom) has explained . . .
+    - 1/
+- . . . a goal of Active Measures is to undermine confidence in public institutions.
+    - Trump lost the election, but NOOOOO that isn't enough. Trump is filing frivolous lawsuits so WE ARE DOOMED.
+    - The danger isn't a Trump coup. . .
+    - 2/
+- . . . the danger is that people are not willing to put in the necessary work to make democracy work.
+    - Yeah, I'm going on a tear. If you've heard this lecture before, you can stop reading.
+    - Nobody owes you a democracy. For most of American history, we lived in a hierarchy.
+    - 3/
+- People moaning about how bad things need to consider what life was like in 1850 for a Black woman. She didn't even own her own body. Literally.
+    - Yes, Trump is a threat to democracy.
+    - Yes, the right-wing well-oiled propaganda machine is a threat to democracy.
+    - 4/
+- But when people talk about "the system" and "American democracy," consider this -- until about 1955, we didn't actually have a democracy.
+    - We had Jim Crow. That wasn't democracy for a lot of people.
+    - In the 19th century a woman couldn't vote.
+    - 5/
+- The "system" people say is "broken" is actually less than 100 years old.
+    - We got here because of the hard work of people like Thurgood Marshall, Susan B. Anthony, MJK, Jr. and so many others who literally dedicated their lives getting rid of the 19th century patriarchy.
+    - 6/
+- America didn't begin to transition to a true liberal democracy until after about 1955.
+    - 1954: Brown v. Board (the Supreme Court case that held segregation illegal.)
+    - 1955: The backlash against Brown v. Board picked up momentum.
+    - We're still riding the backlash.
+    - 7/ [pic.twitter.com/KiuLH8Z5Xd](https://twitter.com/Teri_Kanefield/status/1325960768467070977/photo/1)
+- Wanna know why Mitch McConnell and friends cared ONLY about confirming Amy Coney Barrett?
+    - Wanna know why they were so determined?
+    - Because they are STILL angry at the decision in Brown v Board, and the liberal decisions that followed and changed America.
+    - 8/
+- Trump didn't appear out of the clear blue sky and fracture a perfectly good democracy.
+    - Since 1954, a liberal democracy has been struggling to take hold in America.
+    - Trump and friends are doing everything they can to turn back the clock to before 1954 and before 1920.
+    - 9/
+- Before 1920, there was not much of a "deep state."
+    - That was before the regulatory agencies and regulations that prevented [white] men from grabbing and cheating.
+    - On the frontier they could grab land!
+    - They could grab women!
+    - 10/
+- Before regulatory agencies, they could manipulate prices and fix markets. They could cheat! They could force people to work for pennies! They didn't have to provide worker safety!
+    - 🎶Those were the days 🎶
+    - (That's Archie Bunker singing, not Mary Hopkins)
+    - They wanna go back.
+    - 11/
+- Sure, why not. They had it good.
+    - The Trumps and Mitch McConnells have always been around.
+    - They were pro-slavery. Then pro-Jim Crow. They liked the age of robber barons. They hated the New Deal.
+    - They'll always be around.
+    - We push forward.
+    - They push back.
+    - 12/ [pic.twitter.com/EEFkKzE6p0](https://twitter.com/Teri_Kanefield/status/1325962760757288962/photo/1)
+- We create laws that create fairness for everyone. They roll the laws back.
+    - It doesn't end until we give up.
+    - This is why I keep saying that the solution is productive civic engagement. Doomsaying is not productive.
+    - I rest my case.
+    - 13/
+
+# Backlinks
+## [November 10th, 2020](<November 10th, 2020.md>)
+- [Teri_Kanefield - thread on democracy](<Teri_Kanefield - thread on democracy.md>)
+

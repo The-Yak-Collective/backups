@@ -12,7 +12,7 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 - **[Created](<Created.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [ ](< .md>)
 - **[Created](<Created.md>):**
 

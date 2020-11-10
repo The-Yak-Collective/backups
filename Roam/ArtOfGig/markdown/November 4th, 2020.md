@@ -1,4 +1,3 @@
-- 
 - [[YC Marketing - distributed CMO]] weekly sync #meeting-notes
     - Location: discord 
     - Time: 5pm GMT 

@@ -12,12 +12,16 @@
 - **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [Fair equity](<Fair equity.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Infrastructure](<Infrastructure.md>)
-- **[Last Updated](<Last Updated.md>):** [October 25th, 2020](<October 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Privacy Policy](<Privacy Policy.md>)

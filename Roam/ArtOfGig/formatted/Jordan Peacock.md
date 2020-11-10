@@ -89,9 +89,9 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
-marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [Jordan Peacock](<Jordan Peacock.md>)
-
 - [ ] receive reply from [Jordan Peacock](<Jordan Peacock.md>)
+
+marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Knack.com](<Knack.com.md>)
 - Share login: [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
@@ -148,6 +148,9 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/[comment-271146](<comment-271146.md>) [Jordan Peacock](<Jordan Peacock.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+7. [Jordan Peacock](<Jordan Peacock.md>):
 
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)

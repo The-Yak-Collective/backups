@@ -202,6 +202,9 @@ Yaks competing for attention
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+- Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>)) or internally facing (__e.g.__, [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>))
+
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>) Started [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

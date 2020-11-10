@@ -1,10 +1,9 @@
 About:: __documenting YakC shared infrastructure__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
-Created:: `/today` by [[Nathan Acks]]
-Last Updated:: [[October 4th, 2020]] by [[Nathan Acks]]
+Created:: [[August 29th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[November 9th, 2020]] by [[Nathan Acks]]
 Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
-
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + SVG diagram development by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
     - [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [[Maier Fenster]] has developed an SVG diagram that (currently) more completely captures the relationship between different components of the Yak Collective's IT infrastructure than is possible natively.
@@ -119,4 +118,6 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
     - [[Threat Model]]
 # Discussions & Decisions
     - [[onboarding it - thoughts about onboarding infrastructure]]
-    - Etc.
+# Proposals
+    - [[Proposal: Yak Collective Member Types]]
+    - [[Proposal: Discord Channel Lifecycle and Organization]]

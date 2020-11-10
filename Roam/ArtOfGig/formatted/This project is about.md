@@ -8,7 +8,7 @@
 - **[Meta](<Meta.md>):**
     - **[This project is about](<This project is about.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
 - **[Meta](<Meta.md>):**
     - **[This project is about](<This project is about.md>):**
 

@@ -61,6 +61,9 @@
 ## [Facebook](<Facebook.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Fair equity](<Fair equity.md>)
+- **[Last Gardened](<Last Gardened.md>):** [November 9th, 2020](<November 9th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -83,11 +86,11 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 ## [Infrastructure](<Infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
-- **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
-- [x] Knack: is it time? [Jenna Dixon](<Jenna Dixon.md>):
+- **[Last Gardened](<Last Gardened.md>):** [November 9th, 2020](<November 9th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+
+- [x] Knack: is it time? [Jenna Dixon](<Jenna Dixon.md>):
 
 ## [Jenna Dixon](<Jenna Dixon.md>)
 - {{[query](<query.md>): {and: [Jenna Dixon](<Jenna Dixon.md>)
@@ -196,6 +199,9 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 
 ## [September 26th, 2020](<September 26th, 2020.md>)
 - Started on [Roam Gardening](<Roam Gardening.md>) and [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) [ping](<ping.md>) [Jenna Dixon](<Jenna Dixon.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+1. [Jenna Dixon](<Jenna Dixon.md>):
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Created](<Created.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)

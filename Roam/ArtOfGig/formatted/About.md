@@ -21,6 +21,9 @@
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - **[About](<About.md>):**
 
+## [Fair equity](<Fair equity.md>)
+- **[About](<About.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[About](<About.md>):**
 

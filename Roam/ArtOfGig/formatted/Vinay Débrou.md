@@ -37,9 +37,9 @@
 - [Vinay Débrou](<Vinay Débrou.md>):
 
 ## [Infrastructure](<Infrastructure.md>)
-- [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)
-
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Vinay Débrou](<Vinay Débrou.md>)
+
+- [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - A few core areas where we can offer in-demand expertise are web branding/media strategy, online learning, multidisciplinary remote collaboration, designing online spaces. [Vinay Débrou](<Vinay Débrou.md>)
@@ -71,6 +71,9 @@
 
 ## [Summary: Brainstorm Questions](<Summary: Brainstorm Questions.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+6. [Vinay Débrou](<Vinay Débrou.md>):
 
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)

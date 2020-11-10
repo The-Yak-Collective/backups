@@ -2,8 +2,10 @@
 - Chief Page Wrangler:: [[Darren Kong]]
     - Additional Page Wranglers:: [[Nathan Acks]] | [[Jenna Dixon]]
 - Created:: [[May 9th, 2020]] by [[Darren Kong]]
-- Last Updated:: [[October 25th, 2020]] by [[Nathan Acks]]
-- Last Gardened:: [[October 21th, 2020]] by [[Jenna Dixon]]
+- Last Updated:: [[November 8th, 2020]] by [[Nathan Acks]]
+- Last Gardened:: [[November 9th, 2020]] by [[Jenna Dixon]]
+    - __reversed the order of the chat notes so that the newest is on top 👇
+suggest most recent note left untwirled for easy review to visitors__
 - 
 - ## Lists/Docs #needsupdate
     - [[Project Launch Checklist]]
@@ -23,442 +25,102 @@
         - 2jplEZUYM
         - 
 - ## Infrastructure Chat Notes
-- [[#infrastructure chat 01]] [[May 9th, 2020]] 
-On-boarding new members #meeting-notes
-- [[#infrastructure chat 02]] [[May 16th, 2020]] 
-Speculative discussion on ideal-state for YC infrastructure #meeting-notes
-- [[infrastructure chat 03]] [[May 23th, 2020]] 
-Updates on new-member onboarding, feedback mechanisms, event ideas #meeting-notes
-- [[infrastructure chat 04]] [[May 30th, 2020]]
-Project Capacity + experiences with Yakcoin discussion #meeting-notes
-- [[infrastructure chat 05]] [[June 6th, 2020]] 
-didn't happen but agenda topics here #meeting-notes
-- infrastructure chat 06 [[June 13th, 2020]] 
-notes in — [[Yak Collective Website]] + [[Newsletter]] #meeting-notes
-    - Audio Recording: https://drive.google.com/file/d/1DVi_QFWCoyJjT1UPUXp52tQ876NS-vp2/view
-- [[infrastructure chat 07]] [[June 20th, 2020]] 
-Consulting diagrams w/ [[Steven Moody]] #meeting-notes
-- [[infrastructure chat 08]] [[June 27th, 2020]]
-marketing outreach w/ [[Alex Wagner]]+ levelling up discord w/ [[Jordan Peacock]] #meeting-notes
-- [[infrastructure chat 09]] [[July 4th, 2020]] 
-Yakcoin dev updates and discussion w/ [[Johnicholas Hines]] #meeting-notes
-- [[infrastructure chat 10]] [[July 11th, 2020]] #meeting-notes
-- infrastructure chat 11 [[July 18th, 2020]]
-worked on spotlight/case study #meeting-notes
-- [[infrastructure chat 12]] [[July 25th, 2020]] #meeting-notes
-- infrastructure chat 13 [[August 1st, 2020]]
-state of the union deck #meeting-notes
-    - https://docs.google.com/presentation/d/12pLjGxC6egO4QJvy06AjBTWm_4XhkfStyfdQ7p6DoOg/edit#slide=id.p
-- [[infrastructure chat 14]] [[August 8th, 2020]] #meeting-notes
-    - [[Yak Collective State of the Union]] roam version
-- skipped [[August 15th, 2020]] #meeting-notes
-- infrastructure chat 15 [[August 22nd, 2020]] #meeting-notes
-    - [[Yak Collective Website]]update from [[Nathan Acks]]
-        - V2.2 website, backend clean up, documentation/code comments
-            - Wanting to beef up the Roam page to help with onboarding other people 
-        - Featured yak has some issues still
-        - Nathan met with Sachin, Jenna, Chris re Astonishing Stories
-            - Have dev test on structure of having projects that can have n arbitrary pages
-        - Long-term move to Gatsby
-            - allow for more robust data integrations
-            - there's experiments with combining Roam + Gatsby as presentation layer
-    - Roam back up - currently manual monthly... automatic? 
-    - Making updates to [[Yak Collective State of the Union]]
-- infrastructure chat 16 [[August 29th, 2020]] #meeting-notes
-    - https://tilnow.github.io/docjs/index
-        - Tried to look into how this could work in Roam using the mermaid diagram... can't link out to pages atm
-    - Nathan - documentation sprint on Roam  [[Yak Collective Website]] page
-    - discord changes were being implemented by Jordan + people he invited (ping Jordan for update)
-    - Knack integration 
-        - demo of website that pulls in data from Knack (which is itself a copy of github data) - almost works perfectly. there's a problem with Jekyll plugin -> member pages are getting wrong layout
-    - gov question after the implementation is figured out... 
-        - how do we want to handle - Jenna has been leading some of that [[Privacy Policy]]
-            - how do we want to publicize
-            - what level of controls
-            - GDPR compliance given worldwide membership
-    - [[Schema | member data]]
-        - only required fields in YAML atm are Name and Avatar
-            - tabled the idea of pulling that from discord (GDPR compliance)
-                - people on website are the contributors to projects
-            - do we want to have discord name? 
-        - possibility of Roam-Web integration in a future version of the site in Gatsby
-            - example: https://mathieudutour.github.io/gatsby-digital-garden/
-            - concern on data consistency but will be addressed with Roam's new backend
-    - move the chat to Sunday which is better for Nathan and Maier
-    - revisit [[Threat Model]]
-        - do another pass at the credential documentation in this page
-        - currently share netlify account that is owned by our "robot" github account - we would need 3 members if we were to go paid $19 per member x3 members / mo
-- infrastructure chat 17 [[September 6th, 2020]] #meeting-notes
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FjzX_MdmIS_.jpeg?alt=media&token=620f7414-6f61-417e-919b-64b41f8a086d)
-    - assets for social 
-        - substack
-            - grigori - asked about the email list if they could compare to substack 
-            - Matthew Sweet is slowly taking over 
-            - possibility of email signup for specific project 
-                - switch to another email newsletter tool that supports multiple lists? 
-            - two newsletters?
-                - prospective client
-                - prospective members
-            - export newsletter email list 
-            - subscribe google form emails to substack?
-        - twitter
-            - ?
-        - facebook
-            - ?
-    - marketing
-        - there's not enough dedicated marketing personnel 
-            - don't necessarily need to do a weekly newsletter 
-    - member onboarding?
-        - capturing info Discord intro -> subscribe to newsletter?
-            - newsletter - curious 
-                - there's also pruning mechanisms like if you haven't opened the last email  
-            - have to get involved 
-            - have to ask for more information 
-            - website - after they stick around 
-        - hellobot - DM 
-            - yak map
-            - newsletter 
-        - nothing new since 
-            - emoji reacts in introduction channel
-            - + weekly welcome by Jordan 
-        - be more directive of onboarding ... to paths 
-            - list of links - look around 
-            - complete minimal steps 
-            - not sure if Carl can do a drip or triggered messages 
-            - join - first message, intro-  second message?, third message - fill out this web  form?
-    - Documentation guidelines
-    - Action items:
-        - Look into triggered / drip messages for Carl 
-        - Twitter/fb accounts
-- infrastructure chat 18 [[September 13th, 2020]] #meeting-notes
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fia1JXLwU6y.jpeg?alt=media&token=e916e06f-1982-4e51-8b17-ddb5e8b990be)
-    - Audio bandwidth
-        - Discord levels have audio bandwidth tier 
-        - Updating Discord level ... 30 boosts $5/mo
-        - alternative meeting infrastructure
-            - google meet
-                - Change meeting to google meet - use Nathan's account
-            - zoom 
-    - Assets 
-        - Calendar
-            - 15 people access to edit
-            - Currently owned by Venkat 
-                - Added modify sharing permissions to yak collective gmail 
-        - [[Twitter]]
-            - change email address from Venkat to yak collective gmail 
-            - Tweetdeck teams is how permissions are shared
-    - Carl drip discord messages
-    - Proposal structure
-        - Active projects - have run into logistical issues. Something systematic going on? First set of projects had momentum. 
-            - Final Frontiers - illness 
-            - Innovation Consulting - last editing cycle, stuck in resourcing production piece 
-            - Astonishing stories - budget to graphics
-        - Make sure Venkat isn't the bottleneck for the next set 
-            - Automate the proposal 
-            - Move from sync, not every month, 3 months, etc
-            - Async on-demand process, 2-3 people interested in working on something... kick off on their own timeline, decentralized
-            - Move to smaller demand, easier to market themselves easily, filling resourcing needs, lots of little thing that need to be fixed 
-            - Maier: channel on discord - the projects keep bubbling up... you can't talk. only vote up projects. 
-                - What resources/value do yakcollective get? 
-                    - Marketing - Marketing resources - newsletter, twitter, page...
-                        - Marketing is decentralized now 
-                    - Staffing - In theory, pool of resources 
-                    - Financial 
-            - Marketing
-                - Don't waste on the reboot
-                    - how many views, how many outreach, how much money? 
-                    - probably zero, but it was more of an introduction 
-                    - get insight into how the projects get positioned, what does well, etc
-                - 600 yaks but 34 members 
-                    - Structurally we have 1/3 gig job site and 2/3 is missing. 
-                    - Why are people joining? Why are people contributing
-                        - New independent consultants, gain experience
-                        - Survey ? 
-                        - + Defining and stating what membership means 
-                            - to help qualify and give structure for members to contribute... 
-                    - Member available/not available
-                        - Slider?
-                        - Can also take an aggregate view of yak collective availability 
-                        - gig weather pulse 
-                        - 1x month - temperature check
-                            - Discord bot? 
-                            - Email?
-                    - Discord, Roam -> email
-                        - Member updates
-                        - Project - Scrum updates
-                            - Active project as an entity 
-                            - Either project is dead or backburner or ... Project is a living thing. Polled just like an individual 
-                        - Roam 
-                            - Extract updates - structured fields 
-                        - Analogy streak checkins with Github 
-    - Discord
-        - UX of pinned messages 
-        - Add roam page to channel topic
-            - Did so with infrastructure  
-        - Roam unfurl preview is not helpful atm, but probably Roam will fix.
-        - People come with wrong expectation. That they should have high level visibility of everything
-            - Bureaucracy vs farmer's market
-            - Have to walk into the right stall 
-            - How do we 
-    - Website could have a "now" page or what the active projects are
-        - Help orient people to get active 
-        - State of the union update -> web active page 
-            - Historical, Active 
-    - Prospectus 
-        - No one's worked on this
-    - Next steps/projects:
-        - 1. Email inward facing member/project member thing
-        - 2. Update proposal project thats async 
-            - Venkatesh owning V2 "human" side 
-            - Define set of specs - to do a roam page, here there are 3 fields. 
-                - Use Knack? 
-        - 3. CMO role
-- infrastructure chat 19 [[September 20th, 2020]] #meeting-notes
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FA7_7gZSq2J.png?alt=media&token=91c594a8-94c9-401d-8466-0c3b0ec1c019)
-    - Discordpy
-        - Testing for activity ```javascript
-```
-        - User/project Heartbeat 
-            - User availability ping on Discord
-        - Project heartbeat
-            - Discord
-            - Roam
-            - Github
-        - Semantic emoji -> message
-    - marketing
-        - spoke with Maier
-        - chatted with Grigori
-        - early days 
-        - expectations for marketing
-        - What's important right now?
-            - Projects haven't had much marketing
-                - Mostly relying on Twitter and social capital of Venkat and other members 
-                - 1. Astonishing Stories and 2. Innovation Consulting both need marketing support 
-                - Defining project audience for each project 
-                    - define audience at project start rather than at end 
-            - Internal marketing 
-                - engaging users more 
-                    - making opportunities/activity visible.. where can people plug in? 
-                    - get the /now page going
-                    - onboarding
-                        - new Yak chat is good for meeting and getting to know each other
-                        - Venkat's chat otherwise is the only one that has threshold of attendance. 
-                        - chats are easy to join vs project works 
-                    - reactivation is key. we already have a lot of community members
-                    - gap with community members that don't have as strong of a self-starting lean
-            - External marketing 
-                - potential customers
-            - Newsletter
-                - shift to more internal focus? 
-                - communicate project activity more ? 
-    - roam js+templates [[Roam template PoC by @ViktorTabori]]
-        - can turn on/off js [[roam/js]]
-        - populates the template :header:   [[template/header]]
-        - have some template for Roam page 
-            - write up quick start guide for Roam ?
-            - could use [*](((B6fmZASx5))) {{[[r/moved]]}} to trigger a reminder to refresh
-        - have metadata and context so pages don't go stale
-            - allows for Roam cell:  Roam wrangling/librarian/archivist role
-    - Roam
-        - could potentially use daily notes for harvesting activity ? 
-        - Sidebar - shortcuts - keep updated
-        - Directory is deprecated
-        - there's a lot of quiescent pages
-            - last modified info - view for control ? 
-            - pull everything out of sidebar that's inactive 
-            - identify the single wringable neck for each page - associated with cell? 
-        - Index/welcome page for the Roam - useful structure
-    - Project mgt as independent role »»  [[Production Cell]]
-    - project activity measurement, etc.
-    - Nathan has more availability post-November
-    - Onboarding continue to be a painpoint
-        - go through discord channels - and add links to Discord topics 
-    - **Action Items:**
-        - {{[[TODO]]}} Everyone (+Paul)- Clean up Roam 
-            - Review changes next week 
-        - {{[[TODO]]}} Darren - Add roam links to each discord channel 
-        - {{[[TODO]]}} Nathan - Pass at Now page 
-        - {{[[TODO]]}} Hugo - assess and consider marketing plan
-        - {{[[TODO]]}} Darren - experiment w Discord analytics 
-            - {{[[TODO]]}} messages sent per channel/week 
-            - {{[[TODO]]}} webhook to YC website? 
-        - {{[[TODO]]}} Nathan - @Bardia works at Roam, interested in knowing about Astonishing Stories/Yak experience with roam 
-    - member database:
-        - {{[[DONE]]}} Knack: is it time? [[Jenna Dixon]]: check with Jordan (payment) (dm'd on Discord)
-            - {{[[TODO]]}} receive reply from [[Jordan Peacock]]
-        - {{[[DONE]]}} yak map: is it time? [[Darren Kong]]check with Vinay (data schema)
-            - {{[[TODO]]}} receive reply from [[Vinay Débrou]]
-    - 
-- infrastructure chat 20 [[September 27th, 2020]] #meeting-notes
-    - Yak talk newsletter
-        - Hey everyone, myself and a few of the yak talk team will be dropping in today to talk about the newsletter, how its changing, and how we can collaborate.
-    - What I know...
-- YakTalk
-- YakMap data schema
-- YakMap form: confirm build in Knack (or out)
-- Knack login ready for first testing >>> https://yak.knack.com/yaks#yak-profile/
-        - first pass close!
-        - haven't added yak map member
-        - haven't made any ask of members
-        - Maier integration testing with the API 
-            - Do we want to embed in yakcollective website?  (iframe)
-        - member speedbump
-            - fill out knack profile before contributing to a project? 
-            - knack profile to replace the signup google form? 
-                - add the post-sign up page with discord invite link
-                    - also show the active projects and how to get involved, who to contact, CFP 
-                        - project tracking in knack
-                    - don't have to solicit engagement but more an invitation with 3 options
-                        - 1. read more?
-                        - 2. jump in? 
-                    - We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [[Hugo Macedo]] 
-                        - what's a successful onboarding: 
-                            - {{[[DONE]]}} Profile created
-                            - {{[[DONE]]}} joined discord 
-                                - {{[[DONE]]}} intro in discord
-                            - {{[[DONE]]}} go to Roam and read Start Here
-                        - What's the "minimum viable interaction" you need to feel included/part of? 
-assume that you can't know/digest everything at once - YC is a complex and labyrintic  mansion just pick a small "room"
-                    - Way for members to get announcements or updates from projects
-            - internal fields for project contributions -> display member page 
-    - updated infrastructure map 
-    - discord python library - discord onboarding experience or analytics - no update 
-    - now page - no update, priority for this week - wrap into astonishing stories branch
-        - yakcollective.org/now or /current  
-    - Newsletter
-        -  Praful taking over from Alex and Matt
-        - newsletter has a global team 
-        - weekly cadence
-        - been hard to sustain
-        - proposal
-            - make the newsletter more sustainable 
-            - newsletter as an interface for engaging w YC as an "outsider"
-            - jobs to be done
-                - level up as a freelancer
-                - social group
-            - train up a network of members that can lead projects 
-            - sections
-                - member spotlight
-                - decision
-            - get a few stories drafted by Tues/Wed and edit Wed/Thurs ... send out on Fridays
-                - have less intensity around requiring every track to be represented
-        - automate the production of yak talk more... center it more around project updates w/ editors providing commentary? 
-            - project updates, analytics -> aggregated for newsletter
-                - update could be knack form
-                    -  single place to update would be great. instead of discord, email, call...
-        - content in some ways can actually detract from figuring out what's going on in yak collective
-        - possibility of using another tool besides substack like buttondown 
-            - substack doesn't have good analytics
-        - crosschecking member emails vs substack emails 
-        - GPT-3 assisted newsletter writing?
-    - Yak Map
-        - market through discord announcement channel and Yak Talk newsletter
-        - form draft in channel
-        - open questions
-            - knack vs google form? 
-                - allowing members to change data in knack with the rest of their profile... could be a separate section 
-                    - GDPR
-                    - can pull in the data via the API 
-                - although updates don't HAVE to be real-time
-            - are there fields that we want to add? 
-            - bio cards
-                - iframe?
-                - api -> biocard will need help
-                    - will be used to generate markdown format 
-        - push to launch next week
-        - jenna - share admin page 
-    - paul updated start here page 
-- Infrastructure Chat 21 [[October 4th, 2020]] #meeting-notes
-    - participants:: [[Nathan Acks]] | [[Maier Fenster]] | [[Hershil Patel]] | [[Jenna Dixon]] | [[Vinay Débrou]]
-    - Jenna has integrated the Yak Map questions into Knack.
-        - So, the idea is to drive the Yak Map first, and __then__ create an account if that makes sense.
-    - YakTalk is burned out. Too intense to produce.
-        - Needs to be reconstituted.
-    - Maier proposes "Yak Orbits" based upon [[Vaugh Tan]]'s work.
-        - Maier's idea is to present this as a non-editable field.
-        - Jenna thinks this assignable on the back end.
-            - to display or not to display, on member profile #openquestion
-        - This would be an additional number, in addition to the Discord level and heat map.
-    - The idea is to use Vinay's Yak Map project to jumpstart data entry here.
-        - Current conceptual levels (via Vinay):
-            - Yaks (posted info)
-            - Active Yaks (participating in any form)
-                - Project Participants
-            - Made Yaks (actually named in projects)
-    - UID issues
-        - Maier suggests we use the 15 digit Discord UID
-            - General agreement that this is the way to go.
-        - Vinay's using Discord username
-    - Maier proposes that we push people from Discord -> Knack as part of onboarding
-    - Jenna thinks we have Yak Map questions __first__ in Knack
-        - Knack can send out welcome emails.
-            - But Discord won't provide these (see below).
-        - Vinay will send Jenna the initial scraped CSV. This CSV has the Discord UID.
-            - [[October 5th, 2020]] https://docs.google.com/spreadsheets/d/1IPpiOm17In1ZLQqcNeVh4lVc-7T21dOdtZ8zPOm9ONA/edit?usp=sharing
-    - Maier points out that Discord only provides UID, username, and role
-        - We can bootstrap these comms using Maier's `yak_scraper` robot
-        - For the moment, we'll just DM people; later, we __may__ add interactivity.
-            - Reminders will be on a timer.
-- Infrastructure Chat 22 [[October 11th, 2020]] #meeting-notes
-    - Knackifying the yak network map google form https://yak.knack.com/yaks#yakmap-participation-signup/
-    - There may be minor data normalization that needs to happen with capitalization, spaces, etc
-    - Test email 
-    - Added password to knack form
-    - Discord bot is set up that can message based on UID
-    - Bot can compose parameters from discord into knack url like snowflake iD (UUID)
-    - Astonishing stories launching 1x week. card can be iterated upon.
-- Infrastructure Chat 23 [[October 18th, 2020]] #meeting-notes
-    - {{or: Early Concept | Proposal | Active | Complete}} 
-    - yak NM engagement
-        - send discord announcement
-        - email newsletter? 
-            - [[Praful Mathur]]
-        - minimum for next stage is 50-100 people
-        - no specification for the next phase - of matching 
-    - Project page template (knack integration?)
-        - [[Concept Contrast Project (temp name)]]
-    - Discord bot
-        - [[Maier Fenster]] made a test bot
-        - commands
-            - $whosenew
-            - $hello
-        - $10/mo  
-        - made it a private repository 
-        - make discord bot provision permission based on a list of snowflake IDs? 
-        - .
-        - Project updates
-            - Have dedicated channel 
-            - Every few days - 1 for each project what's going on 
-            - discord -> roam & knack? or discord -> knack 
-                - knack as management of frontend/data 
-                - website as a view into some of that data
-    - Discord gardening
-    - AMA
-    - What are the current 6 pages that are hot? 
-    - or what's the status on each project? 
-- Infrastructure Chat 24 [[October 25th, 2020]] #meeting-notes
-    - Attendees: [[Nathan Acks]] [[Sachin Benny]] [[Maier Fenster]] [[Paul Sas]] [[Kacper Wikiel]]
-    - Walked through website changes related to [[Astonishing Stories]]
-        - These are temporary -- [[Nathan Acks]] is working on a new "widgetized" back end. Aiming to go live on [[October 30th, 2020]]
-            - Project headers, Google slide shows, lists of writings, member cards, images, and more are now includable widgets
-            - Future website pages will not be constrained to a particular layout
-            - Some tweaks, like image positioning and fine-grained placement, still require CSS. Some "advanced" widgets will require knowledge of Liquid. But the goal is that people can build a good-looking page without knowing CSS or HTML or Liquid at all.
-            - Documentation will be on Roam + a set of template pages that can be used as reference/starter pages
-            - [[Maier Fenster]] calls this a "design language"
-                - Also: Should we revisit the existing website milestones? They don't seem as applicable anymore...
-    - Talked about building ebooks as part of the publishing flow
-        - [[Nathan Acks]] thinks we can do something quick-and-dirty using Pandoc
-            - https://pandoc.org/epub.html
-        - [[Maier Fenster]] suggests building the ePub file first, and then using an in-page ePub viewer
-            - https://github.com/futurepress/epub.js/
-        - Another possibility: Use two different site generators, one for the main body of the website, and another to build "subsites" like [[Astonishing Stories]] + relevant ebook
-    - [[Sachin Benny]] points out that we still don't have Google Analytics access. [[Nathan Acks]] will follow up with [[Tom Critchlow]].
-        - Worst-case scenario, we just call old data a loss and spin up a new account.
-    - Long-term, move some IFTTT automation into GitHub using Actionflow
-        - https://github.com/actionsflow/actionsflow
-        - [[Maier Fenster]] points out that this doesn't roll in the Google Calendar to [[Discord]] connector currently powered by [[Zapier]]
-            - Best idea seems to be to use the server Maier's built the `yak_scraper` bot on
-            - We'll need [[Venkatesh Rao]] to add a new A record pointing to this server. Maybe hook it into `robot.yakcollective.org`?
+- infrastructure chat 26 [[November 8th, 2020]]
+    - [[Darren Kong]]'s notes
+        - knack
+            - switch snowflake IDs to string.. float conversion error? 
+        - channels
+            - promoting the probationary channels
+                - criteria
+                    - two week probationary period  
+                    - minimum viable activity 
+                        - 1 message/day? 
+                        - 10 messages/week ? 
+            - deleting channel
+                - 
+            - archive channel
+                - remove posting from archive
+                - how do we resurrect a channel? 
+            - between section 
+                - public plaza
+                    - post events to general? 
+                - coworking-cafe - is a commitment buddy 
+            - channel map
+                - discord bot - explain what each channel does
+                - channel tagging
+                - keyword mapping
+        - types of members
+            - subset on knack
+            - subset on website 
+            - subset never introduced themselves 
+            - how do we make a decision?
+        - testing/deployment 
+            - post on discord, ask for feedback, as long as no one hates it 
+            - Roam checklist 
+        - yak map
+    - [[Nathan Acks]] notes
+        - Channels (Darren)
+            - Darren: Provisional channels are going well. Should we promote them?
+            - Maier: How are channels normally handled?
+            - Darren: We have more channels, and more specific channels, than more. Our users are also generally less sophisticated.
+            - Maier: I would wait two week, and then promote things that are still active.
+            - Darren: Any other criteria? One post per day?
+            - Nathan: Sometimes channels can skip a day. I'd do something more like 5 - 10 a week.
+            - Maier: We should have a dashboard (posts per day, new people, etc.), and then make a decision.
+            - Nathan: I'd go to for something simpler with a defined lifecycle.
+            - Darren: Mix probationary and archive? Like levels?
+            - Maier: I don't want to mix the babies and dying channels.
+            - Nathan: What about resurrected channels?
+            - Maier: No opinions.
+            - Darren: I can write some proposed criteria.
+            - Nathan: I can write up a lifecycle proposal. We should coordinate.
+            - Darren: General is pretty dead.
+            - Nathan: Why don't we post Events in General?
+            - Darren: No reason.
+            - Maier: We should have a (text) map of channels.
+            - Vinay: I like this idea. Can this maybe be combined with the Yak Map? This might be too complicated.
+            - Maier: We are building a capability to pre-launch channel recommendations. We can also output a list of active channels (once we start monitoring channels). We could also have a tool that looks for keywords.
+            - Vinay: We definitely need some new tools. Maybe we could prioritize this list?
+            - Nathan: Is there a way to tag channels?
+            - Maier: We'd need to write a custom system to do this. But I'd recommend we just build this "tag/word cloud" automatically.
+            - Nathan: This goes back to an idea we've periodically kicked around. "Here's the top 5 most active channels this past week," etc. I think there are three points here:
+                - When do we archive/promote channels?
+                - How do we better organize/consolidate channels?
+                - How do we increase channel discoverability?
+            - Vinay: I think discoverability is very connected to promotion and archiving.
+        - Types of members (Maier)
+            - Maier: Right now we have several types of members, but we need better definitions. Then we need to map these levels to who __can__ be in Vinay's map.
+                - Not members
+                - Yaks
+                - Made yaks
+                - Kicked out (because they haven't done anything)
+            - Nathan: I don't have opinions.
+            - Maier: We just someone to make a decision. These are the types, these are the people on the website, these are the people in the Yak Map. (Also, I don't think we're actually kicking people off right now.)
+            - Vinay: I think it goes...
+                - Yaks (everyone in Discord)
+                - Active yaks (people with an intro, can be in Network Map)
+                - Made yak (public project participation, on website, can be in Network Map)
+                - Yak shaver (admin people)
+            - Vinay: Just post a suggestion in Infrastructure.
+            - Nathan: I will just write up something.
+        - Testing and deployment (Maier)
+            - Maier: What is our standard for launching things?
+            - Nathan: I just ping the infrastructure channel a few days to a week ahead of time.
+            - Maier: We need some kind of semi-official second pair of eyes.
+            - Vinay: You should write something up, and send it to Nathan. We probably need one or more QA people, maybe someone who is outside of the infrastructure group, or at least someone who's more of a "normal" user.
+            - Nathan: We already have a semi-formal project review process.
+            - Maier: So, we should have a Roam page for every infrastructure project. We'd need a checklist for each release with a formal sign-off (doesn't need to be the same reviewer/QA person as listed on the Roam page).
+            - Nathan: So, there needs to be a checklist for each project, but it won't necessarily be the same checklist for each project. I don't want to write this, but Maier's right.
+            - Vinay: I think checklists already exist.
+            - Nathan: Whoever runs the project should write up the page. I will roll mine in with the rest of the documentation updates, so I might be late to the party.
+        - Update on the Network Map (Vinay)
+            - Vinay: Going to add some simple documentation + a guide on how to use. Then do a simple demo for people, and then next week have a discussion on this call about how best to integrate this into the website.
+            - Nathan: Are changes just JavaScript + JSON, or does it involve HTML changes?
+            - Vinay: Using a plug-in to generate things. Just JSON changes.
+            - Maier: We could do this with an iframe?
+            - Nathan: Theoretically, yes, but I'd rather not if we don't have to.
+            - Vinay: Version 1.0 is ready, we just need to get people's impressions now, and see if this is worthwhile to folks. Focused on this in the next month.
+            - Nathan: I'll drop in the new JSON.
 - infrastructure chat 25 [[November 1st, 2020]]
     - Notes by [[Darren Kong]]
         - state of yak meeting
@@ -605,99 +267,439 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
             - [[Maier Fenster]] I can grab channel stats with the website
             - [[Venkatesh Rao]] That would be something cool to see on the website.
             - [[Maier Fenster]] I have something like this already, but would need to be adapted for the website.
-- infrastructure chat 26 [[November 8th, 2020]]
-    - [[Darren Kong]]'s notes
-        - knack
-            - switch snowflake IDs to string.. float conversion error? 
-        - channels
-            - promoting the probationary channels
-                - criteria
-                    - two week probationary period  
-                    - minimum viable activity 
-                        - 1 message/day? 
-                        - 10 messages/week ? 
-            - deleting channel
-                - 
-            - archive channel
-                - remove posting from archive
-                - how do we resurrect a channel? 
-            - between section 
-                - public plaza
-                    - post events to general? 
-                - coworking-cafe - is a commitment buddy 
-            - channel map
-                - discord bot - explain what each channel does
-                - channel tagging
-                - keyword mapping
-        - types of members
-            - subset on knack
-            - subset on website 
-            - subset never introduced themselves 
-            - how do we make a decision?
-        - testing/deployment 
-            - post on discord, ask for feedback, as long as no one hates it 
-            - Roam checklist 
-        - yak map
-    - [[Nathan Acks]] notes
-        - Channels (Darren)
-            - Darren: Provisional channels are going well. Should we promote them?
-            - Maier: How are channels normally handled?
-            - Darren: We have more channels, and more specific channels, than more. Our users are also generally less sophisticated.
-            - Maier: I would wait two week, and then promote things that are still active.
-            - Darren: Any other criteria? One post per day?
-            - Nathan: Sometimes channels can skip a day. I'd do something more like 5 - 10 a week.
-            - Maier: We should have a dashboard (posts per day, new people, etc.), and then make a decision.
-            - Nathan: I'd go to for something simpler with a defined lifecycle.
-            - Darren: Mix probationary and archive? Like levels?
-            - Maier: I don't want to mix the babies and dying channels.
-            - Nathan: What about resurrected channels?
-            - Maier: No opinions.
-            - Darren: I can write some proposed criteria.
-            - Nathan: I can write up a lifecycle proposal. We should coordinate.
-            - Darren: General is pretty dead.
-            - Nathan: Why don't we post Events in General?
-            - Darren: No reason.
-            - Maier: We should have a (text) map of channels.
-            - Vinay: I like this idea. Can this maybe be combined with the Yak Map? This might be too complicated.
-            - Maier: We are building a capability to pre-launch channel recommendations. We can also output a list of active channels (once we start monitoring channels). We could also have a tool that looks for keywords.
-            - Vinay: We definitely need some new tools. Maybe we could prioritize this list?
-            - Nathan: Is there a way to tag channels?
-            - Maier: We'd need to write a custom system to do this. But I'd recommend we just build this "tag/word cloud" automatically.
-            - Nathan: This goes back to an idea we've periodically kicked around. "Here's the top 5 most active channels this past week," etc. I think there are three points here:
-                - When do we archive/promote channels?
-                - How do we better organize/consolidate channels?
-                - How do we increase channel discoverability?
-            - Vinay: I think discoverability is very connected to promotion and archiving.
-        - Types of members (Maier)
-            - Maier: Right now we have several types of members, but we need better definitions. Then we need to map these levels to who __can__ be in Vinay's map.
-                - Not members
-                - Yaks
-                - Made yaks
-                - Kicked out (because they haven't done anything)
-            - Nathan: I don't have opinions.
-            - Maier: We just someone to make a decision. These are the types, these are the people on the website, these are the people in the Yak Map. (Also, I don't think we're actually kicking people off right now.)
-            - Vinay: I think it goes...
-                - Yaks (everyone in Discord)
-                - Active yaks (people with an intro, can be in Network Map)
-                - Made yak (public project participation, on website, can be in Network Map)
-                - Yak shaver (admin people)
-            - Vinay: Just post a suggestion in Infrastructure.
-            - Nathan: I will just write up something.
-        - Testing and deployment (Maier)
-            - Maier: What is our standard for launching things?
-            - Nathan: I just ping the infrastructure channel a few days to a week ahead of time.
-            - Maier: We need some kind of semi-official second pair of eyes.
-            - Vinay: You should write something up, and send it to Nathan. We probably need one or more QA people, maybe someone who is outside of the infrastructure group, or at least someone who's more of a "normal" user.
-            - Nathan: We already have a semi-formal project review process.
-            - Maier: So, we should have a Roam page for every infrastructure project. We'd need a checklist for each release with a formal sign-off (doesn't need to be the same reviewer/QA person as listed on the Roam page).
-            - Nathan: So, there needs to be a checklist for each project, but it won't necessarily be the same checklist for each project. I don't want to write this, but Maier's right.
-            - Vinay: I think checklists already exist.
-            - Nathan: Whoever runs the project should write up the page. I will roll mine in with the rest of the documentation updates, so I might be late to the party.
-        - Update on the Network Map (Vinay)
-            - Vinay: Going to add some simple documentation + a guide on how to use. Then do a simple demo for people, and then next week have a discussion on this call about how best to integrate this into the website.
-            - Nathan: Are changes just JavaScript + JSON, or does it involve HTML changes?
-            - Vinay: Using a plug-in to generate things. Just JSON changes.
-            - Maier: We could do this with an iframe?
-            - Nathan: Theoretically, yes, but I'd rather not if we don't have to.
-            - Vinay: Version 1.0 is ready, we just need to get people's impressions now, and see if this is worthwhile to folks. Focused on this in the next month.
-            - Nathan: I'll drop in the new JSON.
+- Infrastructure Chat 24 [[October 25th, 2020]] #meeting-notes
+    - Attendees: [[Nathan Acks]] [[Sachin Benny]] [[Maier Fenster]] [[Paul Sas]] [[Kacper Wikiel]]
+    - Walked through website changes related to [[Astonishing Stories]]
+        - These are temporary -- [[Nathan Acks]] is working on a new "widgetized" back end. Aiming to go live on [[October 30th, 2020]]
+            - Project headers, Google slide shows, lists of writings, member cards, images, and more are now includable widgets
+            - Future website pages will not be constrained to a particular layout
+            - Some tweaks, like image positioning and fine-grained placement, still require CSS. Some "advanced" widgets will require knowledge of Liquid. But the goal is that people can build a good-looking page without knowing CSS or HTML or Liquid at all.
+            - Documentation will be on Roam + a set of template pages that can be used as reference/starter pages
+            - [[Maier Fenster]] calls this a "design language"
+                - Also: Should we revisit the existing website milestones? They don't seem as applicable anymore...
+    - Talked about building ebooks as part of the publishing flow
+        - [[Nathan Acks]] thinks we can do something quick-and-dirty using Pandoc
+            - https://pandoc.org/epub.html
+        - [[Maier Fenster]] suggests building the ePub file first, and then using an in-page ePub viewer
+            - https://github.com/futurepress/epub.js/
+        - Another possibility: Use two different site generators, one for the main body of the website, and another to build "subsites" like [[Astonishing Stories]] + relevant ebook
+    - [[Sachin Benny]] points out that we still don't have Google Analytics access. [[Nathan Acks]] will follow up with [[Tom Critchlow]].
+        - Worst-case scenario, we just call old data a loss and spin up a new account.
+    - Long-term, move some IFTTT automation into GitHub using Actionflow
+        - https://github.com/actionsflow/actionsflow
+        - [[Maier Fenster]] points out that this doesn't roll in the Google Calendar to [[Discord]] connector currently powered by [[Zapier]]
+            - Best idea seems to be to use the server Maier's built the `yak_scraper` bot on
+            - We'll need [[Venkatesh Rao]] to add a new A record pointing to this server. Maybe hook it into `robot.yakcollective.org`?
+- Infrastructure Chat 23 [[October 18th, 2020]] #meeting-notes
+    - {{or: Early Concept | Proposal | Active | Complete}} 
+    - yak NM engagement
+        - send discord announcement
+        - email newsletter? 
+            - [[Praful Mathur]]
+        - minimum for next stage is 50-100 people
+        - no specification for the next phase - of matching 
+    - Project page template (knack integration?)
+        - [[Concept Contrast Project (temp name)]]
+    - Discord bot
+        - [[Maier Fenster]] made a test bot
+        - commands
+            - $whosenew
+            - $hello
+        - $10/mo  
+        - made it a private repository 
+        - make discord bot provision permission based on a list of snowflake IDs? 
+        - .
+        - Project updates
+            - Have dedicated channel 
+            - Every few days - 1 for each project what's going on 
+            - discord -> roam & knack? or discord -> knack 
+                - knack as management of frontend/data 
+                - website as a view into some of that data
+    - Discord gardening
+    - AMA
+    - What are the current 6 pages that are hot? 
+    - or what's the status on each project? 
+- Infrastructure Chat 22 [[October 11th, 2020]] #meeting-notes
+    - Knackifying the yak network map google form https://yak.knack.com/yaks#yakmap-participation-signup/
+    - There may be minor data normalization that needs to happen with capitalization, spaces, etc
+    - Test email 
+    - Added password to knack form
+    - Discord bot is set up that can message based on UID
+    - Bot can compose parameters from discord into knack url like snowflake iD (UUID)
+    - Astonishing stories launching 1x week. card can be iterated upon.
+- Infrastructure Chat 21 [[October 4th, 2020]] #meeting-notes
+    - participants:: [[Nathan Acks]] | [[Maier Fenster]] | [[Hershil Patel]] | [[Jenna Dixon]] | [[Vinay Débrou]]
+    - Jenna has integrated the Yak Map questions into Knack.
+        - So, the idea is to drive the Yak Map first, and __then__ create an account if that makes sense.
+    - YakTalk is burned out. Too intense to produce.
+        - Needs to be reconstituted.
+    - Maier proposes "Yak Orbits" based upon [[Vaugh Tan]]'s work.
+        - Maier's idea is to present this as a non-editable field.
+        - Jenna thinks this assignable on the back end.
+            - to display or not to display, on member profile #openquestion
+        - This would be an additional number, in addition to the Discord level and heat map.
+    - The idea is to use Vinay's Yak Map project to jumpstart data entry here.
+        - Current conceptual levels (via Vinay):
+            - Yaks (posted info)
+            - Active Yaks (participating in any form)
+                - Project Participants
+            - Made Yaks (actually named in projects)
+    - UID issues
+        - Maier suggests we use the 15 digit Discord UID
+            - General agreement that this is the way to go.
+        - Vinay's using Discord username
+    - Maier proposes that we push people from Discord -> Knack as part of onboarding
+    - Jenna thinks we have Yak Map questions __first__ in Knack
+        - Knack can send out welcome emails.
+            - But Discord won't provide these (see below).
+        - Vinay will send Jenna the initial scraped CSV. This CSV has the Discord UID.
+            - [[October 5th, 2020]] https://docs.google.com/spreadsheets/d/1IPpiOm17In1ZLQqcNeVh4lVc-7T21dOdtZ8zPOm9ONA/edit?usp=sharing
+    - Maier points out that Discord only provides UID, username, and role
+        - We can bootstrap these comms using Maier's `yak_scraper` robot
+        - For the moment, we'll just DM people; later, we __may__ add interactivity.
+            - Reminders will be on a timer.
+- infrastructure chat 20 [[September 27th, 2020]] #meeting-notes
+    - Yak talk newsletter
+        - Hey everyone, myself and a few of the yak talk team will be dropping in today to talk about the newsletter, how its changing, and how we can collaborate.
+    - What I know...
+- YakTalk
+- YakMap data schema
+- YakMap form: confirm build in Knack (or out)
+- Knack login ready for first testing >>> https://yak.knack.com/yaks#yak-profile/
+        - first pass close!
+        - haven't added yak map member
+        - haven't made any ask of members
+        - Maier integration testing with the API 
+            - Do we want to embed in yakcollective website?  (iframe)
+        - member speedbump
+            - fill out knack profile before contributing to a project? 
+            - knack profile to replace the signup google form? 
+                - add the post-sign up page with discord invite link
+                    - also show the active projects and how to get involved, who to contact, CFP 
+                        - project tracking in knack
+                    - don't have to solicit engagement but more an invitation with 3 options
+                        - 1. read more?
+                        - 2. jump in? 
+                    - We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [[Hugo Macedo]] 
+                        - what's a successful onboarding: 
+                            - {{[[DONE]]}} Profile created
+                            - {{[[DONE]]}} joined discord 
+                                - {{[[DONE]]}} intro in discord
+                            - {{[[DONE]]}} go to Roam and read Start Here
+                        - What's the "minimum viable interaction" you need to feel included/part of? 
+assume that you can't know/digest everything at once - YC is a complex and labyrintic  mansion just pick a small "room"
+                    - Way for members to get announcements or updates from projects
+            - internal fields for project contributions -> display member page 
+    - updated infrastructure map 
+    - discord python library - discord onboarding experience or analytics - no update 
+    - now page - no update, priority for this week - wrap into astonishing stories branch
+        - yakcollective.org/now or /current  
+    - Newsletter
+        -  Praful taking over from Alex and Matt
+        - newsletter has a global team 
+        - weekly cadence
+        - been hard to sustain
+        - proposal
+            - make the newsletter more sustainable 
+            - newsletter as an interface for engaging w YC as an "outsider"
+            - jobs to be done
+                - level up as a freelancer
+                - social group
+            - train up a network of members that can lead projects 
+            - sections
+                - member spotlight
+                - decision
+            - get a few stories drafted by Tues/Wed and edit Wed/Thurs ... send out on Fridays
+                - have less intensity around requiring every track to be represented
+        - automate the production of yak talk more... center it more around project updates w/ editors providing commentary? 
+            - project updates, analytics -> aggregated for newsletter
+                - update could be knack form
+                    -  single place to update would be great. instead of discord, email, call...
+        - content in some ways can actually detract from figuring out what's going on in yak collective
+        - possibility of using another tool besides substack like buttondown 
+            - substack doesn't have good analytics
+        - crosschecking member emails vs substack emails 
+        - GPT-3 assisted newsletter writing?
+    - Yak Map
+        - market through discord announcement channel and Yak Talk newsletter
+        - form draft in channel
+        - open questions
+            - knack vs google form? 
+                - allowing members to change data in knack with the rest of their profile... could be a separate section 
+                    - GDPR
+                    - can pull in the data via the API 
+                - although updates don't HAVE to be real-time
+            - are there fields that we want to add? 
+            - bio cards
+                - iframe?
+                - api -> biocard will need help
+                    - will be used to generate markdown format 
+        - push to launch next week
+        - jenna - share admin page 
+    - paul updated start here page 
+- infrastructure chat 19 [[September 20th, 2020]] #meeting-notes
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FA7_7gZSq2J.png?alt=media&token=91c594a8-94c9-401d-8466-0c3b0ec1c019)
+    - Discordpy
+        - Testing for activity ```javascript
+```
+        - User/project Heartbeat 
+            - User availability ping on Discord
+        - Project heartbeat
+            - Discord
+            - Roam
+            - Github
+        - Semantic emoji -> message
+    - marketing
+        - spoke with Maier
+        - chatted with Grigori
+        - early days 
+        - expectations for marketing
+        - What's important right now?
+            - Projects haven't had much marketing
+                - Mostly relying on Twitter and social capital of Venkat and other members 
+                - 1. Astonishing Stories and 2. Innovation Consulting both need marketing support 
+                - Defining project audience for each project 
+                    - define audience at project start rather than at end 
+            - Internal marketing 
+                - engaging users more 
+                    - making opportunities/activity visible.. where can people plug in? 
+                    - get the /now page going
+                    - onboarding
+                        - new Yak chat is good for meeting and getting to know each other
+                        - Venkat's chat otherwise is the only one that has threshold of attendance. 
+                        - chats are easy to join vs project works 
+                    - reactivation is key. we already have a lot of community members
+                    - gap with community members that don't have as strong of a self-starting lean
+            - External marketing 
+                - potential customers
+            - Newsletter
+                - shift to more internal focus? 
+                - communicate project activity more ? 
+    - roam js+templates [[Roam template PoC by @ViktorTabori]]
+        - can turn on/off js [[roam/js]]
+        - populates the template :header:   [[template/header]]
+        - have some template for Roam page 
+            - write up quick start guide for Roam ?
+            - could use [*](((B6fmZASx5))) {{[[r/moved]]}} to trigger a reminder to refresh
+        - have metadata and context so pages don't go stale
+            - allows for Roam cell:  Roam wrangling/librarian/archivist role
+    - Roam
+        - could potentially use daily notes for harvesting activity ? 
+        - Sidebar - shortcuts - keep updated
+        - Directory is deprecated
+        - there's a lot of quiescent pages
+            - last modified info - view for control ? 
+            - pull everything out of sidebar that's inactive 
+            - identify the single wringable neck for each page - associated with cell? 
+        - Index/welcome page for the Roam - useful structure
+    - Project mgt as independent role »»  [[Production Cell]]
+    - project activity measurement, etc.
+    - Nathan has more availability post-November
+    - Onboarding continue to be a painpoint
+        - go through discord channels - and add links to Discord topics 
+    - **Action Items:**
+        - {{[[TODO]]}} Everyone (+Paul)- Clean up Roam 
+            - Review changes next week 
+        - {{[[TODO]]}} Darren - Add roam links to each discord channel 
+        - {{[[TODO]]}} Nathan - Pass at Now page 
+        - {{[[TODO]]}} Hugo - assess and consider marketing plan
+        - {{[[TODO]]}} Darren - experiment w Discord analytics 
+            - {{[[TODO]]}} messages sent per channel/week 
+            - {{[[TODO]]}} webhook to YC website? 
+        - {{[[TODO]]}} Nathan - @Bardia works at Roam, interested in knowing about Astonishing Stories/Yak experience with roam 
+    - member database:
+        - {{[[DONE]]}} Knack: is it time? [[Jenna Dixon]]: check with Jordan (payment) (dm'd on Discord)
+            - {{[[TODO]]}} receive reply from [[Jordan Peacock]]
+        - {{[[DONE]]}} yak map: is it time? [[Darren Kong]]check with Vinay (data schema)
+            - {{[[TODO]]}} receive reply from [[Vinay Débrou]]
+    - 
+- infrastructure chat 18 [[September 13th, 2020]] #meeting-notes
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fia1JXLwU6y.jpeg?alt=media&token=e916e06f-1982-4e51-8b17-ddb5e8b990be)
+    - Audio bandwidth
+        - Discord levels have audio bandwidth tier 
+        - Updating Discord level ... 30 boosts $5/mo
+        - alternative meeting infrastructure
+            - google meet
+                - Change meeting to google meet - use Nathan's account
+            - zoom 
+    - Assets 
+        - Calendar
+            - 15 people access to edit
+            - Currently owned by Venkat 
+                - Added modify sharing permissions to yak collective gmail 
+        - [[Twitter]]
+            - change email address from Venkat to yak collective gmail 
+            - Tweetdeck teams is how permissions are shared
+    - Carl drip discord messages
+    - Proposal structure
+        - Active projects - have run into logistical issues. Something systematic going on? First set of projects had momentum. 
+            - Final Frontiers - illness 
+            - Innovation Consulting - last editing cycle, stuck in resourcing production piece 
+            - Astonishing stories - budget to graphics
+        - Make sure Venkat isn't the bottleneck for the next set 
+            - Automate the proposal 
+            - Move from sync, not every month, 3 months, etc
+            - Async on-demand process, 2-3 people interested in working on something... kick off on their own timeline, decentralized
+            - Move to smaller demand, easier to market themselves easily, filling resourcing needs, lots of little thing that need to be fixed 
+            - Maier: channel on discord - the projects keep bubbling up... you can't talk. only vote up projects. 
+                - What resources/value do yakcollective get? 
+                    - Marketing - Marketing resources - newsletter, twitter, page...
+                        - Marketing is decentralized now 
+                    - Staffing - In theory, pool of resources 
+                    - Financial 
+            - Marketing
+                - Don't waste on the reboot
+                    - how many views, how many outreach, how much money? 
+                    - probably zero, but it was more of an introduction 
+                    - get insight into how the projects get positioned, what does well, etc
+                - 600 yaks but 34 members 
+                    - Structurally we have 1/3 gig job site and 2/3 is missing. 
+                    - Why are people joining? Why are people contributing
+                        - New independent consultants, gain experience
+                        - Survey ? 
+                        - + Defining and stating what membership means 
+                            - to help qualify and give structure for members to contribute... 
+                    - Member available/not available
+                        - Slider?
+                        - Can also take an aggregate view of yak collective availability 
+                        - gig weather pulse 
+                        - 1x month - temperature check
+                            - Discord bot? 
+                            - Email?
+                    - Discord, Roam -> email
+                        - Member updates
+                        - Project - Scrum updates
+                            - Active project as an entity 
+                            - Either project is dead or backburner or ... Project is a living thing. Polled just like an individual 
+                        - Roam 
+                            - Extract updates - structured fields 
+                        - Analogy streak checkins with Github 
+    - Discord
+        - UX of pinned messages 
+        - Add roam page to channel topic
+            - Did so with infrastructure  
+        - Roam unfurl preview is not helpful atm, but probably Roam will fix.
+        - People come with wrong expectation. That they should have high level visibility of everything
+            - Bureaucracy vs farmer's market
+            - Have to walk into the right stall 
+            - How do we 
+    - Website could have a "now" page or what the active projects are
+        - Help orient people to get active 
+        - State of the union update -> web active page 
+            - Historical, Active 
+    - Prospectus 
+        - No one's worked on this
+    - Next steps/projects:
+        - 1. Email inward facing member/project member thing
+        - 2. Update proposal project thats async 
+            - Venkatesh owning V2 "human" side 
+            - Define set of specs - to do a roam page, here there are 3 fields. 
+                - Use Knack? 
+        - 3. CMO role
+- infrastructure chat 17 [[September 6th, 2020]] #meeting-notes
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FjzX_MdmIS_.jpeg?alt=media&token=620f7414-6f61-417e-919b-64b41f8a086d)
+    - assets for social 
+        - substack
+            - grigori - asked about the email list if they could compare to substack 
+            - Matthew Sweet is slowly taking over 
+            - possibility of email signup for specific project 
+                - switch to another email newsletter tool that supports multiple lists? 
+            - two newsletters?
+                - prospective client
+                - prospective members
+            - export newsletter email list 
+            - subscribe google form emails to substack?
+        - twitter
+            - ?
+        - facebook
+            - ?
+    - marketing
+        - there's not enough dedicated marketing personnel 
+            - don't necessarily need to do a weekly newsletter 
+    - member onboarding?
+        - capturing info Discord intro -> subscribe to newsletter?
+            - newsletter - curious 
+                - there's also pruning mechanisms like if you haven't opened the last email  
+            - have to get involved 
+            - have to ask for more information 
+            - website - after they stick around 
+        - hellobot - DM 
+            - yak map
+            - newsletter 
+        - nothing new since 
+            - emoji reacts in introduction channel
+            - + weekly welcome by Jordan 
+        - be more directive of onboarding ... to paths 
+            - list of links - look around 
+            - complete minimal steps 
+            - not sure if Carl can do a drip or triggered messages 
+            - join - first message, intro-  second message?, third message - fill out this web  form?
+    - Documentation guidelines
+    - Action items:
+        - Look into triggered / drip messages for Carl 
+        - Twitter/fb accounts
+- infrastructure chat 16 [[August 29th, 2020]] #meeting-notes
+    - https://tilnow.github.io/docjs/index
+        - Tried to look into how this could work in Roam using the mermaid diagram... can't link out to pages atm
+    - Nathan - documentation sprint on Roam  [[Yak Collective Website]] page
+    - discord changes were being implemented by Jordan + people he invited (ping Jordan for update)
+    - Knack integration 
+        - demo of website that pulls in data from Knack (which is itself a copy of github data) - almost works perfectly. there's a problem with Jekyll plugin -> member pages are getting wrong layout
+    - gov question after the implementation is figured out... 
+        - how do we want to handle - Jenna has been leading some of that [[Privacy Policy]]
+            - how do we want to publicize
+            - what level of controls
+            - GDPR compliance given worldwide membership
+    - [[Schema | member data]]
+        - only required fields in YAML atm are Name and Avatar
+            - tabled the idea of pulling that from discord (GDPR compliance)
+                - people on website are the contributors to projects
+            - do we want to have discord name? 
+        - possibility of Roam-Web integration in a future version of the site in Gatsby
+            - example: https://mathieudutour.github.io/gatsby-digital-garden/
+            - concern on data consistency but will be addressed with Roam's new backend
+    - move the chat to Sunday which is better for Nathan and Maier
+    - revisit [[Threat Model]]
+        - do another pass at the credential documentation in this page
+        - currently share netlify account that is owned by our "robot" github account - we would need 3 members if we were to go paid $19 per member x3 members / mo
+- infrastructure chat 15 [[August 22nd, 2020]] #meeting-notes
+    - [[Yak Collective Website]]update from [[Nathan Acks]]
+        - V2.2 website, backend clean up, documentation/code comments
+            - Wanting to beef up the Roam page to help with onboarding other people 
+        - Featured yak has some issues still
+        - Nathan met with Sachin, Jenna, Chris re Astonishing Stories
+            - Have dev test on structure of having projects that can have n arbitrary pages
+        - Long-term move to Gatsby
+            - allow for more robust data integrations
+            - there's experiments with combining Roam + Gatsby as presentation layer
+    - Roam back up - currently manual monthly... automatic? 
+    - Making updates to [[Yak Collective State of the Union]]
+- infrastructure chat skipped [[August 15th, 2020]] #meeting-notes
+- [[infrastructure chat 14]] [[August 8th, 2020]] #meeting-notes
+    - [[Yak Collective State of the Union]] roam version
+- infrastructure chat 13 [[August 1st, 2020]]
+state of the union deck #meeting-notes
+    - https://docs.google.com/presentation/d/12pLjGxC6egO4QJvy06AjBTWm_4XhkfStyfdQ7p6DoOg/edit#slide=id.p
+- [[infrastructure chat 12]] [[July 25th, 2020]] #meeting-notes
+- infrastructure chat 11 [[July 18th, 2020]]
+worked on spotlight/case study #meeting-notes
+- [[infrastructure chat 10]] [[July 11th, 2020]] #meeting-notes
+- [[infrastructure chat 09]] [[July 4th, 2020]] 
+Yakcoin dev updates and discussion w/ [[Johnicholas Hines]] #meeting-notes
+- [[infrastructure chat 08]] [[June 27th, 2020]]
+marketing outreach w/ [[Alex Wagner]]+ levelling up discord w/ [[Jordan Peacock]] #meeting-notes
+- [[infrastructure chat 07]] [[June 20th, 2020]] 
+Consulting diagrams w/ [[Steven Moody]] #meeting-notes
+- infrastructure chat 06 [[June 13th, 2020]] 
+notes in — [[Yak Collective Website]] + [[Newsletter]] #meeting-notes
+    - Audio Recording: https://drive.google.com/file/d/1DVi_QFWCoyJjT1UPUXp52tQ876NS-vp2/view
+- [[infrastructure chat 05]] [[June 6th, 2020]] 
+didn't happen but agenda topics here #meeting-notes
+- [[infrastructure chat 04]] [[May 30th, 2020]]
+Project Capacity + experiences with Yakcoin discussion #meeting-notes
+- [[infrastructure chat 03]] [[May 23th, 2020]] 
+Updates on new-member onboarding, feedback mechanisms, event ideas #meeting-notes
+- [[#infrastructure chat 02]] [[May 16th, 2020]] 
+Speculative discussion on ideal-state for YC infrastructure #meeting-notes
+- [[#infrastructure chat 01]] [[May 9th, 2020]] 
+On-boarding new members #meeting-notes

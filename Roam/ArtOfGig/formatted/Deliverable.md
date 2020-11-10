@@ -8,7 +8,7 @@
 - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others
     - **[Deliverable](<Deliverable.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
 - Using the slicing the pie scheme to understand and write whitepaper about slicing the pie 
     - **[Deliverable](<Deliverable.md>):**
 

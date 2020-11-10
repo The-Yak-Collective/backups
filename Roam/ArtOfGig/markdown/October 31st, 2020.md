@@ -1,2 +1,2 @@
-- [[Fair equity  ]] Slicing Pie
+- [[Fair equity]] Slicing Pie
 - 

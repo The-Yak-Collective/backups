@@ -8,6 +8,11 @@
 - **[About](<About.md>):** project page for embryonic project contrasting YC conceptualization with standard conceptionalization
 - **[Page Type](<Page Type.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
+- Internal facing but the final product could be published to the general public 
+- **[Page Type](<Page Type.md>):**
+
+## [template/header](<template/header.md>)
+- **[Created](<Created.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Page Type](<Page Type.md>):**
 

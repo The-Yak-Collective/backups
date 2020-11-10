@@ -8,7 +8,7 @@
 - a frame for yak engagement with readers of the papers.
     - **[Project size](<Project size.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
 - PDF white-paper that's explaining slicing the pie, researching the edge cases, assumptions, drawbacks, comparisons to other equity compensation schemes
     - **[Project size](<Project size.md>):**
 

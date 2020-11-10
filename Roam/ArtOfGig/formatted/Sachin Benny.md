@@ -97,9 +97,9 @@
 - [Sachin Benny](<Sachin Benny.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-- Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>)
-
 - [Sachin Benny](<Sachin Benny.md>)
+
+- Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>)
 
 - [Sachin Benny](<Sachin Benny.md>)
 

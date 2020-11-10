@@ -26,7 +26,7 @@
 - For one-off meetings, please coordinate among yourselves and post to the events channel or other appropriate channel. These will not be added to the group calendar unless it is a major one like a town hall.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 

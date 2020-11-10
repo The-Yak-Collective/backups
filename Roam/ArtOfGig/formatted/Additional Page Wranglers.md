@@ -24,7 +24,7 @@
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Kacper Wikieł](<Kacper Wikieł.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
@@ -73,6 +73,14 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Production Cell](<Production Cell.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)

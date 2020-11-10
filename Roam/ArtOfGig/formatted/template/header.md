@@ -2,8 +2,12 @@
 - **[Chief Page Wrangler](<../Chief Page Wrangler.md>):** [Fname Lname](<../Fname Lname.md>)
     - **[Additional Page Wranglers](<../Additional Page Wranglers.md>):** [Fname Lname](<../Fname Lname.md>) | [Fname Lname](<../Fname Lname.md>)
 - **[Created](<../Created.md>):** `/today` by [Fname Lname](<../Fname Lname.md>)
+- **[Page Type](<../Page Type.md>):** {{or: [Project](<../Project.md>) | [tk1](<../tk1.md>) | [tk2](<../tk2.md>) }}
+- **[Status](<../Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Last Updated](<../Last Updated.md>):** `/today` by [Fname Lname](<../Fname Lname.md>)
 - **[Last Gardened](<../Last Gardened.md>):** `/today` by [Fname Lname](<../Fname Lname.md>)
+- 
+- 
 - 
 
 # Backlinks

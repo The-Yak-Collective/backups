@@ -37,11 +37,11 @@ last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nat
 - [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-notes in — [Yak Collective Website](<Yak Collective Website.md>)
+- Nathan - documentation sprint on Roam  [Yak Collective Website](<Yak Collective Website.md>)
 
 - [Yak Collective Website](<Yak Collective Website.md>)u
 
-- Nathan - documentation sprint on Roam  [Yak Collective Website](<Yak Collective Website.md>)
+notes in — [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - Help with the [Yak Collective Website](<Yak Collective Website.md>)
@@ -57,6 +57,9 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)
 
 - __Work with__ [Yak Collective Website](<Yak Collective Website.md>)
+
+## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+- Ideally, __all__ projects should be featured on the [Yak Collective Website](<Yak Collective Website.md>).
 
 ## [Things We Need](<Things We Need.md>)
 - Check out the [Yak Collective Website](<Yak Collective Website.md>)

@@ -131,6 +131,9 @@
 
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+4. [Hugo Macedo](<Hugo Macedo.md>):
+
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 

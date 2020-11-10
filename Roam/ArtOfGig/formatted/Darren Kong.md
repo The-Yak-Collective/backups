@@ -27,7 +27,7 @@
 
 - **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
 
-- [x] yak map: is it time? [Darren Kong](<Darren Kong.md>)c
+- [Darren Kong](<Darren Kong.md>)'
 
 - Notes by [Darren Kong](<Darren Kong.md>)
 
@@ -43,7 +43,7 @@
 
 - [Darren Kong](<Darren Kong.md>)
 
-- [Darren Kong](<Darren Kong.md>)'
+- [x] yak map: is it time? [Darren Kong](<Darren Kong.md>)c
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>) and [Darren Kong](<Darren Kong.md>)
@@ -73,6 +73,9 @@
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 - my $.02, is potentially all of the above, but also that it's a legitimately hard problem. [Darren Kong](<Darren Kong.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+8. [Darren Kong](<Darren Kong.md>):
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)

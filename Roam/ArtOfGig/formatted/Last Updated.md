@@ -26,6 +26,10 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**
 
+## [Fair equity](<Fair equity.md>)
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**
@@ -103,6 +107,6 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [template/header](<template/header.md>)
-- **[Created](<Created.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Last Updated](<Last Updated.md>):**
 

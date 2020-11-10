@@ -220,33 +220,33 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - We'll need [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -411,6 +411,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - +1 to David’s point. I’ve never successfully structured a gig around a tool or idea just because I wanted to apply it or thought they needed it. The only thing you sell is solutions to problems. Creating problems corresponding to tools (in the good sense) is a mob for books rather than gigs.[Venkatesh Rao](<Venkatesh Rao.md>)
 
 - Think potential energy. Build up an asset and network over years. Don’t look for ways to generate leads from a cold start in weeks. What you do now might get you leads in 2021. Think leadgen with a min 12 month horizon - [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+9. [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)

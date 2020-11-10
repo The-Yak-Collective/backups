@@ -1,10 +1,9 @@
 About:: __documenting YakC shared infrastructure__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
-Created:: `/today` by [Nathan Acks](<Nathan Acks.md>)
-Last Updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
     - [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>) has developed an SVG diagram that (currently) more completely captures the relationship between different components of the Yak Collective's IT infrastructure than is possible natively.
@@ -119,11 +118,16 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
     - [Threat Model](<Threat Model.md>)
 # Discussions & Decisions
     - [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
-    - Etc.
+# Proposals
+    - [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+    - [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
 
 # Backlinks
 ## [Infrastructure](<Infrastructure.md>)
 - [IT Infrastructure](<IT Infrastructure.md>)
+
+## [November 9th, 2020](<November 9th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) added a "Proposals" section to the [IT Infrastructure](<IT Infrastructure.md>)
 
 ## [October 23rd, 2020](<October 23rd, 2020.md>)
 - Updated the [Facebook](<Facebook.md>) and [LinkedIn](<LinkedIn.md>) [IT Infrastructure](<IT Infrastructure.md>)

@@ -8,7 +8,7 @@
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - **[Status](<Status.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
 - **[Created](<Created.md>):** [October 31st, 2020](<October 31st, 2020.md>) by [Kacper Wikieł](<Kacper Wikieł.md>)
 - **[Status](<Status.md>):**
 
@@ -16,5 +16,9 @@
 - **[Status](<Status.md>):**
 
 ## [Yak Network Map](<Yak Network Map.md>)
+- **[Status](<Status.md>):**
+
+## [template/header](<template/header.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
 - **[Status](<Status.md>):**
 

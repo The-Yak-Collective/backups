@@ -40,7 +40,31 @@
 - [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
 
@@ -54,31 +78,7 @@
 
 - [Maier Fenster](<Maier Fenster.md>)
 
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 ## [Knack.com](<Knack.com.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
@@ -129,6 +129,25 @@
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+-  [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+[Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Schema | member data](<Schema | member data.md>)
 [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
 
@@ -155,6 +174,9 @@
 - [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+3. [Maier Fenster](<Maier Fenster.md>):
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - [Hugo Macedo](<Hugo Macedo.md>) volunteered - initial conversation with [Maier Fenster](<Maier Fenster.md>)

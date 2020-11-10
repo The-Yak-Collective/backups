@@ -21,6 +21,9 @@
 ## [Infrastructure](<Infrastructure.md>)
 - [Praful Mathur](<Praful Mathur.md>)
 
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+5. [Praful Mathur](<Praful Mathur.md>):
+
 ## [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
 - [Praful Mathur](<Praful Mathur.md>)
 

@@ -84,9 +84,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [IT Infrastructure](<IT Infrastructure.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-Created:: `/today` by [Nathan Acks](<Nathan Acks.md>)
+Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-Last Updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
 
@@ -115,19 +115,9 @@ Last Updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 ## [Infrastructure](<Infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
 
-- **[Last Updated](<Last Updated.md>):** [October 25th, 2020](<October 25th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-- [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)
-
-- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>)
-
-- Attendees: [Nathan Acks](<Nathan Acks.md>)
-
-- These are temporary -- [Nathan Acks](<Nathan Acks.md>)
+- **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
-
-- [Sachin Benny](<Sachin Benny.md>) points out that we still don't have Google Analytics access. [Nathan Acks](<Nathan Acks.md>)
 
 - Notes by [Nathan Acks](<Nathan Acks.md>)
 
@@ -137,7 +127,17 @@ Last Updated:: [October 4th, 2020](<October 4th, 2020.md>) by [Nathan Acks](<Nat
 
 - [Nathan Acks](<Nathan Acks.md>)
 
+- Attendees: [Nathan Acks](<Nathan Acks.md>)
+
+- These are temporary -- [Nathan Acks](<Nathan Acks.md>)
+
 - [Nathan Acks](<Nathan Acks.md>)
+
+- [Sachin Benny](<Sachin Benny.md>) points out that we still don't have Google Analytics access. [Nathan Acks](<Nathan Acks.md>)
+
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>)
+
+- [Yak Collective Website](<Yak Collective Website.md>)update from [Nathan Acks](<Nathan Acks.md>)
 
 ## [Knack.com](<Knack.com.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
@@ -162,6 +162,13 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [November 9th, 2020](<November 9th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -175,6 +182,20 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - 20:00 convo [Nathan Acks](<Nathan Acks.md>)
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+
+Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+
+Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Roam](<Roam.md>)
 last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -253,6 +274,9 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nat
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 - i'd agree with @darren that this is a legitimately hard problem. in my admittedly limited experience (not sure how much of this generalizes): (1) REALLY solving it involves the creation of more diverse teams, and perhaps even more importantly, more diverse management. it takes time to hire people and promote people. often there are problems with the way people are selected for hiring, where recruitment focuses, team culture that can make certain folks feel less welcome and more inclined to leave, etc. (2) even when people do recognize the issues, they're often doing it after-the-fact (because these things weren't built-in from the beginning), so fixing them is a kind of technical debt. and nobody in management wants to deal with technical debt, because things "are good enough" right now and there's higher priority projects (new revenue streams, updated products, dealing with OTHER technical debt). (3) but a lot of the upper-upper management don't get it and/or don't care. so often times trying to fix things means figuring out how to route around the c-suite. and the cultural tone that's set exacerbates the other problem [Nathan Acks](<Nathan Acks.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+2. [Nathan Acks](<Nathan Acks.md>):
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)

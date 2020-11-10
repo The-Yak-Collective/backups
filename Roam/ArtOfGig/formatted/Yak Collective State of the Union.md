@@ -56,11 +56,11 @@
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
+- audit the [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
 - Making updates to [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-
-- audit the [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 

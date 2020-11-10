@@ -8,7 +8,7 @@
 - **[how else you can help](<how else you can help.md>):**
 - **[Meta](<Meta.md>):**
 
-## [Fair equity  ](<Fair equity  .md>)
+## [Fair equity](<Fair equity.md>)
 - invent you own way to help and game the system
 - **[Meta](<Meta.md>):**
 
