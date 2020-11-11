@@ -36,7 +36,7 @@
     - A way to price and accomplish internal admin/cost tasks
 - Shared Basic Conversion model
     - A way to drive individuals-first gigflow
-    - Some shared revenue generating options to drive shared costs, such as a teachable account with courses that make enough to pay for basic infrastructure
+    - Some shared revenue-generating options to drive shared costs, such as a teachable account with courses that make enough to pay for basic infrastructure
 - Commons knowledge development
     - A process to allow people to develop YC branded knowledge assets
     - A shared licensing model, probably CC-BY-SA or similar
