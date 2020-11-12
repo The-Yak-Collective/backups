@@ -65,6 +65,33 @@
 ## [Directory](<Directory.md>)
 - {{[TODO](<TODO.md>)}
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -103,6 +130,11 @@
 - {{[TODO](<TODO.md>)}
 
 ## [Jenna Dixon](<Jenna Dixon.md>)
+- {{[TODO](<TODO.md>)}
+
+## [November 11th, 2020](<November 11th, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 ## [November 4th, 2020](<November 4th, 2020.md>)

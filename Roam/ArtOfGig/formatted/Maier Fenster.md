@@ -31,6 +31,9 @@
 ## [Discord](<Discord.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
+
 ## [GitHub](<GitHub.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
@@ -87,6 +90,13 @@
 
 ## [Netlify](<Netlify.md>)
 - [Maier Fenster](<Maier Fenster.md>)
+
+## [November 11th, 2020](<November 11th, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
+
+- #[Maier Fenster](<Maier Fenster.md>)
+
+- #[Maier Fenster](<Maier Fenster.md>)
 
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)

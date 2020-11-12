@@ -12,6 +12,10 @@
 - **[Created](<Created.md>):** [October 31st, 2020](<October 31st, 2020.md>) by [Kacper Wikieł](<Kacper Wikieł.md>)
 - **[Status](<Status.md>):**
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
+    - **[Status](<Status.md>):**
+
 ## [Roam Help](<Roam Help.md>)
 - **[Status](<Status.md>):**
 

@@ -30,6 +30,10 @@
 - **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Last Updated](<Last Updated.md>):**
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Created](<Created.md>):** [October 30th, 2020](<October 30th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**

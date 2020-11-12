@@ -170,6 +170,9 @@ Yaks competing for attention
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 - [ ] suggest: connect with [Hugo Macedo](<Hugo Macedo.md>) to connect story launches with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[About](<About.md>):** Launch Plan for [**Final Frontiers**](<**Final Frontiers**.md>) from [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[About](<About.md>):** all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
@@ -186,6 +189,9 @@ Yaks competing for attention
 
 ## [Marketing Resources](<Marketing Resources.md>)
 - **[About](<About.md>):** artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [November 11th, 2020](<November 11th, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)

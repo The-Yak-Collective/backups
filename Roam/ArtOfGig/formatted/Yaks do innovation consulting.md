@@ -343,6 +343,9 @@ The problem large companies are really having with innovations is that even the 
 ## [06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief](<06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
+## [Innovation Consulting](<Innovation Consulting.md>)
+- project page: [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
 ## [Internal Project](<Internal Project.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 

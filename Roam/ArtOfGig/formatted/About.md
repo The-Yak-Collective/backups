@@ -24,6 +24,10 @@
 ## [Fair equity](<Fair equity.md>)
 - **[About](<About.md>):**
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- Header
+    - **[About](<About.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[About](<About.md>):**
 

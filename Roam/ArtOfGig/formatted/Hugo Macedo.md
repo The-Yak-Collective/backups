@@ -45,6 +45,11 @@
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- **[Created](<Created.md>):** [November 11th, 2020](<November 11th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
@@ -69,6 +74,15 @@
 
 ## [Movement Marketing: 4 Strategies For Sparking A Brand Movement](<Movement Marketing: 4 Strategies For Sparking A Brand Movement.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
+
+## [November 11th, 2020](<November 11th, 2020.md>)
+- [x] [Hugo Macedo](<Hugo Macedo.md>)
+
+- discuss responsibilities - focus - [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- "[Hugo Macedo](<Hugo Macedo.md>)
 
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Hugo Macedo](<Hugo Macedo.md>)

@@ -12,6 +12,10 @@
 - Internal facing but the final product could be published to the general public 
 - **[Page Type](<Page Type.md>):**
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[Created](<Created.md>):** [November 11th, 2020](<November 11th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
+    - **[Page Type](<Page Type.md>):**
+
 ## [template/header](<template/header.md>)
 - **[Created](<Created.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Page Type](<Page Type.md>):**

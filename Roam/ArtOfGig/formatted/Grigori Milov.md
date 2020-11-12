@@ -60,6 +60,9 @@
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>) + [Grigori Milov](<Grigori Milov.md>)
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>)
 
@@ -109,6 +112,13 @@
 - reference by [Grigori Milov](<Grigori Milov.md>)
 
 - [Grigori Milov](<Grigori Milov.md>)
+
+## [November 11th, 2020](<November 11th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+-  #[Grigori Milov](<Grigori Milov.md>)
+
+- #[Grigori Milov](<Grigori Milov.md>)
 
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)

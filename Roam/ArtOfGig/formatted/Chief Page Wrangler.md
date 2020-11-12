@@ -30,6 +30,10 @@
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[About](<About.md>):** Launch Plan for [**Final Frontiers**](<**Final Frontiers**.md>) from [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+    - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[About](<About.md>):** __The Rat hummed a tune, and the Mole recollected that animal-etiquette forbade any sort of comment on the sudden disappearance of one's friends at any moment, for any reason or no reason whatever.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

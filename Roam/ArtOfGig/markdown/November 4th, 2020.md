@@ -36,8 +36,8 @@ Was there any meaningful discussion about outcomes we want to achieve with the n
                     - bring results leverage
                     - set as an example that we can use for other projects
                         - and to the same for other projects
-            - ^^Discussed case of a potencial client^^
-                - Can/should we repackage these projects for business 
-                - interview question the authors 
-                    - if you we're hired to imagine futures 
-                        - what process, what story would you tell, how would you explain your approach
+        - ^^Discussed case of a potencial client^^
+            - Can/should we repackage these projects for business 
+            - interview question the authors 
+                - if you we're hired to imagine futures 
+                    - what process, what story would you tell, how would you explain your approach
