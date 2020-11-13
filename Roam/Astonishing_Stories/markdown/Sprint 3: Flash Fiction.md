@@ -58,7 +58,6 @@
 [[Sachin Benny]]
 [[Scott Garlinger]]^^
             - [[Ben Smith]] [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
-            - 04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
             - [[Sachin Benny]] 
 [Title tk](#)
         - Copyedit+Illustration 
@@ -74,6 +73,7 @@
             - ^^**proofreader**
 [[Amanda Reeves]]^^
             - tk
+            - 04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
         - publish
             - ^^**webdev**
 [[Nathan Acks]]^^

@@ -11698,14 +11698,6 @@
                     "uid": "CDhaEvrX9"
                   },
                   {
-                    "create-email": "sachben91@gmail.com",
-                    "create-time": 1598311715852,
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1603203749455,
-                    "string": "04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)",
-                    "uid": "BgxvY636h"
-                  },
-                  {
                     "edit-email": "j@djinna.com",
                     "edit-time": 1600731863568,
                     "string": "[[Sachin Benny]] \n[Title tk](#)",
@@ -11772,6 +11764,14 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "2vwqbiZg3"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1598311715852,
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1603203749455,
+                    "string": "04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)",
+                    "uid": "BgxvY636h"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -13216,5 +13216,12 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1605172472803,
     "title": "November 12th, 2020"
+  },
+  {
+    "create-email": "yakcollective.org@gmail.com",
+    "create-time": 1605258873459,
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1605258873459,
+    "title": "November 13th, 2020"
   }
 ]
