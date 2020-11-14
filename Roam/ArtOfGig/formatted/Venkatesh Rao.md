@@ -486,6 +486,11 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
+- "people who get tenure in the US are very ambitious" - [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 

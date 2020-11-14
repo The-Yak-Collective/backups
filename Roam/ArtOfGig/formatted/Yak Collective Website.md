@@ -53,6 +53,9 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 
 - The [Yak Collective Website](<Yak Collective Website.md>)
 
+## [November 13th, 2020](<November 13th, 2020.md>)
+- [Yak Collective Website](<Yak Collective Website.md>)
+
 ## [Production Cell](<Production Cell.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)
 

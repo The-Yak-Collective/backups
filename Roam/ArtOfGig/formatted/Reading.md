@@ -11,3 +11,7 @@
 - 
 - **[Reading](<Reading.md>):**
 
+## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
+- 
+- **[Reading](<Reading.md>):**
+
