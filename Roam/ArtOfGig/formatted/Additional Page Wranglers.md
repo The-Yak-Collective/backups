@@ -55,6 +55,10 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Knack.com](<Knack.com.md>)
 Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**

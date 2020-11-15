@@ -50,6 +50,10 @@
 - **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
 - **[Last Updated](<Last Updated.md>):**
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):**

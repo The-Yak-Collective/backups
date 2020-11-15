@@ -184,8 +184,6 @@ But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>) [Grigori Milov](<Grigori Milov.md>)
 
-- [Innovation Consulting](<Innovation Consulting.md>) - WTF happened to it? [Grigori Milov](<Grigori Milov.md>)
-
 ## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

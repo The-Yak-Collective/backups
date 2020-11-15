@@ -16,6 +16,10 @@
 - **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
     - **[Status](<Status.md>):**
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
+- **[Status](<Status.md>):**
+
 ## [Roam Help](<Roam Help.md>)
 - **[Status](<Status.md>):**
 

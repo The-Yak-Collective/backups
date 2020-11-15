@@ -66,6 +66,11 @@
 ## [Infrastructure](<Infrastructure.md>)
 - We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- **[Created](<Created.md>):** [November 15th, 2020](<November 15th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 

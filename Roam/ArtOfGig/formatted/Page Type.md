@@ -16,6 +16,10 @@
 - **[Created](<Created.md>):** [November 11th, 2020](<November 11th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
     - **[Page Type](<Page Type.md>):**
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Created](<Created.md>):** [November 15th, 2020](<November 15th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>) 
+- **[Page Type](<Page Type.md>):**
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[Created](<Created.md>):** [November 13th, 2020](<November 13th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Page Type](<Page Type.md>):**

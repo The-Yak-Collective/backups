@@ -184,6 +184,9 @@ Yaks competing for attention
 
 - kickoff [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- About: Launch plan for [Yaks do innovation consulting](<Yaks do innovation consulting.md>) with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[About](<About.md>):** where and how do we communicate and engage with the target audience - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

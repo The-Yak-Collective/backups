@@ -346,6 +346,9 @@ The problem large companies are really having with innovations is that even the 
 ## [Innovation Consulting](<Innovation Consulting.md>)
 - project page: [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- About: Launch plan for [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
 ## [Internal Project](<Internal Project.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 

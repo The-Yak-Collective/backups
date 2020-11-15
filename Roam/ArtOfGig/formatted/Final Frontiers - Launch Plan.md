@@ -8,7 +8,7 @@
     - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
     - **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 -  
-- "Launch Framework"
+- "Launch Framework - template"
     - `defines the steps, checklists and can become a template to be filled together with the Project owner`
     - **Goal of the Product**
         - `Why do we built this project? What we want to achieve?`
