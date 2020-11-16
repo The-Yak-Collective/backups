@@ -2,7 +2,7 @@ About:: __documenting channel lifecycle and categories for the YakC Discord serv
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [November 15th, 2020](<November 15th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
 # Channel Categories
     ## Plaza
@@ -11,8 +11,9 @@ Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
             - Rename "Public Plaza" → "Plaza".
             - Merge `announcements`, `events`, and `general`.
                 -  [Maier Fenster](<Maier Fenster.md>) events should be separate and include only reminders for events. i think.
-            - Merge in any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Projects".
+            - Move any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Projects".
                 - [Maier Fenster](<Maier Fenster.md>) by "merge in" you mean move or also combine?
+                    - [Nathan Acks](<Nathan Acks.md>) Should have said "move". Fixed.
     ## Voice
         Voice channels (and associated text channels).
         ### Proposed Changes
@@ -20,6 +21,7 @@ Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
     ## Projects
         Currently active internal and external projects. 
             - [Maier Fenster](<Maier Fenster.md>) maybe have separate groups for internal and external projects
+                - [Nathan Acks](<Nathan Acks.md>) My thought was to mix them together, as I don't think we have that many... But I don't have a strong opinion.
         ### Proposed Changes
             - Merge in any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Plaza".
     ## Incubator
@@ -33,14 +35,17 @@ Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
             - Make sure that all channels in this section have the "send messages" permission disabled.
             - Existing channels should be [reviewed to determine if they are still alive](((qI9wDK8cG))) and moved to the archives as appropriate.
             - [Maier Fenster](<Maier Fenster.md>) each should have a new title starting with "if you want this channel to come back to life do XXX"
+                - [Nathan Acks](<Nathan Acks.md>) Maybe this should be in the channel description?
 # Channel Lifecycle
     ## Birth
         - New channels are proposed in `create-destroy-channels`. All active yaks, made yaks, and yak shavers can propose new channels.
-        - A channel that receives at least 5 "thumbs up" from different active yaks, made yaks, or yak shavers is born into the "Incubator".
+        - A channel that receives at least 3 "thumbs up" from different active yaks, made yaks, or yak shavers is born into the "Incubator".
             - [Maier Fenster](<Maier Fenster.md>) i think 3 are enough for incubator.
+                - [Nathan Acks](<Nathan Acks.md>) Changed from 5 → 3
         - Channels in the incubator must show sustained interest for 1 month to be promoted to "Plaza", "Projects", or "Voice" (as appropriate).
-            - __Sustained interest__ means posts from at least 5 yaks, with an __average__ (for the entire channel) of at least 1 post per day and no more than three days (for the entire channel) between any two posts.
+            - __Sustained interest__ means posts from at least 3 yaks, with an __average__ (for the entire channel) of at least 1 post per day and no more than 1 week (for the entire channel) between any two posts.
                 - [Maier Fenster](<Maier Fenster.md>) i say 3 yaks. and 1 week, not 3 days. there are holidays, you know
+                    - [Nathan Acks](<Nathan Acks.md>) Change made
         - Channels in the incubator that do not show sustained interest are [archived](((qI9wDK8cG))).
     ## Life
         - Channels live in "Plaza" or "Projects", as appropriate.

@@ -25,6 +25,58 @@ suggest most recent note left untwirled for easy review to visitors__
         - 2jplEZUYM
         - 
 - ## Infrastructure Chat Notes
+- infrastructure chat 27 [[November 15th, 2020]]
+    - Darren's notes
+        - change meeting time?
+        - web updates
+            - Palash - set up... documentation isn't great, but community comments are great.
+            - potential of switching to Gatsby. Hugo - templating is faster than Liquid. 
+            - Gatsby block quotes
+            - Bandwidth-constrained experience of our website 
+            - Knack for 3rd party auth 
+        - yak scraper
+            - Maier added message and mention aggregation by week 
+            - $activity 60 code
+    - Nathan's notes
+        - Palash is porting the site to Gatsby!
+            - The Gatsby documents are __really__ bad.
+            - A lot of community problems. But a __big__, and a good community.
+            - Can render MDX components in Netlify CMS.
+            - Palash is going to reimplement the existing site in Gatsby.
+            - NPM packages can be imported into Gatsby during build time, as plugins. So, builds can make whatever API calls we need.
+            - Palash thinks that components that animate as one scrolls is easy to implement in Gatsby. Sachin should be excited about this.
+            - Palash is taking a couple of days off, and then needs to figure out some build problems. Should have a more concrete demo in 1 - 2 weeks.
+            - Current fork: https://goofy-agnesi-5c224c.netlify.app/
+            - On performance: Some blocking is actually good, because it can give resources time to load.
+            - There's a CSS property called `font-display` that will block the browser on load.
+                - https://css-tricks.com/almanac/properties/f/font-display/
+            - What's the right priority here?
+                - Nathan things: Get a POC working, then get all the functionality working, then add in nice editing.
+                    - We should be thinking about file structure during the first two phases.
+            - Palash will be looking at alternate CMSes as well, but Netlify CMS has the capability to render MDX widgets, and is the right price.
+                - Maier: If we can use Discord as our central authentication.
+                - Palash: If we're interested in self-hosted, [Strapi](https://strapi.io/) is good
+            - Maier: Is there an ability to have a drag-and-drop interface in Netlify CMS?
+                - Palash: Netlify is building something, but it's not ready yet.
+            - Maier: 25% - 35% of our website access is mobile.
+        - Changing times (Maier/Darren)
+            - There's a 13.5 hour difference between call participants, but Palash's schedule is shifting, so no change to times right now...
+            - We should revisit this in the January time frame.
+        - Channel usage tool (Maier)
+            - `yak_scraper` now gives channel activity information
+            - Also shows how many messages and mentions per week
+                - The idea is that channels where people mention each other more are more social.
+            - Nathan: We should have some sort of notification that "`yak_scraper` is working"
+                - Maier: We can send a "typing" notification
+            - Maier: We definitely need to move forward with some kind of channel archiving/lifecycle proposal
+            - Maier: Some of these channels should really be Roam pages
+                - Nathan: It would be great if we had an easier way to share Roam links
+                - Maier: I have a (private) extension that unfurls links using my server
+            - ^^Nathan: I will repost my simplify/lifecycle proposal.^^
+        - Discord map (Maier)
+            - Maier: I'd really like a visual map of the Discord server, but we should have a metaphor.
+                - Maybe make it dynamic using the data from `yak_scraper`.
+            - ^^Maier: Can [[Darren Kong]] and [[Nathan Acks]] think of visual metaphors?^^
 - infrastructure chat 26 [[November 8th, 2020]]
     - [[Darren Kong]]'s notes
         - knack
