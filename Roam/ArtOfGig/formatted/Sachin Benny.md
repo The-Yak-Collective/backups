@@ -97,6 +97,8 @@
 - [Sachin Benny](<Sachin Benny.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
+- Palash thinks that components that animate as one scrolls is easy to implement in Gatsby. [Sachin Benny](<Sachin Benny.md>)
+
 - [Sachin Benny](<Sachin Benny.md>)
 
 - Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>)

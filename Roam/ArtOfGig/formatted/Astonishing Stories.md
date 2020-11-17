@@ -34,6 +34,9 @@
 
 - [Astonishing Stories](<Astonishing Stories.md>)
 
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>) suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - added [Justice](<Justice.md>) to [Production Cell](<Production Cell.md>) illustrator. working on [Astonishing Stories](<Astonishing Stories.md>)
 

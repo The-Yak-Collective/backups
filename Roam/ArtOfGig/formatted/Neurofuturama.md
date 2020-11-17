@@ -143,6 +143,9 @@ developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229
 ## [Pop-Up Think Tank](<Pop-Up Think Tank.md>)
 - (our first [Internal Project](<Internal Project.md>) and [Neurofuturama](<Neurofuturama.md>)
 
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>) suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [Astonishing Stories](<Astonishing Stories.md>) got some budget out of [Neurofuturama](<Neurofuturama.md>)
+
 ## [Siva Swaroop: Religious Ways](<Siva Swaroop: Religious Ways.md>)
 - This is the scratch page of [Siva Swaroop](<Siva Swaroop.md>) for [Neurofuturama](<Neurofuturama.md>)
 

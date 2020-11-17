@@ -21,6 +21,7 @@
 - Ping
     - {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>) {not: [pong](<pong.md>)]}}}}
     - 
+- 
 
 # Backlinks
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
@@ -117,6 +118,9 @@
 
 - ^^[ ] [Hugo Macedo](<Hugo Macedo.md>)
 
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Roam Gardening](<Roam Gardening.md>)

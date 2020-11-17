@@ -11764,14 +11764,6 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "2vwqbiZg3"
-                  },
-                  {
-                    "create-email": "sachben91@gmail.com",
-                    "create-time": 1598311715852,
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1603203749455,
-                    "string": "04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)",
-                    "uid": "BgxvY636h"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -11792,14 +11784,6 @@
                     "uid": "bAKMCGQd6"
                   },
                   {
-                    "create-email": "j@djinna.com",
-                    "create-time": 1600732961791,
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1600732961791,
-                    "string": "",
-                    "uid": "su_JGTYcA"
-                  },
-                  {
                     "create-email": "sachben91@gmail.com",
                     "create-time": 1598311958493,
                     "edit-email": "j@djinna.com",
@@ -11818,6 +11802,14 @@
                     "edit-time": 1602544165691,
                     "string": "03 [[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) ",
                     "uid": "gxTA6agA_"
+                  },
+                  {
+                    "create-email": "sachben91@gmail.com",
+                    "create-time": 1598311715852,
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1603203749455,
+                    "string": "04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)",
+                    "uid": "BgxvY636h"
                   }
                 ],
                 "edit-email": "j@djinna.com",
@@ -13244,5 +13236,12 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1605518095012,
     "title": "November 16th, 2020"
+  },
+  {
+    "create-email": "yakcollective.org@gmail.com",
+    "create-time": 1605604489393,
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1605604489393,
+    "title": "November 17th, 2020"
   }
 ]

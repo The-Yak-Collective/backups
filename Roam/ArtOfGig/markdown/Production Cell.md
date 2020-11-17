@@ -1,4 +1,4 @@
-- About:: __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
+- About:: __A place to build a group of yaks to contribute to producing YakC work outputs.__
 - Chief Page Wrangler:: [[Jenna Dixon]]
     - Additional Page Wranglers:: [[Suwaythan Nahaganeshan]] | [[Fname Lname]] 
 - Last Updated:: [[September 21th, 2020]]

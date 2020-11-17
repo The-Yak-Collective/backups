@@ -69,7 +69,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Production Cell](<Production Cell.md>)
-- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
+- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing YakC work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)

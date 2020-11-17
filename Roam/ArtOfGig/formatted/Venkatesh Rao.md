@@ -282,6 +282,11 @@ owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Production Cell](<Production Cell.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Relief Resources for Self-Employed](<Relief Resources for Self-Employed.md>)
 - [Gigging in the time of Corona](https://artofgig.substack.com/p/gigging-in-the-time-of-corona) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
