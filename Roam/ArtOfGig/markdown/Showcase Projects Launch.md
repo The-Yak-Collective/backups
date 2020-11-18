@@ -32,6 +32,11 @@ bringing clients is great, but think of leading indicators that are faster and e
         - {{[[TODO]]}} Project title - does it need to be reviewed?
 `does it have the right balance of being clear but attractive/inspiring? ``
     - **Lauch strategy**
+        - **Deliverales**
+```What is going to be delivered as an output`
+            - {{[[TODO]]}} a series of articles
+            - {{[[TODO]]}} an ebook
+            - {{[[TODO]]}} a slide deck
         - {{[[TODO]]}} full-launch
         - {{[[TODO]]}} teaser/early-access
 `one idea to get an initial interest and testimonials is to provide exclusive pre-launch access to key target individuals in exchange for a testimonial`

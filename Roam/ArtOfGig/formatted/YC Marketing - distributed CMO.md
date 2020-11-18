@@ -196,6 +196,11 @@ Yaks competing for attention
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [November 17th, 2020](<November 17th, 2020.md>)
+- [Hugo Macedo](<Hugo Macedo.md>) meeting with [David McDougall](<David McDougall.md>) on [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>) [meeting-notes](<meeting-notes.md>) #[YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+- topic to be discussed in the next #[YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

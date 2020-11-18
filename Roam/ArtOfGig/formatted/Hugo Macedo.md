@@ -90,6 +90,19 @@
 
 - "[Hugo Macedo](<Hugo Macedo.md>)
 
+## [November 17th, 2020](<November 17th, 2020.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Hugo Macedo](<Hugo Macedo.md>)
 
