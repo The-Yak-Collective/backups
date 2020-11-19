@@ -64,3 +64,8 @@ bringing clients is great, but think of leading indicators that are faster and e
 ## [November 17th, 2020](<November 17th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>) meeting with [David McDougall](<David McDougall.md>) on [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
 
+## [November 18th, 2020](<November 18th, 2020.md>)
+- [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+
+- "[Hugo Macedo](<Hugo Macedo.md>) meeting with [David McDougall](<David McDougall.md>) on [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+

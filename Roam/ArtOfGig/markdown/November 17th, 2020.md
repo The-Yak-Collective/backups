@@ -44,6 +44,6 @@
         - [Problem Essays GDoc](https://docs.google.com/document/d/1HtM1xP17PyqpLNxKWWMN5V6ixVGZaNAC-hn-ekVJbNk/)
         - [Solution Essays GDoc](https://docs.google.com/document/d/1P63zQhOpJqZjC3L0gRo4v-WWtI2hfFGf6CpE7RnaYPU/)
 - 
-- Joe Lonsdale 8VC - WSJ Opinion | California, Love It and Leave It 
+- 
 - 
 - 

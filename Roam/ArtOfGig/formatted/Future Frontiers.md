@@ -168,6 +168,12 @@ Next decade can bring more examples like this one.
 
 - [Future Frontiers](<Future Frontiers.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) __project. The text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. The image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>).
+
+## [Sample Project](<Sample Project.md>)
+- [Future Frontiers](<Future Frontiers.md>)
+
 ## [September 20th, 2020](<September 20th, 2020.md>)
 - Production call 14:45 [Jenna Dixon](<Jenna Dixon.md>) and [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) to discuss design for [Future Frontiers](<Future Frontiers.md>)
 

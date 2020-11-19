@@ -1,4 +1,4 @@
-- An internal project is one initiated by a member of the Yak Collective using our [Greenlighting Process](<Greenlighting Process.md>)
+- An internal project is one initiated by a member of the Yak Collective using our [Project Pitches](<Project Pitches.md>) process
 - Internal projects are used to validate new [Coordination Model](<Coordination Model.md>)s internally before offering them to clients or simply to explore projects that interest us
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) (completed April 30, 2020)
 - [The New Old Home](<The New Old Home.md>) (greenlit May, 2020)
@@ -6,6 +6,9 @@
 - 
 
 # Backlinks
+## [Available YC Funds](<Available YC Funds.md>)
+- Anyone can request funds for an [Internal Project](<Internal Project.md>)
+
 ## [Pop-Up Think Tank](<Pop-Up Think Tank.md>)
 - (our first [Internal Project](<Internal Project.md>)
 

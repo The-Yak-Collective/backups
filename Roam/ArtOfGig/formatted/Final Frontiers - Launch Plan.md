@@ -16,6 +16,7 @@
         - [ ] what success looks like?
             - webpage visits?
             - downloads?
+            - citations? 
     - **Audience**
         - [ ] Who's the target audience?
 `define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`

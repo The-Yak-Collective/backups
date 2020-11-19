@@ -1,4 +1,6 @@
+- A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the [[Project Pitches]] page.
 - THIS IS VERY ROUGH
+- The only client project so far is [[Neurofuturama]]
 - Our broad operating principle is that YC is a "weird surge capacity" organization that can offer capabilities individual members may want to offer their clients. The focus is on INDIVIDUAL project leads. YC is like a crowd-sourced wingman/backend, not the front-end organization.
 - The goal of client projects is NOT to provide primary income to members. Members are expected to focus primarily on developing their own individual consulting practices, not turn into de facto dependents on YC-sourced gigs. The primary goal is to provide some supplementary income, opportunities for learning and collaboration, exposure to new clients and sectors, and so on.
 - Not all client projects undertaken by members are official "YC client projects". We expect that most collaboration on gigs will in fact not be "official" but simply happen as part of natural networking and resources like the [[Take a Gig, Leave a Gig]] page. 

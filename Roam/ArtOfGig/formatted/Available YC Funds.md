@@ -1,0 +1,57 @@
+- **About**: This is an informal ledger of available funds that uses the native Roam calculator to keep a running tally of available funds. Looking for a volunteer to beef up this page, either in-line here and/or via connecting to an actual spreadsheet.
+- **Rules**:
+    - Anyone can request funds for an [Internal Project](<Internal Project.md>) once it has been started.
+    - You have to formally pitch and start a project via the [Project Pitches](<Project Pitches.md>) in order to be eligible for funding. 
+    - Funds may also be used for whole or partial reimbursement of YC expenses (such as domain names, hosting or other shared services) etc. 
+    - A [Client Project](<Client Project.md>) is required to contribute at least 10% of its revenues to these funds. 
+    - Currently discord admins make a consensus decision on grants.
+    - Funds are held by whoever brought them (eg: project lead for a paid project) in or committed them (donor). At present YC has no financial infrastructure of its own. When a grant is made, someone holding adequate funds on YC's behalf is instructed to make the appropriate payment.
+- **Funds currently available**: {{calc: ((xhub2rDbV))}} USD
+- **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **Additional page wranglers:** 
+- **Last updated**: 11/18/20
+- **Last updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
+- {{table}}
+    - **Date**
+        - **Project/Source**
+            - **Credit/Debit**
+                - **Amount (USD)**
+                    - **Balance**
+                        - **Point Person**
+    - 9/1/2020
+        - Neurofuturama
+            - Credit
+                - 1562.50
+                    - {{calc: ((NYLp0PH5o))}}
+                        - [Venkatesh Rao](<Venkatesh Rao.md>)
+    - 9/22/2020
+        - Astonishing Stories
+            - Debit
+                - 350
+                    - {{calc: ((ju_oDFArd))-((J8qui4FDZ))}}
+                        - [Sachin Benny](<Sachin Benny.md>)
+    - mm//dd/yy
+        - __next tx__
+            - -
+                - 0
+                    - {{calc:((CDgAwVdhy))-((-t2sDCsh9))}}
+                        - tbd
+    - mm//dd/yy
+        - __next tx2__
+            - -
+                - 0
+                    - {{calc: ((ZYSXxBooz))-((iaJfpclH6))}}
+                        - tbd
+    -  
+        -  
+            -  
+                - **Available Funds**
+                    - {{calc: ((jiNFsV5Es))}}
+                        -  
+
+# Backlinks
+## [Project Pitches](<Project Pitches.md>)
+- %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [Available YC Funds](<Available YC Funds.md>).
+
+- See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Available YC Funds](<Available YC Funds.md>)
+

@@ -54,6 +54,9 @@
 ## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
 - Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>))
 
+## [Sample Project](<Sample Project.md>)
+- [The New Old Home](<The New Old Home.md>)
+
 ## [The New Old Home](<The New Old Home.md>)
 - I [Pamela Hobart](<Pamela Hobart.md>) plan to contribute something about [The New Old Home](<The New Old Home.md>):
 

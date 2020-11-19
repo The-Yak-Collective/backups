@@ -81,6 +81,9 @@
 
 - [ ] [Sachin Benny](<Sachin Benny.md>)
 
+## [Available YC Funds](<Available YC Funds.md>)
+- [Sachin Benny](<Sachin Benny.md>)
+
 ## [Chat Formats](<Chat Formats.md>)
 - "Closing tabs with So-and-so": [Sachin Benny](<Sachin Benny.md>)
 

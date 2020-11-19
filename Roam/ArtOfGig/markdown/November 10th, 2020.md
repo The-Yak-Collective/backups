@@ -1,6 +1,1 @@
 - 
-- 
-- [[NK Jemisin - thread on storytelling ]]
-- [[Teri_Kanefield - thread on democracy]]
-- 
-- 

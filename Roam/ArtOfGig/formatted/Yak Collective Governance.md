@@ -136,6 +136,9 @@ https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
 ## [August 28th, 2020](<August 28th, 2020.md>)
 - [Yak Collective Governance](<Yak Collective Governance.md>)
 
+## [Client Project](<Client Project.md>)
+- Filed in [Yak Collective Governance](<Yak Collective Governance.md>)
+
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) focused particularly on [Yak Collective Governance](<Yak Collective Governance.md>)
 
@@ -148,6 +151,9 @@ Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) foc
 ## [Project Launch Checklist](<Project Launch Checklist.md>)
 - Schedule with [Yak Collective Governance](<Yak Collective Governance.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- Show up at a [Yak Collective Governance](<Yak Collective Governance.md>)
+
 ## [September 25th, 2020](<September 25th, 2020.md>)
 - [Yak Collective Governance](<Yak Collective Governance.md>)
 
@@ -157,9 +163,6 @@ Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) foc
 
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - [Yak Collective Governance](<Yak Collective Governance.md>)
-
-## [YC Client Project](<YC Client Project.md>)
-- Filed in [Yak Collective Governance](<Yak Collective Governance.md>)
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - **[About](<About.md>):** __chat minutes for [September 25th, 2020](<September 25th, 2020.md>) [Yak Collective Governance](<Yak Collective Governance.md>)
