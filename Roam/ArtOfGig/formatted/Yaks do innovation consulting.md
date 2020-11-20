@@ -116,7 +116,8 @@
 - **PROJECT DETAILS** (Framing, motivation, audience)
     - **Goals**
         - **Eventual goal**:
-Develop an unconventional consulting offering for big corporations wanting to improve their ability to innovate. Why the focus on big corporations? Because they have big budgets and they need __really__ unconventional thinking. Aiming at big corporates also forces discipline in construing problems and solutions so they are well-scoped, closed-ended consulting deliverables.
+Develop an unconventional consulting offering for big corporations wanting to improve their ability to innovate. 
+            - Why focus on big corporations? Because they have big budgets and they need __really__ unconventional thinking. Aiming at big corporates also forces discipline in construing problems and solutions so they are well-scoped, closed-ended consulting deliverables.
         - **Short-term goal **:
 Develop an idea framework that offers Yak-distinctive—i.e., unconventional but empirically grounded—explanations for why big corporations try but fail to innovate, and offer pragmatic solutions that can solve for the unique challenges of large, established companies face in innovating.
 
@@ -346,7 +347,13 @@ The problem large companies are really having with innovations is that even the 
 ## [Innovation Consulting](<Innovation Consulting.md>)
 - project page: [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- About: Launch plan for [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
 ## [Internal Project](<Internal Project.md>)
+- [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
+## [Sample Project](<Sample Project.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)

@@ -67,6 +67,9 @@
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+- Check the [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - state of the union deck » [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 

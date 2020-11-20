@@ -10,6 +10,8 @@
         - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
         - [Yak Collective Governance](<Yak Collective Governance.md>)
         - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+        - [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+        - [Project Pitches](<Project Pitches.md>)
     - Venkat's to do
         - [ ] Something something new decentralized CFP
         - [ ] Blog post on experiments so far
@@ -131,11 +133,23 @@
 
 - So if you can __artificially__ create this foreshortened horizon effect with neural techniques you'd have a neurological memento mori tech [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Available YC Funds](<Available YC Funds.md>)
+- **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Last updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [California/Los Angeles](<California/Los Angeles.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Chat Formats](<Chat Formats.md>)
 - April 8 2020: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Client Project](<Client Project.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Collision Forces Brainstorm](<Collision Forces Brainstorm.md>)
 - " A subtler collision force is neurotech itself... the original "traffic jam" model is not cars+another trend, but isolated car ownership --> pervasive car ownership and infrastructure shift. So a homogeneous pattern of traffic jam = everybody has some access to neurotech, either through data, or NaaS, or the devices themselves, and infrastructure has evolved to support it. Like asphalt roads for cars." [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -280,6 +294,24 @@ owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - (1 person) **Modern Praetorian Guard**: Maybe a short fiction piece? Derek Wince, mercenary peace officer? I had a conversation with [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Production Cell](<Production Cell.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Project Pitches](<Project Pitches.md>)
+- **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Last Updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Project Lead**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Quadrantology](<Quadrantology.md>): A client project to create a revenue-generating personality test based on the assets already created and prototyped by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Project Lead**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Financial Structure**: Client Project ([Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Relief Resources for Self-Employed](<Relief Resources for Self-Employed.md>)
@@ -467,6 +499,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
+- **General Track** — [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -495,6 +529,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Amanda Reeves](<Amanda Reeves.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Benton Heimsath](<Benton Heimsath.md>) [Chris Clark](<Chris Clark.md>) [David McDougall](<David McDougall.md>) [Drew Shiel](<Drew Shiel.md>) [Jordan Peacock](<Jordan Peacock.md>) [Kannen Ramsamy](<Kannen Ramsamy.md>) [Michael Colin](<Michael Colin.md>) [Ryan Hume](<Ryan Hume.md>) [Sachin Benny](<Sachin Benny.md>) [Scott Garlinger](<Scott Garlinger.md>) [Shreeda Segan](<Shreeda Segan.md>) [Thomas Hollands](<Thomas Hollands.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Toby Shorin](<Toby Shorin.md>) [Tom Critchlow](<Tom Critchlow.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Yak Rover](<Yak Rover.md>)
+- Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - Game-in-the-head > head-in-the-game. Makes sense after a few rounds with different client types - [Venkatesh Rao](<Venkatesh Rao.md>)

@@ -26,6 +26,9 @@
 ## [Marketing Channels](<Marketing Channels.md>)
 - [Yak Talk](<Yak Talk.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- **About**: Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>)
+
 ## [Substack](<Substack.md>)
 - [Yak Talk](<Yak Talk.md>)
 

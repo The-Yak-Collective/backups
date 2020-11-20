@@ -1,4 +1,15 @@
+- **[About](<About.md>):** __A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the__ [Project Pitches](<Project Pitches.md>) __page.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+- **[Created](<Created.md>):** [May 18th, 2020](<May 18th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- 
+- A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the [Project Pitches](<Project Pitches.md>) page.
 - THIS IS VERY ROUGH
+- The only client project so far is [Neurofuturama](<Neurofuturama.md>)
 - Our broad operating principle is that YC is a "weird surge capacity" organization that can offer capabilities individual members may want to offer their clients. The focus is on INDIVIDUAL project leads. YC is like a crowd-sourced wingman/backend, not the front-end organization.
 - The goal of client projects is NOT to provide primary income to members. Members are expected to focus primarily on developing their own individual consulting practices, not turn into de facto dependents on YC-sourced gigs. The primary goal is to provide some supplementary income, opportunities for learning and collaboration, exposure to new clients and sectors, and so on.
 - Not all client projects undertaken by members are official "YC client projects". We expect that most collaboration on gigs will in fact not be "official" but simply happen as part of natural networking and resources like the [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>) page. 
@@ -15,9 +26,18 @@
 - Filed in [Yak Collective Governance](<Yak Collective Governance.md>)
 
 # Backlinks
+## [Available YC Funds](<Available YC Funds.md>)
+- A [Client Project](<Client Project.md>)
+
 ## [Governance Meetings Minutes](<Governance Meetings Minutes.md>)
-- [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>) – On [YC Client Project](<YC Client Project.md>)
+- [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>) – On [Client Project](<Client Project.md>)
+
+## [Neurofuturama](<Neurofuturama.md>)
+- This is the main page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) [Client Project](<Client Project.md>)
 
 ## [Pop-Up Think Tank](<Pop-Up Think Tank.md>)
-- (our first [Internal Project](<Internal Project.md>) and [Neurofuturama](<Neurofuturama.md>) (our first [YC Client Project](<YC Client Project.md>))
+- (our first [Internal Project](<Internal Project.md>) and [Neurofuturama](<Neurofuturama.md>) (our first [Client Project](<Client Project.md>))
+
+## [Project Pitches](<Project Pitches.md>)
+- %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [Available YC Funds](<Available YC Funds.md>). Client projects are funded by a client. Check out [Client Project](<Client Project.md>)
 

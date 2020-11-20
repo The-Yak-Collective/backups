@@ -4,6 +4,10 @@
 - **[About](<About.md>):** A project page for proposed Boutiques vs Marketplaces Wargames
 - **[Page Type](<Page Type.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[Created](<Created.md>):** [May 18th, 2020](<May 18th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
+- **[Page Type](<Page Type.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[About](<About.md>):** project page for embryonic project contrasting YC conceptualization with standard conceptionalization
 - **[Page Type](<Page Type.md>):**
@@ -15,6 +19,10 @@
 ## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
 - **[Created](<Created.md>):** [November 11th, 2020](<November 11th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
     - **[Page Type](<Page Type.md>):**
+
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Created](<Created.md>):** [November 15th, 2020](<November 15th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>) 
+- **[Page Type](<Page Type.md>):**
 
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[Created](<Created.md>):** [November 13th, 2020](<November 13th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)

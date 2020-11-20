@@ -14,6 +14,10 @@
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[About](<About.md>):** __A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the__ [Project Pitches](<Project Pitches.md>) __page.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
@@ -52,6 +56,10 @@
 - **[About](<About.md>):** __Directory Listing for Things Discussed in Yak [Infrastructure](<Infrastructure.md>) Discord channel__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- About: Launch plan for [Yaks do innovation consulting](<Yaks do innovation consulting.md>) with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[About](<About.md>):** where and how do we communicate and engage with the target audience - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
@@ -65,7 +73,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Production Cell](<Production Cell.md>)
-- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
+- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing YakC work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)

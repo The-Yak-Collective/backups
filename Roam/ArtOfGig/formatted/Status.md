@@ -4,6 +4,10 @@
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^👍 
 - **[Status](<Status.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
+- **[Status](<Status.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - **[Status](<Status.md>):**
@@ -15,6 +19,10 @@
 ## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
 - **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
     - **[Status](<Status.md>):**
+
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
+- **[Status](<Status.md>):**
 
 ## [Roam Help](<Roam Help.md>)
 - **[Status](<Status.md>):**

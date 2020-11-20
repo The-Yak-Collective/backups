@@ -1,6 +1,7 @@
 - **Date and Time: Thursday, December 10th, 8AM - 10AM Pacific.**
     - Zoom info: https://us02web.zoom.us/j/87558263911
     - Meeting ID: 875 5826 3911
+- Check the [Yak Collective State of the Union](<Yak Collective State of the Union.md>) kanban board for a general overview of what's going on
 - **Agenda**
     - **0730: Doors open**
     - **0800-0805: Introduction**
@@ -18,8 +19,16 @@
         - **Moderator: TBD** 
         - People who have lead projects will reflect, others will be muted but can ask questions on chat, to be prioritized and asked by moderator.
         - Participants: Paul Millerd, Pamela Hobart, Drew Schorno, Jordan Peacock, Venkatesh Rao, Sachin Benny, Amanda Reeves, Siva Swaroop, Vaughn Tan, Dave McDougall
-    - **0920 - 0950: New project pitches** (6x5=30 minutes)
+    - **0920 - 0950**: [Project Pitches](<Project Pitches.md>) (6x5=30 minutes)
         - **Moderator: TBD**
         - If you want a pitch slot, make a project page and link it below. If we have more than 6 pitches, we'll prioritize the best developed ones
         - .
     - **0950 - 1000: Closing remarks/town hall**
+
+# Backlinks
+## [Project Pitches](<Project Pitches.md>)
+- **Time-sensitive announcement**: Draft projects added before Dec 1 will get an opportunity to live-pitch their project and solicit contributors at the [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+
+## [Venkatesh Rao](<Venkatesh Rao.md>)
+- [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+

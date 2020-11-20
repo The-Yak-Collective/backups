@@ -14,6 +14,10 @@
 - **[Created](<Created.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
 - **[Last Updated](<Last Updated.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Created](<Created.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Updated](<Last Updated.md>):**
@@ -48,6 +52,10 @@
 
 ## [Infrastructure](<Infrastructure.md>)
 - **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
+- **[Last Updated](<Last Updated.md>):**
+
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Marketing Channels](<Marketing Channels.md>)
@@ -115,6 +123,6 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [template/header](<template/header.md>)
-- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
 - **[Last Updated](<Last Updated.md>):**
 

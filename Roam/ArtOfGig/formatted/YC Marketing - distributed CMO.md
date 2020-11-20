@@ -184,6 +184,9 @@ Yaks competing for attention
 
 - kickoff [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- About: Launch plan for [Yaks do innovation consulting](<Yaks do innovation consulting.md>) with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[About](<About.md>):** where and how do we communicate and engage with the target audience - part of [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
@@ -192,6 +195,18 @@ Yaks competing for attention
 
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [November 17th, 2020](<November 17th, 2020.md>)
+- [Hugo Macedo](<Hugo Macedo.md>) meeting with [David McDougall](<David McDougall.md>) on [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>) [meeting-notes](<meeting-notes.md>) #[YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+- topic to be discussed in the next #[YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [November 18th, 2020](<November 18th, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+- "[Hugo Macedo](<Hugo Macedo.md>) meeting with [David McDougall](<David McDougall.md>) on [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>) [meeting-notes](<meeting-notes.md>) #[YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)"
+
+- "topic to be discussed in the next #[YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
@@ -207,6 +222,9 @@ Yaks competing for attention
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
+## [Project Pitches](<Project Pitches.md>)
+- **About**: Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>) newsletter, and potentially some marketing activity from the [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 ## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
 - Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>)) or internally facing (__e.g.__, [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>))

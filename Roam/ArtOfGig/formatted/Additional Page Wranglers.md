@@ -8,6 +8,10 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Grigori Milov](<Grigori Milov.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Rafael Fernandez](<Rafael Fernandez.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
@@ -54,6 +58,10 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 ## [Infrastructure](<Infrastructure.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Knack.com](<Knack.com.md>)
 Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)

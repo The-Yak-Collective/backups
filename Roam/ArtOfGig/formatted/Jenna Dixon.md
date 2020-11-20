@@ -50,6 +50,9 @@
 ## [Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>)](<Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>).md>)
 - ### from [Jenna Dixon](<Jenna Dixon.md>):
 
+## [Client Project](<Client Project.md>)
+- **[Last Gardened](<Last Gardened.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -86,7 +89,9 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 ## [Infrastructure](<Infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
-- **[Last Gardened](<Last Gardened.md>):** [November 9th, 2020](<November 9th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- [November 16th, 2020](<November 16th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- [November 9th, 2020](<November 9th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -145,6 +150,26 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
 - **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+## [Project Pitches](<Project Pitches.md>)
+- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) __project. The text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. The image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>). Consult [Jenna Dixon](<Jenna Dixon.md>)
+
+- See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>)
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [November 16th, 2020](<November 16th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 

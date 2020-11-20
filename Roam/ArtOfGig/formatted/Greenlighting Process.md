@@ -1,3 +1,4 @@
+- This process has now been deprecated as of November 2020. See the [Project Pitches](<Project Pitches.md>) for the current process.
 - **Please do not edit this page directly. Send your feedback to an admin on the Discord.**
 - **CFP stage** — yak collective members submit proposals on a rolling monthly deadline by making proposal pages that are open to comments/feedback. It is up to the proposers to seek out the right kind of feedback to improve their projects. Going forward, this will **be the first Friday of every month**. Next few dates are: **May 8, July 3, Aug 7, Sep 4, Oct 2.**
 - **Ranking/Opt-in Stage**: In an open process (google form based), all yak collective members will be able to express interest in contributing. **This is not a vote**. It is an expression of interest in and commitment to contributing, subject to the proposer’s criteria. All members can only opt-in to TWO projects, with a preference ranking of 1, 2.
@@ -11,8 +12,8 @@
 - **Culling**: To prevent proliferation of projects, no contributor may work on more than 2 projects at once, or lead more than 1 project at a time. If the number of in-flight active projects grows past 10, the oldest projects are axed. This will create a bias in favor of projects that take fewer sprints to finish. Culling should't be seen as failure. Rather it is likely that long-running projects that don't launch after many sprints are simply too big for the yak collective to sponsor/incubate, and should fork off on their own.
 
 # Backlinks
-## [Internal Project](<Internal Project.md>)
-- An internal project is one initiated by a member of the Yak Collective using our [Greenlighting Process](<Greenlighting Process.md>)
+## [Project Pitches](<Project Pitches.md>)
+- Unlike the old proposals [Greenlighting Process](<Greenlighting Process.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - The [Greenlighting Process](<Greenlighting Process.md>)

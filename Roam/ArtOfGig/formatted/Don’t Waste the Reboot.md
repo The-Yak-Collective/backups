@@ -69,6 +69,12 @@
 ## [Pop-Up Think Tank](<Pop-Up Think Tank.md>)
 - So far there are 2 instances, [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+
+## [Sample Project](<Sample Project.md>)
+- [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+
 ## [What Does Yak Collective Do?](<What Does Yak Collective Do?.md>)
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 

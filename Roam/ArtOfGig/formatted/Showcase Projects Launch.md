@@ -8,15 +8,19 @@
 - ### Upcoming Launches (TBC)
     - [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
     - [Future Frontiers](<Future Frontiers.md>) - date?
-    - [Innovation Consulting](<Innovation Consulting.md>) - WTF happened to it? [Grigori Milov](<Grigori Milov.md>)
-- # Launch Framework
+    - [Innovation Consulting](<Innovation Consulting.md>) 
+- # Launch Framework - template
     - `defines the steps, checklists and can become a template to be filled together with the Project owner`
     - **Goal of the Product**
-        - `at this point most of our Projects will be to create Awareness to YC - right?`
+        - `Why do we built this project? What do we want to achieve? What's in it for Yak Collective?`
     - **Launch success:**
         - [ ] what success looks like?
-            - webpage visits?
-            - downloads?
+`- webpage visits?
+- downloads?
+- new yaks
+- clients' conversations
+bringing clients is great, but think of leading indicators that are faster and easy to measure.`
+
     - **Audience**
         - [ ] Who's the target audience?
 `define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`
@@ -25,10 +29,19 @@
         - [ ] long description
         - social proof
             - [ ] can we get testimonials to validate the value?
-        - Campaign
-            - [ ] full-launch
-            - [ ] teaser/early-access + full-launch
+        - [ ] Project title - does it need to be reviewed?
+`does it have the right balance of being clear but attractive/inspiring? ``
+    - **Lauch strategy**
+        - **Deliverales**
+```What is going to be delivered as an output`
+            - [ ] a series of articles
+            - [ ] an ebook
+            - [ ] a slide deck
+        - [ ] full-launch
+        - [ ] teaser/early-access
 `one idea to get an initial interest and testimonials is to provide exclusive pre-launch access to key target individuals in exchange for a testimonial`
+        - [ ] release as series
+`launched as a sequence of periodic releases`
     - **Channels**
         - [ ] Yak talk newsletter
         - [ ] contributors social channels inc. blog/newsletters

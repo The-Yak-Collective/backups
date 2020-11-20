@@ -1,4 +1,4 @@
-- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing Yak Collaborative work outputs.__
+- **[About](<About.md>):** __A place to build a group of yaks to contribute to producing YakC work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):** [September 21th, 2020](<September 21th, 2020.md>)
@@ -112,6 +112,9 @@ Native, Webflow, Carrd, Google Slides....__
 
 ## [Infrastructure](<Infrastructure.md>)
 - Project mgt as independent role »»  [Production Cell](<Production Cell.md>)
+
+## [Project Pitches](<Project Pitches.md>)
+- See also: [Production Cell](<Production Cell.md>)
 
 ## [September 20th, 2020](<September 20th, 2020.md>)
 - [Jenna Dixon](<Jenna Dixon.md>) added [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) to [Production Cell](<Production Cell.md>)

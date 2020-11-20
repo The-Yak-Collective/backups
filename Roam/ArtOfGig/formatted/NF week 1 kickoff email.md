@@ -18,5 +18,5 @@
 
 # Backlinks
 ## [Neurofuturama](<Neurofuturama.md>)
-- This is the main logistics page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) project taken up on behalf of [Kernel](https://kernel.co). **We're currently in Week 3: steelman sprint** (here are the [NF week 1 kickoff email](<NF week 1 kickoff email.md>))
+- This is the main page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) [Client Project](<Client Project.md>) taken up on behalf of [Kernel](https://kernel.co). This project is done. The client may or may not release the output publicly, at their discretion (here are the [NF week 1 kickoff email](<NF week 1 kickoff email.md>))
 

@@ -117,6 +117,8 @@ Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<N
 
 - **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
+- ^^Maier: Can [Darren Kong](<Darren Kong.md>) and [Nathan Acks](<Nathan Acks.md>)
+
 - [Nathan Acks](<Nathan Acks.md>)
 
 - Notes by [Nathan Acks](<Nathan Acks.md>)
@@ -188,14 +190,28 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- [November 15th, 2020](<November 15th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) can you point to an example of this [Nathan Acks](<Nathan Acks.md>)?
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) Hmmm 🤔Not sure about this. Have liked the Bureaucracy as a home for internal structural-type conversations. Won't lumping them all together create quite a long list? [ping](<ping.md>) [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) I'm confused on this [Nathan Acks](<Nathan Acks.md>)
 
 ## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Roam](<Roam.md>)
 last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)

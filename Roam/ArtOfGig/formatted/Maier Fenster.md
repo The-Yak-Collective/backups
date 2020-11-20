@@ -45,6 +45,10 @@
 ## [Infrastructure](<Infrastructure.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
+- Discord map [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 - [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
@@ -97,6 +101,9 @@
 - #[Maier Fenster](<Maier Fenster.md>)
 
 - #[Maier Fenster](<Maier Fenster.md>)
+
+## [November 18th, 2020](<November 18th, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
 
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
@@ -154,7 +161,18 @@
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+- Yak shavers will monitor channels for signs of inactivity, culling inactive channels at least once per month. [Maier Fenster](<Maier Fenster.md>)
+
 [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
 

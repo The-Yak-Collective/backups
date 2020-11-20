@@ -11,6 +11,9 @@
 ## [Directory](<Directory.md>)
 - {{[embed](<embed.md>):
 
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- {{[embed](<embed.md>):
+
 ## [Moe 'enable human' Ali](<Moe 'enable human' Ali.md>)
 - "{{[embed](<embed.md>):
 

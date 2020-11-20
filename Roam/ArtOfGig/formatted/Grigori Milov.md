@@ -120,6 +120,9 @@
 
 - #[Grigori Milov](<Grigori Milov.md>)
 
+## [November 18th, 2020](<November 18th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)
 
@@ -184,8 +187,6 @@ But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>) [Grigori Milov](<Grigori Milov.md>)
 
-- [Innovation Consulting](<Innovation Consulting.md>) - WTF happened to it? [Grigori Milov](<Grigori Milov.md>)
-
 ## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
@@ -224,7 +225,7 @@ But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>)
 
-- On Fifth Generation Management, added by [Grigori Milov](<Grigori Milov.md>)
+- **Platforms Track** — [Grigori Milov](<Grigori Milov.md>)
 
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Grigori Milov](<Grigori Milov.md>)

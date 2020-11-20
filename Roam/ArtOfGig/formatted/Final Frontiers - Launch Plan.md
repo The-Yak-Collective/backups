@@ -8,7 +8,7 @@
     - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
     - **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 -  
-- "Launch Framework"
+- "Launch Framework - template"
     - `defines the steps, checklists and can become a template to be filled together with the Project owner`
     - **Goal of the Product**
         - `Why do we built this project? What we want to achieve?`
@@ -16,6 +16,7 @@
         - [ ] what success looks like?
             - webpage visits?
             - downloads?
+            - citations? 
     - **Audience**
         - [ ] Who's the target audience?
 `define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`
@@ -45,7 +46,7 @@
     - **Launch Timeline**
         - Launch date: `TBD`
         - `list milestones and key activities`
-        - 
+            - date for feedback/initial analysis of results
 - 
 - 
 
