@@ -82,10 +82,16 @@
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[About](<About.md>):**
 
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[About](<About.md>):**
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[About](<About.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
+- **[About](<About.md>):**
+
+## [template/govchat](<template/govchat.md>)
 - **[About](<About.md>):**
 
 ## [template/header](<template/header.md>)

@@ -1,8 +1,12 @@
 - **[About](<About.md>):** __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>) 
-- **[Last Updated](<Last Updated.md>):** [November 6th, 2020](<November 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-- We currently have 3 tracks of readings: General, Platforms, Anarchism. Each features a backlog of short readings (must be free, reasonably browsable within 15 minutes, and text.. no video/audio). We pick one to read and discuss every Friday morning at 9 AM in the governance chat
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>)
+- **[Created](<Created.md>):** [May 4th, 2020](<May 4th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
+- **[Status](<Status.md>):** {{or: Active | Early Concept | Proposal | Complete}}
+- **[Last Updated](<Last Updated.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- 
+- We currently have 3 tracks of readings: General, Platforms, Anarchism. Each features a backlog of short readings (must be free, reasonably browsable within 15 minutes, and text... no video/audio). We pick one to read and discuss every Friday morning at 9 AM in the governance chat
 - **General Track** — [Venkatesh Rao](<Venkatesh Rao.md>)
     - **Completed Readings**
         - [Tao of the IETF](https://www.ietf.org/about/participate/tao/[what](<what.md>))
@@ -44,41 +48,41 @@ https://jobs.netflix.com/culture
         - [Frederic Laloux points out the fragility of platforms. It is not the first time he is talking about it, of course.](https://www.rolandberger.com/en/Point-of-View/Frederic-Laloux-on-what-lies-ahead-for-business.html)
             - "There are not that many leaders yet who have internalized this new paradigm and can adopt the coherent set of management practices it calls for. But even when you have such a leader, there often remains a risk one level up: the board of directors. It's happened with more than one of these new organizations that the board at some point pulled the plug: "This is all working really well, but this is all a mystery to us. Let's put in a CEO that will do that top-down thing we understand and trust."
             - [Frederic Laloux](<Frederic Laloux.md>)
-            -  [Systemic Logic for Platform Business Models, by Julia A. Fehrer, Herbert Woratschek and Roderick J. Brodie]()https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30)
-                - This is a groundbreaking article, in my view. The authors are kind of dancing around the fact that you have to throw most of what you think you know about management out of the window. We can discuss it either first or later, because other authors are touching upon some of the same ideas.
+        - Underutilized fixed assets created market places 
+            - https://kwokchain.com/2020/01/23/underutilized-fixed-assets/
+        - 7. This piece is about a hierarchy of marketplaces. It refers to some thinking of Bill Gurley, among other things, who deserves a lot of attention.
+            - https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
     - **Queued**
-        - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
-        -  [Do you need a business ecosystem?](https://www.bcg.com/ru-ru/publications/2019/do-you-need-business-ecosystem)
-            - "The concept of business ecosystems is not new. Indeed, the large fairs in many medieval cities at which merchants came together and exchanged goods for a given period of time each year can be regarded as early forms of ecosystems. Similarly, as early as the fourteenth century, the city of Prato, Italy, had established a textile industry as an ecosystem of independent craftsmen specializing in weaving, carding, spinning, fulling, and dyeing, and orchestrated by powerful wool merchants that acted as the trading hubs of the system and provided critical functions of production coordination, quality control, and even financing."
+        -  1. Systemic Logic for Platform Business Models, by Julia A. Fehrer, Herbert Woratschek and Roderick J. Brodie
+            - This is a groundbreaking article, in my view. The authors are kind of dancing around the fact that you have to throw most of what you think you know about management out of the window. We can discuss it either first or later, because other authors are touching upon some of the same ideas. https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30
+        -  2. Do you need a business ecosystem?
+            - "The concept of business ecosystems is not new. Indeed, the large fairs in many medieval cities at which merchants came together and exchanged goods for a given period of time each year can be regarded as early forms of ecosystems. Similarly, as early as the fourteenth century, the city of Prato, Italy, had established a textile industry as an ecosystem of independent craftsmen specializing in weaving, carding, spinning, fulling, and dyeing, and orchestrated by powerful wool merchants that acted as the trading hubs of the system and provided critical functions of production coordination, quality control, and even financing." https://www.bcg.com/ru-ru/publications/2019/do-you-need-business-ecosystem
             - It is thought provoking and invites a reading about medieval marketplaces.
             - The article above is a part of a series, that include:
                 - https://www.bcg.com/publications/2020/why-do-most-business-ecosystems-fail
                 - https://www.bcg.com/publications/2020/how-do-you-design-a-business-ecosystem
                 - https://www.bcg.com/en-us/publications/2019/emerging-art-ecosystem-management
-        - [McKinsey is also interested](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/new-evidence-for-the-power-of-digital-platforms)
-        - 5. The Business of Platforms is an excellent book by Michael Cusumano, et al.
-        - https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie
+                - [McKinsey is also interested](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/new-evidence-for-the-power-of-digital-platforms)
+        - 3. The Business of Platforms is an excellent book by Michael Cusumano, et al.
+            - https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie
         - It also reminds us that platforms are nothing new. A newspaper can be considered as such, or Yellow Pages, or Microsoft Windows.
-        - A shorter article based on the book is here:
-        - https://sloanreview.mit.edu/article/the-future-of-platforms/
-        - 7. This piece is about a hierarchy of marketplaces. It refers to some thinking of Bill Gurley, among other things, who deserves a lot of attention.
-        - https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
-        - 8. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
-        - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
-        - 9. Finally, there are some anecdotal evidence on what's going on in Asia, which is very interesting.
-        - https://www.notion.so/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b
-        - Another Addition: A short reading on medieval guilds https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/
-or something similar
-        - This one is free and also interesting
+            - **The read** is a shorter article based on the book is here:
+                - https://sloanreview.mit.edu/article/the-future-of-platforms/
+        - 4. This one is on Medieval Guilds. It is free and interesting
 https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period
 And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.
-        - Another China Related Addition 
-https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
-        - Underutilized fixed assets created market places 
-            - https://kwokchain.com/2020/01/23/underutilized-fixed-assets/
-        - On Fifth Generation Management
+            - Another short reading on medieval guilds https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/
+or something similar
+        - 5. An Interesting Read On Fifth Generation Management
 https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
-        - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
+            - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
+        - 6. What is the effect of interactivity on platform design and performance 
+https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
+        - 7. New: https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8[Sec22](<Sec22.md>)
+        - 8. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
+            - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
+        - 8. Finally, there are some anecdotal evidence on what's going on in Asia, which is very interesting.
+            - https://www.notion.so/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b
         - Backup resources (not short reads, not free, or both)
             - There is also a lot of literature on guilds behind the paywalls, including 
 1. https://www.jstor.org/stable/1360368?seq=1
@@ -90,6 +94,7 @@ https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-9ee
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-2e5
+            - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
     - **Queued**
@@ -105,27 +110,28 @@ https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
 - [Governance Tests](<Governance Tests.md>)
 - 
 - ## [Governance Meetings Minutes](<Governance Meetings Minutes.md>)
-- [November 13th, 2020](<November 13th, 2020.md>) [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
-- [November 6th, 2020](<November 6th, 2020.md>) [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
-- [October 30th, 2020](<October 30th, 2020.md>) [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
-- [October 23rd, 2020](<October 23rd, 2020.md>) [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
-- [September 25th, 2020](<September 25th, 2020.md>) [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
-- [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
-- [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
-- [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
-- [08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization](<08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization.md>)
-- [07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process](<07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process.md>)
-- [07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests ](<07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests .md>)
-- [07/10/2020 – YC Gov Chat Minutes – Governance Tests](<07/10/2020 – YC Gov Chat Minutes – Governance Tests.md>)
-- [07/03/2020 – YC Gov Chat Minutes](<07/03/2020 – YC Gov Chat Minutes.md>)
-- [06/26/2020 – YC Gov Chat Minutes](<06/26/2020 – YC Gov Chat Minutes.md>)
-- [06/18/2020 – YC Governance Chat Minutes – The Tyranny of Structurelessness pt. 1](<06/18/2020 – YC Governance Chat Minutes – The Tyranny of Structurelessness pt. 1.md>)
-- [06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief](<06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief.md>)
-- [06/05/2020 – YC Governance Chat Minutes](<06/05/2020 – YC Governance Chat Minutes.md>)
-- [05/29/2020 – YC Governance Chat Minutes](<05/29/2020 – YC Governance Chat Minutes.md>)
-- [05/14/2020 – YC Governance Chat Minutes](<05/14/2020 – YC Governance Chat Minutes.md>)
-- [07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business'](<07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business'.md>)
-- [05/08/2020 – YC Governance Chat Minutes](<05/08/2020 – YC Governance Chat Minutes.md>)
+- [November 20th, 2020](<November 20th, 2020.md>) [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>) [meeting-notes](<meeting-notes.md>)
+- [November 13th, 2020](<November 13th, 2020.md>) [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>) [meeting-notes](<meeting-notes.md>)
+- [November 6th, 2020](<November 6th, 2020.md>) [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>) [meeting-notes](<meeting-notes.md>)
+- [October 30th, 2020](<October 30th, 2020.md>) [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>) [meeting-notes](<meeting-notes.md>)
+- [October 23rd, 2020](<October 23rd, 2020.md>) [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>) [meeting-notes](<meeting-notes.md>)
+- [September 25th, 2020](<September 25th, 2020.md>) [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>) [meeting-notes](<meeting-notes.md>)
+- [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>) [meeting-notes](<meeting-notes.md>)
+- [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>) [meeting-notes](<meeting-notes.md>)
+- [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>) [meeting-notes](<meeting-notes.md>)
+- [08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization](<08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization.md>) [meeting-notes](<meeting-notes.md>)
+- [07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process](<07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process.md>) [meeting-notes](<meeting-notes.md>)
+- [07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests](<07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests.md>) [meeting-notes](<meeting-notes.md>)
+- [07/10/2020 – YC Gov Chat Minutes – Governance Tests](<07/10/2020 – YC Gov Chat Minutes – Governance Tests.md>) [meeting-notes](<meeting-notes.md>)
+- [07/03/2020 – YC Gov Chat Minutes](<07/03/2020 – YC Gov Chat Minutes.md>) [meeting-notes](<meeting-notes.md>)
+- [06/26/2020 – YC Gov Chat Minutes](<06/26/2020 – YC Gov Chat Minutes.md>) [meeting-notes](<meeting-notes.md>)
+- [06/18/2020 – YC Governance Chat Minutes – The Tyranny of Structurelessness pt. 1](<06/18/2020 – YC Governance Chat Minutes – The Tyranny of Structurelessness pt. 1.md>) [meeting-notes](<meeting-notes.md>)
+- [06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief](<06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief.md>)  [meeting-notes](<meeting-notes.md>)
+- [06/05/2020 – YC Governance Chat Minutes](<06/05/2020 – YC Governance Chat Minutes.md>) [meeting-notes](<meeting-notes.md>)
+- [05/29/2020 – YC Governance Chat Minutes](<05/29/2020 – YC Governance Chat Minutes.md>) [meeting-notes](<meeting-notes.md>)
+- [05/14/2020 – YC Governance Chat Minutes](<05/14/2020 – YC Governance Chat Minutes.md>) [meeting-notes](<meeting-notes.md>)
+- [07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business'](<07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business'.md>) [meeting-notes](<meeting-notes.md>)
+- [05/08/2020 – YC Governance Chat Minutes](<05/08/2020 – YC Governance Chat Minutes.md>) [meeting-notes](<meeting-notes.md>)
 
 # Backlinks
 ## [05/08/2020 – YC Governance Minutes](<05/08/2020 – YC Governance Minutes.md>)

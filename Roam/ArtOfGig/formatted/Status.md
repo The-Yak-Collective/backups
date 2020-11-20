@@ -27,11 +27,23 @@
 ## [Roam Help](<Roam Help.md>)
 - **[Status](<Status.md>):**
 
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Created](<Created.md>):** [May 4th, 2020](<May 4th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
+- **[Status](<Status.md>):**
+
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Minutes](<Minutes.md>) | [Project](<Project.md>) | [tk2](<tk2.md>)}}
+- **[Status](<Status.md>):**
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[Page Type](<Page Type.md>):** {{or: [Minutes](<Minutes.md>) | [Project](<Project.md>) | [tk2](<tk2.md>)}}
 - **[Status](<Status.md>):**
 
 ## [Yak Network Map](<Yak Network Map.md>)
+- **[Status](<Status.md>):**
+
+## [template/govchat](<template/govchat.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Minutes](<Minutes.md>) | [Project](<Project.md>) | [tk2](<tk2.md>)}}
 - **[Status](<Status.md>):**
 
 ## [template/header](<template/header.md>)

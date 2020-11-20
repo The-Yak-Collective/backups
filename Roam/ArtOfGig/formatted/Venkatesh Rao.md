@@ -499,6 +499,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
+- **[Last Updated](<Last Updated.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - **General Track** — [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
@@ -519,6 +521,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 ## [Yak Discord server](<Yak Discord server.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - "people who get tenure in the US are very ambitious" - [Venkatesh Rao](<Venkatesh Rao.md>)

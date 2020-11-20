@@ -31,7 +31,10 @@
     - > There is nothing magic that humans (or other smart animals) do that doesn’t have a phylogenetic history. Taking evolution seriously means asking what cognition looked like all the way back.
     - > From this perspective, we can visualise the tiny cognitive contribution of a single cell to the cognitive projects and talents of a lone human scout exploring new territory, but also to the scout’s tribe, which provided much education and support, thanks to language, and eventually to a team of scientists and other thinkers who pool their knowhow to explore, thanks to new tools, the whole cosmos and even the abstract spaces of mathematics, poetry and music. Instead of treating human ‘genius’ as a sort of black box made of magical smartstuff, we can reinterpret it as an explosive expansion of the bag of mechanical-but-cognitive tricks discovered by natural selection over billions of years. By distributing the intelligence over time – aeons of evolution, and years of learning and development, and milliseconds of computation – and space – not just smart brains and smart neurons but smart tissues and cells and proofreading enzymes and ribosomes – the mysteries of life can be unified in a single breathtaking vision.
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FxvAH3pZlL8.jpeg?alt=media&token=f952a45b-f244-4e69-a247-6755a328a10f)
-- 
+- [[Anuraj R]]
+    - https://slate.com/technology/2017/04/cancer-has-been-with-us-since-the-origins-of-multicellularity.html
+    - https://en.wikipedia.org/wiki/Nice_Guys_Finish_First
+    - 
 - 
 - 
 - 

@@ -252,10 +252,15 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
-- **[Last Updated](<Last Updated.md>):** [November 6th, 2020](<November 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Gardened](<Last Gardened.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jenna Dixon](<Jenna Dixon.md>)
+
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[Created](<Created.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[Created](<Created.md>):** [November 13th, 2020](<November 13th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)

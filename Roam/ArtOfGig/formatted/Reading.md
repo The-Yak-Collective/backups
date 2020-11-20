@@ -11,7 +11,15 @@
 - 
 - **[Reading](<Reading.md>):**
 
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+-  how to apply this view of biology to decentralized governance?
+- **[Reading](<Reading.md>):**
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
+- 
+- **[Reading](<Reading.md>):**
+
+## [template/govchat](<template/govchat.md>)
 - 
 - **[Reading](<Reading.md>):**
 

@@ -1,0 +1,45 @@
+- **[About](<About.md>):** __notes from weekly governance call__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Created](<Created.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Minutes](<Minutes.md>) | [Project](<Project.md>) | [tk2](<tk2.md>)}}
+- **[Status](<Status.md>):** {{or: Active | Complete | Early Concept | Proposal}}
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Prompt](<Prompt.md>):**
+    -  how to apply this view of biology to decentralized governance?
+- **[Reading](<Reading.md>):**
+    -  [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FTewvPfsdfc.jpeg?alt=media&token=4225c4d4-49d0-4f4a-8547-40c4c1d84a22)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FzJ80Yv_q3W.jpeg?alt=media&token=ac7edb91-d362-4508-9043-100c5f5fdf5f)
+- **[Attending](<Attending.md>):**
+    -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0_pWZS96yi.png?alt=media&token=f05919e2-01ad-4880-b480-a260505e21fc)
+-  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- [Jenna Dixon](<Jenna Dixon.md>)
+    - > we’re saying that biologists should chill out and see the virtues of anthropomorphising all sorts of living things.
+    - > Ever since the cybernetics advances of the 1940s and ’50s, engineers have had a robust, practical science of mechanisms with purpose and goal-directedness – without mysticism. We suggest that biologists catch up.
+    - > tend to take the gifts of engineering for granted. For thousands of years, our ancestors prospected for physical regularities that they could exploit by designing structures that could perform specific functions reliably. What makes a good rope, good glue, a good fire-igniter? The humble nut-and-bolt fastener is an elegantly designed exploitation of leverage, flexibility, tensile strength and friction, evolving over 2,000 years, and significantly refined in the past two centuries.
+    - > But imagine that evolution discovers a special protein – a Connexin – that allows two neighbouring cells to directly connect their internal milieus via a kind of tunnel through which small molecules can go.
+    - > There is nothing magic that humans (or other smart animals) do that doesn’t have a phylogenetic history. Taking evolution seriously means asking what cognition looked like all the way back.
+    - > From this perspective, we can visualise the tiny cognitive contribution of a single cell to the cognitive projects and talents of a lone human scout exploring new territory, but also to the scout’s tribe, which provided much education and support, thanks to language, and eventually to a team of scientists and other thinkers who pool their knowhow to explore, thanks to new tools, the whole cosmos and even the abstract spaces of mathematics, poetry and music. Instead of treating human ‘genius’ as a sort of black box made of magical smartstuff, we can reinterpret it as an explosive expansion of the bag of mechanical-but-cognitive tricks discovered by natural selection over billions of years. By distributing the intelligence over time – aeons of evolution, and years of learning and development, and milliseconds of computation – and space – not just smart brains and smart neurons but smart tissues and cells and proofreading enzymes and ribosomes – the mysteries of life can be unified in a single breathtaking vision.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FxvAH3pZlL8.jpeg?alt=media&token=f952a45b-f244-4e69-a247-6755a328a10f)
+- [Anuraj R](<Anuraj R.md>)
+    - https://slate.com/technology/2017/04/cancer-has-been-with-us-since-the-origins-of-multicellularity.html
+    - https://en.wikipedia.org/wiki/Nice_Guys_Finish_First
+    - 
+- 
+- 
+- 
+
+# Backlinks
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- [November 20th, 2020](<November 20th, 2020.md>) [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+

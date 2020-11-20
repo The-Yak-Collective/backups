@@ -4,7 +4,5 @@
 - **[Created](<Created.md>):** [November 6th, 2020](<November 6th, 2020.md>)
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
-- **[Last Updated](<Last Updated.md>):** [November 6th, 2020](<November 6th, 2020.md>)
-
 - [November 6th, 2020](<November 6th, 2020.md>)
 

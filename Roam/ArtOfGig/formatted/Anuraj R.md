@@ -6,6 +6,9 @@
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - [Anuraj R](<Anuraj R.md>)
 
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- [Anuraj R](<Anuraj R.md>)
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Anuraj R](<Anuraj R.md>)
 

@@ -111,7 +111,11 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Status](<Status.md>):** {{or: Active | Early Concept | Proposal | Complete}}
+- **[Last Updated](<Last Updated.md>):**
+
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[Status](<Status.md>):** {{or: Active | Complete | Early Concept | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
@@ -120,6 +124,10 @@
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Created](<Created.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Updated](<Last Updated.md>):**
+
+## [template/govchat](<template/govchat.md>)
+- **[Status](<Status.md>):** {{or: Active | Complete | Early Concept | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
 
 ## [template/header](<template/header.md>)

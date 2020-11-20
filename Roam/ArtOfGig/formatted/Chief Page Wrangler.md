@@ -120,12 +120,20 @@
 - **[About](<About.md>):** __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[About](<About.md>):** __notes from weekly governance call__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[About](<About.md>):** __notes from weekly governance call__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[About](<About.md>):** __draft process map for onboarding new yaks in the backend__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+## [template/govchat](<template/govchat.md>)
+- **[About](<About.md>):** __notes from weekly governance call__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [template/header](<template/header.md>)
