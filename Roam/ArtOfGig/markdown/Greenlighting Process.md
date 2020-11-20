@@ -1,3 +1,4 @@
+- This process has now been deprecated as of November 2020. See the [[Project Pitches]] for the current process.
 - **Please do not edit this page directly. Send your feedback to an admin on the Discord.**
 - **CFP stage** — yak collective members submit proposals on a rolling monthly deadline by making proposal pages that are open to comments/feedback. It is up to the proposers to seek out the right kind of feedback to improve their projects. Going forward, this will **be the first Friday of every month**. Next few dates are: **May 8, July 3, Aug 7, Sep 4, Oct 2.**
 - **Ranking/Opt-in Stage**: In an open process (google form based), all yak collective members will be able to express interest in contributing. **This is not a vote**. It is an expression of interest in and commitment to contributing, subject to the proposer’s criteria. All members can only opt-in to TWO projects, with a preference ranking of 1, 2.

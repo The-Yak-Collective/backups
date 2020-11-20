@@ -572,6 +572,8 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
 -      
     - I work in strategy, tech, and org consulting properly by day, previously more marketing freelance. Indie/secret jobs nights and weekends.
     - Building up independent coaching company to help others be happier and build more.
+- [[Cindy Zhang]]
+    - Aspiring economist/data scientist, long-time fan of ribbonfarm, looking to expand my social circle to include like-minded folks and get my feet wet with interesting projects. 
 - [[Nikhil Srivastava]]
     - {{embed: ((((faI2Xz4vh))))}}
 - [[Mike Tannenbaum]]

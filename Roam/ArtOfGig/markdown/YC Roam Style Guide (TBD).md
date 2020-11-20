@@ -7,10 +7,12 @@
 - # Basic Roam Concepts - YC style
     - ### Daily Notes
     - ### Blocks (bullet paragraphs)
-        - You should already know that a "block" is the basic unit of content in Roam. Basically each bullet point paragraph is a block.
+        - You should already know that a "block" is the basic unit of content in Roam. Basically, each bullet point paragraph is a block.
         - Create a new block for each idea
             - make the block self contained as possible to make it easier to reference and embed.
-                - like this: "Create a new block for each idea", or "You should already know that a "block" is the basic unit of content in Roam. Basically each bullet point paragraph is a block."
+                - like this: 
+                    - "Create a new block for each idea", or 
+                    - "You should already know that a "block" is the basic unit of content in Roam. Basically, each bullet point paragraph is a block."
     - ### Tags vs. Pages
         - in Roam (for now) there's no clear UX distinction of Tags and pages - each Tag becomes a page with references to that tag
         - So is important to clarify when and how we use them differently

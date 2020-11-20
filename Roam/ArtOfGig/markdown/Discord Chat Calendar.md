@@ -6,8 +6,6 @@
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
 - Last Updated:: [[September 20th, 2020]]
 - Last Updated By:: [[Fname Lname]]
--  
-- 
 - Discord was developed to support gamers playing games, so the medium is friendliest to that, so try to run voice chats in a video-game-ish spirit, whatever that means
 - If you'd like to volunteer to host a weekly **VOICE chat session** on the [[Yak Discord server]], please add your name, time, and time zone below. Hosts, check out this page of [[Chat Formats]] for ideas on useful structured formats, and to add your own. Let's foll``````ow [the Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) for these chats.
 - Best practices (HOSTS PLEASE READ!)
@@ -18,9 +16,10 @@
     - 4:00PM - 4:30PM (21h00-21h30 UTC) US Central Time, hosted by [[Sachin Benny]]
     - Current format is shared reading, similar to the chats hosted by Venkat and Pamela last week
 - **Tuesday**
-    - 8:30 PM - 9:00PM US Central Time, hosted by [[Scott Garlinger]]. Theme: Build a Right Brain. https://docs.google.com/document/d/1IFQrxu6ctvwFXyU3tNF2sBae8M3xbuugmBwmWZkd7jM/edit
-        - Around the horn style; 30 second shot clock per person, per round; build on theme from your experiences.
-        - Chatham House Rule reminder: ‘anyone who comes to the meeting i[]()s free to use information from the discussion, but is not allowed to reveal who made any comment. It is designed to increase openness of discussion.’
+    - DEFUNCT
+        - 8:30 PM - 9:00PM US Central Time, hosted by [[Scott Garlinger]]. Theme: Build a Right Brain. https://docs.google.com/document/d/1IFQrxu6ctvwFXyU3tNF2sBae8M3xbuugmBwmWZkd7jM/edit
+            - Around the horn style; 30 second shot clock per person, per round; build on theme from your experiences.
+            - Chatham House Rule reminder: ‘anyone who comes to the meeting i[]()s free to use information from the discussion, but is not allowed to reveal who made any comment. It is designed to increase openness of discussion.’
 - **Wednesday**
     - 9 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), hosted by [[Vinay Débrou]]
         - Topic of Discussion -- Shaping Up of [[Yak-Walk Map]] and Call for Collaborators

@@ -10,6 +10,8 @@
         - [[YC Marketing - distributed CMO]]
         - [[Yak Collective Governance]]
         - [[Yak Collective State of the Union]]
+        - [[YC Annual Meeting 2020]]
+        - [[Project Pitches]]
     - Venkat's to do
         - {{[[TODO]]}} Something something new decentralized CFP
         - {{[[TODO]]}} Blog post on experiments so far

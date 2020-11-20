@@ -1,0 +1,8 @@
+- This is a dummy page. Make a real page like this for your project, with the right title. If you need some ideas/inspiration, look at past projects:
+    - [[Don’t Waste the Reboot]]
+    - [[The New Old Home]]
+    - [[Neurofuturama]]
+    - [[Astonishing Stories]]
+    - [[Yaks do innovation consulting]]
+    - [[Future Frontiers]]
+    - 

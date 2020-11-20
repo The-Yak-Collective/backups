@@ -21,3 +21,4 @@
 - Ping
     - {{[[query]]: {and: [[ping]][[Hugo Macedo]] {not: [[pong]]]}}}}
     - 
+- 
