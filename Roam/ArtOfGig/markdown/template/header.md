@@ -4,6 +4,7 @@
 - Created:: `/today` by [[Fname Lname]]
 - Page Type:: {{or: #Project | #tk1 | #tk2 }}
 - Status:: {{or: Early Concept | Active | Proposal | Complete}}
+- Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
 - Last Updated:: `/today` by [[Fname Lname]]
 - Last Gardened:: `/today` by [[Fname Lname]]
 - 

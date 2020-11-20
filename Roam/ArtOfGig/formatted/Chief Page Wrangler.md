@@ -14,6 +14,10 @@
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[About](<About.md>):** __A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the__ [Project Pitches](<Project Pitches.md>) __page.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

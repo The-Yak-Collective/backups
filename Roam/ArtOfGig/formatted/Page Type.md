@@ -4,6 +4,10 @@
 - **[About](<About.md>):** A project page for proposed Boutiques vs Marketplaces Wargames
 - **[Page Type](<Page Type.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[Created](<Created.md>):** [May 18th, 2020](<May 18th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
+- **[Page Type](<Page Type.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[About](<About.md>):** project page for embryonic project contrasting YC conceptualization with standard conceptionalization
 - **[Page Type](<Page Type.md>):**

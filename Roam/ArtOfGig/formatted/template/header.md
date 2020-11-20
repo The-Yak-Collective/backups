@@ -4,6 +4,7 @@
 - **[Created](<../Created.md>):** `/today` by [Fname Lname](<../Fname Lname.md>)
 - **[Page Type](<../Page Type.md>):** {{or: [Project](<../Project.md>) | [tk1](<../tk1.md>) | [tk2](<../tk2.md>) }}
 - **[Status](<../Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Current State](<../Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
 - **[Last Updated](<../Last Updated.md>):** `/today` by [Fname Lname](<../Fname Lname.md>)
 - **[Last Gardened](<../Last Gardened.md>):** `/today` by [Fname Lname](<../Fname Lname.md>)
 - 

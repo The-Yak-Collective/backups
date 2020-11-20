@@ -8,6 +8,6 @@
 ## [Project Pitches](<Project Pitches.md>)
 - **Comments**:  The general idea is to start a __really__ long-term project to try and actually get a [YC Space Program](<YC Space Program.md>)
 
-## [Yak Rover One](<Yak Rover One.md>)
+## [Yak Rover](<Yak Rover.md>)
 - If we pull this off, it will be the first milestone of the [YC Space Program](<YC Space Program.md>)
 

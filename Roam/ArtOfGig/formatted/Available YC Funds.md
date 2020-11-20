@@ -9,7 +9,7 @@
 - **Funds currently available**: {{calc: ((xhub2rDbV))}} USD
 - **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
     - **Additional page wranglers:** 
-- **Last updated**: 11/18/20
+- **Last updated**: [November 18th, 2020](<November 18th, 2020.md>)
 - **Last updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
 - {{table}}
     - **Date**

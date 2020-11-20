@@ -146,6 +146,11 @@
 ## [Chat Formats](<Chat Formats.md>)
 - April 8 2020: [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Client Project](<Client Project.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Collision Forces Brainstorm](<Collision Forces Brainstorm.md>)
 - " A subtler collision force is neurotech itself... the original "traffic jam" model is not cars+another trend, but isolated car ownership --> pervasive car ownership and infrastructure shift. So a homogeneous pattern of traffic jam = everybody has some access to neurotech, either through data, or NaaS, or the devices themselves, and infrastructure has evolved to support it. Like asphalt roads for cars." [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -494,6 +499,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
+- **General Track** — [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -523,7 +530,7 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - [Amanda Reeves](<Amanda Reeves.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Benton Heimsath](<Benton Heimsath.md>) [Chris Clark](<Chris Clark.md>) [David McDougall](<David McDougall.md>) [Drew Shiel](<Drew Shiel.md>) [Jordan Peacock](<Jordan Peacock.md>) [Kannen Ramsamy](<Kannen Ramsamy.md>) [Michael Colin](<Michael Colin.md>) [Ryan Hume](<Ryan Hume.md>) [Sachin Benny](<Sachin Benny.md>) [Scott Garlinger](<Scott Garlinger.md>) [Shreeda Segan](<Shreeda Segan.md>) [Thomas Hollands](<Thomas Hollands.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Toby Shorin](<Toby Shorin.md>) [Tom Critchlow](<Tom Critchlow.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Yak Rover One](<Yak Rover One.md>)
+## [Yak Rover](<Yak Rover.md>)
 - Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)

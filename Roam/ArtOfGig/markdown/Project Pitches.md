@@ -4,7 +4,7 @@
     - Additional page wranglers: Looking for people
 - **Last Updated:** November 18, 2020
 - **Last Updated by**: [[Venkatesh Rao]]
-- **TO PROPOSE A PROJECT: **
+- TO PROPOSE A PROJECT::
     - Copy the metadata template block below for **Sample Project** below, paste it at the TOP of the "**Projects List**" section just below it, and populate it.  The __%% italicized text__ is help-comments you can **delete. At minimum, you will need to have identified a backup lead name before the proposal is considered "proposed", otherwise it is draft.**
     - Populate the project's own page as you see fit.
     - Propose a Discord channel, share your project's page in it once it is created, and invite people to join the channel as either potential participants or interested supporters/watchers. You may have to go actively recruiting.
@@ -34,9 +34,9 @@
         - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [[Available YC Funds]]. Client projects are funded by a client. Check out [[Client Project]] for details.
     - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 - **Projects List**
-    - <insert new proposal blocks here>
-    - [[Yak Rover One]]: A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.
-        - **Current State**: **Draft** | Proposed | Started | Stalled | Live | Finished | Abandoned 
+    - ^^<insert new proposal blocks here>^^
+    - [[Yak Rover]]: A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.
+        - Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
         - **Core Team** (minimum 2, maximum 4) 
             - **Project Lead**: [[Venkatesh Rao]]
             - **Backup Lead**: TBD. Would like somebody good at electronics design.

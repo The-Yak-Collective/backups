@@ -58,8 +58,6 @@
 [Sachin Benny](<Sachin Benny.md>)
 [Scott Garlinger](<Scott Garlinger.md>)^^
             - [Ben Smith](<Ben Smith.md>) [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
-            - [Sachin Benny](<Sachin Benny.md>) 
-[Title tk](#)
         - Copyedit+Illustration 
             - ^^**copyeditor**
 [Fname Lname](<Fname Lname.md>)^^ 
@@ -73,6 +71,8 @@
             - ^^**proofreader**
 [Amanda Reeves](<Amanda Reeves.md>)^^
             - tk
+            - [Sachin Benny](<Sachin Benny.md>) 
+[Title tk](#)
         - publish
             - ^^**webdev**
 [Nathan Acks](<Nathan Acks.md>)^^

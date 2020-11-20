@@ -1,3 +1,12 @@
+- **[About](<About.md>):** __A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the__ [Project Pitches](<Project Pitches.md>) __page.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+- **[Created](<Created.md>):** [May 18th, 2020](<May 18th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
+- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- 
 - A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the [Project Pitches](<Project Pitches.md>) page.
 - THIS IS VERY ROUGH
 - The only client project so far is [Neurofuturama](<Neurofuturama.md>)

@@ -8,6 +8,10 @@
 - **[Last Updated](<Last Updated.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Gardened](<Last Gardened.md>):**

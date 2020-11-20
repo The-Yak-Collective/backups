@@ -225,7 +225,7 @@ But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>)
 
-- On Fifth Generation Management, added by [Grigori Milov](<Grigori Milov.md>)
+- **Platforms Track** — [Grigori Milov](<Grigori Milov.md>)
 
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Grigori Milov](<Grigori Milov.md>)

@@ -8,6 +8,10 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Grigori Milov](<Grigori Milov.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Client Project](<Client Project.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Rafael Fernandez](<Rafael Fernandez.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**

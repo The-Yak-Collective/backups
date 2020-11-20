@@ -6,8 +6,6 @@
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Last Updated](<Last Updated.md>):** [September 20th, 2020](<September 20th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
--  
-- 
 - Discord was developed to support gamers playing games, so the medium is friendliest to that, so try to run voice chats in a video-game-ish spirit, whatever that means
 - If you'd like to volunteer to host a weekly **VOICE chat session** on the [Yak Discord server](<Yak Discord server.md>), please add your name, time, and time zone below. Hosts, check out this page of [Chat Formats](<Chat Formats.md>) for ideas on useful structured formats, and to add your own. Let's foll``````ow [the Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) for these chats.
 - Best practices (HOSTS PLEASE READ!)
@@ -18,9 +16,10 @@
     - 4:00PM - 4:30PM (21h00-21h30 UTC) US Central Time, hosted by [Sachin Benny](<Sachin Benny.md>)
     - Current format is shared reading, similar to the chats hosted by Venkat and Pamela last week
 - **Tuesday**
-    - 8:30 PM - 9:00PM US Central Time, hosted by [Scott Garlinger](<Scott Garlinger.md>). Theme: Build a Right Brain. https://docs.google.com/document/d/1IFQrxu6ctvwFXyU3tNF2sBae8M3xbuugmBwmWZkd7jM/edit
-        - Around the horn style; 30 second shot clock per person, per round; build on theme from your experiences.
-        - Chatham House Rule reminder: ‘anyone who comes to the meeting i[]()s free to use information from the discussion, but is not allowed to reveal who made any comment. It is designed to increase openness of discussion.’
+    - DEFUNCT
+        - 8:30 PM - 9:00PM US Central Time, hosted by [Scott Garlinger](<Scott Garlinger.md>). Theme: Build a Right Brain. https://docs.google.com/document/d/1IFQrxu6ctvwFXyU3tNF2sBae8M3xbuugmBwmWZkd7jM/edit
+            - Around the horn style; 30 second shot clock per person, per round; build on theme from your experiences.
+            - Chatham House Rule reminder: ‘anyone who comes to the meeting i[]()s free to use information from the discussion, but is not allowed to reveal who made any comment. It is designed to increase openness of discussion.’
 - **Wednesday**
     - 9 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), hosted by [Vinay Débrou](<Vinay Débrou.md>)
         - Topic of Discussion -- Shaping Up of [Yak-Walk Map](<Yak-Walk Map.md>) and Call for Collaborators

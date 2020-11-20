@@ -7,6 +7,6 @@
 - System architecture
 
 # Backlinks
-## [Yak Rover One](<Yak Rover One.md>)
+## [Yak Rover](<Yak Rover.md>)
 - Phase 1: [Yak One Design Sketchbook](<Yak One Design Sketchbook.md>):
 

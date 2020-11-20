@@ -11696,12 +11696,6 @@
                     "edit-time": 1600731837464,
                     "string": "[[Ben Smith]] [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)",
                     "uid": "CDhaEvrX9"
-                  },
-                  {
-                    "edit-email": "j@djinna.com",
-                    "edit-time": 1600731863568,
-                    "string": "[[Sachin Benny]] \n[Title tk](#)",
-                    "uid": "aepoSikiN"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -11764,6 +11758,12 @@
                     "edit-time": 1597710647600,
                     "string": "tk",
                     "uid": "2vwqbiZg3"
+                  },
+                  {
+                    "edit-email": "j@djinna.com",
+                    "edit-time": 1600731863568,
+                    "string": "[[Sachin Benny]] \n[Title tk](#)",
+                    "uid": "aepoSikiN"
                   }
                 ],
                 "create-email": "j@djinna.com",
@@ -13257,5 +13257,12 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1605777394295,
     "title": "November 19th, 2020"
+  },
+  {
+    "create-email": "yakcollective.org@gmail.com",
+    "create-time": 1605863727347,
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1605863727348,
+    "title": "November 20th, 2020"
   }
 ]

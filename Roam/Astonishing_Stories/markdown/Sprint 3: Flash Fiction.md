@@ -58,8 +58,6 @@
 [[Sachin Benny]]
 [[Scott Garlinger]]^^
             - [[Ben Smith]] [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
-            - [[Sachin Benny]] 
-[Title tk](#)
         - Copyedit+Illustration 
             - ^^**copyeditor**
 [[Fname Lname]]^^ 
@@ -73,6 +71,8 @@
             - ^^**proofreader**
 [[Amanda Reeves]]^^
             - tk
+            - [[Sachin Benny]] 
+[Title tk](#)
         - publish
             - ^^**webdev**
 [[Nathan Acks]]^^
