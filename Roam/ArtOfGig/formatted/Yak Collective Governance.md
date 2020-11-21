@@ -5,7 +5,6 @@
 - **[Status](<Status.md>):** {{or: Active | Early Concept | Proposal | Complete}}
 - **[Last Updated](<Last Updated.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Last Gardened](<Last Gardened.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-- 
 - We currently have 3 tracks of readings: General, Platforms, Anarchism. Each features a backlog of short readings (must be free, reasonably browsable within 15 minutes, and text... no video/audio). We pick one to read and discuss every Friday morning at 9 AM in the governance chat
 - **General Track** — [Venkatesh Rao](<Venkatesh Rao.md>)
     - **Completed Readings**

@@ -1,6 +1,16 @@
+- About:: __A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.__
+- Chief Page Wrangler:: [[Venkatesh Rao]]
+    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
+- Created:: `/today` by [[Venkatesh Rao]]
+- Page Type:: {{or: #Project | #tk1 | #tk2 }}
+- Status:: {{or: Early Concept | Active | Proposal | Complete}}
+- Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- Last Updated:: `/today` by [[Fname Lname]]
+- Last Gardened:: [[November 20th, 2020]] by [[Jenna Dixon]]
+-  
 - A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.
 - Project lead: [[Venkatesh Rao]]: In another life I was an aerospace engineer, and my phd/postdoc were all related to space stuff, ground robots etc. My own relevant research was on mapping and path planning, and I probably know enough to do the basic mechanical and control design for a rover. What I'd need support on is electronics design, software, etc.
-- Phase 1: [[Yak One Design Sketchbook]]:A Da Vinci style notebook of sketches by March 31
+- Phase 1: [[Yak One Design Sketchbook]]: A Da Vinci style notebook of sketches by March 31
 - Phase 2: Top down detail design with subsystem dependecies consensus. Output is specs for rover by June 30
 - Phase 3: All subsystem designs for collective review by sept 30-output is set of subsystem design docs
 - Phase 4: Integrated system design docs by Dec 31. These should be enough to at least get started on actually building a rover, even if some details are TBD due to testing/experimental needs.

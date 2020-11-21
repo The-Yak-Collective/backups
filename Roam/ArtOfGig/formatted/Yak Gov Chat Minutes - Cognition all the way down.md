@@ -34,9 +34,8 @@
 - [Anuraj R](<Anuraj R.md>)
     - https://slate.com/technology/2017/04/cancer-has-been-with-us-since-the-origins-of-multicellularity.html
     - https://en.wikipedia.org/wiki/Nice_Guys_Finish_First
-    - 
-- 
-- 
+    - [INTELLIGENCE THROUGH INTERACTIONS -Underwater Robot
+Society for Distributed Operations in Closed Aquatic Environment](http://www8.cs.umu.se/research/ifor/dl/Case%20studies/Intelligence%20through%20interaction%20-%20thesis.pdf)
 - 
 
 # Backlinks

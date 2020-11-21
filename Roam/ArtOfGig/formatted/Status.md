@@ -42,6 +42,10 @@
 ## [Yak Network Map](<Yak Network Map.md>)
 - **[Status](<Status.md>):**
 
+## [Yak Rover](<Yak Rover.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
+- **[Status](<Status.md>):**
+
 ## [template/govchat](<template/govchat.md>)
 - **[Page Type](<Page Type.md>):** {{or: [Minutes](<Minutes.md>) | [Project](<Project.md>) | [tk2](<tk2.md>)}}
 - **[Status](<Status.md>):**

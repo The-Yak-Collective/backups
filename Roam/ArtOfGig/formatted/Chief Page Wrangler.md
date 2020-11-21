@@ -128,6 +128,10 @@
 - **[About](<About.md>):** __notes from weekly governance call__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Yak Rover](<Yak Rover.md>)
+- **[About](<About.md>):** __A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[About](<About.md>):** __draft process map for onboarding new yaks in the backend__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

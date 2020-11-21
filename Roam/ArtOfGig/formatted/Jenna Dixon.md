@@ -270,6 +270,9 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 ## [Yak Network Map](<Yak Network Map.md>)
 - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Yak Rover](<Yak Rover.md>)
+- **[Last Gardened](<Last Gardened.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [[Knack.com](<[Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack.com](<Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>)
 

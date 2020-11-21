@@ -536,6 +536,10 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - [Amanda Reeves](<Amanda Reeves.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Benton Heimsath](<Benton Heimsath.md>) [Chris Clark](<Chris Clark.md>) [David McDougall](<David McDougall.md>) [Drew Shiel](<Drew Shiel.md>) [Jordan Peacock](<Jordan Peacock.md>) [Kannen Ramsamy](<Kannen Ramsamy.md>) [Michael Colin](<Michael Colin.md>) [Ryan Hume](<Ryan Hume.md>) [Sachin Benny](<Sachin Benny.md>) [Scott Garlinger](<Scott Garlinger.md>) [Shreeda Segan](<Shreeda Segan.md>) [Thomas Hollands](<Thomas Hollands.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Toby Shorin](<Toby Shorin.md>) [Tom Critchlow](<Tom Critchlow.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Rover](<Yak Rover.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Created](<Created.md>):** `/today` by [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)

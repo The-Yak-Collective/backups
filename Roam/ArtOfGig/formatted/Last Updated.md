@@ -122,6 +122,10 @@
 - **[Status](<Status.md>):** {{or: Complete | Early Concept | Active | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
 
+## [Yak Rover](<Yak Rover.md>)
+- **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- **[Last Updated](<Last Updated.md>):**
+
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Created](<Created.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Updated](<Last Updated.md>):**
