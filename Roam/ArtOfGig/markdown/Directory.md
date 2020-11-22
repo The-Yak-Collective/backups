@@ -596,3 +596,4 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - Based in NYC here
     - Run a podcast production agency and do a little process and systems consulting on the side. 
     - Twitter: [@jonbstrong](twitter.com/jonbstrong)
+- {{[[embed]]: [[Abhay]]}}
