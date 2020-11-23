@@ -43,6 +43,10 @@
 - [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>) [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>):
+
 - [Maier Fenster](<Maier Fenster.md>)
 
 - Discord map [Maier Fenster](<Maier Fenster.md>)

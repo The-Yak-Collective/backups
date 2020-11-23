@@ -27,6 +27,16 @@
 
 - **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
 
+- [Darren Kong](<Darren Kong.md>)'
+
+- **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>):
+
+- [Darren Kong](<Darren Kong.md>):
+
+- [Darren Kong](<Darren Kong.md>)
+
 - ^^Maier: Can [Darren Kong](<Darren Kong.md>)
 
 - [Darren Kong](<Darren Kong.md>)'
@@ -49,6 +59,15 @@
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>) and [Darren Kong](<Darren Kong.md>)
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
 
 ## [Roam Production Kanban](<Roam Production Kanban.md>)
 - piece_18_lname [Darren Kong](<Darren Kong.md>)

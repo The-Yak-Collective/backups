@@ -1,40 +1,11 @@
 - About:: __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
-- Created:: [[May 4th, 2020]] by [[Fname Lname]]
+- Created:: [[May 4th, 2020]] by [[Venkatesh Rao]]
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
 - Last Updated:: [[November 19th, 2020]] by [[Venkatesh Rao]]
 - Last Gardened:: [[November 20th, 2020]] by [[Jenna Dixon]]
 - We currently have 3 tracks of readings: General, Platforms, Anarchism. Each features a backlog of short readings (must be free, reasonably browsable within 15 minutes, and text... no video/audio). We pick one to read and discuss every Friday morning at 9 AM in the governance chat
-- **General Track** — [[Venkatesh Rao]]
-    - **Completed Readings**
-        - [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
-        - [The Limits of Peer Production](https://fredturner.stanford.edu/wp-content/uploads/Kreiss-Finn-Turner-Limits-of-Peer-Production-NMS-3-111.pdf)
-        - [Expert crowdsourcing with flash team](https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf)
-        - [Pournelle’s Iron Law of Bureaucracy](https://www.jerrypournelle.com/reports/jerryp/iron.html)
-        - [Benevolent dictator for life (wikipedia)](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life)
-            - [Guido von Rossum email](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
-            - https://www.theatlantic.com/technology/archive/2014/01/on-the-reign-of-benevolent-dictators-for-life-in-software/283139/
-        - [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
-        - [david shor case](https://nymag.com/intelligencer/2020/06/white-fragility-racism-racism-progressive-progressphiles-david-shor.html)
-        - [In group contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
-        - [Common knowledge problem](https://plato.stanford.edu/entries/common-knowledge/)
-        - [Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)
-        - [Free Rider Problem](https://en.wikipedia.org/wiki/Free-rider_problem)
-        - Bonnita Roy stuff
-            - [The Open Participatory Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
-            - [OCO Manifesto](https://medium.com/open-participatory-organized/a-manifesto-for-open-participation-60b62d327684)
-        - [Guild leaders handbook](https://nostarch.com/guildleaderhb#content)
-        - Single wringable neck
-            - https://www.mountaingoatsoftware.com/blog/the-fallacy-of-one-throat-to-choke
-            - https://agileforall.com/agile-pondering-is-it-agile-to-have-a-single-wringable-neck/
-            - https://tobeagile.com/the-single-wringable-neck/
-        - Libertarians and bears, [The town that went feral](https://newrepublic.com/article/159662/libertarian-walks-into-bear-book-review-free-town-project?fbclid=IwAR0zeB-yuJKpDQkTVye1NwbUz5lf4DoPNIIlINWtN6YGaYGkSjqt9TEs6_o)
-        - Bear management vs wolf slaughter, [Frank Chimero talk](https://frankchimero.com/blog/2014/only-openings/)
-        - [Hurling Frootmig principle](https://sites.google.com/site/h2g2theguide/Index/h/206017)
-        - [Wind in the Willow principle](https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29)
-    - **Queued**
-        - Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
 - **Platforms Track** — [[Grigori Milov]]
     - **Completed**
         - A piece about a hierarchy of marketplaces. It refers to some thinking of Bill Gurley, among other things, who deserves a lot of attention.
@@ -66,6 +37,10 @@ The article above is a part of a series, that include:
         - 3. The path to success for a platform venture is by no means easy or guaranteed, nor is it completely different from that of companies with more-conventional business models. Why? Because, like all companies, platforms must ultimately perform better than their competitors. In addition, to survive long-term, platforms must also be politically and socially viable.
             - **The read** is an article based on the excellent book The Business of Platforms by Michael Cusumano, et al. is here:
                 - https://sloanreview.mit.edu/article/the-future-of-platforms/
+        - 
+ is an excellent book 
+            - https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie
+        - It also reminds us that 
         - 4. This one is on Medieval Guilds. It is free and interesting
 https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period
 And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.
@@ -105,6 +80,39 @@ https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepap
             - YouTube channel: [Beau of the Fifth Column](https://youtu.be/y-PbSFZASR0?t=125)
             - Music like Propagandhi
             - [PhilosophyTube on Antifa](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
+- **General Track** — [[Venkatesh Rao]] — on hiatus while platform track clears backlog
+    - **Completed Readings**
+        - [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
+        - [The Limits of Peer Production](https://fredturner.stanford.edu/wp-content/uploads/Kreiss-Finn-Turner-Limits-of-Peer-Production-NMS-3-111.pdf)
+        - [Expert crowdsourcing with flash team](https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf)
+        - [Pournelle’s Iron Law of Bureaucracy](https://www.jerrypournelle.com/reports/jerryp/iron.html)
+        - [Benevolent dictator for life (wikipedia)](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life)
+            - [Guido von Rossum email](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
+            - https://www.theatlantic.com/technology/archive/2014/01/on-the-reign-of-benevolent-dictators-for-life-in-software/283139/
+        - [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
+        - [david shor case](https://nymag.com/intelligencer/2020/06/white-fragility-racism-racism-progressive-progressphiles-david-shor.html)
+        - [In group contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
+        - [Common knowledge problem](https://plato.stanford.edu/entries/common-knowledge/)
+        - [Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)
+        - [Free Rider Problem](https://en.wikipedia.org/wiki/Free-rider_problem)
+        - Bonnita Roy stuff
+            - [The Open Participatory Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
+            - [OCO Manifesto](https://medium.com/open-participatory-organized/a-manifesto-for-open-participation-60b62d327684)
+        - [Guild leaders handbook](https://nostarch.com/guildleaderhb#content)
+        - Single wringable neck
+            - https://www.mountaingoatsoftware.com/blog/the-fallacy-of-one-throat-to-choke
+            - https://agileforall.com/agile-pondering-is-it-agile-to-have-a-single-wringable-neck/
+            - https://tobeagile.com/the-single-wringable-neck/
+        - Libertarians and bears, [The town that went feral](https://newrepublic.com/article/159662/libertarian-walks-into-bear-book-review-free-town-project?fbclid=IwAR0zeB-yuJKpDQkTVye1NwbUz5lf4DoPNIIlINWtN6YGaYGkSjqt9TEs6_o)
+        - Bear management vs wolf slaughter, [Frank Chimero talk](https://frankchimero.com/blog/2014/only-openings/)
+        - [Hurling Frootmig principle](https://sites.google.com/site/h2g2theguide/Index/h/206017)
+        - [Wind in the Willow principle](https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29)
+        - Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
+    - **Queued**
+        - Liquid modernity, Zygmunt Bauman
+            - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
+            - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
+        - Yuval Levin on [institutions losing power to mold character](https://www.nytimes.com/2020/01/18/opinion/sunday/institutions-trust.html)
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]

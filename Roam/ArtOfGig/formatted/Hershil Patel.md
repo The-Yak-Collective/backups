@@ -34,6 +34,8 @@
 - [Hershil Patel](<Hershil Patel.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>) [Maier Fenster](<Maier Fenster.md>) [Hershil Patel](<Hershil Patel.md>)
+
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>)
 
 ## [October 28th, 2020](<October 28th, 2020.md>)

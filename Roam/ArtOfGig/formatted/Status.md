@@ -28,7 +28,7 @@
 - **[Status](<Status.md>):**
 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
-- **[Created](<Created.md>):** [May 4th, 2020](<May 4th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
+- **[Created](<Created.md>):** [May 4th, 2020](<May 4th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Status](<Status.md>):**
 
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)

@@ -21,6 +21,8 @@ Last Gardened:: `/today` by [[Fname Lname]]
                     - or we toggle-off if that's a feature
                     - or we turn general into an signalling channel only with auto messages - ideally changing the name.
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F--Ccni31k3.png?alt=media&token=9cc59055-27c6-477b-97b5-e2dfbcc394af)
+                - [[Darren Kong]] I vote for merging general and events and keeping announcements separate since there's a lot more on-going noise for general/events, and announcements should be the place to check for official messages.  
+                    - alternatively or in addition, we could merge Introductions and general (and events). since introductions and the welcome msg go hand-in-hand..
             - Move any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Projects".
                 - [[Maier Fenster]] by "merge in" you mean move or also combine?
                     - [[Nathan Acks]] Should have said "move". Fixed.
@@ -41,10 +43,18 @@ Last Gardened:: `/today` by [[Fname Lname]]
             - Merge in any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Plaza".
                 - [[Jenna Dixon]] Hmmm 🤔Not sure about this. Have liked the Bureaucracy as a home for internal structural-type conversations. Won't lumping them all together create quite a long list? #ping [[Nathan Acks]]
 Perhaps drop a proposed new list in simple text here so that we can see what the new look would be? » [[Draft Revised Discord Channels Proposal v1]][[maier fenster]]any solution which does not require clicking
+                - [[Darren Kong]] suggestions:
+                    - plaza
+                        - move lounge from discussion to plaza
+                        - move takegigleavegig from buraeucracy to plaza
+                        - move new-to-consulting from discussion to plaza
+                    - basically general purpose channels that we might want to promote for users to find a place to discuss should go in plaza. 
+                        - tempted to say to downgrade experiments-log to bureaucracy or discussion ? it's not really clear what it's purpose is 
     ## Incubator
         A place for new channels to find their legs. Or not.
         ### Proposed Changes
             - Rename "Probationary Channels" → "Incubator".
+            - [[Darren Kong]] move any proposed or hibernating projects into Incubator, so Projects section only has active projects. If a user clicks into any channel in project section, it would be active. 
     ## Archives
         Old channels, put out to pasture. ^^**Important:** All channels in the "archives" should have the "send messages" permission disabled.^^
         ### Proposed Changes
@@ -72,6 +82,8 @@ Are you proposing to put #Discussions and #Bureaucracy under #Projects?
     ## Death
         - Yak shavers will monitor channels for signs of inactivity, culling inactive channels at least once per month. [[Maier Fenster]] note new "$activity" command for yak_shaver
             - An __inactive channel__ is one which has not received __any__ posts in 1 month.
+                - [[Darren Kong]] i think this is too low of a bar. proposing it should be something like avg 10msg/week. or if we want it lower 20 msg/ month 
+                    - Should send a weekly message activity note with warnings 
         - Channels can also be culled if there is a proposal to do so in `create-destroy-channels` that receives at least 10 "thumbs up" from different active yaks, made yaks, or yak shavers, at least 2 of which have posted in the channel in the last month.
         - Culled channels are moved to the "Archives", and have their "send messages" permission disabled.
             [[Maier Fenster]] i would consider a temporary "being retired" category for a few weeks. and/or a post to members saying a channel is about to be retired, any objections.

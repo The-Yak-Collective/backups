@@ -499,6 +499,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
+- **[Created](<Created.md>):** [May 4th, 2020](<May 4th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - **[Last Updated](<Last Updated.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - **General Track** — [Venkatesh Rao](<Venkatesh Rao.md>)

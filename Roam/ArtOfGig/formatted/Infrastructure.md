@@ -27,6 +27,75 @@ suggest most recent note left untwirled for easy review to visitors__
         - 2jplEZUYM
         - 
 - ## Infrastructure Chat Notes
+- infrastructure chat 28 [November 22nd, 2020](<November 22nd, 2020.md>) [meeting-notes](<meeting-notes.md>)
+    - [Darren Kong](<Darren Kong.md>)'s notes
+        - discord proposal
+            - comments were added needed
+            - darren to consolidate, send message + pin for vote
+        - state of the union presentation
+            - darren - big picture overview
+            - nathan - technical overview of website + knack
+            - maier - automation 
+        - lock on final frontiers format. Nathan wants to clean up to make maintainable (lock formats...will have 3 formats then) 
+            - final fronteirs should be done by the 8th 
+        - Nathan get docs updated is a priority
+        - bots
+            - Venkatesh asked for two functions
+            - add agenda bot 
+            - yak_scraper
+                - $help  — prints list of commands available
+                - $howto  - can set instructions for a given topic 
+                - $givemecsv -  generates csv of member data with roles and ID - using for yakmap
+                - $activity N (code) / `$activity 15 code` -  activity of channel - total messages, weekly message + mentions
+                - $noise `$noise 15 20`-  table of activity of members last 15 days and 20 top members
+            - gigayak
+                - $gighelp
+                    - $giglist
+                - there's permission based 
+                - $agendahelp
+                - $projhelp
+                    - $projllist
+                    - $proj+1 (reason)
+        - help wanted?
+            - be more liberal with posting announcements
+            - bot + post in announcements ? 
+        - community server? 
+            - seems promising. would need to have guideline
+            - proposal
+    - [Nathan Acks](<Nathan Acks.md>)'s notes
+        - **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>) [Maier Fenster](<Maier Fenster.md>) [Hershil Patel](<Hershil Patel.md>)
+        - I'm wondering if we had a particular format we wanted to use for the general meeting.
+            - Darren will go over the infrastructure map.
+            - I will talk about the website, how it's going, the movement to Knack.
+            - Maier will talk about automation.
+        - [Maier Fenster](<Maier Fenster.md>): Automation!
+            - Current bots (all have a `$help` function)
+                - `yak_scraper` is a general helper robot. Kinda a swiss army knife.
+                    - Gives help to new members
+                    - Lists new members
+                    - Lists channel activity
+                    - Lists member activity
+                    - Helps yaks meet each other by finding intro messages
+                - `gigayak` is a helper robot for `yak_scraper`
+                    - Handles adding and dropping open gigs
+                    - Also handles adding agenda items __per channel__
+                    - Also handles project upvoting, etc.
+            - Darren suggests that we could also add "agenda items" to the newsletter through a bot.
+                - Maier will follow up with Praful about the Newsletter.
+            - Maybe we should also have a "help wanted" bot for internal projects that could use assistance?
+                - General consensus seems to be that a help wanted bot may be useful.
+            - Darren thinks that the newsletter may become just a compilation of bot output.
+            - Nathan: Everyone on this call, and maybe some of our higher-volume contributors, should publicly use these bots. Normalize/model them.
+        - [Darren Kong](<Darren Kong.md>): Do we want to be a community server?
+            - [Community servers](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) require us to explicitly add moderators, community guidelines, etc.
+            - There's an analytics feature we get if we turn into this.
+            - Nathan: I know that there have been some push-back around explicit guidelines.
+            - Darren: We can probably just cut-and-paste some kind of standard-ish open source "human decency" guidelines.
+            - Maier: There's no call to action right now.
+                - Darren: I'll post something.
+        - [Darren Kong](<Darren Kong.md>): Do we want to talk about Venkat's project proposal?
+            - Maier: I think that this is the reason for the bots.
+        - [Darren Kong](<Darren Kong.md>) will take over shepherding [the channel proposal](https://roamresearch.com/#/app/ArtOfGig/page/0EQra2bCr) from [Nathan Acks](<Nathan Acks.md>).
 - infrastructure chat 27 [November 15th, 2020](<November 15th, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - Darren's notes
         - change meeting time?

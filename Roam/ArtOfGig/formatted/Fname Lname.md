@@ -160,8 +160,6 @@ Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>) | [Fname Lname](<Fname Lname.md>)
 
-- **[Created](<Created.md>):** [May 4th, 2020](<May 4th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
-
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 

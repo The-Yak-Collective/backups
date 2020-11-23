@@ -117,6 +117,10 @@ Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<N
 
 - **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
+- [Nathan Acks](<Nathan Acks.md>)'
+
+- [Darren Kong](<Darren Kong.md>) will take over shepherding [the channel proposal](https://roamresearch.com/#/app/ArtOfGig/page/0EQra2bCr) from [Nathan Acks](<Nathan Acks.md>).
+
 - ^^Maier: Can [Darren Kong](<Darren Kong.md>) and [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
