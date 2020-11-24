@@ -66,6 +66,7 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
 # Channel Lifecycle
     ## Birth
         - New channels are proposed in `create-destroy-channels`. All active yaks, made yaks, and yak shavers can propose new channels.
+            - [Maier Fenster](<Maier Fenster.md>) interesting idea from pie slicing - opening channels for a predefined period of time.
         - A channel that receives at least 3 "thumbs up" from different active yaks, made yaks, or yak shavers is born into the "Incubator".
             - [Maier Fenster](<Maier Fenster.md>) i think 3 are enough for incubator.
                 - [Nathan Acks](<Nathan Acks.md>) Changed from 5 → 3

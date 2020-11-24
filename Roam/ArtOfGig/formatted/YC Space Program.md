@@ -5,9 +5,6 @@
 - Milestone 5: Sign up to participate in an actual launch program by some company or space agency, similar to google x prize etc.
 
 # Backlinks
-## [Project Pitches](<Project Pitches.md>)
-- **Comments**:  The general idea is to start a __really__ long-term project to try and actually get a [YC Space Program](<YC Space Program.md>)
-
 ## [Yak Rover](<Yak Rover.md>)
 - If we pull this off, it will be the first milestone of the [YC Space Program](<YC Space Program.md>)
 

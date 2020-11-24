@@ -35,6 +35,28 @@
     - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 - **Projects List**
     - ^^<insert new proposal blocks here>^^
+    - [Hack US Gig Worker Healthcare](<Hack US Gig Worker Healthcare.md>): The US healthcare "debate" is focused on full-time workers & employer-based insurance.  We will design some piece of creative content (deck, essays, video) designed to persuasively re-frame the debate around US healthcare and the intangible cost on lost creativity, entrepreneurship and mental well-being of gig workers.  
+        - **Current State**: **Draft** | Proposed | Started | Stalled | Live | Finished | Abandoned 
+            - %% __Bold the one that applies.__
+        - **Core Team** (minimum 2, maximum 4) 
+            - **Project Lead**: [Paul Millerd](<Paul Millerd.md>) - helped run [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) project.  Will serve as
+            - **Backup Lead**: Name 2 -- Brief blurb on their role/qualifications.  __%% should be able to backstop if main lead gets hit by a bus__
+            - **Optional**: Name 3 -- Brief blurb on their role/qualifications.
+            - **Optional**: Name 4 -- Brief blurb on their role/qualifications
+        - **Additional Members**: // __Add names as people join__
+            - [Sachin Benny](<Sachin Benny.md>)
+        - **Kickoff Date**: 12/10/20
+        - **Launch Date**: 01/31/21
+        - **Finish Date (optional)**: mm/dd/yy
+            - %% __Projects must launch, but need not end. The can be left open as indefinitely continuing projects.__
+        - **Discord channel**: channel-name %% __propose a channel in the create-destroy-channels, and once created, an
+        - **Discord channel**: To be determined. 
+            - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
+        - **Launch Deliverable**: **Deck **| Text-Heavy Website Section | Image Heavy Website Section | New Type (specify with a short name)
+            - %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) __project. The text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. The image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>). Consult [Jenna Dixon](<Jenna Dixon.md>) for details
+        - **Financial Structure**: **Internal Project** | Client Project
+            - Could pursue sponsorship, but happy doing this out of my own time too
+        - **Comments** Right now the idea space in terms of fixing US healthcare for gig workers is essentially Aspen Institute "portable benefits" programs which really don't solve the problem they claim to solve or California "turn everyone into full-time employees" fixes that are stuck in the 20th century rather than any real attempt at trying to find something that works.
     - [Yak Rover](<Yak Rover.md>): A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.
         - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
         - **Core Team** (minimum 2, maximum 4) 
@@ -49,7 +71,6 @@
         - **Discord channel**: yak-rover
         - **Launch Deliverable**: Open-source design documentation
         - **Financial Structure**: Internal project
-        - **Comments**:  The general idea is to start a __really__ long-term project to try and actually get a [YC Space Program](<YC Space Program.md>) of the ground with the eventual goal of getting something actually launched into space by emerging low-cost SpaceX type capabilities.
     - [Quadrantology](<Quadrantology.md>): A client project to create a revenue-generating personality test based on the assets already created and prototyped by [Venkatesh Rao](<Venkatesh Rao.md>) (who will be both client and project lead) at [quadrantology.com](https://quadrantology.com). The completed project output will be licensed to YC as a revenue-generating asset, with royalties to client (Venkat) and residuals (like a movie) to participants. Details tbd.
         - **Current State**: **Draft** | Proposed | Started | Stalled | Live | Finished | Abandoned 
             - %% __Bold the one that applies.__

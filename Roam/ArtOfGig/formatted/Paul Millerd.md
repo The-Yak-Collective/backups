@@ -22,6 +22,9 @@
 
 - [Paul Millerd](<Paul Millerd.md>):
 
+## [Project Pitches](<Project Pitches.md>)
+- **Project Lead**: [Paul Millerd](<Paul Millerd.md>)
+
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Posted 3/26/20**: Two potential gigs from [Paul Millerd](<Paul Millerd.md>)
 
