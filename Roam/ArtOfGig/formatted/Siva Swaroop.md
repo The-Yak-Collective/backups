@@ -72,6 +72,9 @@ Before finding colliding themes to these ideas, what exactly is memory and can w
 
 - I am interested in this. [Siva Swaroop](<Siva Swaroop.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Siva Swaroop](<Siva Swaroop.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Siva Swaroop](<Siva Swaroop.md>)
 

@@ -2,7 +2,7 @@ About:: __documenting YakC shared infrastructure__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -35,7 +35,7 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
         - [Edit the current map](https://github.com/The-Yak-Collective/infrastructure-map/edit/master/infrastructure.dot) (note that it can take a couple of minutes to update here)
         - [Full-sized version of the current map](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg) (assets link back to pages in this Roam graph)
     - ![Yak Collective IT Infrastructure diagram](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg)
-        - [Yak Collective Robot](<Yak Collective Robot.md>)
+        - [Yak Collective Robot](<Yak Collective Robot.md>) ("Yakbot")
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
             - Google account; holds __some__ shared assets.
             - Google data/documents/services currently held by individual members should eventually be migrated into this account.
@@ -49,13 +49,18 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
             - **[owner](<owner.md>):** [Drew Schorno](<Drew Schorno.md>)
         - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
             - **[owner](<owner.md>):** [Paul Millerd](<Paul Millerd.md>)
-        - Google Analytics
-            - **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
-        - [Carl](<Carl.md>) `calendar_yak` Bot
+        - "[Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)"
+            - **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
+            - Part of the [Yak Collective Robot](<Yak Collective Robot.md>) account
+        - [Vultr](<Vultr.md>) "Calendar Yak (a.k.a. [gmail_hook](https://github.com/The-Yak-Collective/gmail_hook))" bot
+            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+        - [Vultr](<Vultr.md>) "yak_scraper (a.k.a. [onboarding_robot](https://github.com/The-Yak-Collective/onboarding_robot))" bot
+            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+        - [Vultr](<Vultr.md>) "^^**EXPERIMENTAL**^^ [gigayak](https://github.com/The-Yak-Collective/gigayak)" bot
+            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+        - [Carl](<Carl.md>) "welcome_bot" bot
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
-        - [Carl](<Carl.md>) `yakyak` Bot
-            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
-        - [Carl](<Carl.md>) `welcome_bot`
+        - [Carl](<Carl.md>) "yakyak" bot
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Discord](<Discord.md>)
             - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
@@ -125,6 +130,9 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 # Backlinks
 ## [Infrastructure](<Infrastructure.md>)
 - [IT Infrastructure](<IT Infrastructure.md>)
+
+## [November 24th, 2020](<November 24th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) updated the [IT Infrastructure](<IT Infrastructure.md>)
 
 ## [November 9th, 2020](<November 9th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) added a "Proposals" section to the [IT Infrastructure](<IT Infrastructure.md>)

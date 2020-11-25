@@ -1,7 +1,7 @@
 - **[About](<About.md>):** __A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
-- **[Created](<Created.md>):** `/today` by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
 - **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}

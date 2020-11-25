@@ -2,9 +2,6 @@
 - [Nathan Acks](<Nathan Acks.md>) added owners to infrastructure systems listed in the [Threat Model](<Threat Model.md>)
 
 # Backlinks
-## [Carl](<Carl.md>)
-last updated:: [September 24th, 2020](<September 24th, 2020.md>)
-
 ## [Marketing Channels](<Marketing Channels.md>)
 - Update from [Matthew Sweet](<Matthew Sweet.md>) on [September 24th, 2020](<September 24th, 2020.md>)
 

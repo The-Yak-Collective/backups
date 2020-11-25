@@ -107,6 +107,9 @@
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Policing the Future](<Policing the Future.md>) [Darren Kong](<Darren Kong.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Darren Kong](<Darren Kong.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Darren Kong](<Darren Kong.md>)
 

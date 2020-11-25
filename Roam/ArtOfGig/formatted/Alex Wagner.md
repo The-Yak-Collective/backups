@@ -143,6 +143,8 @@ was working with this client to think about how they might productize senior web
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
+- [Alex Wagner](<Alex Wagner.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Alex Wagner](<Alex Wagner.md>)
 

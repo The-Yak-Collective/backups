@@ -42,6 +42,12 @@
 
 - [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>)
 
+- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+
+- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+
+- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>) [Maier Fenster](<Maier Fenster.md>)
 
@@ -108,6 +114,9 @@
 
 ## [November 18th, 2020](<November 18th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
+
+## [November 24th, 2020](<November 24th, 2020.md>)
+2. Added a page about [Vultr](<Vultr.md>) and [Maier Fenster](<Maier Fenster.md>)'
 
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
@@ -204,6 +213,11 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [Vultr](<Vultr.md>)
+- **[owner](<owner.md>):** [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Website Version History](<Website Version History.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
@@ -221,6 +235,10 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 - [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>) - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others led by [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)

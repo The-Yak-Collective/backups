@@ -57,7 +57,7 @@ last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
             - "owner:: [[Venkatesh Rao]]"
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
             - "owner:: [[Venkatesh Rao]]"
-        - "Google Analytics"
+        - "[Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)"
             - "owner:: [[Tom Critchlow]]"
         - [[IFTTT]]
             - "owner:: [[Nathan Acks]]"

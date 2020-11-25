@@ -86,8 +86,6 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 
 - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
 
-- **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
-
 ## [Infrastructure](<Infrastructure.md>)
 - [ ] receive reply from [Jordan Peacock](<Jordan Peacock.md>)
 
@@ -169,6 +167,9 @@ https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/[comment-271146](<comm
 
 ## [YC Voice Chat Notes – 05/07/2020 @ 9a PDT, Lead: Alex Wagner](<YC Voice Chat Notes – 05/07/2020 @ 9a PDT, Lead: Alex Wagner.md>)
 - In attendance: [Chris Reid](<Chris Reid.md>), [Drew Schorno](<Drew Schorno.md>), Grigori Milov, [Jordan Peacock](<Jordan Peacock.md>),
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Jordan Peacock](<Jordan Peacock.md>)

@@ -81,6 +81,9 @@ The synchronization of brain and environment moves closer with each advent. The 
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 

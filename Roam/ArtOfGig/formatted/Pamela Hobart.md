@@ -74,6 +74,9 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 
 - [The New Old Home](<The New Old Home.md>) - a multidisciplinary exploration in homes of the present & near future  [Pamela Hobart](<Pamela Hobart.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Pamela Hobart](<Pamela Hobart.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Pamela Hobart](<Pamela Hobart.md>)
 

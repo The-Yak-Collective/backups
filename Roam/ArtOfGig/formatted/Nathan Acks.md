@@ -27,7 +27,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 - ### from [Nathan Acks](<Nathan Acks.md>)
 
 ## [Carl](<Carl.md>)
-last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Code Style Guide](<Code Style Guide.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
@@ -86,7 +86,7 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-Last Updated:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>)
 
@@ -166,6 +166,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [November 1st, 2020](<November 1st, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
+## [November 24th, 2020](<November 24th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [November 9th, 2020](<November 9th, 2020.md>)
@@ -276,6 +279,11 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [Vultr](<Vultr.md>)
+- **[last updated](<last updated.md>):** [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [Website Architecture](<Website Architecture.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
@@ -301,11 +309,13 @@ last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nat
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 owner:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [November 1st, 2020](<November 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+
+- [Nathan Acks](<Nathan Acks.md>)
 
 - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
 

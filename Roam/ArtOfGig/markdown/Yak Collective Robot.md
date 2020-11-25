@@ -1,14 +1,33 @@
 owner:: [[Nathan Acks]]
-last updated:: [[November 1st, 2020]] by [[Nathan Acks]]
+last updated:: [[November 24th, 2020]] by [[Nathan Acks]]
 # Purpose
+    - a.k.a. "Yakbot"
     - The `yakcollective.org@gmail.com` Google account.
     - "Owns" a set of core services, as well as inter-app connections and automations that run on these services.
         - [[GitHub]] (fail-safe admin account, owns the OAuth connector used by Netlify CMS on the [[Yak Collective Website]])
             - "owner:: [[Nathan Acks]]"
         - [[Glitch]] (fail-safe admin account)
             - "owner:: [[Nathan Acks]]"
+        - [Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)
+            - owner:: [[Tom Critchlow]]
+            - **Additional Access:**
+                - [[Maier Fenster]]
         - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
             - owner:: [[Venkatesh Rao]]
+            - **Additional Admins:**
+                - [[Nathan Acks]]
+            - **Additional Access:**
+                - [[Alex Wagner]]
+                - [[Darren Kong]]
+                - [[Jordan Peacock]]
+                - [[Maier Fenster]]
+                - [[Pamela Hobart]]
+                - [[Paul Millerd]]
+                - [[Sachin Benny]]
+                - [[Scott Garlinger]]
+                - [[Siva Swaroop]]
+                - [[Tom Critchlow]]
+                - [[Vinay Débrou]]
             - Yak Collective events, mostly scheduled chats and team meetings.
         - [[IFTTT]]
             - "owner:: [[Nathan Acks]]"

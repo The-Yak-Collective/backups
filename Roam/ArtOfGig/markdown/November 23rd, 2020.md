@@ -1,3 +1,1 @@
-- [[The Ministry for the Future is upon us | KimStanleyRobinson.info]]
-- 
 - 

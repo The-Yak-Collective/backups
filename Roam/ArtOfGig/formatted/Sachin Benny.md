@@ -199,6 +199,9 @@ https://artplusmarketing.com/avoiding-anchoring-effect-in-marketing-f48802f6b978
 
 - [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) [Sachin Benny](<Sachin Benny.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Sachin Benny](<Sachin Benny.md>)
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 

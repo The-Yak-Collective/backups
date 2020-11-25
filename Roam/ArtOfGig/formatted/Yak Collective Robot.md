@@ -1,14 +1,33 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [November 1st, 2020](<November 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
+    - a.k.a. "Yakbot"
     - The `yakcollective.org@gmail.com` Google account.
     - "Owns" a set of core services, as well as inter-app connections and automations that run on these services.
         - [GitHub](<GitHub.md>) (fail-safe admin account, owns the OAuth connector used by Netlify CMS on the [Yak Collective Website](<Yak Collective Website.md>))
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Glitch](<Glitch.md>) (fail-safe admin account)
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+        - [Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)
+            - **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
+            - **Additional Access:**
+                - [Maier Fenster](<Maier Fenster.md>)
         - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
             - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+            - **Additional Admins:**
+                - [Nathan Acks](<Nathan Acks.md>)
+            - **Additional Access:**
+                - [Alex Wagner](<Alex Wagner.md>)
+                - [Darren Kong](<Darren Kong.md>)
+                - [Jordan Peacock](<Jordan Peacock.md>)
+                - [Maier Fenster](<Maier Fenster.md>)
+                - [Pamela Hobart](<Pamela Hobart.md>)
+                - [Paul Millerd](<Paul Millerd.md>)
+                - [Sachin Benny](<Sachin Benny.md>)
+                - [Scott Garlinger](<Scott Garlinger.md>)
+                - [Siva Swaroop](<Siva Swaroop.md>)
+                - [Tom Critchlow](<Tom Critchlow.md>)
+                - [Vinay Débrou](<Vinay Débrou.md>)
             - Yak Collective events, mostly scheduled chats and team meetings.
         - [IFTTT](<IFTTT.md>)
             - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
@@ -48,6 +67,8 @@ last updated:: [November 1st, 2020](<November 1st, 2020.md>) by [Nathan Acks](<N
 
 - Part of the [Yak Collective Robot](<Yak Collective Robot.md>)
 
+- Part of the [Yak Collective Robot](<Yak Collective Robot.md>)
+
 ## [Netlify](<Netlify.md>)
 - [Yak Collective Robot](<Yak Collective Robot.md>)
 
@@ -57,6 +78,9 @@ last updated:: [November 1st, 2020](<November 1st, 2020.md>) by [Nathan Acks](<N
 
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) updated ACL for the [Yak Collective Robot](<Yak Collective Robot.md>)
+
+## [November 24th, 2020](<November 24th, 2020.md>)
+1. The [Yak Collective Robot](<Yak Collective Robot.md>)
 
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) tweaked the capitalization on the [Yak Collective Robot](<Yak Collective Robot.md>)

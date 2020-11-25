@@ -47,6 +47,11 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 - [Discord](<Discord.md>)
 
+## [Vultr](<Vultr.md>)
+- Receives incoming notifications about Google Calendar events via the Gmail API, and posts event details to the [Discord](<Discord.md>)
+
+- Aggregates information about the [Discord](<Discord.md>)
+
 ## [Website Version History](<Website Version History.md>)
 - Incoming member blog posts are now pushed to [Twitter](<Twitter.md>) and the `yaktalk-content` [Discord](<Discord.md>)
 

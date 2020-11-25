@@ -86,6 +86,9 @@
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Yak-Walk Map](<Yak-Walk Map.md>) -- a walk-through map of the first Deck's ideas focusing on pain-points of decision-makers(our potential clients) along with a linked resource-library  — [Vinay Débrou](<Vinay Débrou.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Vinay Débrou](<Vinay Débrou.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Vinay Débrou](<Vinay Débrou.md>)
 

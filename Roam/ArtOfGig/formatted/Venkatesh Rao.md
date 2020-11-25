@@ -540,7 +540,7 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Rover](<Yak Rover.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- **[Created](<Created.md>):** `/today` by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
 

@@ -56,7 +56,7 @@
 - [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
+- **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
 
 - [Tom Critchlow](<Tom Critchlow.md>):
 
@@ -89,6 +89,10 @@ I think the key things writing (i.e. blogging) gives you is: a) an awareness tha
 - [Tom Critchlow](<Tom Critchlow.md>):
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
+- **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
+
+- [Tom Critchlow](<Tom Critchlow.md>)
+
 - Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
 
 - [Tom Critchlow](<Tom Critchlow.md>)

@@ -6,9 +6,6 @@
 ## [Fair equity](<Fair equity.md>)
 - **[Last Gardened](<Last Gardened.md>):** [November 9th, 2020](<November 9th, 2020.md>)
 
-## [IT Infrastructure](<IT Infrastructure.md>)
-Last Updated:: [November 9th, 2020](<November 9th, 2020.md>)
-
 ## [Infrastructure](<Infrastructure.md>)
 - [November 9th, 2020](<November 9th, 2020.md>)
 

@@ -33,7 +33,7 @@
 - **[Page Type](<Page Type.md>):**
 
 ## [Yak Rover](<Yak Rover.md>)
-- **[Created](<Created.md>):** `/today` by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Page Type](<Page Type.md>):**
 
 ## [template/govchat](<template/govchat.md>)

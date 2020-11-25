@@ -7,9 +7,6 @@
 - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
             - **[owner](<owner.md>):**
 
-- Google Analytics
-            - **[owner](<owner.md>):**
-
 - [LinkedIn](<LinkedIn.md>)
             - **[owner](<owner.md>):**
 
@@ -17,7 +14,13 @@
 - [LinkedIn](<LinkedIn.md>)
             - **[owner](<owner.md>):**
 
+## [Vultr](<Vultr.md>)
+- **[owner](<owner.md>):**
+
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)
+            - **[owner](<owner.md>):**
+
 - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
             - **[owner](<owner.md>):**
 

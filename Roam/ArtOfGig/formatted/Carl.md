@@ -1,12 +1,10 @@
 owner:: [Jordan Peacock](<Jordan Peacock.md>)
-last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
-    - `calendar_yak`
-        - ^^???^^
-    - `welcome_bot`
+    - welcome_bot
         - Greets new [Discord](<Discord.md>) users and informs them of the minimal participation bar.
         - {{[embed](<embed.md>): ((hXkWRxrzr))}}
-    - `yakyak`
+    - yakyak
         - Automatically culls users who have not posted in `introductions` within their first week.
 # Access ^^(Shared Login!)^^
     - [Jordan Peacock](<Jordan Peacock.md>)
@@ -16,8 +14,6 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 - [Carl](<Carl.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- [Carl](<Carl.md>)
-
 - [Carl](<Carl.md>)
 
 - [Carl](<Carl.md>)

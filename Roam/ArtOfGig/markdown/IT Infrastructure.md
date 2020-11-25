@@ -2,7 +2,7 @@ About:: __documenting YakC shared infrastructure__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
 Created:: [[August 29th, 2020]] by [[Nathan Acks]]
-Last Updated:: [[November 9th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[November 24th, 2020]] by [[Nathan Acks]]
 Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + SVG diagram development by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -35,7 +35,7 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
         - [Edit the current map](https://github.com/The-Yak-Collective/infrastructure-map/edit/master/infrastructure.dot) (note that it can take a couple of minutes to update here)
         - [Full-sized version of the current map](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg) (assets link back to pages in this Roam graph)
     - ![Yak Collective IT Infrastructure diagram](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg)
-        - [[Yak Collective Robot]]
+        - [[Yak Collective Robot]] ("Yakbot")
             - "owner:: [[Nathan Acks]]"
             - Google account; holds __some__ shared assets.
             - Google data/documents/services currently held by individual members should eventually be migrated into this account.
@@ -49,13 +49,18 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
             - owner:: [[Drew Schorno]]
         - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
             - owner:: [[Paul Millerd]]
-        - Google Analytics
-            - owner:: [[Tom Critchlow]]
-        - [[Carl]] `calendar_yak` Bot
+        - "[Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)"
+            - "owner:: [[Tom Critchlow]]"
+            - Part of the [[Yak Collective Robot]] account
+        - [[Vultr]] "Calendar Yak (a.k.a. [gmail_hook](https://github.com/The-Yak-Collective/gmail_hook))" bot
+            - "owner:: [[Maier Fenster]]"
+        - [[Vultr]] "yak_scraper (a.k.a. [onboarding_robot](https://github.com/The-Yak-Collective/onboarding_robot))" bot
+            - "owner:: [[Maier Fenster]]"
+        - [[Vultr]] "^^**EXPERIMENTAL**^^ [gigayak](https://github.com/The-Yak-Collective/gigayak)" bot
+            - "owner:: [[Maier Fenster]]"
+        - [[Carl]] "welcome_bot" bot
             - "owner:: [[Jordan Peacock]]"
-        - [[Carl]] `yakyak` Bot
-            - "owner:: [[Jordan Peacock]]"
-        - [[Carl]] `welcome_bot`
+        - [[Carl]] "yakyak" bot
             - "owner:: [[Jordan Peacock]]"
         - [[Discord]]
             - "owner:: [[Jordan Peacock]]"
