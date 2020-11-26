@@ -107,6 +107,9 @@
 ## [Internal Project](<Internal Project.md>)
 - An internal project is one initiated by a member of the Yak Collective using our [Project Pitches](<Project Pitches.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- Marketing involvement in new [Project Pitches](<Project Pitches.md>)
+
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - [Project Pitches](<Project Pitches.md>)
 

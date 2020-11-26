@@ -54,3 +54,6 @@
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - [ ] [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- Sync on [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+

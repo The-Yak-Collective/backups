@@ -19,3 +19,8 @@
 ## [Neurofuturama](<Neurofuturama.md>)
 - This is the main page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- Should we market a #[Pop-Up Think Tank](<Pop-Up Think Tank.md>)?
+
+- #[Pop-Up Think Tank](<Pop-Up Think Tank.md>)
+

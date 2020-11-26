@@ -60,6 +60,9 @@
 ## [Nature is Healing](<Nature is Healing.md>)
 - Format will be same 2-slides/idea format as [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- #[Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [ ] " Relaunch the [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)?
 

@@ -118,6 +118,9 @@
 
 - "[Hugo Macedo](<Hugo Macedo.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- [x] [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Hugo Macedo](<Hugo Macedo.md>)
 

@@ -123,6 +123,9 @@
 ## [November 18th, 2020](<November 18th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)
 

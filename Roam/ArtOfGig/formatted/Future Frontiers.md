@@ -157,6 +157,11 @@ Next decade can bring more examples like this one.
 ## [Infinity Pool](<Infinity Pool.md>)
 - Currently two projects are following an infinity pool model: [Astonishing Stories](<Astonishing Stories.md>) and [Future Frontiers](<Future Frontiers.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- rename - Future Frontier #[Future Frontiers](<Future Frontiers.md>)
+
+- how do we use the #[Future Frontiers](<Future Frontiers.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Future Frontiers](<Future Frontiers.md>)
 

@@ -118,6 +118,11 @@
 ## [November 24th, 2020](<November 24th, 2020.md>)
 2. Added a page about [Vultr](<Vultr.md>) and [Maier Fenster](<Maier Fenster.md>)'
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
 

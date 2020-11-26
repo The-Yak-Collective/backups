@@ -208,6 +208,9 @@ Yaks competing for attention
 
 - "topic to be discussed in the next #[YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

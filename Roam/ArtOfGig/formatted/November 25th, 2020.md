@@ -1,15 +1,15 @@
-- [[YC Marketing - distributed CMO]] weekly sync #meeting-notes
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) weekly sync [meeting-notes](<meeting-notes.md>)
     - Location: discord 
     - Time: 5pm GMT 
     - Participants (TBC)
-        - {{[[DONE]]}} [[Hugo Macedo]] 
-        - {{[[DONE]]}} [[Maier Fenster]]
-        - {{[[DONE]]}} [[Grigori Milov]]
-        - {{[[DONE]]}} [[Venkatesh Rao]]
+        - [x] [Hugo Macedo](<Hugo Macedo.md>) 
+        - [x] [Maier Fenster](<Maier Fenster.md>)
+        - [x] [Grigori Milov](<Grigori Milov.md>)
+        - [x] [Venkatesh Rao](<Venkatesh Rao.md>)
         - TBC
     - Agenda/Minutes (WIP)
-        - Sync on [[Final Frontiers - Launch Plan]] w/ [[Venkatesh Rao]]
-            - rename - Future Frontier #[[Future Frontiers]]
+        - Sync on [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>) w/ [Venkatesh Rao](<Venkatesh Rao.md>)
+            - rename - Future Frontier #[Future Frontiers](<Future Frontiers.md>)
             - infinite pool online deck - 2/3 slides per idea
                 - each module has its own URL
             - conversations about the future
@@ -18,7 +18,7 @@
                 - ^^YC have fun with time^^
                 - gigs/leads 
                 - apetite thinking big expansive - post-covid
-                - common theme on Future thinking with #[[Astonishing Stories]]
+                - common theme on Future thinking with #[Astonishing Stories](<Astonishing Stories.md>)
             - meaningful things and fun
                 - meaning - solving a  problem, fun and/or especially future looking
                     - want to drive such "fun" gigs to people in yak collective
@@ -30,7 +30,7 @@
                 - future
                 - 
             - Launch
-                - how do we use the #[[Future Frontiers]] to bring fun gigs
+                - how do we use the #[Future Frontiers](<Future Frontiers.md>) to bring fun gigs
                     - 2 extremes
                         - Large corp that think big (Amazon, Tesla)
                         - Startups cash rich - 2nd act - no VC pressure - they can think big
@@ -42,14 +42,14 @@
                     - Does the content match the target?
                         - pointer/teaser - proof of capability 
                         - leads to a proposal
-            - Should we market a #[[Pop-Up Think Tank]]?
+            - Should we market a #[Pop-Up Think Tank](<Pop-Up Think Tank.md>)?
             - other product (many 5-6 minimal size, but can also do two yaks)
-                - in-depth parallel investigation like #[[Yaks do innovation consulting]]
-                    - #[[Astonishing Stories]] can also fit here 
-                - #[[Pop-Up Think Tank]]
-                    - #[[Don’t Waste the Reboot]]
-                    - #Neurofuturama
-                    - #[[The New Old Home]]
+                - in-depth parallel investigation like #[Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+                    - #[Astonishing Stories](<Astonishing Stories.md>) can also fit here 
+                - #[Pop-Up Think Tank](<Pop-Up Think Tank.md>)
+                    - #[Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+                    - [Neurofuturama](<Neurofuturama.md>)
+                    - #[The New Old Home](<The New Old Home.md>)
                     - diverse perspectives is a key benefit 
                 - speculative design fiction (like mars rover)
                 - actually managing something
@@ -61,9 +61,9 @@
                     - can be based on special knowledge of one yak
                     - can be based on a  group that together has the expertise
                 - pair work - one yak does the work, the other brings another perspective,  provides backup, and is less of a risk to the one yak 
-        - Marketing involvement in new [[Project Pitches]] process
+        - Marketing involvement in new [Project Pitches](<Project Pitches.md>) process
             - How can we influence projects from the start - Setup for market success
-        - [[Maier Fenster]] agendabot and newletterbot and projectbot and gigbot and helpwantedbot as inner-marketing tools
+        - [Maier Fenster](<Maier Fenster.md>) agendabot and newletterbot and projectbot and gigbot and helpwantedbot as inner-marketing tools
         - Fun & meaningful - idea for positioning
         - Fun & profit example - a balance
         - insider peeks

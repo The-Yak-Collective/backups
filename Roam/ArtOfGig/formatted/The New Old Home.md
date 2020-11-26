@@ -51,6 +51,9 @@
 ## [Internal Project](<Internal Project.md>)
 - [The New Old Home](<The New Old Home.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- #[The New Old Home](<The New Old Home.md>)
+
 ## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
 - Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>))
 

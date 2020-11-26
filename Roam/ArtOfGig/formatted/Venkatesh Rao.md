@@ -281,6 +281,11 @@ owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Neurofuturama](<Neurofuturama.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- [x] [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- Sync on [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>) w/ [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - we should have a call with [Venkatesh Rao](<Venkatesh Rao.md>)
 

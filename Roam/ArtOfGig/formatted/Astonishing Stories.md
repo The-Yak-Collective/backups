@@ -21,6 +21,11 @@
 
 - Another possibility: Use two different site generators, one for the main body of the website, and another to build "subsites" like [Astonishing Stories](<Astonishing Stories.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- common theme on Future thinking with #[Astonishing Stories](<Astonishing Stories.md>)
+
+- #[Astonishing Stories](<Astonishing Stories.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - [ ] review: [Astonishing Stories](<Astonishing Stories.md>)
 
