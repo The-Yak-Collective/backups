@@ -233,6 +233,9 @@ But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- **[Created](<Created.md>):** [November 27th, 2020](<November 27th, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
+
 ## [Yak Talk](<Yak Talk.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

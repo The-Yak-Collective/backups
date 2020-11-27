@@ -537,6 +537,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 

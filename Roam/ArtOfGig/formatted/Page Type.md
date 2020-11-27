@@ -32,6 +32,10 @@
 - **[Created](<Created.md>):** [November 13th, 2020](<November 13th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Page Type](<Page Type.md>):**
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- **[Created](<Created.md>):** [November 27th, 2020](<November 27th, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
+- **[Page Type](<Page Type.md>):**
+
 ## [Yak Rover](<Yak Rover.md>)
 - **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Page Type](<Page Type.md>):**

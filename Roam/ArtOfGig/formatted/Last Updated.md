@@ -122,6 +122,10 @@
 - **[Status](<Status.md>):** {{or: Complete | Early Concept | Active | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- **[Status](<Status.md>):** {{or: Active | Complete | Early Concept | Proposal}}
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Yak Rover](<Yak Rover.md>)
 - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
 - **[Last Updated](<Last Updated.md>):**

@@ -39,6 +39,10 @@
 - **[Page Type](<Page Type.md>):** {{or: [Minutes](<Minutes.md>) | [Project](<Project.md>) | [tk2](<tk2.md>)}}
 - **[Status](<Status.md>):**
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- **[Page Type](<Page Type.md>):** {{or: [Minutes](<Minutes.md>) | [Project](<Project.md>) | [tk2](<tk2.md>)}}
+- **[Status](<Status.md>):**
+
 ## [Yak Network Map](<Yak Network Map.md>)
 - **[Status](<Status.md>):**
 

@@ -8,6 +8,10 @@
 - [Venkatesh Rao’s independant research thread](https://twitter.com/vgr/status/1195789557465153536?s=21)
 - **[Prompt](<Prompt.md>):**
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Prompt](<Prompt.md>):**
+
 ## [template/govchat](<template/govchat.md>)
 - 
 - **[Prompt](<Prompt.md>):**

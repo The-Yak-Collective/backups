@@ -12,6 +12,10 @@
 - ## 
 - **[Attending](<Attending.md>):**
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- 
+- **[Attending](<Attending.md>):**
+
 ## [template/govchat](<template/govchat.md>)
 - 
 - **[Attending](<Attending.md>):**

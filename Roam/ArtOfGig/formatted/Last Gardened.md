@@ -68,6 +68,10 @@
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [Yak Rover](<Yak Rover.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**

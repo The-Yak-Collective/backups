@@ -88,6 +88,10 @@
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[About](<About.md>):**
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+- Yak Gov Chat Minutes
+- **[About](<About.md>):**
+
 ## [Yak Rover](<Yak Rover.md>)
 - **[About](<About.md>):**
 

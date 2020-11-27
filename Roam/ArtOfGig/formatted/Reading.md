@@ -19,6 +19,10 @@
 - 
 - **[Reading](<Reading.md>):**
 
+## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
+What are the building blocks?
+- **[Reading](<Reading.md>):**h
+
 ## [template/govchat](<template/govchat.md>)
 - 
 - **[Reading](<Reading.md>):**
