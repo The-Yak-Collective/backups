@@ -4,7 +4,7 @@
 - Currently on exploration mode for indie work. Main motivation is to polish some of my under-utilized skills and also acquire few new skills. 
 - Contact me on
     - LinkedIn : https://www.linkedin.com/in/venkatasivaswaroopgv/
-- [Yak Discord server](<Yak Discord server.md>) - Siva Swaroop
+- [Discord server](<Discord server.md>) - Siva Swaroop
 
 # Backlinks
 ## [06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief](<06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief.md>)
@@ -25,33 +25,8 @@
 ## [Directory](<Directory.md>)
 - [Siva Swaroop](<Siva Swaroop.md>)
 
-## [Future Frontiers](<Future Frontiers.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  | [Jenna Dixon](<Jenna Dixon.md>) [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | section intro [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Recreational Space Vehicle - New Vogue ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_130) | [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Skills and Jobs with Space Growth](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_12_0) | [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Satellites by and for each village](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_45_0) | [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Editorial Comments](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_184) 5pp | [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Title Page](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.p) [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Contents](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8dc164a1ac_0_87) page 2pp [Siva Swaroop](<Siva Swaroop.md>)
-
+## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
 - This is a project proposal for July/Aug 2020 cycle by [Siva Swaroop](<Siva Swaroop.md>)
-
-- [ ] [Venkatesh Rao](<Venkatesh Rao.md>) ping: [Siva Swaroop](<Siva Swaroop.md>)
-
-## [PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework](<PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework.md>)
-- A framework for thinking about the future introduced for the [Future Frontiers](<Future Frontiers.md>) project by [Siva Swaroop](<Siva Swaroop.md>)
 
 ## [Production Cell](<Production Cell.md>)
 - [Siva Swaroop](<Siva Swaroop.md>)
@@ -68,12 +43,9 @@ Before finding colliding themes to these ideas, what exactly is memory and can w
 - [Siva Swaroop](<Siva Swaroop.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
-- [Future Frontiers](<Future Frontiers.md>) [Siva Swaroop](<Siva Swaroop.md>)
+- [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) [Siva Swaroop](<Siva Swaroop.md>)
 
 - I am interested in this. [Siva Swaroop](<Siva Swaroop.md>)
-
-## [Yak Collective Robot](<Yak Collective Robot.md>)
-- [Siva Swaroop](<Siva Swaroop.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Siva Swaroop](<Siva Swaroop.md>)

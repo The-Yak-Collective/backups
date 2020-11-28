@@ -1,13 +1,10 @@
 
 # Backlinks
-## [IT Infrastructure](<IT Infrastructure.md>)
-- [Vaughn Tan](<Vaughn Tan.md>):
-
-## [Infrastructure](<Infrastructure.md>)
-- Amorphous organizations article from [Vaughn Tan](<Vaughn Tan.md>)
-
 ## [Sparring Consulting](<Sparring Consulting.md>)
 - Question from [Vaughn Tan](<Vaughn Tan.md>)
+
+## [Website Cell](<Website Cell.md>)
+- [Vaughn Tan](<Vaughn Tan.md>):
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>) [David McDougall](<David McDougall.md>) and [Vaughn Tan](<Vaughn Tan.md>)
@@ -20,4 +17,7 @@
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Thomas Hollands](<Thomas Hollands.md>)+[Greg Docter](<Greg Docter.md>) <> [Vaughn Tan](<Vaughn Tan.md>)
+
+## [infrastructure](<infrastructure.md>)
+- Amorphous organizations article from [Vaughn Tan](<Vaughn Tan.md>)
 

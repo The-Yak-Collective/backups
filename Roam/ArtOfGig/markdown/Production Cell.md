@@ -1,83 +1,74 @@
-- About:: __A place to build a group of yaks to contribute to producing YakC work outputs.__
-- Chief Page Wrangler:: [[Jenna Dixon]]
-    - Additional Page Wranglers:: [[Suwaythan Nahaganeshan]] | [[Fname Lname]] 
-- Last Updated:: [[September 21th, 2020]]
-- Last Updated By:: [[Jenna Dixon]]
--  
+- Stub::
+    - updated [[August 17th, 2020]]
+    - [[August 3rd, 2020]]
+- Single-Wringable Neck::
+    - [[Jenna Dixon]]
 - Invited::
-    - [[Astonishing Stories
-...of what’s next]]
+    - [[YakWorld: Astonishing Stories of What's Next]]
         - [[Amanda Reeves]]
         - [[Sachin Benny]]
-    - [[Future Frontiers]] 
+    - [[Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans]] 
         - [[Siva Swaroop]]
         - [[Venkatesh Rao]]
-- 
 - Related Infrastructure::
-    - [[Yak Collective Website]]
+    - [[Website Cell]]
     - [[Yak Talk Newsletter – To Do and Content Ideas]]
     - [[Publishing Projects Sampler]]
     - [[Yak Project Production History]]
     - others?
 - Suggested coordination tools::
-    - __How granular to be? eg a Kanban in Notion or Trello with a card for each piece__ ^^update^^ [[September 2nd, 2020]] __consensus for now is to use in-Roam kanban__
+    - __How granular to be? eg a Kanban in Notion or Trello with a card for each piece__
     - [[Roam Production Kanban]]
-    - ~~Notion test~~ — [invite link](https://www.notion.so/invite/c58785e67336468df996a71942d153005c95d02b) — [public link](https://www.notion.so/41ff3b37d55c4cfbaddaed83ad16b9d6?v=046dfa62ab774f688c03b1a246516036)~~
-    - ~~Trello test~~ — [public link](https://trello.com/b/ewxc9qCV/project-production-kanban)
+    - Notion test — [invite link](https://www.notion.so/invite/c58785e67336468df996a71942d153005c95d02b) — [public link](https://www.notion.so/41ff3b37d55c4cfbaddaed83ad16b9d6?v=046dfa62ab774f688c03b1a246516036)
+    - Trello test — [public link](https://trello.com/b/ewxc9qCV/project-production-kanban)
 - ----------------------------------------------------------------------------
 - # 1. Model workflow from a final draft
 - {{mermaid}}
     - graph LR
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
 - # 2. Production contributor roles — stub
-    - ## Developmental editors aka Referees
+    - ## Developmental editor aka Referee
         - __Read at the forest level. Big picture on structure and content. 
-More formal than #reader or #sparring-partner.__
-        - Add your name here if interested in this role::
-            - [[Scott Garlinger]]
-                - [[Astonishing Stories]]
-            - [[Hershil Patel]]
-            - [[Firstname Lastname]]
-            - [[Grigori Milov]]
-            - [[Firstname Lastname]]
-    - ## Copyeditors
-        - __Read at the tree level. Lover of details.__ 
-        - __Revise manuscripts to improve readability and fitness, as well as ensuring that text is free of grammatical and factual errors. Align texts with__ [[Yak House Style]], __keeping the preferred style, grammar, spelling, and punctuation consistent across project. Make simple revisions to smooth awkward passages (no license to rewrite line by line). Query structural and organizational problems (not expected to fix these problems).__
-        - fmi: [Copyediting](https://en.wikipedia.org/wiki/Copy_editing) (Wikipedia)
+More formal than reader or sparring partner.__
         - Add your name here if interested in this role::
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
-            - [[Alex Dobrenko]]
-                - [[Astonishing Stories]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+    - ## Copy editor
+        - __Read at the tree level. Lover of details.__
+        - Add your name here if interested in this role::
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
             - [[Jenna Dixon]]
-    - ## Design & Layout
-        - __Work with__ [[Yak Collective Website]] __to add projects to the website. 
+    - ## Design/layout
+        - __Work with [[Website Cell]] to add projects to the website. 
 Native, Webflow, Carrd, Google Slides....__
         - Add your name here if interested in this role::
-            - [[Suwaythan Nahaganeshan]]
-                - [[Future Frontiers]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
-            - [[Grigori Milov]]
+            - [[Firstname Lastname]]
+            - [[Firstname Lastname]]
             - [[Jenna Dixon]]
-    - ## Proofreaders
-        - __Proofreading is the final step in the editorial cycle before publication. A proofreader looks at an increment of text on the manuscript and compares it to the corresponding typeset increment and marks any errors. Proofreaders have no editorial authority; they can mark queries for typesetters, editors, or authors.__
-        - fmi: [Proofreading](https://en.wikipedia.org/wiki/Proofreading) (Wikipedia)
+    - ## Proofread
+        - __Super helpful to have eyes on that have never seen a piece before. 
+Eg restaurant menu proofreader, back when that was a thing.__
         - Add your name here if interested in this role::
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
-            - [[Amanda Reeves]]
-                - [[Astonishing Stories]]
+            - [[Firstname Lastname]]
             - [[Jenna Dixon]]
         - 
-    - ## 🎨 Illustrators 🎨
+    - ## 🎨 Illustrations 🎨
         - __On their own production timeline. Can be original or found. If found, prefer CC.__
         - ### Original illustrations
             - Add your name here if interested in this role::
-                - [[Justice]] 💸
-                - [[Aiswarya Enolla]]
+                - [[Firstname Lastname]]
+                - [[Firstname Lastname]]
                 - [[Firstname Lastname]]
                 - [[Firstname Lastname]]
         - ###  Found illustrations
@@ -96,9 +87,15 @@ Native, Webflow, Carrd, Google Slides....__
 - 
 - # Alternate workflow models
 - __aka Mermaid play__
+    - cf https://twitter.com/Conaw/status/1281421725121404928/photo/1
+- 
+- https://twitter.com/Conaw/status/1281423537090162690/photo/1
+    - 
 - {{mermaid}}
     - graph LR
         - final_draft-->dev_edit-->author_review1-->copyedit-->author_review1-->design-->layout1-->author_review2-->design-->proofread-->author_review3-->layout2-->publish
+- 
+- 
 - {{mermaid}}
     - graph TD
         - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish

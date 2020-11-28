@@ -1,0 +1,70 @@
+- If you'd like to volunteer to host a weekly **VOICE chat session** on the [Discord server](<Discord server.md>), please add your name, time, and time zone below. Hosts, check out this page of [Chat Formats](<Chat Formats.md>) for ideas on useful structured formats, and to add your own. Let's follow [the Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) for these chats.
+- Best practices (HOSTS PLEASE READ!)
+    - Hosts: please tweet a reminder no more than 30 minutes before the chat and tag @yak_collective. Also share your own twitter handle at the end of chats so people can follow you and get alerted. Include a bit of detail about the theme. For standing weekly chat sessions, please contact [Venkatesh Rao](<Venkatesh Rao.md>) to add to the calendar. It will get automatically tweeted and posted to events channel 15 minutes before, along with a temporary invite link.
+    - Hosts: Include a link to this Roam page.
+    - Pick or improv [Chat Formats](<Chat Formats.md>) that have or generate a natural thematic focus so it's not chats for the sake of chats. The [Amazonian Group Read](<Amazonian Group Read.md>) is a good default.
+    - Discord was developed to support gamers playing games, so the medium is friendliest to that, so try to run voice chats in a video-game-ish spirit, whatever that means
+- Here is the shared [Google Calender link](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). You can request permission from [Venkatesh Rao](<Venkatesh Rao.md>) to modify it if you're hosting regular weekly events or [Office hours with YakShavers](<Office hours with YakShavers.md>). For one-off meetings, please coordinate among yourselves and post to the events channel or other appropriate channel. These will not be added to the group calendar unless it is a major one like a town hall.
+- **Monday**
+    - 4:00PM - 4:30PM (21h00-21h30 UTC) US Central Time, hosted by [Sachin Benny](<Sachin Benny.md>)
+    - Current format is shared reading, similar to the chats hosted by Venkat and Pamela last week
+- **Tuesday**
+    - 8:30 PM - 9:00PM US Central Time, hosted by [Scott Garlinger](<Scott Garlinger.md>). Theme: Build a Right Brain. https://docs.google.com/document/d/1IFQrxu6ctvwFXyU3tNF2sBae8M3xbuugmBwmWZkd7jM/edit
+        - Around the horn style; 30 second shot clock per person, per round; build on theme from your experiences.
+        - Chatham House Rule reminder: ‘anyone who comes to the meeting i[]()s free to use information from the discussion, but is not allowed to reveal who made any comment. It is designed to increase openness of discussion.’
+- **Wednesday**
+    - 9 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), hosted by [Vinay Débrou](<Vinay Débrou.md>)
+        - Topic of Discussion -- Shaping Up of [Yak-Walk Map](<Yak-Walk Map.md>) and Call for Collaborators
+        - UTC+2 time: 6 - 6:30 pm
+    - 10 PM - 10:30 PM Central Time(14h00-14h30 UTC), hosted by [Jordan Peacock](<Jordan Peacock.md>)
+        - Topic: [Reza Negarestani's Intelligence & Spirit](<Reza Negarestani's Intelligence & Spirit.md>)
+            - This will be a recurring discussion as we work through the book.
+        - UTC+2 time: 5 - 5:30am
+- **Thursday**
+    - 12 PM - 12:30 PM Eastern Time (16h00-16h30 UTC), hosted by [Alex Wagner](<Alex Wagner.md>)
+        - This is the Yak newbies chat, where I will field questions from new Yak Collective members and do my best to point them in the right direction.
+            - Questions will also serve as fodder for iterating the [Onboarding for New Yaks](<Onboarding for New Yaks.md>), being shepherded by [Darren Kong](<Darren Kong.md>).
+        - UTC +2 time: 6 - 6:30pm
+- **Friday**
+    - 9:00 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), Governance Chat hosted by [Venkatesh Rao](<Venkatesh Rao.md>). This chat will henceforth (as of May 8)
+        UTC +2 time: 6 - 6:30pm
+        Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>) focused particularly on [Yak Collective Governance](<Yak Collective Governance.md>) readings
+- **Saturday**
+    - 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) [infrastructure](<infrastructure.md>) chat hosted by [Darren Kong](<Darren Kong.md>) and you (??)
+        - Weekly volunteer task list pruning [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
+        - Discussion on how to move forward [infrastructure](<infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<Self-Employed life starter pack.md>) + [Collaboration model/economy](<Collaboration model/economy.md>)
+            - Occasional readings posted in advance to support  
+- **Sunday**
+    - 5pm - 5:30pm Eastern Time (21h00-21h30 UTC), hosted by [Pamela Hobart](<Pamela Hobart.md>) : Philosophical Grab Bag
+        - UTC +2 time: 11 - 11:30pm
+    - Been doing some short readings lately - check out Voice Meta channel in Discord for the link an hour before meeting time
+    - Past topics:
+        - Is it possible/desirable to give advice? When/why/how? (cf [Against Advice](https://thepointmag.com/examined-life/against-advice-agnes-callard/) - Agnes Callard)
+        - With a lot of negative developments being reported these days, what's actually going well for you? 
+- [Office hours with YakShavers](<Office hours with YakShavers.md>)
+
+# Backlinks
+## [Discord server](<Discord server.md>)
+- [Discord Chat Schedule](<Discord Chat Schedule.md>)
+
+## [Important Links for New Yaks](<Important Links for New Yaks.md>)
+- [Discord Chat Schedule](<Discord Chat Schedule.md>)
+
+## [Index](<Index.md>)
+- Check out the [Discord server](<Discord server.md>) and [Discord Chat Schedule](<Discord Chat Schedule.md>)
+
+## [Office hours with YakShavers](<Office hours with YakShavers.md>)
+- Schedule to be published on [Discord Chat Schedule](<Discord Chat Schedule.md>)
+
+## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
+- Find a list of voice chats on the [Discord Chat Schedule](<Discord Chat Schedule.md>)
+
+## [Summary: Brainstorm Questions](<Summary: Brainstorm Questions.md>)
+- [Jordan Peacock](<Jordan Peacock.md>) will host a recurring chat on [Reza Negarestani's Intelligence & Spirit](<Reza Negarestani's Intelligence & Spirit.md>) every Wednesday. See [Discord Chat Schedule](<Discord Chat Schedule.md>)
+
+## [Weekly Prompts](<Weekly Prompts.md>)
+- **April 2, 2020**: If you’re willing to volunteer to host a weekly 30 minute voice chat session on the Discord server, add your name, day, time, and time-zone to the [Discord Chat Schedule](<Discord Chat Schedule.md>)
+
+## [Yak Collective FAQ](<Yak Collective FAQ.md>)
+- The yaks can read/write to channels and this Discord, and are encouraged to join any of the regular chats (see [Discord Chat Schedule](<Discord Chat Schedule.md>))
+

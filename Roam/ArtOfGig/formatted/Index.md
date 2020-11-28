@@ -1,12 +1,12 @@
 - **[Goal](<Goal.md>):**
     - The goal of this index page is to have a central place to link all root pages while we figure out a better organization scheme. 
 - **[Suggest](<Suggest.md>):** 
-    - Check out the [Start Here](<Start Here.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>) page. 
+    - Check out the [Welcome](<Welcome.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>) page. 
     - 👈 The Shortcuts left sidebar has links to top-level pages.
 - **[Need ideas for what to do?](<Need ideas for what to do?.md>):**
     - Check out the [Weekly Prompts](<Weekly Prompts.md>) page
 - **[Want to chat with people about this database and other things?](<Want to chat with people about this database and other things?.md>):**
-    - Check out the [Yak Discord server](<Yak Discord server.md>) and [Discord Chat Calendar](<Discord Chat Calendar.md>)
+    - Check out the [Discord server](<Discord server.md>) and [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - **[Need a gig? Have a gig to offer?](<Need a gig? Have a gig to offer?.md>):**
     - Check out the [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>) page. There is also a channel for trading gigs on the discord server.
 - **[Directory](<Directory.md>):** 
@@ -21,8 +21,7 @@
     - [Managing your clients](<Managing your clients.md>) setting expectations, managing boundaries etc
     - [Consulting frameworks and services for indie consultants](<Consulting frameworks and services for indie consultants.md>)
 - **[Roam help](<Roam help.md>):**
-    - We're all on the learning curve with Roam lol. There seems to be a tipping point where befuddlement or frustration shifts into flying around in a way other text editors don't let you. This post on "a text renaissance" by Venkatesh in February is useful for a high-level why-bother carrot 
-» https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/
+    - We're all on the learning curve with Roam lol. There seems to be a tipping point where befuddlement or frustration shifts into flying around in a way other text editors don't let you. This post on "a text renaissance" by Venkatesh in February is useful for a high-level why-bother carrot » https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/
     - YouTubers have jumped on Roam. Here's a sampler of vids that you might find helpful, in increasing levels of complexity.
         - [Maya Kristof](<Maya Kristof.md>) who's about 11
             - [Roam Research: Formatting](https://www.youtube.com/watch?v=DRwXwSfPzbw)
@@ -48,8 +47,8 @@
 
 # Backlinks
 ## [Index](<Index.md>)
-- Check out the [Start Here](<Start Here.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>)
+- Check out the [Welcome](<Welcome.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then get started here on this [Index](<Index.md>)
 
-## [Start Here](<Start Here.md>)
-- [ ] Find the [Index](<Index.md>)
+## [Welcome](<Welcome.md>)
+- Now check out the [Rules and Code of Conduct](<Rules and Code of Conduct.md>) page, then go to the [Index](<Index.md>)
 

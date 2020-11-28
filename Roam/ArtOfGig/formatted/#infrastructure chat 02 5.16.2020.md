@@ -1,8 +1,8 @@
-- [Infrastructure](<Infrastructure.md>)
+- [infrastructure](<infrastructure.md>)
 - Provocation from for this chat [Venkatesh Rao](<Venkatesh Rao.md>)
     - **Thought experiment: unlimited resources what infrastructure would we have?** 
     - **Chaos from illegibility vs chaos from underpowered tools**
-    - For those planning on joining the [Infrastructure](<Infrastructure.md>) call today: so far our infrastructure has been camping-trip grade. Minimalist general purpose platforms that cover 80% of needs in a poor-to-mediocre way and 20% of the needs not at all. I think it’s time to at least start calibrating the maximalist extreme as a thought experiment.  If cost and labor/time were not an object what would the ideal infrastructure look like? Eg: skills database, reverse-auction-based staffing tool, blockchain-based internal economy, smart contracting infrastructure for revenue share, full email list infrastructure, marketing analytics stack, sales stack, shared subscriptions to intel services and library dbs, project billing/time tracking tools, coworking spaces in major hubs,.... I could go on. Point is not to commit to building it all out, or uncritically reproduce how traditional orgs do it, but to get a sense of the requisite functional capacity and automation needs by imagining some version of it. And asking how we can realize each aspect of it in a network-like way. More TCP/IP than SAP. We need to invent NRP: network resource planning, for our own needs.(edited)
+    - For those planning on joining the [infrastructure](<infrastructure.md>) call today: so far our infrastructure has been camping-trip grade. Minimalist general purpose platforms that cover 80% of needs in a poor-to-mediocre way and 20% of the needs not at all. I think it’s time to at least start calibrating the maximalist extreme as a thought experiment.  If cost and labor/time were not an object what would the ideal infrastructure look like? Eg: skills database, reverse-auction-based staffing tool, blockchain-based internal economy, smart contracting infrastructure for revenue share, full email list infrastructure, marketing analytics stack, sales stack, shared subscriptions to intel services and library dbs, project billing/time tracking tools, coworking spaces in major hubs,.... I could go on. Point is not to commit to building it all out, or uncritically reproduce how traditional orgs do it, but to get a sense of the requisite functional capacity and automation needs by imagining some version of it. And asking how we can realize each aspect of it in a network-like way. More TCP/IP than SAP. We need to invent NRP: network resource planning, for our own needs.(edited)
     - So that’s an RFB: Request For Brainstorm
     - Principle: Apparent chaos caused by the illegibility of complex systems is good. Real chaos caused by the insufficiency of underpowered tools is bad. We on the infrastructure team need to protect the former from authoritarian high-modernist tooling impulses but address the latter with creative reimagination of corresponding industrial-corporate tooling.
     - Principle: Test-Driven Infrastructure Evolution. Gradatim ferociter
@@ -137,6 +137,9 @@
 - 
 
 # Backlinks
+## [infrastructure](<infrastructure.md>)
+- [[infrastructure](<infrastructure.md>) chat 02 5.16.2020](<[infrastructure](<infrastructure.md>) chat 02 5.16.2020.md>)
+
 ## [infrastructure chats](<infrastructure chats.md>)
 - [[infrastructure](<infrastructure.md>) chat 02 5.16.2020](<[infrastructure](<infrastructure.md>) chat 02 5.16.2020.md>)
 

@@ -30,12 +30,6 @@
 ## [Directory](<Directory.md>)
 - [John Grant](<John Grant.md>)
 
-## [September 29th, 2020](<September 29th, 2020.md>)
-- [John Grant](<John Grant.md>)
-
-## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
-- [John Grant](<John Grant.md>)
-
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [John Grant](<John Grant.md>)
 

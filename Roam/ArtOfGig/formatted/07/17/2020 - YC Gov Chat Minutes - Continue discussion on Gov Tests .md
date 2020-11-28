@@ -81,3 +81,8 @@
 - 
 - Q. What do we need to add to establish appropriate expectations for people coming in cold?
 - Recommendation: Some kind of FAQ ("so I want to do X; where do I start?"); we're building it out in [Onboarding for New Yaks](<../../Onboarding for New Yaks.md>), merging in information from [Yak Collective FAQ](<../../Yak Collective FAQ.md>)
+
+# Backlinks
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- [07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests ](<../../07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests .md>)
+

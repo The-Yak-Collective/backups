@@ -1,0 +1,36 @@
+- __Directory Listing for Things Discussed in Yak #infrastructure Discord channel__
+- ## Lists/Docs
+    - [[Project Launch Checklist]]
+    - [[Things We Need]]
+    - [[Internal Volunteer Opportunities]]
+    - [[Onboarding for New Yaks]]
+- ## Upcoming chat topics
+    - Scheduled
+    - Unscheduled
+        - Marketing w/ [[Alex Wagner]] and others
+    - ### Chat topics Icebox
+        - Experiment with diff chat tools 
+            - Hopin
+            - Ice-breaker.video 
+        - Amorphous organizations article from [[Vaughn Tan]]
+        - 2jplEZUYM
+        - 
+- ## Infrastructure Chat Notes
+- [[#infrastructure chat 01 5.9.20]] On-boarding new members
+- [[#infrastructure chat 02 5.16.2020]] Speculative discussion on ideal-state for YC infrastructure
+- [[infrastructure chat 03 5.23.2020]] Updates on new-member onboarding, feedback mechanisms, event ideas
+- [[infrastructure chat 04 5.30.2020]] Project Capacity + experiences with Yakcoin discussion
+- [[infratructure chat 05 6.6.2020]] didn't happen but agenda topicshere
+- infrastructure chat 06 6.13.2020: notes in — [[Website Cell]] + [[Newsletter]]
+    - Audio Recording: https://drive.google.com/file/d/1DVi_QFWCoyJjT1UPUXp52tQ876NS-vp2/view
+- [[infrastructure chat 07 6.20.20]] Consulting diagrams w/ [[Steven Moody]]
+- [[infrastructure chat 08 6.27.20]] marketing outreach w/ [[Alex Wagner]]+ levelling up discord w/ [[Jordan Peacock]]
+- [[infrastructure chat 09 7.04.2020]] Yakcoin dev updates and discussion w/ [[Johnicholas Hines]]
+- [[infrastructure chat 10 7.11.2020]] 
+- infrastructure chat 11 7.18.2020  - worked on spotight/case study 
+- [[infrastructure chat 12 7.25.2020]] 
+- infrastructure chat 13 8.1.2020 - state of the union deck
+    - https://docs.google.com/presentation/d/12pLjGxC6egO4QJvy06AjBTWm_4XhkfStyfdQ7p6DoOg/edit#slide=id.p
+- [[infrastructure chat 14 8.8.2020]]
+    - [[Yak Collective State of the Union]] roam version
+    - 

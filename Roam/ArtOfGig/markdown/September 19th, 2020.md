@@ -1,2 +1,0 @@
-- [[Nathan Acks]] updated the [[IT Infrastructure]] diagram
-- [[Nathan Acks]] tweaked the capitalization on the [[Yak Collective Robot]] page

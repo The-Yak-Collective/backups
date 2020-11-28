@@ -16,27 +16,25 @@
 ## [07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process](<07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)
 
-## [Astonishing Stories
-...of what’s next](<Astonishing Stories
-...of what’s next.md>)
-- [Johnicholas Hines](<Johnicholas Hines.md>)
-
-- [Johnicholas Hines](<Johnicholas Hines.md>)
-
 ## [Chat Formats](<Chat Formats.md>)
 - "Closing tabs with So-and-so": [Sachin Benny](<Sachin Benny.md>) and [Johnicholas Hines](<Johnicholas Hines.md>)
 
 ## [Directory](<Directory.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)
 
-## [Infrastructure](<Infrastructure.md>)
-Yakcoin dev updates and discussion w/ [Johnicholas Hines](<Johnicholas Hines.md>)
-
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)
 
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)
+
+## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
+- [Johnicholas Hines](<Johnicholas Hines.md>)
+
+- [Johnicholas Hines](<Johnicholas Hines.md>)
+
+## [infrastructure](<infrastructure.md>)
+- [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>) Yakcoin dev updates and discussion w/ [Johnicholas Hines](<Johnicholas Hines.md>)
 
 ## [infrastructure chat 09 7.04.2020](<infrastructure chat 09 7.04.2020.md>)
 - [Johnicholas Hines](<Johnicholas Hines.md>)

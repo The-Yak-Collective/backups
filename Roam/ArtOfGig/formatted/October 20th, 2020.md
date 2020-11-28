@@ -1,3 +1,0 @@
-- [Jenna Dixon](<Jenna Dixon.md>) gardened [Astonishing-Stories Graph](<Astonishing-Stories Graph.md>) new story launch checklist
-    - https://roamresearch.com/#/app/Astonishing_Stories/page/_zwiuQCHi
-    - 

@@ -1,2 +1,0 @@
-- [Nathan Acks](<Nathan Acks.md>) updated the [IT Infrastructure](<IT Infrastructure.md>) diagram
-- [Nathan Acks](<Nathan Acks.md>) tweaked the capitalization on the [Yak Collective Robot](<Yak Collective Robot.md>) page

@@ -73,15 +73,13 @@
     - [Jakub Polec](<Jakub Polec.md>) >> New mental-models to be adapted based on differentiated assumptions and business changes; 
 
 # Backlinks
-## [Astonishing Stories
-...of what’s next](<Astonishing Stories
-...of what’s next.md>)
-- Mapping possible future scenarios to create worlds for speculative fiction. Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
-
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
-...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>). Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
+- [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>) - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>). Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
 
 - [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
 
 - [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
+
+## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
+- Mapping possible future scenarios to create worlds for speculative fiction. Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
 

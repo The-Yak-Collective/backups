@@ -4,9 +4,9 @@
 - **[Newsletter](<Newsletter.md>):**
 
 ## [Breaking Smart](<Breaking Smart.md>)
-- **[Yak Collective Website](<Yak Collective Website.md>):** https://breakingsmart.com/
+- **[Website Cell](<Website Cell.md>):** https://breakingsmart.com/
 - **[Newsletter](<Newsletter.md>):**
 
-## [Infrastructure](<Infrastructure.md>)
-notes in — [Yak Collective Website](<Yak Collective Website.md>) + [Newsletter](<Newsletter.md>)
+## [infrastructure](<infrastructure.md>)
+- infrastructure chat 06 6.13.2020: notes in — [Website Cell](<Website Cell.md>) + [Newsletter](<Newsletter.md>)
 

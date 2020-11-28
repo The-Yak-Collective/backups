@@ -1,4 +1,4 @@
-- Yak Collective Website::
+- Website Cell::
     - https://www.reinventingorganizations.com
 - Wiki::
     - https://reinventingorganizationswiki.com/Main_Page

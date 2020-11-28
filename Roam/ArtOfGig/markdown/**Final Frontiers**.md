@@ -1,2 +1,2 @@
-- [[Future Frontiers]]
+- [[Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans]]
 - 

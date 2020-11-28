@@ -1,2 +1,0 @@
-- [[Nathan Acks]] clarified the role of [[Zapier]] in the Yak Collective [[IT Infrastructure]]
-- [[Nathan Acks]] added owners to infrastructure systems listed in the [[Threat Model]]

@@ -10,7 +10,7 @@
         - [[Venkatesh Rao]]: Discord admin, general infrastructure dogsbody
     - **Contributors** -- "buy in" with contributions to collaborations, for eg to [[Don’t Waste the Reboot]] and accumulate points/yakcoin in proportion to contributions
     - **Volunteers** — “buy in” by doing small support things that need doing. And we have a lot of [[Things We Need]]
-    - **Members** -- people who just hang out shitposting on the [[Yak Discord server]], help signal boost things we do, swap gigs/leads/info etc.
+    - **Members** -- people who just hang out shitposting on the [[Discord server]], help signal boost things we do, swap gigs/leads/info etc.
 - **Website copy**
     - [[About Page]]
     - [[Intro text for [[Don’t Waste the Reboot]] report page]]

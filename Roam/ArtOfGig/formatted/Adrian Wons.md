@@ -3,8 +3,3 @@
     - Heading the Institute for Entrepreneurship & Innovation at the University of Digital Science in Berlin (UDS) www.uds.berlin
     - Leading the Wagestolz Innovators Community - one of the biggest in the field in Germany
     - Consulting in the field of innovation strategy, innovation management & blockchain
-
-# Backlinks
-## [Directory](<Directory.md>)
-- {{embed: [Adrian Wons](<Adrian Wons.md>)}
-

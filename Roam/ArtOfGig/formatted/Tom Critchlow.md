@@ -41,27 +41,11 @@
 
 -  [Tom Critchlow](<Tom Critchlow.md>)
 
-## [Contributing to the Website](<Contributing to the Website.md>)
-- `master` (point: [Tom Critchlow](<Tom Critchlow.md>))
-
-- Original website by [Tom Critchlow](<Tom Critchlow.md>),
-
 ## [Directory](<Directory.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)
 
-## [Discord](<Discord.md>)
+## [Discord server](<Discord server.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)
-
-## [GitHub](<GitHub.md>)
-- [Tom Critchlow](<Tom Critchlow.md>)
-
-## [IT Infrastructure](<IT Infrastructure.md>)
-- **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
-
-- [Tom Critchlow](<Tom Critchlow.md>):
-
-## [Infrastructure](<Infrastructure.md>)
-- [Sachin Benny](<Sachin Benny.md>) points out that we still don't have Google Analytics access. [Nathan Acks](<Nathan Acks.md>) will follow up with [Tom Critchlow](<Tom Critchlow.md>).
 
 ## [Sparring Consulting](<Sparring Consulting.md>)
 - Thoughts / Questions from [Tom Critchlow](<Tom Critchlow.md>)
@@ -72,13 +56,14 @@
 ## [Things We Need](<Things We Need.md>)
 - ~~Website~~  [Tom Critchlow](<Tom Critchlow.md>)
 
-## [Threat Model](<Threat Model.md>)
-- **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
+## [Website Cell](<Website Cell.md>)
+- Once you've made your change, ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>),
 
-## [Website Version History](<Website Version History.md>)
-- Various formatting tweaks suggested by [Tom Critchlow](<Tom Critchlow.md>).
+- As a last resort, or in the unlikely event of an emergency update, you can ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>),
 
-- [Tom Critchlow](<Tom Critchlow.md>)
+- [Tom Critchlow](<Tom Critchlow.md>):
+
+- Built by [Tom Critchlow](<Tom Critchlow.md>).
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 I think the key things writing (i.e. blogging) gives you is: a) an awareness that you're "for hire" and b) what projects you would be a good fit for. You're basically looking to maximise the number of people who could make a good intro for you when an opportunity arises. [Tom Critchlow](<Tom Critchlow.md>)
@@ -87,18 +72,6 @@ I think the key things writing (i.e. blogging) gives you is: a) an awareness tha
 
 ## [Yak Collective](<Yak Collective.md>)
 - [Tom Critchlow](<Tom Critchlow.md>):
-
-## [Yak Collective Robot](<Yak Collective Robot.md>)
-- **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
-
-- [Tom Critchlow](<Tom Critchlow.md>)
-
-- Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
-
-- [Tom Critchlow](<Tom Critchlow.md>)
-
-## [Yak Discord server](<Yak Discord server.md>)
-- [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>) [Vlad Mehakovic](<Vlad Mehakovic.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Alex Dobrenko](<Alex Dobrenko.md>) [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>). [Jordan Peacock](<Jordan Peacock.md>) [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) [Martha Balaile](<Martha Balaile.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Nita Baum](<Nita Baum.md>) [Vinay Débrou](<Vinay Débrou.md>) [Tom Critchlow](<Tom Critchlow.md>)

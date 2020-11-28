@@ -7,7 +7,7 @@ today's chat takeaways for me:
 
 we discussed how to provide more affordances for new members to sense make.
 1. creating new member orientation materials with the ethos of giving helpful hints and general rules of engagement (empty stub here: https://roamresearch.com/#/app/ArtOfGig/page/vA90wJbvO 
-will continue convo in #Infrastructure) 
+will continue convo in #infrastructure) 
 2. providing a wkly voice chat space that could be an orientation hall and a way to build friendly connections
 - **First topic:** [[Onboarding for New Yaks]]
     - Praful

@@ -1,4 +1,4 @@
-- **[Yak Collective Website](<Yak Collective Website.md>):** https://breakingsmart.com/
+- **[Website Cell](<Website Cell.md>):** https://breakingsmart.com/
 - **[Newsletter](<Newsletter.md>):** https://breakingsmart.substack.com/
 
 # Backlinks

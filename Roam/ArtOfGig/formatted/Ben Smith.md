@@ -3,13 +3,6 @@
 ## [06/18/2020 – YC Governance Chat Minutes – The Tyranny of Structurelessness pt. 1](<06/18/2020 – YC Governance Chat Minutes – The Tyranny of Structurelessness pt. 1.md>)
 - [Ben Smith](<Ben Smith.md>)
 
-## [Astonishing Stories
-...of what’s next](<Astonishing Stories
-...of what’s next.md>)
-- [Ben Smith](<Ben Smith.md>)
-
-- [Ben Smith](<Ben Smith.md>)
-
 ## [Directory](<Directory.md>)
 - [Ben Smith](<Ben Smith.md>)
 
@@ -27,4 +20,9 @@
 - [Ben Smith](<Ben Smith.md>):
 
 - [Ben Smith](<Ben Smith.md>):
+
+## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
+- [Ben Smith](<Ben Smith.md>)
+
+- [Ben Smith](<Ben Smith.md>)
 

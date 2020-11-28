@@ -1,3 +1,0 @@
-- 
-- Relevant links: [Post-Apocalyptic Health-Care](https://meaningness.com/metablog/post-apocalyptic-health-care) from David Chapman
-- 

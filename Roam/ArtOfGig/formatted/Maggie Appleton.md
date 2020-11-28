@@ -12,14 +12,12 @@
             - [Building a Second Brain](https://maggieappleton.com/basb)
 
 # Backlinks
-## [Astonishing Stories
-...of what’s next](<Astonishing Stories
-...of what’s next.md>)
+## [Directory](<Directory.md>)
 - [Maggie Appleton](<Maggie Appleton.md>)
 
-## [Directory](<Directory.md>)
-- {{embed: [Maggie Appleton](<Maggie Appleton.md>)}
-
 ## [Illustration](<Illustration.md>)
+- [Maggie Appleton](<Maggie Appleton.md>)
+
+## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
 - [Maggie Appleton](<Maggie Appleton.md>)
 

@@ -1,17 +1,14 @@
 - **Completed collaborations**
     - [[Don’t Waste the Reboot]] led by [[Paul Millerd]] and [[Venkatesh Rao]]
     - [[The New Old Home]] - led by  [[Pamela Hobart]] and [[Drew Schorno]]
-- September-October 2020 proposal pages::
-    - [[Concept Contrast Project (temp name)]] - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others led by [[Rafael Fernandez]] & [[Maier Fenster]]
 - **July-August 2020 Proposal Pages**
     - Starting with this cycle, we are introducing a formal [[Project Referee Role]]
-    - [[Astonishing Stories
-...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [[Sachin Benny]] & [[Amanda Reeves]]. Combines updated thinking on previous proposals [[Speculative Fiction for the reboot ]] and [[Post-COVID scenario set]]
+    - [[YakWorld: Astonishing Stories of What's Next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [[Sachin Benny]] & [[Amanda Reeves]]. Combines updated thinking on previous proposals [[Speculative Fiction for the reboot ]] and [[Post-COVID scenario set]]
         - [[Speculative Fiction for the reboot ]] [[Sachin Benny]]
             - 2-3 people per speculative fiction piece
             - in collaboration with
         - [[Post-COVID scenario set]] - a collaboratively built scenario generator exploring pathways from COVID over the next 5 years, led by [[Amanda Reeves]] & [[Reanna Browne]]
-    - [[Future Frontiers]] [[Siva Swaroop]] & [[Venkatesh Rao]] 
+    - [[Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans]] [[Siva Swaroop]] & [[Venkatesh Rao]] 
     - [[Evidence Based Design]] Collecting, Publishing, and Packaging Redesigns grounded in Crowd Collected Evidence [[Paul Sas]]
     - [[Old Forms of Justice in a New World ]] - [[Mitchell Anhoury]] - Justice, New Sheriffs in Town, and the Tech That Makes it Happen
         - [[Policing the Future]] [[Darren Kong]] - towards alternative futures of law enforcement and policing

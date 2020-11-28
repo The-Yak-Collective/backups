@@ -9,6 +9,3 @@
 ## [07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests ](<07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests .md>)
 - [Claire Peters](<Claire Peters.md>)
 
-## [Yak Network Map](<Yak Network Map.md>)
-- [Claire Peters](<Claire Peters.md>)
-

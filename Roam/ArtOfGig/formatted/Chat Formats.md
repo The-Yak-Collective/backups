@@ -9,8 +9,8 @@
 - "Closing tabs with So-and-so": [Sachin Benny](<Sachin Benny.md>) and [Johnicholas Hines](<Johnicholas Hines.md>) will try this format on May 29 2020
 
 # Backlinks
-## [Discord Chat Calendar](<Discord Chat Calendar.md>)
-- If you'd like to volunteer to host a weekly **VOICE chat session** on the [Yak Discord server](<Yak Discord server.md>), please add your name, time, and time zone below. Hosts, check out this page of [Chat Formats](<Chat Formats.md>)
+## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+- If you'd like to volunteer to host a weekly **VOICE chat session** on the [Discord server](<Discord server.md>), please add your name, time, and time zone below. Hosts, check out this page of [Chat Formats](<Chat Formats.md>)
 
 - Pick or improv [Chat Formats](<Chat Formats.md>)
 

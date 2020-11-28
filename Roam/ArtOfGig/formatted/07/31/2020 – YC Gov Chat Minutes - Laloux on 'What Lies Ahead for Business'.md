@@ -1,7 +1,7 @@
 - **Reading:** https://www.rolandberger.com/en/Point-of-View/Frederic-Laloux-on-what-lies-ahead-for-business.html
 - 
 - [Grigori Milov](<../../Grigori Milov.md>) leads the discussion.
-- [Alex Wagner](<../../Alex Wagner.md>) recording voice chat via voice memo and transcribing via [Descript app](https://www.descript.com). [Praful Mathur](<../../Praful Mathur.md>) will taking over notes for future [Yak Collective Governance](<../../Yak Collective Governance.md>) chats.
+- [Alex Wagner](<../../Alex Wagner.md>) recording voice chat via voice memo and transcribing via [Descript app](https://www.descript.com). [Praful Mathur](<../../Praful Mathur.md>) will taking over notes for future [online-governance-studies](<../../online-governance-studies.md>) chats.
 - 
 - # Discussion:
 - 

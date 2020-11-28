@@ -1,4 +1,0 @@
-- **[Project](<Project.md>):** [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- Etc.
-- Etc.
-- Etc.

@@ -1,9 +1,0 @@
-- 08:39 [[Jenna Dixon]] joining [[Hugo Macedo]] on new gardening pages per Discord ping
-    - https://discordapp.com/channels/692111190851059762/704369362315772044/762253182222991381
-    - [[Roam Gardening]] https://roamresearch.com/#/app/ArtOfGig/page/dfP3vW5iD
-    - [[YC Roam Style Guide (TBD)]] https://roamresearch.com/#/app/ArtOfGig/page/ae_VMn1vq
-- [[Nathan Acks]] added [Discussions & Decisions](https://roamresearch.com/#/app/ArtOfGig/page/GfLUKnfjQ) sections to the [[IT Infrastructure]]
-- [[Nathan Acks]] add [notes for today's Infrastructure Chat](((eQzuMy5k9)))
-- 
-- 
-- 

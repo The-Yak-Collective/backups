@@ -41,9 +41,6 @@ My code samples: https://github.com/localjo/code-samples
     - **Posted 4/9/2020** [Ollie Glass](<Ollie Glass.md>): Side hustle / occasional hourly work for an account manager to help me manage the relationship with a challenging client. AWARDED 4/11/20
 
 # Backlinks
-## [Client Project](<Client Project.md>)
-- Not all client projects undertaken by members are official "YC client projects". We expect that most collaboration on gigs will in fact not be "official" but simply happen as part of natural networking and resources like the [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
-
 ## [Index](<Index.md>)
 - Check out the [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 
@@ -52,4 +49,7 @@ My code samples: https://github.com/localjo/code-samples
 
 ## [Weekly Prompts](<Weekly Prompts.md>)
 - **March 26, 2020**: If you have __any__ financial surplus available, offer a gig to the [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
+
+## [YC Client Project](<YC Client Project.md>)
+- Not all client projects undertaken by members are official "YC client projects". We expect that most collaboration on gigs will in fact not be "official" but simply happen as part of natural networking and resources like the [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 

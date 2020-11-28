@@ -1,9 +1,8 @@
-- __As of 2020-06-13, this needs to be updated. Will set a reminder to follow up here. - __[Alex Wagner](<Alex Wagner.md>) [needsupdate](<needsupdate.md>)
+- __As of 2020-06-13, this needs to be updated. Will set a reminder to follow up here. - __[Alex Wagner](<Alex Wagner.md>)
 - The [Yak Collective Collaborations](<Yak Collective Collaborations.md>) need these things to work at a scale and sophistication comparable to mid-sized boutique firms
 - New member orientation stuff __working on here:__ [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
     - ~~Help document for roam and discord~~ - [Alex Wagner](<Alex Wagner.md>) volunteers
     - Starter list of things to do
-        - volunteer for light [Production Cell](<Production Cell.md>) efforts eg design-copyedit-proofread (added [September 6th, 2020](<September 6th, 2020.md>) jd)
     - Tips sheet for being effective in an open network community
 - Marketing presence
     - ~~Twitter~~   [Pamela Hobart](<Pamela Hobart.md>) +3-4 people 
@@ -12,7 +11,7 @@
     - ~~Website~~  [Tom Critchlow](<Tom Critchlow.md>)  
         - ~~v2.0~~ [Nathan Acks](<Nathan Acks.md>)
         - **The Future**
-            - Check out the [Yak Collective Website](<Yak Collective Website.md>) documentation
+            - Check out the [Website Cell](<Website Cell.md>) documentation
             - [Issue list on GitHub](https://github.com/The-Yak-Collective/yakcollective/issues)
             - [Issues where we could particularly use help](https://github.com/The-Yak-Collective/yakcollective/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) (though help is welcome everywhere!)
     - ~~Facebook page~~ 
@@ -36,7 +35,7 @@
     - A way to price and accomplish internal admin/cost tasks
 - Shared Basic Conversion model
     - A way to drive individuals-first gigflow
-    - Some shared revenue-generating options to drive shared costs, such as a teachable account with courses that make enough to pay for basic infrastructure
+    - Some shared revenue generating options to drive shared costs, such as a teachable account with courses that make enough to pay for basic infrastructure
 - Commons knowledge development
     - A process to allow people to develop YC branded knowledge assets
     - A shared licensing model, probably CC-BY-SA or similar
@@ -73,17 +72,12 @@
 ## [Inaugural Meeting](<Inaugural Meeting.md>)
 - [Things We Need](<Things We Need.md>)
 
-## [Infrastructure](<Infrastructure.md>)
-- [Things We Need](<Things We Need.md>)
-
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
-- [Things We Need](<Things We Need.md>)
-
 - Look through [Things We Need](<Things We Need.md>)
 
 ## [Yak Collective](<Yak Collective.md>)
 - **Volunteers** — “buy in” by doing small support things that need doing. And we have a lot of [Things We Need](<Things We Need.md>)
 
-## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+## [infrastructure](<infrastructure.md>)
 - [Things We Need](<Things We Need.md>)
 

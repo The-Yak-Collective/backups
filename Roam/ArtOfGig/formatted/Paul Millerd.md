@@ -7,7 +7,7 @@
 ## [Directory](<Directory.md>)
 - [Paul Millerd](<Paul Millerd.md>)
 
-## [Discord](<Discord.md>)
+## [Discord server](<Discord server.md>)
 - [Paul Millerd](<Paul Millerd.md>)
 
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
@@ -17,13 +17,10 @@
 
 - Go no-code - leverage no-code tools to test new opps (suggested by [Paul Millerd](<Paul Millerd.md>)
 
-## [IT Infrastructure](<IT Infrastructure.md>)
-- **[owner](<owner.md>):** [Paul Millerd](<Paul Millerd.md>)
+## [IT Assets and Security](<IT Assets and Security.md>)
+- [Paul Millerd](<Paul Millerd.md>)
 
-- [Paul Millerd](<Paul Millerd.md>):
-
-## [Project Pitches](<Project Pitches.md>)
-- **Project Lead**: [Paul Millerd](<Paul Millerd.md>)
+- "[Paul Millerd](<Paul Millerd.md>)
 
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Posted 3/26/20**: Two potential gigs from [Paul Millerd](<Paul Millerd.md>)
@@ -33,8 +30,8 @@
 ## [Things We Need](<Things We Need.md>)
 - ~~LinkedIn~~   [Paul Millerd](<Paul Millerd.md>)
 
-## [Threat Model](<Threat Model.md>)
-- **["owner](<"owner.md>):** [Paul Millerd](<Paul Millerd.md>)"
+## [Website Cell](<Website Cell.md>)
+- [Paul Millerd](<Paul Millerd.md>):
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 - building on what tom and vgr said, if your company doesn't already have an internal consulting group, it may be more frustrating and you'd learn less than just going solo and having the pressure to level-up on your own. It may be a decent option IF: - you can work directly for a c-level + you and him would have the credibility and cover to shift into a role (which could work especially if they are ex-consultant) - there is an existing group that has a good project management capability (most internal groups suck and do random reactive stuff in my experience) Alternatively, one option you might want to consider is to find a pro-bono, low fee or even regular fee if you can do it client on the side to put the pressure on yourself. You'll get to test out whether you can quickly level up your consulting skillset + also see if you like the responsibility of being in such a role [Paul Millerd](<Paul Millerd.md>)
@@ -53,16 +50,8 @@
 
 - Interested in partnering with someone on this -[Paul Millerd](<Paul Millerd.md>)
 
-## [Yak Collective Robot](<Yak Collective Robot.md>)
-- [Paul Millerd](<Paul Millerd.md>)
-
-- [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) ([Paul Millerd](<Paul Millerd.md>))
-
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Paul Millerd](<Paul Millerd.md>)
-
-## [Yak Discord server](<Yak Discord server.md>)
-- [Paul Millerd](<Paul Millerd.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - [Paul Millerd](<Paul Millerd.md>)

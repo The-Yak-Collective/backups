@@ -7,11 +7,11 @@
 
 # Backlinks
 ## [Index](<Index.md>)
-- Check out the [Start Here](<Start Here.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>)
+- Check out the [Welcome](<Welcome.md>) page, then the [Rules and Code of Conduct](<Rules and Code of Conduct.md>)
 
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 - YC operates by a simple [Rules and Code of Conduct](<Rules and Code of Conduct.md>)
 
-## [Start Here](<Start Here.md>)
-- The community is codifying [Rules and Code of Conduct](<Rules and Code of Conduct.md>),
+## [Welcome](<Welcome.md>)
+- Now check out the [Rules and Code of Conduct](<Rules and Code of Conduct.md>)
 

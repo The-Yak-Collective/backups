@@ -20,7 +20,7 @@
 ## [Chat Formats](<Chat Formats.md>)
 - 17 April: [Amazonian Group Read](<Amazonian Group Read.md>):
 
-## [Discord Chat Calendar](<Discord Chat Calendar.md>)
+## [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - Pick or improv [Chat Formats](<Chat Formats.md>) that have or generate a natural thematic focus so it's not chats for the sake of chats. The [Amazonian Group Read](<Amazonian Group Read.md>)
 
 Our main format will be an [Amazonian Group Read](<Amazonian Group Read.md>)

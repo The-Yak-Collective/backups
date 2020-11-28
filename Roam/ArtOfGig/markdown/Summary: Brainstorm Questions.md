@@ -94,7 +94,7 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
     - [[Vlad Mehakovic]]
 - References discussed  
     - [Anna Wexler - History and current ethics of neurotech](http://www.annawexler.com/research.html) 
-    - [[Jordan Peacock]] will host a recurring chat on [[Reza Negarestani's Intelligence & Spirit]] every Wednesday. See [[Discord Chat Calendar]]
+    - [[Jordan Peacock]] will host a recurring chat on [[Reza Negarestani's Intelligence & Spirit]] every Wednesday. See [[Discord Chat Schedule]]
     - [Neurons Gone Wild](https://meltingasphalt.com/neurons-gone-wild/)
     - For [[Scott Garlinger: Sex Ways]], [Kate Devlin's discussion of the Ethics of Artificial Sexuality](https://livestream.com/nyu-tv/ethicsofai/videos/138822041)
     - Lisa Feldman Barrett emotions theory

@@ -12,7 +12,7 @@
 - [Yak Collective About Page](https://www.yakcollective.org/about) – Worth reading for the thinking behind the creation of YC.
 - __Also, don't feel like you need to read everything to ask a question! By nature, Yaks do not bite, generally speaking.__
 - 
-- [[Discord Chat Calendar]] – A core means of communication at YC are the weekly voice chats, hosted on Discord. Click the link for the current list of weekly chats.
+- [[Discord Chat Schedule]] – A core means of communication at YC are the weekly voice chats, hosted on Discord. Click the link for the current list of weekly chats.
 - ## **Participate**
 - 
 - ## **Miscellaneous**

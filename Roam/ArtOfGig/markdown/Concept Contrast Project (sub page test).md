@@ -1,4 +1,0 @@
-- Project:: [[Concept Contrast Project (temp name)]]
-- Etc.
-- Etc.
-- Etc.

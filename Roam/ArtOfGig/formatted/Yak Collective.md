@@ -10,7 +10,7 @@
         - [Venkatesh Rao](<Venkatesh Rao.md>): Discord admin, general infrastructure dogsbody
     - **Contributors** -- "buy in" with contributions to collaborations, for eg to [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) and accumulate points/yakcoin in proportion to contributions
     - **Volunteers** — “buy in” by doing small support things that need doing. And we have a lot of [Things We Need](<Things We Need.md>)
-    - **Members** -- people who just hang out shitposting on the [Yak Discord server](<Yak Discord server.md>), help signal boost things we do, swap gigs/leads/info etc.
+    - **Members** -- people who just hang out shitposting on the [Discord server](<Discord server.md>), help signal boost things we do, swap gigs/leads/info etc.
 - **Website copy**
     - [About Page](<About Page.md>)
     - [Intro text for [[Don’t Waste the Reboot](<Intro text for [[Don’t Waste the Reboot.md>) report page]]
@@ -22,11 +22,4 @@
 
 ## [Mansion Statement](<Mansion Statement.md>)
 - The purpose of the [Yak Collective](<Yak Collective.md>)
-
-## [Start Here](<Start Here.md>)
-- Welcome to the [Yak Collective](<Yak Collective.md>)
-
-- The content and construction mirrors the basic methods of [Yak Collective](<Yak Collective.md>),
-
-- Participation in a project is the point, so joining  [Yak Collective](<Yak Collective.md>)
 

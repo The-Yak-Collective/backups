@@ -26,11 +26,13 @@
 ## [Directory](<Directory.md>)
 - [Drew Schorno](<Drew Schorno.md>)
 
-## [Discord](<Discord.md>)
+## [Discord server](<Discord server.md>)
 - [Drew Schorno](<Drew Schorno.md>)
 
-## [IT Infrastructure](<IT Infrastructure.md>)
-- **[owner](<owner.md>):** [Drew Schorno](<Drew Schorno.md>)
+## [IT Assets and Security](<IT Assets and Security.md>)
+- [Drew Schorno](<Drew Schorno.md>)
+
+- "[Drew Schorno](<Drew Schorno.md>)
 
 ## [Summary: 26th May Brainstorm](<Summary: 26th May Brainstorm.md>)
 "i think there is also the possibility of transferring information through other sense pathways. Cyborg nest is working on creating a synthetic sense of orientation through haptic feedback. I am at least aware of some attempts to stimulate nasal pathways electrically (no idea how succesful that really is going to be but they can make you smell random stuff currently).  I think the idea is you can pipe in a random structured signal through any pathway and the brain eventually figures out how to interpret it as sensory input. thats how cochlear implants work (not by emulating normal hearing), how you can give blind people sight through audio pathways, etc" [Drew Schorno](<Drew Schorno.md>)
@@ -48,8 +50,8 @@
 
 - [Drew Schorno](<Drew Schorno.md>):
 
-## [Threat Model](<Threat Model.md>)
-- **["owner](<"owner.md>):** [Drew Schorno](<Drew Schorno.md>)"
+## [Website Cell](<Website Cell.md>)
+- `portmantoad-beautify` ([Drew Schorno](<Drew Schorno.md>)
 
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
 - [Drew Schorno](<Drew Schorno.md>):
@@ -59,12 +61,6 @@
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [The New Old Home](<The New Old Home.md>) - led by  [Pamela Hobart](<Pamela Hobart.md>) and [Drew Schorno](<Drew Schorno.md>)
-
-## [Yak Collective Robot](<Yak Collective Robot.md>)
-- [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) ([Drew Schorno](<Drew Schorno.md>))
-
-## [Yak Discord server](<Yak Discord server.md>)
-- [Drew Schorno](<Drew Schorno.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - [Drew Schorno](<Drew Schorno.md>)

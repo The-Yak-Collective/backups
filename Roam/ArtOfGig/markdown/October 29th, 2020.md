@@ -1,2 +1,0 @@
-- [[Boutiques vs Marketplaces Wargames]] kickoff [[Grigori Milov]] et al. /jd
-- 

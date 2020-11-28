@@ -1,4 +1,4 @@
-- This is the main page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) [Client Project](<Client Project.md>) taken up on behalf of [Kernel](https://kernel.co). This project is done. The client may or may not release the output publicly, at their discretion (here are the [NF week 1 kickoff email](<NF week 1 kickoff email.md>)) and [NF week 2 kickoff email](<NF week 2 kickoff email.md>)
+- This is the main logistics page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) project taken up on behalf of [Kernel](https://kernel.co). **We're currently in Week 3: steelman sprint** (here are the [NF week 1 kickoff email](<NF week 1 kickoff email.md>)) and [NF week 2 kickoff email](<NF week 2 kickoff email.md>)
 - **Contribution Concept Scratch Pages** Organized by thematic cluster. 
     - **Family/Personal Cluster**
     - [Jay Kalawar: Family Ways](<Jay Kalawar: Family Ways.md>)
@@ -137,20 +137,11 @@ developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229
 ## [06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief](<06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief.md>)
 - One immediate consequence of this is creating a brainstorm week for the [Neurofuturama](<Neurofuturama.md>)
 
-## [Client Project](<Client Project.md>)
-- The only client project so far is [Neurofuturama](<Neurofuturama.md>)
-
 ## [Old Forms of Justice in a New World ](<Old Forms of Justice in a New World .md>)
 - (1 person) **Court of Public Opinion**: what does it look like if cancelling - public opinion - is the main form of social justice? This is how it was in Ancient Rome, where airing others' transgressions of social norms was normal and citizens understood their societal role as judge and jury. What does it mean if cancel culture extends past the Weinsteins (professional/cultural gatekeepers) to the Amy Coopers (mid-level business management) of the world? Does it go further? What ways will we measure community sentiment in the future that aren't considered today (Kernel ([Neurofuturama](<Neurofuturama.md>))
 
 ## [Pop-Up Think Tank](<Pop-Up Think Tank.md>)
 - (our first [Internal Project](<Internal Project.md>) and [Neurofuturama](<Neurofuturama.md>)
-
-## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>) suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [Astonishing Stories](<Astonishing Stories.md>) got some budget out of [Neurofuturama](<Neurofuturama.md>)
-
-## [Sample Project](<Sample Project.md>)
-- [Neurofuturama](<Neurofuturama.md>)
 
 ## [Siva Swaroop: Religious Ways](<Siva Swaroop: Religious Ways.md>)
 - This is the scratch page of [Siva Swaroop](<Siva Swaroop.md>) for [Neurofuturama](<Neurofuturama.md>)
@@ -159,8 +150,5 @@ developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229
 - If you are new to neurotech and Kernel, please go through the references on the main page [Neurofuturama](<Neurofuturama.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
-- [Neurofuturama](<Neurofuturama.md>)
-
-## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Neurofuturama](<Neurofuturama.md>)
 

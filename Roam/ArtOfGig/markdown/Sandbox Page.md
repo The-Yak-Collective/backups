@@ -15,5 +15,3 @@
 - [[James Crook]]
 - [[Moe 'enable human' Ali]]
     - {{[[embed]]: ((HjH3Els7P))}}  
-- this is a sentence to be comment {{comment-button}}
-- 

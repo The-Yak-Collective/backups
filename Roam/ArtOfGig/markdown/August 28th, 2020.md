@@ -1,3 +1,0 @@
-- [[Yak Collective Governance]] chat
-    - [[08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem]]
-- 

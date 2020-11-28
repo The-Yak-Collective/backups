@@ -14,6 +14,3 @@
 ## [25 pieces launch email talking points](<25 pieces launch email talking points.md>)
 - If you contributed to the [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) deck, use the points below as talking points to compose your own email to your contacts, or to include in any newsletters, blog posts etc. Review the [Yak Collective Messaging Principles](<Yak Collective Messaging Principles.md>)
 
-## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
-- [Yak Collective Messaging Principles](<Yak Collective Messaging Principles.md>)
-

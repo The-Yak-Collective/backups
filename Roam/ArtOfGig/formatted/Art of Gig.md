@@ -4,6 +4,9 @@
 ## [Directory](<Directory.md>)
 - "Free-agent consultant since 2011. [Writer](<Writer.md>) of [Art of Gig](<Art of Gig.md>)
 
+## [Discord server](<Discord server.md>)
+- There is an [Art of Gig](<Art of Gig.md>)
+
 ## [Index](<Index.md>)
 - A [Directory](<Directory.md>) for all [Art of Gig](<Art of Gig.md>)
 
@@ -19,6 +22,6 @@
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - Free-agent consultant since 2011. [Writer](<Writer.md>) of [Art of Gig](<Art of Gig.md>)
 
-## [Yak Discord server](<Yak Discord server.md>)
-- There is an [Art of Gig](<Art of Gig.md>)
+## [Welcome](<Welcome.md>)
+- Welcome to the [Art of Gig](<Art of Gig.md>)
 

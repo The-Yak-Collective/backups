@@ -19,7 +19,7 @@
         - Matt's product road map
             - [Yak Talk Exploratory Notes – 07112020](<Yak Talk Exploratory Notes – 07112020.md>)
 - [Grigori Milov](<Grigori Milov.md>)
-    - Good starting point for this week for [Yak Collective Governance](<Yak Collective Governance.md>) track https://twitter.com/vgr/status/1281632821056954369?s=20
+    - Good starting point for this week for [online-governance-studies](<online-governance-studies.md>) track https://twitter.com/vgr/status/1281632821056954369?s=20
     - "Writing is about 20% of the work."
         - The rest of the work is __product work__.
             - To put out a really good product on a regular basis. 

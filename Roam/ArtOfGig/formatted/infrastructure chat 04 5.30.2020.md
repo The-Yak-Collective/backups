@@ -1,4 +1,4 @@
-- [Infrastructure](<Infrastructure.md>)
+- [infrastructure](<infrastructure.md>)
 - yakcoin
     - there's not a lot of visibility 
         - uness you really look for it 
@@ -32,6 +32,9 @@
 - 
 
 # Backlinks
+## [infrastructure](<infrastructure.md>)
+- [infrastructure chat 04 5.30.2020](<infrastructure chat 04 5.30.2020.md>)
+
 ## [infrastructure chats](<infrastructure chats.md>)
 - [infrastructure chat 04 5.30.2020](<infrastructure chat 04 5.30.2020.md>)
 

@@ -1,0 +1,101 @@
+- # Outline
+    - Mapping possible future scenarios to create worlds for speculative fiction. Combines updated thinking on previous proposals [[Speculative Fiction for the reboot ]] and [[Post-COVID scenario set]]
+    - **Leads:** [[Sachin Benny]] & [[Amanda Reeves]]
+    - **Referees:** [[Damian Stewart]] & [[Reanna Browne]]
+    - Astonishing-Stories Graph::
+        - https://roamresearch.com/#/app/Astonishing_Stories/page/SZICpsUu1
+- # Process
+    - ## Phase 1: Develop scenarios (3 weeks)
+        - ### 1.1 Respond to prompts to create future fragments (1 week)
+            - Collaborators participating in this phase will be provided with 1-3 unique prompts to which they will individually respond to, describing a fragment of a possible future that could emerge from the present
+            - Each prompt contains three components: an arc, a domain, and a mood - sourced from [The Thing From The Future](http://situationlab.org/project/the-thing-from-the-future/)
+                - **Arc:** the story arc of this future, based on [Dator's Four Future Archetypes](http://www.foresightguide.com/dator-four-futures/). These are:
+                    - **Growth:** a future in which progress (as we know it) has continued; this future is much like today only more so
+                    - **Collapse:** a future in which society as we know it has come apart
+                    - **Discipline: ** a future in which order is deliberately coordinated or imposed
+                    - **Transformation:** a future in which a profound historical evolution has occurred
+                - **Domain:** the focal context of your fragment; it might be a location, industry, or topic
+                - **Mood:** the emotional tone for your fragment
+            - **Example prompts:**
+                - Collapse + family + wonder
+                - Discipline + learning + melancholy
+                - Discipline + wealth + disgust
+                - Grow + equality + excitement
+                - Transform + intellectual property + wellbeing
+            - Collaborators can indicate the top 3 domains that bump into their direction of maximal interestingness during sign up; the other elements of the prompt (arc & mood) will be provided.
+        - ### 1.2 Map future fragments from sooner to later (1 week)
+            - Collaborators come together to arrange their future fragments on a [Harman Fan](https://www.slideshare.net/wendyinfutures/future-of-universities-an-example-of-scenario-building-using-the-harman-fan), organising them in chronological order from sooner to later in relation to one another
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fw7saUNUORq.png?alt=media&token=18f042bd-a652-4d89-9838-ad4010557247)
+        - ### 1.3 Link up fragments to create scenarios (1 week)
+            - Using this map, many different pathways can be traced between fragments in different time horizons
+            - Collaborators can individually and/or collaboratively explore different pathways to find those that provide the most interesting material for turning into speculative fiction. There may be tensions in the transitions between different snippets that require some creative fleshing out - these can make for juicy material for exploring a world
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F64-OAjyL_k.png?alt=media&token=c116f922-457e-45b8-9b04-e52f6eeea293)
+    - ## Phase 2: Create speculative fictions (3 weeks)
+        - Pick a scenario and develop a piece of speculative fiction around
+        - Pick a narrative framework for your speculative fiction
+            - [Dan Harmon's story circle ](https://blog.reedsy.com/dan-harmon-story-circle/)
+            - [Story Spine](http://improvencyclopedia.org/games/Story_Spine.html)
+            - [Consultant Diagrams ](https://artofgig.substack.com/p/basic-consultant-diagrams)
+            - [Browse through Understanding comics ](http://mm12.johncaserta.info/wp-content/uploads/2012/10/Understanding%20Comics%20(The%20Invisible%20Art)%20By%20Scott%20McCloud.pdf)
+            - **Your Speculative fiction could arrive in many forms:**
+                - Short story / essay eg: [Sort by Controversial](https://web.archive.org/web/20200121045328/https://slatestarcodex.com/2018/10/30/sort-by-controversial/)
+                - Comics/cartoons
+                - Code/interactive such as Simler, Up and down the ladder of abstraction
+                - Podcast / spoken word recording
+        - ### 2.1 Strawman sprint (1 week)
+            - Develop idea and first draft of the piece
+            - Around the end of the first week, set up some time with your editors - this will be project leads, referees and any other experts to test and refine your thinking. We'll try to follow the [Pixar Braintrust ](https://www.fastcompany.com/3027135/inside-the-pixar-braintrust)model for this
+        - ### Steelman sprint (2 weeks)
+            - Strengthening your fiction into a final draft, editing in consultation with editors & referees
+    - ## Phase 3: Collate & share (2 weeks)
+- # Ways to contribute
+    - There are a number of different roles you can play in this project. If you'd like to contribute to one or many of these roles, please add your name accordingly.
+    - ## Future fragments creator
+        - Create your own individual future fragment in response to the provided prompts, then collaborate with other contributors to map your fragments within time horizons respective to each other
+        - ### Want to create future fragments? Add your name here
+            - [[Johnicholas Hines]]
+            - [[Zhan Li]]
+            - [[Paul Sas]]
+            - [[Sumit Paul-Choudhury]] 
+            - [[Hershil Patel]]
+    - ## Scenario mapper
+        - Trace pathways between future fragments to create scenarios, curating a collection of interesting scenarios to provide inspiration for speculative fiction. Can be done autonomously or in collaboration with others
+        - ### Want to map out scenarios? Add your name here
+            - [[Johnicholas Hines]]
+            - [[Zhan Li]]
+            - [[Ben Smith]]
+            - [[Paul Sas]]
+            - [[Prashant Gandhi]]
+            - [[Sumit Paul-Choudhury]]
+            - [[Hershil Patel]]
+    - ## Speculative fiction creator
+        - Take the scenarios that you find inspiring and create interesting pieces of speculative fiction around it
+        - ### Want to create fiction? Add your name here
+            - [[Zhan Li]]
+            - [[Ben Smith]]
+            - [[Paul Sas]]
+            - [[Bardia Pourvakil]]
+            - [[Michael de la Maza]]
+            - [[Hershil Patel]]
+    - ## Fiction collection curator
+        - Work with the website designer/s to curate the different forms of fiction into a interactive website
+        - ### Want to curate the collection? Add your name here
+            - [[Alex Dobrenko]]
+            - [[Bardia Pourvakil]]
+            - [[Hershil Patel]]
+    - ## Visual communicator
+        - Work with Speculative fiction creators to produce visuals (art, graphic design etc)that help convey the story
+        - ### Want to create visuals? Add your name here
+            - [[Maggie Appleton]]
+    - ## Website designer
+        - Work with the curator/s to design the interactive website hosting the fiction
+        - ### Want to design the site? Add your name here
+            - [[Bardia Pourvakil]]
+- [[Astonishing Stories -  Meeting notes]]
+- ## Breakdown of the Speculative Fiction Sprint
+    - First week - Strawman week where you'll write short flash fiction (300-500 words) utilizing the Future Fragments and Scenarios on the Roam, using the MICE framework for short fiction (August 12-19)
+    - Second week - Steelman week where you should review the speculative fiction with Sachin or Amanda on a short 30 minute call. Artists begin work on illustrations for each work of speculative fiction (August 19 - September 2)
+    - Third week - Artwork sprint, speculative fiction is locked in with no more big changes. (September 2 - 9)
+    - Future Fragments - https://roamresearch.com/#/app/Astonishing_Stories/page/YLj-7R4GY
+    - Scenarios - https://roamresearch.com/#/app/Astonishing_Stories/page/zh6lSZyAk
+    - MICE framework - http://www.sfcenter.ku.edu/Workshop-stuff/MICE-Quotient.htm

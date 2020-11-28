@@ -1,7 +1,7 @@
 - This was our first [[Pop-Up Think Tank]] project
 - If you do a reflection post, please link it in this page: [[Reflections and Reviews ]]
 - This is the first of what we hope will be many [[Yak Collective Collaborations]]. This one is being coordinated by [[Paul Millerd]]. Target date for V 1.0 release: **April 30th**
-- To discuss, join the Collaborations channel on the [[Yak Discord server]]
+- To discuss, join the Collaborations channel on the [[Discord server]]
 - **Purpose**: We are looking to put together a pitch deck of at least 20 Indie Ideas - short & punchy 1-2 slides per idea.  The frame of the deck is as a stark difference to the bland "new new new normal" McKinsey and other mainstream views.  Showing that we have something to offer idea-wise and in practical hire-us ways.
 - Deck in progress: [Google slides link](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit?usp=sharing) 
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FQTd_cabp4A?alt=media&token=e6ba171b-86f0-43b9-bd5a-3910864561bb)
@@ -27,7 +27,7 @@
     - 3 slides on Big3 stuff
     - 1 slide with 2x2 showing meta-view of lots of reports/decks
     - Maybe 1 slide with a view of [[Covid19 Case Studies]] so far
-    - 1 slide on the Yak Collective, with a 1 line tagline level [[positioning]], and simply a list of all the people who contributed to the deck. Can simply cut and past the boxes from the individual contribution slides
+    - 1 slide on the Yak Collective, with a 1 line tagline level positioning, and simply a list of all the people who contributed to the deck. Can simply cut and past the boxes from the individual contribution slides
     - 1 slide with a COLLECTIVE call to action, as in "Email Paul to schedule a session with one or more Yak Collective members" (should design this offer... something any of us can deliver)
 - Links to other people/orgs decks or reports
     - [Hyde Park VC](https://blog.hydeparkvp.com/modeling-covid-19s-impact-and-making-hard-decisions-6003944142ef)

@@ -1,74 +1,49 @@
 - {{kanban}}
     - **Icebox/Backlog**
-        - [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>) cell
-[FnameL](<FnameL.md>) lead
-        - [Things We Need](<Things We Need.md>) cell
-[FnameL](<FnameL.md>) lead
-        - [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>) cell
-[FnameL](<FnameL.md>) lead
+        - [**Internal Volunteer Opportunities**](<**Internal Volunteer Opportunities**.md>) [FnameL](<FnameL.md>)
+        - [**Things We Need**](<**Things We Need**.md>) [FnameL](<FnameL.md>)
+        - [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>) [FnameL](<FnameL.md>)
     - **Emerging Cells**
-        - [Yakcoin](<Yakcoin.md>) cell
-[John N](<John N.md>) lead
-        - [Yak Network Map](<Yak Network Map.md>) cell
-[Vinay Débrou](<Vinay Débrou.md>) lead
-        - [New Yak+Welcoming Comm](<New Yak+Welcoming Comm.md>) cell
-[Alex Wagner](<Alex Wagner.md>) lead
-        - [New to Consulting](<New to Consulting.md>) cell
-[Shreeda Segan](<Shreeda Segan.md>) lead
-        - [Online-Offsites](<Online-Offsites.md>) cell
-[Alex Wagner](<Alex Wagner.md>) lead
-        - [Member Database](<Member Database.md>)  cell
-[Maier Fenster](<Maier Fenster.md>) lead? 
-        - [Momentum Problem](<Momentum Problem.md>) cell
-[Venkatesh Rao](<Venkatesh Rao.md>) lead
-        - [Production Cell](<Production Cell.md>) cell
-[Jenna Dixon](<Jenna Dixon.md>) lead
+        - [**Yak Coins**](<**Yak Coins**.md>)
+[John N](<John N.md>)?
+        - [Yak Network Map](<Yak Network Map.md>) 
+[Vinay Débrou](<Vinay Débrou.md>)
+        - [**New Yak+Welcoming Comm**](<**New Yak+Welcoming Comm**.md>) 
+[Alex Wagner](<Alex Wagner.md>)?
+        - [**New to Consulting**](<**New to Consulting**.md>)
+[FnameL](<FnameL.md>)
+        - [**Online-Offsites**](<**Online-Offsites**.md>) 
+[Alex Wagner](<Alex Wagner.md>)
+        - [**Member Database**](<**Member Database**.md>) 
+[Maier Fenster](<Maier Fenster.md>)?
+        - [**Momentum Problem**](<**Momentum Problem**.md>) 
+[Venkatesh Rao](<Venkatesh Rao.md>)
+        - [Production Cell](<Production Cell.md>) 
+[Jenna Dixon](<Jenna Dixon.md>)
     - **Active Cells**
-        - [Future Frontiers](<Future Frontiers.md>) cell
-[Siva Swaroop](<Siva Swaroop.md>) lead
-        - [Yaks do innovation consulting](<Yaks do innovation consulting.md>) cell
-[Vaughn Tan](<Vaughn Tan.md>) lead
-        - [[Astonishing Stories
-...of what’s next]] cell
-[Amanda Reeves](<Amanda Reeves.md>) lead
-        - [Infrastructure](<Infrastructure.md>) cell 
-[Darren Kong](<Darren Kong.md>) lead
-        - [Yak Collective Governance](<Yak Collective Governance.md>) cell
-[Venkatesh Rao](<Venkatesh Rao.md>) lead
-        - [Yak Discord server](<Yak Discord server.md>) cell
-[Jordan Peacock](<Jordan Peacock.md>)  lead
-        - [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>) cell
-[Alex Wagner](<Alex Wagner.md>) lead
-        - [Yak Collective Website](<Yak Collective Website.md>) cell
-[Nathan Acks](<Nathan Acks.md>) lead
-        - [CFP Process](<CFP Process.md>) cell
-[Venkatesh Rao](<Venkatesh Rao.md>) lead
+        - [**Final Frontiers**](<**Final Frontiers**.md>)
+[Siva Swaroop](<Siva Swaroop.md>)
+        - [**Yaks do innovation consulting**](<**Yaks do innovation consulting**.md>)
+[Vaughn Tan](<Vaughn Tan.md>)
+        - [**Astonishing Stories**](<**Astonishing Stories**.md>)
+[Amanda Sachin](<Amanda Sachin.md>)
+        - [**infrastructure**](<**infrastructure**.md>) [Darren Kong](<Darren Kong.md>)
+        - [**Yak Collective Governance**](<**Yak Collective Governance**.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
+        - [**Discord Server**](<**Discord Server**.md>) [Jordan Peacock](<Jordan Peacock.md>) 
+        - [**Yak Talk Newsletter**](<**Yak Talk Newsletter**.md>) [Alex Wagner](<Alex Wagner.md>)
+        - [**Website Cell**](<**Website Cell**.md>) [Nathan Acks](<Nathan Acks.md>)
+        - [**CFP Process**](<**CFP Process**.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
     - **Archived Cells**
-        - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) cell 
-[Paul Millerd](<Paul Millerd.md>) lead
-        - [The New Old Home](<The New Old Home.md>) cell
-[Pamela Hobart](<Pamela Hobart.md>) lead
-        - [Neurofuturama](<Neurofuturama.md>) cell
-[Jordan Peacock](<Jordan Peacock.md>) lead
+        - [**Don’t Waste the Reboot**](<**Don’t Waste the Reboot**.md>) 
+[Paul Millerd](<Paul Millerd.md>)
+        - [**New Old Home**](<**New Old Home**.md>) 
+[Pamela Hobart](<Pamela Hobart.md>)
+        - [**Neurofuturama**](<**Neurofuturama**.md>) 
+[Jordan Peacock](<Jordan Peacock.md>)
 
 # Backlinks
-## [Grigori Milov](<Grigori Milov.md>)
+## [infrastructure](<infrastructure.md>)
 - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-
-## [Infrastructure](<Infrastructure.md>)
-- audit the [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-
-- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-
-- Making updates to [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-
-- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-
-## [Venkatesh Rao](<Venkatesh Rao.md>)
-- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-
-## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
-- Check the [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - state of the union deck » [Yak Collective State of the Union](<Yak Collective State of the Union.md>)

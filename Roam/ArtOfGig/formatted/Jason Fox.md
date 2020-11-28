@@ -11,7 +11,7 @@
 
 - Opportunity to re-enchant how we gather—that’s where I see us in the Yak Collective play very well. #[Jason Fox](<Jason Fox.md>)
 
-- I suspect there may be perspectives we can contribute that will make any senior leader feel more inspired/confident to do it (whilst also [positioning](<positioning.md>) the Yak Collective as a potential facilitation partner/guide). #[Jason Fox](<Jason Fox.md>)
+- I suspect there may be perspectives we can contribute that will make any senior leader feel more inspired/confident to do it (whilst also positioning the Yak Collective as a potential facilitation partner/guide). #[Jason Fox](<Jason Fox.md>)
 
 - If we have in mind a senior leader who wants to gather their distributed team (virtually) for an offsite-equivelant, the lens for this collaboration would be to collect and collate pragmatic-yet-refreshing perspectives on how this can be done. #[Jason Fox](<Jason Fox.md>)
 

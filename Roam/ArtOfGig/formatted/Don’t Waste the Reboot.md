@@ -1,7 +1,7 @@
 - This was our first [Pop-Up Think Tank](<Pop-Up Think Tank.md>) project
 - If you do a reflection post, please link it in this page: [Reflections and Reviews ](<Reflections and Reviews .md>)
 - This is the first of what we hope will be many [Yak Collective Collaborations](<Yak Collective Collaborations.md>). This one is being coordinated by [Paul Millerd](<Paul Millerd.md>). Target date for V 1.0 release: **April 30th**
-- To discuss, join the Collaborations channel on the [Yak Discord server](<Yak Discord server.md>)
+- To discuss, join the Collaborations channel on the [Discord server](<Discord server.md>)
 - **Purpose**: We are looking to put together a pitch deck of at least 20 Indie Ideas - short & punchy 1-2 slides per idea.  The frame of the deck is as a stark difference to the bland "new new new normal" McKinsey and other mainstream views.  Showing that we have something to offer idea-wise and in practical hire-us ways.
 - Deck in progress: [Google slides link](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit?usp=sharing) 
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FQTd_cabp4A?alt=media&token=e6ba171b-86f0-43b9-bd5a-3910864561bb)
@@ -27,7 +27,7 @@
     - 3 slides on Big3 stuff
     - 1 slide with 2x2 showing meta-view of lots of reports/decks
     - Maybe 1 slide with a view of [Covid19 Case Studies](<Covid19 Case Studies.md>) so far
-    - 1 slide on the Yak Collective, with a 1 line tagline level [positioning](<positioning.md>), and simply a list of all the people who contributed to the deck. Can simply cut and past the boxes from the individual contribution slides
+    - 1 slide on the Yak Collective, with a 1 line tagline level positioning, and simply a list of all the people who contributed to the deck. Can simply cut and past the boxes from the individual contribution slides
     - 1 slide with a COLLECTIVE call to action, as in "Email Paul to schedule a session with one or more Yak Collective members" (should design this offer... something any of us can deliver)
 - Links to other people/orgs decks or reports
     - [Hyde Park VC](https://blog.hydeparkvp.com/modeling-covid-19s-impact-and-making-hard-decisions-6003944142ef)
@@ -60,27 +60,8 @@
 ## [Nature is Healing](<Nature is Healing.md>)
 - Format will be same 2-slides/idea format as [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
-## [November 25th, 2020](<November 25th, 2020.md>)
-- #[Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
-
-## [October 14th, 2020](<October 14th, 2020.md>)
-- [ ] " Relaunch the [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)?
-
-## [October 7th, 2020](<October 7th, 2020.md>)
--  Relaunch the [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)?
-
 ## [Pop-Up Think Tank](<Pop-Up Think Tank.md>)
 - So far there are 2 instances, [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
-
-## [Project Pitches](<Project Pitches.md>)
-- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
-
-- **Project Lead**: [Paul Millerd](<Paul Millerd.md>) - helped run [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
-
-- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
-
-## [Sample Project](<Sample Project.md>)
-- [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 ## [What Does Yak Collective Do?](<What Does Yak Collective Do?.md>)
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
@@ -91,9 +72,6 @@
 - **Contributors** -- "buy in" with contributions to collaborations, for eg to [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
-- [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
-
-## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)

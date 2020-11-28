@@ -18,7 +18,7 @@
 ## [07/10/2020 – YC Gov Chat Minutes – Governance Tests](<07/10/2020 – YC Gov Chat Minutes – Governance Tests.md>)
 - Working [Yak-Walk Map](<Yak-Walk Map.md>)
 
-## [Discord Chat Calendar](<Discord Chat Calendar.md>)
+## [Discord Chat Schedule](<Discord Chat Schedule.md>)
 - Topic of Discussion -- Shaping Up of [Yak-Walk Map](<Yak-Walk Map.md>)
 
 ## [Things We Need](<Things We Need.md>)
