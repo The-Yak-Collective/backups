@@ -40,7 +40,7 @@
             - LinkedIn Sales Nav 
     - What direction is YC going in? 
     - What sorts of paid projects would YC look to get involved in? 
-    - 80% complete assets / positioning 
+    - 80% complete assets / [[positioning]] 
         - enabling Yaks
         - where people can complete the assets
         - leverage existing connections 
@@ -52,7 +52,7 @@
     - Newsletter
         - how did we win the neurofuturama project - case study 
     - Case studies
-        - core messaging / positioning 
+        - core messaging / [[positioning]] 
     - NEXT STEPS
         - interview/survey of YC members - value prop 
             - do we have an email list of all project contributors?  

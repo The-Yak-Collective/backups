@@ -3,9 +3,9 @@
 - The [Don't Make Us Make A Rule](<Don't Make Us Make A Rule.md>) rule
 
 # Backlinks
-## [Discord server](<Discord server.md>)
-- There is an [Art of Gig](<Art of Gig.md>) discord server. Please respect the [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
-
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
+
+## [Yak Discord server](<Yak Discord server.md>)
+- There is an [Art of Gig](<Art of Gig.md>) [Discord](<Discord.md>) server. Please respect the [Yak Collective Discord Code of Conduct](<Yak Collective Discord Code of Conduct.md>)
 

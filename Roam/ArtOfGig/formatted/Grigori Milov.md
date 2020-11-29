@@ -1,3 +1,8 @@
+- The pages I follow:
+- [Yak Collective Governance](<Yak Collective Governance.md>)
+- [Future Frontiers](<Future Frontiers.md>)
+- [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 # Backlinks
 ## [05/08/2020 – YC Governance Minutes](<05/08/2020 – YC Governance Minutes.md>)
@@ -32,13 +37,48 @@
 ## [08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization](<08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
+- Opening statement: [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Grigori Milov](<Grigori Milov.md>)
+
+- **[Created](<Created.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
+
+- **[Last Updated](<Last Updated.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
+
+- **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>)
+
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>) + [Grigori Milov](<Grigori Milov.md>)
+
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>)
+
+## [Future Frontiers](<Future Frontiers.md>)
+- [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_15_6) | **[Grigori Milov](<Grigori Milov.md>)
+
+- [Orbital Data Centers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_105) | [Grigori Milov](<Grigori Milov.md>)
+
 - [Grigori Milov](<Grigori Milov.md>)
 
 ## [Governance Tests](<Governance Tests.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [Infrastructure](<Infrastructure.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
 - [Grigori Milov](<Grigori Milov.md>)
@@ -68,7 +108,95 @@
 
 - [Grigori Milov](<Grigori Milov.md>)
 
+## [Movement Marketing: 4 Strategies For Sparking A Brand Movement](<Movement Marketing: 4 Strategies For Sparking A Brand Movement.md>)
+- reference by [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [November 11th, 2020](<November 11th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+-  #[Grigori Milov](<Grigori Milov.md>)
+
+- #[Grigori Milov](<Grigori Milov.md>)
+
+## [November 18th, 2020](<November 18th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+## [November 25th, 2020](<November 25th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+## [November 4th, 2020](<November 4th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- [x] [Future Frontiers](<Future Frontiers.md>) Launch, [Grigori Milov](<Grigori Milov.md>)
+
+## [October 14th, 2020](<October 14th, 2020.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [October 22nd, 2020](<October 22nd, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+## [October 28th, 2020](<October 28th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- Roampage with present the project and each model #[Grigori Milov](<Grigori Milov.md>)
+
+## [October 29th, 2020](<October 29th, 2020.md>)
+- [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>) kickoff [Grigori Milov](<Grigori Milov.md>)
+
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+- does a newsletter - THE YakC newsletter not A newsletter, or several newsletter [Grigori Milov](<Grigori Milov.md>)
+
+- has a discussion on governance. [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)m
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [Production Cell](<Production Cell.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [September 29th, 2020](<September 29th, 2020.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
+
+- How do we know that we are actually in a position to help? E. g. are we familiar with different channels that sci-fiction writers and publishers are using? Can we ramp up our presence there before the AS launch? How? Is it going to be helpful for YC as a whole? [Grigori Milov](<Grigori Milov.md>)
+
+But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori Milov.md>)
+
+- [Movement Marketing](https://www.strawberryfrog.com/movement-marketing-4-strategies-for-sparking-a-brand-movement) ref by [Grigori Milov](<Grigori Milov.md>)
+
+## [Showcase Projects Launch](<Showcase Projects Launch.md>)
+- **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>) [Grigori Milov](<Grigori Milov.md>)
+
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
@@ -78,6 +206,11 @@
 - a textual comment via Discord,in response to [Grigori Milov](<Grigori Milov.md>):
 
 - [Grigori Milov](<Grigori Milov.md>):
+
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
+- [Grigori Milov](<Grigori Milov.md>)
 
 ## [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
 - [Grigori Milov](<Grigori Milov.md>)
@@ -91,6 +224,14 @@
 - [Grigori Milov](<Grigori Milov.md>)W
 
 - [Grigori Milov](<Grigori Milov.md>)W
+
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Grigori Milov](<Grigori Milov.md>)
+
+- **Platforms Track** — [Grigori Milov](<Grigori Milov.md>)
+
+## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
+- [Grigori Milov](<Grigori Milov.md>)
 
 ## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
 - **[Created](<Created.md>):** [November 27th, 2020](<November 27th, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)

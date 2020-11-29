@@ -11,7 +11,7 @@
 - Topics from chat
     - 
         - V2 coming out tomorrow!
-            - Join us page [[Discord server]]
+            - Join us page [[Yak Discord server]]
     - Tools discussions
         - Discord vs slack — in general 
         - https://discord.com/channels/692111190851059762/692111190851059766/717763989282750525

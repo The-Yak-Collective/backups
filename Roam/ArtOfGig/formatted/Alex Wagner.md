@@ -51,7 +51,7 @@
 ## [Directory](<Directory.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 12 PM - 12:30 PM Eastern Time (16h00-16h30 UTC), hosted by [Alex Wagner](<Alex Wagner.md>)
 
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
@@ -60,10 +60,12 @@
 ## [Governance Tests](<Governance Tests.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
-## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
-- [Alex Wagner](<Alex Wagner.md>)
+## [Infrastructure](<Infrastructure.md>)
+- Marketing w/ [Alex Wagner](<Alex Wagner.md>)
 
-## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
+marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+
+
+## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
 ## [Pilot Workshop – Executive Sparring](<Pilot Workshop – Executive Sparring.md>)
@@ -88,6 +90,9 @@
 
 ## [Strengthsfinder after the Apocalypse - discover your narrative in a post Covid World - Steven Moody](<Strengthsfinder after the Apocalypse - discover your narrative in a post Covid World - Steven Moody.md>)
 - Interested to learn more about this and see where I can contribute. - [Alex Wagner](<Alex Wagner.md>)
+
+## [Substack](<Substack.md>)
+- [Alex Wagner](<Alex Wagner.md>)
 
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Idea:** save search for ["remote gig"](https://twitter.com/search?q=remote%20gig&src=typed_query) on twitter. Might be noisy, might be fortuitous. [Alex Wagner](<Alex Wagner.md>)
@@ -116,6 +121,11 @@ was working with this client to think about how they might productize senior web
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
 - __Still in progress. -__ [Alex Wagner](<Alex Wagner.md>)
 
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- "[Alex Wagner](<Alex Wagner.md>)T
+
+- "[Alex Wagner](<Alex Wagner.md>)
+
 ## [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
 - [Alex Wagner](<Alex Wagner.md>)
 
@@ -130,12 +140,17 @@ was working with this client to think about how they might productize senior web
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - I would like to take this on [Alex Wagner](<Alex Wagner.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Alex Wagner](<Alex Wagner.md>)
+
+- [Alex Wagner](<Alex Wagner.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-[Alex Wagner](<Alex Wagner.md>)?
+[Alex Wagner](<Alex Wagner.md>)
 
 [Alex Wagner](<Alex Wagner.md>)
 
-- [**Yak Talk Newsletter**](<**Yak Talk Newsletter**.md>) [Alex Wagner](<Alex Wagner.md>)
+[Alex Wagner](<Alex Wagner.md>)
 
 ## [Yak Talk](<Yak Talk.md>)
 - [Alex Wagner](<Alex Wagner.md>)
@@ -149,7 +164,7 @@ was working with this client to think about how they might productize senior web
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - business-metaphysical country doctor-ing. maybe "maker of unknown-unknowns into known-unknowns" - [Alex Wagner](<Alex Wagner.md>)
 
-- All organizations operate with some level of dysfunction. Essentially, a consultant helps organizations become more efficient. There are numerous ways to do this but it seems to come to improving: processes, communication, and decision-making within the org. - [Alex Wagner](<Alex Wagner.md>)
+- All orga  nizations operate with some level of dysfunction. Essentially, a consultant helps organizations become more efficient. There are numerous ways to do this but it seems to come to improving: processes, communication, and decision-making within the org. - [Alex Wagner](<Alex Wagner.md>)
 
 - When they have a problem they don't know how to solve. When the individual or company is in a sufficient amount of pain to act and hire a consultant. [Alex Wagner](<Alex Wagner.md>)
 
@@ -176,11 +191,6 @@ was working with this client to think about how they might productize senior web
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Alex Wagner](<Alex Wagner.md>)
-
-## [infrastructure](<infrastructure.md>)
-- Marketing w/ [Alex Wagner](<Alex Wagner.md>)
-
-- [infrastructure chat 08 6.27.20](<infrastructure chat 08 6.27.20.md>) marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+
 
 ## [“Your Next Strategic Offsite will be Online—here’s what to do” [Jason Fox](<Jason Fox.md>)](<“Your Next Strategic Offsite will be Online—here’s what to do” [Jason Fox](<Jason Fox.md>).md>)
 - [Alex Wagner](<Alex Wagner.md>)

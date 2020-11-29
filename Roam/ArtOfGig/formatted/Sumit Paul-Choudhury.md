@@ -1,6 +1,8 @@
 
 # Backlinks
-## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
 - [Sumit Paul-Choudhury](<Sumit Paul-Choudhury.md>)
 
 - [Sumit Paul-Choudhury](<Sumit Paul-Choudhury.md>)

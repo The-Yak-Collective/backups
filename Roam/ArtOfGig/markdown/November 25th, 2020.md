@@ -1,0 +1,80 @@
+- [[YC Marketing - distributed CMO]] weekly sync #meeting-notes
+    - Location: discord 
+    - Time: 5pm GMT 
+    - Participants (TBC)
+        - {{[[DONE]]}} [[Hugo Macedo]] 
+        - {{[[DONE]]}} [[Maier Fenster]]
+        - {{[[DONE]]}} [[Grigori Milov]]
+        - {{[[DONE]]}} [[Venkatesh Rao]]
+        - TBC
+    - Agenda/Minutes (WIP)
+        - Sync on [[Final Frontiers - Launch Plan]] w/ [[Venkatesh Rao]]
+            - rename - Future Frontier #[[Future Frontiers]]
+            - infinite pool online deck - 2/3 slides per idea
+                - each module has its own URL
+            - conversations about the future
+            - Dec launch - till Jan-Feb
+            - Goal: 
+                - ^^YC have fun with time^^
+                - gigs/leads 
+                - apetite thinking big expansive - post-covid
+                - common theme on Future thinking with #[[Astonishing Stories]]
+            - meaningful things and fun
+                - meaning - solving a  problem, fun and/or especially future looking
+                    - want to drive such "fun" gigs to people in yak collective
+                        - so, how do we make sure that is what yaks want. maybe start with web page. 
+                        - do we need an advice channel - how to choose fun gigs
+                            - maybe should be in the form of a discussion
+                - need a mix of yaks at various stages of development, some hungry, some available to not take unfun gigs
+                - ? how do we attract yaks with leadership ability?
+                - future
+                - 
+            - Launch
+                - how do we use the #[[Future Frontiers]] to bring fun gigs
+                    - 2 extremes
+                        - Large corp that think big (Amazon, Tesla)
+                        - Startups cash rich - 2nd act - no VC pressure - they can think big
+                    - Who?
+                        - +VP (signing ability critical)
+                        - personally interested in this kind of gigs
+                    - Channels
+                        - 3rd party channels? probably not now.
+                    - Does the content match the target?
+                        - pointer/teaser - proof of capability 
+                        - leads to a proposal
+            - Should we market a #[[Pop-Up Think Tank]]?
+            - other product (many 5-6 minimal size, but can also do two yaks)
+                - in-depth parallel investigation like #[[Yaks do innovation consulting]]
+                    - #[[Astonishing Stories]] can also fit here 
+                - #[[Pop-Up Think Tank]]
+                    - #[[Don’t Waste the Reboot]]
+                    - #Neurofuturama
+                    - #[[The New Old Home]]
+                    - diverse perspectives is a key benefit 
+                - speculative design fiction (like mars rover)
+                - actually managing something
+                    - online-offsites
+                - how-to manual 
+                    - online-offsites
+                    - slice-the-pie
+                - analyst + insights report, more forward looking and less based on past data collection, yes based on secondary sources. note yaks act as bridges betweenbubbles 
+                    - can be based on special knowledge of one yak
+                    - can be based on a  group that together has the expertise
+                - pair work - one yak does the work, the other brings another perspective,  provides backup, and is less of a risk to the one yak 
+        - Marketing involvement in new [[Project Pitches]] process
+            - How can we influence projects from the start - Setup for market success
+        - [[Maier Fenster]] agendabot and newletterbot and projectbot and gigbot and helpwantedbot as inner-marketing tools
+        - Fun & meaningful - idea for positioning
+        - Fun & profit example - a balance
+        - insider peeks
+        - marketing tactics (more than strategy?)
+            - internal events can be used to market -> we are doing fun stuff
+            - figure out which yaks have social presence we can ask to help marketing via their channels
+        - Tiering
+            - Internal
+            - External gig
+            - gig-flow between Yaks
+        - decide focus of Marketing 
+            - Foundations
+            - Channels
+            - Launchs 

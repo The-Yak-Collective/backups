@@ -23,11 +23,11 @@
 - member on-boarding
     - small ask? "yak warm up tasks"
         - production tasks
-            - soft launch/proof leaders 
+            - proofreading for typos » [Production Cell](<Production Cell.md>)
+            - soft launch readers » [Production Cell](<Production Cell.md>)
             - review may not be a good small task 
-                - proof reading for typos
-        - newsletter contribution
-        - governance source docs 
+        - newsletter contribution » [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
+        - governance source docs » [Yak Collective Governance](<Yak Collective Governance.md>)
 - prospectus
     - capabilities
     - hi-lights
@@ -37,13 +37,13 @@
     - port cell kanban to trello / notion 
 - trust check on the infrastructure chat/groups 
     - hard privileges 
-        - e.g. github admin access
+        - e.g. github admin access, knack if we use it
     - soft privileges - featured on website
         - madeyak role 
 - momentum problem
     - excitment --> losing engagement
-    - tentatively venkat
-- governance principles
+    - tentatively [Venkatesh Rao](<Venkatesh Rao.md>)
+- governance principles » [Yak Collective Governance](<Yak Collective Governance.md>)
     - after january 
 - CFP process
     - refactor itself into continuous CFP
@@ -57,8 +57,3 @@
 - sunday the 16th
 - {{kanban}}
     - 
-
-# Backlinks
-## [infrastructure](<infrastructure.md>)
-- [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
-

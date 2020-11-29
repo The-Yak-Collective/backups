@@ -40,7 +40,9 @@
 - [Scott Allen](<Scott Allen.md>)
 
 ## [Directory](<Directory.md>)
-- [Scott Allen](<Scott Allen.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Scott Allen](<Scott Allen.md>)
+
+- {{embed: [Scott Allen](<Scott Allen.md>)}
 
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 - Section 2 - [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>) [Scott Allen](<Scott Allen.md>)
@@ -57,6 +59,9 @@
 - In the spirit of starting with what we've got and optimizing later, I'd propose that simply adding better structure to [Directory](<Directory.md>) would be a good next action vs. adding another tool to the mix. I volunteer to help with this. [Scott Allen](<Scott Allen.md>)
 
 - ~~A Twitter list of members would be helpful both in making it easier to engage with other yaks (vs. relying on Twitter's algorithms) and help increase visibility. I started to do one on my personal account, but then realized it should be on @yak_collective. I volunteer to set it up and help maintain it if I can get access to the Twitter account~~—[Pamela Hobart](<Pamela Hobart.md>)? [Venkatesh Rao](<Venkatesh Rao.md>)?. ~[Scott Allen](<Scott Allen.md>)
+
+## [Twitter](<Twitter.md>)
+- [Scott Allen](<Scott Allen.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>) — [Scott Allen](<Scott Allen.md>)

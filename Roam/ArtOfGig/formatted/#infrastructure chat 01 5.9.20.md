@@ -7,7 +7,7 @@ today's chat takeaways for me:
 
 we discussed how to provide more affordances for new members to sense make.
 1. creating new member orientation materials with the ethos of giving helpful hints and general rules of engagement (empty stub here: https://roamresearch.com/#/app/ArtOfGig/page/vA90wJbvO 
-will continue convo in [infrastructure](<infrastructure.md>)) 
+will continue convo in [Infrastructure](<Infrastructure.md>)) 
 2. providing a wkly voice chat space that could be an orientation hall and a way to build friendly connections
 - **First topic:** [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
     - Praful
@@ -82,9 +82,6 @@ will continue convo in [infrastructure](<infrastructure.md>))
 - Venkat never was able to get himself out of refactor camp org "activity darwinism" 
 
 # Backlinks
-## [infrastructure](<infrastructure.md>)
-- [[infrastructure](<infrastructure.md>) chat 01 5.9.20](<[infrastructure](<infrastructure.md>) chat 01 5.9.20.md>)
-
 ## [infrastructure chats](<infrastructure chats.md>)
 - [[infrastructure](<infrastructure.md>) chat 01 5.9.20](<[infrastructure](<infrastructure.md>) chat 01 5.9.20.md>)
 

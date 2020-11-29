@@ -1,5 +1,10 @@
 
 # Backlinks
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- **Referees:** [Damian Stewart](<Damian Stewart.md>)
+
 ## [Directory](<Directory.md>)
 - [Damian Stewart](<Damian Stewart.md>)
 
@@ -28,9 +33,6 @@ which i'm totally convinced - if every tech team hired a gender and/or critical 
 - running a successful business is about finding a success and then reproducing that success as often as possible with as little effort as possible. the kind of environment necessary to do this is not likely to foster highly independent thought or independent thinkers. but sometimes, you need independent thought (for example, to understand __why__ your success was a success, or to suggest new __kinds__ of things you might be able to build from your first success). enter, consulting - [Damian Stewart](<Damian Stewart.md>)
 
 - [Damian Stewart](<Damian Stewart.md>)
-
-## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
-- **Referees:** [Damian Stewart](<Damian Stewart.md>)
 
 ## [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 - [Christian Bacher](<Christian Bacher.md>) <> [Damian Stewart](<Damian Stewart.md>)

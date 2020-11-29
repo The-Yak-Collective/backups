@@ -11,7 +11,7 @@
 - Topics from chat
     - 
         - V2 coming out tomorrow!
-            - Join us page [Discord server](<Discord server.md>)
+            - Join us page [Yak Discord server](<Yak Discord server.md>)
     - Tools discussions
         - Discord vs slack — in general 
         - https://discord.com/channels/692111190851059762/692111190851059766/717763989282750525
@@ -38,9 +38,6 @@
         - 
 
 # Backlinks
-## [infrastructure](<infrastructure.md>)
-- [infratructure chat 05 6.6.2020](<infratructure chat 05 6.6.2020.md>)
-
 ## [infrastructure chats](<infrastructure chats.md>)
 - [infratructure chat 05 6.6.2020](<infratructure chat 05 6.6.2020.md>)
 

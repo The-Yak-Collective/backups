@@ -43,11 +43,14 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 ## [Directory](<Directory.md>)
 - [Pamela Hobart](<Pamela Hobart.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord](<Discord.md>)
+- [Pamela Hobart](<Pamela Hobart.md>)
+
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 5pm - 5:30pm Eastern Time (21h00-21h30 UTC), hosted by [Pamela Hobart](<Pamela Hobart.md>)
 
-## [Discord server](<Discord server.md>)
-- [Pamela Hobart](<Pamela Hobart.md>)
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Pamela Hobart](<Pamela Hobart.md>):
 
 ## [The New Old Home](<The New Old Home.md>)
 - I [Pamela Hobart](<Pamela Hobart.md>)
@@ -57,11 +60,11 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 
 - ~~A Twitter list of members would be helpful both in making it easier to engage with other yaks (vs. relying on Twitter's algorithms) and help increase visibility. I started to do one on my personal account, but then realized it should be on @yak_collective. I volunteer to set it up and help maintain it if I can get access to the Twitter account~~—[Pamela Hobart](<Pamela Hobart.md>)?
 
+## [Twitter](<Twitter.md>)
+- [Pamela Hobart](<Pamela Hobart.md>)
+
 ## [Vlad Meh: Naming Ways, Magic Ways](<Vlad Meh: Naming Ways, Magic Ways.md>)
 - Hey Vlad I'm just catching up on this convo so I don't know what other people chimed in on here, but I guess I see names as possibly developing an anachronistic kind of charm - like they aren't strictly necessary for communication purposes anymore but they might all feel like nicknames, or kind of pleasantly vestigial - [Pamela Hobart](<Pamela Hobart.md>)
-
-## [Website Cell](<Website Cell.md>)
-- [Pamela Hobart](<Pamela Hobart.md>):
 
 ## [Yak Collective](<Yak Collective.md>)
 - [Pamela Hobart](<Pamela Hobart.md>):
@@ -71,8 +74,14 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 
 - [The New Old Home](<The New Old Home.md>) - a multidisciplinary exploration in homes of the present & near future  [Pamela Hobart](<Pamela Hobart.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Pamela Hobart](<Pamela Hobart.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Pamela Hobart](<Pamela Hobart.md>)
+
+## [Yak Discord server](<Yak Discord server.md>)
+- [Pamela Hobart](<Pamela Hobart.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - [Pamela Hobart](<Pamela Hobart.md>)

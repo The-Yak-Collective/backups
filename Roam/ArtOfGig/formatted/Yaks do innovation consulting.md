@@ -116,7 +116,8 @@
 - **PROJECT DETAILS** (Framing, motivation, audience)
     - **Goals**
         - **Eventual goal**:
-Develop an unconventional consulting offering for big corporations wanting to improve their ability to innovate. Why the focus on big corporations? Because they have big budgets and they need __really__ unconventional thinking. Aiming at big corporates also forces discipline in construing problems and solutions so they are well-scoped, closed-ended consulting deliverables.
+Develop an unconventional consulting offering for big corporations wanting to improve their ability to innovate. 
+            - Why focus on big corporations? Because they have big budgets and they need __really__ unconventional thinking. Aiming at big corporates also forces discipline in construing problems and solutions so they are well-scoped, closed-ended consulting deliverables.
         - **Short-term goal **:
 Develop an idea framework that offers Yak-distinctive—i.e., unconventional but empirically grounded—explanations for why big corporations try but fail to innovate, and offer pragmatic solutions that can solve for the unique challenges of large, established companies face in innovating.
 
@@ -343,10 +344,25 @@ The problem large companies are really having with innovations is that even the 
 ## [06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief](<06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
+## [Innovation Consulting](<Innovation Consulting.md>)
+- project page: [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
+## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
+- About: Launch plan for [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
 ## [Internal Project](<Internal Project.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- in-depth parallel investigation like #[Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
+## [Sample Project](<Sample Project.md>)
+- [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
+- [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
+## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
 ## [infrastructure chat 12 7.25.2020](<infrastructure chat 12 7.25.2020.md>)

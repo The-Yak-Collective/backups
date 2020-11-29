@@ -14,16 +14,60 @@
 ## [Directory](<Directory.md>)
 - [Darren Kong](<Darren Kong.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - Questions will also serve as fodder for iterating the [Onboarding for New Yaks](<Onboarding for New Yaks.md>), being shepherded by [Darren Kong](<Darren Kong.md>).
 
-- 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) [infrastructure](<infrastructure.md>) chat hosted by [Darren Kong](<Darren Kong.md>)
+- 12:30-1:15 PM CST, 10:30-11:15 AM PST, 1:30-2:15 PM EST (17h30-18h15 UTC) [Infrastructure](<Infrastructure.md>) chat hosted by [Darren Kong](<Darren Kong.md>)
 
 ## [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>)
 - Love this, and agree it's a more apt metaphor/visual for it. I think if we want to sell organizations on the value of this (per [Darren Kong](<Darren Kong.md>)
 
+## [Infrastructure](<Infrastructure.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
+
+- **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)'
+
+- **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>):
+
+- [Darren Kong](<Darren Kong.md>):
+
+- [Darren Kong](<Darren Kong.md>)
+
+- ^^Maier: Can [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)'
+
+- Notes by [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [x] yak map: is it time? [Darren Kong](<Darren Kong.md>)c
+
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>) and [Darren Kong](<Darren Kong.md>)
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
 
 ## [Roam Production Kanban](<Roam Production Kanban.md>)
 - piece_18_lname [Darren Kong](<Darren Kong.md>)
@@ -33,6 +77,9 @@
 
 ## [Summary: 26th May Brainstorm](<Summary: 26th May Brainstorm.md>)
 3. security/privacy model + an imagination of the computing stack could use some consideration. since we're talking a number of APIs, service integrations." [Darren Kong](<Darren Kong.md>)
+
+## [Venkatesh Rao](<Venkatesh Rao.md>)
+- [ ] State of the Union deck with [Darren Kong](<Darren Kong.md>)
 
 ## [Vinay Debrou: Work Ways](<Vinay Debrou: Work Ways.md>)
 - Also might leak data, allow one to be manipulated? How do we manage privacy ? Anonymize neural data ? Matching and seeing conflicts ? Maybe test exercises + neural data will be helpful. What were they actually thinking while playing the simulation game [Darren Kong](<Darren Kong.md>)
@@ -48,14 +95,23 @@
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 - my $.02, is potentially all of the above, but also that it's a legitimately hard problem. [Darren Kong](<Darren Kong.md>)
 
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+8. [Darren Kong](<Darren Kong.md>):
+
+## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
+
 ## [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
 - **Competitive diagramming** – proposed by [Darren Kong](<Darren Kong.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Policing the Future](<Policing the Future.md>) [Darren Kong](<Darren Kong.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Darren Kong](<Darren Kong.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-- [**infrastructure**](<**infrastructure**.md>) [Darren Kong](<Darren Kong.md>)
+[Darren Kong](<Darren Kong.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>)

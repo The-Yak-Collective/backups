@@ -1,48 +1,36 @@
-- {{[Benito Berretta](<Benito Berretta.md>)}} Minimalist version: just insert a page with your name in alphabetical order (by last name), and then do what you like with that page. 
-- High-usability version (allows people to read your page embedded within this page instead of jumping around):
-    - Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.
-    - Copy the block ref of that summary paragraph
-    - Embed (don't just copy)the block under your name on this page
-        - Indented under your name on this page, start typing ```html
+- **[About](<About.md>):** __A self-generated directory of Yaks.__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Scott Allen](<Scott Allen.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Jenna Dixon](<Jenna Dixon.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):** [September 8th, 2020](<September 8th, 2020.md>)
+- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+-  
+- ###  How to jump in here
+- Minimalist version: 
+    - Insert a page with your name in alphabetical order (by last name), and then do what you like with that page. 
+        - [Benito Berretta](<Benito Berretta.md>) 
+- High-usability version 
+    - Allows people to read your page embedded within this page instead of jumping around:
+        - Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.
+        - Copy the block ref of that summary paragraph
+        - Embed (don't just copy) the block under your name on this page
+            - Indented under your name on this page, start typing ```html
 {{embed: ((Trivedi Girish))}}``` and then paste your block ref. It should end up looking something like this: ```clojure
 {{embed: ((((Hello, my name is Girish Trivedi and Iam based in New Delhi , India. Iam a Consultant focused around technology, Media and Telecom vertical. I work on Growth strategies, Got to market strategies and Segmentation projects. I am also a transition coach for professionals in transition and on my way towards becoming ICF( International Coach Federation) certified coach.                 ))))}}```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.
-    - If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.
-- {{embed: ((zTOoO1I_p))}}
-- [Letts Jon](<Letts Jon.md>)
-    - {{embed: "[Letts Jon](<Letts Jon.md>)"
-- [Arpit Choudhury](<Arpit Choudhury.md>)  
-    - {{embed: (())}}
-- [Choudhury Arpit](<Choudhury Arpit.md>)
-    - {{embed: ((((nZ6mopVus)))}}
-    - 
-- [magdum aashutosh](<magdum aashutosh.md>)
-- [Daniel Riveong](<Daniel Riveong.md>)
-    - Academically-Trained Futurist in San Sebastian
-        - Focus is on using foresight methodologies for helping imagine alternative, non-tech focused futures, with a particular interest in alternative economies, future of food, and future of education.
-        - I received an MS in Foresight from the University of Houston. During that time, I was a fellow at the Association of Professional Futurists researching post-capitalism from a Global South perspective
-        - Operations Manager at School of International Futures
-            - https://soif.org.uk/ 
-        - Futurist at the Global Swarm, a collective of futurists from diverse backgrounds and interests.
-            - Helped develop a framework for understanding Participatory Futures for Nesta's Collective Intelligence team
-                - https://www.nesta.org.uk/report/our-futures-people-people/ 
-        - Plural Futures 
-            - Co-Authored two reports on the Future of Food for the Basque Culinary Center, latest one won an award from the Association of Professional Futurists
-                - http://projectgastronomia.org/en/events/project-gastronomia-towards-personalized-gastronomy-2050/ 
-- [Joseph Abrahamson](<Joseph Abrahamson.md>)
-    - "Two time startup founder in education and healthcare. Off-and-on indie consultant, currently employed at a very non-indie, but smallish technology strategy consulting firm. Looking to start something new. Math, software, product."
-- [Nathan Acks](<Nathan Acks.md>)
-    "Paycheck type currently working in the non-profit space, but planning on making the jump to independence."
-    "Twitter: [@nathan_acks](https://twitter.com/nathan_acks)"
-- [Keith Adams](<Keith Adams.md>)
-- [Kartik Agaram](<Kartik Agaram.md>)
-    - "Gig-curious programmer and researcher"
+        - If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.
 - 
-- [Scott Allen](<Scott Allen.md>)
-    - {{embed: ((((sOudXb4qS))))}}
-- [Mitchell Anhoury](<Mitchell Anhoury.md>)
-    - {{embed: ((((gA_SUPrpo))))}}
-- [Maggie Appleton](<Maggie Appleton.md>)
-    - {{embed: ((kFeLZGuin))}}
+- {{embed: [Raphael Ronot](<Raphael Ronot.md>)}}
+- {{embed: [Joseph Abrahamson](<Joseph Abrahamson.md>)}}
+- {{embed: [Nathan Acks](<Nathan Acks.md>)}}
+- {{embed: [Keith Adams](<Keith Adams.md>)}}
+- {{embed: [Kartik Agaram](<Kartik Agaram.md>)}}
+- {{embed: [Scott Allen](<Scott Allen.md>)}}
+- {{embed: [Mitchell Anhoury](<Mitchell Anhoury.md>)}}
+- {{embed: [Maggie Appleton](<Maggie Appleton.md>)}}
+- {{embed: [magdum aashutosh](<magdum aashutosh.md>)}}
+- {{embed: [Arpit Choudhury](<Arpit Choudhury.md>)}}
+- {{embed: [Jon Letts](<Jon Letts.md>)}}
+- {{embed: [Daniel Riveong](<Daniel Riveong.md>)}}
+- {{embed: [Adrian Wons](<Adrian Wons.md>)}}
 - [Davis Austerberry](<Davis Austerberry.md>)
 - [David B](<David B.md>) I'm just planning to lurk visibly, here.
 - [Christian Bacher](<Christian Bacher.md>) 
@@ -58,6 +46,8 @@
 - [Giacomo Balli](http://giacomoballi.com?utm_campaign=roamresearch)
     - Giacomo Balli is a **mobile strategy consultant** who helps business owners transition their business to mobile. Unlike other mobile strategy consultants, clients work directly with Giacomo and not a group of junior employees who are learning on the job.
 - [Nita Baum](<Nita Baum.md>)
+- [Mike Baxter](<Mike Baxter.md>)
+    - {{embed: ((Mike Baxter((RIm34qt1Y))))}}
 - [Sachin Benny](<Sachin Benny.md>)
     - Gig-curious salaryman working in product marketing. Used to do contract product marketing gigs for two years prior to this
     - Planning to make jump to independent consulting in the next couple of months
@@ -215,6 +205,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
     - "Aspirational free-agent, currently full-time employed as a [Software Architect](<Software Architect.md>) at a fairly large software company."
     - "Website: https://www.howell.io/"
     - "Twitter: [@dehowell](http://twitter.com/dehowell)"
+- [Shakir Hussain](<Shakir Hussain.md>)
 - [David Ing](<David Ing.md>)
     - {{embed: ((C561qT2If))}}
 - [Richard Hughes-Jones](<Richard Hughes-Jones.md>)
@@ -421,6 +412,9 @@ hello@sampanter.info"
 - [James Phillips](<James Phillips.md>)
     - Electrical Engineer, Co-Owner of Techne Solutions, LLC a prototyping engineering firm in Denver, CO
     - Twitter: @analogwzrd
+- [Robert Prehn](<Robert Prehn.md>)
+    - Independent software engineering consultant. Specializes in fractional engineering leadership and innovation initiatives.
+    - @prehnRA on Twitter, GitHub, and GitLab. Company at: https://www.mythicinsight.com/
 - [Sterling Proffer](<Sterling Proffer.md>)
     - "I spent a decade at VICE designing, launching, and scaling new parts of the company, starting with Motherboard in 2009, then Noisey, VICE's YouTube channels, VICE News, the Growth team, then a Strat[]egy & BD group that included standing up partnerships, an in-house consultancy, a new business incubator, and a business analytics team. "
     - "In the two years since I left, I've helped a few friends get their companies off the ground and have worked with independent creatives, established companies, and nonprofits on solving cross-functional problems (e.g. fundraising, go-to-market, business model design, operational challenges, partnerships)."
@@ -454,6 +448,7 @@ hello@sampanter.info"
     - Mentoring and Consulting Startups on Business Development, Digital Marketing and Productivity
     - Interested in the crossroads between Technology, Psychology and Productivity in the digital age
     - https://linkedin.com/in/jeremie-rykner
+- [Clo S.](<Clo S..md>)
 - [Drew Schorno](<Drew Schorno.md>)
     - "Website: http://drewschorno.com/"
     - "Twitter: [@dschorno](https://twitter.com/dschorno)"
@@ -487,6 +482,8 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - I'm also in the military--initially full-time, and now part-time as a Reservist in the Navy. Despite my best attempts, it deeply colors the way I see the world, and I continue to find military people and organizations simultaneously infuriating and fascinating. I was a submariner long ago, and more recently I've deployed with a Special Operations unit in an operational support role.
     - LinkedIn: https://www.linkedin.com/in/benjamin-smith-b2723a75/
     - I have Methodological Experience in survey design, statistical analysis of survey data, semi-structured interviews, focus group moderation, and thematic analysis.
+- [Matt Smith](<Matt Smith.md>)
+    - {{[embed](<embed.md>): ((((xSN6IdjYE))))}}
 - [James Stuber](<James Stuber.md>)
     - "paychecked engineer in fusion energy"
     - "Productivity coach for a tiny number of clients"
@@ -575,6 +572,8 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
 -      
     - I work in strategy, tech, and org consulting properly by day, previously more marketing freelance. Indie/secret jobs nights and weekends.
     - Building up independent coaching company to help others be happier and build more.
+- [Cindy Zhang](<Cindy Zhang.md>)
+    - Aspiring economist/data scientist, long-time fan of ribbonfarm, looking to expand my social circle to include like-minded folks and get my feet wet with interesting projects. 
 - [Nikhil Srivastava](<Nikhil Srivastava.md>)
     - {{embed: ((((faI2Xz4vh))))}}
 - [Mike Tannenbaum](<Mike Tannenbaum.md>)
@@ -597,6 +596,7 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - Based in NYC here
     - Run a podcast production agency and do a little process and systems consulting on the side. 
     - Twitter: [@jonbstrong](twitter.com/jonbstrong)
+- {{[embed](<embed.md>): [Abhay](<Abhay.md>)}}
 
 # Backlinks
 ## [Index](<Index.md>)

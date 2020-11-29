@@ -1,0 +1,2 @@
+- [[Yak Collective Website]]
+    - [[Palash]] doing a POC with gatsby + netlify CMS

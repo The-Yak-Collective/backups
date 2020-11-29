@@ -6,7 +6,7 @@
     - Yaks are anyone who has signed up (edit: add link to sign-up form) and made an introduction in Discord and received the "yak" role.
         - Note: this process is currently manual. If you don't receive the "yak" role whre you can see other channels, you can reach out to one of the "yakshavers" (admins) and they will address it.
     - This is a very low barrier to entry, and intentionally so. Users who fail to make an introduction within a week are culled from the Discord server.
-    - The yaks can read/write to channels and this Discord, and are encouraged to join any of the regular chats (see [[Discord Chat Schedule]]); in particular, Alex Wagner and Jordan Peacock run a regular Thursday call for answering newbie questions, and Venkatesh Rao runs an online governance call on Fridays.
+    - The yaks can read/write to channels and this Discord, and are encouraged to join any of the regular chats (see [[Discord Chat Calendar]]); in particular, Alex Wagner and Jordan Peacock run a regular Thursday call for answering newbie questions, and Venkatesh Rao runs an online governance call on Fridays.
 - **So, what do I do?**
     - We strongly recommend you jump in by working on a project. Doing so will not only provide value to the collective, but also introduce you and your skills to others.
     - All efforts are project-centered, whether they are internal or external, paid or unpaid.

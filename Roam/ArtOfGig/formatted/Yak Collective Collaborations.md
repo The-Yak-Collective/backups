@@ -1,14 +1,17 @@
 - **Completed collaborations**
     - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) led by [Paul Millerd](<Paul Millerd.md>) and [Venkatesh Rao](<Venkatesh Rao.md>)
     - [The New Old Home](<The New Old Home.md>) - led by  [Pamela Hobart](<Pamela Hobart.md>) and [Drew Schorno](<Drew Schorno.md>)
+- **[September-October 2020 proposal pages](<September-October 2020 proposal pages.md>):**
+    - [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>) - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others led by [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
 - **July-August 2020 Proposal Pages**
     - Starting with this cycle, we are introducing a formal [Project Referee Role](<Project Referee Role.md>)
-    - [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>) - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>). Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) and [Post-COVID scenario set](<Post-COVID scenario set.md>)
+    - [[Astonishing Stories
+...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>). Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) and [Post-COVID scenario set](<Post-COVID scenario set.md>)
         - [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) [Sachin Benny](<Sachin Benny.md>)
             - 2-3 people per speculative fiction piece
             - in collaboration with
         - [Post-COVID scenario set](<Post-COVID scenario set.md>) - a collaboratively built scenario generator exploring pathways from COVID over the next 5 years, led by [Amanda Reeves](<Amanda Reeves.md>) & [Reanna Browne](<Reanna Browne.md>)
-    - [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>) 
+    - [Future Frontiers](<Future Frontiers.md>) [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>) 
     - [Evidence Based Design](<Evidence Based Design.md>) Collecting, Publishing, and Packaging Redesigns grounded in Crowd Collected Evidence [Paul Sas](<Paul Sas.md>)
     - [Old Forms of Justice in a New World ](<Old Forms of Justice in a New World .md>) - [Mitchell Anhoury](<Mitchell Anhoury.md>) - Justice, New Sheriffs in Town, and the Tech That Makes it Happen
         - [Policing the Future](<Policing the Future.md>) [Darren Kong](<Darren Kong.md>) - towards alternative futures of law enforcement and policing

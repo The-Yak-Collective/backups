@@ -12,6 +12,6 @@ Sorry, Roam noob here. If the above page title or where it should be linked shou
 ## [Index](<Index.md>)
 - [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>):
 
-## [Welcome](<Welcome.md>)
-- Welcome to the [Art of Gig](<Art of Gig.md>) community Roam database. The goal is to build a resource that is long-term useful to the gig economy community, starting with immediately useful things related to the [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>)
+## [Start Here](<Start Here.md>)
+- Initially, useful things here are primarily related to the [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>)
 

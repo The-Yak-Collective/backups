@@ -2,21 +2,21 @@
 - 
 - ## **Central Questions**
 - **What is the "shared sense of taste" that is a core component of YC culture?**
-    - [[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to branding and positioning.
+    - [[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to [[branding]] and [[positioning]].
         - From [[06/05/2020 – YC Governance Chat Minutes]]
             - [[Venkatesh Rao]]
                 - 2. Shared sense of values and taste. "The community's sense of taste about work and activities."
                     - If this is not shared, community suffers an "aesthetic unraveling".
-- **How do you do positioning?**
-    - What is positioning?
+- **How do you do [[positioning]]?**
+    - What is [[positioning]]?
         - [How to Nail Product Positioning](https://www.youtube.com/watch?v=tlfSkPdQDSU) by April Dunford. __Start at 9min__
             - Ries and Trout definition: "**Positioning** defines how your product is t**he best in the world** at providing **something** that a well-defined set of **customers** cares **a lot** about."
             - Dunford definition: "If marketing and sales are "the house", positioning is the foundation of that house. It's the base on which everything else is built."
-                - Dunford's positioning methodology 
+                - Dunford's [[positioning]] methodology 
                     - Consists of 5 parts:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fqcq-iXC9tz.png?alt=media&token=560bd59d-4748-4d90-ac69-cb9722bf44bc)
-                        - [[Alex Wagner]]The hard work of positioning YC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides.
-    - How do you do positioning for Yak?
+                        - [[Alex Wagner]]The hard work of [[positioning]] YakC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides.
+    - How do you do [[positioning]] for Yak?
         - With what means do we position ourselves?
             - First, our projects
                 - As provocations?
@@ -67,7 +67,7 @@
 - I think if you already have a brand (like Amazon, or Xerox, or BCG) there is little you can do, except maintenance.
 - But if you are just getting started, it would be advisable to think from the very first principles.
 - It is nice to know what Amazon was in 2001, but now it is "The Everything Store with Alexa and AWS". 
-- Think about it's positioning or "components of positioning". Amazon sells everything, competes with everybody, is also a marketplace and has AWS, that everybody uses. 
+- Think about it's [[positioning]] or "components of [[positioning]]". Amazon sells everything, competes with everybody, is also a marketplace and has AWS, that everybody uses. 
 - Boston Consulting Group has very little to do with Boston, but includes Digital Ventures, Gamma, Platinion, Omnia, BrightHouse, Expand, Inverto, Turn, etc. One can have a very hard time making sense of what BCG actually means or doesn't mean right now. 
 - McKinsey said that 50% of it's business didn't exist 5 years ago, or something along those lines. And everything will change again in 3 years or so.
 - Bain has Vector.

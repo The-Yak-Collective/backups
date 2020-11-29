@@ -1,4 +1,4 @@
-- #infrastructure
+- #Infrastructure
 - yakcoin
     - there's not a lot of visibility 
         - uness you really look for it 

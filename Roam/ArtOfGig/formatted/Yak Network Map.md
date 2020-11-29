@@ -1,5 +1,29 @@
+- **[Status](<Status.md>):**
+    - [Yak Project](<Yak Project.md>) page started [August 18th, 2020](<August 18th, 2020.md>)
+- **[Project folk](<Project folk.md>):**
+    - [Vinay Débrou](<Vinay Débrou.md>) lead
+    - [Claire Peters](<Claire Peters.md>) contributor
+- **[Concept doc](<Concept doc.md>):**
+    - [v1.0 prototype - Scope & Roadmap Document](https://docs.google.com/document/d/13ihQ2VdjZbfjWjxeOmCvFl_gt9Y1xuFkolyHdW6yNGY/edit?pli=1)
+    - __comment threads on the Google doc ^__
+- **[Connections](<Connections.md>):**
+    - [Infrastructure](<Infrastructure.md>)
+- **[Meetings](<Meetings.md>):**
+    - call [August 18th, 2020](<August 18th, 2020.md>)
+        - ![](https://media.discordapp.net/attachments/739944326913851488/745295101785407498/unknown.png)
+    - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Maier Fenster](<Maier Fenster.md>)
+    - Follow up: [Vinay Débrou](<Vinay Débrou.md>) will propose possible times for a joint call on the [Discord](<Discord.md>) [Infrastructure](<Infrastructure.md>) channel
+- 
+- 
 
 # Backlinks
+## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+- Active yaks may participate in YakC projects and, if they desire, are eligible for inclusion on the [Yak Network Map](<Yak Network Map.md>).
+
+- If they desire, made yaks are eligible for inclusion on the [Yak Network Map](<Yak Network Map.md>).
+
+- If they desire, yak shavers are eligible for inclusion on the [Yak Network Map](<Yak Network Map.md>).
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Yak Network Map](<Yak Network Map.md>)
 

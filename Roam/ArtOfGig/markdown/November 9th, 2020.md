@@ -1,0 +1,3 @@
+- [[Nathan Acks]] added a "Proposals" section to the [[IT Infrastructure]] page.
+- [[Nathan Acks]] wrote up [[Proposal: Yak Collective Member Types]] based on  the discussion during "infrastructure chat 26 [[November 8th, 2020]] #meeting-notes".
+- [[Nathan Acks]] wrote up [[Proposal: Discord Channel Lifecycle and Organization]] based on  the discussion during "infrastructure chat 26 [[November 8th, 2020]] #meeting-notes".

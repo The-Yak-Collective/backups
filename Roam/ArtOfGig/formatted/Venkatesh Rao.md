@@ -1,6 +1,22 @@
 - Free-agent consultant since 2011. [Writer](<Writer.md>) of [Art of Gig](<Art of Gig.md>) newsletter, the [Ribbonfarm](<Ribbonfarm.md>) blog, and the [Breaking Smart](<Breaking Smart.md>) tech+futures commentary podcast newsletter. Often in the market for help with graphic and [Web Design](<Web Design.md>), [Data Analysis](<Data Analysis.md>), and simple web-app coding tasks.
 - You can contact me via [this form](https://www.ribbonfarm.com/contact/) if you don’t already have my email.
-- 
+- Stuff below is for tracking my own participation in Yak Collective, feel free to drop anything you like into my inbox below, as a bullet point, and DM me. I'll help if I can.
+- ** Scratch **
+    - Public Inbox (put anything you like under here)
+        - Sample item
+    - Links for me
+        - [Roam Production Kanban](<Roam Production Kanban.md>)
+        - [Future Frontiers](<Future Frontiers.md>)
+        - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+        - [Yak Collective Governance](<Yak Collective Governance.md>)
+        - [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+        - [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+        - [Project Pitches](<Project Pitches.md>)
+    - Venkat's to do
+        - [ ] Something something new decentralized CFP
+        - [ ] Blog post on experiments so far
+        - [ ] State of the Union deck with [Darren Kong](<Darren Kong.md>)
+        - [YC CONOPS -- The Natural Way to Work and Play](<YC CONOPS -- The Natural Way to Work and Play.md>)
 
 # Backlinks
 ## [[infrastructure](<infrastructure.md>) chat 02 5.16.2020](<[infrastructure](<infrastructure.md>) chat 02 5.16.2020.md>)
@@ -98,6 +114,18 @@
 
 - this is [Venkatesh Rao](<Venkatesh Rao.md>)'
 
+## [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
+- [The Free Rider Problem](<The Free Rider Problem.md>) via [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Amanda Reeves: Age Ways](<Amanda Reeves: Age Ways.md>)
 - One of my own strong interests is in time perception, and one of the fascinating things about aging is that there are clear differences in how older people think versus younger based on the perceived time-left-to-live horizon (see Linda Cartensen research at Stanford). Young people end up with the same "old" time horizon attitudes when diagnosed with a terminal illness, or caught up in war or pandemic or other conditions where the future seems foreshortened. So if you can __artificially__ create this foreshortened horizon effect with neural techniques you'd have a neurological [memento mori](https://en.wikipedia.org/wiki/Memento_mori) tech [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -105,11 +133,23 @@
 
 - So if you can __artificially__ create this foreshortened horizon effect with neural techniques you'd have a neurological memento mori tech [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Available YC Funds](<Available YC Funds.md>)
+- **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Last updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [California/Los Angeles](<California/Los Angeles.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Chat Formats](<Chat Formats.md>)
 - April 8 2020: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Client Project](<Client Project.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Collision Forces Brainstorm](<Collision Forces Brainstorm.md>)
 - " A subtler collision force is neurotech itself... the original "traffic jam" model is not cars+another trend, but isolated car ownership --> pervasive car ownership and infrastructure shift. So a homogeneous pattern of traffic jam = everybody has some access to neurotech, either through data, or NaaS, or the devices themselves, and infrastructure has evolved to support it. Like asphalt roads for cars." [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -125,23 +165,49 @@
 ## [Directory](<Directory.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>):
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord](<Discord.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
+- You can request permission from [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - Hosts: please tweet a reminder no more than 30 minutes before the chat and tag @yak_collective. Also share your own twitter handle at the end of chats so people can follow you and get alerted. Include a bit of detail about the theme. For standing weekly chat sessions, please contact [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- Here is the shared [Google Calender link](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). You can request permission from [Venkatesh Rao](<Venkatesh Rao.md>)
-
 - 9:00 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), Governance Chat hosted by [Venkatesh Rao](<Venkatesh Rao.md>).
-
-## [Discord server](<Discord server.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 - [OODA](<OODA.md>) approach to reboot (suggested and **claimed** by[Venkatesh Rao](<Venkatesh Rao.md>))
 
 - Sectoral impact dashboard ((suggested by [Venkatesh Rao](<Venkatesh Rao.md>))
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Facebook](<Facebook.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Future Frontiers](<Future Frontiers.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Last Updated By](<Last Updated By.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- If approved by the editor (currently [Venkatesh Rao](<Venkatesh Rao.md>))
+
+- If you need to break the default format, talk to the editor [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Democratized Underwater Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_177) |[Venkatesh Rao](<Venkatesh Rao.md>)
+
 - This is a project proposal for July/Aug 2020 cycle by [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [x] [September 26th, 2020](<September 26th, 2020.md>) restart call inaugurated by project Sous Chef [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [ ] [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [ ] [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [x] [ping](<ping.md>): [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - I was actually just thinking about how in relation to [Farcaster Mansion](<Farcaster Mansion.md>) by [Venkatesh Rao](<Venkatesh Rao.md>),
 
@@ -149,16 +215,82 @@
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [IT Assets and Security](<IT Assets and Security.md>)
+## [GitHub](<GitHub.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- ...It's kinda hard in this scenario for [Venkatesh Rao](<Venkatesh Rao.md>)
+## [IT Infrastructure](<IT Infrastructure.md>)
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- [Venkatesh Rao](<Venkatesh Rao.md>):
+
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Infrastructure](<Infrastructure.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- We'll need [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [LinkedIn](<LinkedIn.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Marketing Resources](<Marketing Resources.md>)
+- "[Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Namecheap](<Namecheap.md>)
+owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Neurofuturama](<Neurofuturama.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [November 25th, 2020](<November 25th, 2020.md>)
+- [x] [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- Sync on [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>) w/ [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [November 4th, 2020](<November 4th, 2020.md>)
+- we should have a call with [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [October 23rd, 2020](<October 23rd, 2020.md>)
+- Updated the [Facebook](<Facebook.md>) and [LinkedIn](<LinkedIn.md>) [IT Infrastructure](<IT Infrastructure.md>) pages based on [Venkatesh Rao](<Venkatesh Rao.md>)'
 
 ## [Office hours with YakShavers](<Office hours with YakShavers.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -169,8 +301,31 @@
 ## [Production Cell](<Production Cell.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Last Updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Project Lead**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Quadrantology](<Quadrantology.md>): A client project to create a revenue-generating personality test based on the assets already created and prototyped by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Project Lead**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Financial Structure**: Client Project ([Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Relief Resources for Self-Employed](<Relief Resources for Self-Employed.md>)
 - [Gigging in the time of Corona](https://artofgig.substack.com/p/gigging-in-the-time-of-corona) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Roam](<Roam.md>)
+owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Roam Help](<Roam Help.md>)
 - This February 2020 post on __A Text Renaissance__ by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -264,17 +419,26 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Threat Model](<Threat Model.md>)
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Twitter](<Twitter.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Vlad Meh: Naming Ways, Magic Ways](<Vlad Meh: Naming Ways, Magic Ways.md>)
 - [True Name idea](https://en.wikipedia.org/wiki/True_name) -- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Bouba Kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect) -- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-## [Website Cell](<Website Cell.md>)
-- Once you've made your change, ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>), or [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- As a last resort, or in the unlikely event of an emergency update, you can ping [Nathan Acks](<Nathan Acks.md>), [Tom Critchlow](<Tom Critchlow.md>), or [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 - Yep, often “internal consultants” tend to be part of a new capability initiative like six sigma and float around helping other teams acquire the capability as coaches. But be aware that such roles often mean “employee-ier than thou”. It may not serve as a bridge to free agency unless you acquire externally valuable certifications etc. Threading that needle is non-trivial. You want to rude something that’s both a broad industry trend and a local capability need, and position internally and externally (go to meetups, write blogs etc) at the same time [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -284,6 +448,22 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - +1 to David’s point. I’ve never successfully structured a gig around a tool or idea just because I wanted to apply it or thought they needed it. The only thing you sell is solutions to problems. Creating problems corresponding to tools (in the good sense) is a mob for books rather than gigs.[Venkatesh Rao](<Venkatesh Rao.md>)
 
 - Think potential energy. Build up an asset and network over years. Don’t look for ways to generate leads from a cold start in weeks. What you do now might get you leads in 2021. Think leadgen with a min 12 month horizon - [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+9. [Venkatesh Rao](<Venkatesh Rao.md>):
+
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - **Meeting Lead:** [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -301,6 +481,11 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- from discord announcements channel by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Branding Principles Proposal](<Yak Branding Principles Proposal.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -310,18 +495,47 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) led by [Paul Millerd](<Paul Millerd.md>) and [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>)
+- [Future Frontiers](<Future Frontiers.md>) [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Six Uneasy Pieces](<Six Uneasy Pieces.md>) — needs primary but [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Nature is Healing](<Nature is Healing.md>) — [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Yak Collective Governance](<Yak Collective Governance.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Created](<Created.md>):** [May 4th, 2020](<May 4th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Last Updated](<Last Updated.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **General Track** — [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [**Yak Collective Governance**](<**Yak Collective Governance**.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
+[Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [**CFP Process**](<**CFP Process**.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
+[Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Yak Discord server](<Yak Discord server.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
+- "people who get tenure in the US are very ambitious" - [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Gov Chat Minutes- A systematic Logic of Platform Business](<Yak Gov Chat Minutes- A systematic Logic of Platform Business.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -331,6 +545,13 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - [Amanda Reeves](<Amanda Reeves.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Benton Heimsath](<Benton Heimsath.md>) [Chris Clark](<Chris Clark.md>) [David McDougall](<David McDougall.md>) [Drew Shiel](<Drew Shiel.md>) [Jordan Peacock](<Jordan Peacock.md>) [Kannen Ramsamy](<Kannen Ramsamy.md>) [Michael Colin](<Michael Colin.md>) [Ryan Hume](<Ryan Hume.md>) [Sachin Benny](<Sachin Benny.md>) [Scott Garlinger](<Scott Garlinger.md>) [Shreeda Segan](<Shreeda Segan.md>) [Thomas Hollands](<Thomas Hollands.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Toby Shorin](<Toby Shorin.md>) [Tom Critchlow](<Tom Critchlow.md>) [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Yak Rover](<Yak Rover.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
+
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - Game-in-the-head > head-in-the-game. Makes sense after a few rounds with different client types - [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -338,6 +559,14 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 ## [Yak-Walk Map](<Yak-Walk Map.md>)
 - -> "How do I put this together into a gig that could solve this pain-pointfor me?"  ---- YC gig organization: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Zapier](<Zapier.md>)
+owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
+- tentatively [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [token](<token.md>)
 - "One thought I had was that every voice chat mines coins in proportion to the number of people who attended, so 5 people in a 10 minute chat = 5 yak coins mined for eg. It's a proxy for growth in trust levels and takes actually non-fake participation to create. Similarly for collaborative output. 25 people contributing 2 slides each to a deck = say 50 yakcoins create" [Venkatesh Rao](<Venkatesh Rao.md>)

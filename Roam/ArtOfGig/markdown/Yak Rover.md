@@ -1,0 +1,79 @@
+- About:: __A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.__
+- Chief Page Wrangler:: [[Venkatesh Rao]]
+    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
+- Created:: [[November 18th, 2020]] by [[Venkatesh Rao]]
+- Page Type:: {{or: #Project | #tk1 | #tk2 }}
+- Status:: {{or: Early Concept | Active | Proposal | Complete}}
+- Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- Last Updated:: `/today` by [[Fname Lname]]
+- Last Gardened:: [[November 20th, 2020]] by [[Jenna Dixon]]
+-  
+- A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.
+- Project lead: [[Venkatesh Rao]]: In another life I was an aerospace engineer, and my phd/postdoc were all related to space stuff, ground robots etc. My own relevant research was on mapping and path planning, and I probably know enough to do the basic mechanical and control design for a rover. What I'd need support on is electronics design, software, etc.
+- Phase 1: [[Yak One Design Sketchbook]]: A Da Vinci style notebook of sketches by March 31
+- Phase 2: Top down detail design with subsystem dependecies consensus. Output is specs for rover by June 30
+- Phase 3: All subsystem designs for collective review by sept 30-output is set of subsystem design docs
+- Phase 4: Integrated system design docs by Dec 31. These should be enough to at least get started on actually building a rover, even if some details are TBD due to testing/experimental needs.
+- Roles needed
+    - Electronics design (RPi, Arduino, special chips/boards, sensor/actuator circuitry)
+    - Procurement (somebody to centrally buy and ship stuff to people who need hardware to work with)
+    - Software architect
+- The initial prototype will be a small (think toy-scale but not a toy) rover that could be built from 3d printed parts and controlled by an RPi or similar, with fairly minimal payload etc.
+- If we pull this off, it will be the first milestone of the [[YC Space Program]]
+- Budget/funding: I think we can do all the design using free/open source tools. Fabricating a prototype (a stretch goal) would likely cost $1000 or so. I (Venkat) will commit to funding a minimum viable prototype if we get the design that far along. So basic electronics/electrical components, fabrication of the chassis and other mechanical elements, paying for basic accounts (for Starlink for eg)
+- Missions
+    - Inspection
+    - Troubleshooting
+    - Survey
+    - Sample collection
+    - Self-inspection
+    - Self-repair
+- Tests
+    - Mobility
+        - Climb a 45 degree gradient
+        - Climb a 30mm high step
+        - Clear obstacles 50mmX50mmX50mm under chassis
+        - 45 degree roll without toppling
+    - Physical robustness
+        - Can survive 1m drop without damage
+        - Can survive falling objects up to 50 grams
+    - Power
+        - Last 1 hour at full power in the dark
+        - Last 6 months in minimal power draw hibernation
+    - Electronics
+        - Can survive failure of any single component ((2x redundancy full)
+- Rover One rough design
+    - Chassis
+        - Fits in a 60cm x 30 cm x 20 cm cuboid
+        - 3-wheel tricycle with solar panels
+        - Main chasis will be an alumimum perf board with flexible capacity for holding stuff
+    - Drivetrain
+        - 2 independent drive motors for the rear wheels, steering via third wheel
+    - Power subsystem
+        - Solar panels
+        - LiIon battery pack
+    - Sensors
+        - "Whisker" based proximal obstacle sensing
+        - LIDAR?
+        - Radar (can we get cheap enough?)
+        - Drive cameras
+    - Navigation and control
+        - GPS
+        - SLAM style local navigation
+        - Stored map for deployment zone
+    - Communications
+        - Starlink WiFi
+        - Continuous telemetry of system healthy
+    - Payload
+        - Gimballed surveying camera (dual use for self inspection)
+        - Maybe some sort of atmosphere sensor, like pollution?
+    - Compute
+        - RPi for general compute (2x redudant maybe?)
+        - Might need a couple of Arduinos for microcontroller needs and also fallback basic behaviors mode if the compute or comms fail
+    - Software stack
+        - System health and diagnostics
+        - Comms
+        - Failure mode id and recovery/reconfig
+        - Basic path planning and navigation
+        - API-controlled payload ops
+        - etc.

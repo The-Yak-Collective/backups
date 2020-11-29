@@ -21,6 +21,20 @@
     - **[Email](<Email.md>):** contact@wabisabifutures.com
 
 # Backlinks
+## [Astonishing Stories
+...of what’s next](<Astonishing Stories
+...of what’s next.md>)
+- **Leads:** [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>)
+
+- [September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>)
+
+- __answer: [Amanda Reeves](<Amanda Reeves.md>)
+
+## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>)
+
+- [ ] proofreader volunteer: 🎉💥 [Amanda Reeves](<Amanda Reeves.md>)
+
 ## [Australia](<Australia.md>)
 - [Amanda Reeves](<Amanda Reeves.md>),
 
@@ -32,6 +46,14 @@
 
 ## [Production Cell](<Production Cell.md>)
 - [Amanda Reeves](<Amanda Reeves.md>)
+
+- [Amanda Reeves](<Amanda Reeves.md>)
+
+## [September 14th, 2020](<September 14th, 2020.md>)
+- "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>)
+
+## [September 21st, 2020](<September 21st, 2020.md>)
+- [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>)
 
 ## [Shreeda Segan: Death Ways](<Shreeda Segan: Death Ways.md>)
 - Comments from [Amanda Reeves](<Amanda Reeves.md>):
@@ -50,17 +72,17 @@
 - Use scenarios in your consulting work? I build morphological scenario generators (essentially a black box that produces scenarios based on combinations of different factors - kind of like a slot machine wheel). Depending on design, it can produce hundreds of distinct future scenarios to be used as inputs and provocations for your client work.If you'd like a custom black box built, drop me a line [Amanda Reeves](<Amanda Reeves.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
-- [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>) - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>).
+...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>).
 
 - [Post-COVID scenario set](<Post-COVID scenario set.md>) - a collaboratively built scenario generator exploring pathways from COVID over the next 5 years, led by [Amanda Reeves](<Amanda Reeves.md>)
 
 - [Post-COVID scenario set](<Post-COVID scenario set.md>) - a collaboratively built scenario generator exploring pathways from COVID over the next 5 years, led by [Amanda Reeves](<Amanda Reeves.md>)
+
+## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
+[Amanda Reeves](<Amanda Reeves.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>) [Vlad Mehakovic](<Vlad Mehakovic.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Alex Dobrenko](<Alex Dobrenko.md>) [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>).
 
 - [Amanda Reeves](<Amanda Reeves.md>)
-
-## [YakWorld: Astonishing Stories of What's Next](<YakWorld: Astonishing Stories of What's Next.md>)
-- **Leads:** [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>)
 

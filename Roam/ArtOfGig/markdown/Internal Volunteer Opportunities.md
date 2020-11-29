@@ -1,7 +1,7 @@
 - This is a stub. Maintained by [[Venkatesh Rao]] and [[Darren Kong]]
 - Skut work
     - Claim an important Roam page and maintain it
-    - Help with the [[Website Cell]]
+    - Help with the [[Yak Collective Website]]
         - [Issue list on GitHub](https://github.com/The-Yak-Collective/yakcollective/issues)
         - [Issues where we could particularly use help](https://github.com/The-Yak-Collective/yakcollective/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) (though help is welcome everywhere!)
 - Sergeant work

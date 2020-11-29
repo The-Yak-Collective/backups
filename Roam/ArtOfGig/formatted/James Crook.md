@@ -30,7 +30,7 @@
 ## [Directory](<Directory.md>)
 - [James Crook](<James Crook.md>)
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - [James Crook](<James Crook.md>)
 
 ## [Nature is Healing](<Nature is Healing.md>)

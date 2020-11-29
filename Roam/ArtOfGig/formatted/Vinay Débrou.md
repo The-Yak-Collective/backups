@@ -30,13 +30,38 @@
 ## [Directory](<Directory.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 9 AM - 9:30 AM US Pacific Time (16h00-16h30 UTC), hosted by [Vinay Débrou](<Vinay Débrou.md>)
+
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Vinay Débrou](<Vinay Débrou.md>):
+
+## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Vinay Débrou](<Vinay Débrou.md>)
+
+- [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - A few core areas where we can offer in-demand expertise are web branding/media strategy, online learning, multidisciplinary remote collaboration, designing online spaces. [Vinay Débrou](<Vinay Débrou.md>)
 
 - [Vinay Débrou](<Vinay Débrou.md>)
+
+## [October 5th, 2020](<October 5th, 2020.md>)
+- 21:04 [Jenna Dixon](<Jenna Dixon.md>) knacked the Yak Map fields + imported [Vinay Débrou](<Vinay Débrou.md>)'
+
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [x] [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+## [Schema | member data](<Schema | member data.md>)
+[Vinay Débrou](<Vinay Débrou.md>)
+
+- [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>) we will use [Discord UID](<Discord UID.md>). Rcvd scrape from [Vinay Débrou](<Vinay Débrou.md>),
 
 ## [Summary: 27th May Brainstorm](<Summary: 27th May Brainstorm.md>)
 2. sharing neural data to public, private circles   and no-one. Something tells me it wouldn't be the repeat of the ongoing conversation on digital data privacy [Vinay Débrou](<Vinay Débrou.md>)
@@ -47,8 +72,8 @@
 ## [Summary: Brainstorm Questions](<Summary: Brainstorm Questions.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
 
-## [Website Cell](<Website Cell.md>)
-- [Vinay Débrou](<Vinay Débrou.md>):
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+6. [Vinay Débrou](<Vinay Débrou.md>):
 
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)
@@ -61,8 +86,18 @@
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Yak-Walk Map](<Yak-Walk Map.md>) -- a walk-through map of the first Deck's ideas focusing on pain-points of decision-makers(our potential clients) along with a linked resource-library  — [Vinay Débrou](<Vinay Débrou.md>)
 
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Vinay Débrou](<Vinay Débrou.md>)
+
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Vinay Débrou](<Vinay Débrou.md>)
+
+## [Yak Network Map](<Yak Network Map.md>)
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- Attending: [Vinay Débrou](<Vinay Débrou.md>)
+
+- Follow up: [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>) [Vlad Mehakovic](<Vlad Mehakovic.md>) [Thomas Verhagen](<Thomas Verhagen.md>) [Alex Dobrenko](<Alex Dobrenko.md>) [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>). [Jordan Peacock](<Jordan Peacock.md>) [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) [Martha Balaile](<Martha Balaile.md>) [Benjamin Taylor](<Benjamin Taylor.md>) [Nita Baum](<Nita Baum.md>) [Vinay Débrou](<Vinay Débrou.md>)

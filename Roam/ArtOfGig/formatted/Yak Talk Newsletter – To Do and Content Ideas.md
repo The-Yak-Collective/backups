@@ -79,6 +79,9 @@ The other module may have something to do with graphic information. Can we do a 
 ## [Production Cell](<Production Cell.md>)
 - [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
 
-## [Website Cell](<Website Cell.md>)
+## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
+
+## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
+- newsletter contribution » [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
 

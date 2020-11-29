@@ -25,14 +25,14 @@
 
 - Hedge for radically different contingencies / scenarios, choose work for maximum repurposing across scenarios [Randy Lubin](<Randy Lubin.md>)
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Randy Lubin](<Randy Lubin.md>):
+
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Randy Lubin](<Randy Lubin.md>)
 
 ## [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
 - [Randy Lubin](<Randy Lubin.md>)
-
-## [Website Cell](<Website Cell.md>)
-- [Randy Lubin](<Randy Lubin.md>):
 
 ## [Yak Project Production History](<Yak Project Production History.md>)
 - on Roam: [David McDougall](<David McDougall.md>) [Darren Kong](<Darren Kong.md>) [Vaughn Tan](<Vaughn Tan.md>) [Randy Lubin](<Randy Lubin.md>)

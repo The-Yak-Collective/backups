@@ -1,0 +1,168 @@
+- **[About](<About.md>):** __XXX__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+- **[Last Updated](<Last Updated.md>):**
+- **[Last Updated By](<Last Updated By.md>):** [Fname Lname](<Fname Lname.md>)
+-  
+-  
+- 
+- # Outline
+    - Mapping possible future scenarios to create worlds for speculative fiction. Combines updated thinking on previous proposals [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) and [Post-COVID scenario set](<Post-COVID scenario set.md>)
+    - **Leads:** [Sachin Benny](<Sachin Benny.md>) & [Amanda Reeves](<Amanda Reeves.md>)
+    - **Referees:** [Damian Stewart](<Damian Stewart.md>) & [Reanna Browne](<Reanna Browne.md>)
+    - **[Astonishing-Stories Graph](<Astonishing-Stories Graph.md>):**
+        - https://roamresearch.com/#/app/Astonishing_Stories/page/SZICpsUu1
+- # Process
+    - ## Phase 1: Develop scenarios (3 weeks)
+        - ### 1.1 Respond to prompts to create future fragments (1 week)
+            - Collaborators participating in this phase will be provided with 1-3 unique prompts to which they will individually respond to, describing a fragment of a possible future that could emerge from the present
+            - Each prompt contains three components: an arc, a domain, and a mood - sourced from [The Thing From The Future](http://situationlab.org/project/the-thing-from-the-future/)
+                - **Arc:** the story arc of this future, based on [Dator's Four Future Archetypes](http://www.foresightguide.com/dator-four-futures/). These are:
+                    - **Growth:** a future in which progress (as we know it) has continued; this future is much like today only more so
+                    - **Collapse:** a future in which society as we know it has come apart
+                    - **Discipline: ** a future in which order is deliberately coordinated or imposed
+                    - **Transformation:** a future in which a profound historical evolution has occurred
+                - **Domain:** the focal context of your fragment; it might be a location, industry, or topic
+                - **Mood:** the emotional tone for your fragment
+            - **Example prompts:**
+                - Collapse + family + wonder
+                - Discipline + learning + melancholy
+                - Discipline + wealth + disgust
+                - Grow + equality + excitement
+                - Transform + intellectual property + wellbeing
+            - Collaborators can indicate the top 3 domains that bump into their direction of maximal interestingness during sign up; the other elements of the prompt (arc & mood) will be provided.
+        - ### 1.2 Map future fragments from sooner to later (1 week)
+            - Collaborators come together to arrange their future fragments on a [Harman Fan](https://www.slideshare.net/wendyinfutures/future-of-universities-an-example-of-scenario-building-using-the-harman-fan), organising them in chronological order from sooner to later in relation to one another
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fw7saUNUORq.png?alt=media&token=18f042bd-a652-4d89-9838-ad4010557247)
+        - ### 1.3 Link up fragments to create scenarios (1 week)
+            - Using this map, many different pathways can be traced between fragments in different time horizons
+            - Collaborators can individually and/or collaboratively explore different pathways to find those that provide the most interesting material for turning into speculative fiction. There may be tensions in the transitions between different snippets that require some creative fleshing out - these can make for juicy material for exploring a world
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F64-OAjyL_k.png?alt=media&token=c116f922-457e-45b8-9b04-e52f6eeea293)
+    - ## Phase 2: Create speculative fictions (3 weeks)
+        - Pick a scenario and develop a piece of speculative fiction around
+        - Pick a narrative framework for your speculative fiction
+            - [Dan Harmon's story circle ](https://blog.reedsy.com/dan-harmon-story-circle/)
+            - [Story Spine](http://improvencyclopedia.org/games/Story_Spine.html)
+            - [Consultant Diagrams ](https://artofgig.substack.com/p/basic-consultant-diagrams)
+            - [Browse through Understanding comics ](http://mm12.johncaserta.info/wp-content/uploads/2012/10/Understanding%20Comics%20(The%20Invisible%20Art)%20By%20Scott%20McCloud.pdf)
+            - **Your Speculative fiction could arrive in many forms:**
+                - Short story / essay eg: [Sort by Controversial](https://web.archive.org/web/20200121045328/https://slatestarcodex.com/2018/10/30/sort-by-controversial/)
+                - Comics/cartoons
+                - Code/interactive such as Simler, Up and down the ladder of abstraction
+                - Podcast / spoken word recording
+        - ### 2.1 Strawman sprint (1 week)
+            - Develop idea and first draft of the piece
+            - Around the end of the first week, set up some time with your editors - this will be project leads, referees and any other experts to test and refine your thinking. We'll try to follow the [Pixar Braintrust ](https://www.fastcompany.com/3027135/inside-the-pixar-braintrust)model for this
+        - ### Steelman sprint (2 weeks)
+            - Strengthening your fiction into a final draft, editing in consultation with editors & referees
+        - ## Phase 3: Collate & share (2 weeks)
+- # Ways to contribute
+    - There are a number of different roles you can play in this project. If you'd like to contribute to one or many of these roles, please add your name accordingly.
+    - ## Future fragments creator
+        - Create your own individual future fragment in response to the provided prompts, then collaborate with other contributors to map your fragments within time horizons respective to each other
+        - ### Want to create future fragments? Add your name here
+            - [Johnicholas Hines](<Johnicholas Hines.md>)
+            - [Zhan Li](<Zhan Li.md>)
+            - [Paul Sas](<Paul Sas.md>)
+            - [Sumit Paul-Choudhury](<Sumit Paul-Choudhury.md>) 
+            - [Hershil Patel](<Hershil Patel.md>)
+    - ## Scenario mapper
+        - Trace pathways between future fragments to create scenarios, curating a collection of interesting scenarios to provide inspiration for speculative fiction. Can be done autonomously or in collaboration with others
+        - ### Want to map out scenarios? Add your name here
+            - [Johnicholas Hines](<Johnicholas Hines.md>)
+            - [Zhan Li](<Zhan Li.md>)
+            - [Ben Smith](<Ben Smith.md>)
+            - [Paul Sas](<Paul Sas.md>)
+            - [Prashant Gandhi](<Prashant Gandhi.md>)
+            - [Sumit Paul-Choudhury](<Sumit Paul-Choudhury.md>)
+            - [Hershil Patel](<Hershil Patel.md>)
+    - ## Speculative fiction creator
+        - Take the scenarios that you find inspiring and create interesting pieces of speculative fiction around it
+        - ### Want to create fiction? Add your name here
+            - [Zhan Li](<Zhan Li.md>)
+            - [Ben Smith](<Ben Smith.md>)
+            - [Paul Sas](<Paul Sas.md>)
+            - [Michael de la Maza](<Michael de la Maza.md>)
+            - [Hershil Patel](<Hershil Patel.md>)
+    - ## Fiction collection curator
+        - Work with the website designer/s to curate the different forms of fiction into a interactive website
+        - ### Want to curate the collection? Add your name here
+            - [Alex Dobrenko](<Alex Dobrenko.md>)
+            - [Hershil Patel](<Hershil Patel.md>)
+    - ## Visual communicator
+        - Work with Speculative fiction creators to produce visuals (art, graphic design etc)that help convey the story
+        - ### Want to create visuals? Add your name here
+            - [Maggie Appleton](<Maggie Appleton.md>)
+            - [Justice](<Justice.md>)
+    - ## Website designer
+        - Work with the curator/s to design the interactive website hosting the fiction
+        - ### Want to design the site? Add your name here
+            - [Bardia Pourvakil](<Bardia Pourvakil.md>)
+- [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
+- ## Breakdown of the Speculative Fiction Sprint
+    - First week - Strawman week where you'll write short flash fiction (300-500 words) utilizing the Future Fragments and Scenarios on the Roam, using the MICE framework for short fiction (August 12-19)
+    - Second week - Steelman week where you should review the speculative fiction with Sachin or Amanda on a short 30 minute call. Artists begin work on illustrations for each work of speculative fiction (August 19 - September 2)
+    - Third week - Artwork sprint, speculative fiction is locked in with no more big changes. (September 2 - 9)
+    - Future Fragments - https://roamresearch.com/#/app/Astonishing_Stories/page/YLj-7R4GY
+    - Scenarios - https://roamresearch.com/#/app/Astonishing_Stories/page/zh6lSZyAk
+    - MICE framework - http://www.sfcenter.ku.edu/Workshop-stuff/MICE-Quotient.htm
+- 
+- [September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)
+    - [Nathan Acks](<Nathan Acks.md>) asked [September 10th, 2020](<September 10th, 2020.md>) on » [Discord](
+https://discordapp.com/channels/@me/741807575024271430/753791288956158042)
+        - key things i need:
+(1) advice on the accent color (unless you like the blue i just kinda made up)
+            - __answer: let's wait and let the illustrators get involved - pull out a colour from the hero image__
+            - [ ] add that to the brief [Sachin Benny](<Sachin Benny.md>) [September 14th, 2020](<September 14th, 2020.md>)
+        - (2) a hero image (unless you like the gears)
+            - __answer: to be included as a deliverable with the call for artists__
+            - [ ] add that to the brief [Sachin Benny](<Sachin Benny.md>) [September 14th, 2020](<September 14th, 2020.md>)
+            - [ ] test this option [Nathan Acks](<Nathan Acks.md>) [September 21st, 2020](<September 21st, 2020.md>) 
+vvv untwirl! vvv
+                - background-color: [ffffec](<ffffec.md>); background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='%235c8bfb' fill-opacity='0.4'%3E%3Cpath fill-rule='evenodd' d='M11 0l5 20H6l5-20zm42 31a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM0 72h40v4H0v-4zm0-8h31v4H0v-4zm20-16h20v4H20v-4zM0 56h40v4H0v-4zm63-25a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM53 41a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-30 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-28-8a5 5 0 0 0-10 0h10zm10 0a5 5 0 0 1-10 0h10zM56 5a5 5 0 0 0-10 0h10zm10 0a5 5 0 0 1-10 0h10zm-3 46a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM21 0l5 20H16l5-20zm43 64v-4h-4v4h-4v4h4v4h4v-4h4v-4h-4zM36 13h4v4h-4v-4zm4 4h4v4h-4v-4zm-4 4h4v4h-4v-4zm8-8h4v4h-4v-4z'/%3E%3C/g%3E%3C/svg%3E");
+                - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fno3iNzpXA_.zip?alt=media&token=2e893843-bd01-44dc-8422-f5dc57f6c9a5
+                - taken from » Random Shapes on https://www.heropatterns.com/
+                - 
+        - (3) project tagline + 1 or 2 paragraph leader
+            - __answer: [Amanda Reeves](<Amanda Reeves.md>) will take first crack__ [September 15th, 2020](<September 15th, 2020.md>)
+                - We did a little test play via developer mode....
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FOlXcA_suRN.png?alt=media&token=be39179b-9715-43b1-b950-fb8e2fd65643)
+        - (4) any additional information you want to include on the page (currently will appear under the stories)
+
+            - __answer: tbd__
+        - (5) go-live date for the project page
+
+            - __answer: tbd. Some art may be ready by the end of the week.__
+        - (6) story content itself, with each story having: (a) title, (b) author, (c) text + images, (d) 1 sentence teaser, (e) go-live date for that story (if different than the project as a whole)
+
+we can iterate through layouts, etc. since there hasn't been a lot of feedback, i'm assuming right now that things more-or-less look good, which means that i can drop content in pretty quickly. ideally, we should probably have content ready ~1 week ahead of time (and least 2 - 4 days) so folks can look at it and decide tweaks.
+
+iirc, part of the idea was for these to go out in yak talk. in that case, we'll need to decide whether yak talk should link to the story on the site (in which case i don't need to do anything except get all concerned the links where stories will go), or if story cards should link to yak talk archive pages (in which case my guess is that the newsletter will need to go out first, and then i'll need to do a quick rebuild so that i'm using the right archive link)
+    - Typeface thoughts. 
+        - Still thinking about using typography from the pulp fiction zone. A couple of examples
+            - ![NPM 📚 📸 on Twitter | Pulp magazine, Chromatic, Font types](https://i.pinimg.com/originals/c2/f7/c0/c2f7c0d88752c91bec2d292fb42703b8.jpg)
+            - ![Pulp Fonts | Fontcraft: Scriptorium Fonts, Art and Design](https://www.fontcraft.com/images/startlingstoriesmf.jpg)
+            - Jenna: it could be fun to have 3-4 pairings available and let our authors choose the combo for their story. 
+        - https://fonts.google.com/specimen/Mouse+Memoirs?query=mouse
+        - https://fonts.google.com/specimen/Mouse+Memoirs?query=mouse[pairings](<pairings.md>)
+            - ^^Bangers + Mouse Memoirs^^. A fun, ambitious choice. make body larger than in the Google Font demo.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FBJ0s1MGDin.png?alt=media&token=b3d3c286-373b-4511-9ac1-654b9c4433c9)
+                - ^^Mouse Memoirs + Roboto^^. A clearly nice choice and combo
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FIg53Valxqk.png?alt=media&token=bb42996e-c996-4065-ac25-04c24a2644c9)
+    - 
+    - [Noto Sans](https://fonts.google.com/specimen/Noto+Sans?query=noto&preview.text=Astonishing%20stories&preview.text_type=custom)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F26Fa2WtGM6.png?alt=media&token=c8b7a10a-9026-4662-ba1b-b3956f0674f2)
+        - 
+- 
+- 
+- [October 12th, 2020](<October 12th, 2020.md>) 19:43 call 
+    - [Sachin Benny](<Sachin Benny.md>) [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>)
+    - edit cycles
+    - [ ] ping authors re copyedits SB
+    - [ ] create footnotes SB
+    - [ ] author bios - add at the bottom of the story
+    - type choices
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fj4CYuoaGXs.png?alt=media&token=045a7160-a64c-4337-bc95-d379aaa5134a)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FkZrI001du1.png?alt=media&token=3ed2d9f8-da71-4752-89e8-b5c9211cb70f)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F2-W_C5kHmE.png?alt=media&token=3d2a360f-e77d-43ba-9f40-81be2acd4e2c)
+    - 
+- 

@@ -1,2 +1,2 @@
-- Website Cell:: https://breakingsmart.com/
+- Yak Collective Website:: https://breakingsmart.com/
 - Newsletter:: https://breakingsmart.substack.com/

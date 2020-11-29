@@ -12,9 +12,6 @@
 ## [Neurofuturama](<Neurofuturama.md>)
 - **Fun stuff**: please keep track of who has helped you/collaborated in a useful way... we'll do a little experiment with [**Yak Coins**](<**Yak Coins**.md>)
 
-## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-- [**Yak Coins**](<**Yak Coins**.md>)
-
 ## [token](<token.md>)
 - [**Yak Coins**](<**Yak Coins**.md>)
 

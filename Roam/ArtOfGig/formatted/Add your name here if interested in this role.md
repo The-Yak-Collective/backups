@@ -1,16 +1,16 @@
 
 # Backlinks
 ## [Production Cell](<Production Cell.md>)
-More formal than reader or sparring partner.__
+More formal than [reader](<reader.md>) or [sparring-partner](<sparring-partner.md>).__
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
 
-- __Read at the tree level. Lover of details.__
+- fmi: [Copyediting](https://en.wikipedia.org/wiki/Copy_editing) (Wikipedia)
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
 
 Native, Webflow, Carrd, Google Slides....__
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
 
-Eg restaurant menu proofreader, back when that was a thing.__
+- fmi: [Proofreading](https://en.wikipedia.org/wiki/Proofreading) (Wikipedia)
         - **[Add your name here if interested in this role](<Add your name here if interested in this role.md>):**
 
 - ### Original illustrations

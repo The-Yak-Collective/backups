@@ -39,8 +39,8 @@ https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=shari
     - will need to consider IP on a case-by-case basis. or will everyone agree that we assume we assign any IP to client (work for hire) ? 
 
 # Backlinks
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
-- Discussion on how to move forward [infrastructure](<../infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<../Self-Employed life starter pack.md>) + [Collaboration model/economy](<../Collaboration model/economy.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
+- Discussion on how to move forward [Infrastructure](<../Infrastructure.md>) , possible first spotlight will be on "indie 101 hub" [Self-Employed life starter pack](<../Self-Employed life starter pack.md>) + [Collaboration model/economy](<../Collaboration model/economy.md>)
 
 ## [Things We Need](<Things We Need.md>)
 - [Collaboration model/economy](<../Collaboration model/economy.md>)

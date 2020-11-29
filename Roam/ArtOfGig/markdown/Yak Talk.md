@@ -5,7 +5,7 @@
 - 
 - **Current Team:**
 - [[Alex Wagner]] – Editor, writer for #futurecasting track
-- [[Grigori Milov]] – Editor, writer for #online-governance track
+- [[Grigori Milov]] – Editor, writer for #online-governance [[Yak Collective Governance]] track
 - 
 - **Team meeting are held 930am EDT, every Saturday**
 - 

@@ -15,6 +15,15 @@
 ## [08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization](<08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization.md>)
 - [Praful Mathur](<Praful Mathur.md>)
 
+## [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
+- [Praful Mathur](<Praful Mathur.md>)
+
+## [Infrastructure](<Infrastructure.md>)
+- [Praful Mathur](<Praful Mathur.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+5. [Praful Mathur](<Praful Mathur.md>):
+
 ## [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
 - [Praful Mathur](<Praful Mathur.md>)
 

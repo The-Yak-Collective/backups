@@ -1,7 +1,10 @@
-- [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+- [Future Frontiers](<Future Frontiers.md>)
 - 
 
 # Backlinks
-## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-- [**Final Frontiers**](<**Final Frontiers**.md>)
+## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
+- **[About](<About.md>):** Launch Plan for [**Final Frontiers**](<**Final Frontiers**.md>)
+
+## [November 11th, 2020](<November 11th, 2020.md>)
+- update on [**Final Frontiers**](<**Final Frontiers**.md>)
 

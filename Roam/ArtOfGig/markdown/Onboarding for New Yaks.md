@@ -1,17 +1,17 @@
-- [Google doc mirror](https://docs.google.com/document/d/1I63ZKu8o0DpBG0tWhssIsCinlXeBKO-xGyvmIMXXAWE/edit?usp=sharing
+- [Google doc mirror](https://docs.google.com/document/d/1I63ZKu8o0DpBG0tWhssIsCinlXeBKO-xGyvmIMXXAWE/edit?usp=sharing)
 - This doc exists to help you navigate your way while getting started in Yak Collective.
-- 
 - ## **For Starters:**
 - __We recommend that new Yaks read through the following links.__
     - ["Don't Waste the Reboot" Yak Collective Slide Deck](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit#slide=id.g839bef3dde_29_8)
     - https://yakcollective.org/about
 - It also doesn't hurt to have a look at:
-    - [Things We Need](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
+    - [[Discord Chat Calendar]]
+    - [[Things We Need]]
     - New Yaks can [log questions here.](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
 - ## **Welcome**
 - Hello and welcome, aspiring Yak! 🐂 :)
 - ## **What Is Yak Collective?**
-- Yak Collective is a place for people who are thinking about, or are currently making their living as an indie consultant.
+- Yak Collective is a place for people who are thinking about, or are currently making their living as an indie consultant. #needsupdate 
 - ## **What Is This Document?**
 - The first thing you should know: the Yak Collective is an__ experimental__ and __loosely-coordinated__ network of independent consultants. It is still very much an active experiment. Read about the Yak Collective’s origins and why it was formed at the [[About Page]].
 - YC operates by a simple [[Rules and Code of Conduct]] 
@@ -35,11 +35,11 @@
         - For general questions, post in #general.
         - If it has to do with one of the scheduled voice chats, post in #voice-meta.
         - Otherwise, pick an appropriate channel and ask away.
-        - Alex Wagner’s Thursday voice chat focuses on new member/Yak orientation is also another great place to start.
+        - Thursday voice chat focuses on new member/Yak orientation is also another great place to start.
     - Try to make friends and build collaborative relationships
         - Read and post your intros to the #introductions channel and [[Directory]], interact with members, attend voice chats, slide into DMs, interact on [Twitter](https://twitter.com/i/lists/1257428917616553984), read each other's blogs/newsletters, etc
     - Look for opportunities to participate in chat channels and voice chats
-        - Find a list of voice chats on the [[Discord Chat Schedule]] or[ Google calendar](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+        - Find a list of voice chats on the [[Discord Chat Calendar]] or[ Google calendar](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
             - The voice chats are a great place to participate and get a sense of some of the pockets of culture in the YC.
             - No voice chat is necessarily representative of the rich network of participants that have joined (and continue to join the Yak Collective), but collaborations are built relationship-by-relationship.
     - Find places to contribute and help — this is a self-organized network centered around collaboration and projects.
@@ -48,13 +48,13 @@
         - Submit your own proposals! Create a stub in Roam, and discuss those proposals in #collaboration channel on Discord
         - Submit a channel idea in #create-destroy-channels
         - Find people with which to collaborate (see above: Try to make Friends)
-        - Look through [[Things We Need]] and [[Internal Volunteer Opportunities]] and participate in #infrastructure channel and Saturday voice chats
+        - Look through [[Things We Need]] and [[Internal Volunteer Opportunities]] and participate in #Infrastructure channel and Saturday voice chats
 - Help the Yak Collective, help a Yak. 
     - Are you a new Yak still with a question?
         - Drop into #general or an appropriate channel and ask away. 
-        - [[Alex Wagner]] also has [a doc for new Yaks to log questions.](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
+        - [a doc for new Yaks to log questions.](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
     - Are you a new Yak with ideas on how to better this document and process?
-        - Please join us in #infrastructure with your thoughts and comments.
+        - Please join us in #Infrastructure with your thoughts and comments.
     - Are you a Yak interested in how the Yak Collective is governed and where it's going? 
         - Consider participating in the [[Yak Collective Governance]] chats on Friday.
 - ## How to Invite People to Yak Collective

@@ -1,42 +1,52 @@
 - {{kanban}}
     - **Icebox/Backlog**
-        - [[**Internal Volunteer Opportunities**]] [[FnameL]]
-        - [[**Things We Need**]] [[FnameL]]
-        - [[Yak Collective Discord Code of Conduct]] [[FnameL]]
+        - [[Internal Volunteer Opportunities]] cell
+[[FnameL]] lead
+        - [[Things We Need]] cell
+[[FnameL]] lead
+        - [[Yak Collective Discord Code of Conduct]] cell
+[[FnameL]] lead
     - **Emerging Cells**
-        - [[**Yak Coins**]]
-[[John N]]?
-        - [[Yak Network Map]] 
-[[Vinay Débrou]]
-        - [[**New Yak+Welcoming Comm**]] 
-[[Alex Wagner]]?
-        - [[**New to Consulting**]]
-[[FnameL]]
-        - [[**Online-Offsites**]] 
-[[Alex Wagner]]
-        - [[**Member Database**]] 
-[[Maier Fenster]]?
-        - [[**Momentum Problem**]] 
-[[Venkatesh Rao]]
-        - [[Production Cell]] 
-[[Jenna Dixon]]
+        - [[Yakcoin]] cell
+[[John N]] lead
+        - [[Yak Network Map]] cell
+[[Vinay Débrou]] lead
+        - [[New Yak+Welcoming Comm]] cell
+[[Alex Wagner]] lead
+        - [[New to Consulting]] cell
+[[Shreeda Segan]] lead
+        - [[Online-Offsites]] cell
+[[Alex Wagner]] lead
+        - [[Member Database]]  cell
+[[Maier Fenster]] lead? 
+        - [[Momentum Problem]] cell
+[[Venkatesh Rao]] lead
+        - [[Production Cell]] cell
+[[Jenna Dixon]] lead
     - **Active Cells**
-        - [[**Final Frontiers**]]
-[[Siva Swaroop]]
-        - [[**Yaks do innovation consulting**]]
-[[Vaughn Tan]]
-        - [[**Astonishing Stories**]]
-[[Amanda Sachin]]
-        - [[**infrastructure**]] [[Darren Kong]]
-        - [[**Yak Collective Governance**]] [[Venkatesh Rao]]
-        - [[**Discord Server**]] [[Jordan Peacock]] 
-        - [[**Yak Talk Newsletter**]] [[Alex Wagner]]
-        - [[**Website Cell**]] [[Nathan Acks]]
-        - [[**CFP Process**]] [[Venkatesh Rao]]
+        - [[Future Frontiers]] cell
+[[Siva Swaroop]] lead
+        - [[Yaks do innovation consulting]] cell
+[[Vaughn Tan]] lead
+        - [[Astonishing Stories
+...of what’s next]] cell
+[[Amanda Reeves]] lead
+        - [[Infrastructure]] cell 
+[[Darren Kong]] lead
+        - [[Yak Collective Governance]] cell
+[[Venkatesh Rao]] lead
+        - [[Yak Discord server]] cell
+[[Jordan Peacock]]  lead
+        - [[Yak Talk Newsletter – To Do and Content Ideas]] cell
+[[Alex Wagner]] lead
+        - [[Yak Collective Website]] cell
+[[Nathan Acks]] lead
+        - [[CFP Process]] cell
+[[Venkatesh Rao]] lead
     - **Archived Cells**
-        - [[**Don’t Waste the Reboot**]] 
-[[Paul Millerd]]
-        - [[**New Old Home**]] 
-[[Pamela Hobart]]
-        - [[**Neurofuturama**]] 
-[[Jordan Peacock]]
+        - [[Don’t Waste the Reboot]] cell 
+[[Paul Millerd]] lead
+        - [[The New Old Home]] cell
+[[Pamela Hobart]] lead
+        - [[Neurofuturama]] cell
+[[Jordan Peacock]] lead

@@ -8,6 +8,9 @@
 ## [Directory](<Directory.md>)
 - [Kannen Ramsamy](<Kannen Ramsamy.md>)
 
+## [Future Frontiers](<Future Frontiers.md>)
+- [Nano Satellites](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_97) | [Kannen Ramsamy](<Kannen Ramsamy.md>)
+
 ## [Summary: Brainstorm Questions](<Summary: Brainstorm Questions.md>)
 - [Kannen Ramsamy](<Kannen Ramsamy.md>)
 

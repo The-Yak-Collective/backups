@@ -27,7 +27,13 @@
 
 - [Greg Kramer](<Greg Kramer.md>)
 
+## [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
+- [Greg Kramer](<Greg Kramer.md>)
+
 ## [Directory](<Directory.md>)
+- [Greg Kramer](<Greg Kramer.md>)
+
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
 - [Greg Kramer](<Greg Kramer.md>)
 
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)

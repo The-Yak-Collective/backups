@@ -42,11 +42,20 @@
 ## [07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process](<07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
+## [08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem](<08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
+## [09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces](<09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
 ## [Directory](<Directory.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
-## [Discord Chat Schedule](<Discord Chat Schedule.md>)
+## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 8:30 PM - 9:00PM US Central Time, hosted by [Scott Garlinger](<Scott Garlinger.md>).
+
+## [Production Cell](<Production Cell.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
 
 ## [Summary: 26th May Brainstorm](<Summary: 26th May Brainstorm.md>)
 The synchronization of brain and environment moves closer with each advent. The difference with Kernel is... a recursive, real-time sync?" [Scott Garlinger](<Scott Garlinger.md>)
@@ -57,10 +66,25 @@ The synchronization of brain and environment moves closer with each advent. The 
 ## [The New Old Home](<The New Old Home.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
+## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
+## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
+## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
 ## [YC Governance Chat Minutes – 05/22/2020](<YC Governance Chat Minutes – 05/22/2020.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
+## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
 ## [Yak Project Production History](<Yak Project Production History.md>)

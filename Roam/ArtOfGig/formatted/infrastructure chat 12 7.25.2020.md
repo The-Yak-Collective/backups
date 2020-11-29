@@ -8,7 +8,7 @@
     - initiative for less radio silence and having the first welcoming 
 - Production committee
     - Needs on [Yaks do innovation consulting](<Yaks do innovation consulting.md>) project
-    - Illustrator needs on [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>) project
+    - Illustrator needs on [Future Frontiers](<Future Frontiers.md>) project
     - Other needs?
 - - Cells list - Active
     - Projects
@@ -28,9 +28,6 @@
 
 # Backlinks
 ## [July 25th, 2020](<July 25th, 2020.md>)
-- [infrastructure chat 12 7.25.2020](<infrastructure chat 12 7.25.2020.md>)
-
-## [infrastructure](<infrastructure.md>)
 - [infrastructure chat 12 7.25.2020](<infrastructure chat 12 7.25.2020.md>)
 
 ## [infrastructure chats](<infrastructure chats.md>)

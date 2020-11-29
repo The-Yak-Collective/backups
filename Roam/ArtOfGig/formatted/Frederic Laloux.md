@@ -1,4 +1,4 @@
-- **[Website Cell](<Website Cell.md>):**
+- **[Yak Collective Website](<Yak Collective Website.md>):**
     - https://www.reinventingorganizations.com
 - **[Wiki](<Wiki.md>):**
     - https://reinventingorganizationswiki.com/Main_Page

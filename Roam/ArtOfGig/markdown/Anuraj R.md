@@ -1,0 +1,3 @@
+- Here because I am curious how the indie life looks like
+- I studied Space Robotics for my master’s and electronics for bachelor’s degree. I have dabbled in lots of technologies in my career - all the way from diodes and transistors, micro-controllers with few kilobytes of ram to Linux/Windows applications.
+- 

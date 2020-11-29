@@ -1,4 +1,4 @@
-- My handle on [[Discord server]] is @sadmoonanalog
+- My handle on [[Yak Discord server]] is @sadmoonanalog
 - Personal site: shreedasegan.com  
 - Twitter Handles:
     - @freeshreeda https://twitter.com/freeshreeda
@@ -16,7 +16,7 @@
 - What I Do: 
     - remote "AI Implementation Specialist" for a chatbot product & service 
     - further develop my [[gig-curious]] identity 
-        - [[substack]], podcast, twitter networking
+        - [[Substack]], podcast, twitter networking
     - read about [[design]], systems, [[urban planning]], [[aesthetics]]
         - absorbing a lot of [[Tiago Forte]] and [[David Perell]]
     - keep up with friends online (Twitter, Discord, Slack) 

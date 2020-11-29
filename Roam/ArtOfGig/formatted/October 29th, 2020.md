@@ -1,0 +1,2 @@
+- [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>) kickoff [Grigori Milov](<Grigori Milov.md>) et al. /jd
+- 

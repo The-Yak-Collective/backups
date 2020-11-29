@@ -50,9 +50,6 @@
     - 1 Hour of Chart Competition Prompts 
 
 # Backlinks
-## [infrastructure](<infrastructure.md>)
-- [infrastructure chat 07 6.20.20](<infrastructure chat 07 6.20.20.md>)
-
 ## [infrastructure chats](<infrastructure chats.md>)
 - [infrastructure chat 07 6.20.20](<infrastructure chat 07 6.20.20.md>)
 

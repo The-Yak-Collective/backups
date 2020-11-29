@@ -1,0 +1,4 @@
+- [[Yak Collective Governance]] weekly chat 09:00 PT
+    - [[Jenna Dixon]] #gardened #online-governance + #online-governance-studies »»» [[Yak Collective Governance]] or consistency #ping [[Hugo Macedo]] [[Nathan Acks]]
+    - [[Jenna Dixon]] #gardened [[Yak Collective Governance]] »»» added [[template/header]] #ping [[Hugo Macedo]] [[Nathan Acks]]
+- [[Nathan Acks]] updated the [[IT Infrastructure]] page with the "final" version of the new infrastructure map (now hosted in a [YC GitHub repo](https://github.com/The-Yak-Collective/infrastructure-map)), added map symbol key and links, and removed the old Roam diagram

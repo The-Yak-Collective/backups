@@ -18,7 +18,7 @@
 ## [Directory](<Directory.md>)
 - [Nikhil Deshmukh](<Nikhil Deshmukh.md>)
 
-## [Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans](<Final Frontiers - Democratized Exploration and Exploitation of Space and Oceans.md>)
+## [Future Frontiers](<Future Frontiers.md>)
 - [Nikhil Deshmukh](<Nikhil Deshmukh.md>)
 
 ## [Neurofuturama](<Neurofuturama.md>)

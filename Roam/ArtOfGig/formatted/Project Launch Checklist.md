@@ -24,6 +24,6 @@
     - Notify preferred press outlets with appropriate lead time.
 
 # Backlinks
-## [infrastructure](<infrastructure.md>)
+## [Infrastructure](<Infrastructure.md>)
 - [Project Launch Checklist](<Project Launch Checklist.md>)
 

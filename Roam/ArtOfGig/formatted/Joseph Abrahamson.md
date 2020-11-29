@@ -17,5 +17,5 @@
 
 # Backlinks
 ## [Directory](<Directory.md>)
-- [Joseph Abrahamson](<Joseph Abrahamson.md>)
+- {{embed: [Joseph Abrahamson](<Joseph Abrahamson.md>)}
 

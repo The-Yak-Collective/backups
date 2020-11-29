@@ -38,7 +38,7 @@
         - “been trying to find ways to ‘trick myself’ into putting forth ideas in situations where there’s an appropriate audience”
 - 
 - **Sachin Benny**
-    - “marketing positioning has the advantage that, once you have a certain positioning then basically the direction becomes clear, and the work hinges on that.”
+    - “marketing [[positioning]] has the advantage that, once you have a certain [[positioning]] then basically the direction becomes clear, and the work hinges on that.”
         - the wrong position can be limiting as well. if no work coming in, a clear signal to reinvent yourself
         - a series of pilot projects based on the deck may help us find our positioning
 - ****
