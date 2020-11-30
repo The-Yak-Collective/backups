@@ -6,7 +6,7 @@
         - [x] [Maier Fenster](<Maier Fenster.md>)
         - [x] [Grigori Milov](<Grigori Milov.md>)
         - [x] [Sachin Benny](<Sachin Benny.md>)
-        - [x] [Paul Sas](<Paul Sas.md>)
+        - [ ] [Paul Sas](<Paul Sas.md>)
     - Agenda/Minutes 
         - Agree on an action plan
             - GM

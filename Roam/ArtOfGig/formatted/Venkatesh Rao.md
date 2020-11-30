@@ -215,6 +215,9 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Future Frontiers Contribution Prompts](<Future Frontiers Contribution Prompts.md>)
+- This is a bunch of ideas which would make suitable contributions to the [Future Frontiers](<Future Frontiers.md>) project. Each should take 2-4 hours of thought and composition at most, to generate a few slides and text. See [the website](https://www.yakcollective.org/projects/) for already published examples. Contact [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [GitHub](<GitHub.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 

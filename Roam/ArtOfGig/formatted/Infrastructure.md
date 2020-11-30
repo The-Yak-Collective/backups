@@ -27,6 +27,10 @@ suggest most recent note left untwirled for easy review to visitors__
         - 2jplEZUYM
         - 
 - ## Infrastructure Chat Notes
+- infrastructure chat 29 [November 29th, 2020](<November 29th, 2020.md>)
+    - #[YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+    - #[IT Infrastructure](<IT Infrastructure.md>)
+    - Praful - newsletter - would use something from google doc that can be copy & paste
 - infrastructure chat 28 [November 22nd, 2020](<November 22nd, 2020.md>) [meeting-notes](<meeting-notes.md>)
     - [Darren Kong](<Darren Kong.md>)'s notes
         - discord proposal

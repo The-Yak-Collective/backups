@@ -6,7 +6,7 @@
         - {{[[DONE]]}} [[Maier Fenster]]
         - {{[[DONE]]}} [[Grigori Milov]]
         - {{[[DONE]]}} [[Sachin Benny]]
-        - {{[[DONE]]}} [[Paul Sas]]
+        - {{[[TODO]]}} [[Paul Sas]]
     - Agenda/Minutes 
         - Agree on an action plan
             - GM

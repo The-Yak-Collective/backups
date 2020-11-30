@@ -57,7 +57,6 @@
             - ^^**editors** 
 [[Sachin Benny]]
 [[Scott Garlinger]]^^
-            - [[Ben Smith]] [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
         - Copyedit+Illustration 
             - ^^**copyeditor**
 [[Fname Lname]]^^ 
@@ -71,8 +70,6 @@
             - ^^**proofreader**
 [[Amanda Reeves]]^^
             - tk
-            - [[Sachin Benny]] 
-[Title tk](#)
         - publish
             - ^^**webdev**
 [[Nathan Acks]]^^
@@ -80,3 +77,6 @@
             - 02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
             - 03 [[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) 
             - 04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
+            - [[Sachin Benny]] 
+[Title tk](#)
+            - [[Ben Smith]] [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)

@@ -1,0 +1,14 @@
+- Job search tracking
+- Pop-up data science crash courses
+- Re-imagining the labor economy
+- Internships
+- Transformation of learning on your own; my own journey through data science, friend's journey through graphic design.
+- Sit and have tea with anxiety.
+- Why did Algebra and Stats make sense to me but Geometry, proofs and theorems didn't?
+- Zoom success in music; teaching, get togethers
+- Productivity planning
+    - I became more on top of my shit when I got rid of the excess frou-frous, trusted myself to remember things that mattered to me, and simplified as much as I could.
+- Overhaul of life milestones; mass exodus of young people away from Facebook, which gamifies milestones. 
+- Social media
+- Opportunity recognition; engineered luck
+- 

@@ -1,3 +1,4 @@
+- 
 
 # Backlinks
 ## [Astonishing Stories
@@ -22,7 +23,7 @@
 - Attendees: [Nathan Acks](<Nathan Acks.md>) [Sachin Benny](<Sachin Benny.md>) [Maier Fenster](<Maier Fenster.md>) [Paul Sas](<Paul Sas.md>)
 
 ## [October 22nd, 2020](<October 22nd, 2020.md>)
-- [x] [Paul Sas](<Paul Sas.md>)
+- [ ] [Paul Sas](<Paul Sas.md>)
 
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - [ ] [Paul Sas](<Paul Sas.md>)

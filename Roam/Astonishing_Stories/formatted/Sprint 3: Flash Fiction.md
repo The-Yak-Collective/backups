@@ -57,7 +57,6 @@
             - ^^**editors** 
 [Sachin Benny](<Sachin Benny.md>)
 [Scott Garlinger](<Scott Garlinger.md>)^^
-            - [Ben Smith](<Ben Smith.md>) [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
         - Copyedit+Illustration 
             - ^^**copyeditor**
 [Fname Lname](<Fname Lname.md>)^^ 
@@ -71,8 +70,6 @@
             - ^^**proofreader**
 [Amanda Reeves](<Amanda Reeves.md>)^^
             - tk
-            - [Sachin Benny](<Sachin Benny.md>) 
-[Title tk](#)
         - publish
             - ^^**webdev**
 [Nathan Acks](<Nathan Acks.md>)^^
@@ -80,3 +77,6 @@
             - 02 [Ben Smith](<Ben Smith.md>) [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
             - 03 [Scott Garlinger](<Scott Garlinger.md>) [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) 
             - 04 [Chris Butler](<Chris Butler.md>) [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
+            - [Sachin Benny](<Sachin Benny.md>) 
+[Title tk](#)
+            - [Ben Smith](<Ben Smith.md>) [Second untitled story ](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)

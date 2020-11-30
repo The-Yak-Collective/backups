@@ -4,6 +4,7 @@
 - Last Updated By:: [[Venkatesh Rao]]
 -  The goal of the future frontiers project to create an evolving, curated set of small modules spotlighting an idea, concept, trend, or piece of design fiction relating to frontiers and exploration. 
 - Anyone can submit a contribution by adding a few slides to the [Future Frontiers Input Deck](https://docs.google.com/presentation/d/1oIziqtVM878uRG-JOfrQNvGFsQWKP_S_W8cLkhQlXvA/edit?usp=sharing) (open for read-only browsing/commenting, but you'll need to request permission to add a submission) in the prescribed format below.
+- If you need ideas, here is a [[Future Frontiers Contribution Prompts]] (if you'd like to see a module on some topic but don't feel like doing it yourself, feel free to add a prompt to the page above)
 - If approved by the editor (currently [[Venkatesh Rao]]) it will go into a lightweight production process (currently coordinated by [[Jenna Dixon]]) and end up as a page on the [[Yak Collective Website]] and featured in the newsletter
 - **Launch Date: **Current goal is to launch with the first 3 modules by **Dec 1, 2020**
 - **Format**
