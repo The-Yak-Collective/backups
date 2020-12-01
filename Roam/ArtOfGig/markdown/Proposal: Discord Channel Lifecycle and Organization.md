@@ -86,6 +86,7 @@ Are you proposing to put #Discussions and #Bureaucracy under #Projects?
                 - [[Darren Kong]] i think this is too low of a bar. proposing it should be something like avg 10msg/week. or if we want it lower 20 msg/ month 
                     - Should send a weekly message activity note with warnings 
         - Channels can also be culled if there is a proposal to do so in `create-destroy-channels` that receives at least 10 "thumbs up" from different active yaks, made yaks, or yak shavers, at least 2 of which have posted in the channel in the last month.
+            - [[Drew Schorno]] Better to "vote to save" with a low bar, we need to prioritize reducing the number of channels. would take the form of "💀 The channel "channel name" has low activity and has been scheduled for archival. upvote this post the save the channel, anything with at least 3 votes will be spared." 
         - Culled channels are moved to the "Archives", and have their "send messages" permission disabled.
             [[Maier Fenster]] i would consider a temporary "being retired" category for a few weeks. and/or a post to members saying a channel is about to be retired, any objections.
     ## Resurrection
