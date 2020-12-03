@@ -13322,94 +13322,6 @@
     "title": "November 28th, 2020"
   },
   {
-    "children": [
-      {
-        "create-time": 1606689720325,
-        "edit-time": 1606689728003,
-        "string": "Job search tracking",
-        "uid": "3G-m_dMTY"
-      },
-      {
-        "create-time": 1606689727995,
-        "edit-time": 1606689735046,
-        "string": "Pop-up data science crash courses",
-        "uid": "HVgKWV2C8"
-      },
-      {
-        "create-time": 1606689736813,
-        "edit-time": 1606689756371,
-        "string": "Re-imagining the labor economy",
-        "uid": "RwjM6tJYg"
-      },
-      {
-        "create-time": 1606689760773,
-        "edit-time": 1606689762596,
-        "string": "Internships",
-        "uid": "JvIYzdNVv"
-      },
-      {
-        "create-time": 1606689771992,
-        "edit-time": 1606689786930,
-        "string": "Transformation of learning on your own; my own journey through data science, friend's journey through graphic design.",
-        "uid": "2UHfU-9kI"
-      },
-      {
-        "create-time": 1606689805099,
-        "edit-time": 1606689808941,
-        "string": "Sit and have tea with anxiety.",
-        "uid": "iojdjwf4A"
-      },
-      {
-        "create-time": 1606689871387,
-        "edit-time": 1606689885236,
-        "string": "Why did Algebra and Stats make sense to me but Geometry, proofs and theorems didn't?",
-        "uid": "G-4cD5gMF"
-      },
-      {
-        "create-time": 1606690086513,
-        "edit-time": 1606690094967,
-        "string": "Zoom success in music; teaching, get togethers",
-        "uid": "IKbMobI1d"
-      },
-      {
-        "children": [
-          {
-            "create-time": 1606690228343,
-            "edit-time": 1606690253590,
-            "string": "I became more on top of my shit when I got rid of the excess frou-frous, trusted myself to remember things that mattered to me, and simplified as much as I could.",
-            "uid": "2hw_q2Nt3"
-          }
-        ],
-        "create-time": 1606690222198,
-        "edit-time": 1606690261017,
-        "string": "Productivity planning",
-        "uid": "BcKbcqQef"
-      },
-      {
-        "create-time": 1606690311396,
-        "edit-time": 1606690382097,
-        "string": "Overhaul of life milestones; mass exodus of young people away from Facebook, which gamifies milestones. ",
-        "uid": "KsCb_WGCy"
-      },
-      {
-        "create-time": 1606690382356,
-        "edit-time": 1606690385351,
-        "string": "Social media",
-        "uid": "3B454P7YV"
-      },
-      {
-        "create-time": 1606690446372,
-        "edit-time": 1606690452962,
-        "string": "Opportunity recognition; engineered luck",
-        "uid": "d6snWMcds"
-      },
-      {
-        "create-time": 1606690602244,
-        "edit-time": 1606690602244,
-        "string": "",
-        "uid": "-DTidEUzq"
-      }
-    ],
     "create-email": "yakcollective.org@gmail.com",
     "create-time": 1606641400025,
     "edit-email": "yakcollective.org@gmail.com",
@@ -13427,10 +13339,25 @@
     "title": "December 1st, 2020"
   },
   {
+    "children": [
+      {
+        "create-email": "sachben91@gmail.com",
+        "create-time": 1606920395252,
+        "edit-email": "sachben91@gmail.com",
+        "edit-time": 1606920395252,
+        "string": "",
+        "uid": "HqyPG4xAD"
+      }
+    ],
     "create-email": "yakcollective.org@gmail.com",
     "create-time": 1606879354105,
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1606879354106,
     "title": "December 2nd, 2020"
+  },
+  {
+    "create-time": 1606971606037,
+    "edit-time": 1606971606039,
+    "title": "December 3rd, 2020"
   }
 ]

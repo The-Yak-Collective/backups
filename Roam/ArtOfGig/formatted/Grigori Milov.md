@@ -57,6 +57,13 @@
 
 - **[Project lead](<Project lead.md>):** [Grigori Milov](<Grigori Milov.md>)
 
+## [December 2nd, 2020](<December 2nd, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- #[Grigori Milov](<Grigori Milov.md>)
+
+- [ ] [Grigori Milov](<Grigori Milov.md>)
+
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

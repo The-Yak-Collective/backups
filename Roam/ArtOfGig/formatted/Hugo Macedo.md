@@ -43,6 +43,11 @@
 
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [December 2nd, 2020](<December 2nd, 2020.md>)
+- [x] [Hugo Macedo](<Hugo Macedo.md>)
+
+- [ ] [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
@@ -74,6 +79,8 @@
 
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- **Project Lead**:  [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Marketing Resources](<Marketing Resources.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
@@ -187,6 +194,11 @@
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
 4. [Hugo Macedo](<Hugo Macedo.md>):
+
+## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
+
+- **[Created](<Created.md>):** [December 2nd, 2020](<December 2nd, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)

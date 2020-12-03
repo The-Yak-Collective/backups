@@ -8,6 +8,9 @@
 
 - {{[embed](<embed.md>):
 
+## [December 2nd, 2020](<December 2nd, 2020.md>)
+- {{[embed](<embed.md>):
+
 ## [Directory](<Directory.md>)
 - {{[embed](<embed.md>):
 
@@ -34,5 +37,8 @@
 ## [Website Architecture](<Website Architecture.md>)
 - {{[embed](<embed.md>):
 
+- {{[embed](<embed.md>):
+
+## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
 - {{[embed](<embed.md>):
 

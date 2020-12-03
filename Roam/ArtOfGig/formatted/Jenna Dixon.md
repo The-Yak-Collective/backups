@@ -112,6 +112,9 @@ Last Gardened:: [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<
 ## [LinkedIn](<LinkedIn.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Marketing Channels](<Marketing Channels.md>)
+- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) __project. The text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. The image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>). Consult [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - [Jenna Dixon](<Jenna Dixon.md>)
 

@@ -61,6 +61,9 @@
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[About](<About.md>):**
 
+## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
+- **[About](<About.md>):**
+
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[About](<About.md>):**
 

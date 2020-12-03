@@ -24,6 +24,10 @@
 - **[Created](<Created.md>):** [November 15th, 2020](<November 15th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>) 
 - **[Page Type](<Page Type.md>):**
 
+## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
+- **[Created](<Created.md>):** [December 2nd, 2020](<December 2nd, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>) 
+- **[Page Type](<Page Type.md>):**
+
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
 - **[Created](<Created.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Page Type](<Page Type.md>):**

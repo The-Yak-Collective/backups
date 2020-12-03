@@ -44,6 +44,10 @@
 - [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
+- **[Last Updated](<Last Updated.md>):** 
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**

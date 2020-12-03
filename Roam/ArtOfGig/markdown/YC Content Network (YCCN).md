@@ -1,0 +1,22 @@
+- About:: A project idea to create a content network between all Yaks and an content aggregator that would leverage the aggregate Yak's audience to drive qualified traffic the hub and spokes
+- Chief Page Wrangler:: [[Hugo Macedo]] 
+    - Additional Page Wranglers:: 
+- Created:: [[December 2nd, 2020]] by [[Hugo Macedo]] 
+- Page Type:: {{or: #Project | #tk1 | #tk2 }}
+- Status:: {{or: Early Concept | Active | Proposal | Complete}}
+- Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- Last Updated:: 
+- Last Gardened:: 
+-  
+- {{[[embed]]: ((vo-BWKza8))}}
+-  
+- We have the opportunity to aggregate and leverage the individual audience of each Yak in a way that benefits both individual Yaks and the Collective. By building an interconnected network of content outlets (blogs, newsletters, podcasts,...) that drive and receive traffic/audience to/from a YC content Hub.
+- What's in it for YC?
+    - Generate traffic to YakC web property
+    - Launch platform/channel for YakC projects
+- What's in it for Yaks?
+    - increase each Yak audience by leveraging the YCCN
+- Expertise needed:
+    - co-lead
+    - SEO expertise
+    - website/technical 

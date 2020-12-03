@@ -92,6 +92,10 @@
 - **[About](<About.md>):** __Project launch activity and planning__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
+- **[About](<About.md>):** A project idea to create a content network between all Yaks and an content aggregator that would leverage the aggregate Yak's audience to drive qualified traffic the hub and spokes
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[About](<About.md>):** __weekly online-governance-chat minutes__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

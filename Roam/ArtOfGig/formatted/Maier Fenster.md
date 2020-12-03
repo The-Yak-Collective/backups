@@ -28,6 +28,11 @@
 
 - `admin-improvements-bak-202008118` (point: [Maier Fenster](<Maier Fenster.md>))
 
+## [December 2nd, 2020](<December 2nd, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
+
+- do enrolments go up as a function of "noise"? #[Maier Fenster](<Maier Fenster.md>)
+
 ## [Discord](<Discord.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 

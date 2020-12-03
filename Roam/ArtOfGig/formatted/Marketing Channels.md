@@ -35,6 +35,27 @@ The plan was to establish three tracks/beats:
     - Potential barriers
         - technical complexity
         - low adoption from Yaks 
+    - Project Pitch (draft)
+        - Yak Collective Content Network: we have the opportunity to aggregate and leverage the individual audience of each Yak in a way that benefits both individual Yaks and the Collective. By building an interconnected network of content outlets (blogs, newsletters, podcasts,...) that drive and receive traffic/audience to/from a YC content Hub.
+        - **Current State**:  **Draft** | Proposed | Started | Stalled | Live | Finished | Abandoned
+        - **Core Team** (minimum 2, maximum 4) 
+            - %% __A team that is sufficient to produce minimum viable output even if nobody else joins.__
+            - **Project Lead**:  [Hugo Macedo](<Hugo Macedo.md>)  -- Brief blurb on their role/qualifications. %% __Link all names to individual pages__
+            - **Backup Lead**: TBD  -- Brief blurb on their role/qualifications.  __%% should be able to backstop if main lead gets hit by a bus__
+            - **Optional**: Name 3 -- Brief blurb on their role/qualifications.
+            - **Optional**: Name 4 -- Brief blurb on their role/qualifications.
+        - **Additional Members**: // __Add names as people join__
+        - **Kickoff Date**: [December 15th, 2020](<December 15th, 2020.md>)
+        - **Launch Date**: TBD - depends on technical complexity 
+        - **Finish Date (optional)**: infinite - continuous development
+            - %% __Projects must launch, but need not end. The can be left open as indefinitely continuing projects.__
+        - **Discord channel**: channel-name %% __propose a channel in the create-destroy-channels, and once created, an
+        - **Discord channel**: channel-name 
+            - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
+        - **Launch Deliverable**: New Type - Content Hub
+            - %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) __project. The text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. The image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>). Consult [Jenna Dixon](<Jenna Dixon.md>) for details
+        - **Financial Structure**: Internal Project
+        - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 
 # Backlinks
 ## [November 4th, 2020](<November 4th, 2020.md>)

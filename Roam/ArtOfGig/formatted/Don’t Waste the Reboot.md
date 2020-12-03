@@ -57,6 +57,9 @@
 ## [Internal Project](<Internal Project.md>)
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
+## [Marketing Channels](<Marketing Channels.md>)
+- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+
 ## [Nature is Healing](<Nature is Healing.md>)
 - Format will be same 2-slides/idea format as [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 

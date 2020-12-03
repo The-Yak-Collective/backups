@@ -67,7 +67,7 @@
     - Evan loves to develop anti-fragile leaders and teams through deep introspection, honesty, and communication skills. When teams are able really practice a growth mindset, challenges and setbacks become opportunities for learning, opportunities for individual and team growth, and overall more engaging and meaningful work.  
     - Email: evan.carmi <@> gmail.com
 - [[Tim Casasola]]
-    - "I’m an organizational designer turned product manager."
+    - "I’m an [[organizational development]] consultant turned [[product manager]]."
     - "[timcasasola.com](http://www.timcasasola.com/)"
     - "[twitter.com/timcasasola](https://twitter.com/timcasasola)"
 - [[Rick Cerf]]

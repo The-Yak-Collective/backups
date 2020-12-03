@@ -62,6 +62,11 @@
 ## [Coronavirus and the Gig Economy](<Coronavirus and the Gig Economy.md>)
 - {{[TODO](<TODO.md>)}
 
+## [December 2nd, 2020](<December 2nd, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [Directory](<Directory.md>)
 - {{[TODO](<TODO.md>)}
 

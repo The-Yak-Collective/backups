@@ -27,6 +27,10 @@
 ## [Roam Help](<Roam Help.md>)
 - **[Status](<Status.md>):**
 
+## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
+- **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
+- **[Status](<Status.md>):**
+
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Created](<Created.md>):** [May 4th, 2020](<May 4th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Status](<Status.md>):**
