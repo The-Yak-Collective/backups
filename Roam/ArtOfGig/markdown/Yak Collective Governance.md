@@ -37,6 +37,10 @@ The article above is a part of a series, that include:
         - 3. The path to success for a platform venture is by no means easy or guaranteed, nor is it completely different from that of companies with more-conventional business models. Why? Because, like all companies, platforms must ultimately perform better than their competitors. In addition, to survive long-term, platforms must also be politically and socially viable.
             - **The read** is an article based on the excellent book The Business of Platforms by Michael Cusumano, et al. is here:
                 - https://sloanreview.mit.edu/article/the-future-of-platforms/
+        - 
+ is an excellent book 
+            - https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie
+        - It also reminds us that 
         - 4. This one is on Medieval Guilds. It is free and interesting
 https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period
 And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.
