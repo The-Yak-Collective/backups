@@ -267,6 +267,11 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)
+- **[Created](<Created.md>):** [December 4th, 2020](<December 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[Created](<Created.md>):** [November 13th, 2020](<November 13th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 

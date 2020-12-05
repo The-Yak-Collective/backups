@@ -128,6 +128,10 @@
 - **[About](<About.md>):** __notes from weekly governance call__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)
+- **[About](<About.md>):** __notes from weekly governance call__
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[About](<About.md>):** __notes from weekly governance call__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

@@ -122,6 +122,10 @@
 - **[Status](<Status.md>):** {{or: Active | Complete | Early Concept | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
 
+## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)
+- **[Status](<Status.md>):** {{or: Complete | Active | Early Concept | Proposal}}
+- **[Last Updated](<Last Updated.md>):**
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[Status](<Status.md>):** {{or: Complete | Early Concept | Active | Proposal}}
 - **[Last Updated](<Last Updated.md>):**

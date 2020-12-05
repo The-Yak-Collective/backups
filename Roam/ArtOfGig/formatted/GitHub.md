@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [December 4th, 2020](<December 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - Stores code and __some__ data in [The Yak Collective](https://github.com/The-Yak-Collective) team.
         - Currently holds member data; plan is to migrate this to [Knack.com](<Knack.com.md>) to allow for better GDPR compliance, easier self-maintenance of member records, etc.
@@ -11,14 +11,14 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
             - [ArtOfGig](https://roamresearch.com/#/app/ArtOfGig) [Roam](<Roam.md>) graph (backed up daily by [roam-to-git](https://github.com/MatthieuBizien/roam-to-git))
         - [yakcollective-ifttt-connector](https://github.com/The-Yak-Collective/yakcollective-ifttt-connector): Archive of an old [Glitch](<Glitch.md>) automation which was subsequently replaced by [Netlify Functions](https://docs.netlify.com/functions/overview/).
 # Access
+    - ^^You must have [2FA turned on in GitHub](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/configuring-two-factor-authentication) in order to access Yak Collective repos!^^
     - Owners
         - [Nathan Acks](<Nathan Acks.md>) ([necopinus](https://github.com/necopinus))
         - [Maier Fenster](<Maier Fenster.md>) ([tilnow](https://github.com/tilnow))
         - [Venkatesh Rao](<Venkatesh Rao.md>) ([vgururao](https://github.com/vgururao))
         - [Yak Collective Robot](<Yak Collective Robot.md>) ([yakcollective-robot](https://github.com/yakcollective-robot))
     - Members
-        - [Tom Critchlow](<Tom Critchlow.md>) ([tomcritchlow](https://github.com/tomcritchlow))
-            - Maintainer for `yakcollective` repo
+        - None right now...
 
 # Backlinks
 ## [Contributing to the Website](<Contributing to the Website.md>)
@@ -45,6 +45,9 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 - [GitHub](<GitHub.md>):
 
 - [GitHub](<GitHub.md>):
+
+## [December 4th, 2020](<December 4th, 2020.md>)
+- Updated [GitHub](<GitHub.md>)
 
 ## [IFTTT](<IFTTT.md>)
 - Monitor member website and [Yak Talk](<Yak Talk.md>) newsletter RSS feeds, pushing content into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>).

@@ -9,9 +9,6 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 ## [Discord](<Discord.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 
-## [GitHub](<GitHub.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>)
-
 ## [IFTTT](<IFTTT.md>)
 last updated:: [September 13th, 2020](<September 13th, 2020.md>)
 

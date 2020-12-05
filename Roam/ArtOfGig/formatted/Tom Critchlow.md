@@ -52,9 +52,6 @@
 ## [Discord](<Discord.md>)
 - [Tom Critchlow](<Tom Critchlow.md>)
 
-## [GitHub](<GitHub.md>)
-- [Tom Critchlow](<Tom Critchlow.md>)
-
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
 

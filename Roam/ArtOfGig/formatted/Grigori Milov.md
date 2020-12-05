@@ -237,6 +237,9 @@ But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori
 
 - **Platforms Track** — [Grigori Milov](<Grigori Milov.md>)
 
+## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Grigori Milov](<Grigori Milov.md>)
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
