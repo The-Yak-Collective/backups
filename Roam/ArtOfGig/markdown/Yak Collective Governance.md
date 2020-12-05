@@ -116,6 +116,7 @@ https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepap
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]
+- [[December 4th, 2020]] [[Yak Gov Chat Minutes - The Future of Platforms]] #meeting-notes
 - [[November 20th, 2020]] [[Yak Gov Chat Minutes - Cognition all the way down]] #meeting-notes
 - [[November 13th, 2020]] [[Yak Gov Chat Minutes - The independent researcher]] #meeting-notes
 - [[November 6th, 2020]] [[YC Gov Chat Minutes - Collective Intentionality]] #meeting-notes

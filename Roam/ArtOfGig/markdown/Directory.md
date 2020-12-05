@@ -376,6 +376,9 @@ If you have a technology problem - I can solve it.
 If it's a people\process\requirements\ui\ux problem, if you're drowning in data or tech debt -- let's shed some light and see what can be done."
     - "[oleksandr@tvori.info](mailto:oleksandr@tvori.info), tg: [@oleksandr_now](https://t.me/oleksandr_now), often wizzard0"
 - [[Meredith Noelle]]
+- [[Conor O'Hollaren]]
+    - Freelance [[UX Design]] and Product Strategy, based in Brooklyn, NY. Working with a mix of interaction design agencies and early-stage startups.
+    - Site: [dotconor.com](https://www.dotconor.com)
 - [[Sam Panter]]
     - "Designer/Programmer/Strategist based in Brooklyn. Working mostly in hemp/cannabis grow tech at the moment, with a background in HR software, fine art, and ecommerce.
 
