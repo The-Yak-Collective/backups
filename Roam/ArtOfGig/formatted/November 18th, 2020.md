@@ -72,6 +72,9 @@
 ## [Client Project](<Client Project.md>)
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>)
+
 ## [Yak Rover](<Yak Rover.md>)
 - **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>)
 

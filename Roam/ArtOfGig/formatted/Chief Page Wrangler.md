@@ -76,6 +76,10 @@
 - **[About](<About.md>):** __A place to build a group of yaks to contribute to producing YakC work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
+## [Project Pitches](<Project Pitches.md>)
+- **[Time-sensitive announcement](<Time-sensitive announcement.md>):** Draft projects added before Dec 1 will get an opportunity to live-pitch their project and solicit contributors at the [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>) on Dec 10. First-come first-serve for pitching slots.
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[About](<About.md>):** Taking care our ~~garden~~ Roam to ensure is updated and easy to use, by establishing style guides and practice periodic maintenance tasks.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**

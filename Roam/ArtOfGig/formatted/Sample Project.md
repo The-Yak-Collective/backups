@@ -1,4 +1,4 @@
-- This is a dummy page. Make a real page like this for your project, with the right title. If you need some ideas/inspiration, look at past projects:
+- This is a dummy page. Make a real page like this for your project, with the right title. For ideas/inspiration, look at past projects:
     - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
     - [The New Old Home](<The New Old Home.md>)
     - [Neurofuturama](<Neurofuturama.md>)
@@ -9,5 +9,7 @@
 
 # Backlinks
 ## [Project Pitches](<Project Pitches.md>)
+- "[Sample Project](<Sample Project.md>):
+
 - [Sample Project](<Sample Project.md>):
 

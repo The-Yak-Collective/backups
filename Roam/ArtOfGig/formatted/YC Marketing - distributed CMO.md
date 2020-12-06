@@ -230,7 +230,7 @@ Yaks competing for attention
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
-- **About**: Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>) newsletter, and potentially some marketing activity from the [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+- **[About](<About.md>):** Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>) newsletter, and potentially some marketing activity from the [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 ## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
 - Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>)) or internally facing (__e.g.__, [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>))

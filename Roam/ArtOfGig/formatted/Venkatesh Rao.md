@@ -305,11 +305,11 @@ owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
-- **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- **Last Updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- **Project Lead**: [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Project Lead](<Project Lead.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Quadrantology](<Quadrantology.md>): A client project to create a revenue-generating personality test based on the assets already created and prototyped by [Venkatesh Rao](<Venkatesh Rao.md>)
 

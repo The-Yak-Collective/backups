@@ -456,7 +456,8 @@ hello@sampanter.info"
     - "Website: http://drewschorno.com/"
     - "Twitter: [@dschorno](https://twitter.com/dschorno)"
     - "Designer, [[Front-end]] Developer & Creative Technologist: ~10 years experience at startups and small companies (including experience managing remote teams). I designed an album cover for Pitbull once 😎. I've had some success in the "New Media" space: Notably worked on the award-winning interactive documentary "[Welcome to Pine Point](http://pinepoint.nfb.ca/)". Currently working with the National Film Board of Canada to produce an interactive piece about my experience going to clown school, consulting on a few AR projects, and doing a few [[Web Design]] gigs."
--  [[Drew Shiel]]
+- [[Vik Scoggins]]
+- [[Drew Shiel]]
     - Twitter: [@gothwalk](https://www.twitter.com/gothwalk)
     - Marketer (Google Ads, Analytics, one-person online-marketing-department), Food Historian, Domestic and Agricultural Historian, Ongoing Climate Crisis Thinker.
 - [[Alastair Steward]] 

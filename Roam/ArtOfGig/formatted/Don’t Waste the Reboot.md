@@ -76,11 +76,11 @@
 - So far there are 2 instances, [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
-- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 - **Project Lead**: [Paul Millerd](<Paul Millerd.md>) - helped run [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
-- %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 ## [Sample Project](<Sample Project.md>)
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)

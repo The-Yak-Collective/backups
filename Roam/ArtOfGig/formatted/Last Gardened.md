@@ -40,6 +40,10 @@
 - **[Last Updated](<Last Updated.md>):** [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [Project Pitches](<Project Pitches.md>)
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [Schema | member data](<Schema | member data.md>)
 - [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Gardened](<Last Gardened.md>):**

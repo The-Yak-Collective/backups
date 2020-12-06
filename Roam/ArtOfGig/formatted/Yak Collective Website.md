@@ -62,7 +62,7 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 - __Work with__ [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
-- **About**: Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>),
+- **[About](<About.md>):** Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>),
 
 ## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
 - Ideally, __all__ projects should be featured on the [Yak Collective Website](<Yak Collective Website.md>).

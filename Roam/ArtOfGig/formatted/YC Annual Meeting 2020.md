@@ -30,7 +30,7 @@
 - #[YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
-- **Time-sensitive announcement**: Draft projects added before Dec 1 will get an opportunity to live-pitch their project and solicit contributors at the [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+- **[Time-sensitive announcement](<Time-sensitive announcement.md>):** Draft projects added before Dec 1 will get an opportunity to live-pitch their project and solicit contributors at the [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
 
 ## [Venkatesh Rao](<Venkatesh Rao.md>)
 - [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
