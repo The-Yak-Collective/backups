@@ -13,7 +13,7 @@
 - **[Created](<Created.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 - **[Created](<Created.md>):**
 
 ## [Fair equity](<Fair equity.md>)
@@ -78,6 +78,10 @@
 
 ## [Yak Rover](<Yak Rover.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+- **[Created](<Created.md>):**
+
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 - **[Created](<Created.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)

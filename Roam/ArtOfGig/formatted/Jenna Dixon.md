@@ -233,7 +233,7 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 - Started on [Roam Gardening](<Roam Gardening.md>) and [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) [ping](<ping.md>) [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
-1. [Jenna Dixon](<Jenna Dixon.md>):
+2. [Jenna Dixon](<Jenna Dixon.md>):
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Created](<Created.md>):** [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)

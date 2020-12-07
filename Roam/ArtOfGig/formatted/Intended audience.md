@@ -8,3 +8,7 @@
 - tk
     - **[Intended audience](<Intended audience.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- a light-weight feet-wetting project for the software inclined
+    - **[Intended audience](<Intended audience.md>):**
+

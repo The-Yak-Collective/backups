@@ -8,3 +8,7 @@
 - A lower cost, more agile delivery mechanism could put consultancy within reach of department, division, territory or brand managers
         - **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- automate common activities
+        - **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**
+

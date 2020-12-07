@@ -8,3 +8,7 @@
 - **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Vote](<Vote.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [[]]
+- **[Vote](<Vote.md>):**
+

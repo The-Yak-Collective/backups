@@ -8,3 +8,7 @@
 - **[Help wanted](<Help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Help wanted](<Help wanted.md>):**
+    - **[Meeting minutes](<Meeting minutes.md>):**
+

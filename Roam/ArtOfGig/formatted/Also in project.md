@@ -8,3 +8,7 @@
 - **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
     - **[Also in project](<Also in project.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Project lead](<Project lead.md>):** [Maier Fenster](<Maier Fenster.md>)
+    - **[Also in project](<Also in project.md>):**
+

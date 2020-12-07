@@ -12,3 +12,7 @@
 - invent you own way to help and game the system
 - **[Meta](<Meta.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- align what bots do with internal habits of yaks
+- **[Meta](<Meta.md>):**
+

@@ -1,5 +1,5 @@
 owner:: [[Nathan Acks]]
-last updated:: [[November 24th, 2020]] by [[Nathan Acks]]
+last updated:: [[December 6th, 2020]] by [[Nathan Acks]]
 # Purpose
     - a.k.a. "Yakbot"
     - The `yakcollective.org@gmail.com` Google account.
@@ -11,7 +11,11 @@ last updated:: [[November 24th, 2020]] by [[Nathan Acks]]
         - [Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)
             - owner:: [[Tom Critchlow]]
             - **Additional Access:**
-                - [[Maier Fenster]]
+                - **Read-Only**
+                    - [[Hugo Macedo]]
+                - **Read/Write**
+                    - [[Maier Fenster]]
+                    - [[Nathan Acks]]
         - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
             - owner:: [[Venkatesh Rao]]
             - **Additional Admins:**

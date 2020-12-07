@@ -12,3 +12,7 @@
 - Using the slicing the pie scheme to understand and write whitepaper about slicing the pie 
     - **[Deliverable](<Deliverable.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- building a suite of bots to help yaks use discord and also to help manage the yak collective
+    - **[Deliverable](<Deliverable.md>):**
+

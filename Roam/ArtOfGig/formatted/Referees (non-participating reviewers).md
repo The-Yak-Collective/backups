@@ -8,3 +8,7 @@
 - We will probably perform two separate sprints and two evaluations an initial one with extensive feedback and a final one.
     - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- when knack api arrives, link to it
+    - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):**
+

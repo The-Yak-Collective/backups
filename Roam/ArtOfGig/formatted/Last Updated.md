@@ -142,6 +142,10 @@
 - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
 - **[Last Updated](<Last Updated.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Updated](<Last Updated.md>):**
+
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Created](<Created.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Updated](<Last Updated.md>):**

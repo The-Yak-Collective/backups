@@ -27,6 +27,33 @@ suggest most recent note left untwirled for easy review to visitors__
         - 2jplEZUYM
         - 
 - ## Infrastructure Chat Notes
+- infrastructure chat 30 [December 6th, 2020](<December 6th, 2020.md>)
+    - #[YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+    - not everyone has agreed speak (or even knows?)
+    - two project proposals
+        - Venkat and Paul (Venkat will ping )
+    - Venkat: don't want to push too much engagement - want it to be organic
+    - darren - big picture talk, will back fill
+    - analytics
+        - nathan - analytics can pull 
+            - screenshare google analytics
+        - newsletter group was ing at analytics
+        - Hugo: marketing group also reviewed analytics - looked at impact of launches
+    - screenshare of the website - will be apparent where there is activity/not.
+    - darren MC - if speaker isn't there say 1 minute overview.
+    - Zoom, max 100 participants 
+    - Previous discord townhall had 90 participants
+    - We now have 693 Discord users. Maybe 10% is minimally active/engaged. 
+    - Vibe: don't pump up/ low key showcasing of what's organically happening -> attract serious interested yaks
+    - New yak - opportunities to engage
+        - Final frontiers slides
+        - copywriting
+        - bot
+    - Launch bots as a project
+        - create a page
+        - artwork for bot icons
+        - bot personalities
+        - allow other members to make bots
 - infrastructure chat 29 [November 29th, 2020](<November 29th, 2020.md>)
     - #[YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
     - #[IT Infrastructure](<IT Infrastructure.md>)

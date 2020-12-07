@@ -1,7 +1,7 @@
 - About:: project page for embryonic project contrasting YC conceptualization with standard conceptionalization
 - Page Type:: #Project
-- Chief Page Wrangler:: [[Rafael Fernandez]]
-    - Additional Page Wranglers:: [[Maier Fenster]]
+- Chief Page Wrangler:: [[maier fenster]]
+    - Additional Page Wranglers:: 
 - Created:: [[October 16, 2020]] by [[Maier Fenster]]
 - Last Updated:: [[October 16, 2020]] by [[Maier Fenster]]
 - Last Gardened:: [[October 21th, 2020]] by [[Jenna Dixon]]

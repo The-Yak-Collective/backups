@@ -12,3 +12,7 @@
 - **[Meta](<Meta.md>):**
     - **[This project is about](<This project is about.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Meta](<Meta.md>):**
+    - **[This project is about](<This project is about.md>):**
+

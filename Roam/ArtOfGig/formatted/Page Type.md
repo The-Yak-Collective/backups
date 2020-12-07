@@ -48,6 +48,10 @@
 - **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Page Type](<Page Type.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[About](<About.md>):** internal project page to consolidate multitude of discord bots
+- **[Page Type](<Page Type.md>):**
+
 ## [template/govchat](<template/govchat.md>)
 - **[Created](<Created.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Page Type](<Page Type.md>):**

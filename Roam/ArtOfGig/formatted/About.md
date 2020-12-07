@@ -104,6 +104,9 @@
 ## [Yak Rover](<Yak Rover.md>)
 - **[About](<About.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[About](<About.md>):**
+
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[About](<About.md>):**
 

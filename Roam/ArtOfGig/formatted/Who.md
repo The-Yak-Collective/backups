@@ -8,3 +8,7 @@
 - **[Intended audience](<Intended audience.md>):**
         - **[Who](<Who.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Intended audience](<Intended audience.md>):**
+        - **[Who](<Who.md>):**
+

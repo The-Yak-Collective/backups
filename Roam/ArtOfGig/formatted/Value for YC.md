@@ -8,3 +8,7 @@
 - how the YC can provide this concept
         - **[Value for YC](<Value for YC.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**
+        - **[Value for YC](<Value for YC.md>):**
+

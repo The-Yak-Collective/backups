@@ -1,5 +1,5 @@
 owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+last updated:: [December 6th, 2020](<December 6th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Purpose
     - a.k.a. "Yakbot"
     - The `yakcollective.org@gmail.com` Google account.
@@ -11,7 +11,11 @@ last updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](
         - [Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)
             - **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
             - **Additional Access:**
-                - [Maier Fenster](<Maier Fenster.md>)
+                - **Read-Only**
+                    - [Hugo Macedo](<Hugo Macedo.md>)
+                - **Read/Write**
+                    - [Maier Fenster](<Maier Fenster.md>)
+                    - [Nathan Acks](<Nathan Acks.md>)
         - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
             - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
             - **Additional Admins:**
@@ -51,6 +55,9 @@ last updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](
     - [Maier Fenster](<Maier Fenster.md>)
 
 # Backlinks
+## [December 6th, 2020](<December 6th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) updated the [Yak Collective Robot](<Yak Collective Robot.md>)
+
 ## [GitHub](<GitHub.md>)
 - [Yak Collective Robot](<Yak Collective Robot.md>)
 

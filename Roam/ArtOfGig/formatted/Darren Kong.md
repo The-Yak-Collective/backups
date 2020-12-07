@@ -96,7 +96,7 @@
 - my $.02, is potentially all of the above, but also that it's a legitimately hard problem. [Darren Kong](<Darren Kong.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
-8. [Darren Kong](<Darren Kong.md>):
+9. [Darren Kong](<Darren Kong.md>):
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)

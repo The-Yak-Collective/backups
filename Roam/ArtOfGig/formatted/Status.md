@@ -58,6 +58,10 @@
 - **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
 - **[Status](<Status.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
+- **[Status](<Status.md>):**
+
 ## [template/govchat](<template/govchat.md>)
 - **[Page Type](<Page Type.md>):** {{or: [Minutes](<Minutes.md>) | [Project](<Project.md>) | [tk2](<tk2.md>)}}
 - **[Status](<Status.md>):**

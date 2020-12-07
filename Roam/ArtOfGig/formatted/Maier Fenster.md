@@ -11,8 +11,6 @@
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
-
 - **[Created](<Created.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
 - **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
@@ -234,7 +232,7 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
-3. [Maier Fenster](<Maier Fenster.md>):
+4. [Maier Fenster](<Maier Fenster.md>):
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - [Hugo Macedo](<Hugo Macedo.md>) volunteered - initial conversation with [Maier Fenster](<Maier Fenster.md>)
@@ -291,6 +289,13 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 - [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
+
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+
+- **[Last Updated](<Last Updated.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+
+- **[Project lead](<Project lead.md>):** [Maier Fenster](<Maier Fenster.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)

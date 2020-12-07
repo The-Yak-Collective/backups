@@ -12,6 +12,3 @@ Last Updated:: [November 24th, 2020](<November 24th, 2020.md>)
 ## [Vultr](<Vultr.md>)
 - **[last updated](<last updated.md>):** [November 24th, 2020](<November 24th, 2020.md>)
 
-## [Yak Collective Robot](<Yak Collective Robot.md>)
-last updated:: [November 24th, 2020](<November 24th, 2020.md>)
-

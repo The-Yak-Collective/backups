@@ -73,7 +73,7 @@
 - [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
-6. [Vinay Débrou](<Vinay Débrou.md>):
+7. [Vinay Débrou](<Vinay Débrou.md>):
 
 ## [YC Governance Chat Minutes – 05/08/2020](<YC Governance Chat Minutes – 05/08/2020.md>)
 - [Vinay Débrou](<Vinay Débrou.md>)

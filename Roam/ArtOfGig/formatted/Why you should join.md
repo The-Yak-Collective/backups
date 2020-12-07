@@ -12,3 +12,7 @@
 - pdf 
     - **[Why you should join](<Why you should join.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Also in project](<Also in project.md>):** 
+    - **[Why you should join](<Why you should join.md>):**
+

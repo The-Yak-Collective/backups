@@ -12,3 +12,7 @@
 - Creating spreadsheet example 
     - **[how else you can help](<how else you can help.md>):**
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- test bots
+    - **[how else you can help](<how else you can help.md>):**
+

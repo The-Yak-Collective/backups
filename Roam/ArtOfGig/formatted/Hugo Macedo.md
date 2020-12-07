@@ -193,7 +193,7 @@
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
-4. [Hugo Macedo](<Hugo Macedo.md>):
+5. [Hugo Macedo](<Hugo Macedo.md>):
 
 ## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
@@ -217,6 +217,9 @@
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
 - before we get a way to hack notifications we use the tag ^^[ping](<ping.md>)^^ and the name of the person (page) -  "Let me know what you think [Hugo Macedo](<Hugo Macedo.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)

@@ -1,0 +1,77 @@
+- **[About](<About.md>):** internal project page to consolidate multitude of discord bots
+- **[Page Type](<Page Type.md>):** [Project](<Project.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [maier fenster](<maier fenster.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
+- **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Updated](<Last Updated.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [[]]
+- **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
+- **[Status](<Status.md>):** {{or: Active | Early Concept | Proposal | Complete}}
+- **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
+    - **[jobs](<jobs.md>):**
+        - **[bot designer](<bot designer.md>):**
+            - suggest new bots
+            - help build overall bot plan
+        - **[bot builder](<bot builder.md>):**
+            - build bots (python)
+            - test bots
+    - **[how else you can help](<how else you can help.md>):**
+        - help files
+        - align what bots do with internal habits of yaks
+- **[Meta](<Meta.md>):**
+    - **[This project is about](<This project is about.md>):**
+        - building a suite of bots to help yaks use discord and also to help manage the yak collective
+    - **[Deliverable](<Deliverable.md>):**
+        - **a series** of simple bots
+        - a more general plan for a set of bots
+    - **[Project size](<Project size.md>):**
+        - small, yet ongoing
+    - **[intermediate milestones](<intermediate milestones.md>):**
+        - when knack api arrives, link to it
+    - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):** [Nathan Acks](<Nathan Acks.md>)
+    - **[Project lead](<Project lead.md>):** [Maier Fenster](<Maier Fenster.md>)
+    - **[Also in project](<Also in project.md>):** 
+    - **[Why you should join](<Why you should join.md>):**
+        - a light-weight feet-wetting project for the software inclined
+    - **[Intended audience](<Intended audience.md>):**
+        - **[Who](<Who.md>):**
+            - Option 1: infrequent yaks
+                - **[Value for them](<Value for them.md>):**
+                    - tools to help them stay on top of things
+                    - 
+            - Option 2: power users
+                - **[Value for them](<Value for them.md>):**
+                    - data available at thier fingertips
+                    - automate common activities
+        - **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**
+        - **[Value for YC](<Value for YC.md>):**
+            - better automation and usability
+            - maybe other discord groups will want to copy
+    - **[Help wanted](<Help wanted.md>):**
+    - **[Meeting minutes](<Meeting minutes.md>):**
+    - **[Relevant files and drafts (Graph or website or google docs)](<Relevant files and drafts (Graph or website or google docs).md>):**
+    - **[Genesis](<Genesis.md>):**
+- **[Putative plan](<Putative plan.md>):**
+- **[Pivots so far](<Pivots so far.md>):**
+- ?
+- **[Examples (of bots)](<Examples (of bots).md>):**
+    - **[yak_scraper](<yak_scraper.md>):**
+        - provides information about collective to yakshavers
+    - **[gigbot](<gigbot.md>):**
+        - manage a list of gigs
+    - **[agendabot](<agendabot.md>):**
+        - maintain an agenda per channel, for use in weekly calls
+    - **[projbot](<projbot.md>):**
+        - allow yaks to easily see a list of projects and vote on them 
+    - **[shepherd (beta)](<shepherd (beta).md>):**
+        - track and support new yak onboarding
+    - **[chronbot](<chronbot.md>):**
+        - replace zapier and generate event reminders
+    - **[wantedbot](<wantedbot.md>):**
+        - maintain a list of help wanted internal to the YC
+    - **[newsbot](<newsbot.md>):**
+        - allow yaks to propose items for the newsletter
+    - **[get2nomi (in planning)](<get2nomi (in planning).md>):**
+        - help yaks learn about each other  link to yak map
+    - **[topicbot (in planning)](<topicbot (in planning).md>):**
+        - help yak figure out what channel to post in

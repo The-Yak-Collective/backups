@@ -148,7 +148,7 @@ owner:: [Jordan Peacock](<Jordan Peacock.md>)
 https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/[comment-271146](<comment-271146.md>) [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
-7. [Jordan Peacock](<Jordan Peacock.md>):
+8. [Jordan Peacock](<Jordan Peacock.md>):
 
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - [Jordan Peacock](<Jordan Peacock.md>)

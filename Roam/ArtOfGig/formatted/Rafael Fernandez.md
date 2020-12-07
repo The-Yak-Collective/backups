@@ -1,8 +1,6 @@
 
 # Backlinks
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Rafael Fernandez](<Rafael Fernandez.md>)
-
 - **[Project lead](<Project lead.md>):** [Rafael Fernandez](<Rafael Fernandez.md>)
 
 ## [YC Gov Chat Minutes - Netflix culture deck](<YC Gov Chat Minutes - Netflix culture deck.md>)

@@ -13,7 +13,7 @@
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Rafael Fernandez](<Rafael Fernandez.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [maier fenster](<maier fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Directory](<Directory.md>)
@@ -145,6 +145,10 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 ## [Yak Rover](<Yak Rover.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [maier fenster](<maier fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
