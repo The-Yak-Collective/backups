@@ -1,12 +1,9 @@
-owner:: [[Jordan Peacock]]
-last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
+About:: __Documentation for Twitter.__
+Chief Page Wrangler:: [[Jordan Peacock]]
+    - Additional Page Wranglers:: [[Scott Allen]] | [[Venkatesh Rao]] | [[Nathan Acks]] | [[Pamela Hobart]]
+Created:: [[August 31st, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Purpose
     - ???
-# Access
-    - Via Tweetdeck teams
-        - [[Jordan Peacock]]
-        - [[Scott Allen]]
-    - ^^Shared login^^
-        - [[Venkatesh Rao]]
-        - [[Nathan Acks]]
-        - [[Pamela Hobart]]
+    - ^^Shared login!^^

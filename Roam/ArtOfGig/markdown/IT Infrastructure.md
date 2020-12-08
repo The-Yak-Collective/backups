@@ -1,8 +1,8 @@
-About:: __documenting YakC shared infrastructure__
+About:: __Documentation for the Yak Collective's shared infrastructure.__
 Chief Page Wrangler:: [[Nathan Acks]]
-    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[August 29th, 2020]] by [[Nathan Acks]]
-Last Updated:: [[November 24th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
 Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + SVG diagram development by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -36,63 +36,63 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
         - [Full-sized version of the current map](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg) (assets link back to pages in this Roam graph)
     - ![Yak Collective IT Infrastructure diagram](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg)
         - [[Yak Collective Robot]] ("Yakbot")
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
             - Google account; holds __some__ shared assets.
             - Google data/documents/services currently held by individual members should eventually be migrated into this account.
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
-            - "owner:: [[Venkatesh Rao]]"
+            - "Owner:: [[Venkatesh Rao]]"
             - Part of the [[Yak Collective Robot]] account
         - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
-            - "owner:: [[Venkatesh Rao]]"
+            - "Owner:: [[Venkatesh Rao]]"
             - Part of the [[Yak Collective Robot]] account
         - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck
-            - owner:: [[Drew Schorno]]
+            - Owner:: [[Drew Schorno]]
         - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
-            - owner:: [[Paul Millerd]]
+            - Owner:: [[Paul Millerd]]
         - "[Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)"
-            - "owner:: [[Tom Critchlow]]"
+            - "Owner:: [[Tom Critchlow]]"
             - Part of the [[Yak Collective Robot]] account
         - [[Vultr]] "Calendar Yak (a.k.a. [gmail_hook](https://github.com/The-Yak-Collective/gmail_hook))" bot
-            - "owner:: [[Maier Fenster]]"
+            - "Chief Page Wrangler:: [[Maier Fenster]]"
         - [[Vultr]] "yak_scraper (a.k.a. [onboarding_robot](https://github.com/The-Yak-Collective/onboarding_robot))" bot
-            - "owner:: [[Maier Fenster]]"
+            - "Chief Page Wrangler:: [[Maier Fenster]]"
         - [[Vultr]] "^^**EXPERIMENTAL**^^ [gigayak](https://github.com/The-Yak-Collective/gigayak)" bot
-            - "owner:: [[Maier Fenster]]"
+            - "Chief Page Wrangler:: [[Maier Fenster]]"
         - [[Carl]] "welcome_bot" bot
-            - "owner:: [[Jordan Peacock]]"
+            - "Chief Page Wrangler:: [[Jordan Peacock]]"
         - [[Carl]] "yakyak" bot
-            - "owner:: [[Jordan Peacock]]"
+            - "Chief Page Wrangler:: [[Jordan Peacock]]"
         - [[Discord]]
-            - "owner:: [[Jordan Peacock]]"
+            - "Chief Page Wrangler:: [[Jordan Peacock]]"
         - [[Namecheap]]
-            - "owner:: [[Venkatesh Rao]]"
-        - [[Knack.com]]
-            - AAhkfps_m
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
+        - [[Knack]]
+            - "Chief Page Wrangler:: [[Jenna Dixon]]"
         - [[Roam]]
-            - "owner:: [[Venkatesh Rao]]"
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
         - [[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
             - See [[Building the Website]] for more details
         - [[Netlify]] CDN
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Netlify]] [Functions](https://docs.netlify.com/functions/overview/) ([create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js))
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Yak Collective Website]]
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Yak Collective Website]] ["Featured Yak" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[GitHub]]
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[IFTTT]] [Netlify Build Hook](https://docs.netlify.com/configure-builds/build-hooks/) Applet (Timer)
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[IFTTT]] Twitter Applets
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[IFTTT]] [create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js) Applets
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Zapier]]
-            - "owner:: [[Venkatesh Rao]]"
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
         - [[Glitch]]
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - Member RSS Feeds
             - [[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed
             - [[Ben Mosior]]: https://hiredthought.com/feed/
@@ -109,14 +109,14 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
             - [[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/
             - [[Vinay Débrou]]: https://vinaydebrou.com/feed.xml
         - [[Substack]]
-            - "owner:: [[Matthew Sweet]]"
+            - "Chief Page Wrangler:: [[Matthew Sweet]]"
             - RSS feed: https://yakcollective.substack.com/feed/
         - [[Twitter]]
-            - "owner:: [[Jordan Peacock]]"
+            - "Chief Page Wrangler:: [[Jordan Peacock]]"
         - [[Facebook]]
-            - ""
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
         - [[LinkedIn]]
-            - owner:: [[Venkatesh Rao]]
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
 # Documents
     - [[Schema | member data]] (draft)
     - [[Code Style Guide]]
@@ -124,5 +124,5 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
 # Discussions & Decisions
     - [[onboarding it - thoughts about onboarding infrastructure]]
 # Proposals
-    - [[Proposal: Yak Collective Member Types]]
-    - [[Proposal: Discord Channel Lifecycle and Organization]]
+    - [[Yak Collective Member Types]]
+    - [[Discord Channel Lifecycle and Organization]]

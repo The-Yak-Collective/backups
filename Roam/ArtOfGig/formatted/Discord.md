@@ -1,5 +1,9 @@
-owner:: [Jordan Peacock](<Jordan Peacock.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __Documentation for Discord.__
+Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Maier Fenster](<Maier Fenster.md>) | [Venkatesh Rao](<Venkatesh Rao.md>) | [Drew Schorno](<Drew Schorno.md>) | [Paul Millerd](<Paul Millerd.md>) | [Pamela Hobart](<Pamela Hobart.md>)
+Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # Purpose
     - Yak Collective comms & coordination.
     - Minimal participation bar:
@@ -7,14 +11,6 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
         - Add time zone to server display name (helps with coordination)
         - Post a short introduction to `introductions`
     - Users who don't meet the minimal participation bar after one week are pruned.
-# Access
-    - [Jordan Peacock](<Jordan Peacock.md>)
-    - [Tom Critchlow](<Tom Critchlow.md>)
-    - [Maier Fenster](<Maier Fenster.md>)
-    - [Venkatesh Rao](<Venkatesh Rao.md>)
-    - [Drew Schorno](<Drew Schorno.md>)
-    - [Paul Millerd](<Paul Millerd.md>)
-    - [Pamela Hobart](<Pamela Hobart.md>)
 
 # Backlinks
 ## [Carl](<Carl.md>)
@@ -22,6 +18,13 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 ## [Contributing to the Website](<Contributing to the Website.md>)
 4. For emergency updates, ping someone with **owner** level access in [GitHub](<GitHub.md>) on [Discord](<Discord.md>).
+
+## [GitHub](<GitHub.md>)
+- [gmail_hook](https://github.com/The-Yak-Collective/gmail_hook): Calendar event [Discord](<Discord.md>)
+
+- [gigayak](https://github.com/The-Yak-Collective/gigayak): User convenience [Discord](<Discord.md>)
+
+- [onboarding_robot](https://github.com/The-Yak-Collective/onboarding_robot): Admin convenience [Discord](<Discord.md>)
 
 ## [IFTTT](<IFTTT.md>)
 - Monitor member website and [Yak Talk](<Yak Talk.md>) newsletter RSS feeds, pushing content into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>). On successful commit, also push this content to the `yaktalk-content` channel in [Discord](<Discord.md>).
@@ -32,7 +35,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 ## [Infrastructure](<Infrastructure.md>)
 - [Maier Fenster](<Maier Fenster.md>) points out that this doesn't roll in the Google Calendar to [Discord](<Discord.md>)
 
-## [Knack.com](<Knack.com.md>)
+## [Knack](<Knack.md>)
 - Minimal information from [Discord](<Discord.md>)
 
 ## [Netlify](<Netlify.md>)

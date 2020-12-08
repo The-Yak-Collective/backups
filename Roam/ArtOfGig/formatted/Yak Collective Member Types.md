@@ -1,9 +1,10 @@
-About:: __documenting types of YakC members__
+About:: __Documenting types of Yak Collective members.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Current State:: {{or: Proposed | Draft | Live | Archived}}
 Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
-Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
+Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Yaks
     - Anyone who is a member of the YakC Discord server or who has made a significant contribution to a YakC project is considered a "yak". There are four "types" of yaks.
         - contradiction: if they did not make a significant contribution, they may still be yaks
@@ -29,8 +30,11 @@ Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
 
 # Backlinks
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+- [Yak Collective Member Types](<Yak Collective Member Types.md>)
+
+## [Nathan Acks](<Nathan Acks.md>)
+- [Yak Collective Member Types](<Yak Collective Member Types.md>)
 
 ## [November 9th, 2020](<November 9th, 2020.md>)
-- [Nathan Acks](<Nathan Acks.md>) wrote up [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+- [Nathan Acks](<Nathan Acks.md>) wrote up [Yak Collective Member Types](<Yak Collective Member Types.md>)
 

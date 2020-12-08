@@ -8,16 +8,40 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Grigori Milov](<Grigori Milov.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Building the Website](<Building the Website.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Carl](<Carl.md>)
+Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Client Project](<Client Project.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Code Style Guide](<Code Style Guide.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [maier fenster](<maier fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Contributing to the Website](<Contributing to the Website.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Directory](<Directory.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Scott Allen](<Scott Allen.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Discord](<Discord.md>)
+Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
@@ -48,8 +72,20 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [GitHub](<GitHub.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Glitch](<Glitch.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[Additional Page Wranglers](<Additional Page Wranglers.md>)}
+
+## [IFTTT](<IFTTT.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
@@ -63,7 +99,7 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
-## [Knack.com](<Knack.com.md>)
+## [Knack](<Knack.md>)
 Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
@@ -79,6 +115,14 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Namecheap](<Namecheap.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Netlify](<Netlify.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Privacy Policy](<Privacy Policy.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
@@ -87,12 +131,8 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
-## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
-
-## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+## [Roam](<Roam.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)
@@ -105,6 +145,30 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>) 
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Substack](<Substack.md>)
+Chief Page Wrangler:: [Matthew Sweet](<Matthew Sweet.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Threat Model](<Threat Model.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Twitter](<Twitter.md>)
+Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Vultr](<Vultr.md>)
+Chief Page Wrangler:: [Maier Fenster](<Maier Fenster.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Website Architecture](<Website Architecture.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Website Version History](<Website Version History.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
@@ -139,12 +203,28 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [Yak Collective Member Types](<Yak Collective Member Types.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Yak Collective Website](<Yak Collective Website.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Yak Rover](<Yak Rover.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Zapier](<Zapier.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
@@ -156,6 +236,6 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [template/header](<template/header.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** `[Fname Lname](<Fname Lname.md>)`
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 

@@ -1,14 +1,11 @@
-About:: __Facebook lol__
+About:: __Facebook lol.__
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
-Created:: `/today` by [Fname Lname](<Fname Lname.md>)
-Last Updated:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
 # Purpose
     - ^^???^^
-# Access
-    - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 # Backlinks
 ## [IT Infrastructure](<IT Infrastructure.md>)

@@ -1,17 +1,12 @@
-- **[About](<About.md>):** __map of fields in__ [Knack.com](<Knack.com.md>) __member database__
+- **[About](<About.md>):** __Map of fields in Knack member database.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
-[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
-- **[Last Updated](<Last Updated.md>):** 
-    - [September 12th, 2020](<September 12th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-    - [September 27th, 2020](<September 27th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-    - [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-- **[Last Gardened](<Last Gardened.md>):** [Jenna Dixon](<Jenna Dixon.md>) [October 5th, 2020](<October 5th, 2020.md>)
-- 
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
+- **[Last Updated](<Last Updated.md>):** [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - # Website Member Data Template
     - **[UID](<UID.md>):**
         - ^^Required^^ Internal member ID, used for webpage URLs and some website `<div/>` IDs.
-            - [Nathan Acks](<Nathan Acks.md>) says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [Knack.com](<Knack.com.md>)), I'd use some kind of non-name UID (`a34bce`, etc.) instead.
+            - [Nathan Acks](<Nathan Acks.md>) says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [Knack](<Knack.md>)), I'd use some kind of non-name UID (`a34bce`, etc.) instead.
         - Example: `nathan-acks`
             - [x] [September 27th, 2020](<September 27th, 2020.md>) [Jenna Dixon](<Jenna Dixon.md>) »»» ~~agree totally. Out of the box we can have~~ `Nathan-Acks` -- ~~ie I'll have to find a way to lower case the names. I also would suggest~~ `Acks-Nathan` ie `Lname-Fname` ~~to make sorting the list in the backend with a click possible.~~ hold this thought, I may be misunderstanding what you are suggesting above. ID should __not__ use actual names, will get Knack to autogenerate a non-name UID √
             - [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>) we will use [Discord UID](<Discord UID.md>). Rcvd scrape from [Vinay Débrou](<Vinay Débrou.md>), imported into Knack.

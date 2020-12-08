@@ -1,5 +1,9 @@
-owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __How to contribute to the Yak Collective website.__
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+Created:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # Content Updates
     - ## Website
         - Website content is currently stored in [GitHub](<GitHub.md>).
@@ -34,7 +38,7 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
             - [GitHub](<GitHub.md>): https://github.com/The-Yak-Collective/yakcollective/tree/astonishing-stories
             - [Netlify](<Netlify.md>): https://app.netlify.com/sites/optimistic-jennings-266cab/overview
         - `knack-migration` (point: [Maier Fenster](<Maier Fenster.md>))
-            - Work on migrating member data to [Knack.com](<Knack.com.md>).
+            - Work on migrating member data to [Knack](<Knack.md>).
             - [GitHub](<GitHub.md>): https://github.com/The-Yak-Collective/yakcollective/tree/knack-migration
             - [Netlify](<Netlify.md>): https://app.netlify.com/sites/competent-shockley-33f53c/overview
         - `admin-improvements` (point: [Maier Fenster](<Maier Fenster.md>))

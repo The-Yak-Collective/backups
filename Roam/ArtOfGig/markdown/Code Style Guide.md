@@ -1,5 +1,9 @@
-owner:: [[Nathan Acks]]
-last updated:: [[September 9th, 2020]] by [[Nathan Acks]]
+About:: __Style guide for coding the Yak Collective website (and, ideally, other projects like Discord bots).__
+Chief Page Wrangler:: [[Nathan Acks]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+Created:: [[August 31st, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 # File Naming
     - Use `lower-case-with-dashes.txt` instead of `Mixed_Caps_And_Underscored.TXT`.
         - Of course, sometimes you've just gotta use an underscore (Jekyll collections, etc.).

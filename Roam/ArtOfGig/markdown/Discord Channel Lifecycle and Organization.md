@@ -1,11 +1,10 @@
-About:: __documenting channel lifecycle and categories for the YakC Discord server__
+About:: __Documenting channel lifecycle and categories for the Yak Collective Discord server.__
 Chief Page Wrangler:: [[Nathan Acks]]
-    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[November 9th, 2020]] by [[Nathan Acks]]
-Updated:: 
-    - [[November 16th, 2020]] by [[Jenna Dixon]]
-    - [[November 15th, 2020]] by [[Nathan Acks]]
-Last Gardened:: `/today` by [[Fname Lname]]
+Current State:: {{or: Proposed | Draft | Live | Archived}}
+Last Updated:: [[November 15th, 2020]] by [[Nathan Acks]]
+Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
 # Channel Categories
     ## Plaza
         General discussion and information channels.

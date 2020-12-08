@@ -1,5 +1,9 @@
-owner:: [[Nathan Acks]]
-last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
+About:: __Notes on the Yak Collective Threat model and assets.__
+Chief Page Wrangler:: [[Nathan Acks]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+Created:: [[June 30th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Threats
     ## Current
         - Data loss ([[Roam]], [[Yak Collective Robot]], [[GitHub]], etc.)
@@ -32,50 +36,50 @@ last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
 # Asset Classes
     - ## Class 1 (Existential Threats)
         - [[Yak Collective Robot]]
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Namecheap]]
-            - "owner:: [[Venkatesh Rao]]"
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
         - Password managers or databases
         - [[Roam]]
-            - "owner:: [[Venkatesh Rao]]"
-        - [[Knack.com]]
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
+        - [[Knack]]
             - AAhkfps_m
         - Bank accounts, should we ever have such a thing
     - ## Class 2 (Serious Disruption to Normal Operations)
         - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck"
-            - "owner:: [[Paul Millerd]]"
+            - "Owner:: [[Paul Millerd]]"
         - "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck"
-            - "owner:: [[Drew Schorno]]"
+            - "Owner:: [[Drew Schorno]]"
         - [[GitHub]]
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Netlify]]
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Discord]]
-            - "owner:: [[Jordan Peacock]]"
+            - "Chief Page Wrangler:: [[Jordan Peacock]]"
     - ## Class 3  (Inconvenience)
         - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
-            - "owner:: [[Venkatesh Rao]]"
+            - "Owner:: [[Venkatesh Rao]]"
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
-            - "owner:: [[Venkatesh Rao]]"
+            - "Owner:: [[Venkatesh Rao]]"
         - "[Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)"
-            - "owner:: [[Tom Critchlow]]"
+            - "Owner:: [[Tom Critchlow]]"
         - [[IFTTT]]
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Carl]]
-            - "owner:: [[Jordan Peacock]]"
+            - "Chief Page Wrangler:: [[Jordan Peacock]]"
         - [[Zapier]]
-            - "owner:: [[Venkatesh Rao]]"
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
         - [[Substack]]
-            - "owner:: [[Matthew Sweet]]"
+            - "Chief Page Wrangler:: [[Matthew Sweet]]"
         - [[Twitter]]
-            - "owner:: [[Jordan Peacock]]"
+            - "Chief Page Wrangler:: [[Jordan Peacock]]"
         - [[Facebook]]
-            - ""
+            - "Chief Page Wrangler:: [[Venkatesh Rao]]"
         - [[LinkedIn]]
-            - owner:: [[Venkatesh Rao]]
+            - Owner:: [[Venkatesh Rao]]
     - ## Class 4 (¯\_(ツ)_/¯)
         - [[Glitch]]
-            - "owner:: [[Nathan Acks]]"
+            - "Chief Page Wrangler:: [[Nathan Acks]]"
 # Possible Mitigations
     - Trust between members (especially members with access to various assets)
     - Separation of duties for Class 1 and 2 assets

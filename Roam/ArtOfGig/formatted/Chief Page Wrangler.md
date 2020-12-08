@@ -89,7 +89,7 @@
 - Anyone can create a page as long they use the [template/header](<template/header.md>) and define a [Chief Page Wrangler](<Chief Page Wrangler.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[About](<About.md>):** __map of fields in__ [Knack.com](<Knack.com.md>) __member database__
+- **[About](<About.md>):** __Map of fields in Knack member database.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
@@ -153,7 +153,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
-- **[About](<About.md>):** __draft process map for onboarding new yaks in the backend__
+- **[About](<About.md>):** __Draft process map for onboarding new yaks in the backend.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [template/govchat](<template/govchat.md>)

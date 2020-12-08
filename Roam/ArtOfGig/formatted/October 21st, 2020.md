@@ -8,7 +8,7 @@
 ## [Astonishing Stories - Marketing Launch](<Astonishing Stories - Marketing Launch.md>)
 - **[Last Gardened](<Last Gardened.md>):** [October 21st, 2020](<October 21st, 2020.md>)
 
-## [Knack.com](<Knack.com.md>)
+## [Knack](<Knack.md>)
 Last Gardened:: [October 21st, 2020](<October 21st, 2020.md>)
 
 ## [Privacy Policy](<Privacy Policy.md>)

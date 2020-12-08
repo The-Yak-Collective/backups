@@ -3,12 +3,6 @@
     2. Added a page about [Vultr](<Vultr.md>) and [Maier Fenster](<Maier Fenster.md>)'s new bots!
 
 # Backlinks
-## [Carl](<Carl.md>)
-last updated:: [November 24th, 2020](<November 24th, 2020.md>)
-
-## [IT Infrastructure](<IT Infrastructure.md>)
-Last Updated:: [November 24th, 2020](<November 24th, 2020.md>)
-
 ## [Vultr](<Vultr.md>)
-- **[last updated](<last updated.md>):** [November 24th, 2020](<November 24th, 2020.md>)
+Created:: [November 24th, 2020](<November 24th, 2020.md>)
 

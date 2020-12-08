@@ -166,6 +166,11 @@
 - [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Discord](<Discord.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Maier Fenster](<Maier Fenster.md>) | [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
@@ -182,8 +187,6 @@
 
 ## [Facebook](<Facebook.md>)
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Final Frontiers check-in call](<Final Frontiers check-in call.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -219,22 +222,24 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - This is a bunch of ideas which would make suitable contributions to the [Future Frontiers](<Future Frontiers.md>) project. Each should take 2-4 hours of thought and composition at most, to generate a few slides and text. See [the website](https://www.yakcollective.org/projects/) for already published examples. Contact [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [GitHub](<GitHub.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>) | [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Owner](<"Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Owner](<"Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 - [Venkatesh Rao](<Venkatesh Rao.md>):
 
-- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -271,15 +276,13 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [LinkedIn](<LinkedIn.md>)
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [Venkatesh Rao](<Venkatesh Rao.md>)
+- [Sachin Benny](<Sachin Benny.md>) added per [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Marketing Resources](<Marketing Resources.md>)
 - "[Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Namecheap](<Namecheap.md>)
-owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Neurofuturama](<Neurofuturama.md>)
 - Office hours with [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -317,18 +320,11 @@ owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - **Financial Structure**: Client Project ([Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
 ## [Relief Resources for Self-Employed](<Relief Resources for Self-Employed.md>)
 - [Gigging in the time of Corona](https://artofgig.substack.com/p/gigging-in-the-time-of-corona) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Roam](<Roam.md>)
-owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Roam Help](<Roam Help.md>)
 - This February 2020 post on __A Text Renaissance__ by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -423,20 +419,22 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Owner](<"Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Owner](<"Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
-- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+
+- **[Owner](<Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Twitter](<Twitter.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Scott Allen](<Scott Allen.md>) | [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Vlad Meh: Naming Ways, Magic Ways](<Vlad Meh: Naming Ways, Magic Ways.md>)
 - [True Name idea](https://en.wikipedia.org/wiki/True_name) -- [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -516,13 +514,13 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - **General Track** — [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Owner](<Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+- **[Owner](<Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [Venkatesh Rao](<Venkatesh Rao.md>)
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -566,9 +564,7 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - -> "How do I put this together into a gig that could solve this pain-pointfor me?"  ---- YC gig organization: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Zapier](<Zapier.md>)
-owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - tentatively [Venkatesh Rao](<Venkatesh Rao.md>)

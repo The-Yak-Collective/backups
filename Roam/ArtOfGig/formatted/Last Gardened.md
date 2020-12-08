@@ -45,7 +45,7 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Schema | member data](<Schema | member data.md>)
-- [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):** [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
@@ -101,6 +101,6 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [template/header](<template/header.md>)
-- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Updated](<Last Updated.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - **[Last Gardened](<Last Gardened.md>):**
 

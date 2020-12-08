@@ -1,9 +1,29 @@
 - Paycheck type currently working in the non-profit space, but planning on making the jump to independence.
 - Long-time follower of [Ribbonfarm](https://www.ribbonfarm.com/), which is how I discovered [[Breaking Smart]] and [[Art of Gig]].
-- Twitter: [@nathan_acks](https://twitter.com/nathan_acks)
-- Websites (redevelopment in process)
-    - [Delphi Strategy](https://www.delphi-strategy.com/) (newsletter, thoughts about the future)
-    - [Digital Orrery](https://www.digital-orrery.com/) (photography)
-    - [EcoPunk.info](https://www.ecopunk.info/) (personal page)
-- M.S. in Applied Mathematics specializing in [Operations Research](https://en.wikipedia.org/wiki/Operations_research)
+- M.S. in Applied Mathematics specializing in [Operations Research](https://en.wikipedia.org/wiki/Operations_research).
 - For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
+- Twitter:: [@nathan_acks](https://twitter.com/nathan_acks)
+- Websites::
+    - [Delphi Strategy](https://www.delphi-strategy.com/) (newsletters, essays)
+    - [Digital Orrery](https://www.digital-orrery.com/) (photography)
+    - [EcoPunk.info](https://www.ecopunk.info/) (personal page, lifelog)
+- Internal Links::
+    - [[IT Infrastructure]]
+    - [[Yak Collective Website]]
+    - [[Code Style Guide]]
+    - [[Threat Model]]
+    - [[Yak Collective Member Types]]
+    - [[Discord Channel Lifecycle and Organization]]
+- Public Inbox::
+    - Put anything you like here (I check this every couple of days, and will removed seen items).
+- Pings::
+    - {{[[query]]: {and: [[ping]] [[Nathan Acks]] {not: [[pong]]} {not: [[query]]}}}}
+- To Do::
+    - {{[[TODO]]}} Update the [[Yak Collective Website]] documentation
+    - {{[[TODO]]}} Update the [Discord channel proposal]([[Discord Channel Lifecycle and Organization]])
+    - {{[[TODO]]}} Migrate [[Yak Collective Website]] to [Gatsby](https://www.gatsbyjs.com/)
+    - {{[[TODO]]}} Migrate from [IFTTT](https://ifttt.com/) to [ActionsFlow](https://github.com/actionsflow/actionsflow) ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))
+    - {{[[TODO]]}} Integrate [[Knack]] into the [[Yak Collective Website]]
+    - {{[[TODO]]}} Research options for JAMstack CMSes
+    - {{[[TODO]]}} Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [[Yak Collective Website]]
+    - {{[[TODO]]}} Code review for [[Yak Collective Website]]

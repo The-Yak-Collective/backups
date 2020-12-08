@@ -92,7 +92,7 @@ marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+
 - Interested to learn more about this and see where I can contribute. - [Alex Wagner](<Alex Wagner.md>)
 
 ## [Substack](<Substack.md>)
-- [Alex Wagner](<Alex Wagner.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Alex Wagner](<Alex Wagner.md>)
 
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Idea:** save search for ["remote gig"](https://twitter.com/search?q=remote%20gig&src=typed_query) on twitter. Might be noisy, might be fortuitous. [Alex Wagner](<Alex Wagner.md>)
@@ -141,7 +141,7 @@ was working with this client to think about how they might productize senior web
 - I would like to take this on [Alex Wagner](<Alex Wagner.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-- [Alex Wagner](<Alex Wagner.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Alex Wagner](<Alex Wagner.md>)
 
 - [Alex Wagner](<Alex Wagner.md>)
 

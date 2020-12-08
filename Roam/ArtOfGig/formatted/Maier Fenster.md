@@ -32,24 +32,47 @@
 - do enrolments go up as a function of "noise"? #[Maier Fenster](<Maier Fenster.md>)
 
 ## [Discord](<Discord.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Maier Fenster](<Maier Fenster.md>)
+
+## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+-  [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- Yak shavers will monitor channels for signs of inactivity, culling inactive channels at least once per month. [Maier Fenster](<Maier Fenster.md>)
+
+[Maier Fenster](<Maier Fenster.md>)
+
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 
 ## [GitHub](<GitHub.md>)
-- [Maier Fenster](<Maier Fenster.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>).
 
 - [Roam diagrams](https://roamresearch.com/#/app/help/page/OB_uynVDM) are pretty limited; [Maier Fenster](<Maier Fenster.md>)
 
-- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)"
 
-- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)"
 
-- **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>) [Maier Fenster](<Maier Fenster.md>)
@@ -100,13 +123,13 @@
 
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
-## [Knack.com](<Knack.com.md>)
+## [Knack](<Knack.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 - Alternate Builder access as needed: [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 ## [Netlify](<Netlify.md>)
-- [Maier Fenster](<Maier Fenster.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
@@ -167,40 +190,8 @@
 
 - [Maier Fenster](<Maier Fenster.md>)
 
-## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
--  [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- Yak shavers will monitor channels for signs of inactivity, culling inactive channels at least once per month. [Maier Fenster](<Maier Fenster.md>)
-
-[Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
-Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
 ## [Schema | member data](<Schema | member data.md>)
-[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
 
@@ -222,9 +213,7 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [Vultr](<Vultr.md>)
-- **[owner](<owner.md>):** [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
+Chief Page Wrangler:: [Maier Fenster](<Maier Fenster.md>)
 
 ## [Website Version History](<Website Version History.md>)
 - [Maier Fenster](<Maier Fenster.md>)
@@ -242,8 +231,17 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>) - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others led by [Rafael Fernandez](<Rafael Fernandez.md>) & [Maier Fenster](<Maier Fenster.md>)
 
-## [Yak Collective Robot](<Yak Collective Robot.md>)
+## [Yak Collective Member Types](<Yak Collective Member Types.md>)
+Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+
 - [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+## [Yak Collective Robot](<Yak Collective Robot.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Alex Wagner](<Alex Wagner.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
 
@@ -255,8 +253,8 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 ## [Yak Network Map](<Yak Network Map.md>)
 - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Maier Fenster](<Maier Fenster.md>)
 
-## [[Knack.com](<[Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack.com](<Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
-- [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
+## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
+- [pong](<pong.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
 

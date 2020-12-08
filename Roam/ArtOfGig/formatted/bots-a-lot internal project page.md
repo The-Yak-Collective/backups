@@ -47,7 +47,6 @@
         - **[Value for YC](<Value for YC.md>):**
             - better automation and usability
             - maybe other discord groups will want to copy
-    - **[Help wanted](<Help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
     - **[Relevant files and drafts (Graph or website or google docs)](<Relevant files and drafts (Graph or website or google docs).md>):**
     - **[Genesis](<Genesis.md>):**

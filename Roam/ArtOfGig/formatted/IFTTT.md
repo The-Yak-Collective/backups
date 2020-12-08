@@ -1,13 +1,14 @@
-owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __Documentation for IFTTT.__
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # Purpose
     - Simple automation.
         - Monitor member website and [Yak Talk](<Yak Talk.md>) newsletter RSS feeds, pushing content into the [Yak Collective Website](<Yak Collective Website.md>) via [GitHub](<GitHub.md>). On successful commit, also push this content to the `yaktalk-content` channel in [Discord](<Discord.md>).
         - Monitor member website, [Yak Talk](<Yak Talk.md>) newsletter, and featured yak RSS feeds, pushing content updates to [Twitter](<Twitter.md>).
         - Rebuild the [Yak Collective Website](<Yak Collective Website.md>) once per day (to ensure that featured yaks are fresh).
-# Access ^^(Shared Login!)^^
-    - [Nathan Acks](<Nathan Acks.md>)
-    - [Yak Collective Robot](<Yak Collective Robot.md>)
 
 # Backlinks
 ## [Contributing to the Website](<Contributing to the Website.md>)

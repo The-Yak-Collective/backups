@@ -51,6 +51,9 @@
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
@@ -158,9 +161,6 @@
 
 - [Hugo Macedo](<Hugo Macedo.md>)
 
-## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
-- [Hugo Macedo](<Hugo Macedo.md>)
-
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
@@ -172,9 +172,9 @@
 - [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [September 25th, 2020](<September 25th, 2020.md>)
-- [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [online-governance](<online-governance.md>) + [online-governance-studies](<online-governance-studies.md>) »»» [Yak Collective Governance](<Yak Collective Governance.md>) or consistency [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>)
+- [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [online-governance](<online-governance.md>) + [online-governance-studies](<online-governance-studies.md>) »»» [Yak Collective Governance](<Yak Collective Governance.md>) or consistency [pong](<pong.md>) [Hugo Macedo](<Hugo Macedo.md>)
 
-- [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [Yak Collective Governance](<Yak Collective Governance.md>) »»» added [template/header](<template/header.md>) [ping](<ping.md>) [Hugo Macedo](<Hugo Macedo.md>)
+- [Jenna Dixon](<Jenna Dixon.md>) [gardened](<gardened.md>) [Yak Collective Governance](<Yak Collective Governance.md>) »»» added [template/header](<template/header.md>) [pong](<pong.md>) [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)

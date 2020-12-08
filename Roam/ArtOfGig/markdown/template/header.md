@@ -1,12 +1,9 @@
 - About:: __XXX__
-- Chief Page Wrangler:: [[Fname Lname]]
-    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
-- Created:: `/today` by [[Fname Lname]]
+- Chief Page Wrangler:: `[[Fname Lname]]`
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+- Created:: `/Today` by `[[Fname Lname]]`
 - Page Type:: {{or: #Project | #tk1 | #tk2 }}
 - Status:: {{or: Early Concept | Active | Proposal | Complete}}
 - Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
-- Last Updated:: `/today` by [[Fname Lname]]
-- Last Gardened:: `/today` by [[Fname Lname]]
-- 
-- 
-- 
+- Last Updated:: `/Today` by `[[Fname Lname]]`
+- Last Gardened:: `/Today` by `[[Fname Lname]]`

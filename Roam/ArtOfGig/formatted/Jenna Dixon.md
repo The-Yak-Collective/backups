@@ -61,6 +61,19 @@
 
 - **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Facebook](<Facebook.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -86,6 +99,8 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 ## [IT Infrastructure](<IT Infrastructure.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
+- **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)"
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -100,7 +115,7 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 ## [Jenna Dixon](<Jenna Dixon.md>)
 - {{[query](<query.md>): {and: [Jenna Dixon](<Jenna Dixon.md>)
 
-## [Knack.com](<Knack.com.md>)
+## [Knack](<Knack.md>)
 Chief Page Wrangler:: [Jenna Dixon](<Jenna Dixon.md>)
 
 Last Updated:: [October 5th, 2020](<October 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
@@ -169,21 +184,6 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 - See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>)
 
-## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
-- [November 16th, 2020](<November 16th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
-- [Jenna Dixon](<Jenna Dixon.md>)
-
-- [Jenna Dixon](<Jenna Dixon.md>)
-
-- [Jenna Dixon](<Jenna Dixon.md>)
-
-- [Jenna Dixon](<Jenna Dixon.md>)
-
-- [Jenna Dixon](<Jenna Dixon.md>)
-
-- [Jenna Dixon](<Jenna Dixon.md>)
-
 ## [Publishing Projects Sampler](<Publishing Projects Sampler.md>)
 -  [August 4th, 2020](<August 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -199,13 +199,9 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 - created [August 5th, 2020](<August 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
-- [September 27th, 2020](<September 27th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
-- [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
-- **[Last Gardened](<Last Gardened.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):** [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 - [x] [September 27th, 2020](<September 27th, 2020.md>) [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -285,13 +281,11 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 ## [Yak Rover](<Yak Rover.md>)
 - **[Last Gardened](<Last Gardened.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
-## [[Knack.com](<[Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack.com](<Knack.com.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
-- [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>)
+## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
+- [pong](<pong.md>) #[Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Last Updated](<Last Updated.md>):** [October 6th, 2020](<October 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
-- **[Last Gardened](<Last Gardened.md>):** [October 21th, 2020](<October 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 

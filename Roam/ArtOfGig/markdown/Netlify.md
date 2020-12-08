@@ -1,5 +1,9 @@
-owner:: [[Nathan Acks]]
-last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
+About:: __Documentation for Netlify.__
+Chief Page Wrangler:: [[Nathan Acks]]
+    - Additional Page Wranglers:: [[Maier Fenster]]
+Created:: [[August 30th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Purpose
     - Provides the build environment for the [[Yak Collective Website]]
         - See [[Building the Website]] for more details
@@ -10,11 +14,6 @@ last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
             - This means that the website is "serverless", in that it exists as a set of CDN files + some load balancer intelligence.
                 - Of course, all of these are actually made up of servers, so it's really just [turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down).
         - "API" endpoints ([Netlify Functions](https://docs.netlify.com/functions/overview/)) pushed out to [Amazon Lambda](https://aws.amazon.com/lambda/)
-# Access ^^(Shared Login!)^^
-    - [[Yak Collective Robot]]
-        - Doesn't log in itself, but can be used for password resets.
-    - [[Nathan Acks]]
-    - [[Maier Fenster]]
 # Notes
     - Netlify has great [documentation](https://docs.netlify.com/).
     - When setting up a new Netlify site, be sure to set **Settings > Build & deploy > Build settings > Deploy log visibility** to **Logs are private**!

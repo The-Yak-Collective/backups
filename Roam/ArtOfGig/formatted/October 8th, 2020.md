@@ -2,7 +2,7 @@
     - [Sachin Benny](<Sachin Benny.md>) shared the link with me in Discord
     - feeling kinda strongly about __YakC__ instead of __YC__
     - 
-- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>) [Knack.com](<Knack.com.md>)
+- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>) [Knack](<Knack.md>)
     - [ ] configure: AS alt type
     - [ ] configure: AS story teaser setup
     - [ ] configure: ^^copyediting^^ » layout » proofreading process

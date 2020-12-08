@@ -17,7 +17,7 @@
 - 
 
 # Backlinks
-## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
+## [Yak Collective Member Types](<Yak Collective Member Types.md>)
 - Active yaks may participate in YakC projects and, if they desire, are eligible for inclusion on the [Yak Network Map](<Yak Network Map.md>).
 
 - If they desire, made yaks are eligible for inclusion on the [Yak Network Map](<Yak Network Map.md>).

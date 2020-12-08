@@ -1,9 +1,10 @@
-About:: __documenting types of YakC members__
+About:: __Documenting types of Yak Collective members.__
 Chief Page Wrangler:: [[Nathan Acks]]
-    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[November 9th, 2020]] by [[Nathan Acks]]
+Current State:: {{or: Proposed | Draft | Live | Archived}}
 Last Updated:: [[November 16th, 2020]] by [[Maier Fenster]]
-Last Gardened:: `/today` by [[Fname Lname]]
+Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
 # Yaks
     - Anyone who is a member of the YakC Discord server or who has made a significant contribution to a YakC project is considered a "yak". There are four "types" of yaks.
         - contradiction: if they did not make a significant contribution, they may still be yaks

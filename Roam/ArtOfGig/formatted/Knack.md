@@ -18,25 +18,26 @@ Last Gardened:: [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<
 
 # Backlinks
 ## [Contributing to the Website](<Contributing to the Website.md>)
-- Work on migrating member data to [Knack.com](<Knack.com.md>).
+- Work on migrating member data to [Knack](<Knack.md>).
 
 ## [GitHub](<GitHub.md>)
-- Currently holds member data; plan is to migrate this to [Knack.com](<Knack.com.md>)
+- Currently holds member data; plan is to migrate this to [Knack](<Knack.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- [Knack.com](<Knack.com.md>)
+- [Knack](<Knack.md>)
+
+## [Nathan Acks](<Nathan Acks.md>)
+- [ ] Integrate [Knack](<Knack.md>)
 
 ## [October 5th, 2020](<October 5th, 2020.md>)
-- 19:58 [Jenna Dixon](<Jenna Dixon.md>) updated [Knack.com](<Knack.com.md>)
+- 19:58 [Jenna Dixon](<Jenna Dixon.md>) updated [Knack](<Knack.md>)
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
-- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>) [Knack.com](<Knack.com.md>)
+- 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>) [Knack](<Knack.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[About](<About.md>):** __map of fields in__ [Knack.com](<Knack.com.md>)
-
-- [Nathan Acks](<Nathan Acks.md>) says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [Knack.com](<Knack.com.md>))
+- [Nathan Acks](<Nathan Acks.md>) says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [Knack](<Knack.md>))
 
 ## [Threat Model](<Threat Model.md>)
-- [Knack.com](<Knack.com.md>)
+- [Knack](<Knack.md>)
 

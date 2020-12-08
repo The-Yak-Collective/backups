@@ -1,15 +1,12 @@
-owner:: [Jordan Peacock](<Jordan Peacock.md>)
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __Documentation for Twitter.__
+Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Scott Allen](<Scott Allen.md>) | [Venkatesh Rao](<Venkatesh Rao.md>) | [Nathan Acks](<Nathan Acks.md>) | [Pamela Hobart](<Pamela Hobart.md>)
+Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # Purpose
     - ???
-# Access
-    - Via Tweetdeck teams
-        - [Jordan Peacock](<Jordan Peacock.md>)
-        - [Scott Allen](<Scott Allen.md>)
-    - ^^Shared login^^
-        - [Venkatesh Rao](<Venkatesh Rao.md>)
-        - [Nathan Acks](<Nathan Acks.md>)
-        - [Pamela Hobart](<Pamela Hobart.md>)
+    - ^^Shared login!^^
 
 # Backlinks
 ## [Amir Hajizamani](<Amir Hajizamani.md>)
@@ -24,6 +21,10 @@ last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks
 
 ## [Infrastructure](<Infrastructure.md>)
 - [Twitter](<Twitter.md>)
+
+## [Nathan Acks](<Nathan Acks.md>)
+- For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
+- **[Twitter](<Twitter.md>):**
 
 ## [Schema | member data](<Schema | member data.md>)
 - Example: `The Public Interest Network`

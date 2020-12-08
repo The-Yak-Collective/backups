@@ -83,7 +83,7 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Schema | member data](<Schema | member data.md>)
-[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)

@@ -44,7 +44,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 - [Pamela Hobart](<Pamela Hobart.md>)
 
 ## [Discord](<Discord.md>)
-- [Pamela Hobart](<Pamela Hobart.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Maier Fenster](<Maier Fenster.md>) | [Venkatesh Rao](<Venkatesh Rao.md>) | [Drew Schorno](<Drew Schorno.md>) | [Paul Millerd](<Paul Millerd.md>) | [Pamela Hobart](<Pamela Hobart.md>)
 
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - 5pm - 5:30pm Eastern Time (21h00-21h30 UTC), hosted by [Pamela Hobart](<Pamela Hobart.md>)
@@ -61,7 +61,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 - ~~A Twitter list of members would be helpful both in making it easier to engage with other yaks (vs. relying on Twitter's algorithms) and help increase visibility. I started to do one on my personal account, but then realized it should be on @yak_collective. I volunteer to set it up and help maintain it if I can get access to the Twitter account~~—[Pamela Hobart](<Pamela Hobart.md>)?
 
 ## [Twitter](<Twitter.md>)
-- [Pamela Hobart](<Pamela Hobart.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Scott Allen](<Scott Allen.md>) | [Venkatesh Rao](<Venkatesh Rao.md>) | [Nathan Acks](<Nathan Acks.md>) | [Pamela Hobart](<Pamela Hobart.md>)
 
 ## [Vlad Meh: Naming Ways, Magic Ways](<Vlad Meh: Naming Ways, Magic Ways.md>)
 - Hey Vlad I'm just catching up on this convo so I don't know what other people chimed in on here, but I guess I see names as possibly developing an anachronistic kind of charm - like they aren't strictly necessary for communication purposes anymore but they might all feel like nicknames, or kind of pleasantly vestigial - [Pamela Hobart](<Pamela Hobart.md>)

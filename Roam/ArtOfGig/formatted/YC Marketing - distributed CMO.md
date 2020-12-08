@@ -232,9 +232,6 @@ Yaks competing for attention
 ## [Project Pitches](<Project Pitches.md>)
 - **[About](<About.md>):** Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>) newsletter, and potentially some marketing activity from the [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
-## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
-- Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>)) or internally facing (__e.g.__, [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>))
-
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [Hugo Macedo](<Hugo Macedo.md>) Started [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
@@ -248,4 +245,7 @@ Yaks competing for attention
 - {{[query](<query.md>): {and: [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
 - {{[query](<query.md>): {and: [TODO](<TODO.md>) [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)}
+
+## [Yak Collective Member Types](<Yak Collective Member Types.md>)
+- Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>)) or internally facing (__e.g.__, [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>))
 

@@ -1,11 +1,10 @@
-About:: __documenting channel lifecycle and categories for the YakC Discord server__
+About:: __Documenting channel lifecycle and categories for the Yak Collective Discord server.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Updated:: 
-    - [November 16th, 2020](<November 16th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-    - [November 15th, 2020](<November 15th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Last Gardened:: `/today` by [Fname Lname](<Fname Lname.md>)
+Current State:: {{or: Proposed | Draft | Live | Archived}}
+Last Updated:: [November 15th, 2020](<November 15th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Channel Categories
     ## Plaza
         General discussion and information channels.
@@ -96,11 +95,16 @@ Are you proposing to put [Discussions](<Discussions.md>) and [Bureaucracy](<Bure
 
 # Backlinks
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-- [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+
+## [Nathan Acks](<Nathan Acks.md>)
+- [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+
+- [ ] Update the [Discord channel proposal]([Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>))
 
 ## [November 9th, 2020](<November 9th, 2020.md>)
-- [Nathan Acks](<Nathan Acks.md>) wrote up [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+- [Nathan Acks](<Nathan Acks.md>) wrote up [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 

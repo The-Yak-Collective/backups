@@ -54,9 +54,6 @@
 ## [November 25th, 2020](<November 25th, 2020.md>)
 - #[The New Old Home](<The New Old Home.md>)
 
-## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
-- Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>))
-
 ## [Sample Project](<Sample Project.md>)
 - [The New Old Home](<The New Old Home.md>)
 
@@ -67,6 +64,9 @@
 - [The New Old Home](<The New Old Home.md>)
 
 - [The New Old Home](<The New Old Home.md>)
+
+## [Yak Collective Member Types](<Yak Collective Member Types.md>)
+- Such project can be externally facing (__e.g.__, [The New Old Home](<The New Old Home.md>))
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [The New Old Home](<The New Old Home.md>)

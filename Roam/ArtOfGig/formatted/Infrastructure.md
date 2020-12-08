@@ -176,7 +176,7 @@ suggest most recent note left untwirled for easy review to visitors__
                 - Maier: I have a (private) extension that unfurls links using my server
                     - https://chrome.google.com/webstore/detail/ruf/ahjankgnkfhcpemcahifhalkfapojekc
             - ^^Nathan: I will repost my simplify/lifecycle proposal.^^
-                - [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+                - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
         - Discord map [Maier Fenster](<Maier Fenster.md>)
             - Maier: I'd really like a visual map of the Discord server, but we should have a metaphor.
                 - Maybe make it dynamic using the data from `yak_scraper`.

@@ -1,13 +1,15 @@
-owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __Documentation for Glitch.__
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # Purpose
     - General automation.
     - Currently unused. Better alternatives:
-        - [Carl](<Carl.md>)
         - [Netlify Functions](https://docs.netlify.com/functions/overview/)
-# Access
-    - [Nathan Acks](<Nathan Acks.md>)
-    - [Yak Collective Robot](<Yak Collective Robot.md>)
+        - [Vultr](<Vultr.md>)
+        - [Carl](<Carl.md>)
 
 # Backlinks
 ## [GitHub](<GitHub.md>)

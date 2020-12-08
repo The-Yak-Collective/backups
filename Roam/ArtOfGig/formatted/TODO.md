@@ -172,6 +172,23 @@
 ## [Jenna Dixon](<Jenna Dixon.md>)
 - {{[TODO](<TODO.md>)}
 
+## [Nathan Acks](<Nathan Acks.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 

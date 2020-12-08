@@ -6,19 +6,15 @@
 
 # Backlinks
 ## [Facebook](<Facebook.md>)
-Last Updated:: [October 23rd, 2020](<October 23rd, 2020.md>)
-
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)
 
 ## [LinkedIn](<LinkedIn.md>)
-Last Updated:: [October 23rd, 2020](<October 23rd, 2020.md>)]
-
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)]
 
-- per vgr on Discord [@Sachin Benny (US Central) you are now an admin on LinkedIn](https://discord.com/channels/692111190851059762/704369362315772044/769048757874196520) [October 23rd, 2020](<October 23rd, 2020.md>)
+- [Sachin Benny](<Sachin Benny.md>) added per [Venkatesh Rao](<Venkatesh Rao.md>) on [October 23rd, 2020](<October 23rd, 2020.md>):
 
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Created](<Created.md>):** [October 23rd, 2020](<October 23rd, 2020.md>)

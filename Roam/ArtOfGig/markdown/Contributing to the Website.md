@@ -1,5 +1,9 @@
-owner:: [[Nathan Acks]]
-last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
+About:: __How to contribute to the Yak Collective website.__
+Chief Page Wrangler:: [[Nathan Acks]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+Created:: [[August 30th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Content Updates
     - ## Website
         - Website content is currently stored in [[GitHub]].
@@ -34,7 +38,7 @@ last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
             - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/astonishing-stories
             - [[Netlify]]: https://app.netlify.com/sites/optimistic-jennings-266cab/overview
         - `knack-migration` (point: [[Maier Fenster]])
-            - Work on migrating member data to [[Knack.com]].
+            - Work on migrating member data to [[Knack]].
             - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/knack-migration
             - [[Netlify]]: https://app.netlify.com/sites/competent-shockley-33f53c/overview
         - `admin-improvements` (point: [[Maier Fenster]])

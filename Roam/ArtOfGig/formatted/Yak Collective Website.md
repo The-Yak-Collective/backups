@@ -1,5 +1,9 @@
-owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __"Table of contents" for the Yak Collective website documentation.__
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 ![Netlify Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)
     - [Website Architecture](<Website Architecture.md>)
     - [Contributing to the Website](<Contributing to the Website.md>)
@@ -46,6 +50,19 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - Help with the [Yak Collective Website](<Yak Collective Website.md>)
 
+## [Nathan Acks](<Nathan Acks.md>)
+- [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Update the [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
+
 ## [Netlify](<Netlify.md>)
 - Provides the build environment for the [Yak Collective Website](<Yak Collective Website.md>)
 
@@ -64,9 +81,6 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 ## [Project Pitches](<Project Pitches.md>)
 - **[About](<About.md>):** Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>),
 
-## [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
-- Ideally, __all__ projects should be featured on the [Yak Collective Website](<Yak Collective Website.md>).
-
 ## [Things We Need](<Things We Need.md>)
 - Check out the [Yak Collective Website](<Yak Collective Website.md>)
 
@@ -76,6 +90,9 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)
+
+## [Yak Collective Member Types](<Yak Collective Member Types.md>)
+- Ideally, __all__ projects should be featured on the [Yak Collective Website](<Yak Collective Website.md>).
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - [GitHub](<GitHub.md>) (fail-safe admin account, owns the OAuth connector used by Netlify CMS on the [Yak Collective Website](<Yak Collective Website.md>))

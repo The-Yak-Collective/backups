@@ -59,7 +59,7 @@
 - [Vinay Débrou](<Vinay Débrou.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-[Vinay Débrou](<Vinay Débrou.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>)
 
 - [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>) we will use [Discord UID](<Discord UID.md>). Rcvd scrape from [Vinay Débrou](<Vinay Débrou.md>),
 

@@ -1,17 +1,12 @@
-- About:: __map of fields in__ [[Knack.com]] __member database__
+- About:: __Map of fields in Knack member database.__
 - Chief Page Wrangler:: [[Nathan Acks]]
-    - Additional Page Wranglers:: 
-[[Vinay Débrou]] | [[Maier Fenster]] | [[Jenna Dixon]] | [[Jordan Peacock]]
-- Last Updated:: 
-    - [[September 12th, 2020]] by [[Nathan Acks]]
-    - [[September 27th, 2020]] by [[Jenna Dixon]]
-    - [[October 15th, 2020]] by [[Jenna Dixon]]
-- Last Gardened:: [[Jenna Dixon]] [[October 5th, 2020]]
-- 
+    - Additional Page Wranglers:: [[Vinay Débrou]] | [[Maier Fenster]] | [[Jenna Dixon]] | [[Jordan Peacock]]
+- Last Updated:: [[October 15th, 2020]] by [[Jenna Dixon]]
+- Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
 - # Website Member Data Template
     - UID::
         - ^^Required^^ Internal member ID, used for webpage URLs and some website `<div/>` IDs.
-            - [[Nathan Acks]] says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [[Knack.com]]), I'd use some kind of non-name UID (`a34bce`, etc.) instead.
+            - [[Nathan Acks]] says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [[Knack]]), I'd use some kind of non-name UID (`a34bce`, etc.) instead.
         - Example: `nathan-acks`
             - {{[[DONE]]}} [[September 27th, 2020]] [[Jenna Dixon]] »»» ~~agree totally. Out of the box we can have~~ `Nathan-Acks` -- ~~ie I'll have to find a way to lower case the names. I also would suggest~~ `Acks-Nathan` ie `Lname-Fname` ~~to make sorting the list in the backend with a click possible.~~ hold this thought, I may be misunderstanding what you are suggesting above. ID should __not__ use actual names, will get Knack to autogenerate a non-name UID √
             - {{[[DONE]]}} new [[October 5th, 2020]] per Infra call [[October 4th, 2020]] we will use [[Discord UID]]. Rcvd scrape from [[Vinay Débrou]], imported into Knack.

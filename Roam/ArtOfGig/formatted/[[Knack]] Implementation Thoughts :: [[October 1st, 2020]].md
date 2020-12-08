@@ -1,8 +1,8 @@
-- [ping](<ping.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
+- [pong](<pong.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
     - [Maier Fenster](<Maier Fenster.md>) should this ping us only ONCE on discord? and after it pings, should it self-erase? or manual?
         - [Nathan Acks](<Nathan Acks.md>) It might have pinged twice because I initially added two line, and then consolidated. I wasn't aware that we'd taken the ping functionality live.
     - [Jenna Dixon](<Jenna Dixon.md>) thanks for starting this up Nathan 
-        - [ping](<ping.md>) #[Nathan Acks](<Nathan Acks.md>) I’m on the road today [October 2nd, 2020](<October 2nd, 2020.md>) with limited connectivity. look forward to diving in on tomorrow [October 3rd, 2020](<October 3rd, 2020.md>)
+        - [pong](<pong.md>) #[Nathan Acks](<Nathan Acks.md>) I’m on the road today [October 2nd, 2020](<October 2nd, 2020.md>) with limited connectivity. look forward to diving in on tomorrow [October 3rd, 2020](<October 3rd, 2020.md>)
 - # [Nathan Acks](<Nathan Acks.md>)
     - ## Backend
         - Overall looks good.

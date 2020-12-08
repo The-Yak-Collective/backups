@@ -1,8 +1,8 @@
-About:: __documenting YakC shared infrastructure__
+About:: __Documentation for the Yak Collective's shared infrastructure.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Last Updated:: [November 24th, 2020](<November 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -36,63 +36,63 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
         - [Full-sized version of the current map](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg) (assets link back to pages in this Roam graph)
     - ![Yak Collective IT Infrastructure diagram](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg)
         - [Yak Collective Robot](<Yak Collective Robot.md>) ("Yakbot")
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
             - Google account; holds __some__ shared assets.
             - Google data/documents/services currently held by individual members should eventually be migrated into this account.
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - **["Owner](<"Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
             - Part of the [Yak Collective Robot](<Yak Collective Robot.md>) account
         - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - **["Owner](<"Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
             - Part of the [Yak Collective Robot](<Yak Collective Robot.md>) account
         - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck
-            - **[owner](<owner.md>):** [Drew Schorno](<Drew Schorno.md>)
+            - **[Owner](<Owner.md>):** [Drew Schorno](<Drew Schorno.md>)
         - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
-            - **[owner](<owner.md>):** [Paul Millerd](<Paul Millerd.md>)
+            - **[Owner](<Owner.md>):** [Paul Millerd](<Paul Millerd.md>)
         - "[Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)"
-            - **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
+            - **["Owner](<"Owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
             - Part of the [Yak Collective Robot](<Yak Collective Robot.md>) account
         - [Vultr](<Vultr.md>) "Calendar Yak (a.k.a. [gmail_hook](https://github.com/The-Yak-Collective/gmail_hook))" bot
-            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)"
         - [Vultr](<Vultr.md>) "yak_scraper (a.k.a. [onboarding_robot](https://github.com/The-Yak-Collective/onboarding_robot))" bot
-            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)"
         - [Vultr](<Vultr.md>) "^^**EXPERIMENTAL**^^ [gigayak](https://github.com/The-Yak-Collective/gigayak)" bot
-            - **["owner](<"owner.md>):** [Maier Fenster](<Maier Fenster.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)"
         - [Carl](<Carl.md>) "welcome_bot" bot
-            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Carl](<Carl.md>) "yakyak" bot
-            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Discord](<Discord.md>)
-            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Namecheap](<Namecheap.md>)
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
-        - [Knack.com](<Knack.com.md>)
-            - AAhkfps_m
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+        - [Knack](<Knack.md>)
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)"
         - [Roam](<Roam.md>)
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [Netlify](<Netlify.md>) Continuous Integration ([Jekyll](https://jekyllrb.com/))
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
             - See [Building the Website](<Building the Website.md>) for more details
         - [Netlify](<Netlify.md>) CDN
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Netlify](<Netlify.md>) [Functions](https://docs.netlify.com/functions/overview/) ([create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js))
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Yak Collective Website](<Yak Collective Website.md>)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Yak Collective Website](<Yak Collective Website.md>) ["Featured Yak" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [GitHub](<GitHub.md>)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [IFTTT](<IFTTT.md>) [Netlify Build Hook](https://docs.netlify.com/configure-builds/build-hooks/) Applet (Timer)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [IFTTT](<IFTTT.md>) Twitter Applets
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [IFTTT](<IFTTT.md>) [create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js) Applets
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Zapier](<Zapier.md>)
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [Glitch](<Glitch.md>)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - Member RSS Feeds
             - [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>): https://nesslabs.com/author/annelaure/feed
             - [Ben Mosior](<Ben Mosior.md>): https://hiredthought.com/feed/
@@ -109,14 +109,14 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
             - [Venkatesh Rao](<Venkatesh Rao.md>): https://breakingsmart.substack.com/feed/
             - [Vinay Débrou](<Vinay Débrou.md>): https://vinaydebrou.com/feed.xml
         - [Substack](<Substack.md>)
-            - **["owner](<"owner.md>):** [Matthew Sweet](<Matthew Sweet.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Matthew Sweet](<Matthew Sweet.md>)"
             - RSS feed: https://yakcollective.substack.com/feed/
         - [Twitter](<Twitter.md>)
-            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Facebook](<Facebook.md>)
-            - ""
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [LinkedIn](<LinkedIn.md>)
-            - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 # Documents
     - [Schema | member data](<Schema | member data.md>) (draft)
     - [Code Style Guide](<Code Style Guide.md>)
@@ -124,14 +124,23 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 # Discussions & Decisions
     - [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 # Proposals
-    - [Proposal: Yak Collective Member Types](<Proposal: Yak Collective Member Types.md>)
-    - [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
+    - [Yak Collective Member Types](<Yak Collective Member Types.md>)
+    - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
 # Backlinks
+## [December 7th, 2020](<December 7th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) updated the [IT Infrastructure](<IT Infrastructure.md>)
+
+## [GitHub](<GitHub.md>)
+- [infrastructure-map](https://github.com/The-Yak-Collective/infrastructure-map): Holds the SVG file and source DOT file for the [IT Infrastructure](<IT Infrastructure.md>)
+
 ## [Infrastructure](<Infrastructure.md>)
 - [IT Infrastructure](<IT Infrastructure.md>)
 
 - #[IT Infrastructure](<IT Infrastructure.md>)
+
+## [Nathan Acks](<Nathan Acks.md>)
+- [IT Infrastructure](<IT Infrastructure.md>)
 
 ## [November 24th, 2020](<November 24th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) updated the [IT Infrastructure](<IT Infrastructure.md>)

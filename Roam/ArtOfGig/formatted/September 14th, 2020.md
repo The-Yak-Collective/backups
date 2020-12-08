@@ -14,6 +14,3 @@
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>)
 
-## [Substack](<Substack.md>)
-last updated:: [September 14th, 2020](<September 14th, 2020.md>)
-

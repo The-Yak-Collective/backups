@@ -1,5 +1,9 @@
-owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 1st, 2020](<September 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __Website architecture documentation.__
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # Pages
     - `about.md`
     - `index.md`

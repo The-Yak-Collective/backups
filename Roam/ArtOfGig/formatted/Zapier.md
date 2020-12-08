@@ -1,9 +1,11 @@
-owner:: [Venkatesh Rao](<Venkatesh Rao.md>)
-last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __Documentation for Zapier.__
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # Purpose
     - Pushes events from the Yak Collective "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)" into [Discord](<Discord.md>) and [Twitter](<Twitter.md>).
-# Access ^^(Shared Login!)^^
-    - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 # Backlinks
 ## [IT Infrastructure](<IT Infrastructure.md>)

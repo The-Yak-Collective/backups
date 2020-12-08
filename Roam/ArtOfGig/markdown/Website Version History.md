@@ -1,5 +1,9 @@
-owner:: [[Nathan Acks]]
-last updated:: [[August 31st, 2020]] by [[Nathan Acks]]
+About:: __Website version history.__
+Chief Page Wrangler:: [[Nathan Acks]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+Created:: [[August 31st, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 # v2.2
     - [[Nathan Acks]]
         - Push "featured yak" to [[Twitter]].

@@ -14,6 +14,15 @@
 ## [Directory](<Directory.md>)
 - [Darren Kong](<Darren Kong.md>)
 
+## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
+- [Darren Kong](<Darren Kong.md>)
+
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - Questions will also serve as fodder for iterating the [Onboarding for New Yaks](<Onboarding for New Yaks.md>), being shepherded by [Darren Kong](<Darren Kong.md>).
 
@@ -59,15 +68,6 @@
 
 ## [Internal Volunteer Opportunities](<Internal Volunteer Opportunities.md>)
 - This is a stub. Maintained by [Venkatesh Rao](<Venkatesh Rao.md>) and [Darren Kong](<Darren Kong.md>)
-
-## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
-- [Darren Kong](<Darren Kong.md>)
-
-- [Darren Kong](<Darren Kong.md>)
-
-- [Darren Kong](<Darren Kong.md>)
-
-- [Darren Kong](<Darren Kong.md>)
 
 ## [Roam Production Kanban](<Roam Production Kanban.md>)
 - piece_18_lname [Darren Kong](<Darren Kong.md>)

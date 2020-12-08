@@ -1,5 +1,9 @@
-owner:: [[Nathan Acks]]
-last updated:: [[September 13th, 2020]] by [[Nathan Acks]]
+About:: __How do I build the Yak Collective website?__
+Chief Page Wrangler:: [[Nathan Acks]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+Created:: [[August 30th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 # General Notes
     - We currently use [Jekyll](https://jekyllrb.com/) to build the website.
         - Plan is to move to [Gatsby](https://www.gatsbyjs.com/) in the near future.

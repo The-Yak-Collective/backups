@@ -50,10 +50,10 @@
 - [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [Discord](<Discord.md>)
-- [Tom Critchlow](<Tom Critchlow.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
-- **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
+- **["Owner](<"Owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
 
 - [Tom Critchlow](<Tom Critchlow.md>):
 
@@ -70,7 +70,7 @@
 - ~~Website~~  [Tom Critchlow](<Tom Critchlow.md>)
 
 ## [Threat Model](<Threat Model.md>)
-- **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
+- **["Owner](<"Owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
 
 ## [Website Version History](<Website Version History.md>)
 - Various formatting tweaks suggested by [Tom Critchlow](<Tom Critchlow.md>).
@@ -86,11 +86,9 @@ I think the key things writing (i.e. blogging) gives you is: a) an awareness tha
 - [Tom Critchlow](<Tom Critchlow.md>):
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-- **[owner](<owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Venkatesh Rao](<Venkatesh Rao.md>) | [Tom Critchlow](<Tom Critchlow.md>)
 
-- [Tom Critchlow](<Tom Critchlow.md>)
-
-- Google Analytics ([Tom Critchlow](<Tom Critchlow.md>))
+- **[Owner](<Owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)
 
 - [Tom Critchlow](<Tom Critchlow.md>)
 

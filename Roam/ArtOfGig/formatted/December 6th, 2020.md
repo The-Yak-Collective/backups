@@ -4,9 +4,6 @@
 ## [Infrastructure](<Infrastructure.md>)
 - infrastructure chat 30 [December 6th, 2020](<December 6th, 2020.md>)
 
-## [Yak Collective Robot](<Yak Collective Robot.md>)
-last updated:: [December 6th, 2020](<December 6th, 2020.md>)
-
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
 - **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>)
 

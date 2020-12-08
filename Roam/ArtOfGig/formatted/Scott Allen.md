@@ -61,7 +61,7 @@
 - ~~A Twitter list of members would be helpful both in making it easier to engage with other yaks (vs. relying on Twitter's algorithms) and help increase visibility. I started to do one on my personal account, but then realized it should be on @yak_collective. I volunteer to set it up and help maintain it if I can get access to the Twitter account~~—[Pamela Hobart](<Pamela Hobart.md>)? [Venkatesh Rao](<Venkatesh Rao.md>)?. ~[Scott Allen](<Scott Allen.md>)
 
 ## [Twitter](<Twitter.md>)
-- [Scott Allen](<Scott Allen.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Scott Allen](<Scott Allen.md>)
 
 ## [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 - [Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists](<Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists.md>) — [Scott Allen](<Scott Allen.md>)

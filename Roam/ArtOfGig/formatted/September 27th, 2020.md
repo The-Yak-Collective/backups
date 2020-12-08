@@ -10,8 +10,6 @@
 - infrastructure chat 20 [September 27th, 2020](<September 27th, 2020.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- [September 27th, 2020](<September 27th, 2020.md>)
-
 - [x] [September 27th, 2020](<September 27th, 2020.md>)
 
 - [ ] [ping](<ping.md>) ^^ link or upload? jd ^^ [September 27th, 2020](<September 27th, 2020.md>)

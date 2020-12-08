@@ -13,6 +13,9 @@
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - Template and content updates for the upcoming [Astonishing Stories](<Astonishing Stories.md>)
 
+## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>) suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [Infinity Pool](<Infinity Pool.md>)
 - Currently two projects are following an infinity pool model: [Astonishing Stories](<Astonishing Stories.md>)
 
@@ -38,9 +41,6 @@
 - [Astonishing Stories](<Astonishing Stories.md>)
 
 - [Astonishing Stories](<Astonishing Stories.md>)
-
-## [Proposal: Discord Channel Lifecycle and Organization](<Proposal: Discord Channel Lifecycle and Organization.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>) suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [Astonishing Stories](<Astonishing Stories.md>)
 
 ## [Sample Project](<Sample Project.md>)
 - [Astonishing Stories](<Astonishing Stories.md>)

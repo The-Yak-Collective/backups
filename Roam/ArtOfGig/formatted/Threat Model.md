@@ -1,5 +1,9 @@
-owner:: [Nathan Acks](<Nathan Acks.md>)
-last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+About:: __Notes on the Yak Collective Threat model and assets.__
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+Created:: [June 30th, 2020](<June 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # Threats
     ## Current
         - Data loss ([Roam](<Roam.md>), [Yak Collective Robot](<Yak Collective Robot.md>), [GitHub](<GitHub.md>), etc.)
@@ -32,50 +36,50 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 # Asset Classes
     - ## Class 1 (Existential Threats)
         - [Yak Collective Robot](<Yak Collective Robot.md>)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Namecheap](<Namecheap.md>)
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - Password managers or databases
         - [Roam](<Roam.md>)
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
-        - [Knack.com](<Knack.com.md>)
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+        - [Knack](<Knack.md>)
             - AAhkfps_m
         - Bank accounts, should we ever have such a thing
     - ## Class 2 (Serious Disruption to Normal Operations)
         - "[Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck"
-            - **["owner](<"owner.md>):** [Paul Millerd](<Paul Millerd.md>)"
+            - **["Owner](<"Owner.md>):** [Paul Millerd](<Paul Millerd.md>)"
         - "[The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck"
-            - **["owner](<"owner.md>):** [Drew Schorno](<Drew Schorno.md>)"
+            - **["Owner](<"Owner.md>):** [Drew Schorno](<Drew Schorno.md>)"
         - [GitHub](<GitHub.md>)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Netlify](<Netlify.md>)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Discord](<Discord.md>)
-            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
     - ## Class 3  (Inconvenience)
         - "[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)"
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - **["Owner](<"Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - "[Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)"
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - **["Owner](<"Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - "[Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)"
-            - **["owner](<"owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
+            - **["Owner](<"Owner.md>):** [Tom Critchlow](<Tom Critchlow.md>)"
         - [IFTTT](<IFTTT.md>)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Carl](<Carl.md>)
-            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Zapier](<Zapier.md>)
-            - **["owner](<"owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [Substack](<Substack.md>)
-            - **["owner](<"owner.md>):** [Matthew Sweet](<Matthew Sweet.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Matthew Sweet](<Matthew Sweet.md>)"
         - [Twitter](<Twitter.md>)
-            - **["owner](<"owner.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
         - [Facebook](<Facebook.md>)
-            - ""
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [LinkedIn](<LinkedIn.md>)
-            - **[owner](<owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+            - **[Owner](<Owner.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - ## Class 4 (¯\_(ツ)_/¯)
         - [Glitch](<Glitch.md>)
-            - **["owner](<"owner.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
 # Possible Mitigations
     - Trust between members (especially members with access to various assets)
     - Separation of duties for Class 1 and 2 assets
@@ -122,6 +126,9 @@ last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks
 
 ## [Infrastructure](<Infrastructure.md>)
 - revisit [Threat Model](<Threat Model.md>)
+
+## [Nathan Acks](<Nathan Acks.md>)
+- [Threat Model](<Threat Model.md>)
 
 ## [September 24th, 2020](<September 24th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>) added owners to infrastructure systems listed in the [Threat Model](<Threat Model.md>)
