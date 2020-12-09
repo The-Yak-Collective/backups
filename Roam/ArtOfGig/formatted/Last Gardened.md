@@ -89,7 +89,7 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- **[Last Updated](<Last Updated.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)

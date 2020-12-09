@@ -75,7 +75,7 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)
-- Additional page wranglers: Looking for people
+- Unlike the old proposals [Greenlighting Process](<Greenlighting Process.md>) (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)

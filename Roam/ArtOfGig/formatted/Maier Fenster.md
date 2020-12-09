@@ -10,7 +10,11 @@
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
+
 - **[Created](<Created.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
 - **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
@@ -40,6 +44,10 @@
 - [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+Perhaps drop a proposed new list in simple text here so that we can see what the new look would be? » [Draft Revised Discord Channels Proposal v1](<Draft Revised Discord Channels Proposal v1.md>)[Maier Fenster](<Maier Fenster.md>)a
 
 - [Maier Fenster](<Maier Fenster.md>)
 
@@ -141,6 +149,8 @@
 ## [November 18th, 2020](<November 18th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
 
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [November 24th, 2020](<November 24th, 2020.md>)
 2. Added a page about [Vultr](<Vultr.md>) and [Maier Fenster](<Maier Fenster.md>)'
 
@@ -189,6 +199,9 @@
 - [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
+
+## [Project Pitches](<Project Pitches.md>)
+- **[Additional Members](<Additional Members.md>):** // [Maier Fenster](<Maier Fenster.md>)&
 
 ## [Schema | member data](<Schema | member data.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
@@ -289,9 +302,11 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 - [Maier Fenster](<Maier Fenster.md>)
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
+
 - **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
-- **[Last Updated](<Last Updated.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
 - **[Project lead](<Project lead.md>):** [Maier Fenster](<Maier Fenster.md>)
 

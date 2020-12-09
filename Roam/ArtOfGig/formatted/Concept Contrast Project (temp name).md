@@ -1,6 +1,6 @@
 - **[About](<About.md>):** project page for embryonic project contrasting YC conceptualization with standard conceptionalization
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [maier fenster](<maier fenster.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 - **[Created](<Created.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Last Updated](<Last Updated.md>):** [October 16, 2020](<October 16, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)

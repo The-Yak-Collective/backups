@@ -183,6 +183,8 @@ Next decade can bring more examples like this one.
 ## [Project Pitches](<Project Pitches.md>)
 Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>).
 
+Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>).
+
 Text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>).
 
 ## [Sample Project](<Sample Project.md>)

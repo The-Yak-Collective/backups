@@ -9,7 +9,7 @@
 - Status:: {{or: Early Concept | Active | Proposal | Complete}}
 - Jobs and ways to contribute::
     - jobs:: Two Teams, Two Team Leads: E.g. Team Red Pill (Marketplace) and Team Blue Pill (Boutique)
-    - how else you can help:: Join any of the teams based on initial assessment of the . Can't join both. Each team has to decide how to structure itself. Will have to explain the decisions.
+    - how else you can help:: Join any of the teams based on initial assessment of the proposal. Can't join both. Each team has to decide how to structure itself. Will have to explain the decisions.
 - Meta::
     - This project is about::
         - Developing two contrasting roadmaps for further developing Yak Collective narratives
@@ -31,7 +31,7 @@
         - [[Maier Fenster]] too many project leads. should be just one. at most two. here, due to conflict, i suggest one, to prevent side taking, maybe grigori.
             - [[Hugo Macedo]] : there can be only one! agree
     - Also in project:: 
-        - [[maier fenster]] we actually need two deputies here, one for each approach, AND each approach should have "also in project"
+        - [[Maier Fenster]] we actually need two deputies here, one for each approach, AND each approach should have "also in project"
     - Why you should join::
         - You can learn a lot about marketplace and matching up skills to potential clients. Y
         - You can change the way(s) the yak collective develops and works

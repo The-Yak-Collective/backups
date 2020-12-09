@@ -78,6 +78,8 @@
 ## [Project Pitches](<Project Pitches.md>)
 Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
+Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+
 - **Project Lead**: [Paul Millerd](<Paul Millerd.md>) - helped run [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)

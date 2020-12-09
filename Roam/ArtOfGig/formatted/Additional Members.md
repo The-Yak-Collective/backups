@@ -4,6 +4,9 @@
 - **Optional**: Name 4 -- Brief blurb on their role/qualifications.
     - **[Additional Members](<Additional Members.md>):**
 
+- **Optional**: Name 4 -- Brief blurb on their role/qualifications.
+        - **[Additional Members](<Additional Members.md>):**
+
 - **Optional**: Name 4 -- Brief blurb on their role/qualifications
         - **[Additional Members](<Additional Members.md>):**
 

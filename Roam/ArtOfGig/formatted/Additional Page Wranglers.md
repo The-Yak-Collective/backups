@@ -25,7 +25,7 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [maier fenster](<maier fenster.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Contributing to the Website](<Contributing to the Website.md>)
@@ -228,7 +228,7 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [maier fenster](<maier fenster.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)

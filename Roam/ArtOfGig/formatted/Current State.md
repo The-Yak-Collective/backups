@@ -4,6 +4,9 @@
 -  %% __Project name should be a short phrase that should link to a detail page which you are free to structure as you see fit (click sample project page link for ideas). The 1-2 sentence pitch blurb should be a succinct summary of the idea that can also serve as placeholder text for the webpage that will be automatically created__
     - **[Current State](<Current State.md>):**
 
+- Further details are on this page [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>) https://roamresearch.com/#/app/ArtOfGig/page/UNjypIGNI
+        - **[Current State](<Current State.md>):**
+
 - [Hack US Gig Worker Healthcare](<Hack US Gig Worker Healthcare.md>): The US healthcare "debate" is focused on full-time workers & employer-based insurance.  We will design some piece of creative content (deck, essays, video) designed to persuasively re-frame the debate around US healthcare and the intangible cost on lost creativity, entrepreneurship and mental well-being of gig workers.  
         - **[Current State](<Current State.md>):**
 

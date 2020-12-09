@@ -333,6 +333,9 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Last Gardened](<Last Gardened.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
+
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
 

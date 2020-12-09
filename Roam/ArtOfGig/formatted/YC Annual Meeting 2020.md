@@ -13,7 +13,7 @@
         1. Darren - intro 
         2. [Jenna Dixon](<Jenna Dixon.md>): Production infrastructure and member directory intro
         3. [Nathan Acks](<Nathan Acks.md>): Website
-        4. [Maier Fenster](<Maier Fenster.md>): Automation
+        4. [Maier Fenster](<Maier Fenster.md>): Tools & Automation
         5. [Hugo Macedo](<Hugo Macedo.md>): Marketing
         6. [Praful Mathur](<Praful Mathur.md>): Newsletter
         7. [Vinay Débrou](<Vinay Débrou.md>): Yak Network Map

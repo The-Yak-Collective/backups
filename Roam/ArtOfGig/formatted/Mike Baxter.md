@@ -18,6 +18,9 @@
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - [x] [Mike Baxter](<Mike Baxter.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- **[Additional Members](<Additional Members.md>):** // [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&[Mike Baxter](<Mike Baxter.md>)
+
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Guest](<Guest.md>):** [Mike Baxter](<Mike Baxter.md>)
 

@@ -20,13 +20,13 @@
     - {{[query](<query.md>): {and: [ping](<ping.md>) [Nathan Acks](<Nathan Acks.md>) {not: [pong](<pong.md>)} {not: [query](<query.md>)}}}}
 - **[To Do](<To Do.md>):**
     - [ ] Update the [Yak Collective Website](<Yak Collective Website.md>) documentation
-    - [ ] Update the [Discord channel proposal]([Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>))
-    - [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>) to [Gatsby](https://www.gatsbyjs.com/)
-    - [ ] Migrate from [IFTTT](https://ifttt.com/) to [ActionsFlow](https://github.com/actionsflow/actionsflow) ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))
-    - [ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)
-    - [ ] Research options for JAMstack CMSes
-    - [ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)
     - [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
+    - [ ] Update the [Discord channel proposal]([Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>))
+    - [ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)
+    - [ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)
+    - [ ] Migrate from [IFTTT](https://ifttt.com/) to [ActionsFlow](https://github.com/actionsflow/actionsflow) ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))
+    - [ ] Research options for JAMstack CMSes
+    - [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>) to [Gatsby](https://www.gatsbyjs.com/)
 
 # Backlinks
 ## [Astonishing Stories

@@ -55,7 +55,7 @@
                 - "Project content:"
                     - "[Problem Essays GDoc](https://docs.google.com/document/d/1HtM1xP17PyqpLNxKWWMN5V6ixVGZaNAC-hn-ekVJbNk/)"
                     - "[Solution Essays GDoc](https://docs.google.com/document/d/1P63zQhOpJqZjC3L0gRo4v-WWtI2hfFGf6CpE7RnaYPU/)"
-                - [maier fenster](<maier fenster.md>) lets try to choose one format and target audience and define specific goals 
+                - [Maier Fenster](<Maier Fenster.md>) lets try to choose one format and target audience and define specific goals 
             - Goal:
                 - 1000 people views
                 - 100 interact with it

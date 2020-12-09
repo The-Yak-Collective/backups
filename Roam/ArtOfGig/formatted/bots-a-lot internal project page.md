@@ -1,10 +1,10 @@
-- **[About](<About.md>):** internal project page to consolidate multitude of discord bots
+- **[About](<About.md>):** internal project page to consolidate multitude of discord bots & other tools
 - **[Page Type](<Page Type.md>):** [Project](<Project.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [maier fenster](<maier fenster.md>)
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 - **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
-- **[Last Updated](<Last Updated.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
-- **[Last Gardened](<Last Gardened.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [[]]
+- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Gardened](<Last Gardened.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - **[Status](<Status.md>):** {{or: Active | Early Concept | Proposal | Complete}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
@@ -20,6 +20,7 @@
         - align what bots do with internal habits of yaks
 - **[Meta](<Meta.md>):**
     - **[This project is about](<This project is about.md>):**
+        - building tools to make the work of yaks easier. for now most tools are bots, but Roam and Knack tools are in the making
         - building a suite of bots to help yaks use discord and also to help manage the yak collective
     - **[Deliverable](<Deliverable.md>):**
         - **a series** of simple bots
@@ -74,3 +75,7 @@
         - help yaks learn about each other  link to yak map
     - **[topicbot (in planning)](<topicbot (in planning).md>):**
         - help yak figure out what channel to post in
+    - **[readinglistbot (in planning)](<readinglistbot (in planning).md>):**
+        - maintain a reading list (or other list) per channel
+    - **[starbot (idea)](<starbot (idea).md>):**
+        - mirror starred messages to a special channel (see [Jenna's message](https://discordapp.com/channels/692111190851059762/705512721847681035/785859125422587954) and [Venkat's first](https://discordapp.com/channels/692111190851059762/705512721847681035/785957836915081300) and [second response](https://discordapp.com/channels/692111190851059762/705512721847681035/785957870084030494))

@@ -1,9 +1,10 @@
-- **[About](<About.md>):** Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>) newsletter, and potentially some marketing activity from the [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) team. So **please stick to the pro-forma.** You propose projects by adding a proposal block in the "**Projects List**" section. See "Notes::" for additional details.
+- **[About](<About.md>):** Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>) newsletter, and potentially some marketing activity from the [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) team. 
+So **please stick to the pro-forma.** 
+You propose projects by adding a proposal block in the "**Projects List**" section. 
+See "Notes::" for additional details.
 - **[Time-sensitive announcement](<Time-sensitive announcement.md>):** Draft projects added before Dec 1 will get an opportunity to live-pitch their project and solicit contributors at the [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>) on Dec 10. First-come first-serve for pitching slots.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - Additional page wranglers: Looking for people
-- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
-- **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - 
 - **[TO PROPOSE A PROJECT](<TO PROPOSE A PROJECT.md>):**
     - Copy the metadata template block below for **Sample Project**, paste it at the TOP of the "**Projects List**" section just below it, and populate it.  The __%% italicized text__ is help-comments you can **delete. At minimum, you will need to have identified a backup lead name before the proposal is considered "proposed", otherwise it is draft.**
@@ -39,7 +40,33 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
         - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [Available YC Funds](<Available YC Funds.md>). Client projects are funded by a client. Check out [Client Project](<Client Project.md>) for details.
     - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 - **Projects List**
-    - ^^<insert new proposal blocks here>^^
+    - [Boutiques vs Markeplaces Wargames](<Boutiques vs Markeplaces Wargames.md>) Emergent boutiques and emergent marketplaces may be similar in size (pretty small), but they are essentially completely different organizations -- with different goals, different structures and different business models. 
+In this project we want to explore this difference on a very practical level. We will try to design both business models and organizations for a very specific segment -- professional services -- and put them to test via wargames__.
+        - Further details are on this page [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>) https://roamresearch.com/#/app/ArtOfGig/page/UNjypIGNI
+        - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+        - **[Core Team](<Core Team.md>):** (minimum 2, maximum 4) 
+            - %% __We need two teams -- Team Boutiques and Team Marketplaces -- with two team leaders (minimum 2, maximum 4). Each one should be sufficient to produce a deck (a short one) __
+            - **Project Lead**: [Grigori Milov]] I covered consulting/professional services industry for several years and also have a multi-year experience working in the industry. 
+            - **Backup Lead**: We need two: Team Leader Marketplaces and Team Leader Boutiques -- both should be familiar with consulting/professional services industry and some understanding of how large consulting firms operate.  __%% Both should be able to backstop if main lead gets hit by a bus__.
+Team leads choose how to structure their teams. Every Yak should be able to join any of the teams in some capacity, but not both of them.
+            - **Optional**: Name 3 -- Brief blurb on their role/qualifications.
+            - **Optional**: Name 4 -- Brief blurb on their role/qualifications.
+        - **[Additional Members](<Additional Members.md>):** // [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&[Mike Baxter](<Mike Baxter.md>)
+        - **[Kickoff Date](<Kickoff Date.md>):** 15/01/21
+        - **[Launch Date](<Launch Date.md>):** TBA
+        - **[Finish Date (optional)](<Finish Date (optional).md>):** TBA
+            - %% __Projects must launch, but need not end. The can be left open as indefinitely continuing projects.__
+        - **[Discord channel](<Discord channel.md>):** channel-name %% __propose a channel in the create-destroy-channels, and once created, an
+        - Marketplaces vs Boutiques or The Wargames
+        - **[Discord channel](<Discord channel.md>):** channel-name 
+            - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
+        - **[Launch Deliverable](<Launch Deliverable.md>):** {{or: Deck | Text-Heavy Website Section | Image-Heavy Website Section | New Type __specify with a short name__ }}
+            - %% __This is what will launch on launch date. 
+Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) __project. 
+Text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. 
+Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>). 
+Consult [Jenna Dixon](<Jenna Dixon.md>) for details
+        - **Financial Structure**: Internal Project
     - [Hack US Gig Worker Healthcare](<Hack US Gig Worker Healthcare.md>): The US healthcare "debate" is focused on full-time workers & employer-based insurance.  We will design some piece of creative content (deck, essays, video) designed to persuasively re-frame the debate around US healthcare and the intangible cost on lost creativity, entrepreneurship and mental well-being of gig workers.  
         - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
         - **Core Team** (minimum 2, maximum 4) 
@@ -97,6 +124,9 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
 - **[Notes](<Notes.md>):**
     - See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Available YC Funds](<Available YC Funds.md>) to see how much financial support is currently available.
     - Unlike the old proposals [Greenlighting Process](<Greenlighting Process.md>) (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.
+- **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- 
 
 # Backlinks
 ## [Available YC Funds](<Available YC Funds.md>)

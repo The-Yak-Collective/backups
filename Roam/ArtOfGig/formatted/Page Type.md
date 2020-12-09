@@ -49,7 +49,7 @@
 - **[Page Type](<Page Type.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- **[About](<About.md>):** internal project page to consolidate multitude of discord bots
+- **[About](<About.md>):** internal project page to consolidate multitude of discord bots & other tools
 - **[Page Type](<Page Type.md>):**
 
 ## [template/govchat](<template/govchat.md>)

@@ -9,7 +9,7 @@
 - **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
     - **[jobs](<jobs.md>):** Two Teams, Two Team Leads: E.g. Team Red Pill (Marketplace) and Team Blue Pill (Boutique)
-    - **[how else you can help](<how else you can help.md>):** Join any of the teams based on initial assessment of the . Can't join both. Each team has to decide how to structure itself. Will have to explain the decisions.
+    - **[how else you can help](<how else you can help.md>):** Join any of the teams based on initial assessment of the proposal. Can't join both. Each team has to decide how to structure itself. Will have to explain the decisions.
 - **[Meta](<Meta.md>):**
     - **[This project is about](<This project is about.md>):**
         - Developing two contrasting roadmaps for further developing Yak Collective narratives
@@ -31,7 +31,7 @@
         - [Maier Fenster](<Maier Fenster.md>) too many project leads. should be just one. at most two. here, due to conflict, i suggest one, to prevent side taking, maybe grigori.
             - [Hugo Macedo](<Hugo Macedo.md>) : there can be only one! agree
     - **[Also in project](<Also in project.md>):** 
-        - [maier fenster](<maier fenster.md>) we actually need two deputies here, one for each approach, AND each approach should have "also in project"
+        - [Maier Fenster](<Maier Fenster.md>) we actually need two deputies here, one for each approach, AND each approach should have "also in project"
     - **[Why you should join](<Why you should join.md>):**
         - You can learn a lot about marketplace and matching up skills to potential clients. Y
         - You can change the way(s) the yak collective develops and works
@@ -51,4 +51,7 @@
 
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+
+## [Project Pitches](<Project Pitches.md>)
+- Further details are on this page [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
 

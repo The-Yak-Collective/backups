@@ -161,6 +161,9 @@
 
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- **[Additional Members](<Additional Members.md>):** // [Maier Fenster](<Maier Fenster.md>)&[Hugo Macedo](<Hugo Macedo.md>)&
+
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 

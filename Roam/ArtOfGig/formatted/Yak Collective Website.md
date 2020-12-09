@@ -55,13 +55,13 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 
 - [ ] Update the [Yak Collective Website](<Yak Collective Website.md>)
 
-- [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>)
-
-- [ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)
+- [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
 
 - [ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)
 
-- [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
+- [ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Netlify](<Netlify.md>)
 - Provides the build environment for the [Yak Collective Website](<Yak Collective Website.md>)

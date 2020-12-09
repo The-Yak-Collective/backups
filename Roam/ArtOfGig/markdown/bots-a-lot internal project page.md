@@ -1,10 +1,10 @@
-- About:: internal project page to consolidate multitude of discord bots
+- About:: internal project page to consolidate multitude of discord bots & other tools
 - Page Type:: #Project
-- Chief Page Wrangler:: [[maier fenster]]
+- Chief Page Wrangler:: [[Maier Fenster]]
     - Additional Page Wranglers:: 
 - Created:: [[December 6th, 2020]] by [[Maier Fenster]]
-- Last Updated:: [[December 6th, 2020]] by [[Maier Fenster]]
-- Last Gardened:: [[December 6th, 2020]] by [[]]
+- Last Updated:: [[December 9th, 2020]] by [[Maier Fenster]]
+- Last Gardened:: `/Today` by `[[Fname Lname]]`
 - Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
 - Jobs and ways to contribute::
@@ -20,6 +20,7 @@
         - align what bots do with internal habits of yaks
 - Meta::
     - This project is about::
+        - building tools to make the work of yaks easier. for now most tools are bots, but Roam and Knack tools are in the making
         - building a suite of bots to help yaks use discord and also to help manage the yak collective
     - Deliverable::
         - **a series** of simple bots
@@ -74,3 +75,7 @@
         - help yaks learn about each other  link to yak map
     - topicbot (in planning)::
         - help yak figure out what channel to post in
+    - readinglistbot (in planning)::
+        - maintain a reading list (or other list) per channel
+    - starbot (idea)::
+        - mirror starred messages to a special channel (see [Jenna's message](https://discordapp.com/channels/692111190851059762/705512721847681035/785859125422587954) and [Venkat's first](https://discordapp.com/channels/692111190851059762/705512721847681035/785957836915081300) and [second response](https://discordapp.com/channels/692111190851059762/705512721847681035/785957870084030494))

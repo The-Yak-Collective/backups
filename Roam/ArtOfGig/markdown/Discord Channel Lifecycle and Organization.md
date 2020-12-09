@@ -37,11 +37,11 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
                 - [[Nathan Acks]] My thought was to mix them together, as I don't think we have that many... But I don't have a strong opinion.
                 - [[Jenna Dixon]] could be helpful to keep separate. thinking of public projects in a channel that will eventually also include 💸gig projects 💸?
                 - [[Venkatesh Rao]] suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [[Astonishing Stories]] got some budget out of [[Neurofuturama]] tithe.
-                    - [[maier fenster]] i think "paid" does not matter. inwards or outwards facing does
+                    - [[Maier Fenster]] i think "paid" does not matter. inwards or outwards facing does
         ### Proposed Changes
             - Merge in any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Plaza".
                 - [[Jenna Dixon]] Hmmm 🤔Not sure about this. Have liked the Bureaucracy as a home for internal structural-type conversations. Won't lumping them all together create quite a long list? #ping [[Nathan Acks]]
-Perhaps drop a proposed new list in simple text here so that we can see what the new look would be? » [[Draft Revised Discord Channels Proposal v1]][[maier fenster]]any solution which does not require clicking
+Perhaps drop a proposed new list in simple text here so that we can see what the new look would be? » [[Draft Revised Discord Channels Proposal v1]][[Maier Fenster]]any solution which does not require clicking
                 - [[Darren Kong]] suggestions:
                     - plaza
                         - move lounge from discussion to plaza

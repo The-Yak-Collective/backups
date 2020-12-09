@@ -7,7 +7,3 @@
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
 - **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>)
 
-- **[Last Updated](<Last Updated.md>):** [December 6th, 2020](<December 6th, 2020.md>)
-
-- **[Last Gardened](<Last Gardened.md>):** [December 6th, 2020](<December 6th, 2020.md>)
-

@@ -176,13 +176,15 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 - [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
-- **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 - See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Publishing Projects Sampler](<Publishing Projects Sampler.md>)
 -  [August 4th, 2020](<August 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)

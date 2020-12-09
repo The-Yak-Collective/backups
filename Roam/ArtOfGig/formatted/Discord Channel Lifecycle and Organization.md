@@ -37,11 +37,11 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
                 - [Nathan Acks](<Nathan Acks.md>) My thought was to mix them together, as I don't think we have that many... But I don't have a strong opinion.
                 - [Jenna Dixon](<Jenna Dixon.md>) could be helpful to keep separate. thinking of public projects in a channel that will eventually also include 💸gig projects 💸?
                 - [Venkatesh Rao](<Venkatesh Rao.md>) suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [Astonishing Stories](<Astonishing Stories.md>) got some budget out of [Neurofuturama](<Neurofuturama.md>) tithe.
-                    - [maier fenster](<maier fenster.md>) i think "paid" does not matter. inwards or outwards facing does
+                    - [Maier Fenster](<Maier Fenster.md>) i think "paid" does not matter. inwards or outwards facing does
         ### Proposed Changes
             - Merge in any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Plaza".
                 - [Jenna Dixon](<Jenna Dixon.md>) Hmmm 🤔Not sure about this. Have liked the Bureaucracy as a home for internal structural-type conversations. Won't lumping them all together create quite a long list? [ping](<ping.md>) [Nathan Acks](<Nathan Acks.md>)
-Perhaps drop a proposed new list in simple text here so that we can see what the new look would be? » [Draft Revised Discord Channels Proposal v1](<Draft Revised Discord Channels Proposal v1.md>)[maier fenster](<maier fenster.md>)any solution which does not require clicking
+Perhaps drop a proposed new list in simple text here so that we can see what the new look would be? » [Draft Revised Discord Channels Proposal v1](<Draft Revised Discord Channels Proposal v1.md>)[Maier Fenster](<Maier Fenster.md>)any solution which does not require clicking
                 - [Darren Kong](<Darren Kong.md>) suggestions:
                     - plaza
                         - move lounge from discussion to plaza
