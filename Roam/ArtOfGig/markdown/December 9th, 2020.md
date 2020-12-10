@@ -1,0 +1,40 @@
+- [[YC Marketing - distributed CMO]] weekly sync #meeting-notes
+    - Location: discord 
+    - Time: 5pm GMT 
+    - Participants (TBC)
+        - {{[[DONE]]}} [[Hugo Macedo]] 
+        - {{[[DONE]]}} [[Maier Fenster]]
+        - {{[[DONE]]}} [[Grigori Milov]]
+        - TBC
+    - Agenda/Minutes
+        - [[YC Annual Meeting 2020]] talking points 
+            - initial take
+                - initially 3 streams
+                    - "[[Foundations - Positioning]]
+all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning"
+                    - "[[Showcase Projects Launch]]
+how do we launch showcase projects to maximize target visibility and engagement"
+                    - "[[Marketing Channels]]
+where and how do we communicate and engage with the target audience"
+                - We also considered if we should devote our efforts to Yaks vs. Clients
+                - We didn't progress enough on any stream
+                    - Foundations - there's a multitude of perspectives - we may let emerge - what we are is what we do
+                    - Project Launches - YC collective energy is on the building - either we want to build to achieve a business goal - attract a specific audience - or any launch lacks the basic goals and targets.
+                    - We also realize that Launch potential is also missing marketing channels - YC collective audience is still very small and probably more on the indie side than on the client side.
+                - What's next?
+            - Alternative #[[Grigori Milov]]
+                - What is marketing for YC? what tools do we have?
+                    - small cell, 
+                    - coach you to reach audience
+                    - GA, social media, newsletter
+                - how can we help? what we need from project leaders?
+                    - target audience, goals,...
+                - How you can help?
+        - Google Analytics review
+            - Main - overview of traffic
+                - pageviews
+                - channels
+            - backup - zoom in last 2 launchs
+                - volume and acquisition channels
+    - review past discussions for action items
+    - discuss how to launch, in view of latest results of launch

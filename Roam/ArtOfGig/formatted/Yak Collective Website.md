@@ -1,6 +1,8 @@
 About:: __"Table of contents" for the Yak Collective website documentation.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+last updated:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
@@ -64,11 +66,11 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 - [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Netlify](<Netlify.md>)
+- The [Yak Collective Website](<Yak Collective Website.md>)
+
+- The [Yak Collective Website](<Yak Collective Website.md>)
+
 - Provides the build environment for the [Yak Collective Website](<Yak Collective Website.md>)
-
-- The [Yak Collective Website](<Yak Collective Website.md>)
-
-- The [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)

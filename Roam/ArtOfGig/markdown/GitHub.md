@@ -1,6 +1,8 @@
 About:: __Documentation for GitHub.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: [[Maier Fenster]] | [[Venkatesh Rao]]
+last updated:: [[December 4th, 2020]] by [[Nathan Acks]]
+Chief Page Wrangler:: [[Nathan Acks]]
 Created:: [[August 30th, 2020]] by [[Nathan Acks]]
 Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
 Last Gardened:: `/Today` by `[[Fname Lname]]`

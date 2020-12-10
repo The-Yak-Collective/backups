@@ -28,3 +28,11 @@
         - lots of it is related to zero-waste but can some of it transfer over to transitioning to new old country living 
 - recommended readings 
     - 
+
+# Backlinks
+## [Project Pitches](<Project Pitches.md>)
+- [The New Old Country](<The New Old Country.md>):
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+- Shreeda Segan: [The New Old Country](<The New Old Country.md>)
+

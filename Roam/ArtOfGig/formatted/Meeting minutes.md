@@ -9,6 +9,6 @@
     - **[Meeting minutes](<Meeting minutes.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- maybe other discord groups will want to copy
+- **[Help wanted](<Help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
 

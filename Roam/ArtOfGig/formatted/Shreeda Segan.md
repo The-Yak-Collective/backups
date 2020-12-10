@@ -41,6 +41,9 @@
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - [Shreeda Segan](<Shreeda Segan.md>)
 
+## [Project Pitches](<Project Pitches.md>)
+- **Project Lead**: [Shreeda Segan](<Shreeda Segan.md>)
+
 ## [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>)
 - [Shreeda Segan](<Shreeda Segan.md>)
 

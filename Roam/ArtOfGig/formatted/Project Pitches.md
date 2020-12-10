@@ -2,7 +2,6 @@
 So **please stick to the pro-forma.** 
 You propose projects by adding a proposal block in the "**Projects List**" section. 
 See "Notes::" for additional details.
-- **[Time-sensitive announcement](<Time-sensitive announcement.md>):** Draft projects added before Dec 1 will get an opportunity to live-pitch their project and solicit contributors at the [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>) on Dec 10. First-come first-serve for pitching slots.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - Additional page wranglers: Looking for people
 - 
@@ -40,7 +39,31 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
         - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [Available YC Funds](<Available YC Funds.md>). Client projects are funded by a client. Check out [Client Project](<Client Project.md>) for details.
     - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 - **Projects List**
-    - [Boutiques vs Markeplaces Wargames](<Boutiques vs Markeplaces Wargames.md>) Emergent boutiques and emergent marketplaces may be similar in size (pretty small), but they are essentially completely different organizations -- with different goals, different structures and different business models. 
+    - [The New Old Country](<The New Old Country.md>): A sequel to [The New Old Home](<The New Old Home.md>) creating a vision for "The New Old Homestead," integrated with above-the-api technology and meeting the needs of a post-Covid19, tech-heavy world challenged by issues like climate change, existential insecurity, and individualism. 
+        - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+        - **[Core Team](<Core Team.md>):** (minimum 2, maximum 4) 
+            - %% __A team that is sufficient to produce minimum viable output even if nobody else joins.__
+            - **Project Lead**: [Shreeda Segan](<Shreeda Segan.md>) -- Design thinker and strategist, writer, former WWOOFer and environmental nonprofit leader, passionate about wilderness and permaculture. 
+            - NEEDED! **Backup Lead**: Name 2 -- Brief blurb on their role/qualifications.  __%% should be able to backstop if main lead gets hit by a bus__
+            - **Optional**: Name 3 -- Brief blurb on their role/qualifications.
+            - **Optional**: Name 4 -- Brief blurb on their role/qualifications.
+        - **[Additional Members](<Additional Members.md>):** // __Add names as people join__
+        - **[Kickoff Date](<Kickoff Date.md>):** mm/dd/yy
+        - **[Launch Date](<Launch Date.md>):** mm/dd/yy
+        - **[Finish Date (optional)](<Finish Date (optional).md>):** mm/dd/yy
+            - %% __Projects must launch, but need not end. The can be left open as indefinitely continuing projects.__
+        - **[Discord channel](<Discord channel.md>):** new-old-home %% could rename to new old country or new old homestead 
+        - **[Discord channel](<Discord channel.md>):** new-old-home 
+            - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
+        - **[Launch Deliverable](<Launch Deliverable.md>):** {{or: Deck | Text-Heavy Website Section | Image-Heavy Website Section | New Type __specify with a short name__ }}
+            - %% __This is what will launch on launch date. 
+Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) __project. 
+Text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. 
+Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>). 
+Consult [Jenna Dixon](<Jenna Dixon.md>) for details
+        - **Financial Structure**: Internal Project 
+        - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
+    - [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>) Emergent boutiques and emergent marketplaces may be similar in size (pretty small), but they are essentially completely different organizations -- with different goals, different structures and different business models. 
 In this project we want to explore this difference on a very practical level. We will try to design both business models and organizations for a very specific segment -- professional services -- and put them to test via wargames__.
         - Further details are on this page [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>) https://roamresearch.com/#/app/ArtOfGig/page/UNjypIGNI
         - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
@@ -105,22 +128,6 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
         - **Discord channel**: yak-rover
         - **Launch Deliverable**: Open-source design documentation
         - **Financial Structure**: Internal project
-    - [Quadrantology](<Quadrantology.md>): A client project to create a revenue-generating personality test based on the assets already created and prototyped by [Venkatesh Rao](<Venkatesh Rao.md>) (who will be both client and project lead) at [quadrantology.com](https://quadrantology.com). The completed project output will be licensed to YC as a revenue-generating asset, with royalties to client (Venkat) and residuals (like a movie) to participants. Details tbd.
-        - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
-        - **Core Team** (minimum 2, maximum 4) 
-            - **Project Lead**: [Venkatesh Rao](<Venkatesh Rao.md>) -- I've done about 70% of the work already.
-            - **Backup Lead**: Name 2 -- Needs a CTO basically for the online version.
-            - **Optional**: Name 3 -- Tabletop game designer person to take the assets and playtest results to the next level
-        - **Additional Members**: // __Add names as people join__
-        - **Kickoff Date**: 01/01/2020 
-        - **Launch Date**: 03/01/2020
-        - **[Finish Date (optional)](<Finish Date (optional).md>):** none
-        - **Discord channel**: channel-name %% __propose a channel in the create-destroy-channels, and once created, an
-        - **Discord channel**: quadrantology
-            - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
-        - **Launch Deliverable: ** Table-top game and online personality test
-        - **Financial Structure**: Client Project ([Venkatesh Rao](<Venkatesh Rao.md>) would be the client)
-        - **Comments:** I've already done 70% of the work on this project (see [the quadrantology website](https://quadrantology.com)). I've designed and validated the personality test and underlying theory, designed and play-tested a set of game assets, and trialled a version of the online personality test using typeform and Matlab based test processing. I'd assign a license to YC to develop it into a revenue-generating asset, with royalties for me as creator of the underlying IP and some sort of residuals scheme (tbd) for people who participate in the project to get it live and maintain it.
 - **[Notes](<Notes.md>):**
     - See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Available YC Funds](<Available YC Funds.md>) to see how much financial support is currently available.
     - Unlike the old proposals [Greenlighting Process](<Greenlighting Process.md>) (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.

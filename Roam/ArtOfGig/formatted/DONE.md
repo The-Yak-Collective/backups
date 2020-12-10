@@ -7,6 +7,13 @@
 
 - {{[DONE](<DONE.md>)}
 
+## [December 9th, 2020](<December 9th, 2020.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 ## [Future Frontiers](<Future Frontiers.md>)
 - {{[DONE](<DONE.md>)}
 

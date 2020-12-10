@@ -51,8 +51,14 @@
 ## [Internal Project](<Internal Project.md>)
 - [The New Old Home](<The New Old Home.md>)
 
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- We've released 4 such projects already: [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>), [The New Old Home](<The New Old Home.md>),
+
 ## [November 25th, 2020](<November 25th, 2020.md>)
 - #[The New Old Home](<The New Old Home.md>)
+
+## [Project Pitches](<Project Pitches.md>)
+- [The New Old Country](<The New Old Country.md>): A sequel to [The New Old Home](<The New Old Home.md>)
 
 ## [Sample Project](<Sample Project.md>)
 - [The New Old Home](<The New Old Home.md>)

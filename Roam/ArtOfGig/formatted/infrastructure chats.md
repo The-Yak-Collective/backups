@@ -12,3 +12,8 @@
 - [infrastructure chat 12 7.25.2020](<infrastructure chat 12 7.25.2020.md>)
 - 
 - 
+
+# Backlinks
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- Ongoing chat tracks on various subjects/themes of interest to members. Some have been going steady for a long time, such as [Yak Collective Governance](<Yak Collective Governance.md>) (Fridays 9 AM PT) and [infrastructure chats](<infrastructure chats.md>)
+

@@ -4,9 +4,9 @@
 - **[Launch Date](<Launch Date.md>):** mm/dd/yy
     - **[Finish Date (optional)](<Finish Date (optional).md>):**
 
-- **[Launch Date](<Launch Date.md>):** TBA
+- **[Launch Date](<Launch Date.md>):** mm/dd/yy
         - **[Finish Date (optional)](<Finish Date (optional).md>):**
 
-- **Launch Date**: 03/01/2020
+- **[Launch Date](<Launch Date.md>):** TBA
         - **[Finish Date (optional)](<Finish Date (optional).md>):**
 

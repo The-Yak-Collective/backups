@@ -58,6 +58,9 @@ The plan was to establish three tracks/beats:
         - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 
 # Backlinks
+## [December 9th, 2020](<December 9th, 2020.md>)
+- "[Marketing Channels](<Marketing Channels.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - We need to develop [Marketing Channels](<Marketing Channels.md>)
 

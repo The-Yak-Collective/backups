@@ -59,6 +59,9 @@ bringing clients is great, but think of leading indicators that are faster and e
         - 
 
 # Backlinks
+## [December 9th, 2020](<December 9th, 2020.md>)
+- "[Showcase Projects Launch](<Showcase Projects Launch.md>)
+
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - [ ] [Showcase Projects Launch](<Showcase Projects Launch.md>)
 

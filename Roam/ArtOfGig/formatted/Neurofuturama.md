@@ -143,6 +143,9 @@ developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229
 ## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>) suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [Astonishing Stories](<Astonishing Stories.md>) got some budget out of [Neurofuturama](<Neurofuturama.md>)
 
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- We've done one such project, [Neurofuturama](<Neurofuturama.md>)
+
 ## [Old Forms of Justice in a New World ](<Old Forms of Justice in a New World .md>)
 - (1 person) **Court of Public Opinion**: what does it look like if cancelling - public opinion - is the main form of social justice? This is how it was in Ancient Rome, where airing others' transgressions of social norms was normal and citizens understood their societal role as judge and jury. What does it mean if cancel culture extends past the Weinsteins (professional/cultural gatekeepers) to the Amy Coopers (mid-level business management) of the world? Does it go further? What ways will we measure community sentiment in the future that aren't considered today (Kernel ([Neurofuturama](<Neurofuturama.md>))
 

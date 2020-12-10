@@ -870,6 +870,9 @@ On-boarding new members [meeting-notes](<meeting-notes.md>)
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - [Infrastructure](<Infrastructure.md>)
 
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- Take on some service projects like helping build our [Infrastructure](<Infrastructure.md>),
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - [Infrastructure](<Infrastructure.md>)
 

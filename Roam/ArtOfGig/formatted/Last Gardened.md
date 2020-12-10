@@ -85,7 +85,7 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Yak Rover](<Yak Rover.md>)
-- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)

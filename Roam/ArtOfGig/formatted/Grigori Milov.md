@@ -64,6 +64,11 @@
 
 - [ ] [Grigori Milov](<Grigori Milov.md>)
 
+## [December 9th, 2020](<December 9th, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
+- Alternative #[Grigori Milov](<Grigori Milov.md>)
+
 ## [Decision Velocity: Speed is the only sustainable competitive edge](<Decision Velocity: Speed is the only sustainable competitive edge.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

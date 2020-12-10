@@ -48,6 +48,9 @@
 
 - [ ] [Hugo Macedo](<Hugo Macedo.md>)
 
+## [December 9th, 2020](<December 9th, 2020.md>)
+- [x] [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 

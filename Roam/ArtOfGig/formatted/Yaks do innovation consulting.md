@@ -353,6 +353,9 @@ The problem large companies are really having with innovations is that even the 
 ## [Internal Project](<Internal Project.md>)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- We've released 4 such projects already: [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>), [The New Old Home](<The New Old Home.md>), [Astonishing Stories](<Astonishing Stories.md>), [Future Frontiers](<Future Frontiers.md>) and one is in the works [Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
 ## [November 25th, 2020](<November 25th, 2020.md>)
 - in-depth parallel investigation like #[Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 

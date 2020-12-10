@@ -312,12 +312,6 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - **[Project Lead](<Project Lead.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- [Quadrantology](<Quadrantology.md>): A client project to create a revenue-generating personality test based on the assets already created and prototyped by [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- **Project Lead**: [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- **Financial Structure**: Client Project ([Venkatesh Rao](<Venkatesh Rao.md>)
-
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Relief Resources for Self-Employed](<Relief Resources for Self-Employed.md>)
@@ -451,8 +445,6 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - Think potential energy. Build up an asset and network over years. Don’t look for ways to generate leads from a cold start in weeks. What you do now might get you leads in 2021. Think leadgen with a min 12 month horizon - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
 10. [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [YC Gov Chat Minutes - Collective Intentionality](<YC Gov Chat Minutes - Collective Intentionality.md>)
@@ -553,6 +545,10 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
+- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
@@ -564,6 +560,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - -> "How do I put this together into a gig that could solve this pain-pointfor me?"  ---- YC gig organization: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Zapier](<Zapier.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)

@@ -57,6 +57,9 @@
 ## [Internal Project](<Internal Project.md>)
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- We've released 4 such projects already: [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>),
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
@@ -76,6 +79,8 @@
 - So far there are 2 instances, [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
+Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
+
 Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)
 
 Deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>)

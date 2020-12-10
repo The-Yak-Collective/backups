@@ -10,3 +10,5 @@ Text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ 
 
 Text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>)
 
+Text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>)
+

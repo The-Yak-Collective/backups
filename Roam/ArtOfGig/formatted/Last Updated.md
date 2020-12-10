@@ -139,7 +139,7 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Yak Rover](<Yak Rover.md>)
-- **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- **[Current State](<Current State.md>):** {{or: Proposed | Draft | Started | Stalled | Live | Finished | Abandoned}}
 - **[Last Updated](<Last Updated.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)

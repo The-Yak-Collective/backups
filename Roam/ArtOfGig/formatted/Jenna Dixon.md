@@ -182,6 +182,8 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 Consult [Jenna Dixon](<Jenna Dixon.md>)
 
+Consult [Jenna Dixon](<Jenna Dixon.md>)
+
 - See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>)
 
 - **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
@@ -279,9 +281,6 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Yak Network Map](<Yak Network Map.md>)
 - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>)
-
-## [Yak Rover](<Yak Rover.md>)
-- **[Last Gardened](<Last Gardened.md>):** [November 20th, 2020](<November 20th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [pong](<pong.md>) #[Jenna Dixon](<Jenna Dixon.md>)

@@ -161,6 +161,11 @@ Next decade can bring more examples like this one.
 ## [Infinity Pool](<Infinity Pool.md>)
 - Currently two projects are following an infinity pool model: [Astonishing Stories](<Astonishing Stories.md>) and [Future Frontiers](<Future Frontiers.md>)
 
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- We've released 4 such projects already: [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>), [The New Old Home](<The New Old Home.md>), [Astonishing Stories](<Astonishing Stories.md>), [Future Frontiers](<Future Frontiers.md>)
+
+- Contribute a module to one of the newbie friendly eternal projects like [Astonishing Stories](<Astonishing Stories.md>) or [Future Frontiers](<Future Frontiers.md>)
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) __project. The text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ Stories.md>) __project. The image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>).
 
@@ -181,6 +186,8 @@ Next decade can bring more examples like this one.
 - [Future Frontiers](<Future Frontiers.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
+Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>).
+
 Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>).
 
 Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>).

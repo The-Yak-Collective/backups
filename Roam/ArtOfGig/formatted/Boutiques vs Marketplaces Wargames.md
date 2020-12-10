@@ -53,5 +53,10 @@
 - [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
+- [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+
 - Further details are on this page [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
+
+## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
+- Grigori Milov: [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
 

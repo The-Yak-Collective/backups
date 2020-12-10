@@ -35,6 +35,9 @@
 
 - do enrolments go up as a function of "noise"? #[Maier Fenster](<Maier Fenster.md>)
 
+## [December 9th, 2020](<December 9th, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
+
 ## [Discord](<Discord.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Maier Fenster](<Maier Fenster.md>)
 

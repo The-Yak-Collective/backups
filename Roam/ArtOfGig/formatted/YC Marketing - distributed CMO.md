@@ -173,6 +173,9 @@ Yaks competing for attention
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [December 9th, 2020](<December 9th, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
 - **[About](<About.md>):** Launch Plan for [**Final Frontiers**](<**Final Frontiers**.md>) from [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

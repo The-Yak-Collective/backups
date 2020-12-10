@@ -24,6 +24,11 @@
 
 - Another possibility: Use two different site generators, one for the main body of the website, and another to build "subsites" like [Astonishing Stories](<Astonishing Stories.md>)
 
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- We've released 4 such projects already: [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>), [The New Old Home](<The New Old Home.md>), [Astonishing Stories](<Astonishing Stories.md>),
+
+- Contribute a module to one of the newbie friendly eternal projects like [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [November 25th, 2020](<November 25th, 2020.md>)
 - common theme on Future thinking with #[Astonishing Stories](<Astonishing Stories.md>)
 

@@ -14,3 +14,6 @@
 
 - Pick or improv [Chat Formats](<Chat Formats.md>)
 
+## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
+- Take on some service projects like helping build our [Infrastructure](<Infrastructure.md>), hosting a [Chat Formats](<Chat Formats.md>)
+
