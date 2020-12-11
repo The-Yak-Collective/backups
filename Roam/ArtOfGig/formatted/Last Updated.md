@@ -14,7 +14,7 @@
 - **[Created](<Created.md>):** [October 29, 2020](<October 29, 2020.md>) by [Grigori Milov](<Grigori Milov.md>)
 - **[Last Updated](<Last Updated.md>):**
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
 - **[Last Updated](<Last Updated.md>):**
 
@@ -72,6 +72,9 @@
 
 ## [Production Cell](<Production Cell.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>) 
+- **[Last Updated](<Last Updated.md>):**
+
+- 
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)
@@ -143,7 +146,7 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- 
 - **[Last Updated](<Last Updated.md>):**
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)

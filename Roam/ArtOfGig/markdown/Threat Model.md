@@ -1,7 +1,6 @@
 About:: __Notes on the Yak Collective Threat model and assets.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
-last updated:: [[September 24th, 2020]] by [[Nathan Acks]]
 Created:: [[June 30th, 2020]] by [[Nathan Acks]]
 Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
 Last Gardened:: `/Today` by `[[Fname Lname]]`

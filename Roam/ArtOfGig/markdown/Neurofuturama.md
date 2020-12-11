@@ -1,4 +1,4 @@
-- This is the main page for the Neurofuturama [[Pop-Up Think Tank]] [[Client Project]] taken up on behalf of [Kernel](https://kernel.co). This project is done. The client may or may not release the output publicly, at their discretion (here are the [[NF week 1 kickoff email]]) and [[NF week 2 kickoff email]]
+- This is the main page for the Neurofuturama [[Pop-Up Think Tank]] [[Client Projects]] taken up on behalf of [Kernel](https://kernel.co). This project is done. The client may or may not release the output publicly, at their discretion (here are the [[NF week 1 kickoff email]]) and [[NF week 2 kickoff email]]
 - **Contribution Concept Scratch Pages** Organized by thematic cluster. 
     - **Family/Personal Cluster**
     - [[Jay Kalawar: Family Ways]]

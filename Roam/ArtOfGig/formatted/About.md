@@ -12,7 +12,7 @@
 ## [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
 - **[About](<About.md>):**
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[About](<About.md>):**
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)

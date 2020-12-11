@@ -47,6 +47,8 @@
 
 - [Astonishing Stories](<Astonishing Stories.md>)
 
+- [Astonishing Stories](<Astonishing Stories.md>)
+
 ## [Sample Project](<Sample Project.md>)
 - [Astonishing Stories](<Astonishing Stories.md>)
 

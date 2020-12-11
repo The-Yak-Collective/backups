@@ -26,7 +26,7 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
 
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
@@ -330,9 +330,6 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
-
-## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- **[Last Gardened](<Last Gardened.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`

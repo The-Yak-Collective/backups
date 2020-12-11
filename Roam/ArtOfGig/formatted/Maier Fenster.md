@@ -309,9 +309,9 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 
 - **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
-- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
-
 - **[Project lead](<Project lead.md>):** [Maier Fenster](<Maier Fenster.md>)
+
+- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)

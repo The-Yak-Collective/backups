@@ -3,8 +3,6 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 - **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
-- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
-- **[Last Gardened](<Last Gardened.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - **[Status](<Status.md>):** {{or: Active | Early Concept | Proposal | Complete}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
@@ -48,12 +46,12 @@
         - **[Value for YC](<Value for YC.md>):**
             - better automation and usability
             - maybe other discord groups will want to copy
-    - **[Help wanted](<Help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
     - **[Relevant files and drafts (Graph or website or google docs)](<Relevant files and drafts (Graph or website or google docs).md>):**
     - **[Genesis](<Genesis.md>):**
 - **[Putative plan](<Putative plan.md>):**
 - **[Pivots so far](<Pivots so far.md>):**
+    - just automation & bots -> other tools as well
 - ?
 - **[Examples (of bots)](<Examples (of bots).md>):**
     - **[yak_scraper](<yak_scraper.md>):**
@@ -80,3 +78,7 @@
         - maintain a reading list (or other list) per channel
     - **[starbot (idea)](<starbot (idea).md>):**
         - mirror starred messages to a special channel (see [Jenna's message](https://discordapp.com/channels/692111190851059762/705512721847681035/785859125422587954) and [Venkat's first](https://discordapp.com/channels/692111190851059762/705512721847681035/785957836915081300) and [second response](https://discordapp.com/channels/692111190851059762/705512721847681035/785957870084030494))
+- 
+- 
+- **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 10th, 2020](<December 10th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)

@@ -1,5 +1,5 @@
 
 # Backlinks
-## [Empirical Feng Shui [[Evidence Based Design] To work & die [in place](<in place.md>) at [home](<home.md>): ](<Empirical Feng Shui [[Evidence Based Design] To work & die [in place](<in place.md>) at [home](<home.md>): .md>)
+## [Empirical Feng Shui](<Empirical Feng Shui.md>)
 - Guiding Assumption: The power of [situation](<situation.md>)
 

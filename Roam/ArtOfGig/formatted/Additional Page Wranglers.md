@@ -16,7 +16,7 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 

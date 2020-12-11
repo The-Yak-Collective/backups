@@ -4,7 +4,7 @@
 - **[About](<About.md>):** A project page for proposed Boutiques vs Marketplaces Wargames
 - **[Page Type](<Page Type.md>):**
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[Created](<Created.md>):** [May 18th, 2020](<May 18th, 2020.md>) by [Fname Lname](<Fname Lname.md>)
 - **[Page Type](<Page Type.md>):**
 

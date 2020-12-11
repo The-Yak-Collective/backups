@@ -1,5 +1,7 @@
 - a tentative project proposal lead by [[Shreeda Segan]] and potential other contributors
     - looking for contributors with some tangible investment in homestead futures
+- PITCH https://docs.google.com/presentation/d/1SRs74vb2GsSM01xzRfNVvJ7v3fVjO471sOR0Leg0lMs/edit?usp=sharing 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Ff8Y8rn9H0Y.jpg?alt=media&token=585be7b6-4934-456e-967b-52c93e0ca0a6)
 - project framework:
     - probably could draw a corrolary 2x2 for this project among axes like effort/space/high or low tech/above or below api  
         - let me think on this, homesteading as a larp rather than complete lifestyle commitment ...

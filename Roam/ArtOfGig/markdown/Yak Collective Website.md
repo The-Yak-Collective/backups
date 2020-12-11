@@ -1,8 +1,6 @@
 About:: __"Table of contents" for the Yak Collective website documentation.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
-last updated:: [[August 30th, 2020]] by [[Nathan Acks]]
-Chief Page Wrangler:: [[Nathan Acks]]
 Created:: [[August 29th, 2020]] by [[Nathan Acks]]
 Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
 Last Gardened:: `/Today` by `[[Fname Lname]]`

@@ -17,7 +17,7 @@
         7. [Vinay Débrou](<Vinay Débrou.md>): Yak Network Map
         8. [Jordan Peacock](<Jordan Peacock.md>): New Yaks
         9. [Darren Kong](<Darren Kong.md>): Infrastructure big picture/wrap up
-        10. [Venkatesh Rao](<Venkatesh Rao.md>): Finance and paid gigs
+        10. [Venkatesh Rao](<Venkatesh Rao.md>):  [Yak Collective Fund](<Yak Collective Fund.md>) and paid [Client Projects](<Client Projects.md>)
     - **0900 - 0920: Retrospective fishbowl on past projects**
         - **Moderator: Jenna**
             - Answer: "Why are projects impt to YC"
@@ -32,7 +32,7 @@
         - Grigori Milov: [Boutiques vs Marketplaces Wargames](<Boutiques vs Marketplaces Wargames.md>)
         - Shreeda Segan: [The New Old Country](<The New Old Country.md>)
         - Venkatesh Rao: [Yak Rover](<Yak Rover.md>)
-        - 2 slots left
+        - Paul Sas: [Empirical Feng Shui](<Empirical Feng Shui.md>)
     - **0950 - 1000: Closing remarks/town hall**
         - Open-ended questions
 

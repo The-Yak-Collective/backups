@@ -6,9 +6,9 @@
 - 
 
 # Backlinks
-## [Available YC Funds](<Available YC Funds.md>)
-- Anyone can request funds for an [Internal Project](<Internal Project.md>)
-
 ## [Pop-Up Think Tank](<Pop-Up Think Tank.md>)
 - (our first [Internal Project](<Internal Project.md>)
+
+## [Yak Collective Fund](<Yak Collective Fund.md>)
+- Anyone can request funds for an [Internal Project](<Internal Project.md>)
 

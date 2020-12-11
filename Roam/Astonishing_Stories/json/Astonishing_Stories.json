@@ -6681,9 +6681,6 @@
           {
             ":block/refs": [
               {
-                ":block/uid": "JAYCs4o2w"
-              },
-              {
                 ":block/uid": "6jX2RXOls"
               }
             ],
@@ -6707,17 +6704,14 @@
             ],
             "create-email": "j@djinna.com",
             "create-time": 1595439563376,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1596389652894,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1607619405123,
             "refs": [
-              {
-                "uid": "JAYCs4o2w"
-              },
               {
                 "uid": "6jX2RXOls"
               }
             ],
-            "string": "[[Fragment 034: Programmable forearm tattoo]] [[sachin]]",
+            "string": "[[Fragment 034: Programmable forearm tattoo]] ",
             "uid": "6tiUmfC0W"
           },
           {
@@ -6765,9 +6759,6 @@
           {
             ":block/refs": [
               {
-                ":block/uid": "JAYCs4o2w"
-              },
-              {
                 ":block/uid": "SLtaaWNyW"
               }
             ],
@@ -6791,17 +6782,14 @@
             ],
             "create-email": "j@djinna.com",
             "create-time": 1595441285228,
-            "edit-email": "j@djinna.com",
-            "edit-time": 1596389648297,
+            "edit-email": "sachben91@gmail.com",
+            "edit-time": 1607619410791,
             "refs": [
-              {
-                "uid": "JAYCs4o2w"
-              },
               {
                 "uid": "SLtaaWNyW"
               }
             ],
-            "string": "[[Fragment 036: Disclosure tattoos]] [[sachin]]",
+            "string": "[[Fragment 036: Disclosure tattoos]] ",
             "uid": "gL9V-M4uX"
           },
           {
@@ -22466,5 +22454,12 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1607592021830,
     "title": "December 10th, 2020"
+  },
+  {
+    "create-email": "yakcollective.org@gmail.com",
+    "create-time": 1607678431571,
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1607678431571,
+    "title": "December 11th, 2020"
   }
 ]

@@ -3,8 +3,6 @@
 - Chief Page Wrangler:: [[Maier Fenster]]
     - Additional Page Wranglers:: 
 - Created:: [[December 6th, 2020]] by [[Maier Fenster]]
-- Last Updated:: [[December 9th, 2020]] by [[Maier Fenster]]
-- Last Gardened:: `/Today` by `[[Fname Lname]]`
 - Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
 - Jobs and ways to contribute::
@@ -48,12 +46,12 @@
         - Value for YC::
             - better automation and usability
             - maybe other discord groups will want to copy
-    - Help wanted::
     - Meeting minutes::
     - Relevant files and drafts (Graph or website or google docs)::
     - Genesis::
 - Putative plan::
 - Pivots so far::
+    - just automation & bots -> other tools as well
 - ?
 - Examples (of bots)::
     - yak_scraper::
@@ -80,3 +78,7 @@
         - maintain a reading list (or other list) per channel
     - starbot (idea)::
         - mirror starred messages to a special channel (see [Jenna's message](https://discordapp.com/channels/692111190851059762/705512721847681035/785859125422587954) and [Venkat's first](https://discordapp.com/channels/692111190851059762/705512721847681035/785957836915081300) and [second response](https://discordapp.com/channels/692111190851059762/705512721847681035/785957870084030494))
+- 
+- 
+- Last Updated:: [[December 9th, 2020]] by [[Maier Fenster]]
+- Last Gardened:: [[December 10th, 2020]] by [[Jenna Dixon]]

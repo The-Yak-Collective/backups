@@ -75,11 +75,11 @@
         - ""Historical" festival (analogous to our present day Renaissance Faires and perhaps Steampunk cosplayers) looking back, with irony and melodrama through roleplaying, costumes, and reenactments, to gender identity struggles of a generation ago, and celebrating the steady mainstream acceptance of the displacing of conventional gender norms hegemony (and the "gender wars" confrontations about this) since then."
     - [Fragment 033: ML testing clarinet](<Fragment 033: ML testing clarinet.md>)
         - "A clarinet children have to use during national examinations to earn highly prestigious grade certifications. There's no examination proctor. Passing/failing exam is entirely judged by a machine learning system baked into the instrument that calculates their score by comparing the student's performance to other children taking in that same year."
-    - [Fragment 034: Programmable forearm tattoo](<Fragment 034: Programmable forearm tattoo.md>) [sachin](<sachin.md>)
+    - [Fragment 034: Programmable forearm tattoo](<Fragment 034: Programmable forearm tattoo.md>) 
         - "A programmable forearm tattoo controlled by micro bots who can add and remove ink dynamically. It connects to the API of your personal note taking system. As you take notes and develop original ideas, the tattoo adds or removes nodes. Like the Roam node graph, but visible on your forearm. You can write your own CSS to style the tattoo as you wish. Expansive node graphs and original styling are highly respected as publicly visible performances of knowledge work."
     - [Fragment 035: iRemember](<Fragment 035: iRemember.md>) [Ben S](<Ben S.md>)
         - "iRemember: Apple creates a device that records your thoughts and memories. Combined with your digital footprint (public and private), this instrument allows you and your family to remember everything about you, now and forever."
-    - [Fragment 036: Disclosure tattoos](<Fragment 036: Disclosure tattoos.md>) [sachin](<sachin.md>)
+    - [Fragment 036: Disclosure tattoos](<Fragment 036: Disclosure tattoos.md>) 
         - "After 20 years of political and economic stagnation, the USA elects a freewheeling genZ iconoclast to president. Her first order of business? Mandate that every citizen get a tattoo of strange secret or thought they've had on their forehead. Initially resistent, the populace soon gains mutual respect for one another as they realize how equally fucked up they all are."
     - [Fragment 037: Flight memorial heirloom](<Fragment 037: Flight memorial heirloom.md>)
         - "A pin that has become a heirloom - marking the last date that family flew in an aircraft before swearing the oath of the ground-dweller"

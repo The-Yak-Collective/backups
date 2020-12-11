@@ -14,7 +14,7 @@ See "Notes::" for additional details.
     - If you have critical mass by your launch date, your project status will shift to **Started** and things may start to automatically happen, like a page appearing on the website, an announcement in the newsletter etc.
 - [Sample Project](<Sample Project.md>): Brief 1-2 sentence pitch/blurb.
     -  %% __Project name should be a short phrase that should link to a detail page which you are free to structure as you see fit (click sample project page link for ideas). The 1-2 sentence pitch blurb should be a succinct summary of the idea that can also serve as placeholder text for the webpage that will be automatically created__
-    - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+    - **[Current State](<Current State.md>):** {{or: Proposed | Draft | Started | Stalled | Live | Finished | Abandoned}}
     - **[Core Team](<Core Team.md>):** (minimum 2, maximum 4) 
         - %% __A team that is sufficient to produce minimum viable output even if nobody else joins.__
         - **Project Lead**: Name 1 -- Brief blurb on their role/qualifications. %% __Link all names to individual pages__
@@ -36,7 +36,7 @@ Text-heavy website section is like the__ [Astonishing__ Stories](<Astonishing__ 
 Image-heavy website section is like__ [Future Frontiers](<Future Frontiers.md>). 
 Consult [Jenna Dixon](<Jenna Dixon.md>) for details
     - **Financial Structure**: Internal Project | Client Project
-        - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [Available YC Funds](<Available YC Funds.md>). Client projects are funded by a client. Check out [Client Project](<Client Project.md>) for details.
+        - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [Yak Collective Fund](<Yak Collective Fund.md>). Client projects are funded by a client. Check out [Client Projects](<Client Projects.md>) for details.
     - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 - **Projects List**
     - [The New Old Country](<The New Old Country.md>): A sequel to [The New Old Home](<The New Old Home.md>) creating a vision for "The New Old Homestead," integrated with above-the-api technology and meeting the needs of a post-Covid19, tech-heavy world challenged by issues like climate change, existential insecurity, and individualism. 
@@ -99,6 +99,7 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
             - **Optional**: Name 4 -- Brief blurb on their role/qualifications
         - **[Additional Members](<Additional Members.md>):** // __Add names as people join__
             - [Sachin Benny](<Sachin Benny.md>)
+            - [Santosh Shevade](<Santosh Shevade.md>)
         - **Kickoff Date**: 12/10/20
         - **Launch Date**: 01/31/21
         - **Finish Date (optional)**: mm/dd/yy
@@ -128,18 +129,16 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
         - **Discord channel**: yak-rover
         - **Launch Deliverable**: Open-source design documentation
         - **Financial Structure**: Internal project
+    - [Empirical Feng Shui](<Empirical Feng Shui.md>) - Collaborative Physical Design / Hardware Design / Social Science to build an Aeron Chair for the Mind
 - **[Notes](<Notes.md>):**
-    - See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Available YC Funds](<Available YC Funds.md>) to see how much financial support is currently available.
+    - See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Yak Collective Fund](<Yak Collective Fund.md>) to see how much financial support is currently available.
     - Unlike the old proposals [Greenlighting Process](<Greenlighting Process.md>) (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - 
 
 # Backlinks
-## [Available YC Funds](<Available YC Funds.md>)
-- You have to formally pitch and start a project via the [Project Pitches](<Project Pitches.md>)
-
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[About](<About.md>):** __A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the__ [Project Pitches](<Project Pitches.md>)
 
 - A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the [Project Pitches](<Project Pitches.md>)
@@ -158,4 +157,7 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
 - **0920 - 0950**: [Project Pitches](<Project Pitches.md>)
+
+## [Yak Collective Fund](<Yak Collective Fund.md>)
+- You have to formally pitch and start a project via the [Project Pitches](<Project Pitches.md>)
 

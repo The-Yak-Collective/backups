@@ -133,20 +133,13 @@
 
 - So if you can __artificially__ create this foreshortened horizon effect with neural techniques you'd have a neurological memento mori tech [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Available YC Funds](<Available YC Funds.md>)
-- **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- **Last updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
 ## [California/Los Angeles](<California/Los Angeles.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Chat Formats](<Chat Formats.md>)
 - April 8 2020: [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -496,6 +489,13 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - [Nature is Healing](<Nature is Healing.md>) — [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Yak Collective Fund](<Yak Collective Fund.md>)
+- **Chief page wrangler**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **Last updated by**: [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Yak Collective Governance](<Yak Collective Governance.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -549,8 +549,6 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - **[Last Gardened](<Last Gardened.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
-
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - Game-in-the-head > head-in-the-game. Makes sense after a few rounds with different client types - [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -560,8 +558,6 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - -> "How do I put this together into a gig that could solve this pain-pointfor me?"  ---- YC gig organization: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Zapier](<Zapier.md>)
-Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
-
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)

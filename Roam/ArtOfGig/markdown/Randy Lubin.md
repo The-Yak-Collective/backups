@@ -1,11 +1,13 @@
 - Early stage startups and game design
-    - Startups - CEO advisor and business generalist (product, growth, ops)
-        - COO at Meetings.io
-        - Business Operations and Strategy at Plethora
-        - Entrepreneur in Residence at FactoryX
+    - Startups - CEO advisor and business generalist (strategy product, growth, ops)
         - Advisor to numerous early stage startups
+        - Past roles:
+            - COO at Meetings.io
+            - Business Operations and Growth at Remotion
+            - Business Operations and Strategy at Plethora
+            - Entrepreneur in Residence at FactoryX
     - Game Design - serious games for organizations
-        - Made and ran serious games for Mozilla, Monash, CKI, Santa Clara University
+        - Made and ran serious games for Mozilla, Hewlett, UNICEF, WEF, Monash, CKI, Santa Clara University
         - Raised $150,000 on Kickstarter for CIA training card game
 - Links:
     - http://randylubin.com/ (Personal)

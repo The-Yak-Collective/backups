@@ -66,14 +66,14 @@
         - 
 
 # Backlinks
-## [Available YC Funds](<Available YC Funds.md>)
-- **Last updated**: [November 18th, 2020](<November 18th, 2020.md>)
-
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>)
+
+## [Yak Collective Fund](<Yak Collective Fund.md>)
+- **Last updated**: [November 18th, 2020](<November 18th, 2020.md>)
 
 ## [Yak Rover](<Yak Rover.md>)
 - **[Created](<Created.md>):** [November 18th, 2020](<November 18th, 2020.md>)

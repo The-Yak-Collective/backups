@@ -17,5 +17,5 @@
 
 # Backlinks
 ## [Neurofuturama](<Neurofuturama.md>)
-- This is the main page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) [Client Project](<Client Project.md>) taken up on behalf of [Kernel](https://kernel.co). This project is done. The client may or may not release the output publicly, at their discretion (here are the [NF week 1 kickoff email](<NF week 1 kickoff email.md>)) and [NF week 2 kickoff email](<NF week 2 kickoff email.md>)
+- This is the main page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) [Client Projects](<Client Projects.md>) taken up on behalf of [Kernel](https://kernel.co). This project is done. The client may or may not release the output publicly, at their discretion (here are the [NF week 1 kickoff email](<NF week 1 kickoff email.md>)) and [NF week 2 kickoff email](<NF week 2 kickoff email.md>)
 

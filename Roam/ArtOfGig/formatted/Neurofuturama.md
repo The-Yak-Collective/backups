@@ -1,4 +1,4 @@
-- This is the main page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) [Client Project](<Client Project.md>) taken up on behalf of [Kernel](https://kernel.co). This project is done. The client may or may not release the output publicly, at their discretion (here are the [NF week 1 kickoff email](<NF week 1 kickoff email.md>)) and [NF week 2 kickoff email](<NF week 2 kickoff email.md>)
+- This is the main page for the Neurofuturama [Pop-Up Think Tank](<Pop-Up Think Tank.md>) [Client Projects](<Client Projects.md>) taken up on behalf of [Kernel](https://kernel.co). This project is done. The client may or may not release the output publicly, at their discretion (here are the [NF week 1 kickoff email](<NF week 1 kickoff email.md>)) and [NF week 2 kickoff email](<NF week 2 kickoff email.md>)
 - **Contribution Concept Scratch Pages** Organized by thematic cluster. 
     - **Family/Personal Cluster**
     - [Jay Kalawar: Family Ways](<Jay Kalawar: Family Ways.md>)
@@ -137,7 +137,7 @@ developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229
 ## [06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief](<06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief.md>)
 - One immediate consequence of this is creating a brainstorm week for the [Neurofuturama](<Neurofuturama.md>)
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - The only client project so far is [Neurofuturama](<Neurofuturama.md>)
 
 ## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)

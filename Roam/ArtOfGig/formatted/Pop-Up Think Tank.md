@@ -1,6 +1,6 @@
 - The Pop-Up Think Tank is the first offering model developed by the Yak Collective. 
 - So far there are 2 instances, [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) 
-- (our first [Internal Project](<Internal Project.md>) and [Neurofuturama](<Neurofuturama.md>) (our first [Client Project](<Client Project.md>))
+- (our first [Internal Project](<Internal Project.md>) and [Neurofuturama](<Neurofuturama.md>) (our first [Client Projects](<Client Projects.md>))
 - Runs for between 2-6 weeks
 - Delivers a deck of ideas, insights, provocations, frameworks, and models around a chosen topic area
 - Built around an efficient [Coordination Model](<Coordination Model.md>) that has already been validated on one or more internal projects, and set up to accept contributions from between 6-30 people.

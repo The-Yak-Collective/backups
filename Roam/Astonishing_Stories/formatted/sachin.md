@@ -18,8 +18,3 @@
 ## [Scenario 01: Taking it slow with programmable tattoos](<Scenario 01: Taking it slow with programmable tattoos.md>)
 - **Described by:** [sachin](<sachin.md>)
 
-## [Sprint 1: Future Fragments](<Sprint 1: Future Fragments.md>)
-- [Fragment 034: Programmable forearm tattoo](<Fragment 034: Programmable forearm tattoo.md>) [sachin](<sachin.md>)
-
-- [Fragment 036: Disclosure tattoos](<Fragment 036: Disclosure tattoos.md>) [sachin](<sachin.md>)
-

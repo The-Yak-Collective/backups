@@ -4,7 +4,7 @@
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^👍 
 - **[Status](<Status.md>):**
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[Page Type](<Page Type.md>):** {{or: [Project](<Project.md>) | [tk1](<tk1.md>) | [tk2](<tk2.md>) }}
 - **[Status](<Status.md>):**
 

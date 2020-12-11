@@ -202,7 +202,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
 - [[Thomas Hollands]]
     - Twitter [@tdoggyholhol](https://twitter.com/tdoggyholhol)
 - [[David Howell]]
-    - "Aspirational free-agent, currently full-time employed as a [[Software Architect]] at a fairly large software company."
+    - "Aspirational free-agent, currently full-time employed as a lead engineer at a SaaS observability provider."
     - "Website: https://www.howell.io/"
     - "Twitter: [@dehowell](http://twitter.com/dehowell)"
 - [[Shakir Hussain]]

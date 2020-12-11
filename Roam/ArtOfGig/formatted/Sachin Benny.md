@@ -81,9 +81,6 @@
 
 - [ ] [Sachin Benny](<Sachin Benny.md>)
 
-## [Available YC Funds](<Available YC Funds.md>)
-- [Sachin Benny](<Sachin Benny.md>)
-
 ## [Chat Formats](<Chat Formats.md>)
 - "Closing tabs with So-and-so": [Sachin Benny](<Sachin Benny.md>)
 
@@ -200,6 +197,9 @@ https://artplusmarketing.com/avoiding-anchoring-effect-in-marketing-f48802f6b978
 - [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) [Sachin Benny](<Sachin Benny.md>)
 
 - [Speculative Fiction for the reboot ](<Speculative Fiction for the reboot .md>) [Sachin Benny](<Sachin Benny.md>)
+
+## [Yak Collective Fund](<Yak Collective Fund.md>)
+- [Sachin Benny](<Sachin Benny.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - [Sachin Benny](<Sachin Benny.md>)

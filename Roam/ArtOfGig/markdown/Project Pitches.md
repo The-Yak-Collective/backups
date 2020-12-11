@@ -14,7 +14,7 @@ See "Notes::" for additional details.
     - If you have critical mass by your launch date, your project status will shift to **Started** and things may start to automatically happen, like a page appearing on the website, an announcement in the newsletter etc.
 - [[Sample Project]]: Brief 1-2 sentence pitch/blurb.
     -  %% __Project name should be a short phrase that should link to a detail page which you are free to structure as you see fit (click sample project page link for ideas). The 1-2 sentence pitch blurb should be a succinct summary of the idea that can also serve as placeholder text for the webpage that will be automatically created__
-    - Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+    - Current State:: {{or: Proposed | Draft | Started | Stalled | Live | Finished | Abandoned}}
     - Core Team:: (minimum 2, maximum 4) 
         - %% __A team that is sufficient to produce minimum viable output even if nobody else joins.__
         - **Project Lead**: Name 1 -- Brief blurb on their role/qualifications. %% __Link all names to individual pages__
@@ -36,7 +36,7 @@ Text-heavy website section is like the__ [[Astonishing__ Stories]] __project.
 Image-heavy website section is like__ [[Future Frontiers]]. 
 Consult [[Jenna Dixon]] for details
     - **Financial Structure**: Internal Project | Client Project
-        - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [[Available YC Funds]]. Client projects are funded by a client. Check out [[Client Project]] for details.
+        - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [[Yak Collective Fund]]. Client projects are funded by a client. Check out [[Client Projects]] for details.
     - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 - **Projects List**
     - [[The New Old Country]]: A sequel to [[The New Old Home]] creating a vision for "The New Old Homestead," integrated with above-the-api technology and meeting the needs of a post-Covid19, tech-heavy world challenged by issues like climate change, existential insecurity, and individualism. 
@@ -99,6 +99,7 @@ Consult [[Jenna Dixon]] for details
             - **Optional**: Name 4 -- Brief blurb on their role/qualifications
         - Additional Members:: // __Add names as people join__
             - [[Sachin Benny]]
+            - [[Santosh Shevade]]
         - **Kickoff Date**: 12/10/20
         - **Launch Date**: 01/31/21
         - **Finish Date (optional)**: mm/dd/yy
@@ -128,8 +129,9 @@ Consult [[Jenna Dixon]] for details
         - **Discord channel**: yak-rover
         - **Launch Deliverable**: Open-source design documentation
         - **Financial Structure**: Internal project
+    - [[Empirical Feng Shui]] - Collaborative Physical Design / Hardware Design / Social Science to build an Aeron Chair for the Mind
 - Notes::
-    - See also: [[Production Cell]] page maintained by [[Jenna Dixon]] for production support that will be available, and the [[Available YC Funds]] to see how much financial support is currently available.
+    - See also: [[Production Cell]] page maintained by [[Jenna Dixon]] for production support that will be available, and the [[Yak Collective Fund]] to see how much financial support is currently available.
     - Unlike the old proposals [[Greenlighting Process]] (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.
 - Last Updated:: [[November 18th, 2020]] by [[Venkatesh Rao]]
 - Last Gardened:: [[December 5th, 2020]] by [[Jenna Dixon]]

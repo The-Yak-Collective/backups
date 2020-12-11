@@ -50,7 +50,7 @@
 ## [Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>)](<Call notes - Roam - w[Bardia Pourvakil](<Bardia Pourvakil.md>).md>)
 - ### from [Jenna Dixon](<Jenna Dixon.md>):
 
-## [Client Project](<Client Project.md>)
+## [Client Projects](<Client Projects.md>)
 - **[Last Gardened](<Last Gardened.md>):** [November 19th, 2020](<November 19th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Concept Contrast Project (temp name)](<Concept Contrast Project (temp name).md>)
@@ -175,6 +175,8 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 
+- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Project Pitches](<Project Pitches.md>)
 Consult [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -286,6 +288,9 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 - [pong](<pong.md>) #[Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
+
+## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 10th, 2020](<December 10th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Last Updated](<Last Updated.md>):** [October 6th, 2020](<October 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)

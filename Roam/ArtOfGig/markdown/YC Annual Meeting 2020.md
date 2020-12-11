@@ -17,7 +17,7 @@
         7. [[Vinay Débrou]]: Yak Network Map
         8. [[Jordan Peacock]]: New Yaks
         9. [[Darren Kong]]: Infrastructure big picture/wrap up
-        10. [[Venkatesh Rao]]: Finance and paid gigs
+        10. [[Venkatesh Rao]]:  [[Yak Collective Fund]] and paid [[Client Projects]]
     - **0900 - 0920: Retrospective fishbowl on past projects**
         - **Moderator: Jenna**
             - Answer: "Why are projects impt to YC"
@@ -32,6 +32,6 @@
         - Grigori Milov: [[Boutiques vs Marketplaces Wargames]]
         - Shreeda Segan: [[The New Old Country]]
         - Venkatesh Rao: [[Yak Rover]]
-        - 2 slots left
+        - Paul Sas: [[Empirical Feng Shui]]
     - **0950 - 1000: Closing remarks/town hall**
         - Open-ended questions

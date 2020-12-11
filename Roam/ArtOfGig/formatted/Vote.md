@@ -9,6 +9,6 @@
 - **[Vote](<Vote.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- **[Last Gardened](<Last Gardened.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
+- **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Vote](<Vote.md>):**
 
