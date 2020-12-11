@@ -8,6 +8,10 @@
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FzJ80Yv_q3W.jpeg?alt=media&token=ac7edb91-d362-4508-9043-100c5f5fdf5f)
 - **[Attending](<Attending.md>):**
 
+## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
+- What are the alternative ways to solve the same problem and how do they compare with the ecosystem approach?
+- **[Attending](<Attending.md>):**
+
 ## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)
 - Can you identify a self-sustaining positive feedback loop that can potentially increase the value of this platform with each new participant?
 - **[Attending](<Attending.md>):**

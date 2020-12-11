@@ -15,6 +15,10 @@
 -  how to apply this view of biology to decentralized governance?
 - **[Reading](<Reading.md>):**
 
+## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
+- 
+- **[Reading](<Reading.md>):**
+
 ## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)
 - 
 - **[Reading](<Reading.md>):**

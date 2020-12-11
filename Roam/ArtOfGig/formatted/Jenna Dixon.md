@@ -271,6 +271,9 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 
+## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
+- **[Created](<Created.md>):** [December 4th, 2020](<December 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)
 - **[Created](<Created.md>):** [December 4th, 2020](<December 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
