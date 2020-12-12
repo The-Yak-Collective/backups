@@ -1,8 +1,6 @@
 - About:: __A place to build a group of yaks interested in helping to produce YakC work outputs.__
 - Chief Page Wrangler:: [[Jenna Dixon]]
     - Additional Page Wranglers:: [[Suwaythan Nahaganeshan]] | [[Fname Lname]] 
-- Last Updated:: [[September 21th, 2020]]
-- Last Updated By:: [[Jenna Dixon]]
 -  
 - Invited::
     - [[Astonishing Stories

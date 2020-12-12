@@ -78,9 +78,9 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
         - [Netlify](<Netlify.md>) [Functions](https://docs.netlify.com/functions/overview/) ([create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js))
             - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [Yak Collective Website](<Yak Collective Website.md>)
-            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)
         - [Yak Collective Website](<Yak Collective Website.md>) ["Featured Yak" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)
-            - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
+            - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)
         - [GitHub](<GitHub.md>)
             - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)"
         - [IFTTT](<IFTTT.md>) [Netlify Build Hook](https://docs.netlify.com/configure-builds/build-hooks/) Applet (Timer)
@@ -117,9 +117,13 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
             - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
         - [LinkedIn](<LinkedIn.md>)
             - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
+# Projects
+    - [Yak Collective Website](<Yak Collective Website.md>)
+    - [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
 # Documents
     - [Schema | member data](<Schema | member data.md>) (draft)
     - [Code Style Guide](<Code Style Guide.md>)
+    - [IT Infrastructure and Project Security Basics](<IT Infrastructure and Project Security Basics.md>)
     - [Threat Model](<Threat Model.md>)
 # Discussions & Decisions
     - [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)

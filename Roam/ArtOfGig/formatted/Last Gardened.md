@@ -44,10 +44,6 @@
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
-## [Schema | member data](<Schema | member data.md>)
-- **[Last Updated](<Last Updated.md>):** [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-- **[Last Gardened](<Last Gardened.md>):**
-
 ## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
 - **[Last Updated](<Last Updated.md>):** 
 - **[Last Gardened](<Last Gardened.md>):**
@@ -69,6 +65,10 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
+## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 

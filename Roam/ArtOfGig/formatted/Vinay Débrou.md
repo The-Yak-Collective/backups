@@ -61,8 +61,6 @@
 ## [Schema | member data](<Schema | member data.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>)
 
-- [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>) we will use [Discord UID](<Discord UID.md>). Rcvd scrape from [Vinay Débrou](<Vinay Débrou.md>),
-
 ## [Summary: 27th May Brainstorm](<Summary: 27th May Brainstorm.md>)
 2. sharing neural data to public, private circles   and no-one. Something tells me it wouldn't be the repeat of the ongoing conversation on digital data privacy [Vinay Débrou](<Vinay Débrou.md>)
 

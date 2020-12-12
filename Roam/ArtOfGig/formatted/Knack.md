@@ -27,7 +27,7 @@ Last Gardened:: [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<
 - [Knack](<Knack.md>)
 
 ## [Nathan Acks](<Nathan Acks.md>)
-- [ ] Integrate [Knack](<Knack.md>)
+- "[ ] Integrate [Knack](<Knack.md>)
 
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - 19:58 [Jenna Dixon](<Jenna Dixon.md>) updated [Knack](<Knack.md>)
@@ -36,8 +36,16 @@ Last Gardened:: [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<
 - 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>) [Knack](<Knack.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- [Nathan Acks](<Nathan Acks.md>) says: Using the `firstname-lastname` format makes sense at first and provides for pretty URLs, but it makes handling name-changes harder than it should be. Experience in the $dayjob says that we __will__ eventually run into problems using this as an ID. So long as YC is small, we can probably work around things with redirects... But if I was going to implement this today (or reimplement it in [Knack](<Knack.md>))
+Note that the functionality represented by the member data files will eventually be subsumed into [Knack](<Knack.md>).
+
+- The following front matter attributes are allowed in member data files, but should seldom, if ever, be included. There is probably no reason to implement them in [Knack](<Knack.md>).
 
 ## [Threat Model](<Threat Model.md>)
 - [Knack](<Knack.md>)
+
+## [Website Version History](<Website Version History.md>)
+- Align member data file names and attribute content with [Knack](<Knack.md>).
+
+## [Yak Collective Website](<Yak Collective Website.md>)
+- [ ] Integrate [Knack](<Knack.md>)
 

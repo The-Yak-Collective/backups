@@ -39,6 +39,9 @@
 
 - {{[DONE](<DONE.md>)}
 
+## [Nathan Acks](<Nathan Acks.md>)
+- "{{[DONE](<DONE.md>)}
+
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - {{[DONE](<DONE.md>)}
 
@@ -125,8 +128,6 @@
 
 - {{[DONE](<DONE.md>)}
 
-## [Schema | member data](<Schema | member data.md>)
-- {{[DONE](<DONE.md>)}
-
+## [Yak Collective Website](<Yak Collective Website.md>)
 - {{[DONE](<DONE.md>)}
 

@@ -52,6 +52,13 @@
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[
 
+## [IT Infrastructure](<IT Infrastructure.md>)
+- [Yak Collective Website](<Yak Collective Website.md>)
+            - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
+- [Yak Collective Website](<Yak Collective Website.md>) ["Featured Yak" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)
+            - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[About](<About.md>):** __Directory Listing for Things Discussed in Yak [Infrastructure](<Infrastructure.md>) Discord channel__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
@@ -77,7 +84,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)
-See "Notes::" for additional details.
+- foo
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)
@@ -87,10 +94,6 @@ See "Notes::" for additional details.
 - [Chief Page Wrangler](<Chief Page Wrangler.md>)
 
 - Anyone can create a page as long they use the [template/header](<template/header.md>) and define a [Chief Page Wrangler](<Chief Page Wrangler.md>)
-
-## [Schema | member data](<Schema | member data.md>)
-- **[About](<About.md>):** __Map of fields in Knack member database.__
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
 - **[About](<About.md>):** __Project launch activity and planning__

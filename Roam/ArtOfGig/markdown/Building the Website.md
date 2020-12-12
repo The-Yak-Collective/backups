@@ -2,7 +2,7 @@ About:: __How do I build the Yak Collective website?__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[August 30th, 2020]] by [[Nathan Acks]]
-Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 11th, 2020]] by [[Nathan Acks]]
 Last Gardened:: `/Today` by `[[Fname Lname]]`
 # General Notes
     - We currently use [Jekyll](https://jekyllrb.com/) to build the website.
@@ -45,17 +45,18 @@ sudo apt install bundler```
     2. Check out the [website repo](https://github.com/The-Yak-Collective/yakcollective/).
         - Unless you already have commit access, you'll want to [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the [The-Yak-Collective/yakcollective](https://github.com/The-Yak-Collective/yakcollective/) repo first.
         - The [GitHub Desktop](https://desktop.github.com/) app makes working with repos really easy, and is highly recommended.
-    3. Set up the your local build environment (this all happens using the terminal; where you see `$REPO_PATH`, just use whatever path you checked the repository out to in the last step):
+    3. Set up the your local build environment (this all happens using the terminal; where you see `$REPO_PATH`, just use whatever path you checked the repository out to in the last step).
         ```shell
 cd $REPO_PATH
 bundle config set path vendor/bundle
 bundle install```
-    4. Run `bundle exec jekyll serve` to fire up Jekyll's local server mode. This will build your site and then let you see it by going to [http://localhost:4000](http://localhost:4000) in your web browser.
+    4. Run `bundle exec jekyll serve --profile` to fire up Jekyll's local server mode. This will build your site and then let you see it by going to [http://localhost:4000](http://localhost:4000) in your web browser.
         - __Most of the time__, Jekyll will automatically rebuild the site whenever you make a change.
             - Jekyll won't detect changes that are made on Windows' file systems (so, any time you're using Jekyll natively, or if you're working with directories under `/mnt/c` in WSL).
             - Changes to `_config.yml` aren't detected.
         - To stop the Jekyll server, use **Ctrl + C**.
-        - If you need to see the actual files Jekyll will generate, use `bundle exec jekyll build` instead. The output will be in the `_site` directory.
+        - If you need to see the actual files Netlify will generate, use `./bin/build.sh` instead. The output will be in the `_site` directory.
+        - Both `bundle exec jekyll serve` and `./bin/build.sh` accept a `--future` flag that will build pages for projects, members, and posts that are not yet published. This is useful when you're working on upcoming project pages.
 # Building on [[Netlify]]
     - Netlify will automatically rebuild the site whenever changes are pushed to the repo and/or merged in.
     - Refer to the [[Netlify]] document for information about options used, etc.

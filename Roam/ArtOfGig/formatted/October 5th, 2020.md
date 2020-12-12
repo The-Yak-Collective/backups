@@ -11,6 +11,3 @@
 ## [Knack](<Knack.md>)
 Last Updated:: [October 5th, 2020](<October 5th, 2020.md>)
 
-## [Schema | member data](<Schema | member data.md>)
-- [x] new [October 5th, 2020](<October 5th, 2020.md>)
-

@@ -173,21 +173,19 @@
 - {{[TODO](<TODO.md>)}
 
 ## [Nathan Acks](<Nathan Acks.md>)
-- {{[TODO](<TODO.md>)}
+- "{{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
+- "{{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
+- "{{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
+- "{{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
+- "{{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
+- "{{[TODO](<TODO.md>)}
 
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - {{[TODO](<TODO.md>)}
@@ -273,11 +271,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-## [Schema | member data](<Schema | member data.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -345,6 +338,19 @@
 
 ## [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 - {{[query](<query.md>): {and: [TODO](<TODO.md>)
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+## [Yak Collective Website](<Yak Collective Website.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 

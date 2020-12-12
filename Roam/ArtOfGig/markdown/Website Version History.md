@@ -2,8 +2,36 @@ About:: __Website version history.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[August 31st, 2020]] by [[Nathan Acks]]
-Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 11th, 2020]] by [[Nathan Acks]]
 Last Gardened:: `/Today` by `[[Fname Lname]]`
+# v2.4
+    - [[Nathan Acks]]
+        - Added "template" help files explaining required vs. optional front matter, allowed widgets on each page, etc.
+        - "Future Frontiers" project layout.
+        - Updated `bin/imgopt.sh` to produce images compliant with the recommendation for Twitter cards.
+        - Add a "now" page.
+        - Added most recent project release to the homepage.
+        - Additional front-end performance optimizations.
+        - Bug fixes
+    - [[Jenna Dixon]]
+        - Updated yak logo.
+# v2.3
+    - [[Nathan Acks]]
+        - "Astonishing Stories" project layout.
+        - Significant front-end and back-end performance improvements.
+        - Simplified CSS breakpoints.
+        - Simplified page layout inheritance.
+        - Formatting tweaks to improve site readability.
+        - Updated to the latest [Tachyons](https://tachyons.io/) release.
+        - Align member data file names and attribute content with [[Knack]].
+        - Migrated `feed.json` and `feed.xml` to capture content based on location on the website, rather than hard-coding post categories.
+        - Migrated most site formatting to use [[Website Widgets]].
+        - Migrated away from using [Jekyll collections](https://jekyllrb.com/docs/collections/).
+        - Linked [[Yak Talk]] newsletter from site navigation.
+        - Have pages use custom images and descriptions for Facebook shares and Twitter cards whenever it is feasible to do so.
+        - Bug fixes.
+    - [[Maier Fenster]]
+        - "Featured yak" plugin.
 # v2.2
     - [[Nathan Acks]]
         - Push "featured yak" to [[Twitter]].

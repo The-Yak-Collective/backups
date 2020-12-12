@@ -15,9 +15,6 @@
 ## [Roam Gardening](<Roam Gardening.md>)
 - [Jenna Dixon](<Jenna Dixon.md>) [October 4th, 2020](<October 4th, 2020.md>)
 
-## [Schema | member data](<Schema | member data.md>)
-- [x] new [October 5th, 2020](<October 5th, 2020.md>) per Infra call [October 4th, 2020](<October 4th, 2020.md>)
-
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Created](<Created.md>):** [October 4th, 2020](<October 4th, 2020.md>)
 

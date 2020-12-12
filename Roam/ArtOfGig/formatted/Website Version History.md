@@ -2,8 +2,36 @@ About:: __Website version history.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
+# v2.4
+    - [Nathan Acks](<Nathan Acks.md>)
+        - Added "template" help files explaining required vs. optional front matter, allowed widgets on each page, etc.
+        - "Future Frontiers" project layout.
+        - Updated `bin/imgopt.sh` to produce images compliant with the recommendation for Twitter cards.
+        - Add a "now" page.
+        - Added most recent project release to the homepage.
+        - Additional front-end performance optimizations.
+        - Bug fixes
+    - [Jenna Dixon](<Jenna Dixon.md>)
+        - Updated yak logo.
+# v2.3
+    - [Nathan Acks](<Nathan Acks.md>)
+        - "Astonishing Stories" project layout.
+        - Significant front-end and back-end performance improvements.
+        - Simplified CSS breakpoints.
+        - Simplified page layout inheritance.
+        - Formatting tweaks to improve site readability.
+        - Updated to the latest [Tachyons](https://tachyons.io/) release.
+        - Align member data file names and attribute content with [Knack](<Knack.md>).
+        - Migrated `feed.json` and `feed.xml` to capture content based on location on the website, rather than hard-coding post categories.
+        - Migrated most site formatting to use [Website Widgets](<Website Widgets.md>).
+        - Migrated away from using [Jekyll collections](https://jekyllrb.com/docs/collections/).
+        - Linked [Yak Talk](<Yak Talk.md>) newsletter from site navigation.
+        - Have pages use custom images and descriptions for Facebook shares and Twitter cards whenever it is feasible to do so.
+        - Bug fixes.
+    - [Maier Fenster](<Maier Fenster.md>)
+        - "Featured yak" plugin.
 # v2.2
     - [Nathan Acks](<Nathan Acks.md>)
         - Push "featured yak" to [Twitter](<Twitter.md>).
@@ -66,5 +94,7 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 # Backlinks
 ## [Yak Collective Website](<Yak Collective Website.md>)
+- [Website Version History](<Website Version History.md>)
+
 - [Website Version History](<Website Version History.md>)
 

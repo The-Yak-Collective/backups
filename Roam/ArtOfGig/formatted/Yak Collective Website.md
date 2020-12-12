@@ -1,16 +1,72 @@
 About:: __"Table of contents" for the Yak Collective website documentation.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
-Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
-![Netlify Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)
+
     - [Website Architecture](<Website Architecture.md>)
+        - [Website Widgets](<Website Widgets.md>)
+        - [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
     - [Contributing to the Website](<Contributing to the Website.md>)
         - [Code Style Guide](<Code Style Guide.md>)
         - [Current Website Issues and Projects](https://github.com/The-Yak-Collective/yakcollective/issues)
         - [Building the Website](<Building the Website.md>)
     - [Website Version History](<Website Version History.md>)
+---
+About:: __Every collective needs a website. This is ours. It isn't much to look at, but it gets the job done.__
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
+Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Page Type:: [Project](<Project.md>)
+Status:: {{or: Active | Early Concept | Proposal | Complete}}
+Current State:: 
+    - ![Netlify Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)
+Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
+Ways to Contribute::
+    - [Current website issues and projects on GitHub.](https://github.com/The-Yak-Collective/yakcollective/issues)
+    - Pull requests and ideas welcome!
+        - Conversations happen on [the Discord [infrastructure](<infrastructure.md>) channel](https://discord.com/channels/692111190851059762/704369362315772044).
+    - Help review code! We do a change review before taking any major (non-content, non-bugfix) change live.
+Meta::
+    - **[This project is about](<This project is about.md>):**
+        - XXX
+    - **[Deliverable](<Deliverable.md>):** https://www.yakcollective.org/
+    - **[Project size](<Project size.md>):**
+        - XXX
+    - **[Intermediate Milestones](<Intermediate Milestones.md>):**
+        - XXX
+    - **[Referees](<Referees.md>):** [Maier Fenster](<Maier Fenster.md>)
+    - **[Project Lead](<Project Lead.md>):** [Nathan Acks](<Nathan Acks.md>)
+    - **[Collaborators](<Collaborators.md>):**
+        - `[Fname Lname](<Fname Lname.md>)`
+    - **[Relevant Documents and Files](<Relevant Documents and Files.md>):**
+        - [Website Architecture](<Website Architecture.md>)
+            - [Website Widgets](<Website Widgets.md>)
+            - [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
+        - [Contributing to the Website](<Contributing to the Website.md>)
+            - [Code Style Guide](<Code Style Guide.md>)
+            - [Building the Website](<Building the Website.md>)
+        - [Website Version History](<Website Version History.md>)
+    - **[Why you should join](<Why you should join.md>):**
+        - XXX
+    - **[Intended Audience](<Intended Audience.md>):**
+        - Potential clients
+        - **[Questions to be answered by deliverable](<Questions to be answered by deliverable.md>):**
+        - Folks interested in engaging or joining the Yak Collective
+    - **[Meeting minutes](<Meeting minutes.md>):**
+About:: internal project page to consolidate multitude of discord bots & other tools
+Current Plan::
+    - [x] Update the [Yak Collective Website](<Yak Collective Website.md>) documentation
+    - [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
+    - [ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)
+    - [ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)
+    - [ ] Migrate from [IFTTT](https://ifttt.com/) to [ActionsFlow](https://github.com/actionsflow/actionsflow) ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))
+    - [ ] Research options for JAMstack CMSes
+    - [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>) to [Gatsby](https://www.gatsbyjs.com/)
+Page Type:: [Project](<Project.md>)
+Chief Page Wrangler:: [Maier Fenster](<Maier Fenster.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 
 # Backlinks
 ## [Breaking Smart](<Breaking Smart.md>)
@@ -40,6 +96,8 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 - [Yak Collective Website](<Yak Collective Website.md>)
 
+- [Yak Collective Website](<Yak Collective Website.md>)
+
 ## [Infrastructure](<Infrastructure.md>)
 - Nathan - documentation sprint on Roam  [Yak Collective Website](<Yak Collective Website.md>)
 
@@ -53,15 +111,15 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 ## [Nathan Acks](<Nathan Acks.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)
 
-- [ ] Update the [Yak Collective Website](<Yak Collective Website.md>)
+- "[x] Update the [Yak Collective Website](<Yak Collective Website.md>)
 
-- [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
+- "[ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)"
 
-- [ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)
+- "[ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)"
 
-- [ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)
+- "[ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)"
 
-- [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>)
+- "[ ] Migrate [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Netlify](<Netlify.md>)
 - Provides the build environment for the [Yak Collective Website](<Yak Collective Website.md>)
@@ -99,4 +157,15 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)
+
+## [Yak Collective Website](<Yak Collective Website.md>)
+- [x] Update the [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)
+
+- [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>)
 

@@ -34,9 +34,6 @@
 - **[Last Updated](<Last Updated.md>):** [September 21th, 2020](<September 21th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**
 
-- **[Last Updated](<Last Updated.md>):** [September 21th, 2020](<September 21th, 2020.md>)
-- **[Last Updated By](<Last Updated By.md>):**
-
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Last Updated](<Last Updated.md>):** [September 26th, 2020](<September 26th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):**

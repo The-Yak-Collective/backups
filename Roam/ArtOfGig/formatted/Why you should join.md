@@ -12,6 +12,10 @@
 - pdf 
     - **[Why you should join](<Why you should join.md>):**
 
+## [Yak Collective Website](<Yak Collective Website.md>)
+- [Website Version History](<Website Version History.md>)
+    - **[Why you should join](<Why you should join.md>):**
+
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
 - **[Also in project](<Also in project.md>):** 
     - **[Why you should join](<Why you should join.md>):**

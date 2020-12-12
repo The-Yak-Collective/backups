@@ -78,9 +78,9 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
         - [[Netlify]] [Functions](https://docs.netlify.com/functions/overview/) ([create-post](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/functions/create-post.js))
             - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[Yak Collective Website]]
-            - "Chief Page Wrangler:: [[Nathan Acks]]"
+            - Chief Page Wrangler:: [[Nathan Acks]]
         - [[Yak Collective Website]] ["Featured Yak" RSS Feed](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/featured.xml)
-            - "Chief Page Wrangler:: [[Nathan Acks]]"
+            - Chief Page Wrangler:: [[Nathan Acks]]
         - [[GitHub]]
             - "Chief Page Wrangler:: [[Nathan Acks]]"
         - [[IFTTT]] [Netlify Build Hook](https://docs.netlify.com/configure-builds/build-hooks/) Applet (Timer)
@@ -117,9 +117,13 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
             - "Chief Page Wrangler:: [[Venkatesh Rao]]"
         - [[LinkedIn]]
             - "Chief Page Wrangler:: [[Venkatesh Rao]]"
+# Projects
+    - [[Yak Collective Website]]
+    - [[bots-a-lot internal project page]]
 # Documents
     - [[Schema | member data]] (draft)
     - [[Code Style Guide]]
+    - [[IT Infrastructure and Project Security Basics]]
     - [[Threat Model]]
 # Discussions & Decisions
     - [[onboarding it - thoughts about onboarding infrastructure]]

@@ -29,9 +29,7 @@ Created:: [August 31st, 2020](<August 31st, 2020.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- # Examples as of [August 31st, 2020](<August 31st, 2020.md>)
-
-- # Current Members as of [August 31st, 2020](<August 31st, 2020.md>)
+# Current Members as of [August 31st, 2020](<August 31st, 2020.md>)
 
 ## [Twitter](<Twitter.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>)

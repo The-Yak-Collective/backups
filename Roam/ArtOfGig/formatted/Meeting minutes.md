@@ -8,6 +8,10 @@
 - **[Help wanted](<Help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
 
+## [Yak Collective Website](<Yak Collective Website.md>)
+- Folks interested in engaging or joining the Yak Collective
+    - **[Meeting minutes](<Meeting minutes.md>):**
+
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
 - maybe other discord groups will want to copy
     - **[Meeting minutes](<Meeting minutes.md>):**

@@ -167,8 +167,6 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 ## [Production Cell](<Production Cell.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
-- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
-
 - [Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
@@ -207,12 +205,6 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 ## [Schema | member data](<Schema | member data.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
-- **[Last Updated](<Last Updated.md>):** [October 15th, 2020](<October 15th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
-- [x] [September 27th, 2020](<September 27th, 2020.md>) [Jenna Dixon](<Jenna Dixon.md>)
-
-- [Jenna Dixon](<Jenna Dixon.md>)
-
 - [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [September 14th, 2020](<September 14th, 2020.md>)
@@ -233,6 +225,9 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [September 26th, 2020](<September 26th, 2020.md>)
 - Started on [Roam Gardening](<Roam Gardening.md>) and [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) [ping](<ping.md>) [Jenna Dixon](<Jenna Dixon.md>)
+
+## [Website Version History](<Website Version History.md>)
+- [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
 2. [Jenna Dixon](<Jenna Dixon.md>):

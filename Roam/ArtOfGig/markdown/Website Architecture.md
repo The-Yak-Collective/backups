@@ -2,44 +2,54 @@ About:: __Website architecture documentation.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[August 31st, 2020]] by [[Nathan Acks]]
-Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 11th, 2020]] by [[Nathan Acks]]
 Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Pages
     - `about.md`
     - `index.md`
-    - `members.html`
-    - `projects.html`
+    - `members.md`
+    - `projects.md`
+    - `now.md`
+        - A skeletal [now](https://nownownow.com/about) page; currently just lists upcoming projects and links to the "join" page.
     - `featured.xml`
         - Feed containing a single item -- today's featured member. Picked up by [[IFTTT]] and then pushed to [[Twitter]].
         - In order to ensure that we get a new featured member every day, [[IFTTT]] hits a [build hook](https://docs.netlify.com/configure-builds/build-hooks/) in [[Netlify]] once a day to force a rebuild, whether otherwise required or not.
+    - `writings.md`
     - `writings/feed.json`
         - [JSON feed](https://jsonfeed.org/) for member writings, structured after John Gruber's feed on [Daring Fireball](https://daringfireball.net/) (e.g., posts link back to the original article, and __not__ [yakcollective.org](https://www.yakcollective.org/)).
-    - `writings/feed..xml`
+    - `writings/feed.xml`
         - RSS feed, equivalent to `writings/feed.json`.
-    - `writings/index.html`
-    - `tips.html`
+    - `tips.md`
         - "Consulting tips" easter egg.
     - `join.md`
         - Wraps the Google [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform).
     - `welcome.md`
         - Welcome page; currently unused.
 # Assets
-    - `assets/dynamic/*`
-        - Member and project related assets that can be interacted with via Netlify CMS.
-    - `assets/static/*`
-        - Site-wide assets (images, CSS, etc.). Not accessible from Netlify CMS.
+    - `favicon.ico`
+        - Exists purely to keep web browsers that randomly request this file from erroring out.
+    - `css`
+        - Various style sheets.
+    - `fonts`
+        - Fonts used by the website; refer to the comments at the top of `css/fonts.source.css` for details about how to update/regenerate this directory.
+    - `functions`
+        - [Netlify Functions](https://docs.netlify.com/functions/overview/).
+    - `img`
+        - Site-wide image files.
+    - `js`
+        - JavaScript files
     - `robots.txt`
 # Site Data
+    - `_data/sequences.yml`
+        - Sequences used to group projects. Projects are counted in "days released since X".
     - `_data/slogans.yml`
         - Footer slogans.
     - `_data/tips.yml`
-        - Consulting tips used in the `tips.html` easter egg page.
-    - `_members`
-        - Member data, one person per file. Referenced by projects and posts.
-    - `_projects`
-        - Yak Collective projects.
-    - `_sequences`
-        - Sequences used to group projects. Projects are counted in "days released since X".
+        - Consulting tips used in the `tips.md` easter egg page.
+    - `members`
+        - Member data, one person per file. Member avatars (when they exist) are also stored in this directory.
+    - `projects`
+        - Yak Collective projects. See the [[How to Add a New Project to the Website]] guide.
 # Member Feeds
     - Posts in `writings/_posts` and `newsletter/_posts` are auto-pushed from member RSS feeds using [[IFTTT]] to a [Netlify Functions](https://functions.netlify.com/) hook.
     - Current feeds:
@@ -50,60 +60,87 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
         - `packages.json`
             - NPM packages used by JavaScript files in `functions`.
         - `functions/create-post.js`
-            - Netlify function that takes incoming data from [[IFTTT]] and commits a new file to the appropriate directory in the `netlify-prod` branch.
+            - [Netlify function](https://docs.netlify.com/functions/overview/) that takes incoming data from [[IFTTT]] and commits a new file to the appropriate directory in the `netlify-prod` branch.
                 - Because commits to `netlify-prod` trigger rebuilds in [[Netlify]], this causes the website to be refreshed, and the new page to show up within a minute or two.
-# Templates
+# Layouts
     - `_layouts/default.html`
         - Base layout. This isn't actually used on any pages, but is inherited by other layouts.
-    - `_layouts/member.html`
-        - Used for member pages.
-    - `_layouts/minimal.html`
-        - The most minimal layout used on `yakcollective.org`. Directly used on the site home page (`index.md`), and inherited by most other layouts (with the exception of `project.html`).
-    - `_layouts/null-layout.html`
-        - Empty layout, used for non-HTML pages (CSS files, JavaScript, etc.) that need to be processed by Jekyll.
+    - `_layouts/none.html`
+        - Empty "null" layout. Does __not__ inherit from `default.html`. Used for non-HTML pages (CSS files, JavaScript, etc.) that need to be processed by Jekyll.
     - `_layouts/page.html`
         - Normal layout for stand-alone pages.
+    - `_layouts/page-member.html`
+        - Used for member pages.
+    - `_layouts/page-project.html`
+        - Fancier formatting for pages in the `projects` collection.
+    - `_layouts/page-project-page.html`
+        - Used for project sub-pages.
+    - `_layouts/page-project-slide.html`
+        - Used for project slides.
     - `_layouts/post.html`
         - Layout for posts. Every post is assumed to have an author defined in the `members` collection.
+        - Not currently used.
+    - `_layouts/post-external.html`
+        - Layout for posts pulled in from external RSS feeds (which is all of them right now). Every post is assumed to have an author defined in the `members` collection.
         - Note that while post pages are generated as part of the build process, they are __not__ linked anywhere on the site itself. (Links that would point to them instead point to the original post on the member's website.)
-    - `_layouts/project.html`
-        - Fancier formatting for pages in the `projects` collection.
 # Shared Elements
-    - `_includes/analytics.html`
-        - Google Analytics code; included on all pages by proxy through `_layouts/default.html`.
-    - `_includes/footer.html`
-        - Page footer elements.
-    - `_includes/head.html`
-        - HTML `<head/>` elements (things like `<meta/>` tags, __not__ page headers).
-    - `_includes/page.css`
-        - CSS used for per-page customization (accent colors, hero images, etc.).
-    - `_includes/member-card.html`
-        - Reusable "member card" element, currently used in the members list, individual member pages, and in the `_layouts/post.html` template.
+    - `_includes/author-info.html`
+        - Inserts a member card and `bio_short`.
+    - `_includes/feed.json`
+        - Builds a JSON feed.
+    - `_includes/feed.xml`
+        - Builds an RSS feed.
     - `_includes/member-list.html`
-        - Takes an array of member IDs and creates an appropriate list of full member names, optionally linked.
-    - `_includes/nav.html`
-        - Page navigation elements.
-    - `_includes/project-box.html`
-        - Project card, used in the projects list and individual member pages.
-    - `_includes/post-list.html`
-        - Takes an array of Jekyll posts and generates a nice HTML list of those posts in reverse chronological order, grouped by year and month.
-    - `_includes/sequence.html`
+        - Given an array of member IDs, generates a list of member names, each of which is linked to the appropriate member page.
+    - `_includes/sequence.txt`
         - Takes the current date and a sequence ID and generates a "Day X sequence count phrase" string.
-    - `_includes/toc.html`
-        - Table of contents for `_layouts/page.html` elements. Does unreal things with Liquid. Probably black magic.
+# [[Website Widgets]]
+    - `_includes/widget-breakout-box.html`
+    - `_includes/widget-google-slides.html`
+    - `_includes/widget-iframe.html`
+    - `_includes/widget-image.html`
+    - `_includes/widget-member-card.html`
+    - `_includes/widget-post-list.md`
+    - `_includes/widget-project-box.html`
+    - `_includes/widget-project-header.html`
+    - `_includes/widget-project-page-list.html`
+    - `_includes/widget-project-slide-deck.html`
+    - `_includes/widget-slide.html`
+    - `_includes/widget-toc.md`
 # Build Infrastructure
+    - ## Templates (a.k.a. "Help Files")
+        - `template-page.md`
+            - "Generic" page template file, walking through required and optional front matter, allowed widgets, etc.
+        - `members/template-member.md`
+            - Member data file template detailing required and optional front matter.
+        - `projects/template-project.md`
+            - Project (main) page template file, walking through required and optional front matter, allowed widgets, etc.
+        - `projects/template-project/template-page.md`
+            - Project sub-page template file, walking through required and optional front matter, allowed widgets, etc.
+        - `projects/template-project/template-slide.md`
+            - Project slide template file, walking through required and optional front matter, format notes, etc..
     - ## Repo
-        - `admin/*`
-            - [Netlify CMS](https://www.netlifycms.org/).
+        - `bin/build.sh`
+            - Website build script.
+        - `bin/imgopt.sh`
+            - A helper script for resizing + optimizing images.
+        - `bin/minify`
+            - [Website minifier, written in Go.](https://github.com/tdewolff/minify/releases) When updating, grab the 64-bit Intel build.
+        - `bin/minify.LICENSE`
+        - `bin/mkfonts.sh`
+            - A script used to regenerate the `fonts` directory. Refer to the comments at the top of `css/fonts.source.css` for details about how to use this.
+        - `bin/*`
+            - Various helper scripts and applications.
         - `_config.yml`
         - `Gemfile`
         - `Gemfile.lock`
+        - `_plugins/featured-yak.rb`
+            - [Jekyll plugin](https://jekyllrb.com/docs/plugins/) that pseudo-randomly select's today's "featured yak".
+        - `README.md`
         - `_redirects`
             - Various redirects, for when we've moved pages or accidentally pushed out a bad link.
-        - `help.md`
-            - Help file used as the "landing page" for our Netlify CMS instance.
-            - Excluded from the final build.
-        - `README.md`
+        - `resources`
+            - Miscellaneous source files that aren't actually used to build the website but are useful to keep around.
         - `.gitignore`
         - `.github/workflows/*`
             - Additional build automation; currently unused and/or used in different branches.

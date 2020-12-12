@@ -24,6 +24,9 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 ## [Netlify](<Netlify.md>)
 - `WEBHOOK_TOKEN` - Random string used to authenticate [IFTTT](<IFTTT.md>).
 
+## [Schema | member data](<Schema | member data.md>)
+- Because we are moving away from [IFTTT](<IFTTT.md>),
+
 ## [Threat Model](<Threat Model.md>)
 - [IFTTT](<IFTTT.md>)
 
@@ -34,7 +37,7 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 - Posts in `writings/_posts` and `newsletter/_posts` are auto-pushed from member RSS feeds using [IFTTT](<IFTTT.md>)
 
-- Netlify function that takes incoming data from [IFTTT](<IFTTT.md>)
+- [Netlify function](https://docs.netlify.com/functions/overview/) that takes incoming data from [IFTTT](<IFTTT.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
 - [IFTTT](<IFTTT.md>)

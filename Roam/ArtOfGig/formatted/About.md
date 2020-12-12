@@ -53,12 +53,10 @@
 - **[About](<About.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)
+- Additional page wranglers: Looking for people
 - **[About](<About.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)
-- **[About](<About.md>):**
-
-## [Schema | member data](<Schema | member data.md>)
 - **[About](<About.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)

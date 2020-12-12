@@ -71,9 +71,6 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Production Cell](<Production Cell.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>) 
-- **[Last Updated](<Last Updated.md>):**
-
 - 
 - **[Last Updated](<Last Updated.md>):**
 
@@ -83,10 +80,6 @@
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
-- **[Last Updated](<Last Updated.md>):**
-
-## [Schema | member data](<Schema | member data.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
@@ -127,6 +120,10 @@
 
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
 - **[Status](<Status.md>):** {{or: Active | Complete | Early Concept | Proposal}}
+- **[Last Updated](<Last Updated.md>):**
+
+## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
+- **[Status](<Status.md>):** {{or: Complete | Active | Early Concept | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)

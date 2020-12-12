@@ -1,9 +1,6 @@
 - [Nathan Acks](<Nathan Acks.md>) updated the [IT Infrastructure](<IT Infrastructure.md>) page (and all linked pages) to fix broken references and add [template/header](<template/header.md>) (where applicable).
 
 # Backlinks
-## [Building the Website](<Building the Website.md>)
-Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
-
 ## [Carl](<Carl.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 
@@ -47,7 +44,7 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[Last Gardened](<Last Gardened.md>):** [December 7th, 2020](<December 7th, 2020.md>)
+Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>)
 
 ## [Substack](<Substack.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
@@ -61,19 +58,10 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 ## [Vultr](<Vultr.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 
-## [Website Architecture](<Website Architecture.md>)
-Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
-
-## [Website Version History](<Website Version History.md>)
-Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
-
 ## [Yak Collective Member Types](<Yak Collective Member Types.md>)
 Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>)
 
 ## [Yak Collective Robot](<Yak Collective Robot.md>)
-Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
-
-## [Yak Collective Website](<Yak Collective Website.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 
 ## [Zapier](<Zapier.md>)

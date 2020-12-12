@@ -98,6 +98,13 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
+## [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
+
 ## [IFTTT](<IFTTT.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
 
@@ -109,6 +116,13 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
 
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+
+## [IT Infrastructure and Project Security Basics](<IT Infrastructure and Project Security Basics.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 ## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
@@ -195,6 +209,13 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
+## [Website Widgets](<Website Widgets.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
+
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
+
 ## [YC Gov Chat Minutes - AMA Mike Baxter](<YC Gov Chat Minutes - AMA Mike Baxter.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
 
@@ -252,7 +273,18 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
+
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
+
+- `[Fname Lname](<Fname Lname.md>)`
+
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
+- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
+- **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
+
+## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 
 - **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)

@@ -26,10 +26,6 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
 - **[Twitter](<Twitter.md>):**
 
-## [Schema | member data](<Schema | member data.md>)
-- Example: `The Public Interest Network`
-    - **[Twitter](<Twitter.md>):**
-
 ## [Thomas Lisankie](<Thomas Lisankie.md>)
 - **[Email](<Email.md>):** hello@tomlisankie.com
 - **[Twitter](<Twitter.md>):**
