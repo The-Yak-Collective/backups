@@ -1,6 +1,7 @@
 - About:: __A place to build a group of yaks interested in helping to produce YakC work outputs.__
 - Chief Page Wrangler:: [[Jenna Dixon]]
     - Additional Page Wranglers:: [[Suwaythan Nahaganeshan]] | [[Fname Lname]] 
+- 
 -  
 - Invited::
     - [[Astonishing Stories
@@ -100,5 +101,4 @@ Native, Webflow, Carrd, Google Slides....__
     - graph TD
         - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish
 - 
-- Last Updated:: [[September 21th, 2020]]
-- Last Updated By:: [[Jenna Dixon]]
+- Last Updated:: [[September 21th, 2020]] by [[Jenna Dixon]]

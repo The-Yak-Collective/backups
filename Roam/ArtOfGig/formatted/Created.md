@@ -40,6 +40,10 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>) 
 - **[Created](<Created.md>):**
 
+## [Publishing Projects Sampler](<Publishing Projects Sampler.md>)
+- 
+- **[Created](<Created.md>):**
+
 ## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 - **[Created](<Created.md>):**
@@ -81,7 +85,7 @@
 - **[Created](<Created.md>):**
 
 ## [Yak Rover](<Yak Rover.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Anuraj R](<Anuraj R.md>) | [Fname Lname](<Fname Lname.md>)
 - **[Created](<Created.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
@@ -97,6 +101,6 @@
 - **[Created](<Created.md>):**
 
 ## [template/header](<template/header.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+- [December 12th, 2020](<December 12th, 2020.md>) move these blocks to bottom of page:
 - **[Created](<Created.md>):**
 

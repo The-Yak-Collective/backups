@@ -3,7 +3,9 @@
 - [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>) (completed April 30, 2020)
 - [The New Old Home](<The New Old Home.md>) (greenlit May, 2020)
 - [Yaks do innovation consulting](<Yaks do innovation consulting.md>) (greenlit May, 2020)
-- 
+- [Astonishing Stories](<Astonishing Stories.md>) (greenlit July 2020)
+- [Future Frontiers](<Future Frontiers.md>) (greenlit July 2020)
+- [Yak Rover](<Yak Rover.md>) (greenlit Dec, 2020)
 
 # Backlinks
 ## [Pop-Up Think Tank](<Pop-Up Think Tank.md>)

@@ -1,6 +1,7 @@
 - **[About](<About.md>):** __A place to build a group of yaks interested in helping to produce YakC work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>) 
+- 
 -  
 - **[Invited](<Invited.md>):**
     - [[Astonishing Stories
@@ -100,8 +101,7 @@ Native, Webflow, Carrd, Google Slides....__
     - graph TD
         - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish
 - 
-- **[Last Updated](<Last Updated.md>):** [September 21th, 2020](<September 21th, 2020.md>)
-- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):** [September 21th, 2020](<September 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 # Backlinks
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)

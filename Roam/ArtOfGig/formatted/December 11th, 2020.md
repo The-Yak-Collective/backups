@@ -35,5 +35,3 @@ Last Updated:: [December 11th, 2020](<December 11th, 2020.md>)
 ## [Yak Collective Website](<Yak Collective Website.md>)
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>)
 
-Last Updated:: [December 11th, 2020](<December 11th, 2020.md>)
-

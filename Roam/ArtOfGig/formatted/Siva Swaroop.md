@@ -28,10 +28,6 @@
 ## [Future Frontiers](<Future Frontiers.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  | [Jenna Dixon](<Jenna Dixon.md>) [Siva Swaroop](<Siva Swaroop.md>)
 
-- [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | section intro [Siva Swaroop](<Siva Swaroop.md>)
-
 - [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | [Siva Swaroop](<Siva Swaroop.md>)
 
 - [Recreational Space Vehicle - New Vogue ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_130) | [Siva Swaroop](<Siva Swaroop.md>)
@@ -40,11 +36,11 @@
 
 - [Satellites by and for each village](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_45_0) | [Siva Swaroop](<Siva Swaroop.md>)
 
+- [Contents](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8dc164a1ac_0_87) page 2pp [Siva Swaroop](<Siva Swaroop.md>)
+
 - [Editorial Comments](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_184) 5pp | [Siva Swaroop](<Siva Swaroop.md>)
 
-- [Title Page](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.p) [Siva Swaroop](<Siva Swaroop.md>)
-
-- [Contents](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8dc164a1ac_0_87) page 2pp [Siva Swaroop](<Siva Swaroop.md>)
+- [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | section intro [Siva Swaroop](<Siva Swaroop.md>)
 
 - This is a project proposal for July/Aug 2020 cycle by [Siva Swaroop](<Siva Swaroop.md>)
 

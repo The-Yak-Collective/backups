@@ -1,8 +1,6 @@
+- **[About](<About.md>):** The goal of the future frontiers project to create an evolving, curated set of small modules spotlighting an idea, concept, trend, or piece of design fiction relating to frontiers and exploration. 
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  | [Jenna Dixon](<Jenna Dixon.md>) [Siva Swaroop](<Siva Swaroop.md>)
-- **[Last Updated](<Last Updated.md>):** November 1, 2020
-- **[Last Updated By](<Last Updated By.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
--  The goal of the future frontiers project to create an evolving, curated set of small modules spotlighting an idea, concept, trend, or piece of design fiction relating to frontiers and exploration. 
 - Anyone can submit a contribution by adding a few slides to the [Future Frontiers Input Deck](https://docs.google.com/presentation/d/1oIziqtVM878uRG-JOfrQNvGFsQWKP_S_W8cLkhQlXvA/edit?usp=sharing) (open for read-only browsing/commenting, but you'll need to request permission to add a submission) in the prescribed format below.
 - If you need ideas, here is a [Future Frontiers Contribution Prompts](<Future Frontiers Contribution Prompts.md>) (if you'd like to see a module on some topic but don't feel like doing it yourself, feel free to add a prompt to the page above)
 - If approved by the editor (currently [Venkatesh Rao](<Venkatesh Rao.md>)) it will go into a lightweight production process (currently coordinated by [Jenna Dixon](<Jenna Dixon.md>)) and end up as a page on the [Yak Collective Website](<Yak Collective Website.md>) and featured in the newsletter
@@ -26,35 +24,21 @@
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
     - {{kanban}}
         - **Initial Contribution**
-            - [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page [Siva Swaroop](<Siva Swaroop.md>)
-            - [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | section intro [Siva Swaroop](<Siva Swaroop.md>)
-            - [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page
             - [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | [Siva Swaroop](<Siva Swaroop.md>)
-            - [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_15_6) | **[Grigori Milov](<Grigori Milov.md>)
+            - [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_15_6) | [Grigori Milov](<Grigori Milov.md>)
             - [Metaphysical frontiers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c6e0b5997_5_0) | [Varun Adibhatla](<Varun Adibhatla.md>)
-            - [Evolution of Exploration: Beyond Curiosity](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_18) | section title page
-            - [Democratized Underwater Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_177) |[Venkatesh Rao](<Venkatesh Rao.md>)
-            - [Nano Satellites](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_97) | [Kannen Ramsamy](<Kannen Ramsamy.md>)
-            - [Rush to Exploit New Frontiers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_23) | section title page
-            - [Starship ‘Gold Rush’](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_4_64)  | [Charlie Bilsland](<Charlie Bilsland.md>)
             - [2030 China - US Oceanic Race](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_34) | [Patrick Atwater](<Patrick Atwater.md>)
             - [Orbital Data Centers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_105) | [Grigori Milov](<Grigori Milov.md>)
             - [Future of Orbital Slots](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_60) | [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>)
-            - [Exploring for Leisure](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_125) | section title page
             - [Recreational Space Vehicle - New Vogue ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_130) | [Siva Swaroop](<Siva Swaroop.md>)
             - [Untarnished Underwater World](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_151) | [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>)
-            - [Glimpses of Future Lifestyle](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_165) | section title page
             - [Skills and Jobs with Space Growth](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_12_0) | [Siva Swaroop](<Siva Swaroop.md>)
-            - [Space Fashion](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8eb80a442b_14_0) | [Meredith Noelle](<Meredith Noelle.md>)
             - [Human Hibernation and Space Colonization](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86d9c7c2bb_7_0) | [Jay Kalawar](<Jay Kalawar.md>)
-            - [Billions of Miles: Keeping Young, Growing Wiser](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86d9c7c2bb_7_157) | [Jay Kalawar](<Jay Kalawar.md>)
             - [Satellites by and for each village](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_45_0) | [Siva Swaroop](<Siva Swaroop.md>)
-            - [Overview Effect - Democratize](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_19_0) | [Ryan Hogan](<Ryan Hogan.md>)
-            - [Editorial Comments](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_184) 5pp | [Siva Swaroop](<Siva Swaroop.md>)
-            - [Title Page](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.p) [Siva Swaroop](<Siva Swaroop.md>)
-            - [Contents](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8dc164a1ac_0_87) page 2pp [Siva Swaroop](<Siva Swaroop.md>)
         - **Editorial Greenlight**
             - 
+            - [Space Fashion](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8eb80a442b_14_0) | [Meredith Noelle](<Meredith Noelle.md>)
+            - [Overview Effect - Democratize](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_19_0) | [Ryan Hogan](<Ryan Hogan.md>)
         - **Copyedit**
             - ^^[Fname Lname](<Fname Lname.md>)^^
         - **Staged for Web**
@@ -62,6 +46,20 @@
         - **Proofread**
             - ^^[Nathan Acks](<Nathan Acks.md>)^^
         - **Published to Web**
+            - [Title Page](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.p) [Venkatesh Rao](<Venkatesh Rao.md>)
+            - [Contents](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8dc164a1ac_0_87) page 2pp [Siva Swaroop](<Siva Swaroop.md>)
+            - [Editorial Comments](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_184) 5pp | [Siva Swaroop](<Siva Swaroop.md>)
+            - [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page [Venkatesh Rao](<Venkatesh Rao.md>)
+            - [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page
+            - [Rush to Exploit New Frontiers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_23) | section title page
+            - [Evolution of Exploration: Beyond Curiosity](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_18) | section title page
+            - [Exploring for Leisure](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_125) | section title page
+            - [Glimpses of Future Lifestyle](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_165) | section title page
+            - [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8c4f1ef5b7_0_0) | section intro [Siva Swaroop](<Siva Swaroop.md>)
+            - [Democratized Underwater Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_177) |[Venkatesh Rao](<Venkatesh Rao.md>)
+            - [Starship ‘Gold Rush’](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_4_64)  | [Charlie Bilsland](<Charlie Bilsland.md>)
+            - [Nano Satellites](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_97) | [Kannen Ramsamy](<Kannen Ramsamy.md>)
+            - [Billions of Miles: Keeping Young, Growing Wiser](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86d9c7c2bb_7_157) | [Jay Kalawar](<Jay Kalawar.md>)
         - **Post-publication Check**
 - **Old version material** (pre reboot of September)
     - This is a project proposal for July/Aug 2020 cycle by [Siva Swaroop](<Siva Swaroop.md>) & [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -147,6 +145,9 @@ Next decade can bring more examples like this one.
                 - spacelords and tenants, or "guardians" of the galaxy?
         - [Bardia Pourvakil](<Bardia Pourvakil.md>)
             - 
+- 
+- **[Last Updated](<Last Updated.md>):** [November 1, 2020](<November 1, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 12th, 2020](<December 12th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 # Backlinks
 ## [**Final Frontiers**](<**Final Frontiers**.md>)
@@ -160,6 +161,9 @@ Next decade can bring more examples like this one.
 
 ## [Infinity Pool](<Infinity Pool.md>)
 - Currently two projects are following an infinity pool model: [Astonishing Stories](<Astonishing Stories.md>) and [Future Frontiers](<Future Frontiers.md>)
+
+## [Internal Project](<Internal Project.md>)
+- [Future Frontiers](<Future Frontiers.md>)
 
 ## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
 - We've released 4 such projects already: [Don’t Waste the Reboot](<Don’t Waste the Reboot.md>), [The New Old Home](<The New Old Home.md>), [Astonishing Stories](<Astonishing Stories.md>), [Future Frontiers](<Future Frontiers.md>)

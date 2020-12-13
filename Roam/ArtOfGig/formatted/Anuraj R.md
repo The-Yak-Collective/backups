@@ -3,6 +3,9 @@
 - 
 
 # Backlinks
+## [Project Pitches](<Project Pitches.md>)
+- **Backup Lead**: [Anuraj R](<Anuraj R.md>)
+
 ## [YC Gov Chat Minutes - Master Operating Principle](<YC Gov Chat Minutes - Master Operating Principle.md>)
 - [Anuraj R](<Anuraj R.md>)
 
@@ -11,4 +14,7 @@
 
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - [Anuraj R](<Anuraj R.md>)
+
+## [Yak Rover](<Yak Rover.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Anuraj R](<Anuraj R.md>)
 

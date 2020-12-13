@@ -1,0 +1,16 @@
+- Reference builds from other people/groups (many have public designs that can be copied)
+    - Rocker bogie drive
+        - Rocker-bogie build by Misha Cinema https://www.youtube.com/watch?v=l90EvvPsKK8
+            - 3d printer files: https://www.thingiverse.com/thing:1318414
+        - Rocker-bogie build by Navin Khambala https://www.youtube.com/watch?v=3Zx7tGtwF5g
+            - Build details https://navinkhambhala.com/rocker-bogie-robot
+        - Generative design of rocker-bogie from autodesk https://academy.autodesk.com/portfolios/generative-design-rocker-bogie-mechanism
+    - 
+- How-to guides
+    - Motor selection
+        - How to size a motor https://www.motioncontrolonline.org/content-detail.cfm/Motion-Control-News/How-to-Size-a-Motor/content_id/2236
+
+# Backlinks
+## [Yak Rover](<Yak Rover.md>)
+- [Yak Rover Reference Materials](<Yak Rover Reference Materials.md>)
+

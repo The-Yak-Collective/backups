@@ -25,9 +25,9 @@
 - That makes sense! I could imagine that with widespread monitoring, we might begin to pathologize & preempt forms of mild atrophy that are considered normal, non-pathological effects of aging on the brain too. [Chris Reid](<Chris Reid.md>)
 
 ## [Collision Forces Brainstorm](<Collision Forces Brainstorm.md>)
-[Chris Reid](<Chris Reid.md>)
-
 - "I really like the idea of anyone being able to mock up an image or direct a movie through visualization and some AI assist on details. It's like not just no-code but also no-body production" [Chris Reid](<Chris Reid.md>)
+
+[Chris Reid](<Chris Reid.md>)
 
 ## [Directory](<Directory.md>)
 - [Chris Reid](<Chris Reid.md>)

@@ -187,11 +187,13 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Future Frontiers](<Future Frontiers.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- **[Last Updated By](<Last Updated By.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
-
 - If approved by the editor (currently [Venkatesh Rao](<Venkatesh Rao.md>))
 
 - If you need to break the default format, talk to the editor [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Title Page](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.p) [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Philosophy of Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_13) | section title page [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Democratized Underwater Exploration](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_177) |[Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -210,6 +212,8 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - you might want to have a look at http://www.oecd.org/futures/ as well, Space x Oceans is quite a topic of interest for some and as [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- **[Last Updated](<Last Updated.md>):** [November 1, 2020](<November 1, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Future Frontiers Contribution Prompts](<Future Frontiers Contribution Prompts.md>)
 - This is a bunch of ideas which would make suitable contributions to the [Future Frontiers](<Future Frontiers.md>) project. Each should take 2-4 hours of thought and composition at most, to generate a few slides and text. See [the website](https://www.yakcollective.org/projects/) for already published examples. Contact [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -548,8 +552,6 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - **[Last Gardened](<Last Gardened.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
 
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - Game-in-the-head > head-in-the-game. Makes sense after a few rounds with different client types - [Venkatesh Rao](<Venkatesh Rao.md>)

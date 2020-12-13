@@ -29,27 +29,14 @@ page_text_color: black
 page_bg_color: 255,255,255
 page_headers: |
   <!-- HTML -->```
-    ## Widgets
-    
-    title: Member Template
-    You should _not_ use any widgets on member data pages, as these are intended to be informational, rather than expressive.
-    date: 2020-12-09 00:00:00
-    --
 # Formatting Notes
     - Be aware that if the __value__ of your front matter attribute contains a `:`, `&`, or `#`, then you __must__ either surround it in double quotes (`"`) __or__ use a `|` character, followed by a line break, and then with subsequent lines (until the next front matter attribute or the closing `---`) indented by __two__ spaces. So something like this
         - ```yaml
 title: "My #1 Page Title: Now With Two Unsafe Characters!"```
-    - ```yaml
-    - title: "My #1 Page Title: Now With Two Unsafe Characters!"
-    - ```yaml
-    - ```
-    - title: |
-        - My #1 Page Title: Now With Two Unsafe Characters!
     - is equivalent to
         - ```yaml
 title: |
   My #1 Page Title: Now With Two Unsafe Characters!```
-    - ```
     - In general, you should use quotes for shorter, single line values. Use the "`|` + indent" syntax for longer values, or when you need to use multiple lines.
     - For more information about the ins-and-outs of page front matter, refer to [Jekyll's documentation](https://jekyllrb.com/docs/front-matter/) and the [YAML specification](https://yaml.org/spec/1.2/spec.html).
 # Required Attributes
@@ -83,13 +70,6 @@ links:
     url: https://www.yakcollective.org/
   - title: Newsletter
     url: https://yakcollective.substack.com/```
-        - ```yaml
-        - links:
-            - title: Website
-                - url: https://www.yakcollective.org/
-            - title: Newsletter
-                - url: https://yakcollective.substack.com/
-        - ```
         - This would produce the following final line of `widget-member-card`:
             - > [Website](https://www.yakcollective.org/) / [Newsletter](https://yakcollective.substack.com/)
     - ## rss
@@ -123,7 +103,6 @@ rss:
     - ## page_headers
         - An attribute for advanced users; anything included here will be inserted verbatim at the end of the page's HTML `<head/>`. Use this to specify additional CSS or JavaScript. Because this attribute expects raw HTML, you definitely want to use the "`|` + indent" syntax.
         - Be aware that it's very easy to break the corresponding member page if you don't know what you're doing with this attribute!
-The following _optional_ front matter attributes are supported for generic pages.
 # Examples as of [[December 11th, 2020]]
     - https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/members/peacock-jordan.md
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FinXUHxTeB6.png?alt=media&token=aa3784b3-ca84-4c44-8040-61374db640bb)
@@ -140,7 +119,6 @@ links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/hewhocutsdown/
 ---```
-```yaml
 # Current Members as of [[August 31st, 2020]]
     - Yak Collective members have contributed to one or more projects.
         - [   Alex Dobrenko Improviser / Writer / Filmmaker Indie status: 5+ years Previously: Distance / UCB / Funny or Die  alexdobrenko.com    @Dobrenkz  ](https://www.yakcollective.org/members/alex-dobrenko/)
@@ -177,22 +155,3 @@ links:
         - [   Shreeda Segan Design Thinker & Writer  Substack / Portfolio    @freeshreeda  ](https://www.yakcollective.org/members/shreeda-segan/)
         - [   Thomas Hollands Writing and Strategy Currently: L.E.K. Consulting Previously: Barclays & UCL  blog / LinkedIn    @tdoggyholhol  ](https://www.yakcollective.org/members/thomas-hollands/)
         - [   Toby Shorin Previously: Other Internet  tobyshorin.com   ](https://www.yakcollective.org/members/toby-shorin/)
-indie_status: 10 years
-tagline: Just a template, showing people how it's done
-previously: A todo item in Roam
-currently: A file in GitHub
-avatar: /members/template-member.jpg
-twitter: yak_collective
-links:
-    - title: Website
-        - url: https://www.yakcollective.org/
-    - title: Newsletter
-        - url: https://yakcollective.substack.com/
-bio_short: |
-    - I'm a template file that exists to demonstrate how to construct a member data file.
-page_text_color: black
-page_bg_color: 255,255,255
-page_headers: |
-    - <!-- HTML -->
-```
-Each of these header attributes is described in more detail in the following sections.

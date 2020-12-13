@@ -1,9 +1,23 @@
 - About:: __XXX__
-- Chief Page Wrangler:: `[[Fname Lname]]`
-    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+- Chief Page Wrangler: `[[Fname Lname]]`
+    - Additional Page Wranglers: `[[Fname Lname]]` | `[[Fname Lname]]`
+- Page Type: {{or: #Project | #tk1 | #tk2 }}
+- Status: {{or: Early Concept | Active | Proposal | Complete}} || or Current State: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- 
+- 
+- [[December 12th, 2020]] move these blocks to bottom of page:
 - Created:: `/Today` by `[[Fname Lname]]`
-- Page Type:: {{or: #Project | #tk1 | #tk2 }}
-- Status:: {{or: Early Concept | Active | Proposal | Complete}}
-- Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
 - Last Updated:: `/Today` by `[[Fname Lname]]`
 - Last Gardened:: `/Today` by `[[Fname Lname]]`
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Last Edited:: [[December 12th, 2020]] by [[Jenna Dixon]]

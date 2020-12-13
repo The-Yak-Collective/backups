@@ -269,22 +269,11 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 ## [Yak Collective Website](<Yak Collective Website.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
 
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
-
-Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
-
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
-
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 
 - `[Fname Lname](<Fname Lname.md>)`
 
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
-- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
-
-- **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
-
-## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 
 - **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
@@ -352,9 +341,7 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - [Fname Lname](<Fname Lname.md>)
 
 ## [Yak Rover](<Yak Rover.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>)
-
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Fname Lname](<Fname Lname.md>) | [Fname Lname](<Fname Lname.md>)
+- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Anuraj R](<Anuraj R.md>) | [Fname Lname](<Fname Lname.md>)
 
 ## [Zapier](<Zapier.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
@@ -378,11 +365,11 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - **[Last Gardened](<Last Gardened.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 
 ## [template/header](<template/header.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** `[Fname Lname](<Fname Lname.md>)`
+- Chief Page Wrangler: `[Fname Lname](<Fname Lname.md>)`
 
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
+- Additional Page Wranglers: `[Fname Lname](<Fname Lname.md>)`
 
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+- Additional Page Wranglers: `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 
 - **[Created](<Created.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
 

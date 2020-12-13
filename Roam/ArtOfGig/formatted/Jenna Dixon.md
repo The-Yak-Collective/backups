@@ -96,6 +96,8 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
 
 - [x] [Jenna Dixon](<Jenna Dixon.md>)
 
+- **[Last Gardened](<Last Gardened.md>):** [December 12th, 2020](<December 12th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
 ## [IT Infrastructure](<IT Infrastructure.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
@@ -173,7 +175,7 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 
-- **[Last Updated By](<Last Updated By.md>):** [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):** [September 21th, 2020](<September 21th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
 Consult [Jenna Dixon](<Jenna Dixon.md>)
@@ -189,7 +191,7 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Publishing Projects Sampler](<Publishing Projects Sampler.md>)
--  [August 4th, 2020](<August 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Created](<Created.md>):** [August 4th, 2020](<August 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
@@ -292,4 +294,7 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Last Updated](<Last Updated.md>):** [October 6th, 2020](<October 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+## [template/header](<template/header.md>)
+- **[Last Edited](<Last Edited.md>):** [December 12th, 2020](<December 12th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 

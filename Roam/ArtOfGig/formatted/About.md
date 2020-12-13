@@ -37,6 +37,9 @@
 ## [Foundations - Positioning](<Foundations - Positioning.md>)
 - **[About](<About.md>):**
 
+## [Future Frontiers](<Future Frontiers.md>)
+- **[About](<About.md>):**
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[About](<About.md>):**
 
@@ -53,7 +56,9 @@
 - **[About](<About.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)
-- Additional page wranglers: Looking for people
+- **[About](<About.md>):**
+
+## [Publishing Projects Sampler](<Publishing Projects Sampler.md>)
 - **[About](<About.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)

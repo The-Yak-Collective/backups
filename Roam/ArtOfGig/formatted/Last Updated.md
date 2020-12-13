@@ -47,7 +47,7 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Future Frontiers](<Future Frontiers.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  | [Jenna Dixon](<Jenna Dixon.md>) [Siva Swaroop](<Siva Swaroop.md>)
+- 
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Infrastructure](<Infrastructure.md>)
@@ -122,10 +122,6 @@
 - **[Status](<Status.md>):** {{or: Active | Complete | Early Concept | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
 
-## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
-- **[Status](<Status.md>):** {{or: Complete | Active | Early Concept | Proposal}}
-- **[Last Updated](<Last Updated.md>):**
-
 ## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)
 - **[Status](<Status.md>):** {{or: Complete | Active | Early Concept | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
@@ -139,7 +135,7 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Yak Rover](<Yak Rover.md>)
-- **[Current State](<Current State.md>):** {{or: Proposed | Draft | Started | Stalled | Live | Finished | Abandoned}}
+- **[Current State](<Current State.md>):** {{or: Started | Proposed | Draft | Stalled | Live | Finished | Abandoned}}
 - **[Last Updated](<Last Updated.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
@@ -155,6 +151,6 @@
 - **[Last Updated](<Last Updated.md>):**
 
 ## [template/header](<template/header.md>)
-- **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- **[Created](<Created.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - **[Last Updated](<Last Updated.md>):**
 

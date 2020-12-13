@@ -1,12 +1,15 @@
 - About:: __A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
-    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
+    - Additional Page Wranglers:: [[Anuraj R]] | [[Fname Lname]]
 - Created:: [[November 18th, 2020]] by [[Venkatesh Rao]]
 - Page Type:: {{or: #Project | #tk1 | #tk2 }}
-- Status:: {{or: Proposal | Early Concept | Active | Complete}}
-- Current State:: {{or: Proposed | Draft | Started | Stalled | Live | Finished | Abandoned}}
+- Status:: {{or: Active | Proposal | Early Concept | Complete}}
+- Current State:: {{or: Started | Proposed | Draft | Stalled | Live | Finished | Abandoned}}
 - Last Updated:: [[December 9th, 2020]] by [[Venkatesh Rao]]
 - Last Gardened:: [[December 9th, 2020]] by [[Venkatesh Rao]]
+- [[Procurement Directory]]
+- [[Yak Rover Reference Materials]]
+- [[Yak Rover 2021 Builds]]
 - **Overview**
     - **WHAT:** Yak Rover is a long-term Yak Collective [open-source hardware project](https://en.wikipedia.org/wiki/Open-source_hardware) to design and build a series of rovers culminating in a deployable Mars Rover by 2030 (ideally one major design iteration per year, starting with experimental versions in Year 1 designated X, Y etc., and culminating in Yak Rover 9 is Mars-capable). 
     - **WHY:** The goal is to have fun pursuing a meaningful long-term project, while collectively developing skills and insights that will be valuable for consulting and gigs in a growth industry (driverless vehicles and autonomous robotics here on Earth). 
@@ -46,8 +49,6 @@
     - While people with meta skills like project management/architecture or adjacent skills like science communications are welcome, the core is hands-on contributions.
 - **Year 2 (2022) Plan**
     - Year 2 will be devoted to refining and building the converged design from the end of Year 1. The YE milestone will be a field test.
-- The end-goal for Year 1 is a converged design based on our shared parallel design and building experiments that we will try to build in Year 2.
-- Project lead: [[Venkatesh Rao]]: In another life I was an aerospace engineer, and my phd/postdoc were all related to space stuff, ground robots etc. My own relevant research was on mapping and path planning, and I probably know enough to do the basic mechanical and control design for a rover. What I'd need support on is electronics design, software, etc.
 - **Years 3-10 Roadmap**
     - To be fleshed out obviously, but the goal would be to get to increasing levels of capability, cost, and external financing, and building out of the "friends of the project" network to the point that we have a realistic chance of actually getting a seat on a rocket going somewhere interesting.
 - **Scratch (the following sections of the project page are under development)**
@@ -107,14 +108,3 @@
             - Basic path planning and navigation
             - API-controlled payload ops
             - etc.
-- Phase 1: [[Yak One Design Sketchbook]]: A Da Vinci style notebook of sketches by March 31
-- Phase 2: Top down detail design with subsystem dependecies consensus. Output is specs for rover by June 30
-- Phase 3: All subsystem designs for collective review by sept 30-output is set of subsystem design docs
-- Phase 4: Integrated system design docs by Dec 31. These should be enough to at least get started on actually building a rover, even if some details are TBD due to testing/experimental needs.
-- Roles needed
-    - Electronics design (RPi, Arduino, special chips/boards, sensor/actuator circuitry)
-    - Procurement (somebody to centrally buy and ship stuff to people who need hardware to work with)
-    - Software architect
-- The initial prototype will be a small (think toy-scale but not a toy) rover that could be built from 3d printed parts and controlled by an RPi or similar, with fairly minimal payload etc.
-- If we pull this off, it will be the first milestone of the [[YC Space Program]]
-- Budget/funding: I think we can do all the design using free/open source tools. Fabricating a prototype (a stretch goal) would likely cost $1000 or so. I (Venkat) will commit to funding a minimum viable prototype if we get the design that far along. So basic electronics/electrical components, fabrication of the chassis and other mechanical elements, paying for basic accounts (for Starlink for eg)

@@ -47,6 +47,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Future Frontiers](<Future Frontiers.md>)
+- **[About](<About.md>):** The goal of the future frontiers project to create an evolving, curated set of small modules spotlighting an idea, concept, trend, or piece of design fiction relating to frontiers and exploration. 
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Hugo Macedo](<Hugo Macedo.md>)
@@ -84,7 +85,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)
-- foo
+See "Notes::" for additional details.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)
@@ -165,9 +166,5 @@
 
 ## [template/govchat](<template/govchat.md>)
 - **[About](<About.md>):** __notes from weekly governance call__
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
-
-## [template/header](<template/header.md>)
-- **[About](<About.md>):** __XXX__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 

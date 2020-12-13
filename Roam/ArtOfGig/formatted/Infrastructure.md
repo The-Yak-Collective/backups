@@ -24,7 +24,7 @@ suggest most recent note left untwirled for easy review to visitors__
             - Hopin
             - Ice-breaker.video 
         - Amorphous organizations article from [Vaughn Tan](<Vaughn Tan.md>)
-        - 2jplEZUYM
+        - ((2jplEZUYM))
         - 
 - ## Infrastructure Chat Notes
 - infrastructure chat 30 [December 6th, 2020](<December 6th, 2020.md>)

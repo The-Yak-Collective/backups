@@ -28,6 +28,10 @@
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [Future Frontiers](<Future Frontiers.md>)
+- **[Last Updated](<Last Updated.md>):** [November 1, 2020](<November 1, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):**
@@ -65,10 +69,6 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
-- **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
-- **[Last Gardened](<Last Gardened.md>):**
-
-## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
 - **[Last Updated](<Last Updated.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 

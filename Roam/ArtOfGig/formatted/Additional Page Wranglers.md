@@ -227,12 +227,6 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
-
-Chief Page Wrangler:: [Maier Fenster](<Maier Fenster.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
-
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
@@ -251,9 +245,5 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
-
-## [template/header](<template/header.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** `[Fname Lname](<Fname Lname.md>)`
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 

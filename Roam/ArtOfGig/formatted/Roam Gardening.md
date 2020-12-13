@@ -3,7 +3,7 @@
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 - **[Last Updated](<Last Updated.md>):** [September 26th, 2020](<September 26th, 2020.md>)
 - **[Last Updated By](<Last Updated By.md>):** [Hugo Macedo](<Hugo Macedo.md>)  
-- **[related to: [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) ("About](<related to: [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) ("About.md>):** Defines our agreed conventions on how to use Roam")
+- related to: [YC Roam Style Guide (TBD)](<YC Roam Style Guide (TBD).md>) (((CqtNg4jN_)))
 - 
 - # Gardening principles 
     - Pages

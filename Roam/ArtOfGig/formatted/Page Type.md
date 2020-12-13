@@ -60,7 +60,3 @@
 - **[Created](<Created.md>):** `/today` by [Fname Lname](<Fname Lname.md>)
 - **[Page Type](<Page Type.md>):**
 
-## [template/header](<template/header.md>)
-- **[Created](<Created.md>):** `/Today` by `[Fname Lname](<Fname Lname.md>)`
-- **[Page Type](<Page Type.md>):**
-

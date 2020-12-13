@@ -422,10 +422,6 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 ## [Yak Collective Website](<Yak Collective Website.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)

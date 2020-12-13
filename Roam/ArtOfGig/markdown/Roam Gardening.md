@@ -3,7 +3,7 @@
     - Additional Page Wranglers:: [[Hugo Macedo]]
 - Last Updated:: [[September 26th, 2020]]
 - Last Updated By:: [[Hugo Macedo]]  
-- related to: [[YC Roam Style Guide (TBD)]] ("About:: Defines our agreed conventions on how to use Roam")
+- related to: [[YC Roam Style Guide (TBD)]] (((CqtNg4jN_)))
 - 
 - # Gardening principles 
     - Pages

@@ -1,10 +1,9 @@
-- foo
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
-    - Additional page wranglers: Looking for people
 - **[About](<About.md>):** Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>) newsletter, and potentially some marketing activity from the [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) team. 
 So **please stick to the pro-forma.** 
 You propose projects by adding a proposal block in the "**Projects List**" section. 
 See "Notes::" for additional details.
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - Additional page wranglers: Looking for people
 - 
 - **[TO PROPOSE A PROJECT](<TO PROPOSE A PROJECT.md>):**
     - Copy the metadata template block below for **Sample Project**, paste it at the TOP of the "**Projects List**" section just below it, and populate it.  The __%% italicized text__ is help-comments you can **delete. At minimum, you will need to have identified a backup lead name before the proposal is considered "proposed", otherwise it is draft.**
@@ -12,7 +11,7 @@ See "Notes::" for additional details.
     - Populate the project's own page as you see fit.
     - Propose a Discord channel, share your project's page in it once it is created, and invite people to join the channel as either potential participants or interested supporters/watchers. You may have to go actively recruiting.
     - Show up at a [Yak Collective Governance](<Yak Collective Governance.md>) chat (Friday mornings 9 AM Pacific) to live-pitch your project informally to people. We'll be starting a section of the chat for that. 
-    - If you have critical mass by your launch date, your project status will shift to **Started** and things may start to automatically happen, like a page appearing on the website, an announcement in the newsletter etc.
+    - If you decide you have critical mass by your launch date, your project status will shift to **Started** and things may start to automatically happen, like a page appearing on the website, an announcement in the newsletter etc.
 - [Sample Project](<Sample Project.md>): Brief 1-2 sentence pitch/blurb.
     -  %% __Project name should be a short phrase that should link to a detail page which you are free to structure as you see fit (click sample project page link for ideas). The 1-2 sentence pitch blurb should be a succinct summary of the idea that can also serve as placeholder text for the webpage that will be automatically created__
     - **[Current State](<Current State.md>):** {{or: Proposed | Draft | Started | Stalled | Live | Finished | Abandoned}}
@@ -117,10 +116,10 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
             - Could pursue sponsorship, but happy doing this out of my own time too
         - **Comments** Right now the idea space in terms of fixing US healthcare for gig workers is essentially Aspen Institute "portable benefits" programs which really don't solve the problem they claim to solve or California "turn everyone into full-time employees" fixes that are stuck in the 20th century rather than any real attempt at trying to find something that works.
     - [Yak Rover](<Yak Rover.md>): A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.
-        - **[Current State](<Current State.md>):** {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+        - **[Current State](<Current State.md>):** {{or: Started | Draft | Proposed | Stalled | Live | Finished | Abandoned}}
         - **Core Team** (minimum 2, maximum 4) 
             - **[Project Lead](<Project Lead.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
-            - **Backup Lead**: TBD. Would like somebody good at electronics design.
+            - **Backup Lead**: [Anuraj R](<Anuraj R.md>)
             - **Optional**: Would like somebody good at systems software.
             - **Optional**: Would like somebody good at simulations and maps
         - **[Additional Members](<Additional Members.md>):** We are actually going to try and make an open-source design that anyone can use to actually build a small rover. So mainly looking for people with appropriate engineering/making skills in mechanical design, electrical/electronic design, system software, controls, sensors, navigation etc. etc. 

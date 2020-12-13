@@ -77,7 +77,7 @@
         - "ranking and search"
         - "user interface design"
         - "data platform"
-        - QwLTzHgCQ
+        - ((QwLTzHgCQ))
     - "Past ad seller: Twitter"
     - "Attempted startup founder: concept was variable pricing for restaurants through discounting "
     - "Evolved investment consultant: analyzed money managers for institutional investors"

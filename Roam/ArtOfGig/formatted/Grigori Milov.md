@@ -79,7 +79,7 @@
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**  [Grigori Milov](<Grigori Milov.md>)
 
 ## [Future Frontiers](<Future Frontiers.md>)
-- [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_15_6) | **[Grigori Milov](<Grigori Milov.md>)
+- [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g8cac20a276_15_6) | [Grigori Milov](<Grigori Milov.md>)
 
 - [Orbital Data Centers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1[slide](<slide.md>)=id.g86ae70180b_36_105) | [Grigori Milov](<Grigori Milov.md>)
 

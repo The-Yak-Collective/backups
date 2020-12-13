@@ -21,10 +21,6 @@
 - **[Current State](<Current State.md>):**
 
 ## [Yak Rover](<Yak Rover.md>)
-- **[Status](<Status.md>):** {{or: Proposal | Early Concept | Active | Complete}}
-- **[Current State](<Current State.md>):**
-
-## [template/header](<template/header.md>)
-- **[Status](<Status.md>):** {{or: Early Concept | Active | Proposal | Complete}}
+- **[Status](<Status.md>):** {{or: Active | Proposal | Early Concept | Complete}}
 - **[Current State](<Current State.md>):**
 
