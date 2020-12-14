@@ -1,7 +1,9 @@
 About:: __Every collective needs a website. This is ours. It isn't much to look at, but it gets the job done.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)`
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 13th, 2020](<December 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 Page Type:: [Project](<Project.md>)
 Status:: {{or: Active | Early Concept | Proposal | Complete}}
 Current State:: 
@@ -17,19 +19,20 @@ Meta::
     - **[Deliverable](<Deliverable.md>):** https://www.yakcollective.org/
     - **[Referees](<Referees.md>):** [Maier Fenster](<Maier Fenster.md>)
     - **[Project Lead](<Project Lead.md>):** [Nathan Acks](<Nathan Acks.md>)
-    - **[Collaborators](<Collaborators.md>):**
-        - `[Fname Lname](<Fname Lname.md>)`
-    - **[Intended Audience](<Intended Audience.md>):**
-        - Potential clients
-        - Folks interested in engaging or joining the Yak Collective
     - **[Relevant Documents and Files](<Relevant Documents and Files.md>):**
         - [Website Architecture](<Website Architecture.md>)
             - [Website Widgets](<Website Widgets.md>)
             - [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
         - [Contributing to the Website](<Contributing to the Website.md>)
             - [Code Style Guide](<Code Style Guide.md>)
+            - [IT Infrastructure and Project Security Basics](<IT Infrastructure and Project Security Basics.md>)
             - [Building the Website](<Building the Website.md>)
         - [Website Version History](<Website Version History.md>)
+    - **[Collaborators](<Collaborators.md>):**
+        - `[Fname Lname](<Fname Lname.md>)`
+    - **[Intended Audience](<Intended Audience.md>):**
+        - Potential clients
+        - Folks interested in engaging or joining the Yak Collective
 Current Plan::
     - [x] Update the [Yak Collective Website](<Yak Collective Website.md>) documentation
     - [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
@@ -45,6 +48,12 @@ Current Plan::
 
 ## [Code Style Guide](<Code Style Guide.md>)
 - For the [Yak Collective Website](<Yak Collective Website.md>),
+
+## [December 11th, 2020](<December 11th, 2020.md>)
+- Turned the [Yak Collective Website](<Yak Collective Website.md>)
+
+## [December 13th, 2020](<December 13th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) cleaned up the [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Frederic Laloux](<Frederic Laloux.md>)
 - **[Yak Collective Website](<Yak Collective Website.md>):**
@@ -93,11 +102,11 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 - "[ ] Migrate [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [Netlify](<Netlify.md>)
+- The [Yak Collective Website](<Yak Collective Website.md>)
+
+- The [Yak Collective Website](<Yak Collective Website.md>)
+
 - Provides the build environment for the [Yak Collective Website](<Yak Collective Website.md>)
-
-- The [Yak Collective Website](<Yak Collective Website.md>)
-
-- The [Yak Collective Website](<Yak Collective Website.md>)
 
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)

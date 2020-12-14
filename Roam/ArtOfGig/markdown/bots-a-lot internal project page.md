@@ -5,6 +5,7 @@
 - Created:: [[December 6th, 2020]] by [[Maier Fenster]]
 - Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
+- license:: {{or:MIT | CC 2.0}}
 - Jobs and ways to contribute::
     - jobs::
         - bot designer::
@@ -46,6 +47,7 @@
         - Value for YC::
             - better automation and usability
             - maybe other discord groups will want to copy
+    - Help wanted::
     - Meeting minutes::
     - Relevant files and drafts (Graph or website or google docs)::
     - Genesis::
@@ -78,6 +80,8 @@
         - maintain a reading list (or other list) per channel
     - starbot (idea)::
         - mirror starred messages to a special channel (see [Jenna's message](https://discordapp.com/channels/692111190851059762/705512721847681035/785859125422587954) and [Venkat's first](https://discordapp.com/channels/692111190851059762/705512721847681035/785957836915081300) and [second response](https://discordapp.com/channels/692111190851059762/705512721847681035/785957870084030494))
+    - bugbot (idea)::
+        - simple list of bugs and suggestions
 - 
 - 
 - Last Updated:: [[December 9th, 2020]] by [[Maier Fenster]]

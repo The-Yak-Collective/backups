@@ -1,9 +1,10 @@
 About:: __Website version history.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # v2.4
     - [Nathan Acks](<Nathan Acks.md>)
         - Added "template" help files explaining required vs. optional front matter, allowed widgets on each page, etc.
@@ -15,6 +16,7 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
         - Bug fixes
     - [Jenna Dixon](<Jenna Dixon.md>)
         - Updated yak logo.
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 # v2.3
     - [Nathan Acks](<Nathan Acks.md>)
         - "Astonishing Stories" project layout.
@@ -93,6 +95,9 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
         - Initial site. Uses [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/).
 
 # Backlinks
+## [December 11th, 2020](<December 11th, 2020.md>)
+- Updated [Website Version History](<Website Version History.md>)
+
 ## [Yak Collective Website](<Yak Collective Website.md>)
 - [Website Version History](<Website Version History.md>)
 

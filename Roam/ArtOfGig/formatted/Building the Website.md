@@ -1,6 +1,8 @@
 About:: __How do I build the Yak Collective website?__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Created:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
@@ -65,6 +67,9 @@ bundle install```
 # Backlinks
 ## [Contributing to the Website](<Contributing to the Website.md>)
 - [Building the Website](<Building the Website.md>)
+
+## [December 11th, 2020](<December 11th, 2020.md>)
+- Updated [Building the Website](<Building the Website.md>)
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - See [Building the Website](<Building the Website.md>)

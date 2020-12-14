@@ -13,6 +13,6 @@
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- **[Status](<Status.md>):** {{or: Active | Early Concept | Proposal | Complete}}
+- **[license](<license.md>):** {{or:MIT | CC 2.0}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
 

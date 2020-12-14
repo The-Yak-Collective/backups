@@ -5,6 +5,7 @@
 - **[Created](<Created.md>):** [December 6th, 2020](<December 6th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
 - **[Vote](<Vote.md>):** ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - **[Status](<Status.md>):** {{or: Active | Early Concept | Proposal | Complete}}
+- **[license](<license.md>):** {{or:MIT | CC 2.0}}
 - **[Jobs and ways to contribute](<Jobs and ways to contribute.md>):**
     - **[jobs](<jobs.md>):**
         - **[bot designer](<bot designer.md>):**
@@ -46,6 +47,7 @@
         - **[Value for YC](<Value for YC.md>):**
             - better automation and usability
             - maybe other discord groups will want to copy
+    - **[Help wanted](<Help wanted.md>):**
     - **[Meeting minutes](<Meeting minutes.md>):**
     - **[Relevant files and drafts (Graph or website or google docs)](<Relevant files and drafts (Graph or website or google docs).md>):**
     - **[Genesis](<Genesis.md>):**
@@ -78,6 +80,8 @@
         - maintain a reading list (or other list) per channel
     - **[starbot (idea)](<starbot (idea).md>):**
         - mirror starred messages to a special channel (see [Jenna's message](https://discordapp.com/channels/692111190851059762/705512721847681035/785859125422587954) and [Venkat's first](https://discordapp.com/channels/692111190851059762/705512721847681035/785957836915081300) and [second response](https://discordapp.com/channels/692111190851059762/705512721847681035/785957870084030494))
+    - **[bugbot (idea)](<bugbot (idea).md>):**
+        - simple list of bugs and suggestions
 - 
 - 
 - **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)

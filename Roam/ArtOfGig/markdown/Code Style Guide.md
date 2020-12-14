@@ -1,6 +1,8 @@
 About:: __Style guide for coding the Yak Collective website (and, ideally, other projects like Discord bots).__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+last updated:: [[September 9th, 2020]] by [[Nathan Acks]]
+Chief Page Wrangler:: [[Nathan Acks]]
 Created:: [[August 31st, 2020]] by [[Nathan Acks]]
 Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
 Last Gardened:: `/Today` by `[[Fname Lname]]`

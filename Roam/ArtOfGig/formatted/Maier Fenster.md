@@ -86,6 +86,8 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
 - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>)
+
 - **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>) [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>):
@@ -207,11 +209,11 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
 - **[Additional Members](<Additional Members.md>):** // [Maier Fenster](<Maier Fenster.md>)&
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
+[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
 
 - **yak orbit**: (display only) will reflect how member-like the yak is, generally, but not exactly corresponding to yak..member scale [Maier Fenster](<Maier Fenster.md>)
 
-- [Maier Fenster](<Maier Fenster.md>)y
+- [Maier Fenster](<Maier Fenster.md>)
 
 - **password**: [Maier Fenster](<Maier Fenster.md>)
 

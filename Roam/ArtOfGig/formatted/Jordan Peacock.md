@@ -108,7 +108,7 @@ marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [
 - piece_17_lname [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
+[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>) [Jordan Peacock](<Jordan Peacock.md>)
@@ -136,6 +136,8 @@ marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [
 - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
 
 ## [Twitter](<Twitter.md>)
+Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
+
 Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
 
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)

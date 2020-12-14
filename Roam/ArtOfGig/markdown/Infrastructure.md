@@ -27,6 +27,36 @@ suggest most recent note left untwirled for easy review to visitors__
         - ((2jplEZUYM))
         - 
 - ## Infrastructure Chat Notes
+- infrastructure chat 31 [[December 13th, 2020]]
+    - participants:: [[Maier Fenster]] [[Erik Sandberg]] [[Darren Kong]]
+    - location:: https://meet.google.com/zfc-qhjy-oey
+    - **Agenda**
+        1. Discussion of consistent open-source licensing policy for Yak Collective content (member contributed and 3rd party used).
+        2. Financial governance/spending process.
+    - **Meeting Notes**
+        - Maier's going to talk to Praful about how to apply bots to the newsletter.
+        - Praful and Maier are also thinking through Tom Critchlow's "thinking in public".
+        - Nathan need to fix the infrastructure diagram: The "Calendar Yak" is using the Google Calendar API, rather than Gmail
+        - Maier thinks that project licensing is more of a governance issue.
+            - There's two issues here... Entire projects vs. individual content.
+        - Maier is fond of MIT licensing for code. Nathan agrees.
+        - We probably need to have per-project licensing.
+            - Should be easy enough to include a licensing attribute to pages/projects on the Yak Collective website
+                - We should probably also add a licensing field to the Yak Collective project template in Roam
+            - We should ping Discord about whether the current agenda items make sense for the "infrastructure" channel
+                - Darren points out that governance should make a decision, and then infrastructure should implement
+        - Darren wonders how we want to run an eCommerce store.
+            - Nathan has experience with Shopify and thinks that we should use something like this rather than integrating anything into the website.
+            - Erik points out that you need a business account to use Shopify, so there's governance issues here too.
+            - Maier points out that Shreeda was asking if it makes sense to run a Kickstarter for Venkat's "quadrology" card game idea.
+                - Darren had a similar idea, but was thinking of running it through their own personal LLC.
+                - Erik seems a little wary about doing this without some sort of more formal bank account structure, etc.
+            - Maier wonders if we can be more of a "storefront" where individual projects were hosted.
+            - Nathan thinks that there are two parts to what we're thinking of:
+                - Website implementation. Widget + some front matter.
+                - Accounting. Probably needs to be a Google Sheet, rather than done in Roam.
+            - Erik points out that we need to think through expectations (more governance). There may be automation/APIs we could leverage here. Lots of "what do the users need" kind of questions.
+        - Lots of conversation about a project involving creating an [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)-like card game
 - infrastructure chat 30 [[December 6th, 2020]]
     - #[[YC Annual Meeting 2020]]
     - not everyone has agreed speak (or even knows?)

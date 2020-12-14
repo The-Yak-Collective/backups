@@ -9,7 +9,7 @@
 - **[Attending](<Attending.md>):**
 
 ## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
-- What are the alternative ways to solve the same problem and how do they compare with the ecosystem approach?
+- ![](https://web-assets.bcg.com/dims4/default/bf98fa1/2147483647/strip/true/crop/2480x1907+0+0/resize/2880x2214!/format/webp/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F12%2Fac%2F0a8d6d1efb9cc208102becc95798%2Fdo-you-need-a-business-ecosystem-ex02-tcm9-230280.png)
 - **[Attending](<Attending.md>):**
 
 ## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)

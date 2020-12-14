@@ -205,7 +205,7 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 - created [August 5th, 2020](<August 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
 

@@ -36,6 +36,8 @@
 
 - **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
 
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Erik Sandberg](<Erik Sandberg.md>) [Darren Kong](<Darren Kong.md>)
+
 - [Darren Kong](<Darren Kong.md>)'
 
 - **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>)

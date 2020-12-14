@@ -1,6 +1,9 @@
 
 # Backlinks
 ## [Infrastructure](<Infrastructure.md>)
+- infrastructure chat 31 [December 13th, 2020](<December 13th, 2020.md>)
+    - **[participants](<participants.md>):**
+
 - [Nathan Acks](<Nathan Acks.md>)'s notes
         - **[participants](<participants.md>):**
 

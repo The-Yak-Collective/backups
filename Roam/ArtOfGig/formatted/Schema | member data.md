@@ -1,6 +1,7 @@
 About:: __Map of fields in Knack member database.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
+[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Member data files are formally this is just a special kind of page. However, we treat the corresponding `.md` files more like a data structure that is then referenced in many other pages. Because of this, the most important part of these files is the front matter -- most member data files don't even have any content beyond that.
@@ -85,14 +86,14 @@ rss:
             - [Nathan Acks](<Nathan Acks.md>) In Knack, set to a URL field with no link text.
     - ## yak_orbit
         - **yak orbit**: (display only) will reflect how member-like the yak is, generally, but not exactly corresponding to yak..member scale [Maier Fenster](<Maier Fenster.md>)
-        - [Maier Fenster](<Maier Fenster.md>)yak-map items seem missing, i would assume: 'yak map opt in', 'domain1','domain2','freetextdomain'
+        - [Maier Fenster](<Maier Fenster.md>) yak-map items seem missing, i would assume: 'yak map opt in', 'domain1','domain2','freetextdomain'
     - ## password
         - **password**: [Maier Fenster](<Maier Fenster.md>) (display to admin and user only) we need to store this somewhere, no?
         - [Nathan Acks](<Nathan Acks.md>) Obviously, we __shouldn't__ port this into Jekyll during build.
     - ## bio_short
         - A __short__ (1 - 5 sentence) bio. Right now this is only used on project sub-pages, where it is included along with an instance of `widget-member-card` at the bottom of pages for which the `author` attribute is set. Think of this like the short reporter bio sometimes included at the end of magazine articles.
         - You'll generally use the "`|` + indent" convention for this attribute (see above) since you'll generally be writing a short paragraph. Markdown (and even HTML) is fine to use here.
-    - # bio_long (^^a.k.a. "content"^^)
+    - ## bio_long (^^a.k.a. "content"^^)
         - A longer (1 - 3 paragraph, possibly with an image or list) can be included as part of the data file's `content`, which is everything after the closing `---` of the front matter. This will be rendered on individual member pages, but not elsewhere.
 # Non-Standard But Allowed Attributes
     - The following front matter attributes are allowed in member data files, but should seldom, if ever, be included. There is probably no reason to implement them in [Knack](<Knack.md>).
@@ -103,6 +104,7 @@ rss:
     - ## page_headers
         - An attribute for advanced users; anything included here will be inserted verbatim at the end of the page's HTML `<head/>`. Use this to specify additional CSS or JavaScript. Because this attribute expects raw HTML, you definitely want to use the "`|` + indent" syntax.
         - Be aware that it's very easy to break the corresponding member page if you don't know what you're doing with this attribute!
+The following _optional_ front matter attributes are supported for generic pages.
 # Examples as of [December 11th, 2020](<December 11th, 2020.md>)
     - https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/members/peacock-jordan.md
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FinXUHxTeB6.png?alt=media&token=aa3784b3-ca84-4c44-8040-61374db640bb)
@@ -162,6 +164,9 @@ links:
 
 ## [August 31st, 2020](<August 31st, 2020.md>)
 - light edits on [Schema | member data](<Schema | member data.md>)
+
+## [December 11th, 2020](<December 11th, 2020.md>)
+- Updated the [member schema]([Schema | member data](<Schema | member data.md>))
 
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [Schema | member data](<Schema | member data.md>)

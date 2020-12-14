@@ -21,6 +21,11 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
 {% include widget-google-slides.html
    gid="1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI"
 %}```
+    - ```
+    - {% include widget-google-slides.html
+        - gid="1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI"
+    - %}
+    - ```
     - See [Don't Waste the Reboot](https://www.yakcollective.org/projects/dont-waste-the-reboot/) and [The New Old Home](https://www.yakcollective.org/projects/the-new-old-home/) for examples of this widget in action.
 # widget-image
     - Insert an image in a "breakout box". This is provided as a fancier, more versatile alternative to just writing `![My alt text.](/path/to/image.jpg)` in Markdown; however, be aware that images included in this fashion will __not__ show up in site RSS feeds!
@@ -39,6 +44,15 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
    caption="Illustration by [Justice](/members/thelot-justice/)."
 %}```
     - See __Astonishing Stories__ project (sub)pages (such as ["Wholeness in a Timeless Activity"](https://www.yakcollective.org/projects/astonishing-stories/wholeness-in-a-timeless-activity/)) for examples of this widget in action.
+    - ```markdown
+    - {%
+        - include widget-image.html
+        - layout="left"
+        - image="/projects/astonishing-stories/wholeness-in-a-timeless-activity.jpg"
+        - alt="Wholeness in a Timeless Activity"
+        - caption="Illustration by [Justice](/members/thelot-justice/)."
+    - %}
+    - ```
 # widget-member-card
     - Member cards can be used either as links to the actual member page or as containers of member information. In general you should In the first case.
     - __Requires__ a single parameter:
@@ -50,6 +64,11 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
 {% include widget-member-card.html
    member="rao-venkatesh"
 %}```
+    - ```markdown
+    - {% include widget-member-card.html
+        - member="rao-venkatesh"
+    - %}
+    - ```
     - Member cards can be found on many pages throughout the Yak Collective website; for example, start with the [Members](https://www.yakcollective.org/members/) page itself to see cards in their "default" mode, and then click through to any member page to see a card in `standalone` mode.
 # widget-project-box
     - Project boxes display project summary information, similar to member cards. As with member cards, they can be presented either as links to project pages or plain information containers, but unlike member cards you can't specify which to use -- project boxes are links if the project has been published, and simple containers if the project is unpublished.
@@ -63,12 +82,20 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
    project="future-frontiers"
 %}```
     - Project boxes can be found on many pages throughout the Yak Collective website. For example, the [Projects](https://www.yakcollective.org/projects/) displays a list of project boxes in their "default" mode, while the [Now](https://www.yakcollective.org/now/) page displays project boxes in the (unpublished) "container" mode with the timestamp line hidden.
+    - ```markdown
+    - {% include widget-project-box.html
+        - project="future-frontiers"
+    - %}
+    - ```
 # widget-toc
     - A widget that generates a "table of contents" from document headings. It has no configuration, and can _only_ be included on Markdown-formatted pages. If you are including this widget, it must come either immediately after the opening header line (`# My Page Title`) __or__ be the _first_ thing on the page if no leading header is being used.
     - Example usage:
         - ```html
 {% include widget-toc.md %}```
     - See the [About](https://www.yakcollective.org/about/) page for an example of this `widget-toc` in action.
+    - ```markdown
+    - {% include widget-toc.md %}
+    - ```
 # widget-post-list
     - A widget that generates a list of __posts__, organized by month and year. It can __only__ be included on Markdown-formatted pages.
     - Be aware that [posts](https://jekyllrb.com/docs/posts/) are **__not__** the same thing as [pages](https://jekyllrb.com/docs/pages/). Currently, only cached newsletter pages and member writings are accessible using this widget.
@@ -85,6 +112,13 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
    category="writings"
 %}```
     - The canonical post list is the [Writings](https://www.yakcollective.org/writings/) page, but it is also included on some individual member pages.
+    - ```markdown
+    - {% include widget-post-list.md
+        - init_header_level=2
+        - show_author=true
+        - category="writings"
+    - %}
+    - ```
 # widget-project-header
     - The widget that's used to display a project header. It's really meant to be included as the first line of content for a project, but if you want you can include it anywhere by specifying the optional `project` parameter (which should be a valid project ID). This parameter is not necessary on the project's main page.
     - Example usage:
@@ -92,6 +126,11 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
 {% include widget-project-header.html
    project="dont-waste-the-reboot"
 %}```
+    - ```markdown
+    - {% include widget-project-header.html
+        - project="dont-waste-the-reboot"
+    - %}
+    - ```
     - See [Don't Waste the Reboot](https://www.yakcollective.org/projects/dont-waste-the-reboot/), [The New Old Home](https://www.yakcollective.org/projects/the-new-old-home/), [Astonishing Stories](https://www.yakcollective.org/projects/astonishing-stories/), and [Future Frontiers](https://www.yakcollective.org/projects/future-frontiers/) for examples of this widget in action.
 # widget-project-page-list
     - Include a grid of project page boxes for all _displayed_ pages associated with a given project. A "displayed" project page is one for which the `hidden` front matter attribute is either false or unset; see `projects/template-project/template-page.md` for more details.
@@ -102,6 +141,11 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
 {% include widget-project-page-list.html
    project="astonishing-stories"
 %}```
+    - ```markdown
+    - {% include widget-project-page-list.html
+        - project="astonishing-stories"
+    - %}
+    - ```
     - See [Astonishing Stories](https://www.yakcollective.org/projects/astonishing-stories/) for an example of this widget in action.
 # widget-project-slide-deck
     - Create [an "Idle Words" style "infinity" slide deck](https://idlewords.com/talks/). This is accomplished by chaining together instances of `widget-slide`, with slide data drawn from project slide files (see `projects/template-project/project-slide.md`).
@@ -134,6 +178,21 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
    table_of_contents_hero_caption="[Venkatesh Rao](/members/rao-venkatesh)"
 %}```
     - See [Future Frontiers](https://www.yakcollective.org/projects/future-frontiers/) for an example of this widget in action.
+    - ```markdown
+    - {% include widget-project-slide-deck.html
+        - project="future-frontiers"
+        - hero_position="left"
+        - slide_separator=true
+        - slide_align="top"
+        - title_links="internal"
+        - show_dates=true
+        - collapse_slides=true
+        - table_of_contents=true
+        - table_of_contents_hero="/projects/future-frontiers/table-of-contents.jpg"
+        - table_of_contents_hero_description="Table of contents"
+        - table_of_contents_hero_caption="[Venkatesh Rao](/members/rao-venkatesh)"
+    - %}
+    - ```
 # widget-slide
     - An advanced, lower-level widget used for producing slide-like layouts. The main reason this is considered to be "advanced" is that you will generally want to pass in either multi-line Markdown or straight HTML for the `slide_content`, which necessitates the use of [Liquid's "capture" operator](https://shopify.github.io/liquid/tags/variable/[capture](<capture.md>)). It __requires__ only a single parameter:
         - `slide_content` is the, well, slide content. It can be either Markdown or HTML (or a mix). Keep in mind that this is a slide, so you should probably stick to something short -- a paragraph (maybe two), a bulleted list, etc.
@@ -161,6 +220,9 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
     - One consequence of the above is that `widget-iframe` can __only__ be used on "generic" pages and project (main) pages. Using this widget on a project sub-page, project slide, or in a member data file __will__ break the associated page's layout!
 
 # Backlinks
+## [December 11th, 2020](<December 11th, 2020.md>)
+- New [Website Widgets](<Website Widgets.md>)
+
 ## [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
 - You can use any [website widget]([Website Widgets](<Website Widgets.md>))
 
