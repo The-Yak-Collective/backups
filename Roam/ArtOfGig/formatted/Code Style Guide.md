@@ -1,8 +1,6 @@
 About:: __Style guide for coding the Yak Collective website (and, ideally, other projects like Discord bots).__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
-last updated:: [September 9th, 2020](<September 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
@@ -47,5 +45,7 @@ mathIsDifferent = 1 + (2 * (3 / 4));```
 - [Code Style Guide](<Code Style Guide.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
+- [Code Style Guide](<Code Style Guide.md>)
+
 - [Code Style Guide](<Code Style Guide.md>)
 

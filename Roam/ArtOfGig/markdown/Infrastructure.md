@@ -28,6 +28,7 @@ suggest most recent note left untwirled for easy review to visitors__
         - 
 - ## Infrastructure Chat Notes
 - infrastructure chat 31 [[December 13th, 2020]]
+    - 11:30:: [[Yak Collective]] infrastructure call #Meetings
     - participants:: [[Maier Fenster]] [[Erik Sandberg]] [[Darren Kong]]
     - location:: https://meet.google.com/zfc-qhjy-oey
     - **Agenda**

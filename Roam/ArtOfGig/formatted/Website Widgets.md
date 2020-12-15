@@ -238,3 +238,5 @@ That doesn't mean that you __can't__ add page content -- if you do, it will be t
 ## [Yak Collective Website](<Yak Collective Website.md>)
 - [Website Widgets](<Website Widgets.md>)
 
+- [Website Widgets](<Website Widgets.md>)
+

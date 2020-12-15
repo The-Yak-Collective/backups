@@ -28,5 +28,6 @@
         - fear of the hard work  
     - [[Puja Thiel]] had ideas on incremental building
         - lots of it is related to zero-waste but can some of it transfer over to transitioning to new old country living 
+- [[The New Old Country: Lenses]]
 - recommended readings 
     - 

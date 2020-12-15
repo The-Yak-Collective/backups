@@ -9,8 +9,8 @@
 - **[Last Gardened](<Last Gardened.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - [Procurement Directory](<Procurement Directory.md>)
 - [Yak Rover Reference Materials](<Yak Rover Reference Materials.md>)
-- [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
 - The end-goal for Year 1 is a converged design based on our shared parallel design and building experiments that we will try to build in Year 2.
+- [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
 - Project lead: [Venkatesh Rao](<Venkatesh Rao.md>): In another life I was an aerospace engineer, and my phd/postdoc were all related to space stuff, ground robots etc. My own relevant research was on mapping and path planning, and I probably know enough to do the basic mechanical and control design for a rover. What I'd need support on is electronics design, software, etc.
 - **Overview**
     - **WHAT:** Yak Rover is a long-term Yak Collective [open-source hardware project](https://en.wikipedia.org/wiki/Open-source_hardware) to design and build a series of rovers culminating in a deployable Mars Rover by 2030 (ideally one major design iteration per year, starting with experimental versions in Year 1 designated X, Y etc., and culminating in Yak Rover 9 is Mars-capable). 

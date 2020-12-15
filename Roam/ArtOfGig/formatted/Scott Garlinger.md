@@ -63,6 +63,9 @@ The synchronization of brain and environment moves closer with each advent. The 
 ## [Take a Gig, Leave a Gig](<Take a Gig, Leave a Gig.md>)
 - **Posted 4/7/2020:** [Scott Garlinger](<Scott Garlinger.md>)
 
+## [The New Old Country: Lenses](<The New Old Country: Lenses.md>)
+- [Scott Garlinger](<Scott Garlinger.md>)
+
 ## [The New Old Home](<The New Old Home.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 

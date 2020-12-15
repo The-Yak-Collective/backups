@@ -265,6 +265,8 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 ## [Yak Collective Website](<Yak Collective Website.md>)
 - **[Referees](<Referees.md>):** [Maier Fenster](<Maier Fenster.md>)
 
+Chief Page Wrangler:: [Maier Fenster](<Maier Fenster.md>)
+
 ## [Yak Network Map](<Yak Network Map.md>)
 - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Maier Fenster](<Maier Fenster.md>)
 

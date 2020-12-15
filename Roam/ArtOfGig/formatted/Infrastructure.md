@@ -28,6 +28,7 @@ suggest most recent note left untwirled for easy review to visitors__
         - 
 - ## Infrastructure Chat Notes
 - infrastructure chat 31 [December 13th, 2020](<December 13th, 2020.md>)
+    - **[11:30](<11:30.md>):** [Yak Collective](<Yak Collective.md>) infrastructure call [Meetings](<Meetings.md>)
     - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Erik Sandberg](<Erik Sandberg.md>) [Darren Kong](<Darren Kong.md>)
     - **[location](<location.md>):** https://meet.google.com/zfc-qhjy-oey
     - **Agenda**

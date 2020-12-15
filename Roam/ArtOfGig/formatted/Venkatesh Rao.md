@@ -566,8 +566,6 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Zapier](<Zapier.md>)
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
-Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
-
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
 - tentatively [Venkatesh Rao](<Venkatesh Rao.md>)
 

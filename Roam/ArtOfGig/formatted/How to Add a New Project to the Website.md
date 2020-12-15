@@ -30,12 +30,12 @@ Currently recognized project types:
     Visualization
     Zine
 Visualization
-Zine
 Also, be aware that slides are ordered by `widget-project-slide-deck` by URL (basically, file name), and this ordering impacts both the formatting of the table of contents and the effect of `collapse_slides=true` -- only slides that are "adjacent" will have their sections and titles "rolled up". If you're using either of these features in `widget-project-slide-deck`, you'll want to make sure you adopt a slide naming convention that ensures that slides of a given section, and slides with the same title/author combination, always appear in sequence when sorted by name in your file manager.
 Projects will automatically go alive more-or-less on the `date` listed in the main page front matter. Unpublished, upcoming projects are listed on the [Now](/now/) page, while published projects are automatically moved to the [Projects](/projects/) page. If you are building the site locally, you can simulate this using `jekyll serve --future` (or an equivalent command).
 Created:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 ### sequence
     The "sequence" in which a given project exists. Sequences are defined in `_data/sequences.yml`; currently the only valid value for this attribute is `covid-19`.
+Zine
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 ### type
     A free-form string indicating what "kind" of project this is. While `type` __could__ be anything, we generally want to be conservative about adding new options.
@@ -345,8 +345,8 @@ date: 2020-12-09 00:00:00
 title: Project Slide Template
 sequence: covid-19
 layout: page-project-slide
---
 type: Report
+--
 tagline: Learn how to create project main pages!
 hero_image: /projects/astonishing-stories/astonishing-stories.jpg
 summary: |
@@ -425,8 +425,8 @@ Use this to override the default page background color, as specified by `page_te
 hero_image: /projects/future-frontiers/01-philosophy-01-on-horizons-01.jpg
 ### `page_headers`
 hero_position: left
-hero_border: true
 An attribute for advanced users; anything included here will be inserted verbatim at the end of the page's HTML `<head/>`. Use this to specify additional CSS or JavaScript. Because this attribute expects raw HTML, you definitely want to use the "`|` + indent" syntax.
+hero_border: true
 hero_description: On horizons
 Note that the Yak Collective website is based on the [Tachyons design framework](https://tachyons.io/docs/), so you can use any of the classes that Tachyons defines _without_ specifying `page_headers`.
 hero_caption:  |
@@ -452,5 +452,7 @@ Each of these header attributes is described in more detail in the following sec
 - For more specific instructions about how to add a project page to the website, see the [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
+- [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
+
 - [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
 

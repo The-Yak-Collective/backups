@@ -55,6 +55,9 @@
 
 - It also occurs to me that things like recent ideas of "friends all have remote jobs then geographically co-locate and rent an office and LARP together as performative federated office building though being decentralized from one another" could also be a sort of self-determinism homestead just on a different social scale - [Shreeda Segan](<Shreeda Segan.md>)
 
+## [The New Old Country: Lenses](<The New Old Country: Lenses.md>)
+- [Scott Garlinger](<Scott Garlinger.md>) and [Shreeda Segan](<Shreeda Segan.md>)
+
 ## [The New Old Home](<The New Old Home.md>)
 - [Shreeda Segan](<Shreeda Segan.md>):
 

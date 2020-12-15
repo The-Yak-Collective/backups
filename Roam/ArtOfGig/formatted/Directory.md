@@ -90,6 +90,13 @@
     - Twitter: @vertis
     - Email: luke <at> vertis.io
 - [Chris Clark](<Chris Clark.md>)
+- [Luca Conti](<Luca Conti.md>)
+    - Independent Content marketing freelance since 2007
+    - Blogger, writer, curator and author of 17 books about digital marketing
+    - Knowledge entrepreneur, passionate lifelong learner
+    - Fascinated by #[digital garden](<digital garden.md>), #[knowledge sharing](<knowledge sharing.md>), books and [nutrition](<nutrition.md>)
+    - I am blogging in Italian since 2002 on [Pandemia.info](https://www.pandemia.info) and [Lucaconti.it](https://www.lucaconti.it)
+    - Latest project realted to find a digital balance in using technology for busy business people, families with children and anyone with a smartphone always in her hands: [Equilibrio digitale](https://equilibriodigitale.it). English section work in progress.
 - [James Crook](<James Crook.md>)
     - {{embed: ((((iMgbK7ojW))))}}
 - [Tom Critchlow](<Tom Critchlow.md>)
