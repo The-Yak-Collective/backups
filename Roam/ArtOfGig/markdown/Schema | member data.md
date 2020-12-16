@@ -34,18 +34,12 @@ page_headers: |
     - Be aware that if the __value__ of your front matter attribute contains a `:`, `&`, or `#`, then you __must__ either surround it in double quotes (`"`) __or__ use a `|` character, followed by a line break, and then with subsequent lines (until the next front matter attribute or the closing `---`) indented by __two__ spaces. So something like this
         - ```yaml
 title: "My #1 Page Title: Now With Two Unsafe Characters!"```
-    - ```yaml
-    - title: "My #1 Page Title: Now With Two Unsafe Characters!"
-    - ```yaml
-    - In general, you should use quotes for shorter, single line values. Use the "`|` + indent" syntax for longer values, or when you need to use multiple lines.
-    - ```
-    - title: |
-        - My #1 Page Title: Now With Two Unsafe Characters!
-    - For more information about the ins-and-outs of page front matter, refer to [Jekyll's documentation](https://jekyllrb.com/docs/front-matter/) and the [YAML specification](https://yaml.org/spec/1.2/spec.html).
     - is equivalent to
         - ```yaml
 title: |
   My #1 Page Title: Now With Two Unsafe Characters!```
+    - In general, you should use quotes for shorter, single line values. Use the "`|` + indent" syntax for longer values, or when you need to use multiple lines.
+    - For more information about the ins-and-outs of page front matter, refer to [Jekyll's documentation](https://jekyllrb.com/docs/front-matter/) and the [YAML specification](https://yaml.org/spec/1.2/spec.html).
 # Required Attributes
     - ## name (^^a.k.a. "UID" or "Member ID"^^)
         - __If__ we opt not to import files using the "last name + first name" convention described above, then we will need to include a `name` attribute following this convention so that members can be successfully looked up.
@@ -77,13 +71,6 @@ links:
     url: https://www.yakcollective.org/
   - title: Newsletter
     url: https://yakcollective.substack.com/```
-        - ```yaml
-        - links:
-            - title: Website
-                - url: https://www.yakcollective.org/
-            - title: Newsletter
-                - url: https://yakcollective.substack.com/
-        - ```
         - This would produce the following final line of `widget-member-card`:
             - > [Website](https://www.yakcollective.org/) / [Newsletter](https://yakcollective.substack.com/)
     - ## rss
@@ -117,7 +104,6 @@ rss:
     - ## page_headers
         - An attribute for advanced users; anything included here will be inserted verbatim at the end of the page's HTML `<head/>`. Use this to specify additional CSS or JavaScript. Because this attribute expects raw HTML, you definitely want to use the "`|` + indent" syntax.
         - Be aware that it's very easy to break the corresponding member page if you don't know what you're doing with this attribute!
-The following _optional_ front matter attributes are supported for generic pages.
 # Examples as of [[December 11th, 2020]]
     - https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/members/peacock-jordan.md
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FinXUHxTeB6.png?alt=media&token=aa3784b3-ca84-4c44-8040-61374db640bb)

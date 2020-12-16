@@ -47,11 +47,7 @@ https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
             - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
         - 6. What is the effect of interactivity on platform design and performance 
 https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
-        - 
- is an excellent book 
-            - https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie
         - 7. New: https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8[Sec22](<Sec22.md>)
-        - It also reminds us that 
         - 8. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
             - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
         - 9. Finally, there are some anecdotal evidence on what's going on in Asia, which is very interesting.

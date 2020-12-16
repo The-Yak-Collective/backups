@@ -553,8 +553,6 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - **[Last Gardened](<Last Gardened.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
-- Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
-
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - Game-in-the-head > head-in-the-game. Makes sense after a few rounds with different client types - [Venkatesh Rao](<Venkatesh Rao.md>)
 

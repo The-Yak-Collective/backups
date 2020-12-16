@@ -56,7 +56,6 @@
 - **[About](<About.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)
-- Additional page wranglers: Looking for people
 - **[About](<About.md>):**
 
 ## [Publishing Projects Sampler](<Publishing Projects Sampler.md>)

@@ -1,10 +1,9 @@
-- foo
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
-    - Additional page wranglers: Looking for people
 - **[About](<About.md>):** Main directory page for continuous project pitching and greenlighting. Data on this page will be used for automated creation of suitable scaffolding on the [Yak Collective Website](<Yak Collective Website.md>), trigger some automated publicity on the [Yak Talk](<Yak Talk.md>) newsletter, and potentially some marketing activity from the [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) team. 
 So **please stick to the pro-forma.** 
 You propose projects by adding a proposal block in the "**Projects List**" section. 
 See "Notes::" for additional details.
+- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)
+    - Additional page wranglers: Looking for people
 - 
 - **[TO PROPOSE A PROJECT](<TO PROPOSE A PROJECT.md>):**
     - Copy the metadata template block below for **Sample Project**, paste it at the TOP of the "**Projects List**" section just below it, and populate it.  The __%% italicized text__ is help-comments you can **delete. At minimum, you will need to have identified a backup lead name before the proposal is considered "proposed", otherwise it is draft.**

@@ -85,7 +85,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)
-- foo
+See "Notes::" for additional details.
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Roam Gardening](<Roam Gardening.md>)
