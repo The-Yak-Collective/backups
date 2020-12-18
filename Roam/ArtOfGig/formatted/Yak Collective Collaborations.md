@@ -111,7 +111,7 @@
 ## [Onboarding for New Yaks](<Onboarding for New Yaks.md>)
 - Give feedback to proposals [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - [Yak Collective Collaborations](<Yak Collective Collaborations.md>)
 
 ## [Things We Need](<Things We Need.md>)

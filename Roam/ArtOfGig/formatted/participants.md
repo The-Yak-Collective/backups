@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Infrastructure](<Infrastructure.md>)
-- **[11:30](<11:30.md>):** [Yak Collective](<Yak Collective.md>) infrastructure call [Meetings](<Meetings.md>)
+- infrastructure chat 31 [December 13th, 2020](<December 13th, 2020.md>)
     - **[participants](<participants.md>):**
 
 - [Nathan Acks](<Nathan Acks.md>)'s notes

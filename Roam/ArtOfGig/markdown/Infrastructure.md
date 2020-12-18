@@ -28,7 +28,6 @@ suggest most recent note left untwirled for easy review to visitors__
         - 
 - ## Infrastructure Chat Notes
 - infrastructure chat 31 [[December 13th, 2020]]
-    - 11:30:: [[Yak Collective]] infrastructure call #Meetings
     - participants:: [[Maier Fenster]] [[Erik Sandberg]] [[Darren Kong]]
     - location:: https://meet.google.com/zfc-qhjy-oey
     - **Agenda**
@@ -679,7 +678,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
             - pull everything out of sidebar that's inactive 
             - identify the single wringable neck for each page - associated with cell? 
         - Index/welcome page for the Roam - useful structure
-    - Project mgt as independent role »»  [[Production Cell]]
+    - Project mgt as independent role »»  [[Production Squad]]
     - project activity measurement, etc.
     - Nathan has more availability post-November
     - Onboarding continue to be a painpoint

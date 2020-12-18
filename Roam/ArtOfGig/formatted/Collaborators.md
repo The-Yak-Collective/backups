@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- **[Project Lead](<Project Lead.md>):** [Nathan Acks](<Nathan Acks.md>)
+- [Website Version History](<Website Version History.md>)
     - **[Collaborators](<Collaborators.md>):**
 
 ## [Yak Project Production History](<Yak Project Production History.md>)

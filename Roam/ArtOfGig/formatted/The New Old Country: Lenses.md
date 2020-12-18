@@ -1,8 +1,14 @@
+- cultural spaces within dwelling zones 
 - [Scott Garlinger](<Scott Garlinger.md>) and [Shreeda Segan](<Shreeda Segan.md>) and [Evangeline Louise](<Evangeline Louise.md>) workspace 
+- groupmuse 
 - historically  
+- Something to disclaim / acknowledge - How homesteading is related to the past, and how that should be dealt with
 - economically
     - https://www.doi.gov/about
     - https://averyreview.com/issues/43/on-the-inside-out 
+- appfolio  -- real estate
+- highly corporatized 
+- crunchy hippies or burnouts 
 - business ecosystems
     - take the biological metaphor more seriously 
     - take core principles to their logical endpoint 
@@ -10,16 +16,25 @@
         - corporate farming at scale (?) 
     - homestead -- we need it and it has to happen at these sorts of scales
         - take all landscaping companies and turn them into homesteading design/consultation companies  
+- conservative aesthetic and invoke the planetary conditions 
+- hemp farm 
 - homesteading as a reactionary? thing 
     - you see what the suburbs produce, it isn't that satisfying, you move out to try to live more sustainably 
 - not everyone can dip out to nebraska 
     - terraform out of murphys burrow ? 
+- to show our commonality as a pre-existing condition 
+- homestead plans / designs 
+- turn up the volume 
 - meaning making project 
     - libertarian homestead
         - self actualization 
     - legacy -- community relationship
+- permaculture turned industry 
+- lens -- 
 - How homesteading is related to the future
     - How homesteading has changed from Manifest Destiny era (about “opportunities” being provided to Americans) to 1960s - 2020 (about how America has failed its citizens, failed as a state)
+        - dark history (cherokee trails to opened land for homesteaders e.g.) 
+        - village settings yet connected to the global mind (thousand experiments bloom and see what works)
         - homeschooling & homesteading
             - https://twitter.com/Chesschick01/status/1283239780638240768
             - 
@@ -37,6 +52,7 @@
             - product owners (in tech)-- responsible for ideation, growth, maintenance, etc. 
             - alternative building methods that first time builders can confidently rely on 
                 - responsible for maintenance, not contracting out to others to maintain 
+- consultants 
 - how permanent or how motivating a force is covid going to actually be in pushing certain people out from metropolis to places where they have to be responsible for their own home? 
     - how will services in this space change too? 
 - "alternative" homesteads (places you are entirely responsible for)
@@ -54,6 +70,15 @@
             - fire preparedness is an existing example of a space where private contractors advise on this 
         - people who are helping celebs like Kanye, etc., with moving out to Wyoming may become emerging leaders in this space
             - pre fab homes, pre fab structures, shop/tool items, consultants 
+    - economic/ecosystem 
+        - cosmo localism 
+            - modular manufacturing 
+            - michel bauwens: the common 
+            - https://www.opensourceecology.org/ 
+        - how are you funding your project? what relationship does your project have to capitalism/the market?
+        - things being built to break vs built to last 
+        - minimum viable scale 
+            - can be much more localized 
 
 # Backlinks
 ## [The New Old Country](<The New Old Country.md>)

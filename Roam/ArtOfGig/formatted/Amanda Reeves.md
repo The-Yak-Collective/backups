@@ -44,7 +44,7 @@
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - **Leads:** [Amanda Reeves](<Amanda Reeves.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - [Amanda Reeves](<Amanda Reeves.md>)
 
 - [Amanda Reeves](<Amanda Reeves.md>)

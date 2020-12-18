@@ -52,7 +52,7 @@
 ## [Privacy Policy](<Privacy Policy.md>)
 - **[About](<About.md>):**
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - **[About](<About.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)

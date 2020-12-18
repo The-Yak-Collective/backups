@@ -80,8 +80,8 @@
 - **[About](<About.md>):** __stub page for collecting privacy policy inspo__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
-## [Production Cell](<Production Cell.md>)
-- **[About](<About.md>):** __A place to build a group of yaks interested in helping to produce YakC work outputs.__
+## [Production Squad](<Production Squad.md>)
+- **[About](<About.md>):** __A place to build a group of yaks interested in swarming to produce YakC work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):**
 
 ## [Project Pitches](<Project Pitches.md>)

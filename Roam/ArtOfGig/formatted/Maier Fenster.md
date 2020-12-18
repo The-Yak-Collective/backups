@@ -30,6 +30,9 @@
 
 - `admin-improvements-bak-202008118` (point: [Maier Fenster](<Maier Fenster.md>))
 
+## [December 16th, 2020](<December 16th, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
 

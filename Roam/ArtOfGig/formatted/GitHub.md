@@ -1,6 +1,8 @@
 About:: __Documentation for GitHub.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>) | [Venkatesh Rao](<Venkatesh Rao.md>)
+last updated:: [December 4th, 2020](<December 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Created:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`

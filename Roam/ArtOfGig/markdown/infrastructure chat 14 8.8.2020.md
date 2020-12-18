@@ -23,8 +23,8 @@
 - member on-boarding
     - small ask? "yak warm up tasks"
         - production tasks
-            - proofreading for typos » [[Production Cell]]
-            - soft launch readers » [[Production Cell]]
+            - proofreading for typos » [[Production Squad]]
+            - soft launch readers » [[Production Squad]]
             - review may not be a good small task 
         - newsletter contribution » [[Yak Talk Newsletter – To Do and Content Ideas]]
         - governance source docs » [[Yak Collective Governance]]

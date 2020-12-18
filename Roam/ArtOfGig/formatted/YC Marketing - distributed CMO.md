@@ -170,6 +170,9 @@ Yaks competing for attention
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
 - [ ] suggest: connect with [Hugo Macedo](<Hugo Macedo.md>) to connect story launches with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [December 16th, 2020](<December 16th, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

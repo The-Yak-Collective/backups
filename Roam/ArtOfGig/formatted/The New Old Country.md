@@ -30,7 +30,29 @@
         - lots of it is related to zero-waste but can some of it transfer over to transitioning to new old country living 
 - [The New Old Country: Lenses](<The New Old Country: Lenses.md>)
 - recommended readings 
-    - 
+- [Jason Snyder](<Jason Snyder.md>)
+    - fully on grid, conventionally
+    - 5 acres 
+    - food forest, permaculture, symbiotically
+    - pond 
+    - low tech 
+        - financial constraints 
+    - goal to be a homesteader -- off grid, renewable energy resources
+    - larger community around Jason that is more vibrant 
+    - perennials vs annuals 
+    - backyard permaculture vs regenerative agriculture (large scale)
+        - cover crops, inner cropping?, etc. --> ecosystem coverage 
+        - (upper right quadrant)
+    - Jack http://www.thesurvivalpodcast.com/ 
+        - backyard permaculture 
+    - eco village 
+        - Bryan Mock 
+        - europe models (research)
+        - intentionally design a whole village w/ friends, permaculture 
+            - anarchocapitalist libertarian (atomized, private property) vs libertarian socialist (the coalition)
+                - a spectrum worth exploring 
+                - private space & communal space 
+    - future thinkers -- smart village in british columbia 
 
 # Backlinks
 ## [Project Pitches](<Project Pitches.md>)

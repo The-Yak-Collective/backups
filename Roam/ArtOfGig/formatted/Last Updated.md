@@ -70,7 +70,7 @@
 - **[Created](<Created.md>):** [August 25th, 2020](<August 25th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - 
 - **[Last Updated](<Last Updated.md>):**
 
@@ -120,6 +120,10 @@
 
 ## [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>)
 - **[Status](<Status.md>):** {{or: Active | Complete | Early Concept | Proposal}}
+- **[Last Updated](<Last Updated.md>):**
+
+## [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
+- **[Status](<Status.md>):** {{or: Complete | Active | Early Concept | Proposal}}
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>)

@@ -5,3 +5,9 @@
 ## [Marketing Channels](<Marketing Channels.md>)
 - Update from [Matthew Sweet](<Matthew Sweet.md>) on [September 24th, 2020](<September 24th, 2020.md>)
 
+## [Threat Model](<Threat Model.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>)
+
+## [Zapier](<Zapier.md>)
+last updated:: [September 24th, 2020](<September 24th, 2020.md>)
+

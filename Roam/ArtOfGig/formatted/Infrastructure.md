@@ -28,7 +28,6 @@ suggest most recent note left untwirled for easy review to visitors__
         - 
 - ## Infrastructure Chat Notes
 - infrastructure chat 31 [December 13th, 2020](<December 13th, 2020.md>)
-    - **[11:30](<11:30.md>):** [Yak Collective](<Yak Collective.md>) infrastructure call [Meetings](<Meetings.md>)
     - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Erik Sandberg](<Erik Sandberg.md>) [Darren Kong](<Darren Kong.md>)
     - **[location](<location.md>):** https://meet.google.com/zfc-qhjy-oey
     - **Agenda**
@@ -679,7 +678,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
             - pull everything out of sidebar that's inactive 
             - identify the single wringable neck for each page - associated with cell? 
         - Index/welcome page for the Roam - useful structure
-    - Project mgt as independent role »»  [Production Cell](<Production Cell.md>)
+    - Project mgt as independent role »»  [Production Squad](<Production Squad.md>)
     - project activity measurement, etc.
     - Nathan has more availability post-November
     - Onboarding continue to be a painpoint

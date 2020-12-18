@@ -2,6 +2,8 @@ About:: __Every collective needs a website. This is ours. It isn't much to look 
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[August 29th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 13th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 Page Type:: #Project
 Status:: {{or: Active | Early Concept | Proposal | Complete}}
 Current State:: 
@@ -17,11 +19,6 @@ Meta::
     - Deliverable:: https://www.yakcollective.org/
     - Referees:: [[Maier Fenster]]
     - Project Lead:: [[Nathan Acks]]
-    - Collaborators::
-        - `[[Fname Lname]]`
-    - Intended Audience::
-        - Potential clients
-        - Folks interested in engaging or joining the Yak Collective
     - Relevant Documents and Files::
         - [[Website Architecture]]
             - [[Website Widgets]]
@@ -31,6 +28,11 @@ Meta::
             - [[IT Infrastructure and Project Security Basics]]
             - [[Building the Website]]
         - [[Website Version History]]
+    - Collaborators::
+        - `[[Fname Lname]]`
+    - Intended Audience::
+        - Potential clients
+        - Folks interested in engaging or joining the Yak Collective
 Current Plan::
     - {{[[DONE]]}} Update the [[Yak Collective Website]] documentation
     - {{[[TODO]]}} Code review for [[Yak Collective Website]]

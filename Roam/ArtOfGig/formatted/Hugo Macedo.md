@@ -43,6 +43,11 @@
 
 - [Hugo Macedo](<Hugo Macedo.md>)
 
+## [December 16th, 2020](<December 16th, 2020.md>)
+- [x] [Hugo Macedo](<Hugo Macedo.md>)
+
+- [ ] draft questionaire #[Hugo Macedo](<Hugo Macedo.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [x] [Hugo Macedo](<Hugo Macedo.md>)
 
