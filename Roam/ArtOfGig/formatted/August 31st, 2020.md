@@ -14,8 +14,6 @@ Created:: [August 31st, 2020](<August 31st, 2020.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>)
 
 ## [Glitch](<Glitch.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
-
 Created:: [August 31st, 2020](<August 31st, 2020.md>)
 
 ## [IFTTT](<IFTTT.md>)
@@ -40,8 +38,6 @@ Created:: [August 31st, 2020](<August 31st, 2020.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>)
 
 ## [Website Version History](<Website Version History.md>)
-last updated:: [August 31st, 2020](<August 31st, 2020.md>)
-
 Created:: [August 31st, 2020](<August 31st, 2020.md>)
 
 ## [Zapier](<Zapier.md>)

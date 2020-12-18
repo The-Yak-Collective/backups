@@ -1,8 +1,6 @@
 About:: __Website architecture documentation.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
-last updated:: [September 1st, 2020](<September 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
@@ -34,8 +32,6 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
         - Various style sheets.
     - `fonts`
         - Fonts used by the website; refer to the comments at the top of `css/fonts.source.css` for details about how to update/regenerate this directory.
-    - `functions`
-        - [Netlify Functions](https://docs.netlify.com/functions/overview/).
     - `img`
         - Site-wide image files.
     - `js`
@@ -64,19 +60,6 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
         - `functions/create-post.js`
             - [Netlify function](https://docs.netlify.com/functions/overview/) that takes incoming data from [IFTTT](<IFTTT.md>) and commits a new file to the appropriate directory in the `netlify-prod` branch.
                 - Because commits to `netlify-prod` trigger rebuilds in [Netlify](<Netlify.md>), this causes the website to be refreshed, and the new page to show up within a minute or two.
-# [Website Widgets](<Website Widgets.md>)
-    - `_includes/widget-breakout-box.html`
-    - `_includes/widget-google-slides.html`
-    - `_includes/widget-iframe.html`
-    - `_includes/widget-image.html`
-    - `_includes/widget-member-card.html`
-    - `_includes/widget-post-list.md`
-    - `_includes/widget-project-box.html`
-    - `_includes/widget-project-header.html`
-    - `_includes/widget-project-page-list.html`
-    - `_includes/widget-project-slide-deck.html`
-    - `_includes/widget-slide.html`
-    - `_includes/widget-toc.md`
 # Layouts
     - `_layouts/default.html`
         - Base layout. This isn't actually used on any pages, but is inherited by other layouts.
@@ -98,6 +81,30 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
     - `_layouts/post-external.html`
         - Layout for posts pulled in from external RSS feeds (which is all of them right now). Every post is assumed to have an author defined in the `members` collection.
         - Note that while post pages are generated as part of the build process, they are __not__ linked anywhere on the site itself. (Links that would point to them instead point to the original post on the member's website.)
+# Shared Elements
+    - `_includes/author-info.html`
+        - Inserts a member card and `bio_short`.
+    - `_includes/feed.json`
+        - Builds a JSON feed.
+    - `_includes/feed.xml`
+        - Builds an RSS feed.
+    - `_includes/member-list.html`
+        - Given an array of member IDs, generates a list of member names, each of which is linked to the appropriate member page.
+    - `_includes/sequence.txt`
+        - Takes the current date and a sequence ID and generates a "Day X sequence count phrase" string.
+# [Website Widgets](<Website Widgets.md>)
+    - `_includes/widget-breakout-box.html`
+    - `_includes/widget-google-slides.html`
+    - `_includes/widget-iframe.html`
+    - `_includes/widget-image.html`
+    - `_includes/widget-member-card.html`
+    - `_includes/widget-post-list.md`
+    - `_includes/widget-project-box.html`
+    - `_includes/widget-project-header.html`
+    - `_includes/widget-project-page-list.html`
+    - `_includes/widget-project-slide-deck.html`
+    - `_includes/widget-slide.html`
+    - `_includes/widget-toc.md`
 # Build Infrastructure
     - ## Templates (a.k.a. "Help Files")
         - `template-page.md`
@@ -120,8 +127,6 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
         - `bin/minify.LICENSE`
         - `bin/mkfonts.sh`
             - A script used to regenerate the `fonts` directory. Refer to the comments at the top of `css/fonts.source.css` for details about how to use this.
-        - `bin/*`
-            - Various helper scripts and applications.
         - `_config.yml`
         - `Gemfile`
         - `Gemfile.lock`
@@ -138,17 +143,6 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
     - ## Secrets
         - Netlify CMS uses [GitHub](<GitHub.md>) as an OAuth provider; connection secrets can be found in [Netlify](<Netlify.md>) under **Settings > Access control > OAuth**.
         - The `create-post` function stores configuration information, a [GitHub](<GitHub.md>) access token, and a token used to authenticate incoming requests, and Discord webhook channel and token information in [Netlify](<Netlify.md>) under **Settings > Build & deploy > Environment > Environment variables**.
-# Shared Elements
-    - `_includes/author-info.html`
-        - Inserts a member card and `bio_short`.
-    - `_includes/feed.json`
-        - Builds a JSON feed.
-    - `_includes/feed.xml`
-        - Builds an RSS feed.
-    - `_includes/member-list.html`
-        - Given an array of member IDs, generates a list of member names, each of which is linked to the appropriate member page.
-    - `_includes/sequence.txt`
-        - Takes the current date and a sequence ID and generates a "Day X sequence count phrase" string.
 
 # Backlinks
 ## [Contributing to the Website](<Contributing to the Website.md>)

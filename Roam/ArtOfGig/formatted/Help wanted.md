@@ -8,7 +8,3 @@
 - help prospective clients figure out what they can get form working with YC
     - **[Help wanted](<Help wanted.md>):**
 
-## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
-- maybe other discord groups will want to copy
-    - **[Help wanted](<Help wanted.md>):**
-

@@ -12,8 +12,6 @@
 ## [Substack](<Substack.md>)
 Chief Page Wrangler:: [Matthew Sweet](<Matthew Sweet.md>)
 
-Chief Page Wrangler:: [Matthew Sweet](<Matthew Sweet.md>)
-
 ## [Threat Model](<Threat Model.md>)
 - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Matthew Sweet](<Matthew Sweet.md>)"
 
