@@ -21,8 +21,8 @@
     - {{[query](<query.md>): {and: [ping](<ping.md>) [Nathan Acks](<Nathan Acks.md>) {not: [pong](<pong.md>)} {not: [query](<query.md>)}}}}
 - **[To Do](<To Do.md>):**
     - "[x] Update the [Yak Collective Website](<Yak Collective Website.md>) documentation"
+    - [x] Update the [Discord channel proposal]([Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>))
     - "[ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)"
-    - [ ] Update the [Discord channel proposal]([Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>))
     - "[ ] Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [Yak Collective Website](<Yak Collective Website.md>)"
     - "[ ] Integrate [Knack](<Knack.md>) into the [Yak Collective Website](<Yak Collective Website.md>)"
     - "[ ] Migrate from [IFTTT](https://ifttt.com/) to [ActionsFlow](https://github.com/actionsflow/actionsflow) ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))"
@@ -83,6 +83,11 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 ## [December 13th, 2020](<December 13th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [December 19th, 2020](<December 19th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [December 6th, 2020](<December 6th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -104,25 +109,59 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-Last Updated:: [November 15th, 2020](<November 15th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 19th, 2020](<December 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- "[Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>) can you point to an example of this [Nathan Acks](<Nathan Acks.md>)?
 
-- [Nathan Acks](<Nathan Acks.md>)
-
-- [Jenna Dixon](<Jenna Dixon.md>) Hmmm 🤔Not sure about this. Have liked the Bureaucracy as a home for internal structural-type conversations. Won't lumping them all together create quite a long list? [ping](<ping.md>) [Nathan Acks](<Nathan Acks.md>)
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
+
+- "[Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>) Hmmm 🤔Not sure about this. Have liked the Bureaucracy as a home for internal structural-type conversations. Won't lumping them all together create quite a long list? [pong](<pong.md>) [Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>) I'm confused on this [Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
+
+- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
 
 ## [Facebook](<Facebook.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -472,5 +511,9 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 - **[Referees (non-participating reviewers)](<Referees (non-participating reviewers).md>):** [Nathan Acks](<Nathan Acks.md>)
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
+- **[Last Updated](<Last Updated.md>):** [December 19th, 2020](<December 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
 - **[Last Gardened](<Last Gardened.md>):** [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
 

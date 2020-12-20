@@ -196,8 +196,6 @@
 ## [Nathan Acks](<Nathan Acks.md>)
 - "{{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
 - "{{[TODO](<TODO.md>)}
 
 - "{{[TODO](<TODO.md>)}

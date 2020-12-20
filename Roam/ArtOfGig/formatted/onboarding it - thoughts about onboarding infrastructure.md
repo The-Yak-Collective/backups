@@ -2,7 +2,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 - **[Created](<Created.md>):** [October 4th, 2020](<October 4th, 2020.md>) by [Maier Fenster](<Maier Fenster.md>)
-- **[Last Updated](<Last Updated.md>):** [October 6th, 2020](<October 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+- **[Last Updated](<Last Updated.md>):** [December 19th, 2020](<December 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):** [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - 
 - it looks like we are talking about some combination of:
@@ -40,8 +40,39 @@ anyway, i was thinking on how we tie it all together.
         - I wonder if there are people lost in the big forest of discord usernames that would like to help
         - I still don't know who's out there (or in there). I can imagine the diversity of expertise, experience, points of view, ...  Should be like Amazonia forest!! - but now I can only see a vast sea of green 
             - ![](https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/98f3a9c4d5774269baac0f5d9358b27c)
+- 
+- [Nathan Acks](<Nathan Acks.md>) This seems more-or-less right to me, but I would tweak it a little...
+    - I don't think I'd use email for the onboarding process at all.
+        - We've centralized on Discord, and are building out a good infrastructure there.
+        - Fragmenting our communications channels is also going to increase maintenance burden.
+    - Ongoing comms is a different matter -- the newsletter seems the canonical place for that.
+        - Long-term, maybe we can have some system where people can sign up to have a Discord bot DM them relevant bits from the newsletter?
+    - Given the previous two points, I think the website remains more-or-less externally-facing.
+        - To the extent that the website is part of the member experience, it's because it's where initial intake happens ([/join](https://www.yakcollective.org/join/)) and (perhaps) is a place where we expose the Knack member login (though at the moment I'm inclined to just link to the off-site management portal, like we do for the newsletter).
+    - With respect to member IDs...
+        - I agree that we should use Discord IDs within Knack.
+        - However, on the website we need a system that both maps well to SEO (for the member URLs) and is easy for people to use (when writing project pages, etc.).
+        - So I think that we should continue to map Discord IDs into the `lname-fname` format we currently use.
+            - We probably need some sort of process to either automatically generate redirects when someone's name changes, or ping someone who has write access to the website repo on GitHub so that they can make the update themselves. Given the relatively small number of members, I think just pinging someone is enough for now.
+    - I'd re-order your onboarding list slightly:
+        1. "1. yak starts with minimal friction to get into discord"
+        2. "4. we expect yak to post introduction"
+        3. "2. somewhere along the line we ask for some basic info
+"
+        4. "5. we want to show yak where to start"
+        5. "8. filter out yak if they do not do one or more of the steps"
+        6. "7. invite yak to orientation call"
+        7. "9. signup yak to newsletter"
+        8. "3. somewhere along the line (can be at same time as [2](<2.md>)) we ask for more info, like yak-map data"
+        9. "6. probably want to dribble some "look here" call outs"
+        10. "10. try to recruit yak to one or more activities"
+        11. "11. perhaps continue dripping reminders to yak after yak is not new, perhaps by email rather than or in addition to discord, perhaps based on amount of activity"
+            - I'm not 100% sure what the difference is between (10) and (11).
 
 # Backlinks
+## [December 19th, 2020](<December 19th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>) left comments on [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>).
+
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 

@@ -294,9 +294,6 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
 - **[Last Gardened](<Last Gardened.md>):** [December 10th, 2020](<December 10th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
-## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
-- **[Last Updated](<Last Updated.md>):** [October 6th, 2020](<October 6th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
-
 ## [template/header](<template/header.md>)
 - **[Last Edited](<Last Edited.md>):** [December 12th, 2020](<December 12th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 

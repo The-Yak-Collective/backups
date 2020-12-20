@@ -21,8 +21,8 @@
     - {{[[query]]: {and: [[ping]] [[Nathan Acks]] {not: [[pong]]} {not: [[query]]}}}}
 - To Do::
     - "{{[[DONE]]}} Update the [[Yak Collective Website]] documentation"
+    - {{[[DONE]]}} Update the [Discord channel proposal]([[Discord Channel Lifecycle and Organization]])
     - "{{[[TODO]]}} Code review for [[Yak Collective Website]]"
-    - {{[[TODO]]}} Update the [Discord channel proposal]([[Discord Channel Lifecycle and Organization]])
     - "{{[[TODO]]}} Finish initial integration of [Vinay’s Yak network map](https://dataingestor.github.io/yakmap1/network/) into the [[Yak Collective Website]]"
     - "{{[[TODO]]}} Integrate [[Knack]] into the [[Yak Collective Website]]"
     - "{{[[TODO]]}} Migrate from [IFTTT](https://ifttt.com/) to [ActionsFlow](https://github.com/actionsflow/actionsflow) ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))"
