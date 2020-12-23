@@ -1,8 +1,9 @@
-- [Evidence Based Design](<Evidence Based Design.md>) for the [built environment](<built environment.md>) [Great Indoors](<Great Indoors.md>)
-    -  Feng Shui (Chinese: 風水) claims to use energy forces to harmonize individuals with their surrounding environment [architecture] in terms of "invisible forces" that bind the universe, earth, and humanity together, known as [qi]. literally "wind-water
-        - Brilliant topic to address, yet woo to wooth-power in terms of its tenets
-            - Mirrors, putting up a wall to block the view of a mountain resembling a dragon's mouth, and so forth https://www.qi-journal.com/fengshui-articles/traditional-fengshui/2593-the-need-for-reality-testing-in-feng-shui
-        - architectural folk knowledge deserves to be examined and evaluated according in terms of measurable observations and comparisons between distinctive experiences.
+- [Evidence Based Design](<Evidence Based Design.md>) for the [built environment](<built environment.md>) 
+- Objective: Extract empirical insights about better work/living arrangements, to package as solutions for companies that have lots of WFH employees
+    - Right now, people are McGyvering at home, but companies will allocate serious coin to enable workers to focus and collaborate better
+    -  Feng Shui (Chinese: 風水) supposedly harmonizes the environment [architecture] in terms of "invisible forces"
+        - Invaluable topic to address, yet its tenets have no empirical validation
+    - architectural folk knowledge should be examined and evaluated in terms of measurable observations and comparisons between distinctive experiences.
     - High quality evidence exists in pockets, yet there's no path to accumulate validated knowledge as the crisis normalizes
         - [Evidence Based Design](<Evidence Based Design.md>) has lots of usable guidelines, BUT
         - [Soft infrastructure](<Soft infrastructure.md>) is too frequently neglected. Many [behavioral problems](<behavioral problems.md>) are poorly addressed by technological solutions 

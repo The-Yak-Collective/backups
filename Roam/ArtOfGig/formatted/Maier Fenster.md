@@ -91,6 +91,8 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>)
 
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>)
+
 - **[participants](<participants.md>):** [Darren Kong](<Darren Kong.md>) [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>):

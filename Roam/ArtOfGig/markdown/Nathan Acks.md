@@ -13,8 +13,8 @@
     - [[Code Style Guide]]
     - [[IT Infrastructure and Project Security Basics]]
     - [[Threat Model]]
-    - [[Yak Collective Member Types]]
     - [[Discord Channel Lifecycle and Organization]]
+    - [[Yak Collective Member Types]]
 - Public Inbox::
     - Put anything you like here (I check this every couple of days, and will removed seen items).
 - Pings::

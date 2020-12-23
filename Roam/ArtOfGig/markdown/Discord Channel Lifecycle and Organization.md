@@ -3,7 +3,7 @@ Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[November 9th, 2020]] by [[Nathan Acks]]
 Current State:: {{or: Proposed | Draft | Live | Archived}} 
-Last Updated:: [[December 19th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 20th, 2020]] by [[Nathan Acks]]
 Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
 # Channel Categories
     ## Plaza
@@ -11,7 +11,10 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
             - "[[Nathan Acks]] Just as this revision makes a distinction between "internal" and "external" projects, it resurrects the "Discussions" sections as an internal counterpart to "Plaza". Conceptually: "Plaza" is like a Roman Forum -- announcements happen there, public calendars are maintained, someone's writing "help wanted" ads in chalk, etc. "Discussions" are conversations (that may or may not be "public") that would instead be held indoors -- coffee shop philosophy, topical conversation that people may or may not care about, non-project planning, etc."
         ### Proposed Changes
             - Rename "Public Plaza" → "Plaza".
-            - ^^New [[December 19th, 2020]]^^ Set **Server Settings > Overview > System Messages Channel** to "No System Messages" and delete `#general`
+            - ^^New [[December 19th, 2020]]^^ Move `#experiments-log` from "Plaza" to "Discussions"
+            - ^^New [[December 20th, 2020]]^^ Move `#take-gig-leave-gig` from "Discussions" to "Plaza"
+            - ^^New [[December 20th, 2020]]^^ Move `#yaktalk-content` from "Bureaucracy" to "Plaza"
+            - ^^New [[December 20th, 2020]]^^ Set **Server Settings > Overview > System Messages Channel** to `#announcements`, turn __off__ **Send a random welcome message when someone joins this server** and **Send a message when someone boosts this server**, and archive `#general`.
                 - [[Nathan Acks]] `#events` has a distinct purpose and there is a desire to keep `#announcements` low-noise. Join events (which is really all that exists in `#general`) are just noise, and the channel isn't used for anything else.
                 - __Previous proposed version of this change is archived below this bullet.__
                     - Merge `announcements`, `events`, and `general`.
@@ -31,44 +34,33 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
                     - [[Nathan Acks]] Should have said "move". Fixed.
                 - [[Jenna Dixon]] can you point to an example of this [[Nathan Acks]]? #pong Not sure I see what you mean here. Prolly agree though already lol
                     - ^^New [[December 19th, 2020]]^^ [[Nathan Acks]] Dropping this proposed change, as based on other feedback I'm thinking about things differently now.
-            - ^^New [[December 19th, 2020]]^^ Move channels from "Discussions" to "Plaza" as appropriate?
-                - [[Nathan Acks]] See 
-            - "Move channels from "Discussions" to "Plaza" as appropriate (and __vice versa__)?"
-                - "[[Nathan Acks]] Example moves:"
-                    - "`#coworking-cafe` and `#experiments-log` __might__ make more sense in "Discussions""
-    ## Voice Chats
+    ## Voice
         Voice channels (and associated text channels).
         ### Proposed Changes
-            - ^^Updated [[December 19th, 2020]]^^ Rename "Voice Channels" → "Voice Chats".
+            - Rename "Voice Channels" → "Voice".
                 - [[Jenna Dixon]] 👍streamlining is good
-                - ^^New [[December 19th, 2020]]^^ [[Nathan Acks]] Given the discussion below, tweaking this proposed change slightly.
-    ## External Projects
-        Currently active ~~internal and~~ externally-facing projects. 
+    ## Projects
+        Currently active internal __and__ externally-facing projects. 
             - [[Maier Fenster]] maybe have separate groups for internal and external projects
                 - [[Nathan Acks]] My thought was to mix them together, as I don't think we have that many... But I don't have a strong opinion.
                 - [[Jenna Dixon]] could be helpful to keep separate. thinking of public projects in a channel that will eventually also include 💸gig projects 💸?
                 - [[Venkatesh Rao]] suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [[Astonishing Stories]] got some budget out of [[Neurofuturama]] tithe.
                     - [[Maier Fenster]] i think "paid" does not matter. inwards or outwards facing does
         ### Proposed Changes
-            - ^^New [[December 19th, 2020]]^^ Rename "Projects"  → "External Projects".
             - ~~Merge in any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Plaza".~~
                 - [[Jenna Dixon]] Hmmm 🤔Not sure about this. Have liked the Bureaucracy as a home for internal structural-type conversations. Won't lumping them all together create quite a long list? #pong [[Nathan Acks]]
 Perhaps drop a proposed new list in simple text here so that we can see what the new look would be? » [[Draft Revised Discord Channels Proposal v1]][[Maier Fenster]]any solution which does not require clicking
                     - ^^New [[December 19th, 2020]]^^ [[Nathan Acks]] Dropping this proposed change, as based on other feedback I'm thinking about things differently now.
-    ## ^^New [[December 19th, 2020]]^^ Internal Projects
-        - Currently active internally-facing projects. 
-        - ### Proposed Changes
-            - Rename "Bureaucracy" → "Internal Projects".
-            - Move any internal (non-project) discussions to "Discussions" or "Plaza", as appropriate.
-                - [[Nathan Acks]] Based on the feedback, it seems like it would be better to pursue an internal/external project split. Example moves:
-                    - `#admin-talk` → "Discussions"
-                    - `#take-gig-leave-gig` → "Plaza"
-                    - `#infrastructure`, `#production`, `#yc-marketing` stay in "Internal Projects"
+            - ^^New [[December 20th, 2020]]^^ Move `#collaborations` to "Discussions"
+            - ^^New [[December 20th, 2020]]^^ Move `#subscribe-projects` to "Plaza"
+            - ^^New [[December 20th, 2020]]^^ Move `#infrastructure`, `#production`, `#bots-and-automation-🤖`, and `#yc-marketing` from "Bureaucracy" to "Projects"
+            - ^^New [[December 20th, 2020]]^^ Make project channels __only__ visible to people who have the appropriate project role (reduces clutter)
+                - [[Nathan Acks]] See [[Jordan Peacock]]'s work in classifying things: https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d
     ## ^^New [[December 19th, 2020]]^^ Discussions
         - Discussion and information channels with a more targeted audience.
             - [[Nathan Acks]] Just as this revision makes a distinction between "internal" and "external" projects, it resurrects the "Discussions" sections as an internal counterpart to "Plaza". Conceptually: "Plaza" is like a Roman Forum -- announcements happen there, public calendars are maintained, someone's writing "help wanted" ads in chalk, etc. "Discussions" are conversations (that may or may not be "public") that would instead be held indoors -- coffee shop philosophy, topical conversation that people may or may not care about, non-project planning, etc.
         - ### Proposed Changes
-            - Move channels from "Discussions" to "Plaza" as appropriate (and __vice versa__)?
+            - Move channels from "Bureaucracy" to "Discussions" as appropriate (basically, all channels not listed as being moved elsewhere)
                 - [[Darren Kong]] suggestions:
                     - plaza
                         - move lounge from discussion to plaza
@@ -76,8 +68,12 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
                         - move new-to-consulting from discussion to plaza
                     - basically general purpose channels that we might want to promote for users to find a place to discuss should go in plaza. 
                         - tempted to say to downgrade experiments-log to bureaucracy or discussion ? it's not really clear what it's purpose is 
-                - [[Nathan Acks]] Example moves:
-                    - `#coworking-cafe` and `#experiments-log` __might__ make more sense in "Discussions"
+                - [[Nathan Acks]] Basically:
+                    - "^^New [[December 20th, 2020]]^^ Move `#infrastructure`, `#production`, `#bots-and-automation-🤖`, and `#yc-marketing` from "Bureaucracy" to "Projects""
+                    - "^^New [[December 20th, 2020]]^^ Move `#yaktalk-content` from "Bureaucracy" to "Plaza""
+                    - Everything else gets moved to "Discussions"
+    ## ^^New [[December 20th, 2020]]^^ Bureaucracy
+        - This category will be deleted.
     ## Incubator
         A place for new channels to find their legs. Or not.
         ### Proposed Changes
@@ -102,13 +98,13 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
         - A channel that receives at least 3 "thumbs up" from different active yaks, made yaks, or yak shavers is born into the "Incubator".
             - [[Maier Fenster]] i think 3 are enough for incubator.
                 - [[Nathan Acks]] Changed from 5 → 3
-        - ^^Updated [[December 19th, 2020]]^^ Channels in the incubator must show sustained interest for 1 month to be promoted to "Plaza", "Discussions", "Internal Projects", "External Projects", ~~"Projects",~~ or "Voice Chats" (as appropriate).
+        - ^^Updated [[December 19th, 2020]]^^ Channels in the incubator must show sustained interest for 1 month to be promoted to "Plaza", "Discussions", "Projects", or "Voice" (as appropriate).
             __Sustained interest__ means posts from at least 3 yaks, with an __average__ (for the entire channel) of at least 1 post per day and no more than 1 week (for the entire channel) between any two posts.
                 - [[Maier Fenster]] i say 3 yaks. and 1 week, not 3 days. there are holidays, you know
                     - [[Nathan Acks]] Change made
         - Channels in the incubator that do not show sustained interest are [archived](((qI9wDK8cG))).
     ## Life
-        - ^^Updated [[December 19th, 2020]]^^ Channels live in "Plaza", "Discussions", "Internal Projects", "External Projects", or "Voice Chats" ~~or "Projects"~~, as appropriate.
+        - ^^Updated [[December 19th, 2020]]^^ Channels live in "Plaza", "Discussions", "Projects", or "Voice", as appropriate.
             - [[Maier Fenster]] i feel having more categories would be helpful
             - [[Jenna Dixon]] I'm confused on this [[Nathan Acks]] #pong 
 Are you proposing to put #Discussions and #Bureaucracy under #Projects? 

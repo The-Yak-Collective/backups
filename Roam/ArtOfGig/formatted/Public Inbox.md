@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Nathan Acks](<Nathan Acks.md>)
-- [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+- [Yak Collective Member Types](<Yak Collective Member Types.md>)
 - **[Public Inbox](<Public Inbox.md>):**
 

@@ -13,8 +13,8 @@
     - [Code Style Guide](<Code Style Guide.md>)
     - [IT Infrastructure and Project Security Basics](<IT Infrastructure and Project Security Basics.md>)
     - [Threat Model](<Threat Model.md>)
-    - [Yak Collective Member Types](<Yak Collective Member Types.md>)
     - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+    - [Yak Collective Member Types](<Yak Collective Member Types.md>)
 - **[Public Inbox](<Public Inbox.md>):**
     - Put anything you like here (I check this every couple of days, and will removed seen items).
 - **[Pings](<Pings.md>):**
@@ -88,6 +88,9 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [December 20th, 2020](<December 20th, 2020.md>)
+- [Nathan Acks](<Nathan Acks.md>)
+
 ## [December 6th, 2020](<December 6th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -109,7 +112,7 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-Last Updated:: [December 19th, 2020](<December 19th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 20th, 2020](<December 20th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
@@ -120,12 +123,6 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
 - [Nathan Acks](<Nathan Acks.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>) can you point to an example of this [Nathan Acks](<Nathan Acks.md>)?
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
-
-- [Nathan Acks](<Nathan Acks.md>)
-
-- "[Nathan Acks](<Nathan Acks.md>)
 
 - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
 
@@ -241,6 +238,10 @@ Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
 
 - **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Jordan Peacock](<Jordan Peacock.md>) [Nathan Acks](<Nathan Acks.md>)
+
+1. [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)'
 

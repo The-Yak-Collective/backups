@@ -108,6 +108,40 @@
             - Basic path planning and navigation
             - API-controlled payload ops
             - etc.
+    - Rover API for remote operations
+        - This page compiles information on an API on rovers to perform remote (and local) operations (e.g. over a network).
+        - Brainstorming requirements
+            - Operations for remote controls. E.g. someone in Uppsala can execute a program on a rover in Belo Horizonte.
+            - Remote debugging
+            - If we can identify a basic set of operations (forward, left, etc), provide a "standard" software interface definition, for all rovers to implement. The intent is to facilitate exchanges related to software, decoupling local innovation (special skills in the rover) from global innovation (generic algorithms like obstacle avoidance or "follow me").
+            - Remote monitoring / logging
+        - Pending questions
+            - What is overlap between the API we are discussing and the API a final mars rover would have?
+            - Where would the computing power (e.g. for AI, image processing) reside - at sender, at bot, at a location near the bot (for now cloud) ?
+        - Breakdown into software components
+            - The Rover API is likely to be 3 APIs
+                - Internet API for remote calls.
+                - Client API on the rover: Used by the internet API, and by any other client (mobile phone, client application running on the rover).
+                - Brain API on the rover: Hooks for the Rover API to forward operations to the actual rover code, and get results back (e.g. code to get images from the rover eyes).
+        - Early Attempt: Simple remote control for HiWonder SpiderPi:
+            - https://www.hiwonder.hk/products/robosoul-spiderpi-ai-intelligent-visual-hexapod-robot-powered-by-raspberry-pi
+            - 1 online, but unusable yet (no API written @2020-12-21; issue with login to the bot (HiWonder contacted)).
+            - API coverage:
+                - Web-like API with RESTful JSON endpoints.
+                - Basic operations:
+                    - Up, Down; (the spider can lift its body up/down)
+                    - Forward, Backward;
+                    - Crab-left, Crab-right;
+                    - Turn-left, Turn-right;
+                    - Camera on/off
+                    - Camera reading/streaming
+                    - Proximity sensor reading/streaming
+                    - OS stats
+                - WIP examples:
+                    - PUT /api/v1/height/34: Lift the body up to 34% elevation.
+                    - GET /api/v1/defaults: Gets the default values.
+                    - PUT /api/v1/defaults/height/34: Set default body elevation to 34% elevation.
+                    - DELETE /api/v1/height: Reset body to default elevation.
 
 # Backlinks
 ## [Internal Project](<Internal Project.md>)

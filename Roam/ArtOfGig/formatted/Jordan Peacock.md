@@ -70,6 +70,9 @@ https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=shari
 ## [Discord](<Discord.md>)
 Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
 
+## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+- [Nathan Acks](<Nathan Acks.md>) See [Jordan Peacock](<Jordan Peacock.md>)'
+
 ## [Governance Tests](<Governance Tests.md>)
 - Governance tests are accepted through a transparent and documented procedure. [Jordan Peacock](<Jordan Peacock.md>)
 
@@ -83,6 +86,8 @@ Chief Page Wrangler:: [Jordan Peacock](<Jordan Peacock.md>)
 - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Jordan Peacock](<Jordan Peacock.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Jordan Peacock](<Jordan Peacock.md>)
+
 - [ ] receive reply from [Jordan Peacock](<Jordan Peacock.md>)
 
 marketing outreach w/ [Alex Wagner](<Alex Wagner.md>)+ levelling up discord w/ [Jordan Peacock](<Jordan Peacock.md>)
