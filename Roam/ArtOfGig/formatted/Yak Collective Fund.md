@@ -56,7 +56,7 @@
 ## [Project Pitches](<Project Pitches.md>)
 - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [Yak Collective Fund](<Yak Collective Fund.md>).
 
-- See also: [Production Squad](<Production Squad.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Yak Collective Fund](<Yak Collective Fund.md>)
+- See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Yak Collective Fund](<Yak Collective Fund.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
 10. [Venkatesh Rao](<Venkatesh Rao.md>):  [Yak Collective Fund](<Yak Collective Fund.md>)

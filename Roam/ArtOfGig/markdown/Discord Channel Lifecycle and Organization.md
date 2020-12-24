@@ -13,6 +13,9 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
             - Rename "Public Plaza" → "Plaza".
             - ^^New [[December 19th, 2020]]^^ Move `#experiments-log` from "Plaza" to "Discussions"
             - ^^New [[December 20th, 2020]]^^ Move `#take-gig-leave-gig` from "Discussions" to "Plaza"
+            - ^^New [[December 19th, 2020]]^^ "Move channels from "Bureaucracy" to "Discussions" as appropriate (basically, all channels not listed as being moved elsewhere)"
+                - "[[Nathan Acks]] Basically:"
+                    - ""^^New [[December 20th, 2020]]^^ Move `#infrastructure`, `#production`, `#bots-and-automation-🤖`, and `#yc-marketing` from "Bureaucracy" to "Projects"""
             - ^^New [[December 20th, 2020]]^^ Move `#yaktalk-content` from "Bureaucracy" to "Plaza"
             - ^^New [[December 20th, 2020]]^^ Set **Server Settings > Overview > System Messages Channel** to `#announcements`, turn __off__ **Send a random welcome message when someone joins this server** and **Send a message when someone boosts this server**, and archive `#general`.
                 - [[Nathan Acks]] `#events` has a distinct purpose and there is a desire to keep `#announcements` low-noise. Join events (which is really all that exists in `#general`) are just noise, and the channel isn't used for anything else.
@@ -56,6 +59,15 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
             - ^^New [[December 20th, 2020]]^^ Move `#infrastructure`, `#production`, `#bots-and-automation-🤖`, and `#yc-marketing` from "Bureaucracy" to "Projects"
             - ^^New [[December 20th, 2020]]^^ Make project channels __only__ visible to people who have the appropriate project role (reduces clutter)
                 - [[Nathan Acks]] See [[Jordan Peacock]]'s work in classifying things: https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d
+    ## ^^New [[December 19th, 2020]]^^ Internal Projects
+        - Currently active internally-facing projects. 
+        - ### Proposed Changes
+            - Rename "Bureaucracy" → "Internal Projects".
+            - Move any internal (non-project) discussions to "Discussions" or "Plaza", as appropriate.
+                - [[Nathan Acks]] Based on the feedback, it seems like it would be better to pursue an internal/external project split. Example moves:
+                    - `#admin-talk` → "Discussions"
+                    - 
+                    - 
     ## ^^New [[December 19th, 2020]]^^ Discussions
         - Discussion and information channels with a more targeted audience.
             - [[Nathan Acks]] Just as this revision makes a distinction between "internal" and "external" projects, it resurrects the "Discussions" sections as an internal counterpart to "Plaza". Conceptually: "Plaza" is like a Roman Forum -- announcements happen there, public calendars are maintained, someone's writing "help wanted" ads in chalk, etc. "Discussions" are conversations (that may or may not be "public") that would instead be held indoors -- coffee shop philosophy, topical conversation that people may or may not care about, non-project planning, etc.

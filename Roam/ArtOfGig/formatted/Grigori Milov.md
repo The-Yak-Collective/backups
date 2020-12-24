@@ -60,6 +60,9 @@
 ## [December 16th, 2020](<December 16th, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)
 
+## [December 23rd, 2020](<December 23rd, 2020.md>)
+- [x] [Grigori Milov](<Grigori Milov.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [x] [Grigori Milov](<Grigori Milov.md>)
 
@@ -186,7 +189,7 @@
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
-## [Production Squad](<Production Squad.md>)
+## [Production Cell](<Production Cell.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
 - [Grigori Milov](<Grigori Milov.md>)

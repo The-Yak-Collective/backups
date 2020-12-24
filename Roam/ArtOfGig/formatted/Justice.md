@@ -11,7 +11,7 @@
 
 - [ ] [Justice](<Justice.md>)
 
-## [Production Squad](<Production Squad.md>)
+## [Production Cell](<Production Cell.md>)
 - [Justice](<Justice.md>)
 
 ## [September 21st, 2020](<September 21st, 2020.md>)

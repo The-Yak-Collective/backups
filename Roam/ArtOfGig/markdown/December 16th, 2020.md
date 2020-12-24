@@ -1,7 +1,7 @@
 - [[YC Marketing - distributed CMO]] weekly sync #meeting-notes
     - Location: discord 
-    - Time: 5pm GMT 
     - Participants (TBC)
+        - Time: 5pm GMT 
         - {{[[DONE]]}} [[Hugo Macedo]] 
         - {{[[DONE]]}} [[Maier Fenster]]
         - {{[[DONE]]}} [[Grigori Milov]]

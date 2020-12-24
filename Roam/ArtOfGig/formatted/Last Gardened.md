@@ -48,6 +48,10 @@
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
+## [Schema | member data](<Schema | member data.md>)
+- **[Last Updated](<Last Updated.md>):** [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
 ## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)
 - **[Last Updated](<Last Updated.md>):** 
 - **[Last Gardened](<Last Gardened.md>):**

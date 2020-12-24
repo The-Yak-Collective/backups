@@ -33,6 +33,9 @@
 ## [December 16th, 2020](<December 16th, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
 
+## [December 23rd, 2020](<December 23rd, 2020.md>)
+- [x] [Maier Fenster](<Maier Fenster.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [x] [Maier Fenster](<Maier Fenster.md>)
 
@@ -216,12 +219,6 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
 ## [Schema | member data](<Schema | member data.md>)
 [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)
 
-- **yak orbit**: (display only) will reflect how member-like the yak is, generally, but not exactly corresponding to yak..member scale [Maier Fenster](<Maier Fenster.md>)
-
-- [Maier Fenster](<Maier Fenster.md>)
-
-- **password**: [Maier Fenster](<Maier Fenster.md>)
-
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 
@@ -270,8 +267,13 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 ## [Yak Collective Website](<Yak Collective Website.md>)
 - **[Referees](<Referees.md>):** [Maier Fenster](<Maier Fenster.md>)
 
+Chief Page Wrangler:: [Maier Fenster](<Maier Fenster.md>)
+
 ## [Yak Network Map](<Yak Network Map.md>)
 - Attending: [Vinay Débrou](<Vinay Débrou.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Maier Fenster](<Maier Fenster.md>)
+
+## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
+- [Yak X1](<Yak X1.md>) by [Maier Fenster](<Maier Fenster.md>)
 
 ## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [pong](<pong.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)

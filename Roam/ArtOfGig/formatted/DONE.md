@@ -7,6 +7,13 @@
 
 - {{[DONE](<DONE.md>)}
 
+## [December 23rd, 2020](<December 23rd, 2020.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - {{[DONE](<DONE.md>)}
 

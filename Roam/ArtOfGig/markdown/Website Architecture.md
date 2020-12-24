@@ -32,6 +32,8 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
         - Various style sheets.
     - `fonts`
         - Fonts used by the website; refer to the comments at the top of `css/fonts.source.css` for details about how to update/regenerate this directory.
+    - `functions`
+        - [Netlify Functions](https://docs.netlify.com/functions/overview/).
     - `img`
         - Site-wide image files.
     - `js`
@@ -127,6 +129,8 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
         - `bin/minify.LICENSE`
         - `bin/mkfonts.sh`
             - A script used to regenerate the `fonts` directory. Refer to the comments at the top of `css/fonts.source.css` for details about how to use this.
+        - `bin/*`
+            - Various helper scripts and applications.
         - `_config.yml`
         - `Gemfile`
         - `Gemfile.lock`

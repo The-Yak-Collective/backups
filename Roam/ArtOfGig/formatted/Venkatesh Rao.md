@@ -239,6 +239,10 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
+1. [Venkatesh Rao](<Venkatesh Rao.md>)
+
+2. [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -301,7 +305,7 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Old Forms of Justice in a New World ](<Old Forms of Justice in a New World .md>)
 - (1 person) **Modern Praetorian Guard**: Maybe a short fiction piece? Derek Wince, mercenary peace officer? I had a conversation with [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Production Squad](<Production Squad.md>)
+## [Production Cell](<Production Cell.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
@@ -552,6 +556,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - **[Last Updated](<Last Updated.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - **[Last Gardened](<Last Gardened.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+
+## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
+- [Yak W1](<Yak W1.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - Game-in-the-head > head-in-the-game. Makes sense after a few rounds with different client types - [Venkatesh Rao](<Venkatesh Rao.md>)

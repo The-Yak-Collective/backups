@@ -17,6 +17,7 @@
             - A dojo or temple for the Spirit
         - Step 1: Review and taxonomize hacks that address any of the following:
             - Noise and sound control
+            - High quality air purification - temperature, humidity, air flow
             - Biophilia in the presence of nature
             - Ritual spacing and control of intent
             - Privacy enhancement
@@ -28,6 +29,7 @@
     - [[ergonomic]] level of analysis
         - #Lighting
         - #Sound
+        - Air Quality - flow, filtration, purification
         - [[Traffic flow]]
         - [[enrichment]] (e.g #windows and #plants)
         - [[Soft infrastructure]] less well studied

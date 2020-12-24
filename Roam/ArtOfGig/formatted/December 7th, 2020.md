@@ -44,7 +44,7 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 7th, 2020](<December 7th, 2020.md>)
 
 ## [Substack](<Substack.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)

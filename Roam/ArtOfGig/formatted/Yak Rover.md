@@ -52,28 +52,7 @@
 - **Years 3-10 Roadmap**
     - To be fleshed out obviously, but the goal would be to get to increasing levels of capability, cost, and external financing, and building out of the "friends of the project" network to the point that we have a realistic chance of actually getting a seat on a rocket going somewhere interesting.
 - **Scratch (the following sections of the project page are under development)**
-    - Missions
-        - Inspection
-        - Troubleshooting
-        - Survey
-        - Sample collection
-        - Self-inspection
-        - Self-repair
-    - Tests
-        - Mobility
-            - Climb a 45 degree gradient
-            - Climb a 30mm high step
-            - Clear obstacles 50mmX50mmX50mm under chassis
-            - 45 degree roll without toppling
-        - Physical robustness
-            - Can survive 1m drop without damage
-            - Can survive falling objects up to 50 grams
-        - Power
-            - Last 1 hour at full power in the dark
-            - Last 6 months in minimal power draw hibernation
-        - Electronics
-            - Can survive failure of any single component ((2x redundancy full)
-    - Yak Rover 1 rough design
+    - Yak W1 rough design
         - Chassis
             - Fits in a 60cm x 30 cm x 20 cm cuboid
             - 3-wheel tricycle with solar panels
@@ -108,6 +87,27 @@
             - Basic path planning and navigation
             - API-controlled payload ops
             - etc.
+    - Missions
+        - Inspection
+        - Troubleshooting
+        - Survey
+        - Sample collection
+        - Self-inspection
+        - Self-repair
+    - Tests
+        - Mobility
+            - Climb a 45 degree gradient
+            - Climb a 30mm high step
+            - Clear obstacles 50mmX50mmX50mm under chassis
+            - 45 degree roll without toppling
+        - Physical robustness
+            - Can survive 1m drop without damage
+            - Can survive falling objects up to 50 grams
+        - Power
+            - Last 1 hour at full power in the dark
+            - Last 6 months in minimal power draw hibernation
+        - Electronics
+            - Can survive failure of any single component ((2x redundancy full)
     - Rover API for remote operations
         - This page compiles information on an API on rovers to perform remote (and local) operations (e.g. over a network).
         - Brainstorming requirements

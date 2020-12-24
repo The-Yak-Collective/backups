@@ -12,6 +12,10 @@
 - PDF white-paper that's explaining slicing the pie, researching the edge cases, assumptions, drawbacks, comparisons to other equity compensation schemes
     - **[Project size](<Project size.md>):**
 
+## [Yak Collective Website](<Yak Collective Website.md>)
+- **[Deliverable](<Deliverable.md>):** https://www.yakcollective.org/
+    - **[Project size](<Project size.md>):**
+
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
 - a more general plan for a set of bots
     - **[Project size](<Project size.md>):**

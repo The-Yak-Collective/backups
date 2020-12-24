@@ -47,3 +47,5 @@ mathIsDifferent = 1 + (2 * (3 / 4));```
 ## [Yak Collective Website](<Yak Collective Website.md>)
 - [Code Style Guide](<Code Style Guide.md>)
 
+- [Code Style Guide](<Code Style Guide.md>)
+

@@ -79,7 +79,7 @@
             - {{[[TODO]]}} [[Venkatesh Rao]] ping: [[Siva Swaroop]]
             - {{[[TODO]]}} [[Venkatesh Rao]] schedule: weekly call for next 2-3-4 weeks to conclude project
                 - {{[[TODO]]}} ping: [[Hugo Macedo]] to join next call for launch planning
-            - {{[[TODO]]}} [[Jenna Dixon]] share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [[Production Squad]]
+            - {{[[TODO]]}} [[Jenna Dixon]] share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [[Production Cell]]
             - {{[[DONE]]}} [[Jenna Dixon]] refine: current kanban for production endgame 👆
                 - {{[[DONE]]}} #ping: [[Venkatesh Rao]] on Discord FF channel
             - {{[[TODO]]}} [[Suwaythan Nahaganeshan]] push: design along to v2 ahead of call with jenna on Wed [[September 23rd, 2020]] at noon

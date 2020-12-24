@@ -173,6 +173,9 @@ Yaks competing for attention
 ## [December 16th, 2020](<December 16th, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [December 23rd, 2020](<December 23rd, 2020.md>)
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

@@ -13,7 +13,7 @@
     - **[Deliverable](<Deliverable.md>):**
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
-Meta::
+- XXX
     - **[Deliverable](<Deliverable.md>):**
 
 ## [bots-a-lot internal project page](<bots-a-lot internal project page.md>)

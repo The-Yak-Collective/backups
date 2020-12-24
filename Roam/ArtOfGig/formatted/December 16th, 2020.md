@@ -1,7 +1,7 @@
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) weekly sync [meeting-notes](<meeting-notes.md>)
     - Location: discord 
-    - Time: 5pm GMT 
     - Participants (TBC)
+        - Time: 5pm GMT 
         - [x] [Hugo Macedo](<Hugo Macedo.md>) 
         - [x] [Maier Fenster](<Maier Fenster.md>)
         - [x] [Grigori Milov](<Grigori Milov.md>)

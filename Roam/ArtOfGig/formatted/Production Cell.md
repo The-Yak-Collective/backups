@@ -1,4 +1,4 @@
-- **[About](<About.md>):** __A place to build a group of yaks interested in swarming to produce YakC work outputs.__
+- **[About](<About.md>):** __A place to build a group of yaks interested in helping to produce YakC work outputs.__
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) | [Fname Lname](<Fname Lname.md>) 
 - 
@@ -105,34 +105,34 @@ Native, Webflow, Carrd, Google Slides....__
 
 # Backlinks
 ## [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>)
-- [Sachin Benny](<Sachin Benny.md>) will add folks to [Production Squad](<Production Squad.md>)
+- [Sachin Benny](<Sachin Benny.md>) will add folks to [Production Cell](<Production Cell.md>)
 
 ## [Future Frontiers](<Future Frontiers.md>)
-- [ ] [Jenna Dixon](<Jenna Dixon.md>) share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [Production Squad](<Production Squad.md>)
+- [ ] [Jenna Dixon](<Jenna Dixon.md>) share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [Production Cell](<Production Cell.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-- Project mgt as independent role »»  [Production Squad](<Production Squad.md>)
+- Project mgt as independent role »»  [Production Cell](<Production Cell.md>)
 
 ## [Project Pitches](<Project Pitches.md>)
-- See also: [Production Squad](<Production Squad.md>)
+- See also: [Production Cell](<Production Cell.md>)
 
 ## [September 20th, 2020](<September 20th, 2020.md>)
-- [Jenna Dixon](<Jenna Dixon.md>) added [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) to [Production Squad](<Production Squad.md>)
+- [Jenna Dixon](<Jenna Dixon.md>) added [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) to [Production Cell](<Production Cell.md>)
 
 ## [September 21st, 2020](<September 21st, 2020.md>)
-- added [Justice](<Justice.md>) to [Production Squad](<Production Squad.md>)
+- added [Justice](<Justice.md>) to [Production Cell](<Production Cell.md>)
 
 ## [September 8th, 2020](<September 8th, 2020.md>)
-- updated [Production Squad](<Production Squad.md>)
+- updated [Production Cell](<Production Cell.md>)
 
 ## [Things We Need](<Things We Need.md>)
-- volunteer for light [Production Squad](<Production Squad.md>)
+- volunteer for light [Production Cell](<Production Cell.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)
-- [Production Squad](<Production Squad.md>)
+- [Production Cell](<Production Cell.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)
-- proofreading for typos » [Production Squad](<Production Squad.md>)
+- proofreading for typos » [Production Cell](<Production Cell.md>)
 
-- soft launch readers » [Production Squad](<Production Squad.md>)
+- soft launch readers » [Production Cell](<Production Cell.md>)
 

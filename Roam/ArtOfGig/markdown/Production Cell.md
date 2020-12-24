@@ -1,4 +1,4 @@
-- About:: __A place to build a group of yaks interested in swarming to produce YakC work outputs.__
+- About:: __A place to build a group of yaks interested in helping to produce YakC work outputs.__
 - Chief Page Wrangler:: [[Jenna Dixon]]
     - Additional Page Wranglers:: [[Suwaythan Nahaganeshan]] | [[Fname Lname]] 
 - 
