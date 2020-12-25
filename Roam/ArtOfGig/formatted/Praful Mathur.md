@@ -19,8 +19,6 @@
 - [Praful Mathur](<Praful Mathur.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-3. [Praful Mathur](<Praful Mathur.md>)
-
 - [Praful Mathur](<Praful Mathur.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)

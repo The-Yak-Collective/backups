@@ -79,7 +79,7 @@ The other module may have something to do with graphic information. Can we do a 
 ## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
 - Take on some service projects like helping build our [Infrastructure](<Infrastructure.md>), hosting a [Chat Formats](<Chat Formats.md>) or contributing to our [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
 
 ## [Yak Collective State of the Union](<Yak Collective State of the Union.md>)

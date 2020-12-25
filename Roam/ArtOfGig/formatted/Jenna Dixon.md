@@ -166,7 +166,7 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>)] by [Jenna Dixon](
 
 - **[Last Updated](<Last Updated.md>):** [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
 
 - [Jenna Dixon](<Jenna Dixon.md>)
@@ -186,12 +186,14 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 Consult [Jenna Dixon](<Jenna Dixon.md>)
 
-- See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>)
+- See also: [Production Squad](<Production Squad.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>)
 
 - **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Publishing Projects Sampler](<Publishing Projects Sampler.md>)
 - **[Created](<Created.md>):** [August 4th, 2020](<August 4th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
+
+- **[Updated](<Updated.md>):** [December 17th, 2020](<December 17th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
@@ -206,6 +208,8 @@ Consult [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
 [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>)
+
+- [Jenna Dixon](<Jenna Dixon.md>)
 
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - "[September 14th, 2020](<September 14th, 2020.md>) Notes on project call w/ [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>)"

@@ -1,6 +1,6 @@
 - could use  {{[∆](<∆.md>):1+2}}
 - [Astonishing Stories -  Meeting notes](<Astonishing Stories -  Meeting notes.md>) call 19:00 on Discord General w [Sachin Benny](<Sachin Benny.md>) [Amanda Reeves](<Amanda Reeves.md>) [Jenna Dixon](<Jenna Dixon.md>) [Jordan Peacock](<Jordan Peacock.md>)
-- added [Justice](<Justice.md>) to [Production Cell](<Production Cell.md>) illustrator. working on [Astonishing Stories](<Astonishing Stories.md>)
+- added [Justice](<Justice.md>) to [Production Squad](<Production Squad.md>) illustrator. working on [Astonishing Stories](<Astonishing Stories.md>)
 - 
 
 # Backlinks

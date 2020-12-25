@@ -35,6 +35,11 @@ Last Gardened:: [October 21st, 2020](<October 21st, 2020.md>) by [Jenna Dixon](<
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>) [Knack](<Knack.md>)
 
+## [Schema | member data](<Schema | member data.md>)
+Note that the functionality represented by the member data files will eventually be subsumed into [Knack](<Knack.md>).
+
+- The following front matter attributes are allowed in member data files, but should seldom, if ever, be included. There is probably no reason to implement them in [Knack](<Knack.md>).
+
 ## [Threat Model](<Threat Model.md>)
 - [Knack](<Knack.md>)
 

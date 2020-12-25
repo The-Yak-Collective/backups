@@ -132,7 +132,7 @@ Consult [Jenna Dixon](<Jenna Dixon.md>) for details
         - **Financial Structure**: Internal project
     - [Empirical Feng Shui](<Empirical Feng Shui.md>) - Collaborative Physical Design / Hardware Design / Social Science to build an Aeron Chair for the Mind
 - **[Notes](<Notes.md>):**
-    - See also: [Production Cell](<Production Cell.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Yak Collective Fund](<Yak Collective Fund.md>) to see how much financial support is currently available.
+    - See also: [Production Squad](<Production Squad.md>) page maintained by [Jenna Dixon](<Jenna Dixon.md>) for production support that will be available, and the [Yak Collective Fund](<Yak Collective Fund.md>) to see how much financial support is currently available.
     - Unlike the old proposals [Greenlighting Process](<Greenlighting Process.md>) (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 - **[Last Gardened](<Last Gardened.md>):** [December 5th, 2020](<December 5th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)

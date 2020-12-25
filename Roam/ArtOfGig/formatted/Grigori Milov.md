@@ -189,7 +189,7 @@
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
 - [Grigori Milov](<Grigori Milov.md>)

@@ -13,9 +13,6 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
             - Rename "Public Plaza" → "Plaza".
             - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ Move `[experiments-log](<experiments-log.md>)` from "Plaza" to "Discussions"
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[take-gig-leave-gig](<take-gig-leave-gig.md>)` from "Discussions" to "Plaza"
-            - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ "Move channels from "Bureaucracy" to "Discussions" as appropriate (basically, all channels not listed as being moved elsewhere)"
-                - "[Nathan Acks](<Nathan Acks.md>) Basically:"
-                    - ""^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[infrastructure](<infrastructure.md>)`, `[production](<production.md>)`, `[bots-and-automation-](<bots-and-automation-.md>)🤖`, and `[yc-marketing](<yc-marketing.md>)` from "Bureaucracy" to "Projects"""
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[yaktalk-content](<yaktalk-content.md>)` from "Bureaucracy" to "Plaza"
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Set **Server Settings > Overview > System Messages Channel** to `[announcements](<announcements.md>)`, turn __off__ **Send a random welcome message when someone joins this server** and **Send a message when someone boosts this server**, and archive `[general](<general.md>)`.
                 - [Nathan Acks](<Nathan Acks.md>) `[events](<events.md>)` has a distinct purpose and there is a desire to keep `[announcements](<announcements.md>)` low-noise. Join events (which is really all that exists in `[general](<general.md>)`) are just noise, and the channel isn't used for anything else.
@@ -59,15 +56,6 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[infrastructure](<infrastructure.md>)`, `[production](<production.md>)`, `[bots-and-automation-](<bots-and-automation-.md>)🤖`, and `[yc-marketing](<yc-marketing.md>)` from "Bureaucracy" to "Projects"
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Make project channels __only__ visible to people who have the appropriate project role (reduces clutter)
                 - [Nathan Acks](<Nathan Acks.md>) See [Jordan Peacock](<Jordan Peacock.md>)'s work in classifying things: https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d
-    ## ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ Internal Projects
-        - Currently active internally-facing projects. 
-        - ### Proposed Changes
-            - Rename "Bureaucracy" → "Internal Projects".
-            - Move any internal (non-project) discussions to "Discussions" or "Plaza", as appropriate.
-                - [Nathan Acks](<Nathan Acks.md>) Based on the feedback, it seems like it would be better to pursue an internal/external project split. Example moves:
-                    - `[admin-talk](<admin-talk.md>)` → "Discussions"
-                    - 
-                    - 
     ## ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ Discussions
         - Discussion and information channels with a more targeted audience.
             - [Nathan Acks](<Nathan Acks.md>) Just as this revision makes a distinction between "internal" and "external" projects, it resurrects the "Discussions" sections as an internal counterpart to "Plaza". Conceptually: "Plaza" is like a Roman Forum -- announcements happen there, public calendars are maintained, someone's writing "help wanted" ads in chalk, etc. "Discussions" are conversations (that may or may not be "public") that would instead be held indoors -- coffee shop philosophy, topical conversation that people may or may not care about, non-project planning, etc.
@@ -152,7 +140,7 @@ Are you proposing to put [Discussions](<Discussions.md>) and [Bureaucracy](<Bure
 - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
-4. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+1. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
 - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 

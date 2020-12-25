@@ -70,7 +70,7 @@
 - **[Created](<Created.md>):** [August 25th, 2020](<August 25th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 - **[Last Updated](<Last Updated.md>):**
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - 
 - **[Last Updated](<Last Updated.md>):**
 
@@ -80,10 +80,6 @@
 
 ## [Roam Gardening](<Roam Gardening.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Hugo Macedo](<Hugo Macedo.md>)
-- **[Last Updated](<Last Updated.md>):**
-
-## [Schema | member data](<Schema | member data.md>)
-[Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Jordan Peacock](<Jordan Peacock.md>)
 - **[Last Updated](<Last Updated.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)

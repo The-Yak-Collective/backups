@@ -21,7 +21,7 @@
 [[Maier Fenster]] lead? 
         - [[Momentum Problem]] cell
 [[Venkatesh Rao]] lead
-        - [[Production Cell]] cell
+        - [[Production Squad]] cell
 [[Jenna Dixon]] lead
     - **Active Cells**
         - [[Future Frontiers]] cell

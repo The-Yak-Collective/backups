@@ -239,10 +239,6 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
-1. [Venkatesh Rao](<Venkatesh Rao.md>)
-
-2. [Venkatesh Rao](<Venkatesh Rao.md>)
-
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -305,7 +301,7 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Old Forms of Justice in a New World ](<Old Forms of Justice in a New World .md>)
 - (1 person) **Modern Praetorian Guard**: Maybe a short fiction piece? Derek Wince, mercenary peace officer? I had a conversation with [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Project Pitches](<Project Pitches.md>)

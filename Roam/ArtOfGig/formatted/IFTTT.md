@@ -24,6 +24,9 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 ## [Netlify](<Netlify.md>)
 - `WEBHOOK_TOKEN` - Random string used to authenticate [IFTTT](<IFTTT.md>).
 
+## [Schema | member data](<Schema | member data.md>)
+- Because we are moving away from [IFTTT](<IFTTT.md>),
+
 ## [Threat Model](<Threat Model.md>)
 - [IFTTT](<IFTTT.md>)
 

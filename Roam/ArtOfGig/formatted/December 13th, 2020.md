@@ -4,6 +4,3 @@
 ## [Infrastructure](<Infrastructure.md>)
 - infrastructure chat 31 [December 13th, 2020](<December 13th, 2020.md>)
 
-## [Yak Collective Website](<Yak Collective Website.md>)
-Last Updated:: [December 13th, 2020](<December 13th, 2020.md>)
-

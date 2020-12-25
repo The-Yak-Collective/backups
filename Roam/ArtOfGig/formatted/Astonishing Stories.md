@@ -43,7 +43,7 @@
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - 20:00 convo [Nathan Acks](<Nathan Acks.md>) [Jenna Dixon](<Jenna Dixon.md>) on web implementation stuff »» [Astonishing Stories](<Astonishing Stories.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - [Astonishing Stories](<Astonishing Stories.md>)
 
 - [Astonishing Stories](<Astonishing Stories.md>)
@@ -56,7 +56,7 @@
 - [Astonishing Stories](<Astonishing Stories.md>)
 
 ## [September 21st, 2020](<September 21st, 2020.md>)
-- added [Justice](<Justice.md>) to [Production Cell](<Production Cell.md>) illustrator. working on [Astonishing Stories](<Astonishing Stories.md>)
+- added [Justice](<Justice.md>) to [Production Squad](<Production Squad.md>) illustrator. working on [Astonishing Stories](<Astonishing Stories.md>)
 
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - [Astonishing Stories](<Astonishing Stories.md>)

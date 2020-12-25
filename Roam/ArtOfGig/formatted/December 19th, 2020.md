@@ -9,10 +9,6 @@
 
 - ^^New [December 19th, 2020](<December 19th, 2020.md>)^
 
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-## ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
 ## ^^New [December 19th, 2020](<December 19th, 2020.md>)^
 
 - ^^New [December 19th, 2020](<December 19th, 2020.md>)^
