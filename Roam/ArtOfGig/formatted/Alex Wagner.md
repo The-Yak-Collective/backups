@@ -164,7 +164,7 @@ was working with this client to think about how they might productize senior web
 ## [Yak to Speed, A Crash Course on Consulting](<Yak to Speed, A Crash Course on Consulting.md>)
 - business-metaphysical country doctor-ing. maybe "maker of unknown-unknowns into known-unknowns" - [Alex Wagner](<Alex Wagner.md>)
 
-- All orga  nizations operate with some level of dysfunction. Essentially, a consultant helps organizations become more efficient. There are numerous ways to do this but it seems to come to improving: processes, communication, and decision-making within the org. - [Alex Wagner](<Alex Wagner.md>)
+- All organizations operate with some level of dysfunction. Essentially, a consultant helps organizations become more efficient. There are numerous ways to do this but it seems to come to improving: processes, communication, and decision-making within the org. - [Alex Wagner](<Alex Wagner.md>)
 
 - When they have a problem they don't know how to solve. When the individual or company is in a sufficient amount of pain to act and hire a consultant. [Alex Wagner](<Alex Wagner.md>)
 

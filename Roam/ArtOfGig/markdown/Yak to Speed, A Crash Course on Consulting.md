@@ -24,7 +24,7 @@
             - 7. Cover-your-ass
     - **WHY is there a market for consulting?**
         - running a successful business is about finding a success and then reproducing that success as often as possible with as little effort as possible. the kind of environment necessary to do this is not likely to foster highly independent thought or independent thinkers. but sometimes, you need independent thought (for example, to understand __why__ your success was a success, or to suggest new __kinds__ of things you might be able to build from your first success). enter, consulting - [[Damian Stewart]]
-        - All orga  nizations operate with some level of dysfunction. Essentially, a consultant helps organizations become more efficient. There are numerous ways to do this but it seems to come to improving: processes, communication, and decision-making within the org. - [[Alex Wagner]]
+        - All organizations operate with some level of dysfunction. Essentially, a consultant helps organizations become more efficient. There are numerous ways to do this but it seems to come to improving: processes, communication, and decision-making within the org. - [[Alex Wagner]]
             - tl;dr -  consultants are therapists for corporations - [[Krish Khubchand 🎈]]
     - **WHEN does an individual or company best benefit from, or need, consulting?**
         - When they have a problem they don't know how to solve. When the individual or company is in a sufficient amount of pain to act and hire a consultant. [[Alex Wagner]]

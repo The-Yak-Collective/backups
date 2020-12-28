@@ -112,7 +112,7 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-Last Updated:: [December 20th, 2020](<December 20th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 27th, 2020](<December 27th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
@@ -141,8 +141,6 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
 - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)
 
@@ -238,6 +236,18 @@ Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>)
 
 - **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Nathan Acks](<Nathan Acks.md>)
+
+1. [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
 
 - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Jordan Peacock](<Jordan Peacock.md>) [Nathan Acks](<Nathan Acks.md>)
 

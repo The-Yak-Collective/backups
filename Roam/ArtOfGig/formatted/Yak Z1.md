@@ -4,10 +4,12 @@
     - Remote control, debugging, telemetry/monitoring.
 - Current Activity
     - Hardware: HiWonder SpiderPi
+    - Images: https://postimg.cc/gallery/FQZ0cgT
     - Measurements for reference (WIP)
         - Metrics on "force": Apparently powerful servos (20Kg/cm2). Measurements t understand what that translates to in terms of lift, power on each leg relative to others, etc.
         - Generic metrics like speed, etc.
         - Temperature mapping using sensors and the Pi internal data: Useful when considering building water-proof clothing, etc.
+        - Linear speed, turn speed.
 
 # Backlinks
 ## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)

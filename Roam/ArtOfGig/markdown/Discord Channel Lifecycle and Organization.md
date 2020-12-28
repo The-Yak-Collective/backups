@@ -3,7 +3,7 @@ Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[November 9th, 2020]] by [[Nathan Acks]]
 Current State:: {{or: Proposed | Draft | Live | Archived}} 
-Last Updated:: [[December 20th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[December 27th, 2020]] by [[Nathan Acks]]
 Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
 # Channel Categories
     ## Plaza
@@ -14,7 +14,7 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
             - ^^New [[December 19th, 2020]]^^ Move `#experiments-log` from "Plaza" to "Discussions"
             - ^^New [[December 20th, 2020]]^^ Move `#take-gig-leave-gig` from "Discussions" to "Plaza"
             - ^^New [[December 20th, 2020]]^^ Move `#yaktalk-content` from "Bureaucracy" to "Plaza"
-            - ^^New [[December 20th, 2020]]^^ Set **Server Settings > Overview > System Messages Channel** to `#announcements`, turn __off__ **Send a random welcome message when someone joins this server** and **Send a message when someone boosts this server**, and archive `#general`.
+            - ^^Updated [[December 27th, 2020]]^^ Set **Server Settings > Overview > System Messages Channel** to **No System Messages** and archive `#general`. (Note that the "community updates channel" required to set up a [community server](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) is __different__ than this setting.)
                 - [[Nathan Acks]] `#events` has a distinct purpose and there is a desire to keep `#announcements` low-noise. Join events (which is really all that exists in `#general`) are just noise, and the channel isn't used for anything else.
                 - __Previous proposed version of this change is archived below this bullet.__
                     - Merge `announcements`, `events`, and `general`.
@@ -29,6 +29,7 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F--Ccni31k3.png?alt=media&token=9cc59055-27c6-477b-97b5-e2dfbcc394af)
                         - [[Darren Kong]] I vote for merging general and events and keeping announcements separate since there's a lot more on-going noise for general/events, and announcements should be the place to check for official messages.  
                             - alternatively or in addition, we could merge Introductions and general (and events). since introductions and the welcome msg go hand-in-hand..
+            - ^^New [[December 27th, 2020]]^^ Set **Server Settings > Overview > Default Notification Settings** to **Only @mentions** (this is Discord's recommended setting for public servers).
             - ~~Move any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Projects".~~
                 - [[Maier Fenster]] by "merge in" you mean move or also combine?
                     - [[Nathan Acks]] Should have said "move". Fixed.
@@ -54,8 +55,9 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
             - ^^New [[December 20th, 2020]]^^ Move `#collaborations` to "Discussions"
             - ^^New [[December 20th, 2020]]^^ Move `#subscribe-projects` to "Plaza"
             - ^^New [[December 20th, 2020]]^^ Move `#infrastructure`, `#production`, `#bots-and-automation-🤖`, and `#yc-marketing` from "Bureaucracy" to "Projects"
-            - ^^New [[December 20th, 2020]]^^ Make project channels __only__ visible to people who have the appropriate project role (reduces clutter)
+            - ^^Updated [[December 27th, 2020]]^^ ~~Make project channels only visible to people who have the appropriate project role (reduces clutter)~~
                 - [[Nathan Acks]] See [[Jordan Peacock]]'s work in classifying things: https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d
+                - ^^New [[December 27th, 2020]]^^ Per "Infrastructure Chat 33 [[December 27th, 2020]]", project channels should remain visible by default.
     ## ^^New [[December 19th, 2020]]^^ Discussions
         - Discussion and information channels with a more targeted audience.
             - [[Nathan Acks]] Just as this revision makes a distinction between "internal" and "external" projects, it resurrects the "Discussions" sections as an internal counterpart to "Plaza". Conceptually: "Plaza" is like a Roman Forum -- announcements happen there, public calendars are maintained, someone's writing "help wanted" ads in chalk, etc. "Discussions" are conversations (that may or may not be "public") that would instead be held indoors -- coffee shop philosophy, topical conversation that people may or may not care about, non-project planning, etc.
@@ -78,8 +80,9 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
         A place for new channels to find their legs. Or not.
         ### Proposed Changes
             - Rename "Probationary Channels" → "Incubator".
-            - [[Darren Kong]] move any proposed or hibernating projects into Incubator, so Projects section only has active projects. If a user clicks into any channel in project section, it would be active. 
-                - ^^New [[December 19th, 2020]]^^ [[Nathan Acks]] This is what "Archives" (below) is for.
+            - ~~Unused proposal~~
+                - [[Darren Kong]] move any proposed or hibernating projects into Incubator, so Projects section only has active projects. If a user clicks into any channel in project section, it would be active. 
+                    - ^^New [[December 19th, 2020]]^^ [[Nathan Acks]] This is what "Archives" (below) is for.
     ## Archives
         ^^Updated [[December 19th, 2020]]^^ Old channels, put out to pasture.
             - All channels in the "archives" should have the "send messages" permission disabled.
@@ -88,9 +91,10 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
             - Rename "Archived" → "Archives".
             - Make sure that all channels in this section have the "send messages" permission disabled.
             - Existing channels should be [reviewed to determine if they are still alive](((qI9wDK8cG))) and moved to the archives as appropriate.
-            - [[Maier Fenster]] each should have a new title starting with "if you want this channel to come back to life do XXX"
-                - [[Nathan Acks]] Maybe this should be in the channel description?
-                - ^^New [[December 19th, 2020]]^^ [[Nathan Acks]] Proposed text: "All channels in the "archives" should have the following appended to their description: "You can propose resurrecting this channel in `#create-destroy-channels`.""
+            - ^^New [[December 19th, 2020]]^^ "All channels in the "archives" should have the following appended to their description: "You can propose resurrecting this channel in `#create-destroy-channels`.""
+                - __Original conversation__
+                    - [[Maier Fenster]] each should have a new title starting with "if you want this channel to come back to life do XXX"
+                        - [[Nathan Acks]] Maybe this should be in the channel description?
 # Channel Lifecycle
     ## Birth
         - New channels are proposed in `create-destroy-channels`. All active yaks, made yaks, and yak shavers can propose new channels.

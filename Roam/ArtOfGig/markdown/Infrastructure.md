@@ -27,6 +27,52 @@ suggest most recent note left untwirled for easy review to visitors__
         - ((2jplEZUYM))
         - 
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 33 [[December 27th, 2020]]
+        - participants:: [[Maier Fenster]] [[Nathan Acks]] [[Praful Mathur]]
+        - location:: https://meet.google.com/zfc-qhjy-oey
+        - **Agenda**
+            1. [[Nathan Acks]] Discuss/finalize discord channel lifecycle.
+            2. [[Praful Mathur]] Newsletter infrastructure
+            3. ~~Discuss UI for projects bot a bit more.~~
+        - **Meeting Notes**
+            - [[Maier Fenster]] thinks we should group project channels by state.
+                - [[Nathan Acks]] will finalize the [[Discord Channel Lifecycle and Organization]] proposal and then give people a one-week negative check-off
+            - [[Praful Mathur]] Newsletter gets put together every other Wednesdays
+                - Content depends on what's available right now.
+                - Ideally, we'd be describing what's happening within YC
+                    - What projects are where?
+                    - What gigs are available?
+                    - Who needs help?
+                - The idea is to become a bit of a view into what the YC needs right now.
+            - [[Maier Fenster]] We need to gather information, and then get it to Praful.
+                - There's bots already for help wanted, gigs, and a newsletter bot.
+                - We don't have a project summary/update bot.
+                - At the moment, most of our project management happens in Roam, but there's no good API.
+                - We could DM people every couple of weeks right now.
+                - There's also the agenda bots.
+                    - Marketing and Infrastructure use the agenda bot the most.
+            - [[Praful Mathur]] Can I get help on the bots?
+                - [[Maier Fenster]] Just DM `$help` to `gigayak`.
+                    - Discord has slash commands, but the Python library Maier's using doesn't support these yet.
+                    - There may be a way to integrate things, but Maier just learned about this recently.
+            - [[Praful Mathur]] `$agendalist` and `$giglist` should be useful.
+            - [[Maier Fenster]] We need to start normalizing people using these bots. Maybe we can push this through the newsletter?
+                - [[Praful Mathur]] Yes.
+            - [[Maier Fenster]] The idea is that "gigs" pay, while "help wanted" are more volunteer-ish opportunities within YC.
+                - Venkat doesn't see gigs is a big thing.
+            - [[Praful Mathur]] When I talk to people, they're much more interested in using YC to find gigs and extend their work by leveraging YC resources.
+            - [[Nathan Acks]] The problem seems to be popularizing the newsletter and gig bots.
+                - [[Maier Fenster]] I think we need to just keep publicly demonstrating this ourselves.
+            - [[Nathan Acks]] will follow up with contributors from __Astonishing Stories__ and __Future Frontiers__ about RSS feeds.
+            - [[Praful Mathur]] Gigs, help wanted, upcoming events, newletter items list will be the most useful
+                - Longer term, if we have a bot that can ping project managers for updates, that would be useful.
+            - Newsletter options: Substack, Ghost, Buttondown
+                - [[Nathan Acks]] Buttondown has a read/write API so we can programmatically build newsletters, but that's $29/month.
+                    - Buttondown also allows us to add a "subscribe to our newsletter" box to the website.
+                    - If we're going to self-host, we should steer away from self-hosting.
+                - [[Praful Mathur]] Folks would prefer a Google Doc. But Buttondown looks like it has __really__ good analytics -- better than Substack or Ghost.
+                    - Praful will play around with Ghost and Buttondown, see if it makes sense for us to move.
+                - [[Maier Fenster]] We can add a command to the relevant bots to dump information to a Google Doc and then provide a link back.
     - Infrastructure Chat 32 [[December 20th, 2020]]
         - participants:: [[Maier Fenster]] [[Jordan Peacock]] [[Nathan Acks]]
         - location:: https://meet.google.com/zfc-qhjy-oey

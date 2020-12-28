@@ -2,12 +2,6 @@
 
 # Backlinks
 ## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
-Last Updated:: [December 20th, 2020](<December 20th, 2020.md>)
-
-- ^^New [December 20th, 2020](<December 20th, 2020.md>)^
-
-- ^^New [December 20th, 2020](<December 20th, 2020.md>)^
-
 - ^^New [December 20th, 2020](<December 20th, 2020.md>)^
 
 - ^^New [December 20th, 2020](<December 20th, 2020.md>)^

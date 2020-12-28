@@ -3,7 +3,7 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 Created:: [November 9th, 2020](<November 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Current State:: {{or: Proposed | Draft | Live | Archived}} 
-Last Updated:: [December 20th, 2020](<December 20th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 27th, 2020](<December 27th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 # Channel Categories
     ## Plaza
@@ -14,7 +14,7 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
             - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ Move `[experiments-log](<experiments-log.md>)` from "Plaza" to "Discussions"
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[take-gig-leave-gig](<take-gig-leave-gig.md>)` from "Discussions" to "Plaza"
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[yaktalk-content](<yaktalk-content.md>)` from "Bureaucracy" to "Plaza"
-            - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Set **Server Settings > Overview > System Messages Channel** to `[announcements](<announcements.md>)`, turn __off__ **Send a random welcome message when someone joins this server** and **Send a message when someone boosts this server**, and archive `[general](<general.md>)`.
+            - ^^Updated [December 27th, 2020](<December 27th, 2020.md>)^^ Set **Server Settings > Overview > System Messages Channel** to **No System Messages** and archive `[general](<general.md>)`. (Note that the "community updates channel" required to set up a [community server](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) is __different__ than this setting.)
                 - [Nathan Acks](<Nathan Acks.md>) `[events](<events.md>)` has a distinct purpose and there is a desire to keep `[announcements](<announcements.md>)` low-noise. Join events (which is really all that exists in `[general](<general.md>)`) are just noise, and the channel isn't used for anything else.
                 - __Previous proposed version of this change is archived below this bullet.__
                     - Merge `announcements`, `events`, and `general`.
@@ -29,6 +29,7 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F--Ccni31k3.png?alt=media&token=9cc59055-27c6-477b-97b5-e2dfbcc394af)
                         - [Darren Kong](<Darren Kong.md>) I vote for merging general and events and keeping announcements separate since there's a lot more on-going noise for general/events, and announcements should be the place to check for official messages.  
                             - alternatively or in addition, we could merge Introductions and general (and events). since introductions and the welcome msg go hand-in-hand..
+            - ^^New [December 27th, 2020](<December 27th, 2020.md>)^^ Set **Server Settings > Overview > Default Notification Settings** to **Only @mentions** (this is Discord's recommended setting for public servers).
             - ~~Move any channels from "Discussions" and "Bureaucracy" that don't properly fit under "Projects".~~
                 - [Maier Fenster](<Maier Fenster.md>) by "merge in" you mean move or also combine?
                     - [Nathan Acks](<Nathan Acks.md>) Should have said "move". Fixed.
@@ -54,8 +55,9 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[collaborations](<collaborations.md>)` to "Discussions"
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[subscribe-projects](<subscribe-projects.md>)` to "Plaza"
             - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Move `[infrastructure](<infrastructure.md>)`, `[production](<production.md>)`, `[bots-and-automation-](<bots-and-automation-.md>)🤖`, and `[yc-marketing](<yc-marketing.md>)` from "Bureaucracy" to "Projects"
-            - ^^New [December 20th, 2020](<December 20th, 2020.md>)^^ Make project channels __only__ visible to people who have the appropriate project role (reduces clutter)
+            - ^^Updated [December 27th, 2020](<December 27th, 2020.md>)^^ ~~Make project channels only visible to people who have the appropriate project role (reduces clutter)~~
                 - [Nathan Acks](<Nathan Acks.md>) See [Jordan Peacock](<Jordan Peacock.md>)'s work in classifying things: https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d
+                - ^^New [December 27th, 2020](<December 27th, 2020.md>)^^ Per "Infrastructure Chat 33 [December 27th, 2020](<December 27th, 2020.md>)", project channels should remain visible by default.
     ## ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ Discussions
         - Discussion and information channels with a more targeted audience.
             - [Nathan Acks](<Nathan Acks.md>) Just as this revision makes a distinction between "internal" and "external" projects, it resurrects the "Discussions" sections as an internal counterpart to "Plaza". Conceptually: "Plaza" is like a Roman Forum -- announcements happen there, public calendars are maintained, someone's writing "help wanted" ads in chalk, etc. "Discussions" are conversations (that may or may not be "public") that would instead be held indoors -- coffee shop philosophy, topical conversation that people may or may not care about, non-project planning, etc.
@@ -78,8 +80,9 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
         A place for new channels to find their legs. Or not.
         ### Proposed Changes
             - Rename "Probationary Channels" → "Incubator".
-            - [Darren Kong](<Darren Kong.md>) move any proposed or hibernating projects into Incubator, so Projects section only has active projects. If a user clicks into any channel in project section, it would be active. 
-                - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>) This is what "Archives" (below) is for.
+            - ~~Unused proposal~~
+                - [Darren Kong](<Darren Kong.md>) move any proposed or hibernating projects into Incubator, so Projects section only has active projects. If a user clicks into any channel in project section, it would be active. 
+                    - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>) This is what "Archives" (below) is for.
     ## Archives
         ^^Updated [December 19th, 2020](<December 19th, 2020.md>)^^ Old channels, put out to pasture.
             - All channels in the "archives" should have the "send messages" permission disabled.
@@ -88,9 +91,10 @@ Perhaps drop a proposed new list in simple text here so that we can see what the
             - Rename "Archived" → "Archives".
             - Make sure that all channels in this section have the "send messages" permission disabled.
             - Existing channels should be [reviewed to determine if they are still alive](((qI9wDK8cG))) and moved to the archives as appropriate.
-            - [Maier Fenster](<Maier Fenster.md>) each should have a new title starting with "if you want this channel to come back to life do XXX"
-                - [Nathan Acks](<Nathan Acks.md>) Maybe this should be in the channel description?
-                - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ [Nathan Acks](<Nathan Acks.md>) Proposed text: "All channels in the "archives" should have the following appended to their description: "You can propose resurrecting this channel in `[create-destroy-channels](<create-destroy-channels.md>)`.""
+            - ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ "All channels in the "archives" should have the following appended to their description: "You can propose resurrecting this channel in `[create-destroy-channels](<create-destroy-channels.md>)`.""
+                - __Original conversation__
+                    - [Maier Fenster](<Maier Fenster.md>) each should have a new title starting with "if you want this channel to come back to life do XXX"
+                        - [Nathan Acks](<Nathan Acks.md>) Maybe this should be in the channel description?
 # Channel Lifecycle
     ## Birth
         - New channels are proposed in `create-destroy-channels`. All active yaks, made yaks, and yak shavers can propose new channels.
@@ -140,6 +144,8 @@ Are you proposing to put [Discussions](<Discussions.md>) and [Bureaucracy](<Bure
 - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
+- [Nathan Acks](<Nathan Acks.md>) will finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+
 1. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
 - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
