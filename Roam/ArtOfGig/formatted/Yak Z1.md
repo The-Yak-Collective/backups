@@ -10,6 +10,10 @@
         - Generic metrics like speed, etc.
         - Temperature mapping using sensors and the Pi internal data: Useful when considering building water-proof clothing, etc.
         - Linear speed, turn speed.
+    - Possible features
+        - RT video stream from the camera (and other sensors?)
+        - ability to select or upload (via github?) a code to be executed by robot and view the effect in RT, including video and servo positions
+for now, i am thinking re delegate, that you have code on the robot and code on the server. one or both may need help. for video, why not stream using twilio?
 
 # Backlinks
 ## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
