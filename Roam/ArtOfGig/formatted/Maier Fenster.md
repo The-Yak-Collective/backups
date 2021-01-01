@@ -295,6 +295,13 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 ## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
 - [Yak X1](<Yak X1.md>) by [Maier Fenster](<Maier Fenster.md>)
 
+## [Yak Z1](<Yak Z1.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [pong](<pong.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
 

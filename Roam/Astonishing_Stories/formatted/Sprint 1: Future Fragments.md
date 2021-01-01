@@ -134,16 +134,16 @@
     - [Fragment 061: Grandparent Tracker](<Fragment 061: Grandparent Tracker.md>)
         - ((rYn8AnYFC)) 
     - [Fragment 062: Live/Work Containers for Knowledge Miners](<Fragment 062: Live/Work Containers for Knowledge Miners.md>)
-        - Tiny houses turn into workspaces, provided by corporations in lieu of office space cum Aeron Chairs. By 2030, sensory bubbles will be sprinkled across the planet. The built environment will be optimized for sustainable productivity. McMindfulness baked deeply into the manufactured space's sensors, advancing beyond current AppleWatch's prompts for exercise, breathing, Pomodoro bursts with breaks. Controlled temperature, sound buffering, light modulation. CBT/DBT skill building integrated into the workflow, to facilitate emotional self-regulation. Challenges, akin to a zoo keeper's need to enrich captive animals with cognitive and physical demands that simulate a virtual hunt for food. Eventually, Universal Basic Housing would reference these tiny places as a common good, giving everyone wifi, consumer grade VR, Netflix. In return for the bed & circuses, Mechanical Turk-ish tasks, as well as e-sports competition and media experimentation, can flow back to the welfare of the entire society.
-        - What year is this scenario set in? 2030
+        - {{[drawing](<drawing.md>)}}
+            - Hygiene is a very high order value, motivating the envelope's barriers to entering
             - ## 2020 -- most of the pieces are already here, they're just unevenly distributed and patchwork
                 - 
+        - What year is this scenario set in? 2030
         - ## How does it feel to live in this time?
             - Snug as a bug in a github
-            - Hygiene is a very high order value, motivating the envelope's barriers to entering
             - Secure seclusion, modulated by cybernetic loops that offset isolation by algorithmic reminders to (virtually) connect
-        - Who wins in this future? 
             - Productive knowledge miners, who enjoy super-optimizing their workflow
+        - Who wins in this future? 
             - The skilled workers in fly over spaces
             - The otaku + a range of phobics: agoraphobes, OCD germophobes, 
             - Knock-on benefits for the homeless, as society recognizes how to mass-produce the vital ingredients of basic modular housing

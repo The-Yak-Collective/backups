@@ -7728,15 +7728,49 @@
             ],
             "children": [
               {
-                "create-email": "psas@motivationengineers.com",
-                "create-time": 1597201751831,
-                "edit-email": "psas@motivationengineers.com",
-                "edit-time": 1597202468181,
-                "string": "Tiny houses turn into workspaces, provided by corporations in lieu of office space cum Aeron Chairs. By 2030, sensory bubbles will be sprinkled across the planet. The built environment will be optimized for sustainable productivity. McMindfulness baked deeply into the manufactured space's sensors, advancing beyond current AppleWatch's prompts for exercise, breathing, Pomodoro bursts with breaks. Controlled temperature, sound buffering, light modulation. CBT/DBT skill building integrated into the workflow, to facilitate emotional self-regulation. Challenges, akin to a zoo keeper's need to enrich captive animals with cognitive and physical demands that simulate a virtual hunt for food. Eventually, Universal Basic Housing would reference these tiny places as a common good, giving everyone wifi, consumer grade VR, Netflix. In return for the bed & circuses, Mechanical Turk-ish tasks, as well as e-sports competition and media experimentation, can flow back to the welfare of the entire society.",
-                "uid": "1P29qnxTv"
-              },
-              {
+                ":block/props": {
+                  ":drawing/lines": [
+                    {
+                      ":color": "#2d3436",
+                      ":points": [
+                        [
+                          411,
+                          241.40625
+                        ]
+                      ],
+                      ":width": 4
+                    },
+                    {
+                      ":color": "#2d3436",
+                      ":points": [
+                        [
+                          488,
+                          29.40625
+                        ]
+                      ],
+                      ":width": 4
+                    },
+                    {
+                      ":color": "#2d3436",
+                      ":points": [
+                        [
+                          459,
+                          211.40625
+                        ]
+                      ],
+                      ":width": 4
+                    }
+                  ]
+                },
                 "children": [
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1597206858897,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1597206971622,
+                    "string": "Hygiene is a very high order value, motivating the envelope's barriers to entering",
+                    "uid": "Gpt0qDy3N"
+                  },
                   {
                     "children": [
                       {
@@ -7753,6 +7787,48 @@
                     "uid": "89UB-5nTL"
                   }
                 ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1597201751831,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609425210927,
+                "props": {
+                  "lines": [
+                    {
+                      "color": "#2d3436",
+                      "points": [
+                        [
+                          411,
+                          241.40625
+                        ]
+                      ],
+                      "width": 4
+                    },
+                    {
+                      "color": "#2d3436",
+                      "points": [
+                        [
+                          488,
+                          29.40625
+                        ]
+                      ],
+                      "width": 4
+                    },
+                    {
+                      "color": "#2d3436",
+                      "points": [
+                        [
+                          459,
+                          211.40625
+                        ]
+                      ],
+                      "width": 4
+                    }
+                  ]
+                },
+                "string": "{{[[drawing]]}}",
+                "uid": "1P29qnxTv"
+              },
+              {
                 "create-email": "psas@motivationengineers.com",
                 "create-time": 1597206546157,
                 "edit-email": "psas@motivationengineers.com",
@@ -7772,19 +7848,19 @@
                   },
                   {
                     "create-email": "psas@motivationengineers.com",
-                    "create-time": 1597206858897,
-                    "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1597206971622,
-                    "string": "Hygiene is a very high order value, motivating the envelope's barriers to entering",
-                    "uid": "Gpt0qDy3N"
-                  },
-                  {
-                    "create-email": "psas@motivationengineers.com",
                     "create-time": 1597206574430,
                     "edit-email": "psas@motivationengineers.com",
                     "edit-time": 1597212695386,
                     "string": "Secure seclusion, modulated by cybernetic loops that offset isolation by algorithmic reminders to (virtually) connect",
                     "uid": "E0egAilaT"
+                  },
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1597206985110,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1597210633129,
+                    "string": "Productive knowledge miners, who enjoy super-optimizing their workflow",
+                    "uid": "vf0dygDDp"
                   }
                 ],
                 "edit-email": "psas@motivationengineers.com",
@@ -7795,14 +7871,6 @@
               },
               {
                 "children": [
-                  {
-                    "create-email": "psas@motivationengineers.com",
-                    "create-time": 1597206985110,
-                    "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1597210633129,
-                    "string": "Productive knowledge miners, who enjoy super-optimizing their workflow",
-                    "uid": "vf0dygDDp"
-                  },
                   {
                     "create-email": "psas@motivationengineers.com",
                     "create-time": 1597210636411,
@@ -22590,5 +22658,12 @@
     "edit-email": "yakcollective.org@gmail.com",
     "edit-time": 1609407214867,
     "title": "December 31st, 2020"
+  },
+  {
+    "create-email": "yakcollective.org@gmail.com",
+    "create-time": 1609493476585,
+    "edit-email": "yakcollective.org@gmail.com",
+    "edit-time": 1609493476586,
+    "title": "January 1st, 2021"
   }
 ]
