@@ -1,7 +1,20 @@
+About:: __"Table of contents" for the Yak Collective website documentation.__
+
+    - [Website Architecture](<Website Architecture.md>)
+    - [Contributing to the Website](<Contributing to the Website.md>)
+        - [Code Style Guide](<Code Style Guide.md>)
+        - [Current Website Issues and Projects](https://github.com/The-Yak-Collective/yakcollective/issues)
+        - [Building the Website](<Building the Website.md>)
+    - [Website Version History](<Website Version History.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
+---
 About:: __Every collective needs a website. This is ours. It isn't much to look at, but it gets the job done.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 13th, 2020](<December 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 Page Type:: [Project](<Project.md>)
 Status:: {{or: Active | Early Concept | Proposal | Complete}}
 Current State:: 
@@ -14,14 +27,17 @@ Ways to Contribute::
         - Conversations happen on [the Discord [infrastructure](<infrastructure.md>) channel](https://discord.com/channels/692111190851059762/704369362315772044).
     - Help review code! We do a change review before taking any major (non-content, non-bugfix) change live.
 Meta::
+    - **[This project is about](<This project is about.md>):**
+        - XXX
     - **[Deliverable](<Deliverable.md>):** https://www.yakcollective.org/
+    - **[Project size](<Project size.md>):**
+        - XXX
+    - **[Intermediate Milestones](<Intermediate Milestones.md>):**
+        - XXX
     - **[Referees](<Referees.md>):** [Maier Fenster](<Maier Fenster.md>)
     - **[Project Lead](<Project Lead.md>):** [Nathan Acks](<Nathan Acks.md>)
     - **[Collaborators](<Collaborators.md>):**
         - `[Fname Lname](<Fname Lname.md>)`
-    - **[Intended Audience](<Intended Audience.md>):**
-        - Potential clients
-        - Folks interested in engaging or joining the Yak Collective
     - **[Relevant Documents and Files](<Relevant Documents and Files.md>):**
         - [Website Architecture](<Website Architecture.md>)
             - [Website Widgets](<Website Widgets.md>)
@@ -31,6 +47,12 @@ Meta::
             - [IT Infrastructure and Project Security Basics](<IT Infrastructure and Project Security Basics.md>)
             - [Building the Website](<Building the Website.md>)
         - [Website Version History](<Website Version History.md>)
+    - **[Why you should join](<Why you should join.md>):**
+        - XXX
+    - **[Intended Audience](<Intended Audience.md>):**
+        - Potential clients
+        - Folks interested in engaging or joining the Yak Collective
+About:: internal project page to consolidate multitude of discord bots & other tools
 Current Plan::
     - [x] Update the [Yak Collective Website](<Yak Collective Website.md>) documentation
     - [ ] Code review for [Yak Collective Website](<Yak Collective Website.md>)
@@ -39,6 +61,9 @@ Current Plan::
     - [ ] Migrate from [IFTTT](https://ifttt.com/) to [ActionsFlow](https://github.com/actionsflow/actionsflow) ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))
     - [ ] Research options for JAMstack CMSes
     - [ ] Migrate [Yak Collective Website](<Yak Collective Website.md>) to [Gatsby](https://www.gatsbyjs.com/)
+Page Type:: [Project](<Project.md>)
+Chief Page Wrangler:: [Maier Fenster](<Maier Fenster.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** 
 
 # Backlinks
 ## [Breaking Smart](<Breaking Smart.md>)
@@ -109,7 +134,7 @@ notes in — [Yak Collective Website](<Yak Collective Website.md>)
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)
 
-## [Production Squad](<Production Squad.md>)
+## [Production Cell](<Production Cell.md>)
 - [Yak Collective Website](<Yak Collective Website.md>)
 
 - __Work with__ [Yak Collective Website](<Yak Collective Website.md>)

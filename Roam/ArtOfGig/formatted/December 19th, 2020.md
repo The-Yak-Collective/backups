@@ -3,39 +3,7 @@
 
 # Backlinks
 ## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
 ## ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-^^Updated [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^Updated [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^Updated [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^Updated [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^Updated [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^Updated [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
-
-- ^^New [December 19th, 2020](<December 19th, 2020.md>)^
 
 ## [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 - **[Last Updated](<Last Updated.md>):** [December 19th, 2020](<December 19th, 2020.md>)

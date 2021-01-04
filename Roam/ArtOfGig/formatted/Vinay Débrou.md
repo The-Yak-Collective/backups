@@ -37,6 +37,20 @@
 - [Vinay Débrou](<Vinay Débrou.md>):
 
 ## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
+- [Vinay Débrou](<Vinay Débrou.md>)
+
 - **[participants](<participants.md>):** [Nathan Acks](<Nathan Acks.md>) | [Maier Fenster](<Maier Fenster.md>) | [Hershil Patel](<Hershil Patel.md>) | [Jenna Dixon](<Jenna Dixon.md>) | [Vinay Débrou](<Vinay Débrou.md>)
 
 - [ ] receive reply from [Vinay Débrou](<Vinay Débrou.md>)

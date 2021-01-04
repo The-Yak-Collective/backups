@@ -79,7 +79,7 @@
             - [ ] [Venkatesh Rao](<Venkatesh Rao.md>) ping: [Siva Swaroop](<Siva Swaroop.md>)
             - [ ] [Venkatesh Rao](<Venkatesh Rao.md>) schedule: weekly call for next 2-3-4 weeks to conclude project
                 - [ ] ping: [Hugo Macedo](<Hugo Macedo.md>) to join next call for launch planning
-            - [ ] [Jenna Dixon](<Jenna Dixon.md>) share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [Production Squad](<Production Squad.md>)
+            - [ ] [Jenna Dixon](<Jenna Dixon.md>) share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [Production Cell](<Production Cell.md>)
             - [x] [Jenna Dixon](<Jenna Dixon.md>) refine: current kanban for production endgame 👆
                 - [x] [ping](<ping.md>): [Venkatesh Rao](<Venkatesh Rao.md>) on Discord FF channel
             - [ ] [Suwaythan Nahaganeshan](<Suwaythan Nahaganeshan.md>) push: design along to v2 ahead of call with jenna on Wed [September 23rd, 2020](<September 23rd, 2020.md>) at noon
@@ -184,7 +184,7 @@ Next decade can bring more examples like this one.
 ## [PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework](<PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework.md>)
 - A framework for thinking about the future introduced for the [Future Frontiers](<Future Frontiers.md>)
 
-## [Production Squad](<Production Squad.md>)
+## [Production Cell](<Production Cell.md>)
 - [Future Frontiers](<Future Frontiers.md>)
 
 - [Future Frontiers](<Future Frontiers.md>)

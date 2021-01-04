@@ -161,11 +161,6 @@
 ## [Discord](<Discord.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Maier Fenster](<Maier Fenster.md>) | [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
-- [Venkatesh Rao](<Venkatesh Rao.md>)
-
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - You can request permission from [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -239,6 +234,10 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Venkatesh Rao](<Venkatesh Rao.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
+1. [Venkatesh Rao](<Venkatesh Rao.md>)
+
+2. [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -301,7 +300,7 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Old Forms of Justice in a New World ](<Old Forms of Justice in a New World .md>)
 - (1 person) **Modern Praetorian Guard**: Maybe a short fiction piece? Derek Wince, mercenary peace officer? I had a conversation with [Venkatesh Rao](<Venkatesh Rao.md>)
 
-## [Production Squad](<Production Squad.md>)
+## [Production Cell](<Production Cell.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Project Pitches](<Project Pitches.md>)

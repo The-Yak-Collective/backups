@@ -62,9 +62,6 @@
 ## [Directory](<Directory.md>)
 - [Hugo Macedo](<Hugo Macedo.md>)
 
-## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
-- [Hugo Macedo](<Hugo Macedo.md>)
-
 ## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 
@@ -84,6 +81,8 @@
 - {{[query](<query.md>): {and: [ping](<ping.md>)[Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
 - We need a Start Here that presents different ways to get into - different profiles will follow different paths, although we may recommend one - by [Hugo Macedo](<Hugo Macedo.md>)
 
 ## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)

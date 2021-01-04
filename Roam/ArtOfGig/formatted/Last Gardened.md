@@ -33,7 +33,7 @@
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Infrastructure](<Infrastructure.md>)
-- **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- **[Last Updated](<Last Updated.md>):** [January 3rd, 2021](<January 3rd, 2021.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
@@ -46,6 +46,10 @@
 
 ## [Project Pitches](<Project Pitches.md>)
 - **[Last Updated](<Last Updated.md>):** [November 18th, 2020](<November 18th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
+- **[Last Gardened](<Last Gardened.md>):**
+
+## [Schema | member data](<Schema | member data.md>)
+- **[Last Updated](<Last Updated.md>):** [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):**
 
 ## [YC Content Network (YCCN)](<YC Content Network (YCCN).md>)

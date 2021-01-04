@@ -14,15 +14,6 @@
 ## [Directory](<Directory.md>)
 - [Darren Kong](<Darren Kong.md>)
 
-## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
-- [Darren Kong](<Darren Kong.md>)
-
-- [Darren Kong](<Darren Kong.md>)
-
-- [Darren Kong](<Darren Kong.md>)
-
-- [Darren Kong](<Darren Kong.md>)
-
 ## [Discord Chat Calendar](<Discord Chat Calendar.md>)
 - Questions will also serve as fodder for iterating the [Onboarding for New Yaks](<Onboarding for New Yaks.md>), being shepherded by [Darren Kong](<Darren Kong.md>).
 

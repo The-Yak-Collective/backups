@@ -101,6 +101,8 @@
 
 - [Grigori Milov](<Grigori Milov.md>)
 
+- [Grigori Milov](<Grigori Milov.md>)
+
 ## [Minimum Viable Workshop  - Experiment](<Minimum Viable Workshop  - Experiment.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
@@ -189,7 +191,7 @@
 ## [Post-COVID scenario set](<Post-COVID scenario set.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
-## [Production Squad](<Production Squad.md>)
+## [Production Cell](<Production Cell.md>)
 - [Grigori Milov](<Grigori Milov.md>)
 
 - [Grigori Milov](<Grigori Milov.md>)

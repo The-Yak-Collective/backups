@@ -140,9 +140,6 @@ developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229
 ## [Client Projects](<Client Projects.md>)
 - The only client project so far is [Neurofuturama](<Neurofuturama.md>)
 
-## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
-- [Venkatesh Rao](<Venkatesh Rao.md>) suggest deferring this to after we get a second paid project, since I don’t like creating empty or singleton things. Also, I’m thinking the categories may not remain that clean. For eg. [Astonishing Stories](<Astonishing Stories.md>) got some budget out of [Neurofuturama](<Neurofuturama.md>)
-
 ## [Introduction to the Yak Collective](<Introduction to the Yak Collective.md>)
 - We've done one such project, [Neurofuturama](<Neurofuturama.md>)
 

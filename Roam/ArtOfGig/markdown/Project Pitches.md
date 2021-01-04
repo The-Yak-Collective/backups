@@ -132,7 +132,7 @@ Consult [[Jenna Dixon]] for details
         - **Financial Structure**: Internal project
     - [[Empirical Feng Shui]] - Collaborative Physical Design / Hardware Design / Social Science to build an Aeron Chair for the Mind
 - Notes::
-    - See also: [[Production Squad]] page maintained by [[Jenna Dixon]] for production support that will be available, and the [[Yak Collective Fund]] to see how much financial support is currently available.
+    - See also: [[Production Cell]] page maintained by [[Jenna Dixon]] for production support that will be available, and the [[Yak Collective Fund]] to see how much financial support is currently available.
     - Unlike the old proposals [[Greenlighting Process]] (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.
 - Last Updated:: [[November 18th, 2020]] by [[Venkatesh Rao]]
 - Last Gardened:: [[December 5th, 2020]] by [[Jenna Dixon]]

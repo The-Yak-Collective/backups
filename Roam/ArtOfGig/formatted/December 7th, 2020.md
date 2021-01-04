@@ -28,9 +28,6 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 ## [IFTTT](<IFTTT.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 
-## [IT Infrastructure](<IT Infrastructure.md>)
-Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
-
 ## [LinkedIn](<LinkedIn.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 
@@ -44,7 +41,7 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>)
+- **[Last Gardened](<Last Gardened.md>):** [December 7th, 2020](<December 7th, 2020.md>)
 
 ## [Substack](<Substack.md>)
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>)

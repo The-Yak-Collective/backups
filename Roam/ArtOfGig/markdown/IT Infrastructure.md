@@ -2,7 +2,7 @@ About:: __Documentation for the Yak Collective's shared infrastructure.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[August 29th, 2020]] by [[Nathan Acks]]
-Last Updated:: [[December 7th, 2020]] by [[Nathan Acks]]
+Last Updated:: [[January 3rd, 2021]] by [[Nathan Acks]]
 Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + SVG diagram development by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -121,6 +121,7 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
     - [[Yak Collective Website]]
     - [[bots-a-lot internal project page]]
 # Documents
+    - [[Discord Channel Lifecycle and Organization]]
     - [[Schema | member data]] (draft)
     - [[Code Style Guide]]
     - [[IT Infrastructure and Project Security Basics]]
@@ -129,4 +130,3 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
     - [[onboarding it - thoughts about onboarding infrastructure]]
 # Proposals
     - [[Yak Collective Member Types]]
-    - [[Discord Channel Lifecycle and Organization]]

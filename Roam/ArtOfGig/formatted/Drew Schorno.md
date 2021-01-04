@@ -29,9 +29,6 @@
 ## [Discord](<Discord.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Maier Fenster](<Maier Fenster.md>) | [Venkatesh Rao](<Venkatesh Rao.md>) | [Drew Schorno](<Drew Schorno.md>)
 
-## [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
-- [Drew Schorno](<Drew Schorno.md>)
-
 ## [IT Infrastructure](<IT Infrastructure.md>)
 - **[Owner](<Owner.md>):** [Drew Schorno](<Drew Schorno.md>)
 

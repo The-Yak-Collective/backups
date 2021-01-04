@@ -2,7 +2,7 @@
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Darren Kong](<Darren Kong.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Jenna Dixon](<Jenna Dixon.md>)
 - **[Created](<Created.md>):** [May 9th, 2020](<May 9th, 2020.md>) by [Darren Kong](<Darren Kong.md>)
-- **[Last Updated](<Last Updated.md>):** [November 8th, 2020](<November 8th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+- **[Last Updated](<Last Updated.md>):** [January 3rd, 2021](<January 3rd, 2021.md>) by [Nathan Acks](<Nathan Acks.md>)
 - **[Last Gardened](<Last Gardened.md>):** 
     - [November 16th, 2020](<November 16th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
     - [November 9th, 2020](<November 9th, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
@@ -27,6 +27,36 @@ suggest most recent note left untwirled for easy review to visitors__
         - ((2jplEZUYM))
         - 
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 34 [January 3rd, 2021](<January 3rd, 2021.md>)
+        - **[participants](<participants.md>):** [Vinay Débrou](<Vinay Débrou.md>) [Maier Fenster](<Maier Fenster.md>) [Nathan Acks](<Nathan Acks.md>)
+        - **[location](<location.md>):** https://meet.google.com/zfc-qhjy-oey
+        - **Agenda**
+            - [Maier Fenster](<Maier Fenster.md>) Allowing anybody to set up events. We can use Calendly to allow anybody to set up an event which will send reminders to all and can also be rescheduled, etc.
+        - **Meeting Notes**
+            - [Grigori Milov](<Grigori Milov.md>) is concerned that the YC is too top-down.
+                - [Hugo Macedo](<Hugo Macedo.md>) suggested we use Calendly, since that would allow for anyone to set up a meeting, but still restrict editing to the meeting creator.
+                - Calendly hooks into Google Calendar, and allows meetings to be scheduled/rescheduled within meeting windows (so that they don't conflict).
+                    - Meeting topics can be set, but creator name is present.
+                - [Vinay Débrou](<Vinay Débrou.md>) isn't sure what this brings to our existing setup.
+                    - [Maier Fenster](<Maier Fenster.md>) points out that this allows us to graft event-level permissions into Google Calendar.
+                    - [Nathan Acks](<Nathan Acks.md>) thinks that this does feel more consistent with our philosophy.
+                - [Maier Fenster](<Maier Fenster.md>) will set this up next weekend (negative check-off in the infrastructure channel).
+            - [Vinay Débrou](<Vinay Débrou.md>) wants to get people involved in Yak Map based discussions.
+                - What's the best way to get people involved?
+                - Maybe just reach out by DM initially?
+                - The trick is to see where things go, as it's hard to predict where conversations will go.
+                - Is there a way to integrate this into onboarding?
+                - [Maier Fenster](<Maier Fenster.md>) is reluctant to integrate this initially, but rather introduce people after they've been fully onboarded.
+                    - [Vinay Débrou](<Vinay Débrou.md>) is looking for something like the onboarding process under discussion, but for existing members.
+                    - [Maier Fenster](<Maier Fenster.md>) thinks we need some use-cases initially, and then we can riff off of people's initial (manual) experiences.
+                    - [Nathan Acks](<Nathan Acks.md>) wonders what the infrastructure would look like long-term.
+                        - [Maier Fenster](<Maier Fenster.md>) thinks that a bot hooked into Knack would be the best direction.
+                        - [Vinay Débrou](<Vinay Débrou.md>) points out that we can also use recent channel data on Discord.
+                - [Vinay Débrou](<Vinay Débrou.md>) is thinking about creating a pseudo-project page on Roam.
+                    - [Maier Fenster](<Maier Fenster.md>) thinks that a project proposal is maybe too formal -- just do conversations.
+                        - [Vinay Débrou](<Vinay Débrou.md>) thinks it's important to have someone establish some initial flows.
+                - [Nathan Acks](<Nathan Acks.md>) thinks that the biggest infrastructure thing we can do right now to move this forward is helping to QA Knack.
+                - [Nathan Acks](<Nathan Acks.md>) will look into turning the Yak Map integration into an iframe widget + Git submodule.
     - Infrastructure Chat 33 [December 27th, 2020](<December 27th, 2020.md>)
         - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Nathan Acks](<Nathan Acks.md>) [Praful Mathur](<Praful Mathur.md>)
         - **[location](<location.md>):** https://meet.google.com/zfc-qhjy-oey
@@ -77,7 +107,10 @@ suggest most recent note left untwirled for easy review to visitors__
         - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Jordan Peacock](<Jordan Peacock.md>) [Nathan Acks](<Nathan Acks.md>)
         - **[location](<location.md>):** https://meet.google.com/zfc-qhjy-oey
         - **Agenda**
-            1. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>) proposal.
+            1. [Venkatesh Rao](<Venkatesh Rao.md>) Discussion of consistent open-source licensing policy for YC content (member contributed and 3rd party used).
+            2. [Venkatesh Rao](<Venkatesh Rao.md>) Financial governance/spending process.
+            3. [Praful Mathur](<Praful Mathur.md>) Newsletter infrastructure needs.
+            4. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>) proposal.
         - **Meeting Notes**
             - Maybe we want to use something that mirrors [Jordan's channels role](https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d)?
                 - So, one idea is just to bind everything to roles.
@@ -751,7 +784,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
                 - pull everything out of sidebar that's inactive 
                 - identify the single wringable neck for each page - associated with cell? 
             - Index/welcome page for the Roam - useful structure
-        - Project mgt as independent role »»  [Production Squad](<Production Squad.md>)
+        - Project mgt as independent role »»  [Production Cell](<Production Cell.md>)
         - project activity measurement, etc.
         - Nathan has more availability post-November
         - Onboarding continue to be a painpoint

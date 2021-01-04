@@ -68,3 +68,5 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 ## [Yak Collective Website](<Yak Collective Website.md>)
 - [Contributing to the Website](<Contributing to the Website.md>)
 
+- [Contributing to the Website](<Contributing to the Website.md>)
+

@@ -2,7 +2,7 @@ About:: __Documentation for the Yak Collective's shared infrastructure.__
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** `[Fname Lname](<Fname Lname.md>)` | `[Fname Lname](<Fname Lname.md>)`
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [January 3rd, 2021](<January 3rd, 2021.md>) by [Nathan Acks](<Nathan Acks.md>)
 Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<Jenna Dixon.md>)
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [Nathan Acks](<Nathan Acks.md>) knows + SVG diagram development by [Maier Fenster](<Maier Fenster.md>). If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -121,6 +121,7 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
     - [Yak Collective Website](<Yak Collective Website.md>)
     - [bots-a-lot internal project page](<bots-a-lot internal project page.md>)
 # Documents
+    - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
     - [Schema | member data](<Schema | member data.md>) (draft)
     - [Code Style Guide](<Code Style Guide.md>)
     - [IT Infrastructure and Project Security Basics](<IT Infrastructure and Project Security Basics.md>)
@@ -129,7 +130,6 @@ Last Gardened:: [October 23rd, 2020](<October 23rd, 2020.md>) by [Jenna Dixon](<
     - [onboarding it - thoughts about onboarding infrastructure](<onboarding it - thoughts about onboarding infrastructure.md>)
 # Proposals
     - [Yak Collective Member Types](<Yak Collective Member Types.md>)
-    - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
 # Backlinks
 ## [December 7th, 2020](<December 7th, 2020.md>)

@@ -2,7 +2,7 @@
 - Chief Page Wrangler:: [[Darren Kong]]
     - Additional Page Wranglers:: [[Nathan Acks]] | [[Jenna Dixon]]
 - Created:: [[May 9th, 2020]] by [[Darren Kong]]
-- Last Updated:: [[November 8th, 2020]] by [[Nathan Acks]]
+- Last Updated:: [[January 3rd, 2021]] by [[Nathan Acks]]
 - Last Gardened:: 
     - [[November 16th, 2020]] by [[Jenna Dixon]]
     - [[November 9th, 2020]] by [[Jenna Dixon]]
@@ -27,6 +27,36 @@ suggest most recent note left untwirled for easy review to visitors__
         - ((2jplEZUYM))
         - 
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 34 [[January 3rd, 2021]]
+        - participants:: [[Vinay Débrou]] [[Maier Fenster]] [[Nathan Acks]]
+        - location:: https://meet.google.com/zfc-qhjy-oey
+        - **Agenda**
+            - [[Maier Fenster]] Allowing anybody to set up events. We can use Calendly to allow anybody to set up an event which will send reminders to all and can also be rescheduled, etc.
+        - **Meeting Notes**
+            - [[Grigori Milov]] is concerned that the YC is too top-down.
+                - [[Hugo Macedo]] suggested we use Calendly, since that would allow for anyone to set up a meeting, but still restrict editing to the meeting creator.
+                - Calendly hooks into Google Calendar, and allows meetings to be scheduled/rescheduled within meeting windows (so that they don't conflict).
+                    - Meeting topics can be set, but creator name is present.
+                - [[Vinay Débrou]] isn't sure what this brings to our existing setup.
+                    - [[Maier Fenster]] points out that this allows us to graft event-level permissions into Google Calendar.
+                    - [[Nathan Acks]] thinks that this does feel more consistent with our philosophy.
+                - [[Maier Fenster]] will set this up next weekend (negative check-off in the infrastructure channel).
+            - [[Vinay Débrou]] wants to get people involved in Yak Map based discussions.
+                - What's the best way to get people involved?
+                - Maybe just reach out by DM initially?
+                - The trick is to see where things go, as it's hard to predict where conversations will go.
+                - Is there a way to integrate this into onboarding?
+                - [[Maier Fenster]] is reluctant to integrate this initially, but rather introduce people after they've been fully onboarded.
+                    - [[Vinay Débrou]] is looking for something like the onboarding process under discussion, but for existing members.
+                    - [[Maier Fenster]] thinks we need some use-cases initially, and then we can riff off of people's initial (manual) experiences.
+                    - [[Nathan Acks]] wonders what the infrastructure would look like long-term.
+                        - [[Maier Fenster]] thinks that a bot hooked into Knack would be the best direction.
+                        - [[Vinay Débrou]] points out that we can also use recent channel data on Discord.
+                - [[Vinay Débrou]] is thinking about creating a pseudo-project page on Roam.
+                    - [[Maier Fenster]] thinks that a project proposal is maybe too formal -- just do conversations.
+                        - [[Vinay Débrou]] thinks it's important to have someone establish some initial flows.
+                - [[Nathan Acks]] thinks that the biggest infrastructure thing we can do right now to move this forward is helping to QA Knack.
+                - [[Nathan Acks]] will look into turning the Yak Map integration into an iframe widget + Git submodule.
     - Infrastructure Chat 33 [[December 27th, 2020]]
         - participants:: [[Maier Fenster]] [[Nathan Acks]] [[Praful Mathur]]
         - location:: https://meet.google.com/zfc-qhjy-oey
@@ -77,7 +107,10 @@ suggest most recent note left untwirled for easy review to visitors__
         - participants:: [[Maier Fenster]] [[Jordan Peacock]] [[Nathan Acks]]
         - location:: https://meet.google.com/zfc-qhjy-oey
         - **Agenda**
-            1. [[Nathan Acks]] Discuss/Finalize the [[Discord Channel Lifecycle and Organization]] proposal.
+            1. [[Venkatesh Rao]] Discussion of consistent open-source licensing policy for YC content (member contributed and 3rd party used).
+            2. [[Venkatesh Rao]] Financial governance/spending process.
+            3. [[Praful Mathur]] Newsletter infrastructure needs.
+            4. [[Nathan Acks]] Discuss/Finalize the [[Discord Channel Lifecycle and Organization]] proposal.
         - **Meeting Notes**
             - Maybe we want to use something that mirrors [Jordan's channels role](https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d)?
                 - So, one idea is just to bind everything to roles.
@@ -751,7 +784,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
                 - pull everything out of sidebar that's inactive 
                 - identify the single wringable neck for each page - associated with cell? 
             - Index/welcome page for the Roam - useful structure
-        - Project mgt as independent role »»  [[Production Squad]]
+        - Project mgt as independent role »»  [[Production Cell]]
         - project activity measurement, etc.
         - Nathan has more availability post-November
         - Onboarding continue to be a painpoint

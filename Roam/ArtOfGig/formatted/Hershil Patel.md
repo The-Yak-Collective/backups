@@ -41,6 +41,6 @@
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - [x] [Hershil Patel](<Hershil Patel.md>)
 
-## [Production Squad](<Production Squad.md>)
+## [Production Cell](<Production Cell.md>)
 - [Hershil Patel](<Hershil Patel.md>)
 

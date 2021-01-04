@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Yak Collective Website](<Yak Collective Website.md>)
-- `[Fname Lname](<Fname Lname.md>)`
+- XXX
     - **[Intended Audience](<Intended Audience.md>):**
 

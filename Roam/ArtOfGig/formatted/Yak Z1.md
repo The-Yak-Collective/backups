@@ -22,6 +22,19 @@ for now, i am thinking re delegate, that you have code on the robot and code on 
             - [Maier Fenster](<Maier Fenster.md>) can you share what services to stop? do you have a shell command for it?
         - As for @Maier (U+2)[6756](<6756.md>) suggestion turning off the servos, that did not work. After some search, I found the standard document linked above is superseded by one for the bot series (https://www.dropbox.com/sh/b3v81sb9nwir16q/AACkK-tg0q39fKJZcSl-YrqOa/LX-16A%20Bus%20Servo?dl=0&preview=LewanSoul+Bus+Servo+Communication+Protocol.pdf&subfolder_nav_tracking=1), and the command to turn off servos succeed by does nothing apparently. Code available if someone is interested.
         - The battery problem remains and may kill the bot for a reboot anytime if "pushed too much". For now trying to push toward the intended goal to remote control/remote install code, while looking a ways to deal with battery (i.e. learning the platform).
+    - 2021-01-04
+        - Idea from Maier: Power the Pi from USB-C, and servos through the controller (the provided power via battery).
+            - No luck. The Pi 4 is not new and probably hitting https://www.tomshardware.com/news/raspberry-pi-4-usb-c-update . I have 4 cables from different makers around, each one of them "cheap" and yet e-marked. I guess that is why the Pi does not charge. Internet tells me it is not easy to know which Pi 4 model is fixed, so better to assume it is not (the bot are about 1 year old).
+            - Walked part of the "action group" route: The code comes with action groups as SQLite files. These files are basically servo settings records, with each record a set of value for each of the 18 servos. Some of the groups have 1 record, some a few dozens.
+                - The code uses action groups only in LeServer, which I disabled, so it does not run anymore.
+                - The servo controller stores some values, as it runs always the same dance on startup (toward a spider like pose). I did not fine how to access them yet. The servo controller documentation is lacking, as much as my knowledge.
+                - Contacted HiWonder to get some pointers.
+            - 
+        - Found mjpg_streamer service consuming quite some CPU, even idle. Disabled to save current, but still not enough.
+        - Another idea from Maier: Physically unplug servos.
+            - Servos connected in 3 series. Unplugged 2 series (4 legs) to see how it holds.
+            - Unplugging 1 series (2 legs) did not change depletion.
+        - Started trying Twitch as an alternative to Twilio, but after too much time discovered it also requires a mobile phone number to create a video stream.
 
 # Backlinks
 ## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
