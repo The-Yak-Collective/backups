@@ -80,6 +80,10 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
+## [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
 ## [Hugo Macedo](<Hugo Macedo.md>)
 - {{[query](<query.md>): {and: [Hugo Macedo](<Hugo Macedo.md>){or: [Chief Page Wrangler](<Chief Page Wrangler.md>)[Additional Page Wranglers](<Additional Page Wranglers.md>)}
 
@@ -131,7 +135,7 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Fname Lname](<Fname Lname.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Jenna Dixon](<Jenna Dixon.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
@@ -144,7 +148,7 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Showcase Projects Launch](<Showcase Projects Launch.md>)
@@ -172,6 +176,10 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Website Version History](<Website Version History.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
+
+## [Website Widgets](<Website Widgets.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
@@ -217,12 +225,6 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 ## [Yak Collective Website](<Yak Collective Website.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
-
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-    - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
-
-Chief Page Wrangler:: [Maier Fenster](<Maier Fenster.md>)
     - **[Additional Page Wranglers](<Additional Page Wranglers.md>):**
 
 ## [Yak Gov Chat Minutes - The independent researcher](<Yak Gov Chat Minutes - The independent researcher.md>)

@@ -2,5 +2,5 @@
     - added Roam template PoC by @ViktorTabori
     - made: template/header v1
         - call by typing :header: at the beginning of any block
-- updated [[Production Cell]] header with new template
+- updated [[Production Squad]] header with new template
 - 

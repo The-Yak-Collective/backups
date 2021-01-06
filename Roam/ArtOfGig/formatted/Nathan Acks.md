@@ -116,8 +116,6 @@ Last Updated:: [January 3rd, 2021](<January 3rd, 2021.md>) by [Nathan Acks](<Nat
 
 Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-- [Nathan Acks](<Nathan Acks.md>)
-
 ## [Facebook](<Facebook.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
@@ -139,6 +137,13 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+## [How to Add a New Project to the Website](<How to Add a New Project to the Website.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+
+Created:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [IFTTT](<IFTTT.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
@@ -214,7 +219,7 @@ Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](
 
 - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Jordan Peacock](<Jordan Peacock.md>) [Nathan Acks](<Nathan Acks.md>)
 
-4. [Nathan Acks](<Nathan Acks.md>)
+1. [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)'
 
@@ -307,11 +312,17 @@ Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan A
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
-- **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Nathan Acks](<Nathan Acks.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-- **[Last Updated](<Last Updated.md>):** [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-- **[Last Gardened](<Last Gardened.md>):** [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
+
+- [Nathan Acks](<Nathan Acks.md>)
 
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - [Nathan Acks](<Nathan Acks.md>)
@@ -393,6 +404,13 @@ Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](
 
 - [Nathan Acks](<Nathan Acks.md>)
 
+## [Website Widgets](<Website Widgets.md>)
+Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
+
+Created:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
+Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
+
 ## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
 - i'd agree with @darren that this is a legitimately hard problem. in my admittedly limited experience (not sure how much of this generalizes): (1) REALLY solving it involves the creation of more diverse teams, and perhaps even more importantly, more diverse management. it takes time to hire people and promote people. often there are problems with the way people are selected for hiring, where recruitment focuses, team culture that can make certain folks feel less welcome and more inclined to leave, etc. (2) even when people do recognize the issues, they're often doing it after-the-fact (because these things weren't built-in from the beginning), so fixing them is a kind of technical debt. and nobody in management wants to deal with technical debt, because things "are good enough" right now and there's higher priority projects (new revenue streams, updated products, dealing with OTHER technical debt). (3) but a lot of the upper-upper management don't get it and/or don't care. so often times trying to fix things means figuring out how to route around the c-suite. and the cultural tone that's set exacerbates the other problem [Nathan Acks](<Nathan Acks.md>)
 
@@ -431,11 +449,7 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 ## [Yak Collective Website](<Yak Collective Website.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-Last Updated:: [December 13th, 2020](<December 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 

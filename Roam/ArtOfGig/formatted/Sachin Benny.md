@@ -122,7 +122,7 @@
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - [Sachin Benny](<Sachin Benny.md>)
 
 ## [Project Pitches](<Project Pitches.md>)

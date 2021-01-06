@@ -49,7 +49,7 @@
 ## [PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework](<PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework.md>)
 - A framework for thinking about the future introduced for the [Future Frontiers](<Future Frontiers.md>) project by [Siva Swaroop](<Siva Swaroop.md>)
 
-## [Production Cell](<Production Cell.md>)
+## [Production Squad](<Production Squad.md>)
 - [Siva Swaroop](<Siva Swaroop.md>)
 
 ## [Siva Swaroop: Religious Ways](<Siva Swaroop: Religious Ways.md>)

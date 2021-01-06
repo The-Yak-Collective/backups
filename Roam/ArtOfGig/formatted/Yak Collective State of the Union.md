@@ -21,7 +21,7 @@
 [Maier Fenster](<Maier Fenster.md>) lead? 
         - [Momentum Problem](<Momentum Problem.md>) cell
 [Venkatesh Rao](<Venkatesh Rao.md>) lead
-        - [Production Cell](<Production Cell.md>) cell
+        - [Production Squad](<Production Squad.md>) cell
 [Jenna Dixon](<Jenna Dixon.md>) lead
     - **Active Cells**
         - [Future Frontiers](<Future Frontiers.md>) cell
