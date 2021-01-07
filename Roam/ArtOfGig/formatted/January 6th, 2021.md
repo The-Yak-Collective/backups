@@ -1,0 +1,6 @@
+- [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) sync
+    - survey - get feedback in the next few days
+    - product offering discussion
+        - focused on #[Pop-Up Think Tank](<Pop-Up Think Tank.md>)
+        - will add more on "How to market it "
+    - 

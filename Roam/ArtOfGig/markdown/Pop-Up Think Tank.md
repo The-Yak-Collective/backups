@@ -8,3 +8,13 @@
     - Discovery/brainstorm/learning week (for projects requiring some technical prework to contribute to)
     - Week long sprints each resulting in an improved version
     - Refinement week
+- 
+- # How to market it 
+    - presentation
+        - Why - what problem are we solving
+            - 
+        - What - what is pop-think tank
+            - 
+        - How - how does it work
+    - How we do we tweet about it?
+    - 
