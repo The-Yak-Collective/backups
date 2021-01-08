@@ -566,7 +566,8 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - [editor](<editor.md>) of [Yak Talk](<Yak Talk.md>) – Yak Collective [newsletter](<newsletter.md>)
 - [Florian Weber](<Florian Weber.md>)
     - https://twitter.com/csshsh
-    - Engineering, product and data Consulting for 
+    - Engineering, product and data consulting for early stage projects
+    - Previously, founding member of Twitter and Co-founder and CTO of Amen
 - [Kacper Wikieł](<Kacper Wikieł.md>)
 - [Andy Wilkinson](<Andy Wilkinson.md>)
     - "Been designing websites on and off commercially for about ten year"
