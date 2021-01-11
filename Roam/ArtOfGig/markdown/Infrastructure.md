@@ -27,6 +27,28 @@ suggest most recent note left untwirled for easy review to visitors__
         - ((2jplEZUYM))
         - 
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 35 [[January 10th, 2021]]
+        - participants:: [[Maier Fenster]] [[Nathan Acks]]
+        - location:: https://meet.google.com/zfc-qhjy-oey
+        - **Meeting Notes**
+            - Infrastructure calls seems to be just [[Nathan Acks]] and [[Maier Fenster]] now...
+            - We really need to make things more lively... This is why Calendly is important.
+                - [[Nathan Acks]] will bump this up for the next thing they do today (after finishing up with the channels).
+                - [[Nathan Acks]] doesn't feel like they're in much of a troubleshooting headspace right now, unfortunately.
+            - [[Maier Fenster]] thinks we need a better process for getting buy-in around things.
+                - All [[Nathan Acks]] can think of is posting something in `#announcements`, but neither [[Nathan Acks]] nor [[Maier Fenster]] like this idea.
+                - The goal here is not just feedback, but __ownership__ -- a sense of "this is mine".
+                    - [[Maier Fenster]]: "The Yak Collective is a place for doing, not a place for believing".
+                - For example, how do we make [[Paul Sas]]'s "ask me anything" happen?
+                - What is something that makes people want to spend their free time on the Yak Collective?
+                    - One issue: Someone spending a time writing a story doesn't look very active on Discord, even if they're spending a lot of time doing YC-related activities.
+                    - Another example: Coworking Cafe is just the same 10-ish people...
+                    - We used to have some channels that were more member/project oriented ("give feedback on my slide deck"), but these have faded.
+                        - [[Maier Fenster]] thinks that the reason this hasn't worked so well is that we haven't had wranglers.
+                - [[Venkatesh Rao]] sees YC as project-oriented. [[Maier Fenster]]'s more interested in discussions.
+                    - [[Nathan Acks]]'s not sure the project-based model is proving sustainable.
+                    - [[Maier Fenster]] points out that projects __are__ good for sustaining smaller communities.
+                    - [[Nathan Acks]]'s not sure that the smaller communities are sustainable without a broader pool of engaged-ish people on Discord (or wherever) to draw from.
     - Infrastructure Chat 34 [[January 3rd, 2021]]
         - participants:: [[Vinay Débrou]] [[Maier Fenster]] [[Nathan Acks]]
         - location:: https://meet.google.com/zfc-qhjy-oey
@@ -107,7 +129,10 @@ suggest most recent note left untwirled for easy review to visitors__
         - participants:: [[Maier Fenster]] [[Jordan Peacock]] [[Nathan Acks]]
         - location:: https://meet.google.com/zfc-qhjy-oey
         - **Agenda**
-            1. [[Nathan Acks]] Discuss/Finalize the [[Discord Channel Lifecycle and Organization]] proposal.
+            1. [[Venkatesh Rao]] Discussion of consistent open-source licensing policy for YC content (member contributed and 3rd party used).
+            2. [[Venkatesh Rao]] Financial governance/spending process.
+            3. [[Praful Mathur]] Newsletter infrastructure needs.
+            4. [[Nathan Acks]] Discuss/Finalize the [[Discord Channel Lifecycle and Organization]] proposal.
         - **Meeting Notes**
             - Maybe we want to use something that mirrors [Jordan's channels role](https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d)?
                 - So, one idea is just to bind everything to roles.
@@ -130,7 +155,6 @@ suggest most recent note left untwirled for easy review to visitors__
                 - Update the proposal to just list projects under "Projects"
                     - Hide channels if you don't have a role
     - infrastructure chat 31 [[December 13th, 2020]]
-        - 11:30:: [[Yak Collective]] infrastructure call #Meetings
         - participants:: [[Maier Fenster]] [[Erik Sandberg]] [[Darren Kong]]
         - location:: https://meet.google.com/zfc-qhjy-oey
         - **Agenda**

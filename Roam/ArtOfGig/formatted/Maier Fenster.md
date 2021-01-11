@@ -65,6 +65,22 @@
 - **["Chief Page Wrangler](<"Chief Page Wrangler.md>):** [Maier Fenster](<Maier Fenster.md>)"
 
 ## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>)
+
+- Infrastructure calls seems to be just [Nathan Acks](<Nathan Acks.md>) and [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- All [Nathan Acks](<Nathan Acks.md>) can think of is posting something in `[announcements](<announcements.md>)`, but neither [Nathan Acks](<Nathan Acks.md>) nor [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>):
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>) sees YC as project-oriented. [Maier Fenster](<Maier Fenster.md>)'
+
+- [Maier Fenster](<Maier Fenster.md>)
+
 - **[participants](<participants.md>):** [Vinay Débrou](<Vinay Débrou.md>) [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)

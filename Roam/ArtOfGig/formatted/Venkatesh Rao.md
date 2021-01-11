@@ -236,6 +236,12 @@ Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 ## [Infrastructure](<Infrastructure.md>)
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
+1. [Venkatesh Rao](<Venkatesh Rao.md>)
+
+2. [Venkatesh Rao](<Venkatesh Rao.md>)
+
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 - [Venkatesh Rao](<Venkatesh Rao.md>)
 
 - [Venkatesh Rao](<Venkatesh Rao.md>)
@@ -548,6 +554,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 
 - **[Last Gardened](<Last Gardened.md>):** [December 9th, 2020](<December 9th, 2020.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
+- Project lead: [Venkatesh Rao](<Venkatesh Rao.md>):
+
 ## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
 - [Yak W1](<Yak W1.md>) by [Venkatesh Rao](<Venkatesh Rao.md>)
 
@@ -560,6 +568,8 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 - -> "How do I put this together into a gig that could solve this pain-pointfor me?"  ---- YC gig organization: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [Zapier](<Zapier.md>)
+Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
+
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 
 ## [infrastructure chat 14 8.8.2020](<infrastructure chat 14 8.8.2020.md>)

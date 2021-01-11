@@ -104,6 +104,7 @@ rss:
     - ## page_headers
         - An attribute for advanced users; anything included here will be inserted verbatim at the end of the page's HTML `<head/>`. Use this to specify additional CSS or JavaScript. Because this attribute expects raw HTML, you definitely want to use the "`|` + indent" syntax.
         - Be aware that it's very easy to break the corresponding member page if you don't know what you're doing with this attribute!
+The following _optional_ front matter attributes are supported for generic pages.
 # Examples as of [December 11th, 2020](<December 11th, 2020.md>)
     - https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/members/peacock-jordan.md
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FinXUHxTeB6.png?alt=media&token=aa3784b3-ca84-4c44-8040-61374db640bb)

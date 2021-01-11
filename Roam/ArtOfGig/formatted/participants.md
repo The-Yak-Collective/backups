@@ -1,6 +1,9 @@
 
 # Backlinks
 ## [Infrastructure](<Infrastructure.md>)
+- Infrastructure Chat 35 [January 10th, 2021](<January 10th, 2021.md>)
+        - **[participants](<participants.md>):**
+
 - Infrastructure Chat 34 [January 3rd, 2021](<January 3rd, 2021.md>)
         - **[participants](<participants.md>):**
 
@@ -10,7 +13,7 @@
 - Infrastructure Chat 32 [December 20th, 2020](<December 20th, 2020.md>)
         - **[participants](<participants.md>):**
 
-- **[11:30](<11:30.md>):** [Yak Collective](<Yak Collective.md>) infrastructure call [Meetings](<Meetings.md>)
+- infrastructure chat 31 [December 13th, 2020](<December 13th, 2020.md>)
         - **[participants](<participants.md>):**
 
 - [Nathan Acks](<Nathan Acks.md>)'s notes
