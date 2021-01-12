@@ -18,7 +18,7 @@
 - **Framework**
     - We use the [PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework](<PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework.md>) framework as an initial brainstorming tool to think through the implications of a module, but not explicitly unless it is useful.
     - 
-- **Publishing Workflow Kanban:** (temporarily deprecated)
+- **Publishing Workflow Kanban:** (temporari deprecated)
     - {{mermaid}}
         - graph LR
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
