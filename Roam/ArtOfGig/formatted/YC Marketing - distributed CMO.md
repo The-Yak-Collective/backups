@@ -202,6 +202,9 @@ Yaks competing for attention
 ## [Innovation Consulting Project - Launch Plan](<Innovation Consulting Project - Launch Plan.md>)
 - About: Launch plan for [Yaks do innovation consulting](<Yaks do innovation consulting.md>) with [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [January 13th, 2021](<January 13th, 2021.md>)
+- sync [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [January 6th, 2021](<January 6th, 2021.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

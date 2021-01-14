@@ -90,6 +90,17 @@
 
 - **[Created](<Created.md>):** [November 15th, 2020](<November 15th, 2020.md>) by [Hugo Macedo](<Hugo Macedo.md>)
 
+## [January 13th, 2021](<January 13th, 2021.md>)
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
+- [Hugo Macedo](<Hugo Macedo.md>)
+
 ## [Marketing Channels](<Marketing Channels.md>)
 - **[Chief Page Wrangler](<Chief Page Wrangler.md>):** [Hugo Macedo](<Hugo Macedo.md>)
 

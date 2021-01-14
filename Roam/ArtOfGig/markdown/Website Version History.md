@@ -1,10 +1,9 @@
 About:: __Website version history.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
-last updated:: [[August 31st, 2020]] by [[Nathan Acks]]
-Chief Page Wrangler:: [[Nathan Acks]]
 Created:: [[August 31st, 2020]] by [[Nathan Acks]]
 Last Updated:: [[December 11th, 2020]] by [[Nathan Acks]]
+Last Gardened:: `/Today` by `[[Fname Lname]]`
 # v2.4
     - [[Nathan Acks]]
         - Added "template" help files explaining required vs. optional front matter, allowed widgets on each page, etc.
@@ -16,7 +15,6 @@ Last Updated:: [[December 11th, 2020]] by [[Nathan Acks]]
         - Bug fixes
     - [[Jenna Dixon]]
         - Updated yak logo.
-Last Gardened:: `/Today` by `[[Fname Lname]]`
 # v2.3
     - [[Nathan Acks]]
         - "Astonishing Stories" project layout.

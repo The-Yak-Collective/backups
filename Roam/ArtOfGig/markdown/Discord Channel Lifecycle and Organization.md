@@ -12,19 +12,10 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
         Voice channels (and associated text channels).
     ## Projects
         Currently active internal __and__ externally-facing projects. 
-    ## ^^New [[December 19th, 2020]]^^ Internal Projects
-        - Currently active internally-facing projects. 
-        - ### Proposed Changes
-            - Rename "Bureaucracy" → "Internal Projects".
-            - Move any internal (non-project) discussions to "Discussions" or "Plaza", as appropriate.
-                - [[Nathan Acks]] Based on the feedback, it seems like it would be better to pursue an internal/external project split. Example moves:
-                    - `#admin-talk` → "Discussions"
-                    - 
-                    - 
-    ## Incubator
-        A place for new channels to find their legs. Or not.
     ## Discussions
         - Discussion and information channels with a more targeted audience.
+    ## Incubator
+        A place for new channels to find their legs. Or not.
     ## Archives
         Old channels, put out to pasture.
             - All channels in the "archives" should have the "send messages" permission disabled.
