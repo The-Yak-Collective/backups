@@ -1,0 +1,23 @@
+- # Welcome to __The Yak Collective__ Sherpa School.
+    - What's a sherpa? 
+        - "a member of a Himalayan people living on the borders of Nepal and Tibet, renowned for their skill in mountaineering."
+        - Sherpas help Yaks Yak. 
+        - Sherpas unblock the Collective. 
+        - Sherpas help talent and work discover each other. 
+    - You know you're a Yak Sherpa when you... 
+- ### Know the paths.
+    - 
+- ### Show the shrines. 
+    - 
+- ### Teach the history. 
+    - 
+- ### Help travelers pack.
+    - 
+- ### Pause to appreciate the beauty. 
+    - Recognize and appreciate works of great insight, of 
+- ### Help stumbling Yaks rise up. 
+    - 
+- ### Sing the Yak songs. 
+    - 
+    - 
+- ### Guide new sherpas
