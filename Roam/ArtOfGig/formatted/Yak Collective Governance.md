@@ -24,10 +24,10 @@ https://jorgdesign.springeropen.com/articles/10.1186/s41469-017-0026-x
             - [Frederic Laloux](<Frederic Laloux.md>)
         -  1. Systemic Logic for Platform Business Models, by Julia A. Fehrer, Herbert Woratschek and Roderick J. Brodie
             - This is a groundbreaking article, in my view. The authors are kind of dancing around the fact that you have to throw most of what you think you know about management out of the window. We can discuss it either first or later, because other authors are touching upon some of the same ideas. https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30
-        - 3. The path to success for a platform venture is by no means easy or guaranteed, nor is it completely different from that of companies with more-conventional business models. Why? Because, like all companies, platforms must ultimately perform better than their competitors. In addition, to survive long-term, platforms must also be politically and socially viable.
+        - 2. The path to success for a platform venture is by no means easy or guaranteed, nor is it completely different from that of companies with more-conventional business models. Why? Because, like all companies, platforms must ultimately perform better than their competitors. In addition, to survive long-term, platforms must also be politically and socially viable.
             - **The read** is an article based on the excellent book The Business of Platforms by Michael Cusumano, et al. is here:
                 - https://sloanreview.mit.edu/article/the-future-of-platforms/
-        -  2. Do you need a business ecosystem?
+        -  3. Do you need a business ecosystem?
             - https://www.bcg.com/ru-ru/publications/2019/do-you-need-business-ecosystem
             - "The concept of business ecosystems is not new. Indeed, the large fairs in many medieval cities at which merchants came together and exchanged goods for a given period of time each year can be regarded as early forms of ecosystems. Similarly, as early as the fourteenth century, the city of Prato, Italy, had established a textile industry as an ecosystem of independent craftsmen specializing in weaving, carding, spinning, fulling, and dyeing, and orchestrated by powerful wool merchants that acted as the trading hubs of the system and provided critical functions of production coordination, quality control, and even financing." 
 It is thought provoking and invites a reading about medieval marketplaces.
@@ -36,17 +36,17 @@ The article above is a part of a series, that include:
                 - https://www.bcg.com/publications/2020/how-do-you-design-a-business-ecosystem
                 - https://www.bcg.com/en-us/publications/2019/emerging-art-ecosystem-management
                 - [McKinsey is also interested](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/new-evidence-for-the-power-of-digital-platforms)
+        - 4. An Interesting Read On The Fifth Generation Management
+https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
+            - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
     - **Queued**
-        - 4. This one is on Medieval Guilds. It is free and interesting
+        - 5. What is the effect of interactivity on platform design and performance 
+https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
+        - 6. This one is on Medieval Guilds. It is free and interesting
 https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period
 And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.
             - Another short reading on medieval guilds https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/
 or something similar
-        - 5. An Interesting Read On The Fifth Generation Management
-https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
-            - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
-        - 6. What is the effect of interactivity on platform design and performance 
-https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
         - 7. New: https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8[Sec22](<Sec22.md>)
         - 8. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
             - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
