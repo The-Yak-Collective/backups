@@ -115,6 +115,7 @@ or something similar
 - [Governance Tests](<Governance Tests.md>)
 - 
 - ## [Governance Meetings Minutes](<Governance Meetings Minutes.md>)
+- [January 15th, 2021](<January 15th, 2021.md>)  [Yak Gov Chat Minutes - Discovery and Serendipity](<Yak Gov Chat Minutes - Discovery and Serendipity.md>)
 - [December 11th, 2020](<December 11th, 2020.md>) [Yak Gov Chat Minutes - Do You Need a Business Ecosystem?](<Yak Gov Chat Minutes - Do You Need a Business Ecosystem?.md>)
 - [December 4th, 2020](<December 4th, 2020.md>) [Yak Gov Chat Minutes - The Future of Platforms](<Yak Gov Chat Minutes - The Future of Platforms.md>) [meeting-notes](<meeting-notes.md>)
 - [November 20th, 2020](<November 20th, 2020.md>) [Yak Gov Chat Minutes - Cognition all the way down](<Yak Gov Chat Minutes - Cognition all the way down.md>) [meeting-notes](<meeting-notes.md>)

@@ -115,6 +115,7 @@ or something similar
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]
+- [[January 15th, 2021]]  [[Yak Gov Chat Minutes - Discovery and Serendipity]]
 - [[December 11th, 2020]] [[Yak Gov Chat Minutes - Do You Need a Business Ecosystem?]]
 - [[December 4th, 2020]] [[Yak Gov Chat Minutes - The Future of Platforms]] #meeting-notes
 - [[November 20th, 2020]] [[Yak Gov Chat Minutes - Cognition all the way down]] #meeting-notes
