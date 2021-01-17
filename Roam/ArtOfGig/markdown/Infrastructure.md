@@ -129,7 +129,10 @@ suggest most recent note left untwirled for easy review to visitors__
         - participants:: [[Maier Fenster]] [[Jordan Peacock]] [[Nathan Acks]]
         - location:: https://meet.google.com/zfc-qhjy-oey
         - **Agenda**
-            1. [[Nathan Acks]] Discuss/Finalize the [[Discord Channel Lifecycle and Organization]] proposal.
+            1. [[Venkatesh Rao]] Discussion of consistent open-source licensing policy for YC content (member contributed and 3rd party used).
+            2. [[Venkatesh Rao]] Financial governance/spending process.
+            3. [[Praful Mathur]] Newsletter infrastructure needs.
+            4. [[Nathan Acks]] Discuss/Finalize the [[Discord Channel Lifecycle and Organization]] proposal.
         - **Meeting Notes**
             - Maybe we want to use something that mirrors [Jordan's channels role](https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d)?
                 - So, one idea is just to bind everything to roles.
@@ -152,7 +155,6 @@ suggest most recent note left untwirled for easy review to visitors__
                 - Update the proposal to just list projects under "Projects"
                     - Hide channels if you don't have a role
     - infrastructure chat 31 [[December 13th, 2020]]
-        - 11:30:: [[Yak Collective]] infrastructure call #Meetings
         - participants:: [[Maier Fenster]] [[Erik Sandberg]] [[Darren Kong]]
         - location:: https://meet.google.com/zfc-qhjy-oey
         - **Agenda**

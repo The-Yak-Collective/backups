@@ -47,6 +47,7 @@
         - Value for YC::
             - better automation and usability
             - maybe other discord groups will want to copy
+    - Help wanted::
     - Meeting minutes::
     - Relevant files and drafts (Graph or website or google docs)::
     - Genesis::

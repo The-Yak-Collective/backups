@@ -20,9 +20,6 @@
 ## [General Body Meetings](<General Body Meetings.md>)
 - This page is for indexing agendas/minutes of meetings open to all members (on Zoom). You can add suggested items to the meeting agendas, and notes to the minutes page. These meetings will be scheduled around constraints of [Yak Collective](<Yak Collective.md>)
 
-## [Infrastructure](<Infrastructure.md>)
-- **[11:30](<11:30.md>):** [Yak Collective](<Yak Collective.md>)
-
 ## [Mansion Statement](<Mansion Statement.md>)
 - The purpose of the [Yak Collective](<Yak Collective.md>)
 
