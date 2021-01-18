@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Nathan Acks](<Nathan Acks.md>)
-- [Yak Collective Member Types](<Yak Collective Member Types.md>)
+- [Yak Collective Member Types](<Yak Collective Member Types.md>) [proposal](<proposal.md>)
 - **[Public Inbox](<Public Inbox.md>):**
 

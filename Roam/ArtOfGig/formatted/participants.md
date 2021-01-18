@@ -13,7 +13,7 @@
 - Infrastructure Chat 32 [December 20th, 2020](<December 20th, 2020.md>)
         - **[participants](<participants.md>):**
 
-- infrastructure chat 31 [December 13th, 2020](<December 13th, 2020.md>)
+- **[11:30](<11:30.md>):** [Yak Collective](<Yak Collective.md>) infrastructure call [Meetings](<Meetings.md>)
         - **[participants](<participants.md>):**
 
 - [Nathan Acks](<Nathan Acks.md>)'s notes

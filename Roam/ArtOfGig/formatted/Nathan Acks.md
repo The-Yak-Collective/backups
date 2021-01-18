@@ -14,7 +14,7 @@
     - [IT Infrastructure and Project Security Basics](<IT Infrastructure and Project Security Basics.md>)
     - [Threat Model](<Threat Model.md>)
     - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
-    - [Yak Collective Member Types](<Yak Collective Member Types.md>)
+    - [Yak Collective Member Types](<Yak Collective Member Types.md>) [proposal](<proposal.md>)
 - **[Public Inbox](<Public Inbox.md>):**
     - Put anything you like here (I check this every couple of days, and will removed seen items).
 - **[Pings](<Pings.md>):**
@@ -42,10 +42,6 @@
 ## [Building the Website](<Building the Website.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -61,10 +57,6 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 ## [Code Style Guide](<Code Style Guide.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 9th, 2020](<September 9th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -73,10 +65,6 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Contributing to the Website](<Contributing to the Website.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -128,8 +116,6 @@ Last Updated:: [January 3rd, 2021](<January 3rd, 2021.md>) by [Nathan Acks](<Nat
 
 Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-- [Nathan Acks](<Nathan Acks.md>)
-
 ## [Facebook](<Facebook.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
@@ -141,19 +127,11 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 ## [GitHub](<GitHub.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [December 4th, 2020](<December 4th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Glitch](<Glitch.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
-last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -168,10 +146,6 @@ Created:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nath
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [IFTTT](<IFTTT.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -261,7 +235,7 @@ Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](
 
 - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Jordan Peacock](<Jordan Peacock.md>) [Nathan Acks](<Nathan Acks.md>)
 
-4. [Nathan Acks](<Nathan Acks.md>)
+1. [Nathan Acks](<Nathan Acks.md>)
 
 - [Nathan Acks](<Nathan Acks.md>)'
 
@@ -315,10 +289,6 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 - {{[query](<query.md>): {and: [ping](<ping.md>) [Nathan Acks](<Nathan Acks.md>)
 
 ## [Netlify](<Netlify.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -388,8 +358,6 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
 - [Nathan Acks](<Nathan Acks.md>)
 
 ## [Substack](<Substack.md>)
-last updated:: [September 14th, 2020](<September 14th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 30th, 2020](<August 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -399,8 +367,6 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 
 ## [Threat Model](<Threat Model.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
-last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [June 30th, 2020](<June 30th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
@@ -419,8 +385,6 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 ## [Twitter](<Twitter.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Scott Allen](<Scott Allen.md>) | [Venkatesh Rao](<Venkatesh Rao.md>) | [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 13th, 2020](<September 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -435,19 +399,11 @@ Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<N
 ## [Website Architecture](<Website Architecture.md>)
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
-last updated:: [September 1st, 2020](<September 1st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 ## [Website Version History](<Website Version History.md>)
-Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
-
-last updated:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
@@ -511,15 +467,11 @@ Chief Page Wrangler:: [Nathan Acks](<Nathan Acks.md>)
 
 Created:: [August 29th, 2020](<August 29th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
-Last Updated:: [December 13th, 2020](<December 13th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 - **[Project Lead](<Project Lead.md>):** [Nathan Acks](<Nathan Acks.md>)
 
 ## [Zapier](<Zapier.md>)
-last updated:: [September 24th, 2020](<September 24th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
-
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
 Last Updated:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)

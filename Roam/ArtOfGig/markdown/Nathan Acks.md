@@ -14,7 +14,7 @@
     - [[IT Infrastructure and Project Security Basics]]
     - [[Threat Model]]
     - [[Discord Channel Lifecycle and Organization]]
-    - [[Yak Collective Member Types]]
+    - [[Yak Collective Member Types]] #proposal
 - Public Inbox::
     - Put anything you like here (I check this every couple of days, and will removed seen items).
 - Pings::

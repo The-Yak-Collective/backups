@@ -50,12 +50,8 @@ or something similar
         - 7. New: https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8[Sec22](<Sec22.md>)
         - 8. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
             - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
-        - 
- is an excellent book 
-            - https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie
         - 9. Finally, there are some anecdotal evidence on what's going on in Asia, which is very interesting.
             - https://www.notion.so/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b
-        - It also reminds us that 
         - Backup resources (not short reads, not free, or both)
             - There is also a lot of literature on guilds behind the paywalls, including 
 1. https://www.jstor.org/stable/1360368?seq=1
@@ -68,15 +64,6 @@ or something similar
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-2e5
             - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
-        -  3. Do you need a business ecosystem?
-            - https://www.bcg.com/ru-ru/publications/2019/do-you-need-business-ecosystem
-            - "The concept of business ecosystems is not new. Indeed, the large fairs in many medieval cities at which merchants came together and exchanged goods for a given period of time each year can be regarded as early forms of ecosystems. Similarly, as early as the fourteenth century, the city of Prato, Italy, had established a textile industry as an ecosystem of independent craftsmen specializing in weaving, carding, spinning, fulling, and dyeing, and orchestrated by powerful wool merchants that acted as the trading hubs of the system and provided critical functions of production coordination, quality control, and even financing." 
-It is thought provoking and invites a reading about medieval marketplaces.
-The article above is a part of a series, that include:
-                - https://www.bcg.com/publications/2020/why-do-most-business-ecosystems-fail
-                - https://www.bcg.com/publications/2020/how-do-you-design-a-business-ecosystem
-                - https://www.bcg.com/en-us/publications/2019/emerging-art-ecosystem-management
-                - [McKinsey is also interested](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/new-evidence-for-the-power-of-digital-platforms)
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
     - **Queued**

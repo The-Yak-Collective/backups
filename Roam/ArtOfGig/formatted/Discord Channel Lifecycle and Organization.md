@@ -12,19 +12,10 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
         Voice channels (and associated text channels).
     ## Projects
         Currently active internal __and__ externally-facing projects. 
-    ## ^^New [December 19th, 2020](<December 19th, 2020.md>)^^ Internal Projects
-        - Currently active internally-facing projects. 
-        - ### Proposed Changes
-            - Rename "Bureaucracy" → "Internal Projects".
-            - Move any internal (non-project) discussions to "Discussions" or "Plaza", as appropriate.
-                - [Nathan Acks](<Nathan Acks.md>) Based on the feedback, it seems like it would be better to pursue an internal/external project split. Example moves:
-                    - `[admin-talk](<admin-talk.md>)` → "Discussions"
-                    - 
-                    - 
-    ## Incubator
-        A place for new channels to find their legs. Or not.
     ## Discussions
         - Discussion and information channels with a more targeted audience.
+    ## Incubator
+        A place for new channels to find their legs. Or not.
     ## Archives
         Old channels, put out to pasture.
             - All channels in the "archives" should have the "send messages" permission disabled.
@@ -60,7 +51,7 @@ Last Gardened:: [December 7th, 2020](<December 7th, 2020.md>) by [Nathan Acks](<
 ## [Infrastructure](<Infrastructure.md>)
 - [Nathan Acks](<Nathan Acks.md>) will finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
-4. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
+1. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 
 - [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>)
 

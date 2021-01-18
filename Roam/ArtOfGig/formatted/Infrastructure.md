@@ -129,10 +129,7 @@ suggest most recent note left untwirled for easy review to visitors__
         - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Jordan Peacock](<Jordan Peacock.md>) [Nathan Acks](<Nathan Acks.md>)
         - **[location](<location.md>):** https://meet.google.com/zfc-qhjy-oey
         - **Agenda**
-            1. [Venkatesh Rao](<Venkatesh Rao.md>) Discussion of consistent open-source licensing policy for YC content (member contributed and 3rd party used).
-            2. [Venkatesh Rao](<Venkatesh Rao.md>) Financial governance/spending process.
-            3. [Praful Mathur](<Praful Mathur.md>) Newsletter infrastructure needs.
-            4. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>) proposal.
+            1. [Nathan Acks](<Nathan Acks.md>) Discuss/Finalize the [Discord Channel Lifecycle and Organization](<Discord Channel Lifecycle and Organization.md>) proposal.
         - **Meeting Notes**
             - Maybe we want to use something that mirrors [Jordan's channels role](https://www.notion.so/Yak-Collective-Reaction-Roles-09be0f1e7e4f492ba1cf5604a600c31d)?
                 - So, one idea is just to bind everything to roles.
@@ -155,6 +152,7 @@ suggest most recent note left untwirled for easy review to visitors__
                 - Update the proposal to just list projects under "Projects"
                     - Hide channels if you don't have a role
     - infrastructure chat 31 [December 13th, 2020](<December 13th, 2020.md>)
+        - **[11:30](<11:30.md>):** [Yak Collective](<Yak Collective.md>) infrastructure call [Meetings](<Meetings.md>)
         - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Erik Sandberg](<Erik Sandberg.md>) [Darren Kong](<Darren Kong.md>)
         - **[location](<location.md>):** https://meet.google.com/zfc-qhjy-oey
         - **Agenda**
