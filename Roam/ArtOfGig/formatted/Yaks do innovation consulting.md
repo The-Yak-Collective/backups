@@ -359,6 +359,9 @@ The problem large companies are really having with innovations is that even the 
 ## [January 13th, 2021](<January 13th, 2021.md>)
 - #[Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 
+## [January 20th, 2021](<January 20th, 2021.md>)
+- #[Yaks do innovation consulting](<Yaks do innovation consulting.md>)
+
 ## [November 25th, 2020](<November 25th, 2020.md>)
 - in-depth parallel investigation like #[Yaks do innovation consulting](<Yaks do innovation consulting.md>)
 

@@ -64,18 +64,6 @@ or something similar
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-2e5
             - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
-- **Anarchism Track** — needs an owner 🤣
-    - **Completed**
-    - **Queued**
-        - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
-        - [Goodreads page for Two Cheers for Anarchism](https://www.goodreads.com/book/show/14891877-two-cheers-for-anarchism)
-        - Emma Goldman's writings — SELECTION?
-        - Backup resources (not short-reads, unsuitable for featured reads in chats)
-            - Book: [Crimethinc: Work](https://crimethinc.com/books/work)
-            - Site: [Jesus Radicals](https://www.jesusradicals.com/iconocast); the Iconocast podcast and their library are both quite good. Coming from a Christian anarchist perspective.
-            - YouTube channel: [Beau of the Fifth Column](https://youtu.be/y-PbSFZASR0?t=125)
-            - Music like Propagandhi
-            - [PhilosophyTube on Antifa](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - **General Track** — [[Venkatesh Rao]] — on hiatus while platform track clears backlog
     - **Completed Readings**
         - [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
@@ -112,6 +100,19 @@ or something similar
         - [Seb Paquet Scene-Hacking](https://www.slideshare.net/vgururao/scene-hacking)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
+        - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
+- **Anarchism Track** — needs an owner 🤣
+    - **Completed**
+    - **Queued**
+        - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
+        - [Goodreads page for Two Cheers for Anarchism](https://www.goodreads.com/book/show/14891877-two-cheers-for-anarchism)
+        - Emma Goldman's writings — SELECTION?
+        - Backup resources (not short-reads, unsuitable for featured reads in chats)
+            - Book: [Crimethinc: Work](https://crimethinc.com/books/work)
+            - Site: [Jesus Radicals](https://www.jesusradicals.com/iconocast); the Iconocast podcast and their library are both quite good. Coming from a Christian anarchist perspective.
+            - YouTube channel: [Beau of the Fifth Column](https://youtu.be/y-PbSFZASR0?t=125)
+            - Music like Propagandhi
+            - [PhilosophyTube on Antifa](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]

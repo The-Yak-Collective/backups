@@ -300,6 +300,9 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 ## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
 - [Yak X1](<Yak X1.md>) by [Maier Fenster](<Maier Fenster.md>)
 
+## [Yak X1](<Yak X1.md>)
+- **[build team leader](<build team leader.md>):** [Maier Fenster](<Maier Fenster.md>)
+
 ## [Yak Z1](<Yak Z1.md>)
 - [Maier Fenster](<Maier Fenster.md>)
 

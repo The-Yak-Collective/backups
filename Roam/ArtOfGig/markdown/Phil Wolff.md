@@ -1,5 +1,5 @@
 - Mini bios
-    - Recently: Helping bootstrap [Wider Team](https://Wider.Team), an Identity of Things strategy practice, improving healthcare and pharma outcomes in Europe and North America. 
+    - Recently: Helping bootstrap [Wider Team](https://Wider.Team), an Identity of Things strategy practice, improving healthcare and [[biopharma]] outcomes in Europe and North America. [[digital identity]], [[IDoT]], [[IoT]], [[IoMD]], [[IIoT]]
     - 
 - Outside Links: 
     - [@evanwolf](https://twitter.com/evanwolf) 

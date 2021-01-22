@@ -16,6 +16,7 @@
         - RT video stream from the camera (and other sensors?)
         - ability to select or upload (via github?) a code to be executed by robot and view the effect in RT, including video and servo positions
 for now, i am thinking re delegate, that you have code on the robot and code on the server. one or both may need help. for video, why not stream using twilio?
+    - temporary twitter handle:: @YakRover
 - Notes
     - 2020-12-31
         - A SpiderPi is online, yet through SSH and manual work for now. The battery problem remains, but I have found a simple solution by tracking custom system services and turning them off. Now a "minimal" stack, with just what is needed to run the code. And just this allowed completing system updates without depleting the battery.

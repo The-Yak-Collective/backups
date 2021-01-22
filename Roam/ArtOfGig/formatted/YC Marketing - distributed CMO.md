@@ -205,6 +205,9 @@ Yaks competing for attention
 ## [January 13th, 2021](<January 13th, 2021.md>)
 - sync [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 
+## [January 20th, 2021](<January 20th, 2021.md>)
+- sync [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
+
 ## [January 6th, 2021](<January 6th, 2021.md>)
 - [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>)
 

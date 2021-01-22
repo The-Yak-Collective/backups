@@ -52,6 +52,13 @@
 - **Years 3-10 Roadmap**
     - To be fleshed out obviously, but the goal would be to get to increasing levels of capability, cost, and external financing, and building out of the "friends of the project" network to the point that we have a realistic chance of actually getting a seat on a rocket going somewhere interesting.
 - **Scratch (the following sections of the project page are under development)**
+    - Missions
+        - Inspection
+        - Troubleshooting
+        - Survey
+        - Sample collection
+        - Self-inspection
+        - Self-repair
     - Yak W1 rough design
         - Chassis
             - Fits in a 60cm x 30 cm x 20 cm cuboid
@@ -87,13 +94,6 @@
             - Basic path planning and navigation
             - API-controlled payload ops
             - etc.
-    - Missions
-        - Inspection
-        - Troubleshooting
-        - Survey
-        - Sample collection
-        - Self-inspection
-        - Self-repair
     - Tests
         - Mobility
             - Climb a 45 degree gradient

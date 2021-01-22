@@ -23,6 +23,7 @@
 - {{embed: [Nathan Acks](<Nathan Acks.md>)}}
 - {{embed: [Keith Adams](<Keith Adams.md>)}}
 - {{embed: [Kartik Agaram](<Kartik Agaram.md>)}}
+- {{embed: [Aman Ahuja](<Aman Ahuja.md>)}}
 - {{embed: [Scott Allen](<Scott Allen.md>)}}
 - {{embed: [Mitchell Anhoury](<Mitchell Anhoury.md>)}}
 - {{embed: [Maggie Appleton](<Maggie Appleton.md>)}}
