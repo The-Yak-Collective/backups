@@ -39,7 +39,6 @@ The article above is a part of a series, that include:
         - 4. An Interesting Read On The Fifth Generation Management
 https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
             - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
-    - **Queued**
         - 5. What is the effect of interactivity on platform design and performance 
 https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
         - 6. This one is on Medieval Guilds. It is free and interesting
@@ -47,6 +46,7 @@ https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_t
 And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.
             - Another short reading on medieval guilds https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/
 or something similar
+    - **Queued**
         - 7. New: https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8#Sec22
         - 8. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
             - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
