@@ -1,5 +1,6 @@
-- The 2021 builds are all experimental discovery builds, and each has a letter/number designation. The numbers are all 1, since these are the parallel version 1 builds, and the letters are X, Y, Z, and W, following the USAF experimental flyoff prototyping naming conventions.
+- The 2021 builds are all experimental discovery builds, and each has a letter/number designation. The numbers are all 1, since these are the parallel version 1 builds, and the letters are X, Y, Z, W, and U following the USAF experimental flyoff prototyping naming conventions.
 - [[Yak X1]] by [[Maier Fenster]]
 - [[Yak Y1]] by [[Anuraj R]]
 - [[Yak Z1]] by [[Eric Platon]]
 - [[Yak W1]] by [[Venkatesh Rao]]
+- [[Yak U1]] by [[Victor Hill]]

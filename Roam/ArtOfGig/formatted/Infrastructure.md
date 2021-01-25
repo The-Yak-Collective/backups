@@ -27,6 +27,19 @@ suggest most recent note left untwirled for easy review to visitors__
         - ((2jplEZUYM))
         - 
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 36 [January 24th, 2021](<January 24th, 2021.md>)
+        - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Nathan Acks](<Nathan Acks.md>)
+        - **Agenda**
+            1. [Maier Fenster](<Maier Fenster.md>) allowing anybody to set up events. we can use calendly to allow anybody to set up an event which will send reminders to all and can also be rescheduled, etc.
+        - **Meeting Notes**
+            - [Maier Fenster](<Maier Fenster.md>) wants to get feedback on Calendly for launch.
+                - [Nathan Acks](<Nathan Acks.md>) thinks that things looks good, but would strip out the "Calendly standard" info from the Discord announcements in `[events](<events.md>)`
+                    - Basically, everything before the "Location" line.
+                    - The "Please share anything that will help prepare for our meeting" prefix.
+                    - The "Need to make changes to this event" line and everything after (in particular, the cancel/reschedule links).
+                - [Maier Fenster](<Maier Fenster.md>) agrees.
+            - [Nathan Acks](<Nathan Acks.md>) is still disengaged, but is hopeful that maybe re-engagement with YC projects will happen next week. Aiming for a ~4hr/week time commitment moving forward.
+                - [Maier Fenster](<Maier Fenster.md>) thinks that we need to get more people involved with the website and other infrastructure projects.
     - Infrastructure Chat 35 [January 10th, 2021](<January 10th, 2021.md>)
         - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Nathan Acks](<Nathan Acks.md>)
         - **[location](<location.md>):** https://meet.google.com/zfc-qhjy-oey

@@ -27,6 +27,19 @@ suggest most recent note left untwirled for easy review to visitors__
         - ((2jplEZUYM))
         - 
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 36 [[January 24th, 2021]]
+        - participants:: [[Maier Fenster]] [[Nathan Acks]]
+        - **Agenda**
+            1. [[Maier Fenster]] allowing anybody to set up events. we can use calendly to allow anybody to set up an event which will send reminders to all and can also be rescheduled, etc.
+        - **Meeting Notes**
+            - [[Maier Fenster]] wants to get feedback on Calendly for launch.
+                - [[Nathan Acks]] thinks that things looks good, but would strip out the "Calendly standard" info from the Discord announcements in `#events`
+                    - Basically, everything before the "Location" line.
+                    - The "Please share anything that will help prepare for our meeting" prefix.
+                    - The "Need to make changes to this event" line and everything after (in particular, the cancel/reschedule links).
+                - [[Maier Fenster]] agrees.
+            - [[Nathan Acks]] is still disengaged, but is hopeful that maybe re-engagement with YC projects will happen next week. Aiming for a ~4hr/week time commitment moving forward.
+                - [[Maier Fenster]] thinks that we need to get more people involved with the website and other infrastructure projects.
     - Infrastructure Chat 35 [[January 10th, 2021]]
         - participants:: [[Maier Fenster]] [[Nathan Acks]]
         - location:: https://meet.google.com/zfc-qhjy-oey

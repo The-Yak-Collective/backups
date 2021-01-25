@@ -5,7 +5,8 @@
         - Rocker-bogie build by Navin Khambala https://www.youtube.com/watch?v=3Zx7tGtwF5g
             - Build details https://navinkhambhala.com/rocker-bogie-robot
         - Generative design of rocker-bogie from autodesk https://academy.autodesk.com/portfolios/generative-design-rocker-bogie-mechanism
-    - 
+- General knowledge
+    - [Tesla model 3 motors](https://www.youtube.com/watch?v=esUb7Zy5Oio)
 - How-to guides
     - Motor selection
         - How to size a motor https://www.motioncontrolonline.org/content-detail.cfm/Motion-Control-News/How-to-Size-a-Motor/content_id/2236
