@@ -561,6 +561,9 @@ a good diagnostic question to ask is: who are you when you are NOT dependent on 
 ## [Yak-Walk Map](<Yak-Walk Map.md>)
 - -> "How do I put this together into a gig that could solve this pain-pointfor me?"  ---- YC gig organization: [Venkatesh Rao](<Venkatesh Rao.md>)
 
+## [Year 1 meeting notes](<Year 1 meeting notes.md>)
+- [Venkatesh Rao](<Venkatesh Rao.md>)
+
 ## [Zapier](<Zapier.md>)
 Chief Page Wrangler:: [Venkatesh Rao](<Venkatesh Rao.md>)
 

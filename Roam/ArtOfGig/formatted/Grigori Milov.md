@@ -296,6 +296,9 @@ But what are the fundamentals in our very unusual case? [Grigori Milov](<Grigori
 
 - [Richard Hughes-Jones](<Richard Hughes-Jones.md>) I don't know exactly where this fits in or if it is even helpful, but I'm interested in the 'leadership' angle to this (which no one seems to talk about). To [Grigori Milov](<Grigori Milov.md>)
 
+## [Year 1 meeting notes](<Year 1 meeting notes.md>)
+- [Grigori Milov](<Grigori Milov.md>)
+
 ## [“Your Next Strategic Offsite will be Online—here’s what to do” [Jason Fox](<Jason Fox.md>)](<“Your Next Strategic Offsite will be Online—here’s what to do” [Jason Fox](<Jason Fox.md>).md>)
 - [Grigori Milov](<Grigori Milov.md>)
 

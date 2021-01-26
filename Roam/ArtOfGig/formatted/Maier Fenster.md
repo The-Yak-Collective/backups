@@ -320,6 +320,9 @@ Last Updated:: [November 16th, 2020](<November 16th, 2020.md>) by [Maier Fenster
 
 - [Maier Fenster](<Maier Fenster.md>)
 
+## [Year 1 meeting notes](<Year 1 meeting notes.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
 ## [[Knack](<[Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>)](<[Knack](<Knack.md>) Implementation Thoughts :: [October 1st, 2020](<October 1st, 2020.md>).md>)
 - [pong](<pong.md>) #[Jenna Dixon](<Jenna Dixon.md>) #[Maier Fenster](<Maier Fenster.md>)
 

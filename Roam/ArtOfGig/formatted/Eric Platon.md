@@ -8,3 +8,6 @@
 
 - working with [Eric Platon](<Eric Platon.md>)
 
+## [Year 1 meeting notes](<Year 1 meeting notes.md>)
+- [Eric Platon](<Eric Platon.md>)
+

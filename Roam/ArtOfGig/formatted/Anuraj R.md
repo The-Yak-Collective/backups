@@ -21,3 +21,6 @@
 ## [Yak Rover 2021 Builds](<Yak Rover 2021 Builds.md>)
 - [Yak Y1](<Yak Y1.md>) by [Anuraj R](<Anuraj R.md>)
 
+## [Year 1 meeting notes](<Year 1 meeting notes.md>)
+- [Anuraj R](<Anuraj R.md>)
+
