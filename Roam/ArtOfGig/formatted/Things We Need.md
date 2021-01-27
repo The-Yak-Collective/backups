@@ -5,6 +5,7 @@
     - Starter list of things to do
         - volunteer for light [Production Squad](<Production Squad.md>) efforts eg design-copyedit-proofread (added [September 6th, 2020](<September 6th, 2020.md>) jd)
     - Tips sheet for being effective in an open network community
+    - [Yak Sherpa School](<Yak Sherpa School.md>)
 - Marketing presence
     - ~~Twitter~~   [Pamela Hobart](<Pamela Hobart.md>) +3-4 people 
         - ~~Twitter List~~ [Scott Allen](<Scott Allen.md>)
@@ -46,7 +47,7 @@
 - Minimalist shared corporate infrastructure
     - Highly flexible participation  model... join/leave as you like, contribute as little/as much as you like
     - Ideally we wouldn’t even have a corporate core entity, just a protocol of mutual engagement.
-    - At most we might eventually create a lightweight entity (for-profit or nonprofit) to own any shared assets like domain names etc
+    - At most we might eventually create a lightweight entity (for-profit or nonprofit or church) to own any shared assets like domain names etc.
     - Any actual paid team gig would be owned and run by the consulting vehicle of the lead person who brought in, priced, and staffed the project
     - A safety net of sorts... again maintained without shared infrastructure if possible. Like emergency grants to members, available in proportion to contributions etc.
 - Community development / support

@@ -38,6 +38,9 @@
     - [Phil Wolff](<Phil Wolff.md>) started this page based on a [governancechat](<governancechat.md>) on [January 15th, 2021](<January 15th, 2021.md>). [Yak Gov Chat Minutes - Discovery and Serendipity](<Yak Gov Chat Minutes - Discovery and Serendipity.md>)
 
 # Backlinks
+## [Things We Need](<Things We Need.md>)
+- [Yak Sherpa School](<Yak Sherpa School.md>)
+
 ## [Yak Gov Chat Minutes - Discovery and Serendipity](<Yak Gov Chat Minutes - Discovery and Serendipity.md>)
 - [Yak Sherpa School](<Yak Sherpa School.md>)
 

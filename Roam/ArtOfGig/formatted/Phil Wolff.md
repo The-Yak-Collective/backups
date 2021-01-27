@@ -9,6 +9,11 @@
     - 
 
 # Backlinks
+## [**SUGGESTIONS for Yak Innovation Book Title**](<**SUGGESTIONS for Yak Innovation Book Title**.md>)
+- __Despite Our Best Efforts: innovation failure causes and solutions 2021__, a Yaktoberfest Book. [Phil Wolff](<Phil Wolff.md>)
+
+- __Yakking Innovation 2021: Indie consultants sharing bigco innovation self-harm stories and strategies__ [Phil Wolff](<Phil Wolff.md>)
+
 ## [Yak Sherpa School](<Yak Sherpa School.md>)
 - [Phil Wolff](<Phil Wolff.md>)
 
