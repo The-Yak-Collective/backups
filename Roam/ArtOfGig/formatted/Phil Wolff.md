@@ -17,3 +17,6 @@
 ## [Yak Sherpa School](<Yak Sherpa School.md>)
 - [Phil Wolff](<Phil Wolff.md>)
 
+## [Yak Talk Newsletter – To Do and Content Ideas](<Yak Talk Newsletter – To Do and Content Ideas.md>)
+- [Praful Mathur](<Praful Mathur.md>) and [Phil Wolff](<Phil Wolff.md>)
+

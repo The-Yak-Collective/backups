@@ -1,5 +1,5 @@
 - **[Yak Collective Website](<Yak Collective Website.md>):** https://breakingsmart.com/
-- **[Newsletter](<Newsletter.md>):** https://breakingsmart.substack.com/
+- **[Yak Droppings](<Yak Droppings.md>):** https://breakingsmart.substack.com/
 
 # Backlinks
 ## [Directory](<Directory.md>)

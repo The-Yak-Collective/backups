@@ -1,4 +1,4 @@
-- **[Newsletter](<Newsletter.md>):** https://artofgig.substack.com/
+- **[Yak Droppings](<Yak Droppings.md>):** https://artofgig.substack.com/
 
 # Backlinks
 ## [Directory](<Directory.md>)

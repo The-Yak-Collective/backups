@@ -1,1 +1,1 @@
-- Newsletter:: https://artofgig.substack.com/
+- Yak Droppings:: https://artofgig.substack.com/

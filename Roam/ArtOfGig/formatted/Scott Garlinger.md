@@ -66,6 +66,13 @@ The synchronization of brain and environment moves closer with each advent. The 
 ## [The New Old Country: Lenses](<The New Old Country: Lenses.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 
+## [The New Old Country: Project Launch Kit](<The New Old Country: Project Launch Kit.md>)
+- terraforming cc: [Scott Garlinger](<Scott Garlinger.md>)
+
+- [Shreeda Segan](<Shreeda Segan.md>) as current lead. [Scott Garlinger](<Scott Garlinger.md>)
+
+- [Shreeda Segan](<Shreeda Segan.md>) as current lead. [Scott Garlinger](<Scott Garlinger.md>) as backup/co lead. [Evangeline Louise](<Evangeline Louise.md>), [Scott Garlinger](<Scott Garlinger.md>),
+
 ## [The New Old Home](<The New Old Home.md>)
 - [Scott Garlinger](<Scott Garlinger.md>)
 

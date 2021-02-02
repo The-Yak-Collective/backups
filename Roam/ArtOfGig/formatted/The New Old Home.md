@@ -63,6 +63,9 @@
 ## [Sample Project](<Sample Project.md>)
 - [The New Old Home](<The New Old Home.md>)
 
+## [The New Old Country: Project Launch Kit](<The New Old Country: Project Launch Kit.md>)
+- The first goal of the project is to create an experimental slide deck similar to [The New Old Home](<The New Old Home.md>)
+
 ## [The New Old Home](<The New Old Home.md>)
 - I [Pamela Hobart](<Pamela Hobart.md>) plan to contribute something about [The New Old Home](<The New Old Home.md>):
 

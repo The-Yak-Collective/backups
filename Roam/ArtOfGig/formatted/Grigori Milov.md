@@ -97,6 +97,10 @@
 - [Grigori Milov](<Grigori Milov.md>)
 
 ## [Infrastructure](<Infrastructure.md>)
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Oliver King](<Oliver King.md>) [Steve Lagree](<Steve Lagree.md>) [Grigori Milov](<Grigori Milov.md>)
+
+- People should join [Grigori Milov](<Grigori Milov.md>)'
+
 - [Grigori Milov](<Grigori Milov.md>)
 
 - [Grigori Milov](<Grigori Milov.md>)

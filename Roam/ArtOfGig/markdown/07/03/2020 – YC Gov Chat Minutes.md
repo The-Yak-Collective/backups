@@ -79,4 +79,4 @@
     - In-group vs Out-group
         - When the primary activity of the group is production, the dynamic becomes doers vs critics
             - Peer-review is a way of handling contrarian perspectives
-            - Creating mechanisms to getting criticism from outside the group
+            - Creating mechanisms for getting criticism from outside the group

@@ -1,0 +1,7 @@
+- Charter
+    - What's the point of the newsletter?
+    - Where are we going wi
+- Profit
+    - 
+- Ideas
+    - 

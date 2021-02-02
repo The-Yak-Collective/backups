@@ -46,12 +46,15 @@ https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_t
 And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat.
             - Another short reading on medieval guilds https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/
 or something similar
-    - **Queued**
         - 7. New: https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8#Sec22
+    - **Queued**
         - 8. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
             - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
         - 9. Finally, there are some anecdotal evidence on what's going on in Asia, which is very interesting.
             - https://www.notion.so/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b
+        - 10. Hey Grigori, I was inspired by our chat re: GitLab and wanted to offer you the Valve employee handbook -- they're completely decentralized and self-organizing:
+http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf
+And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-organizing-utopia-6d32d329ecdb
         - Backup resources (not short reads, not free, or both)
             - There is also a lot of literature on guilds behind the paywalls, including 
 1. https://www.jstor.org/stable/1360368?seq=1

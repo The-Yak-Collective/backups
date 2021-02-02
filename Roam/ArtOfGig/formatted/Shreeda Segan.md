@@ -58,6 +58,11 @@
 ## [The New Old Country: Lenses](<The New Old Country: Lenses.md>)
 - [Scott Garlinger](<Scott Garlinger.md>) and [Shreeda Segan](<Shreeda Segan.md>)
 
+## [The New Old Country: Project Launch Kit](<The New Old Country: Project Launch Kit.md>)
+- [ ] find project manager for live project build while I ([Shreeda Segan](<Shreeda Segan.md>))
+
+- [Shreeda Segan](<Shreeda Segan.md>)
+
 ## [The New Old Home](<The New Old Home.md>)
 - [Shreeda Segan](<Shreeda Segan.md>):
 

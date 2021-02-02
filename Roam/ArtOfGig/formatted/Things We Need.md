@@ -66,6 +66,7 @@
         - Way to capture discord convos -> marketing
 - Linking this here... not quite the right place
     - "**Internal supporting things we need to support public output**"
+- [Yak Droppings](<Yak Droppings.md>)
 
 # Backlinks
 ## [Important Links for New Yaks](<Important Links for New Yaks.md>)

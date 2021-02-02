@@ -8,7 +8,6 @@
     - [[November 9th, 2020]] by [[Jenna Dixon]]
         - __reversed the order of the chat notes so that the newest is on top 👇
 suggest most recent note left untwirled for easy review to visitors__
-- 
 - ## Lists/Docs #needsupdate
     - [[Project Launch Checklist]]
     - [[Things We Need]]
@@ -24,9 +23,71 @@ suggest most recent note left untwirled for easy review to visitors__
             - Hopin
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
-        - ((2jplEZUYM))
-        - 
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 37 [[January 31st, 2021]]
+        - participants:: [[Maier Fenster]] [[Oliver King]] [[Steve Lagree]] [[Grigori Milov]] [[Nathan Acks]]
+        - **Agenda**
+            1. [[Venkatesh Rao]] ~~discussion of consistent open-source licensing policy for yc content (member contributed and 3rd party used)~~
+            2. [[Venkatesh Rao]] ~~financial governance/spending process~~
+            3. [[Jenna Dixon]] ~~softlaunch member profile portal » review round » launch~~
+            4. [[Maier Fenster]] ~~discuss ui for projects bot a bit more~~
+            5. [[Nathan Acks]] Discuss alternate timeslots for infrastructure call
+            6. [[Oliver King]] discuss project board -- logistics and feedback
+        - **Meeting Notes**
+            - [[Oliver King]] Had a thought about how we can increase legibility and help new Yaks figure out how to engage.
+                - The idea is to create a project.
+                - Venkat wants to have a firmer list for production, infrastructure, etc.
+                - Oliver designed one possible approach. Grounding ideas:
+                    - Constitutions & bylaws
+                    - Shared values
+                    - Serendipity engine (help people find each other)
+                    - Fly wheel effect
+                    - Repeatable units of work ("quests")
+                    - Employee handbook?
+            - [[Steve Lagree]] added some ideas.
+                - Lots of ideas from governance. These seemed to fit into two categories:
+                    - Internal growth
+                        - This is more "infrastructure": Serendipity engine, fly wheel, quests, etc.
+                        - These need more tools/structure/clarity.
+                    - Purpose/culture/admin
+                        - Constitution & bylaws, shared values, etc.
+                        - This requires more discussion, potentially.
+                - Roam is slow, and often doesn't load.
+                    - Need things to be more visible.
+            - [[Oliver King]] Maybe infrastructure could be the working group for this?
+            - [[Nathan Acks]]'s head always goes to the website, and it sounds like we really do need a "member" section. Maybe something like Oliver's board could live there.
+            - [[Maier Fenster]] prefers something less structured, and thinks that Discord + the website is the right place for a lot of this.
+            - [[Jenna Dixon]] worries that we don't have a lot of "glue" people, and hopes that perhaps what Oliver and Steve are working on could help provide that.
+            - [[Jenna Dixon]] Is anything happening with an internal newsletter?
+                - [[Maier Fenster]] The newsletter is waking up, but we need activity to go into the newsletter.
+            - [[Maier Fenster]] All madeyaks can now tweet on the YC Twitter account directly from Discord.
+                - The more tools we have to help people do things, the more things will hopefully happen.
+                - We put out the survey a few weeks ago, and 50% of people didn't know how to start projects.
+                    - [[Jenna Dixon]] Can we get a report-back from this form?
+            - [[Jenna Dixon]] is going to be practicing the multi-user Roam book club, mostly to experiment with multi-player.
+                - The first book may be useful.
+                - ^^Calls are almost all men. Suggests a problem we should address.^^
+                - [[Jenna Dixon]] would like to do a pop-up event related to Kim Stanely Robinson's new event __The Ministry of the Future__. Where should I drop this?
+                    - [[Maier Fenster]] create an event, and it will show up in the events channel.
+                - [[Oliver King]] is also in the Roam book club. Maybe this could be a mini-event?
+            - [[Nathan Acks]] wonders how easy it is to embed AirTable in the website.
+                - [[Maier Fenster]] notes that AirTable can be integrated by iframe. There's also an embeded option, but this is only for pro users.
+                    - [[Oliver King]] is on the AirTable pro plan.
+            - [[Maier Fenster]] mentions that Venkat is a little worried about publicizing Roam pages, in case that invites vandalism.
+            - [[Steve Lagree]] How do we start working on projects? What are quests, etc.?
+                - [[Jenna Dixon]] points out that Venkat hopes that people can just show up and start doing things.
+                - [[Oliver King]] the idea isn't so much to a distinct structure... But to highlight values. For example: "Show up and do things," and the quest board can provide some examples of __what__ people can do.
+                - [[Maier Fenster]] the idea of a flywheel is that we need enough people doing things in public to get other people engaged and start doing things. There's just not a lot that out there in public right now. Right now, there's not a lot happening in public.
+                - [[Jenna Dixon]] points out that we're sort of caught in the gap between doing project because they're fun, and actually get gigs, etc.
+                    - People should join [[Grigori Milov]]'s call on Fridays.
+            - [[Oliver King]] and [[Jenna Dixon]] will coordinate on a pop-up Kim Stanely Robinson event.
+            - [[Oliver King]] asks that people should experiment with the AirTable quest board. We should put things onto it that we'd like to see happen.
+                - [[Nathan Acks]] will take a look and add ideas.
+                - [[Maier Fenster]]'s worried that this could become just a "pile of ideas". We need an organized way of talking and tracking things. This might work well for discover, but we need to filter people into more organized conversations. Maybe we should use GitHub for this.
+                    - [[Steve Lagree]] agrees that we could potentially use GitHub as an issue tracker.
+                    - [[Nathan Acks]] thinks that perhaps we should not always use GitHub. Sometimes this should be Discord. We want to make sure we're friendly for non-techies.
+                    - [[Jenna Dixon]] thinks that we should spin up a Roam page per quest. And that should be the place where we have discussions.
+            - ^^**Time change:** Wednesday at 15:00 UTC / 10:00 EST / 07:00 PST /  (experiment, may change depending on feedback).^^
     - Infrastructure Chat 36 [[January 24th, 2021]]
         - participants:: [[Maier Fenster]] [[Nathan Acks]]
         - **Agenda**
@@ -1015,7 +1076,7 @@ marketing outreach w/ [[Alex Wagner]]+ levelling up discord w/ [[Jordan Peacock]
     - [[infrastructure chat 07]] [[June 20th, 2020]] 
 Consulting diagrams w/ [[Steven Moody]] #meeting-notes
     - infrastructure chat 06 [[June 13th, 2020]] 
-notes in — [[Yak Collective Website]] + [[Newsletter]] #meeting-notes
+notes in — [[Yak Collective Website]] + [[Yak Droppings]] #meeting-notes
         - Audio Recording: https://drive.google.com/file/d/1DVi_QFWCoyJjT1UPUXp52tQ876NS-vp2/view
     - [[infrastructure chat 05]] [[June 6th, 2020]] 
 didn't happen but agenda topics here #meeting-notes

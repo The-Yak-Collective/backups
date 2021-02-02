@@ -67,6 +67,26 @@
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>)
 
+4. [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)
+
+- [Maier Fenster](<Maier Fenster.md>)'
+
+- **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>)
+
 1. [Maier Fenster](<Maier Fenster.md>)
 
 - [Maier Fenster](<Maier Fenster.md>)
@@ -246,6 +266,9 @@
 
 ## [Project Pitches](<Project Pitches.md>)
 - **[Additional Members](<Additional Members.md>):** // [Maier Fenster](<Maier Fenster.md>)&
+
+## [Roam/Comments](<Roam/Comments.md>)
+- {{comments: "[Maier Fenster](<Maier Fenster.md>)
 
 ## [Schema | member data](<Schema | member data.md>)
 [Vinay Débrou](<Vinay Débrou.md>) | [Maier Fenster](<Maier Fenster.md>)

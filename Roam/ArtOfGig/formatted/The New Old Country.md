@@ -53,10 +53,14 @@
                 - a spectrum worth exploring 
                 - private space & communal space 
     - future thinkers -- smart village in british columbia 
+    - [The New Old Country: Project Launch Kit](<The New Old Country: Project Launch Kit.md>)
 
 # Backlinks
 ## [Project Pitches](<Project Pitches.md>)
 - [The New Old Country](<The New Old Country.md>):
+
+## [The New Old Country: Project Launch Kit](<The New Old Country: Project Launch Kit.md>)
+- **SEEDS**: These are starting points for exploring the topic that can be shared with fellow Yak to generate interest, jumpstart their thinking, and define the potential scope of the project contents. To be shared at point of launching project & collecting contributors. Rough notes can be found in [The New Old Country](<The New Old Country.md>)
 
 ## [YC Annual Meeting 2020](<YC Annual Meeting 2020.md>)
 - Shreeda Segan: [The New Old Country](<The New Old Country.md>)

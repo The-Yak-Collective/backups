@@ -53,3 +53,4 @@
                 - a spectrum worth exploring 
                 - private space & communal space 
     - future thinkers -- smart village in british columbia 
+    - [[The New Old Country: Project Launch Kit]]
