@@ -1,7 +1,7 @@
 - Paycheck type currently working in the non-profit space, but planning on making the jump to independence.
 - Long-time follower of [Ribbonfarm](https://www.ribbonfarm.com/), which is how I discovered [Breaking Smart](<Breaking Smart.md>) and [Art of Gig](<Art of Gig.md>).
 - M.S. in Applied Mathematics specializing in [Operations Research](https://en.wikipedia.org/wiki/Operations_research).
-- For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
+- For the last 4 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
 - **[Twitter](<Twitter.md>):** [@nathan_acks](https://twitter.com/nathan_acks)
 - **[Websites](<Websites.md>):**
     - [Delphi Strategy](https://www.delphi-strategy.com/) (newsletters, essays)

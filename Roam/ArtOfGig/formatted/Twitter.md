@@ -23,7 +23,7 @@ Last Gardened:: `/Today` by `[Fname Lname](<Fname Lname.md>)`
 - [Twitter](<Twitter.md>)
 
 ## [Nathan Acks](<Nathan Acks.md>)
-- For the last 3 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
+- For the last 4 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
 - **[Twitter](<Twitter.md>):**
 
 ## [Thomas Lisankie](<Thomas Lisankie.md>)

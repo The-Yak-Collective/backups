@@ -47,6 +47,11 @@
 ## [Discord](<Discord.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Nathan Acks](<Nathan Acks.md>) | [Tom Critchlow](<Tom Critchlow.md>) | [Maier Fenster](<Maier Fenster.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- [Maier Fenster](<Maier Fenster.md>)
+
+- #[Maier Fenster](<Maier Fenster.md>)
+
 ## [Final Frontiers - Launch Plan](<Final Frontiers - Launch Plan.md>)
 - **[Additional Page Wranglers](<Additional Page Wranglers.md>):** [Maier Fenster](<Maier Fenster.md>)
 

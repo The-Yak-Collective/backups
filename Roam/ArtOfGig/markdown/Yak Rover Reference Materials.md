@@ -7,7 +7,7 @@
         - Generative design of rocker-bogie from autodesk https://academy.autodesk.com/portfolios/generative-design-rocker-bogie-mechanism
 - General knowledge
     - [Tesla model 3 motors](https://www.youtube.com/watch?v=esUb7Zy5Oio)
-- Curiosity rover
+- [[Curiosity Rover]]
     - Wikipedia page: https://en.wikipedia.org/wiki/Curiosity_(rover)
     - Nasa mission page: https://www.nasa.gov/mission_pages/msl/index.html
     - Video found by Victor: https://www.youtube.com/watch?v=qaUhLXolGaI

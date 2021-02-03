@@ -18,6 +18,9 @@
 ## [08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams](<08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams.md>)
 - [Praful Mathur](<Praful Mathur.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- [Praful Mathur](<Praful Mathur.md>)
+
 ## [Infrastructure](<Infrastructure.md>)
 - **[participants](<participants.md>):** [Maier Fenster](<Maier Fenster.md>) [Nathan Acks](<Nathan Acks.md>) [Praful Mathur](<Praful Mathur.md>)
 

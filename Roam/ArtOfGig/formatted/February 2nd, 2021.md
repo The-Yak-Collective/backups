@@ -1,6 +1,6 @@
-- #[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). 
+- #[Year 1 meeting notes](<Year 1 meeting notes.md>) regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). 
     - Reading Prompt 
-        - [[Curiosity Rover]] Virtual Tear Down
+        - [Curiosity Rover](<Curiosity Rover.md>) Virtual Tear Down
             - Power System and MMRTG
                 - Reference [link](https://trs.jpl.nasa.gov/handle/2014/43261) - pdf at the bottom of link
                 - Anomalies - soft shorts - maybe caused by part of electrical power circuit touching aluminium housing
@@ -21,7 +21,7 @@
             - Systems Engineering
                 - https://www.researchgate.net/publication/261110037_Systems_engineering_the_Curiosity_Rover_A_retrospective
     - Initial reactions and discussions
-        - [[Venkatesh Rao]]
+        - [Venkatesh Rao](<Venkatesh Rao.md>)
             - Thermal System - 5% efficiency, 
             - high redundancy in telecommunications
             - Wheels are thin
@@ -33,36 +33,41 @@
             - weather balloons were minimum or wind powered rover - https://www.youtube.com/watch?v=Pj-NqWDH2qE
             - "satellite coverage? " satellites takes images of rover
             - what might a 2032 rover might look like? 
-        - [[Maier Fenster]]
+        - [Maier Fenster](<Maier Fenster.md>)
             - Science Instruments - lots of chemical instruments
             - Thermal system - coolant leak problems?
-            - #[[Venkatesh Rao]] - current thermal system is because  of operating range of temp on mars
+            - #[Venkatesh Rao](<Venkatesh Rao.md>) - current thermal system is because  of operating range of temp on mars
             - book - thermal warriors talks about bugs, bumble bees, fly and stop operation, wasp liquid flow [Amazon Link](https://www.amazon.com/Thermal-Warriors-Strategies-Insect-Survival/dp/0674883403/)
             - electronics should have own heating system
             - "What is the minimum viable rover? " 
             - tumble weed, wind is moving, very little communication, very little dynamic movement, banging into rocks 
             - radar imagery  - https://newatlas.com/space/planetary-radar-moon-images/
             - super minimalist rover - vortex of wind
-        - [[Eric Platon]]
+        - [Eric Platon](<Eric Platon.md>)
             - Difference between curiosity and perseverance, the warm electronics box, box is same in both
             - during descent the rover used two software for landing and roving
             - we don't need hard active communication.
-        - [[Sachin Benny]]
+        - [Sachin Benny](<Sachin Benny.md>)
             - complexity, rtg
             - impact probes, indian mission, cassini-huygens
-        - [[Victor Hill]]
+        - [Victor Hill](<Victor Hill.md>)
             - continuous draw of power, just staying alive takes a lot of power, 2025 50W output from RTG
             - inside of rover, everything is bulky, wondering if rover can smaller be made, 
-            - #[[Maier Fenster]] - point of leak, how leaks are avoided, didn't see any loop to avoid leaks
-        - [[Grigori Milov]]
+            - #[Maier Fenster](<Maier Fenster.md>) - point of leak, how leaks are avoided, didn't see any loop to avoid leaks
+        - [Grigori Milov](<Grigori Milov.md>)
             - What is the minimum viable rover? 
             - Energy source separate? 
             - Starts with thermal conditions on mars, difficult to build curiosity replica
             - design in two parts 
-        - [[Praful Mathur]]
+        - [Praful Mathur](<Praful Mathur.md>)
             - Erlang design - all design to fail, but still avoid systems failure
             - minimal stuff is communications systems
             - satellite coverage? 
             - passive movement 
             - ocean monitoring system, buoyes, shark research, different data collection system for ocean monitoring
             - payload cost  from 5000 dollars to 50 dollars in 10 years? 
+
+# Backlinks
+## [Year 1 meeting notes](<Year 1 meeting notes.md>)
+- [February 2nd, 2021](<February 2nd, 2021.md>)
+

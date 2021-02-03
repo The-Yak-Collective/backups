@@ -1,5 +1,5 @@
 - [[January 25th, 2021]]
-    - Today is our first regular yak rover group meeting (10 PM Pacific, morning in Europe, afternoon in Japan).
+    - #[[Year 1 meeting notes]] Today is our first regular yak rover group meeting (10 PM Pacific, morning in Europe, afternoon in Japan).
         - Please save this email since it has useful links.
             - Here is [the link to the event on the YC calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZnb2FlN3JuMzc1c3NlaWJlbGhhMjFoMTEgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) for you to add to your own.
             - Here is the [regular zoom link](https://us02web.zoom.us/j/82044391423?pwd=YUZ4RjhrZjI2ZS92NHVUMUViMVQ1QT09), the details are also included in the calendar invite.
@@ -14,31 +14,51 @@
             - Video found by Victor: https://www.youtube.com/watch?v=qaUhLXolGaI
         - I've created a section for Curiosity in the References page with these links. Please dump anything else interesting you find there. Feel free to create other reference sections. We'll organize better once we have more.
         - We will also spend some time discussing how to use Twitter to do light-weight self-documentation of the project.
-        - Reading's Initial Reactions
-            - [[Anuraj R]]
-                - Sojourner is small budget mission compared to Curiosity. Curiosity's rocker-bogie tested first on Sojourner
+        - Initial reactions
             - [[Grigori Milov]]
+                - rover material, weather on moon and mars
+                - curiosity ~1 ton, fresh eyes on mechanism
+                - Eric - curiosity has plutonium
+                - Venkat's view powering by nuclear needed when power budget is more
+                - Anuraj's reaction launch considerations on nuclear powered rover
+                - basic rover design has been changing
+            - [[Anuraj R]]
+                - sojourner and missions, rocker bogie, low budget
+                - "Anuraj's reaction launch considerations on nuclear powered rover"
+                - Mission cost for the high because of margin of error
             - [[Victor Hill]]
+                - Communications with satellites more realiable, communications with has a lot of lag
+                - problems with CPU and resets, redundancy, raspberry is way more powerful
+                - RTG is also warming up the systems, pretty hard to keep things warm without RTG and just with solar
+                - Venkat - Reasons mammals evolve to operate at wider range of temperatures
+                - Probe on curiosity didn't dig deep enough for experiments
+                - Venkat  - Mars to Earth communication power budget is huge. If there is Star Link on Mars then power budget is less
+                - Separate rover from payload. Payload can be land every couple of years. Spreads out risk of mission over time. 
+                - Sample return on Perseverance
             - [[Eric Platon]]
+                - Communication also has big power budget
+                - A YakSat? for communication?
+                - "Eric - curiosity has plutonium"
+                - Rover is actually a platform. Perseverance looks similar and blue print is same as Curiosity
+                - Programming language called PLEXIL - from around 2006, first deployed in Curiosity
+                - The framing of mission is pretty narrow, that's why it is important to make a platform
             - [[Maier Fenster]]
+                - There is much less water around Curiosity
+                - Tool for measuring soil temperature and it broke. 
+                - Generality of tool is limited, not designed as a general purpose rover, analogy is astronaut with gloves, the minute we put on gloves things become difficult
+                - Are we making a general purpose rover ? How do we choose the hardware on it? 
             - [[Venkatesh Rao]]
-- [[Curiosity Rover]] Virtual Tear Down
-    - Power System and MMRTG
-        - Reference [link](https://trs.jpl.nasa.gov/handle/2014/43261) - pdf at the bottom of link
-        - Anomalies - soft shorts - maybe caused by part of electrical power circuit touching aluminium housing
-    - Avionics and Flight Software
-        - Rover Compute Elements - RCEs and Rover Motor Control Assembly - RMCA 
-        - Anomalies - 
-            - https://www.extremetech.com/extreme/149713-curiosity-swaps-out-its-primary-computer-to-hopefully-restore-full-functionality
-    - Thermal Control
-        - Rover heat rejection system
-            - https://trs.jpl.nasa.gov/bitstream/handle/2014/44150/13-1750_A1b.pdf
-        - No anomalies and flawless operation
-    - Telecommunications
-        - DSN on Earth. Receiver on Curiosity. For transmitting to Earth Satellites are used
-        - Possible problems with one of the satellites. Negotiations with ISRO to include some comm HW for next ISRO mission in 2022
-    - Mobility System
-        - Rocker Bogie
-        - Anomalies - punctures on tires
-    - Systems Engineering
-        - https://www.researchgate.net/publication/261110037_Systems_engineering_the_Curiosity_Rover_A_retrospective
+                - Press Releases - 9 out of 10 were mission, occasional operation things, like something is broken
+                - First principles for rover 
+                    - cost things are way lower 
+                    - many different rovers -> distributed systems
+                - Sojourner never went too far away from the base station
+                - One way to approach - what can be done with commodotized hardware?
+                - Instead of single platform, configurable rover, unbundle mobility component
+                - Software is kind of interesting, Is there is single rover operating system? General enough for various environments
+                - What is pie chart of mission cost? 
+                - Scavenging when rover breaks down when economies of scale kicks in. Dump 100 rovers changes the equation
+                - If there are frequent launches then various combination of rovers are possible
+                - Elon's tweet on how to make fuel on Mars. 
+- [[February 2nd, 2021]]
+    - "#[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). "
