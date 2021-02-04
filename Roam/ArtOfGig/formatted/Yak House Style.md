@@ -1,5 +1,44 @@
+- So you're making a Yak web page, presentation, app? Here's what we're doing lately.  
+    - ## Accessibility. 
+        - [ ] Nothing here, but how much can we get out of the box? 
+    - ## Text. 
+        - page text is mostly the responsibility of the individual projects.
+        - Yak Words (our meaning, usage). 
+            - Yak ()
+            - YC ()
+            - Yak Collective ()
+                - Yak Collective vs. The Yak Collective. 
+            - Yakster ()
+            - Yakking ()
+            - Yak Shaver ()
+            - Yak Herder ()
+        -  Tired consulting words 
+            - salient 
+    - ## Yak brand logos, icons, symbols, signatures, etc. 
+        - [ ] Yak art to use in your presentations and publications. 
+        - [ ] Templates for common documents. 
+    - ## Base style. 
+        - Tachyons (https://tachyons.io/). Use the built-in tachyons classes whenever possible. Break this rule to preserve code readability or to keep things simple.
+    - ## Fonts. 
+        - "noto serif"
+        - "playfair display" used for headings. 
+        - "font awesome" for icons.
+    - ## Colors. 
+        - white (rgba(255,255,255,1.0)) 
+        - almost-black (rgba(15,15,15,1.0)). 
+        - These are specified as rgba rather than hex because we create shades of gray by changing the opacity, rather than selecting a set of hex colors. Links use 0.8, 0.2 for borders and de-emphasized text, 0.05 for shaded backgrounds. 
+        - We let pages flip colors for a "dark mode". Used for the slides in [future frontiers](<future frontiers.md>) (which then sub out the background color). But it is actually a more general capability.
+    - ## CSS
+        - CSS Classes. you can find most of the css here: https://github.com/The-Yak-Collective/yakcollective/tree/netlify-prod/css 
+        - Generated CSS. there's a little bit of per-page css that's generated in the header at build time (lines 165 - 266; coding is liquid, but should be decipherable even if you're not super-familiar): https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/_layouts/default.html
+    - [Code Style Guide](<Code Style Guide.md>) for your poetry. 
+- Credits: 
+    - [Suggested in a thread](https://discord.com/channels/692111190851059762/739204942417494047/806728634307838002) by [Nathan Acks](<Nathan Acks.md>)
 
 # Backlinks
 ## [Production Squad](<Production Squad.md>)
 - __Revise manuscripts to improve readability and fitness, as well as ensuring that text is free of grammatical and factual errors. Align texts with__ [Yak House Style](<Yak House Style.md>),
+
+## [Things We Need](<Things We Need.md>)
+- Harmony among and expansion of [Yak House Style](<Yak House Style.md>),
 

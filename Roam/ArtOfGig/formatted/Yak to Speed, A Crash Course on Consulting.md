@@ -38,7 +38,7 @@
                 - Will create a doc for [Consultant Sales Call Questions](<Consultant Sales Call Questions.md>).
             - 3. **Proposal**: Based on conversation between client and consultant, consultant submits a proposal. Can be brief – a couple of pages – or a carefully-delineated project scope, 7-8 or more pages. 
                 - Proposal is essentially an experiment, a compelling-enough bet that consultant crafts, and client believes enough in to invest part of org's discretionary or previously-allocated budget.
-                - Usually good to provide three different pricing options here, and let the client pick the one
+                - Usually good to provide three different [engagement pricing options](<engagement pricing options.md>) here, and let the client pick the one
             - 4. **Engagement**: Client signs off on proposal, and pays consultant 30-50% of project fee to kick-off project. At this point, consultant begins project work in earnest.
             - 5. **Project Updates:** Consultant and client/client's team have regular calls and meetings. Consultant is often embedded in clients' team.
             - 6. **Project Completion:** Consultant reports on results of project, in what's often called a post-mortem/debrief/project wrap-up. Some projects are one-offs from the beginning, but the ideal outcome is a long and satisfying relationship with the client, with many repeated engagements.

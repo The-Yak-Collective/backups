@@ -28245,9 +28245,21 @@
     "uid": "02-02-2021"
   },
   {
-    "create-time": 1612344073622,
-    "edit-time": 1612344073622,
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    "create-time": 1612379183392,
+    "edit-time": 1612379183392,
     "title": "February 3rd, 2021",
     "uid": "02-03-2021"
+  },
+  {
+    "create-time": 1612430375470,
+    "edit-time": 1612430375470,
+    "title": "February 4th, 2021",
+    "uid": "02-04-2021"
   }
 ]

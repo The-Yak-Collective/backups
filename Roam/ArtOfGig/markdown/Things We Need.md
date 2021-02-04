@@ -60,6 +60,7 @@
         - [[Greg Docter]] took Crack at this 5/10/20; perhaps totally wrong
             - https://discordapp.com/channels/692111190851059762/704369362315772044/709051885788856372
 - Wish list (nice to have stuff)
+    - Harmony among and expansion of [[Yak House Style]], [[Example Style Guide]], [[Code Style Guide]], and [[Code Style Guide]]
     - A leaderboard with upvote/downvote for channel proposals. Doing it via thumbs up on the create-destroy-channel is kinda janky
     - A rolling proposals model instead of batch processing (once we're a few cycles in)
     - More cohesive twitter and marketing 

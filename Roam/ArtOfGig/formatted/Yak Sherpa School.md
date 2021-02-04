@@ -1,4 +1,4 @@
-- # Welcome to __The Yak Collective__ Sherpa School.
+- # Welcome to __The Yak Collective__ **Sherpa School**.
     - ## What's a sherpa? 
         - "a member of a Himalayan people living on the borders of Nepal and Tibet, renowned for their skill in mountaineering."
         - Sherpas help Yaks Yak. 

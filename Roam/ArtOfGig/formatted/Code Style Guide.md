@@ -44,6 +44,14 @@ mathIsDifferent = 1 + (2 * (3 / 4));```
 ## [Nathan Acks](<Nathan Acks.md>)
 - [Code Style Guide](<Code Style Guide.md>)
 
+## [Things We Need](<Things We Need.md>)
+- Harmony among and expansion of [Yak House Style](<Yak House Style.md>), [Example Style Guide](<Example Style Guide.md>), [Code Style Guide](<Code Style Guide.md>),
+
+- Harmony among and expansion of [Yak House Style](<Yak House Style.md>), [Example Style Guide](<Example Style Guide.md>), [Code Style Guide](<Code Style Guide.md>), and [Code Style Guide](<Code Style Guide.md>)
+
 ## [Yak Collective Website](<Yak Collective Website.md>)
+- [Code Style Guide](<Code Style Guide.md>)
+
+## [Yak House Style](<Yak House Style.md>)
 - [Code Style Guide](<Code Style Guide.md>)
 

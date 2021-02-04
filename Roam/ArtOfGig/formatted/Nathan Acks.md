@@ -492,6 +492,9 @@ Last Updated:: [December 11th, 2020](<December 11th, 2020.md>) by [Nathan Acks](
 
 - **[Project Lead](<Project Lead.md>):** [Nathan Acks](<Nathan Acks.md>)
 
+## [Yak House Style](<Yak House Style.md>)
+- [Suggested in a thread](https://discord.com/channels/692111190851059762/739204942417494047/806728634307838002) by [Nathan Acks](<Nathan Acks.md>)
+
 ## [Zapier](<Zapier.md>)
 Created:: [August 31st, 2020](<August 31st, 2020.md>) by [Nathan Acks](<Nathan Acks.md>)
 
