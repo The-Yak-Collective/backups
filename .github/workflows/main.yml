@@ -32,8 +32,8 @@ jobs:
           mv __Roam ../Roam
           cd ..
           rm -rf __Roam
-          bash .bin/roam_asset_downloader.sh Roam/ArtOfGig
-          bash .bin/roam_asset_downloader.sh Roam/Astonishing_Stories
+          bash .bin/roam_asset_downloader.sh Roam/markdown/ArtOfGig
+          bash .bin/roam_asset_downloader.sh Roam/markdown/Astonishing_Stories
         env:
           R2G_EMAIL: ${{ secrets.ROAM_USER }}
           R2G_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
