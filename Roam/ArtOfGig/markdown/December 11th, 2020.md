@@ -1,9 +1,0 @@
-- [[Nathan Acks]] made many, many documentation updates:
-    - New [[IT Infrastructure and Project Security Basics]] page
-    - New [[How to Add a New Project to the Website]] page
-    - New [[Website Widgets]] page
-    - Updated [[Website Version History]] page
-    - Updated [[Building the Website]] page
-    - Update the [[Website Architecture]] page
-    - Updated the [member schema]([[Schema | member data]]) page
-    - Turned the [[Yak Collective Website]] page into a full project page

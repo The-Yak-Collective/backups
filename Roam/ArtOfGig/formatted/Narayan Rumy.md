@@ -1,2 +1,0 @@
-- Information Energy Metasystem Model 
-- Last, C. (2015). Information-energy metasystem model. __Kybernetes__, __44__(8/9), 1298.

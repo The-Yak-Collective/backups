@@ -1,0 +1,10 @@
+- Hi there, I'm [[Willem van der Horst]], Paris based freelance playful (brand) strategy consultant at Ice Cream for Everyone: https://www.icecreamforeveryone.net 
+    - I started my career in design, worked in coaching for Landmark Worldwide (also led courses/programs with them), then sort of blended the two into digital / marketing / brand strategy for creative agencies for the past 13 years (career wise 20 years professional experience). 
+    - I was born in the US, grew up in France, had the chance of working for large agencies (Saatchi, BBDO) and global brands (SCJohnson, P&G, Toyota/Lexus, Lenovo, etc) in London, Singapore, Chicago, and a bunch of other SME / startup projects while traveling around and freelancing in the past few years.
+    - My main thing is Playful Strategy - taking bits and pieces of inspiration from studying play; as well as mechanisms, props, or ideas from tabletop gaming (board, RPGs, cards) to integrate in my work with clients, for example  brand purpose & strategy workshops and generate new ideas and competitive advantages
+    - I write on my website and host the Ice Cream for Everyone podcast - in which I explore ideas related to Playful Strategy, play games, talk with game designers, and creative professionals: https://www.icecreamforeveryone.net
+    - Teaching Tangents, where I have weekly chats with a business & psychology teacher friend in London, where he picks a question from one of his high school students, and we discuss it at length. https://www.youtube.com/playlist?list=PL828GyL9sB-vjqrnJYcnpwp5FOaAxVdLy and audio only https://anchor.fm/teaching-tangents
+    - I moved back to Paris, France, in 2019, where I am based now.
+    - I'm easily available if you need anything or have any questions. Always happy to be in touch and collaborate with interesting people coming up with new ideas and up to cool projects, feel free to reach out.
+    - https://www.twitter.com/ICWillem 
+    - https://www.linkedin.com/in/willemvdh/ 

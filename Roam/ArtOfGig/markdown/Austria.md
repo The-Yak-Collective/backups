@@ -1,3 +1,0 @@
-- tags: #countries
-- Directory
-    - {{embed:[[Austria/Vienna]]}}

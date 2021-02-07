@@ -1,9 +1,0 @@
-- Scenario:: 
-    - In a [[transformation]] future [[a generation]] from now, there is an [[instrument]] related to [[family]] that creates a feeling of [[anxiety]].
-- Fragment:: 
-    - ==Smite button==
-    - A generation from now, a ubiquitous grey goo of nano-drones can 'smite' any person on earth instantaneously. The nano-bots can disable and enhance any person. Disabling includes temporary paralysis. Enhancing includes supersenses.
-- Created by:: [[Michael de la Maza]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942643964&cot=6)
-- **Pockets of this future visible in the present**
-    - 

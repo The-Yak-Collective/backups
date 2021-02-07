@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[growth]] future [[a generation]] from now, there is an [[festival]] related to [[gender]] that creates a feeling of [[melodrama]].
+- Fragment:: 
+    - "Historical" festival (analogous to our present day Renaissance Faires and perhaps Steampunk cosplayers) looking back, with irony and melodrama through roleplaying, costumes, and reenactments, to gender identity struggles of a generation ago, and celebrating the steady mainstream acceptance of the displacing of conventional gender norms hegemony (and the "gender wars" confrontations about this) since then.
+- Created by:: [[Zhan Li]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942497302&cot=11)
+- **Pockets of this future visible in the present**
+    - 

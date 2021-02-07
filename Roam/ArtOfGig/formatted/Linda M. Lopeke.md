@@ -1,9 +1,0 @@
-- Management consultant, educator, business advisor. Sees this as a time to lean in to leadership; not away from marketing.
-- I help new and established business owners, experts and gig workers build remarkable reputations, recognition and revenue online by teaching them strategic business development and marketing. 
-- On LinkedIn: https://linkedin.com/in/smartstartcoach
-- On Facebook: https://facebook.com/smartstartbusinessclub 
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Linda M. Lopeke](<Linda M. Lopeke.md>)
-

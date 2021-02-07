@@ -1,0 +1,3 @@
+- 
+- https://discord.com/channels/692111190851059762/709454740614021121/799663310630158376
+- [[Yak Sherpa School]]

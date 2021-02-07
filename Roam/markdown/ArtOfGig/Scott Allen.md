@@ -1,0 +1,32 @@
+- Marketing and social media consultant based in [[Texas/Austin]] (actually Bastrop, "just east of weird"). Diverse career in tech and marketing, including stints in independent consulting, startups, small business, and corporate/Fortune 100.
+    - current projects::
+        - [The Virtual Handshake](http://TheVirtualHandshake.com) — In 2005, I coauthored one of the first books on what we now know as social media marketing. We're doing an updated 2nd edition of the book this year, and I'm launching my consulting business under the brand.
+        - [LinkedIntelligence](http://LinkedIntelligence.com) — The unofficial  source for all things LinkedIn.
+    - social media:: 
+        - Twitter: [@ScottAllen](http://twitter.com/ScottAllen)
+        - Instagram: [@ScottAllenTVH](https://www.instagram.com/scottallentvh/)
+        - Facebook: http://facebook.com/ScottAllen.social
+        - LinkedIn: http://linkedin.com/in/ScottAllen
+    - knows about::
+        - [[marketing]]
+            - [[social media]]
+                - [[social listening]]
+                - [[social data]]
+                - [[contact center operations]]
+                - [[social media governance]]
+                - [[social media technology]]
+                - [[social application design]]
+            - [[SEO]]
+                - [[branded search]]
+                - [[technical SEO]]
+            - [[reputation management]]
+        - [[entrepreneurship]] / [[small business]]
+        - [[product management]] / [[product marketing]]
+        - [[project management]] / [[process management]]
+        - [[application lifecycle management]] / [[agile]]
+        - [[consulting management]]
+        - [[knowledge management]]
+        - [[data architecture]]
+    - interested in::
+        - [[music]] — [[singer]] / multi-instrumentalist—[[guitar]], [[bass]], [[keyboard]], [[drums]], trying to learn [[harmonica]]. I occasionally write songs and dabble with home recording.
+        - [[cooking]] — I love to cook, mostly low-carb / keto. I'm MacGyver in the kitchen, but I like trying new recipes to learn.

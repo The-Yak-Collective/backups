@@ -1,3 +1,0 @@
-- xref: #cities; city in [[Colorado]], [[United States]]
-- members:
-    - [[Nathan Acks]]

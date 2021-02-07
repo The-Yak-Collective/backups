@@ -1,3 +1,0 @@
-- xref: [cities](<../cities.md>); city in [Spain](<../Spain.md>), [EU](<../EU.md>)
-- members:
-    - [Steven Moody](<../Steven Moody.md>)

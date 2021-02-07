@@ -1,0 +1,140 @@
+- Naming working deck: https://docs.google.com/presentation/d/1VW_YmZIapctSaalMu6mGHGh8-Mwy8LLEPcZveKJHLCU/edit#slide=id.g8571428362_0_15
+- Magic working deck: https://docs.google.com/presentation/d/1HoOdw5TkAOlLjaSRriudgGIIjBlYSVe4QOZm8ucqU5g/edit#slide=id.g8571428362_0_10
+- **Magic comments by other Yaks (please ad your handle)**
+    - ## Venkatesh Rao (US Pacific)
+        - A good diagnostic question is: what do people think of as magic today? Eg: being a Unix guru or blockchain maven or knowing how to do dark SEO and click baiting and chaos magick and meme magic to sell products/win elections etc. Maybe there’s others. Who are today’s “magicians”? Steve Jobs? Trump? Satoshi?(edited)
+        - So commodifying one kind of magic tends to create a new kind of magic? @Joseph Fridman (Boston) used the interesting phrase “prediction surplus”
+        - There’s also taking old magic concepts literally which might open up interesting lines of speculation
+        - A good diagnostic question is: what do people think of as magic today? Eg: being a Unix guru or blockchain maven or knowing how to do dark SEO and click baiting and chaos magick and meme magic to sell products/win elections etc. Maybe there’s others. Who are today’s “magicians”? Steve Jobs? Trump? Satoshi?(edited)
+        - ![🤔](https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg)
+        - 1
+        - [4:06 PM]
+        - So commodifying one kind of magic tends to create a new kind of magic? @Joseph Fridman (Boston) used the interesting phrase “prediction surplus”
+        - [4:07 PM]
+        - There’s also taking old magic concepts literally which might open up interesting lines of speculation
+        - ![ ](https://cdn.discordapp.com/avatars/692934169118113893/f1a515c911af4d0d143aeb1155f61f16.png?size=128)
+        - ## Vlad Mehakovic (Aus/Syd)Today at 4:07 PM
+        - I think it was paul graham that said writing code is like casting spells
+        - [4:08 PM]
+        - Software eats the world gets into this motif - APIs that make things happen in the "real world"
+        - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
+        - ## Venkatesh Rao (US Pacific)Today at 4:14 PM
+        - I think a general principle is that magic is necessarily illegible/esoteric knowledge and abilities. So if everyone learns a magic way it ceases to be a magic way. Iirc there was a time literacy was perceived as a magical ability... being able to decipher strange symbols
+        - [4:16 PM]
+        - So v2.0 of the question is what’s magic today that will be commodity non-magic tomorrow? What new abilities on top will be seen as magic? Maybe try to imagine an old magician vada new one?
+        - ![ ](https://cdn.discordapp.com/avatars/692934169118113893/f1a515c911af4d0d143aeb1155f61f16.png?size=128)
+        - ## Vlad Mehakovic (Aus/Syd)Today at 4:17 PM
+        - Pushing that line of thought - what will become magic in a kernel-enabled world?
+        - [4:18 PM]
+        - Text -> reading is magic, computing -> coding is magic, neurofuturama -> ?
+        - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
+        - ## Venkatesh Rao (US Pacific)Today at 4:18 PM
+        - Being able to interpret brain data?
+        - [4:19 PM]
+        - Coding is already commodity in many ways, eg no-code/low-code environments. AI and data science are currently magic
+        - ![ ](https://cdn.discordapp.com/avatars/692934169118113893/f1a515c911af4d0d143aeb1155f61f16.png?size=128)
+        - ## Vlad Mehakovic (Aus/Syd)Today at 4:19 PM
+        - Agreed
+        - [4:19 PM]
+        - As you mentioned, there's a window of magic
+        - [4:19 PM]
+        - Until commodified
+        - [4:20 PM]
+        - I think interpretation makes sense
+        - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
+        - ## Venkatesh Rao (US Pacific)Today at 4:20 PM
+        - Remember guy in Matrix who could read raw code and visualize “woman in red”?
+        - ![ ](https://cdn.discordapp.com/avatars/692934169118113893/f1a515c911af4d0d143aeb1155f61f16.png?size=128)
+        - ## Vlad Mehakovic (Aus/Syd)Today at 4:20 PM
+        - Hahah
+        - [4:20 PM]
+        - Yes
+        - [4:20 PM]
+        - I just see "someone anxious about an upcoming test"
+        - [4:21 PM]
+        - [fill blank]
+- **2. Magic Ways**
+    - **Ideas**
+        - Commodifying divination: forecasting with ML sitting on top of a hive mind - how accurate could prediction be?
+        - 1/ If a new tech (that has gone 0 -> 1) is indistinguishable from magic, the arbiters of that technology are the magicians.
+            - 2/ This gives them power to influence their environment, the goal of any practitioner of magic throughout time.
+            - 3/ The breadth of influence goes down in proportion to the technological adoption and commodification.
+    - **1st principals:**
+        - **Goal**: influence outcome with actions
+        - **Governing Principal**: pluralism of nature - ying/yang, light/dark, male/female, sun/moon etc etc
+        - **Types**: Wicca, voodoo, black magic, Slavic, alchemy, witch dr, Druidism, native Americans, aboriginal Dreamtime
+        - **Applications**: spells, divination, familiars, charms
+        - **Rules**: harm none, whatever you do comes back 3 times
+    - **References / idea starters**:
+        - The key omen with the magic trade is you get what you want initially but the manifestation of what you put out comes back to bite you - [Law of Threefold Return](https://en.wikipedia.org/wiki/Wiccan_morality)
+            - We could predict the benefits of social media, Facebook and capitalism but not Trump
+        - Commodifying divination: forecasting with ML sitting on top of a hive mind - how accurate could prediction be?
+        - There are lots of tropes in magic that can help with the end cartoon deliverable: the 3 witches, love potions/spells
+        - Trend of tarot card readers predicting what the [royals will do on YouTube](https://www.youtube.com/watch?v=xKCQ4bFKrQU)
+        - In [Sapiens](https://www.ynharari.com/book/sapiens/), Harari discusses the need for mythology to align needs for groups of >=140 people + [The Inevitable](https://en.wikipedia.org/wiki/The_Inevitable_book)'s concept of Beginning: Constructing a planetary system connecting all humans and machines into a global matrix
+            - **Provocations**:
+                - What is the role of myth and ritual given a shared collective or hive-mind?
+                - At what scale could people collaborate given mind-to-mind connection / synthesis?
+        - In [Pull](https://www.amazon.com/Pull-Power-Semantic-Transform-Business/dp/B00403NG2C), Siegel lays out the idea of the "personal data locker" whereby people use [https://oauth.net/2/](OAuth-like) protocols to give companies access to relevant data to enhance their customer experience
+            - **Provocation**: can we OAuth our memories? Or categories of them?
+        - "[Any sufficiently advanced technology is indistinguishable from magic](https://en.wikiquote.org/wiki/Arthur_C._Clarke#Commentary_on_.E2.80.94_or_derivatives_of_.E2.80.94_Clarke.27s_Laws)."
+            - **Provocation**:  what would it take for this technology to seem mundane? What could be applied on top to make it magic again? What could be built on it as a foundation?
+- Naming comments by other yak: 
+    - YOU CAN PUT YOUR COMMENT HERE AND THEN TAG YOURSELF SO I KNOW WHO YOU ARE 
+    - [True Name idea](https://en.wikipedia.org/wiki/True_name) -- [[Venkatesh Rao]] -- can neuropatterns be used to discover/uncover the "true names" of things/people in some sense?
+        - In fantasy fiction there’s the concept of “true names” for eg. Could unique neural patterns be used to name people by neurotype? Like “Joe Introvert” or something subtler? Another random connection that occurred to me is the Bouba/Kiki effect. Can the subjective feel of words become more important in how people, brands etc are named? https://en.wikipedia.org/wiki/Bouba/kiki_effect
+        - Parents could sit in kernel helmets while baby names are flashed in front of them using a deep-learning gpt2 type generator. Physiological reactions are used to drive the names presented. Neural reactions are recorded and analyzed to show you your own true reactions to names.
+    - [Bouba Kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect) -- [[Venkatesh Rao]] -- can neurotech be used to leverage this kind of effect coupling sensory aspects of names with semantic aspects?
+    - Hey Vlad I'm just catching up on this convo so I don't know what other people chimed in on here, but I guess I see names as possibly developing an anachronistic kind of charm - like they aren't strictly necessary for communication purposes anymore but they might all feel like nicknames, or kind of pleasantly vestigial - [[Pamela Hobart]]
+    - EVERYTHING BELOW THIS SECTION IS STUFF I PUT DOWN MYSELF 
+- **Overarching thoughts**:
+    - This is a fundamentally new medium that combines organic and non-organic input/output interfaces
+- **1. Naming Ways**
+    - **Concepts**:
+        - What's my name? It depends...
+            - Our [true name](https://en.wikipedia.org/wiki/True_name) becomes a myth-like canonical representation of ourselves
+            - And we have a proliferation of context-specific digital names
+            - Shared contexts could be between two individuals, a group of friends, a business or the entire world, creating a [multi-scale model](https://en.wikipedia.org/wiki/Multiscale_modeling) of any individual's identity and sense of self
+            - Contexts would potentially be "stored" in the distributed minds of participants with an OAuth-like protocol enabling an interface and access to an [individual's context-specific name/pointer/meaning](https://www.ribbonfarm.com/2015/10/01/meaning-and-pointing/)
+    - **1st principals**:
+        - Nouns, communicate what we're talking about
+        - Names are a manifestation of self and allow us to differentiate ourselves from other people / things thereby make sense of the world
+        - Not just for people but places, things, [Semiotics](https://en.wikipedia.org/wiki/Semiotics) allows us to have a shared meaning behind names / signifiers
+    - **References / idea starters**:
+        - How we names things is influenced by medium e.g. the internet and mobile keyboards gave birth to emojis - how does this change when naming becomes a sensation? When emotion is used for labelling?
+        - VGR:
+            - https://www.ribbonfarm.com/2015/10/01/meaning-and-pointing/
+            - neuro-clones create an interesting angle for name-ways. How would you name your neuro-clone? Interestingly, there's a version of this already for bot-based twitter alts. For a while people were naming it _ebooks, and now _gpt2. For example, there is a vgr_ebooks account based on an old RL bot, and a reader was trying to create a vgr_gpt2 bot as well.
+        - [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F) & the [Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem) - how does meaning making change when our perception of reality changes?
+        - https://www.nosweatshakespeare.com/quotes/soliloquies/whats-in-a-name/
+        - Asimov's [foundation series](https://en.wikipedia.org/wiki/Foundation_series#List_of_books) - I can't remember which book in the series but Asimov explains how practitioners of [Psychohistory](https://en.wikipedia.org/wiki/Psychohistory_fictional) reach a "higher order of communication" because they communicate directly with their minds
+            - The concept is most legibly developed in either prelude to foundation or forward the foundation I think
+            - Though second foundation and later portray a more advanced mentalism, the prequel novels do more exposition...iirc Seldon’s adopted son Raych shows early mentalist powers and granddaughter Wanda shows more powers and finds another like here’s;f, Stettin Palver. That’s where 2nd foundation starts and Preem Palver in later novels is their descendant.
+            - **Provocation**: 
+                - Would we need naming in a world where we can communicate to each other via our minds? Do we need to refer to a "thing"
+                - What happens when we can "talk" to things? [Cognification](https://en.wikipedia.org/wiki/The_Inevitable_book) + IOT. Do all nouns become verbs?
+        - **Ontologies**: 
+            - Once we begin to name things we inherently categorise and group them
+            - Naming becomes sensation - what’s the ontology of sensations and how does that enable me to have a self?
+        - [Information theory](https://en.wikipedia.org/wiki/Information_theory)
+- **2. Magic Ways**
+    - **1st principals:**
+        - **Goal**: influence outcome with actions
+        - **Governing Principal**: pluralism of nature - ying/yang, light/dark, male/female, sun/moon etc etc
+        - **Types**: Wicca, voodoo, black magic, Slavic, alchemy, witch dr, Druidism, native Americans, aboriginal Dreamtime
+        - **Applications**: spells, divination, familiars, charms
+        - **Rules**: harm none, whatever you do comes back 3 times
+    - **References / idea starters**:
+        - The key omen with the magic trade is you get what you want initially but the manifestation of what you put out comes back to bite you - [Law of Threefold Return](https://en.wikipedia.org/wiki/Wiccan_morality)
+            - We could predict the benefits of social media, Facebook and capitalism but not Trump
+        - Commodifying divination: forecasting with ML sitting on top of a hive mind - how accurate could prediction be?
+        - There are lots of tropes in magic that can help with the end cartoon deliverable: the 3 witches, love potions/spells
+        - Trend of tarot card readers predicting what the [royals will do/think on YouTube](https://www.youtube.com/watch?v=xKCQ4bFKrQU)
+        - In [Sapiens](https://www.ynharari.com/book/sapiens/), Harari discusses the need for mythology to align needs for groups of >=140 people + [The Inevitable](https://en.wikipedia.org/wiki/The_Inevitable_book)'s concept of Beginning: Constructing a planetary system connecting all humans and machines into a global matrix
+            - **Provocations**:
+                - What is the role of myth and ritual given a shared collective or hive-mind?
+                - At what scale could people collaborate given mind-to-mind connection / synthesis?
+        - In [Pull](https://www.amazon.com/Pull-Power-Semantic-Transform-Business/dp/B00403NG2C), Siegel lays out the idea of the "personal data locker" whereby people use [https://oauth.net/2/](OAuth-like) protocols to give companies access to relevant data to enhance their customer experience
+            - **Provocation**: can we OAuth our memories? Or categories of them?
+        - "[Any sufficiently advanced technology is indistinguishable from magic](https://en.wikiquote.org/wiki/Arthur_C._Clarke#Commentary_on_.E2.80.94_or_derivatives_of_.E2.80.94_Clarke.27s_Laws)."
+            - **Provocation**:  what would it take for this technology to seem mundane? What could be applied on top to make it magic again? What could be built on it as a foundation

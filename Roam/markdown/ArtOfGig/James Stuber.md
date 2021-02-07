@@ -1,0 +1,3 @@
+- paychecked engineer in fusion energy
+- Productivity coach for a tiny number of clients
+- @[uberstuber](https://twitter.com/uberstuber), [https://jamesstuber.com/](jamesstuber.com)

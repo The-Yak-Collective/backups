@@ -1,0 +1,2 @@
+- [Wyrd](https://en.wikipedia.org/wiki/Wyrd)o For Hire: [Site Reliability Engineer / Open Source advocate / Small-shop tech consulting](https://greenfieldguild.com/)
+- My handle is [@temujin9](https://twitter.com/temujin9) almost everywhere.

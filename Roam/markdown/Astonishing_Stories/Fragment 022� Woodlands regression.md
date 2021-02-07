@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[collapse]] future [[a decade]] from now, there is an [[relic]] related to [[the forest]] that creates a feeling of [[shame]].
+- Fragment:: 
+    - A decade from now an unpublished paper from a discredited  scientist is uncovered foretelling the future of the worlds woodland areas. Over the last 10 years woodland areas have regressed to the point where even if we wanted to bring them back there is a lack of diversity amongst the flora and fauna inhabiting those spaces.
+- Created by:: [[Hershil Patel]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942631664&cot=11)
+- **Pockets of this future visible in the present**
+    - [Limits to Growth](https://en.wikipedia.org/wiki/The_Limits_to_Growth)

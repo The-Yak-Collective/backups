@@ -1,0 +1,24 @@
+- Profile::
+    - Wanna be independent professional w/ 20y experienced in corporate/consulting/start-up, Marketing, System Thinking, Leadership, Innovation/Tech - currently VP Community/Crowd at Series C Tech startup
+    - Over 20y of diverse business experienced across industries, company size and functions:
+        - from Procter & Gamble to Tech Startup, with some entrepreneurial experience and consulting @Mckinsey in the middle.
+        - I mostly had [[Marketing]] roles but had experience in wider Business Management roles.
+        - Studied Electronic Engineering inc. AI and Control Systems and also got an MBA
+        - My overarching themes that shape my thinking are understanding Human Behaviour and System thinking. 
+        - Currently on a paycheck but looking to move into independent consulting/professional in the mid-term (1-2 years)
+        - For independent life I'm looking to work on a networked non-formal organization (YC looks like a possible model) and to decouple time from revenue (hourly rates)
+        - based in Lisbon, Portugal
+        - currently VP of Community/Crowd at unbabel.com 
+- Involved in:: 
+    - [[YC Marketing - distributed CMO]] as enabler
+    - [[Infrastructure]] as interested 
+    - [[Roam Gardening]]
+    - Pages Wrangler in
+        - {{[[query]]: {and: [[Hugo Macedo]]{or: [[Chief Page Wrangler]][[Additional Page Wranglers]]}}}}
+- Current pipeline - highlevel
+    - kickoff [[YC Marketing - distributed CMO]]
+    - Yak Onboarding and [[Roam Gardening]]
+- Ping
+    - {{[[query]]: {and: [[ping]][[Hugo Macedo]] {not: [[pong]]]}}}}
+    - 
+- 

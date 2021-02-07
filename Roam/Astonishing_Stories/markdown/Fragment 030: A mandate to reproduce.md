@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[growth]] future [[a generation]] from now, there is an [[product]] related to [[family]] that creates a feeling of [[anxiety]].
-- Fragment:: 
-    - a few years from now the human race has become so infertile that it is a worldwide government mandate that fertile couples have to have large families. As a part of that the children that are born are redistributed so there is no burden placed on any one family.
-- Created by:: [[Hershil Patel]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849649611&cot=11)
-- **Pockets of this future visible in the present**
-    - 

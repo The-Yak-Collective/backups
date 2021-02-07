@@ -1,0 +1,22 @@
+- sync [[YC Marketing - distributed CMO]]  #meeting-notes
+    - topics
+        - feedback on survey - launched 
+            - full text of feeback from nathan: 
+                - When did you join the Yak Collective? I think I'd use "about three months ago" instead of "about two months ago" as the second option. The last two months have been holidays in the US at least, which I suspect will skew things
+                    - [[Hugo Macedo]] ok
+                - What tools do you think you need to start a new activity? I'm not 100% sure what "activity" means here.
+                    - [[Hugo Macedo]] we can replace with Project
+                - What do you want to see here in six months? Any other comments welcome as well. I'd break this up into "What do you want to see here in six months?" and "Any other comments/critiques/suggestions?" (or something like that). Combining the "anything else" field with anything else seems like a recipe for making it harder than it needs to be to analyze the responses.
+                    - [[Hugo Macedo]] ok
+            - full text of feedback from venkatesh: 
+                - I'm not sure I understand the intent of this survey... the questions don't point in any particular direction
+                    - [[Hugo Macedo]] I agree - the result of design by committee :P - that's why i think we miss a introductory narrative that sets the context.
+                - I would add a purpose paragraph at the top of the survey and 
+                - a question that leads to action at the end, something like "check this box if you have a specific activity you'd like to start but don't know how -- a volunteer will contact you to help" - maybe not that specific question, but something like that, to identify and engage the people who want to do more but are stuck
+                    - [[Hugo Macedo]] interesting idea 
+            - 
+        - #[[Yaks do innovation consulting]] launch
+            - ideas
+                - twitter pool - what's your biggest innovation challenge?
+                    - get interest and discussion going
+                - 

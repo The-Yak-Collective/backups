@@ -1,8 +1,0 @@
-- I'm a pedagogy/andragogy coach currently working in higher ed, and engaging with the growing indie online education ecosystem (think Forte Labs, the courses coming up around roam, anyone building courses online). Currently exploring the cycle between formal ed and indie ed, specifically how good learning theories and models from formal ed can support indie ed and how indie ed can push innovation in formal higher ed teaching and learning. Originally from Mumbai, India and currently in Doha, Qatar.
-- Twitter: https://twitter.com/shakirshussain
-- Now Page: https://www.shakir.me/now
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Shakir Hussain](<Shakir Hussain.md>)
-

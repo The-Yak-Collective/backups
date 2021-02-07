@@ -1,2 +1,0 @@
-- Product Manager @YouTube formerly of the gig economy
-- Twitter: chrisclark1729 - I do not write that much

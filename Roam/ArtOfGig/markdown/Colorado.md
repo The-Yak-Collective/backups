@@ -1,3 +1,0 @@
-- xref: #locales; #us-states; state in [[United States]]
-- Directory
-    - {{embed:[[Colorado/Denver]]}}

@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[discipline]] future [[a decade]] from now, there is an [[social culture]] related to [[hygiene]] that creates a feeling of [[alienation]].
-- Fragment:: 
-    - A post-pandemic hygiene 3.0 world, where people across all different types of relationships touch each other far less and generally keep a higher level of distance between one another. Personalised biotechnology continues to develop at a rapid rate as triggered by the pandemic, to serve the purpose of maintaining personal health/hygience. Social norms of a disciplinary nature develop around this.
-- Created by:: [[Kannen]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849941145&cot=6)
-- **Pockets of this future visible in the present**
-    - 

@@ -1,0 +1,40 @@
+- [[January 18th, 2021]] kickoff meeting update
+    - Current status: 3d printable kinematics study model designed and printed. Next step: evaluate a few motor options for both drive and servo. Considering a few cheap gearmotors and a servo motor.
+        - Current design study model, for 3d printing![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FoDJSmgdKW9.png?alt=media&token=adc74e54-1c82-43f1-b865-615d668cd7a2)
+        - drive unit section... current problem is figuring out how best to mount a sufficiently high torque motor and steering servo ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FFbq_LiteAk.png?alt=media&token=80b6f359-c34a-4bac-a178-d0514ee61952)
+    - This model is 3d printable, but doesn't yet have a decent way to do the pin joints... but if you want to print it, simple nut and bolt pins for the steering, and straightened paperclips for the shafts should do the trick.
+- Yak W1 rough design
+    - Chassis
+        - Fits in a 60cm x 30 cm x 20 cm cuboid
+        - 3-wheel tricycle with solar panels
+        - Main chasis will be an alumimum perf board with flexible capacity for holding stuff
+    - Drivetrain
+        - 2 independent drive motors for the rear wheels, steering via third wheel
+    - Power subsystem
+        - Solar panels
+        - LiIon battery pack
+    - Sensors
+        - "Whisker" based proximal obstacle sensing
+        - LIDAR?
+        - Radar (can we get cheap enough?)
+        - Drive cameras
+    - Navigation and control
+        - GPS
+        - SLAM style local navigation
+        - Stored map for deployment zone
+    - Communications
+        - Starlink WiFi
+        - Continuous telemetry of system healthy
+    - Payload
+        - Gimballed surveying camera (dual use for self inspection)
+        - Maybe some sort of atmosphere sensor, like pollution?
+    - Compute
+        - RPi for general compute (2x redudant maybe?)
+        - Might need a couple of Arduinos for microcontroller needs and also fallback basic behaviors mode if the compute or comms fail
+    - Software stack
+        - System health and diagnostics
+        - Comms
+        - Failure mode id and recovery/reconfig
+        - Basic path planning and navigation
+        - API-controlled payload ops
+        - etc.

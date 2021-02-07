@@ -1,0 +1,8 @@
+- Profile:
+    - Location:: London, UK
+    - Future:: Aspiring Indie Gigger, [[Writer]], Systems Designer
+    - Current:: Product Manager, Tech for Good, Systems Thinker
+    - Past:: Software Engineer, Start-ups, Big Tech
+    - Aside:: Comedy nerd, mimetic mediator
+    - Twitter:: [@amirhhz](https://twitter.com/amirhhz)
+    - LinkedIn:: https://www.linkedin.com/in/amirhhz/

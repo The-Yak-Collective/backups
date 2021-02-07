@@ -1,0 +1,4 @@
+- tags: #countries
+    - {{[[TODO]]}} roam allows queries, maybe all US members makes sense too
+- states
+    - {{embed:((DGulaQTpk))}}

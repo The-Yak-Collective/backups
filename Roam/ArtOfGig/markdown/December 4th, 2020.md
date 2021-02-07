@@ -1,1 +1,0 @@
-- Updated [[GitHub]] access list to reflect new 2FA requirement.

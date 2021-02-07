@@ -1,0 +1,20 @@
+- **Arc** outlines the type of future world that the thing comes from, and how far away it is from today. There are four types of arc, each an umbrella for countless possible scenarios.
+- [[growth]]
+    - {{[[query]]: {and: [[growth]] {not: [[Arc]]}}}}
+    - [[Fragment 002: The Dunning-Kruger Supplement]]
+    - [[Fragment 003: Cis-gender festival]]
+    - [[Fragment 005: Neural implant w/ nano-drones]]
+    - [[Fragment 008: memetic community guidelines]]
+    - [[Fragment 009: Performance-enhancing memory drug]]
+    - [[Fragment 010: Infinity & beyond]]
+- [[collapse]]
+    - {{[[query]]: {and: [[collapse]] {not: [[Arc]]}}}}
+    - [[Fragment 006: Fingerprint money transfer]]
+- [[discipline]]
+    - {{[[query]]: {and: [[discipline]] {not: [[Arc]]}}}}
+    - [[Fragment 001: Grandma Flair]]
+    - [[Fragment 004: 111 channel]]
+    - [[Fragment 014: Farming retreats]]
+- [[transformation]]
+    - {{[[query]]: {and: [[transformation]] {not: [[Arc]]}}}}
+    - [[Fragment 007: Family scanner]]

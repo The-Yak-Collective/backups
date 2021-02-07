@@ -1,4 +1,0 @@
-- Growth Marketer working on a mix of consulting and risk / reward gigs
-- Origination story involves falling feet-first into my first quality gig whilst wrapping up a failed startup
-- My gigs tend to involve restructuring existing marketing functions to use the data-driven, continual improvement approach afforded by the Growth Methodology
-- Happy to get on the tools whether it's AdWords, CRMs, Ruby/Javascript development or [[Data Analysis]] in R

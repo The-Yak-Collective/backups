@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[discipline]] future [[a generation]] from now, there is an [[symbol]] related to [[wealth]] that creates a feeling of [[gratitude]].
+- Fragment:: 
+    - We return to the rennaisance era where art and enterprise is solely funded by wealthy families. Return to the medicis and symbols of medicis and the families become as ubiquitous as the apple logo
+- Created by:: 
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348886676849&cot=11)
+- **Pockets of this future visible in the present**
+    - 

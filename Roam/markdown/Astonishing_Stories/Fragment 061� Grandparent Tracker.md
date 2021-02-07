@@ -1,0 +1,6 @@
+- Scenario:: 
+    - In a [[growth]] future [[a few years]] from now, there is a [[product]] related to [[family]] that creates a feeling of [[anxiety]].
+- Created by:: [[Claire Peters]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348844181506&cot=11)
+- **Pockets of this future visible in the present**
+    - [10 Lifesaving Location Devices for Dementia Patients](https://www.alzheimers.net/8-8-14-location-devices-dementia)

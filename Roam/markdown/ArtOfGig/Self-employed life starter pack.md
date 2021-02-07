@@ -1,0 +1,5 @@
+- Links and guidance on company formation, legal, proposals, taxes, company accounts, insurance etc.
+- I find these things so boring and time consuming. If I'd had a single, complete, localised checklist with links to resources or services to address each item when I'd started gigging, life would have been much simpler. Instead I spent a lot of time searching for and compiling everything I needed. 
+- What's the minimum you need for a side hustle?
+- What's required if you take on more substantial projects or make self-employment your main work?
+- You should make an LLC or S-corp sooner rather than later. In the US, these unlock many tax deductions and cut in half your Social Security tax.

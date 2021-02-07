@@ -1,6 +1,0 @@
-- I'm a founder & product-builder who's built a couple of (B2B data) companies, and I'm thinking about the next step on my journey. Right now just optimizing for meeting thoughtful, ambitious, high-integrity people working on exciting ideas. I love learning and thinking about: data visualization, the future of work, human geography, and knowledge management.
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Nikhil Srivastava](<Nikhil Srivastava.md>)
-

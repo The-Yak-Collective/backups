@@ -1,5 +1,0 @@
-- I've been described as a "media polymath"
-- I consult on media strategy and I run a new publication called __The New Modality:__ http://thenewmodality.com
-- My favorite profile of myself is on the NewMo website here: http://thenewmodality.com/newmo-founder-lydia-laurenson
-- Twitter! https://twitter.com/lydialaurenson
-- LinkedIn! https://www.linkedin.com/in/lydialaurenson/

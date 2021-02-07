@@ -1,0 +1,6 @@
+- Key Dates:
+    - [[April 3, 2020]]: Application Date for sole proprietors and other businesses
+    - [[April 10, 2020]]: Application Date for self-employed and Independent Contractors
+    - unclear what's the distinction between sole proprietors and others; this is just the wording in the SBA-issued [guidance](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)
+- [Topline info](https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf)
+- 

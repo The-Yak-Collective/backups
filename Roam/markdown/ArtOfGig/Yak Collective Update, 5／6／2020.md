@@ -1,0 +1,9 @@
+- Community updates
+- New gigs
+- Interesting links
+- New gigs
+- Personal announcements
+- Interesting Links
+    - [Virtual Economy](https://atelier.net/virtual-economy/?fbclid=IwAR0btlF4I2c7xZEFyHNwZkeTRMA3H5iQxoRN3ngqu24tMxcGXVeW9JxUEtg): a fascinating new site on latest update on the virtual economy.
+    - this 2x2 or [the post](https://daybrew.substack.com/p/how-to-assemble-a-team-of-indie-professionals) (mine)from which this is taken.
+    - Interesting links

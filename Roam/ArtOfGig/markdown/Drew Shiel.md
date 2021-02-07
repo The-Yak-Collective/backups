@@ -1,2 +1,0 @@
-- Twitter: [@gothwalk](https://www.twitter.com/gothwalk)
-- Marketer (Google Ads, Analytics, one-person online-marketing-department), Food Historian, Domestic and Agricultural Historian, Ongoing Climate Crisis Thinker.

@@ -1,0 +1,1 @@
+- [[Nathan Acks]] cleaned up the [[Yak Collective Website]] page and added a link to the [[IT Infrastructure and Project Security Basics]] page under **Relevant Documents and Files**.

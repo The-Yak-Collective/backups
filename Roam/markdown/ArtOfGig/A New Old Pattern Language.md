@@ -1,0 +1,27 @@
+- module led by [[Shreeda Segan]] and part of the [[Pamela Hobart]]-lead [[The New Old Home]] project
+- new [[occupational hazards]] in [[parenting]]
+    - https://www.linkedin.com/posts/harbech_parenting-quarantine-ugcPost-6666329687783993344-FtI- read-this later 
+- notes on the literal design, the idea of a new home office, new needs that a home will require and what affordances a home should now be able to provide (home gym, home office, de-compressive spaces for parents, video chat tools, greater demand on single family units)
+    - [[Zoom]] and [[video chat]] tools:
+        - corner of a room, backdrop, plants
+        - ring light
+        - [[Power Posing for Zoom - Experiments in camera based status transactions ]] link?  
+    - greater reliance on identity through performance art/avatar in style of [[Tik Tok]]
+        - [[Zoom]] as [[Tik Tok]] for adults? 
+- one idea for approach is to go through home, office, etc., sections of [[A Pattern Language]] by [[Christopher Alexander]] and mark patterns as:
+    - still relevant 
+    - no longer relevant
+    - need to be adapted 
+- https://www.autonomous.ai/zen-work-pod
+    - extension to ones home 
+    - new thing in sales
+    - [[Tiago Forte]] tweeted about this recently (must find tweet), asking if this is something that people would likely be interested in  
+- separation of space vs multi use spaces
+    - [[Sarah Sushanka]] question in [[Not so Big House]] book 
+        - she advocates for multi use spaces rather than modular room-for-every-use-case build of homes  
+    - impacted by predictions in real-estate market 
+- boundaries and transition spaces 
+- home gym sales, etc.
+    - find that collaboration paper on Covid19 secondary effects and silo-out all trend predictions relevant to "domestic" space and itemize 
+- balance between opinionated vs cartographer tone in this piece 
+    - advocating for a certain aesthetic a la Alexander? or just demarcating upcoming relevant possibilities?   

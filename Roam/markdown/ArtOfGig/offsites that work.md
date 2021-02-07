@@ -1,0 +1,53 @@
+- author:: [[Bob Frisch]]
+- source:: https://hbr.org/2006/06/off-sites-that-work
+- recommended by::
+- tags:: #articles, #events, #strategy
+- Of all the meetings top executives go to in a year, none is more important than the strategy off-site, where the most essential conversations for the future of the business occur.
+    - The scope of the matters discussed at a strategy off-site is broader than at the typical management meeting. 
+    - When looking at big-picture topics like what business the company should be in, as well as more-focused questions like how to build new core competencies, executives must peer beyond the immediate horizon to three to ten years into the future. 
+    - Instead of concentrating on their individual functional areas, participants must take an organization-wide perspective and synthesize information drawn from disparate areas of the firm. 
+    - And unlike operations-oriented meetings, whose objectives are limited and whose function is primarily reportorial or tactical, strategy off-sites deal with information and issues that are often ambiguous or speculative, which makes many executives uncomfortable.
+    - A successful off-site can align executives, galvanize corporate performance, and strengthen the company’s position in its industry.
+- Yet it is the rare management team that can say its strategy off-site truly changed the way the business is run.
+    - At best, participants do some vague direction setting and work on team-building skills; 
+    - at worst, they write off the retreat as a waste of time and resources. It needn’t be like that.
+- Essentially, the problem with most strategy off-sites is that they’re insufficiently structured. In reality, formlessness leads to aimlessness. 
+- Oddly enough, only rigorously designed meetings give rise to truly candid strategy discussions.
+    - That rigor starts before the meeting, when the scope of the matters discussed must be limited, the participant list drawn up accordingly, the relevant materials (and only those) sent out and absorbed, and a detailed agenda established.
+    - During the meeting, the pace and quality of the conversation can be managed through attention to politics and by using carefully tailored frameworks, decision points, and group exercises.
+    - After the meeting, an action plan ensures clear accountability and follow-through.
+- **Preparing for the meeting**
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2F9L8X7eXO4n.png?alt=media&token=8f472709-0d8d-4993-a1af-4afe11484591)
+    - Frisch and Chandler recommend first clarifying each meeting’s purpose: do you need an expansive conversation about broad strategic options—or must you make concrete decisions about a specific priority, such as improving customer loyalty?  What time frame applies to the issues that will be discussed: Three to five years? Five to ten? 
+    - Then, identify the right number of participants. (An expansive conversation requires a larger group.) 
+    - And give them a “fact book”—a compilation of just enough relevant data about your company and its external environment—and insist they read it ahead of time.
+    - Finally, create a structure for the meeting that will compel progress.
+        - Useful to have a facilitator agenda. The first two columns make up the structured agenda, shown to all meeting participants ahead of time.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2F7OiLBUIecb.png?alt=media&token=4e8c9def-8402-409a-971f-a4f4b846a9fc)
+- **At the meeting**
+    - To induce genuine engagement, not ritualistic agreement:
+        - Downplay your authority (CEO). Avoid expressing strong opinions early in the discussion. 
+        - If your team expects you to wrap up every conversation with a final decision, members will merely tee up critical issues and await your answers.
+        - Neutralize politics. Present data in ways that enable participants to evaluate data objectively—without being overly influenced by political considerations.
+            - Move the conversation toward the meeting’s objectives. 
+            - Use structured decision points, breakout sessions, and exercises to keep the conversation on course.
+    - The momentum of discussion
+        - Discussions, especially animated ones, tend to take nonlinear paths, jumping from one topic to the next. It’s the responsibility of the meeting owner to stick to the agenda using the predetermined frameworks, exercises, and breakout sessions to keep the conversation on course.
+        - Meeting designers can also help propel the off-site forward by continuing to quantify opinions during the session through various forms of voting, both public (like the Post-it exercise) and private—such as an anonymous keypad-voting system.
+        - The purpose of voting and similar exercises for quantifying opinion is not to enforce unanimity or even majority rule. It is to push the conversation forward and ensure that the issues, no matter how contentious, get the thorough airing they deserve.
+        - The meeting designer is also responsible for embedding decision points into the structure of the meeting—being careful that not all of the decisions reached end up merely reflecting the CEO’s preordained conclusions.
+        - Closure doesn’t always mean reaching a decision; it can simply mean completing an important discussion, agreeing to undertake further study before making a decision, or even agreeing to disagree.
+    - On the importance of alignment
+        - Devote careful attention to aligning the executive team members, who have flown in from across the country or around the world, stepped away from their daily responsibilities, and been given a rare opportunity to focus collectively on how they’re going to take the company into the future. 
+        - An aligned executive team leaves the off-site prepared to make faster, better decisions—and fewer decisions at cross-purposes—making it far more likely that the strategy will be executed effectively.
+        - Alignment, the bridge from strategy to execution, shouldn’t be confused with consensus, which describes an outcome everyone can live with because conflict has been avoided.
+- **After the meeting**
+    - Best practices at this stage—develop action steps, clearly communicate the strategy, keep the initiatives on course—differ little from those followed after many executive meetings, but we’re astonished by how often strategy off-sites omit them.
+    - By the end of most meetings, participants have simply run out of steam. But in well-designed off-sites, the momentum that comes from exploration, debate, and alignment carries over into a commitment to implementation. In fact, one qualitative measure of an off-site’s effectiveness is how eagerly the executive team members embrace follow-up.
+    - To give a strategy legs, the company’s executives must first agree on an action plan that specifies roles, responsibilities, milestones, metrics, and reporting frequencies.
+    - In addition to agreeing on responsibilities before leaving the room, participants should also produce a clear and easily communicated written summary of what was discussed, what decisions were reached, and what next steps are required.
+    - The team must also establish follow-up mechanisms to make sure initiatives stay on course and within budget. Even companies with well-developed project management capabilities seldom apply those disciplines to strategic initiatives.
+- **The Next Conversation**
+    - “An organization is nothing more than a network of conversations,” says Rich’s Duffy Smith. “You can’t talk to a fixed asset. You need conversations with other executives structured around the hard and the soft sides of the business.” Strategic off-sites are where the most important conversations for the future of the business occur.
+    - Although it may seem paradoxical, it’s only from rigorously designed meetings that truly candid strategy discussions arise. In the words of one executive, a structured plan helps you “get deeper, quicker.” As top management teams experience the power of well-designed off-sites, they become more adept at doing the work of strategy together. They get better at rapidly moving conversations to the level of strategy and at persisting in murky waters until clear outcomes emerge.
+    - Most important, getting deeper quicker becomes a habit that translates into advantages in the marketplace. Teams that arrive at a shared understanding of all the key issues of the business are stronger: When the executive team is aligned, the company can act more quickly and can make better decisions.

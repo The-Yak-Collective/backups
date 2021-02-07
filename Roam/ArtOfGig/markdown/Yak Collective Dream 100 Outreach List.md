@@ -1,6 +1,0 @@
-- A list of folks that would be good partners, clients, or facilitators for Yak. 
-- 
-- Jesse Schell: https://en.wikipedia.org/wiki/Jesse_Schell
-- Danielle Strachman:
-- Derek Sivers:
-- Visakan Veeraswamy

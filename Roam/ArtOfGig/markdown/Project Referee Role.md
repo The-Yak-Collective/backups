@@ -1,5 +1,0 @@
-- The role of the project referee is to sign off on a public project release, or help approve triggering of additional sprints to complete a project
-- Every project should have 2 leads and 2 referees, and release/another sprint decisions should be by consensus
-- The referees role is NOT to provide editorial feedback or otherwise judge the content of the project in terms of personal taste. Merely to provide a quick outsider sanity check on readiness and basic quality. It is a logistics role, not an auditing role.
-- In case of disagreement between project leads and referees, the leads may find alternative referees or refer the dispute to the broader yak collective membership in some form at their discretion (eg. a vote).
-- Referees whose opinion is disregarded or who are removed from the role will have the freedom to write and disseminate a dissenting opinion with their views (as in supreme courts)

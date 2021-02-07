@@ -1,6 +1,0 @@
-- In a [[growth]] future [[a few years]] from now there is an [[product]] related to [[family]] that creates a feeling of [[anxiety]]
-- "Perfect Parent" gamified neurofeedback device + app + social media.
-- created by [[jordan peacock]]
-- **Pockets of this future visible in the present**
-    - [Cry Translator](http://www.crytranslator.com/)
-    - 

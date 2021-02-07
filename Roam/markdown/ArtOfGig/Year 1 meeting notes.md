@@ -1,0 +1,64 @@
+- [[January 25th, 2021]]
+    - #[[Year 1 meeting notes]] Today is our first regular yak rover group meeting (10 PM Pacific, morning in Europe, afternoon in Japan).
+        - Please save this email since it has useful links.
+            - Here is [the link to the event on the YC calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZnb2FlN3JuMzc1c3NlaWJlbGhhMjFoMTEgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) for you to add to your own.
+            - Here is the [regular zoom link](https://us02web.zoom.us/j/82044391423?pwd=YUZ4RjhrZjI2ZS92NHVUMUViMVQ1QT09), the details are also included in the calendar invite.
+            - Here is [the link to the participant form](https://forms.gle/XcLp9uqJQGWmF7966), where you can review your own and others' details. If you haven't yet filled out, please do so if you plan to participate (there are 7 responses from people planning to do builds, but you don't have to commit to a build to participate).
+            - There are several Roam pages
+                - Here is the main [Roam page](https://roamresearch.com/#/app/ArtOfGig/page/QmE-vAzPn).
+                - Everybody planning a build should create a build page under the [2021 Builds](https://roamresearch.com/#/app/ArtOfGig/page/LCH9VzUXa) page.
+                - Here is a [References page](https://roamresearch.com/#/app/ArtOfGig/page/DUQgrnzRl)
+        - You can always get the current agenda in the Discord channel using the command **$agendalist**. You can add items using the command **$agendaadd** with item details in the channel. Today's main agenda is to spend the first 10 minutes reading/browsing key reference pages on the Curiosity rover for 10 minutes, then an open-ended discussion:
+            - Wikipedia page: https://en.wikipedia.org/wiki/Curiosity_(rover)
+            - Nasa mission page: https://www.nasa.gov/mission_pages/msl/index.html
+            - Video found by Victor: https://www.youtube.com/watch?v=qaUhLXolGaI
+        - I've created a section for Curiosity in the References page with these links. Please dump anything else interesting you find there. Feel free to create other reference sections. We'll organize better once we have more.
+        - We will also spend some time discussing how to use Twitter to do light-weight self-documentation of the project.
+        - Initial reactions
+            - [[Grigori Milov]]
+                - rover material, weather on moon and mars
+                - curiosity ~1 ton, fresh eyes on mechanism
+                - Eric - curiosity has plutonium
+                - Venkat's view powering by nuclear needed when power budget is more
+                - Anuraj's reaction launch considerations on nuclear powered rover
+                - basic rover design has been changing
+            - [[Anuraj R]]
+                - sojourner and missions, rocker bogie, low budget
+                - "Anuraj's reaction launch considerations on nuclear powered rover"
+                - Mission cost for the high because of margin of error
+            - [[Victor Hill]]
+                - Communications with satellites more realiable, communications with has a lot of lag
+                - problems with CPU and resets, redundancy, raspberry is way more powerful
+                - RTG is also warming up the systems, pretty hard to keep things warm without RTG and just with solar
+                - Venkat - Reasons mammals evolve to operate at wider range of temperatures
+                - Probe on curiosity didn't dig deep enough for experiments
+                - Venkat  - Mars to Earth communication power budget is huge. If there is Star Link on Mars then power budget is less
+                - Separate rover from payload. Payload can be land every couple of years. Spreads out risk of mission over time. 
+                - Sample return on Perseverance
+            - [[Eric Platon]]
+                - Communication also has big power budget
+                - A YakSat? for communication?
+                - "Eric - curiosity has plutonium"
+                - Rover is actually a platform. Perseverance looks similar and blue print is same as Curiosity
+                - Programming language called PLEXIL - from around 2006, first deployed in Curiosity
+                - The framing of mission is pretty narrow, that's why it is important to make a platform
+            - [[Maier Fenster]]
+                - There is much less water around Curiosity
+                - Tool for measuring soil temperature and it broke. 
+                - Generality of tool is limited, not designed as a general purpose rover, analogy is astronaut with gloves, the minute we put on gloves things become difficult
+                - Are we making a general purpose rover ? How do we choose the hardware on it? 
+            - [[Venkatesh Rao]]
+                - Press Releases - 9 out of 10 were mission, occasional operation things, like something is broken
+                - First principles for rover 
+                    - cost things are way lower 
+                    - many different rovers -> distributed systems
+                - Sojourner never went too far away from the base station
+                - One way to approach - what can be done with commodotized hardware?
+                - Instead of single platform, configurable rover, unbundle mobility component
+                - Software is kind of interesting, Is there is single rover operating system? General enough for various environments
+                - What is pie chart of mission cost? 
+                - Scavenging when rover breaks down when economies of scale kicks in. Dump 100 rovers changes the equation
+                - If there are frequent launches then various combination of rovers are possible
+                - Elon's tweet on how to make fuel on Mars. 
+- [[February 2nd, 2021]]
+    - "#[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). "

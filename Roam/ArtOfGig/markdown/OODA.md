@@ -1,1 +1,0 @@
-- Wikipedia Page:: https://en.wikipedia.org/wiki/OODA_loop

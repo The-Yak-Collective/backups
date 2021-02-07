@@ -1,2 +1,0 @@
-- project page: [[Yaks do innovation consulting]]
-- 

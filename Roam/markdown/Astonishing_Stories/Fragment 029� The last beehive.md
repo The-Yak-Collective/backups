@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[collapse]] future [[a decade]] from now, there is an [[relic]] related to [[the forest]] that creates a feeling of [[shame]].
+- Fragment:: 
+    - The last standing beehive - now under environmental protection.  The quickly disappearing bees from the world have created enormous food shortage, loss of animal and human lives and have brought countries on brinks of war.
+- Created by:: [[Prashant Gandhi]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849828415&cot=6)
+- **Pockets of this future visible in the present**
+    - 

@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[growth]] future [[a few years]] from now, there is an [[kit]] related to [[childhood]] that creates a feeling of [[surprise]].
-- Fragment:: 
-    - a kit of hyper personalized learning tools based on quantified activity from the previous year. This could be subjects, training for specific activities etc. coincides with increase in homescholling
-- Created by:: [[sachin]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348973166099&cot=11)
-- **Pockets of this future visible in the present**
-    - 

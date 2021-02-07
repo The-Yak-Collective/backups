@@ -1,0 +1,16 @@
+- Two time startup founder in education and healthcare. Off-and-on indie consultant, currently employed at a very non-indie, but smallish technology strategy consulting firm. Looking to start something new. Math, software, product.
+    - Twitter: [@sdbo](https://twitter.com/sdbo)
+    - Companies::
+        - [Reify Health](https://www.reifyhealth.com/) built patient enrollment tooling for clinical trials, compress the telephone game between patients and pharmaceutical companies.
+        - [Signal Vine](https://www.signalvine.com/) built platform for persistent, semi-automated SMS communication. Original focus was on at-home health management, switched over to communication in schools and education.
+    - Learning about::
+        - Horseback [[finance]] and [[accounting]]
+        - Modern variational modeling
+        - [[Improv]]
+    - Skills::
+        - [[Entrepreneurship]]
+        - [[Product Management]]
+        - [[Software Development]]
+        - [[Data Analysis]]
+        - [[Machine Learning]]
+        - [[Geospatial statistics]]

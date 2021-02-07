@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[collapse]] future [[a decade]] from now, there is an [[ritual]] related to [[justice]] that creates a feeling of [[shame]].
-- Fragment:: 
-    - on your 25th birthday, a public dossier is compiled of everything offensive or controversial you've said or done. it's visible to potential employers, friends, partners etc.
-- Created by:: [[Tracy Brinkerhoff]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849827848&cot=6)
-- **Pockets of this future visible in the present**
-    - [The disquieting rise of search and shame](https://www.newstatesman.com/science-tech/social-media/2017/11/disquieting-rise-search-and-shame)

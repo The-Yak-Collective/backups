@@ -1,1 +1,0 @@
-- [Hugo Macedo](<Hugo Macedo.md>) Started [YC Marketing - distributed CMO](<YC Marketing - distributed CMO.md>) 

@@ -1,6 +1,0 @@
-- Email:: hello@tomlisankie.com
-- Twitter:: [TomLisankie](https://twitter.com/TomLisankie)
-- Yak Collective Website:: https://tomlisankie.com
-- "Occupation": [[Software Development]]
-- Doing whatever I can get right now. Currently have a fairly small paid project from a friend of a friend. Working mostly on side projects as I search for a remote gig
-- Ideally looking to work with [[Clojure]] primarily

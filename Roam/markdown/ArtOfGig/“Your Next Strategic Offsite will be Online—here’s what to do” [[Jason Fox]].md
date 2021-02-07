@@ -1,0 +1,227 @@
+- TO CONSIDER: How to make this more ‘magical’
+    - The risk of this deck is that it is bland and a mere incremental improvement to existing paradigms of thought. This is also its benefit—it’s so very safe and salient. But I wonder if we can dial up the Yak Magic a few notches. This may come down to __narrative framing__. I have some ideas.
+        - ‘Rebuild the Spy Network’ – this speaks to how information is gathered and shared. Scope is broader than offsites, but the gathering to sensemake around intel—and to figure how to work up the propaganda—still holds.
+        - ‘Light the beacon; gather the agents’ – adds some mythic flair, but at the risk of salience
+        - Also potential realm of insights when seen through the lens of wizard/mage tools, coordinating magics, scrying or whatnot (tone similar to https://aaronzlewis.com/blog/2019/07/25/metaphors-we-believe-by/ )
+        - Let’s continue to ponder—if you have any ideas to ‘hone the mythic edge’ of this, feel free to add below. This isn’t to be a major distraction, but also not just a coat of paint, either. More like a ‘magical realism’ sensibility that we can strive to integrate.
+- UPDATED for the ‘official’ proposal
+    - Here follows what I submitted to the Yak Council
+    - Senior executives will have annual leadership offsites and strategic retreats already scheduled in the calendar. Rare time wherein key influencers can meet and discuss—at depth—the things they otherwise don’t get time to do.
+    - Most of these will be empty rituals of course—junkets and pantomime retreats, or overly produced staged propaganda. But some may be critical rally points of reflection/introspection/inflection/projection. In my own world, some executives with conferences scheduled are scrambling to figure out what to do. 
+    - I figure this is an opportunity for the Yak Collective to provide timely wisdom and support  for any executive looking to do this well (and not merely replicate what has been done before). 
+    - I have personally co-created and facilitated many off-sites over the past 7 or so years, and am currently working with a multinational firm in helping them create and produce an efficacious online offsite experience (all happening in the month of May). 
+    - Right now, executives need ideas. They need to seem cool and in control—if this deck can help them appear smarter and savvier, it may just provide an opening for deeper work with the Yak Collective.
+    - As such I imagine this to be almost a playbook of sorts. Think of it as *less* of a linear/formulaic recipe book for cooking a safe/bland offsite of underwhelming success and *more* of an eclectic mix of renowned chefs offering extremely refreshing (yet practical) perspectives on how to craft an incredible experience. The type of thing that has executives think: “I never thought of that!” and then later think “Crap, I, well... I still don’t quite know what to do. But I know I need to get in touch with the Yak Collective—this feels different. This is what we need right now.”
+    - I would love for this deck to draw in a *diverse* mix of perspectives from the Yak Collective. Naturally, all of us with experience facilitating offsites will have plenty of perspectives to through in the mix. But... what are the unexpected insights? The pattern disrupts? The unexpected yet refreshingly bold and constructively contrarian insights that differentiate us from the default support offered by large consulting firms?
+    - It would help if you have had enough experience consulting so as to harbour that Vetenari/Machiavellian-like dark rogue jadedness that makes new thinking so much more salient. In other words—let’s not have this be a deck of sunshine and rainbows, but rather: the genuinely provocative ‘new ways of seeing’ strategic offsites. 
+    - I’m on Melbourne time (GMT +10) and actively working with a client on this. My May is busy but there *is* some capacity for me to lead this. I imagine that we will meet online soon (once we get feedback/approval from the Yak Council). I may use a platform that allows us to record our initial session, so that folks in other time zones will catch up. I then hope we may have our own discord channel and roam sub to flesh this out. 
+    - Paul Millerd, Scott Allen, Thomas Verhagen, khuyen, Ben Mosior, Erin Peterschick, Antoine Buteau, Mike Wimsatt, Alex Wagner, and Damien Stewart have expressed interest thus far. 
+    - I’d thought initially to make this a ‘white paper’ (or ‘play book’)—but that might warrant a bit more coherence than is achievable/desirable within a 2-3 week turnaround. We want this document to *spark thought*. To have executives rethinking the offsite—not to abandon it, per se, but to see the opportunity in a new light.
+    - If you’re also interested in contributing please add your discord name below
+        - eg: Jason Fox
+            - [[Nita Baum]] 
+                - Nita Baum- NYC on discord - I love this idea and also have a bunch of facilitating experience and love + echo your point about genuine "new ways of seeing"; additional thoughts - in addition to the deck, can we also make this an experiential learning opportunity; we do a lot of "bite-sized" experiential tastes of our work with clients before we decide to work with them - could this be a deck AND a webinar or combined with something live - feels like we'd learn a lot and potential clients would learn a lot about what resonates; also an opportunity to cultivate the relationship and build trust in a way that feels mutual. 
+            - [[Antoine Buteau]]
+                - anbuteau on Discord. We have about 20-30 clients in a given year and we do about 3x the amount of offsites (yearly + quarterly). We have done some offsite remotely, but the challenge is to try to recreate what we used to do in person online. It fails to generate the same insights and collaboration from executives. I have looked around and found different resources, but they are pretty boring to be honest. 
+                - Also something I have on my mind: how will we do in-person offsite while social distancing? Do we need an hybrid approach where we do some online and some in-person. Are we able to do something so great online that it's not worth to move in person anymore?
+            - [[Scott Allen]] - @ScottAllenTVH on Discord
+                - My main contribution here is accelerated trust-building online, which I think would be a key part of online offsites, as it is with F2F offsites. One of the core hypotheses of my book, __The Virtual Handshake__, is that the main reason humans build trust more in person than online is that we typically engage in more of the kinds of interactions that build trust in person than online. But if we're aware what those are, we can do them online and accelerate trust-building in a virtual setting.
+                - From an article I've done on virtual trust-building, here are some of the elements, many of which could be implemented in an online offsite context:
+                    - **Discover Multiplexity**
+                        - You know how when you meet someone for the first time, and you start discovering that you have a couple of things in common, it’s like, “Small world!” You discover four or five things in common, and it becomes “What a coincidence!” Get to 10, and you start cracking jokes about being twins separated at birth! This is known as multiplexity, or simply, how much do you have in common? Social media is great for discovering multiplexity. All you have to do is read their social profiles and their last few posts, and you’ll undoubtedly find some common ground. Be sure to post as much as you’re willing to on your own profiles to help others do the same with you.
+                    - **Be Vulnerable**
+                        - People give trust when they receive trust. Be willing to put yourself out there. Open the kimono. Share something that stretches you beyond your comfort zone. You being open creates a safe place for them to be open, and that creates a bonding experience.
+                    - **Make (and Keep) Microcommitments**
+                        - If you say you’re going to like their post, like their post. Tell them you’re going to read and comment on their blog, and then do it. Forward those LinkedIn connection requests in a timely manner. Set an appointment for a call with them and keep it—be right on time for it. Each little bit of promise and fulfillment builds trust and rapport.
+                    - **Be Proactive**
+                        - Don’t wait for them to ask you—take the initiative. People really do notice and appreciate social media interaction. Likes are good; shares are better; comments are best. Make introductions to relevant and interesting people.
+                    - **Collaborate**
+                        - There is perhaps no better builder of relationships than working together on (and preferably achieving) a common goal. And there’s no shortage of opportunities to do this online: petitions, crowdfunding campaigns, virtual summits, joint ventures, etc. Seek those out, and if you can’t find them, create your own.
+                    - **Put in the Time**
+                        - Building strong relationships takes time. Sure, sometimes people are drawn together instantly as a result of some major emotional event—usually a traumatic one—but as an intentional strategy, you have to invest the time. That may mean having a private, one-on-one conversation, or reading and commenting on their blog posts, or giving them feedback on something before they send it out. Time may be the one resource that’s in truly scarce supply, so you want to choose wisely how you spend your time, but that’s also why people appreciate it so much.
+            - [[Alex Dobrenko]]
+                - Would love to bring the performance / comedy element into this. As a stand up comic, I'm seeing a lot of people put on some really rad online shows - a couple of whom have even talked about bringing them to these sorts of off site digital conferences. Would love to bring some of my knowledge and ideas from the worlds of improv, standup, and filmmaking into this. I outlined some of these ideas in the first Yak deck we did as well. 
+            - [[Alex Wagner]] - @alexdw5 on Discord
+            - [[Adhura Husna]] - Dura#7622 on Discord
+- Initial draft thoughts
+    - I’ve been approach by a handful of executives about how to best facilitate a ‘strategic off-site’ for a geographically distributed/isolated team—without it simply being a set of zoom meetings.
+    - Strategic off-sites are, in many ways, a bit of a joke (given the coordination tools we now have)—but it strikes me that many companies will have such events already scheduled. And right now many teams will be questioning their ‘identity’ and the ‘role’ they play in this unfurling new normal. There’ll be pressure for leaders to come up with a strategic ‘roadmap’ and or other forms of propaganda.
+
+    - Given that executives can’t gather at some venue to connect and discuss things in person, many will be working their way through a maze of vendor solutions and lame in-house hacks. They’ll be contemplating agendas rife with fiefdom politics, dense uninspired information and/or pseudo-fluff (like starting an event with 20 minutes of round robin gratitudes).
+    - It’s a mess—a perfect opportunity for the Yak Collective to offer some wisdoms.
+    - Initially, in the form of a handy whitepaper/playbook (or slidedeck). Then, potentially, as facilitators, provocateurs, architects, developers, thinking partners and so on.
+    - Specifically, I think we can help them to see/consider things they mightn’t otherwise have thought of. I imagine we can present something that isn’t the equivelant of a snazzy agency or consulting firm handling it all for them (producing what is effectively a staged performance with little client ownership), but rather: we can help them embrace the *principles* that allow them to **improv effectively** in the unfurling flux. To make online-offsites better than the real thing.
+    - I am currently working with a large division of a multinational architecture firm as they attempt to make the most of an online strategic offsite experience for a team of ~100 folks happening at the end of May. And, whilst I can flex into a lot of the intangible stuff (facilitation, symbols, narratives, principles, behaviours, values etc)—and while I can probably provide enough to create a skeleton outline of a playbook to get us started—there’d be __heaps__ of things I’d be missing. Which is why this thing would be infinitely better as a Yak Collective thing.
+    - Long story short: we can collectively make something by the end of May. A practical playbook of principles and provocations that enterprise leaders can use to rethink the strategic offsites they might otherwise have scheduled time for.
+    - Then, in early June as people are beginning to consider wtf they might do to rally together more effectively, the Yak Collective stands ready to assist.
+    - Let me know if anyone is keen to assist. I’m ‘Jason Fox’ on our discord and [@drjasonfox](https://twitter.com/drjasonfox) on twitter.
+        - Love this idea.  One interesting thing could be to integrate a visual storyboarding artist that can bring things to life via live drawings in a virtual format - [[Paul Millerd]]
+        - Very interested in consuming this content. Figuring this out will set a model for how smaller director and middle manager team "offsites" are facilitated as well - [[Isaac Wyatt]]
+- Resources
+    - Team building
+        - [15 Best Team Building Activities & Games for Remote Workers - Miro](https://miro.com/guides/remote-work/team-building)
+        - [5 of our favorite virtual team-building activities to grow a strong remote team - Hotjar](https://www.hotjar.com/blog/virtual-team-building-activities/)
+        - [The best virtual team building activities, according to real remote workers - Atlassian](https://www.atlassian.com/blog/teamwork/virtual-team-building-activities-remote-teams)
+    - Remote meeting tips
+        - [[what it takes to run a great virtual meeting]]
+        - [[tips for anyone new to 100% remote meetings]]
+    - Offsite
+        - [[why offsites should go virtual]]
+        - [[offsites that work]]
+        - [[Virtual Offsites That Work - HBR]]
+            - Same guy who wrote [Offsites that work](https://hbr.org/2006/06/off-sites-that-work)
+        - [[outsmart a crisis 7 steps to nail your strategic offsite]]
+        - [[virtual offsites: a collaboration approach for distributed teams]]
+        - [Sapling’s first Virtual Company Offsite - here’s what we learned](https://www.saplinghr.com/virtual-company-offsite)
+        - [How Planning a Virtual Offsite prepared me for COVID-19 Remote Work - Wikimedia](https://medium.com/@ItsJazTanner/how-planning-a-virtual-offsite-prepared-me-for-covid-19-remote-work-c0e92bb4fefb)
+        - [E-group offsite - Gitlab](https://about.gitlab.com/handbook/ceo/offsite/)
+        - [Remote Strategic and Adaptive Planning: Separate But Together - Align](https://aligntoday.com/remote-strategic-and-adaptive-planning-separate-but-together/)
+        - [The complete toolkit for Strategic Planning with Remote Teams](https://www.lucidmeetings.com/templates/complete-toolkit-strategic-planning-remote-teams)
+    - Events
+        - [[Events, tomorrow]]
+- **Project Status**
+    - [[May 12th, 2020]]
+        - **People interest**
+            - [[Ben Mosior]]
+                - What will replace in-person conferences. Curious about the underlying practices that make distributed conference-ish events possible.
+            - [[Thomas Verhagen]]
+                - Interested to think through the tactics of making offline offsites work.
+            - [[Vinay Débrou]]
+                - Exploring and visualizing the models of small community gatherings online and their implications
+            - [[Ryan Hume]]
+                - Interested in the user interface level of virtual social and professional gatherings
+            - [[Damian Stewart]]
+                - How to make replacement for ambient, serendipitous communication in a virtual tech event context
+        - **Definining offsites**
+            - **Three kinds of offsites**
+                - A **leadership** offsite (where leaders meet to discuss the more wicked/ambiguous challenges they don’t normally have time/headspace to consider, and where the outcomes are things like: refreshed vision/values/principles/behaviours/narrative)
+                - A **strategic** offsite (which is either like the NHS link you shared, with the outcome being a draft strategic ‘plan’; or a more scenario/explorative session, usually spiked with a futurist and creative facilitator, with the outcome being **options** or experiments to undertake)
+                - A **cultural** offsite (where teams are brought together for a shared experience to facilitate deeper connection/cohesion/belongingness and so on)
+            - **Characteristics of offsites**
+                - **highly symbolic and ritualistic** (this is where new narratives are cooked)
+                - **deeply culture/bond forming** (this is where distributed team members would rally together and bond over bread and wine)
+                - (ideally:) **esoteric and ambiguous** (a good offsite has teams of leaders staying in the generative tension of ambiguity; having the rare/wicked conversations they don’t otherwise get time to have)
+            - **"Steps" for a successful offsites**
+                - Consider the Before / During / After as important
+                    - The considerations that goes into an offsite before it happens can make or break it. Then the live event itself—how to flex improv, negative capability, trickster-spirit, divergence/convergence, coherence, cohesion etc etc. Then the aftermath—what happens next. #[[Jason Fox]]
+                - More in the "Resources" section
+            - **What's the market for offsites**
+                - Offsites are often towards the end of the year, often during or just after the annual planning cycle (often tied with financial year end)
+                - Offsites is not generally something the big firms go after as a market.... it's a boutique market often run internally by departments themselves or specific retreat-oriented firms I think
+            - **What are the current challenges**
+                - Many firms will try to put what as worked in person online which will fail badly
+        - **Defining the scope of the project**
+            - **What's the opportunity for Yak**
+                - it's a market waiting to be created... take all the weary, zoom-fatigued people and give them an online change of scenery #[[Venkatesh Rao]]
+                - Opportunity to re-enchant how we gather—that’s where I see us in the Yak Collective play very well. #[[Jason Fox]]
+                - I suspect there may be perspectives we can contribute that will make any senior leader feel more inspired/confident to do it (whilst also [[positioning]] the Yak Collective as a potential facilitation partner/guide). #[[Jason Fox]]
+            - **Who is this for**
+                - If we have in mind a senior leader who wants to gather their distributed team (virtually) for an offsite-equivelant, the lens for this collaboration would be to collect and collate pragmatic-yet-refreshing perspectives on how this can be done. #[[Jason Fox]]
+            - **What types of offsites are we targetting**
+                - Offsites broadly
+                - Specific type (leadership, strategic, cultural)
+                    - [[Thomas Verhagen]] what would be the more challenging type to run successfully in a virtual space? I figure answering that question might point to a 'to be solved' problem
+            - **What format are we producing**
+                - Collection of short essays addressing the 3 phases (ebook style)
+                - Deck with a playbook / guidelines
+                - Something more visual (infographic?)
+            - **How do we move forward**
+                - I’d suggest focusing on the content and perhaps actually running an “online offsite” or two in simulation mode, either with role players, or a willing guinea-pig company, before picking how to document it for potential paying clients. Nothing better than a validated playbook. #[[Venkatesh Rao]]
+                - Also—having percolated on @Venkatesh Rao (US Pacific)’s suggestion a bit—it strikes me that there’s more than enough potential for us to do a low-key online offsite as a Yak Collective—which I would be happy to host. After that dry-run we could do a semi-staged one wherein we invite clients along. Using a tool like crowdcast would allow us to keep it recorded, so it can live as a reference point. #[[Jason Fox]]
+    - [[May 14th, 2020]]
+        - Hey all, love where this is going. 
+- I realise my use of ‘tactical’ wasn’t quite right. I was more trying to differentiate this project from the 101 tips grifters peddle on LinkedIn. We’re well beyond that.
+- My world has been swallowed up a little by the online offsite I am currently helping a client facilitate. I am so used to winging it fox-like in real-time with clients (in the lead up and during the offsite). This has worked well for me the past 6 years or so. But now in this online space there’s so much documenting and screen-time and handholding. I’m adapting but finding I don’t quite have the capacity I first thought I would.
+        - Suggest we can do it like this:
+            - 1. We do a little online-offsite—super rough/mini, just this channel—via crowdcast.com (I can host a space and we can come up with a loose agenda).
+            - 2. Then we take our learnings and flesh out something a little bigger, for anyone in the Yak Collective.
+            - 3. Then we put it ‘out there’ as an open thing (potentially). Or we work with a client happy to play with us.
+        - Concerns: this feels webinary/showcasy. Most of our stuff is so intwined to our client contexts.
+        - Maybe we are okay with this concern—and I am okay with that. The result may be a little more performative but... yeah. One thing at a time.
+        - ![👍](https://discordapp.com/assets/08c0a077780263f3df97613e58e71744.svg)
+    - [[May 19th, 2020]] 18:56
+        - Participants
+            - [[Jason Fox]]
+            - [[Antoine Buteau]]
+            - [[Scott Allen]]
+            - [[Alex Wagner]]
+            - [[Grigori Milov]]
+        - To keep in the loop
+            - [[Ben Mosior]]
+            - [[Venkatesh Rao]]
+            - [[Thomas Verhagen]]
+            - [[Darren Kong]]
+        - Agenda
+            - Meeting goals: Align on scope, timeline, owner, other roles and responsibilities
+            - Brief introduction
+            - Recap on what was previously discussed in Discord
+                - 1. We do a little online-offsite—super rough/mini, just this channel—via crowdcast.com (I can host a space and we can come up with a loose agenda).
+                - 2. Then we take our learnings and flesh out something a little bigger, for anyone in the Yak Collective.
+                - 3. Then we put it ‘out there’ as an open thing (potentially). Or we work with a client happy to play with us.
+        - Discussion points
+            - Roundtable of introduction
+                - Antoine: work in leadership / strategy offsite
+                - Alex: Hanging around, think it's a cool topic
+                - Scott: Been working for 20 years in building virtual business environment and think trust is at the core of it
+            - Group talk about the Ask a Question
+                - Who is this project for, exactly? What are their ‘known spoken’ problems? (And: what are their ‘known unspoken’ problems?
+                    - Context:
+                        - Lots of tactical response right now on how to organize events, but tends to be performative and short -lived
+                        - Something that gets more at the collective emotional experience of an in-person experience
+                    - Options: 
+                        - Senior leaders looking at their calendar 10 months from now and don't know if they
+                        - Niche market, window of opportunity to serve companies that made a permanent commitment to allow people to work remotely
+                        - Yak collective internally
+                - What's the best format?
+                    - Options:
+                        - Doing an offsite for Yak collective 90min, 3hours
+                        - Repackaging the slide deck into an offsite?
+                        - Blocking a few weeks with couple sessions we merge cultural, leadership and strategic 
+                        - Doing it through a playbook with principles and guidelines to help senior executives 
+                    - Other Ideas
+                        - Replace wine and food with Fireside chat with
+                        - Brainstorming, workshop with outcome, social time to deepening connection
+                        - 4 90 minutes session during the day with semi or asynchronous and then you can come back. Concentrated but leave space to other things too.
+                        - Maybe help folks entering the new remote world - coax some new mythology
+                        - Alex: First, it should be very short, offsite and have Paul, Tom talk about the Yak Collective. Second, whatever Yak does, needs to be minimum viable project.
+                - What do we want our target audience to think/feel/do as a result of this project?
+                    - I had no idea we could do this, this seems like a reinvention of the landscape. 
+                    - Damn, I will have to get in touch with the Yak Collective.
+                    - Client wants to do something refreshing and new
+                    - Target: enterprise leader wants to be seen as a savvy thinker
+                    - Leaders have a starting point for replicating that in their group with their leads and then replicate that across the organizations
+                    - Experiential design is far more important than the tools
+                - What are some ideas for a minimum viable project
+                    - Figure out 3-4-5 experience blocks that would be part of it
+                    - One block of each of this experience as part of this MVP
+                    - Need to have some structured feedback as part of it. Your cost of admission is giving feedback. But needs to be deep feedback and be reflective. Yak needs to give some guidance around it.
+            - Next steps
+                - Think about what we have discussed
+                - Working a time for a bigger gathering in the next week
+                - Building principles and essential experience blocks that people
+        - Post-meeting TODOs
+            - Watch the video
+            - Review "Discussion points" above
+            - Answer the question below
+                - "Who is this project for, exactly? What are their ‘known spoken’ problems? (And: what are their ‘known unspoken’ problems?"
+                    - [[Antoine Buteau]]: I like the idea of the project being for senior leaders who just decided to work from home permanently and have to change a lot of their internal fabric. It's an opportunity for them to perform a mix of leadership x strategic x cultural offsite and rebuild that internal fabric.
+                - "What's the best format?"
+                    - [[Antoine Buteau]]: I'm thinking we should build a short playbook of principles and at the same time some kind of proof that we did it using the principles. 
+                - "What do we want our target audience to think/feel/do as a result of this project?"
+                    - [[Antoine Buteau]]: 
+                        - I had no idea online offsites could be as effective as in-person offsites
+                        - I am confident and I have the tools in hand to create an experience that will move my business forward
+                        - I think Yak Collective can help me in that process
+                - "What are some ideas for a minimum viable project"
+                    - [[Antoine Buteau]]:
+                        - Block one week with different short "experiential" sessions around a few topics
+                            - Some cultural sessions
+                            - Some leadership sessions
+                            - Some strategy sessions
+                        - Cultural seems relatively easy to do - fireside chat type session with mini breakouts
+                        - Strategy we would need to come up with a wicked problems part of Yak that we can solve as smaller groups
+                        - Leadership, we could ask Yak members what's not clear for them in terms of Yak mission, vision, long term objectives and have principals work on that then present prior to the fireside chat. Could be interesting if Yak members could assist without being able to comment (experience in radical transparency)
+                        - Then produce deck / playbook afterwards with our findings and recos
+            - Come up with options of a proposal and schedule a time with a bigger group
+                - Ask [[Venkatesh Rao]] or other Yak Shaver or Herder on what's the best setup to organize meeting time and tools
+                - If needed, get buy in from people that we see involved

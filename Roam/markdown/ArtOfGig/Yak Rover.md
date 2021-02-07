@@ -1,0 +1,145 @@
+- About:: __A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.__
+- Chief Page Wrangler:: [[Venkatesh Rao]]
+    - Additional Page Wranglers:: [[Anuraj R]] | [[Fname Lname]]
+- Created:: [[November 18th, 2020]] by [[Venkatesh Rao]]
+- Page Type:: {{or: #Project | #tk1 | #tk2 }}
+- Status:: {{or: Active | Proposal | Early Concept | Complete}}
+- Current State:: {{or: Started | Proposed | Draft | Stalled | Live | Finished | Abandoned}}
+- Last Updated:: [[December 9th, 2020]] by [[Venkatesh Rao]]
+- Last Gardened:: [[December 9th, 2020]] by [[Venkatesh Rao]]
+- [[Procurement Directory]]
+- [[Yak Rover Reference Materials]]
+- [[Yak Rover 2021 Builds]]
+- **Overview**
+    - **WHAT:** Yak Rover is a long-term Yak Collective [open-source hardware project](https://en.wikipedia.org/wiki/Open-source_hardware) to design and build a series of rovers culminating in a deployable Mars Rover by 2030 (ideally one major design iteration per year, starting with experimental versions in Year 1 designated X, Y etc., and culminating in Yak Rover 9 is Mars-capable). 
+    - **WHY:** The goal is to have fun pursuing a meaningful long-term project, while collectively developing skills and insights that will be valuable for consulting and gigs in a growth industry (driverless vehicles and autonomous robotics here on Earth). 
+    - **HOW:** The idea is to build up to that goal via a series of increasingly capable rovers starting with a design for a simple hobbyist-grade rover in Year 1, (similar to the [OpenROV](https://en.wikipedia.org/wiki/OpenROV) for example). ^^For Year 1, what we're really aiming for is a sort of learn-by-building-together party to get to know each other and the domain and converge on the actual project through hands-on trial and error.^^ Aim is to really start off as a set of individual projects that get into a jazz-style jamming together improv mode. You can participate simply by buying an off the shelf kit and building it with the rest of us, or get as ambitious as your skills will allow.
+    - **WHO:** If you're interested in this project for Year 1 (2021), [please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScYc87DYofGBGfjQAw14wsYWQMaYeh9LtWphNoqS3KX-JVpXw/viewform?usp=sf_link) to let us know your design inclinations, interests, and abilities. 
+    - **PHILOSOPHY:** Our goal is to produce buildable designs and real prototypes/test-builds at every stage, from simple cardboard mockups to individual home builds to more expensive and serious team builds. We will be trying to raise a decent budget for materials/equipment and also solicit in-kind donations, but your actual effort will be unpaid (unless of course we land consulting gigs on the strength of this project, which we can always hope and angle for).
+- ^^**Year 1 (2021) Plan** <--- this is the key section with all the details^^ 
+    - **GOAL:** Year 1 will be devoted to simply learning the rover building game by actually trying to build a set of first prototype rovers and build the knowledge, skills, resources, team, and network to actually attempt more serious designs. The expected output at the end of Year 1 is:
+        - A set of actual experimental rover builds (at least 2-3), all of which will be codnamed Yak Rover X, Y, Z etc as a family, despite large variations
+        - Sketches for a converged rough design for Yak Rover 1 based on shared learnings, to be fleshed out and team-built in Year 2
+        - An established project and team with a strong understanding of its own capabilities/gaps/learning needs etc.
+    - **STAFFING:** Project members will self-select into one of 3 core roles
+        - **BUILD LEADERS** commit to trying to build an actual "minimum viable starter rover" by the end of 2021, by any means necessary. This will be a starter/learning rover and each build leader will be relatively free to direct their own design with minimal project-level constraints. **Each build plan should be simple enough to be in principle doable by the build leader working alone.** All support from other project participants should serve to ease or accelerate the build or make it more ambitious. Such support should not be necessary to finish. ie: worst case is 1-person heavy lift, best case is  team serendipity.
+        - **COMPONENT CONTRIBUTORS** will commit to contributing one or more specific designs and/or fabricated elements (physical or software) to one or more specific builds, for eg, design and build the wheels for one rover, the electronics motherboard for another etc.
+        - **SHARED RESOURCE CONTRIBUTORS** will contribute resources they design/build/source/provision for the project as a whole. Examples of very useful potential shared resource contributions:
+            -  A simulation environment
+            - A test suite for motors
+            - A SLAM module that compiles on the compute platform of all the builds, 
+            - A comprehensive field testing plan, including proving protocols, location scouting etc, permissions that might be required to access test areas.
+    - **MANAGEMENT MODEL**: The management model will be a loosely synchronized roadmap, driven primarily by a shared track of technical knowledge building meetings. For eg., we might take take turns leading weekly meetings evaluating past rover missions, or leading deep dive discussions/tutorials/readings into specific topics like motors or navigation, but otherwise completely asynchronous and driven by the build leaders.** We should end the year as the most knowledgeable group on all things rover, outside of space agencies and university departments  or corporations doing research on rovers.**
+    - **EXECUTION MODEL:** The BUILD is the first class citizen of the Yak Rover project (program?).
+        - Each build leader will maintain their build design documents in the shared Yak Rover github repo, and manage their builds by dealing with pull requests/contributions from others. 
+        - Most detail level discussions are expected to be 1:1 between build leaders and component contributors. 
+        - Shared resource contributors will generally work alone, building something they hope will be useful to all builds, but strive to keep it highly relevant to actual builds. 
+        - Builds will be **highly** encouraged but not required to maximize sharing of outputs. So if you are a build leader, steal/copy/imitate as much as possible, and make your own output as easy to steal/copy/imitate as possible. A promiscuous orgy of design sharing should be the norm.
+    - **ROADMAP: **The build leaders will try to stick to a loose project arc as follows
+        - **First quarter: mise en place** develop detailed sketches, do exploratory experiments, hello world type things, evaluate and buy key components, flesh out the full BoM (bill of materials) and budget, do early testing/calibration of any components you buy (how much torque does your motor actually generate? are the published specs accurate? how much does it heat up if you run at full power for 15 minutes?). Do mockups out of paper/carbdoard, do rough back-of-the-envelope calculations/[fermi estimates](https://en.wikipedia.org/wiki/Fermi_problem) of key operational parameters for their builds like power budget, endurance, weight etc. Maintain a public lab notebook/build diary, ideally here on our Roam, so others can learn from what you're doing and maybe enjoy some laughs at your screw ups.
+            - **Q1 MILESTONE GOAL, March 31**: Produce nice sketches that can be published as a sort of Da Vinci notebook (if an artist is available they'll help turn working sketches into a stylized publishable notebook). Something YC marketing and our network can go shopping for sponsors/clients with.
+        - **Second quarter: first things first**: detail-spec and build out whatever is the key strategic subsystem for the build, so system design constraints start becoming clear. For eg. if a build is focusing on mechanical aspects and is focused on a sophisticated rocker-bogie undercarriage with six independent drive motors, then that subsystem and motor control board should be built first. If a build is focusing on AI and path planning, it might choose to start with an off-the-shelf cheap physical RC-car and focus on programming a navigation module.
+            - **Q2 MILESTONE GOAL, June 30:** A video of a strategic subsystem test
+        - **Third quarter: coffee is for closers**: finish the design and do a full test-assembly by adding all the rest of the elements of the design.
+            - **Q3 MILESTONE GOAL, Sept 30:** A video of a first test drive of the completed rover, even if all it does is move a bit in a straight line. 
+        - **Fourth quarter: ABV: always be validating** Testing and proofing, via a suitable suite of capability tests (eg. power endurance, specific tasks, robustness/crash), with a view to contributing data/insight/ideas/architectural commitments to the Yak Rover 1 design. 
+            - **Q4 MILESTONE GOAL, Dec 31, 2021:** A "Rover festival" video of all the test builds doing their thing.
+        - **Y1 MILESTONE GOAL/Y2 Kickoff Jan 1 2022: **A first publication of a set of design sketches for Yak Rover 1, supported by the "Rover festival" video from the Q4 milestone.
+    - **Component contributors and shared resource contributors** will try to do whatever they do in support of the build leader project arc, and their contributions will be featured as part of the build milestones. They will have no independent "path to market" -- if your contribution doesn't show up in a build milestone in some form, it doesn't show up at all
+    - While people with meta skills like project management/architecture or adjacent skills like science communications are welcome, the core is hands-on contributions.
+- [[Year 1 meeting notes]]
+- **Year 2 (2022) Plan**
+    - Year 2 will be devoted to refining and building the converged design from the end of Year 1. The YE milestone will be a field test.
+- **Years 3-10 Roadmap**
+    - To be fleshed out obviously, but the goal would be to get to increasing levels of capability, cost, and external financing, and building out of the "friends of the project" network to the point that we have a realistic chance of actually getting a seat on a rocket going somewhere interesting.
+- **Scratch (the following sections of the project page are under development)**
+    - Missions
+        - Inspection
+        - Troubleshooting
+        - Survey
+        - Sample collection
+        - Self-inspection
+        - Self-repair
+    - Yak W1 rough design
+        - Chassis
+            - Fits in a 60cm x 30 cm x 20 cm cuboid
+            - 3-wheel tricycle with solar panels
+            - Main chasis will be an alumimum perf board with flexible capacity for holding stuff
+        - Drivetrain
+            - 2 independent drive motors for the rear wheels, steering via third wheel
+        - Power subsystem
+            - Solar panels
+            - LiIon battery pack
+        - Sensors
+            - "Whisker" based proximal obstacle sensing
+            - LIDAR?
+            - Radar (can we get cheap enough?)
+            - Drive cameras
+        - Navigation and control
+            - GPS
+            - SLAM style local navigation
+            - Stored map for deployment zone
+        - Communications
+            - Starlink WiFi
+            - Continuous telemetry of system healthy
+        - Payload
+            - Gimballed surveying camera (dual use for self inspection)
+            - Maybe some sort of atmosphere sensor, like pollution?
+        - Compute
+            - RPi for general compute (2x redudant maybe?)
+            - Might need a couple of Arduinos for microcontroller needs and also fallback basic behaviors mode if the compute or comms fail
+        - Software stack
+            - System health and diagnostics
+            - Comms
+            - Failure mode id and recovery/reconfig
+            - Basic path planning and navigation
+            - API-controlled payload ops
+            - etc.
+    - Tests
+        - Mobility
+            - Climb a 45 degree gradient
+            - Climb a 30mm high step
+            - Clear obstacles 50mmX50mmX50mm under chassis
+            - 45 degree roll without toppling
+        - Physical robustness
+            - Can survive 1m drop without damage
+            - Can survive falling objects up to 50 grams
+        - Power
+            - Last 1 hour at full power in the dark
+            - Last 6 months in minimal power draw hibernation
+        - Electronics
+            - Can survive failure of any single component ((2x redundancy full)
+    - Rover API for remote operations
+        - This page compiles information on an API on rovers to perform remote (and local) operations (e.g. over a network).
+        - Brainstorming requirements
+            - Operations for remote controls. E.g. someone in Uppsala can execute a program on a rover in Belo Horizonte.
+            - Remote debugging
+            - If we can identify a basic set of operations (forward, left, etc), provide a "standard" software interface definition, for all rovers to implement. The intent is to facilitate exchanges related to software, decoupling local innovation (special skills in the rover) from global innovation (generic algorithms like obstacle avoidance or "follow me").
+            - Remote monitoring / logging
+        - Pending questions
+            - What is overlap between the API we are discussing and the API a final mars rover would have?
+            - Where would the computing power (e.g. for AI, image processing) reside - at sender, at bot, at a location near the bot (for now cloud) ?
+        - Breakdown into software components
+            - The Rover API is likely to be 3 APIs
+                - Internet API for remote calls.
+                - Client API on the rover: Used by the internet API, and by any other client (mobile phone, client application running on the rover).
+                - Brain API on the rover: Hooks for the Rover API to forward operations to the actual rover code, and get results back (e.g. code to get images from the rover eyes).
+        - Early Attempt: Simple remote control for HiWonder SpiderPi:
+            - https://www.hiwonder.hk/products/robosoul-spiderpi-ai-intelligent-visual-hexapod-robot-powered-by-raspberry-pi
+            - 1 online, but unusable yet (no API written @2020-12-21; issue with login to the bot (HiWonder contacted)).
+            - API coverage:
+                - Web-like API with RESTful JSON endpoints.
+                - Basic operations:
+                    - Up, Down; (the spider can lift its body up/down)
+                    - Forward, Backward;
+                    - Crab-left, Crab-right;
+                    - Turn-left, Turn-right;
+                    - Camera on/off
+                    - Camera reading/streaming
+                    - Proximity sensor reading/streaming
+                    - OS stats
+                - WIP examples:
+                    - PUT /api/v1/height/34: Lift the body up to 34% elevation.
+                    - GET /api/v1/defaults: Gets the default values.
+                    - PUT /api/v1/defaults/height/34: Set default body elevation to 34% elevation.
+                    - DELETE /api/v1/height: Reset body to default elevation.

@@ -1,0 +1,88 @@
+- [[YC Marketing - distributed CMO]] Kick-off meeting at 2:00 am (UTC+1) #meeting-notes
+    - **Goal**: establish ways-of-working, priorities and next steps
+    - **Location**: Discord General voice channel (unless you prefer google meet - let me know)
+    - ### Participants:
+        - [[Hugo Macedo]] 
+        - [[Grigori Milov]]
+        - [[John Grant]]
+        - [[Maier Fenster]]
+        - [[Matthew Sweet]]
+        - [[Sachin Benny]]
+        - [[Thomas Hollands]]
+    - ### Agenda
+        - quick intro
+        - Ways-of working
+            - Meeting minutes?
+            - weekly call? when?
+            - Use Roam and discord
+            - Workstreams
+            - Fish for volunteers and expertise - harpoon or net?
+        - What's the CMO function
+        - Priorities
+            - Important vs. Urgent
+                - Important - "[[Foundations - Positioning]]
+all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning"
+                - Urgent - "[[Showcase Projects Launch]]
+how do we launch showcase projects to maximize target visibility and engagement"
+                - other 
+                    - "[[Marketing Channels]]
+where and how do we communicate and engage with the target audience"
+                    - "[[Marketing Resources]]
+artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") "
+    - ### Minutes
+        - [[Hugo Macedo]] 
+            - "What's the CMO function" - pragmatic aproach on identifing the needs and grow from there...
+            - internal vs external marketing - how to create a virtuous cycle  
+            - Focus on fundamentals:
+                - clarifying how we position ourselves
+                - how we message
+                - how we launch the new projects — do this in parallel with above
+                - bottom up approach: "identify what is key, and go from there"
+                - marketing resources — how do we build brochures and ways to communicate
+        - [[Maier Fenster]]
+            - problems that CMO can help solve
+            - problems not listed yet
+                - ... (to be edited)
+            - Maybe we can relaunch the previous projects 
+            - we're different things for different people
+                - we're diverse by nature
+                    - client diversity
+                    - yak diversity
+                    - offering has diversity
+        - [[Grigori Milov]]
+            - what was the results of latest project launch
+            - understand what worked what not - opportunities
+            - Governance 
+                - How do we decide - how do we work with Project cells
+                - we should not be a gatekeeper or anything that adds friction
+                - How do we know that we are actually in a position to help? E. g. are we familiar with different channels that sci-fiction writers and publishers are using? Can we ramp up our presence there before the AS launch? How? Is it going to be helpful for YC as a whole? [[Grigori Milov]]
+        - [[Thomas Hollands]]
+            - dif project have dif target 
+            - focus on fundamentals
+But what are the fundamentals in our very unusual case? [[Grigori Milov]]
+        - [[Sachin Benny]]
+            - Understanding the Innovation Consulting Project target launch experience
+            - how do we measure?
+                - should be new member or new client/project
+            - we should work on small teams
+                - [[Astonishing Stories]] is close to launch 
+                    - {{[[TODO]]}} book a some time to go over AS launch plan
+                    - 
+        - measure: are we creating buzz this creates leads this creates project conversation 
+        - we get awareness from the people that have (e.g. @vgr) but can we do more?
+        - What do we talk about when we talk about Yak Collective
+        - {{[[TODO]]}} check [[Movement Marketing: 4 Strategies For Sparking A Brand Movement]]
+            - [Movement Marketing](https://www.strawberryfrog.com/movement-marketing-4-strategies-for-sparking-a-brand-movement) ref by [[Grigori Milov]]
+        - What do we need to do?
+            - [[Showcase Projects Launch]]
+            - [[Marketing Channels]]
+                - Social Media
+                - Newsletter
+            - [[Foundations - Positioning]]
+    - ### Next Steps:
+        - Newsletter - there's a call [[September 30th, 2020]] about status and next steps - we'll go from there
+        - "{{[[TODO]]}} book a some time to go over AS launch plan" [[Hugo Macedo]] [[Sachin Benny]]
+        - {{[[TODO]]}} book weekly call [[Hugo Macedo]] 
+        - {{[[TODO]]}} Share initial Workstreams [[Hugo Macedo]] 
+        - "{{[[TODO]]}} check [[Movement Marketing: 4 Strategies For Sparking A Brand Movement]]" - homework - you can leave comments on the bottom page [page](((hzY3KSaDj)))
+        - 

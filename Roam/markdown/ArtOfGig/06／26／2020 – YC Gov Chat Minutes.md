@@ -1,0 +1,73 @@
+- Text: https://nymag.com/intelligencer/2020/06/white-fragility-racism-racism-progressive-progressphiles-david-shor.html
+- 
+- ## Discussion
+- [[John Grant]]
+    - Is slacktivism making us less civilized?
+        - Virtue signaling a probable mask for fear.
+- [[Jordan Peacock]]
+- [[Khalil G. Haddad]]
+    - "There's some sort of social cohesion that's reforming in our society."
+        - No openness for debate closes off possibilities for communities to connect and exchange.
+        - Current moment harkens back to Chinese Peoples' Revolution
+- [[rayisonit]]
+    - Concerned with identity. Urban/split
+        - College-educated whites vs everyone else
+        - "Antiracism is a new religion?"
+        - The American Dream is a pastoral and suburban dream
+- [[Sachin Benny]]
+- [[Scott Garlinger]]
+    - "Twitter is becoming the HR department"
+        - Twitter's role enforcing political correctness in the public sphere
+        - [The Organization Man](https://www.semanticscholar.org/paper/The-Organization-Man-Whyte/7a17628ca79886bf65b00ed31809a2a76f258381) – The idea of you can work as a c-level and go off and live your life in private.
+            - Twitter challenging this ideal.
+- [[Thomas Verhagen]]
+    - Context to my thoughts: I take this call from my living room from where I have a direct view on the parking spot where [film maker Theo Van Gogh was murdered by extremists in 2004 for offending puritanical views](https://allthatsinteresting.com/theo-van-gogh).
+    - The article & current dynamic makes me think of some unpleasant techniques used by the Jesuits in the counter-reformation. 
+        - The association comes from wokeness' combination of:
+            - A) [sophistry](https://en.wiktionary.org/wiki/sophistry)
+                - Historically in Europe, Jesuits were notorious for their order's refined grasp of rhetoric and political operation (double think), as well as double dealing 
+            - B) obligatory introspection 
+                - Jesuits to this day have a highly structured method to inspect their own (and other people's) conscience:
+                    - Daily meditation 
+                    - A double examination of one's conscience (or 'prayer of life')
+                    - At least twice in one's lifetime the full 30 day [spiritual exercises of saint Ignatius of Loyola](https://en.wikipedia.org/wiki/Spiritual_Exercises_of_Ignatius_of_Loyola) 
+                    - At least once yearly the shortened form of these spiritual exercises (8 to 10 days)
+    - A tradition of anti-hegemonical artists (such as Theo van Gogh) put much effort in countering what they believed to be the hijacking of people's conscience and the public domain by puritan believers
+- [[Venkatesh Rao]]
+    - The reactionaries call this sort of culture "the cathedral" – the progressive-lefts collection of unchallengeable beliefs.
+    - Any institution that's vulnerable to being cancelled, is not an "anti fragile" institution. This is a good thing. This will encourage people to create institutions that can withstand these attacks.
+- [[Chris Reid]]
+    - Looking at the statistics of the tweet on twitter.
+        - Is this a "mass action" or an "elite action"?
+            - The tweet was not viral initially.
+            - Replies had varying degrees of snark but not much more. 
+        - Nick Land and associates fixated on the sharing of violent crime videos (contra police brutality videos being shared elsewhere). 
+        - Current Facebook boycotts (liberal-leaning) vs 2016 conservative FB boycotts
+        - Most frame it as a partisan situation, but it may be systemic.
+- [[Claire Peters]]
+    - Two problems in leftist circles and institutions
+        - Unwillingness to recognize that opportunists will be a problem
+        - Sloppy heuristics being solidified into institutional frameworks
+            - Is there a way to create heuristics that bring things back to center, as opposed to oscillating more wildly?
+- [[Jake Gotts]]
+    - Slatestar Codex as an example
+        - Good forums where rational, engaged debate are possible
+- [[Jordan Peacock]]
+    - There's a very strong separation between the elite conversation around race, and the on-the-ground, multiethnic movement
+    - The cozyweb, managing your internet use to filter out the cortisol-inducing clickbait, etc
+    - Christian Pacifism
+        - What happens at Yak Collective when, a significant contributor gets outed, accurately as a Nazi/rapist/or other legitimately-problematic actor gets called out?
+- [[Sachin Benny]]
+    - Most sufficiently large political movements seem to be taken over by sociopaths and grifters when it reaches some scale or it kind of fizzles out without any leader
+    - most memes such as Karen meme or the phrase white fragility seems to evolve into something racist/sexist/stereotype
+- [[Venkatesh Rao]]
+    - This will be a recurring conversation. The way to deal with these issues is to bring them into the light.
+    - Instead of making rules, let's have a continuing, evolving, intelligent conversation around these issues.
+    - What other experiments are being tried with regards to these problems?
+- [[Jake Gotts]]
+    - Building a community trying to solve some of these problems
+- [[Jordan Peacock]]
+- [[Hershil Patel]]
+    - What things get amplified by artificial means, ie Twitter bots? Other examples?
+- [[Thomas Verhagen]]
+    - "Maybe institutions vulnerable to being cancelled are due for the scrapyard anyway."

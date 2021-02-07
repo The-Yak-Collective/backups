@@ -1,0 +1,76 @@
+- **Text:** https://www.jofreeman.com/joreen/tyranny.htm
+- 
+- ## **Two Prompt Questions:**
+    - 1. This article is from 1970, what other recent examples do you know of personally (eg: Occupy and Valve are well known)
+
+2. This article is pre-internet, and the internet changes things clearly in many ways. How?
+- 
+- ## **Discussion**
+- [[Alex Wagner]]
+    - How to do develop and encourage "emergent friendship behaviors" in online communities?
+- [[Ben Smith]]
+- [[Chris Reid]]
+    - With advent of internet, it's easier to share language.
+    - Small groups can manage structurelessness. If you're "anti-something"(destructive project), much easier to create online community. Harder to build than tear down.
+- [[Greg Kramer]]
+    - Agile movement, Yak,
+- [[Grigori Milov]]
+    - 1. [Agile Manifesto](https://www.scrumalliance.org/resources/agile-manifesto) is similar to this, exploded recently.
+    - 2. Volume of information exchange between people. Rapid exchange of information possible makes some problems more acute. Look at Facebook, very much __not__ a democratic organization.
+- [[Hershil P ]]
+    - On friends and elites:
+        - In current times, elites is more than that: "political group with intent to exclude others"
+- [[John Grant]]
+    - Hyperpartisanship
+        - https://media.discordapp.net/attachments/698566364595486720/723574047082020864/Why_were_not_yet_ready_for_governing_in_public_in_times_of_crisis.png?width=1386&height=916
+- [[Jordan Peacock]]
+    - 1. DSA Chapter in Minneapolis. Non-ballot org, affinity org, to combat tyranny of structureless. Still challenging.
+        -  On board of neighborhood organization. Challenge of geographically determined set. 
+- [[Khalil G. Haddad]]
+    - 1. Working in non-profit realm. Idealist notion of consensus-based decision-making. Natural, visible elites form in non-profit world.
+        - ICO projects: indie vs VC-backed.
+            - There's a necessary structure to scale.
+            - [The Sovereign Individual](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720)
+    - 2. The talent pool. "Forming a city-state within the cyber-economy".
+        - Friendships will occur naturally. Ingroup-outgroup
+        - [The Peter Principle](https://en.wikipedia.org/wiki/Peter_principle)
+- [[Sachin Benny]]
+    - Some things have remained the same w regards to groups and structurelessness, shared language and taste creates it's own homogeneity.
+    - Client feedback on Neurofuturama was a valuable experience for getting critical feedback, testing the Neurofuturama groups ideas.
+    - Studying the political movement for gay marriage. It happened in fits and starts, not one singular chain of events.
+- [[Scott Garlinger]]
+    - 1. Reddit "Rules of Engagement", art group online collectives. 
+- [[Darren Kong]] 
+- [[Venkatesh Rao]]
+    - Organizing a conference – something that's easy to do with a structureless group.
+        - The tools have become so much more powerful, you can accomplish much more with structurelessness.
+        - Flip-side: "It's become impossible to increase governance at the same rate"
+        - Shift from 1950's "command-and-control" to things looking more like a marketplace.
+    - Is this a good thing or a bad thing?
+        - 2 reasons to go towards structurelessness:
+            - 1. Ideology: Anarchists/communists
+            - 2. Laziness
+        - Internet of Beefs context
+            - Example: The medieval battlefield 
+                - Main form of communication was visual signals – a flag
+                - Irregular soldiers rallying to the flag
+                - If you capture the flag, you win the battle
+            - The analogy to capturing the flag, is having a project
+                - "If you want to do something, you run up a flag"
+                    - Anyone who wants to participate can opt-in towards the flag.
+- [[Jordan Peacock]]
+    - In context, Carse's Finite and Infinite Games:
+        - Finite: We can accomplish x.
+        - Infinite: Meta-level, vision-level.
+    - By-Laws vs Constituting power
+        - Process of amending a constitution vs forking
+            - With regards to Yak future, what is the possibility of Yak being reshaped by future members?
+- [[Khalil G. Haddad]]
+    - In response to Venkat proposing marketplace-style model – "social capital of Yak creates implicit structure".
+- [[Darren Kong]]
+    - Social capital is the nexus of structurelessness, but doesn't necessarily equal good intentions or skin in the game.
+- [[Venkatesh Rao]]
+    - We will continue to revisit this problem in #governancechat
+    - We should read something about Holocracy and recent versions of this problem.
+- [[Greg Kramer]]
+    - [Holocracy at Zappo's article](https://bit.ly/30WLlwz)

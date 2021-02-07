@@ -1,0 +1,113 @@
+- Subtitle: From Covid19 Reboot to Climate Action
+- Title is a reference to the meme that did the rH oounds... and we'll own it.
+- An action plan to parlay the momentum of necessary responses to covid into desirable climate action stuff
+- Format will be same 2-slides/idea format as [[Don’t Waste the Reboot]] but with more top down color-by-numbers direction to it and specific “beats” to cover like business air travel, circular economy, office space etc, and a checklist of base†ns each idea must cover
+- Add your name and any quick starter thoughts in here if you want to contribute
+    - [[Nita Baum]]
+        - Also, doughnut economics and other holistic, integrated models 
+            - https://www.kateraworth.com/doughnut/#
+        - Idea for a beat - applications of climate change/renewable energy tech to disaster resiliency and preparedness in infrastructure planning/building, hospitals, emergency care facilities 
+            - https://www.solarresponders.org
+            - at SR, we place solar tech + battery storage on first responder stations (fire, emergency ops, police) in Puerto Rico; applications here in the US are more complex currently cuz of policy/regs but would also make sense in places like CA/CO where wildfires happen due in part to overground powerlines 
+    - [[Thomas Verhagen]]
+        - Ensure that relevant, actionable slides are included for all [[sizes]] of organisations ([[SME]] to [[multinational]])
+            - Challenges and agency will vary
+            - I believe it will be helpful to clients if this is reflected throughout the deck
+            - With clear reading guidance to help them navigate to the most relevant stuff)
+        - Something about [[science communication]], which is different from [[sciencing]], underfunded, underunderstood, underappreciated, and at least as important to achieve short- to midterm [[societal]] [[actions]]
+        - Include the [[leadership]] aspects of [[climate action]], including  [[psychological]] and [[spiritual]] integration 
+            - Disclosure: I've observed this, really rather intractable, aspect as being crucial in the work of [[CISL]]
+        - Include [[biodiversity]] & [[climate]] [[nexus]] (arguably the big kahuna, [[commentariat]] pressure was expected to increase on this topic in the next 12 months or so, then [[covid 19]] happened).
+        - Include [[supply chains]] (so not just [[scope 1]] and [[scope 2]])
+        - Include both strategic [[sense making]] & [[planning]], as well as [[tactical ]]how-tos ([[metrics]], etc. )
+        - Include dedicated slides / sections for [[specific industries]], including [[hard to abate industries]]
+        - Include one or more pieces on how clients might latch on to the [[European Green Deal ]][[money pots]]
+        - [[Green jobs]]; exhibit different properties from the average job (f.e. higher levels of education, work experience and on-the-job training, regional clustering). What does that imply for labour market & learning? 
+            - Do green jobs differ from non-green jobs in terms of skills and human capital? - Consoli et al. https://www.sciencedirect.com/science/article/abs/pii/S0048733316300208
+            - Measures, Drivers and Effects of Green Employment: Evidence from US Local Labor Markets, 2006-2014 - Vona et al. https://academic.oup.com/joeg/article-abstract/19/5/1021/5057173
+            - The greening of jobs in Germany First evidence from a text mining based index and employment register data - Janser http://doku.iab.de/discussionpapers/2018/dp1418.pdf
+        - Include the [[financing]] aspects of climate action at the various scale levels. Firms will need to make investments to transition. 
+            - Technologies, products, business models will be unproven
+            - Financing structure varies from region to region globally (lots of publicly traded debt -bonds- in the US, mainly banks' lending book in continental Europe, East Asia also much via banks' lending books)
+            - All of the above a challenge to businesses, how to approach strategically?
+        - Include one ore more pieces on how clients might latch on to the [[just transition]]
+    - [[Johnnie Fergusson]]
+        - Include an updatable post Covid scenario analysis link.
+            - [[Thomas Verhagen]]: maybe link this up with the Situation Normal: N Futures proposal by [[Jordan Peacock]]?
+                - https://roamresearch.com/#/app/ArtOfGig/page/UJCHiBVE8 
+        - Include how to resource change - re-imagine and re-cast a range of financial and skills resource options and applications.
+    - [[Christian Bacher]]
+        - What can Climate Action learn from Covid Action (as the latter led to attention, behavior changes, unbelievable-high budgets, fast regulatory action, ....)
+        - The priorities, or what is the appropriate ranking of the following vectors?
+            - the 17 UN __SDGs__, i.e. Affordable and clean energy?
+            - the __sectors/industries__ causing environmental externalities, i.e. Oil extraction
+            - the part of the __value chain__, i.e. production, logistics, operation, planning
+            - the __technologies__ to solve the problem, i.e. [[Blockchain]] (see Powerledger.io), [[SaaS]], [[IoT]], 
+            - the (appropriate ranking of) sciences/scientific approaches: physics/climate science vs. economics (behavioral + theoretical/math based)/social sciences vs. philosophy vs. anthropology vs. communication/culture vs. (of course) theology/ethics ...
+        - As climate action comes in waves but once campaigns/trends let go their momentum, greenwashed corporate lipservices kick in - So, how to avoid greenwashing for now and ever
+        - How not to talk about a Climate Crisis but turn climate action into something very attractive & positive, relating to quality of life, personal growth, etc.
+        - How to sort the buzz words: 
+            - Circular Economy, 
+            - Renewable Energy, 
+            - Fighting Plastic, 
+            - Carbon Ledger, 
+            - Stranded Assets, ... 
+            - Often notions turn to headlines without clarifying what they have in common, how they relate to each other, what may me a priority what just a side story.
+        - More on technology notions (a bit unsorted, non-exhaustive)
+            - Cradle to cradle
+            - 2nd Generation Renewables (or the fact that energy could be a free public good, like oxygen)
+            - Mega-Solar-Power
+            - Hyperbatteries
+            - Moleculeering / neo-materials
+            - Carbon Harvesting
+            - Intelligent streets (example: https://elonroad.com/)
+            - Bio-Powerfuels
+            - Hydricity
+            - Climate-resilent architecture
+            - ...
+        - If the science is there how then to motivate for a behavioral/societal change (idea: technology is available, but not the will for change --> what's the matter? >> more search into Kahnemann et al., Game theory, Systems theory, complexity reseach, etc. )
+            - Steer societal/behavioral change (I think that would be my core interest for this slidedeck)
+                - moralism does not work, but what your neighbor does: the value of role modelling & storytelling
+                - the impetus of science: what climate-science can learn from Covid19-science
+                - moving away from talking about __guilt__ and __romanticizing__ nature
+                - the __ecological meme__ - climate action as act of liberation (from a __too-much__) and creation (contrary to austerity, scarcity, win-lose-thinking, moralism)
+                - __humanization__ of context - climate action builds a fundament for a (new?) sort of practical + existentially relation between human beings (or in other words: Covid19 makes us aware of a belongingness to the same one nature)  
+                - ... 
+            - Blue as the new green
+            - Positive Psychology (following Martin Seligman et al) and the ecological age (see latest book: Homo Prospectus)
+            - Identify societal tipping points (i.e. readiness for change)
+            - Efficiency vs Effectiveness (nature is effective & resilient, but not efficient)
+            - Corporate contexts, not so much about "green": Unicorns vs. Zebras (https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96) 
+            - The movement of __Solarpunks__ (https://www.rewire.org/learn-solarpunk-movement/) 
+            - The logic of intelligent consumption/wasting (following thoughts of Michael Braungart and his approach to __Cradle to Cradle__ within the area of Circular Economy)
+    - [[David McDougall]]
+        - "Natural" businesses are human scale
+        - Charlie Stross' ["we are living in the aftermath of an alien invasion"] (http://www.antipope.org/charlie/blog-static/2010/12/invaders-from-mars.html) talks about the system level of non-human actors, but we can also think about this at the level of companies as actors
+            - "Individual atomized humans are thus either co-opted by these entities (you can live __very__ nicely as a CEO or a politician, as long as you don't bite the feeding hand) or steamrollered if they try to resist."
+        - human-scale, transparent supply chains are now a competitive edge
+            - Shorter, more transparent supply chains decrease exposure to risks and leave companies better prepared for potential future regulation https://www.bloomberg.com/news/articles/2020-05-01/green-brands-out-ahead-of-fashion-s-post-coronavirus-recovery
+        - Machine-optimized, machine-legible efficiency will be less important as machine-optimized systems are increasingly prone to Layer 8/9/10 errors (See: [Layer 8](https://en.wikipedia.org/wiki/Layer_8))
+            - I'd like to coin a "[[Layer 11]]" - global/environmental. 
+                - This needs a lot more thinking through. Is "Nature is healing" a way to say that Layer 11 is implementing a [Chaos Monkey](https://netflix.github.io/chaosmonkey/) approach to (global-level) system security?
+                    - "Chaos Monkey is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures."
+                - Since Layer 11 includes both black swans and white swans, we can potentially think of it as the Swan Layer, although I think as a terminology it removes the numerical elegance from the original 7 or 8 or 10 layer model
+            - moving from an antihumanist conception of progress to a humanist one 
+                - I'm thinking of these terms in the way they're used in Marxist discourse: antihumanism is fundamentally systemic in its approach, its critique, and its understanding of agents of change; humanism is fundamentally human-centred
+                - Also: _City is healing. Cars are the virus_ https://twitter.com/KevinSimler/status/1257795401832226816
+    - [[Antoine Buteau]]
+        - I'd like to discuss a set of interrelated paper by Sandra Waddock on the Large System Change field
+            - [Large System Change: An Emerging Field of Transformation and Transitions](https://www.semanticscholar.org/paper/Large-System-Change%3A-An-Emerging-Field-of-and-Waddell-Waddock/13365dfefcca12cee2a6230897038fcdbe6e4a4b)
+            - [Foundational Memes for a New Narrative About the Role of Business in Society](https://link.springer.com/article/10.1007/s41463-016-0012-4)
+            - [Narrative, Memes, and the Prospect of Large Systems Change](https://ideas.repec.org/a/spr/humman/v3y2018i1d10.1007_s41463-018-0039-9.html)
+            - [What gives life to large system change](https://journals.sagepub.com/doi/abs/10.1177/1086026619842482)
+        - The goal would be to recognise that the systems are complex adaptive systems in which change is continuous and emergent, but directions can be supported through forcing change, supporting change, paternalistic change, or co-creating change.
+        - I would adapt this framework to the action plan to parlay the momentum of necessary responses to covid into desirable climate action stuff
+    - [[James Crook]]
+        - **Action Plan:** I'd like to explore how to turn a company from optimising for $$$ profit to optimising for something subtler - and healthier - for its people and the planet.  Covid is an opportunity for companies to shift in that way, without losing their investors.  I'm thinking along the lines of a 2 slide module 'What companies should learn from immunology'.
+    - [[Rok Pregelj]]
+
+
+        - I was impressed by the idea of The Second Domistication of plants and animals. Disrupting the cow/animal as protein source and instead domesticating microorganisms as the base for fermenting proteins/foods of the future. 
+        - 
+        - I like some of the thoughts posed in RethinkX's "rethinking food and agriculture for 2020-30. Especially with COVID probably coming from caged animals is a big shout out to the new normals of new protein.
+        - https://static1.squarespace.com/static/585c3439be65942f022bbf9b/t/5d7fe0e83d119516bfc0017e/1568661791363/RethinkX+Food+and+Agriculture+Report.pdf?fbclid=IwAR33aWLkQmibeYjNEPK_NfZauu60HpXZyPwnSXs2xMXCckdv3QWpxRhp9NA

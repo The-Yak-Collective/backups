@@ -1,3 +1,0 @@
-- Data scientist with machine learning, engineering, leadership, product and strategy expertise.
-- I help companies find commercial opportunities for machine learning, build production-ready systems, and integrate them into products and services.
-- https://ollieglass.com/  [@ollieglass](https://twitter.com/ollieglass)

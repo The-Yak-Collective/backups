@@ -1,7 +1,0 @@
-- sense-making
-- cognitive learning: conceptual knowledge, structures, procedural knowledge(bag-of-tricks),
-- affectative learning- friends, coach, ---
-- writing types by David Perell: observational, playful, personal
-- narrative building in writing  --affectative 
-- writing to understand or to writing to explain
-- kindling (generative notes) -- to use for setting-fire (writing a fiery essay)--- warmth (indicator: will get weird inbounds)

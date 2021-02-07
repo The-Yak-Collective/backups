@@ -1,5 +1,0 @@
-- Founder & CEO of [The MVMNT Group](https://mvmntgroup.co/), a Chicago-based Freight Matching & Visibility startup for the NA OTR Trucking Industry.
-- Executive Director of CityScape NFP, an arts nonprofit focused on integrating art into the urban environment in areas typically reserved for public advertising.
-- I'm particularly interested in the intersection of supply chain and technology, and finding ways to apply technological concepts/advancements to the historically underserved North American Logistics market.
-- I'm also an avid snowboarder, tabletop turo-nerd, am passionate about both auditory and visual art.
-- [Twitter](https://twitter.com/divinix_chi) // [Instagram](https://www.instagram.com/divinix/)

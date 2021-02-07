@@ -1,3 +1,0 @@
-- xref: #skills
-- members:
-    - [[Maggie Appleton]]

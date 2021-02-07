@@ -1,5 +1,0 @@
-- [Alan Weiss' 101 Questions for Any Sales Situation](https://alanweiss.com/101-questions-for-any-sales-situation/) is a good place to start
-- Also see The Futur's YouTube channel for the art of client calls, and how to sell strategy.
-    - Links:
-        - [First Client Meeting: What Should You Do?](https://www.youtube.com/watch?v=ot8GVe3m5w0)
-        - 

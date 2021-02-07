@@ -1,0 +1,15 @@
+- About:: all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [[YC Marketing - distributed CMO]] 
+- Chief Page Wrangler:: [[Hugo Macedo]]
+    - Additional Page Wranglers:: 
+- Last Updated:: [[September 22nd, 2020]]
+- Last Updated By:: [[Hugo Macedo]]
+- -----------------------------------------------------
+- 
+- 
+- **TODO:**
+    - {{[[TODO]]}} review and integrate [[Yak Branding Principles Proposal]]
+- 
+- 
+- ### Previous comments/inputs on #positioning #branding 
+    - {{[[query]]: {or: [[branding]] [[positioning]]}}}
+    - 

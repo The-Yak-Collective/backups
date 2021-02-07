@@ -1,0 +1,7 @@
+- Date: TBD, sometime in the first half of May after the deck is launched
+- Tentative Agenda
+    - Review of deck/website launch
+        - What worked, what didn't
+    - Next collaboration
+    - [[Things We Need]]
+    - 

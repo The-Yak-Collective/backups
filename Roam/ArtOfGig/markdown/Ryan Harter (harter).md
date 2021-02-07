@@ -1,1 +1,0 @@
-- Looking to diversify and build value outside of my 9-5. Currently working as a principal data scientist in open source. Writing at [blog.harterrt.com](blog.harterrt.com).

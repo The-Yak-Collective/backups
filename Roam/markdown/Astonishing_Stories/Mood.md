@@ -1,0 +1,19 @@
+- **Mood** suggests how it might feel to experience this thing from the future.
+- [[delight]]
+    - {{[[query]]: {and: [[delight]]}}}
+- [[optimism]]
+    - {{[[query]]: {and: [[optimism]]}}}
+    - 2
+- [[melodrama]]
+    - {{[[query]]: {and: [[melodrama]]}}}
+- [[outrage]]
+    - {{[[query]]: {and: [[outrage]]}}}
+- [[charm]]
+    - {{[[query]]: {and: [[charm]]}}}
+    - 2
+- [[wellbeing]]
+    - {{[[query]]: {and: [[wellbeing]]}}}
+- [[anxiety]]
+    - {{[[query]]: {and: [[anxiety]]}}}
+- [[hilarity]]
+    - {{[[query]]: {and: [[hilarity]]}}}

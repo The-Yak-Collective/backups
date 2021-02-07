@@ -1,3 +1,0 @@
-- Just starting indie tech strategy consultant. (working on this)
-- Twitter: [@wimsy](https://twitter.com/wimsy)
-- 

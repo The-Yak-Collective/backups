@@ -1,4 +1,0 @@
-- Filmmaker / [[Writer]] / Editor of Words and Moving Pictures based in Los Angeles, CA 
-- Created [[Distance]], a digital series about a couple in a long distance relationship - may be a nice respite from the madness in these socially distant times. [Link to full season here](www.distancetheseries.com).
-- [email](alex.dobrenko@gmail.com) 
-- [website](alexdobrenko.com) 

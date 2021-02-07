@@ -1,5 +1,0 @@
-- [@alexdw5](https://www.twitter.com/alexdw5)
-- Freelancing in Marketing and Growth
-- [Artist and Musician](https://www.alexwagner.work)
-- Notion fanatic.
-- Seeking: a PT/FT role in Growth, Product Management, or Software Docs.

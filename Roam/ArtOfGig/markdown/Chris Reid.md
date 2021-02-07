@@ -1,2 +1,0 @@
-- I'm going to keep my own little [[warren]] on this Roam. (I'm not sure how to benefit from the linking here if I did this on my own personal Roam domain.) These notes aren't private, so feel free to peruse them: [[Chris Reid's Yak Paths]]. I'll define warrens on its own page in case anyone stumbles into it and finds it useful.
-- 

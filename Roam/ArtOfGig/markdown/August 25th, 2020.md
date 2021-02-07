@@ -1,2 +1,0 @@
-- started a draft page for a privacy policy » [[Privacy Policy]]
-- 

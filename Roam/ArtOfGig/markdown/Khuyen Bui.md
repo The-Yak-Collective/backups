@@ -1,4 +1,0 @@
-- Currently Ho Chi Minh City, Vietnam.
-- I’m working on a ~50k word book called [Not Being](https://www.facebook.com/BuiGiaKhuyen/posts/10221154695485892) about the transformation of our identity from an isolated, separate self to a wider, more intimately interconnected way of being. I guess it's happening to all of us.  
-- I’m also working as a [coach and guide](https://khuyenbui.com/guiding-practice), doing what the book does in presence. I have been mentored by wonderful people in this space. 
-- I am very happy to volunteer my time facilitating conversation, meditation, dance. I love your presence and want to bask in it. 

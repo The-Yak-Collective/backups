@@ -1,0 +1,6 @@
+- This is a publicly editable Roam db for now, and currently only shared with paid subscribers of [[Art of Gig]] or anyone who follows a link to it from the public Discord. It will eventually be shared with the whole list once there is some useful content on here.
+- At some point if it gets too messy we will switch to publicly readable and editing rights by invite/request only.
+- We'll figure out rules as we go along, but for now there are only 2 rules. 
+    - The improv rule of [Yes, And](https://en.wikipedia.org/wiki/Yes,_and...).
+    - The [[Don't Make Us Make A Rule]] rule
+- Email any questions to [[Venkatesh Rao]].

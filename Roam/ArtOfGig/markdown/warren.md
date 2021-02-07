@@ -1,2 +1,0 @@
-- I'm stealing this idea from Hang Zhang & Venkat: https://www.ribbonfarm.com/2010/10/27/warrens-plazas-and-the-edge-of-legibility/
-- While there are attempts at directories for legibilizing everyone's contributions, this Roam has many individual contributors and a whole-picture view is unlikely to develop beyond the [Graph Overview](https://roamresearch.com/#/app/ArtOfGig/graph). Most lurkers and contributors are not likely to see far beyond their own corners of this maze.

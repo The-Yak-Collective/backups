@@ -1,0 +1,12 @@
+- Virality dominates.
+- New cultural practices are being born.
+- What's needed to help Human Cultures thrive locally and globally?
+- 
+- Us versus them is 20th century thinking / Them & Us thinking is what's needed
+- Nation states no longer have economic control of their cities or economies
+- Cities are tied to political structures that disadvantage them compared to rural, suburban, and exurban locations, despite their cultural and economic superiority (not derogatory; cities manufacture economies, period)
+- 
+- How do we democratize our economies? How do we allow the local and global to respect each other? 
+- 
+- The Yak Collective is most interesting to me, a local government bureaucrat, as it showcases the power of people working together by choice. I believe our localities need this most of all. I'm interested in seeking out methods for building locally based versions of the Yak Collective's expert generalists
+    - [[Thomas Verhagen]]: ironically, taking the perspective of 'cities' seems to invite associations between 'us' and 'them' as well. I know there is a research strand in (financial) [[geography ]]that digs into the [[exploitative]] [[relationship]] between major cities and their [[marginalised]] hinterlands. I can give many examples from my own country (the Netherlands) and the tense relationship between the western cities (particularly Amsterdam) and the southern and eastern hinterlands. Much of the Brexit analyses dug into the [[London]] - periphery relationship as well, to not even mention the relationship between Paris and the rest of France. Maybe it might be more inclusive to look at this from a perspective of [[localism]], which would leave the hillbillies able to participate in/ relate to the work you propose as well

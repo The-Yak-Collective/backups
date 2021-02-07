@@ -1,0 +1,5 @@
+- I've been a freelance data science and machine learning consultant for over 2 years now. I help reconcile open-ended R&D (infinite game) with product development lifecycles (finite game), get ego-driven ICs to work together, curate and label data at scale, and prototype software using deep learning for speech recognition, computer vision, weather prediction, chatbots, and search.
+- Currently working on a digital platform for upskilling underemployed millenials and matching them with growing career pathways. E.g. ex-retail make great customer success reps, but need to learn to speak the language of startups/tech/office to pass the job interview.  
+- Email:: nikhil.deshmukh@pm.me
+- Twitter: @nikhildes  
+- In a previous life, neuroscientist studying how the neural circuitry of the retina computes primitive features, e.g. contrast, edges, motion, temporal patterns 

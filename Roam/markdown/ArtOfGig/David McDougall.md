@@ -1,0 +1,2 @@
+- Very open to conversations about ESG investing at the moment!
+- 

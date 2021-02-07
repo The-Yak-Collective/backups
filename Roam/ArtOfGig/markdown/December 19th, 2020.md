@@ -1,2 +1,0 @@
-- [[Nathan Acks]] made a second draft of the [[Discord Channel Lifecycle and Organization]] proposal.
-- [[Nathan Acks]] left comments on [[onboarding it - thoughts about onboarding infrastructure]].

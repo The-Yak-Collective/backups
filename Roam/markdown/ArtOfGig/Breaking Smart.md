@@ -1,0 +1,2 @@
+- Yak Collective Website:: https://breakingsmart.com/
+- Yak Droppings:: https://breakingsmart.substack.com/

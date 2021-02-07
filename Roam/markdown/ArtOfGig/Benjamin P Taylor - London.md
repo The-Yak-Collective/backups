@@ -1,0 +1,12 @@
+- hello everyone, I'm Benjamin Taylor 
+- Connect:
+    - www.linkedin.com/in/antlerboy
+    - www.twitter.com/antlerboy
+- I (now, mostly, apparently) do meta-consulting https://medium.com/@antlerboy/an-invitation-to-the-redquadrant-way-tool-shed-8dba81a51c11
+- I am obsessive about systems thinking/complexity/cybernetics - I curate www.syscoi.com - the systems community of inquiry - and I'm on the board of the systems practitioner organisation, www.systemspractice.org. Plus a bunch of related stuff https://docs.google.com/document/d/19ji4L38JVVJiWj9EiSglY--q_rn_fr6a7G4MjnuDYK0/edit
+- I run a public service transformation consultancy in the UK, www.redquadrant.com
+- and a not-for-profit social enterprise, the Public Service Transformation Academy www.publicservicetransformation.org
+- podcasts:
+    - **Transduction:** the systems, complexity, and cybernetics podcast, website coming soon: http://transduction.systems __I have come to sing to your cat__
+    - **Joy and work**: the (public) service transformation podcast website (forthcoming) at: http://joyandwork.com __leading transformation__
+    - **The Outliers Inn** - a bit of mucking about www.theoutliersinn.com

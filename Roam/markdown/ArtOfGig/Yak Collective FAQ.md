@@ -1,0 +1,32 @@
+- **Flagged as redundant; contents will be merged into [[Onboarding for New Yaks]]**
+- 
+- **WTF is going on here? I just signed up and don't know what's going on or where to look.**
+- This FAQ is designed to at least orient you and set appropriate expectations.
+- **Who are Yaks?**
+    - Yaks are anyone who has signed up (edit: add link to sign-up form) and made an introduction in Discord and received the "yak" role.
+        - Note: this process is currently manual. If you don't receive the "yak" role whre you can see other channels, you can reach out to one of the "yakshavers" (admins) and they will address it.
+    - This is a very low barrier to entry, and intentionally so. Users who fail to make an introduction within a week are culled from the Discord server.
+    - The yaks can read/write to channels and this Discord, and are encouraged to join any of the regular chats (see [[Discord Chat Calendar]]); in particular, Alex Wagner and Jordan Peacock run a regular Thursday call for answering newbie questions, and Venkatesh Rao runs an online governance call on Fridays.
+- **So, what do I do?**
+    - We strongly recommend you jump in by working on a project. Doing so will not only provide value to the collective, but also introduce you and your skills to others.
+    - All efforts are project-centered, whether they are internal or external, paid or unpaid.
+- **What is Yak Collective? Who runs it?**
+    - Yak Collective **is not** a legal entity.
+    - Yak Collective was started by Venkatesh Rao, but he has no formal authority.
+    - There is currently a project to establish a clear self-governance structure by early 2021 (fact check: May?)
+    - There were originally several "partners", but that designation has been retired in favor of a flat "yak" designation.
+    - Each project has at least two project leaders, and two separate referees, as well as additional participants. There is no requirement for prior participation, although it is encouraged to participate in someone else's project before running your own.
+    - There are a number of assets (web site editing rights, Roam, Discord server admin, Twitter access) that are controlled by various people. Nathan Acks and Jordan Peacock are currently enumerating these and establishing a process for managing access.
+- **What is the process for X?**
+    - If you can't find it (by searching here or if there's an obvious channel in Discord, check its pinned messages), feel free to ask in a channel or on a call.
+    - It is entirely possibly that we do not yet have a process defined, or we have n=1 precedents.
+- **How do paid projects work?**
+    - Paid projects are brought to Yak Collective through a principal Yak, who is the legal intermediary. They will present a brief outlining the skills needed, deadlines, payments, etc.
+    - Stub. Reference Neurofuturama example.
+- **How are projects chosen?**
+    - Stub.
+- **How are participants chosen?**
+    - Stub.
+- **What if my project isn't greenlit?**
+    - Stub.
+- 

@@ -1,1 +1,0 @@
-- **Growth** scenarios tell a story that continues on with the historical trajectory of ever-increasing growth and development - think bigger technology, more densely crowded cities, increased wealth creation. 

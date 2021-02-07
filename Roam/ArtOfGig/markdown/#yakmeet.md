@@ -1,7 +1,0 @@
-- Help the world meet a yak collaborator. Here's a suggested format:
-    - Find a contributor you want to learn from and invite them to a 15m recording session via Zoom
-    - Ask them 3-4 questions about their contribution
-    - Edit the conversation down in [Descript](https://descript.com) (make it as bare-bones or fancy as you like) and publish it on YouTube
-    - Share on social with #yakmeet
-- Examples from [[Don’t Waste the Reboot]]
-    - [[Benjamin P Taylor - London]] {{youtube: https://www.youtube.com/watch?v=nrdXKNgwo-g}}

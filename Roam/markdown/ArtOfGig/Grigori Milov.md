@@ -1,0 +1,5 @@
+- The pages I follow:
+- [[Yak Collective Governance]]
+- [[Future Frontiers]]
+- [[Yak Collective State of the Union]]
+- [[YC Marketing - distributed CMO]]

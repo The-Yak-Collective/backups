@@ -1,0 +1,69 @@
+- Reading: 
+    - [[Governance Tests]] Doc
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fxq-2XNUUnx.png?alt=media&token=a2e89b56-368e-471a-aae6-6413f280c926)
+- 
+- ## Discussion
+- [[Alex Wagner]]
+    - Three buckets: starting and getting projects approved, dealing with grievances, fair use of Yak projects and text from Roam and Discord
+- [[Greg Kramer]]
+- [[Grigori Milov]]
+    - Forming a vision of what Yak can be in 2021.
+    - To work towards the vision, we need people who assume leadership roles.
+- [[Jordan Peacock]]
+    - What are reasonable expectations people can have coming into YC?
+        - "Capacity-building through group projects."
+        - Assessing each other's abilities and building trust over time to know who to call on for a possible project.
+        - "How to not fail, in one of the __many, many__ organizational failure modes."
+        - Visioning is important. Time-boundedness of "what is Yak in 2021?" is a worthwhile thing to think about.
+- [[Meredith Noelle]]
+    - How to transform a company into a co-op?
+        - Skin in the game there, putting this into practice in her own work.
+- [[Scott Garlinger]]
+    - "Having a model that more or less reflects what's going on"
+    - How can we develop the capacity to capitalize of the preexisting and naturally-occurring functions and flows of Yak wrt to governance?
+- [[Venkatesh Rao]]
+    - Some hierarchies are good, especially within the context of project leadership.
+    - The actual mystery here is: "how do you get decentralized things to do anything at all?"
+        - Visions are artifacts of hierarchically-structured orgs
+        - The paradox of vision vs decentralized orgs.
+    - The model of international governance: League of Nations' ostensible failures
+        - Open source communities are not perfect
+    - Computer metaphors:
+        - Traditional org: single computer with top-down system. Single operator, single program.
+        - Decentralized org: much more distributed, fuzzy, woolly, "herding cats"/chaotic element
+    - Possible vision: "figure out the model of this computer"
+        - Ship of Theseus fable
+        - Creating a "Ship of Theseus" model for Yak Collective
+    - Going back around the circle:
+        - "I would like the system to be able to have a process for Yaks to able to bring a possible project and specs to Yak Collective
+- [[Alex Wagner]]
+    - Finding an audience for Yak.
+    - Packaging Yak consulting offers to make them legible and available to clients.
+- [[Drew Schorno]]
+- [[Greg Kramer]]
+- [[Grigori Milov]]
+    - It's important to measure.
+    - We should measure momentum.
+    - We can figure this out. This may be one of the most important things to measure at Yak.
+- [[Jordan Peacock]]
+    - Are the "itches that we're scratching" salient are they relevant?
+        - Working [[Yak-Walk Map]] w [[Vinay Débrou]] has been enlightening about what audiences that YC serves.
+        - How to help people see the value of this community, and make it worthwhile for people to invest time and labor?
+        - We don't need complete and perpetual unanimity to be successful.
+- [[Meredith Noelle]]
+    - Making space and opportunities for new Yaks to participate and contribute.
+- [[Scott Garlinger]]
+    - "Creating a pedagogy that new Yaks can opt in to, but not making it a required catechism."
+- [[Venkatesh Rao]]
+    - Using this call to socialize the initial thought and set it in motion.
+    - "The seed of something that needs to grow into something much more comprehensive."
+    - Governance needs to satisfy several requirements
+        - This needs to grow into an operating system.
+    - Venkat will likely propose an internal project in Fall wrt building this operating system. To complete by March
+        - "Here's the computational metaphor and here's the operating manual for this metaphor."
+    - Wary of losing sight of the balance between content vs governance
+    - We'll be ready to tackle creating the operating system after the next round of projects launched.
+        - "Six reports worth of output" vs 10 years and millions of dollars of billing.
+- [[Jordan Peacock]]
+    - Governance needs to be designed based on "historical vs concurrent" model
+        - A community with a higher throughput needs more rigorous(but not necessarily more rigid) processes than a community that produces less content/projects in a given period.

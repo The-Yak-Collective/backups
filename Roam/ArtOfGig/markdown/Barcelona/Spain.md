@@ -1,3 +1,0 @@
-- xref: #cities; city in [[Spain]], [[EU]]
-- members:
-    - [[Steven Moody]]

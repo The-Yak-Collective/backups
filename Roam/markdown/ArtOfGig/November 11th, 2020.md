@@ -1,0 +1,46 @@
+- [[YC Marketing - distributed CMO]] weekly sync #meeting-notes
+    - Location: discord 
+    - Time: 5pm GMT 
+    - Participants (TBC)
+        - {{[[DONE]]}} [[Hugo Macedo]] 
+        - {{[[DONE]]}} [[Maier Fenster]]
+        - {{[[DONE]]}} [[Grigori Milov]]
+        - TBC
+    - Agenda/Minutes
+        - discuss responsibilities - focus - [[Hugo Macedo]] 
+            - Foundations
+            - Marketing Channels - project
+        - update on [[**Final Frontiers**]]
+            -  #[[Grigori Milov]]
+                - not ready to launch
+                - still talking about the website
+                - we need to start with the audience and go backwards to understand the go to market
+            - #[[Maier Fenster]]
+                - US - what market we're trying to reach
+                - outside - build first
+                - both ways can be correct if done properly 
+                    - we do cool stuff! different from other people
+            - [[Hugo Macedo]]  we need to create the narrative that links the context of the audience and this "product"
+                - why should I care?
+                - what's in it for me?
+                - what now?
+            - #[[Grigori Milov]] 
+                - picture and text = Instagram
+                - every webpage should be self-contained
+            - #[[Maier Fenster]]
+                - Should it be published in Instagram?
+                - #[[Benjamin Taylor]] could help with Linkedin promotions
+            - Plan
+                - {{[[TODO]]}} create global narrative
+                    - "[[Hugo Macedo]]  we need to create the narrative that links the context of the audience and this "product""
+                - Reformatting to social (Linkedin)
+                - promotion tactics with #[[Benjamin Taylor]]
+                - Goals
+                    - establish promotion goals
+            - what's the value for the author?
+                - this content is part of...
+                - we need to people like/comment/share
+            - We should create a marketing plan around Linkedin channel
+                - {{[[TODO]]}} [[Final Frontiers - Launch Plan]]
+            - we can apply this thinking (or an evolution) to launch [[Innovation Consulting]]
+            - 

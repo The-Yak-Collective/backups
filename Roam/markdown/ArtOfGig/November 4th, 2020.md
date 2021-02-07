@@ -1,0 +1,43 @@
+- [[YC Marketing - distributed CMO]] weekly sync #meeting-notes
+    - Location: discord 
+    - Time: 5pm GMT 
+    - Participants (TBC)
+        - {{[[DONE]]}} [[Hugo Macedo]] 
+        - {{[[DONE]]}} [[Maier Fenster]]
+        - {{[[DONE]]}} [[Grigori Milov]]
+        - {{[[DONE]]}} palash 
+        - {{[[DONE]]}} [[Kacper Wikiel]]
+    - Agenda/Minutes
+        - {{[[DONE]]}} followup on [[Boutiques vs Marketplaces Wargames]]
+            - not much feedback
+                - nudge some people
+            - there was a lot of happening this week
+        - Marketing
+            - generate a system for internal marketing
+            - generate noise to find critical mass for projects
+        - {{[[DONE]]}}  [[Future Frontiers]] Launch, [[Grigori Milov]] 
+            -  Now that the Future Frontiers looks like a copy of Astonishing stories, it is probably time to get curious about Astonishing Stories stats. 
+How many people read the first installments thus far? Do we understand the drivers of engagement?
+Can we see the data from Substack (on the newsletter) and Google Analytics (on the website)?
+Was there any meaningful discussion about outcomes we want to achieve with the never-ending but ever-surprising Future Frontiers project? Is it just to put some content on a website or in a newsletter?
+                - the 2 projects looks similar
+                - what can we do to help the launch
+                - get understanding the plan from the project team
+                    - what are we trying to achieve?
+                - Newsletter - 350 w/ 50% open rate
+                - Website - no numbers right now
+                - we should have a call with [[Venkatesh Rao]] to understand the plan
+                - We need to develop [[Marketing Channels]]
+                - ^^{{[[TODO]]}} Marketing to choose 1 thing to focus on^^
+                    - 1 channel
+                        - option: outreach to bloggers/media/podcast 
+                    - 1 process
+                        - option: Understand Analytics
+                    - bring results leverage
+                    - set as an example that we can use for other projects
+                        - and to the same for other projects
+        - ^^Discussed case of a potencial client^^
+            - Can/should we repackage these projects for business 
+            - interview question the authors 
+                - if you we're hired to imagine futures 
+                    - what process, what story would you tell, how would you explain your approach

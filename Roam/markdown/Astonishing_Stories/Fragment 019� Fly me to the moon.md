@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[transformation]] future [[a few years]] from now, there is an [[show]] related to [[the moon]] that creates a feeling of [[outrage]].
+- Fragment:: 
+    - 'Fly me to the moon' - A reality show following a group of wealthy Americans leaving Earth to take up residence in space. Will life in space be safer than life with COVID? Tune in Thursday to find out
+- Created by:: [[Amanda Reeves]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849827782&cot=6)
+- **Pockets of this future visible in the present**
+    - [Mars One, the 'Fyre Festival' of Mars that promised one-way trips to space, has declared bankruptcy](https://www.insider.com/mars-one-fyre-festival-declares-bankruptcy-2019-2)

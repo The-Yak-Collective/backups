@@ -1,0 +1,59 @@
+- **Working title of your proposal?**
+    - Dating Futures
+- 
+- **Type of collaborative project?**
+    - Design-driven visual report, website, speculative product
+- 
+- **Brief description of idea, and why you're suited to leading it **
+    - __Inspire some confidence among potential contributors that this is worth doing, and that you can actually pull this off!__
+    - This is a one-off digital publication exploring converging trends in dating that have been accelerated by Covid
+        - "In the post-Covid world everyone is on the hunt for stability. The time for dating around feels over: the music has stopped and everyone is scrambling for chairs. The complete tinderization (and grindrization) of online dating has heavily favored short term relationships between photogenic people, so many are improvising their own approaches using manual google spreadsheets. Existing relationships are also under extreme pressure—with couples either forming into diamonds or cracking along the fault lines"
+    - The project is co-lead by Drew Schorno and Alex Wagner, two millennials with a combined thousands of hours as dissatisfied dating apps users.
+    - Both Schorno and Wagner have extensive experience working at a high-level working at the various intersections of art/design/tech/media.
+    - Drew is hot off the heels of co-editing the New Old Home report.
+- 
+- **What skills/knowledge/background are you looking for from contributors **
+    - Design experience
+    - Experience working in dating apps/social apps
+    - Community building
+    - Online event organizing
+    - Matchmaking
+    - Attention-hacking
+- 
+- **How will your project increase/improve Yak Collective project capabilities? **
+    - No new capabilities, using existing validated project template
+    - Handle more contributors
+    - Involve deeper expertise
+    - Involve more research/discovery
+    - **Involve deeper coordination**
+    - **Validate new output format**
+- 
+- **We may have a small budget of a few hundred dollars available for material expenses (not for labor/participation). If this might be useful, please indicate how you might spend it. **
+    - Minimum-viable print catalogues through Blurb. Send to potential clients.
+        - This work is brand book-adjacent but more of a futuring exercise.
+            - Skittles Brand Book: http://www.hexanine.com/zeroside/skittles-taste-the-brand-book/
+- 
+- **What is your planned sprint length? ** 2 or 4 weeks?
+- __A sprint is defined as a cycle that results in a release-candidate output, and triggers a decision point where the 2 project leads and 2 referees make a consensus decision whether to release, kill, or extend the project.__
+    - 4 weeks
+- 
+- **How many sprints do you anticipate this project will take? ***
+    - 2 or 3
+- 
+- **Approximately how many hours per week do you plan to devote to this project while it is running? ***
+    - 10 hours
+- 
+- **What kind of clients for follow-on paid consulting engagements either for individual contributors or Yak Collective teams might be attracted by this project, if any? ***
+- __It is not a requirement that projects have lead-gen potential, but if there is such potential, please capture it here as a hypothesis.__
+    - We seek to research who the decision-makers are at Match Group and provoke them to think more deeply about the effects their apps are having on global dating and culture.
+- 
+- **How do you plan to market the output beyond basic social media promotion by Yak Collective? ***
+    - Ideas here include:
+        - Online discussions. 
+        - A possible phase two of this project which actually involved creating a minimum viable dating app.
+        - Figma play-dates.
+        - Coordinated social media promotion*
+            - Pre-planning and reaching out to Twitter mutuals who explore topics of sex and dating in their work. Coordinating signal boost of discussions and launch towards end goal of starting conversations with potential ideal clients at dating apps, VC funds, and think tanks.
+- 
+- **Anything else you want to share with potential contributors?**
+- 

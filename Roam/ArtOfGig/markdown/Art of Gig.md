@@ -1,1 +1,0 @@
-- Yak Droppings:: https://artofgig.substack.com/

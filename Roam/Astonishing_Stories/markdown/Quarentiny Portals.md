@@ -1,3 +1,0 @@
-- [[Paul Sas]]
-- [[August 19th, 2020]]
-- 

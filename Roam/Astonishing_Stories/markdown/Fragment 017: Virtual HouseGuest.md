@@ -1,9 +1,0 @@
-- Scenario:: 
-    - In a [[growth]] future [[a few years]] from now, there is an [[product]] related to [[family]] that creates a feeling of [[anxiety]].
-- Fragment:: 
-    - Virtual HouseGuest - family can now drop in and participate in your normal routine. Dinner time, movie night, by ringing a virtual doorbell and being invited to cameras and screens within the house
-- Created by:: [[Tim Kuehlhorn]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348844181387&cot=6)
-- **Pockets of this future visible in the present**
-    - [Houseparty](https://houseparty.com/) + increasingly ubiquitous AI assistants & screens
-    - 

@@ -1,2 +1,0 @@
-- This page is for indexing agendas/minutes of meetings open to all members (on Zoom). You can add suggested items to the meeting agendas, and notes to the minutes page. These meetings will be scheduled around constraints of [[Yak Collective]] partners, but open to all members to join in.
-- [[Inaugural Meeting]]: Tentatively week of May 3

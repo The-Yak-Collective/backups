@@ -1,7 +1,0 @@
-- I’m an indie product engineer: I started at Facebook for a few years and moved into consulting / freelancing. I’ve contracted at larger companies (Dropbox, Stripe) and startups, building user-facing apps and internal tools. There’s also an informal consulting angle that usually shows up in my gigs of helping employees be better and more leveraged at what they do (e.g. pushing for a better knowledge management tool, or talking about process.)
-- Contact me at meitros@gmail.com. I should create a portfolio site sometime...will update here if I do.
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Mihir Kedia](<Mihir Kedia.md>)
-

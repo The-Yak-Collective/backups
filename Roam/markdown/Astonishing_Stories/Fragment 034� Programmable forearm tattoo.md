@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[collapse]] future [[a generation]] from now, there is an [[tattoo]] related to [[the brain]] that creates a feeling of [[respect]].
+- Fragment:: 
+    - A programmable forearm tattoo controlled by micro bots who can add and remove ink dynamically. It connects to the API of your personal note taking system. As you take notes and develop original ideas, the tattoo adds or removes nodes. Like the Roam node graph, but visible on your forearm. You can write your own CSS to style the tattoo as you wish. Expansive node graphs and original styling are highly respected as publicly visible performances of knowledge work.
+- Created by:: [[Maggie Appleton]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942644159&cot=6)
+- **Pockets of this future visible in the present**
+    - 

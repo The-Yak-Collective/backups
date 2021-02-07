@@ -1,0 +1,104 @@
+- #branding, #positioning, #outreach, #experiments
+- 
+- ## **Central Questions**
+- **What is the "shared sense of taste" that is a core component of YC culture?**
+    - [[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to [[branding]] and [[positioning]].
+        - From [[06/05/2020 – YC Governance Chat Minutes]]
+            - [[Venkatesh Rao]]
+                - 2. Shared sense of values and taste. "The community's sense of taste about work and activities."
+                    - If this is not shared, community suffers an "aesthetic unraveling".
+- **How do you do [[positioning]]?**
+    - What is [[positioning]]?
+        - [How to Nail Product Positioning](https://www.youtube.com/watch?v=tlfSkPdQDSU) by April Dunford. __Start at 9min__
+            - Ries and Trout definition: "**Positioning** defines how your product is t**he best in the world** at providing **something** that a well-defined set of **customers** cares **a lot** about."
+            - Dunford definition: "If marketing and sales are "the house", positioning is the foundation of that house. It's the base on which everything else is built."
+                - Dunford's [[positioning]] methodology 
+                    - Consists of 5 parts:
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fqcq-iXC9tz.png?alt=media&token=560bd59d-4748-4d90-ac69-cb9722bf44bc)
+                        - [[Alex Wagner]]The hard work of [[positioning]] YakC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides.
+    - How do you do [[positioning]] for Yak?
+        - With what means do we position ourselves?
+            - First, our projects
+                - As provocations?
+            - Second, our site, email comms, twitter
+- **What can Yak accomplish on a long enough timeline?**
+    - What are worthy goals of Yak Collective?
+        - Mansions for those who want them
+        - Create Psychohistory
+        - Create indie consultants
+            - At what rate, quantity, and quality?
+    - Is it worthwhile to think through "the complete lifecycle" of YC, and what that might look like? What possible scenarios?
+- **What beefs should YC pick?**
+- 
+- ## **Hypotheses**
+- We can encourage positive emergent outcomes for Yak Collective by reaching out to like-minded folks and either bringing them into Yak or asking their expertise on Yak projects.
+- Yak should define itself not only through it's projects, __but through it's beefs__.
+    - How best to inhabit the "trickster-consultant" persona?
+    - A "provocation-centric"
+- The brainpower of Yak is currently massively underutilized, and under marketed.
+    - Eventually, the market and clients will wake up to the unique quantity that is Yak Collective
+        - We are not currently uniquely positioned.
+            - This is on purpose.
+            - The choice was made to focus on a project-first/inbound approach to growth/marketing/sales. This is a central component to the culture of YC: the stuff that we ship needs to be interesting, and it needs to be of a certain quality.
+            - It's my belief that this is mainly because we haven't yet put effort into broadcasting what the Yak Collective has done, is capable of, and what it offers.
+            - Yak's work speaks for itself, but we can accelerate luck and client acquisition with a tasteful and measured approach. 
+            - We can be proactive, and attract new projects by using one-to-one outreach, our newsletter, the Yak Twitter, and other outbound channels. 
+                - A preexisting example: [[25 pieces launch email talking points]]
+- 
+- ## **Growth Ideas**
+- __From which to build Yak branding experiments __
+- Referencing: [[experiments]], [[experiments-log]]
+- **Competitive diagramming** – proposed by [[Darren Kong]] and [[Steven Moody]]
+- **Outreach campaign to like minds**
+    - Could include Yak-adjacent or simpatico: writers, artists, VCs, and of course, consultants
+        - For example: Andreesen, Danielle Strachman, Derek Sivers
+        - [[Yak Collective Dream 100 Outreach List]]
+- **Yak Journal of Beefs** – A newsletter publication exploring the landscape of conflict and beefs.
+- 
+- ## **References:**
+- [The 7 Dimensions of Positioning](https://www.ribbonfarm.com/2010/09/21/the-seven-dimensions-of-positioning/)
+- Laura and Al Ries, __The 22 Laws of Branding__
+    - [Summary](http://dn9lu4lqda9r4.cloudfront.net/booksummaries/Book_Summary_22_Immutable_Laws_Of_Branding.pdf)
+- April Dunford
+    - [10-Step Method to Overhaul Positioning](https://userlist.com/positioning-overhaul/)
+- 
+- 
+- [[Grigori Milov]] @alexdw5#7827 @vgr#6648 I am actually fascinated with a modern state of branding. 
+- I think if you already have a brand (like Amazon, or Xerox, or BCG) there is little you can do, except maintenance.
+- But if you are just getting started, it would be advisable to think from the very first principles.
+- It is nice to know what Amazon was in 2001, but now it is "The Everything Store with Alexa and AWS". 
+- Think about it's [[positioning]] or "components of [[positioning]]". Amazon sells everything, competes with everybody, is also a marketplace and has AWS, that everybody uses. 
+- Boston Consulting Group has very little to do with Boston, but includes Digital Ventures, Gamma, Platinion, Omnia, BrightHouse, Expand, Inverto, Turn, etc. One can have a very hard time making sense of what BCG actually means or doesn't mean right now. 
+- McKinsey said that 50% of it's business didn't exist 5 years ago, or something along those lines. And everything will change again in 3 years or so.
+- Bain has Vector.
+- Neither of them fits any template anymore.
+- Any "brand" has at least 2 components -- static (what it is) and dynamic (what it does).
+- So, what do you want a YC brand to do for you?
+- 
+- ## Thinking from First Principles re: Branding
+    - **Defining two major things: **
+        - What Yak **is**.
+            - Refer to about page.
+            - [[Grigori Milov]] Ask a person, who is familiar with Yak, but not part of it. What answer do you want to get? Your brand is what your customers (and public) think about you, not what you think about yourself. See the difference?
+        - What Yak **does**.
+            - Futuring, future-casting.
+            - Refer to projects completed.
+            - It supports and informally trains indie consultants.
+            - [[Grigori Milov]] "As a potential client (Who is that?______) I would consider hiring Yak in case of ______to do _____ because of______ ." 
+            - Fill out the blanks. 
+            - **Questions here**
+                - Is there a curatorial aspect?
+                    - Via Yak Site(collected writings), Twitter, Discord, Newsletter
+                        - Who do we want to signal boost?
+                        - [[Grigori Milov]] Are we in a position to Signal Boost? I don't think so. Whatever can bring us to that position will most likely make this idea obsolete.
+                            - [[Alex Wagner]] I was thinking about it more as a way to shout out Yaks doing good work outside or inside of Yak, or signal-boosting friends of Yak. 
+                                - Your point is well-taken, signal-boosting is incidental, should not be the point of the newsletter. Although it should be an aspect of it, when appropriate. 
+                        - [[Grigori Milov]]We are curating/taste-making in pursuit of what goals? One potential goal is learning. Another one is to create value for clients, the collective and individual members. 
+                            - [[Alex Wagner]] I agree.
+                                - So now I ask, how best to create value for clients and Yak as a whole, and Yaks individually?
+                - What does Yak facilitate?
+                    - Can we flesh out opportunities for proto-consultants, or new consultants, such as:
+                        - New project opportunities, informal guru-ship(not just Venkat), sparring exercises, diagramming workshop, acquiring new clients workshop, inbound/writing content that gets you clients workshop
+                    - [[Grigori Milov]]We want to have a brand (which has strong elements of predictability, reliability, high-quality to it), don't we? This is something proto-consultants or new consultants don't usually have. 
+                        - [[Alex Wagner]]
+                            - Is it a worthwhile project to show new consultants how to build a consulting brand?

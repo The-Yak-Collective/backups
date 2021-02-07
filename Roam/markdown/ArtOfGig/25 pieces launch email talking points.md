@@ -1,0 +1,47 @@
+- If you contributed to the [[Don’t Waste the Reboot]] deck, use the points below as talking points to compose your own email to your contacts, or to include in any newsletters, blog posts etc. Review the [[Yak Collective Messaging Principles]] first. **It's not the same-old-same-old, our promotion and marketing approach is very different from what you might be used to.**
+- Links to people's posts/emails etc. When you put out your thing, post a link or even the whole text here, so we can steal each other's best language/promotional ideas.
+- **Subject line suggestions**
+    - Don't Waste the Reboot
+    - Don't Waste the Reboot -- from the Yak Collective
+    - I made a thing
+    - I contributed to this thing
+- **Opening boilerplate suggestions**
+    - I have something to share: a group of independent consultants I am part of, [The Yak Collective](https://yakcollective.org), is releasing it's inaugural report, in the form of a slide deck, __Don't Waste The Reboot__.  Check it out! 
+    - ## 👉 [Link To Report Deck- Don't Waste the Reboot](https://yakcollective.org/reports/yak-wisdom)
+    - Include both a text link and the linked cover slide image.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FR716MzCSBf?alt=media&token=84002fe0-4a54-4ef5-8eb5-298e5c56d75c)
+- **Brief opening summary paragraph suggestions**
+    - __Don't Waste the Reboot__  offers a smorgasbord of 25 non-mainstream ideas, systems, provocations, and frameworks to help leaders navigate the Covid-19 reboot. The goal is to offer organizations of all sorts — business, nonprofit, government — a real and meaningful alternative to traditional mainstream sources of advice, counsel, and intelligence for navigating this crisis. Here are some details:
+- **Details to potentially include**
+    - The deck is organized around six core themes: 
+        - Response & Learning
+        - Experimentation & Innovation
+        - Reboot Mental Models
+        - Sensemaking & Storytelling 
+        - Complexity & Resilience 
+        - Deploying Indies  
+    - My contribution to this deck is Idea #X, <NAME OF YOUR IDEA HERE>  (ON SLIDE NUMBER). <SUMMARIZE IT BRIEFLY IN 1 SENTENCE>. 
+    - Besides my own, another idea I particularly liked was <NAME OF ANOTHER IDEA HERE>  (ON SLIDE NUMBER). <SUMMARIZE IT BRIEFLY IN 1 SENTENCE>... 
+    - Try to highlight at least 1-2 ideas that are NOT your own, so we put the "collective" into this thing.
+- **About The Yak Collective**: 
+    - The Yak Collective is a network of independent consultants who all have their own consulting practices, but also work together on larger projects. If you are intrigued by an idea/framework, feel free to reach out to the relevant contributor directly. The Yak Collective is not an agency or intermediary. We are trying to develop a very different approach of developing and delivering business ideas and intelligence based primarily on effective and fluid collaboration models inspired by the open-source software world. You can learn more about us at our new website, [yakcollective.org](https://yakcollective.org)
+- **Calls to Action suggestions** (include as many of these as you think fit)
+    - **Read the deck!**: We are NOT interested in shallow, clickbaity virality for this report. We'd rather reach and connect with people and organizations who are actually interested in the ideas we've been thinking about. So take 5 minutes to just browse the deck first, before sharing.
+    - **Retain our services**: If your organization is interested in one or more of the ideas included in the report, and would like a workshop or a freeform conversation, let me know, and I'll help set it up. One or more of us from the Yak Collective can develop an offering suited to your particular needs (more info in the deck).
+    - **Help us reach decision-makers**: If you'd like to help us out, you can do so by spreading this word in your network. Just forward this email to decision-makers at organizations you think could benefit from discovering these frameworks. 
+    - **Spread the word**: You can help us out by sharing the deck on social media. [Link To Deck- Don't Waste the Reboot](https://yakcollective.org/reports/yak-wisdom)
+    - ** Connect with us **
+        - Follow The Yak Collective on [Twitter](https://twitter.com/yak_collective), [LinkedIn](https://www.linkedin.com/company/yak-collective) or [Facebook](https://www.facebook.com/The-Yak-Collective-115005446854705) to keep up with new releases and to join in the conversation. 
+        - If you're an independent consultant or potential client, you're welcome to join our Discord server and hang out with us live as we do our collaborative work. Just ask me for an invite.
+- **Closing Section**
+    - Here's the link again: [Don't Waste the Reboot](https://yakcollective.org/reports/yak-wisdom). Read, share, and let me know what you think. And stay tuned! You'll be hearing more about the yak collective and its work in the coming months.
+    - Regards, etc. YOURNAME, YOUR CONTACT INFO
+- ### **---------------------------------END---------------**
+- Optional Additions below this row:
+    - **Excited but not sure where to turn?**  Contact [Paul Millerd](mailto:pmillerd@gmail.com) to loop The Yak Collective into your reboot efforts. We will assemble the right small team and set of ideas to work with you, in whatever way is most effective. It might be a study or report. It might be facilitating a workshop or series of conversations for your executive team. Or it might just be an ongoing conversation with one or more of us. 
+    - **Ready To Co-Create With Us?**: Join our discord server! Our working process is __literally __open. Any independent consultant from anywhere in the world who has ideas is welcome to join our efforts, contribute to and lead collaborative projects. Any prospective client is welcome to hang out as well. Just ask for an invite.
+- **Marked for deletion**
+    - Instead of awaiting the next "new normal" as Big Consulting industry lazily terms it and playing catch-up, it's time to get started on establishing an early-lead in the coming decade of rebuilding. This special report of the 'Yak Wisdom Project' is lined with powerful strategic frameworks-- one of these can be your regeneration launch-pad.  
+    - **Note:** Unlike the oversimplified decks from Big Consulting you may have seen floating around, this deck does not attempt to provide a Grand Unified Theory of crisis management and recovery. All contributors operate as independent professionals, driven by curiosity to discover and build creative solutions rather than sticking to warmed-over consulting tropes & strategy clichés. 
+    - I think we should adopt anti-viral models. Low-friction canned tweets like this don't add much value, but personalized tweets do. [Tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fyakcollective.org%2Freports%2Fyak-wisdom&text=25%20indie%20consultants%2C%2025%20ideas%2C%206%20emergent%20themes.%20%20Make%20the%20next%20%22new%20normal%22%20better%20than%20the%20last.%20%20Courtesy%20of%20%40yak_collective)
+    - [LinkedIn Post](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fyakcollective.org%2Freports%2Fyak-wisdom&title=25%20indie%20consultants%2C%2025%20ideas%2C%206%20emergent%20themes.%20%20Make%20the%20next%20%22new%20normal%22%20better%20than%20the%20last.%20%20Unlock%20the%20wisdom%20of%20the%20Yak%20Collective)

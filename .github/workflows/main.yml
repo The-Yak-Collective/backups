@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   roam-backup:
@@ -15,30 +15,30 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v1
+      - name: Setup NodeJS
+        uses: actions/setup-node@v2
         with:
-          python-version: 3.8
-      - name: Setup dependencies
+          node-version: '14'
+      - name: Backup graphs
         run: |
-          pip install git+https://github.com/MatthieuBizien/roam-to-git.git
-      - name: Backup ArtOfGig graph
-        run: |
-          roam-to-git --skip-git Roam/ArtOfGig
+          mkdir -p __Roam
+          cd __Roam
+          git clone -q https://github.com/everruler12/roam2github.git roam2github
+          cd $_
+          npm install
+          npm run start -s
+          cd ..
+          rm -rf ../Roam
+          mv __Roam ../Roam
+          cd ..
+          rm -rf __Roam
           bash .bin/roam_asset_downloader.sh Roam/ArtOfGig
-        env:
-          ROAMRESEARCH_USER: ${{ secrets.ROAM_USER }}
-          ROAMRESEARCH_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
-          ROAMRESEARCH_DATABASE: ArtOfGig
-      - name: Backup Astonishing_Stories graph
-        run: |
-          roam-to-git --skip-git Roam/Astonishing_Stories
           bash .bin/roam_asset_downloader.sh Roam/Astonishing_Stories
         env:
-          ROAMRESEARCH_USER: ${{ secrets.ROAM_USER }}
-          ROAMRESEARCH_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
-          ROAMRESEARCH_DATABASE: Astonishing_Stories
+          R2G_EMAIL: ${{ secrets.ROAM_USER }}
+          R2G_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
+          R2G_GRAPH: ArtOfGig,Astonishing_Stories
       - name: Commit changes
-        uses: elstudio/actions-js-build/commit@v3
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commitMessage: Automated Roam backup
+          commit_message: Automated Roam backup

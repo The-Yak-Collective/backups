@@ -1,3 +1,0 @@
-- https://twitter.com/gregory_kramer
-- data analyst-finance/accounting
-- 

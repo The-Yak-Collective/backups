@@ -1,0 +1,51 @@
+- Header
+    - About:: Launch Plan for [[**Final Frontiers**]] from [[YC Marketing - distributed CMO]]
+    - Chief Page Wrangler:: [[Hugo Macedo]] 
+        - Additional Page Wranglers:: [[Maier Fenster]] + [[Grigori Milov]]
+    - Created:: [[November 11th, 2020]] by [[Hugo Macedo]]
+    - Page Type:: {{or: #Project | #tk1 | #tk2 }}
+    - Status:: {{or: Early Concept | Active | Proposal | Complete}}
+    - Last Updated:: `/today` by [[Fname Lname]]
+    - Last Gardened:: `/today` by [[Fname Lname]]
+-  
+- "Launch Framework - template"
+    - `defines the steps, checklists and can become a template to be filled together with the Project owner`
+    - **Goal of the Product**
+        - `Why do we built this project? What we want to achieve?`
+    - **Launch success:**
+        - {{[[TODO]]}} what success looks like?
+            - webpage visits?
+            - downloads?
+            - citations? 
+    - **Audience**
+        - {{[[TODO]]}} Who's the target audience?
+`define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`
+    - **Messaging**
+        - {{[[TODO]]}} oneliner/tweet
+            - 
+        - {{[[TODO]]}} long description
+            - 
+        - social proof
+            - {{[[TODO]]}} can we get testimonials to validate the value?
+        - Campaign
+            - {{[[TODO]]}} full-launch
+            - {{[[TODO]]}} teaser/early-access + full-launch
+`one idea to get an initial interest and testimonials is to provide exclusive pre-launch access to key target individuals in exchange for a testimonial`
+    - **Channels**
+        - {{[[TODO]]}} Yak talk newsletter
+        - {{[[TODO]]}} YC social networks - twitter, linkedin
+        - {{[[TODO]]}} contributors social channels inc. blog/newsletters
+        - {{[[TODO]]}} other Yaks social channels inc. blog/newsletters
+        - {{[[TODO]]}} 3rd party channels
+            - guest appearances - one of the contributors appears on well-known related media
+                - media
+                    - blogs/newsletters
+                    - podcasts
+                    - mainstream media
+                - {{[[TODO]]}} identify and pitch target hosts
+    - **Launch Timeline**
+        - Launch date: `TBD`
+        - `list milestones and key activities`
+            - date for feedback/initial analysis of results
+- 
+- 

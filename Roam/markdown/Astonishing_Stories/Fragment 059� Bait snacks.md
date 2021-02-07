@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[collapse]] future [[a century]] from now, there is a [[snack]] related to [[pets]] that creates a feeling of [[awkwardness]].
+- Fragment:: 
+    - Traditional models of domesticated pet ownership no longer make sense, so the new model is the return of an old one - coax or collect a young creature and train it to hunt with you. Certain snacks are manufactured to serve as optimal bait for such creatures - moreish and laced with a mild sedative.
+- Created by:: [[Claire Peters]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849828204&cot=11)
+- **Pockets of this future visible in the present**
+    - 

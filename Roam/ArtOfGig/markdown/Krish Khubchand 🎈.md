@@ -1,3 +1,0 @@
-- law student in the London
-- interests are quite wide -- see collections of resources I've explored here --> https://www.are.na/krish/
-- tweeting lots here -> https://twitter.com/krishkhubchand

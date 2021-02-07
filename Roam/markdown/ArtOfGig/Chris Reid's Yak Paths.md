@@ -1,0 +1,2 @@
+- Quick notes on key words or ideas pulled from the various weekly calls.
+- 

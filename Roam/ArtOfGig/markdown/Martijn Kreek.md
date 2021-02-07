@@ -1,3 +1,0 @@
-- My Profile:
-    - Located in Amsterdam (NL)
-    - 

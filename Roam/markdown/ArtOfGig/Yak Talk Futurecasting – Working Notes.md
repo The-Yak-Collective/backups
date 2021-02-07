@@ -1,0 +1,85 @@
+- [[Alex Wagner]]
+- 
+- ## Column Ideas Queue
+- __Subtracks__
+    - **Future of Governance**
+        - __Potential to collaborate with #online-governance [[Yak Collective Governance]] track at some point__
+        - **Future of Justice**
+            - https://thenib.com/after-the-cops/
+            - https://www.c2i2.ucla.edu/racial-justice-and-tech/
+            - https://twitter.com/ejeris/status/1271146701638848512
+            - https://twitter.com/mattyglesias/status/1272126951738785794?s=09
+            - https://americanaffairsjournal.org/2019/11/the-real-class-war/
+        - **Future of War**
+            - https://twitter.com/i/events/1272797478157299712
+            - https://twitter.com/ashokkmrsingh/status/1272893339591901193?s=19
+        - **Future of Foreign Policy**
+            - https://eandt.theiet.org/content/articles/2020/06/us-offers-to-fund-brazil-s-5g-if-huawei-is-excluded/
+            - https://en.m.wikipedia.org/wiki/The_Grand_Chessboard
+    - **Future of Work**
+        - https://www.gdi.ch/futureskills
+            - Paul Millerd
+        - https://lp.buffer.com/state-of-remote-work-2020
+        - [L'Atelier – The Virtual Economy](https://atelier.net/virtual-economy/?fbclid=IwAR0btlF4I2c7xZEFyHNwZkeTRMA3H5iQxoRN3ngqu24tMxcGXVeW9JxUEtg)
+        - **Future of Tools**
+            - What trend(s)/changes are pushing knowledge-graph focused tools to the fore right now?
+    - **Future of Real Estate**
+        - https://www.washingtonpost.com/business/2020/06/03/next-big-problem-businesses-cant-or-wont-pay-their-rent-its-setting-off-dangerous-chain-reaction/#comments-wrapper
+    - **Future of Money**
+        - [A 'growing club' of 'very powerful countries' is steering away from...](https://www.cnbc.com/2019/10/31/de-dollarization-russia-china-eu-are-motivated-to-shift-from-using-usd.html)
+        - [How Coronavirus is shaping capitalism](https://sarasotainstitute.global/the-consumer-in-the-age-of-coronavirus/)
+        - https://thehustle.co/covid19-local-currency-tenino-washington/?utm_source=pocket-newtab
+        - https://www.ft.com/content/f544bda2-a3fd-11ea-81ac-4854aed294e5
+        - https://foreignpolicy.com/2020/06/22/the-great-pause-was-an-economic-revolution%e2%80%a8/
+        - 
+    - **Future of Culture**
+        - Is anyone compiling a list of institutional deaths due to coronavirus? I’m thinking things like: 
+            - department stores 
+            - Movie theatres 
+            - dismissal of remote work
+        - https://www.vice.com/amp/en_uk/article/4ay3gw/what-gen-z-thinks-of-millennials
+        - https://www.tabletmag.com/sections/news/articles/american-soviet-mentality
+        - [The Politicization of Online Fandoms](https://twitter.com/doctorow/status/1274741763878424581)
+            -  tiktok k-pop 
+                - and the trump rally
+                - https://twitter.com/doctorow/status/1274741763878424581 – Doctorow thread on Kpop stans
+                - Travis Scott's Fortnite Content
+                - https://www.youtube.com/watch?v=leX541Dr2rU – "These are no ordinary fans"
+                - https://youtu.be/h0MWCxgFW9w – Yachty freestyles to Big Bang hits
+                - [![](https://media.discordapp.net/attachments/704004089385713719/726128571071856711/image0.png?width=453&height=540)](https://cdn.discordapp.com/attachments/704004089385713719/726128571071856711/image0.png)
+                - __It's the instantiation of the multicultural/urban coalition to me.__ - Ray Tseng
+                    - Lean Chihiro - Summer Hunter (Official Music Video) ｡☆*° https://youtu.be/jp3jiFaBL44
+                    - __Fascinating, probably this puts me in the geriatric category but it reminds me of the '70s kung fu movie - '90s Eastcoast hiphop Afro-American-Asian mesh of the Wu-Tang Clan, Jeru the Damaja, etc__ - Thomas Verhagen
+                    - 
+        - **Future of Sport**
+            - https://www.abc.net.au/news/2020-05-29/danish-fans-use-zoom-to-make-presence-felt-at-football-match/12300410
+            - https://www.youtube.com/watch?v=0hWE8aceThQ – Football matches now use FIFA game sounds for crowd noise
+        - **Future of Family**
+            - "The Queering of Family"
+                - http://thenewmodality.com/the-nitty-gritty-how-the-transformative-justice-systems-of-bipoc-and-activist-communities-are-influencing-the-counterculture/
+                    - Lydia Laurenson, [The New Modality](http://thenewmodality.com/newmo-founder-lydia-laurenson/)
+            - Weird online spaces
+                - https://twitter.com/devonzuegel/status/1280375422413225985?s=21
+                - 
+        - **Future of Design**
+            - https://mcmansionhell.com/post/618938984050147328/coronagrifting-a
+        - **Future of Media**
+            - https://everything.substack.com/subscribe?utm_medium=email&utm_source=subscribe-widget&utm_content=545383
+        - **The Future of Travel**
+            - https://www.travelpulse.com/news/airlines/new-double-decker-seating-concept-could-change-airline-travel.html
+    - **Future of Energy**
+        - [The plummeting cost of solar power](https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/?fbclid=IwAR2DCpzrY7-m9OScUSfpbpOSnQrJOjSwiHDmiFp74p6BHrrTvv3vH1Lr6Pg)
+    - **Future of Innovation**
+        - Redbull Corporate Innovation
+    - **Future of Future**
+    - **Future of Tech**
+        - https://twitter.com/EricaJoy/status/1275955752297918464?s=09
+        - 
+- 
+- 
+- 
+- ## Catch-All Notes
+- Research from Liechtenstein's Geospatial Intel Services
+- 
+- ## Pieces
+    - [[Trends-and-Futures – 07/17/2020 – K-Pop Fandom Politicization – Notes]]

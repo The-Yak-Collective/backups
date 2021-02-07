@@ -1,1 +1,0 @@
-- Martin Perez, SQL Server Database consultant specializing in building real-time high performance data warehouse integrations.

@@ -1,0 +1,3 @@
+- [[Experience Design]], [[strategy]] and [[communications]] consultant for growing tech startups. Currently based in [[California/San Francisco]]. Looking to grow my thinking, improve my consulting skills, and learn from fellow professionals.
+    - I hold a Bachelor's Degree in [[Interaction Design]] and have previous experience with [[Web Design]], [[UI Design]], and [[UX Design]] at startups and design agencies in Mumbai and San Francisco. 
+    - Feel free to connect on my [Linkedin](https://www.linkedin.com/in/agnimurthy), [Twitter](https://www.twitter.com/agnimurthy) or [website](https://www.agnimurthy.com)

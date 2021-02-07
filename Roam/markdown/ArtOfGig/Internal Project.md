@@ -1,0 +1,8 @@
+- An internal project is one initiated by a member of the Yak Collective using our [[Project Pitches]] process
+- Internal projects are used to validate new [[Coordination Model]]s internally before offering them to clients or simply to explore projects that interest us
+- [[Don’t Waste the Reboot]] (completed April 30, 2020)
+- [[The New Old Home]] (greenlit May, 2020)
+- [[Yaks do innovation consulting]] (greenlit May, 2020)
+- [[Astonishing Stories]] (greenlit July 2020)
+- [[Future Frontiers]] (greenlit July 2020)
+- [[Yak Rover]] (greenlit Dec, 2020)

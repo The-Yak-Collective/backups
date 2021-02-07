@@ -1,6 +1,0 @@
-- Bio: 
-    - I spent a decade at VICE designing, launching, and scaling new parts of the company, starting with Motherboard in 2009, then Noisey, VICE's YouTube channels, VICE News, the Growth team, then a Strat[]egy & BD group that included standing up partnerships, an in-house consultancy, a new business incubator, and a business analytics team. 
-    - In the two years since I left, I've helped a few friends get their companies off the ground and have worked with independent creatives, established companies, and nonprofits on solving cross-functional problems (e.g. fundraising, go-to-market, business model design, operational challenges, partnerships).
-- Contact:
-    - Email: sterling [at] proffer [dot] co
-    - [Twitter](https://www.twitter.com/sdproffer): @sdproffer (I don't tweet, I lurk, so there's no need to follow me)

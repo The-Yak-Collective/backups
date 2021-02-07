@@ -1,0 +1,21 @@
+- Subtitle: Justice, New Sheriffs in Town, and the Tech That Makes it Happen
+- Justice
+    - Old Forms
+        - (1 person) **Court of Public Opinion**: what does it look like if cancelling - public opinion - is the main form of social justice? This is how it was in Ancient Rome, where airing others' transgressions of social norms was normal and citizens understood their societal role as judge and jury. What does it mean if cancel culture extends past the Weinsteins (professional/cultural gatekeepers) to the Amy Coopers (mid-level business management) of the world? Does it go further? What ways will we measure community sentiment in the future that aren't considered today (Kernel ([[Neurofuturama]]) crossover?)
+            - This is not to be IDW fodder, but consideration of how this (dis)empowers ordinary internet citizens (Slate Star Codex?)
+        - (1-2 persons) **Ability to Pardon**: What does it mean/look like if pardoning is maximized? This obviously involves the federal executive branch and POTUS, but more interestingly, gives District/City Attorneys a crucial role at the heart of BLM and police reform. 
+            - Gerald Ford pioneered it, Chesa Boudin and Larry Krasner + Jack Dorsey and Mark Zuckerberg are the archetypes, but what lessons can we learn from previous presidential administrations, new DAs, and tech platform leaders? If legal systems are skippable, what role does public opinion/pardons play?
+    - New Forms
+        - ideas?
+- New Sheriffs
+    - (1-2 persons) **Dynamic Prediction for Minneapolis, Seattle, and Munis Following Their Footsteps **: who (within or outside) controls the city councils of these cities? What do they want? What structural impediments/advantages do they have? What outcomes are most likely? What does that mean for munis that are paying attention to where major cities/counties are going?
+    - (1-2 persons) **Sheriff Zuckerberg and Chief Dorsey**: how does corporate governance affect their social law enforcement role? TOS don't seem like they're going to cut it for enforcement, so what? What do the Amy Coopers of the world have to do to get out of jail/return from banishment? This is obviously related to the Court of Public Opinion - if cancelling is the most effective form of justice and the nuance of the apology is a subject of debate in the social square, what (slouchy) structures can be put in place to guide that energy effectively?
+    - ideas?
+- Tech
+    - (1 person) **Nine... Two Two?**: If police are defunded / re-prioritized away from emergency response, what is the symbolic replacement for 911? Violent crime in progress is <2% of all 911 calls. In a post-2020 world, what do you do/who do you talk to about non-violent crime?
+    - (1-2 persons) **Tech Expanding the Edge Cases**: Axon gets (warranted) flak for  incidents where Tasers are used not as a less-lethal alternative to a sidearm, but as a tool for pain compliance or unnecessary escalator. How should people think about the role of technology in defense/public safety contexts and the scope creep that occurs once the tools are in users' hands? There are tons of examples of this: Amazon Ring, Nextdoor, bodyworn cameras used to protect LE instead of to prosecute bad LE professionals, etc.
+    - (1 person) **Modern Praetorian Guard**: Maybe a short fiction piece? Derek Wince, mercenary peace officer? I had a conversation with [[Venkatesh Rao]] about this roughly a year ago while I was still at Axon, but have a solid stash of notes to share with anyone who'd want to take this on.
+- Full Picture
+    -  
+- Big Picture
+    - **Financial Backing (all but) Secured**: I've got interest from large (private sector) public safety cos, like Axon, RapidDeploy, and Getac

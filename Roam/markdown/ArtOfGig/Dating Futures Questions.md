@@ -1,0 +1,95 @@
+- [[Dating Futures Proposal]]
+- 
+- **Mapping Power at Dating App Companies**
+    - [LinkedIn Sales Nav Search](https://www.linkedin.com/sales/search/people?doFetchHeroCard=false&functionIncluded=3%2C6&keywords=hinge&logHistory=true&page=1&rsLogId=389302386&searchSessionId=hugnbMOiSUa3AyJAQaBEvA%3D%3D&seniorityIncluded=10%2C6%2C7%2C8%2C9)
+    - Twitter list
+- 
+- ## Links
+    - OKC blog: https://theblog.okcupid.com/love-in-the-time-of-corona-massive-spikes-in-matching-messaging-and-virtual-dates-around-the-ec12c49eab86
+    - https://dirtycode.io/ -- page to quantify and legibilize all sorts of features about your genetalia and physical appearance
+    - https://www.theverge.com/21291864/tiktok-etsy-psychic-soulmate-drawing-trend-meme
+    - https://www.youtube.com/watch?v=DLwskDkDPUE – the gamification of life, the gamification of all sociality, including dating
+        - what's our fringey take on that black mirror episode – "Nosedive"?
+            - https://www.theverge.com/2016/10/24/13379204/black-mirror-season-3-episode-1-nosedive-recap
+    - if you quote denis de rougemont, you might win the hearts and minds of america.
+    - Speaking of dating futures, how about a text-based game set in a dystopian future where you lover has been kidnapped by the serpent queen and you've gone undercover as her artisan.
+    - Miranda July's irl texting app: https://www.youtube.com/watch?v=iz13HMsvb6o
+    - [10:14 PM]
+    - Unauthorized SFMOMA: https://radicalnetworks.org/archives/2017/participants/unauthorized-sfmoma-show/
+    - and mention the evolution of romance as a historical formation
+    - OkCupid Blog: https://theblog.okcupid.com/love-in-the-time-of-corona-massive-spikes-in-matching-messaging-and-virtual-dates-around-the-ec12c49eab86
+    - [10:14 PM]
+    - 
+- **Need to check out**
+    - https://entitledopinions.stanford.edu/marisa-galvez-troubadour-poetry
+    - 
+- 
+- 
+- ## Why do you want a partner?
+    - sex
+        - NYC Health department condoning gloryholes
+        - IoT sex toys
+        - Emerging OnlyFans-ation of internet 
+    - someone to build a life with
+        - Trad wives
+            - Sarah Albers: https://twitter.com/goingblondzo
+            - Yak Herder GF
+        - Looming financial super-crash
+        - Normalization of polydom
+            - Breakdown of monogamy as cultural institution
+                - Monogamy as Windows 95.
+                - Will the state ever recognize poly coupling on a legislative level?
+    - someone to have children with
+        - lgbt
+            - hrt sterilization
+            - ethics of surrogacy
+        - "childfree" subreddit
+        - "pet parent" language
+            - child labor banned -> children thought of as expensive pets
+    - someone to trust/be honest with
+        - changing morés in trust and intimacy
+    - someone to make you feel good about yourself
+        - Tik Tok
+        - Viral inceldom
+            - TFW No GF
+            - "single by choice" at all levels including emma watson, lizzo, etc
+    - Finding a partner
+        - Weird Catholic Twitter matchmaking
+            - again @goingblondzo
+            - @default_friend
+        - love is quarantine
+    - keeping a partner
+        - covid divorces
+- ## What effect will the following have on dating? As single vectors and net/chaotic/emergent effects?
+    - COVID
+        - 
+    - BLM Protests
+        - Temporary Autonomous Zones
+            - Reclaiming the term
+                - Hakim Bey was not a good person
+            - Connection between TAZs and polydom? 
+                - Grasping for utopia
+                    - Tiny domestically-cozy utopias
+                        - Mostly online
+                        - Fleeting ones in irl
+                            - Privilege
+                        - What's the rhythm/emergence between the two?
+    - 
+    - 
+    - Dating apps
+    - Twitter alt accts
+    - VR/haptics
+    - Van life
+    - 
+- ## Thesis pitches
+    - traditional gender roles, arranged marriages, and young marriages force people to change themselves to be maximally compatible for a partner. as we move away from thee things it becomes harder and harder to find compatible mates in real life. At the same time, people take an increasingly cynical approach to dating: judging based on looks and other stats (height, weight) 
+        - the API is quantifying us to each other
+        - Gen Z's superpower: fluid performance of identity
+- 
+- ## A Twitter ethnography:
+    - https://twitter.com/CathyReisenwitz/status/1269138314516328449?s=20
+    - https://twitter.com/ntaverna/status/1272032955477774337?s=20
+    - https://twitter.com/shariaprelaw/status/1271550848989114375?s=20
+    - https://twitter.com/sadmoonanalog/status/1271636209790586881?s=20
+    - https://twitter.com/qorprate/status/1271280805801652226?s=20
+    - 

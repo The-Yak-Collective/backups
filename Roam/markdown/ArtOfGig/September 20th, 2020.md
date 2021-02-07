@@ -1,0 +1,6 @@
+- [[Infrastructure]] call 13:30 
+    - "infrastructure chat 19 [[September 20th, 2020]] #meeting-notes"
+- Production call 14:45 [[Jenna Dixon]] and [[Suwaythan Nahaganeshan]] to discuss design for [[Future Frontiers]] deck
+    - [[Jenna Dixon]] added [[Suwaythan Nahaganeshan]] to [[Production Squad]]
+- 
+- 

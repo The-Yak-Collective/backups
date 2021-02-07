@@ -1,0 +1,47 @@
+- [[YC Marketing - distributed CMO]] weekly sync #meeting-notes
+    - Location: discord 
+    - Time: 5pm GMT 
+    - Participants (TBC)
+        - {{[[DONE]]}} [[Hugo Macedo]] 
+        - {{[[DONE]]}} [[Maier Fenster]]
+        - {{[[DONE]]}} [[Grigori Milov]]
+        - {{[[TODO]]}} [[Sachin Benny]]
+        - {{[[TODO]]}} [[Paul Sas]]
+        - {{[[DONE]]}} [[Mike Baxter]]
+        - {{[[DONE]]}} [[Hershil Patel]]
+    - Agenda/Minutes
+        - {{[[DONE]]}} Marketplace vs. Boutique - Next steps
+            - context: 2 teams to develop the 2 concepts 
+            - good way to give some life to YC - work and discussing
+            - there are lot of assumptions
+                - "YC has a corporate functions" - but we don't
+            - Next Steps
+                - Roampage with present the project and each model #[[Grigori Milov]]
+                    - based on [[Concept Contrast Project (temp name)]]
+                - ask for join teams
+                - define output - process and timeline
+                - output idea - "startup" pitch deck, short to the point, press-release (amazon style)
+                - moderate a debate
+        - {{[[TODO]]}} "How I billed this" - how can we help build the "product"
+            - think about the launch as part of the product conception
+            - Who will love this?
+            - How can distribution be part of the "product"
+            - GM
+                - is about us - what we want to talk about us
+                - what value are we creating for the audience?
+            - MF
+                - Important audience are Yaks - so can be relevant to them
+                - can help build Trust and show 
+            - Cannot be 101 Consulting but more on Advance Topics in Consulting
+            - MB
+                - we need to talk to each other more
+                - focus Marketing on one thing for a sprint (4-6 weeks) maybe what we need
+                - What is the scope of Marketing
+            - GM 
+                - ^^2 sprints^^
+                    - 1 - do "it"
+                    - 2 - create a paid course based on the experience
+        - {{[[TODO]]}} [[Showcase Projects Launch]] framework as a staring point to help projects kick start
+        - {{[[TODO]]}} Micro workshops 
+        - {{[[TODO]]}} Publish material ICP
+            - 

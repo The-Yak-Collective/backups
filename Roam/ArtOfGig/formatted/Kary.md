@@ -1,5 +1,0 @@
-
-# Backlinks
-## [Wisdom from [general](<general.md>) [Internal Use]](<Wisdom from [general](<general.md>) [Internal Use].md>)
-- The conversations about diversity could be best structured via the lens of cognitive diversity in order to mitigate against the gender/race skewness that often occurs. Scott Page, a complexity science prof at Uni of Michigan wrote a great book about this called The Difference, where he showed how cognitively diverse teams are better at Complex Problem Solving and Prediction problems. He mathematically proved that {The Crowd's Square Error = The Mean Square Error - The Diversity of the Crowd} .... It therefore leads to rules on how to make Cross Functional Teams (CFTs) that can be used to channel diverse inputs to better problem solving -- something is very suited to the CoVid situation. I had given a 30 min talk about this a couple of years back and the video is on youtube. I also made a couple of simple slides that I'm sharing here. Hopefully they can be useful. https://drive.google.com/file/d/1DSZGvDQIdP7yTgyYALxz4LfLW9x6yXNo/view?usp=sharing - [Kary](<Kary.md>)
-

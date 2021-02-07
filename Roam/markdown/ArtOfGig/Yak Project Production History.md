@@ -1,0 +1,58 @@
+- # 0001 [[Don’t Waste the Reboot]]
+    - Published: APRIL 30TH, 2020 UTC. DAY 45 PANDEMIC MEAN TIME
+    - Lead Editors::
+        - on website: [Paul Millerd](https://www.yakcollective.org/members/paul-millerd) & [Venkatesh Rao](https://www.yakcollective.org/members/venkatesh-rao)
+        - on Roam:
+            - [[Paul Millerd]]
+            - [[Venkatesh Rao]]
+    - Collaborators::
+        - on website: [David McDougall](https://www.yakcollective.org/members/david-mcdougall), [Darren Kong](https://www.yakcollective.org/members/darren-kong), [Vaughn Tan](https://www.yakcollective.org/members/vaughn-tan), [Randy Lubin](https://www.yakcollective.org/members/randy-lubin), [Vlad Mehakovic](https://www.yakcollective.org/members/vlad-mehakovic), [Thomas Verhagen](https://www.yakcollective.org/members/thomas-verhagen), [Alex Dobrenko](https://www.yakcollective.org/members/alex-dobrenko), [Sachin Benny](https://www.yakcollective.org/members/sachin-benny), [Amanda Reeves](https://www.yakcollective.org/members/amanda-reeves), [Jordan Peacock](https://www.yakcollective.org/members/jordan-peacock), [Anne-Laure Le Cunff](https://www.yakcollective.org/members/anne-laure-le-cunff), [Martha Balaile](https://www.yakcollective.org/members/martha-balaile), [Benjamin Taylor](https://www.yakcollective.org/members/benjamin-taylor), [Nita Baum](https://www.yakcollective.org/members/nita-baum), [Vinay Débrou](https://www.yakcollective.org/members/vinay-debrou), [Tom Critchlow](https://www.yakcollective.org/members/tom-critchlow), [Rodrigo Pinto](https://www.yakcollective.org/members/rodrigo-pinto), [Ben Mosior](https://www.yakcollective.org/members/ben-mosior), [Harry Pottash](https://www.yakcollective.org/members/harry-pottash), [Jordan Allen](https://www.yakcollective.org/members/jordan-allen)
+        - on Roam: [[David McDougall]] [[Darren Kong]] [[Vaughn Tan]] [[Randy Lubin]] [[Vlad Mehakovic]] [[Thomas Verhagen]] [[Alex Dobrenko]] [[Sachin Benny]] [[Amanda Reeves]]. [[Jordan Peacock]] [[Anne-Laure Le Cunff]] [[Martha Balaile]] [[Benjamin Taylor]] [[Nita Baum]] [[Vinay Débrou]] [[Tom Critchlow]] [[Rodrigo Pinto]] [[Ben Mosior]] [[Harry Pottash]] [[Jordan Allen]]
+    - Developmental edit aka Spar aka Reader::
+        - __may want to break this down by piece__
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+    - Copyedit::
+        - __may want to break this down by piece__
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+    - Design::
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+    - Layout::
+        - [[Google Slides]]
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+    - Proofread::
+        - __normally one person would serve as final proofreader__
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+- # 0002 [[The New Old Home]]
+    - Published: JUNE 10TH, 2020 UTC. DAY 86 PANDEMIC MEAN TIME
+    - Lead Editors::
+        - on website: [Pamela Hobart](https://www.yakcollective.org/members/pamela-hobart) & [Drew Schorno](https://www.yakcollective.org/members/drew-schorno)
+        - in Roam:
+            - [[Pamela Hobart]]
+            - [[Drew Schorno]]
+    - Collaborators::
+        - on website: [Amanda Reeves](https://www.yakcollective.org/members/amanda-reeves), [Benjamin Taylor](https://www.yakcollective.org/members/benjamin-taylor), [Benton Heimsath](https://www.yakcollective.org/members/benton-heimsath), [Chris Clark](https://www.yakcollective.org/members/chris-clark), [David McDougall](https://www.yakcollective.org/members/david-mcdougall), [Drew Shiel](https://www.yakcollective.org/members/drew-shiel), [Jordan Peacock](https://www.yakcollective.org/members/jordan-peacock), [Kannen Ramsamy](https://www.yakcollective.org/members/kannen-ramsamy), [Michael Colin](https://www.yakcollective.org/members/michael-colin), [Ryan Hume](https://www.yakcollective.org/members/ryan-hume), [Sachin Benny](https://www.yakcollective.org/members/sachin-benny), [Scott Garlinger](https://www.yakcollective.org/members/scott-garlinger), [Shreeda Segan](https://www.yakcollective.org/members/shreeda-segan), [Thomas Hollands](https://www.yakcollective.org/members/thomas-hollands), [Thomas Verhagen](https://www.yakcollective.org/members/thomas-verhagen), [Toby Shorin](https://www.yakcollective.org/members/toby-shorin), [Tom Critchlow](https://www.yakcollective.org/members/tom-critchlow), [Venkatesh Rao](https://www.yakcollective.org/members/venkatesh-rao)
+        - in Roam:
+            - [[Amanda Reeves]] [[Benjamin Taylor]] [[Benton Heimsath]] [[Chris Clark]] [[David McDougall]] [[Drew Shiel]] [[Jordan Peacock]] [[Kannen Ramsamy]] [[Michael Colin]] [[Ryan Hume]] [[Sachin Benny]] [[Scott Garlinger]] [[Shreeda Segan]] [[Thomas Hollands]] [[Thomas Verhagen]] [[Toby Shorin]] [[Tom Critchlow]] [[Venkatesh Rao]]
+    - Developmental edit aka Spar aka Reader::
+        - __may want to break this down by piece__
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+    - Copyedit::
+        - __may want to break this down by piece__
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+    - Design::
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+    - Layout::
+        - [[Google Slides]]
+        - [[Fname Lname]]
+        - [[Fname Lname]]
+    - Proofread::
+        - [[Fname Lname]]
+        - [[Fname Lname]]

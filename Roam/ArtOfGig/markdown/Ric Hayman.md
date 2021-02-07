@@ -1,4 +1,0 @@
-- Location: Adelaide, AU
-- https://achurchassociates.com/about
-- https://twitter
-- 

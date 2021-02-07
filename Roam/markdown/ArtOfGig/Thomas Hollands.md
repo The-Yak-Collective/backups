@@ -1,0 +1,5 @@
+- I'm Thomas (or Tom). Currently furloughed from a management consulting job and spending time between Basel, Switzerland, and London.
+    - Twitter: https://twitter.com/tdoggyholhol
+    - I have experience in finance (portfolio management), startups (engineering) and previously started a maths education company.
+    - Blog: https://xsrus.com 
+    - I'm especially interested in strategy, collective behaviour, and complexity science applied to the business world.

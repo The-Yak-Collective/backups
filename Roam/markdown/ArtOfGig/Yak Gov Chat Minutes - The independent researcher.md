@@ -1,0 +1,54 @@
+- About:: __notes from weekly governance call__
+- Chief Page Wrangler:: [[Fname Lname]]
+    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
+- Created:: [[November 13th, 2020]] by [[Jenna Dixon]]
+- Page Type:: {{or: #Minutes | #Project | #tk2}}
+- Status:: {{or: Complete | Early Concept | Active | Proposal}}
+- Last Updated:: `/today` by [[Fname Lname]]
+- Last Gardened:: `/today` by [[Fname Lname]]
+- 
+- Reading::
+    - [Nadia Eghbal](https://nadiaeghbal.com/) | [The independent researcher](https://nadiaeghbal.com/independent-research)
+    - [Venkatesh Rao’s independant research thread](https://twitter.com/vgr/status/1195789557465153536?s=21)
+- Prompt::
+    - if you could self-fund in time/money, what would you do indie research on? And what’s stopping you from starting small right now?
+    - ## 
+- Attending:: 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FVbb7PUZGHX.png?alt=media&token=cef04e13-6448-426f-a0ca-d49db7bba6ca)
+    - [[Grigori Milov]]
+        - tk
+    - [[Jenna Dixon]]
+        - tk
+    - [[Palash]]
+        - I constantly write everything I read, in Roam. If those things connect, it works
+            - Reminds me of 'How To Take Smart Notes', and how traditionally research was 'start from a blank page', & Luhmann's idea was to not do that. Every thing you consume could be important. Hence the slip-box.
+                - But again, Luhmann did a huge 20-year project on 'society'
+            - "Credentials can get in the way"
+            - are we 'afraid to fail'?
+                - we need amateur play in research
+            - "people who get tenure in the US are very ambitious" - [[Venkatesh Rao]]
+                - according to Krishnamurthi -> ambition leads to fear -> which cannot include intelligence
+            - Yak collective could be a 'playground' for supporting research
+            - I'd like to do some research on the question: 'who is getting my data and how much data are they getting?'
+                - context: I have use brave, edge, chrome, firefox, all the browsers. Every one of them has some amount of privacy concern (even brave - which (in)famously added referral links for users).
+                    - there's of course the giants - Google, Microsoft, Facebook, Twitter, and even Apple
+                    - Google's abuse of personal data is the most blatant and obvious, but other areas are not so clear
+                    - For eg, [this study](https://arstechnica.com/information-technology/2020/03/study-ranks-edges-default-privacy-settings-the-lowest-of-all-major-browsers/) which ranks all the browsers by privacy, is cited in a lot of places, and it concludes that Edge is the least private of all.
+                        - In my experience, I found that all the problems pointed out in the report were of 'defaults' (which were changed after the report came out, so now you can turn those off). So, that essentially makes Edge almost as good as Brave. I wonder how many people did not understand this, and ended up discarding Edge based on this single research paper
+    - [[Ritesh]]
+        - I’ve always believed that PhD research is like kindergarten for adults and institutions are the playgrounds. And experiments is play.
+        - Romantic notions of believing that independent research was what drove the greatest progress by mankind. eg. Leonardo da Vinci, Alexander Graham Bell, Wright brothers
+        - What if we were to create a space and time in which you only break stuff and fail repeatedly? Once you break enough stuff, making might just happen serendipitously.
+        - To invoke the spirit of play, we need playgrounds (safe supportive spaces) to play in, playmates (challenging but not hostile) to play with and write our own playbook rather than begin with an established doctrine.
+        - I have been setting up the parameters (retired, no personal liabilities, basic survival catered) needed to stay independent. I’m currently ‘researching’ on invoking and instilling a spirit of play while learning, earning and relating. 
+        - YC lab could be a collective research playground as a middle path between solo indie research and institutional inertia. Many independent researchers in one collective. 
+    - [[Sachin Benny]]
+        - tk
+    - [[Scott Garlinger]]
+        - tk
+    - [[Anuraj R]]
+        - tk
+    - [[Venkatesh Rao]]
+        - tk
+- 
+- 

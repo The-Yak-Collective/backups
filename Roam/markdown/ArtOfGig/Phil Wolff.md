@@ -1,0 +1,9 @@
+- Mini bios
+    - Recently: Helping bootstrap [Wider Team](https://Wider.Team), an Identity of Things strategy practice, improving healthcare and [[biopharma]] outcomes in Europe and North America. [[digital identity]], [[IDoT]], [[IoT]], [[IoMD]], [[IIoT]]
+    - 
+- Outside Links: 
+    - [@evanwolf](https://twitter.com/evanwolf) 
+    - [LinkedIn](https://linkedin.com/in/philwolff)
+    - [pevanwolf@gmail.com](mailto:pevanwolf@gmail.com)
+    - [+001.360.441.2522](tel:+001.360.441.2522) 
+    - 
