@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 9 * * *"
 
 jobs:
   roam-backup:
@@ -21,23 +21,22 @@ jobs:
           node-version: '14'
       - name: Backup graphs
         run: |
-          mkdir -p __Roam
-          cd __Roam
+          cd /tmp
           git clone -q https://github.com/everruler12/roam2github.git roam2github
           cd $_
           npm install
           npm run start -s
-          cd ..
-          rm -rf ../Roam
-          mv __Roam ../Roam
-          cd ..
-          rm -rf __Roam
+          cd $GITHUB_WORKSPACE
+          rm -rf Roam
+          mkdir Roam
+          mv {edn,json,markdown} Roam/
           bash .bin/roam_asset_downloader.sh Roam/markdown/ArtOfGig
           bash .bin/roam_asset_downloader.sh Roam/markdown/Astonishing_Stories
         env:
           R2G_EMAIL: ${{ secrets.ROAM_USER }}
           R2G_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
           R2G_GRAPH: ArtOfGig,Astonishing_Stories
+          MD_REPLACEMENT: _
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

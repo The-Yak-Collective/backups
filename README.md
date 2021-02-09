@@ -2,4 +2,4 @@
 
 ## Automatic
 
-- [Roam](https://roamresearch.com/) (using [`roam-to-git`](https://github.com/MatthieuBizien/roam-to-git))
+- [Roam](https://roamresearch.com/) (using [`roam2github`](https://github.com/everruler12/roam2github))
