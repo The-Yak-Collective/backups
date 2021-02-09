@@ -27,6 +27,7 @@ Meta::
             - [[Website Widgets]]
             - [[How to Add a New Project to the Website]]
         - [[Contributing to the Website]]
+            - [[Yak House Style]]
             - [[Code Style Guide]]
             - [[IT Infrastructure and Project Security Basics]]
             - [[Building the Website]]

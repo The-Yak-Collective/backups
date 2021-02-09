@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[collapse]] future [[a decade]] from now, there is an [[ritual]] related to [[justice]] that creates a feeling of [[shame]].
-- Fragment:: 
-    - An annual ceremony. Police lay on the ground and chant "I can't breathe" as a reminder to be just in our actions and embody shame for past actions
-- Created by:: [[Amanda Reeves]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849827752&cot=6)
-- **Pockets of this future visible in the present**
-    - [Hong Kong police ‘rebuke’ officer who chanted ‘I can’t breathe’ and ‘black lives matter’ on frontlines](https://hongkongfp.com/2020/06/13/video-hong-kong-police-rebuke-officer-who-chanted-i-cant-breathe-and-black-lives-matter-on-frontlines/)

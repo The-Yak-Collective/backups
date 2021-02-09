@@ -1,0 +1,67 @@
+- [[Scott Garlinger]] and [[Shreeda Segan]] and [[Evangeline Louise]] workspace 
+- historically  
+- economically
+    - https://www.doi.gov/about
+    - https://averyreview.com/issues/43/on-the-inside-out 
+- business ecosystems
+    - take the biological metaphor more seriously 
+    - take core principles to their logical endpoint 
+    - Scott -- what are some examples of this as applicable to New Old Country 
+        - corporate farming at scale (?) 
+    - homestead -- we need it and it has to happen at these sorts of scales
+        - take all landscaping companies and turn them into homesteading design/consultation companies  
+- homesteading as a reactionary? thing 
+    - you see what the suburbs produce, it isn't that satisfying, you move out to try to live more sustainably 
+- not everyone can dip out to nebraska 
+    - terraform out of murphys burrow ? 
+- meaning making project 
+    - libertarian homestead
+        - self actualization 
+    - legacy -- community relationship
+- How homesteading is related to the future
+    - How homesteading has changed from Manifest Destiny era (about “opportunities” being provided to Americans) to 1960s - 2020 (about how America has failed its citizens, failed as a state)
+        - dark history (cherokee trails to opened land for homesteaders e.g.) 
+        - village settings yet connected to the global mind (thousand experiments bloom and see what works)
+        - homeschooling & homesteading
+            - https://twitter.com/Chesschick01/status/1283239780638240768
+            - 
+    - Something to disclaim / acknowledge - How homesteading is related to the past, and how that should be dealt with
+- The cultures around different alternative building methods (“earthships” on one side of the spectrum, PassivHaus (passive house) on the other)
+    - Devotees of those practices, how they interact with the IRC2015, etc.
+    - What constitutes a vernacular
+        - https://en.wikipedia.org/wiki/Vernacular_architecture#:~:text=Vernacular%20architecture%20is%20described%20as,local%20traditions%20and%20cultural%20practices.
+        - Louis Kahn - Shelter Pub: https://www.instagram.com/shelterpub/?hl=en, https://www.shelterpub.com/
+    - Talking about pole barns
+        - https://waltersbuildings.com/why-do-they-call-it-a-pole-barn
+        - pole barns have become popular for folks building their own houses 
+            - regional association with pole barns but they're a good method for different use cases 
+        - product owners and "building" owners 
+            - product owners (in tech)-- responsible for ideation, growth, maintenance, etc. 
+            - alternative building methods that first time builders can confidently rely on 
+                - responsible for maintenance, not contracting out to others to maintain 
+- how permanent or how motivating a force is covid going to actually be in pushing certain people out from metropolis to places where they have to be responsible for their own home? 
+    - how will services in this space change too? 
+- "alternative" homesteads (places you are entirely responsible for)
+    - boats 
+    - RV / tiny home / van 
+- industry mobility  & homestead ecosystem 
+    - lot 2046 - https://www.lot2046.com/ camper (ARK1: https://twitter.com/lot2046/status/1293300691885338624?s=09)
+    - conventional economic ecosystem around homesteads
+        -  real estate and contracting 
+    - who will become product killers & disrupters in this space? 
+        - campgrounds as a service -- https://techcrunch.com/2020/07/20/kibbo-wants-to-remake-the-trailer-park-so-vanlife-can-be-a-life-and-not-a-lifestyle/amp/?__twitter_impression=true
+        - kitchen garden as a service -- thrivelot.com 
+        - the homesteading consultant 
+            - what info / services will they be providing? 
+            - fire preparedness is an existing example of a space where private contractors advise on this 
+        - people who are helping celebs like Kanye, etc., with moving out to Wyoming may become emerging leaders in this space
+            - pre fab homes, pre fab structures, shop/tool items, consultants 
+    - economic/ecosystem 
+        - cosmo localism 
+            - modular manufacturing 
+            - michel bauwens: the common 
+            - https://www.opensourceecology.org/ 
+        - how are you funding your project? what relationship does your project have to capitalism/the market?
+        - things being built to break vs built to last 
+        - minimum viable scale 
+            - can be much more localized 

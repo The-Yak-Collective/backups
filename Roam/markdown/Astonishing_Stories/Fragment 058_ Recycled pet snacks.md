@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[collapse]] future [[a century]] from now, there is a [[snack]] related to [[pets]] that creates a feeling of [[awkwardness]].
+- Fragment:: 
+    - To limit the resources required to keep a pet alive the law is that you can't keep them for very long. Since resources are scarce there is a service that tries to reduce the awkwardness of 'recycling' them into snacks. There are parenting guides on how to talk to your kids about 'pets.'
+- Created by:: [[Chris Butler]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348906097241&cot=11)
+- **Pockets of this future visible in the present**
+    - 

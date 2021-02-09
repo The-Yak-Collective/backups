@@ -1,2 +1,0 @@
-- From Semon on discord: Regarding Sex Ways, I remember Kate Devlin's discussion of the Ethics of Artificial Sexuality at this NYU talk series way back in 2016 to be rather good: https://livestream.com/nyu-tv/ethicsofai/videos/138822041 (I believe her talk is midway through this video)
-- 

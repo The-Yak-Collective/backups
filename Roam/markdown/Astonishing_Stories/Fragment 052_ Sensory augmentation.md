@@ -1,0 +1,8 @@
+- **Scenario:** 
+    - In a [[growth]] future [[two generations]] from now, there is a [[pill]] related to [[learning]] that creates a feeling of [[optimism]].
+- Fragment:: 
+    - Drugs that temporarily augment your senses (e.g., enable you to perceive the UV spectrum or have a heightened sensitivity to electrical currents or magnetic fields) are cleared for use by the general public, albeit under strict supervision. Sensory palaces pop up to provide said supervision, and let an imbiber play around with their new senses and understanding the theory behind the phenomenon.
+- Created by:: [[Claire Peters]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849828140&cot=6)
+- **Pockets of this future visible in the present**
+    - 

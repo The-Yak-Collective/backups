@@ -1,3 +1,6 @@
+- [[February 8th, 2021]]
+- [[February 2nd, 2021]]
+    - "#[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). "
 - [[January 25th, 2021]]
     - #[[Year 1 meeting notes]] Today is our first regular yak rover group meeting (10 PM Pacific, morning in Europe, afternoon in Japan).
         - Please save this email since it has useful links.
@@ -60,5 +63,3 @@
                 - Scavenging when rover breaks down when economies of scale kicks in. Dump 100 rovers changes the equation
                 - If there are frequent launches then various combination of rovers are possible
                 - Elon's tweet on how to make fuel on Mars. 
-- [[February 2nd, 2021]]
-    - "#[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). "

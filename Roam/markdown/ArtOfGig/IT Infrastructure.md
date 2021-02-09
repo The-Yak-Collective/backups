@@ -121,12 +121,13 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
     - [[Yak Collective Website]]
     - [[bots-a-lot internal project page]]
 # Documents
-    - [[Discord Channel Lifecycle and Organization]]
-    - [[Schema | member data]] (draft)
-    - [[Code Style Guide]]
-    - [[IT Infrastructure and Project Security Basics]]
+    - [[Yak House Style]] (writing & visual style guide)
+    - [[Code Style Guide]] (coding style guide)
     - [[Threat Model]]
+    - [[IT Infrastructure and Project Security Basics]]
+    - [[Schema | member data]] (draft)
+    - [[Discord Channel Lifecycle and Organization]]
 # Discussions & Decisions
     - [[onboarding it - thoughts about onboarding infrastructure]]
 # Proposals
-    - [[Yak Collective Member Types]]
+    - [[Yak Collective Member Types]] #proposal

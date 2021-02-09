@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[discipline]] future [[two generations]] from now, there is a [[clothing]] related to [[the economy]] that creates a feeling of [[nostalgia]].
-- Fragment:: 
-    - Digitally scarce in-game Supreme box logo tee
-- Created by:: [[Nathan]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348906342601&cot=11)
-- **Pockets of this future visible in the present**
-    - 

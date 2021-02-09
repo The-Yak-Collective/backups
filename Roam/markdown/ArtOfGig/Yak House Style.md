@@ -1,36 +1,49 @@
-- So you're making a Yak web page, presentation, app? Here's what we're doing lately.  
-    - ## Accessibility. 
-        - {{[[TODO]]}} Nothing here, but how much can we get out of the box? 
-    - ## Text. 
-        - page text is mostly the responsibility of the individual projects.
-        - Yak Words (our meaning, usage). 
-            - Yak ()
-            - YC ()
-            - Yak Collective ()
-                - Yak Collective vs. The Yak Collective. 
-            - Yakster ()
-            - Yakking ()
-            - Yak Shaver ()
-            - Yak Herder ()
-        -  Tired consulting words 
-            - salient 
-    - ## Yak brand logos, icons, symbols, signatures, etc. 
-        - {{[[TODO]]}} Yak art to use in your presentations and publications. 
-        - {{[[TODO]]}} Templates for common documents. 
-    - ## Base style. 
-        - Tachyons (https://tachyons.io/). Use the built-in tachyons classes whenever possible. Break this rule to preserve code readability or to keep things simple.
-    - ## Fonts. 
-        - "noto serif"
-        - "playfair display" used for headings. 
-        - "font awesome" for icons.
-    - ## Colors. 
-        - white (rgba(255,255,255,1.0)) 
-        - almost-black (rgba(15,15,15,1.0)). 
-        - These are specified as rgba rather than hex because we create shades of gray by changing the opacity, rather than selecting a set of hex colors. Links use 0.8, 0.2 for borders and de-emphasized text, 0.05 for shaded backgrounds. 
-        - We let pages flip colors for a "dark mode". Used for the slides in [[future frontiers]] (which then sub out the background color). But it is actually a more general capability.
-    - ## CSS
-        - CSS Classes. you can find most of the css here: https://github.com/The-Yak-Collective/yakcollective/tree/netlify-prod/css 
-        - Generated CSS. there's a little bit of per-page css that's generated in the header at build time (lines 165 - 266; coding is liquid, but should be decipherable even if you're not super-familiar): https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/_layouts/default.html
+- About:: __So you're making a Yak web page, presentation, app? Here's what we're doing lately.__
+- Chief Page Wrangler:: [[Phil Wolff]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+- Created:: [[February 3rd, 2021]] by [[Phil Wolff]]
+- Last Updated:: [[February 7th, 2021]] by [[Nathan Acks]]
+- Last Gardened:: [[February 7th, 2021]] by [[Nathan Acks]]
+- ## Accessibility
+    - {{[[TODO]]}} Nothing here, but how much can we get out of the box?
+        - > [[Nathan Acks]] says: Tachyons should be relatively accessible, and the site itself leans strongly into semantic tags, which should help. We score well on the Lighthouse automated tests, but really need someone who has some accessibility experience to review and [open tickets](https://github.com/The-Yak-Collective/yakcollective/issues). #[[Help wanted]]
+- ## Text
+    - page text is mostly the responsibility of the individual projects.
+    - Yak Words (our meaning, usage). 
+        - Yak ()
+        - YC ()
+        - Yak Collective ()
+            - Yak Collective vs. The Yak Collective. 
+        - Yakster ()
+        - Yakking ()
+        - Yak Shaver ()
+        - Yak Herder ()
+    -  Tired consulting words 
+        - salient 
+- ## Yak brand logos, icons, symbols, signatures, etc. 
+    - {{[[TODO]]}} Yak art to use in your presentations and publications.
+        - [High quality Yak logo](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/resources/yak-logo-icon.png) (up-scaling courtesy [[Jenna Dixon]])
+        - Early projects used [Hero Pattern](https://www.heropatterns.com/)'s Topography SVG (here's a [grayscale archived version](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/resources/hero-patterns-topo-map.svg) in case the original website goes down)
+    - {{[[TODO]]}} Templates for common documents. 
+- ## Base style
+    - Tachyons (https://tachyons.io/). Use the built-in tachyons classes whenever possible. Break this rule to preserve code readability or to keep things simple.
+- ## Fonts
+    - [Noto Serif](https://fonts.google.com/specimen/Noto+Serif) for body text.
+    - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) used for headings. 
+    - [Font Awesome](https://fontawesome.com/) (the free version) for icons.
+- ## Colors
+    - white (rgba(255,255,255,1.0)) 
+    - almost-black (rgba(15,15,15,1.0)). 
+    - These are specified as rgba rather than hex because we create shades of gray by changing the opacity, rather than selecting a set of hex colors. Links use 0.8, 0.2 for borders and de-emphasized text, 0.05 for shaded backgrounds. 
+    - We let pages flip colors for a "dark mode". Used for the slides in [[Future Frontiers]] (which then sub out the background color). But it is actually a more general capability.
+- ## CSS
+    - CSS Classes. you can find most of the css here: https://github.com/The-Yak-Collective/yakcollective/tree/netlify-prod/css 
+    - Generated CSS. there's a little bit of per-page css that's generated in the header at build time (lines 165 - 266; coding is liquid, but should be decipherable even if you're not super-familiar): https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/_layouts/default.html
+    - Unit conventions:
+        - We avoid using absolute `px` units whenever possible.
+        - We prefer to scale elements using the root-em (`rem`) or viewport size (`vh`/`vw`) rather than block-relative units (`em` and `%`).
+        - These are not absolute rules; the goal is that zooming the page in and out should actually scale __all__ elements appropriately, rather than just scaling the text size.
+- ## See Also
     - [[Code Style Guide]] for your poetry. 
-- Credits: 
+- ## Credits
     - [Suggested in a thread](https://discord.com/channels/692111190851059762/739204942417494047/806728634307838002) by [[Nathan Acks]]

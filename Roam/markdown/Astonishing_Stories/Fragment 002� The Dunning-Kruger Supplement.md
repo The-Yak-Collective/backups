@@ -1,6 +1,0 @@
-- In a [[growth]] future [[two generations]] from now, there is a [[pill]] related to [[learning]] that creates a feeling of [[optimism]].
-- The Dunning-Kruger supplement is what you take right after you start to realize that you don't know what you are talking about. Even though there are more errors that happen, we realized that they were not as bad as being stuck in old ways of thinking. Truth-sayers use the supplement to stop themselves from being dragged down by the dominant logic of old models.
-- Created by [[Chris Butler]]
-- [Link to this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348906286279&cot=11)
-- # Pockets of this future visible in the present
-    - This could be a mainstream drug that emerges from the increasing body of work around benefits and applications of psychedelics for mindset and self-knowledge: https://www.thekykeon.com/posts/2020/1/3/taming-our-world-part-1 [[Amanda Reeves]]

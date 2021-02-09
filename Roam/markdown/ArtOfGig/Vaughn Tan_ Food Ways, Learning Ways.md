@@ -1,0 +1,54 @@
+- >>>> YAKS COMMENT HERE POR FAVOR <<<<
+- Share your thoughts and brickbats here. If you don't mind being contacted for follow-up, please attach your discord handle or preferred contact method to the comment...
+- for [[Sachin Benny: Order Ways]] I'm looking at what an economy around third party learning may look like - micropayments for accessing someone else's API to their brain
+- 
+- 
+- >>>> END OF YAK COMMENTS <<<<
+- overall considerations
+    - correlational analyses require independent and dependent variables
+    - neural activity measures are both independent and dependent variables
+        - another way to frame the question is: what are the dependent variables that might be of interest as being inferentially causally connected to neural activity measures?
+        - also: what are the contexts in which it would be interesting/valuable to collect neural activity data?
+        - also: what are the forms in which neural activity data might be interesting?
+- Food Ways (initial free-association topics)
+    - hyperspecificity and individuation of neuro-optimisation
+    - supplementation
+        - nootropics that work primarily biochemically through more- or less-understood pathways
+        - custom supplementation tailored to individual neuro/biochemistry
+        - tailoring to ways and states of thinking: eg tea-drunk,
+    - what does premium look
+        - the normalisation of the hypernatural
+        - hypertechnical
+    - "flavoured" supplement
+        - style in relation to supplementation ("i want what tim ferriss is on")
+        - curation in re supp (HUO for supplementations)
+        - endorsement dynamics (identifying elective clusters of convergent taste in supplementation)
+    - downregulation as a desired temporary state: when everyone is in cogn turbomode all the time, supplementation can be to reduce capacity. (like the culture glanding __calm__ or __stupid__)
+- Learning Ways (initial free-association topics)
+    - multiple possible directions of travel
+        - learning of high-level cognition as competitive advantage; low-level content-acquisition and processing as outsourced work
+        - learning for affective
+        - learning for interpretive work as competitive advantage; formal logico-cognitive work being outsourced
+        - learning for relational work
+    - third party learning
+        - remote (ie mediated) use of someone else's tacit knowledge
+            - knowing-how
+        - remote (ie mediated) use of someone else's affective responses
+            - as in therapy
+        - remote (ie mediated) use of someone else's explicit knowledge
+            - about fact
+            - about process
+    - remote (ie mediated) use of someone else's memory
+    - rented learning
+        - "external memory" tools
+        - "memory as a service"
+    - (literal) consumption of knowledge:
+        - RNA learning
+            - from others previous time-periods (katras)
+            - from others in the future
+        - from others in same time-period
+- 
+- 
+- 
+- paper relevant to learning ways https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3180724
+- https://reader.elsevier.com/reader/sd/pii/S0165027014002702?token=DBFC71FB520C560D98844C4A27B5CD2AE8A2E6136C4AA1B1C89C745BB6A62CAFAE922D483AC4AD55BE0F18C00E31B402

@@ -1,8 +1,0 @@
-- **Scenario:**
-    - In a [[growth]] future [[two generations]] from now, there is a [[law]] related to [[cloning]] that creates a feeling of [[hilarity]].
-- Fragment:: 
-    - Series of new laws written by regulators who find the whole notion of cloning improprietous from the start lead to laws that try to talk around the issue altogether to avoid giving anybody any ideas, e.g. "A person may not dispense a DNA sample to a third party in relation to any financial transaction without a clear statement of intent and suitable delineation of future plans related to said sample." Everybody else finds this hilarious, and it ultimately affects nothing.
-- Created by:: [[Claire Peters]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849828203&cot=11)
-- **Pockets of this future visible in the present**
-    - 

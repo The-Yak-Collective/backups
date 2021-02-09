@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[growth]] future [[two generations]] from now, there is a [[law]] related to [[cloning]] that creates a feeling of [[hilarity]].
-- Fragment:: 
-    - In the year 2063, a celebrity cloning startup is shut down after hordes of Beatles clones perform their own songs in concert (the music is still under exclusive copyright by the Beatles' Holograms).
-- Created by:: [[Erik Sandberg]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849827978&cot=11)
-- **Pockets of this future visible in the present**
-    - 

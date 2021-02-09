@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[growth]] future [[a generation]] from now, there is an [[statue]] related to [[sports]] that creates a feeling of [[exhilaration]].
-- Fragment:: 
-    - a statue of the first person to run a sub 3 minute mile, thanks to advances in training/nutrition, supplements, sneaker technology, etc.
-- Created by:: [[Tracy Brinkerhoff]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348849827833&cot=6)
-- **Pockets of this future visible in the present**
-    - 

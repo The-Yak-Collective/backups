@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[discipline]] future [[a decade]] from now, there is an [[show]] related to [[wealth]] that creates a feeling of [[outrage]].
-- Fragment:: 
-    - Reality TV entertainment *mainstream* show on social media/new media *monetizing* mob outrage against wealthy people, but also giving them an opportunity to confess and *redeem* themselves in public opinion
-- Created by:: [[Zhan Li]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942304835&cot=6)
-- **Pockets of this future visible in the present**
-    - 

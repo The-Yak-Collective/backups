@@ -1,0 +1,171 @@
+- A future fragment is a glimpse of a possible future, focused on an object that might be found within it. The future fragments created for this project were produced by playing The Thing From The Future.
+- # Fragment template
+    - Scenario:: 
+        - In a [[arc]] future [[time]] from now, there is a [[object]] related to [[terrain]] that creates a feeling of [[mood]].
+    - Fragment:: 
+        - 
+    - Created by:: [[]]
+    - Miro Link:: [this fragment on Miro](#)
+    - **Pockets of this future visible in the present**
+        - 
+- # Master list: all fragments
+    - [[Fragment 001: Grandma Flair]]
+        - "**Grandma Flair**: A food advertisement that delights you about the real food that you are eating. If the food you are eating has fewer than five ingredients or ingredients that you can pronounce, it fills the space with colorful delight."
+    - [[Fragment 002: The Dunning-Kruger Supplement]]
+        - "The Dunning-Kruger supplement is what you take right after you start to realize that you don't know what you are talking about. Even though there are more errors that happen, we realized that they were not as bad as being stuck in old ways of thinking. Truth-sayers use the supplement to stop themselves from being dragged down by the dominant logic of old models."
+    - [[Fragment 003: Cis-gender festival]]
+        - "A festival that pops up for celebrating cis genders from a fringe group. Some accuse it as regressive while others think it is a right to celebrate one's identity."
+    - [[Fragment 004: 111 channel]]
+        - "In the future there is a new online platform called the  111 channel this is where the 1% of the 1% of the 1% come together to flaunt their wealth and show what new "things they have come up with to do with their unlimited stockpiles of cash. The new aspect to the channel is that to be able to view the channel you need to be in th 1%  to interact on the channel you you need to be in the 1% of the 1% and to create content for the channel you need to be in the 1% of the 1% of the 1%. Upon accidental opening of the channel the general public become aware of what is going on on this private platform and news soon begins to circulate"
+    - [[Fragment 005: Neural implant w/ nano-drones]]
+        - "A future Cyrano de Bergerac sells a service where they can use their own neural implant, linked to nano-drones injected into the client to literally take over all facial expressions and utterances in the effort to charm a romantic interest. Eventually this expands to multiple domains and pricing is based on length and density, with some wealthy clients employing full-time teams to manage their personal and professional lives 24/7."
+    - [[Fragment 006: Fingerprint money transfer]]
+        - "Novel and increasingly aggressive COVID strains develop over the coming years, making it unsafe for people 60+ to leave their homes. To enable remote secure banking transactions, a small hardware device with fingerprint recognition and physical numeric input keys lets the elderly easily transfer funds and approve payments. In lieu of a smartphone interface"
+    - [[Fragment 007: Family scanner]]
+        - "In the year 2040, after cloning becomes widespread, most families have an instrument in their home that scans family members to detect if a family member has been replaced by a clone. Note: Maybe something along the lines of CRISPR modifications to fit within the generational timeframe."
+    - [[Fragment 008: memetic community guidelines]]
+        - "Virtual spaces allow anyone to connect with anyone about anything. You can find your weird tribe. Communities need to have good guidelines and policies. No one has time to write that from scratch though. Instead they keep taking copies of different communities online. Creating a huge phylogenetic trees that circle in on each other (along with attack vectors). The hardest and most volatile part of any communities guidelines are about acceptable jokes and memes. They are also the most abused."
+    - [[Fragment 009: Performance-enhancing memory drug]]
+        - "Post-Covid, biotech gains renewed interest and financial backing that begins to pay off a decade or two later. Mid-century nootropics are becoming very effective at improving memory and restfulness, and propelling some American, Chinese, and Indian pharmaceutical companies into the stratosphere. Norms are changing around even brain drugs that exist today. A breakthrough in 2049 regarding a drug eerily similar to nicotine appears to slow and reverse the effects of Alzheimer's disease and other degenerative brain diseases, which has become a societal focus especially in  rapidly aging societies like Japan and Europe. Entrepreneurs, grad students, and other rule-breakers get their hands on it already on the very early suggestion that it cuts sleep requirements in half and vastly improves shortterm memory. Longitudinal studies, though, take time- the drug remains out of reach for most non-infirm people."
+    - [[Fragment 010: Infinity & beyond]]
+        - "A century from now implants mischievously coordinate with other implants to create more implants. They develop sentient consciousness that evolves into a meta-borg that narcissistically meditates on its navel. This creates a feeling of charm as they contemplate the infinite regression."
+    - [[Fragment 011: Billionaire's vision of moon colony]]
+        - "Billionaire releases his speculative fiction vision for man's presence on the moon which talks about "colonization" of the moon which sparks political outrage about the word "colonization"."
+    - [[Fragment 012: Bring the yellow back]]
+        - "After increasingly aggressive COVID strains have restricted global imports of tropical fruits beyond the equator, a bright yellow splash campaign colours the walls of London and New York underground stations selling a grow-your-own micro-gardening environment optimised for bananas and mangoes."
+    - [[Fragment 013: Perfect Parent ]]
+        - ""Perfect Parent" gamified neurofeedback device + app + social media."
+    - [[Fragment 014: Farming retreats]]
+        - "In the year 2025, as the "always-on" mode of being constantly connected to work (via smartphone, internet, etc.) becomes passe and low-class, large midwest farms place full page advertisements in the New York Times for wealthy urbanites to come pick fruit and other crops as a type of retreat from busy urban life."
+    - [[Fragment 015: Fire escape gardening]]
+        - "In a few years, an ad for seeds that can be densely packed together allows a young couple to finally grow most of their vegetables on their fire escape, significantly reducing their need to go out for shopping and risking infection, and allowing them to completely end their DTC pseudo-CSA subscription."
+    - [[Fragment 016: Hyperpersonalized homeschooling kit]]
+        - "a kit of hyper personalized learning tools based on quantified activity from the previous year. This could be subjects, training for specific activities etc. coincides with increase in homescholling"
+    - [[Fragment 017: Virtual HouseGuest]]
+        - "Virtual HouseGuest - family can now drop in and participate in your normal routine. Dinner time, movie night, by ringing a virtual doorbell and being invited to cameras and screens within the house"
+    - [[Fragment 018: Love the Land]]
+        - ""Love The Land" - A return to simpler times, this federal campaign advertises the joys of simple life - work the land and grow your own crops, disconnect from technology. Some  take this earnestly and reconnect to growing their own food, others take it as permission to make love on the land, creating delightful 60's era 'make love' communes."
+    - [[Fragment 019: Fly me to the moon]] [[Ben S]]
+        - "'Fly me to the moon' - A reality show following a group of wealthy Americans leaving Earth to take up residence in space. Will life in space be safer than life with COVID? Tune in Thursday to find out"
+    - [[Fragment 020: Your 25th birthday dossier]] [[Ben S]]
+        - "on your 25th birthday, a public dossier is compiled of everything offensive or controversial you've said or done. it's visible to potential employers, friends, partners etc."
+    - [[Fragment 021: Medical bracelet for antibodies]]
+        - "expensive medical bracelet that symbolizes you have tested positive for specific antibodies."
+    - [[Fragment 022: Woodlands regression]]
+        - "A decade from now an unpublished paper from a discredited  scientist is uncovered foretelling the future of the worlds woodland areas. Over the last 10 years woodland areas have regressed to the point where even if we wanted to bring them back there is a lack of diversity amongst the flora and fauna inhabiting those spaces."
+    - [[Fragment 023: Police shame ritual]]
+        - "An annual ceremony. Police lay on the ground and chant "I can't breathe" as a reminder to be just in our actions and embody shame for past actions"
+    - [[Fragment 024: At-home fresh cricket powder mill]]
+        - "A brochure for an at-home fresh cricket powder mill. An all-in-one kitchen appliance that you drop food scraps into to feed your cricket farm. When fully grown, it roasts them fresh, and grinds them into a fine nutritiously dense, high-protein powder for use in baking. Mini bread-baking oven attachment optional."
+    - [[Fragment 025: Meathead turkey shaming]]
+        - "Artificial meat becomes ubiquitous but the meathead tradition of killing a real turkey for thanksgiving brings shame to the entire country"
+    - [[Fragment 026: Hygiene 3.0]]
+        - "A post-pandemic hygiene 3.0 world, where people across all different types of relationships touch each other far less and generally keep a higher level of distance between one another. Personalised biotechnology continues to develop at a rapid rate as triggered by the pandemic, to serve the purpose of maintaining personal health/hygience. Social norms of a disciplinary nature develop around this."
+    - [[Fragment 027: The sub-3-minute mile]]
+        - "a statue of the first person to run a sub 3 minute mile, thanks to advances in training/nutrition, supplements, sneaker technology, etc."
+    - [[Fragment 028: Reality show: outrage at wealthy people]]
+        - "Reality TV entertainment *mainstream* show on social media/new media *monetizing* mob outrage against wealthy people, but also giving them an opportunity to confess and *redeem* themselves in public opinion"
+    - [[Fragment 029: The last beehive]]
+        - "The last standing beehive - now under environmental protection.  The quickly disappearing bees from the world have created enormous food shortage, loss of animal and human lives and have brought countries on brinks of war."
+    - [[Fragment 030: A mandate to reproduce]]
+        - "a few years from now the human race has become so infertile that it is a worldwide government mandate that fertile couples have to have large families. As a part of that the children that are born are redistributed so there is no burden placed on any one family."
+    - [[Fragment 031: Compound eye prosthetics]]
+        - "Prosthetic compound eyes that help you increase perspective. This creates a return to the golden age for things like sports that have been at the peak of human capacity for a while and creates a feeling of warmth in supporters"
+    - [[Fragment 032: Gender indentity history festivals]]
+        - ""Historical" festival (analogous to our present day Renaissance Faires and perhaps Steampunk cosplayers) looking back, with irony and melodrama through roleplaying, costumes, and reenactments, to gender identity struggles of a generation ago, and celebrating the steady mainstream acceptance of the displacing of conventional gender norms hegemony (and the "gender wars" confrontations about this) since then."
+    - [[Fragment 033: ML testing clarinet]]
+        - "A clarinet children have to use during national examinations to earn highly prestigious grade certifications. There's no examination proctor. Passing/failing exam is entirely judged by a machine learning system baked into the instrument that calculates their score by comparing the student's performance to other children taking in that same year."
+    - [[Fragment 034: Programmable forearm tattoo]] 
+        - "A programmable forearm tattoo controlled by micro bots who can add and remove ink dynamically. It connects to the API of your personal note taking system. As you take notes and develop original ideas, the tattoo adds or removes nodes. Like the Roam node graph, but visible on your forearm. You can write your own CSS to style the tattoo as you wish. Expansive node graphs and original styling are highly respected as publicly visible performances of knowledge work."
+    - [[Fragment 035: iRemember]] [[Ben S]]
+        - "iRemember: Apple creates a device that records your thoughts and memories. Combined with your digital footprint (public and private), this instrument allows you and your family to remember everything about you, now and forever."
+    - [[Fragment 036: Disclosure tattoos]] 
+        - "After 20 years of political and economic stagnation, the USA elects a freewheeling genZ iconoclast to president. Her first order of business? Mandate that every citizen get a tattoo of strange secret or thought they've had on their forehead. Initially resistent, the populace soon gains mutual respect for one another as they realize how equally fucked up they all are."
+    - [[Fragment 037: Flight memorial heirloom]]
+        - "A pin that has become a heirloom - marking the last date that family flew in an aircraft before swearing the oath of the ground-dweller"
+    - [[Fragment 038: AR tagging]] [[Ben S]]
+        - "Augmented reality tagging has gone out of control - businesses and people are concerned that slight social misunderstandings lead to clouds of negative words, images, and thought imprints following them around, affecting their social interactions."
+        - "Road rage in particular has lead to significant negative tagging, despite vehicles being largely autonomous."
+    - [[Fragment 039: Your sins tattoo]]
+        - "In a collapse future 30 years from now, there is a tattoo that shows how many times you have thought of breaking one of the ten commandments. It creates a feeling of respect since being a sinner is the most valued activity in society."
+    - [[Fragment 040: Ubiquitous supersonic flight]]
+        - "Supersonic flight becomes ubiquitous and Moore's law for air-travel is defined - "flight costs per mile reduce by 75% everytime flight time reduces by half"."
+    - [[Fragment 041: Smite button]]
+        - "A generation from now, a ubiquitous grey goo of nano-drones can 'smite' any person on earth instantaneously. The nano-bots can disable and enhance any person. Disabling includes temporary paralysis. Enhancing includes supersenses."
+    - [[Fragment 042: The Medicis are back]]
+        - "We return to the rennaisance era where art and enterprise is solely funded by wealthy families. Return to the medicis and symbols of medicis and the families become as ubiquitous as the apple logo"
+    - [[Fragment 043: Memory becomes a superpower]]
+        - "In the year 2040, as the always-on internet becomes unsustainable due to energy constraints, people with excellent memories become experts at the content of popular but now defunct blogs and famous internet debates. They can be picked out of a crowd based on their prominent tattoos with different offline web addresses."
+    - [[Fragment 044: Identity sticker]]
+        - "A sticker that gives you a new identity"
+    - [[Fragment 045: Beatles clones in concert]]
+        - "In the year 2063, a celebrity cloning startup is shut down after hordes of Beatles clones perform their own songs in concert (the music is still under exclusive copyright by the Beatles' Holograms)."
+    - [[Fragment 046: In-game Supreme]]
+        - "Digitally scarce in-game Supreme box logo tee"
+    - [[Fragment 047: wealth chains]]
+        - "I wear every single chain, even when I'm in the house - but in an austere way"
+        - "To avoid runaway rich people, currencies are converted into clothing that you must personally walk around with. Weight is directly related to value but you can use any style."
+    - [[Fragment 048: Gender transcendence festival]]
+        - "In a generation from now there is a new festival that pops ups on to the scene which only allows people  in that do not see themselves as having a gender. They see this as a new movement outside of the LGBTQ+ movement and will not even allow people who identify as non-binary in. Obviously this creates some friction between the too groups which is played out like a soap opera on social media."
+    - [[Fragment 049: Normalised nootropics]]
+        - "R&D in nootropics pays-off once researchers are able to test dose response & chemical composition on an individual basis through eye tracking and game-based evaluations ("Cognition as a Service"). Most of the developed world readily has access to these "performance-enhancing drugs", which become culturally normalized (by contrast, espresso machines are considered "low-class")."
+    - [[Fragment 050: WhoSampledWho]]
+        - "WhoSampled is a very old game. If you are unfamiliar with it, it is somewhat similar to Six Degrees of Kevin Bacon skipping from one piece of music to another according to who included samples of what. Due to causality, the chain generally goes backward in time, until it grounds out in the earliest recorded music."
+    - [[Fragment 051: Deliberately vague clauses]]
+        - "Series of new laws written by regulators who find the whole notion of cloning improprietous from the start lead to laws that try to talk around the issue altogether to avoid giving anybody any ideas, e.g. "A person may not dispense a DNA sample to a third party in relation to any financial transaction without a clear statement of intent and suitable delineation of future plans related to said sample." Everybody else finds this hilarious, and it ultimately affects nothing."
+    - [[Fragment 052: Sensory augmentation]]
+        - "Drugs that temporarily augment your senses (e.g., enable you to perceive the UV spectrum or have a heightened sensitivity to electrical currents or magnetic fields) are cleared for use by the general public, albeit under strict supervision. Sensory palaces pop up to provide said supervision, and let an imbiber play around with their new senses and understanding the theory behind the phenomenon."
+    - [[Fragment 053: Jumpsuit officewear]]
+        - "Jumpsuits suitable for mechanical work replace hoodies as the understated officewear of choice among middle-to-top-tier tech workers. This is ostensibly the result of the continued comingling of software with a diversity of physical engineering disciplines, but think pieces written by observers of the phenomenon seem to accurately note its being rooted more in the desire to not be in front of a laptop than the actual time spent on mechanical engineering. (Physical work as a luxury)"
+    - [[Fragment 054: Simulated forest fires]]
+        - "Forest fires have burned down major parts of all national parks in the US. Hikers now wear a neural link that simulates the smell, touch and look of a forest. When the user returns to the basecamp they have to go through a cleaning process to remove all the ash and dirt from their body, which reminds them of the time when forests were real"
+    - [[Fragment 055: Stem cell delivery]]
+        - "Small under-skin implants of synthetic stem cells are able to stimulate the body to break down failing organs and regrow healthy ones in their place. These are widely available via convenient drone delivery in under a day from centralised biomedical factories, and play a charming arrival tune when they land at the patients door."
+    - [[Fragment 056: Simpatico drone]]
+        - "neural API that helps you be simpatico with your drone which does most of the work for you, it can have the same mood or it can have complimentary moods"
+    - [[Fragment 057: Drone love]]
+        - "In the year 2120, as the world is more and more interconnected but less populous overall due to declining fertility, people can feel close to one another even in a long distance relationships with an ocular/brain implant that controls a drone next to your loved one. When not actively controlling the drone, AI can maintain continuity."
+    - [[Fragment 058: Recycled pet snacks]]
+        - "To limit the resources required to keep a pet alive the law is that you can't keep them for very long. Since resources are scarce there is a service that tries to reduce the awkwardness of 'recycling' them into snacks. There are parenting guides on how to talk to your kids about 'pets.'"
+    - [[Fragment 059: Bait snacks]]
+        - "Traditional models of domesticated pet ownership no longer make sense, so the new model is the return of an old one - coax or collect a young creature and train it to hunt with you. Certain snacks are manufactured to serve as optimal bait for such creatures - moreish and laced with a mild sedative."
+    - [[Fragment 060: Groovy intergalactic drones]]
+        - "Intergalactic humanlike drones can now explore the expanses of space and time - they can go anywhere at nearly the speed of light. It's groovy. Implants are now released that allow humans, from the comforts of their home-pods, to control the drone and experience life as if they are the drone. Given the infinite expanse, it becomes difficult but not impossible to find someone else inhabiting a drone with their implant. When you do, its magic - a feeling of charm and perhaps even romance can come over you. What a thrill."
+    - [[Fragment 061: Grandparent Tracker]]
+        - ((rYn8AnYFC)) 
+    - [[Fragment 062: Live/Work Containers for Knowledge Miners]]
+        - {{[[drawing]]}}
+            - Hygiene is a very high order value, motivating the envelope's barriers to entering
+            - ## 2020 -- most of the pieces are already here, they're just unevenly distributed and patchwork
+                - 
+        - What year is this scenario set in? 2030
+        - ## How does it feel to live in this time?
+            - Snug as a bug in a github
+            - Secure seclusion, modulated by cybernetic loops that offset isolation by algorithmic reminders to (virtually) connect
+            - Productive knowledge miners, who enjoy super-optimizing their workflow
+        - Who wins in this future? 
+            - The skilled workers in fly over spaces
+            - The otaku + a range of phobics: agoraphobes, OCD germophobes, 
+            - Knock-on benefits for the homeless, as society recognizes how to mass-produce the vital ingredients of basic modular housing
+            - 
+        - ## Who loses?
+            - Any population that's not physiologically able to adjust to VR won't fully participate in the social compromise: the blind, those sensitive to vertigo, perhaps other conditions that also come to be seen as allergic 
+            - Architects and many support fields for building, maintaining, and modifying homes and offices will yield ground to mass-production. 
+            - Owners of real estate in high rent districts, as well as many of the ancillary supporters of current urban co-working arrangements
+            - Workers who depend on studio environments with a high degree of social collision and serendipity. Also, social parasites will need to shift from f2f grifting, networking, brainpicking, and the whole crowd of scene-crashing spammers
+            - 
+        - ## How did we get from here to there?
+            - The co-viral vector accelerates all flattening of social distance, as we substitute "safe" social intercourse and displace hand-shaking, f2f interactions
+            - McMindfulness is based on evidence (CBT/DBT). It is adequately well-specified to be taught as skills via chatbots rather than high-priced priests of psychotherapeutics
+            - Sensor-informed prompts already tick the box of quantified-self desiderata: exercise tracking, reminders to stand up, prompts to breathe, passive recording of sleep regularity & quality.  When sensors can compile and compare data from the surrounding environment and its impact on individuals' physical and psychological data 
+            - Architecting intrinsic challenges have begun to be incorporated in special built environments for geriatric and neurodiverse populations.
+            - Containerized / Tiny Homes are a trend. Science fictional dystopias (Snowcrash, Ready Player One) 
+        - ## How do people talk about the choices we made in 2020?
+            - Probably akin to the Depression era development of electrification. It will seem inconceivable how people endured the mess once almost everyone integrated via fiber linkup.
+            - Our previous (pre-2020) habits and intercourse will evoke as much disgust and mystification as our inability to grasp how our recent ancestors rarely showered
+        - ## What keeps you up at night?
+            - When we live on bits as circuses, the grid and internet will need to be hardened. Any aggressive attack on our work cum entertainment feed would disable most cognitive sinks. Boredom rather than starvation would be the lever of the 21st century siege warfare. Many would choose Soylent instead of fresh and varied food if that could preserve our distraction and social connection supply.
+            - This transition will be as epochal as Robin Hanson's dichotomy between foragers and farmers. The third epoch will be the news-feeders, informavores who thrive in an abstracted social space.
+- ------------
+- 
+- 

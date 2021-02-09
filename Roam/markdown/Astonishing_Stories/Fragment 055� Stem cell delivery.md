@@ -1,8 +1,0 @@
-- **Scenario:**
-    - In a [[growth]] future [[a century]] from now, there is an [[implant]] related to [[drones]] that creates a feeling of [[charm]].
-- Fragment:: 
-    - Small under-skin implants of synthetic stem cells are able to stimulate the body to break down failing organs and regrow healthy ones in their place. These are widely available via convenient drone delivery in under a day from centralised biomedical factories, and play a charming arrival tune when they land at the patients door.
-- Created by:: [[Maggie Appleton]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348949356485&cot=11)
-- **Pockets of this future visible in the present**
-    - 

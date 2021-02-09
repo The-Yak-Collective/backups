@@ -1,0 +1,8 @@
+- Scenario:: 
+    - In a [[collapse]] future [[a generation]] from now, there is an [[tattoo]] related to [[terrain]] that creates a feeling of [[respect]].
+- Fragment:: 
+    - In the year 2040, as the always-on internet becomes unsustainable due to energy constraints, people with excellent memories become experts at the content of popular but now defunct blogs and famous internet debates. They can be picked out of a crowd based on their prominent tattoos with different offline web addresses.
+- Created by:: [[Ben S]]
+- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348949447182&cot=6)
+- **Pockets of this future visible in the present**
+    - 

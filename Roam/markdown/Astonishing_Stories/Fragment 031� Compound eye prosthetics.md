@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[discipline]] future [[a generation]] from now, there is an [[prosthetic]] related to [[insects]] that creates a feeling of [[warmth]].
-- Fragment:: 
-    - Prosthetic compound eyes that help you increase perspective. This creates a return to the golden age for things like sports that have been at the peak of human capacity for a while and creates a feeling of warmth in supporters
-- Created by:: [[sachin]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348973166032&cot=6)
-- **Pockets of this future visible in the present**
-    - 

@@ -1,0 +1,10 @@
+- ## Fragments:
+    - [[Fragment name]]
+        - [[Fragment description]]
+    - [[Fragment name]]
+        - [[Fragment description]]
+- ## Describe this world
+    - 
+- ## What tensions, paradoxes, challenges exist in this world?
+    - 
+- **Described by:** [[]]

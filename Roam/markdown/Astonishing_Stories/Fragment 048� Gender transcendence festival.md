@@ -1,8 +1,0 @@
-- **Scenario: **
-    - In a [[growth]] future [[a generation]] from now, there is a [[festival]] related to [[gender]] that creates a feeling of [[melodrama]].
-- Fragment:: 
-    - In a generation from now there is a new festival that pops ups on to the scene which only allows people  in that do not see themselves as having a gender. They see this as a new movement outside of the LGBTQ+ movement and will not even allow people who identify as non-binary in. Obviously this creates some friction between the too groups which is played out like a soap opera on social media.
-- Created by:: [[Hershil Patel]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942631673&cot=11)
-- **Pockets of this future visible in the present**
-    - 

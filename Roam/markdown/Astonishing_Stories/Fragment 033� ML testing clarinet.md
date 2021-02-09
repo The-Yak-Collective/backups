@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[transformation]] future [[a generation]] from now, there is an [[instrument]] related to [[family]] that creates a feeling of [[anxiety]].
-- Fragment:: 
-    - A clarinet children have to use during national examinations to earn highly prestigious grade certifications. There's no examination proctor. Passing/failing exam is entirely judged by a machine learning system baked into the instrument that calculates their score by comparing the student's performance to other children taking in that same year.
-- Created by:: [[Maggie Appleton]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942644189&cot=6)
-- **Pockets of this future visible in the present**
-    - 

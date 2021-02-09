@@ -1,9 +1,0 @@
-- https://www.newyorker.com/magazine/2018/04/30/japans-rent-a-family-industry
-- https://www.newyorker.com/tech/annals-of-technology/the-chatbot-will-see-you-now
-- [[Jay Kalawar: Family Ways Draft Slides]]
-- 
-- **Related folkways**
-    - [[Scott Allen: Social Ways, Marriage Ways]] -- Marriage ways
-    - [[Pamela Hobart: Gender Ways, Child-Rearing Ways]]
-    - [[Amanda Reeves: Age Ways]]
-    - 

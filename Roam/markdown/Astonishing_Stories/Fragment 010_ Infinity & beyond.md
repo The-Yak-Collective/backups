@@ -1,0 +1,6 @@
+- In a [[growth]] future [[a century]] from now, there is an [[implant]] related to [[drones]] that creates a feeling of [[charm]].
+- A century from now implants mischievously coordinate with other implants to create more implants. They develop sentient consciousness that evolves into a meta-borg that narcissistically meditates on its navel. This creates a feeling of charm as they contemplate the infinite regression.
+- Created by [[Michael de la Maza]]
+- [Link to this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348973037793&cot=11)
+- **Pockets of this future visible in the present**
+    - 

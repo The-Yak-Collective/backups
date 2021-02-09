@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[transformation]] future [[a generation]] from now, there is an [[sticker]] related to [[identity]] that creates a feeling of [[dread]].
-- Fragment:: 
-    - A sticker that gives you a new identity
-- Created by:: [[Hershil Patel]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348844181186&cot=11)
-- **Pockets of this future visible in the present**
-    - 

@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[growth]] future [[a century]] from now, there is a [[implant]] related to [[drones]] that creates a feeling of [[charm]].
-- Fragment:: 
-    - In the year 2120, as the world is more and more interconnected but less populous overall due to declining fertility, people can feel close to one another even in a long distance relationships with an ocular/brain implant that controls a drone next to your loved one. When not actively controlling the drone, AI can maintain continuity.
-- Created by:: [[Ben S]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348949446744&cot=11)
-- **Pockets of this future visible in the present**
-    - [Long Distance Love Gets a Boost From Beam](https://suitabletech.com/news/blog/full/1389-long-distance-love-gets-a-boost-from-beam)

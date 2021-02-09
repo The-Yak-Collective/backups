@@ -1,8 +1,0 @@
-- Scenario:: 
-    - In a [[collapse]] future [[a generation]] from now, there is an [[tattoo]] related to [[the brain]] that creates a feeling of [[respect]].
-- Fragment:: 
-    - After 20 years of political and economic stagnation, the USA elects a freewheeling genZ iconoclast to president. Her first order of business? Mandate that every citizen get a tattoo of strange secret or thought they've had on their forehead. Initially resistent, the populace soon gains mutual respect for one another as they realize how equally fucked up they all are.
-- Created by:: [[Alex Dobrenko]]
-- Miro Link:: [this fragment on Miro](https://miro.com/app/board/o9J_kpEmVVk=/?moveToWidget=3074457348942644220&cot=11)
-- **Pockets of this future visible in the present**
-    - 
