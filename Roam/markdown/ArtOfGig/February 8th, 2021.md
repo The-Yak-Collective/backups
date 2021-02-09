@@ -23,4 +23,6 @@
         - Group questions:
             - Imagine you have the rover of your dreams. How do you ideally interact with it?
 - Minutes
+    - Standups: Did, Next, Blockers. 
+        - 
     - TODO

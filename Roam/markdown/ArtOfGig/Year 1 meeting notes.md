@@ -1,4 +1,5 @@
 - [[February 8th, 2021]]
+    - regular yak rover meeting No.3
 - [[February 2nd, 2021]]
     - "#[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). "
 - [[January 25th, 2021]]
