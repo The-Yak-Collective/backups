@@ -1,28 +1,28 @@
 - #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:3 (10 PM Pacific, morning in Europe, afternoon in Japan).
-- Contents & Agenda (planned)
-    - Quick overview of PLEXIL https://en.wikipedia.org/wiki/PLEXIL
-        - PLEXIL is a framework developed at NASA, used on many missions to define the behaviour of "agents" (rover, satellites, smart habitats).
-        - Since 2006, open source: https://sourceforge.net/p/plexil/.
-        - Group questions
-            - Is it an attractive candidate for the Yak Stack?
-            - What can we learn for rovers?
-    - Hardware at the "Spider Yak Mini Lab", aka rover Z1 environment.
-        - Goals:
-            - A toolkit for remote/autonomous operations, evaluation, measurements and telemetry.
-            - Learning by doing: An attempt at a blueprint, and a bit of reinventing the wheels.
-            - Output should be reusable software.
-        - A dedicated corner of the room for a rover (about ~1m2, ~3ft2).
-        - Tethered spider bot from HiWonder (computer a Raspberry Pi 4, full Linux).
-        - SSH access to the team.
-        - Video stream and snapshots from the bot front camera. E.g. snapshots: http://153.127.64.244:3537/?action=snapshot (please use little, weak bot :-|)
-        - Thermal imaging of the bot from atop.
-        - Roadmap for the quarter:
-            - More remote operations, shared usage facilities, more telemetry.
-            - New sensors, and measurements: OAK-1 camera, ultrasonic proximity, 1D LIDAR.
-            - More landmarks.
-        - Group questions:
-            - Imagine you have the rover of your dreams. How do you ideally interact with it?
-- Minutes
-    - Standups: Did, Next, Blockers. 
-        - 
-    - TODO
+    - Contents & Agenda (planned)
+        - Quick overview of PLEXIL https://en.wikipedia.org/wiki/PLEXIL
+            - PLEXIL is a framework developed at NASA, used on many missions to define the behaviour of "agents" (rover, satellites, smart habitats).
+            - Since 2006, open source: https://sourceforge.net/p/plexil/.
+            - Group questions
+                - Is it an attractive candidate for the Yak Stack?
+                - What can we learn for rovers?
+        - Hardware at the "Spider Yak Mini Lab", aka rover Z1 environment.
+            - Goals:
+                - A toolkit for remote/autonomous operations, evaluation, measurements and telemetry.
+                - Learning by doing: An attempt at a blueprint, and a bit of reinventing the wheels.
+                - Output should be reusable software.
+            - A dedicated corner of the room for a rover (about ~1m2, ~3ft2).
+            - Tethered spider bot from HiWonder (computer a Raspberry Pi 4, full Linux).
+            - SSH access to the team.
+            - Video stream and snapshots from the bot front camera. E.g. snapshots: http://153.127.64.244:3537/?action=snapshot (please use little, weak bot :-|)
+            - Thermal imaging of the bot from atop.
+            - Roadmap for the quarter:
+                - More remote operations, shared usage facilities, more telemetry.
+                - New sensors, and measurements: OAK-1 camera, ultrasonic proximity, 1D LIDAR.
+                - More landmarks.
+            - Group questions:
+                - Imagine you have the rover of your dreams. How do you ideally interact with it?
+    - Minutes
+        - Standups: Did, Next, Blockers. 
+            - 
+        - TODO

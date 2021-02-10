@@ -1,5 +1,5 @@
 - About:: __XXX__
-- Chief Page Wrangler: `[[Fname Lname]]`
+- Page Wrangler: `[[Fname Lname]]`
     - Additional Page Wranglers: `[[Fname Lname]]` | `[[Fname Lname]]`
 - Page Type: {{or: #Project | #tk1 | #tk2 }}
 - Status: {{or: Early Concept | Active | Proposal | Complete}} || or Current State: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}

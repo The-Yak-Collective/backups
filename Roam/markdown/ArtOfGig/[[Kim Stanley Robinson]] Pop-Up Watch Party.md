@@ -1,0 +1,122 @@
+- About:: [[February 9th, 2021]] Crowdcast Watch Party
+[[Kim Stanley Robinson]] interviewed by [[Robin Sloan]] about [[Ministry for the Future]]
+Tue, Feb 9, 2021 10:00 PM EST
+- SIGNUP LINK:: https://www.crowdcast.io/e/ksrobinson
+-  Page Wrangler: [[Jenna Dixon]]
+    - Additional Page Wranglers: [[Oliver King]] | `[[Fname Lname]]`
+- Page Type:: #[[Pop-Up Event]]
+- Status:: #[[Active]]
+- ![https://crowdcast-prod.imgix.net/-M54FWhNE14gQZh74iJm/event-cover-4245?w=800](https://crowdcast-prod.imgix.net/-M54FWhNE14gQZh74iJm/event-cover-4245?w=300)
+- ---
+- CHAT CONVENTIONS:: 
+    - __a quick riff off the Roam Book Club community conventions__
+    - start new threads under the appropriate timestamp
+    - start new blocks with your # eg #[[Jenna Dixon]]
+    - indent replies to comments from others
+    - ideas/suggestions on multiplayer Roam welcome 
+- ---
+- 10:00 ET
+    - #[[Jenna Dixon]] stream firing up now 22:04. 
+w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
+    - 
+    - 
+    - 
+- 10:10
+    - #[[Oliver King]]
+        - I didn't enjoy the riddles, not sure what the purpose of those interludes were; I hope they touch on why KSR chose the riddles he did and what they were intended for
+        - Great question re: wet-bulb 35, it was a haunting concept and I really appreciated the  repeated emphasis throughout the novel
+    - 
+    - 
+    - 
+- 10:20
+    - #[[Jenna Dixon]] 
+        - yes KSR's notorious for giving big info downloads lol
+            - my first experience of that was [[Aurora]]
+            - "dreaded expository lump" "Dump until you die"
+            - cf [[Red Mars]]
+        - "[heteroglossia](https://en.wikipedia.org/wiki/Heteroglossia)" (check spelling) @10:26 many voiced novels
+[[2312]] [[New York 2040]]
+    - #[[Oliver King]]
+        - "Education and entertainment is a false dichotomy"
+        - "How do you store the things you learn?" -- IT SHOULD BE ROAM!
+    - 
+    - 
+- 10:30
+    - #[[Jenna Dixon]]
+        - ah we've gotten to the PKM discussion of the night
+            - project-based. finding bricks for a wall. pieces of string.
+        - [[Robin Sloan]]: "financial science fiction" central bank playing central role in story. KSR laughs. 😹
+            - cf [Baroque Trilogy](https://www.nealstephenson.com/baroque-cycle/)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FSalZvdy3I6.jpg?alt=media&token=a5973c22-db55-4c8c-ab97-ed008fe8c035)
+    - #[[Oliver King]]
+        - Ahhh, the romance of the Central Bankers
+        - I love the emergence, or perhaps re-emergence, of political-economic themes as central drivers in science-fiction novels a la the power dynamics in Dune or Three Body Problem
+        - From the comments -- "what would happen if KSR was interviewed by an economist?" -- I feel like that would be too cringe to be enjoyable
+            - #[[Jenna Dixon]] I saw that too and had similar reaction
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FMpz-q1D2n-.jpg?alt=media&token=78e71a2e-bc6e-4476-a041-f377e20fc282)
+    - 
+    - 
+- 10:40
+    - #[[Jenna Dixon]]
+        - now on to California as a character. mention of Point Reyes Bookstore.
+            - I was there during the Healdsburg Fire year, backpacking at the coast, bought a couple of books to take with.
+        - [Groundwater management act](https://en.wikipedia.org/wiki/Sustainable_Groundwater_Management_Act)
+            - stupendous amount of water stored in the Central Valley
+            - "hydroscope"
+            - enormous natural french drains
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F1t8dKs-wS0.jpg?alt=media&token=fc23d647-fbc0-43f2-a0c5-d1436cacc3a2)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FY9XIAV8DBe.jpg?alt=media&token=d8bf6fc3-c412-4bb5-b6ce-f5634de66eb9)
+    - #[[Oliver King]]
+        - "What role does California have in the future?" -- KSR answers by talking about social problems e.g. income inequality as contextualised by the neoliberal global order and goes on to talk about biohealth programs e.g. groundwater management act. Is the first point meant to signal his attitude about the viability or likelihood of what California can do for the social good?
+            - #[[Jenna Dixon]] does seem like he can hold Calif as a place that can demo solutions
+        - It's interesting to listen to KSR answer the California question in a meandering and somewhat disorganized way; this is the first time I've heard him speak but seems to be as reflected in the way he writes as well
+        - KSR says he wants to speak to mainstream economists! Says he doesn't understand why MMT can't work. Seems like the more relevant question is: what are the consequences of proceeding as if MMT can work, and the consequences of proceeding as if it doesn't work?
+    - 
+    - 
+- 10:50
+    - #[[Oliver King]]
+        - Wanted to obscure the novel's timeline for himself, a fuzzball he couldn't quite make sense of, and wasn't sure why he did that; SUPER INTERESTING!
+        - "Now we know that" re: the growing urgency of climate change and how we're going to manage our transition into the Antropocene. I'd push back against that, I wonder how what percentage of the population __really__ know and think about these things in a meaningful way, and the percentage of those who do ready to take meaningful action, and then the percentage who follow-through in a meaningful way
+        - 
+    - #[[Jenna Dixon]]
+        - on to the climate question now
+        - he'd been disconnected on a weeklong rafting trip when the pandemic hammer dropped
+        - strong realization that things can change fast
+        - "things are getting weird"
+            - #[[Oliver King]] reminds me of Venkat's tweet re: the [[Great Weirding]] being the manifestation of society's refusal of the call
+        - all of us are struggling to come into balance with the biosphere
+        - mentions his May 2020 New Yorker essay. was invited to write. Reached folks who don't normally read him » https://www.newyorker.com/culture/annals-of-inquiry/the-coronavirus-and-our-future
+        - Q&A now 10:56
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F_7FhxD16VG.jpg?alt=media&token=24aea749-d24f-4b00-bcb1-2678b47d4044)
+            - 
+- 11:00
+    - #[[Oliver King]]
+        - "What was the cover of the book?" "Uhhh, I don't know :D"
+        - Says he doesn't want to read other hard science-fictions so he doesn't know just how idiosyncratic he is so he can continue to write the way that he writes. Fascinating. Can't help but feel how __human__ KSR is right now.
+        - "All the good little solutions will be eaten by the neoliberal order" as a premise to necessitate a top-down solution. That's an interesting angle I hadn't though of before and would be curious to explore more as a thought process. Can't we convert Moloch from Sith to Jedi a la [[Daniel Schmachtenberger]]?
+        - "The novel is a mess" -- I think that's OK. Climate Change as a hyper-concept, something so huge as a space that it's impossible to grasp fully, is something to be appreciated in its immensity. Perhaps the grim naivete of the book is in itself a testament to our future.
+    - 
+    - #[[Jenna Dixon]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDvfOtxfii8.jpg?alt=media&token=64a97c89-15b8-44a2-9f24-315414de45aa)
+            - [[Ursula Leguin]]. [[Ian Banks]]. [[Afrofuturists]]. [[Cory Doctorow]].
+            - Bottom up important. Need good topdown too. Good little projects will get eaten up by neoliberalism.
+            - "create the affect state of an entire world"
+            - "the book is a mess. novels are made to be messy. not a criticism" "challenging my readers with strangeness"
+            - "now make me good"
+            - "the new part of the network"
+- 11:10
+    - 
+    - 
+    - 
+    - 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Created:: [[February 9th, 2021]] by [[Jenna Dixon]]
+- Last Updated:: `/Today` by `[[Fname Lname]]`
+- Last Gardened:: `/Today` by `[[Fname Lname]]`
+- 
