@@ -24,5 +24,22 @@
                 - Imagine you have the rover of your dreams. How do you ideally interact with it?
     - Minutes
         - Standups: Did, Next, Blockers. 
-            - 
-        - TODO
+            - Venkatesh entering a shoping spree, and helping everyone by collecting information.
+            - Victor on exploring ROS and Jupyter technologies for rover software.
+            - Maier on Twitter, bots, and exploring concerns of finality: What do we really expect the rover to do, except roving? E.g. of drilling a cave (do not reproduce at home).
+            - Anuraj on 3D-printing, slow this week due to moving.
+            - Eric on basically trying PLEXIL and expanding the work environment of the SpiderBot with a thermal camera.
+            - New attendees:
+                - Phil: More into Mechanics (TBC), and suggesting to focus on more basics and Gall's law (or KISS as we say in software).
+                - Jascha: Into Mechatronics (TBC), and excited at the prospect of attempting meta-robotic tasks too.
+            - Next week: Venkatesh's revelation on shoping.
+        - On software and PLEXIL
+            - ROS comes back in the discussion, at least a good base to start with, even if we drop it later.
+            - PLEXIL is interesting. Many wonder why so close to existing past frameworks like https://en.wikipedia.org/wiki/Hierarchical_task_network or STRIPS.
+            - Not clear what to do with PLEXIL at this point.
+            - Discussion around what software should be doing anyway, beyond hardware control. Mention of goal definition and abstraction.
+            - Discussion around map and mapping issues. How does that interact with goals?
+            - If software is just to define goals, unclear what the goals are. Basic goals are reaching a destination and target tracking. On Mars, goals like drilling a cave or building a house are likely desired.
+            - Anyway, we should keep it all simple and less abstract, at least for now.
+            - Looking ahead what software should do to serve/innovate remains in the discussion. Eric will keep on watching the PLEXIL ecosystem (including whether it is actually used on Perseverance).
+        - We did not directly discuss "How do you ideally interact with [the rover]?". It is partially covered in the discussion of software.
