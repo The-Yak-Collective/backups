@@ -1,5 +1,5 @@
 - __As of 2020-06-13, this needs to be updated. Will set a reminder to follow up here. - __[[Alex Wagner]] #needsupdate
-- The [[Yak Collective Collaborations]] need these things to work at a scale and sophistication comparable to mid-sized boutique firms
+- **The** [[Yak Collective Collaborations]] **need these things** to work at a scale and sophistication comparable to mid-sized boutique firms
 - New member orientation stuff __working on here:__ [[Onboarding for New Yaks]]
     - ~~Help document for roam and discord~~ - [[Alex Wagner]] volunteers
     - Starter list of things to do

@@ -612,3 +612,7 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - Run a podcast production agency and do a little process and systems consulting on the side. 
     - Twitter: [@jonbstrong](twitter.com/jonbstrong)
 - {{[[embed]]: [[Abhay]]}}
+- [[Paul Mullins]]
+    - Based in Toronto Canada
+    - Working on a project I liked to call the [Dentropy Daemon](https://wiki.dentropydaemon.io/) whose goal is to build infrastructure cyberpunks would admire
+    - Twitter [@PaulWMullins](https://twitter.com/PaulWMullins)

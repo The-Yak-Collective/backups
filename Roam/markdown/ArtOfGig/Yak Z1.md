@@ -3,6 +3,7 @@
     - Software "brain" for rovers, configurable or automatically adaptable to the actual hardware.
     - Remote control, debugging, telemetry/monitoring.
     - [[Maier Fenster]] i think it will need more sophisticated gaits
+- Naming: WIP
 - **Key information**
     - Video stream and snapshot API available. Please ask Eric; access contained to really interested people at first, as the API server is very weak for now.
     - Bot text stream
@@ -22,6 +23,10 @@
         - RT video stream from the camera (and other sensors?)
         - ability to select or upload (via github?) a code to be executed by robot and view the effect in RT, including video and servo positions
 for now, i am thinking re delegate, that you have code on the robot and code on the server. one or both may need help. for video, why not stream using twilio?
+    - Hardware alternatives
+        - From Sascha: Roomba gang and mux for cheap radiation resistance.
+            - Benefit of possible scavenging when fleet of rovers.
+            - About testing a design: "Depends on what environment we're trying to simulate/test exactly. Xrays are cheap and easy to come by all over the place. For gamma there's Co-60 sterilization facilities. And then for a proton source there is renting time on a proton therapy machine."
 - Latest notes
     - 2021-01-18
         - Presentation of this rover build targets.
