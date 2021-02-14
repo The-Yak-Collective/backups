@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 
-# NOTE: The `jq` package is slightly non-standard, and may need to be
-# installed. (It's present on the image that GitHub uses to run actions,
-# however.)
-
 # Pass in Roam export directory used by roam-to-git
 #
 ROAM_DIR="$1"
