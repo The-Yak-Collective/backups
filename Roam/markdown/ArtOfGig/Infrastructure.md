@@ -24,6 +24,29 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 38 [[February 10th, 2021]]
+        - participants:: [[Maier Fenster]] [[Jenna Dixon]] [[Nathan Acks]]
+        - **Agenda**
+            1. [[Venkatesh Rao]] ~~discussion of consistent open-source licensing policy for yc content (member contributed and 3rd party used)~~
+            2. [[Venkatesh Rao]] ~~financial governance/spending process~~
+            3. [[Jenna Dixon]] softlaunch member profile portal » review round » launch
+            4. [[Maier Fenster]] discuss ui for projects bot a bit more
+            5. [[Oliver King]] discuss project board -- logistics and feedback
+        - **Meeting Notes**
+            - Dashboards!
+                - The `experimental-dashboard` post gets updated every 10 minutes.
+                - In `experimental-project-ui`, all the projects are listed, and by clicking on notifications people can add, leave, and get project details.
+                    - Will include status information, replaces `subscribe-projects`.
+                    - The "details" section would potentially be multiple lines.
+                        - We'll use the channel description by default.
+                    - Just walks through the "Project" group, so when we archive something it will disappear.
+                    - Currently kicks off for any channel modification, will be limited to just channels in the "Project" group.
+                        - Refresh will check channels every 10 minutes.
+                - Assumption is that the first 10  characters of the channel name and the corresponding role match.
+                - [[Maier Fenster]] reminds [[Nathan Acks]] that the primary purpose of the dashboards is to help orient new yaks.
+                - [[Maier Fenster]] wants to to either use trailing emoji in channel names, or separate the leading emoji with an underscore.
+                    - [[Jenna Dixon]] suggests the format used by a different Discord server that has unicode mid-dots as separators. [[Nathan Acks]] really likes this.
+                - [[Nathan Acks]] will play with some options, and then [[Maier Fenster]] will auto-create roles based on the channel name sans-emoji (or use existing roles when appropriate).
     - Infrastructure Chat 37 [[January 31st, 2021]]
         - participants:: [[Maier Fenster]] [[Oliver King]] [[Steve Lagree]] [[Grigori Milov]] [[Nathan Acks]]
         - **Agenda**
