@@ -3,15 +3,22 @@ Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[November 9th, 2020]] by [[Nathan Acks]]
 Current State:: {{or:Live | Proposed | Draft | Archived}} 
-Last Updated:: [[January 3rd, 2021]] by [[Nathan Acks]]
+Last Updated:: [[February 15th, 2021]] by [[Nathan Acks]]
 Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
+# Naming Convention
+    - Channels should generally be named using emoji + dash + channel name (`🚐-yak-rover`).
+    - Categories should generally be named using emoji + space + channel name (`🌐 Plaza`).
 # Channel Categories
+    ## Dashboard
+        - Dashboard channels that provide an overhead view of the Yak Collective Discord server. Channels in this section should have a relatively static number of messages that are maintained by bots (or occasionally people), __not__ the "infinite scroll" of normal channels!
+    ## Yak Log
+        - Channels that provide a "log" of ongoing Yak Collective activity. Channels in this section should be maintained by bots (or occasionally people), and __not__ have posting permissions opened up more broadly!
     ## Plaza
         General discussion and information channels.
     ## Voice
         Voice channels (and associated text channels).
     ## Projects
-        Currently active internal __and__ externally-facing projects. 
+        Currently active internal __and__ externally-facing projects. ^^Every project should have a corresponding role with the same name, __sans__ leading emoji + dash.^^ For example, the `🚐-yak-rover` channel should have a corresponding `yak-rover` server role.
     ## Discussions
         - Discussion and information channels with a more targeted audience.
     ## Incubator

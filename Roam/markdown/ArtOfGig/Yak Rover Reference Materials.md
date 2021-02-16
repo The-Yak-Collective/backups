@@ -1,10 +1,19 @@
 - Reference builds from other people/groups (many have public designs that can be copied)
     - Rocker bogie drive
-        - Rocker-bogie build by Misha Cinema https://www.youtube.com/watch?v=l90EvvPsKK8
+        - Full design with differential bar, no steering. Rocker-bogie build by Misha Cinema 
+            - Base indoor test: https://www.youtube.com/watch?v=l90EvvPsKK8
+            - Outdoor stress test: https://www.youtube.com/watch?v=dTnMKAsFVhA
+            - Water test: https://www.youtube.com/watch?v=7iKxlorBF8M
             - 3d printer files: https://www.thingiverse.com/thing:1318414
-        - Rocker-bogie build by Navin Khambala https://www.youtube.com/watch?v=3Zx7tGtwF5g
+        - Design without differential bar or steering. Rocker-bogie build by Navin Khambala https://www.youtube.com/watch?v=3Zx7tGtwF5g
             - Build details https://navinkhambhala.com/rocker-bogie-robot
+        - Design with steering, but without differential bar, and spring loaded struts for body. https://www.youtube.com/watch?v=E9qM6JNcfTA
         - Generative design of rocker-bogie from autodesk https://academy.autodesk.com/portfolios/generative-design-rocker-bogie-mechanism
+        - How the differential works (lego explanation): http://alicesastroinfo.com/2012/07/mars-rover-rocker-bogie-differential/
+        - https://newscrewdriver.com/2021/01/08/micro-sawppy-beta-1-differential-link/
+        - Progressive set of lego builds showing why obstacle traversal is hard https://www.youtube.com/watch?v=MwHHErfX9hI&t=1s
+    - Wheel design
+        - How Nasa reinvented the wheel https://www.youtube.com/watch?v=2lv6Vs12jLc
 - General knowledge
     - [Tesla model 3 motors](https://www.youtube.com/watch?v=esUb7Zy5Oio)
 - [[Curiosity Rover]]
