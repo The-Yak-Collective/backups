@@ -1,39 +1,41 @@
-- Reading Prompt -  http://alicesastroinfo.com/2012/07/mars-rover-rocker-bogie-differential/
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FNx25FwzbHE.png?alt=media&token=57173608-aefc-4924-abb6-54861792e42f)
-- [[Venkatesh Rao]] Main constraints are battery and motor which constraints weight
-    - configuration space, more dimensional space. which drives kinematic range. eg walk or crawl
-    - traversal envelope
-    - theoretical endurance - typically done for range calculation in aerospace, look at the robot, look at configuration space and calculate theoretical endurance -> situated range
-    - [[Maier Fenster]] Why is outside of the scope of diagram?
-    - Not a general all purpose diagram but gives a design direction, maybe good for wheel type and crawling rover
-    - [[Maier Fenster]] Where is bogie here? 
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F5uccjwPjWz.png?alt=media&token=7f375ab9-43b4-45aa-ba97-9577b1a94520)
-    - Motor selection impacts design decisions a lot since decisions cascade from there
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDdqv_xaJZv.png?alt=media&token=2cb950bf-8216-4ec4-9abf-24ba9e715cfe)
-    - cross between a wheel and legged, somewher in between, purpose of differential is really important, if there is no differential then there is traction loss. similar to our hips
-    - on flat surface, drive with less motor
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FK-WyInrXGy.png?alt=media&token=03ee1699-8a8c-4077-956a-68bbd733cf59)
-        - here wheels are equally spaced, but [[Curiosity Rover]] they are not
-    - Performance is assymatric, going in rocker vs rocker in bogie direction, kinematics is different.
-    - Questions can the differential mechanism be simplfied
-    - If the wheels and legs are made intelligent, which can make decisions in distributed way. 
-    - Spider-man Dr Octopus. Iron-man suit are also modular and intelligent.
-    - In aerospace planes are designed around new engines developed.
-- [[Maier Fenster]] 
-    - What is possible size by [[Venkatesh Rao]]? aiming for small obstacles, eg carpets, mostly indoor ones
-    - Is the bogie design overpowered for indoors?
-    - When rover is actually sent to mars, better to send ones with less moving parts? is it better to have built mechanical design or some active system? 
-    - [[Venkatesh Rao]] some intelligence for mechanical design already happening, differential could be better because most of it is done passively, top level trade-offs, is the power budget
-    - Many electric cars have skate board designs. 
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F_W6Y17FztE.png?alt=media&token=436479f8-ae85-4622-809b-75fb300879fc)
-    - What the possible configurations? how can the linkage be made modular? If the linkages are adjustable in length, then kinematics will change depending on the length of the linkage. gives lots of flexibility
-    - [[Venkatesh Rao]] rocker-bogie is class of mechanism. Train like logic, have a platform for n-wheels. 
-    - [[Venkatesh Rao]] Under-actuated mechanism, using something like gravity to stuff but has trade-offs. Moving irreversibly in configuration space
-- [[Jascha Wilcox]]
-    - opening sequence of Wall-E. Session on motors? 
-    - Integration, the whole controller integrated in to mechanism. 
-    - solution space in industrial control is standarized. most interesting motor in the last 5 years is hover-board motors. 
-- [[Eric Platon]]
-    - The middle wheel are further out in [[Curiosity Rover]]. One of the reason maybe so that rover could turn in place? Is this a trade-off? If we have 
-    - [[Venkatesh Rao]] The middle could be steerable. Gives lateral mobility but turn in place rotation. wheeled robot has complex configuration space than legged. The second function of differential is to hold the base at level.
-    - [[Venkatesh Rao]] All intelligence is in the rocker-bogie. Can the design be made modular?
+- #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:4 (10 PM Pacific, morning in Europe, afternoon in Japan).
+    - Reading Prompt -  http://alicesastroinfo.com/2012/07/mars-rover-rocker-bogie-differential/
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FNx25FwzbHE.png?alt=media&token=57173608-aefc-4924-abb6-54861792e42f)
+    - Initial Reaction/Discussions
+        - [[Venkatesh Rao]] Main constraints are battery and motor which constraints weight
+            - configuration space, more dimensional space. which drives kinematic range. eg walk or crawl
+            - traversal envelope
+            - theoretical endurance - typically done for range calculation in aerospace, look at the robot, look at configuration space and calculate theoretical endurance -> situated range
+            - [[Maier Fenster]] Why tumble weed is outside of the scope of diagram?
+            - Not a general all purpose diagram but gives a design direction, maybe good for wheel type and crawling rover
+            - [[Maier Fenster]] Where is bogie here? 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F5uccjwPjWz.png?alt=media&token=7f375ab9-43b4-45aa-ba97-9577b1a94520)
+            - Motor selection impacts design decisions a lot since decisions cascade from there
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDdqv_xaJZv.png?alt=media&token=2cb950bf-8216-4ec4-9abf-24ba9e715cfe)
+            - cross between a wheel and legged, somewher in between, purpose of differential is really important, if there is no differential then there is traction loss. similar to our hips
+            - on flat surface, drive with less motor
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FK-WyInrXGy.png?alt=media&token=03ee1699-8a8c-4077-956a-68bbd733cf59)
+                - here wheels are equally spaced, but [[Curiosity Rover]] they are not
+            - Performance is assymatric, going in rocker vs rocker in bogie direction, kinematics is different.
+            - Questions can the differential mechanism be simplfied
+            - If the wheels and legs are made intelligent, which can make decisions in distributed way. 
+            - Spider-man Dr Octopus. Iron-man suit are also modular and intelligent.
+            - In aerospace planes are designed around new engines developed.
+        - [[Maier Fenster]] 
+            - What is possible size by [[Venkatesh Rao]]? aiming for small obstacles, eg carpets, mostly indoor ones
+            - Is the bogie design overpowered for indoors?
+            - When rover is actually sent to mars, better to send ones with less moving parts? is it better to have built mechanical design or some active system? 
+            - [[Venkatesh Rao]] some intelligence for mechanical design already happening, differential could be better because most of it is done passively, top level trade-offs, is the power budget
+            - Many electric cars have skate board designs. 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F_W6Y17FztE.png?alt=media&token=436479f8-ae85-4622-809b-75fb300879fc)
+            - What the possible configurations? how can the linkage be made modular? If the linkages are adjustable in length, then kinematics will change depending on the length of the linkage. gives lots of flexibility
+            - [[Venkatesh Rao]] rocker-bogie is class of mechanism. Train like logic, have a platform for n-wheels. 
+            - [[Venkatesh Rao]] Under-actuated mechanism, using something like gravity to stuff but has trade-offs. Moving irreversibly in configuration space
+        - [[Jascha Wilcox]]
+            - opening sequence of Wall-E. Session on motors? 
+            - Integration, the whole controller integrated in to mechanism. 
+            - solution space in industrial control is standardized. most interesting motor in the last 5 years is hover-board motors. 
+        - [[Eric Platon]]
+            - The middle wheel are further out in [[Curiosity Rover]]. One of the reason maybe so that rover could turn in place? Is this a trade-off? If we have 
+            - [[Venkatesh Rao]] The middle could be steerable. Gives lateral mobility but turn in place rotation. wheeled robot has complex configuration space than legged. The second function of differential is to hold the base at level.
+            - [[Venkatesh Rao]] All intelligence is in the rocker-bogie. Can the design be made modular?
