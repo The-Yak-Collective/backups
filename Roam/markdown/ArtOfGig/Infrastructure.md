@@ -24,6 +24,28 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 39 [[February 17th, 2021]]
+        - participants:: [[Maier Fenster]] [[Jenna Dixon]] [[Nathan Acks]]
+        - **Agenda**
+            - Bot's down...
+        - **Meeting Notes**
+            - Looks like [[Nathan Acks]] is going to be the "emoji master" for channels.
+            - [[Maier Fenster]] Discord has a 500 channel limit. We're going to run into this limit with the weekly questions in a year or four.
+                - [[Nathan Acks]] Maybe we should have a separate question archive.
+                - [[Jenna Dixon]] Even if we archive things, they'll still be marked as new, and then people need to tap on them to get them dismissed.
+                - [[Jenna Dixon]] Should we really remove permission to post from the archived weekly questions?
+                - [[Nathan Acks]] We did have a problem with people posting to the initial archives...
+                - [[Jenna Dixon]] Maybe we should leave the weekly questions up for three weeks (or something)?
+                - [[Maier Fenster]] The goal was to get general discussions out of `coworking-cafe`. Questions will be rotated on Fridays.
+                - [[Jenna Dixon]] What if we had a "last week's questions" category that questions from the previous week?
+                - [[Maier Fenster]] I can do this.
+                - [[Jenna Dixon]] I'd really like to revitalize the projects. [[Oliver King]]'s trying to revitalize these. Yak Rover is happening, but everything else is sleepy.
+                - [[Nathan Acks]] I don't have good revitalization ideas, except to make things more welcoming and more active in general, with the idea that having more active people here will lead to more project activity.
+                - [[Maier Fenster]] Something else is the proposed help menu. Anyone can upload to this. Links can be internal to the menu, to other Discord chats, or even off-site. Anyone can download/upload the menu.
+                - [[Jenna Dixon]] Who's intended to be the owner?
+                - [[Maier Fenster]] Whoever uploads last wins. To upload, use the Discord file upload feature, and use `$$uploadmenu` as the comment. Filename doesn't matter.
+                - [[Jenna Dixon]] The help channel should expose the bots, and help people learn about them.
+                - [[Jenna Dixon]] We should try to push the new project UI live during the call next week.
     - Infrastructure Chat 38 [[February 10th, 2021]]
         - participants:: [[Maier Fenster]] [[Jenna Dixon]] [[Nathan Acks]]
         - **Agenda**

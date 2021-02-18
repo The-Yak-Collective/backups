@@ -3,7 +3,10 @@
     - Software "brain" for rovers, configurable or automatically adaptable to the actual hardware.
     - Remote control, debugging, telemetry/monitoring.
     - [[Maier Fenster]] i think it will need more sophisticated gaits
-- Naming: WIP
+- Naming:
+    - WIP
+    - Candidates:
+        - Abio Flex Wanderer
 - **Key information**
     - Video stream and snapshot API available. Please ask Eric; access contained to really interested people at first, as the API server is very weak for now.
     - Bot text stream
