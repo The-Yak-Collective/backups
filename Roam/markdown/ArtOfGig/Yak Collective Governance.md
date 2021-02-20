@@ -57,7 +57,6 @@ http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf
 And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-organizing-utopia-6d32d329ecdb
         - 11. About Trust and Common Ground.
 Given that lack of close connection and established trust, it’s also harder to develop the kind of common ground that facilitates productive interaction. The issues that people care about, the technical languages they speak, their modes of problem-solving, and their goals tend to diverge greatly when they work in different locations, specialize in different domains, and are responsible for different outcomes. It’s particularly challenging to bridge the gaps in understanding if they don’t know many people in common. The less employees know about each other’s motives and knowledge bases, research shows, the less inclined they are to share knowledge with each other. This can lead to more mistakes, slower project completion, and, in many cases, less innovative outcomes.
-
 https://sloanreview.mit.edu/article/picking-the-right-approach-to-digital-collaboration
         - Backup resources (not short reads, not free, or both)
             - There is also a lot of literature on guilds behind the paywalls, including 
