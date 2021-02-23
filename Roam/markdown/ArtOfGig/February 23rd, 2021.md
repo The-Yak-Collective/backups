@@ -1,0 +1,28 @@
+- 
+- https://roamresearch.com/#/app/ArtOfGig/page/DmVR1bbBK
+- Use of Jupyter
+    - [[Anuraj R]] - Use in Robotics? 
+        - Shared Dev Env - https://www.gitpod.io/ or https://repl.it
+        - https://www.nasa.gov/viper/lunar-operations uses ROS2 and OpenMCT
+    - [[Venkatesh Rao]] - How to deploy the code developed. How is the "Hello World"
+        - Some of this clear when we try it. Production vs Prototyping, sounds like 
+        - Interface to ROS is supervisory? 
+        - Anything built around CUDA creates complexity. Has lots of baggage? 
+        - Barrier for newbies for ssh is higher
+    - [[Victor Hill]] - Primarily use for rapid proto. JupyterHub direct access to ROS
+        - Use in ROS - https://blog.jupyter.org/jupyterlab-ros-3dc9dab7f421
+        - If there is data accumulated, then python data science packages can be used 
+        - Unified env for different things, one notebook for robotics control, one for data science. Helps in wide range of things for proto-typing and data-science. 
+        - Netflix does a lot of data science in notebooks, use tools to run notebooks 
+        - Once we have access to web interface, we can do the rest if needed.
+        - As a gateway to robotics resources. 
+        - "Anything built around CUDA creates complexity. Has lots of baggage? " - Victor can make CUDA work.
+        - "Barrier for newbies for ssh is higher" - But Jupter backend requires more work
+    - [[Eric Platon]] - Servos can be programmed in python. In plain python this has to be written in loop. In Jupyter, a python session inside browser. If we want to design a program
+    - [[Maier Fenster]] - We can use JupyterHub, for development or we can use it for actual interface the robot. Different cells for different functions and different parts. Does it help in developing the robot ? 
+    - [[Jascha Wilcox]] - Front end for controller, 
+        - DIY Robo cars - Donkey Cars https://www.donkeycar.com/
+        - VNC into the car, easy GUI ? delay is just of VNC
+        - [[Victor Hill]] - VNC is good if it is on the the same network. What about different network. How to have shared access of robot? ROS2 has security issues. Has issues with real-time stuff. 
+        - [[Jascha Wilcox]] - IPv6? Having a secure, realiable is difficult. Lots of companies use ROS. 
+        - https://developer.nvidia.com/isaac-sdk by Nvidia
