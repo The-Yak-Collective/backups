@@ -543,7 +543,7 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - Writer at https://promisetewogbola.com/
     - Twitter: @ptewogbola
 - [[Matt Treacey]]
-    - Email marketing automation for online educators and solo consultants
+    - Email marketing automation strategy for online brands: SaaS, eCommerce, Consultants and Bloggers.
         - https://symbiosgrowthautomation.com/
     - connect: 
         - https://www.linkedin.com/in/matttreacey/

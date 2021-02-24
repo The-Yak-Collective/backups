@@ -37,8 +37,19 @@ Consult [[Jenna Dixon]] for details
 - **Scope**
     - **Will-haves**
         - A one day event tentatively planned **March 27th, 2021**
+            - 30-minute introduction / warm-up period for self-sorting into various projects
+            - 150-minute pomodoro sessions where we can work alongside everyone
+            - 60-minute give a debrief and sort everyone into breakout project rooms
+            - Aim for units of work that are self-contained without needing coordination
         - A set of involved projects + project leads
+            - Sachin -- astonishing stories
+            - Scott -- new and future homes
+            - Venkat -- mars rover
+            - Paul (?) -- reimagine healthcare
         - A pre-event internal marketing strategy
+            - Welcome committee DM outreach efforts
+            - Get them onboarded into the new users system
+            - 
         - A post-event internal marketing strategy
         - A well-defined, repeatable organizational process
     - **Won't-haves**
