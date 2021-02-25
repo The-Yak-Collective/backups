@@ -121,6 +121,7 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
     - [[Yak Collective Website]]
     - [[bots-a-lot internal project page]]
 # Documents
+    - [[YUX (Yak User Experience)]]
     - [[Yak House Style]] (writing & visual style guide)
     - [[Code Style Guide]] (coding style guide)
     - [[Threat Model]]

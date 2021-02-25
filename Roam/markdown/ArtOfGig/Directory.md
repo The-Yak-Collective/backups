@@ -62,6 +62,9 @@
 - [[Reanna Browne]] 
     - - Futurist from Melbourne, Australia. Background in foresight, strategy and design - bent for 'Workforce and social Futures'. In part indie foresight work in part conventional foresight work - aka pragmatic foresight - horizon scanning, scenarios etc for corps, alongside the ACTUAL work I enjoy - helping people step away from the present and ask more critical questions and also upending anything techno-utopia and anything with a title 'The Future of Xxxx'.....
 - [[Khuyen Bui]]
+- [[Xander Cansell]]
+
+    - I’ve recently started out on my journey of indie consulting. Currently looking to improve my consulting skillset, and move beyond my first group of mostly publishing and publishing-adjacent clients (usually working on business strategies, data analysis, digital strategy, a little technical stuff) and broaden my potential client base to other industries. Previously I was Head of Digital for a publishing/tech startup in London (Unbound). And I’m about half way through a (remote) EMBA.
 - [[Evan Carmi]]
     - Based in Portland
     - Evan is a coach and consultant with a background in software engineering management, most recently at Airbnb.

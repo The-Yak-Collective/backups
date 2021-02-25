@@ -1,0 +1,12 @@
+- #UX
+- What sort of documents might help us in the redesign of problematic Yak user experiences? 
+    - User Goals, common stories, repeated activity flows, personas for Yakking. 
+    - Symptoms of YUX failure? 
+    - Existing tools and bots that affect those 
+- Problematic experiences:
+    - Choosing to Yak (prospective Yakkers)
+    - Becoming a Yak (rite of passage)
+    - Onboarding (welcome to your new life, Sorting Hat)
+    - Project completion including launch
+    - Leave a Gig / Take a Gig 
+- 
