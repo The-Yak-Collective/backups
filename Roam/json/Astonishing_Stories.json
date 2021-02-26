@@ -28481,13 +28481,75 @@
   {
     "create-time": 1614246769761,
     "title": "February 25th, 2021",
-    "uid": "02-25-2021",
-    "edit-time": 1614246769761,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },
+    "children": [
+      {
+        "string": "inciting incident - sees a really handsome person get attention so decides to go cat fishing - and he somehow ends up working on a rover",
+        "create-time": 1614317108241,
+        "uid": "Up0z5zbOO",
+        "edit-time": 1614325568682,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      },
+      {
+        "string": "gets what he wants - which is what - he is seen but not really - he gets seen for his work but no one knows who he is ",
+        "create-time": 1614317199361,
+        "uid": "4p1bVLuwm",
+        "edit-time": 1614325598493,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      },
+      {
+        "string": "but losses something ",
+        "create-time": 1614317218001,
+        "uid": "jGkautk8z",
+        "edit-time": 1614317223129,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      },
+      {
+        "string": "comes back",
+        "create-time": 1614317224898,
+        "uid": "lvXKBaUai",
+        "edit-time": 1614317227051,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      }
+    ],
+    "uid": "02-25-2021",
+    "edit-time": 1614246769761,
     ":edit/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1614319206349,
+    "title": "February 26th, 2021",
+    "uid": "02-26-2021",
+    "edit-time": 1614319206349,
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
     }
   }
 ]

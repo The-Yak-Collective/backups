@@ -1,0 +1,4 @@
+- inciting incident - sees a really handsome person get attention so decides to go cat fishing - and he somehow ends up working on a rover
+- gets what he wants - which is what - he is seen but not really - he gets seen for his work but no one knows who he is 
+- but losses something 
+- comes back
