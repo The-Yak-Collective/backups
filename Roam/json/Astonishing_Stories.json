@@ -28543,8 +28543,56 @@
   {
     "create-time": 1614319206349,
     "title": "February 26th, 2021",
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    "children": [
+      {
+        "string": "[[morning pages]]",
+        "create-time": 1614353087650,
+        ":block/refs": [
+          {
+            ":block/uid": "z7ZDEQMCA"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "z7ZDEQMCA"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "uid": "rDocbCR6S",
+        "edit-time": 1614353157948,
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      }
+    ],
     "uid": "02-26-2021",
     "edit-time": 1614319206349,
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    }
+  },
+  {
+    "create-time": 1614353157954,
+    "title": "morning pages",
+    "uid": "z7ZDEQMCA",
+    "edit-time": 1614353157969,
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    }
+  },
+  {
+    "create-time": 1614405602684,
+    "title": "February 27th, 2021",
+    "uid": "02-27-2021",
+    "edit-time": 1614405602684,
     ":create/user": {
       ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
     },

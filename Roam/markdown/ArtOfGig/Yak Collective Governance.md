@@ -49,15 +49,16 @@ or something similar
         - 7. New: https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8#Sec22
         - 8. Finally, there are some anecdotal evidence on what's going on in Asia, which is very interesting.
             - https://www.notion.so/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b
-    - **Queued**
-        - 9. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
-            - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
-        - 10. Hey Grigori, I was inspired by our chat re: GitLab and wanted to offer you the Valve employee handbook -- they're completely decentralized and self-organizing:
-http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf
-And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-organizing-utopia-6d32d329ecdb
-        - 11. About Trust and Common Ground.
+        - 9. About Trust and Common Ground.
 Given that lack of close connection and established trust, it’s also harder to develop the kind of common ground that facilitates productive interaction. The issues that people care about, the technical languages they speak, their modes of problem-solving, and their goals tend to diverge greatly when they work in different locations, specialize in different domains, and are responsible for different outcomes. It’s particularly challenging to bridge the gaps in understanding if they don’t know many people in common. The less employees know about each other’s motives and knowledge bases, research shows, the less inclined they are to share knowledge with each other. This can lead to more mistakes, slower project completion, and, in many cases, less innovative outcomes.
 https://sloanreview.mit.edu/article/picking-the-right-approach-to-digital-collaboration
+        - 10. A read on Valve recommended by [[Oliver King]]
+Hey Grigori, I was inspired by our chat re: GitLab and wanted to offer you the Valve employee handbook -- they're completely decentralized and self-organizing:
+http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf
+And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-organizing-utopia-6d32d329ecdb
+    - **Queued**
+        - 10. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
+            - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
         - Backup resources (not short reads, not free, or both)
             - There is also a lot of literature on guilds behind the paywalls, including 
 1. https://www.jstor.org/stable/1360368?seq=1
@@ -79,7 +80,7 @@ https://sloanreview.mit.edu/article/picking-the-right-approach-to-digital-collab
         - [Benevolent dictator for life (wikipedia)](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life)
             - [Guido von Rossum email](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
             - https://www.theatlantic.com/technology/archive/2014/01/on-the-reign-of-benevolent-dictators-for-life-in-software/283139/
-        - [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
+        - [Jo Freeman, The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
         - [david shor case](https://nymag.com/intelligencer/2020/06/white-fragility-racism-racism-progressive-progressphiles-david-shor.html)
         - [In group contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
         - [Common knowledge problem](https://plato.stanford.edu/entries/common-knowledge/)
