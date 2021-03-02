@@ -10,7 +10,7 @@
 - [[Procurement Directory]]
 - [[Yak Rover Reference Materials]]
 - [[Yak Rover 2021 Builds]]
-- [[Yak Rover Meeting Reference Material 2021-02-22]]
+- [[Jupyter and ROS]]
 - **Overview**
     - **WHAT:** Yak Rover is a long-term Yak Collective [open-source hardware project](https://en.wikipedia.org/wiki/Open-source_hardware) to design and build a series of rovers culminating in a deployable Mars Rover by 2030 (ideally one major design iteration per year, starting with experimental versions in Year 1 designated X, Y etc., and culminating in Yak Rover 9 is Mars-capable). 
     - **WHY:** The goal is to have fun pursuing a meaningful long-term project, while collectively developing skills and insights that will be valuable for consulting and gigs in a growth industry (driverless vehicles and autonomous robotics here on Earth). 

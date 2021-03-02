@@ -1,0 +1,72 @@
+- Basic -> Rotor and Stator
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FOlknWDDC2M.png?alt=media&token=5959e282-6837-4186-ba0f-0b126894ea61)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FbFU5JwBcaS.png?alt=media&token=ecc40c28-110e-4741-a8f3-9aaa79103b90)
+    - Motor is bidirectional transducer
+    - Lorentz Force
+    - Homopolar motor simple copper wire and bettery
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F9bTnm7xcX-.png?alt=media&token=bb45cf1e-8247-4ade-875e-d868dc96c48f)
+    - FEMM - Open source software for simulating electromagnetics
+    - Lorentz is only a model and does not tell the things that are going on in a real motor these days
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F6vAQE7y24m.png?alt=media&token=b508259f-f49d-4e5e-b5e3-293746633ffe)
+    - Dipoles a better way to think about motor. Max torque when electro-magnet and permanent magnet at 90 degree. Two reactions theory
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F277N0bjNhL.png?alt=media&token=9ec443bb-0f43-4001-a394-ebac70c0dd1d)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FltIUf13YaY.png?alt=media&token=e0911d0a-41c5-4b84-8ab3-94ed22235e4a)
+    - H field is the inducing field. Motivation for magnetic field exisit. B field is the actual field. 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FcTE9tDPQmJ.png?alt=media&token=6c42d241-e0af-448e-8d88-2c71534866b5)
+        - Free space has very low permeability. Slope in this curve very low
+        - Steel has a high slope but has saturation. Ferromagnetic saturation
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDgy3JGO4aj.png?alt=media&token=ef31f614-1a9c-44fa-9a99-f47009ca3a2f)
+        - The gap is work and generates heat
+    - This about magnet having potential energy. m = permanent magnet in a B field. magnetic moment in the dipole
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F7Ca3J4Y91f.png?alt=media&token=de53c509-2794-477a-aafb-424fbdd86fec)
+    - For motor the flux is not homogeneous unlike gravity which feels homogenous for humans
+    - Commutation
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FMcX9yMroKj.png?alt=media&token=8f4e1bdf-fa1c-4460-80b3-db9302ef786a)
+    - Losses - Biggest loss in many applications is through winding. which is I^2R losses. This is why we rate motors based on loads. Heat export and efficiency is a big deal. 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F3EROZKZuvu.png?alt=media&token=f5993cf1-1e95-4605-b62e-ff365f033e48)
+        - Picking speed to torque ratio is important. Motors are best at the mid point. When motor is stalled - heat export system should be good enough to get rid of heat. 
+            - Venkat - is the solution to turn off the motor when stalled and put a clamp
+            - Jascha - Maybe no. Eg. power chair. 
+            - Maier - Choosing a motor, what are the possible mistakes? 
+            - Jascha - Worst thing is motor burning. Torque and speed can be blended and balanced according to applications. 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F5W2gbszJvu.png?alt=media&token=992f360c-f509-4c73-9145-e3f3e6a9d91d)
+    - Taxonomy
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fc62NUkcW2O.png?alt=media&token=355fd9ac-7c41-473e-bed5-33d856772ea1)
+        - DC - old, AC - new, UM - universal (in appliances)
+        - Brushed - lots of problems
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fe7-36WK9w8.png?alt=media&token=388e9d07-4cf9-409b-b0dd-2a5ed5a6df10)
+        - Rare earth materials changed the motor industry. Good to read the 
+        - Brushless DC - if we rotate a motor and if we look at the wires, we will see a signal which is sinosoidal or almost 
+        - Induction motors - extremely robust. used in a lot of pumps. Inducts current in the stator from the rotor
+            - Venkat - Induction motors require 3 phase or brushless DC don't?
+            - Jascha - Brushless DC and Induction are both 3 phase. Instantaneous power is non-zero. There are single phase induction motors. they are used in cheap appliances. eg. desk phases. Slip frequency for induction motors require specific number for maximum torque.
+    - What does the application want? Torque, Power or Speed?
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fcy5hiGjTYk.png?alt=media&token=b2bf4ff2-9cee-4cee-ab3d-28afb36a8be9)
+        - rootP is the I^2R losses. which affects size of motor. Always start with "Motor constant"
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FGaHC-P7bNC.png?alt=media&token=18930a45-eaea-4aff-ae6f-33581cc72b2f)
+        - If we want higher peak torque, we can fewer raps, which requires lower voltage. 
+        - Gear box changes the Motor constant. Robot arms are always driven with gear box. Backdrivability changes. 
+        - Eric - Do rover like curiosity have gear boxes? 
+        - Jascha - They will have gear boxes. Planetary gear box system. Commonly used in electric bikes. Motor and gear box packaged in the wheel itself. Strain wave gear box or harmonic gear box, common in robotic arms
+    - Motor Controllers
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fl2mK3HyKv1.png?alt=media&token=e5061b50-052d-41be-8ff0-68ca71472e2f)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FoXSr7aqa1r.png?alt=media&token=aefd9f5d-6ee1-4abd-bac3-a25c8b94ea95)
+        - In drones, the back emf is measured without sensor. Bootstrapping problem to know where it is. This is a problem in robots, so motors have some sensor to know the position of the motor. All brush-less controllers have three half bridges. Elmo - very expensive.
+            - Venkat - what is the cheapest available?
+            - Jascha - can get one 100 dollars for a motor and 50 dollars for the motors. Will share some part numbers
+            - Maier - if a system is designed with a particular set of motor and controller then how replaceable are they? 
+                - can a motor change happen after mechanical design has been done. 
+            - Jascha - yes can be done with other motor of the same size class. 
+                - if the type of motor is changed from brushed to brushless, then mechanics might change
+    - Hoverboard Motor
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FEYPJYpQnkw.png?alt=media&token=87f4c9a8-83d0-43a6-ab9b-1c0e1ac641ec)
+        - Rare earth magnet make this possible
+        - Form factor was imagined. The diameter of this motor is the gear box. 
+    - Dyson haridryer motor
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FCrKH40c2ek.png?alt=media&token=117de0b2-3c39-4c5d-9262-ea7c09ad392b)
+        - If there would not air over itself then it would burn
+    - Largest things moving are moved by electric motors, eg ABB Azipod
+    - Superconducting motors for wind turbines. 
+- Discussion portion
+    - https://www.universal-robots.com/about-universal-robots/news-centre/teradyne-inc-acquires-universal-robots/
+    - 

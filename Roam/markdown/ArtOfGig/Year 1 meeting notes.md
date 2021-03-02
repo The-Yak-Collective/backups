@@ -66,3 +66,8 @@
     - "#[[Year 1 meeting notes]] Regular Yak Rover group meeting No:3 (10 PM Pacific, morning in Europe, afternoon in Japan)."
 - [[February 16th, 2021]]
     - "#[[Year 1 meeting notes]] Regular Yak Rover group meeting No:4 (10 PM Pacific, morning in Europe, afternoon in Japan)."
+- [[February 23rd, 2021]]
+    - #[[Year 1 meeting notes]] Victor session on [[Jupyter and ROS]]
+- [[March 1st, 2021]]
+    - "Notes from [[Jascha Wilcox]] special session on motors"
+    - 
