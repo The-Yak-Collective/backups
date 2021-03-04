@@ -1,0 +1,27 @@
+- This is: 
+    - This is a YC minimum viable gig, so it's a straw man. 
+- The problem: 
+    - How do we turn interest in Yak ideas into a consulting gig? A conversation. 
+    - Into positive press and reputation? Many conversations.  
+- A Yak Coffee is a 20 minute, free, virtual call between YC consultants with a stranger. 
+    - potential client, the press, referrers, potential Yaks. 
+- From the stranger's perspective: 
+    - Steps: 
+        - Discover YC
+        - Discover a herd 
+        - Schedule a call
+        - Confirmation 
+        - Call
+        - Structured follow-up 
+    - Effort: 4 minutes to find and schedule. 2 minutes to read the follow-up invite. 
+    - Price: FREE
+- From a Yak's perspective
+    - Discover the Coffee service
+    - Build your personal profile (minimums?)
+    - Herd up into a small team that will gig together
+    - Build your Herd profile
+    - Connect your personal calendars to our scheduling service
+    - 
+- Easy discovery. 
+- Schedule a free conversation. 
+- Follow up.
