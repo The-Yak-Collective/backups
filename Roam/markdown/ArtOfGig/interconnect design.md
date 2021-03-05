@@ -1,0 +1,2 @@
+- RS 485 https://en.wikipedia.org/wiki/RS-485
+- example of using the RS-485 bus design https://www.raspberrypi.org/forums/viewtopic.php?p=538112#p538112

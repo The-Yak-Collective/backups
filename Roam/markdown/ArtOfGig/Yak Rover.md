@@ -95,6 +95,7 @@
             - Basic path planning and navigation
             - API-controlled payload ops
             - etc.
+        - [[interconnect design]]
     - Tests
         - Mobility
             - Climb a 45 degree gradient

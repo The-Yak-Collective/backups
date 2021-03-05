@@ -2,5 +2,5 @@
 - [[Yak X1]] by [[Maier Fenster]]
 - [[Yak Y1]] by [[Anuraj R]]
 - [[Yak Z1 - Abio Flex Wanderer]] by [[Eric Platon]]
-- [[Yak W1]] by [[Venkatesh Rao]]
+- [[YR: Nature is Murder]] by [[Venkatesh Rao]]
 - [[Yak U1]] by [[Victor Hill]]

@@ -28663,10 +28663,22 @@
     }
   },
   {
-    "create-time": 1614851346735,
+    "create-time": 1614912085163,
     "title": "March 4th, 2021",
     "uid": "03-04-2021",
-    "edit-time": 1614851346735,
+    "edit-time": 1614912085164,
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    }
+  },
+  {
+    "create-time": 1614937755758,
+    "title": "March 5th, 2021",
+    "uid": "03-05-2021",
+    "edit-time": 1614937755758,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },

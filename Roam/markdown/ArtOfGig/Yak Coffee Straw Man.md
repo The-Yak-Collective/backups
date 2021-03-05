@@ -1,0 +1,51 @@
+- This is: 
+    - This is a YC minimum viable gig, so it's a straw man. 
+- The [[Marketing]] problem: 
+    - How do we turn interest in Yak ideas into a consulting gig? 
+        - A conversation. 
+    - Interest into positive press and reputation? 
+        - Many conversations.  
+- A Yak Coffee is a 20 minute, free, virtual call between YC consultants with a stranger. 
+    - potential client, the press, referrers, potential Yaks. 
+- From the stranger's perspective: 
+    - Steps: 
+        - Discover YakC
+        - Discover a Herd 
+            - A herd is a list of yaks who consult together 
+                - about a common problem or theme 
+                - using a common or connected set of practices
+        - Schedule a call
+            - Think "calend.ly pro" or other quick booking solution
+            - Include request for client to answer up to three questions before the call 
+        - Confirmation 
+            - Email confirmations and invitation to share pre-call reading material and profile links
+            - appointment added to your calendar, and 
+            - pre-call reminders via SMS
+        - Call
+            - One person introduces the team in one minute
+            - Q. Orienting question: By the end of this call...? Today's big question is...? You'll know your time was well spent if...? 
+        - Structured follow-up 
+            - Thanks. Link to the Herd's page. 
+    - Effort: 4 minutes to find and schedule. 2 minutes to read the follow-up invite. 
+    - Price: FREE
+- From a Yak's perspective
+    - Discover the Coffee service
+        - Some internal campaign to get yaks to sign up 
+    - Build your personal profile (minimums?)
+    - Herd up into a small team that will gig together
+        - Find an existing herd and ask to join 
+        - Invite others to join your herd
+    - Complete your Herd profile
+        - Name, membership
+        - Time zones served
+        - Collective accomplishments
+        - Kinds of funny-shaped problems you solve - tags, blurbs
+        - Links to artifacts (presentations, portfolios, videos) 
+    - Connect your personal calendars to our scheduling service
+    - - Easy discovery. 
+- Schedule a free conversation. 
+- Follow up.
+- From YakC's perspective
+    - Promote conversation and connections among Yaks
+    - Lower friction for Yaks to solicit business 
+    - Increase surface area for 

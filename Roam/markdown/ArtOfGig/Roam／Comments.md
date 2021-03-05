@@ -14,6 +14,8 @@
 - {{comments: "this is a sentence to be comment {{comment-button}}"
     - {{[[comment]]}}
 this is a comment
+    - {{[[comment]]}}
+
 - {{comments: "[[Maier Fenster]] testing the comment button (move mouse over this line to see) {{comment-button}}"
     - [[Nathan Acks]] Now that I see how this works, it's __almost__ useful. Needs to be better exposed in Roam's UI + auto-indicate who's adding the comment.
     - {{[[comment]]}}
