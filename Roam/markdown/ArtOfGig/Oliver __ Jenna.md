@@ -1,0 +1,39 @@
+- [[March 5th, 2021]]
+    - Three tiers of membership:
+        - Discord only
+            - Fields::
+                - Automated
+            - Access::
+                - Able to view all non-private channels
+                - Attention drawn to 'serendipity engines'
+        - Internal participants: able to participate in a project
+            - Fields:: #Knack
+                - E-mail #Knack
+                - Name #Knack
+                - Skills #Knack
+                - Interests #Knack
+            - Access::
+                - Internal newsletter access #EmailClient 
+                    - Real-Time Distribution #EmailClient
+                    - Historical Distribution #EmailPlatform
+                - Ability to create an incubator project channel #Discord
+                - Ability to join a project channel #Discord
+                    - View not comment #Discord
+                - Ability to join a study group #Discord
+        - External participant: have already participated in a project
+            - Fields::
+                - Same as above +
+                - About Me
+                - Twitter
+                - Avatar
+                - etc
+            - Access::
+                - Ability to see and edit their own page
+                - Ability to get included as part of our marketing
+    - Serendipity engine: constrain the number of channels available for 'unassociated yaks' to interact with → gated-channels should be focused and oriented to increase the salience and utility of roles 
+    - Quests are naturally built in to the idea of gradually onboarding yourself into the relevant conversations where the relevant functionality gets unlocked
+    - Flywheel effects are hopefully solved by creating a virtuous cycle of participation and recognition on behalf of the Yak Collective
+    - Nothing as tacky as a points system but if it's the case we're marketing our own activity, it only makes sense to market the participants of that activity
+    - The tangible position that is going to be developed is the production itself; it doesn't matter what we do as long as we're exercising the Yak brand by doing something interesting and of sufficiently high-quality
+        - A production community you can hire
+    - On the meta-list, everything will be covered by the forthcoming UX Journey diagram with exception the employee handbook and constitution/by-laws

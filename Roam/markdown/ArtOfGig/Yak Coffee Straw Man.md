@@ -5,6 +5,17 @@
         - A conversation. 
     - Interest into positive press and reputation? 
         - Many conversations.  
+- Assumptions to test
+    - intake calls work with more than one person taking the call
+
+    - herds are a viable unit of organizing
+
+    - free chats can lead to paid engagement
+    - yaks want yakc to serve (in part) as a bizdev channel for folks who dislike or are newbies at or are bad at bizdev
+
+    - yaks can discover trustworthy colleagues within our community
+    - yaks will try for a platform comparable to fiverr (gig productization), patreon (subscription models), and a design portfolio service
+    - inbound marketing can substitute for direct marketing and networking and word of mouth.
 - A Yak Coffee is a 20 minute, free, virtual call between YC consultants with a stranger. 
     - potential client, the press, referrers, potential Yaks. 
 - From the stranger's perspective: 
@@ -28,24 +39,51 @@
             - Thanks. Link to the Herd's page. 
     - Effort: 4 minutes to find and schedule. 2 minutes to read the follow-up invite. 
     - Price: FREE
+
+    - Risks: low, just time and embarrassment, perhaps social engineering, fear of strangers.
 - From a Yak's perspective
-    - Discover the Coffee service
-        - Some internal campaign to get yaks to sign up 
-    - Build your personal profile (minimums?)
-    - Herd up into a small team that will gig together
-        - Find an existing herd and ask to join 
-        - Invite others to join your herd
-    - Complete your Herd profile
-        - Name, membership
-        - Time zones served
-        - Collective accomplishments
-        - Kinds of funny-shaped problems you solve - tags, blurbs
-        - Links to artifacts (presentations, portfolios, videos) 
-    - Connect your personal calendars to our scheduling service
+    - Experience
+        - Discover the Coffee service
+            - Some internal campaign to get yaks to sign up 
+        - Build your personal profile (minimums?)
+        - Herd up into a small team that will gig together
+            - Find an existing herd and ask to join 
+            - Invite others to join your herd
+        - Complete your Herd profile
+            - Name, membership
+            - Time zones served
+            - Collective accomplishments
+            - Kinds of funny-shaped problems you solve - tags, blurbs
+            - Links to artifacts (presentations, portfolios, videos) 
+        - Connect your personal calendars to our scheduling service
+
+        - talk with your Herd about roles in coffee chats (facilitator, scribe, etc) and coffee goals. aim: being relaxed with each other
+
+        - Promote your Herd
+
+        - confirm bookings like a human professional, not a bot
+
+        - show up for calls
     - - Easy discovery. 
 - Schedule a free conversation. 
 - Follow up.
 - From YakC's perspective
     - Promote conversation and connections among Yaks
     - Lower friction for Yaks to solicit business 
-    - Increase surface area for 
+    - Increase surface area for PL collaboration and discovery
+
+- prior art.
+- backlog
+    - subscribe to a series of calls 
+    - arrange payment splits
+
+    - YakC NDA 
+        - YakC Terms
+
+        - YakC IP and creative commons
+        - YakC splits policy
+        - Linking content marketing to Herd
+
+        - herds of different trust levels 
+        - sherpas with bizdev skills 
+        - 

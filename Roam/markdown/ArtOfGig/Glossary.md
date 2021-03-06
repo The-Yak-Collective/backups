@@ -1,0 +1,69 @@
+- A
+    - **Absolute Unit**: A solidly built entity, such as a Yak. Yak Collective projects strive to be Absolute Units of information products. 
+    - 
+- B
+    - **Birds of a Feather (BOF)**: People with the same interests who might do things together. From glossary of [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
+    - **Best Current Practice (BCP)**: A type of RFC, a documentation of the best way to do something.
+    - +**Business ecosystem (BE)** a dynamic group of largely independent economic players that create products or services that together constitute a coherent solution. 
+- C
+    - **Clark Principle**: "We reject kings, presidents and voting. We believe in rough consensus and running code" -- David Clark [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
+    - **Cheaty:** Players that try to cut corners and by doing it risk permanent account ban. Seen in https://nostarch.com/download/guildleader_ch3.pdf
+- D
+    - **Decentralized Control**: A system of governance in which there is no single member has overall control of resources or decisions. Principle from the IETF.
+    - Dogfooding:: eating your own dogfood is the practice of an organization usings its own product. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+- E
+    - **Eedies:** certain players types that can do damage to the guild. The notable examples are Greedy, Needy, Leety, and Cheaty. Seen in https://nostarch.com/download/guildleader_ch3.pdf
+    - Yak-Etiquette:: “Be conservative in what you send and liberal in what you accept.” —[[Jon Postel]]
+        - > Mole recollected that animal-etiquette forbade any sort of comment on the sudden disappearance of one's friends at any moment, for any reason or no reason whatever. —[[Wind in the Willows]]
+        - > Be conservative in what you send and liberal in what you accept. —[[Jon Postel]]
+    - **Edge-user empowerment**: A principle in the IETF that edge users of the internet should be empowered, which can be generalized to any decentralized system. Also applied to devices at the edge (or client end) of the network. Applied to the Yak Collective, this would imply prioritizing individuals attached to the edge of the social graph, ie new members who are just joining or people who occasionally participate in small ways, over those at the core who are heavily involved.
+    - Externalizable:: a means of characterizing [[Service interfaces]] designed for more public and externally oriented forms of consumption; often implemented through a broad set of case-specific rules. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+- F
+- G
+    - **Greedy:** Try to make a claim on every piece of loot that drops. Seen in https://nostarch.com/download/guildleader_ch3.pdf
+- H
+- I
+- J
+- K
+- L
+    - **Land Grab Mode:** Once there is minimum viable happiness and Tipping Loops, look for other opportunities that are adjacent to the values of the brand/community.  [Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
+    - **Leety:** Players that treat themselves as elite. Think that they have to win every argument, no matter how trivial it is. Seen in https://nostarch.com/download/guildleader_ch3.pdf
+    - Library-shelf system:: a form of common knowledge where organizational functionality is maintained as self-contained and inter-operable packages. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+- M
+    - Murmuration Principle:: Ad hoc groups form, move, and disperse as needed to feed and evade predators. An individual can make good decisions for the group with situational awareness of a few other close-by individuals.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDppNqoCXcN.jpeg?alt=media&token=b1cc6487-3612-4909-8d67-1894baf2828f)
+            - source: [An Open Architecture for Self-Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
+    - **Minimum Viable Happiness:** Platforms that create meaningfully more happiness in the average transaction than any substitute, __not__ how many transactions you accumulate, will dominate the market.[ Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
+- N
+    - **Needy:** players that constantly asks for help with quests, crafting, but never volunteers when the opportunity arises to help someone else.  Seen in https://nostarch.com/download/guildleader_ch3.pdf
+- O
+    - 
+    - Platforms:: "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)" #unfinished
+- P
+    - Postel's Principle:: "Be conservative in what you send and liberal in what you accept". [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
+    - Pub-sub system:: a form of asynchronous communication where any message published to a topic is immediately receivable by all of the subscribers. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - **Poaching:** In MMO terms, to poach means to steal players from another guild’s roster by hard selling your guild to them or aggressively recruiting them. Seen in https://nostarch.com/download/guildleader_ch3.pdf
+- Q
+- R
+    - **RFC**: Request for Comments. [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
+- S
+    - **Server presence:** Considered to be the holy grail of guild leader. Being a member of a guild with significant server presence is considered to be a privilege. The building blocks of presence are Excellence, Longevity, Fun, Alliances and Famous Players (in that order). Seen in https://nostarch.com/download/guildleader_ch3.pdf
+    - Service interfaces:: a means of exposing knowledge or functionality independent of underlying operations in a fashion that accounts for user accessibility. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Service-oriented architecture::  a style of designing systems where component pieces are wrapped in [[Service interfaces]] such that they are self-contained, interoperable, and repeatable. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Slime Mold Principle:: Creating affordances for simple explore behaviors in a group leads to fruitful developments.
+        - > There is nothing magic that humans (or other smart animals) do that doesn’t have a phylogenetic history. Taking evolution seriously means asking what cognition looked like all the way back.
+        - > From this perspective, we can visualise the tiny cognitive contribution of a single cell to the cognitive projects and talents of a lone human scout exploring new territory, but also to the scout’s tribe, which provided much education and support, thanks to language, and eventually to a team of scientists and other thinkers who pool their knowhow to explore
+            - from: [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
+            - Self-Organizing Structures:: cf "the problem of the emergence/maintenance of biological order at successively higher levels of complexity"
+                - [[Self-Organization in Nonequilibrium Systems: From Dissipative Structures to Order through Fluctuations]]
+                    - —[Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine)
+- T
+    - **Tipping Point**: Point at which core goal of the platform or community becomes easier and not harder. For a marketplace platform this could mean lower acquisition cost, doing fewer non scalable things. Tipping loops are happiness loops + Loop related to growth of the platform (eg: for yak collective it is number of projects active/in pipeline etc) [Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
+- U
+- V
+    - Versioned-library system:: a form of maintaining common knowledge where the state of common knowledge and state changes are kept track of through an incrementally increasing naming heuristic. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+- W
+- X
+- Y
+    - **Yak**: A large bovine native to the Tibetan plateau that often conforms to the definition of "absolute unit."
+- Z
