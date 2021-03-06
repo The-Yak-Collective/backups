@@ -33,9 +33,9 @@ jobs:
           bash .bin/roam_asset_downloader.sh Roam/markdown/ArtOfGig
           bash .bin/roam_asset_downloader.sh Roam/markdown/Astonishing_Stories
         env:
-          ROAM_EMAIL: ${{ secrets.ROAM_USER }}
-          ROAM_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
-          ROAM_GRAPH: ArtOfGig,Astonishing_Stories
+          R2G_EMAIL: ${{ secrets.ROAM_USER }}
+          R2G_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
+          R2G_GRAPH: ArtOfGig,Astonishing_Stories
           MD_REPLACEMENT: _
       - name: Commit changes
         uses: everruler12/git-auto-commit-action@latest
