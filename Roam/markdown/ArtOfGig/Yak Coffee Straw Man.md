@@ -1,14 +1,14 @@
+- Contributors 
+    - [[Phil Wolff]]
 - This is: 
-    - This is a YC minimum viable gig, so it's a straw man. 
+    - This is a YC __minimum viable gig,__ so it's a straw man. 
 - The [[Marketing]] problem: 
-    - How do we turn interest in Yak ideas into a consulting gig? 
-        - A conversation. 
-    - Interest into positive press and reputation? 
-        - Many conversations.  
+    - How do we turn interest in Yak ideas into a consulting gig? A conversation. 
+How to turn interest into positive press and reputation? Many conversations.  
 - Assumptions to test
     - intake calls work with more than one person taking the call
 
-    - herds are a viable unit of organizing
+    - Herds are a viable unit of organizing
 
     - free chats can lead to paid engagement
     - yaks want yakc to serve (in part) as a bizdev channel for folks who dislike or are newbies at or are bad at bizdev
@@ -18,7 +18,8 @@
     - inbound marketing can substitute for direct marketing and networking and word of mouth.
 - A Yak Coffee is a 20 minute, free, virtual call between YC consultants with a stranger. 
     - potential client, the press, referrers, potential Yaks. 
-- From the stranger's perspective: 
+- From the Client's perspective: 
+    - Goals: Have a productive get-acquainted call, maybe even learn something
     - Steps: 
         - Discover YakC
         - Discover a Herd 
@@ -42,6 +43,7 @@
 
     - Risks: low, just time and embarrassment, perhaps social engineering, fear of strangers.
 - From a Yak's perspective
+    - Goals: build peer and client network, turn conversations into leads
     - Experience
         - Discover the Coffee service
             - Some internal campaign to get yaks to sign up 
@@ -64,6 +66,9 @@
         - confirm bookings like a human professional, not a bot
 
         - show up for calls
+    - Effort: 
+    - Price: 
+    - Risks: 
     - - Easy discovery. 
 - Schedule a free conversation. 
 - Follow up.
@@ -73,7 +78,7 @@
     - Increase surface area for PL collaboration and discovery
 
 - prior art.
-- backlog
+- backlog of potential extensions
     - subscribe to a series of calls 
     - arrange payment splits
 

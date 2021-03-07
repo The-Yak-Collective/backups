@@ -6,8 +6,9 @@
     - **Best Current Practice (BCP)**: A type of RFC, a documentation of the best way to do something.
     - +**Business ecosystem (BE)** a dynamic group of largely independent economic players that create products or services that together constitute a coherent solution. 
 - C
-    - **Clark Principle**: "We reject kings, presidents and voting. We believe in rough consensus and running code" -- David Clark [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
     - **Cheaty:** Players that try to cut corners and by doing it risk permanent account ban. Seen in https://nostarch.com/download/guildleader_ch3.pdf
+    - **Clark Principle**: "We reject kings, presidents and voting. We believe in rough consensus and running code" -- David Clark [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
+    - Coffee: A conversation with a Yak. [[Yak Coffee Straw Man]]
 - D
     - **Decentralized Control**: A system of governance in which there is no single member has overall control of resources or decisions. Principle from the IETF.
     - Dogfooding:: eating your own dogfood is the practice of an organization usings its own product. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
@@ -50,6 +51,7 @@
     - **Server presence:** Considered to be the holy grail of guild leader. Being a member of a guild with significant server presence is considered to be a privilege. The building blocks of presence are Excellence, Longevity, Fun, Alliances and Famous Players (in that order). Seen in https://nostarch.com/download/guildleader_ch3.pdf
     - Service interfaces:: a means of exposing knowledge or functionality independent of underlying operations in a fashion that accounts for user accessibility. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
     - Service-oriented architecture::  a style of designing systems where component pieces are wrapped in [[Service interfaces]] such that they are self-contained, interoperable, and repeatable. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Sherpa: a Yak guide. See [[Yak Sherpa School]].
     - Slime Mold Principle:: Creating affordances for simple explore behaviors in a group leads to fruitful developments.
         - > There is nothing magic that humans (or other smart animals) do that doesn’t have a phylogenetic history. Taking evolution seriously means asking what cognition looked like all the way back.
         - > From this perspective, we can visualise the tiny cognitive contribution of a single cell to the cognitive projects and talents of a lone human scout exploring new territory, but also to the scout’s tribe, which provided much education and support, thanks to language, and eventually to a team of scientists and other thinkers who pool their knowhow to explore

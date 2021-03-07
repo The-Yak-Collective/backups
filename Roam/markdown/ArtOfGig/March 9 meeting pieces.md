@@ -1,0 +1,51 @@
+- for the march 9 [[Yak Rover]] meeting
+- two questions:
+    - what is a rover
+    - what do we think is a rover and what we expect of it
+- paper on rover limits and sizes, skip to page 33 if you want::
+    - https://arxiv.org/ftp/arxiv/papers/1706/1706.05356.pdf
+- some dimensions of rovers::
+    - life: 1 min .. 1khours
+    - attention: continuous .. intermittent .. events
+    - coverage ability: 0% .. 100%
+    - mass delivered: 0 .. 1T
+    - power local .. remote
+    - brain local .. remote
+    - speed mm/day .. km/hour
+    - motor complexity: 0 .. 1 .. 20 
+    - range 1m .. 1000km
+    - location: below, on, above ground
+    - payload: none/replacable/dedicated/general
+    - ability to interact with world: "leave only footprints" .. "earth moving"
+    - autonomy: "does what it is told" .. "specific goal" .. "self-goal"
+    - ignoring social and ecosystem!
+- some rover (?) examples - needs to be made into concrete examples::
+    - for each one (as pulldown)::
+        -  a rover
+        - barely a rover
+        -  not a rover
+        - +what is its most missing feature
+    - solar powered wheeled, with orbiter-transmitted RF or light
+    - ball with no external payload or carrying ability
+    - wind driven ball or balloon
+    - wind driven with shelter-in-place ability
+    - ball with one motor only
+    - wheeled rover
+    - power from sky, solar, nuclear, wind, from land (different sizes of power supply)
+    - worm/rover/glider/balloon
+    - a vortex with remote sensing and brain and maybe even power
+    - field with transmitters of power
+    - legged thing
+    - 
+- critical rover components (for sim)::
+    - power
+    - sensing
+    - locomotion
+    - payload
+    - planning
+    - communication
+    - housekeeping
+- task parameters::
+    - rover
+    - definition of task
+    - time budget
