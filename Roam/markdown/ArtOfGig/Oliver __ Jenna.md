@@ -37,4 +37,4 @@
     - The tangible position that is going to be developed is the production itself; it doesn't matter what we do as long as we're exercising the Yak brand by doing something interesting and of sufficiently high-quality
         - A production community you can hire
     - On the meta-list, everything will be covered by the forthcoming UX Journey diagram with exception the employee handbook and constitution/by-laws
-    - See also: [[Yak Coffee Straw Man]], started by [[Phil Wolff]]
+    - See also: [[Yak Coffee]], started by [[Phil Wolff]]

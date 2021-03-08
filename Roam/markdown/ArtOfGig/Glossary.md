@@ -8,7 +8,7 @@
 - C
     - **Cheaty:** Players that try to cut corners and by doing it risk permanent account ban. Seen in https://nostarch.com/download/guildleader_ch3.pdf
     - **Clark Principle**: "We reject kings, presidents and voting. We believe in rough consensus and running code" -- David Clark [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
-    - Coffee: A conversation with a Yak. [[Yak Coffee Straw Man]]
+    - Coffee: A conversation with a Yak. [[Yak Coffee]]
 - D
     - **Decentralized Control**: A system of governance in which there is no single member has overall control of resources or decisions. Principle from the IETF.
     - Dogfooding:: eating your own dogfood is the practice of an organization usings its own product. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"

@@ -26,7 +26,7 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
     ## Archives
         Old channels, put out to pasture.
             - All channels in the "archives" should have the "send messages" permission disabled.
-            - All channels in the "archives" should have the following appended to their description: "You can propose resurrecting this channel in `#create-destroy-channels`."
+            - All channels in the "archives" should have the following prepended to their description: "You can propose resurrecting this channel in `#create-destroy-channels`."
 # Channel Lifecycle
     ## Birth
         - New channels are proposed in `create-destroy-channels`. All active yaks, made yaks, and yak shavers can propose new channels.
