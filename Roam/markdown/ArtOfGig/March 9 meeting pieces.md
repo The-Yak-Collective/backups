@@ -1,51 +1,110 @@
 - for the march 9 [[Yak Rover]] meeting
 - two questions:
-    - what is a rover
-    - what do we think is a rover and what we expect of it
+    - (a) what is a rover?
+    - (b) what do __we__ think is a rover and what we expect of it?
 - paper on rover limits and sizes, skip to page 33 if you want::
     - https://arxiv.org/ftp/arxiv/papers/1706/1706.05356.pdf
-- some dimensions of rovers::
-    - life: 1 min .. 1khours
+- some dimensions of rover-space::
+    - life: 1 min .. 1Khours
+        - Venera lasted a couple of hours I believe, before it melted on Venus
     - attention: continuous .. intermittent .. events
     - coverage ability: 0% .. 100%
-    - mass delivered: 0 .. 1T
-    - power local .. remote
-    - brain local .. remote
-    - speed mm/day .. km/hour
+    - mass delivered: 0g .. 1T
+    - power: local .. remote
+    - brain: local .. remote
+    - speed: mm/day .. km/hour
     - motor complexity: 0 .. 1 .. 20 
-    - range 1m .. 1000km
+    - range: 1m .. 1000km
     - location: below, on, above ground
     - payload: none/replacable/dedicated/general
     - ability to interact with world: "leave only footprints" .. "earth moving"
     - autonomy: "does what it is told" .. "specific goal" .. "self-goal"
-    - ignoring social and ecosystem!
-- some rover (?) examples - needs to be made into concrete examples::
-    - for each one (as pulldown)::
-        -  a rover
-        - barely a rover
-        -  not a rover
-        - +what is its most missing feature
-    - solar powered wheeled, with orbiter-transmitted RF or light
-    - ball with no external payload or carrying ability
-    - wind driven ball or balloon
-    - wind driven with shelter-in-place ability
-    - ball with one motor only
-    - wheeled rover
-    - power from sky, solar, nuclear, wind, from land (different sizes of power supply)
-    - worm/rover/glider/balloon
-    - a vortex with remote sensing and brain and maybe even power
-    - field with transmitters of power
-    - legged thing
-    - 
-- critical rover components (for sim)::
-    - power
-    - sensing
-    - locomotion
-    - payload
-    - planning
-    - communication
-    - housekeeping
-- task parameters::
-    - rover
-    - definition of task
-    - time budget
+    - this list ignores social and ecosystem dimensions!
+- vr:
+    - it has to move
+    - roverness decision is based relative to other things
+    - in other modes of operation a rover may not be one
+    - has some ability to operate in "extreme" environment in some sense
+- e:
+    - mobility
+    - platform - a mobile base that provides mobility service - even a roomba
+- g:
+    - does whatever you want it to do
+    - two component:
+        - the part that moves 
+        - the part which supports and can be stationary
+    - now you can do a cost-benefit analysis
+- j:
+    - predicate devices
+    - what problems are solved
+    - answer questions with no answers - so gather data
+    - needs main components:
+        - thrust in a medium
+        - manipulation element is optional
+        - data collection/observation is not optional
+        - semi/pseudo autonomous capability - beyond teleoperation limit of 200ms
+- vh:
+    - mobility is defining
+    - rest depends on mission complexity
+    - three part systems too:
+        - base station
+        - rover
+        - rover's rover
+        - so multiple things for different parts of the mission
+    - need new words for components of a  mission that uses robots
+- a:
+    - mobility and perception are key and equally important
+    - just being there is a probe, not a rover
+- a:
+    - rover needs to be fun
+    - rover should construct something or get data
+- vh:
+    - 10 year perspective
+        - library of cots components for space rovers
+        - LEO
+    - learning experience
+    - build remotely accessible robot lab
+    - build up and will get to a  custom robot build 
+- j:
+    - vibe i sense: tooling and infrastructure
+    - cube SAT in rover form
+- vg:
+    - 10 year horizon
+    - avoid economic mode - the money side
+    - learning should compound and push technological limit
+        - by 3 years not a toy
+        - by 7 years beyond what is just a way of making money
+- g:
+    - look into the future by creating it. but see multiple
+        - with mars infrastructure
+        - or without
+    - something that does __not__ compete with NASA, not now not ever
+- e:
+    - take advantage (explore?) of adjacent opportunities forming in space
+    - provide infrastructure in space. rover is part of that infrastructure
+    - cost economics and granularity may indeed be able to compete with NASA, due to YC agility
+    - 3 year horizon is good. goals are sure to change after
+    - looking to build growing systems
+- some rover (?) examples::
+    - for each one:
+        - (a) on a scale of {**not a rover**(1) .. {**the roviest rover ever**(5)}}
+        - (b) what is its most missing feature to be more like what you feel a rover should be
+    - (1) a legged rover. about 1 meter in diameter. 2 manipulator arms. weight 20 kg. local processor. uses solar panels/antenna to receive energy form an orbiter.
+    - (2) a 20kg wheeled rover set in a field. the field is surrounded/on one or two sides by power transmitters (such as solar reflectors) and rover needs to stay within range.
+    - (3) a motorized powered rolling ball. about 50 cm in diameter. no external payload. a few tools that can stick out of ports. fuel powered, at a central depot.
+    - (4) tracked rover with single motor (forward mode and reverse/turn mode). nuclear powered.
+    - (5) wind-blown tumble weed. includes shelter-in-place function. powered by local deposits of perchlorate and some solar power. "wakes up" when wind is favorable. size 5-500 cm
+    - (6) a vortex formed of dust and possibly metal particles. sensing is remote using a scanning laser beam and a camera that collects reflections off the vortex. power may also be provided by remote. can be generated by a base station or existing vortexes utilized.
+    - solar powered hot air balloon. weight 10kg.
+    - 300cm long snake/millipede rover. travels under the sand. powered by solar when it reaches surface.
+- some possible rover missions::
+    - transport
+    - general explore
+    - prospecting
+    - mining
+    - inspection
+    - search & rescue
+    - earth moving
+    - building
+    - guides
+- [[rover simulation]]

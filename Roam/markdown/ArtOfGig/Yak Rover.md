@@ -144,3 +144,5 @@
                     - GET /api/v1/defaults: Gets the default values.
                     - PUT /api/v1/defaults/height/34: Set default body elevation to 34% elevation.
                     - DELETE /api/v1/height: Reset body to default elevation.
+- notes from [[March 9 meeting pieces]] as to what we feel is a rover and what we are trying to get done here
+- 
