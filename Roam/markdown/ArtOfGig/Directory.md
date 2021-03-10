@@ -392,6 +392,7 @@ If it's a people\process\requirements\ui\ux problem, if you're drowning in data 
 - [[Conor O'Hollaren]]
     - Freelance [[UX Design]] and Product Strategy, based in Brooklyn, NY. Working with a mix of interaction design agencies and early-stage startups.
     - Site: [dotconor.com](https://www.dotconor.com)
+- [[Chad Owen]]
 - [[Sam Panter]]
     - "Designer/Programmer/Strategist based in Brooklyn. Working mostly in hemp/cannabis grow tech at the moment, with a background in HR software, fine art, and ecommerce.
 
