@@ -87,7 +87,7 @@ Many conversations.
         - Risks: 
 - Prior art? What came before? Who's done this well? 
     - Freelance service platforms like [fiverr](https://fiverr.com) enable cheap gigs as a way to initiate trusted relationships. 
-- **Parking Lot**
+- **Parking Lot** (things that might happen later)
     - Agreements and legal boilerplate for free calls.
         - YakC Mutual NDA 
         - YakC Terms, privacy policy
@@ -96,7 +96,7 @@ Many conversations.
     - Paid gigs. 
         - You Can't Stop At Just One. Subscribe to a series of calls.
         - Arrange payment splits. 
-        - YakC splits policy
+        - YakC splits policy 
     - Come to the [[Yak Collective Café]] 
         - Linking content marketing to a Herd's CoffeeMe workflow
 
@@ -115,6 +115,7 @@ Many conversations.
         - 
 - **Discussion**
     - %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
+    - Conflict of interest between 
 - Sample Project Proposal 
     - **About**
     - Current State:: {{or:Draft | Proposed | Started | Stalled | Live | Finished | Abandoned}}

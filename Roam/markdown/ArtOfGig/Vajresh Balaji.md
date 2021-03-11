@@ -1,0 +1,4 @@
+- Profile:
+    - I'm a recent Math and Econ grad interested in Fintech and the creator economy. 
+    - Location:: Jackson, MS
+    - Twitter:: [@bvajresh](https://www.twitter.com/bvajresh)

@@ -36,6 +36,7 @@
 - [[David B]] I'm just planning to lurk visibly, here.
 - [[Christian Bacher]] 
 - [[Tracy Brinkerhoff]]
+- [[Vajresh Balaji]]
 - [[Yoni Balkind]]
     - "Bio"
         - "Lawyer gone digital. "
