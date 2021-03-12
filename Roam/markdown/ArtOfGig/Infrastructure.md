@@ -8,6 +8,7 @@
     - [[November 9th, 2020]] by [[Jenna Dixon]]
         - __reversed the order of the chat notes so that the newest is on top 👇
 suggest most recent note left untwirled for easy review to visitors__
+            - [Quick link to view chat notes.](https://roamresearch.com/#/app/ArtOfGig/page/d4mEcgqn5)
 - ## Lists/Docs #needsupdate
     - [[Project Launch Checklist]]
     - [[Things We Need]]
@@ -24,6 +25,128 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 42 [[March 10th, 2021]]
+        - participants:: [[Oliver King]] [[Jenna Dixon]] [[Maier Fenster]] [[Phil Wolff]] [[Nathan Acks]]
+        - **Agenda**
+            1. [[Venkatesh Rao]] discussion of consistent open-source licensing policy for yc content (member contributed and 3rd party used)
+            2. [[Venkatesh Rao]] financial governance/spending process
+            3. [[Jenna Dixon]] softlaunch member profile portal » review round » launch
+            4. [[Maier Fenster]] discuss ui for projects bot a bit more
+            5. [[Maier Fenster]] should we use a calendar bot like apollo or sesh
+            6. [[Nathan Acks]] Revisit third-party analytics/tracking decisions
+            7. [[Oliver King]] journey (ux) diagram
+        - **Meeting Notes**
+            - [[Phil Wolff]] has been working on a "coffee cup" program
+                - [[Nathan Acks]] isn't quite sure what this is about.
+            - **User Journey UX**
+                - [[Oliver King]] I just had a chat with someone who just landed on the server
+                    - There were lots of channels, so a little overwhelming.
+                    - Nowhere obvious to go after posting an introduction.
+                    - No obvious way to detect what was happening
+                - [[Oliver King]] has whipped up an onboard UX flow
+                    - After someone lands on the server and they post an introduction, they should get an introductory DM
+                    - Can we ping the Welcome Squad?
+                    - Then folks get a more limited "base level" access... But this doesn't include projects, etc.
+                        - This would be gated by some sort of "internal access" sign-up.
+                    - Oliver's internal sign-up form would have a skill list.
+                - [[Jenna Dixon]] is concerned that gating further access could be problematic, as we have a strong "working out loud" ethos. But perhaps we could show/hide channels on demand?
+                - [[Nathan Acks]] We can do this.
+                - [[Maier Fenster]] This is definitely possible, but how should we make sure that channels always get roles? 
+                - [[Jenna Dixon]] thinks we should have more high-touch, in-person engagement.
+                    - Also, remove the channel emoji...
+                - [[Oliver King]] is reluctant to leave things to __just__ up to people.
+                - [[Nathan Acks]] notes that we've gotten __really__ sloppy about roles, and cleaning this up might make things nicer for folks.
+                - [[Jenna Dixon]] thinks we're probably at the point where we need to start mirroring roles from Discord into Knack.
+                - [[Oliver King]] it's generally useful to have some integration.
+                - [[Maier Fenster]] thinks we should have more "short guides" than a lot of user tiers.
+                - [[Oliver King]] thinks there's definitely too many channels.
+                - [[Phil Wolff]] notes that the Yak Coffee idea originated in Marketing. The idea is to translate the enthusiasm for talk among each other into actually generating __work__.
+                    - [[Oliver King]] thinks this is a bit like Interintellect or Clubhouse.
+                    - [[Jenna Dixon]] thinks the question for Yak Coffee is: Are we going to integrate all of this into Knack or not?
+                - [[Oliver King]] thinks we should think about what channels are visible at which levels.
+                - [[Maier Fenster]] and [[Phil Wolff]] __don't__ feel that there are too many channels.
+                - [[Maier Fenster]] proposes that we alternately have a "mute" button.
+                    - [[Nathan Acks]] and [[Oliver King]] thinks this is basically just role-base access control.
+                - [[Phil Wolff]] wonders __what__ problem we're trying to solve here.
+                    - [[Oliver King]] notes that attention is just too defuse, especially for newcomers. By focusing attention, we can perhaps increase serendipity. People are too "bubbled" in their channels right now.
+                - [[Nathan Acks]] ^^We should all think about how we want to handle channel management + introduction, and discuss this next time^^
+                    1. Should we give people a tour of some kind? What should this look like?
+                    2. Should we collapse down channels? Which ones? How agressively?
+                    3. Should we more broadly use role-based access control to only display certain channels?
+            - **Calendar Bots**
+                - [[Maier Fenster]] wonders what the most effective way to set up an internal meeting is.
+                    - This would work by someone telling the calendar bot to set up a meeting and invite people.
+                    - It __could__ tie into Google Calendar.
+                - [[Nathan Acks]] this seems duplicative with Calendly. Also, we should tie into the existing calendar system.
+                - [[Phil Wolff]] asks if we have a specific use case that we can experiment on, and then how do we know if we're successful?
+                    - [[Oliver King]] asks if we can use this for Yak Coffee?
+                    - [[Phil Wolff]] notes that it's pretty async right now (up until it isn't).
+                - [[Phil Wolff]] notes that we have some things in Yak Collective that are __really__ working. We shouldn't kill this.
+                    - How Venkat-centric are we?
+                    - Roam seems to be working. Discord seems to be working. Let's not put additional roadblocks here.
+                - [[Oliver King]] thinks we should schedule an event to solicit general what's working/what's not working feedback.
+                - [[Phil Wolff]] notes that we should leverage existing tools, when possible.
+                - [[Nathan Acks]] agrees with Phil that we should leverage existing tools and try things out first. So let's find a demo case for the calendar bots, and try it out.
+                - [[Maier Fenster]] wants the calendar bots to make it easier for people to talk to each other. We want to make it easier for people to set up events: Who wants to come? When can they come?
+                    - We want a solution where people can both find each other, but also find times.
+                - [[Phil Wolff]] notes that it may be tough to do this without contributing noise.
+                - [[Maier Fenster]] and [[Phil Wolff]] will work on some ideas.
+    - Infrastructure Chat 41 [[March 3rd, 2021]]
+    - Infrastructure Chat 40 [[February 24th, 2021]]
+        - participants:: [[Maier Fenster]] [[Oliver King]] [[Phil Wolff]] [[Nathan Acks]]
+        - **Agenda**
+            1. [[Vinay Débrou]] Yak Network Map
+                - Vinay can't attend, but [says](https://discord.com/channels/692111190851059762/722840198320357496/813909212878602262):
+                    > I'm thinking about possible gamification around doing new yak projects with small teams of 3-6 yaks.
+            2. [[Oliver King]] Yak-a-thon outreach
+            3. [[Oliver King]] Permissioning for channel access
+            4. [[Maier Fenster]] Should we use a dedicated calendar bot like [Apollo](https://apollo.fyi/) or [Sesh](https://sesh.fyi/)?
+            5. [[Maier Fenster]] Finalize UX for Project UI bot
+        - **Meeting Notes**
+            - **Yak-a-thon**
+                - [[Oliver King]] The point of the yakathon is self-marketing to increase internal engagement.
+                    - The idea is for the welcome committee to reach out to people, get them into a member database, etc.
+                    - Knack would be ideal for this.
+                - [[Nathan Acks]] Notes that integrating Knack into the website hasn't happened, but is on the short list.
+                - [[Maier Fenster]] There are three parts to this:
+                    1. Get the Knack login integrated into the website
+                    2. Get people entering info in Knack
+                    3. Get the website to start pulling information from Knack
+                        - We probably need to be at this step to start pulling info into the Yak Network Map, etc.
+                - [[Maier Fenster]] We still need a lot of glue, and the info in Knack is stale.
+                    - We need to think about the user experience here.
+                - [[Oliver King]] Is it possible to use Knack for input?
+                - [[Nathan Acks]] Yeah, IIRC Jenna suggested this.
+                    - Once we have an intake form in Knack, I can drop into the website pretty fast.
+                - [[Oliver King]] I'll reach out to Jenna, get this rolling.
+            - **Channel Permissioning**
+                - [[Oliver King]] Can we concentrate activity in fewer rooms to increase serendipity and decrease overload.
+                    - The idea would be to restrict channels to opt-in only.
+                    - There would be a free-for-all project incubation 
+                - [[Maier Fenster]] Be aware that old-timers like Grigori and Venkat have high-level permissions, and can thus see __everything__.
+                - [[Oliver King]] Something Venkat brought up was to make channel descriptions and agenda accessible through a bot
+                    - So, what are the current active work streams, current agenda items, etc.
+                - [[Phil Wolff]] A way of coping with scale
+                - [[Oliver King]] Like an emergent memo.
+                - [[Nathan Acks]] I think this could get grafted into the channel/project information from the `experimental-project-ui`
+                - [[Maier Fenster]] Do we want this as a DM, or do we want to add it to the channel in some way?
+                - [[Nathan Acks]] I think we should stay with the DM; otherwise there are going to be weird interactions.
+                - [[Phil Wolff]] Could we potentially deliver this in a different channel?
+                - [[Nathan Acks]] Maier and I have already thought about integrating the upcoming events list into the website. We could do this here too.
+                - [[Oliver King]] We should avoid having people jump between channels if possible.
+                - [[Phil Wolff]] Do we have a user experience diagram that we can reference? What are we trying to accomplish?
+                - [[Nathan Acks]] I've never seen one.
+                - [[Maier Fenster]] No.
+                - [[Oliver King]] Would anyone want to work on a diagram with me?
+                - [[Maier Fenster]] We should have two diagrams, one for people who haven't yet joined, and one for new/current members.
+                    - We could use the `yak_shepherd` to automate a lot of this, or at least provide info.
+                - [[Nathan Acks]] I'll outline what the Project UI bot could DM in the `infrastructure` channel, so that people can comment.
+            - **Calendar Bot**
+                - [[Maier Fenster]] We added the option to use Calendly for people to set up meetings, but there's Discord-native solutions for this.
+                    - Do we want to have a Discord-only flow?
+                - [[Phil Wolff]] There are well-trod paths, and there are choose your own adventures, and then there's events.
+                    - Where should we put a page in Roam to hold our ideas about UX?
+                - [[Nathan Acks]] We don't have such a page, but if someone creates something, I'll be happy to link it to [[IT Infrastructure]]
     - Infrastructure Chat 39 [[February 17th, 2021]]
         - participants:: [[Maier Fenster]] [[Jenna Dixon]] [[Nathan Acks]]
         - **Agenda**
