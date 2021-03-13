@@ -1,6 +1,6 @@
 - A
     - **Absolute Unit**: A solidly built entity, such as a Yak. Yak Collective projects strive to be Absolute Units of information products. 
-    - 
+    - API:: acronym for Application Programming Interface; an example of [[Service interface]] within the context of software that allows two applications to talk to each other through an intermediary protocol "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
 - B
     - **Birds of a Feather (BOF)**: People with the same interests who might do things together. From glossary of [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
     - **Best Current Practice (BCP)**: A type of RFC, a documentation of the best way to do something.
@@ -8,7 +8,7 @@
 - C
     - **Cheaty:** Players that try to cut corners and by doing it risk permanent account ban. Seen in https://nostarch.com/download/guildleader_ch3.pdf
     - **Clark Principle**: "We reject kings, presidents and voting. We believe in rough consensus and running code" -- David Clark [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
-    - Coffee: A conversation with a Yak. [[Yak Coffee]]
+    - **Coffee**: A conversation with a Yak or small herd. [[Yak Coffee]]
 - D
     - **Decentralized Control**: A system of governance in which there is no single member has overall control of resources or decisions. Principle from the IETF.
     - Dogfooding:: eating your own dogfood is the practice of an organization usings its own product. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
@@ -18,16 +18,26 @@
         - > Mole recollected that animal-etiquette forbade any sort of comment on the sudden disappearance of one's friends at any moment, for any reason or no reason whatever. —[[Wind in the Willows]]
         - > Be conservative in what you send and liberal in what you accept. —[[Jon Postel]]
     - **Edge-user empowerment**: A principle in the IETF that edge users of the internet should be empowered, which can be generalized to any decentralized system. Also applied to devices at the edge (or client end) of the network. Applied to the Yak Collective, this would imply prioritizing individuals attached to the edge of the social graph, ie new members who are just joining or people who occasionally participate in small ways, over those at the core who are heavily involved.
-    - Externalizable:: a means of characterizing [[Service interfaces]] designed for more public and externally oriented forms of consumption; often implemented through a broad set of case-specific rules. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Externalizable:: a means of characterizing [[Service interface]]s designed for more public and externally oriented forms of consumption; often implemented through a broad set of case-specific rules. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
 - F
+    - Flash teams:: Flash teams advance a vision of expert crowd work  that accomplishes complex, interdependent goals such as  engineering and design. Enable experts and amateurs alike to contribute skills they enjoy, on a set of tasks that they find interesting, and at scale.
+Flash teams require small atomic actions called blocks. 
+Flash teams exhibit distributed leadership.
+        - Modular combinations of teams::
+        - Elasticity:: the crowd can be an elastic resource, allowing teams to grow and shrink as needed
+        - Pipelining:: Flash teams can be pipelined by streaming  intermediate results as they are ready, rather waiting for the entire task to complete.
+        - Runtime:: 
+        - source: [Expert Corwdsourcing with Flash Teams](https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf) 
+12:46 PM [[March 12th, 2021]] 
 - G
     - **Greedy:** Try to make a claim on every piece of loot that drops. Seen in https://nostarch.com/download/guildleader_ch3.pdf
 - H
 - I
+    - **Iron Law of Bureaucracy** - There are two types of people in an organization - People who are dedicated to the goals of the organization and people who are dedicated to the organization itself. The Iron Law of Bureaucracy is that people who are dedicated to the organization will eventually take control of it. [Source](https://www.jerrypournelle.com/reports/jerryp/iron.html)
 - J
 - K
 - L
-    - **Land Grab Mode:** Once there is minimum viable happiness and Tipping Loops, look for other opportunities that are adjacent to the values of the brand/community.  [Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
+    - **Land Grab Mode:** Once there is minimum viable happiness and Tipping Loops in marketplaces, look for other opportunities that are adjacent to the values of the brand/community.  [Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
     - **Leety:** Players that treat themselves as elite. Think that they have to win every argument, no matter how trivial it is. Seen in https://nostarch.com/download/guildleader_ch3.pdf
     - Library-shelf system:: a form of common knowledge where organizational functionality is maintained as self-contained and inter-operable packages. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
 - M
@@ -35,11 +45,14 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDppNqoCXcN.jpeg?alt=media&token=b1cc6487-3612-4909-8d67-1894baf2828f)
             - source: [An Open Architecture for Self-Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
     - **Minimum Viable Happiness:** Platforms that create meaningfully more happiness in the average transaction than any substitute, __not__ how many transactions you accumulate, will dominate the market.[ Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
+    - **Muddling Through:** An approach to decision-making based on "successive limited comparisons" described in Charles Lindblom' seminal 1959 article [The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
 - N
     - **Needy:** players that constantly asks for help with quests, crafting, but never volunteers when the opportunity arises to help someone else.  Seen in https://nostarch.com/download/guildleader_ch3.pdf
 - O
     - 
-    - Platforms:: "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)" #unfinished
+    - Platforms:: an underlying basis of operations from which functionality is executed, often through a [[Service interface]] "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Platform Business Models:: <somewhat tentative, will look again in a few days> A process of creating value by an array of players whose specific roles and responsibilities are geared toward generating and sustaining network effects.
+https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30
 - P
     - Postel's Principle:: "Be conservative in what you send and liberal in what you accept". [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
     - Pub-sub system:: a form of asynchronous communication where any message published to a topic is immediately receivable by all of the subscribers. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
@@ -47,24 +60,28 @@
 - Q
 - R
     - **RFC**: Request for Comments. [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
+    - **Rough consensus**: Consensus of the whole organization: consensus within working groups, and also among working groups. [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
+    - **Rational-Comprehensive**: Also called the "root" method. An approach to complex decision-making, based on logical root-cause analysis and comprehensive modeling. It is contrasted to the method called "muddling through" or the "branch" method, based on Lindblom's "Science of Muddling Through" (see Muddling Through). In general, the Branch/Muddling Through/Successive Limited Comparisons method is preferred, and the root method is only appropriate in limited bounded problem domains where comprehensive perfect information is availanle.
 - S
     - **Server presence:** Considered to be the holy grail of guild leader. Being a member of a guild with significant server presence is considered to be a privilege. The building blocks of presence are Excellence, Longevity, Fun, Alliances and Famous Players (in that order). Seen in https://nostarch.com/download/guildleader_ch3.pdf
-    - Service interfaces:: a means of exposing knowledge or functionality independent of underlying operations in a fashion that accounts for user accessibility. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
-    - Service-oriented architecture::  a style of designing systems where component pieces are wrapped in [[Service interfaces]] such that they are self-contained, interoperable, and repeatable. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Service interface:: a means of exposing knowledge or functionality independent of underlying operations in a fashion that accounts for user accessibility. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Service-oriented architecture::  a style of designing systems where component pieces are wrapped in [[Service interface]] such that they are self-contained, interoperable, and repeatable. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
     - Sherpa: a Yak guide. See [[Yak Sherpa School]].
     - Slime Mold Principle:: Creating affordances for simple explore behaviors in a group leads to fruitful developments.
         - > There is nothing magic that humans (or other smart animals) do that doesn’t have a phylogenetic history. Taking evolution seriously means asking what cognition looked like all the way back.
         - > From this perspective, we can visualise the tiny cognitive contribution of a single cell to the cognitive projects and talents of a lone human scout exploring new territory, but also to the scout’s tribe, which provided much education and support, thanks to language, and eventually to a team of scientists and other thinkers who pool their knowhow to explore
             - from: [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
-            - Self-Organizing Structures:: cf "the problem of the emergence/maintenance of biological order at successively higher levels of complexity"
-                - [[Self-Organization in Nonequilibrium Systems: From Dissipative Structures to Order through Fluctuations]]
-                    - —[Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine)
+        - Self-Organizing Structures:: cf "the problem of the emergence/maintenance of biological order at successively higher levels of complexity"
+            - [[Self-Organization in Nonequilibrium Systems: From Dissipative Structures to Order through Fluctuations]]
+                - —[Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine)
+    - **Successive Limited Comparisons:** An approach to complex decision-making, also called "muddling through" or the "branch" method, based on Lindblom's "Science of Muddling Through" (see Muddling Through) that relies on systematic trial and error starting from limited, local solutions to a larger problem. Contrast with the "Root" method.
 - T
     - **Tipping Point**: Point at which core goal of the platform or community becomes easier and not harder. For a marketplace platform this could mean lower acquisition cost, doing fewer non scalable things. Tipping loops are happiness loops + Loop related to growth of the platform (eg: for yak collective it is number of projects active/in pipeline etc) [Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
 - U
 - V
     - Versioned-library system:: a form of maintaining common knowledge where the state of common knowledge and state changes are kept track of through an incrementally increasing naming heuristic. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
 - W
+    - **Weber's Iron Cage** - Peer Production (communities, open source projects) are generally seen as a utopian upgrade to bureaucracy but as complexity of peer production grows, peer production could also become similar to bureaucracy [Source](https://fredturner.stanford.edu/wp-content/uploads/Kreiss-Finn-Turner-Limits-of-Peer-Production-NMS-3-111.pdf)
 - X
 - Y
     - **Yak**: A large bovine native to the Tibetan plateau that often conforms to the definition of "absolute unit."

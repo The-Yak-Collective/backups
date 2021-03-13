@@ -1,3 +1,5 @@
+- [[March 12th, 2021]]
+    - 
 - [[March 5th, 2021]]
     - Three tiers of membership:
         - Discord only

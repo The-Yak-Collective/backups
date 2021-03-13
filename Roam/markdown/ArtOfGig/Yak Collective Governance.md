@@ -100,6 +100,7 @@ And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-orga
         - [Hurling Frootmig principle](https://sites.google.com/site/h2g2theguide/Index/h/206017)
         - [Wind in the Willow principle](https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29)
         - Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
+        - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
     - **Queued**
         - Liquid modernity, Zygmunt Bauman
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
@@ -108,7 +109,6 @@ And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-orga
         - [Seb Paquet Scene-Hacking](https://www.slideshare.net/vgururao/scene-hacking)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
-        - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
     - **Queued**
