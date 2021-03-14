@@ -1,4 +1,5 @@
-- **tl;dr: Book a free call with a few Yaks about something you saw/heard that might lead to longer and paid conversations.**
+- **tl;dr: Book a free call with a few Yaks about something you saw/heard that might lead to longer and paid conversations.** [[Yak Collective Café]]  
+The project: [[Yak Coffee]]
 - # Project meta: 
     - **Discord channel**:: Incubator > coffee-with-a-yak 
         - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
