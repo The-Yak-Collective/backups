@@ -70,4 +70,9 @@
     - #[[Year 1 meeting notes]] Victor session on [[Jupyter and ROS]]
 - [[March 1st, 2021]]
     - "Notes from [[Jascha Wilcox]] special session on motors"
-    - 
+- [[March 8th, 2021]] led by [[Maier Fenster]]
+    - [[rover simulation]] discussion
+    - [[some possible rover missions]]
+- [[March 15th, 2021]] -- project management special!
+    - [[Yak Rover Yakathon module]]
+    - [[Yak Rover Webpage]]

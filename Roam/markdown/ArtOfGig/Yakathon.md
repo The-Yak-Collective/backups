@@ -44,7 +44,7 @@ Consult [[Jenna Dixon]] for details
         - A set of involved projects + project leads
             - Sachin -- astonishing stories
             - Scott -- new and future homes
-            - Venkat -- mars rover
+            - Venkat -- [[Yak Rover Yakathon module]]
             - Paul (?) -- reimagine healthcare
         - A pre-event internal marketing strategy
             - Welcome committee DM outreach efforts

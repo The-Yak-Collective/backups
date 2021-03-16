@@ -10,6 +10,7 @@
 - [[Procurement Directory]]
 - [[Yak Rover Reference Materials]]
 - [[Yak Rover 2021 Builds]]
+- [[Year 1 meeting notes]]
 - **Overview**
     - **WHAT:** Yak Rover is a long-term Yak Collective [open-source hardware project](https://en.wikipedia.org/wiki/Open-source_hardware) to design and build a series of rovers culminating in a deployable Mars Rover by 2030 (ideally one major design iteration per year, starting with experimental versions in Year 1 designated X, Y etc., and culminating in Yak Rover 9 is Mars-capable). 
     - **WHY:** The goal is to have fun pursuing a meaningful long-term project, while collectively developing skills and insights that will be valuable for consulting and gigs in a growth industry (driverless vehicles and autonomous robotics here on Earth). 
@@ -47,7 +48,6 @@
         - **Y1 MILESTONE GOAL/Y2 Kickoff Jan 1 2022: **A first publication of a set of design sketches for Yak Rover 1, supported by the "Rover festival" video from the Q4 milestone.
     - **Component contributors and shared resource contributors** will try to do whatever they do in support of the build leader project arc, and their contributions will be featured as part of the build milestones. They will have no independent "path to market" -- if your contribution doesn't show up in a build milestone in some form, it doesn't show up at all
     - While people with meta skills like project management/architecture or adjacent skills like science communications are welcome, the core is hands-on contributions.
-- [[Year 1 meeting notes]]
 - **Year 2 (2022) Plan**
     - Year 2 will be devoted to refining and building the converged design from the end of Year 1. The YE milestone will be a field test.
 - **Years 3-10 Roadmap**

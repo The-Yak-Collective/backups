@@ -1,0 +1,21 @@
+- Fiction/artwork concept design
+- Realistic useful scenarios, not on Mars, but on the way there
+    - Inflection points
+- Technical
+    - Feasibility study
+        - Ranking of exploration targets
+        - Self-replication
+        - System boundaries/system of systems -- for larger goals like terraforming, multiple rovers/infrastructure etc
+        - "Earthmoving" on Mars (Marsmoving??) -- canals, foundations, caves, roads.... etc etc. -- what specific things do you need to do this set of building activities
+        - Gophers and bats (subterranean and air)
+        - Soil of mars = 1% perchlorate == perchlorate energy/work idea
+            - Generalize to what could you make with raw materials on mars/anywhere
+            - Moon -- sinter the regoliths to make mechanical parts
+            - methane based fuel on Mars
+            - What can you do with water (south pole of moon, mars)
+    - Virtual teardown
+        - Virtual environment -- use Nasa material 
+        - Reverse engineer capabilities to build rover
+        - Goal is to identify pieces we are overlooking or not looking into enough
+    - Bill of material 
+        - ESA ExoMy BoM in Discord

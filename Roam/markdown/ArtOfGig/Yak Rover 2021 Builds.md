@@ -1,6 +1,6 @@
 - The 2021 builds are all experimental discovery builds, and each has a letter/number designation. The numbers are all 1, since these are the parallel version 1 builds, and the letters are X, Y, Z, W, and U following the USAF experimental flyoff prototyping naming conventions.
 - [[Yak X1]] by [[Maier Fenster]]
-- [[Yak Y1]] by [[Anuraj R]]
-- [[Yak Z1 - Abio Flex Wanderer]] by [[Eric Platon]]
+- [[YR Infinity and Beyond]] by [[Anuraj R]]
+- [[YR Abio Flex Wanderer]] by [[Eric Platon]]
 - [[YR: Nature is Murder]] by [[Venkatesh Rao]]
-- [[Yak U1]] by [[Victor Hill]]
+- [[YR Go and See]] by [[Victor Hill]]
