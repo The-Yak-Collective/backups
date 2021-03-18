@@ -1,8 +1,7 @@
 - **tl;dr: Book a free call with a few Yaks about something you saw/heard that might lead to longer and paid conversations.** [[Yak Collective Café]]  
 The project: [[Yak Coffee]]
 - # Project meta: 
-    - **Discord channel**:: Incubator > coffee-with-a-yak 
-        - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
+    - **Discord channel**:: Incubator > coffee-with-a-yak; also: [[infrastructure chats]] and [[YC Marketing - distributed CMO]] chats  
     - Current State:: {{or:Started | Draft | Proposed | Stalled | Live | Finished | Abandoned}}
     - Core Team:: (minimum 2, maximum 4) 
         - **Project Lead**: [[Phil Wolff]]
@@ -33,7 +32,7 @@ Many conversations.
     - **A Yak Coffee is a 20 minute, free, virtual call between YC consultants with a stranger.** 
         - potential client, the press, referrers, potential Yaks. 
     - **The Yak Collective Café is the venue for discovering and booking Coffee calls**
-        - [[Yak Collective Café]] 
+        - [[Yak Collective Café]] mockup 
 - # Design
     - ## Stakeholder views. **
         - A. From the Client's perspective: 
@@ -53,13 +52,14 @@ Many conversations.
                     - appointment added to your calendar, and 
                     - pre-call reminders via SMS
                 - Call
-                    - One person introduces the team in one minute
+                    - One person introduces the team in one minute. (Prompted from Coffee profiles). One person doing intros is faster and doesn't eat up time. This is under the YakC policies: safe space, confidentiality (mutual NDA or [[Chatham House Rules]]), 
                     - Q. Orienting question: By the end of this call...? Today's big question is...? You'll know your time was well spent if...? 
+                    - Q. Closing questions. Did we get to what you wanted to discuss? Next steps, if any? 
+                    - Q. Closing statement. Thanks. This was great! You have our contact info. CTA?
                 - Structured follow-up 
-                    - Thanks. Link to the Herd's page. 
+                    - Email or DM: Thanks. Link to the Herd's page. 
             - Effort: 4 minutes to find and schedule. 2 minutes to read the follow-up invite. 
             - Price: FREE
-
             - Risks: low, just time and embarrassment, perhaps social engineering, fear of strangers.
         - B. From YakC's overall perspective:
             - Community. Promote conversation and connections among Yaks
@@ -126,5 +126,9 @@ Many conversations.
         - Conditional routing
         - 
 - # **Discussion**
-    - [[Grigori Milov]]: How do you trust your fellow Yaks? No vetting, no shared experience with clients. How do you split the work and revenue? Who's in charge? There is great opportunity for conflict and for damaged reputation. 
-    - 
+    - [[March 11th, 2021]]: [[Grigori Milov]]: How do you trust your fellow Yaks? No vetting, no shared experience with clients. How do you split the work and revenue? Who's in charge? There is great opportunity for conflict and for damaged reputation. 
+    - My call notes from [[March 17th, 2021]] infrastructure call...  
+        - **Pilot Yak Coffee/Cafe** on [[Knack]]. Perhaps Friday 1100 Pacific working calls? @Phil Wolff @Jenna Dixon U-4 @Oliver King (US East). Phil to work on UX design and words before starting code.  
+        - Like Discord and Roam and Calendly, there's much trust in Knack as a platform
+        - **Coffee needs integration** with Calendly (which integrates personal google calendars to reveal available times for calls). Zapier free tier, maybe; if not perhaps something FREE running off github
+        - **Yak Member Accounts**. Today's YakC Knack is all publishing, no user-generated profiles under personal accounts. Adding account management so people (members, sherpas, and guests) can edit their profiles and bookmark their searches, see what's new. That seems like a first step without reinventing a database. More GDPR-flavored, too (with a self-serve Right To Delete).

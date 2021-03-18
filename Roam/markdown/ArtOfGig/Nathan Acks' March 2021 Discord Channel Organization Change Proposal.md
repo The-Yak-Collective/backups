@@ -12,15 +12,14 @@ Current State:: {{or:Proposed | Live | Draft | Archived}}
     - Organize channels into three "tiers", using roles to control visibility.
         - Visible to `@everyone`.
             - `#upcoming-events`
-            - All of the **Yak Log**.
-                - __Except__ for `#bot-tweaks` and `#yak-tweet`, if Maier wants to move these...
+            - All of the **Yak Log**  __except__ for `#bot-tweaks` (if Maier wants to move it) and `#yak-tweet`.
             - `#introductions`
             - All of **Voice**.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FKgvNHi4KA5.png?alt=media&token=b99f1ea6-9036-423c-a073-495d5ad622ce)
         - Visible to `@yak`.
             - All of the **Dashboard** __except__ `#gig-list` and `#weekly-questions`.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZBlEcV5PEq.png?alt=media&token=390e4f49-8914-4246-b1d9-c2d8ab07c207)
-            - All of the **Yak Log**.
+            - All of the **Yak Log**  _except_ for `#bot-tweaks` (if Maier wants to move it).
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F18xacFcIJn.png?alt=media&token=5f444391-c1a4-4083-bec1-a6c55f68deca)
             - All of **Plaza** __except__ `#take-gig-leave-gig`.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F4IUESWjjjU.png?alt=media&token=c2cb442d-9f55-4e4d-9314-451f33d93fb9)
@@ -35,11 +34,14 @@ Current State:: {{or:Proposed | Live | Draft | Archived}}
                 - All of the **Weekly Questions**.
                 - All of the **Archived Weekly Questions**.
             - `@discussions`
-                - All of the **Discussions** section __except__ for `#admin-talk` (we keep that visible to `@yakshavers` only).
+                - All of the **Discussions** section __except__ for `#admin-talk`.
                 - ^^We could perhaps divide this section up more? It's not obvious to me how to do this though.^^
                 - ^^How do we handle the case of a discussion channel that's created in the **Incubator**? (Though I don't think this has come up.)^^
             - `@archives`
                 - All of the **Archives**.
+            - `@yakshavers`
+                - `#bot-tweaks`
+                - `#admin-talk`
             - Per-project roles
                 - Every project gets its own role, which sets visibility (and can be used for notifications).
                 - Projects in the **Incubator** are excluded (since we're gathering interest), but a role gets added when/if they're moved to **Projects** (and existing participants are assigned this role).
@@ -53,6 +55,5 @@ Current State:: {{or:Proposed | Live | Draft | Archived}}
     - {{[[TODO]]}} [[Nathan Acks]] Make a post in `#announcements` about these changes, using `@here`.
     - {{[[TODO]]}} [[Nathan Acks]] Merge this document into [[Discord Channel Lifecycle and Organization]].
 
-
-Last Updated:: [[March 14th, 2021]] by [[Nathan Acks]]
+Last Updated:: [[March 17th, 2021]] by [[Nathan Acks]]
 Last Gardened:: [[March 15th, 2021]] by [[Jenna Dixon]]

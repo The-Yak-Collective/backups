@@ -25,6 +25,32 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 43 [[March 17th, 2021]]
+        - participants:: [[Oliver King]] [[Jenna Dixon]] [[Maier Fenster]] [[Phil Wolff]] [[Nathan Acks]]
+        - **Agenda**
+            1. Welcome/help channel.
+            2. ~~Discord channel organization discussion.~~
+            3. "Coffee with a Yak" infrastructure
+        - **Meeting Notes**
+            - Phil thinks that 2/3rds of the issue is people learning Discord. So having a guided tour of some kind would be useful.
+                - Phil suggested a video, possibly?
+            - Some Discord-specific things:
+                - How to connect to voice channels?
+                - What are the difference between the voice rooms?
+                - How to collapse categories?
+                - Where's the interesting things?
+            - Phil and Jenna both think that maybe we should break projects into internal vs. external again.
+                - The idea is to help promote externally-facing projects, the creative things we want to promote.
+            - Phil is interested in abandonment percentages.
+                - Jenna thinks this is closer to 97%. All of the original big dogs from the original projects are gone.
+            - Jenna wants to see if we want to use Knack more for projects.
+                - Phil thinks that we've already got Roam, and is worried about adding a new tool.
+                    - Phil's interested in using calendaring and other methods to build a public CRM in Roam. But doesn't have the time/skill themselves.
+                    - Jenna would be happy to help.
+            - The idea behind "Coffee with a Yak" is to have multiple properties per yak, and per "herd" (groups of yaks).
+            - Nathan thinks that if we have multiple Knack apps, then:
+                1. If we need logins, people should only have a single one, and
+                2. If we think we want to save data long-term (by importing it to the member record mothership), we should make sure that records are associated with either an email address or a Discord [snowflake ID](https://en.wikipedia.org/wiki/Snowflake_ID) for linkability.
     - Infrastructure Chat 42 [[March 10th, 2021]]
         - participants:: [[Oliver King]] [[Jenna Dixon]] [[Maier Fenster]] [[Phil Wolff]] [[Nathan Acks]]
         - **Agenda**
