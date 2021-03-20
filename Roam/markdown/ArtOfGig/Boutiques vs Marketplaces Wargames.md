@@ -32,6 +32,7 @@
             - [[Hugo Macedo]] : there can be only one! agree
     - Also in project:: 
         - [[Maier Fenster]] we actually need two deputies here, one for each approach, AND each approach should have "also in project"
+        - [[Chad Owen]] I'm putting my name here, not knowing how to 'join' a team. Find me on the Discord...
     - Why you should join::
         - You can learn a lot about marketplace and matching up skills to potential clients. Y
         - You can change the way(s) the yak collective develops and works

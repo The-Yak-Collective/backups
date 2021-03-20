@@ -102,6 +102,8 @@ And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-orga
         - Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
         - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
     - **Queued**
+        - [David Teece interview on dynamic capabilities](https://www.strategy-business.com/article/00225?gko=32b8d)
+        - [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)
         - Liquid modernity, Zygmunt Bauman
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
             - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity

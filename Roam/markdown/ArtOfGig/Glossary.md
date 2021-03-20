@@ -1,6 +1,6 @@
 - A
     - **Absolute Unit**: A solidly built entity, such as a Yak. Yak Collective projects strive to be Absolute Units of information products. 
-    - API:: acronym for Application Programming Interface; an example of [[Service interface]] within the context of software that allows two applications to talk to each other through an intermediary protocol "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - API:: acronym for Application Programming Interface; an example of [[Service interface]] within the context of software that allows two applications to talk to each other through an intermediary protocol - "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
 - B
     - **Birds of a Feather (BOF)**: People with the same interests who might do things together. From glossary of [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
     - **Best Current Practice (BCP)**: A type of RFC, a documentation of the best way to do something.
@@ -9,8 +9,10 @@
     - **Cheaty:** Players that try to cut corners and by doing it risk permanent account ban. Seen in https://nostarch.com/download/guildleader_ch3.pdf
     - **Clark Principle**: "We reject kings, presidents and voting. We believe in rough consensus and running code" -- David Clark [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
     - **Coffee**: A conversation with a Yak or small herd. [[Yak Coffee]]
+    - CRiSP:: __continually regenerating its start position__ -- a form of governance embedded within the idea of an [[Open Participatory Organisation]]; a learning organization that reproduces itself [Bonnita Roy](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
 - D
     - **Decentralized Control**: A system of governance in which there is no single member has overall control of resources or decisions. Principle from the IETF.
+    - **Dynamic capability**: “the firm’s ability to integrate, build, and reconfigure internal and external competences to address rapidly changing environments” ([David J. Teece](http://en.wikipedia.org/wiki/David_Teece), Gary Pisano, and Amy Shuen).
     - Dogfooding:: eating your own dogfood is the practice of an organization usings its own product. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
 - E
     - **Eedies:** certain players types that can do damage to the guild. The notable examples are Greedy, Needy, Leety, and Cheaty. Seen in https://nostarch.com/download/guildleader_ch3.pdf
@@ -29,9 +31,11 @@ Flash teams exhibit distributed leadership.
         - Runtime:: 
         - source: [Expert Corwdsourcing with Flash Teams](https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf) 
 12:46 PM [[March 12th, 2021]] 
+    - **Free Rider:** Classic economics concept whose study was pioneered by Mancur Olson. It refers to people who make use of public goods without contributing to their upkeep and renewal. Related to the Tragedy of the Commons. [Wikipedia link](https://en.wikipedia.org/wiki/Free-rider_problem)
 - G
     - **Greedy:** Try to make a claim on every piece of loot that drops. Seen in https://nostarch.com/download/guildleader_ch3.pdf
 - H
+    - **Hurling Frootmig Principle:** Things are best done when random people wander into workplaces at lunchtime when actual employees are out to lunch. From [Hitchhikers Guide to the Galaxy](https://sites.google.com/site/h2g2theguide/Index/h/206017). This is in a way the reverse of the Tragedy of the Commons, and could be considered the Comedy of the Commons. 
 - I
     - **Iron Law of Bureaucracy** - There are two types of people in an organization - People who are dedicated to the goals of the organization and people who are dedicated to the organization itself. The Iron Law of Bureaucracy is that people who are dedicated to the organization will eventually take control of it. [Source](https://www.jerrypournelle.com/reports/jerryp/iron.html)
 - J
@@ -39,7 +43,8 @@ Flash teams exhibit distributed leadership.
 - L
     - **Land Grab Mode:** Once there is minimum viable happiness and Tipping Loops in marketplaces, look for other opportunities that are adjacent to the values of the brand/community.  [Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
     - **Leety:** Players that treat themselves as elite. Think that they have to win every argument, no matter how trivial it is. Seen in https://nostarch.com/download/guildleader_ch3.pdf
-    - Library-shelf system:: a form of common knowledge where organizational functionality is maintained as self-contained and inter-operable packages. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Library-shelf system:: a form of common knowledge where organizational functionality is maintained as self-contained and inter-operable packages - "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Locations:: from [[Open Participatory Organisation]], it is used to mean an opportunity to produce value by contributing values and skills in the context of an operational framework [Bonnitta Roy](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
 - M
     - Murmuration Principle:: Ad hoc groups form, move, and disperse as needed to feed and evade predators. An individual can make good decisions for the group with situational awareness of a few other close-by individuals.
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDppNqoCXcN.jpeg?alt=media&token=b1cc6487-3612-4909-8d67-1894baf2828f)
@@ -49,14 +54,14 @@ Flash teams exhibit distributed leadership.
 - N
     - **Needy:** players that constantly asks for help with quests, crafting, but never volunteers when the opportunity arises to help someone else.  Seen in https://nostarch.com/download/guildleader_ch3.pdf
 - O
-    - 
-    - Platforms:: an underlying basis of operations from which functionality is executed, often through a [[Service interface]] "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
-    - Platform Business Models:: <somewhat tentative, will look again in a few days> A process of creating value by an array of players whose specific roles and responsibilities are geared toward generating and sustaining network effects.
-https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30
+    - Open Participatory Organisation:: an open architecture supported by open participation backed-up by a governance that evolves as the organization evolves; thinks about itself as a "template" e.g. provides the features you need, while allowing them to be customized - [Bonnitta Roy](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
 - P
     - Postel's Principle:: "Be conservative in what you send and liberal in what you accept". [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
-    - Pub-sub system:: a form of asynchronous communication where any message published to a topic is immediately receivable by all of the subscribers. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Pub-sub system:: a form of asynchronous communication where any message published to a topic is immediately receivable by all of the subscribers - "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
     - **Poaching:** In MMO terms, to poach means to steal players from another guild’s roster by hard selling your guild to them or aggressively recruiting them. Seen in https://nostarch.com/download/guildleader_ch3.pdf
+    - Platforms:: an underlying basis of operations from which functionality is executed, often through a [[Service interface]] - "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
+    - Platform Business Models:: <somewhat tentative, will look again in a few days> A process of creating value by an array of players whose specific roles and responsibilities are geared toward generating and sustaining network effects.
+https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30
 - Q
 - R
     - **RFC**: Request for Comments. [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
@@ -76,7 +81,9 @@ https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratsch
                 - —[Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine)
     - **Successive Limited Comparisons:** An approach to complex decision-making, also called "muddling through" or the "branch" method, based on Lindblom's "Science of Muddling Through" (see Muddling Through) that relies on systematic trial and error starting from limited, local solutions to a larger problem. Contrast with the "Root" method.
 - T
+    - **Theory of the Firm:** Bring activities into the enterprise to minimize coordination and transaction costs. 
     - **Tipping Point**: Point at which core goal of the platform or community becomes easier and not harder. For a marketplace platform this could mean lower acquisition cost, doing fewer non scalable things. Tipping loops are happiness loops + Loop related to growth of the platform (eg: for yak collective it is number of projects active/in pipeline etc) [Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
+    - **Tragedy of the Commons:** Classic game-theoretic formulation of the problem of too many people making use of public resources and not enough contributing to its upkeep. Often used as the explanation for why public goods get appropriated for private benefit over time, and often modeled with the prisoner's dilemma game. See also Hurling Frootmig principle, which is a sort of reverse tragedy of the commons.
 - U
 - V
     - Versioned-library system:: a form of maintaining common knowledge where the state of common knowledge and state changes are kept track of through an incrementally increasing naming heuristic. "[Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)"
