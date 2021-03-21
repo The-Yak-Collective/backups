@@ -111,6 +111,7 @@ And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-orga
         - [Seb Paquet Scene-Hacking](https://www.slideshare.net/vgururao/scene-hacking)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
+        - Essential Balances by Ivo Velitchkov (on Yak Roam), proposed by [[Benjamin P Taylor - London]] https://www.strategicstructures.com/wordpress/?page_id=2013
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
     - **Queued**

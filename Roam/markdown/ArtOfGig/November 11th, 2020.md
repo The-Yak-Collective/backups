@@ -29,12 +29,12 @@
                 - every webpage should be self-contained
             - #[[Maier Fenster]]
                 - Should it be published in Instagram?
-                - #[[Benjamin Taylor]] could help with Linkedin promotions
+                - #[[Benjamin P Taylor - London]] could help with Linkedin promotions
             - Plan
                 - {{[[TODO]]}} create global narrative
                     - "[[Hugo Macedo]]  we need to create the narrative that links the context of the audience and this "product""
                 - Reformatting to social (Linkedin)
-                - promotion tactics with #[[Benjamin Taylor]]
+                - promotion tactics with #[[Benjamin P Taylor - London]]
                 - Goals
                     - establish promotion goals
             - what's the value for the author?
