@@ -76,3 +76,6 @@
 - [[March 15th, 2021]] -- project management special!
     - [[Yak Rover Yakathon module]]
     - [[Yak Rover Webpage]]
+- [[March 22nd, 2021]] -- prep for Yakathon
+    - Finalize agenda
+    - Finish slide deck

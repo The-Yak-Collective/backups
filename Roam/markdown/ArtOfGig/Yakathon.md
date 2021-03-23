@@ -1,3 +1,90 @@
+- **Agenda**
+    - **0:05 → 0:05 — Music Introductions**
+        - Time for people to trickle in + get situated
+        - Ask people to check-in with something in the chat
+        - Any recommendations for the music?
+    - **0:05 → 0:15 — Welcoming + Announcements**
+        - Talk about and define the Yak Collective
+        - Mention the projects (outside of the meta-project) that still exist
+        - Mention the two study groups -- OGS & Philosophy
+        - Working on big things for infrastructure. Won't say too much about it since the work spans a broad range of projects intended to improve our quality of life, but for sex appeal, will mention some nascent conversations are forming around the possibility of minting our own NFTs
+        - We're also gearing up for Yak Coffee talks ...
+        - Stay tuned to our Discord and Website, you should be seeing some interesting developments over the next few weeks to months
+        - Anyways, we've gathered here today for our very first Yakathon! The theme of this Yakathon is the Yak Rover → repeat a little bit of marketing copy and hand over to Venkat
+    - **0:15 → 0:45 — Yak Rover Presentations**
+    - **0:45 → 1:00 — Q&A / Yaktivity Sorting**
+    - **1:00 → 3:00 — Coworking Sessions (Suggested Format in Breakout Room)**
+        - Have everyone introduce themselves as icebreaker
+        - Very clearly state the deliverable you want produced
+        - Very clearly state what you expect from everyone
+        - It will be published on website if they want credit
+        - Run a Pomodoro Timer to allow for breaks
+        - Remind everyone to have fun → begin!
+    - **3:00 → 3:05 — Closing Ceremony**
+        - Welcome everyone back w/ Music
+        - Thank everyone for participating
+        - Ask them to type in chat w/ a check-out question
+        - Make any last-minute announcements
+        - Repeat core takeaways for the Yaks (engage!)
+        - Set the agenda for the Debrief Session
+    - **3:05 → 4:00 — Debrief**
+        - Each build leader will have a little bit of time to show off
+        - Walk through deliverable to give credit/praise to participants
+        - Open the floor up for any comments and the such
+- **Project Proposal**
+    - **Purpose**
+        - Plan and host a Yakathon wherein the Yak Collective hosts a coworking session with pre-selected projects for attendees to work on
+        - Primarily to produce for user engagement and internal marketing
+    - **Team**
+        - Proposed By:
+            - [[Oliver King]]
+        - Project Lead:
+            - [[]]
+        - Project Members:
+            - [[]]
+    - **Scope**
+        - **Will-haves**
+            - A one day event tentatively planned **March 27th, 2021**
+                - 30-minute introduction / warm-up period for self-sorting into various projects
+                - 150-minute pomodoro sessions where we can work alongside everyone
+                - 60-minute give a debrief and sort everyone into breakout project rooms
+                - Aim for units of work that are self-contained without needing coordination
+            - A set of involved projects + project leads
+                - Sachin -- astonishing stories
+                - Scott -- new and future homes
+                - Venkat -- [[Yak Rover Yakathon module]]
+                - Paul (?) -- reimagine healthcare
+            - A pre-event internal marketing strategy
+                - Welcome committee DM outreach efforts
+                - Get them onboarded into the new users system
+            - A post-event internal marketing strategy
+            - A well-defined, repeatable organizational process
+        - **Won't-haves**
+            - External marketing strategy
+            - Post-event engagement i.e. how we can capture and leverage the interest drummed up by our first Yakathon
+    - **Additional Context**
+        - Part of the [[Meta-Project]] activity track
+        - Serve as tentpole under which we organize and engage the Yak Collective
+        - Drum-up some excitement and activity with which we can use as marketing materials to further engage the Yak Collective
+    - **Desired Outcomes**
+        - We should get a sense of how engaged Yaks are going into the event
+        - By the end of the Yakathon, we should have all deliverables ready to be turned in for final organization and all inputs collected for project delivery
+        - We should get a sense of Yakathon sustainability e.g. operational experience
+    - **Key Stakeholders**
+        - Marketing Team
+            - Internal consulting role to define coherent messaging
+            - Align narrative with other projects within the [[Meta-Project]] track
+        - Newsletter Team
+            - Will document and report on the Yakathon itself
+            - Will work with project leads and marketing team to distribute deliverables
+        - Welcoming Committee
+            - Part of pre-event internal marketing e.g. outreach to extant Yaks through DM
+        - Yakathon Host
+            - Will be the front-man for the Yakathon itself and host the event
+        - Project Leads
+            - Will be the leaders for their own particular projects as part of event
+            - Responsible for creating marketing material for pre-event marketing
+            - Responsible for organizing the work done in the Yakathon into a coherent deliverable
 - Sample Project Proposal 
     - **About**
     - Current State:: {{or: Proposed | Draft | Started | Stalled | Live | Finished | Abandoned}}
@@ -24,57 +111,3 @@ Consult [[Jenna Dixon]] for details
     - **Financial Structure**: Internal Project | Client Project
         - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [[Yak Collective Fund]]. Client projects are funded by a client. Check out [[Client Projects]] for details.
     - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
-- **Purpose**
-    - Plan and host a Yakathon wherein the Yak Collective hosts a coworking session with pre-selected projects for attendees to work on
-    - Primarily to produce for user engagement and internal marketing
-- **Team**
-    - Proposed By:
-        - [[Oliver King]]
-    - Project Lead:
-        - [[]]
-    - Project Members:
-        - [[]]
-- **Scope**
-    - **Will-haves**
-        - A one day event tentatively planned **March 27th, 2021**
-            - 30-minute introduction / warm-up period for self-sorting into various projects
-            - 150-minute pomodoro sessions where we can work alongside everyone
-            - 60-minute give a debrief and sort everyone into breakout project rooms
-            - Aim for units of work that are self-contained without needing coordination
-        - A set of involved projects + project leads
-            - Sachin -- astonishing stories
-            - Scott -- new and future homes
-            - Venkat -- [[Yak Rover Yakathon module]]
-            - Paul (?) -- reimagine healthcare
-        - A pre-event internal marketing strategy
-            - Welcome committee DM outreach efforts
-            - Get them onboarded into the new users system
-            - 
-        - A post-event internal marketing strategy
-        - A well-defined, repeatable organizational process
-    - **Won't-haves**
-        - External marketing strategy
-        - Post-event engagement i.e. how we can capture and leverage the interest drummed up by our first Yakathon
-- **Additional Context**
-    - Part of the [[Meta-Project]] activity track
-    - Serve as tentpole under which we organize and engage the Yak Collective
-    - Drum-up some excitement and activity with which we can use as marketing materials to further engage the Yak Collective
-- **Desired Outcomes**
-    - We should get a sense of how engaged Yaks are going into the event
-    - By the end of the Yakathon, we should have all deliverables ready to be turned in for final organization and all inputs collected for project delivery
-    - We should get a sense of Yakathon sustainability e.g. operational experience
-- **Key Stakeholders**
-    - Marketing Team
-        - Internal consulting role to define coherent messaging
-        - Align narrative with other projects within the [[Meta-Project]] track
-    - Newsletter Team
-        - Will document and report on the Yakathon itself
-        - Will work with project leads and marketing team to distribute deliverables
-    - Welcoming Committee
-        - Part of pre-event internal marketing e.g. outreach to extant Yaks through DM
-    - Yakathon Host
-        - Will be the front-man for the Yakathon itself and host the event
-    - Project Leads
-        - Will be the leaders for their own particular projects as part of event
-        - Responsible for creating marketing material for pre-event marketing
-        - Responsible for organizing the work done in the Yakathon into a coherent deliverable
