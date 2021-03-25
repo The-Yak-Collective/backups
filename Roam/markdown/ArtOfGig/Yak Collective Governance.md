@@ -112,6 +112,10 @@ And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-orga
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
         - Essential Balances by Ivo Velitchkov (on Yak Roam), proposed by [[Benjamin P Taylor - London]] https://www.strategicstructures.com/wordpress/?page_id=2013
+        - [Albert O. Hirschman](https://en.wikipedia.org/wiki/Albert_O._Hirschman), [Exit, Voice, and Loyalty](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty)
+            - cf [[Mansion Statement]]
+                - does anyone know created the [[Mansion Statement]] page on the graph? it’s unsigned
+            - proposed by [[Jenna Dixon]]
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
     - **Queued**
