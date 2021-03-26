@@ -113,8 +113,25 @@ And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-orga
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
         - Essential Balances by Ivo Velitchkov (on Yak Roam), proposed by [[Benjamin P Taylor - London]] https://www.strategicstructures.com/wordpress/?page_id=2013
         - [Albert O. Hirschman](https://en.wikipedia.org/wiki/Albert_O._Hirschman), [Exit, Voice, and Loyalty](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty)
-            - cf [[Mansion Statement]]
+            - cf [[Mansion Statement]] here
                 - does anyone know created the [[Mansion Statement]] page on the graph? it’s unsigned
+            - proposed by [[Jenna Dixon]]
+        - [Social Change Ecosystem Map](https://buildingmovement.org/our-work/movement-building/social-change-ecosystem-map/) for the idea of roles, guilds within guilds
+            - > The Social Change Ecosystem Map - Definition of Roles
+__Weavers:__ I see the through-lines of connectivity between people, places, organizations, ideas, and movements.
+__Experimenters:__ I innovate, pioneer, and invent. I take risks and course-correct as needed.
+Frontline Responders: I address community crises by marshaling and organizing resources,
+networks, and messages.
+__Visionaries:__ I imagine and generate our boldest possibilities, hopes and dreams, and remind us of our direction.
+__Builders:__ I develop, organize, and implement ideas, practices, people, and resources in service of a collective vision.
+__Caregivers:__ I nurture and nourish the people around me by creating and sustaining a community of care, joy, and connection.
+__Disruptors:__ I take uncomfortable and risky actions to shake up the status quo, to raise awareness, and to build power.
+__Healers:__ I recognize and tend to the generational and current traumas caused by oppressive
+systems, institutions, policies, and practices.
+__Storytellers:__ I craft and share our community stories, cultures, experiences, histories, and
+possibilities through art, music, media, and movement.
+__Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernment and wisdom
+            - ![Ecosystem Map 2020](https://buildingmovement.org/wp-content/uploads/2020/10/Ecosystem-Map-2020.png)
             - proposed by [[Jenna Dixon]]
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
