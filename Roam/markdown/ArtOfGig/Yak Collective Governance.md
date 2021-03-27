@@ -74,6 +74,9 @@ And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-orga
             - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
 - **General Track** — [[Venkatesh Rao]] — on hiatus while platform track clears backlog
     - **Completed Readings**
+        - [Seb Paquet Scene-Hacking](https://www.slideshare.net/vgururao/scene-hacking)
+            - [Geeks, MOPs, and sociopaths in subculture evolution | Meaningness](https://meaningness.com/geeks-mops-sociopaths) 
+How muggles and sociopaths invade and undermine creative subcultures; and how to stop them.
         - [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)
         - [The Limits of Peer Production](https://fredturner.stanford.edu/wp-content/uploads/Kreiss-Finn-Turner-Limits-of-Peer-Production-NMS-3-111.pdf)
         - [Expert crowdsourcing with flash team](https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf)
@@ -108,7 +111,6 @@ And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-orga
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
             - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
         - Yuval Levin on [institutions losing power to mold character](https://www.nytimes.com/2020/01/18/opinion/sunday/institutions-trust.html)
-        - [Seb Paquet Scene-Hacking](https://www.slideshare.net/vgururao/scene-hacking)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
         - Essential Balances by Ivo Velitchkov (on Yak Roam), proposed by [[Benjamin P Taylor - London]] https://www.strategicstructures.com/wordpress/?page_id=2013
