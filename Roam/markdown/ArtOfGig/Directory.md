@@ -198,6 +198,9 @@ I write about design, education, training, facilitation, Systems Thinking, and T
 - [[Ryan Harter (harter)]]
     - {{embed: ((((NR62_fqsq))))}}
 - [[Ric Hayman]]
+- [[Erica Heinz]]
+    - I'm an independent product/UX designer and strategist, consulting in NYC since 2002. Currently based in Brooklyn, writing [a book on UX](https://ericaheinz.com/ux-book)
+    - 🌐 [ericaheinz.com](https://ericaheinz.com) • 🐦 [@ericaheinz](https://twitter.com/ericaheinz)
 - [[Johnicholas Hines]]
     - {{embed: ((((OjgenRHSm))))}}
 - [[Pamela Hobart]]
