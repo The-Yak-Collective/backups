@@ -79,3 +79,4 @@
 - [[March 22nd, 2021]] -- prep for Yakathon
     - Finalize agenda
     - Finish slide deck
+- [[Yakathon 1 Mars Rover Edition - 2021 March 28]]

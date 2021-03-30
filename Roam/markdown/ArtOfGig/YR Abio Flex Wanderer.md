@@ -30,12 +30,17 @@ for now, i am thinking re delegate, that you have code on the robot and code on 
             - Benefit of possible scavenging when fleet of rovers.
             - About testing a design: "Depends on what environment we're trying to simulate/test exactly. Xrays are cheap and easy to come by all over the place. For gamma there's Co-60 sterilization facilities. And then for a proton source there is renting time on a proton therapy machine."
 - Latest notes
+    - 2021-03-23
+        - Solved the power issue. No voltage regulator.
+            - After almost frying the RPi, I had to reinstall the whole system on a new SD card. Fortunately our work was on a separate flash drive.
+            - In the reinstall process, I found the USB power block was really unreliable. And boom, it all sorted out by using an expensive USB power block ($30). Now the tethered bot works all fine.
+        - Some time on finding how to get a SpiderBot to Maier (still).
+- Notes archive
     - 2021-03-01
         - Work on the power issue. Adding a voltage regulator.
         - Video streaming: Considering moving from mjpg_streamer to uv4l (https://www.linux-projects.org/uv4l/)
             - Recommended by Twilio through Maier.
             - uv4l seems to have migrated to light-weight video streaming for IoT devices.
-- Notes archive
     - 2021-01-18
         - Presentation of this rover build targets.
             - A rover build later in the year.
