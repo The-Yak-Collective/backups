@@ -16,8 +16,8 @@
         - Netflix does a lot of data science in notebooks, use tools to run notebooks 
         - Once we have access to web interface, we can do the rest if needed.
         - As a gateway to robotics resources. 
-        - "Anything built around CUDA creates complexity. Has lots of baggage? " - Victor can make CUDA work.
-        - "Barrier for newbies for ssh is higher" - But Jupter backend requires more work
+        - Anything built around CUDA creates complexity. Has lots of baggage?  - Victor can make CUDA work.
+        - Barrier for newbies for ssh is higher - But Jupter backend requires more work
     - [[Eric Platon]] - Servos can be programmed in python. In plain python this has to be written in loop. In Jupyter, a python session inside browser. If we want to design a program
     - [[Maier Fenster]] - We can use JupyterHub, for development or we can use it for actual interface the robot. Different cells for different functions and different parts. Does it help in developing the robot ? 
     - [[Jascha Wilcox]] - Front end for controller, 

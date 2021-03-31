@@ -66,5 +66,5 @@
     - More cohesive twitter and marketing 
         - Way to capture discord convos -> marketing
 - Linking this here... not quite the right place
-    - "**Internal supporting things we need to support public output**"
+    - **Internal supporting things we need to support public output**
 - [[Yak Droppings]]

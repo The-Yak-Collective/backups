@@ -104,7 +104,7 @@
             - **"Steps" for a successful offsites**
                 - Consider the Before / During / After as important
                     - The considerations that goes into an offsite before it happens can make or break it. Then the live event itself—how to flex improv, negative capability, trickster-spirit, divergence/convergence, coherence, cohesion etc etc. Then the aftermath—what happens next. #[[Jason Fox]]
-                - More in the "Resources" section
+                - More in the Resources section
             - **What's the market for offsites**
                 - Offsites are often towards the end of the year, often during or just after the annual planning cycle (often tied with financial year end)
                 - Offsites is not generally something the big firms go after as a market.... it's a boutique market often run internally by departments themselves or specific retreat-oriented firms I think
@@ -201,18 +201,18 @@
                 - Building principles and essential experience blocks that people
         - Post-meeting TODOs
             - Watch the video
-            - Review "Discussion points" above
+            - Review Discussion points above
             - Answer the question below
-                - "Who is this project for, exactly? What are their ‘known spoken’ problems? (And: what are their ‘known unspoken’ problems?"
+                - Who is this project for, exactly? What are their ‘known spoken’ problems? (And: what are their ‘known unspoken’ problems?
                     - [[Antoine Buteau]]: I like the idea of the project being for senior leaders who just decided to work from home permanently and have to change a lot of their internal fabric. It's an opportunity for them to perform a mix of leadership x strategic x cultural offsite and rebuild that internal fabric.
-                - "What's the best format?"
+                - What's the best format?
                     - [[Antoine Buteau]]: I'm thinking we should build a short playbook of principles and at the same time some kind of proof that we did it using the principles. 
-                - "What do we want our target audience to think/feel/do as a result of this project?"
+                - What do we want our target audience to think/feel/do as a result of this project?
                     - [[Antoine Buteau]]: 
                         - I had no idea online offsites could be as effective as in-person offsites
                         - I am confident and I have the tools in hand to create an experience that will move my business forward
                         - I think Yak Collective can help me in that process
-                - "What are some ideas for a minimum viable project"
+                - What are some ideas for a minimum viable project
                     - [[Antoine Buteau]]:
                         - Block one week with different short "experiential" sessions around a few topics
                             - Some cultural sessions

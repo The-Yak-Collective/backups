@@ -9,7 +9,7 @@
     - Agenda/minutes
         - (id **8**) From @Maier (U+2):
 review past discussions for action items
-            - "go back to [Movement Marketing](https://www.strawberryfrog.com/movement-marketing-4-strategies-for-sparking-a-brand-movement/)"
+            - go back to [Movement Marketing](https://www.strawberryfrog.com/movement-marketing-4-strategies-for-sparking-a-brand-movement/)
             - we need a page/way to show what we're on
                 - {{[[kanban]]}}
                     - Maybe later ☁️

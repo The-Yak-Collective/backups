@@ -60,8 +60,8 @@
         - [Institute for the Future report - Future Work Skills 2020](http://www.iftf.org/uploads/media/SR-1382A_UPRI_future_work_skills_sm.pdf)
             - See p. 11, item 7 - Transdisciplinarity
         - [Becoming Trandisciplinary: The Emergence of the Trandisciplinary Individual](https://www.researchgate.net/publication/265173163_Becoming_Transdisciplinary_The_Emergence_of_the_Transdisciplinary_Individual)
-        - "[The Charter of Transdisciplinarity](http://inters.org/Freitas-Morin-Nicolescu-Transdisciplinarity)"
-        - "[Manifesto of Transdisciplinarity](https://muse.jhu.edu/book/9032)"
+        - [The Charter of Transdisciplinarity](http://inters.org/Freitas-Morin-Nicolescu-Transdisciplinarity)
+        - [Manifesto of Transdisciplinarity](https://muse.jhu.edu/book/9032)
     - [semicolon shaped people article by venkat](https://breakingsmart.substack.com/p/semicolon-shaped-people)
         - Love this, and agree it's a more apt metaphor/visual for it. I think if we want to sell organizations on the value of this (per [[Darren Kong]] comment on Discord), we need to find some bridging terminology that is familiar in that world without sacrificing what you describe here. [[Scott Allen]]
             - T-shaped / pi-shaped / comb-shaped - doesn't fit your (our) metaphor.

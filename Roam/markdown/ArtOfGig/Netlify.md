@@ -7,7 +7,35 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Purpose
     - Provides the build environment for the [[Yak Collective Website]]
         - See [[Building the Website]] for more details
-        - {{[[embed]]: ((8OtMboOmK))}}
+        - ## Current [[GitHub]] Branches
+            - `netlify-prod` (point: [[Nathan Acks]])
+                - Production branch.
+                    - ^^Major changes should never be made directly to this branch.^^
+                        - Instead, new branches should be created, updated, fully tested, and __only then__ merged in.
+                    - Minor changes (fixing typos, updating links) can be made to this branch.
+                - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/netlify-prod
+                - [[Netlify]]: https://app.netlify.com/sites/practical-lichterman-20c7e0/overview
+            - `astonishing-stories` (point: [[Nathan Acks]])
+                - Template and content updates for the upcoming [[Astonishing Stories]] release.
+                - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/astonishing-stories
+                - [[Netlify]]: https://app.netlify.com/sites/optimistic-jennings-266cab/overview
+            - `knack-migration` (point: [[Maier Fenster]])
+                - Work on migrating member data to [[Knack]].
+                - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/knack-migration
+                - [[Netlify]]: https://app.netlify.com/sites/competent-shockley-33f53c/overview
+            - `admin-improvements` (point: [[Maier Fenster]])
+                - Branch containing general improvements being worked on by [[Maier Fenster]].
+                - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/admin-improvements
+                - [[Netlify]]: https://app.netlify.com/sites/inspiring-villani-8898ca/overview
+            - `v3.0` (point: [[Nathan Acks]])
+                - [Gatsby](https://www.gatsbyjs.org/) [migration](https://github.com/The-Yak-Collective/yakcollective/issues/12) branch.
+                - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/v3.0
+            - `admin-improvements-bak-202008118` (point: [[Maier Fenster]])
+                - Backup up `admin-improvements`
+                - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/admin-improvements-bak-20200818
+            - `master` (point: [[Tom Critchlow]])
+                - Original website by [[Tom Critchlow]], designed to be hosted by [GitHub Pages](https://pages.github.com/).
+                - [[GitHub]]: https://github.com/The-Yak-Collective/yakcollective/tree/master
     - Manages web presence "plumbing"
         - Site data pushed out to [Amazon CloudFront](https://aws.amazon.com/cloudfront/)
             - [[Namecheap]] DNS points to Netlify "load balancer"

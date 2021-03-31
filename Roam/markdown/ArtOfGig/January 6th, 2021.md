@@ -2,5 +2,5 @@
     - survey - get feedback in the next few days
     - product offering discussion
         - focused on #[[Pop-Up Think Tank]]
-        - will add more on "How to market it "
+        - will add more on How to market it 
     - 

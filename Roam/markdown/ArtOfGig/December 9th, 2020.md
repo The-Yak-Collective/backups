@@ -10,12 +10,12 @@
         - [[YC Annual Meeting 2020]] talking points 
             - initial take
                 - initially 3 streams
-                    - "[[Foundations - Positioning]]
-all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning"
-                    - "[[Showcase Projects Launch]]
-how do we launch showcase projects to maximize target visibility and engagement"
-                    - "[[Marketing Channels]]
-where and how do we communicate and engage with the target audience"
+                    - [[Foundations - Positioning]]
+all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning
+                    - [[Showcase Projects Launch]]
+how do we launch showcase projects to maximize target visibility and engagement
+                    - [[Marketing Channels]]
+where and how do we communicate and engage with the target audience
                 - We also considered if we should devote our efforts to Yaks vs. Clients
                 - We didn't progress enough on any stream
                     - Foundations - there's a multitude of perspectives - we may let emerge - what we are is what we do

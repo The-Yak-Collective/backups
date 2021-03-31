@@ -18,8 +18,24 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
             4. For emergency updates, ping someone with **owner** level access in [[GitHub]] on [[Discord]].
     - ## Member Writings & Newsletter Archive
         - Member writings and newsletters are pulled in using [[IFTTT]] from various RSS.
-            - {{[[embed]]: ((RLF445t5m))}}
-            - {{[[embed]]: ((URd0ZDDRF))}}
+            - Member RSS Feeds
+                - [[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed
+                - [[Ben Mosior]]: https://hiredthought.com/feed/
+                - [[Benjamin P Taylor - London]]: https://medium.com/feed/@antlerboy
+                - [[Benton Heimsath]]: https://www.bentonheimsath.com/writing?format=rss
+                - [[David McDougall]]: https://innovationatscale.substack.com/feed/
+                - [[Pamela Hobart]]: https://www.pamelajhobart.com/blog?format=rss
+                - [[Paul Millerd]]: https://think-boundless.com/feed/
+                - [[Randy Lubin]]: https://blog.randylubin.com/feed.xml
+                - [[Shreeda Segan]]: https://shreeda.substack.com/feed/
+                - [[Toby Shorin]]: https://subpixel.space/feed.xml
+                - [[Tom Critchlow]]: https://tomcritchlow.com/feed
+                - [[Vaughn Tan]]: https://uncertaintymindset.substack.com/feed/
+                - [[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/
+                - [[Vinay Débrou]]: https://vinaydebrou.com/feed.xml
+            - [[Substack]]
+                - Chief Page Wrangler:: [[Matthew Sweet]]
+                - RSS feed: https://yakcollective.substack.com/feed/
         - Writings and newsletter data are archived in [[GitHub]]
             - Member writings aren't exposed directly on the finished site; instead, the intention is to push visitors out to the original websites
             - Newsletter data isn't displayed right now, but in the future will be exposed in an "archive"

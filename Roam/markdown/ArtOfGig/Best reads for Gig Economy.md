@@ -10,4 +10,4 @@
 - [Uncertainty Mindset](https://uncertaintymindset.substack.com/) from Vaughn Tan
     - Wonderful newsletter rich in thinking around uncertainty, innovation, design (added by [[Tom Critchlow]])
 -  [[Tom Critchlow]] writing on independent consulting
-    - "Full archive (~35k words):"
+    - Full archive (~35k words):

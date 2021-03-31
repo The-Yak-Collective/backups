@@ -8,8 +8,25 @@
         - ...
     - Agenda/Minutes 
         - 
-            - {{[[embed]]: ((AKz3adabk))}}
-        - {{[[DONE]]}} "{{[[TODO]]}} List all the projects in their different stage (idea/concept/wip/stalled/delivered)"
+            - Main takeaways:
+                - Internal Marketing is key to start with - we need to figure out who we are and what YC is for Yaks before we're able to revisit/scale our external marketing
+                - YC should be defined by what we do and what we could do - what we do will define who we are (emergence). Defining who we are is premature-optimization. A bottom-up instead of a top-down approach.
+                    - this seems more in-tuned with our decentralised, diverse DNA
+                - YC can/should(?) be a place to do projects - have the freedom to leverage the Yaks and Collective to do projects.
+                    - we can even have projects that are similar but different - because they have a different idea/purpose - e.g. we can have several Newsletters
+                - The best way to communicate this "playground" idea is to give examples and testimonials
+                -  Relaunch the [[Don’t Waste the Reboot]]?
+                    - what would we add to that? a behind the scenes, making-of that tells about the potential?
+                - Next Steps:
+                    - {{[[TODO]]}} List all the projects in their different stage (idea/concept/wip/stalled/delivered)
+                    - {{[[TODO]]}} survey Yaks to understand their motives/expectations/experience (TBD)
+                        - from here we can do some 1-1 interviews
+                    - Copy write some content on
+                        - What we do is who we are
+                        - YC as a "playground"/opportunities to build new projects
+                    - [[Maier Fenster]] consider specifically issue of helping yaks market
+                    - [[Maier Fenster]] @ajgram: is there any published material on the ideal customer profile for YC, and the type of projects it is best positioned to deliver superior results vs. traditional consulting firms?
+        - {{[[DONE]]}} {{[[TODO]]}} List all the projects in their different stage (idea/concept/wip/stalled/delivered)
             - GM
                 - list project that people can join now
                     - define what's next - what can I do now? 
@@ -26,8 +43,8 @@
                 - if I have a project what do I do?
                     - see here what process was (?): https://roamresearch.com/#/app/ArtOfGig/page/MWN2i9e3v
             - MF
-                - onboarding should cover this question - "if I have a project what do I do?"
-        - {{[[DONE]]}} "{{[[TODO]]}} survey Yaks to understand their motives/expectations/experience (TBD)"
+                - onboarding should cover this question - if I have a project what do I do?
+        - {{[[DONE]]}} {{[[TODO]]}} survey Yaks to understand their motives/expectations/experience (TBD)
             - GM
                 - survey - is backward looking - we should look forward 
                 - the future is more interesting
@@ -50,7 +67,7 @@
                 - {{[[TODO]]}} Generate project ideas
         - {{[[TODO]]}} AS Launch 
             - {{[[TODO]]}} followup on messaging and give feedback [[Hugo Macedo]] 
-        - {{[[TODO]]}} " Relaunch the [[Don’t Waste the Reboot]]?"
+        - {{[[TODO]]}}  Relaunch the [[Don’t Waste the Reboot]]?
             - we need to rethink the slide/launch
             - MF
                 - relaunch as workshops - interactive 
@@ -62,7 +79,7 @@
                 - At the end of each micro-workshop, you’ll receive a customized output or report, capturing what you learned for future use.
                 - You’ll collaborate in small groups. You’ll learn something new. You’ll get something done. You’ll move the needle. **Join us!**
         - {{[[TODO]]}} YC Ideal customer profile
-            - "[[Maier Fenster]] @ajgram: is there any published material on the ideal customer profile for YC, and the type of projects it is best positioned to deliver superior results vs. traditional consulting firms?"
+            - [[Maier Fenster]] @ajgram: is there any published material on the ideal customer profile for YC, and the type of projects it is best positioned to deliver superior results vs. traditional consulting firms?
         - {{[[TODO]]}} helping yaks market 
-            - "[[Maier Fenster]] consider specifically issue of helping yaks market"
+            - [[Maier Fenster]] consider specifically issue of helping yaks market
         - 

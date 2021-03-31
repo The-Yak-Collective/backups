@@ -55,16 +55,16 @@ anyway, i was thinking on how we tie it all together.
         - So I think that we should continue to map Discord IDs into the `lname-fname` format we currently use.
             - We probably need some sort of process to either automatically generate redirects when someone's name changes, or ping someone who has write access to the website repo on GitHub so that they can make the update themselves. Given the relatively small number of members, I think just pinging someone is enough for now.
     - I'd re-order your onboarding list slightly:
-        1. "1. yak starts with minimal friction to get into discord"
-        2. "4. we expect yak to post introduction"
-        3. "2. somewhere along the line we ask for some basic info
-"
-        4. "5. we want to show yak where to start"
-        5. "8. filter out yak if they do not do one or more of the steps"
-        6. "7. invite yak to orientation call"
-        7. "9. signup yak to newsletter"
-        8. "3. somewhere along the line (can be at same time as #2) we ask for more info, like yak-map data"
-        9. "6. probably want to dribble some "look here" call outs"
-        10. "10. try to recruit yak to one or more activities"
-        11. "11. perhaps continue dripping reminders to yak after yak is not new, perhaps by email rather than or in addition to discord, perhaps based on amount of activity"
+        1. 1. yak starts with minimal friction to get into discord
+        2. 4. we expect yak to post introduction
+        3. 2. somewhere along the line we ask for some basic info
+
+        4. 5. we want to show yak where to start
+        5. 8. filter out yak if they do not do one or more of the steps
+        6. 7. invite yak to orientation call
+        7. 9. signup yak to newsletter
+        8. 3. somewhere along the line (can be at same time as #2) we ask for more info, like yak-map data
+        9. 6. probably want to dribble some "look here" call outs
+        10. 10. try to recruit yak to one or more activities
+        11. 11. perhaps continue dripping reminders to yak after yak is not new, perhaps by email rather than or in addition to discord, perhaps based on amount of activity
             - I'm not 100% sure what the difference is between (10) and (11).

@@ -1,12 +1,12 @@
 - ## Inspired by fragments (2 or more):
     - [[Fragment 002: The Dunning-Kruger Supplement]]
-        - "The Dunning-Kruger supplement is what you take right after you start to realize that you don't know what you are talking about. Even though there are more errors that happen, we realized that they were not as bad as being stuck in old ways of thinking. Truth-sayers use the supplement to stop themselves from being dragged down by the dominant logic of old models."
+        - The Dunning-Kruger supplement is what you take right after you start to realize that you don't know what you are talking about. Even though there are more errors that happen, we realized that they were not as bad as being stuck in old ways of thinking. Truth-sayers use the supplement to stop themselves from being dragged down by the dominant logic of old models.
     - [[Fragment 017: Virtual HouseGuest]]
-        - "Virtual HouseGuest - family can now drop in and participate in your normal routine. Dinner time, movie night, by ringing a virtual doorbell and being invited to cameras and screens within the house"
+        - Virtual HouseGuest - family can now drop in and participate in your normal routine. Dinner time, movie night, by ringing a virtual doorbell and being invited to cameras and screens within the house
     - [[Fragment 023: Police shame ritual]]
-        - "An annual ceremony. Police lay on the ground and chant "I can't breathe" as a reminder to be just in our actions and embody shame for past actions"
+        - An annual ceremony. Police lay on the ground and chant "I can't breathe" as a reminder to be just in our actions and embody shame for past actions
     - [[Fragment 042: The Medicis are back]]
-        - "We return to the rennaisance era where art and enterprise is solely funded by wealthy families. Return to the medicis and symbols of medicis and the families become as ubiquitous as the apple logo"
+        - We return to the rennaisance era where art and enterprise is solely funded by wealthy families. Return to the medicis and symbols of medicis and the families become as ubiquitous as the apple logo
     - Yak Collective consulting
 - ## Describe this scenario
     - Relationship consultants for people. Like wedding planners for everyday events but an almost religious-like order.

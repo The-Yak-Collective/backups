@@ -32,7 +32,7 @@
                 - #[[Benjamin P Taylor - London]] could help with Linkedin promotions
             - Plan
                 - {{[[TODO]]}} create global narrative
-                    - "[[Hugo Macedo]]  we need to create the narrative that links the context of the audience and this "product""
+                    - [[Hugo Macedo]]  we need to create the narrative that links the context of the audience and this "product"
                 - Reformatting to social (Linkedin)
                 - promotion tactics with #[[Benjamin P Taylor - London]]
                 - Goals

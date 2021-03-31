@@ -21,9 +21,9 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2F8_2vjsm4jr.jpg?alt=media&token=227bf013-4ca2-4226-b582-4453b01de8e3)
     - {{[[TODO]]}} Story order 
         - [01 Nathan Chen](((8yEaJjIrg)))
-        - "02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)"
-        - "03 [[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) "
-        - "04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)"
+        - 02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
+        - 03 [[Scott Garlinger]] [Department of Restoration](https://docs.google.com/document/d/1JrlKrp4C3sy9ByOecAEWc2mxnoodvM5PWVAqpGVFhVY/edit?usp=sharing) 
+        - 04 [[Chris Butler]] [Mechanical Turks all the way down](https://docs.google.com/document/d/1HpnU_k_Q3xulIfwiEtdpfMycZeTRvR-cPWDl8mA___E/edit?usp=sharing)
         - ^^agglomerizing the aesthetic^^
         - ^^GPT 51 Pre Fab^^
     - {{[[DONE]]}} Replace artwork for "your payment is ready" 

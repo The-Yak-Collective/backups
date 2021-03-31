@@ -11,12 +11,12 @@
 
     - {{[[comment]]}}
 
-- {{comments: "this is a sentence to be comment {{comment-button}}"
+- {{comments: this is a sentence to be comment {{comment-button}}
     - {{[[comment]]}}
 this is a comment
     - {{[[comment]]}}
 
-- {{comments: "[[Maier Fenster]] testing the comment button (move mouse over this line to see) {{comment-button}}"
+- {{comments: [[Maier Fenster]] testing the comment button (move mouse over this line to see) {{comment-button}}
     - [[Nathan Acks]] Now that I see how this works, it's __almost__ useful. Needs to be better exposed in Roam's UI + auto-indicate who's adding the comment.
     - {{[[comment]]}}
 
@@ -29,8 +29,8 @@ this is a comment
 
     - {{[[comment]]}}
 
-- {{comments: "2. somewhere along the line we ask for some basic info
-"
+- {{comments: 2. somewhere along the line we ask for some basic info
+
     - {{[[comment]]}}
 
 - {{comments: ((21393))
@@ -41,7 +41,7 @@ this is a comment
 - 
     - {{[[comment]]}}
 
-- {{comments: "Developing two contrasting roadmaps for further developing Yak Collective narratives"
+- {{comments: Developing two contrasting roadmaps for further developing Yak Collective narratives
     - {{[[comment]]}}
 
     - {{[[comment]]}}

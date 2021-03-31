@@ -1,1 +1,23 @@
-- {{[[embed]]: ((dVw2WTBmU))}}
+- Infrastructure Chat 24 [[October 25th, 2020]] #meeting-notes
+    - Attendees: [[Nathan Acks]] [[Sachin Benny]] [[Maier Fenster]] [[Paul Sas]] [[Kacper Wikiel]]
+    - Walked through website changes related to [[Astonishing Stories]]
+        - These are temporary -- [[Nathan Acks]] is working on a new "widgetized" back end. Aiming to go live on [[October 30th, 2020]]
+            - Project headers, Google slide shows, lists of writings, member cards, images, and more are now includable widgets
+            - Future website pages will not be constrained to a particular layout
+            - Some tweaks, like image positioning and fine-grained placement, still require CSS. Some "advanced" widgets will require knowledge of Liquid. But the goal is that people can build a good-looking page without knowing CSS or HTML or Liquid at all.
+            - Documentation will be on Roam + a set of template pages that can be used as reference/starter pages
+            - [[Maier Fenster]] calls this a "design language"
+                - Also: Should we revisit the existing website milestones? They don't seem as applicable anymore...
+    - Talked about building ebooks as part of the publishing flow
+        - [[Nathan Acks]] thinks we can do something quick-and-dirty using Pandoc
+            - https://pandoc.org/epub.html
+        - [[Maier Fenster]] suggests building the ePub file first, and then using an in-page ePub viewer
+            - https://github.com/futurepress/epub.js/
+        - Another possibility: Use two different site generators, one for the main body of the website, and another to build "subsites" like [[Astonishing Stories]] + relevant ebook
+    - [[Sachin Benny]] points out that we still don't have Google Analytics access. [[Nathan Acks]] will follow up with [[Tom Critchlow]].
+        - Worst-case scenario, we just call old data a loss and spin up a new account.
+    - Long-term, move some IFTTT automation into GitHub using Actionflow
+        - https://github.com/actionsflow/actionsflow
+        - [[Maier Fenster]] points out that this doesn't roll in the Google Calendar to [[Discord]] connector currently powered by [[Zapier]]
+            - Best idea seems to be to use the server Maier's built the `yak_scraper` bot on
+            - We'll need [[Venkatesh Rao]] to add a new A record pointing to this server. Maybe hook it into `robot.yakcollective.org`?

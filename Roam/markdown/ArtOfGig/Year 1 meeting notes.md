@@ -24,7 +24,7 @@
                 - basic rover design has been changing
             - [[Anuraj R]]
                 - sojourner and missions, rocker bogie, low budget
-                - "Anuraj's reaction launch considerations on nuclear powered rover"
+                - Anuraj's reaction launch considerations on nuclear powered rover
                 - Mission cost for the high because of margin of error
             - [[Victor Hill]]
                 - Communications with satellites more realiable, communications with has a lot of lag
@@ -38,7 +38,7 @@
             - [[Eric Platon]]
                 - Communication also has big power budget
                 - A YakSat? for communication?
-                - "Eric - curiosity has plutonium"
+                - Eric - curiosity has plutonium
                 - Rover is actually a platform. Perseverance looks similar and blue print is same as Curiosity
                 - Programming language called PLEXIL - from around 2006, first deployed in Curiosity
                 - The framing of mission is pretty narrow, that's why it is important to make a platform
@@ -61,15 +61,15 @@
                 - If there are frequent launches then various combination of rovers are possible
                 - Elon's tweet on how to make fuel on Mars. 
 - [[February 2nd, 2021]]
-    - "#[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). "
+    - #[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). 
 - [[February 8th, 2021]]
-    - "#[[Year 1 meeting notes]] Regular Yak Rover group meeting No:3 (10 PM Pacific, morning in Europe, afternoon in Japan)."
+    - #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:3 (10 PM Pacific, morning in Europe, afternoon in Japan).
 - [[February 16th, 2021]]
-    - "#[[Year 1 meeting notes]] Regular Yak Rover group meeting No:4 (10 PM Pacific, morning in Europe, afternoon in Japan)."
+    - #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:4 (10 PM Pacific, morning in Europe, afternoon in Japan).
 - [[February 23rd, 2021]]
     - #[[Year 1 meeting notes]] Victor session on [[Jupyter and ROS]]
 - [[March 1st, 2021]]
-    - "Notes from [[Jascha Wilcox]] special session on motors"
+    - Notes from [[Jascha Wilcox]] special session on motors
 - [[March 8th, 2021]] led by [[Maier Fenster]]
     - [[rover simulation]] discussion
     - [[some possible rover missions]]

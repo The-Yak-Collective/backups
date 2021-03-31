@@ -21,11 +21,21 @@ __Area 2: Developing a proper marketing capability around our assets and members
     - [[Venkatesh Rao]] is interested in creating a “Hire Us” brochure page for the website and trying a short fishing expedition with it in October/November  
     - previous discussions
         - [[Yak Branding Principles Proposal]]
-            - {{embed: ((d99rmaMjn))}}
-            - {{embed: ((3Tsd4wWqP))}}
-            - "YakC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__"
-        - "[[Alex Wagner]]The hard work of [[positioning]] YakC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides."
-        - "[[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to [[branding]] and [[positioning]]."
+            - Yak should define itself not only through it's projects, __but through it's beefs__.
+                - How best to inhabit the "trickster-consultant" persona?
+                - A "provocation-centric"
+            - The brainpower of Yak is currently massively underutilized, and under marketed.
+                - Eventually, the market and clients will wake up to the unique quantity that is Yak Collective
+                    - We are not currently uniquely positioned.
+                        - This is on purpose.
+                        - The choice was made to focus on a project-first/inbound approach to growth/marketing/sales. This is a central component to the culture of YC: the stuff that we ship needs to be interesting, and it needs to be of a certain quality.
+                        - It's my belief that this is mainly because we haven't yet put effort into broadcasting what the Yak Collective has done, is capable of, and what it offers.
+                        - Yak's work speaks for itself, but we can accelerate luck and client acquisition with a tasteful and measured approach. 
+                        - We can be proactive, and attract new projects by using one-to-one outreach, our newsletter, the Yak Twitter, and other outbound channels. 
+                            - A preexisting example: [[25 pieces launch email talking points]]
+            - YakC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__
+        - [[Alex Wagner]]The hard work of [[positioning]] YakC will be working through each of these five categories and creating the appropriate messaging from how we define ideal customer segments, Yak's market category, alternatives to Yak, Yak's unique attributes, and, maybe most interestingly, the value Yak provides.
+        - [[Alex Wagner]] I remember Venkat saying this a few weeks back, that an aspect of YC is that it's centered around an implied sense of taste, and aesthetics. The context here was originally about the dilemma of open source orgs needing a BDFL to operate but I believe it applies equally to [[branding]] and [[positioning]].
         - 
         - 
 - # Objective
@@ -56,7 +66,7 @@ how do we launch showcase projects to maximize target visibility and engagement
     - [[Marketing Channels]]
 where and how do we communicate and engage with the target audience
     - [[Marketing Resources]]
-artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") 
+artifacts that we need or have that will be the base of our communication - what and how to build them (inc. Prospectus ) 
     - 
 - ### Random Notes
     - to be edit/comment/upgraded to the main doc
@@ -82,7 +92,7 @@ artifacts that we need or have that will be the base of our communication - what
                 - Processes
         - What is the Scope?
             - Clients - attract and engage potential clients
-                - "Client - an executive, a person - we don't engage with companies we engage with individuals, people, executives"
+                - Client - an executive, a person - we don't engage with companies we engage with individuals, people, executives
             - Yaks - attract and engage new Yaks
                 - not a primary scope
                 - may overlap with internal comms/coordination
@@ -163,5 +173,6 @@ Yaks competing for attention
 - ### Previous resources in Roam
     - [[Yak Collective Messaging Principles]]
     - [[Yak Branding Principles Proposal]]
-    - {{embed: ((3v5fGASRG))}}
+    - **About The Yak Collective**: 
+        - The Yak Collective is a network of independent consultants who all have their own consulting practices, but also work together on larger projects. If you are intrigued by an idea/framework, feel free to reach out to the relevant contributor directly. The Yak Collective is not an agency or intermediary. We are trying to develop a very different approach of developing and delivering business ideas and intelligence based primarily on effective and fluid collaboration models inspired by the open-source software world. You can learn more about us at our new website, [yakcollective.org](https://yakcollective.org)
     - [[Yak Collective Website]]

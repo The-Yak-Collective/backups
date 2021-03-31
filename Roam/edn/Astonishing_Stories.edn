@@ -19292,7 +19292,6 @@
   [2158 :block/parents 452 536880885]
   [2158 :block/parents 1747 536880885]
   [2158 :block/parents 2145 536880917]
-  [2158 :block/parents 2160 536880993]
   [2158
    :block/string
    "2020 -- most of the pieces are already here, they're just unevenly distributed and patchwork"
@@ -19309,7 +19308,6 @@
   [2159 :block/parents 1747 536880885]
   [2159 :block/parents 2145 536880917]
   [2159 :block/parents 2158 536880885]
-  [2159 :block/parents 2160 536880993]
   [2159 :block/string "" 536878330]
   [2159 :block/uid "OJiZjW5Gd" 536878330]
   [2159 :edit/seen-by 2084 536878585]
@@ -19366,7 +19364,6 @@
   [2164 :block/parents 452 536880885]
   [2164 :block/parents 1747 536880885]
   [2164 :block/parents 2145 536880926]
-  [2164 :block/parents 2148 536880993]
   [2164
    :block/string
    "Hygiene is a very high order value, motivating the envelope's barriers to entering"
@@ -19399,7 +19396,6 @@
   [2166 :block/parents 452 536880885]
   [2166 :block/parents 1747 536880885]
   [2166 :block/parents 2148 536880929]
-  [2166 :block/parents 2165 536880993]
   [2166
    :block/string
    "Productive knowledge miners, who enjoy super-optimizing their workflow"
@@ -23611,12 +23607,12 @@
   [2671 :version/id "0.7.7" 536880885]
   [2671
    :version/nonce
-   "uuidd211c2aa-dbb9-4949-9b5f-4c5c4e8c0b8a"
-   536880953]
+   "uuid2fd19cee-acff-409f-9e4f-ef2331af3662"
+   536881185]
   [2671
    :version/upgraded-nonce
-   "uuidd211c2aa-dbb9-4949-9b5f-4c5c4e8c0b8a"
-   536880985]
+   "uuid2fd19cee-acff-409f-9e4f-ef2331af3662"
+   536881186]
   [2672 :block/uid "12-17-2020" 536880887]
   [2672 :create/time 1608235572998 536880887]
   [2672 :create/user 1 536880984]
@@ -23949,8 +23945,8 @@
    536881172]
   [2718
    :version/upgraded-nonce
-   "uuid10c914eb-4230-447f-93f0-0b75e42c231b"
-   536881073]
+   "uuidd98aec73-915b-4cf8-832f-2a338a36b2e3"
+   536881186]
   [2719 :block/uid "02-03-2021" 536880989]
   [2719 :create/time 1612379183392 536880996]
   [2719 :create/user 1 536880996]
@@ -24077,8 +24073,8 @@
    536881079]
   [2738
    :version/upgraded-nonce
-   "uuid616cf36d-c5e5-4853-a9c3-6cb33e8a1399"
-   536881073]
+   "uuid5f5e8c8b-46cc-4d52-9a1f-d724b56e1101"
+   536881186]
   [2739 :block/uid "02-20-2021" 536881021]
   [2739 :create/time 1613814441761 536881021]
   [2739 :create/user 2367 536881021]
@@ -24298,6 +24294,10 @@
    :version/nonce
    "uuidabe7711b-81e1-4387-ae88-09fead014383"
    536881175]
+  [2766
+   :version/upgraded-nonce
+   "uuidabe7711b-81e1-4387-ae88-09fead014383"
+   536881186]
   [2767 :block/uid "03-12-2021" 536881081]
   [2767 :create/time 1615542617205 536881081]
   [2767 :create/user 2367 536881081]
@@ -24378,8 +24378,12 @@
   [2781 :version/id "0.8.4" 536881176]
   [2781
    :version/nonce
+   "uuidbc403e15-6a44-4155-a679-827d3d58682c"
+   536881187]
+  [2781
+   :version/upgraded-nonce
    "uuid3c415d99-b4ef-470a-ac7d-a8b06eefa8e3"
-   536881184]
+   536881186]
   [2782 :block/uid "03-23-2021" 536881177]
   [2782 :create/time 1616493097496 536881177]
   [2782 :create/user 2367 536881177]
@@ -24435,4 +24439,11 @@
   [2789 :edit/time 1617097973389 536881184]
   [2789 :edit/user 2367 536881184]
   [2789 :log/id 1617097973388 536881184]
-  [2789 :node/title "March 30th, 2021" 536881184]]}
+  [2789 :node/title "March 30th, 2021" 536881184]
+  [2790 :block/uid "03-31-2021" 536881187]
+  [2790 :create/time 1617184362594 536881187]
+  [2790 :create/user 2367 536881187]
+  [2790 :edit/time 1617184362594 536881187]
+  [2790 :edit/user 2367 536881187]
+  [2790 :log/id 1617184362593 536881187]
+  [2790 :node/title "March 31st, 2021" 536881187]]}

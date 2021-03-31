@@ -51,8 +51,24 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Member Feeds
     - Posts in `writings/_posts` and `newsletter/_posts` are auto-pushed from member RSS feeds using [[IFTTT]] to a [Netlify Functions](https://functions.netlify.com/) hook.
     - Current feeds:
-        - {{[[embed]]: ((RLF445t5m))}}
-        - {{[[embed]]: ((URd0ZDDRF))}}
+        - Member RSS Feeds
+            - [[Anne-Laure Le Cunff]]: https://nesslabs.com/author/annelaure/feed
+            - [[Ben Mosior]]: https://hiredthought.com/feed/
+            - [[Benjamin P Taylor - London]]: https://medium.com/feed/@antlerboy
+            - [[Benton Heimsath]]: https://www.bentonheimsath.com/writing?format=rss
+            - [[David McDougall]]: https://innovationatscale.substack.com/feed/
+            - [[Pamela Hobart]]: https://www.pamelajhobart.com/blog?format=rss
+            - [[Paul Millerd]]: https://think-boundless.com/feed/
+            - [[Randy Lubin]]: https://blog.randylubin.com/feed.xml
+            - [[Shreeda Segan]]: https://shreeda.substack.com/feed/
+            - [[Toby Shorin]]: https://subpixel.space/feed.xml
+            - [[Tom Critchlow]]: https://tomcritchlow.com/feed
+            - [[Vaughn Tan]]: https://uncertaintymindset.substack.com/feed/
+            - [[Venkatesh Rao]]: https://breakingsmart.substack.com/feed/
+            - [[Vinay Débrou]]: https://vinaydebrou.com/feed.xml
+        - [[Substack]]
+            - Chief Page Wrangler:: [[Matthew Sweet]]
+            - RSS feed: https://yakcollective.substack.com/feed/
     - To add or update a member feed, please [open a ticket](https://github.com/The-Yak-Collective/yakcollective/issues/new).
     - Relevant infrastructure bits:
         - `packages.json`

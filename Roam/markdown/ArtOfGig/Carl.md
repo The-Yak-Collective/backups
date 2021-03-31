@@ -7,6 +7,9 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Purpose
     - welcome_bot
         - Greets new [[Discord]] users and informs them of the minimal participation bar.
-        - {{[[embed]]: ((hXkWRxrzr))}}
+        - Minimal participation bar:
+            - Change server display name to given/chosen name
+            - Add time zone to server display name (helps with coordination)
+            - Post a short introduction to `introductions`
     - yakyak
         - Automatically culls users who have not posted in `introductions` within their first week.

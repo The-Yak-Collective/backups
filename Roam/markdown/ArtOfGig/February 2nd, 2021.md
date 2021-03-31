@@ -29,9 +29,9 @@
             - simplest possible mission point A to point B
             - everything else fail, what is still possible,
             - when power is low, rover becomes communications outpost
-            - "minimal stuff is communications systems" animals are design in that way
+            - minimal stuff is communications systems animals are design in that way
             - weather balloons were minimum or wind powered rover - https://www.youtube.com/watch?v=Pj-NqWDH2qE
-            - "satellite coverage? " satellites takes images of rover
+            - satellite coverage?  satellites takes images of rover
             - what might a 2032 rover might look like? 
         - [[Maier Fenster]]
             - Science Instruments - lots of chemical instruments
@@ -39,7 +39,7 @@
             - #[[Venkatesh Rao]] - current thermal system is because  of operating range of temp on mars
             - book - thermal warriors talks about bugs, bumble bees, fly and stop operation, wasp liquid flow [Amazon Link](https://www.amazon.com/Thermal-Warriors-Strategies-Insect-Survival/dp/0674883403/)
             - electronics should have own heating system
-            - "What is the minimum viable rover? " 
+            - What is the minimum viable rover?  
             - tumble weed, wind is moving, very little communication, very little dynamic movement, banging into rocks 
             - radar imagery  - https://newatlas.com/space/planetary-radar-moon-images/
             - super minimalist rover - vortex of wind

@@ -118,7 +118,7 @@ https://twitter.com/grigorimilov/status/1313928927900037120?s=20
             - question - how we relate personal vs. YakC branding in marketing activities, to make sure it can be separated and have synergy
         - [[Maier Fenster]] YakC resources as a marketing tool
             - library examples of frameworks/case-studies/proposals
-            - HM - is this connected to networked content -  "Content Aggregator/Network - YakC Content Network (YCCN)"
+            - HM - is this connected to networked content -  Content Aggregator/Network - YakC Content Network (YCCN)
             - YakMap - expose the YakMap to external
         - [[Maier Fenster]]time permitting - onboarding vs. daily life
             - we are putting significant effort into onboarding new yaks. the existing yaks, however, are a significant 'resource" and we should be thinking about how we make their touchpoints with the yak collective more valuable and perhaps more frequent as well. there are all sorts of activities such as yak-map, to encourage connect, and job-board (in zombie state) to help find work. but i think there should be some overall direction here. and, of course, this is used to market the advantages of being in yakc, to yaks.

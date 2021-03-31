@@ -20,18 +20,18 @@
         - What's the CMO function
         - Priorities
             - Important vs. Urgent
-                - Important - "[[Foundations - Positioning]]
-all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning"
-                - Urgent - "[[Showcase Projects Launch]]
-how do we launch showcase projects to maximize target visibility and engagement"
+                - Important - [[Foundations - Positioning]]
+all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning
+                - Urgent - [[Showcase Projects Launch]]
+how do we launch showcase projects to maximize target visibility and engagement
                 - other 
-                    - "[[Marketing Channels]]
-where and how do we communicate and engage with the target audience"
-                    - "[[Marketing Resources]]
-artifacts that we need or have that will be the base of our communication - what and how to build them (inc. "Prospectus ") "
+                    - [[Marketing Channels]]
+where and how do we communicate and engage with the target audience
+                    - [[Marketing Resources]]
+artifacts that we need or have that will be the base of our communication - what and how to build them (inc. Prospectus ) 
     - ### Minutes
         - [[Hugo Macedo]] 
-            - "What's the CMO function" - pragmatic aproach on identifing the needs and grow from there...
+            - What's the CMO function - pragmatic aproach on identifing the needs and grow from there...
             - internal vs external marketing - how to create a virtuous cycle  
             - Focus on fundamentals:
                 - clarifying how we position ourselves
@@ -81,8 +81,8 @@ But what are the fundamentals in our very unusual case? [[Grigori Milov]]
             - [[Foundations - Positioning]]
     - ### Next Steps:
         - Newsletter - there's a call [[September 30th, 2020]] about status and next steps - we'll go from there
-        - "{{[[TODO]]}} book a some time to go over AS launch plan" [[Hugo Macedo]] [[Sachin Benny]]
+        - {{[[TODO]]}} book a some time to go over AS launch plan [[Hugo Macedo]] [[Sachin Benny]]
         - {{[[TODO]]}} book weekly call [[Hugo Macedo]] 
         - {{[[TODO]]}} Share initial Workstreams [[Hugo Macedo]] 
-        - "{{[[TODO]]}} check [[Movement Marketing: 4 Strategies For Sparking A Brand Movement]]" - homework - you can leave comments on the bottom page [page](((hzY3KSaDj)))
+        - {{[[TODO]]}} check [[Movement Marketing: 4 Strategies For Sparking A Brand Movement]] - homework - you can leave comments on the bottom page [page](((hzY3KSaDj)))
         - 

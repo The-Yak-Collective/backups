@@ -38,13 +38,13 @@
 - [[Tracy Brinkerhoff]]
 - [[Vajresh Balaji]]
 - [[Yoni Balkind]]
-    - "Bio"
-        - "Lawyer gone digital. "
-        - "Founded a leading South African law portal golegal.co.za"
-        - "Have had a side gig or two, currently in corporate, charting a path to independence. "
-        - "Areas of interest include, Agile and lean startup methodology, process optimisation through cloud apps together with integration and automation tools, product management, content marketing, future of work, learning theory, constraints theory and complexity theory. "
-        - "https://twitter.com/yonibee"
-        - "ybalkind@gmail.com"
+    - Bio
+        - Lawyer gone digital. 
+        - Founded a leading South African law portal golegal.co.za
+        - Have had a side gig or two, currently in corporate, charting a path to independence. 
+        - Areas of interest include, Agile and lean startup methodology, process optimisation through cloud apps together with integration and automation tools, product management, content marketing, future of work, learning theory, constraints theory and complexity theory. 
+        - https://twitter.com/yonibee
+        - ybalkind@gmail.com
 - [Giacomo Balli](http://giacomoballi.com?utm_campaign=roamresearch)
     - Giacomo Balli is a **mobile strategy consultant** who helps business owners transition their business to mobile. Unlike other mobile strategy consultants, clients work directly with Giacomo and not a group of junior employees who are learning on the job.
 - [[Nita Baum]]
@@ -72,21 +72,21 @@
     - Evan loves to develop anti-fragile leaders and teams through deep introspection, honesty, and communication skills. When teams are able really practice a growth mindset, challenges and setbacks become opportunities for learning, opportunities for individual and team growth, and overall more engaging and meaningful work.  
     - Email: evan.carmi <@> gmail.com
 - [[Tim Casasola]]
-    - "I’m an [[organizational development]] consultant turned [[product manager]]."
-    - "[timcasasola.com](http://www.timcasasola.com/)"
-    - "[twitter.com/timcasasola](https://twitter.com/timcasasola)"
+    - I’m an [[organizational development]] consultant turned [[product manager]].
+    - [timcasasola.com](http://www.timcasasola.com/)
+    - [twitter.com/timcasasola](https://twitter.com/timcasasola)
 - [[Rick Cerf]]
-    - "Product Manager: digital health and consumer software & hardware, "
-        - "consumer privacy"
-        - "machine learning"
-        - "ranking and search"
-        - "user interface design"
-        - "data platform"
+    - Product Manager: digital health and consumer software & hardware, 
+        - consumer privacy
+        - machine learning
+        - ranking and search
+        - user interface design
+        - data platform
         - ((QwLTzHgCQ))
-    - "Past ad seller: Twitter"
-    - "Attempted startup founder: concept was variable pricing for restaurants through discounting "
-    - "Evolved investment consultant: analyzed money managers for institutional investors"
-    - "Student of life and systems: studied religion in school as means of understanding societal decision making and organization"
+    - Past ad seller: Twitter
+    - Attempted startup founder: concept was variable pricing for restaurants through discounting 
+    - Evolved investment consultant: analyzed money managers for institutional investors
+    - Student of life and systems: studied religion in school as means of understanding societal decision making and organization
 - [[Luke Chadwick]]
     - Digital nomad. Entrepreneur and product-focused developer working on Twirrl. Twirrl is an app that allows users to create 360° spins of products. 
     - I do consulting across a range of areas to support building my startup. Including AR/VR, Lean/Agile & Innovation.
@@ -105,20 +105,20 @@
 - [[James Crook]]
     - {{embed: ((((iMgbK7ojW))))}}
 - [[Tom Critchlow]]
-    - "I'm an independent strategy consultant, been out on my own since 2014. I'm often working embedded inside media and content businesses to build new capabilities. Based in Brooklyn, NY. I blog regularly at [tomcritchlow.com](https://tomcritchlow.com) & I'm writing a book for independent consultants called [[The Strategic Independent]]"
-    - "Twitter: [@tomcritchlow](https://twitter.com/tomcritchlow)"
+    - I'm an independent strategy consultant, been out on my own since 2014. I'm often working embedded inside media and content businesses to build new capabilities. Based in Brooklyn, NY. I blog regularly at [tomcritchlow.com](https://tomcritchlow.com) & I'm writing a book for independent consultants called [[The Strategic Independent]]
+    - Twitter: [@tomcritchlow](https://twitter.com/tomcritchlow)
 - [[Kevin Cunningham]]
     - On-time secondary Math educator and school leader, now full-stack dev and small agency owner working with SMBs to develop prototypes at speed. I'm fascinated by learning and code - in digital gardens, user experiences and the leveraging of tech for good. Found at https://kevincunningham.co.uk and @dolearning on Twitter.
 - [[Massimo Curatella]]
-    - "Hi, I’m Massimo Curatella and I am a Senior Experience Designer, a Facilitator, a Trainer, and an Educator. I work as a Senior Strategic Designer in the fields of Service Design, UX Design, Interaction Design, User Research, User Interface Design, Usability Testing and managing small remote groups of designers and developers.
-I write about design, education, training, facilitation, Systems Thinking, and Technology on https://curatella.com"
+    - Hi, I’m Massimo Curatella and I am a Senior Experience Designer, a Facilitator, a Trainer, and an Educator. I work as a Senior Strategic Designer in the fields of Service Design, UX Design, Interaction Design, User Research, User Interface Design, Usability Testing and managing small remote groups of designers and developers.
+I write about design, education, training, facilitation, Systems Thinking, and Technology on https://curatella.com
 - [[Vinay Débrou]]
 - [[Roberto Delgado]]
     - Web developer (Lambda School student, WEBPT11). Indy consultant primarily for non-profits. Wordpress, Chatfuel, React. 
     - Twitter: [@roskideluge](https://twitter.com/roskideluge) 
     - Urbit: ~nachus-hollyn
 - [[Nikhil Deshmukh]]
-    - "I've been a freelance data science and machine learning consultant for over 2 years now. I help reconcile open-ended R&D (infinite game) with product development lifecycles (finite game), get ego-driven ICs to work together, curate and label data at scale, and prototype software using deep learning for speech recognition, computer vision, weather prediction, chatbots, and search."
+    - I've been a freelance data science and machine learning consultant for over 2 years now. I help reconcile open-ended R&D (infinite game) with product development lifecycles (finite game), get ego-driven ICs to work together, curate and label data at scale, and prototype software using deep learning for speech recognition, computer vision, weather prediction, chatbots, and search.
 - [[Alex Dobrenko]]
     - Filmmaker / [[Writer]] / Editor of Words and Moving Pictures based in Los Angeles, CA 
     - Created [[Distance]], a digital series about a couple in a long distance relationship - may be a nice respite from the madness in these socially distant times. [Link to full season here](www.distancetheseries.com). 
@@ -158,28 +158,28 @@ I write about design, education, training, facilitation, Systems Thinking, and T
     - Have skills in/am interested in: working with data, building no-code tools (internal tools and prototypes for start-ups), writing, fluent in English and Spanish, personal finance, and web development.
     - Twitter: [@carlosenprosa](https//www.twitter.com/carlosenprosa)
 - [[Khalil G. Haddad]]
-    - "**About Me:** "
-        - "You can think of me as an investigative reporter navigating the multiverse of emerging futures 🔮. My specialty is building innovation and venture building models. I am based in Montreal, Canada and work in a startup incubator in emerging tech, helping STEM researchers and multidisciplinary teams take the leap into entrepreneurship. "
-        - "**Skills**: [[Innovation]] & [[Venture Building]]; [[Marketing]] & [[Communications]]; [[Writing]]; [[Product Marketing]]; [[Project Management]]. "
-        - "[@Khalilghaddad](https://twitter.com/Khalilghaddad) | [World Creation Society](https://worldcreation.substack.com/)"
-        - "[World Creation Society](https://worldcreation.substack.com/): antidisciplinary insights on technology, innovation, society, and emerging futures."
+    - **About Me:** 
+        - You can think of me as an investigative reporter navigating the multiverse of emerging futures 🔮. My specialty is building innovation and venture building models. I am based in Montreal, Canada and work in a startup incubator in emerging tech, helping STEM researchers and multidisciplinary teams take the leap into entrepreneurship. 
+        - **Skills**: [[Innovation]] & [[Venture Building]]; [[Marketing]] & [[Communications]]; [[Writing]]; [[Product Marketing]]; [[Project Management]]. 
+        - [@Khalilghaddad](https://twitter.com/Khalilghaddad) | [World Creation Society](https://worldcreation.substack.com/)
+        - [World Creation Society](https://worldcreation.substack.com/): antidisciplinary insights on technology, innovation, society, and emerging futures.
 - [[Rob Haisfield]]
-    - "I'm [[Rob Haisfield]], CEO of [[behavior design]] and [[gamification]] consultancy [[Influence Insights]] and behavioral product strategist at a [[startup studio]] called [[Spark Wave]], where I do the same thing as I do with my consulting except for portfolio companies.  Generally speaking, this means that I read a lot of behavioral science papers, I play a lot of video games, and I think about how the principles of each apply to the way that apps function.  This is all with the aim of enabling users to better accomplish their goals."
-    - "I hope to combine my expertise in behavioral science and gamification to help users improve their lives through products. Your users hire you to help them achieve some goal, but loving your product is a result of your teamwork with the user.[++]([[The role of the user and the role of the app]]) Both players need to play."
-    - "Contact:"
-        - "[Twitter](https://twitter.com/RobertHaisfield)"
-        - "[LinkedIn](https://www.linkedin.com/in/robhaisfield/)"
-        - "[Website](https://www.influenceinsights.io/)"
-        - "[Public Roam](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z)"
+    - I'm [[Rob Haisfield]], CEO of [[behavior design]] and [[gamification]] consultancy [[Influence Insights]] and behavioral product strategist at a [[startup studio]] called [[Spark Wave]], where I do the same thing as I do with my consulting except for portfolio companies.  Generally speaking, this means that I read a lot of behavioral science papers, I play a lot of video games, and I think about how the principles of each apply to the way that apps function.  This is all with the aim of enabling users to better accomplish their goals.
+    - I hope to combine my expertise in behavioral science and gamification to help users improve their lives through products. Your users hire you to help them achieve some goal, but loving your product is a result of your teamwork with the user.[++]([[The role of the user and the role of the app]]) Both players need to play.
+    - Contact:
+        - [Twitter](https://twitter.com/RobertHaisfield)
+        - [LinkedIn](https://www.linkedin.com/in/robhaisfield/)
+        - [Website](https://www.influenceinsights.io/)
+        - [Public Roam](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z)
 - [[Amir Hajizamani]]
-    - "Profile:"
-        - "Location:: London, UK"
-        - "Future:: Aspiring Indie Gigger, [[Writer]], Systems Designer"
-        - "Current:: Product Manager, Tech for Good, Systems Thinker"
-        - "Past:: Software Engineer, Start-ups, Big Tech"
-        - "Aside:: Comedy nerd, mimetic mediator"
-        - "Twitter:: [@amirhhz](https://twitter.com/amirhhz)"
-        - "LinkedIn:: https://www.linkedin.com/in/amirhhz/"
+    - Profile:
+        - Location:: London, UK
+        - Future:: Aspiring Indie Gigger, [[Writer]], Systems Designer
+        - Current:: Product Manager, Tech for Good, Systems Thinker
+        - Past:: Software Engineer, Start-ups, Big Tech
+        - Aside:: Comedy nerd, mimetic mediator
+        - Twitter:: [@amirhhz](https://twitter.com/amirhhz)
+        - LinkedIn:: https://www.linkedin.com/in/amirhhz/
 - [[Alec Hanefeld]]
     - software designer & implementer
     - data wrangler, gatherer & visualizer
@@ -190,42 +190,65 @@ I write about design, education, training, facilitation, Systems Thinking, and T
     - Currently mix of independent advisory + PT essential worker + creating a collective for time experts. Former [@c4edge](https://twitter.com/c4edge) 
     - Seeking: Collaborators to make $$
 - [[Chris Harris]]
-    - "Mostly open source."
-    - "Indie strategic [[Software Development]] - Consulting in technical innovation shaped by a focus on product, people and communication."
-    - "Around the internet on [harrischris.com](https://harrischris.com) [@hellokozmo](https://twitter.com/@hellokozmo) [@cdharris](https://github.com/cdharris)"
-    - "Seeking: Co-consipirators on regenerative invention, media, grant [[Writer]]s, and designers."
+    - Mostly open source.
+    - Indie strategic [[Software Development]] - Consulting in technical innovation shaped by a focus on product, people and communication.
+    - Around the internet on [harrischris.com](https://harrischris.com) [@hellokozmo](https://twitter.com/@hellokozmo) [@cdharris](https://github.com/cdharris)
+    - Seeking: Co-consipirators on regenerative invention, media, grant [[Writer]]s, and designers.
 - [[dre harris (aka doulos dre)]]
 - [[Ryan Harter (harter)]]
-    - {{embed: ((((NR62_fqsq))))}}
+    - Looking to diversify and build value outside of my 9-5. Currently working as a principal data scientist in open source. Writing at [blog.harterrt.com](blog.harterrt.com).
 - [[Ric Hayman]]
 - [[Erica Heinz]]
     - I'm an independent product/UX designer and strategist, consulting in NYC since 2002. Currently based in Brooklyn, writing [a book on UX](https://ericaheinz.com/ux-book)
     - 🌐 [ericaheinz.com](https://ericaheinz.com) • 🐦 [@ericaheinz](https://twitter.com/ericaheinz)
 - [[Johnicholas Hines]]
-    - {{embed: ((((OjgenRHSm))))}}
+    - Programmer
+        - [@johnicholas on Twitter](https://twitter.com/Johnicholas)
+        - [www.johnicholas.com](http://www.johnicholas.com)
 - [[Pamela Hobart]]
-    - "I'm a philosopher & philosophical life coach (est. 2019) in NYC. 
+    - I'm a philosopher & philosophical life coach (est. 2019) in NYC. 
 
 Before that, I dropped out of a PhD program in philosophy & education and worked as a non-technical person in tech. 
 
-"
+
     - [pamelajhobart.com](https://www.pamelajhobart.com/)
     - Twitter: [@amelapay](https://twitter.com/amelapay)
 - [[Morgan Holland]]
-    - {{embed: ((9k5hm79D2))}}
+    - [[Product Manager]] at [[Lyft]], former consultant/investor (private equity + seed), long-time personal knowledge management [[PKM]] hacker. Previously lived in SF + Boston + Sydney + Buenos Aires + Thailand, now in [[Vermont]]
 - [[Thomas Hollands]]
 - [[Thomas Hollands]]
     - Twitter [@tdoggyholhol](https://twitter.com/tdoggyholhol)
 - [[David Howell]]
-    - "Aspirational free-agent, currently full-time employed as a lead engineer at a SaaS observability provider."
-    - "Website: https://www.howell.io/"
-    - "Twitter: [@dehowell](http://twitter.com/dehowell)"
+    - Aspirational free-agent, currently full-time employed as a lead engineer at a SaaS observability provider.
+    - Website: https://www.howell.io/
+    - Twitter: [@dehowell](http://twitter.com/dehowell)
 - [[Shakir Hussain]]
 - [[David Ing]]
-    - {{embed: ((C561qT2If))}}
+    - Known mostly as (i) former president of the International Society for the Systems Sciences (2011-2012), active in [[systems thinking]] particularly around [[Toronto]], [[Canada]]; or (ii) [[IBM]] alumnus of 28 years with assignments in management consulting, market development, industry solutions and headquarter planning.  Most recently adjunct faculty at [[OCADU]] and [[University of Toronto]].
+        - Social Media:
+            - Twitter:  [@daviding](https://twitter.com/daviding)
+            - Linkedin:  https://linkedin.com/in/daviding
+            - Mastodon:  https://qoto.org/@daviding 
+        - Projects
+            - [Systems Changes Learning Circle](http://systemschanges.com/online) (since 2019, in [[Toronto]] )
+            - [Open Learning Commons](http://openlearning.cc/base/) since 2019, with [[Robert Best]]
+                - Presentation at annual meeting of the International Society for the Systems Sciences 2019, on a federated [[wiki]] site at http://isss2019.daviding.wiki.diglife.coop 
+                - Discussion under [[Creative Commons]] licensing at https://discuss.openlearning.cc 
+            - [Open Innovation Learning](http://openinnovationlearning.com/online/) (book published 2017-2018) that might be read as Open [[Innovation]] Learning, [[Open Innovation]] Learning, or Open [[Innovation Learning]]
+            - [Systems Community of Inquiry](https://stream.syscoi.com/) in partnership with [[Benjamin P Taylor - London]]
+            - [Systems Thinking Ontario](https://wiki.st-on.org/) since 2012
+        - Blogs:
+            - [Coevolving Innovations](http://coevolving.com/blogs/) (in Business Organizations and Information Technologies )
+                - Publications on the [Coevolving Commons](http://coevolving.com/commons/publications)
+            - [Distractions, reflections](http://daviding.com/blog/) ... David Ing, at large (a monthly photoblog collection)
+        - Skills:
+            - [[management consulting]]
+            - [[market development]]
+            - enterprise scale [[information technology]] as well as [[website]] as a [[systems architect]]
+            - [[data science]]
 - [[Richard Hughes-Jones]]
 - [[David Jiang]]
-    - "UI/UX Web developer with 7+ years of experience. HMTL/CSS/JS, Typescript, React, Vue, Angular, etc.."
+    - UI/UX Web developer with 7+ years of experience. HMTL/CSS/JS, Typescript, React, Vue, Angular, etc..
 - [[Beka Johnson]]
     - Marketing director, entrepreneur, writer
         - Inbound, content marketing, copywriting, marketing strategy
@@ -240,7 +263,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
     - Web: [Unleash Your Leadership](https://www.unleash-your-leadership.com)
     - Twitter: [@NKoachIN](https://twitter.com/NKoachIN) 
 - [[Mihir Kedia]]
-    - {{embed: ((((KtuI504ya))))}}
+    - I’m an indie product engineer: I started at Facebook for a few years and moved into consulting / freelancing. I’ve contracted at larger companies (Dropbox, Stripe) and startups, building user-facing apps and internal tools. There’s also an informal consulting angle that usually shows up in my gigs of helping employees be better and more leveraged at what they do (e.g. pushing for a better knowledge management tool, or talking about process.)
 - [[Adam Khan]]
     - Web developer/designer with an editorial background and an interest in process http://engaging.net 
 - [[Darren Kong]]
@@ -293,7 +316,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
     - Linkedin: https://www.linkedin.com/in/murilo-loureiro-b4b182/
 - [[Randy Lubin]]
 - [[Hugo Macedo]] 
-    - "Wanna be independent professional w/ 20y experienced in corporate/consulting/start-up, Marketing, System Thinking, Leadership, Innovation/Tech - currently VP Community/Crowd at Series C Tech startup"
+    - Wanna be independent professional w/ 20y experienced in corporate/consulting/start-up, Marketing, System Thinking, Leadership, Innovation/Tech - currently VP Community/Crowd at Series C Tech startup
 - [[Ron Marks]]
     - [[Leadership development]], [[organizational development]] field
     - Paycheck + Gig right now ("gig-curious"): day job doing OD at a university; gig is [[executive coaching]] and leadership development program creation
@@ -339,8 +362,8 @@ LinkedIn: https://www.linkedin.com/in/dmcdougall
     - Avid FreeBSD user, now working with RedHat / EL7 derivatives
     - Based in Switzerland, sometimes Estonia
 - [[Juan F Mena]]
-    - "[[Interaction Design]]er. Four and a half years at Disney Parks & Resorts helping creative teams ideate and pitch digital products for the parks' apps (Disneyland, DisneyWorld). I moved to a design strategy role with a focus on prototyping and storytelling."
-    - "Twitter: [@72mena](https://twitter.com/72mena)"
+    - [[Interaction Design]]er. Four and a half years at Disney Parks & Resorts helping creative teams ideate and pitch digital products for the parks' apps (Disneyland, DisneyWorld). I moved to a design strategy role with a focus on prototyping and storytelling.
+    - Twitter: [@72mena](https://twitter.com/72mena)
 - [[Paul Millerd]]
     - Former strategy consultant at the big firms before going solo in 2017.  Have been writing about work, the gig economy & creating online via the [Boundless Newsletter](https://boundless.substack.com/)
     - Also teach people the Strategy Consulting skills on [StrategyU](http://www.strategyu.co) - Would be happy to help gig workers out thinking about consulting problem solving, sensemaking, communication and nitty-gritty stuff like proposals, pricing and so on...
@@ -361,11 +384,13 @@ LinkedIn: https://www.linkedin.com/in/dmcdougall
 - [[Nalini Muppala]]
     - Engineer, embedded systems, firmware, product management, project management, generalist
 - [[Elliot Murphy]]
-    - "DevOps/Security Consultant since 2015 via [KindlyOps.com](https://kindlyops.com). I do AWS security assessments, pentesting, and help growing biotech and fintech companies put cloud automation in place to prepare for SOC 2 audits. Also a polyglot developer, open source enthusiast and entrepreneur, building HR and hiring [[SaaS]] products with a focus on the best candidate experience for remote workforce at [enlist.io](https://enlist.io) and [ChirpyHire.com](https://chirpyhire.com). "
-    - "Former healthcare CTO, tech exec at Ubuntu & MySQL. Interested in group cognition, safety & resilience, and quantitative risk assessment in the style of FAIR."
-    - "Recent hobby/distraction is video production and editing. I live in Portland, Maine, USA and have dreams of doing the Great Loop on a trawler one day. "
+    - DevOps/Security Consultant since 2015 via [KindlyOps.com](https://kindlyops.com). I do AWS security assessments, pentesting, and help growing biotech and fintech companies put cloud automation in place to prepare for SOC 2 audits. Also a polyglot developer, open source enthusiast and entrepreneur, building HR and hiring [[SaaS]] products with a focus on the best candidate experience for remote workforce at [enlist.io](https://enlist.io) and [ChirpyHire.com](https://chirpyhire.com). 
+    - Former healthcare CTO, tech exec at Ubuntu & MySQL. Interested in group cognition, safety & resilience, and quantitative risk assessment in the style of FAIR.
+    - Recent hobby/distraction is video production and editing. I live in Portland, Maine, USA and have dreams of doing the Great Loop on a trawler one day. 
 - [[Agni Murthy]]
-    - {{embed: ((QybDPFjdS))}}
+    - [[Experience Design]], [[strategy]] and [[communications]] consultant for growing tech startups. Currently based in [[California/San Francisco]]. Looking to grow my thinking, improve my consulting skills, and learn from fellow professionals.
+        - I hold a Bachelor's Degree in [[Interaction Design]] and have previous experience with [[Web Design]], [[UI Design]], and [[UX Design]] at startups and design agencies in Mumbai and San Francisco. 
+        - Feel free to connect on my [Linkedin](https://www.linkedin.com/in/agnimurthy), [Twitter](https://www.twitter.com/agnimurthy) or [website](https://www.agnimurthy.com)
 - [[Suwaythan Nahaganeshan]]
     - M.Sc. Mechanical Engineer trying to find out **what holds the world together at its core.**
     - Experienced in working **Operation Research (Gurobi/SCIP), Statistical Analysis and Network Theory.** 
@@ -378,7 +403,7 @@ LinkedIn: https://www.linkedin.com/in/dmcdougall
     - [[Writer]] of the [2100 Newsletter](https://2100.substack.com)
     - Twitter: [@chrneels](https://twitter.com/chrneels). Email: [chris@neels.ca](mailto:chris@neels.ca)
     - 
-- {{embed: ((mSpGNZsJn))}}
+- Hank Nelson
     - Hank Nelson
     - Consultant at small creative consulting firm in Boston, MA.
     - Professional background: 6 years as business systems analyst for financial planning software at large financial firm. Managed global teams and workflow. 
@@ -387,24 +412,24 @@ LinkedIn: https://www.linkedin.com/in/dmcdougall
     - Current personal project: Refining my philosophical identity.
     - Interests: Working with people to uncover and apply their strengths in ways they haven't thought of before.
 - [[Oleksandr Nikitin]]
-    - "Architecture, Prototyping, Reverse Engineering -- in knowledge management, finance, cryptography, distributed computing, and more.
+    - Architecture, Prototyping, Reverse Engineering -- in knowledge management, finance, cryptography, distributed computing, and more.
 
 If you have a technology problem - I can solve it. 
-If it's a people\process\requirements\ui\ux problem, if you're drowning in data or tech debt -- let's shed some light and see what can be done."
-    - "[oleksandr@tvori.info](mailto:oleksandr@tvori.info), tg: [@oleksandr_now](https://t.me/oleksandr_now), often wizzard0"
+If it's a people\process\requirements\ui\ux problem, if you're drowning in data or tech debt -- let's shed some light and see what can be done.
+    - [oleksandr@tvori.info](mailto:oleksandr@tvori.info), tg: [@oleksandr_now](https://t.me/oleksandr_now), often wizzard0
 - [[Meredith Noelle]]
 - [[Conor O'Hollaren]]
     - Freelance [[UX Design]] and Product Strategy, based in Brooklyn, NY. Working with a mix of interaction design agencies and early-stage startups.
     - Site: [dotconor.com](https://www.dotconor.com)
 - [[Chad Owen]]
 - [[Sam Panter]]
-    - "Designer/Programmer/Strategist based in Brooklyn. Working mostly in hemp/cannabis grow tech at the moment, with a background in HR software, fine art, and ecommerce.
+    - Designer/Programmer/Strategist based in Brooklyn. Working mostly in hemp/cannabis grow tech at the moment, with a background in HR software, fine art, and ecommerce.
 
 Always looking to pick up odd web tech or product jobs (coding, design, troubleshooting) to pad my margins :)
 
-hello@sampanter.info"
+hello@sampanter.info
 - [[Jordan Peacock]]
-    - ["Husband, father of four, CEO and cofounder of Becoming Machinic Inc., founder of Sortilege Incorporated."]
+    - [Husband, father of four, CEO and cofounder of Becoming Machinic Inc., founder of Sortilege Incorporated.]
     - Twitter: [@hewhocutsdown](https://twitter.com/hewhocutsdown)
 - [[Martin Perez]]
     - SQL Server Database consultant specializing in building real-time high performance data warehouse integrations.
@@ -437,8 +462,8 @@ hello@sampanter.info"
     - Independent software engineering consultant. Specializes in fractional engineering leadership and innovation initiatives.
     - @prehnRA on Twitter, GitHub, and GitLab. Company at: https://www.mythicinsight.com/
 - [[Sterling Proffer]]
-    - "I spent a decade at VICE designing, launching, and scaling new parts of the company, starting with Motherboard in 2009, then Noisey, VICE's YouTube channels, VICE News, the Growth team, then a Strat[]egy & BD group that included standing up partnerships, an in-house consultancy, a new business incubator, and a business analytics team. "
-    - "In the two years since I left, I've helped a few friends get their companies off the ground and have worked with independent creatives, established companies, and nonprofits on solving cross-functional problems (e.g. fundraising, go-to-market, business model design, operational challenges, partnerships)."
+    - I spent a decade at VICE designing, launching, and scaling new parts of the company, starting with Motherboard in 2009, then Noisey, VICE's YouTube channels, VICE News, the Growth team, then a Strat[]egy & BD group that included standing up partnerships, an in-house consultancy, a new business incubator, and a business analytics team. 
+    - In the two years since I left, I've helped a few friends get their companies off the ground and have worked with independent creatives, established companies, and nonprofits on solving cross-functional problems (e.g. fundraising, go-to-market, business model design, operational challenges, partnerships).
 - [[Edwin Rager]]
     - Curiosity Driven Creative Strategist working in the intersection of brands, business, technology and culture.
     - Past tenures in Google, MediaMonks, Mother & Ogilvy
@@ -450,14 +475,14 @@ hello@sampanter.info"
     - Independent Consultant working on Agritech, Product Management and Storytelling domains. 
     - Twitter:[@venkinesis]() 
 - [[Rahul Ramchandani]]
-    - "Generalist. Currently working on product at an early stage startup. Was at a consulting firm previously. Gig curious."
-    - "[rahulramchandani.com](https://rahulramchandani.com/)"
-    - "I'm most active on Twitter [@Rahul_Ramc](https://twitter.com/Rahul_Ramc) in case you want to reach out!"
+    - Generalist. Currently working on product at an early stage startup. Was at a consulting firm previously. Gig curious.
+    - [rahulramchandani.com](https://rahulramchandani.com/)
+    - I'm most active on Twitter [@Rahul_Ramc](https://twitter.com/Rahul_Ramc) in case you want to reach out!
 - [[Kannen Ramsamy]]
 - [[Venkatesh Rao]]: 
-    - "Free-agent consultant since 2011. [[Writer]] of [[Art of Gig]] newsletter, the [[Ribbonfarm]] blog, and the [[Breaking Smart]] tech+futures commentary podcast newsletter. Often in the market for help with graphic and [[Web Design]], [[Data Analysis]], and simple web-app coding tasks."
+    - Free-agent consultant since 2011. [[Writer]] of [[Art of Gig]] newsletter, the [[Ribbonfarm]] blog, and the [[Breaking Smart]] tech+futures commentary podcast newsletter. Often in the market for help with graphic and [[Web Design]], [[Data Analysis]], and simple web-app coding tasks.
 - [[Micah Redding]]
-    - "Futurist & Transhumanist. I help people understand the big trends in A.I., genetic engineering, and human-machine integration—and how they are impacting the political, economic, and social developments happening right now."
+    - Futurist & Transhumanist. I help people understand the big trends in A.I., genetic engineering, and human-machine integration—and how they are impacting the political, economic, and social developments happening right now.
 - [[Amanda Reeves]]
     - Melbourne-based Futurist / Strategic Foresight practitioner. Primarily offer consulting services to help make the implicit explicit, create shared mental models, and build hope, agency and resilience to navigate through uncertainty. Former life in healthcare redesign & continuous improvement.
 - [[Chris Reid]]
@@ -471,15 +496,15 @@ hello@sampanter.info"
     - https://linkedin.com/in/jeremie-rykner
 - [[Clo S.]]
 - [[Drew Schorno]]
-    - "Website: http://drewschorno.com/"
-    - "Twitter: [@dschorno](https://twitter.com/dschorno)"
-    - "Designer, [[Front-end]] Developer & Creative Technologist: ~10 years experience at startups and small companies (including experience managing remote teams). I designed an album cover for Pitbull once 😎. I've had some success in the "New Media" space: Notably worked on the award-winning interactive documentary "[Welcome to Pine Point](http://pinepoint.nfb.ca/)". Currently working with the National Film Board of Canada to produce an interactive piece about my experience going to clown school, consulting on a few AR projects, and doing a few [[Web Design]] gigs."
+    - Website: http://drewschorno.com/
+    - Twitter: [@dschorno](https://twitter.com/dschorno)
+    - Designer, [[Front-end]] Developer & Creative Technologist: ~10 years experience at startups and small companies (including experience managing remote teams). I designed an album cover for Pitbull once 😎. I've had some success in the "New Media" space: Notably worked on the award-winning interactive documentary "[Welcome to Pine Point](http://pinepoint.nfb.ca/)". Currently working with the National Film Board of Canada to produce an interactive piece about my experience going to clown school, consulting on a few AR projects, and doing a few [[Web Design]] gigs.
 - [[Vik Scoggins]]
 - [[Drew Shiel]]
     - Twitter: [@gothwalk](https://www.twitter.com/gothwalk)
     - Marketer (Google Ads, Analytics, one-person online-marketing-department), Food Historian, Domestic and Agricultural Historian, Ongoing Climate Crisis Thinker.
 - [[Alastair Steward]] 
-    - "Coaching, facilitation, org design, & complexity enthusiast. Advocate for the value—business value and human value—of helping people fulfill their potential."
+    - Coaching, facilitation, org design, & complexity enthusiast. Advocate for the value—business value and human value—of helping people fulfill their potential.
 - [[Damian Stewart]]
     - Twitter: http://twitter.com/damian0815
     - Primarily here to meet other people thinking unusual thoughts. Hopefully, in the process I also learn how to use my brain to make money beyond software.
@@ -505,14 +530,32 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - LinkedIn: https://www.linkedin.com/in/benjamin-smith-b2723a75/
     - I have Methodological Experience in survey design, statistical analysis of survey data, semi-structured interviews, focus group moderation, and thematic analysis.
 - [[Matt Smith]]
-    - {{[[embed]]: ((((xSN6IdjYE))))}}
+    - **Short Bio:** Located in Australia (near Melbourne) but these days I tend to work with clients outside of my country. My background is in instructional design, management consulting, training, change management, communications and management. 
+
+My passion and focus is on learning & development and I'm also very interested in changing how we think about, define and "do" work.
+
+My traditional consulting work has been:
+
+1. Helping Learning & Development (L&D) departments up-skill and develop a org-wide strategy 
+2. helping a business build (or rebuild) an L&D function 
+3. designing L&D projects for large scale change (e.g. digital transformation)
+
+__but__ I am much more interested in using my time now to really push the boundaries of using technology and art to accelerate people's development and growth.
+
+Previously founder/CEO of Pure Learning (a digital learning and consulting company) and have been in consulting for 10 years. 
+        - I'm always interested in meeting smart and interesting people, so please feel free to reach out. Here are my contact details:
+            - email: hello@thisismattsmith.com
+            - Twitter: [@MattSmithTweets](https://twitter.com/MattSmithTweets)
+            - LinkedIn: https://www.linkedin.com/in/thisismattsmith/
+            - Website: www.thisismattsmith.com
+            - Medium: https://medium.com/@thisismattsmith
 - [[James Stuber]]
-    - "paychecked engineer in fusion energy"
-    - "Productivity coach for a tiny number of clients"
-    - "@[uberstuber](https://twitter.com/uberstuber), [https://jamesstuber.com/](jamesstuber.com)"
+    - paychecked engineer in fusion energy
+    - Productivity coach for a tiny number of clients
+    - @[uberstuber](https://twitter.com/uberstuber), [https://jamesstuber.com/](jamesstuber.com)
 - [[Balaji Sundararajan]]
 - [[Sushaantu]]
-    - "I work at the intersection of design + technology + business strategy"
+    - I work at the intersection of design + technology + business strategy
 - [[Siva Swaroop]]
 - [[Dhawal Tank]]
     - [[California/Los Angeles]] although soon to be [[Texas/Houston]]
@@ -557,10 +600,10 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
         - https://www.linkedin.com/in/matttreacey/
         - https://twitter.com/matt_treacey
 - [[Saravanan V]]
-    - "Gig curious Techie. Right now at the second level - contracting. Here to see if/how  to move up to the next level. "
-    - "Currently Network Solutions guy for Telcos & large enterprise orgs. Ping me if I could help in someway. Contacts in the name page. "
+    - Gig curious Techie. Right now at the second level - contracting. Here to see if/how  to move up to the next level. 
+    - Currently Network Solutions guy for Telcos & large enterprise orgs. Ping me if I could help in someway. Contacts in the name page. 
 - [[Willem van der Horst]] 
-    - "Hi there, I'm [[Willem van der Horst]], Paris based freelance playful (brand) strategy consultant at Ice Cream for Everyone: https://www.icecreamforeveryone.net " 
+    - Hi there, I'm [[Willem van der Horst]], Paris based freelance playful (brand) strategy consultant at Ice Cream for Everyone: https://www.icecreamforeveryone.net  
 - [[Radoslav Vasilev]]
 - [[Thomas Verhagen]]
     - Currently; free agent doing research, advice and project boosts
@@ -568,7 +611,7 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - Former; commercial banker, innovation centre COO, risk manager, financial restructurer, researcher, programme manager, dabbled in green politics
     - Knows about; [[corporate]] and [[SME]] [[lending]], [[derivatives]], [[sales]],[[ risk management]], [[credit risk, ]][[market risk]], [[country risk]], all kinds of [[sustainability]] topics, specifically [[tropical deforestation]], all kinds of approaches to [[change]], all kinds of approaches to [[innovation]], [[policy]] making, [[real estate]]/ [[land economics]], [[trade finance]], [[fintech]], [[sustainable finance]], [[fintech for sustainability ]]
 - [[Todd Webb]]
-    - {{embed: ((((jF45O_V3N))))}}
+    - Founder of Resilien.Tech. Creator of The Tech Leader’s Workshop. Product and Software Engineering Leader.
 - [[Alex Wagner]]
     - Freelance marketing consultant and [[Copywriter]], specializing in [[SaaS]] customer onboarding funnels. [Guide I'm creating in Notion](https://www.notion.so/Fear-of-Marketing-s-Complete-Guide-to-SaaS-Onboarding-Funnels-bc9ba5245f4743a38cd18f6e0a9f550c).
     - Seeking PT/FT role in growth, software docs, or equity crowdfunding.
@@ -581,13 +624,13 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - Previously, founding member of Twitter and Co-founder and CTO of Amen
 - [[Kacper Wikieł]]
 - [[Andy Wilkinson]]
-    - "Been designing websites on and off commercially for about ten year"
+    - Been designing websites on and off commercially for about ten year
 - [[Tyler Willis]]
 - [[Connor Wilson]]
     - (former?) [[Full-Stack]] developer
 - [[Mike Wimsatt]]
-    - "Just starting indie tech strategy consultant. (working on this)"
-    - "Twitter: [@wimsy](https://twitter.com/wimsy)"
+    - Just starting indie tech strategy consultant. (working on this)
+    - Twitter: [@wimsy](https://twitter.com/wimsy)
 - [[Isaac Wyatt]]
 - [[Aaron Young]]
 - [[James Young]]
@@ -598,7 +641,7 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
 - [[Cindy Zhang]]
     - Aspiring economist/data scientist, long-time fan of ribbonfarm, looking to expand my social circle to include like-minded folks and get my feet wet with interesting projects. 
 - [[Nikhil Srivastava]]
-    - {{embed: ((((faI2Xz4vh))))}}
+    - I'm a founder & product-builder who's built a couple of (B2B data) companies, and I'm thinking about the next step on my journey. Right now just optimizing for meeting thoughtful, ambitious, high-integrity people working on exciting ideas. I love learning and thinking about: data visualization, the future of work, human geography, and knowledge management.
 - [[Mike Tannenbaum]]
     - Design Strategist, Facilitator, Consultant — I help people and teams work better together to thrive amid uncertainty and change.
     - Twitter: [@theroyaltbomb](https://twitter.com/theroyaltbomb)

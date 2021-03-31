@@ -7,7 +7,7 @@
 - Last Updated:: `/today` by [[Fname Lname]]
 - Last Gardened:: `/today` by [[Fname Lname]]
 -  
--  "Launch Framework - template"
+-  Launch Framework - template
     - `defines the steps, checklists and can become a template to be filled together with the Project owner`
     - **Goal of the Product**
         - `Why do we built this project? What do we want to achieve? What's in it for Yak Collective?`
@@ -24,14 +24,16 @@ bringing clients is great, but think of leading indicators that are faster and e
     - **Audience**
         - {{[[TODO]]}} Who's the target audience?
 `define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`
-        - {{embed: ((_lw34yP-z))}}
-        - {{[[embed]]: ((SwyqEnSee))}}
+        - CEOs
+            - [[Hugo Macedo]]  they are anxious to see the return on innovation, they are observing the symptoms of the problems (slow, misalignment, underwhelming, no business impact)
+        - Head of Innovation
+            - [[Hugo Macedo]]  they feel the pain of delivering and feel the problems and are interested in the solutions
     - **Messaging**
         - {{[[TODO]]}} oneliner/tweet
         - {{[[TODO]]}} long description
         - social proof
             - {{[[TODO]]}} can we get testimonials to validate the value?
-                - "Who can vouch for the project outside YC - can we share a pre-launch version so we can have a recommendation?"
+                - Who can vouch for the project outside YC - can we share a pre-launch version so we can have a recommendation?
         - {{[[TODO]]}} Project title - does it need to be reviewed?
 `does it have the right balance of being clear but attractive/inspiring? ``
     - **Lauch strategy**

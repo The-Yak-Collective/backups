@@ -9,9 +9,9 @@
     - Partly inspired by the [Five Came Back](https://www.amazon.com/Five-Came-Back-Hollywood-Second/dp/1594204306)
 - # Form
     - Could potentially exist as a section of the website - like a bi-weekly or monthly speculation piece
-    - "2-3 people per speculative fiction piece"
-    - "Would be great if one or two illustrators could contribute "
-    - "in collaboration with"[[Alex Dobrenko]] and [[Sachin Benny]]
+    - 2-3 people per speculative fiction piece
+    - Would be great if one or two illustrators could contribute 
+    - in collaboration with[[Alex Dobrenko]] and [[Sachin Benny]]
 - Potential interesting forms
     - Fiction 
     - E-mails/Memos - 20 years from now, what would the defining internal memo or email from 2020 look like
@@ -45,7 +45,7 @@
     - [[Willem van der Horst]] I'd love to be involved in this if it goes forward. I wrote and presented a Food & Beverage Marketing in the age of COVID-19  trends deck for students this past week, and have ideas of interesting pointers to turn into speculative fiction. I particularly want to dig in synesthesia sensorial experiences from molecular cuisine chefs, and also lexico-gustatory synesthesia, that's one I'm likely to dig into in the near future for this project or something else. That's just one idea, it could be something else. The presentation I gave is here: https://www.icecreamforeveryone.net/iscom-fnb-seminar/
 - # Editors/Curators
     - [[Alex Dobrenko]]
-    - "[[Jordan Peacock]] - editing, discussion, etc."
+    - [[Jordan Peacock]] - editing, discussion, etc.
     - [[Damian Stewart]]
 - # Scenario Generation
     - ### Office hours with [[Ben Mosior]] - Date TBD

@@ -1,6 +1,6 @@
 - # Fragments:
     - [[Fragment 034: Programmable forearm tattoo]]
-        - "A programmable forearm tattoo controlled by micro bots who can add and remove ink dynamically. It connects to the API of your personal note taking system. As you take notes and develop original ideas, the tattoo adds or removes nodes. Like the Roam node graph, but visible on your forearm. You can write your own CSS to style the tattoo as you wish. Expansive node graphs and original styling are highly respected as publicly visible performances of knowledge work."
+        - A programmable forearm tattoo controlled by micro bots who can add and remove ink dynamically. It connects to the API of your personal note taking system. As you take notes and develop original ideas, the tattoo adds or removes nodes. Like the Roam node graph, but visible on your forearm. You can write your own CSS to style the tattoo as you wish. Expansive node graphs and original styling are highly respected as publicly visible performances of knowledge work.
     - [[Fragment 026: Hygiene 3.0]]
         - A post-pandemic hygiene 3.0 world, where people across all different types of relationships touch each other far less and generally keep a higher level of distance between one another. Personalised biotechnology continues to develop at a rapid rate as triggered by the pandemic, to serve the purpose of maintaining personal health/hygience. Social norms of a disciplinary nature develop around this.
 - # Scenario 

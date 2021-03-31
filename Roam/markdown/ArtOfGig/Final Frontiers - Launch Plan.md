@@ -8,7 +8,7 @@
     - Last Updated:: `/today` by [[Fname Lname]]
     - Last Gardened:: `/today` by [[Fname Lname]]
 -  
-- "Launch Framework - template"
+- Launch Framework - template
     - `defines the steps, checklists and can become a template to be filled together with the Project owner`
     - **Goal of the Product**
         - `Why do we built this project? What we want to achieve?`

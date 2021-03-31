@@ -1,6 +1,6 @@
 - sync [[YC Marketing - distributed CMO]] #meeting-notes
     - #[[Yaks do innovation consulting]] sync
-        - ref "[[Innovation Consulting Project - Launch Plan]]"
+        - ref [[Innovation Consulting Project - Launch Plan]]
         - can this an innovation course?
         - drip campaign
             - subscribe and receive the essays periodically

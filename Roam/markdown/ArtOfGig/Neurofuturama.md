@@ -39,33 +39,33 @@ Interest- constantly learning & reading about different facets of the brain...ov
     - [[Shared Brainstorm Questions page]]
     - **Must-reads**
     - [Kernel Hello Humanity page](https://www.kernel.co/hello-humanity) 
-        - "Kernel Hello Humanity tl;dr"
-            - "Mission: From Brain-Computer Interface to Neuroscience-as-a-Service"
-                - "Their team of PhDs will design and implement neuroscience experiments for your applications"
-            - "Kernel has two hardware devices"
-                - "Flux uses MEG, which measures fast changes (millisecond) in magnetic field caused by neural electrical activity under the skull surface"
-                - "Flow uses NIRS, which measures slow changes in blood flow (~seconds) that are correlated with neural metabolic activity"
-                - "Form factor is a helmet that covers the entire skull "
-            - "Proof of concept experiments "
-                - "Neural decoding - can we decipher the content of brain signals? "
-                - "Speller experiment - Figure out which letters are being looked at on a visual keyboard display "
-                    - "each letter flickers in a unique 2-second long pattern"
-                    - "The measured MEG signals from each viewer reliably encode this flickering when the viewer is looking at the letter for >2 seconds "
-                    - "can "learn" the mapping from flicker pattern (called a Gold code) to MEG response in 1 trial "
-                    - "once this mapping of flicker pattern:MEG response is learned, can decode which letters the user is looking at, and ultimately spell the words that they are thinking. "
-                    - "Limitations "
-                        - "each viewer has a different mapping of flicker to MEG response, so you need to train the speller decoder uniquely on each person "
-                        - "takes 16+ seconds to spell an 8 letter word by looking at the visual keyboard "
-                - "Audio Envelope experiment "
-                    - "What song or spoken word recording is listener hearing? "
-                    - "Can match MEG signals to audio envelope, which is the shape/amplitude of the waveform"
-                        - "measured the correlation between brain signal and audio signal"
-                        - "these correlations are small, so they need to accumulate evidence over 10+ seconds "
-                    - "can correctly pick the song or spoken audio with 100% accuracy after 1 minute"
-                    - "can get similar performance using only 4 most informative sensors out of 16 "
-                    - "Limitations "
-                        - "need to learn unique audio and brain signal weights separately for each listener"
-                        - "takes 10-60 seconds to identify the audio"
+        - Kernel Hello Humanity tl;dr
+            - Mission: From Brain-Computer Interface to Neuroscience-as-a-Service
+                - Their team of PhDs will design and implement neuroscience experiments for your applications
+            - Kernel has two hardware devices
+                - Flux uses MEG, which measures fast changes (millisecond) in magnetic field caused by neural electrical activity under the skull surface
+                - Flow uses NIRS, which measures slow changes in blood flow (~seconds) that are correlated with neural metabolic activity
+                - Form factor is a helmet that covers the entire skull 
+            - Proof of concept experiments 
+                - Neural decoding - can we decipher the content of brain signals? 
+                - Speller experiment - Figure out which letters are being looked at on a visual keyboard display 
+                    - each letter flickers in a unique 2-second long pattern
+                    - The measured MEG signals from each viewer reliably encode this flickering when the viewer is looking at the letter for >2 seconds 
+                    - can "learn" the mapping from flicker pattern (called a Gold code) to MEG response in 1 trial 
+                    - once this mapping of flicker pattern:MEG response is learned, can decode which letters the user is looking at, and ultimately spell the words that they are thinking. 
+                    - Limitations 
+                        - each viewer has a different mapping of flicker to MEG response, so you need to train the speller decoder uniquely on each person 
+                        - takes 16+ seconds to spell an 8 letter word by looking at the visual keyboard 
+                - Audio Envelope experiment 
+                    - What song or spoken word recording is listener hearing? 
+                    - Can match MEG signals to audio envelope, which is the shape/amplitude of the waveform
+                        - measured the correlation between brain signal and audio signal
+                        - these correlations are small, so they need to accumulate evidence over 10+ seconds 
+                    - can correctly pick the song or spoken audio with 100% accuracy after 1 minute
+                    - can get similar performance using only 4 most informative sensors out of 16 
+                    - Limitations 
+                        - need to learn unique audio and brain signal weights separately for each listener
+                        - takes 10-60 seconds to identify the audio
     - [Bloomberg article describing Kernel tech](https://www.bloomberg.com/news/articles/2020-05-05/brain-startup-wants-to-read-your-mind-with-a-helmet)
     - [Example application: using neural data to improve NLP](https://docsend.com/view/xp7v8szpfi37tjf3)
     - [Bryan Johnson article: Mainframes to PCs. $1B genome to $1k. The brain and mind are next.](https://medium.com/future-literacy/mainframes-to-pcs-1b-genome-to-1k-the-brain-and-mind-are-next-ee7dc6c0f739)

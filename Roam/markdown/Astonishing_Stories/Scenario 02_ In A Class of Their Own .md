@@ -4,7 +4,7 @@
     - [[Fragment 026: Hygiene 3.0]]
         - A post-pandemic hygiene 3.0 world, where people across all different types of relationships touch each other far less and generally keep a higher level of distance between one another. Personalised biotechnology continues to develop at a rapid rate as triggered by the pandemic, to serve the purpose of maintaining personal health/hygience. Social norms of a disciplinary nature develop around this.
     - [[Fragment 033: ML testing clarinet]]
-        - "A clarinet children have to use during national examinations to earn highly prestigious grade certifications. There's no examination proctor. Passing/failing exam is entirely judged by a machine learning system baked into the instrument that calculates their score by comparing the student's performance to other children taking in that same year."
+        - A clarinet children have to use during national examinations to earn highly prestigious grade certifications. There's no examination proctor. Passing/failing exam is entirely judged by a machine learning system baked into the instrument that calculates their score by comparing the student's performance to other children taking in that same year.
 - ## Describe this scenario
     - [[Collision Forces]]
     - Homeschooling becomes the educational norm by way of law around public health but homeschooling has slowly been transformed by highly-tailored learning programmes created for students, meaning very high levels of attainment for most children. Every child owns an ML Testing Clarinet that they must use to demonstrate their musical ability - the best performers are rewarded with being able to interact with one another under strict hygiene regulations. 
