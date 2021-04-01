@@ -25,6 +25,52 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 45 [[March 31st, 2021]]
+        - participants:: [[Bryan King]] [[Jenna Dixon]] [[Oliver King]] [[Phil Wolff]] [[Maier Fenster]]
+        - **Notes**
+            - [[Oliver King]] wants to make the channels more legible. Can we differentiate projects from channels, active from non-active, etc.
+            - [[Nathan Acks]] brings up their past experiences with the emoji prefixes as what __not__ to do.
+            - [[Jenna Dixon]] suggests a quarterly cadence of changes to the Discord server.
+            - [[Nathan Acks]] and [[Oliver King]] like the quarterly cadence idea.
+            - [[Maier Fenster]] proposes having a weekly change poll in the **Announcements** channel.
+            - [[Phil Wolff]] asks why we're talking about polling.
+            - [[Maier Fenster]] thinks that the problem with the emoji change was that it was bigger than folks expected.
+            - [[Phil Wolff]] suggests the reverse: Make the change, but leave a changelog so that people can respond and things can be reverted.
+            - [[Jenna Dixon]] is worried that some people only check in infrequently. Perhaps a monthly cadence?
+            - [[Maier Fenster]] thinks that a monthly cadence is too slow. Maybe a changelog + discussion of some sort.
+            - [[Phil Wolff]] likes a more anarchic approach.
+            - [[Nathan Acks]] is worried that there's a tension between illegibility and engagement.
+            - [[Oliver King]] likes anarchy in principle, but doesn't think that waiting a week to catch objections is too much to ask. But, how do we do this without everyone becoming an admin? Also, what does a `yakherder` do?
+            - [[Nathan Acks]] I'm honestly not sure what a `yakherder` does?
+            - [[Maier Fenster]] thinks that right now the main issue is that we have people with vision, but they're all worried about offending other folks.
+            - [[Oliver King]] wants to pin this, but thinks that we should perhaps spin this out as a weekly questions.
+            - [[Jenna Dixon]] asks if this is the right time to switch to using Knack for sign-ups?
+            - [[Nathan Acks]] thinks that the key tension here is between minimizing information gathering and normalizing the use of Knack.
+            - [[Jenna Dixon]] thinks that this also hooks into the question of whether we should have an internal newsletter.
+            - [[Bryan King]] only has about an hour this week.
+            - [[Nathan Acks]] thinks that we should switch out the sign-up form this week, but can't commit. So it's really up to Bryan.
+            - [[Bryan King]] points out that most of the time they spent over the weekend was trying to coordinate requirements, not actual implementation.
+            - [[Jenna Dixon]] seconds this.
+            - [[Oliver King]] points out that this comes back a bit to how hard publishing is. Perhaps we should hold-off on any more infrastructure-related activities until there's a clearer roadmap.
+            - [[Nathan Acks]] doesn't have a solution to the larger problem, but suggests that a meta-ticket in GitHub outlining how to move into Knack might be helpful.
+            - [[Jenna Dixon]] doesn't think this would be helpful now. We need to lock down governance more first.
+            - [[Nathan Acks]] notes that they'd [written up their own channel reorganization proposal]([[Nathan Acks' March 2021 Discord Channel Organization Change Proposal]]), centered around permissioning. we're heading in a different direction now, but perhaps something from that document will be useful for Oliver, __et al.__?
+    - Infrastructure Chat 44 [[March 24th, 2021]]
+        - participants:: [[Bryan King]] [[Jenna Dixon]] [[Oliver King]] [[Maier Fenster]] [[Phil Wolff]]
+        - **Agenda**
+            - Me stepping back (what is there to discuss?)
+            - ~~Discord channel organization discussion.~~
+                - ~~Maybe (Probably!) this should be supplemented with better channel descriptions~~
+        - **Notes**
+            - Bryan is more of a frontend/designer type person.
+            - Bryan can handle webpage roll-out, design work, __some__ ongoing maintenance. Not so much backend/architecture/integration stuff.
+            - Oliver suggests that maybe we move to Notion for publishing. Something lower code. There are connect-and-publish solutions for Notion.
+            - Nathan wonders how we can do some of our automation in Notion?
+            - Maier thinks we should just let people load things into GitHub.
+            - Nathan wonders if we should use WordPress as a backend?
+            - Bryan uses Ghost for everything. They have an API that can be used to build websites. It's built by some of the old WordPress core people. Would require our own server. Seems to be NodeJS + SQLite. Maybe ~$5/month on Digital Ocean.
+            - Maier wants a clear vision. Someone should write a vision for how the website should be flexible and accessible.
+            - Oliver thinks we need a case study. Can we conduct some interviews with build leaders? Oliver will lead this.
     - Infrastructure Chat 43 [[March 17th, 2021]]
         - participants:: [[Oliver King]] [[Jenna Dixon]] [[Maier Fenster]] [[Phil Wolff]] [[Nathan Acks]]
         - **Agenda**
