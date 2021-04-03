@@ -104,14 +104,15 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - [Wind in the Willow principle](https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29)
         - Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
         - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
-    - **Queued**
         - [David Teece interview on dynamic capabilities](https://www.strategy-business.com/article/00225?gko=32b8d)
         - [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)
+    - **Queued**
         - Liquid modernity, Zygmunt Bauman
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
             - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
         - Yuval Levin on [institutions losing power to mold character](https://www.nytimes.com/2020/01/18/opinion/sunday/institutions-trust.html)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
+        - [Corey Robin, How intellectuals create a public](https://www.chronicle.com/article/how-intellectuals-create-a-public/)
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
         - Essential Balances by Ivo Velitchkov (on Yak Roam), proposed by [[Benjamin P Taylor - London]] https://www.strategicstructures.com/wordpress/?page_id=2013
         - [Albert O. Hirschman](https://en.wikipedia.org/wiki/Albert_O._Hirschman), [Exit, Voice, and Loyalty](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty)
@@ -135,9 +136,21 @@ possibilities through art, music, media, and movement.
 __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernment and wisdom
             - ![Ecosystem Map 2020](https://buildingmovement.org/wp-content/uploads/2020/10/Ecosystem-Map-2020.png)
             - proposed by [[Jenna Dixon]]
+        - Suez case study
+            - https://www.deshgujarat.com/2021/03/26/commerce-ministry-chalks-out-four-point-plan-to-deal-with-blockage-of-suez-canal/
+            - https://www.scmp.com/economy/china-economy/article/3127506/suez-canal-blockage-china-see-minor-raw-material-disruptions
+            - https://www.maritime-executive.com/editorials/moving-beyond-the-suez-canal-blockage
+            - https://www.bts.gov/data-spotlight/ever-given-suez-canal
+            - https://www.washingtonpost.com/politics/2021/03/26/big-ships-were-created-avoid-relying-suez-canal-ironically-big-ship-is-now-blocking-it/
+            - http://www.bbc.co.uk/history/british/modern/suez_01.shtml
+            - https://mattstoller.substack.com/p/what-we-can-learn-from-a-big-boat
+        - [Sarah Constantin The relationship between hierarchy and wealth](https://srconstantin.wordpress.com/2019/01/23/the-relationship-between-hierarchy-and-wealth)
+        - 
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
+        - [Carrier bag theory of fiction by Ursula Le Guin](https://theanarchistlibrary.org/library/ursula-k-le-guin-the-carrier-bag-theory-of-fiction)
     - **Queued**
+        - [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
         - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
         - [Goodreads page for Two Cheers for Anarchism](https://www.goodreads.com/book/show/14891877-two-cheers-for-anarchism)
         - Emma Goldman's writings — SELECTION?
