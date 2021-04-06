@@ -3,6 +3,16 @@
         - Current design study model, for 3d printing![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FoDJSmgdKW9.png?alt=media&token=adc74e54-1c82-43f1-b865-615d668cd7a2)
         - drive unit section... current problem is figuring out how best to mount a sufficiently high torque motor and steering servo ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FFbq_LiteAk.png?alt=media&token=80b6f359-c34a-4bac-a178-d0514ee61952)
     - This model is 3d printable, but doesn't yet have a decent way to do the pin joints... but if you want to print it, simple nut and bolt pins for the steering, and straightened paperclips for the shafts should do the trick.
+- [[April 5th, 2021]] update
+    - [[Motor calculator]]
+    - Differential bar design update
+    - Used [this turnbuckle rod](https://www.amazon.com/gp/product/B07YNKPDLV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+    - Two kinds of potential ball joints for main support: in-line and angle
+    - Test rig has slots on bar and bracket to test various geometries
+    - To do: make a more specialized chassis, and a rig to investigate force transfer/distribution (spring weight suspension? kitchen scale?)
+    -   https://twitter.com/vgr/status/1379233874136297473
+    - 
+- 
 - Yak W1 rough design
     - Chassis
         - Fits in a 60cm x 30 cm x 20 cm cuboid

@@ -80,3 +80,16 @@
     - Finalize agenda
     - Finish slide deck
 - [[Yakathon 1 Mars Rover Edition - 2021 March 28]]
+- [[April 5th, 2021]] --  Update on [[YR: Nature is Murder]]
+    - [[Motor calculator]]
+    - Update on differential bar design
+    - Update on motor housing design
+    - Who's on next week?
+    - Website?
+- April 12: Eric -- 
+- April 19: Victor
+- April 26: Anuraj
+- May 3: Maier
+- Rhett May 10 -- his build, 
+- May 17 Jascha -- batteries
+- PLEASE KEEP THIS LINK AT THE BOTTOM HERE: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)

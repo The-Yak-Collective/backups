@@ -11,6 +11,7 @@
 - [[Yak Rover Reference Materials]]
 - [[Yak Rover 2021 Builds]]
 - [[Year 1 meeting notes]]
+- [[Learning Wishlist]]
 - **Overview**
     - **WHAT:** Yak Rover is a long-term Yak Collective [open-source hardware project](https://en.wikipedia.org/wiki/Open-source_hardware) to design and build a series of rovers culminating in a deployable Mars Rover by 2030 (ideally one major design iteration per year, starting with experimental versions in Year 1 designated X, Y etc., and culminating in Yak Rover 9 is Mars-capable). 
     - **WHY:** The goal is to have fun pursuing a meaningful long-term project, while collectively developing skills and insights that will be valuable for consulting and gigs in a growth industry (driverless vehicles and autonomous robotics here on Earth). 
@@ -60,6 +61,20 @@
         - Sample collection
         - Self-inspection
         - Self-repair
+    - Tests
+        - Mobility
+            - Climb a 45 degree gradient
+            - Climb a 30mm high step
+            - Clear obstacles 50mmX50mmX50mm under chassis
+            - 45 degree roll without toppling
+        - Physical robustness
+            - Can survive 1m drop without damage
+            - Can survive falling objects up to 50 grams
+        - Power
+            - Last 1 hour at full power in the dark
+            - Last 6 months in minimal power draw hibernation
+        - Electronics
+            - Can survive failure of any single component ((2x redundancy full)
     - Yak W1 rough design
         - Chassis
             - Fits in a 60cm x 30 cm x 20 cm cuboid
@@ -96,20 +111,6 @@
             - API-controlled payload ops
             - etc.
         - [[interconnect design]]
-    - Tests
-        - Mobility
-            - Climb a 45 degree gradient
-            - Climb a 30mm high step
-            - Clear obstacles 50mmX50mmX50mm under chassis
-            - 45 degree roll without toppling
-        - Physical robustness
-            - Can survive 1m drop without damage
-            - Can survive falling objects up to 50 grams
-        - Power
-            - Last 1 hour at full power in the dark
-            - Last 6 months in minimal power draw hibernation
-        - Electronics
-            - Can survive failure of any single component ((2x redundancy full)
     - Rover API for remote operations
         - This page compiles information on an API on rovers to perform remote (and local) operations (e.g. over a network).
         - Brainstorming requirements

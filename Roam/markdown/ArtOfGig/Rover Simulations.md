@@ -1,0 +1,5 @@
+- Gazebo
+- Japanese team -- Eric might invite [Asked April 6th]
+- Simulation as a design tool/optimization tool/iteration tool
+- Simulations for aspects we cannot have on Earth, like the known known but hard to reproduce Martian/Lunar gravity.
+- Simulation environments for Machine-Learning (e.g. reinforcement learning on MuJoCo): Currently impractical on a real robot. The usual practice is to "pre-train" on simulator at 1000x the speed of an actual robot, and then "fine tune" on a real robot.
