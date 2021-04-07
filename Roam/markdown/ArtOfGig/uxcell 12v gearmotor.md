@@ -1,0 +1,2 @@
+- UX cell 12 v motor https://www.amazon.com/uxcell-Motor-Encoder-265RPM-Ratio/dp/B0792S8JMY/ref=sr_1_53?dchild=1&keywords=dc+motor+encoder&qid=1617739299&sr=8-53
+- 

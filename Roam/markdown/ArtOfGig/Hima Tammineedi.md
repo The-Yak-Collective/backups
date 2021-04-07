@@ -1,0 +1,14 @@
+- About me
+    - I was previously a machine learning researcher and engineer from Carnegie Mellon University. 
+    - I've worked at Uber ATG and Amazon on machine learning.
+    - I recently started and shut down a company in the trucking industry where we were making better software to manage all the operations for small trucking companies. 
+    - I'm currently doing machine learning and product development consulting. Reach out if you want to chat.
+    - One thing I've been thinking a lot about recently is making better tools for writing. I'd love to talk to anyone else who also cares about improving their [[Writing]]
+- Past projects I've created:
+    - A tool that let's you clone any website and create "videos" made of just HTML https://capsule.click/for/everyone.html
+    - An ML-powered semantic image search engine that offered a far better image search experience than normal search engines do
+    - Educational software to teach kids literacy and numeracy more easily
+- Skills: [[Software Development]] [[Machine Learning]] [[Data Analysis]] [[web development]] [[Writer]] [[product manager]] [[product development]] [[Full-Stack]]
+- **Twitter**: https://twitter.com/hibyepie
+- Website: http://himat.github.io/
+- Personal newsletter: https://hima.substack.com/

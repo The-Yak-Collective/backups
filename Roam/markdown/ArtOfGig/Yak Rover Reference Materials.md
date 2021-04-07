@@ -22,6 +22,7 @@
     - Nasa mission page: https://www.nasa.gov/mission_pages/msl/index.html
     - Video found by Victor: https://www.youtube.com/watch?v=qaUhLXolGaI
 - How-to guides
+    - [[Yak Motor Guide]]
     - [[Motor calculator]]
     - [[Motor selection]]
         - How to size a motor https://www.motioncontrolonline.org/content-detail.cfm/Motion-Control-News/How-to-Size-a-Motor/content_id/2236

@@ -1,4 +1,4 @@
-- Gazebo
+- [Gazebo](http://gazebosim.org/)
 - Japanese team -- Eric might invite [Asked April 6th]
 - Simulation as a design tool/optimization tool/iteration tool
 - Simulations for aspects we cannot have on Earth, like the known known but hard to reproduce Martian/Lunar gravity.

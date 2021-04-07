@@ -557,6 +557,13 @@ Previously founder/CEO of Pure Learning (a digital learning and consulting compa
 - [[Sushaantu]]
     - I work at the intersection of design + technology + business strategy
 - [[Siva Swaroop]]
+- [[Hima Tammineedi]]
+    - About me
+        - I was previously a machine learning researcher and engineer from Carnegie Mellon University. 
+        - I've worked at Uber ATG and Amazon on machine learning.
+        - I recently started and shut down a company in the trucking industry where we were making better software to manage all the operations for small trucking companies. 
+        - I'm currently doing machine learning and product development consulting. Reach out if you want to chat.
+        - One thing I've been thinking a lot about recently is making better tools for writing. I'd love to talk to anyone else who also cares about improving their [[Writing]]
 - [[Dhawal Tank]]
     - [[California/Los Angeles]] although soon to be [[Texas/Houston]]
     - Consulting with early stage technology companies in fintech and consumer tech on sales and marketing strategy and execution.

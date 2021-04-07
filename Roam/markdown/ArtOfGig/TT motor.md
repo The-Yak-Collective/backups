@@ -1,6 +1,7 @@
 - Name: TT motor
 - Cost: varies, between $2 - $8 depending on quantity
 - Type: gear motor
+- also comes in [120:1 with quadrature encoder](https://www.dfrobot.com/product-1457.html?gclid=CjwKCAjwjbCDBhAwEiwAiudBy3gS553XOQQspXFmo0OWiF8OyRu4xL7cSZySACmDqcJEeE0AfK4bKxoCB7YQAvD_BwE)
 - tt_motor_gear_ratio: 48
 - tt_motor_torque_kgcm: 0.8
 - tt_motor_rpm: 200

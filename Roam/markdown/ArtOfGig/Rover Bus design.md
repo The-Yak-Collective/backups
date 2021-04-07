@@ -1,0 +1,27 @@
+- Bus design concerns how you connect a large number of sensors and low-power (3-5v) actuators to a main computer. Lots of sensors is one way to achieve [[high-observability design]].
+- Sample specs for a rover
+    - Legs: 6
+    - Other_extensions: 2
+    - Length_ext_m: 0.2
+    - Chassis_length: 0.4
+    - Chassis_width: 0.3
+    - Bus_length: {{calc: (((HGPAXncz8))+((eQ51e-LuS)))*((3LohtNmme))*2+(((Ydbp2gnvm))+((1IlNWVwb9)))*2}}
+    - Est_Sensor_count: 40
+    - {{[[TODO]]}} make a [[sensor calculator page]]
+- Wire harness design
+    - IPC/WHMA-A-620, Requirements and Acceptance for Cable and Wire Harness Assemblies: https://www.solder.net/training-courses/ipc-a-620-cit-training/
+    - Wire harness course: https://www.solder.net/training-courses/cable-and-wire-harness-assembly/
+    - Daisy chain topology: https://en.wikipedia.org/wiki/Daisy_chain_(electrical_engineering)
+- Null hypothesis: just use available pins as budget
+    - [RPi](https://www.raspberrypi.org/documentation/usage/gpio/): 40 GPIO pins, 3v3
+    - [Arduino Mega 2560](https://store.arduino.cc/usa/mega-2560-r3): It has 54 digital input/output pins (of which 15 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports)
+- Basic multiplexing designs without enforcing a bus standard?
+- Add a hat? Research hat options...
+- Use the onboard standard [i2C](https://en.wikipedia.org/wiki/I²C): 
+    - [Maximum length 0.5m](https://electronics.stackexchange.com/questions/106265/maximum-i2c-bus-length)
+- Pared down tcp/ip: [LwIP](https://en.wikipedia.org/wiki/LwIP)
+- [RS-485](https://en.wikipedia.org/wiki/RS-485)
+    - RPi example: https://www.raspberrypi.org/forums/viewtopic.php?p=538112#p538112
+    - Up to 32 devices on 1 bus, just use more if needed
+    - 1200m length
+- LIN: https://www.ni.com/en-us/innovations/white-papers/09/introduction-to-the-local-interconnect-network--lin--bus.html

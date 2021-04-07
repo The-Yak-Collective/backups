@@ -1,3 +1,4 @@
+- See [[Yak Motor Guide]] for a list of motors we have experience with
 - Environment parameters:
     - g_earth: 9.81
     - g_mars: 3.71
