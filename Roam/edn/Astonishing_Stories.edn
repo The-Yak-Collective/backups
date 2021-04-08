@@ -1,6 +1,7 @@
 #datascript/DB {:schema
  {:create/user
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :plugin/id {:db/unique :db.unique/identity},
   :node/subpages
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :vc/blocks
@@ -24378,8 +24379,8 @@
   [2781 :version/id "0.8.4" 536881176]
   [2781
    :version/nonce
-   "uuid606c854f-c6e5-43da-9ee9-a0b89d8a7e03"
-   536881195]
+   "uuid1f5f3366-0800-4779-90fb-b06020e2aaf5"
+   536881196]
   [2781
    :version/upgraded-nonce
    "uuid3c415d99-b4ef-470a-ac7d-a8b06eefa8e3"
@@ -24497,4 +24498,11 @@
   [2798 :edit/time 1617789187637 536881195]
   [2798 :edit/user 2367 536881195]
   [2798 :log/id 1617789187636 536881195]
-  [2798 :node/title "April 7th, 2021" 536881195]]}
+  [2798 :node/title "April 7th, 2021" 536881195]
+  [2799 :block/uid "04-08-2021" 536881196]
+  [2799 :create/time 1617875539595 536881196]
+  [2799 :create/user 2367 536881196]
+  [2799 :edit/time 1617875539595 536881196]
+  [2799 :edit/user 2367 536881196]
+  [2799 :log/id 1617875539594 536881196]
+  [2799 :node/title "April 8th, 2021" 536881196]]}
