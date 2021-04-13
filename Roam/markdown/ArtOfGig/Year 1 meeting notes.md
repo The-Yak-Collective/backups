@@ -86,8 +86,20 @@
     - Update on motor housing design
     - Who's on next week?
     - Website?
-- April 12: Eric -- 
-- April 19: Victor
+- April 12: Eric
+    - Slide deck -- [powering the HiWonder](https://docs.google.com/presentation/d/1A13bFuu6Q4-q5NAIydtSFYRULLdw9Wi8Eca0XUxk7pc/edit#slide=id.p)
+    - Links from Anuraj
+        - https://raspberrypi.stackexchange.com/questions/73126/can-i-power-a-pi-through-a-5v-pin
+        - https://thepihut.com/blogs/raspberry-pi-tutorials/how-do-i-power-my-raspberry-pi
+        - https://raspberrypi.stackexchange.com/questions/1617/how-do-i-supply-power-through-the-gpio
+        - [https://www.pokitinnovations.com](https://www.pokitinnovations.com/)
+        - Oscilloscope recommended by Jascha: https://www.amazon.com/SainSmart-Portable-Handheld-Digital-Oscilloscope/dp/B074QBQNB7/ref=sr_1_4?dchild=1&keywords=dso+nano&qid=1618293838&sr=8-4
+    - Notes
+        - Jascha -- use an oscilloscope to test how much sag there is across gpio power when all motors are powered
+        - Use higher amperage to power it all, 36W not enough
+        - Ground loops
+        - No back drive protection on the RPi 5v GPIO, so that may be why it didn't like the USB + direct power
+- April 19: Victor -- Dev environment and interactions
 - April 26: Anuraj
 - May 3: Maier
 - Rhett May 10 -- his build, 

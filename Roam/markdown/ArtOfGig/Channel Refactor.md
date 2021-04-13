@@ -1,0 +1,87 @@
+- About:: Part of the [[Meta-Project]] activity track and an iteration upon [[Discord Channel Lifecycle and Organization]]; intended to be first steps of a program that provides structure to desirable activities with the premise that __everything__ about the YC experience should be revolve around __doing__ interesting things
+- Created:: [[April 12th, 2021]] by [[Oliver King]]
+- **First Proposal -- Taxonomy**
+    - **Problem**
+        - There's a sense of overwhelm at the number of channels, mostly ghost-towns
+        - Newcomers don't know where to start, how to engage, or how to act
+    - **Solution**
+        - Focus attention toward 'general' chat channels in the Plaza to concentrate chatter and serve as a starting line for unaffiliated Yaks and newcomers; deprecation of 'Discussion' as a category
+        - More distinct categories with high intrinsic engagement: projects, work groups, and study groups
+        - Sort lower engagement channels into a new zone: "The Unwrangled" for eventual deprecation
+    - **Scope**
+        - **Plaza**
+            - `#announcements`
+            - `#introductions`
+            - `#coworking-cafe`
+            - `#collaboration`
+            - `#yak-lounge`
+            - `#yak-poop`
+        - **Incubator**
+            - `#wargames`
+            - `#soap-box`
+            - `#coffee-with-a-yak`
+        - **Projects**
+            - `#astonishing-stories`
+            - `#empirical-feng-shui`
+            - `#new-old-home-and-country`
+            - `#reimagine-healthcare`
+            - `#yak-rover`
+        - **Working Groups**
+            - `#infrastructure`
+            - `#bots-and-automation`
+            - `#production-flow`
+            - `#welcome-squad`
+            - `#yakathon`
+        - **Study Groups**
+            - `#online-governance-studies`
+            - `#philosophical-studies`
+            - `#yak-ethnography-studies`
+        - **The Unwrangled**
+            - Everything else
+            - Temporary destination; either promoted back into an 'active category' or archived
+            - Equivalent to the Incubator in purpose for channel deprecation
+    - Desired Outcomes::
+        - Make it clear that we're not here to just talk, this is primarily a place for doing stuff
+        - Cohere around a legible set of 'engagements' for Yaks to make onboarding easier
+        - See increased engagement on the premise that conversation stokes conversation
+- **Second Proposal -- Navigation**
+    - **Problem:**
+        - There's no way for Yaks to onboard themselves e.g. walking through open gates
+        - There's no way to opt-out or opt-in to the activities we want to participate in
+    - Solution::
+        - Control channel visibility using 'roles' that can be mediated in the same way 'project subscriptions' are currently managed
+        - Extension of [[Nathan Acks' March 2021 Discord Channel Organization Change Proposal]]
+    - **Scope:**
+        - Visible to `@everyone`
+            - `#announcements`
+            - `#introductions`
+        - Visible to `@yak`
+            - Rest of Plaza
+            - Incubator
+            - Unwrangled
+            - Voice Channels
+            - Dashboard
+        - Visible to `@roles`
+            - Projects
+            - Working Groups
+            - Study Groups
+    - **Desired Outcomes:**
+        - Open boundaries will create a liminal threshold and the sense of in-group identity; quests
+        - Higher engagement because people will be 'buying-in' to the roles they're interested in
+        - Interactive functionality leads to greater engagement with the infrastructure and therefore incentivize further exploration of the infrastructure -- eventually a means to tie together everything we would encourage Yaks to do
+- **Third Proposal -- Bots**
+    - **Problem:**
+        - There's some ambiguity on what kind of behaviors should be modeled
+        - Nothing to suggest anyone can do anything in a permissionless environment
+        - Requires manual intervention to create/destroy channels leading to friction and overhead
+    - **Solution:**
+        - Automate the create/destroy channel process by allowing bots to create channels and timeboxing the deprecation of channels into the Unwrangled and eventually archive
+    - **Scope:**
+        - Bot commands to create channels in the incubator category
+        - Bot commands to upgrade channels in the incubator category to project/work/study groups based on the number of emotes that are collected
+        - Scan channels for activity on a regular basis to deprecate ghost-towns
+        - Connecting the dashboard to the creative/destructive process
+    - **Desired Outcomes:**
+        - Make it clear YC is a permissionless environment and Yaks can manage themselves
+        - Make it clear what kinds of behaviors should be modeled and empower Yaks to do so
+        - Ideal workflow -- if a Yak can create, manage, and publish a project in a fairly obvious and easy way without ever speaking to a Yakshaver
