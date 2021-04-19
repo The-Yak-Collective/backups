@@ -3,7 +3,7 @@
     - Additional Page Wranglers:: [[Anuraj R]] | [[Fname Lname]]
 - Created:: [[November 18th, 2020]] by [[Venkatesh Rao]]
 - Page Type:: {{or: #Project | #tk1 | #tk2 }}
-- Status:: {{or: Active | Proposal | Early Concept | Complete}}
+- Status:: {{or:Active | Complete | Proposal | Early Concept}}
 - Current State:: {{or: Started | Proposed | Draft | Stalled | Live | Finished | Abandoned}}
 - Last Updated:: [[December 9th, 2020]] by [[Venkatesh Rao]]
 - Last Gardened:: [[December 9th, 2020]] by [[Venkatesh Rao]]
