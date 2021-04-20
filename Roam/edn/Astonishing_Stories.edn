@@ -24379,8 +24379,8 @@
   [2781 :version/id "0.8.4" 536881176]
   [2781
    :version/nonce
-   "uuid459871fa-fc7f-4eab-91e6-97ccabd995bb"
-   536881207]
+   "uuidceec3b2a-2db6-4862-b137-acaf47d91dcf"
+   536881208]
   [2781
    :version/upgraded-nonce
    "uuid3c415d99-b4ef-470a-ac7d-a8b06eefa8e3"
@@ -24582,4 +24582,11 @@
   [2810 :edit/time 1618825903876 536881207]
   [2810 :edit/user 2367 536881207]
   [2810 :log/id 1618825903875 536881207]
-  [2810 :node/title "April 19th, 2021" 536881207]]}
+  [2810 :node/title "April 19th, 2021" 536881207]
+  [2811 :block/uid "04-20-2021" 536881208]
+  [2811 :create/time 1618912305678 536881208]
+  [2811 :create/user 2367 536881208]
+  [2811 :edit/time 1618912305678 536881208]
+  [2811 :edit/user 2367 536881208]
+  [2811 :log/id 1618912305676 536881208]
+  [2811 :node/title "April 20th, 2021" 536881208]]}

@@ -15,7 +15,6 @@
     - Wheel design
         - How Nasa reinvented the wheel https://www.youtube.com/watch?v=2lv6Vs12jLc
 - General knowledge
-    - 
     - [Tesla model 3 motors](https://www.youtube.com/watch?v=esUb7Zy5Oio)
 - [[Curiosity Rover]]
     - Wikipedia page: https://en.wikipedia.org/wiki/Curiosity_(rover)
@@ -26,3 +25,6 @@
     - [[Motor calculator]]
     - [[Motor selection]]
         - How to size a motor https://www.motioncontrolonline.org/content-detail.cfm/Motion-Control-News/How-to-Size-a-Motor/content_id/2236
+- Collaborative robotics
+    - https://www.scitepress.org/papers/2007/16500/16500.pdf
+    - 
