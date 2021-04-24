@@ -144,11 +144,14 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
             - https://www.washingtonpost.com/politics/2021/03/26/big-ships-were-created-avoid-relying-suez-canal-ironically-big-ship-is-now-blocking-it/
             - http://www.bbc.co.uk/history/british/modern/suez_01.shtml
             - https://mattstoller.substack.com/p/what-we-can-learn-from-a-big-boat
-        - [Sarah Constantin The relationship between hierarchy and wealth](https://srconstantin.wordpress.com/2019/01/23/the-relationship-between-hierarchy-and-wealth)
-        - 
+        - [Crisp Collective](https://dna.crisp.se/docs/index.html)
+        - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
+        - [Cursed takes: Multiplayer Figma](https://newsletter.danhon.com/archive/s09e18-cursed-takes-multiplayer-figma-and-low)
+        - [Greenpeace architecture of participation](https://blog.weareopen.coop/howto-create-an-architecture-of-participation-for-your-open-source-project-a38386c69fa5)
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
         - [Carrier bag theory of fiction by Ursula Le Guin](https://theanarchistlibrary.org/library/ursula-k-le-guin-the-carrier-bag-theory-of-fiction)
+        - [Sarah Constantin The relationship between hierarchy and wealth](https://srconstantin.wordpress.com/2019/01/23/the-relationship-between-hierarchy-and-wealth)
     - **Queued**
         - [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
         - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
