@@ -100,6 +100,7 @@
         - Ground loops
         - No back drive protection on the RPi 5v GPIO, so that may be why it didn't like the USB + direct power
 - April 19: Victor -- Dev environment and interactions
+    - Presentation - https://docs.google.com/presentation/d/1w7SfOMa9XnvPbIAptekWJYDjQBdfgYOJkwjF3v6yQdA/edit?usp=sharing
 - April 26: Anuraj
 - May 3: Maier
 - Rhett May 10 -- his build, 
