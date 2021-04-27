@@ -101,7 +101,52 @@
         - No back drive protection on the RPi 5v GPIO, so that may be why it didn't like the USB + direct power
 - April 19: Victor -- Dev environment and interactions
     - Presentation - https://docs.google.com/presentation/d/1w7SfOMa9XnvPbIAptekWJYDjQBdfgYOJkwjF3v6yQdA/edit?usp=sharing
-- April 26: Anuraj
+- April 26: Anuraj -- Infinity and Beyond Status - [[COTS in Rovers]]
+    - Prompt: https://docs.google.com/presentation/d/1MalYfBMfUFh9ASm7xeZbO9kNYhSr6vkb2a16SiOhLzM/edit#slide=id.gd06e44e271_0_15
+    - Discusstion and Initial Reactions
+        - Eric: 
+            - SpaceX in LEO but on Moon? 
+        - Jascha: 
+            - Falcon1 was PowerPC, Falcon9
+                - FOD: Foregin object
+                - Falcon9 is shipped as structural member
+        - Victor: 
+            - FPGA in space applications? PolarFire FPGA
+                - FPGAs are flexible
+            - Xilinx rad hard board
+            - Maier - Why FPGAs? 
+            - Eric: Problem reconfiguration time can be very long. 
+        - Jascha: 
+            - COTS hardware for cubesats
+        - Venkat:
+            - Active risk management, certain risks are enough for fast iteration
+            - What can't be COTS?
+                - Motors maybe not COTS? 
+                - Most expensive COTS cost bottle neck
+                - Technical bottle neck
+                - Alloys -> space alloys
+                - Computer, structural components, mobility components, software(Maier: compiling software )
+                - Pattern on rover for drone to hover
+                - Eric: Scenario: Several rovers and one drone, jump between rovers and map terrain in between. 
+                - Current military works this way, smallest cheapest way to heterogenous robots, basically a cost down challenge
+        - Rhett:
+            - Camera on rover and use it to track drone
+            - Internship at HP: Critical infra, machine should not go down. Work was on distributed systems. Cost a few million dollars in 2001
+            - Google rewrite software for reliability
+            - If the cost of launching goes down really fast then throw a lot hardware
+            - Venkat: Darpa Grand Challenge first one was 150 miles. Winner was only 7miles. Second one many finished
+        - Maier:
+            - Can the rover now track the drone
+            - Anuraj: Use Wifi signal strength
+            - How would the rover talk with a fixed IP camera
+            - How does a biologist understand? they tear
+            - How radiation affects software and hardware? If there is a transient event, long term of radiation affects depends on the goal 
+            - Compiler for radiation events. Optimization makes the system more fragile
+            - Requirements of hardening should not be normal failing and working
+            - Minimum requirement for software
+            - COTS for rover type application or COTS for general space applications
+            - If we identify scenarios better we can idenfity what are requirements for realiability of actions. 
+            - Tradeoff between time and reiliability different for different applications
 - May 3: Maier
 - Rhett May 10 -- his build, 
 - May 17 Jascha -- batteries
