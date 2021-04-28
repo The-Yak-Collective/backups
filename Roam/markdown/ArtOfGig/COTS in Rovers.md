@@ -1,3 +1,15 @@
 - Stand Up Meeting Discussion on 26th April 2021 (21:45 Pacific Time) 
     - April 26: Anuraj -- Infinity and Beyond Status - [[COTS in Rovers]]
-- 
+- Testing and parts selection
+    - How to Use and Select COTS Components for Space Applications. Mentions selecting COTS components based on the inherent radiation hardness of the process used, and gives a concrete example.  https://africanews.space/how-to-use-and-select-cots-components-for-space-applications/
+    - Whitepaper on use of COTS hardware in space applications, includes an overview of the testing process. https://aitechsystems.com/wp-content/uploads/2019/03/COTS_in_Space_Whitepaper_Aitech.pdf
+    - A company in Labège, France that does electronics components testing for radiation hardness. Clients include ESA https://www.trad.fr/en/space/electronic-components-testing/
+        - They provide a commercial software CAD tool for radiation shielding analysis, FASTRAD: https://www.fastrad.net/
+        - They  provide free software for computing "the space environment in terms of particle fluxes and radiation effects on electronic devices in terms of dose, displacement damage, single event effects and solar cell degradation.", called OMERE  https://www.trad.fr/en/space/omere-software/
+    - The TAMU facility does radiation testing for components.  Clients include US universities and SpaceX. Details on the facility https://cyclotron.tamu.edu/ref/images/brochure_2020.pdf
+- COTS FPGAs in space
+    - "An FPGA-based Radiation Tolerant SmallSat ComputerSystem", paper out of MSU. Combines multiple relevant concepts and technologies in one paper. The entire cubesat process is very interesting from a hardware and testing point of view. https://www.montana.edu/blameres/vitae/publications/d_conference_full/conf_full_033_fpga_based_smallsat_computer.pdf
+    - A paper on "Reconfigurable Fault Tolerance: A Comprehensive Framework
+for Reliable and Adaptive FPGA-Based Space Computing"  http://www.ann.ece.ufl.edu/pubs_and_talks/TECS12_jacobs_RFT.pdf
+    - A paper comparing radiation hardened FPGAs to COTS FPGAs, using specific Xilinx FPGAS https://ieeexplore.ieee.org/document/7231159
+    - A workshop slide deck on "A COTS approach with Radiation Tolerant FPGAs and MSICs"  https://indico.esa.int/event/246/attachments/2941/3619/3.7_microsemi_presentation_to_HEDTP.pdf
