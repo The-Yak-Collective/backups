@@ -1,4 +1,12 @@
 - [[Yak Talk Content Calendar]]
+- [[April 28th, 2021]]
+    - call with 
+    - 
+- [[Newsletter Bot Doc]]
+- 
+- 
+- ---
+- # Year 1 Archive
 - ## 01/30/2021 Call
     - [[Praful Mathur]] and [[Phil Wolff]]
     - The newsletter is not working at the moment. 

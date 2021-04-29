@@ -1,0 +1,63 @@
+- About:: __documenting the YakC bot family used for pushing/pulling Discord and project exhausts into the automated portions of the YakTalk newsletter__
+- Page Wranglers:: [[Phil Wolff]] | [[Jenna Dixon]] | [[Nathan Acks]] | [[Maier Fenster]] | [[Venkatesh Rao]]
+- Page Type:: {{or:#WorkingDoc | #Project | #tk2}}
+- Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- ---
+- Linked from:: [[Yak Talk Newsletter – To Do and Content Ideas]]
+- Related:: [[Yak Talk]] | [[Yak Talk Content Calendar]] | [[Yak Talk Minutes – 07112020]]
+[[Yak Talk Exploratory Notes – 07112020]] | [[Yak Talk Futurecasting – Working Notes]]
+- Previous Yaks:: 
+[[Alex Wagner]] | [[Grigori Milov]] | [[Matthew Sweet]] | [[Praful Mathur]] | [[Shreeda Segan]]
+- ---
+- About YakC boilerplate text (perhaps grabbed from a specific Roam page, so easy to update)
+    - xxxx bot info xxx
+- Automated newsletter parts
+    - Upcoming events
+        - xxxx Eventbot info xxx
+        - Scope: recurring events and nonrecurring events, soonest first
+        - User actions: 
+            - Read details
+            - Share this event (email, linkedin, twitter, ??)
+            - Jump into event's discord channel and/or voice channel
+        - [[Maier Fenster]] needs more discipline on event description - title should be longer and more descriptive
+    - The last week's links
+        - xxxx bot info xxx
+            - scrape off tracking IDs
+        - [[Maier Fenster]] if we have better definition of what is an interesting link, can further automatically refine what bot collects
+    - Monthly leaderboard list of top/trending few channels
+        - xxxx Signal bot info xxx
+        - [[Maier Fenster]] done, i think
+    - Channels showing signs of life (low-levels up from quiet)
+        - xxxx Signal bot info xxx
+        - [[Maier Fenster]] would need a short script to extract data from signal bot output
+    - Excerpts from links in Yak Writings
+        - xxxx bot info xxx
+            - scrape off tracking IDs
+        - [[Maier Fenster]] seems easy to write bot that does this. this is a subset of "last weeks link" data 
+    - Excerpts from Soapbox, will need a bit of human markup and queuing
+        - xxxx bot info xxx
+        - [[Maier Fenster]] no idea how to do this. seems to me more efficient if done manually, at least until that time people use the channel a lot. how is it different form summarizing/extracting any text channel?
+    - Agenda lists for all channels that have them
+        - xxxx bot info xxx
+        - [[Maier Fenster]] need to add that functionality, but not a biggie, as the data is all in database, so only need query
+    - [[Maier Fenster]] what about gigs? and internal help-wanted?
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- ---
+- Last Updated:: [[April 28th, 2021]] by `[[Jenna Dixon]]
+- Created:: [[April 28th, 2021]] by [[Jenna Dixon]]
+- 
