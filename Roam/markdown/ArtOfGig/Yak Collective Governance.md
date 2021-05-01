@@ -117,7 +117,7 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - Essential Balances by Ivo Velitchkov (on Yak Roam), proposed by [[Benjamin P Taylor - London]] https://www.strategicstructures.com/wordpress/?page_id=2013
         - [Albert O. Hirschman](https://en.wikipedia.org/wiki/Albert_O._Hirschman), [Exit, Voice, and Loyalty](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty)
             - cf [[Mansion Statement]] here
-                - does anyone know created the [[Mansion Statement]] page on the graph? it’s unsigned
+                - does anyone know created the [[Mansion Statement]] page on the graph? it’s unsigned 
             - proposed by [[Jenna Dixon]]
         - [Social Change Ecosystem Map](https://buildingmovement.org/our-work/movement-building/social-change-ecosystem-map/) for the idea of roles, guilds within guilds
             - > The Social Change Ecosystem Map - Definition of Roles
@@ -144,7 +144,7 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
             - https://www.washingtonpost.com/politics/2021/03/26/big-ships-were-created-avoid-relying-suez-canal-ironically-big-ship-is-now-blocking-it/
             - http://www.bbc.co.uk/history/british/modern/suez_01.shtml
             - https://mattstoller.substack.com/p/what-we-can-learn-from-a-big-boat
-        - [Crisp Collective](https://dna.crisp.se/docs/index.html)
+        - [[Crisp Collective Analysis]]
         - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
         - [Cursed takes: Multiplayer Figma](https://newsletter.danhon.com/archive/s09e18-cursed-takes-multiplayer-figma-and-low)
         - [Greenpeace architecture of participation](https://blog.weareopen.coop/howto-create-an-architecture-of-participation-for-your-open-source-project-a38386c69fa5)
@@ -155,6 +155,20 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
     - **Queued**
         - [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
         - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
+        - [chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
+        - anarchists in China https://theanarchistlibrary.org/library/robert-scalapino-and-george-t-yu-the-chinese-anarchist-movement
+        - kropotkin http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization
+        - Ivan illich
+            - https://www.tandfonline.com/doi/abs/10.1111/j.1469-5812.1981.tb00481.x?journalCode=rept20
+            - http://www.ditext.com/nursey/2.html
+            - https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/
+        - bayo akomolofe https://bayoakomolafe.net/project/i-coronavirus-mother-monster-activist/
+        - anarch transhumanism https://emmibevensee.com/?p=850
+        - Ernest junger
+            -  https://en.wikipedia.org/wiki/Eumeswil
+            - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386
+        - reading guide to sum of us https://heathermcghee.com/wp-content/uploads/2021/02/McGHEE_TheSumOfUs_HC_DiscussionGuide_Final.pdf
+        - 
         - [Goodreads page for Two Cheers for Anarchism](https://www.goodreads.com/book/show/14891877-two-cheers-for-anarchism)
         - Emma Goldman's writings — SELECTION?
         - Backup resources (not short-reads, unsuitable for featured reads in chats)
@@ -166,6 +180,7 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]
+- [[April 30th, 2021]] [[Crisp Collective Analysis]]
 - [[January 15th, 2021]]  [[Yak Gov Chat Minutes - Discovery and Serendipity]]
 - [[December 11th, 2020]] [[Yak Gov Chat Minutes - Do You Need a Business Ecosystem?]]
 - [[December 4th, 2020]] [[Yak Gov Chat Minutes - The Future of Platforms]] #meeting-notes

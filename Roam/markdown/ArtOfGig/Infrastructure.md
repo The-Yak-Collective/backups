@@ -25,6 +25,27 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 49 [[April 28th, 2021]]
+        - participants:: [[Nathan Acks]], [[Jenna Dixon]], [[Phil Wolff]]
+        - **Notes**
+            - [[Nathan Acks]] got on a few minutes late, and so missed some notes...
+            - [[Jenna Dixon]] is looking to improve some of the existing bots. The goal is to automate Yak Talk a bit more.
+            - [[Phil Wolff]] notes that there's a bot now for pulling links (`$links`). It looks like this is part of onboarding_robot. Ideally this might just be the upcoming events + a list of links.
+            - [[Jenna Dixon]] notes that the next step would be to generate a list of robots + commands to generate/read this.
+            - [[Phil Wolff]] thinks that newsletters should start on the website, and then move into the newsletter. Potential bots: Last week content, upcoming, etc. There should be *one* place people go to get raw data.
+            - [[Phil Wolff]] would ideally like a script that daily pulls what happened on Discord, events, shared links, maybe agenda items.
+        - **Follow-Up**
+            - In the Yak Talk [[Newsletter Bot Doc]], identify which bot does what from [[Phil Wolff]]'s list in `#voice-meta`:
+                - Upcoming events via the eventbot. 
+                - The last week context in links.
+                - About YakC boilerplate text (perhaps grabbed from a specific Roam page, so easy to update)
+                - monthly leaderboard list of top/trending few channels. 
+                - of channels showing signs of life (low-levels up from quiet)
+                - excerpts from links in Yak Writings
+                - excerpts from Soapbox, but needs a bit of human markup and queuing.
+    - Infrastructure Chat 48 [[April 21st, 2021]]
+    - Infrastructure Chat 47 [[April 14th, 2021]]
+    - Infrastructure Chat 46 [[April 7th, 2021]]
     - Infrastructure Chat 45 [[March 31st, 2021]]
         - participants:: [[Bryan King]] [[Jenna Dixon]] [[Oliver King]] [[Phil Wolff]] [[Maier Fenster]]
         - **Notes**

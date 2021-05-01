@@ -1,0 +1,50 @@
+- link: (https://dna.crisp.se/docs/index.html)
+- [[Oliver King]]
+    - Measure and manage motivation, profit is just a side effect -- might be more useful to explicate and track against specific things vs. some nebulously defined entity
+    - Don't have the luxury of hiring only the best for the YC as a whole but definitely something we can apply at the project level
+    - Maybe their differences from us highlights the evolution of YC into a carrier bag; if it works, let's apply it to a situation where it is believed to work and explicate as playbook -- could we shepherd projects with necessary activation energy instead of pouring energy into empty space?
+- [[Venkatesh Rao]]
+    - I like the idea of the decision log
+    - Keep ownership worthless
+    - possibly compare their whole structure to a single project for us
+- [[Phil Wolff]]
+    - They are not like us
+        - The 30 or so consultants are committed to the company; emotional and financial equity
+        - High barrier-to-entry for new people. 
+        - It's an all-in business: all your consulting work goes through Crisp. 
+        - They are a limited corporation, with a physical space, and a small number of people.
+        - They are homogeneous on the client problems they address. 
+        - They are tech labor for hire (coders and other hourly tech help) vs people who solve funny-shaped problems 
+        - They've been around for years. So this "dna" is what survived and emerged
+    - They are like us 
+        - decentralization of decisions, flat hierarchy 
+        - prefer adhocracy and unconferencing and other low-formality practices
+        - personal financial risk and instability - we don't buffer dry or slow times or clients that don't pay or colleagues that are sick or unable to work 
+- [[Grigori Milov]]
+    - Sweden is a very special place, we are not Sweden 
+    - not clonable.
+    - decisions process documentation
+    - Element of surprise. They were surprised that the whole construction worked for them. That's probably why they are proud of it.
+    - Important to pay attention to what business they are in. This seems to be part of the answer https://www.crisp.se/en/courses
+        - A few training companies I know are in the same business (a lot of open courses and conferences/unconferences that lead to corporate trainings and consulting gigs). The flywheel is kind of obvious in their case. 
+    - This page looks somewhat familiar :) https://www.crisp.se/en/events
+    - There are at least two completely different scenarios depending on how big The Yak Collective actually is. 
+        - 1. We assume that we are 800 people strong. 
+        - 2. We assume that we are a much smaller group, tentatively described as regular participants of chats and projects, which will give a dozen or two of people or something like that. 
+    - These scenarios will probably lead to completely different organizational models.
+- [[Bryan King]]
+    - Would we benefit from having a more exclusive recruitment process (one which I personally wouldn't have passed)? Does a more rigorous process of entry create more buy in?
+    - Promotion process...how do we incentivize people to participate?
+        - Could/should we institute a military-style ranking system? Maybe major/minor league baseball system is more appropriate?
+    - RE:economics and ownership, could we create a nonprofit structure that prohibits the sale? (Ghost does this: "Our legal constitution ensures that the company can never be bought or sold, and one hundred percent of our revenue is reinvested into the product and the community." https://ghost.org/about/)
+    - RE:recruiting: Could we post "job listings" for projects? Should resource planning be a part of project initiation, so we know the roles required? This could be more useful if we decide that we don't want to be a exclusive club that requires invite.
+- 
+- ---
+- About:: __XXX__
+- Page Wrangler: [[Venkatesh Rao]]
+- Page Type: {{or: #Project | #tk1 | #tk2 }}
+- Current State: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
+- Created:: [[April 30th, 2021]] by [[Venkatesh Rao]]
+- Last Updated:: `/Today` by `[[Fname Lname]]`
+- Last Gardened:: [[April 30th, 2021]] by [[Jenna Dixon]]
+- 
