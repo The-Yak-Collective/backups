@@ -9,11 +9,33 @@
 - Previous Yaks:: 
 [[Alex Wagner]] | [[Grigori Milov]] | [[Matthew Sweet]] | [[Praful Mathur]] | [[Shreeda Segan]]
 - ---
+- Call Notes for [[May 1st, 2021]]: 
+    - Architecture for automating newsletter 
+        - Data extraction from activity to a data store
+        - Scheduled queries that generate renderings
+        - Portfolio of renderings: (blog page, email newsletter, tweets, insta) each with their own schedule, query scope, formatting, and timing
+            - RSS to X 
+    - Which bot handles what? 
+    - "Key person" problem: assuring a new person can continue. Access to data, documents, code. Apprenticing. 
+    - Tools for programmatic newsletters. 
+        - [https://buttondown.email](https://buttondown.email) more APIish than substack and mailchimp, via [[Jenna Dixon]]
+    - How do we add human announcements at the top of the feed, only as needed? 
+        - News announcement channel. 
+    - What language do we want in the header or footer for disclaimers or explanations? 
+        - "This is activity from the Yak Collective's discord[link] conversations as of [date/time]. CC-BY Yak Collective [year]. Archive[link] of newsletters and blog posts."
+    - Action items: 
+        - manually curated first and second editions, then automate further. [[Phil Wolff]], [[Jenna Dixon]] to .md the first set. 
+        - check for permissions to automation elements. [[Jenna Dixon]] ping for Prafur's access to ??
+        - fundraising project seed: raise a budget to cover incidentals. 
+        - https://github.com/The-Yak-Collective/yakcollective/blob/astonishing-stories/newsletter/_posts/2021-05-01_draft.md
+        - check on css classes to define for common parts. 
+- 
+- ---
 - About YakC boilerplate text (perhaps grabbed from a specific Roam page, so easy to update)
     - [[Nathan Acks]]: We don't have a bot that can do anything like this to my knowledge, __and__ Roam still lacks an API (at least one that will work for the YC graph). __But!__ We have [a stable daily backup](https://github.com/The-Yak-Collective/backups) now, so anything we write should be available as a (Roam-flavored) markdown file [here](https://github.com/The-Yak-Collective/backups/tree/master/Roam/markdown/ArtOfGig). Files in that directory get refreshed daily, so as long as we don't need to turn-around changes in this text on short notice, we can pull from here.
     - [[Phil Wolff]]: Could this work with a non-Roam source-of-truth for the boilerplate?
 - Automated newsletter parts
-    - Upcoming events
+    - Upcoming events [[Jenna Dixon]]
         - [[Nathan Acks]]: Two options here: The bot that produces the `#upcoming-events` dashboard ([project_ui](https://github.com/The-Yak-Collective/project_ui)), or the bot that manages `#event-notifications` ([gmail_hook](https://github.com/The-Yak-Collective/gmail_hook), I think). My instinct is that the Project_UI bot will be easier to adapt... All we really need it to is push a new/updated markdown file detailing the events somewhere. Maybe we overload the [backups](https://github.com/The-Yak-Collective/backups) repo for this, or maybe we create a new "newsletter" repo. Probably want to update that file one per week at XX:XX UTC.
         - Scope: recurring events and nonrecurring events, soonest first
         - User actions: 
@@ -21,7 +43,7 @@
             - Share this event (email, linkedin, twitter, ??)
             - Jump into event's discord channel and/or voice channel
         - [[Maier Fenster]] needs more discipline on event description - title should be longer and more descriptive
-    - The last week's links
+    - The last week's links [[Phil Wolff]]
         - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. When `$links` is called, it looks like this does a __real time__ search for links over all channels. So perhaps this functionality could/should also be called regularly (once per week at XX:XX UTC?) to generate a list that can then be checked into [the same repo/place as any upcoming events](((7jQNzv81y)))?
             - scrape off tracking IDs
         - [[Maier Fenster]] if we have better definition of what is an interesting link, can further automatically refine what bot collects
@@ -68,24 +90,32 @@
                     - post date/time (+post permalink)
                         - Should be the datetime of the original message.
                         - The permalink is the #anchor link to this part of the linklog.
-    - Monthly leaderboard list of top/trending few channels
+    - Monthly leaderboard list of top/trending few channels [[Jenna Dixon]]
         - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. Seems like we'd just be writing the results of `$signal` for a period of X days once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y)))?
         - [[Maier Fenster]] done, i think
-    - Channels showing signs of life (low-levels up from quiet)
+    - Channels showing signs of life (low-levels up from quiet) [[#]]
         - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. Seems like we'd just be writing the results of `$signal` for a period of X days once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y)))?
         - [[Maier Fenster]] would need a short script to extract data from signal bot output
-    - Excerpts from links in Yak Writings
+    - Excerpts from links in Yak Writings [[Phil Wolff]]
         - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. See [Maier's comment below](((Od2zD_4sp))) and [my related comment above](((qrAgz4bi-))).
             - scrape off tracking IDs
         - [[Maier Fenster]] seems easy to write bot that does this. this is a subset of "last weeks link" data 
-    - Excerpts from Soapbox, will need a bit of human markup and queuing
+    - Excerpts from Soapbox, will need a bit of human markup and queuing [[#]]
         - [[Nathan Acks]]: No bot to do this, I think that [Maier's comment below](((5R-5Tqjlh))) is spot-on.
         - [[Maier Fenster]] no idea how to do this. seems to me more efficient if done manually, at least until that time people use the channel a lot. how is it different form summarizing/extracting any text channel?
-    - Agenda lists for all channels that have them
+    - Agenda lists for channels that have them [[Jenna Dixon]]
+        - Infra [[Jenna Dixon]]
+        - Marketing [[#]]
+        - Rover [[#]]
+        - OGS [[Jenna Dixon]] or [[#]]
         - [[Nathan Acks]]: This is handled by [gigayak](https://github.com/The-Yak-Collective/gigayak). Seems like we'd just be writing the results of `$agendalist` for each channel with an agenda once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y))). Probably needs more massaging than other data to get into a form suitable for cut-and-paste.
             - **Side note:** "Gigayak" is the best bot name. Always makes me think of some kind of giant yak kaiju.
         - [[Maier Fenster]] need to add that functionality, but not a biggie, as the data is all in database, so only need query
-    - [[Maier Fenster]] what about gigs? and internal help-wanted?
+    - [[Maier Fenster]] what about gigs? and 
+    - internal help-wanted?
+    - Rover Weekly Haiku [[Meredith Noelle]]
+- 
+- 
 - 
 - ---
 - Last Updated:: [[April XXth, 2021]] by [[#]]
