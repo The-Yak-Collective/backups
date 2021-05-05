@@ -53,6 +53,7 @@
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :block/parents
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :graph/name {:db/unique :db.unique/identity},
   :block/page
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :version/id {:db/unique :db.unique/identity}},
@@ -24656,8 +24657,8 @@
   [2821 :version/id "0.8.5" 536881218]
   [2821
    :version/nonce
-   "uuid21087192-a9c4-4105-8107-6a551478c504"
-   536881224]
+   "uuid70788766-a17d-4bd1-8599-d2616e9b9c25"
+   536881225]
   [2822 :block/uid "04-30-2021" 536881219]
   [2822 :create/time 1619776254947 536881219]
   [2822 :create/user 2367 536881219]
@@ -24694,4 +24695,11 @@
   [2827 :edit/time 1620121849330 536881224]
   [2827 :edit/user 2367 536881224]
   [2827 :log/id 1620121849329 536881224]
-  [2827 :node/title "May 4th, 2021" 536881224]]}
+  [2827 :node/title "May 4th, 2021" 536881224]
+  [2828 :block/uid "05-05-2021" 536881225]
+  [2828 :create/time 1620208248359 536881225]
+  [2828 :create/user 2367 536881225]
+  [2828 :edit/time 1620208248359 536881225]
+  [2828 :edit/user 2367 536881225]
+  [2828 :log/id 1620208248358 536881225]
+  [2828 :node/title "May 5th, 2021" 536881225]]}

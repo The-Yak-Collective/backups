@@ -36,7 +36,7 @@
     - [[Phil Wolff]]: Could this work with a non-Roam source-of-truth for the boilerplate?
 - Automated newsletter parts
     - Upcoming events [[Jenna Dixon]]
-        - [[Nathan Acks]]: Two options here: The bot that produces the `#upcoming-events` dashboard ([project_ui](https://github.com/The-Yak-Collective/project_ui)), or the bot that manages `#event-notifications` ([gmail_hook](https://github.com/The-Yak-Collective/gmail_hook), I think). My instinct is that the Project_UI bot will be easier to adapt... All we really need it to is push a new/updated markdown file detailing the events somewhere. Maybe we overload the [backups](https://github.com/The-Yak-Collective/backups) repo for this, or maybe we create a new "newsletter" repo. Probably want to update that file one per week at XX:XX UTC.
+        - [[Nathan Acks]]: Two options here: One is to use the bot that produces the `#upcoming-events` dashboard ([project_ui](https://github.com/The-Yak-Collective/project_ui)), the other to use the bot that pushes updates to `#event-notifications` ([gmail_hook](https://github.com/The-Yak-Collective/gmail_hook)). My instinct is that the Project_UI bot will be easier to adapt... All we really need it to is push a new/updated markdown file detailing the events somewhere. Maybe we overload the [backups](https://github.com/The-Yak-Collective/backups) repo for this, or maybe we create a new "newsletter" repo. Probably want to update that file one per week at XX:XX UTC.
         - Scope: recurring events and nonrecurring events, soonest first
         - User actions: 
             - Read details
