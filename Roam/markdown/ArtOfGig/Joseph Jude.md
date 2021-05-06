@@ -1,0 +1,6 @@
+- 👋  Hi everyone!  
+- 🇮🇳  I'm Joseph, and I live in India.  
+- 🧠  I coach leaders build competency and confidence via "Gravitas WINS" program
+- ✍️  I write words and code
+- 🤝  I help small business owners solve their business problems with technology
+- 🌐  My website is: https://jjude.com; twitter: https://twitter.com/jjude; linkedin: https://www.linkedin.com/in/jjude/

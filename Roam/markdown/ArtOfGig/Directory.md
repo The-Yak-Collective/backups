@@ -149,6 +149,13 @@ I write about design, education, training, facilitation, Systems Thinking, and T
 - [[John Grant]]
     - A background in software engineering, my primary focus is data science and machine learning. Interests include AI, the future of work, and lifelong learning.
     - https://twitter.com/jhngrant
+- [[Joseph Jude]]
+    - 👋  Hi everyone!
+    - 🇮🇳  I'm Joseph, and I live in India.  
+    - 🧠  I coach leaders build competency and confidence via "Gravitas WINS" program
+    - ✍️  I write words and code
+    - 🤝  I help small business owners solve their business problems with technology
+    - 🌐  My website is: https://jjude.com; twitter: https://twitter.com/jjude; linkedin: https://www.linkedin.com/in/jjude/
 - [[Carlos Gutierrez]]
     - http://carlosgutierrez.me
     - US citizen living in [[Mexico City, Mexico]].
