@@ -1,0 +1,48 @@
+- link https://theanarchistlibrary.org/library/robert-scalapino-and-george-t-yu-the-chinese-anarchist-movement
+- [[Oliver King]]
+    - The paradox of violence; emphasis "the pistol and the bomb" + targeted assassinations; might speak to Sachin's point wherein anarchy in the context of a collectivized culture is often seen as some sort of glorious revolution more about doing unto others
+    - 'The Society to Advance Morality'; the conclusion after serving time in prison was individuals needed to be moral and to be constructive for society to function. Something we've seen re: decentralized collectives being selective on the people they let in e.g. people of high caliber (read: similar values) have less need for structure. A core component of decentralized governance -- the need for clearly articulated decision-making processes and conflict resolution processes
+- [[Grigori Milov]]
+    - It seems that chinese anarchists learned a lot from Kropotkin, so it can be interesting to learn the core of his believes as well.
+    - He was a pretty strange guy. He was a geographer, who mapped Siberia and had theories about Siberia abd canada being of the same origin
+    - He crossed China at least once. 
+    - Chinese anarchists had to go all the way through Russia to get to Paris. It took like 20 days to get there.
+    - And all they got was this weird russian dude.
+- [[Venkatesh Rao]]
+    - Analogy
+        - 1860s - 90s — industrial Revolution, civil war, emancipation of serfs in Russia, French Revolution, anarchism vs communism, communism won
+        - 1980s - 2006 — internet revolution, neoliberalism, deng xiaoping, fall of soviet, woke vs antifa, woke is winning
+        - Personal transformation vs top-down uniform moral code
+        - Anarchism is associated with chaos not because they want chaos but because it’s a natural consequence of more individual transformations and anti-authoritarian tendencies that lead to bad coordination capabilities
+        - Highly vulnerable to authoritarian opponents who might agree a lot on principles but are organized differently
+- [[Sachin Benny]]
+    - Very online = going to Paris
+    - Similarities to the left accelerationist movement - Nick Srnicek
+    - Tutelage vs re-education. Anarchism believed in tutelage which was less top down compared to re-education 
+    - both movements were defined by what they were against
+    - large scale co-ordinated action is hard without top-down ideology? 
+    - Did anarchists see themselves as anarchists? 
+    - " Their position, however, was clear and unequivocal. Wu Chih-hui remarked that the blind worship of religion had been one of the great historical problems of Europe, but he noted that a significant change was taking place. [19] The separation of church and state in France was cited as one indication of this change." - anarchism and communism completed the separation of church and state
+- [[Bryan King]]
+    - Anarchists believed that freedom could only come after destroying the previous system, which they believed leaned too heavily on Confucian ideology and feared it would leave China behind as the rest of the world modernized.
+    - Strong ethical codes are a common thread among decentralized orgs, as well as anarchist and revolutionary movements. Washington struggled to get his men to muster during the American Revolution because many of them would rather be drunken, philandering fools.
+    - If people aren't able to govern themselves, conflict inevitably arises and needs some kind of authority to resolve. What's interesting to me is that setting the code in itself is a governing act, IMO requires stronger authority to get people to adhere to the letter of the law, rather than allowing people freedom within guidelines.
+    - Anarchists don't seem to know what they'd do if they were successful in destroying the status quo. If that happened, there's a power vacuum and eventually another strong, centralized force moves in to grab control.
+- 
+- 
+- [[Jenna Dixon]]
+    - general reminder of broad movements hard and messy. cooptation. grift.
+    - law of unintended consequences
+        - > Perhaps the motives of Chinese authorities in sending students abroad were not entirely “pure.” Chu Ho-chung, himself sent to Germany during this period, has written that local authorities in the Wuhan area sent student “activists” abroad to get rid of them, with the more radical being dispatched to Europe and the less radical to Japan! [[4]](https://theanarchistlibrary.org/library/robert-scalapino-and-george-t-yu-the-chinese-anarchist-movement/#fn4) He also reported that students interested in engineering and mining generally went to Brussels in this period, whereas those studying law, political science, and economics went mainly to Paris. Thus Paris became the natural locus of student radicalism. The Paris Group Whatever the factual basis of these remarks, Paris did indeed become the center of the early Chinese Anarchist Movement. When Sun
+    - using economic activities to learn along with generating actual funding 
+        - > Two years later, after various chemical experiments with beans, Li established a bean-curd factory which produced assorted bean products in addition to the traditional Chinese bean-curds.
+        - > The entrepreneurial activities of the young Chinese in Paris underwent further expansion in 1906–7. A printing plant (Imprimerie Chinoise) was organized in Paris in 1906 by Chang, Li, Ch’u, and Wu Chihhui. The following year, a Chinese pictorial Shih-chieh (The World), was published, with ten thousand copies being widely distributed in many countries Due to high printing costs and a low income from sales, Shih-chieh did not last long; only two issues and one supplement were printed.
+        - > These ventures had their very practical aspect; they represented attempts to finance the education of as many fellow countrymen as possible. But underlying them also ran a strong current of idealism, and the ideological base of this idealism lay in Anarchism as it was currently being propagated in Europe.
+    - if you come for the king, best not fail
+        - > In 1906, learning that Sun would attempt an uprising in Kwangtung, Liu along with many other students left Japan for home. Upon reaching Hong Kong, however, Liu accepted the editorship of a local journal and remained there. The following year, it was decided that a successful revolt in Kwangtung would be facilitated by the assassination of either the governor or the naval commander. The latter, Li Chun; was chosen as the target and Liu volunteered to serve as executioner. Due to Liu’s carelessness, however, an accident occurred and the bomb exploded prematurely. He was severely wounded, and lost all the fingers on his left hand. This incident also resulted in his arrest, and while the police were unable to determine his exact mission, he spent nearly three years in prison, and was released then only because his literary efforts were so admired by local officials that they petitioned higher authorities on his behalf.
+    - always the risk of opportunism
+        - > The more serious charge perhaps is that of opportunism. It is alleged that men like Wu and Li betrayed a basic insincerity in professing Anarchism and yet affiliating themselves increasingly with the nationalist movement, and a centralized political organization, the Kuomintang, which was antithetical to their Anarchist beliefs.
+- 
+- 
+- 
+- 

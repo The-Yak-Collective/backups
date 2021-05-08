@@ -156,7 +156,7 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
         - [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
         - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
         - [chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
-        - anarchists in China https://theanarchistlibrary.org/library/robert-scalapino-and-george-t-yu-the-chinese-anarchist-movement
+        - [[Anarchists in China]]
         - kropotkin http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization
         - Ivan illich
             - https://www.tandfonline.com/doi/abs/10.1111/j.1469-5812.1981.tb00481.x?journalCode=rept20
