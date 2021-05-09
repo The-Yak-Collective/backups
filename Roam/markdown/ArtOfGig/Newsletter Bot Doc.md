@@ -112,10 +112,33 @@
             - **Side note:** "Gigayak" is the best bot name. Always makes me think of some kind of giant yak kaiju.
         - [[Maier Fenster]] need to add that functionality, but not a biggie, as the data is all in database, so only need query
     - [[Maier Fenster]] what about gigs? and 
+        - 
     - internal help-wanted?
     - Rover Weekly Haiku [[Meredith Noelle]]
 - 
 - 
+- [[May 8th, 2021]] $agendalist
+    - [[Phil Wolff]]
+        - doesn't want to know who posted
+        - add links
+            - if they bounce off, they know they'll need to join to see
+        - ask bot team if we could have an $agendalist variant
+            - can we DM @gigayak 
+            - add a date/time stamp of original $agendaadd
+            - include link back to original posts ([#](#))
+            - omit the original yak poster
+                - per Chatham House rules
+            - change all prefixes to unique channel IDs
+                - either long...
+                    - infrastructure 99 | kjhlfkjhsalkfj
+                    - gig 99 | hlaksjdhfl
+                    - online governance studies 99 | lkjdahfglk
+                    - yak rover 99 | lkjashdlfkjh
+                - ...or short
+                    - infra99 | kjhlfkjhsalkfj
+                    - gig 99 | hlaksjdhfl
+                    - ogs 99 | lkjdahfglk
+                    - yr 99 | lkjashdlfkjh
 - 
 - ---
 - Last Updated:: [[April XXth, 2021]] by [[#]]

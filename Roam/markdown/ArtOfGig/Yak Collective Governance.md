@@ -180,6 +180,7 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]
+- [[May 7th, 2021]] [[Yak Gov Chat Minutes - Chinese Anarchism]]
 - [[April 30th, 2021]] [[Crisp Collective Analysis]]
 - [[January 15th, 2021]]  [[Yak Gov Chat Minutes - Discovery and Serendipity]]
 - [[December 11th, 2020]] [[Yak Gov Chat Minutes - Do You Need a Business Ecosystem?]]
