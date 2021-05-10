@@ -25,6 +25,8 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 50 [[May 5th, 2021]]
+        - participants:: [[Nathan Acks]], [[Oliver King]]
     - Infrastructure Chat 49 [[April 28th, 2021]]
         - participants:: [[Nathan Acks]], [[Jenna Dixon]], [[Phil Wolff]]
         - **Notes**
