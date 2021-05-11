@@ -1,0 +1,8 @@
+- A temporary list of topics and problems that keep coming back across the different builds
+- Bare collection with little curation for now.
+- The list
+    - Need for an extensible (at at least less limited) sensor and actuator "bus", so we can connect many motors and sensors to a single computing unit. Many of us hit the physical limits of PIN availability, apparently even with protocols like I2C.
+    - Motor synchronization: For rovers with many motion motors (e.g. one per wheel, or 3 per leg), there are problems of sync. Legs are less prone to the problem when using action groups, but still lack guarantees. The problem can be acute with wheeled rovers, becoming unable to rove straight.
+    - Common, rather high-level command interface: Forward, backward, upward? Eric's on the BOS library to address that with a proposal.
+    - Can we deal with real-time in a common way?
+    - How to leverage parallelism and/or concurrency with a single compute coupled to many sensors and actuators? Usually interrupt driven is critical.

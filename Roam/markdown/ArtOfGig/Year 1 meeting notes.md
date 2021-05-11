@@ -149,5 +149,27 @@
             - Tradeoff between time and reiliability different for different applications
 - May 3: Maier
 - Rhett May 10 -- his build, 
+    - Presentation and Prompt - ? 
+    - Discussion
+        - Venkat
+            - Shared command language to control rover?
+            - Concurrency? Microsoft's concurrent runtime?
+            - At abstract level robots are just logical computation units? 
+            - Multiple robots coordinating
+            - Perserverance is faster than Curiosity
+        - Eric
+            - BOS as a high level language
+            - List of shared problems? 
+        - Maier
+            - Spider is interrupt driven and concurrent?
+        - Anuraj
+            - Command lang for Rhett's rover? 
+            - Shared command language to control rover? YakLang? 
+            - Current rovers are slow maybe because to keep the rover safe
+            - Links for embedded development
+                - https://platformio.org/
+                - https://interrupt.memfault.com/blog/seamless-firmware-with-platformio
+                - https://diyprojects.io/install-ide-platformio-extension-visual-studio-code-vscode-windows-32-bit-linux/#.YJoRc_9R0UE
+                - https://maker.pro/custom/projects/all-you-need-to-know-about-l293d
 - May 17 Jascha -- batteries
 - PLEASE KEEP THIS LINK AT THE BOTTOM HERE: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
