@@ -107,6 +107,8 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - [David Teece interview on dynamic capabilities](https://www.strategy-business.com/article/00225?gko=32b8d)
         - [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)
     - **Queued**
+        - [Doctorow Metacrap article](https://people.well.com/user/doctorow/metacrap.htm)
+        - [Anatomy of a 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9?gi=cd39e157edd4)
         - Liquid modernity, Zygmunt Bauman
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
             - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
@@ -158,6 +160,8 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
         - [chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
         - [[Anarchists in China]]
         - kropotkin http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization
+            - "An English child boxes one on one, not in a group as we Russians like to spar.”
+Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
         - Ivan illich
             - https://www.tandfonline.com/doi/abs/10.1111/j.1469-5812.1981.tb00481.x?journalCode=rept20
             - http://www.ditext.com/nursey/2.html

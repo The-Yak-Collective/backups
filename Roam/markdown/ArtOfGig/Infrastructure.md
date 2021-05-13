@@ -25,6 +25,29 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 51 [[May 12th, 2021]]
+        - participants:: [[Oliver King]], [[Maier Fenster]], [[Nathan Acks]]
+        - **Notes**
+            - [[Oliver King]] wants to get the subscribe-projects experimental channel working, and also understand how to update the `#experimental-help-channel`.
+            - [[Maier Fenster]] fixed a couple of bugs in the @Project_UI bot stemming from the recent channel re-arrangement, and then provided a walk-through of how to use the bot to update the help menu.
+            - [[Oliver King]] wonders why the help file isn't just plain text.
+            - [[Maier Fenster]] notes that the current presentation method gives us a lot more control over formatting.
+            - [[Nathan Acks]] warns that Discord formats things inconsistently between different devices, so the menu needs a lot of cross-device testing so that it looks okay.
+            - [[Oliver King]] wonders how to change the channel.
+            - [[Maier Fenster]] thinks we should just change the channel name.
+            - [[Oliver King]] notes that the community server "get started" channel is fixed, so we need to push to that one, not the current channel.
+            - [[Maier Fenster]] notes that then we just need to change the channel ID in the GitHub repo.
+            - [[Oliver King]] wonders why @Project_UI managers both the subscribe channels and the help channel.
+            - [[Maier Fenster]] says that this was just convenience/laziness. They're actually different bots, but both talk to the same Discord bot endpoint.
+            - [[Nathan Acks]] set up a new "bot wranglers" GitHub team for working with bots. Right now this is [[Nathan Acks]], [[Maier Fenster]], and [[Oliver King]].
+            - [[Oliver King]] wonders what the future of subscribe channels is.
+            - [[Maier Fenster]] points out that all development work is concentrated in `#experimental-project-ui` now.
+            - [[Maier Fenster]] provides a brief tour of `#upcoming-events` (should update every 10 minutes), `#experimental-help-channel` (the goal was to have hypertext links within the bits), and `#experimental-project-ui` (still unfinished, but we needed a more general/functional way for people to manage channels).
+            - [[Maier Fenster]] notes that `#experimental-help-channel` is a two-pass system, since it needs to create the help text, and then go back and find/replace the individual message links.
+            - [[Nathan Acks]] wonders if `#experimental-project-ui` should be extended to include work groups and study groups.
+            - [[Oliver King]] agrees.
+            - [[Maier Fenster]] notes that the bot needs to be extended to look at the other sections.
+            - [[Nathan Acks]] notes that this means that once the bot is updated, we have all of the infrastructure in place to start hiding channels (if we decide to do this).
     - Infrastructure Chat 50 [[May 5th, 2021]]
         - participants:: [[Nathan Acks]], [[Oliver King]]
     - Infrastructure Chat 49 [[April 28th, 2021]]
