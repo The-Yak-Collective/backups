@@ -88,7 +88,7 @@
     - Website?
 - April 12: Eric
     - Slide deck -- [powering the HiWonder](https://docs.google.com/presentation/d/1A13bFuu6Q4-q5NAIydtSFYRULLdw9Wi8Eca0XUxk7pc/edit#slide=id.p)
-    - Links from Anuraj
+    - Links from [[Anuraj R]]
         - https://raspberrypi.stackexchange.com/questions/73126/can-i-power-a-pi-through-a-5v-pin
         - https://thepihut.com/blogs/raspberry-pi-tutorials/how-do-i-power-my-raspberry-pi
         - https://raspberrypi.stackexchange.com/questions/1617/how-do-i-supply-power-through-the-gpio
