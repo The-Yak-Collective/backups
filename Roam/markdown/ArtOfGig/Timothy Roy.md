@@ -1,9 +1,8 @@
-- About me: former soldier, former lawyer, current [[Full-Stack]] developer (React, Python, [[Clojure]]) and CS teacher at Lambda
-    - My dream is to do machine learning for a longevity/biotech startup :)
-    - Had a job job till February, now I'm doing covid projects and working pt
-- Been spending my COVID-19 time collecting the largest dataset of covid-related radiology images for use in machine learning, running a FB group to promote mask-wearing, and binging TV.
-- Interested in machine learning, data science, and React dev gigs
-- Interwebs:
-    - https://twitter.com/coyotespike
-    - coyotespike.github.com
-    - github.com/coyotespike
+- I'm a [[Full-Stack]] developer (React, Python, [[Clojure]]), and part-time CS teacher at Lambda. Currently (May 2021) I'm studying for the GRE so I can go to grad school so I can do ML professionally so I can work on longevity.
+    - I'm here because I like the idea of Yaks collaborating on weird projects in a flexible economy. It feels so Rainbow's End.
+    - I used to was a soldier and then used to was a lawyer. I live in a heck of a fixer-upper in Austin. I ski in the winter and box the rest of the year.
+    - I want to build a GAN to make art, and a trading bot, and other weird things.
+    - Links:
+        - https://twitter.com/coyotespike
+        - https://coyotespike.github.io
+        - github.com/coyotespike

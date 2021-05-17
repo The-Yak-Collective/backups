@@ -3,7 +3,6 @@
     - Additional Page Wranglers:: [[Jenna Dixon]] | [[Fname Lname]] 
 - Last Updated:: [[September 8th, 2020]]
 - Last Updated By:: [[Jenna Dixon]]
--  
 - ###  How to jump in here
 - Minimalist version: 
     - Insert a page with your name in alphabetical order (by last name), and then do what you like with that page. 
@@ -132,6 +131,10 @@ I write about design, education, training, facilitation, Systems Thinking, and T
 - [[Nathaniel Eliot]]
     - [Site Reliability Engineer / Open Source advocate / Small-shop tech consulting](https://greenfieldguild.com/)
     - My handle is [@temujin9](https://www.google.com/search?q=temujin9) most everywhere.
+- [[Francis Endrinal]]
+    - Current Day Job: Sales Operations Data Analyst
+    - Indie goal: Consultant to learners of data tools like R, Python, SQL
+    - Other projects: [The Data Salaryman - YouTube](https://www.youtube.com/channel/UCp415w1HxrUqt1aVa5-PNEg)
 - [[Jason Fox]]
     - Melbourne-based metamodern wizard masquerading as a leadership advisor. Independent since 2011. I write at [fox.substack.com](fox.substack.com)
     - [drjasonfox.com](www.drjasonfox.com) | [@drjasonfox](www.twitter.com/drjasonfox)
@@ -497,6 +500,14 @@ hello@sampanter.info
 - [[Charles Rice]]
     - Paycheck Data Science instructor for tech bootcamps; gig-curious; general purpose clarifier of the complex. Seattle-based
 - [[Timothy Roy]]
+    - I'm a [[Full-Stack]] developer (React, Python, [[Clojure]]), and part-time CS teacher at Lambda. Currently (May 2021) I'm studying for the GRE so I can go to grad school so I can do ML professionally so I can work on longevity.
+        - I'm here because I like the idea of Yaks collaborating on weird projects in a flexible economy. It feels so Rainbow's End.
+        - I used to was a soldier and then used to was a lawyer. I live in a heck of a fixer-upper in Austin. I ski in the winter and box the rest of the year.
+        - I want to build a GAN to make art, and a trading bot, and other weird things.
+        - Links:
+            - https://twitter.com/coyotespike
+            - https://coyotespike.github.io
+            - github.com/coyotespike
 - [[Jeremie Rykner]]
     - Mentoring and Consulting Startups on Business Development, Digital Marketing and Productivity
     - Interested in the crossroads between Technology, Psychology and Productivity in the digital age
@@ -649,7 +660,6 @@ Previously founder/CEO of Pure Learning (a digital learning and consulting compa
 - [[Aaron Young]]
 - [[James Young]]
 - [[Jakub Zárybnický]]
--      
     - I work in strategy, tech, and org consulting properly by day, previously more marketing freelance. Indie/secret jobs nights and weekends.
     - Building up independent coaching company to help others be happier and build more.
 - [[Cindy Zhang]]

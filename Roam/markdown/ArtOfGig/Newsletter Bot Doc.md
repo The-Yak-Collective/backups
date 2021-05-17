@@ -29,7 +29,47 @@
         - fundraising project seed: raise a budget to cover incidentals. 
         - https://github.com/The-Yak-Collective/yakcollective/blob/astonishing-stories/newsletter/_posts/2021-05-01_draft.md
         - check on css classes to define for common parts. 
-- 
+- Call Notes for [[May 8th, 2021]]
+    - [[Phil Wolff]]
+        - doesn't want to know who posted
+        - add links
+            - if they bounce off, they know they'll need to join to see
+        - ask bot team if we could have an $agendalist variant
+            - can we DM @gigayak 
+            - add a date/time stamp of original $agendaadd
+            - include link back to original posts ([#](#))
+            - omit the original yak poster
+                - per Chatham House rules
+            - change all prefixes to unique channel IDs
+                - either long...
+                    - infrastructure 99 | kjhlfkjhsalkfj
+                    - gig 99 | hlaksjdhfl
+                    - online governance studies 99 | lkjdahfglk
+                    - yak rover 99 | lkjashdlfkjh
+                - ...or short
+                    - infra99 | kjhlfkjhsalkfj
+                    - gig 99 | hlaksjdhfl
+                    - ogs 99 | lkjdahfglk
+                    - yr 99 | lkjashdlfkjh
+- Call Notes for [[May 15th, 2021]]:
+    - [[Phil Wolff]] [[Jenna Dixon]] attending
+    - worked on Github set up + Github Desktop
+    - worked on pushing 2021-05-15 draft out
+    - rejiggerred Substack look and feel /j
+    - special cases for the link scraping bot
+        - delete ? + tracking info etc for all links except
+            - YouTube eg
+                - > https://www.youtube.com/watch?v=BfCPxoYCgo0
+        - RP Chrome extension links are borking eg duplicating and trailing characters:
+            - > https://tinyurl.com/roamh1/113?_YC_Marketing___distributed_CMO; https://tinyurl.com/roamh1/113?_YC_Marketing___distributed_CMO</a><br>this
+        - Some post have more than one link: can the robot scan for that and parse them into separate cells
+        - Substack links can have /? tokens that we should scrape off
+        - line 153, 117: hmm some links to a slide deck are the editable version of the link. Just omit links like this altogether, to avoid rando defacements?
+            - https://docs.google.com/presentation/d/16gg0pHg7UZbgqf3WSCJnGyFbeefNqOjQ6UlnXgfAQEE/edit
+        - scrape LinkedIn tracking code eg
+            - > https://www.linkedin.com/jobs/view/2469447231/?refId=3qusNbhkHXkX6i8nMJVbZg%3D%3D&trackingId=NHDdtu21xDDKDtsl6iwHAw%3D%3D
+                - scrape this off: ?refId=3qusNbhkHXkX6i8nMJVbZg%3D%3D&trackingId=NHDdtu21xDDKDtsl6iwHAw%3D%3D
+        - 
 - ---
 - About YakC boilerplate text (perhaps grabbed from a specific Roam page, so easy to update)
     - [[Nathan Acks]]: We don't have a bot that can do anything like this to my knowledge, __and__ Roam still lacks an API (at least one that will work for the YC graph). __But!__ We have [a stable daily backup](https://github.com/The-Yak-Collective/backups) now, so anything we write should be available as a (Roam-flavored) markdown file [here](https://github.com/The-Yak-Collective/backups/tree/master/Roam/markdown/ArtOfGig). Files in that directory get refreshed daily, so as long as we don't need to turn-around changes in this text on short notice, we can pull from here.
@@ -69,76 +109,54 @@
                     - not sure how much maintenance such a bot would add to future techdebt.
                     - no obvious technical risks that I imagine.
             - ## Content
-                - Masthead
+                - Masthead [[Jenna Dixon]] 
                     - Placeholder text:
                         - H1: Yaklog
                         - P: These links are from our Yak Collective discord where hundreds of independent consultants talk and collaborate.
                         - maybe a small version of the yak trail/droppings image
-                - The feed:
+                - The links feed [[Phil Wolff]]
                     - Reverse chronological sort. New posts at the top.
                     - Clustered by Year, Month, Date.
                         - One page per month
                     - Continuation navigation at the bottom: newest newer older oldest.
                     - RSS feed
-                - Each post:
-                    - Title (+ target link) styled bold
-                        - This is the thing mentioned in the chat. If the link was from an href that was wrapped around text, the title should be that text, Else the text should be the title of the destination. In markdown the title would be the text in the square brackets unless that was not there, in which case pull it from the source.
-                        - link should open in a new tab/window
-                    - Source (+ Source link)
-                        - Perhaps the channel name?
-                        - Source link would take you to the discord message and discord would decide if you had permission to view.
-                    - post date/time (+post permalink)
-                        - Should be the datetime of the original message.
-                        - The permalink is the #anchor link to this part of the linklog.
-    - Monthly leaderboard list of top/trending few channels [[Jenna Dixon]]
-        - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. Seems like we'd just be writing the results of `$signal` for a period of X days once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y)))?
-        - [[Maier Fenster]] done, i think
-    - Channels showing signs of life (low-levels up from quiet) [[#]]
-        - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. Seems like we'd just be writing the results of `$signal` for a period of X days once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y)))?
-        - [[Maier Fenster]] would need a short script to extract data from signal bot output
-    - Excerpts from links in Yak Writings [[Phil Wolff]]
-        - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. See [Maier's comment below](((Od2zD_4sp))) and [my related comment above](((qrAgz4bi-))).
-            - scrape off tracking IDs
-        - [[Maier Fenster]] seems easy to write bot that does this. this is a subset of "last weeks link" data 
-    - Excerpts from Soapbox, will need a bit of human markup and queuing [[#]]
-        - [[Nathan Acks]]: No bot to do this, I think that [Maier's comment below](((5R-5Tqjlh))) is spot-on.
-        - [[Maier Fenster]] no idea how to do this. seems to me more efficient if done manually, at least until that time people use the channel a lot. how is it different form summarizing/extracting any text channel?
-    - Agenda lists for channels that have them [[Jenna Dixon]]
-        - Infra [[Jenna Dixon]]
-        - Marketing [[#]]
-        - Rover [[#]]
-        - OGS [[Jenna Dixon]] or [[#]]
-        - [[Nathan Acks]]: This is handled by [gigayak](https://github.com/The-Yak-Collective/gigayak). Seems like we'd just be writing the results of `$agendalist` for each channel with an agenda once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y))). Probably needs more massaging than other data to get into a form suitable for cut-and-paste.
-            - **Side note:** "Gigayak" is the best bot name. Always makes me think of some kind of giant yak kaiju.
-        - [[Maier Fenster]] need to add that functionality, but not a biggie, as the data is all in database, so only need query
-    - [[Maier Fenster]] what about gigs? and 
-        - 
-    - internal help-wanted?
-    - Rover Weekly Haiku [[Meredith Noelle]]
+                    - Each post:
+                        - Title (+ target link) styled bold
+                            - This is the thing mentioned in the chat. If the link was from an href that was wrapped around text, the title should be that text, Else the text should be the title of the destination. In markdown the title would be the text in the square brackets unless that was not there, in which case pull it from the source.
+                            - link should open in a new tab/window
+                        - Source (+ Source link)
+                            - Perhaps the channel name?
+                            - Source link would take you to the discord message and discord would decide if you had permission to view.
+                        - post date/time (+post permalink)
+                            - Should be the datetime of the original message.
+                            - The permalink is the #anchor link to this part of the linklog.
+                - Monthly leaderboard list of top/trending few channels [[Jenna Dixon]]
+                    - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. Seems like we'd just be writing the results of `$signal` for a period of X days once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y)))?
+                    - [[Maier Fenster]] done, i think
+                - Channels showing signs of life (low-levels up from quiet) [[#]]
+                    - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. Seems like we'd just be writing the results of `$signal` for a period of X days once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y)))?
+                    - [[Maier Fenster]] would need a short script to extract data from signal bot output
+                - Excerpts from links in Yak Writings [[Phil Wolff]]
+                    - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. See [Maier's comment below](((Od2zD_4sp))) and [my related comment above](((qrAgz4bi-))).
+                        - scrape off tracking IDs
+                    - [[Maier Fenster]] seems easy to write bot that does this. this is a subset of "last weeks link" data 
+                - Excerpts from Soapbox, will need a bit of human markup and queuing [[#]]
+                    - [[Nathan Acks]]: No bot to do this, I think that [Maier's comment below](((5R-5Tqjlh))) is spot-on.
+                    - [[Maier Fenster]] no idea how to do this. seems to me more efficient if done manually, at least until that time people use the channel a lot. how is it different form summarizing/extracting any text channel?
+                - Agenda lists for channels that have them [[Jenna Dixon]]
+                    - Infra [[Jenna Dixon]]
+                    - Marketing [[#]]
+                    - Rover [[#]]
+                    - OGS [[Jenna Dixon]] or [[#]]
+                    - [[Nathan Acks]]: This is handled by [gigayak](https://github.com/The-Yak-Collective/gigayak). Seems like we'd just be writing the results of `$agendalist` for each channel with an agenda once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y))). Probably needs more massaging than other data to get into a form suitable for cut-and-paste.
+                        - **Side note:** "Gigayak" is the best bot name. Always makes me think of some kind of giant yak kaiju.
+                    - [[Maier Fenster]] need to add that functionality, but not a biggie, as the data is all in database, so only need query
+                - [[Maier Fenster]] what about gigs? and 
+                    - 
+                - internal help-wanted?
+                - Rover Weekly Haiku [[Meredith Noelle]]
 - 
 - 
-- [[May 8th, 2021]] $agendalist
-    - [[Phil Wolff]]
-        - doesn't want to know who posted
-        - add links
-            - if they bounce off, they know they'll need to join to see
-        - ask bot team if we could have an $agendalist variant
-            - can we DM @gigayak 
-            - add a date/time stamp of original $agendaadd
-            - include link back to original posts ([#](#))
-            - omit the original yak poster
-                - per Chatham House rules
-            - change all prefixes to unique channel IDs
-                - either long...
-                    - infrastructure 99 | kjhlfkjhsalkfj
-                    - gig 99 | hlaksjdhfl
-                    - online governance studies 99 | lkjdahfglk
-                    - yak rover 99 | lkjashdlfkjh
-                - ...or short
-                    - infra99 | kjhlfkjhsalkfj
-                    - gig 99 | hlaksjdhfl
-                    - ogs 99 | lkjdahfglk
-                    - yr 99 | lkjashdlfkjh
 - 
 - ---
 - Last Updated:: [[April XXth, 2021]] by [[#]]
