@@ -172,4 +172,61 @@
                 - https://diyprojects.io/install-ide-platformio-extension-visual-studio-code-vscode-windows-32-bit-linux/#.YJoRc_9R0UE
                 - https://maker.pro/custom/projects/all-you-need-to-know-about-l293d
 - May 17 Jascha -- batteries
+    - Prompt
+        - Reading - https://www.dfrsolutions.com/blog/how-to-select-the-right-battery-for-your-application-part-1-battery-metric-considerations
+        - Presentation
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fp8SnBp55Yb.png?alt=media&token=e9422260-3220-49e7-a0af-612216c1d24f)
+            - Largest stored energy is pumped hydro. Largest pumped hydro in Virginia
+            - It is basically Gravitational Potential Energy
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FefA5l1qfDG.png?alt=media&token=977b5aba-9aa3-4328-990e-b7b97ab114ba)
+            - Storing energy as kinetic energy. They are buried in a vault in the ground
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYnaNaMA5If.png?alt=media&token=7bedc382-69de-4fe2-bd37-57d456a18453)
+                - As a weapon for robot wars
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FMvtlgYVIIh.png?alt=media&token=df4bff50-0bf8-4530-a778-e435a8b90919)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FBj1ifPUFx0.png?alt=media&token=9ddfd09e-9129-473e-a8ff-e57d3321b3a9)
+            - compressed gas as energy storage. in the example above the air water is pushed down 
+        - Maier - Energy storage in Ice
+        - Batteries
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZsTAWAZe0k.png?alt=media&token=8a2c717d-5cba-409e-ac05-8ac7d998ea74)
+            - basically a redox reaction converting chemical reaction to electrical energy
+            - only discharging battery, spontaneous - Voltaic battery
+            - rechargeable, non-spontaenous - 
+            - History
+                - Galvani playing with frogs. dissecting a frog and static electricity moved a muscle. patch-clamps used to measure action potential in neurons. There is electricity in tissue according to Galvani
+                - Volta - direct contact between metal that caused the potential?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FErTTogDBD-.png?alt=media&token=3dd306e5-1cfb-4843-9758-dae05d7ff00f)
+            - Taxonomy
+                - Primay Cells - Single use, disposable, cheaper, store more energy than rechargeable battery. The purple battery in the figure has service life of 12 years. Cost is about $25  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FR4JAB-nAxk.png?alt=media&token=155aae5e-ce9c-43fe-acc2-07432651ba32)
+                    - Voltage is function of chemistry 
+                    - 9V batteries are series of batteries - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fh4THveVPbg.png?alt=media&token=285f1284-a938-41d3-809a-9a2393b18cd7)
+                - Capacitors, Supercapacitors and Fuel Cells are other energy storage devices
+            - Chemistries 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F5peu8pXr-r.png?alt=media&token=ac953791-3598-4b08-a5de-ae8e90332137)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FHsC1reFZJV.png?alt=media&token=8f15e940-1ee0-4946-8c89-0970442f038c)
+                    - Y-axis is in terms of electric vehicle acceleration
+            - Packaging
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FKovjgs3_wD.png?alt=media&token=738c8052-7a51-4244-b11a-e608c2b787bc)
+                - Lithium Ion  batteries have out gassing problem. LiPo safety bag
+    - Discussion
+        - Victor - What sort of batteries is good for stuff that is flameable? 
+            - Jascha -
+                -  Often the problem is the cold. Some batteries are flameable below 0 degree centrigrade
+                - Can a robot can be built that can be dish-washed? Guidable drill head in oil industry? 
+        - Venkat - What is the gas that gets vented? 
+        - Jascha - UN383 regulations 
+            - Usually problems are during chargning
+            - Or mechanical damage
+        - Venkat - What happens during charging? 
+            - Jascha - Overcharging, Over-temperature, with lithium chemistry when battery has been too deeply discharged. 
+            - Venkat - If a battery has been discharged for many months
+                - Jascha - Ship mode - charge upto 50-70% and put in ship-mode. 
+            - Venkat - What is the dead time for batteries that haven't been charged for long time? 
+        - Maier - How to identify if the robot has PCM inside? Can the circuit be added later on? 
+            - Jascha - has links for them
+            - Maier - Can a PCM be bought that could be added to batteries so that if robot is plugged in for long time for charging it is still safe? 
+        - Eric - 
+            - name of the packaging are not related the shape of the battery for polymer and prismatic? 
+            - The lead-acid batteries in gasoline cars are prismatic? 
+                - Jascha - called AGM battery, maybe referred to as prismatic cell
+            - 3D printed batteries? 
 - PLEASE KEEP THIS LINK AT THE BOTTOM HERE: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
