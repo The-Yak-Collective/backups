@@ -25,6 +25,30 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 52 [[May 19th, 2021]]
+        - participants:: [[Maier Fenster]], [[Jenna Dixon]], [[Nathan Acks]], [[Phil Wolff]]
+        - notes::
+            - [[Jenna Dixon]] would like to clean up the `#infrastructure` channel agenda. And document things.
+            - [[Nathan Acks]] thinks they should update the text in `#experimental-help-channel` to reflect the new channel organization and remind people about the $help commands.
+            - [[Maier Fenster]] notes that the various channel re-orgs have lead to the various bots to loose access to many channels.
+            - [[Nathan Acks]] volunteers to give the bots read access (and write, for @gigayak) to all of the channels (probably at the category level).
+            - [[Jenna Dixon]] brings up the question [[Maier Fenster]] added about using Apollo or Sesh for calendaring.
+            - [[Maier Fenster]] thinks that Calendly is still our least worst option. There's some jankiness in the current system, but this is a consequence of us using the free tier (and consequently needing to overload a set of Calendly's variables).
+            - [[Maier Fenster]] thinks that the problem is less the software, and more that new people don't feel comfortable setting up meetings.
+            - [[Phil Wolff]] thinks that the friction of this process is still important. But yes, there's still an excitement problem.
+            - [[Jenna Dixon]] points out that Calendly requires going off-discord, but both [Apollo](https://apollo.fyi/) and Sesh (?) work on Discord.
+            - [[Nathan Acks]] thinks that as long as meetings ultimately wind up on our Google Calendar, then the solution is acceptable.
+            - [[Jenna Dixon]] moves us on to [[Phil Wolff]]'s point about UX for upcoming events.
+            - [[Phil Wolff]] notes that we don't have any Doodle-like functionality, public calendars, or any scheduling workflow at all.
+            - [[Maier Fenster]] asks if we're looking for a Discord bot.
+            - [[Phil Wolff]] notes that this should be visual, but it would be good to have the data available for bots.
+            - [[Maier Fenster]] observes that as long as the data is in the central Google Calendar, then the events bot(s) have access to it.
+            - [[Phil Wolff]] notes that we have no reminder functionality. This is normally handled through people's personal calendar system.
+            - [[Maier Fenster]] notes that Apollo will handle notifications.
+            - [[Nathan Acks]] notes that we can get most (all?) of this functionality if we expose an option to add people as Google Calendar event attendees.
+            - [[Jenna Dixon]] thinks that for the moment, some information about Calendly should be added to the help channel.
+            - [[Jenna Dixon]] wants to switch to using Knack forms on the website.
+            - (Everyone workshopped this a bit.)
     - Infrastructure Chat 51 [[May 12th, 2021]]
         - participants:: [[Oliver King]], [[Maier Fenster]], [[Nathan Acks]]
         - **Notes**
