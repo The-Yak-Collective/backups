@@ -162,6 +162,8 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
         - kropotkin http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization
             - "An English child boxes one on one, not in a group as we Russians like to spar.”
 Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
+            - Wikipedia on Mutual Aid: https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
+            - 
         - Ivan illich
             - https://www.tandfonline.com/doi/abs/10.1111/j.1469-5812.1981.tb00481.x?journalCode=rept20
             - http://www.ditext.com/nursey/2.html
