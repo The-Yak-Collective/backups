@@ -6,7 +6,7 @@
     - To familiarize yourself with Roam, start at [[Sandbox Page]] to learn basics. There's also a [Help Database](https://roamresearch.com/#/v8/help/page/1308)
     - Once you're comfortable with adding and editing in Roam, you'll be able to create pages at will, and under the right top-level pages where it makes sense, or make a new top-level page if it makes sense. Cross-link liberally. Don't worry about page titles. They can be easily updated and globally changed, and merged with other pages when there is redundancy.
     - Joining a Project is the main path to contributing and profiting from participation 
-        - {{[[TODO]]}} Add project names
+        - {{[[DONE]]}} Add project names
             - {{[[TODO]]}} Add project calendars beneath each
         - Participation in a project is the point, so joining  [[Yak Collective]] won't likely deliver value until you find one that aligns with your skills and interests
             - Content expertise is not the only way to contribute

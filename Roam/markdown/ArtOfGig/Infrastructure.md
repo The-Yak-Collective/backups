@@ -36,7 +36,7 @@ suggest most recent note left untwirled for easy review to visitors__
             - [[Maier Fenster]] thinks that Calendly is still our least worst option. There's some jankiness in the current system, but this is a consequence of us using the free tier (and consequently needing to overload a set of Calendly's variables).
             - [[Maier Fenster]] thinks that the problem is less the software, and more that new people don't feel comfortable setting up meetings.
             - [[Phil Wolff]] thinks that the friction of this process is still important. But yes, there's still an excitement problem.
-            - [[Jenna Dixon]] points out that Calendly requires going off-discord, but both [Apollo](https://apollo.fyi/) and Sesh (?) work on Discord.
+            - [[Jenna Dixon]] points out that Calendly requires going off-discord, but both [Apollo](https://apollo.fyi/) and [Sesh](https://sesh.fyi/) work on Discord.
             - [[Nathan Acks]] thinks that as long as meetings ultimately wind up on our Google Calendar, then the solution is acceptable.
             - [[Jenna Dixon]] moves us on to [[Phil Wolff]]'s point about UX for upcoming events.
             - [[Phil Wolff]] notes that we don't have any Doodle-like functionality, public calendars, or any scheduling workflow at all.
