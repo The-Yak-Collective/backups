@@ -4,3 +4,4 @@
 - [[YR Abio Flex Wanderer]] by [[Eric Platon]]
 - [[YR: Nature is Murder]] by [[Venkatesh Rao]]
 - [[YR Go and See]] by [[Victor Hill]]
+- [[Stubborn Pursuit of a Path]] by [[Rhett Garber]]

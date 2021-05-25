@@ -1,78 +1,79 @@
-- [[January 25th, 2021]]
-    - #[[Year 1 meeting notes]] Today is our first regular yak rover group meeting (10 PM Pacific, morning in Europe, afternoon in Japan).
-        - Please save this email since it has useful links.
-            - Here is [the link to the event on the YC calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZnb2FlN3JuMzc1c3NlaWJlbGhhMjFoMTEgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) for you to add to your own.
-            - Here is the [regular zoom link](https://us02web.zoom.us/j/82044391423?pwd=YUZ4RjhrZjI2ZS92NHVUMUViMVQ1QT09), the details are also included in the calendar invite.
-            - Here is [the link to the participant form](https://forms.gle/XcLp9uqJQGWmF7966), where you can review your own and others' details. If you haven't yet filled out, please do so if you plan to participate (there are 7 responses from people planning to do builds, but you don't have to commit to a build to participate).
-            - There are several Roam pages
-                - Here is the main [Roam page](https://roamresearch.com/#/app/ArtOfGig/page/QmE-vAzPn).
-                - Everybody planning a build should create a build page under the [2021 Builds](https://roamresearch.com/#/app/ArtOfGig/page/LCH9VzUXa) page.
-                - Here is a [References page](https://roamresearch.com/#/app/ArtOfGig/page/DUQgrnzRl)
-        - You can always get the current agenda in the Discord channel using the command **$agendalist**. You can add items using the command **$agendaadd** with item details in the channel. Today's main agenda is to spend the first 10 minutes reading/browsing key reference pages on the Curiosity rover for 10 minutes, then an open-ended discussion:
-            - Wikipedia page: https://en.wikipedia.org/wiki/Curiosity_(rover)
-            - Nasa mission page: https://www.nasa.gov/mission_pages/msl/index.html
-            - Video found by Victor: https://www.youtube.com/watch?v=qaUhLXolGaI
-        - I've created a section for Curiosity in the References page with these links. Please dump anything else interesting you find there. Feel free to create other reference sections. We'll organize better once we have more.
-        - We will also spend some time discussing how to use Twitter to do light-weight self-documentation of the project.
-        - Initial reactions
-            - [[Grigori Milov]]
-                - rover material, weather on moon and mars
-                - curiosity ~1 ton, fresh eyes on mechanism
-                - Eric - curiosity has plutonium
-                - Venkat's view powering by nuclear needed when power budget is more
-                - Anuraj's reaction launch considerations on nuclear powered rover
-                - basic rover design has been changing
-            - [[Anuraj R]]
-                - sojourner and missions, rocker bogie, low budget
-                - Anuraj's reaction launch considerations on nuclear powered rover
-                - Mission cost for the high because of margin of error
-            - [[Victor Hill]]
-                - Communications with satellites more realiable, communications with has a lot of lag
-                - problems with CPU and resets, redundancy, raspberry is way more powerful
-                - RTG is also warming up the systems, pretty hard to keep things warm without RTG and just with solar
-                - Venkat - Reasons mammals evolve to operate at wider range of temperatures
-                - Probe on curiosity didn't dig deep enough for experiments
-                - Venkat  - Mars to Earth communication power budget is huge. If there is Star Link on Mars then power budget is less
-                - Separate rover from payload. Payload can be land every couple of years. Spreads out risk of mission over time. 
-                - Sample return on Perseverance
-            - [[Eric Platon]]
-                - Communication also has big power budget
-                - A YakSat? for communication?
-                - Eric - curiosity has plutonium
-                - Rover is actually a platform. Perseverance looks similar and blue print is same as Curiosity
-                - Programming language called PLEXIL - from around 2006, first deployed in Curiosity
-                - The framing of mission is pretty narrow, that's why it is important to make a platform
-            - [[Maier Fenster]]
-                - There is much less water around Curiosity
-                - Tool for measuring soil temperature and it broke. 
-                - Generality of tool is limited, not designed as a general purpose rover, analogy is astronaut with gloves, the minute we put on gloves things become difficult
-                - Are we making a general purpose rover ? How do we choose the hardware on it? 
-            - [[Venkatesh Rao]]
-                - Press Releases - 9 out of 10 were mission, occasional operation things, like something is broken
-                - First principles for rover 
-                    - cost things are way lower 
-                    - many different rovers -> distributed systems
-                - Sojourner never went too far away from the base station
-                - One way to approach - what can be done with commodotized hardware?
-                - Instead of single platform, configurable rover, unbundle mobility component
-                - Software is kind of interesting, Is there is single rover operating system? General enough for various environments
-                - What is pie chart of mission cost? 
-                - Scavenging when rover breaks down when economies of scale kicks in. Dump 100 rovers changes the equation
-                - If there are frequent launches then various combination of rovers are possible
-                - Elon's tweet on how to make fuel on Mars. 
-- [[February 2nd, 2021]]
-    - #[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). 
-- [[February 8th, 2021]]
-    - #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:3 (10 PM Pacific, morning in Europe, afternoon in Japan).
-- [[February 16th, 2021]]
-    - #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:4 (10 PM Pacific, morning in Europe, afternoon in Japan).
-- [[February 23rd, 2021]]
-    - #[[Year 1 meeting notes]] Victor session on [[Jupyter and ROS]]
-- [[March 1st, 2021]]
-    - Notes from [[Jascha Wilcox]] special session on motors
-- [[March 8th, 2021]] led by [[Maier Fenster]]
-    - [[rover simulation]] discussion
-    - [[some possible rover missions]]
+- Cycle 1
+    - [[January 25th, 2021]]
+        - #[[Year 1 meeting notes]] Today is our first regular yak rover group meeting (10 PM Pacific, morning in Europe, afternoon in Japan).
+            - Please save this email since it has useful links.
+                - Here is [the link to the event on the YC calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZnb2FlN3JuMzc1c3NlaWJlbGhhMjFoMTEgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com) for you to add to your own.
+                - Here is the [regular zoom link](https://us02web.zoom.us/j/82044391423?pwd=YUZ4RjhrZjI2ZS92NHVUMUViMVQ1QT09), the details are also included in the calendar invite.
+                - Here is [the link to the participant form](https://forms.gle/XcLp9uqJQGWmF7966), where you can review your own and others' details. If you haven't yet filled out, please do so if you plan to participate (there are 7 responses from people planning to do builds, but you don't have to commit to a build to participate).
+                - There are several Roam pages
+                    - Here is the main [Roam page](https://roamresearch.com/#/app/ArtOfGig/page/QmE-vAzPn).
+                    - Everybody planning a build should create a build page under the [2021 Builds](https://roamresearch.com/#/app/ArtOfGig/page/LCH9VzUXa) page.
+                    - Here is a [References page](https://roamresearch.com/#/app/ArtOfGig/page/DUQgrnzRl)
+            - You can always get the current agenda in the Discord channel using the command **$agendalist**. You can add items using the command **$agendaadd** with item details in the channel. Today's main agenda is to spend the first 10 minutes reading/browsing key reference pages on the Curiosity rover for 10 minutes, then an open-ended discussion:
+                - Wikipedia page: https://en.wikipedia.org/wiki/Curiosity_(rover)
+                - Nasa mission page: https://www.nasa.gov/mission_pages/msl/index.html
+                - Video found by Victor: https://www.youtube.com/watch?v=qaUhLXolGaI
+            - I've created a section for Curiosity in the References page with these links. Please dump anything else interesting you find there. Feel free to create other reference sections. We'll organize better once we have more.
+            - We will also spend some time discussing how to use Twitter to do light-weight self-documentation of the project.
+            - Initial reactions
+                - [[Grigori Milov]]
+                    - rover material, weather on moon and mars
+                    - curiosity ~1 ton, fresh eyes on mechanism
+                    - Eric - curiosity has plutonium
+                    - Venkat's view powering by nuclear needed when power budget is more
+                    - Anuraj's reaction launch considerations on nuclear powered rover
+                    - basic rover design has been changing
+                - [[Anuraj R]]
+                    - sojourner and missions, rocker bogie, low budget
+                    - Anuraj's reaction launch considerations on nuclear powered rover
+                    - Mission cost for the high because of margin of error
+                - [[Victor Hill]]
+                    - Communications with satellites more realiable, communications with has a lot of lag
+                    - problems with CPU and resets, redundancy, raspberry is way more powerful
+                    - RTG is also warming up the systems, pretty hard to keep things warm without RTG and just with solar
+                    - Venkat - Reasons mammals evolve to operate at wider range of temperatures
+                    - Probe on curiosity didn't dig deep enough for experiments
+                    - Venkat  - Mars to Earth communication power budget is huge. If there is Star Link on Mars then power budget is less
+                    - Separate rover from payload. Payload can be land every couple of years. Spreads out risk of mission over time. 
+                    - Sample return on Perseverance
+                - [[Eric Platon]]
+                    - Communication also has big power budget
+                    - A YakSat? for communication?
+                    - Eric - curiosity has plutonium
+                    - Rover is actually a platform. Perseverance looks similar and blue print is same as Curiosity
+                    - Programming language called PLEXIL - from around 2006, first deployed in Curiosity
+                    - The framing of mission is pretty narrow, that's why it is important to make a platform
+                - [[Maier Fenster]]
+                    - There is much less water around Curiosity
+                    - Tool for measuring soil temperature and it broke. 
+                    - Generality of tool is limited, not designed as a general purpose rover, analogy is astronaut with gloves, the minute we put on gloves things become difficult
+                    - Are we making a general purpose rover ? How do we choose the hardware on it? 
+                - [[Venkatesh Rao]]
+                    - Press Releases - 9 out of 10 were mission, occasional operation things, like something is broken
+                    - First principles for rover 
+                        - cost things are way lower 
+                        - many different rovers -> distributed systems
+                    - Sojourner never went too far away from the base station
+                    - One way to approach - what can be done with commodotized hardware?
+                    - Instead of single platform, configurable rover, unbundle mobility component
+                    - Software is kind of interesting, Is there is single rover operating system? General enough for various environments
+                    - What is pie chart of mission cost? 
+                    - Scavenging when rover breaks down when economies of scale kicks in. Dump 100 rovers changes the equation
+                    - If there are frequent launches then various combination of rovers are possible
+                    - Elon's tweet on how to make fuel on Mars. 
+    - [[February 2nd, 2021]]
+        - #[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). 
+    - [[February 8th, 2021]]
+        - #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:3 (10 PM Pacific, morning in Europe, afternoon in Japan).
+    - [[February 16th, 2021]]
+        - #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:4 (10 PM Pacific, morning in Europe, afternoon in Japan).
+    - [[February 23rd, 2021]]
+        - #[[Year 1 meeting notes]] Victor session on [[Jupyter and ROS]]
+    - [[March 1st, 2021]]
+        - Notes from [[Jascha Wilcox]] special session on motors
+    - [[March 8th, 2021]] led by [[Maier Fenster]]
+        - [[rover simulation]] discussion
+        - [[some possible rover missions]]
 - [[March 15th, 2021]] -- project management special!
     - [[Yak Rover Yakathon module]]
     - [[Yak Rover Webpage]]
@@ -80,153 +81,181 @@
     - Finalize agenda
     - Finish slide deck
 - [[Yakathon 1 Mars Rover Edition - 2021 March 28]]
-- [[April 5th, 2021]] --  Update on [[YR: Nature is Murder]]
-    - [[Motor calculator]]
-    - Update on differential bar design
-    - Update on motor housing design
-    - Who's on next week?
-    - Website?
-- April 12: Eric
-    - Slide deck -- [powering the HiWonder](https://docs.google.com/presentation/d/1A13bFuu6Q4-q5NAIydtSFYRULLdw9Wi8Eca0XUxk7pc/edit#slide=id.p)
-    - Links from [[Anuraj R]]
-        - https://raspberrypi.stackexchange.com/questions/73126/can-i-power-a-pi-through-a-5v-pin
-        - https://thepihut.com/blogs/raspberry-pi-tutorials/how-do-i-power-my-raspberry-pi
-        - https://raspberrypi.stackexchange.com/questions/1617/how-do-i-supply-power-through-the-gpio
-        - [https://www.pokitinnovations.com](https://www.pokitinnovations.com/)
-        - Oscilloscope recommended by Jascha: https://www.amazon.com/SainSmart-Portable-Handheld-Digital-Oscilloscope/dp/B074QBQNB7/ref=sr_1_4?dchild=1&keywords=dso+nano&qid=1618293838&sr=8-4
-    - Notes
-        - Jascha -- use an oscilloscope to test how much sag there is across gpio power when all motors are powered
-        - Use higher amperage to power it all, 36W not enough
-        - Ground loops
-        - No back drive protection on the RPi 5v GPIO, so that may be why it didn't like the USB + direct power
-- April 19: Victor -- Dev environment and interactions
-    - Presentation - https://docs.google.com/presentation/d/1w7SfOMa9XnvPbIAptekWJYDjQBdfgYOJkwjF3v6yQdA/edit?usp=sharing
-- April 26: Anuraj -- Infinity and Beyond Status - [[COTS in Rovers]]
-    - Prompt: https://docs.google.com/presentation/d/1MalYfBMfUFh9ASm7xeZbO9kNYhSr6vkb2a16SiOhLzM/edit#slide=id.gd06e44e271_0_15
-    - Discusstion and Initial Reactions
-        - Eric: 
-            - SpaceX in LEO but on Moon? 
-        - Jascha: 
-            - Falcon1 was PowerPC, Falcon9
-                - FOD: Foregin object
-                - Falcon9 is shipped as structural member
-        - Victor: 
-            - FPGA in space applications? PolarFire FPGA
-                - FPGAs are flexible
-            - Xilinx rad hard board
-            - Maier - Why FPGAs? 
-            - Eric: Problem reconfiguration time can be very long. 
-        - Jascha: 
-            - COTS hardware for cubesats
-        - Venkat:
-            - Active risk management, certain risks are enough for fast iteration
-            - What can't be COTS?
-                - Motors maybe not COTS? 
-                - Most expensive COTS cost bottle neck
-                - Technical bottle neck
-                - Alloys -> space alloys
-                - Computer, structural components, mobility components, software(Maier: compiling software )
-                - Pattern on rover for drone to hover
-                - Eric: Scenario: Several rovers and one drone, jump between rovers and map terrain in between. 
-                - Current military works this way, smallest cheapest way to heterogenous robots, basically a cost down challenge
-        - Rhett:
-            - Camera on rover and use it to track drone
-            - Internship at HP: Critical infra, machine should not go down. Work was on distributed systems. Cost a few million dollars in 2001
-            - Google rewrite software for reliability
-            - If the cost of launching goes down really fast then throw a lot hardware
-            - Venkat: Darpa Grand Challenge first one was 150 miles. Winner was only 7miles. Second one many finished
-        - Maier:
-            - Can the rover now track the drone
-            - Anuraj: Use Wifi signal strength
-            - How would the rover talk with a fixed IP camera
-            - How does a biologist understand? they tear
-            - How radiation affects software and hardware? If there is a transient event, long term of radiation affects depends on the goal 
-            - Compiler for radiation events. Optimization makes the system more fragile
-            - Requirements of hardening should not be normal failing and working
-            - Minimum requirement for software
-            - COTS for rover type application or COTS for general space applications
-            - If we identify scenarios better we can idenfity what are requirements for realiability of actions. 
-            - Tradeoff between time and reiliability different for different applications
-- May 3: Maier
-- Rhett May 10 -- his build, 
-    - Presentation and Prompt - ? 
-    - Discussion
-        - Venkat
-            - Shared command language to control rover?
-            - Concurrency? Microsoft's concurrent runtime?
-            - At abstract level robots are just logical computation units? 
-            - Multiple robots coordinating
-            - Perserverance is faster than Curiosity
-        - Eric
-            - BOS as a high level language
-            - List of shared problems? 
-        - Maier
-            - Spider is interrupt driven and concurrent?
-        - Anuraj
-            - Command lang for Rhett's rover? 
-            - Shared command language to control rover? YakLang? 
-            - Current rovers are slow maybe because to keep the rover safe
-            - Links for embedded development
-                - https://platformio.org/
-                - https://interrupt.memfault.com/blog/seamless-firmware-with-platformio
-                - https://diyprojects.io/install-ide-platformio-extension-visual-studio-code-vscode-windows-32-bit-linux/#.YJoRc_9R0UE
-                - https://maker.pro/custom/projects/all-you-need-to-know-about-l293d
-- May 17 Jascha -- batteries
-    - Prompt
-        - Reading - https://www.dfrsolutions.com/blog/how-to-select-the-right-battery-for-your-application-part-1-battery-metric-considerations
-        - Presentation
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fp8SnBp55Yb.png?alt=media&token=e9422260-3220-49e7-a0af-612216c1d24f)
-            - Largest stored energy is pumped hydro. Largest pumped hydro in Virginia
-            - It is basically Gravitational Potential Energy
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FefA5l1qfDG.png?alt=media&token=977b5aba-9aa3-4328-990e-b7b97ab114ba)
-            - Storing energy as kinetic energy. They are buried in a vault in the ground
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYnaNaMA5If.png?alt=media&token=7bedc382-69de-4fe2-bd37-57d456a18453)
-                - As a weapon for robot wars
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FMvtlgYVIIh.png?alt=media&token=df4bff50-0bf8-4530-a778-e435a8b90919)
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FBj1ifPUFx0.png?alt=media&token=9ddfd09e-9129-473e-a8ff-e57d3321b3a9)
-            - compressed gas as energy storage. in the example above the air water is pushed down 
-        - Maier - Energy storage in Ice
-        - Batteries
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZsTAWAZe0k.png?alt=media&token=8a2c717d-5cba-409e-ac05-8ac7d998ea74)
-            - basically a redox reaction converting chemical reaction to electrical energy
-            - only discharging battery, spontaneous - Voltaic battery
-            - rechargeable, non-spontaenous - 
-            - History
-                - Galvani playing with frogs. dissecting a frog and static electricity moved a muscle. patch-clamps used to measure action potential in neurons. There is electricity in tissue according to Galvani
-                - Volta - direct contact between metal that caused the potential?
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FErTTogDBD-.png?alt=media&token=3dd306e5-1cfb-4843-9758-dae05d7ff00f)
-            - Taxonomy
-                - Primay Cells - Single use, disposable, cheaper, store more energy than rechargeable battery. The purple battery in the figure has service life of 12 years. Cost is about $25  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FR4JAB-nAxk.png?alt=media&token=155aae5e-ce9c-43fe-acc2-07432651ba32)
-                    - Voltage is function of chemistry 
-                    - 9V batteries are series of batteries - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fh4THveVPbg.png?alt=media&token=285f1284-a938-41d3-809a-9a2393b18cd7)
-                - Capacitors, Supercapacitors and Fuel Cells are other energy storage devices
-            - Chemistries 
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F5peu8pXr-r.png?alt=media&token=ac953791-3598-4b08-a5de-ae8e90332137)
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FHsC1reFZJV.png?alt=media&token=8f15e940-1ee0-4946-8c89-0970442f038c)
-                    - Y-axis is in terms of electric vehicle acceleration
-            - Packaging
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FKovjgs3_wD.png?alt=media&token=738c8052-7a51-4244-b11a-e608c2b787bc)
-                - Lithium Ion  batteries have out gassing problem. LiPo safety bag
-    - Discussion
-        - Victor - What sort of batteries is good for stuff that is flameable? 
-            - Jascha -
-                -  Often the problem is the cold. Some batteries are flameable below 0 degree centrigrade
-                - Can a robot can be built that can be dish-washed? Guidable drill head in oil industry? 
-        - Venkat - What is the gas that gets vented? 
-        - Jascha - UN383 regulations 
-            - Usually problems are during chargning
-            - Or mechanical damage
-        - Venkat - What happens during charging? 
-            - Jascha - Overcharging, Over-temperature, with lithium chemistry when battery has been too deeply discharged. 
-            - Venkat - If a battery has been discharged for many months
-                - Jascha - Ship mode - charge upto 50-70% and put in ship-mode. 
-            - Venkat - What is the dead time for batteries that haven't been charged for long time? 
-        - Maier - How to identify if the robot has PCM inside? Can the circuit be added later on? 
-            - Jascha - has links for them
-            - Maier - Can a PCM be bought that could be added to batteries so that if robot is plugged in for long time for charging it is still safe? 
-        - Eric - 
-            - name of the packaging are not related the shape of the battery for polymer and prismatic? 
-            - The lead-acid batteries in gasoline cars are prismatic? 
-                - Jascha - called AGM battery, maybe referred to as prismatic cell
-            - 3D printed batteries? 
+- Cycle 2
+    - [[April 5th, 2021]] --  Update on [[YR: Nature is Murder]]
+        - [[Motor calculator]]
+        - Update on differential bar design
+        - Update on motor housing design
+        - Who's on next week?
+        - Website?
+    - April 12: Eric
+        - Slide deck -- [powering the HiWonder](https://docs.google.com/presentation/d/1A13bFuu6Q4-q5NAIydtSFYRULLdw9Wi8Eca0XUxk7pc/edit#slide=id.p)
+        - Links from [[Anuraj R]]
+            - https://raspberrypi.stackexchange.com/questions/73126/can-i-power-a-pi-through-a-5v-pin
+            - https://thepihut.com/blogs/raspberry-pi-tutorials/how-do-i-power-my-raspberry-pi
+            - https://raspberrypi.stackexchange.com/questions/1617/how-do-i-supply-power-through-the-gpio
+            - [https://www.pokitinnovations.com](https://www.pokitinnovations.com/)
+            - Oscilloscope recommended by Jascha: https://www.amazon.com/SainSmart-Portable-Handheld-Digital-Oscilloscope/dp/B074QBQNB7/ref=sr_1_4?dchild=1&keywords=dso+nano&qid=1618293838&sr=8-4
+        - Notes
+            - Jascha -- use an oscilloscope to test how much sag there is across gpio power when all motors are powered
+            - Use higher amperage to power it all, 36W not enough
+            - Ground loops
+            - No back drive protection on the RPi 5v GPIO, so that may be why it didn't like the USB + direct power
+    - April 19: Victor -- Dev environment and interactions
+        - Presentation - https://docs.google.com/presentation/d/1w7SfOMa9XnvPbIAptekWJYDjQBdfgYOJkwjF3v6yQdA/edit?usp=sharing
+    - April 26: Anuraj -- Infinity and Beyond Status - [[COTS in Rovers]]
+        - Prompt: https://docs.google.com/presentation/d/1MalYfBMfUFh9ASm7xeZbO9kNYhSr6vkb2a16SiOhLzM/edit#slide=id.gd06e44e271_0_15
+        - Discusstion and Initial Reactions
+            - Eric: 
+                - SpaceX in LEO but on Moon? 
+            - Jascha: 
+                - Falcon1 was PowerPC, Falcon9
+                    - FOD: Foregin object
+                    - Falcon9 is shipped as structural member
+            - Victor: 
+                - FPGA in space applications? PolarFire FPGA
+                    - FPGAs are flexible
+                - Xilinx rad hard board
+                - Maier - Why FPGAs? 
+                - Eric: Problem reconfiguration time can be very long. 
+            - Jascha: 
+                - COTS hardware for cubesats
+            - Venkat:
+                - Active risk management, certain risks are enough for fast iteration
+                - What can't be COTS?
+                    - Motors maybe not COTS? 
+                    - Most expensive COTS cost bottle neck
+                    - Technical bottle neck
+                    - Alloys -> space alloys
+                    - Computer, structural components, mobility components, software(Maier: compiling software )
+                    - Pattern on rover for drone to hover
+                    - Eric: Scenario: Several rovers and one drone, jump between rovers and map terrain in between. 
+                    - Current military works this way, smallest cheapest way to heterogenous robots, basically a cost down challenge
+            - Rhett:
+                - Camera on rover and use it to track drone
+                - Internship at HP: Critical infra, machine should not go down. Work was on distributed systems. Cost a few million dollars in 2001
+                - Google rewrite software for reliability
+                - If the cost of launching goes down really fast then throw a lot hardware
+                - Venkat: Darpa Grand Challenge first one was 150 miles. Winner was only 7miles. Second one many finished
+            - Maier:
+                - Can the rover now track the drone
+                - Anuraj: Use Wifi signal strength
+                - How would the rover talk with a fixed IP camera
+                - How does a biologist understand? they tear
+                - How radiation affects software and hardware? If there is a transient event, long term of radiation affects depends on the goal 
+                - Compiler for radiation events. Optimization makes the system more fragile
+                - Requirements of hardening should not be normal failing and working
+                - Minimum requirement for software
+                - COTS for rover type application or COTS for general space applications
+                - If we identify scenarios better we can idenfity what are requirements for realiability of actions. 
+                - Tradeoff between time and reiliability different for different applications
+    - May 3: Maier
+    - Rhett May 10 -- his build, 
+        - Presentation and Prompt - ? 
+        - Discussion
+            - Venkat
+                - Shared command language to control rover?
+                - Concurrency? Microsoft's concurrent runtime?
+                - At abstract level robots are just logical computation units? 
+                - Multiple robots coordinating
+                - Perserverance is faster than Curiosity
+            - Eric
+                - BOS as a high level language
+                - List of shared problems? 
+            - Maier
+                - Spider is interrupt driven and concurrent?
+            - Anuraj
+                - Command lang for Rhett's rover? 
+                - Shared command language to control rover? YakLang? 
+                - Current rovers are slow maybe because to keep the rover safe
+                - Links for embedded development
+                    - https://platformio.org/
+                    - https://interrupt.memfault.com/blog/seamless-firmware-with-platformio
+                    - https://diyprojects.io/install-ide-platformio-extension-visual-studio-code-vscode-windows-32-bit-linux/#.YJoRc_9R0UE
+                    - https://maker.pro/custom/projects/all-you-need-to-know-about-l293d
+    - May 17 Jascha -- batteries
+        - Prompt
+            - Reading - https://www.dfrsolutions.com/blog/how-to-select-the-right-battery-for-your-application-part-1-battery-metric-considerations
+            - Presentation
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fp8SnBp55Yb.png?alt=media&token=e9422260-3220-49e7-a0af-612216c1d24f)
+                - Largest stored energy is pumped hydro. Largest pumped hydro in Virginia
+                - It is basically Gravitational Potential Energy
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FefA5l1qfDG.png?alt=media&token=977b5aba-9aa3-4328-990e-b7b97ab114ba)
+                - Storing energy as kinetic energy. They are buried in a vault in the ground
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYnaNaMA5If.png?alt=media&token=7bedc382-69de-4fe2-bd37-57d456a18453)
+                    - As a weapon for robot wars
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FMvtlgYVIIh.png?alt=media&token=df4bff50-0bf8-4530-a778-e435a8b90919)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FBj1ifPUFx0.png?alt=media&token=9ddfd09e-9129-473e-a8ff-e57d3321b3a9)
+                - compressed gas as energy storage. in the example above the air water is pushed down 
+            - Maier - Energy storage in Ice
+            - Batteries
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZsTAWAZe0k.png?alt=media&token=8a2c717d-5cba-409e-ac05-8ac7d998ea74)
+                - basically a redox reaction converting chemical reaction to electrical energy
+                - only discharging battery, spontaneous - Voltaic battery
+                - rechargeable, non-spontaenous - 
+                - History
+                    - Galvani playing with frogs. dissecting a frog and static electricity moved a muscle. patch-clamps used to measure action potential in neurons. There is electricity in tissue according to Galvani
+                    - Volta - direct contact between metal that caused the potential?
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FErTTogDBD-.png?alt=media&token=3dd306e5-1cfb-4843-9758-dae05d7ff00f)
+                - Taxonomy
+                    - Primay Cells - Single use, disposable, cheaper, store more energy than rechargeable battery. The purple battery in the figure has service life of 12 years. Cost is about $25  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FR4JAB-nAxk.png?alt=media&token=155aae5e-ce9c-43fe-acc2-07432651ba32)
+                        - Voltage is function of chemistry 
+                        - 9V batteries are series of batteries - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fh4THveVPbg.png?alt=media&token=285f1284-a938-41d3-809a-9a2393b18cd7)
+                    - Capacitors, Supercapacitors and Fuel Cells are other energy storage devices
+                - Chemistries 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F5peu8pXr-r.png?alt=media&token=ac953791-3598-4b08-a5de-ae8e90332137)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FHsC1reFZJV.png?alt=media&token=8f15e940-1ee0-4946-8c89-0970442f038c)
+                        - Y-axis is in terms of electric vehicle acceleration
+                - Packaging
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FKovjgs3_wD.png?alt=media&token=738c8052-7a51-4244-b11a-e608c2b787bc)
+                    - Lithium Ion  batteries have out gassing problem. LiPo safety bag
+        - Discussion
+            - Victor - What sort of batteries is good for stuff that is flameable? 
+                - Jascha -
+                    -  Often the problem is the cold. Some batteries are flameable below 0 degree centrigrade
+                    - Can a robot can be built that can be dish-washed? Guidable drill head in oil industry? 
+            - Venkat - What is the gas that gets vented? 
+            - Jascha - UN383 regulations 
+                - Usually problems are during chargning
+                - Or mechanical damage
+            - Venkat - What happens during charging? 
+                - Jascha - Overcharging, Over-temperature, with lithium chemistry when battery has been too deeply discharged. 
+                - Venkat - If a battery has been discharged for many months
+                    - Jascha - Ship mode - charge upto 50-70% and put in ship-mode. 
+                - Venkat - What is the dead time for batteries that haven't been charged for long time? 
+            - Maier - How to identify if the robot has PCM inside? Can the circuit be added later on? 
+                - Jascha - has links for them
+                - Maier - Can a PCM be bought that could be added to batteries so that if robot is plugged in for long time for charging it is still safe? 
+            - Eric - 
+                - name of the packaging are not related the shape of the battery for polymer and prismatic? 
+                - The lead-acid batteries in gasoline cars are prismatic? 
+                    - Jascha - called AGM battery, maybe referred to as prismatic cell
+                - 3D printed batteries? 
+- [[May 24th, 2021]] -- Project management special!
+    -  Shared R&D areas 
+        - What to do about decks being used for meetings? Put in shared folder repo?
+        - How to do shared R&D?
+    - [[Rover Summer school]]
+    - [[Rover Fall event]] (video film festival of our rovers in action in September?)
+    - Website
+        - Build pages
+        - Working decks repo starting with “reinventing the wheel”
+    - More interactive outreach
+        - Fall event
+        - Twitter
+        - twitch
+        - open public meetings
+    - Expert contribution (“more Jaschas”)
+    - Talk track?
+    - Any other ideas/business
+- Cycle 3
+    - [[May 31, 2021]] -- Venkat
+    - [[June 7, 2021]] -- Eric
+    - [[June 14, 2021]] -- Victor
+    - [[June 21, 2021]] -- Anuraj
+    - [[June 28, 2021]] -- Maier
+    - July 5 -- 4th of July weekend, so probably skip
+    - [[July 12, 2021]] -- Rhett
+    - [[July 19, 2021]] -- Jascha
+- [[July 26, 2021]] -- Project management special
 - PLEASE KEEP THIS LINK AT THE BOTTOM HERE: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)

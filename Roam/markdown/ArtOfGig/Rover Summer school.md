@@ -1,0 +1,30 @@
+- Victor -- suggestion combine with shared R&D
+- Maier -- pull other way
+    - [[Shared Rover R&D]]
+    - Summer school is outreach
+        - Type 1: yaks but not yet rover
+            - more like grad school
+        - Type 2: real output, community/performative... marketing, generating value, showcasing value for consulting etc.
+- Objective (not mutually exclusive)
+    - Venkat: Mutual peer-learning (eg: OnShape)
+    - Anuraj: On-ramp course for rover building
+        - Guest lectures on advanced rover building/programs
+    - Jascha: bit wider... robotics program
+        - already technical, but looking to get into robotics
+        - "pothole filler" reskilling course
+- Who's the target audience and wny
+    - Maier
+        - Limit, we can only give content suitable for ourselves
+        - As an outline, EVERYTHING you need to know in order to get moving
+        - More performative... how we see the knowledge scape
+        - Examples 
+- Synthesis
+    - Already a plethora of material, can be curated
+    - Needed: project-context learning
+    - People who used it well (Jascha's course) = people who were kinda already onto what they wanted to do
+    - "Newbots" industry -- low cost parts etc. 
+        - Everybody is looking for "The box" 
+        - Ag people are trying to team up and quickly do various specialized applications around a common, modular box, with a common software stack
+        - Nvidia uses the Jetson ecosystem, Nvidia jail 
+    - "Design principles" or "issues" having to do with newbots
+        - What's the best way to provide this opinionated take

@@ -1,0 +1,12 @@
+- Bottom approach, use the simplest / cheapest components and find where they lack.
+- Software rabbit hole of bespoke flight control system
+    - Paths not take:
+        - fPrime
+        - cFS
+- BOM
+    - Adafruit Mini Robot Chassis Kit
+    - Powerboost 1000 / 3.7 V Battery
+    - L293D Dual H-Bridge Motor Controller
+    - RFM69 Transceiver
+    - Shock Switch (from elegoo)
+    - Arduino Duo

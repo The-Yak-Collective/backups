@@ -1,0 +1,14 @@
+- DATE: Last week of October, (25th to 31)
+- Every build premieres a 3 minute video or live demo in a public event
+- Every build shares a 10 minute build retrospective and plans for 2022
+    - Need to converge on any shared plans before then, or continued individual plans
+- Live shared Q&A
+- Recruitment for Year 2
+- Airshow metaphor
+- Dogshow metaphor
+    - Various levels from bag of parts to mission ready
+    - Process showcase
+    - Sponsors
+    - 
+    - ```plain text
+```
