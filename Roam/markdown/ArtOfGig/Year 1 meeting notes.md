@@ -258,4 +258,6 @@
     - [[July 12, 2021]] -- Rhett
     - [[July 19, 2021]] -- Jascha
 - [[July 26, 2021]] -- Project management special
-- PLEASE KEEP THIS LINK AT THE BOTTOM HERE: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
+- ---
+- PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
+- ---
