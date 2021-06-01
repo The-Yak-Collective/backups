@@ -1,0 +1,26 @@
+- [Orthographic Projection](https://en.wikipedia.org/wiki/Orthographic_projection)
+    - [First angle vs third angle](http://www.differencebetween.net/technology/difference-between-first-angle-projection-and-third-angle-projection/)
+- [Isometric Projection](https://en.wikipedia.org/wiki/Isometric_projection)
+- [Solid Modeling](https://en.wikipedia.org/wiki/Solid_modeling)
+- [Parametric Solid Modeling](https://en.wikipedia.org/wiki/Solid_modeling#Parametric_and_feature-based_modeling)
+- Basic OnShape commands you should know
+    - Mac
+        - 2-finger click and drag to rotate
+        - Ctrl-2-finger drag to pan
+        - Two finger pinch and unpinch to zoom
+        - Click to select/deselect areas of drawings for extrusion, deletion, etc.
+    - PC
+        - dunno??
+- Triage approach
+    - Identify major fasteners or dependent dimensions (screw holes for eg)
+    - Start with a quick and dirty isometric sketch
+    - 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FdNGxjSO-vC.JPG?alt=media&token=cf9542ed-e208-4033-bd76-197389441f4f)
+    - Open a new document
+    - Set the workspace units 
+    - Start a new sketch, preferably on the Top plane
+    - Right click and "view normal to sketch plane"
+    - Make the basic outline and do an extrusion
+    - Then pick surfaces to work with, and keep defining new sketches and extrusions
+    - For 3d printing, use negative extrusions for holes, not the hole feature, which will have annoying crap for drilled holes
+    - 

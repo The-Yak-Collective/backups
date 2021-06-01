@@ -245,11 +245,19 @@
         - Twitter
         - twitch
         - open public meetings
+        - Notes
+            - [[Onshape Cheatsheet]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FlLIOac0pb4.png?alt=media&token=57963cdb-662c-4b26-a7f7-d055dc1f095c)
+                - We will use mostly be using parallel projections. Perspective mostly in Architecture
+                - When computers became powerful enough, engineers started working directly in 3D instead of 2D projections
+                - Wikipedia is good enough for mech terms
+                - 
     - Expert contribution (“more Jaschas”)
     - Talk track?
     - Any other ideas/business
 - Cycle 3
     - [[May 31, 2021]] -- Venkat
+        - [[Onshape Cheatsheet]]
     - [[June 7, 2021]] -- Eric
     - [[June 14, 2021]] -- Victor
     - [[June 21, 2021]] -- Anuraj
