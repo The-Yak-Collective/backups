@@ -25,6 +25,18 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 53 [[May 26th, 2021]]
+        - participants:: [[Maier Fenster]] [[Jenna Dixon]] [[Nathan Acks]] [[Nitzan Hermon]]
+        - notes::
+            - [[Jenna Dixon]] notes that [[Venkatesh Rao]] feels that the newsletter might be aa bit over-produced.
+            - (We all work shopped this a bit.)
+            - [[Nathan Acks]] notes that the current "Yak Trails" newsletter is long, but not unusually so compared to the other newsletters in their inbox.
+            - [[Nitzan Hermon]] prefers shorter newsletters, maybe 5 - 10 paragraphs.
+            - [[Maier Fenster]] thinks that a "yak stack" section where people talk about their own tech stack would be interesting. The problem, as always, is someone who's willing to take that on as a regular project.
+            - [[Nitzan Hermon]] notes that Discord in general is a daunting medium. It can be hard to engage. Discord feels very treadmill-like.
+            - [[Jenna Dixon]] notes that ideally the newsletter can help make the conversations here less daunting.
+            - [[Nathan Acks]] wants to turn to the website spacing tweaks quickly before the end of the call.
+            - [[Jenna Dixon]] suggests reducing the bullet list indent and zeroing out the spacing between headers and lists.
     - Infrastructure Chat 52 [[May 19th, 2021]]
         - participants:: [[Maier Fenster]], [[Jenna Dixon]], [[Nathan Acks]], [[Phil Wolff]]
         - notes::
