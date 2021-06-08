@@ -25,6 +25,53 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 54 [[June 2nd, 2021]]
+        - participants:: [[Jenna Dixon]] [[Maier Fenster]] [[Nathan Acks]] [[Phil Wolff]]
+        - notes::
+            - [[Jenna Dixon]] would like us to each talk about an agenda item.
+            - [[Phil Wolff]] would like to talk about licensing policies and finances.
+            - [[Maier Fenster]] doesn't think that this is the right place for these, and that this should be discussed in the online governance chat. These are already on the agenda there as well.
+            - [[Jenna Dixon]] points out that the online governance group is more of a study group, and is currently __not__ trying to be a "leadership council". So given our activity, we should just propose this.
+            - [[Maier Fenster]] thinks that maybe we should have a special call about this.
+            - [[Nathan Acks]] is with [[Jenna Dixon]] and [[Phil Wolff]] -- if not us, who? We should just propose something in `#decision-log`, and then let people shoot it down.
+            - [[Phil Wolff]] points out that licensing is key for outside collaboration. We should probably start off by just talking about the legal layer here.
+            - [[Jenna Dixon]] notes that there's a Roam page somewhere about finances.
+            - [[Phil Wolff]] thinks that this page is more the __start__ of a conversation.
+            - [[Phil Wolff]] also thinks that we need some concept of an NDA.
+            - [[Nathan Acks]] thinks that when we start talking about NDAs, we're opening up a whole can of worms. How do we track this? How do we enforce this? NDAs are a lot more complicated here than just licensing, and maybe we should just start here.
+            - [[Phil Wolff]] thinks that licensing and NDAs are more tightly linked than that in the real world.
+            - [[Maier Fenster]] disagrees.
+            - [[Jenna Dixon]] notes that things around here don't get done unless there is (1) someone who's willing to take responsibility, and (2) a concrete thing to build. So let's find both for these.
+            - [[Maier Fenster]] reiterates their belief that this discussion should be in its own channel.
+            - [[Phil Wolff]] observes that there used to be a convention in parts of Silicon Valley of a "mutual NDA". Some kind of two sentence thing, sometimes on the back of a business card. This would be useful if someone comes to talk to us in a consulting context. They volunteer to write up something here.
+            - [[Maier Fenster]] wants an example.
+            - [[Phil Wolff]] suggests that there could be a choice for "Yak Coffee" of a mutual NDA or Chatham House Rules.
+            - [[Jenna Dixon]] suggests that people might bring their own NDAs.
+            - [[Maier Fenster]] thinks that there is a risk here of creating legal documents.
+            - [[Nathan Acks]] points out that there's a lot of strategic not-knowing that goes on in the business world. Perhaps it is better not to have a position here.
+            - [[Phil Wolff]] thinks that not having something adds too much friction.
+            - [[Maier Fenster]] worries that if we produce something, we (or the document author) are being opened up for lawsuits.
+            - [[Phil Wolff]] thinks we need some kind of explicit-ish though to help get people in the door.
+            - [[Maier Fenster]] asks how [[Phil Wolff]] handles things.
+            - [[Phil Wolff]] notes that it starts off based on personal reputation, and then an NDA gets layered on later if/when secrets get revealed.
+            - [[Maier Fenster]] asks why this isn't good enough for us?
+            - [[Jenna Dixon]] tries to bring this home...
+            - [[Phil Wolff]] acknowledges [[Maier Fenster]]'s concerns... There's a formality/informality concern here. Maybe we can't skip the paperwork?
+            - [[Maier Fenster]] really wants a dedicated channel for this.
+            - [[Nathan Acks]] asks if this conversation could maybe live in `#internal-learnings` or `#tool-time`?
+            - [[Maier Fenster]] agrees that this could live in `#tool-time`.
+            - [[Jenna Dixon]] thinks we should go for this. Let's drop something there.
+                - > Having opinions, rather than having a conversation.
+
+-- [[Jenna Dixon]]
+            - [[Maier Fenster]] would like to talk about project UI/UX a bit more. Projects aren't happening... But they aren't. We don't seem to have the right infrastructure to reliably get new projects off the ground (and keep them running).
+            - [[Phil Wolff]] thinks that one of the challenges is Roam. It's too slow. Very few people use it. Everything's theoretically in Roam, but there's nothing in Discord feeding them there, and once people get to Roam it all gets very confused.
+            - [[Maier Fenster]] thinks that basic project information (and voting) should be in Knack. Roam would be more of a wiki/notepad.
+            - [[Phil Wolff]] wonders if there's prior art (language, interfaces, etc.) we could steal for project management.
+            - [[Maier Fenster]] thinks that part of the issue though is that people aren't dedicated enough.
+            - [[Phil Wolff]] suggests that perhaps we're more like a GitHub project or a barn raising.
+            - [[Maier Fenster]] notes that the barn raising example is a good one. Most projects lack define time frames and goals.
+            - [[Phil Wolff]] the limited back-end access to Knack makes things hard.
     - Infrastructure Chat 53 [[May 26th, 2021]]
         - participants:: [[Maier Fenster]] [[Jenna Dixon]] [[Nathan Acks]] [[Nitzan Hermon]]
         - notes::

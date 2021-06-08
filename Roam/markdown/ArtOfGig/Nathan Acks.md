@@ -16,7 +16,7 @@
     - [[Discord Channel Lifecycle and Organization]]
     - [[Yak Collective Member Types]] #proposal
 - Public Inbox::
-    - Put anything you like here (I check this at least once a week, and will removed seen items).
+    - ^^Put anything you like here (I check this at least once a week, and will removed seen items).^^
 - Pings::
     - {{[[query]]: {and: [[ping]] [[Nathan Acks]] {not: [[pong]]} {not: [[query]]}}}}
 - To Do::

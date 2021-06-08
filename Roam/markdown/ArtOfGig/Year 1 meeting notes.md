@@ -259,6 +259,46 @@
     - [[May 31, 2021]] -- Venkat
         - [[Onshape Cheatsheet]]
     - [[June 7, 2021]] -- Eric
+        - Prompt - [Notes on embedded vision](https://docs.google.com/presentation/d/1cM6-KweIYGPF-lW0d8lOEmhzV43tiL6MrEiZMQMFtlg/edit)
+        - Notes/Discussion:
+            - CPU and GPU different tradeoff. CPU is general and less efficient than GPU in matrix operations
+            - Multiple Compute Units also help in energy efficiency in real missions
+            - SLAM and legal issues
+            - Luxonis: https://luxonis.com/
+            - Open Source SLAM website - https://openslam-org.github.io
+            - Eric's setup
+                -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F3WCkJGj4TK.png?alt=media&token=c9fa9fe2-9139-4c72-bea5-6fbb9b5b92c4)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FVI3b-O1D3S.png?alt=media&token=49b34380-d0b7-4b85-92c2-c4af7b71f748)
+                - [OAK 1](https://store.opencv.ai/products/oak-1) -- OAK-D depth variant requires 12v - 
+                - Luxonis is the company that makes the hardware chip in OAK-1 https://luxonis.com/depthai#backstory
+            - Venkat - 
+                - Input Data Rate and Output summary going to Rpi two parameters and ratio of them gives info about efficiency of the OAK-1? 
+                - If we all standardize on OAK-1 then we could have common abstraction? 
+                - Can a full SLAM be done on OAK-1? Can the camera tell send a graph after doing some A* sort of path-planning and just that info to RPi
+                - What if we wanted to add two or more cameras? How to distributed vision with OAK-1
+                    - Eric - Maybe not use OAK-1 and use OAK-D?
+                - In a democracy of humans - humans just share semantic information and not raw data why they vote in specific directions. Cameras could do something similar and share the semantic labels they see and a fusion could be done a higher abstract level like a mind-meld of the semantic information. Maybe this could be possible in the next years
+            - Eric - 
+                - OAK-1 to RPi communication can just a binary of 1 or 0 showing presence or absense of object.
+                - OAK-1 compute can do JPEG compression can stream it via communication channel
+                - What is the power draw? OAK-D not economical power wise
+                - Maybe in cars, maybe a dedicated processing unit that is connected to all cameras of cars 
+                - OAK-D has two cameras and single compute unit. It is not the mind-meld of semantic information
+            - Maier - 
+                - SLAM Hardware - https://blog.slamcore.com/the-slam-hardware-conundrum
+                - Do we really need to detect objects for navigation or just extract rover salient information from image
+                - Can you send the semantic model of the world be sent from one OAK to another OAK? 
+                    - Eric - That could be done through the RPi, but that is costly operation because a lot of data has to be moved
+            - Jascha -
+                - On processor 
+                    - On cars compute does not happen on the camera and all data comes to redundant central compute units. All safety critical things are fed into the pipeline
+                    - On safety critical systems all the inference has to be fed into redundant compute units and then vote
+                    - Nvidia Jetson is modular and it is possible to have 12 cameras feeding into a compute units
+            - Rhett
+                - What if the two units disagree?
+                    - Jascha - Maybe have health checks of each unit, rerun the inference. The failure mode is catastrophic and if there is disagreement then there is something serious is up
+                    - Venkat - The Air France crash was an example of this. The tie break is done pilot
+                - 
     - [[June 14, 2021]] -- Victor
     - [[June 21, 2021]] -- Anuraj
     - [[June 28, 2021]] -- Maier
