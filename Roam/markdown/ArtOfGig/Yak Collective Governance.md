@@ -7,6 +7,7 @@
 - Last Gardened:: [[November 20th, 2020]] by [[Jenna Dixon]]
 - We currently have 3 tracks of readings: General, Platforms, Anarchism. Each features a backlog of short readings (must be free, reasonably browsable within 15 minutes, and text... no video/audio). We pick one to read and discuss every Friday morning at 9 AM in the governance chat
 - [[Glossary]]
+- [[Governance Readings Six Pager]]
 - **Platforms Track** — [[Grigori Milov]]
     - **Completed**
         - A piece about a hierarchy of marketplaces. It refers to some thinking of Bill Gurley, among other things, who deserves a lot of attention.
@@ -159,15 +160,13 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
             - "An English child boxes one on one, not in a group as we Russians like to spar.”
 Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
             - Wikipedia on Mutual Aid: https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
-            - 
-    - **Queued**
         - [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
+        - https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/
+    - **Queued**
         - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
         - [chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
         - Ivan illich
             - https://www.tandfonline.com/doi/abs/10.1111/j.1469-5812.1981.tb00481.x?journalCode=rept20
-            - http://www.ditext.com/nursey/2.html
-            - https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/
         - bayo akomolofe https://bayoakomolafe.net/project/i-coronavirus-mother-monster-activist/
         - anarch transhumanism https://emmibevensee.com/?p=850
         - Ernest junger
@@ -175,8 +174,8 @@ Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) 
             - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386
         - reading guide to sum of us https://heathermcghee.com/wp-content/uploads/2021/02/McGHEE_TheSumOfUs_HC_DiscussionGuide_Final.pdf
         - [Goodreads page for Two Cheers for Anarchism](https://www.goodreads.com/book/show/14891877-two-cheers-for-anarchism)
-        - Emma Goldman's writings — SELECTION?
         - Backup resources (not short-reads, unsuitable for featured reads in chats)
+            - Emma Goldman's writings — SELECTION?
             - Book: [Crimethinc: Work](https://crimethinc.com/books/work)
             - Site: [Jesus Radicals](https://www.jesusradicals.com/iconocast); the Iconocast podcast and their library are both quite good. Coming from a Christian anarchist perspective.
             - YouTube channel: [Beau of the Fifth Column](https://youtu.be/y-PbSFZASR0?t=125)
