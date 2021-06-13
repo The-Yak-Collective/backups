@@ -474,6 +474,10 @@ hello@sampanter.info
 - [[Sterling Proffer]]
     - I spent a decade at VICE designing, launching, and scaling new parts of the company, starting with Motherboard in 2009, then Noisey, VICE's YouTube channels, VICE News, the Growth team, then a Strat[]egy & BD group that included standing up partnerships, an in-house consultancy, a new business incubator, and a business analytics team. 
     - In the two years since I left, I've helped a few friends get their companies off the ground and have worked with independent creatives, established companies, and nonprofits on solving cross-functional problems (e.g. fundraising, go-to-market, business model design, operational challenges, partnerships).
+- [[Rachel Prudden]]
+    - I currently work as a scientist researching weather and climate, with a focus on machine learning and statistics, and also doing a part-time PhD. A while back I was a programmer, and before that I did a degree in pure maths and wrote a final year project on constructing the real numbers. I got into science after joining an interdisciplinary team mixing science, tech and design research and working on things like interactive 3D web animations of scientific data and playing with voice interfaces.
+        - My professional / research blog is here: https://rachel-prudden.medium.com/
+        - List of [papers](https://scholar.google.com/citations?user=uf39AF8AAAAJ&hl=en&authuser=1)
 - [[Edwin Rager]]
     - Curiosity Driven Creative Strategist working in the intersection of brands, business, technology and culture.
     - Past tenures in Google, MediaMonks, Mother & Ogilvy

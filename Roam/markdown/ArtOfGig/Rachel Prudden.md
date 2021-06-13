@@ -1,0 +1,3 @@
+- I currently work as a scientist researching weather and climate, with a focus on machine learning and statistics, and also doing a part-time PhD. A while back I was a programmer, and before that I did a degree in pure maths and wrote a final year project on constructing the real numbers. I got into science after joining an interdisciplinary team mixing science, tech and design research and working on things like interactive 3D web animations of scientific data and playing with voice interfaces.
+    - My professional / research blog is here: https://rachel-prudden.medium.com/
+    - List of [papers](https://scholar.google.com/citations?user=uf39AF8AAAAJ&hl=en&authuser=1)
