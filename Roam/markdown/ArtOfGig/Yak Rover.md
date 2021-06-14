@@ -1,4 +1,4 @@
-- About:: __A project to design a real Mars rover prototype that can actually be built and trialled on Earth, and evolved into a production model that could potentially even be launched to Mars.__
+- About:: __A project to design a real Mars rover prototype that can actually be built and trialed on Earth, and evolved into a production model that could potentially even be launched to Mars.__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional Page Wranglers:: [[Anuraj R]] | [[Fname Lname]]
 - Created:: [[November 18th, 2020]] by [[Venkatesh Rao]]

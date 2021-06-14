@@ -25,6 +25,29 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 55 [[June 9th, 2021]]
+        - participants:: [[Maier Fenster]], [[Jenna Dixon]]
+        - notes::
+            - [[Nathan Acks]] wants to start by deciding if we want to bump the meeting to 11 ET, as was suggested in the #infrastructure channel.
+            - [[Maier Fenster]] has conflicts through July.
+            - [[Nathan Acks]] will bump the meeting time to 11 ET starting in August.
+            - [[Jenna Dixon]] would like to use the agenda a bit more.
+            - [[Maier Fenster]] will need to leave early, but would like to discuss what we can do to make bots a bit more useful for projects. They'd also like to drop the licensing and financial governance agenda items.
+            - [[Nathan Acks]] points out that licensing impacts a current agenda item to "open source" the website code. But they're fine dropping financial governance.
+            - [[Jenna Dixon]] agrees. Dropping the financial governance discussion, since that's moved elsewhere.
+            - [[Nathan Acks]] moves on to the question of Google Analytics. They're largely ambivalent to this -- they're not a fan of having analytics on the page, but other people like it.
+            - [[Jenna Dixon]] wonders if Google Analytics exhaust could be included on the website.
+            - [[Maier Fenster]] notes that we don't have much traffic yet, and should probably hold off until there's something more significant.
+            - [[Jenna Dixon]] would maybe like to switch to an indie analytics vendor like Fathom (though that's not free), perhaps an indie. For example, they like Buttondown because it's an indie.
+            - [[Nathan Acks]] mostly likes Buttondown because it's more technically correct and has an API. Eventually we'll layer in some kind of automation.
+            - [[Jenna Dixon]] has a call-to-action for newsletter to get people involved in the "New Old Home" reboot. Additionally, they'd like to start a section talking about the "yak stack" of various indies.
+            - [[Nathan Acks]] and [[Maier Fenster]] both think that [[Jenna Dixon]] has good instincts here, and should continue pursuing the current direction.
+            - [[Jenna Dixon]] wonders if there's a better way of getting Yak Rover content.
+            - [[Maier Fenster]] suggests looking into Twitter. There's even a "unified" Yak Rover account, but right now it just tweets about [[Maier Fenster]] rover.
+            - [[Jenna Dixon]] already does this, but [[Venkatesh Rao]] posts so much that the signal-to-noise isn't good.
+            - [[Nathan Acks]] wonders if we could get the Yak Rover folks to adopt some set of hashtags.
+            - [[Jenna Dixon]] thinks that hashtags might be a big ask to do consistently.
+            - [[Maier Fenster]] thinks that people __would__ do this, but just need to be badgered a bit. Directly mention them.
     - Infrastructure Chat 54 [[June 2nd, 2021]]
         - participants:: [[Jenna Dixon]] [[Maier Fenster]] [[Nathan Acks]] [[Phil Wolff]]
         - notes::
