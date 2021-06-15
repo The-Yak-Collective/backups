@@ -1,0 +1,98 @@
+- To start a project, head over to the [[Project Pitches]] page
+- **Ongoing Projects**
+    - [[Yak Rover]]
+- **Completed Projects**
+    - [[Don’t Waste the Reboot]] led by [[Paul Millerd]] and [[Venkatesh Rao]]
+    - [[The New Old Home]] - led by  [[Pamela Hobart]] and [[Drew Schorno]]
+    - [[Astonishing Stories]] (open-ended)
+    - [[Future Frontiers]]
+    - [[Neurofuturama]]
+- **Free ideas**
+    - Financial re-engineering post covid. — BIG gap
+        - Debt/credit management, recapitalization
+        - Bankruptcy decision
+        - How to read balance sheets post covid
+        - Assessing M&A fits
+        - Public vs private markets
+        - Revenue/earnings forecasting
+        - Capital planning under interest rate/inflation/deflation scenarios
+        - Taxes
+        - Government bailout navigation
+        - Stranded assets
+        - Tax sheltered companies resources
+        - This would be the most hard-edged technical report
+        - But if someone can do this one, it’ll balance out all our softer ideas well
+            - This would be fun to support -- [[Johannes "xmj" Meixner]]
+            - I can help with this as well, as it aligns with a previous life. But I wouldn't sergeant it, as it aligns with a previous life [[Thomas Verhagen]]
+            - Happy to be a 'read these pieces & synthesise monkey' -- [[Krish Khubchand 🎈]] -> interested in the general topic, have done some basic corporate finance courses via aswath damadoran before
+    - Easy one: Design fictions for post-Covid world —- venkat can coach a bit if needed 
+    - Rethinking employment and jobs
+        - Interested in partnering with someone on this -[[Paul Millerd]] been writing about it for 3+ years
+        - [[Tyler Willis]] interested
+        - [[Nikhil Deshmukh]] interested
+        - [[RebeccaScott]] also interested
+    - [[Sea-Change, Rich and Strange]] - Rethinking globalization, reshoring, and automation
+        - Love to work with someone on this. [[Nandan Mullakara]] has a background in this.
+        - [[James Crook]] Interested in contributing to discussion of this, especially on "there is room at the bottom" (automated micro manufacturing), experience from [[Ireland]] which has high export-costs relative to rest of EU, growth of Felixstowe port, components of indeterminate origin, misaligned incentives. 
+    - Rethinking China
+    - [[Minimum Viable Workshop  - Experiment]]
+        - An experiment on facilitation a workshop for beyond YC
+    - Rethinking the nation-state/corporation relationship
+        - starting to collect resources here, lmk if you want to collab: https://www.are.na/krish/corporations-states -- [[Krish Khubchand 🎈]]
+    - Virtual work / working from home
+    - **Tabled**
+- Old process scaffolding from 2020 when things were much more complex
+    - September-October 2020 proposal pages::
+        - [[Concept Contrast Project (temp name)]] - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others led by [[Rafael Fernandez]] & [[Maier Fenster]]
+    - **July-August 2020 Proposal Pages**
+        - Starting with this cycle, we are introducing a formal [[Project Referee Role]]
+        - [[Astonishing Stories
+...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [[Sachin Benny]] & [[Amanda Reeves]]. Combines updated thinking on previous proposals [[Speculative Fiction for the reboot ]] and [[Post-COVID scenario set]]
+            - [[Speculative Fiction for the reboot ]] [[Sachin Benny]]
+                - 2-3 people per speculative fiction piece
+                - in collaboration with
+            - [[Post-COVID scenario set]] - a collaboratively built scenario generator exploring pathways from COVID over the next 5 years, led by [[Amanda Reeves]] & [[Reanna Browne]]
+        - [[Future Frontiers]] [[Siva Swaroop]] & [[Venkatesh Rao]] 
+        - [[Evidence Based Design]] Collecting, Publishing, and Packaging Redesigns grounded in Crowd Collected Evidence [[Paul Sas]]
+        - [[Old Forms of Justice in a New World ]] - [[Mitchell Anhoury]] - Justice, New Sheriffs in Town, and the Tech That Makes it Happen
+            - [[Policing the Future]] [[Darren Kong]] - towards alternative futures of law enforcement and policing
+        - [[Dating Futures Proposal]]
+    - **May 2020 Greenlit Projects**
+        - [[Yaks do innovation consulting]] [[David McDougall]] and [[Vaughn Tan]] 
+        - [[The New Old Home]] - a multidisciplinary exploration in homes of the present & near future  [[Pamela Hobart]]
+        - [[Neurofuturama]] (see #Neurofuturama channel in Discord)
+    - **July-August 2020 Call for proposals** (Deadline **June 26**)
+        - Make a roam page for your idea under the Proposals bullet above with whatever details you want. A rough project plan is recommended.
+        - Shop it around and talk to potential collaborators, gauge interest **before** you submit the proposal
+        - Identify a **co-proposer**, and **two referees** (who will not be participating but will sign off on release/kill/continue decisions)
+        - Once you've completed the steps above, fill out this form: https://forms.gle/m4NFzmCT5BxYBpFY9
+        - The [[Greenlighting Process]]
+    - **Tabled or Abandoned Proposals** 
+        - [[Join the Revolution | Applying Protest and Social Reform in the workplace]] [[Evan Carmi]]
+        - [[(closed) 35 doughnuts - what the world wants to tell the UK government about #renewal [[Benjamin P Taylor - London]] ]]
+        - [[“Your Next Strategic Offsite will be Online—here’s what to do” [[Jason Fox]]]]
+        - [[(closed) Yak attacks - a Yak perspective on Requisite Agility - [[Benjamin P Taylor - London]]]]
+        - [[(closed) Yak attacks - Yak contributions to the Build Back Better in the Days after public service learning community - Benjamin P Taylor - London]]
+        - [[Yak-Walk Map]] -- a walk-through map of the first Deck's ideas focusing on pain-points of decision-makers(our potential clients) along with a linked resource-library  — [[Vinay Débrou]] 
+        - [[Strengthsfinder after the Apocalypse - discover your narrative in a post Covid World - Steven Moody]]
+        - [[Decision Velocity: Speed is the only sustainable competitive edge]] [[David McDougall]]
+        - [[Post-COVID scenario set]] - a collaboratively built scenario generator exploring pathways from COVID over the next 5 years, led by [[Amanda Reeves]] & [[Reanna Browne]]
+        - [[Governance, Trust, Media, and Markets - Nate Baird]]
+        - [[Speculative Fiction for the reboot ]] [[Sachin Benny]]
+            - 2-3 people per speculative fiction piece
+            - Would be great if one or two illustrators could contribute 
+            - in collaboration with
+        - [[Power Posing for Zoom - Experiments in camera based status transactions ]] [[Steven Moody - Barcelona]]
+        - [[“Your Next Strategic Offsite will be Online—here’s what to do” [[Jason Fox]]]]
+        - [[Jay Kalawar: Toward Inclusive 2040]] [[Jay Kalawar]]
+        - [[Six Uneasy Pieces]] — needs primary but [[Venkatesh Rao]] is willing to be secondary/coach as necessary
+            - I would like to take this on [[Alex Wagner]]
+            - Keen to collaborate on this [[Thomas Hollands]]
+        - [[Nature is Healing]] — [[Venkatesh Rao]]
+        - [[Situation Normal: N Futures - Jordan Peacock]]
+            - Dealing with a couple blocking issues before collaboration will be meaningful.
+        - [[Expert-Generalists Accelerate Innovation — and Indies tend to be expert-generalists]] — [[Scott Allen]]
+            - I've got other priorities today - going to table this proposal until the next round and will help on one or two of the other projects.
+    - **Poll Results for May 2020**
+        - [[Contribution Interest & Ratings for Proposals - May 2020]]
+    - [[May Proposal Cycle Analysis]]

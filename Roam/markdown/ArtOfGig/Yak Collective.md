@@ -1,4 +1,4 @@
-- A proof-of-work based indie consulting network. Your participation in and contributions to [[Yak Collective Collaborations]] determine your stake in it, not your credentials or claims.
+- A proof-of-work based indie consulting network. Your participation in and contributions to [[Projects Directory]] determine your stake in it, not your credentials or claims.
 - [[Yak Collective Governance]]
 - [[Internal Volunteer Opportunities]]
     - Lead a collaboration

@@ -4,7 +4,7 @@
 [[FnameL]] lead
         - [[Things We Need]] cell
 [[FnameL]] lead
-        - [[Yak Collective Discord Code of Conduct]] cell
+        - [[Code of Conduct]] cell
 [[FnameL]] lead
     - **Emerging Cells**
         - [[Yakcoin]] cell

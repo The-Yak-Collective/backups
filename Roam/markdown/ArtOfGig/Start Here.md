@@ -17,5 +17,5 @@
                 - Data scientism
         - Project proposals snowball from the interest and volunteer energy that is sparked. It is possible at any point to try to start building sufficient interest to initiate 
 - Initially, useful things here are primarily related to the [[Coronavirus and the Gig Economy]] test
-- The community is codifying [[Rules and Code of Conduct]], so be sure to respect these. If you can imagine making improvements, that's inherently possible. 
+- The community is codifying [[Code of Conduct]], so be sure to respect these. If you can imagine making improvements, that's inherently possible. 
 - {{[[TODO]]}} Find the [[Index]] page where you can begin exploring, editing etc.

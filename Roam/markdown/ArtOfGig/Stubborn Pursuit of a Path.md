@@ -1,8 +1,9 @@
 - Bottom approach, use the simplest / cheapest components and find where they lack.
 - Software rabbit hole of bespoke flight control system
-    - Paths not take:
+    - Paths not taken:
         - fPrime
         - cFS
+        - ROS
 - BOM
     - Adafruit Mini Robot Chassis Kit
     - Powerboost 1000 / 3.7 V Battery

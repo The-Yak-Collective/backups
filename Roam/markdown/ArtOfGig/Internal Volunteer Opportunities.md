@@ -12,4 +12,4 @@
     - Help with the proposal voting 
     - Email list
 - Spotlight work
-    - Contribute to a [[Yak Collective Collaborations]]
+    - Contribute to a [[Projects Directory]]

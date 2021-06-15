@@ -1,0 +1,3 @@
+- We'll figure out rules as we go along, but for now there are only 2 rules that apply to both the Roam database and the Discord.
+    - The improv rule of [Yes, And](https://en.wikipedia.org/wiki/Yes,_and...).
+    - The [[Don't Make Us Make A Rule]] rule

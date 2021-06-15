@@ -1,0 +1,15 @@
+- Current chats 
+    - Sundays, 6 AM Pacific, Philosophy chat (Discord) hosted by [[Jordan Peacock]]
+    - Mondays, 9:45 PM Pacific: [[Yak Rover]] standing meeting (on Google Meet, link in announcement)
+    - Wednesday, 7 AM Pacific: Infrastructure chat (Discord) (hosted by [[Nathan Acks]])
+    - Fridays, 9 AM Pacific: Governance chat (Discord) (hosted by [[Venkatesh Rao]])
+    - Saturdays, 7 AM Pacific: [[Yak Talk]] chat
+- If you'd like to try hosting a chat, start a conversation in the Discord to recruit some initial interested members and then claim a suitable time/day slot to kick it off. Ask [[Yak Discord server]] admin to add your chat to the calendar. Check out this page of [[Chat Formats]] for ideas on useful structured formats, and to add your own. We follow [the Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) for these chats.
+- About:: 
+    - You can request permission from [[Venkatesh Rao]] to modify it if you're hosting regular weekly events or [[Office hours with YakShavers]]. 
+    - ^^Here is the shared [Google Calendar link](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).^^
+    - For one-off meetings, please coordinate among yourselves and post to the events channel or other appropriate channel. These will not be added to the group calendar unless it is a major one like a town hall.
+- Last Updated:: [[September 20th, 2020]]
+- Last Updated By:: [[Fname Lname]]
+- Chief Page Wrangler:: [[Fname Lname]]
+    - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 

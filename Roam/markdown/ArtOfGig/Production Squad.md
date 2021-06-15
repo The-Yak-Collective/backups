@@ -86,7 +86,7 @@ Native, Webflow, Carrd, Google Slides....__
 - 
 - # 3. Production contribution requests
     - __All: please contribute any links you know about or come across /jd__ [[August 3rd, 2020]]  
-    - [[Yak Collective Collaborations]]
+    - [[Projects Directory]]
         - Volunteers for copyediting, proof-reading design, etc
 - 
 - 

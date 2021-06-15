@@ -1,10 +1,13 @@
 - __Some of this info is applicable to future "Join Us" page on Yak site.__
-- There is an [[Art of Gig]] [[Discord]] server. Please respect the [[Yak Collective Discord Code of Conduct]]
+- There is an [[Art of Gig]] [[Discord]] server. Please respect the [[Code of Conduct]]
 - Here is the Google Form to access the invite link: https://forms.gle/V81aePxEoTMXU1FN7
-- [[Discord Chat Calendar]]
-- [[Office hours with YakShavers]]
-- [[Discord]] server admins -- known as YakShavers
+- [[Chat Calendar]]
+- [[Discord]] server admins -- known as YakShavers. If you think you need admin privileges to do something, talk to one of the current admins.
     - [[Venkatesh Rao]]
+    - [[Maier Fenster]]
+    - [[Jenna Dixon]]
+    - [[Oliver King]]
+    - [[Darren Kong]]
     - [[Paul Millerd]]
     - [[Tom Critchlow]]
     - [[Pamela Hobart]]

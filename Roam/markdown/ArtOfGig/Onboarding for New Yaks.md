@@ -5,7 +5,7 @@
     - ["Don't Waste the Reboot" Yak Collective Slide Deck](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit#slide=id.g839bef3dde_29_8)
     - https://yakcollective.org/about
 - It also doesn't hurt to have a look at:
-    - [[Discord Chat Calendar]]
+    - [[Chat Calendar]]
     - [[Things We Need]]
     - New Yaks can [log questions here.](https://roamresearch.com/#/app/ArtOfGig/page/rBq2aFRDN)
 - ## **Welcome**
@@ -14,7 +14,7 @@
 - Yak Collective is a place for people who are thinking about, or are currently making their living as an indie consultant. #needsupdate 
 - ## **What Is This Document?**
 - The first thing you should know: the Yak Collective is an__ experimental__ and __loosely-coordinated__ network of independent consultants. It is still very much an active experiment. Read about the Yak Collective’s origins and why it was formed at the [[About Page]].
-- YC operates by a simple [[Rules and Code of Conduct]] 
+- YC operates by a simple [[Code of Conduct]] 
     - We'll figure out rules as we go along, but for now there are only 2 rules. 
         - The improv rule of [Yes, And](https://en.wikipedia.org/wiki/Yes,_and...).
         - The [[Don't Make Us Make A Rule]] rule
@@ -39,12 +39,12 @@
     - Try to make friends and build collaborative relationships
         - Read and post your intros to the #introductions channel and [[Directory]], interact with members, attend voice chats, slide into DMs, interact on [Twitter](https://twitter.com/i/lists/1257428917616553984), read each other's blogs/newsletters, etc
     - Look for opportunities to participate in chat channels and voice chats
-        - Find a list of voice chats on the [[Discord Chat Calendar]] or[ Google calendar](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+        - Find a list of voice chats on the [[Chat Calendar]] or[ Google calendar](https://calendar.google.com/calendar?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
             - The voice chats are a great place to participate and get a sense of some of the pockets of culture in the YC.
             - No voice chat is necessarily representative of the rich network of participants that have joined (and continue to join the Yak Collective), but collaborations are built relationship-by-relationship.
     - Find places to contribute and help — this is a self-organized network centered around collaboration and projects.
         - Look through Roam, make helpful edits and perform maintenance
-        - Give feedback to proposals [[Yak Collective Collaborations]]
+        - Give feedback to proposals [[Projects Directory]]
         - Submit your own proposals! Create a stub in Roam, and discuss those proposals in #collaboration channel on Discord
         - Submit a channel idea in #create-destroy-channels
         - Find people with which to collaborate (see above: Try to make Friends)

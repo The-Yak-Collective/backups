@@ -1,6 +1,6 @@
 - This was our first [[Pop-Up Think Tank]] project
 - If you do a reflection post, please link it in this page: [[Reflections and Reviews ]]
-- This is the first of what we hope will be many [[Yak Collective Collaborations]]. This one is being coordinated by [[Paul Millerd]]. Target date for V 1.0 release: **April 30th**
+- This is the first of what we hope will be many [[Projects Directory]]. This one is being coordinated by [[Paul Millerd]]. Target date for V 1.0 release: **April 30th**
 - To discuss, join the Collaborations channel on the [[Yak Discord server]]
 - **Purpose**: We are looking to put together a pitch deck of at least 20 Indie Ideas - short & punchy 1-2 slides per idea.  The frame of the deck is as a stark difference to the bland "new new new normal" McKinsey and other mainstream views.  Showing that we have something to offer idea-wise and in practical hire-us ways.
 - Deck in progress: [Google slides link](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit?usp=sharing) 

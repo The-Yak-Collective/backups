@@ -1,5 +1,5 @@
 - Marketing and social media consultant based in [[Texas/Austin]] (actually Bastrop, "just east of weird"). Diverse career in tech and marketing, including stints in independent consulting, startups, small business, and corporate/Fortune 100.
-    - current projects::
+    - Projects Directory::
         - [The Virtual Handshake](http://TheVirtualHandshake.com) — In 2005, I coauthored one of the first books on what we now know as social media marketing. We're doing an updated 2nd edition of the book this year, and I'm launching my consulting business under the brand.
         - [LinkedIntelligence](http://LinkedIntelligence.com) — The unofficial  source for all things LinkedIn.
     - social media:: 
