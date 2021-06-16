@@ -303,8 +303,7 @@
         - Prompt - https://docs.google.com/presentation/d/1ug3vkDoDGSGTB2PZ0etH7OPhEZ1wZaRuayvIovF6iW4/edit?usp=sharing
         - Discussion
             - Victor -
-                -  
-                - There is not much momentum in ROS2
+                - There is not much momentum in ROS2.  It has a lot of corporate sponsors, but much less other community activity than ROS1.
                 - Next tasks - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fet1TTM7JNW.png?alt=media&token=cfbbd4e6-b739-4b8d-b43b-858277ad1887)
                     - Current missions are research heavy
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fy360PB4g9K.png?alt=media&token=c460dc0b-3a41-4489-894e-130289619874)
@@ -320,11 +319,12 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F2SR_Shcu5M.png?alt=media&token=7c069b8d-e650-47a0-a9c9-a3ba2d71602a)
                     - A gully - a rover maybe not able to cross them
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FAYZnYTCNyR.png?alt=media&token=ac498aeb-b0d9-4b55-8c85-5b2d0876834b)
-                    - The pods could stand for 50 years. That's difficult to remove and challenging to remove once established
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FH0q71ACbCu.png?alt=media&token=91b4450c-0d69-44c6-ae1d-6a18f14b6367)
+                    - black mustard seeds could survive in the ground for 50 years. That's difficult to remove and challenging to remove once established
                     - black mustard are edible and one could make a mustard salad
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FH0q71ACbCu.png?alt=media&token=91b4450c-0d69-44c6-ae1d-6a18f14b6367)
+                    - succulents up close
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FKb9YcN64EV.png?alt=media&token=d5f50b22-eea3-4d4b-9940-585eeabe67b4)
-                    - rabbits chew around the bark and they die after it has chewed around because there is not water passing through it, not sure which animal does this
+                    - rabbits chew around the bark of a tree and they die after it has chewed around because there is not water passing through it, not sure which animal does this to the succulents.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FEtNa3A7d7x.png?alt=media&token=0fa4f26c-92b0-4f45-b944-a457dd9846a2)
                     - rover can't do such terrains. if it tries to do them it is going to get stuck or get damaged. 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0SHJGZXnXa.png?alt=media&token=54675bb7-5a0f-4052-be59-d389dc1d09a6)
@@ -332,13 +332,13 @@
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fhuv9pINewO.png?alt=media&token=39f27dcd-540d-4b37-8ae8-d8e4c2f92de7)
                     - Maier - mount a water gun on rover. allow either automatic shooting or manual (from remote, for pay).
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FfiSM8ZthR2.png?alt=media&token=d769db84-f7c5-4bf5-8882-bf52b4585e0a)
-                    - failed mustard
+                    - failed mustard. this year is very dry, many plants had their natural cycle interrupted.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F10xe7J2Di4.png?alt=media&token=ecfe5e39-6476-434f-ab19-febd86c415a4)
                     - infrared sensor picture
-                    - animal and insects that are social create a lot of heat. it is possible to see the animal at night without visible spectrum sensors but just with infrared camera
+                    - animal and some insects that are social create a lot of heat. it is possible to see the animal at night without visible spectrum sensors but just with infrared camera
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FtSr1sgrNov.png?alt=media&token=130b9b50-7fbb-4dbb-901e-021662763ef5)
                         - this is a picture of beehive in the wall behind the furniture
-                        - bee keepers can use infrared cam to check the health of the bee hive by looking at the brightness
+                        - bee keepers can use infrared cam to check the health of the bee hive by looking at the brightness in the winter
                 - Possible tasks for rover
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FphgV9HXRB2.png?alt=media&token=5cb076e3-371e-45a0-a983-3b2d1292e460)
                         - Maier - looking into heat or plasma (a lighter?) to contact-burn a plant
@@ -346,7 +346,7 @@
                         - Maier - how to be quiet and not scare rabbits.
                             - Victor - a rover might keeping at place for long periods of time. 
                         - Maier - go and see -> sit and lurk? 
-                            - This rover might be more active than a planetary rovers
+                            - Victor - this rover might be more active than Mars rovers
                         - Venkat - Trap inspection? Hunters do that to see if it has caught something. Similar stuff for rovers where they sit and watch. Insight missions does some of this(drill and observe)
                         - Maier - rover can align/aim the sensors 
                             - Victor - want to see stuff that are eating the stuff around. 
@@ -361,7 +361,7 @@
                         - really hot. There is lot of sun hours. 
                         - Aluvial plain. A lot for granite. Soil is very compacted. Soil is used is for less than 100 years. Soil is better where the stream goes. There is a lot of elevation difference. There are no perennial streams. There are ephemeral streams. 
                         - Plants - not many oak trees, nor willows, ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FJkZsSFz_Yq.png?alt=media&token=fc7c3345-939d-47d3-92e4-0212921e384c)
-                            - There are botanic gardens around. People can go there and buy plants that will grow in semi-arid environments. Easy to spot plant from the garden. Cacti from South America
+                            - There are botanic gardens around. People can go there and buy plants that will grow in semi-arid environments. Easy to spot plant from the garden. Succulents from South Africa.
                         - Animals - most animals are native
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FLdeh_xlt-r.png?alt=media&token=af09783a-7c74-46df-9432-3b12af705342)
                 - do corvids attack bots?
@@ -377,7 +377,7 @@
                     - Victor - In order to get some traction on slopes it takes some effort and it creates dust. Maybe big fat wheels? 
                     - Maier
                         - if not for the wind, adding a  flying component would be interesting.
-                            - Victor - maybe a drone might help, unless a drone has really good camera then it is not possible to view everything
+                            - Victor - the wind isn't all the time. maybe a drone might help, unless a drone has really good camera then it is not possible to view everything
                         - i find the problem with legs is that they draw more power during rest, etc. than wheels
                 - a company in UK is doing agricultural with large legged robots. They got a recent big funding
                     - Victor - can the soil

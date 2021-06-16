@@ -1,0 +1,19 @@
+- {{[[table]]}}
+    - Publication
+        - Genre 
+            - Cadence 
+    - [Colored Lens](http://thecoloredlens.com/?page_id=8)
+        - Speculative Fiction
+            - Weekly 
+    - [McCoys Monthly ](https://www.mccoysmonthly.com/submit)
+        - Any Genre
+            - Monthly 
+    - [Abyss and Apex](https://www.abyssapexzine.com/archives-2021/)
+        - Science Fiction/Fantasy
+            - Quarterly
+    - [Tor ](https://www.tor.com/)
+        - Science Fiction
+            - Weekly 
+    - [Metamorphosis](https://magazine.metaphorosis.com/guidelines/)
+        - Science Fiction
+            - Quarterly 
