@@ -3,8 +3,7 @@
     - Additional Page Wranglers:: [[Nathan Acks]] | [[Jenna Dixon]]
 - Created:: [[May 9th, 2020]] by [[Darren Kong]]
 - Last Updated:: [[January 3rd, 2021]] by [[Nathan Acks]]
-- Last Gardened:: 
-    - [[November 16th, 2020]] by [[Jenna Dixon]]
+- Last Gardened:: [[November 16th, 2020]] by [[Jenna Dixon]]
     - [[November 9th, 2020]] by [[Jenna Dixon]]
         - __reversed the order of the chat notes so that the newest is on top 👇
 suggest most recent note left untwirled for easy review to visitors__
