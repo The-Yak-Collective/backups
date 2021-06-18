@@ -300,10 +300,10 @@
                     - Venkat - The Air France crash was an example of this. The tie break is done pilot
                 - 
     - [[June 14, 2021]] -- Victor
-        - Prompt - https://docs.google.com/presentation/d/1ug3vkDoDGSGTB2PZ0etH7OPhEZ1wZaRuayvIovF6iW4/edit?usp=sharing
-        - Discussion
+        Prompt - https://docs.google.com/presentation/d/1ug3vkDoDGSGTB2PZ0etH7OPhEZ1wZaRuayvIovF6iW4/edit?usp=sharing
+        Discussion
             - Victor -
-                - There is not much momentum in ROS2.  It has a lot of corporate sponsors, but much less other community activity than ROS1.
+                - There is not much momentum in ROS2.  It has a lot of corporate sponsors, but much less community activity than ROS1.
                 - Next tasks - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fet1TTM7JNW.png?alt=media&token=cfbbd4e6-b739-4b8d-b43b-858277ad1887)
                     - Current missions are research heavy
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fy360PB4g9K.png?alt=media&token=c460dc0b-3a41-4489-894e-130289619874)
@@ -348,6 +348,7 @@
                         - Maier - go and see -> sit and lurk? 
                             - Victor - this rover might be more active than Mars rovers
                         - Venkat - Trap inspection? Hunters do that to see if it has caught something. Similar stuff for rovers where they sit and watch. Insight missions does some of this(drill and observe)
+                            - Victor - yes. Rover could scout first and plant sensors later.
                         - Maier - rover can align/aim the sensors 
                             - Victor - want to see stuff that are eating the stuff around. 
                             - Anuraj - Live bird cam youtube channel - https://www.youtube.com/channel/UCqd1aV6gTudT5TY8YVzK2Dg
@@ -359,7 +360,7 @@
                 - how strong is sunlight?
                     - Victor - 
                         - really hot. There is lot of sun hours. 
-                        - Aluvial plain. A lot for granite. Soil is very compacted. Soil is used is for less than 100 years. Soil is better where the stream goes. There is a lot of elevation difference. There are no perennial streams. There are ephemeral streams. 
+                        - Aluvial plain. A lot for granite. Some soil is very compacted. Soil is used is for less than 100 years. Soil is better where the stream goes. There is a lot of elevation difference. There are no perennial streams. There are ephemeral streams. 
                         - Plants - not many oak trees, nor willows, ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FJkZsSFz_Yq.png?alt=media&token=fc7c3345-939d-47d3-92e4-0212921e384c)
                             - There are botanic gardens around. People can go there and buy plants that will grow in semi-arid environments. Easy to spot plant from the garden. Succulents from South Africa.
                         - Animals - most animals are native
@@ -372,7 +373,7 @@
                 - speaking of using rovers to spy on animals, this was a great documentary... spycams carried around by elephants to spy on tigers in the wild https://www.imdb.com/title/tt1220619/
                 - Victor's mission scope is ideal for machine learning. That thing I posted earlier should be able to easily train a model on black mustard oceanic version... https://www.sofarocean.com/products/devices
             - Eric
-                - Boston Dynamic Spot - They don't have many degrees of freedom and still have 
+                - Boston Dynamic Spot - They don't have many degrees of freedom and still have great mobility.
                 - What about using other time of wheels? 
                     - Victor - In order to get some traction on slopes it takes some effort and it creates dust. Maybe big fat wheels? 
                     - Maier
@@ -380,7 +381,6 @@
                             - Victor - the wind isn't all the time. maybe a drone might help, unless a drone has really good camera then it is not possible to view everything
                         - i find the problem with legs is that they draw more power during rest, etc. than wheels
                 - a company in UK is doing agricultural with large legged robots. They got a recent big funding
-                    - Victor - can the soil
                 - Can the rover stay in Wifi range? Heavy computation can be delegated to computer at home
                     - Yes. The base station could be the one doing heavy computation
             - Jascha -
@@ -388,7 +388,7 @@
             - Anuraj - 
                 - batteries and power source ? 
                 - Victor - solar is a good choice in the location
-                    - maybe a base station to recharge and do low power stuff
+                    - maybe a base station to recharge, also minimize power usage
     - [[June 21, 2021]] -- Anuraj
     - [[June 28, 2021]] -- Maier
     - July 5 -- 4th of July weekend, so probably skip

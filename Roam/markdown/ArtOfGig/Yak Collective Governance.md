@@ -109,6 +109,7 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)
     - **Queued**
         - [Doctorow Metacrap article](https://people.well.com/user/doctorow/metacrap.htm)
+        - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/)
         - [Anatomy of a 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9?gi=cd39e157edd4)
         - Liquid modernity, Zygmunt Bauman
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
