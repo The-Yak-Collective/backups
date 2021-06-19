@@ -156,23 +156,23 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
     - **Completed**
         - [Carrier bag theory of fiction by Ursula Le Guin](https://theanarchistlibrary.org/library/ursula-k-le-guin-the-carrier-bag-theory-of-fiction)
         - [Sarah Constantin The relationship between hierarchy and wealth](https://srconstantin.wordpress.com/2019/01/23/the-relationship-between-hierarchy-and-wealth)
+        - [Haraway on Chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
         - [[Anarchists in China]]
-        - kropotkin http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization
+        - [Intro to Kropotkin](http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization)
             - "An English child boxes one on one, not in a group as we Russians like to spar.”
 Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
             - Wikipedia on Mutual Aid: https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
         - [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
-        - https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/
+        - Ernest junger
+            -  https://en.wikipedia.org/wiki/Eumeswil
+            - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386
+        - [Ivan Illich introduction](https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/)
     - **Queued**
         - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
-        - [chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
         - Ivan illich
             - https://www.tandfonline.com/doi/abs/10.1111/j.1469-5812.1981.tb00481.x?journalCode=rept20
         - bayo akomolofe https://bayoakomolafe.net/project/i-coronavirus-mother-monster-activist/
         - anarch transhumanism https://emmibevensee.com/?p=850
-        - Ernest junger
-            -  https://en.wikipedia.org/wiki/Eumeswil
-            - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386
         - reading guide to sum of us https://heathermcghee.com/wp-content/uploads/2021/02/McGHEE_TheSumOfUs_HC_DiscussionGuide_Final.pdf
         - [Goodreads page for Two Cheers for Anarchism](https://www.goodreads.com/book/show/14891877-two-cheers-for-anarchism)
         - Backup resources (not short-reads, unsuitable for featured reads in chats)

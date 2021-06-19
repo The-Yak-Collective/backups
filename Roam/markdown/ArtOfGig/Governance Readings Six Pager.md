@@ -1,0 +1,17 @@
+- Two-by-Two Dimensions for organizing what we have read: 
+    - Descriptive vs. Prescriptive
+    - Individual vs Group (institution, enterprise, movement)
+    - Wild vs Domestic (modes of being)
+    - Dynamic vs. Ordinary
+    - individual vs community
+    - highly managed vs low levels of management
+    - modern vs older (traditional?) prinicples
+
+    - political vs industrial
+    - Heuristics/Models (Internal) vs. Outcomes (External)
+    - Individual Transformation (Local) vs. Organizational Transformation (Global)
+    - Highly Aligned vs Not Highly Aligned
+        - Aligned/Unaligned 
+    - Predictable vs Surprising
+        - Luck/predictability or Serendipity vs. Sublimity
+    - Stocks vs. Flows philiosophies

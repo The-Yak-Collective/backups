@@ -1,0 +1,72 @@
+- Chassis
+    - Payload platform
+    - Base platform
+        - Holds compute
+    - Lower platform
+        - Holds battery
+- Rocker-bogie suspension system
+    - Rocker (2x, mirror-symmetric)
+        - Rocker joint (3d printed)
+        - Front wheel connecting strut (aluminum)
+        - Bogie connecting strut (aluminum)
+    - Bogie (2x, mirror symmetric)
+        - Bogie hinge joint (3d printed)
+        - Rear wheel strut (aluminum)
+        - Middle wheel strut (aluminum)
+    - Differential bar
+        - 2x mirror-symmetric ball joints from Base platform to Rocker joint (3d printed)
+        - 2x turnbuckle rods
+        - 1x differential bar
+        - 1x differential bar pivot (may be integrated with Payload platform)
+- Wheel modules
+    - 2x front-wheel drive units
+        - Front wheel motor bracket, connects to Front wheel connecting strut (aluminum)
+        - N20 motor
+        - SG90 servo
+        - Wheel (may be bought or 3d printed)
+    - 2x rear-wheel drive units
+        - Rear wheel motor bracket, connects to Rear wheel strut (aluminum)
+        - N20 motor
+        - SG90 servo
+        - Wheel (may be bought or 3d printed)
+    - 2x passive middle-wheel
+        -  Middle wheel bracket
+        - Wheel (may be bought or 3d printed)
+- Computer
+    - Beaglebone Blue
+        - 2-pin JST-XH
+- Wire harness
+    - Board to drive motor (BDM)
+        - BDM 1a
+            - Connects to 
+            - 2-pin female JST-XH to X
+        - BDM 1b
+            - 4-conductor female hall-effect sensor header JS
+- Power subsystem
+    - Solar panels
+    - LiIon battery pack
+- Sensors
+    - "Whisker" based proximal obstacle sensing
+    - LIDAR?
+    - Radar (can we get cheap enough?)
+    - Drive cameras
+- Navigation and control
+    - GPS
+    - SLAM style local navigation
+    - Stored map for deployment zone
+- Communications
+    - Starlink WiFi
+    - Continuous telemetry of system healthy
+- Payload
+    - Gimballed surveying camera (dual use for self inspection)
+    - Maybe some sort of atmosphere sensor, like pollution?
+- Compute
+    - RPi for general compute (2x redudant maybe?)
+    - Might need a couple of Arduinos for microcontroller needs and also fallback basic behaviors mode if the compute or comms fail
+- Software stack
+    - System health and diagnostics
+    - Comms
+    - Failure mode id and recovery/reconfig
+    - Basic path planning and navigation
+    - API-controlled payload ops
+    - etc.
