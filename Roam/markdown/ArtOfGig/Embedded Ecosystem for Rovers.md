@@ -1,0 +1,97 @@
+- Beginner
+    - [[Arduino]]
+        - https://www.peterbeard.co/blog/post/why-is-arduino-digitalwrite-so-slow/
+        - https://spectrum.ieee.org/geek-life/hands-on/the-making-of-arduino
+        - https://arduino.stackexchange.com/questions/56304/how-do-i-directly-access-a-memory-mapped-register-of-avr-with-c
+        - https://microcontrollerslab.com/accessing-memory-mapped-io-microcontrollers-pointer/
+        - main.cpp - https://github.com/arduino/ArduinoCore-avr/blob/master/cores/arduino/main.cpp
+        - https://electronics.stackexchange.com/questions/30830/what-happens-when-an-embedded-program-finishes
+        - https://github.com/arduino/ArduinoCore-avr/blob/master/cores/arduino/main.cpp
+        - https://fourwalledcubicle.com/AVRArticles.php
+        - #Arduino libraries - https://www.arduinolibraries.info
+            - Task Manager - https://twitter.com/arduinolibs/status/1385559753900892160?s=20
+            - Software Timers - https://twitter.com/arduinolibs/status/1380909236683694088?s=20
+            - Linked List - https://twitter.com/arduinolibs/status/1380909247387537409?s=20
+            - Cooperative Task Scheduler - https://twitter.com/arduinolibs/status/1355496264629170177?s=20
+            - https://twitter.com/arduino/status/1352663906158837763?s=20
+            - 
+    - Jonathan Valvano Course - http://users.ece.utexas.edu/~valvano/
+- https://www.downtowndougbrown.com/2010/10/microcontroller-programming-for-higher-level-programmers/
+- MCU volume -
+    -  https://www.hpcwire.com/off-the-wire/arm-ecosystem-ships-a-record-6-7-billion-arm-based-chips-in-the-final-quarter-of-2020/#:~:text=The%20Arm%20ecosystem%20continues%20to,one%20shipping%20GPU%20since%202015.
+    - https://www.grandviewresearch.com/industry-analysis/microcontroller-market
+    - https://www.embedded.com/the-shape-of-the-mcu-market/
+- Advanced 
+    - http://doc.state-machine.com/discord/Discord_Samek.pdf
+    - Virtualizing ARM firmware - https://twitter.com/payatulabs/status/1371341372893040642?s=20
+    - 
+- Ecosystem
+    - Bare Metal/RTOS
+        - Vendors 
+            - ESP/Espressif
+                - RISC-V https://hackaday.com/2021/02/08/hands-on-the-risc-v-esp32-c3-will-be-your-new-esp8266/
+                - ESP32-CAM
+                - ESP32 Pico - https://www.hackster.io/news/small-wifi-remote-controls-iot-devices-and-plays-gifs-9b8ae6571b2f
+                    - {{[[video]]: https://www.youtube.com/watch?v=5vRy--YCx7k }}
+                    - 
+            - Atmel and Microchip
+                - ATMegaZero - https://twitter.com/groupgetscom/status/1387061885376159745?s=20
+                - 
+            - ST Microelectronics
+            - NXP
+            - Cypress and Infineon
+            - Renesas
+            - Cheap
+                - {{[[video]]: https://www.youtube.com/watch?v=VYhAGnsnO7w}}
+                - 
+        - FreeRTOS - https://twitter.com/real_FreeRTOS/status/1376293154312228865?s=20
+        - 
+    - Linux
+        - RPi
+            - https://twitter.com/cnxsoft/status/1405159539918336000?s=20
+            - ARMBIAN - https://twitter.com/9to5linux/status/1391446042990809089?s=20
+            - CAN controller for RPi - https://twitter.com/sb_ltd/status/1384487497065910276?s=20
+            - 
+        - BeagleBone Black and Blue
+        - PinePhone - 
+            - https://www.pine64.org/pinephone/
+        - [[RISC-V]] 
+            - https://www.hackster.io/news/allwinner-s-risc-v-d1-chip-single-board-computer-leak-ahead-of-next-week-s-launch-announcement-0bdc4624e519
+            - https://www.hackster.io/news/meet-nezha-a-99-64-bit-linux-sbc-for-iot-0ee55f3fc2b1
+            - SPARC and #RISC-V
+                - {{[[video]]: https://youtu.be/5si2oL9hgro}}
+            - Safety Critical via Jascha - https://riscv.org/wp-content/uploads/2017/05/Wed0900am-RISC-V-Lockstep-Processor-Odiga.pdf
+            - BeagleV
+            - {{[[video]]:https://www.youtube.com/watch?v=VdPsJW6AHqc}}
+            - https://twitter.com/binitamshah/status/1345063715343802370?s=20
+            - 
+    - FPGA
+        - https://www.crowdsupply.com/radiona/ulx3s
+        - PYNQ - http://www.pynq.io/
+        - TinyML
+        - #RISC-V course
+            -  https://twitter.com/LF_Training/status/1394517607374598144?s=20
+            - https://twitter.com/MouserElecEU/status/1394636144508342281?s=20
+        - DOOM on FPGA - https://twitter.com/sylefeb/status/1391898528285351948?s=20
+        - Power efficient smart camera with microchip FPGA - https://twitter.com/MicrochipTech/status/1374436230947999745?s=20
+        - 
+    - ML/AI on micros 
+        - TFLite micro
+        - TinyML
+            - https://twitter.com/MicrochipMakes/status/1394733523383226382?s=20
+        - https://twitter.com/TensorFlow/status/1394744855033638912?s=20
+        - https://twitter.com/petewarden/status/1391287985610493954?s=20
+        - https://twitter.com/emh203/status/1391454648008167426?s=20
+        - https://twitter.com/Hacksterio/status/1387140123427577859?s=20
+        - Edge Impulse
+        - Cartsiam AI
+        - https://twitter.com/Hacksterio/status/1385653094307057668?s=20
+        - https://twitter.com/survivingwithan/status/1374957206697807872?s=20
+        - 
+    - Others
+        - Driving Servo motors tutorial - https://twitter.com/digikey/status/1382746801682456581?s=20
+        - NASA F` with DJI drone - https://twitter.com/Hacksterio/status/1380576215682125826?s=20
+        - #Arduino robodog - https://twitter.com/MicrochipMakes/status/1368282888622456835?s=20
+        - https://twitter.com/spaceroboticist/status/1360073386983006212?s=20
+        - https://twitter.com/MicrochipTech/status/1347906308721283072?s=20
+        - 

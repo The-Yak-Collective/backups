@@ -12,7 +12,7 @@
     - **Completed**
         - A piece about a hierarchy of marketplaces. It refers to some thinking of Bill Gurley, among other things, who deserves a lot of attention.
             - https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
-        - Underutilized fixed assets created market places 
+        - Underutilized fixed assets created marketplaces 
             - https://kwokchain.com/2020/01/23/underutilized-fixed-assets/
         - Netflix Culture Deck. Short version is here.
 https://jobs.netflix.com/culture
