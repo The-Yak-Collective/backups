@@ -24,6 +24,18 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 56 [[June 16th, 2021]]
+        - participants:: [[Jenna Dixon]] [[Maier Fenster]] [[Matt Ryall]] [[Phil Wolff]]
+        - notes::
+            - [[Jenna Dixon]] notes that we're seeing an increase in new folks. We should probably reboot the newbie onboarding call.
+            - [[Maier Fenster]] agrees.
+            - [[Jenna Dixon]] wonders both how much we should specialize, and what our "product(s)" should be.
+            - [[Maier Fenster]] thinks that the Yak Rover is starting to pull together a diverse pool of talent. Moreover, there's a difference between __maximizing revenue__ and __maximizing interest__. Their own business has learned this lesson the hard way.
+            - [[Nathan Acks]] notes that they've received personal advice to specialize in the past, but has resisted this. But maybe there's a good place for "spot generalists?" A.k.a., "when you absolutely, positively need to MacGiver this shit right now."
+            - [[Jenna Dixon]] thinks we should work a bit on the newsletter. Can we automate pushing data to GitHub?
+            - [[Phil Wolff]] points out that a big part of the newsletter workflow is actually in Google Sheets. Basically, [[Maier Fenster]]'s bots produce a CSV of exhaust, [[Phil Wolff]] uses IMPORTXML() in Google Sheets to pull page titles (this doesn't work for Twitter, YouTube, and Google Docs, so these links are just dropped), and then the resulting markdown into GitHub.
+            - [[Nathan Acks]] is willing to write a shell script to parse out the link CSV file.
+            - [[Maier Fenster]] notes that the command is `$links`. The relevant code is in [csvofyaks.py](https://github.com/The-Yak-Collective/onboarding_robot/blob/main/csvofyaks.py). The shell script should probably live in that repo.
     - Infrastructure Chat 55 [[June 9th, 2021]]
         - participants:: [[Maier Fenster]], [[Jenna Dixon]]
         - notes::

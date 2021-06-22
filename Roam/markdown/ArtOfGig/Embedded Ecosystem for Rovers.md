@@ -64,7 +64,6 @@
             - BeagleV
             - {{[[video]]:https://www.youtube.com/watch?v=VdPsJW6AHqc}}
             - https://twitter.com/binitamshah/status/1345063715343802370?s=20
-            - 
     - FPGA
         - https://www.crowdsupply.com/radiona/ulx3s
         - PYNQ - http://www.pynq.io/
@@ -74,7 +73,11 @@
             - https://twitter.com/MouserElecEU/status/1394636144508342281?s=20
         - DOOM on FPGA - https://twitter.com/sylefeb/status/1391898528285351948?s=20
         - Power efficient smart camera with microchip FPGA - https://twitter.com/MicrochipTech/status/1374436230947999745?s=20
-        - 
+        - Rocket Chip -
+            - https://chipyard.readthedocs.io/en/latest/index.html
+            - https://riscv.org/wp-content/uploads/2015/01/riscv-rocket-chip-generator-workshop-jan2015.pdf
+            - https://docs.boom-core.org/en/latest/index.html
+            - 32bit RISC implementation - https://github.com/lowrisc/ibex 
     - ML/AI on micros 
         - TFLite micro
         - TinyML
@@ -87,7 +90,7 @@
         - Cartsiam AI
         - https://twitter.com/Hacksterio/status/1385653094307057668?s=20
         - https://twitter.com/survivingwithan/status/1374957206697807872?s=20
-        - 
+        - https://developer.sony.com/develop/spresense/
     - Others
         - Driving Servo motors tutorial - https://twitter.com/digikey/status/1382746801682456581?s=20
         - NASA F` with DJI drone - https://twitter.com/Hacksterio/status/1380576215682125826?s=20

@@ -390,6 +390,31 @@
                 - Victor - solar is a good choice in the location
                     - maybe a base station to recharge, also minimize power usage
     - [[June 21, 2021]] -- Anuraj
+        - Embedded EcoSystem for Rovers, beyond Arduino
+        - Slides: https://docs.google.com/presentation/d/16Q_pMCctczQjv9ESqzCQ7boQaOvyXbMJ7vnTFD5EBOQ/edit?usp=sharing
+        - Beyond these minutes, extras from Anuraj: https://roamresearch.com/#/app/ArtOfGig/page/lz2VeObR-
+        - Review of what it is to program an MCU to control peripherals. Overview of C, Assembly and memory addressing.
+        - Review of typical software architecture:
+            - Legacy super-loop architecture.
+            - Multiple super-loops with RTOS, with notes on what "real-time" means in embedded development, including challenges. Baseline: Most people start with super-loop and move to RTOS only when really necessary.
+        - Basic problems with Arduino: Less efficient per dollar.
+            - Standard lib is doing more than necessary, to be user friendly.
+            - Memory consumption and speed.
+            - Comfort for developers costs in flash memory to host and run all these extras we do not need anymore on a final product.
+            - Some people share optimized versions of Arduino's APIs.
+            - People usually move to platforms with automated optimization?
+        - Alternatives to Arduino
+            - Microchip/Atmel. Recent IDE is MPLAB from Microchip.
+            - ARM-based archs: ST Micro-electronics and NXP.
+            - MSP430 series from Texas Instrument
+            - ESP32 from Espressif (LX7 processor)
+            - Cypress (now Infineon) PSoC series.
+            - RISC-V, with ESP32 versions and GigaDevice GD32.
+            - IDEs provide hardware abstraction layers (HAL header files) to help writing more portable code.
+        - Rhett: What a world with 1 IDE per chip type!
+            - IDEs are calling typical programs behind the scene (compiler,etc)
+            - There are some "meta IDEs", which cost money, as well as https://platformio.org/
+            - If you fit the IDE uses cases, fine. If not, well...
     - [[June 28, 2021]] -- Maier
     - July 5 -- 4th of July weekend, so probably skip
     - [[July 12, 2021]] -- Rhett
