@@ -1,4 +1,4 @@
-- [[Hugo Macedo]] meeting with [[David McDougall]] on [[Innovation Consulting Project - Launch Plan]] #meeting-notes #[[YC Marketing - distributed CMO]]
+- [[Hugo Macedo]] meeting with [[David McDougall]] on [[Innovation Consulting Project - Launch Plan]] #meeting-notes #[[YC Marketing]]
     - Topics covered
         - set the expectation on how marketing can help
             - we like to come early into the projects so we can instill a marketing perspective from the beginning - target, goals, outcomes, formats,...
@@ -36,7 +36,7 @@
                 - the solutions pages were written upside down so you could not easily peek ;) 
                 - if we ever print the book we could explore this idea - 2 covers, one for problems other for solutions
     - Next Steps
-        - topic to be discussed in the next #[[YC Marketing - distributed CMO]] sync
+        - topic to be discussed in the next #[[YC Marketing]] sync
         - [[Hugo Macedo]] to read the content to know more about the product
         - [[Hugo Macedo]] to explore ideas to launch including format and channels
         - [[Hugo Macedo]] to comeback to [[David McDougall]] with additional questions and ideas

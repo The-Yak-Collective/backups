@@ -1,4 +1,4 @@
-- About: Launch plan for [[Yaks do innovation consulting]] with [[YC Marketing - distributed CMO]]
+- About: Launch plan for [[Yaks do innovation consulting]] with [[YC Marketing]]
 - Chief Page Wrangler:: [[Hugo Macedo]]
 - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
 - Created:: [[November 15th, 2020]] by [[Hugo Macedo]] 

@@ -1,4 +1,4 @@
-- About:: all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [[YC Marketing - distributed CMO]] 
+- About:: all foundational topics related to value proposition, benefits, barriers, target personas, brand - part of [[YC Marketing]] 
 - Chief Page Wrangler:: [[Hugo Macedo]]
     - Additional Page Wranglers:: 
 - Last Updated:: [[September 22nd, 2020]]

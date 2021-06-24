@@ -7,7 +7,7 @@
     - Links for me
         - [[Roam Production Kanban]]
         - [[Future Frontiers]]
-        - [[YC Marketing - distributed CMO]]
+        - [[YC Marketing]]
         - [[Yak Collective Governance]]
         - [[Yak Collective State of the Union]]
         - [[YC Annual Meeting 2020]]

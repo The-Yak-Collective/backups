@@ -1,5 +1,5 @@
 - Header
-    - About:: Launch Plan for [[**Final Frontiers**]] from [[YC Marketing - distributed CMO]]
+    - About:: Launch Plan for [[**Final Frontiers**]] from [[YC Marketing]]
     - Chief Page Wrangler:: [[Hugo Macedo]] 
         - Additional Page Wranglers:: [[Maier Fenster]] + [[Grigori Milov]]
     - Created:: [[November 11th, 2020]] by [[Hugo Macedo]]

@@ -18,7 +18,7 @@ Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
         - [[Maier Fenster]] how actually active do they need to be?
     - ## Made Yaks
         - __Made yaks__ have made a significant contribution to a YakC project.
-            - Such project can be externally facing (__e.g.__, [[The New Old Home]]) or internally facing (__e.g.__, [[YC Marketing - distributed CMO]]).
+            - Such project can be externally facing (__e.g.__, [[The New Old Home]]) or internally facing (__e.g.__, [[YC Marketing]]).
             - Ideally, __all__ projects should be featured on the [[Yak Collective Website]]. As of [[November 9th, 2020]], only externally facing projects are currently featured, but [this needs to be fixed](https://github.com/The-Yak-Collective/yakcollective/issues/29).
         - The elevation to made yak is determined by the lead editors of the project that yak contributed to. All made yaks should be listed in a project's credits.
             - Occasionally, a made yak may be someone from outside of the YakC Discord server if that person has made significant contributions to a YakC project. __This should be the exception, rather than the rule.__

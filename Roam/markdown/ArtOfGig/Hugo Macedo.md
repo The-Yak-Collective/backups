@@ -10,13 +10,13 @@
         - based in Lisbon, Portugal
         - currently VP of Community/Crowd at unbabel.com 
 - Involved in:: 
-    - [[YC Marketing - distributed CMO]] as enabler
+    - [[YC Marketing]] as enabler
     - [[Infrastructure]] as interested 
     - [[Roam Gardening]]
     - Pages Wrangler in
         - {{[[query]]: {and: [[Hugo Macedo]]{or: [[Chief Page Wrangler]][[Additional Page Wranglers]]}}}}
 - Current pipeline - highlevel
-    - kickoff [[YC Marketing - distributed CMO]]
+    - kickoff [[YC Marketing]]
     - Yak Onboarding and [[Roam Gardening]]
 - Ping
     - {{[[query]]: {and: [[ping]][[Hugo Macedo]] {not: [[pong]]]}}}}

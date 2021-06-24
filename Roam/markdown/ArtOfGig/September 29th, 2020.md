@@ -1,4 +1,4 @@
-- [[YC Marketing - distributed CMO]] Kick-off meeting at 2:00 am (UTC+1) #meeting-notes
+- [[YC Marketing]] Kick-off meeting at 2:00 am (UTC+1) #meeting-notes
     - **Goal**: establish ways-of-working, priorities and next steps
     - **Location**: Discord General voice channel (unless you prefer google meet - let me know)
     - ### Participants:

@@ -1,2 +1,2 @@
-- [[YC Marketing - distributed CMO]] #meeting-notes
+- [[YC Marketing]] #meeting-notes
     - 

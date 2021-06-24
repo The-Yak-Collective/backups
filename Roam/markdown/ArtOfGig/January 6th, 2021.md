@@ -1,4 +1,4 @@
-- [[YC Marketing - distributed CMO]] sync
+- [[YC Marketing]] sync
     - survey - get feedback in the next few days
     - product offering discussion
         - focused on #[[Pop-Up Think Tank]]

@@ -1,7 +1,7 @@
 - **tl;dr: Book a free call with a few Yaks about something you saw/heard that might lead to longer and paid conversations.** [[Yak Collective Café]]  
 The project: [[Yak Coffee]]
 - # Project meta: 
-    - **Discord channel**:: Incubator > coffee-with-a-yak; also: [[infrastructure chats]] and [[YC Marketing - distributed CMO]] chats  
+    - **Discord channel**:: Incubator > coffee-with-a-yak; also: [[infrastructure chats]] and [[YC Marketing]] chats  
     - Current State:: {{or:Started | Draft | Proposed | Stalled | Live | Finished | Abandoned}}
     - Core Team:: (minimum 2, maximum 4) 
         - **Project Lead**: [[Phil Wolff]]

@@ -1,4 +1,4 @@
-- sync [[YC Marketing - distributed CMO]]  #meeting-notes
+- sync [[YC Marketing]]  #meeting-notes
     - topics
         - feedback on survey - launched 
             - full text of feeback from nathan: 

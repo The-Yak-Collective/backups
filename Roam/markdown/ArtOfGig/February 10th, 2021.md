@@ -1,4 +1,4 @@
-- #[[YC Marketing - distributed CMO]] #meeting-notes
+- #[[YC Marketing]] #meeting-notes
     - YC survey announcement
         - Dear Yaks!
 I had a chance to take a look at the survey results that I'm sharing below.

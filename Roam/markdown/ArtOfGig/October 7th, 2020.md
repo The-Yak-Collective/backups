@@ -1,4 +1,4 @@
-- [[YC Marketing - distributed CMO]] weekly sync meeting #meeting-notes
+- [[YC Marketing]] weekly sync meeting #meeting-notes
     - **Time: **3:30pm-4:30pm UTC+1 - check [YC Google Calendar ](https://calendar.google.com/calendar/u/0/r?cid=bzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
     - **Participants:**
         - {{[[DONE]]}} [[Hugo Macedo]]

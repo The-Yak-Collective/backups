@@ -1,4 +1,4 @@
-- About:: where and how do we communicate and engage with the target audience - part of [[YC Marketing - distributed CMO]]
+- About:: where and how do we communicate and engage with the target audience - part of [[YC Marketing]]
 - Chief Page Wrangler:: [[Hugo Macedo]] 
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
 - Last Updated:: [[September 22nd, 2020]]

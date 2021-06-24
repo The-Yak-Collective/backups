@@ -7,7 +7,7 @@
             - Timeline for publishing stories since we are close on engaging an illustrator
                 - [[Yak Talk]] newsletter may be going on hiatus. can be hijacked for AS stories
                 - {{[[TODO]]}} propose: adding Newsletter link to website on the [[Infrastructure]] call [[September 27th, 2020]]
-                - {{[[TODO]]}} suggest: connect with [[Hugo Macedo]] to connect story launches with [[YC Marketing - distributed CMO]]
+                - {{[[TODO]]}} suggest: connect with [[Hugo Macedo]] to connect story launches with [[YC Marketing]]
             - CFP process for 5 new stories 
                 - {{[[TODO]]}} [[Sachin Benny]] will draft and push to [[Jenna Dixon]] for review
             - Feedback from [[Paul Sas]] about the process and visibility

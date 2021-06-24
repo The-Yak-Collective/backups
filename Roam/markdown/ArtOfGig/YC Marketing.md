@@ -1,15 +1,17 @@
-- About:: YC Marketing capability
+- About:: Create a distributed CMO function shared by several Yaks to elevate YakC Marketing capability that fuels its growth
 - Chief Page Wrangler:: [[Hugo Macedo]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
-- Last Updated:: [[September 20th, 2020]]
-- Last Updated By:: [[Hugo Macedo]]
+- Last Updated:: 
+    - [[June 23rd, 2021]] by [[Jenna Dixon]]
+        - to grab a topic for the Discord channel; used above for About as well; shortened page title
+    - [[September 20th, 2020]] by [[Hugo Macedo]]
 - 
 - ### Meeting Notes 
-    - Weekly meeting on Wednesdays at 5pm GMT on Discord
-    - {{[[query]]: {and: [[YC Marketing - distributed CMO]] [[meeting-notes]]}}}
+    - ~~Weekly meeting on Wednesdays at 5pm GMT on Discord~~ weekly calls on hiatus
+    - {{[[query]]: {and: [[YC Marketing]] [[meeting-notes]]}}}
     - 
 - ### TODO 
-    - {{[[query]]: {and: [[TODO]] [[YC Marketing - distributed CMO]]}}}
+    - {{[[query]]: {and: [[TODO]] [[YC Marketing]]}}}
 - 
 - # Background
     - request for help on establishing a YakC Marketing function 

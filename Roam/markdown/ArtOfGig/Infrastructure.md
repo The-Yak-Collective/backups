@@ -24,6 +24,27 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 57 [[June 23rd, 2021]]
+        - participants:: [[Jenna Dixon]] [[Maier Fenster]] [[Nathan Acks]] [[Sachin Benny]]
+        - notes::
+            - [[Jenna Dixon]] would like to talk about launching some of the channels from the incubator & soft launching the member portal.
+            - [[Jenna Dixon]] moves three channels from the incubator to the plaza, as no one else really has an opinion.
+            - [[Nathan Acks]] suggests that we should lock #create-archive-channels so that non-yaks can't post.
+            - (Everyone works on fixing permissions.)
+            - [[Maier Fenster]] suggests that we should have a simpler permission structure in Discord.
+            - [[Nathan Acks]] concurs, and adds that they think the website needs to be simplified too. There's too much going on with both the website and Discord backend for a handful of folks who are all doing this out of their back pockets to keep things structured.
+            - [[Jenna Dixon]] wants to see what's necessary to take the new project UI live.
+            - [[Nathan Acks]] recalls that the info function doesn't work yet and there's some debug messages, but thinks that if we just remove these it would be ready to go live.
+            - [[Jenna Dixon]] thinks that the current Roam links need to go.
+            - [[Maier Fenster]] notes that just changing the channel links will fix the uninformative Roam links. But what about the lack of additional information? Ideally this should be pulled from Knack.
+            - [[Nathan Acks]] thinks we should comment out the additional information function __for now__. Once project management in Knack is a thing, we can re-add.
+            - [[Maier Fenster]] quickly comments out the information function.
+            - [[Jenna Dixon]] would like to add in the study groups and incubator.
+            - [[Maier Fenster]] quickly does this.
+            - [[Jenna Dixon]], [[Sachin Benny]], and [[Nathan Acks]] quickly edit a few channels.
+            - [[Jenna Dixon]] takes the new project UI live!
+            - [[Sachin Benny]] wants to restart __Astonishing Stories__, and perhaps change directions a bit. Current science fiction magazines are somewhat outdated, and tend to focus less on hard sci-fi these days. Perhaps we can start publishing a minimum of one story per month, maybe with external submissions. We will need some way to change the project description, figure out a way to accept stories, and add the publish date to the stories.
+            - [[Nathan Acks]] points out that this is mostly copy. For story submission, probably easiest to use a Google form right now. So the only real change that needs to be made right now is to add the publication date to the story.
     - Infrastructure Chat 56 [[June 16th, 2021]]
         - participants:: [[Jenna Dixon]] [[Maier Fenster]] [[Matt Ryall]] [[Phil Wolff]]
         - notes::

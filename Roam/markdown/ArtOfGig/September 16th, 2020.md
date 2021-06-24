@@ -1,1 +1,1 @@
-- [[Hugo Macedo]] Started [[YC Marketing - distributed CMO]] 
+- [[Hugo Macedo]] Started [[YC Marketing]] 

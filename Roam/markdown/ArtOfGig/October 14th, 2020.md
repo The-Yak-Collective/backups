@@ -1,4 +1,4 @@
-- [[YC Marketing - distributed CMO]] sync #meeting-notes
+- [[YC Marketing]] sync #meeting-notes
     - Location: discord 
     - Time: 3pm-4pm UTC+1 
     - Participants (TBC)
