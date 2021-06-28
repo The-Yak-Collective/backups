@@ -23754,7 +23754,7 @@
     "edit-time": 1597625681369
   },
   {
-    "title": "Sprint 3: Flash Fiction",
+    "title": "Astonishing Stories - Project Management",
     "children": [
       {
         "string": "Directions for developing flash fiction",
@@ -24218,11 +24218,11 @@
             },
             "children": [
               {
-                "string": "graph LR\n    final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish",
+                "string": "graph LR\n    author_final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish",
                 "uid": "JBY2zKiR8",
-                "edit-time": 1597710600523,
+                "edit-time": 1624813446130,
                 ":edit/user": {
-                  ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
+                  ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                 }
               }
             ],
@@ -24250,7 +24250,7 @@
             },
             "children": [
               {
-                "string": "Strawman draft",
+                "string": "Submitted by Author",
                 "create-time": 1597710714237,
                 ":create/user": {
                   ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
@@ -24279,96 +24279,100 @@
                     ":edit/user": {
                       ":user/uid": "kS7mDRwORnVsPBZxCnAqD07bnLp2"
                     }
+                  },
+                  {
+                    "edit-time": 1624814121187,
+                    "children": [
+                      {
+                        "string": "{{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2FpqBu1lZQMI.pdf?alt=media&token=a0928902-ef0c-4da9-aa7c-e365db7cdddc}}",
+                        "create-time": 1624813502099,
+                        "uid": "4ThrbfrfN",
+                        "edit-time": 1624814121259,
+                        ":create/user": {
+                          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ENKcrtpoW"
+                      }
+                    ],
+                    "uid": "FyZ2brsfc",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ENKcrtpoW"
+                      }
+                    ],
+                    "string": "[[Sachin Benny]] DeLimerence ",
+                    ":create/user": {
+                      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+                    },
+                    "create-time": 1624814121187,
+                    ":edit/user": {
+                      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+                    }
                   }
                 ],
                 "uid": "qzP0lfjX7",
-                "edit-time": 1597711110714,
+                "edit-time": 1624815586842,
                 ":edit/user": {
-                  ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
+                  ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                 }
               },
               {
-                "string": "Dev Editor Review",
+                "string": "In Editor review",
                 "create-time": 1597710946870,
                 ":create/user": {
                   ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
                 },
                 "children": [
                   {
-                    "string": "^^**editors** \n[[Sachin Benny]]\n[[Scott Garlinger]]^^",
+                    "string": "",
                     "create-time": 1600732806909,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "5wgaRPjqS"
-                      },
-                      {
-                        ":block/uid": "ENKcrtpoW"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "5wgaRPjqS"
-                      },
-                      {
-                        "uid": "ENKcrtpoW"
-                      }
-                    ],
+                    "uid": "TqXQa5KOF",
+                    "edit-time": 1624815663594,
                     ":create/user": {
                       ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
                     },
-                    "uid": "TqXQa5KOF",
-                    "edit-time": 1600732873924,
                     ":edit/user": {
-                      ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
+                      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                     }
                   }
                 ],
                 "uid": "UkLgKW7jl",
-                "edit-time": 1600731490212,
+                "edit-time": 1624815603285,
                 ":edit/user": {
-                  ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
+                  ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                 }
               },
               {
-                "string": "Copyedit+Illustration ",
+                "string": "Committed to layout",
                 "create-time": 1600731938161,
                 ":create/user": {
                   ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
                 },
                 "children": [
                   {
-                    "string": "^^**copyeditor**\n[[Fname Lname]]^^ \n^^**illustrator** [[Justice]]^^",
+                    "string": "",
                     "create-time": 1597710723493,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "9KbhYM4xQ"
-                      },
-                      {
-                        ":block/uid": "4VqYLsiet"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "9KbhYM4xQ"
-                      },
-                      {
-                        "uid": "4VqYLsiet"
-                      }
-                    ],
+                    "uid": "l1rdJa_A0",
+                    "edit-time": 1624815651231,
                     ":create/user": {
                       ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
                     },
-                    "uid": "l1rdJa_A0",
-                    "edit-time": 1600732740709,
                     ":edit/user": {
-                      ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
+                      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                     }
                   }
                 ],
                 "uid": "c2nFGuqL8",
-                "edit-time": 1600731988700,
+                "edit-time": 1624815639218,
                 ":edit/user": {
-                  ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
+                  ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                 }
               },
               {
@@ -24379,21 +24383,21 @@
                 },
                 "children": [
                   {
-                    "string": "^^**webdev**\n[[Nathan Acks]]^^",
+                    "string": "^^**Infra**\n[[Nathan Acks]]^^",
                     "refs": [
                       {
                         "uid": "6OcE18jbl"
                       }
                     ],
                     "uid": "iThdb-jpO",
-                    "edit-time": 1600732799072,
+                    "edit-time": 1624815691414,
                     ":block/refs": [
                       {
                         ":block/uid": "6OcE18jbl"
                       }
                     ],
                     ":edit/user": {
-                      ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
+                      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                     }
                   },
                   {
@@ -24616,12 +24620,180 @@
         ":edit/user": {
           ":user/uid": "kS7mDRwORnVsPBZxCnAqD07bnLp2"
         }
+      },
+      {
+        "string": "Sprint workflow ",
+        "create-time": 1624812541208,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "children": [
+          {
+            "string": "Final draft -> Author Review - Editor review - ready for publishing with suggested changes/not ready for publishing without changes made - layout - proofread - publish",
+            "create-time": 1624812552470,
+            "uid": "XWjxcq4gW",
+            "edit-time": 1624813621364,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "cover design call - draft - author review - ready for publishing with suggested changes/not ready for publishing without changes made - layout - proofread - publish",
+            "create-time": 1624812623431,
+            "uid": "9igmAcTHc",
+            "edit-time": 1624813366652,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          }
+        ],
+        "uid": "UER7fZISK",
+        "edit-time": 1624812552479,
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      },
+      {
+        "edit-time": 1624814466578,
+        "children": [
+          {
+            "string": "graph LR",
+            "create-time": 1624814467070,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            "children": [
+              {
+                "string": "A[Author submits story]-->B[Editor picks up for review]--Changes needed before publishing/Suggested Changes-->C[Author review] --loop as needed-->B; C-->D[Commit to Layout picked up by infra team]-->E[Commit to proofread]-->F[publish]; E--loop as needed-->D",
+                "create-time": 1624814532224,
+                "uid": "j_6OaBy9P",
+                "edit-time": 1624815331894,
+                ":create/user": {
+                  ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+                },
+                ":edit/user": {
+                  ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+                }
+              }
+            ],
+            "uid": "c1XFc4ZZq",
+            "edit-time": 1624814532250,
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          }
+        ],
+        "uid": "PHDJtHXnx",
+        "string": "{{mermaid}} ",
+        ":block/props": {
+          ":iframe": {
+            "wrapper": {
+              ":size": {
+                ":width": 1000,
+                ":height": 70
+              }
+            }
+          }
+        },
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "create-time": 1624813852476,
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "props": {
+          "iframe": {
+            "wrapper": {
+              "size": {
+                "width": 1000,
+                "height": 70
+              }
+            }
+          }
+        }
+      },
+      {
+        "edit-time": 1624815369865,
+        "children": [
+          {
+            "string": "graph LR",
+            "create-time": 1624815369848,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            "children": [
+              {
+                "string": "A[Author submits cover design call]-->B[Designer picks it up]-->C[[Author Review]]--Changes needed before publish/suggested changes-->B; C-->D[layout]-->E[publish];A--no designer-->F[author creates cover]-->D",
+                "create-time": 1624815377927,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cvxGKmRaq"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "cvxGKmRaq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+                },
+                "uid": "LUnzRk8Ru",
+                "edit-time": 1624816232326,
+                ":edit/user": {
+                  ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+                }
+              }
+            ],
+            "uid": "liAUYvIem",
+            "edit-time": 1624815377943,
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          }
+        ],
+        "uid": "Gtn59oAmW",
+        "string": "{{mermaid}} Cover Design",
+        ":block/props": {
+          ":iframe": {
+            "wrapper": {
+              ":size": {
+                ":width": 1000,
+                ":height": 309
+              }
+            }
+          }
+        },
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "create-time": 1624815359444,
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "props": {
+          "iframe": {
+            "wrapper": {
+              "size": {
+                "width": 1000,
+                "height": 309
+              }
+            }
+          }
+        }
       }
     ],
     "uid": "5x1kRx_Fx",
-    "edit-time": 1597709727525,
+    "edit-time": 1624871704043,
     ":edit/user": {
-      ":user/uid": "kS7mDRwORnVsPBZxCnAqD07bnLp2"
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
     }
   },
   {
@@ -24989,18 +25161,6 @@
     "title": "Sachin Benny",
     "uid": "ENKcrtpoW",
     "edit-time": 1600731796536,
-    ":create/user": {
-      ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
-    },
-    ":edit/user": {
-      ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
-    }
-  },
-  {
-    "create-time": 1600732548060,
-    "title": "Justice",
-    "uid": "4VqYLsiet",
-    "edit-time": 1600732548064,
     ":create/user": {
       ":user/uid": "Z1GmOqmusvTiWlCB4EdhUld3FRb2"
     },
@@ -30043,6 +30203,30 @@
     "title": "June 27th, 2021",
     "uid": "06-27-2021",
     "edit-time": 1624787232033,
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1624815421239,
+    "title": "Author Review",
+    "uid": "cvxGKmRaq",
+    "edit-time": 1624815421243,
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    }
+  },
+  {
+    "create-time": 1624873732400,
+    "title": "June 28th, 2021",
+    "uid": "06-28-2021",
+    "edit-time": 1624873732400,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },

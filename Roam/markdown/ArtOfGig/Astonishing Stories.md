@@ -3,4 +3,4 @@
 - [[Astonishing Stories
 ...of what’s next]]
 - [[Publications accepting submissions]]
-- 
+- [[Astonishing Stories - Project Management]]
