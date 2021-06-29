@@ -416,6 +416,49 @@
             - There are some "meta IDEs", which cost money, as well as https://platformio.org/
             - If you fit the IDE uses cases, fine. If not, well...
     - [[June 28, 2021]] -- Maier
+        - Prompt - https://docs.google.com/presentation/d/1boLilPxI1S49fzfxvRyxnPn7x0CIuyk88z9-vLTaszY/edit?usp=sharing
+        - Notes/Discussion
+            - Tool set of the rover
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FyGpu1BJinp.png?alt=media&token=ecaceb22-94c8-46ae-aef1-f7de38e6a900)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FscMLYS0Nsx.png?alt=media&token=316e4721-dbfb-4fd0-a326-3d9d291126c6)
+                - Python3
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FkLlSqhi0lR.png?alt=media&token=4d1f11b8-a6b0-42eb-b3c7-7ed96f49ffe2)
+                - GitHub for version control and sharing
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXx8BvOMN5r.png?alt=media&token=f9c6785a-4730-4d5d-ab80-b5f0b6fbc9f6)
+                - Discord - chat interface usable by human and computer alike
+                    - New program can be uploaded to the rover via Discord
+                    - Python program on rover listens to Discord server
+                    - Bots get an user ID like a human user
+                - Twilio
+                    - support of all sorts of connectivity
+                    - Eric - was video in the browser with Twilio? 
+                        - Maier - Yes, currentlty this is using 10% of the CPU, Twilio uses  webRTC, it allows setting up web conferecing, interesting to set up well known tools to tap into the video stream. 
+                            - Tricky part was setting up the headless chrome
+                    - Venkat - What is headless chrome
+                        - Maier - no browser GUI, headless chrome is an expensive way to connect to Twilio video conferencing 
+                        - Venkat - How else could this be done? 
+                            - Maier - One of the imp things with Twilio is that it gives a direct socket connection between browser and webcam etc
+                            - In peer to peer connection there is a direct socket connection to the webcam on rover
+                            - In the server mode, stream is sent to the server which serves the clients. If zoom had the tool-set it could be used to do the same kind of streaming
+                - Twitter
+                    - It is even more abstract than Discord interface
+                    - Current bot says I am online with date for different text because two consecutive texts not allowed
+                    - Venkat - Can multiple rovers use the same Twitter handle
+                        - Maier - yes. 
+                - Google Drive
+                    - For offloading the generated data to cloud
+                    - For shared access to database
+                - Conceptual architecture and abstraction - a lot of work in progress
+                    - levels of automation 
+                        - highest level is machine does what ever it wants and tells you what it's doing while it is doing it
+                - Next steps
+                    - porting to other rovers? 
+                    - provide 3rd party services
+                    - AI modularity
+                    - Venkat: Suggestion is to use Twitter for sharing/colloboration between rovers
+                        - Maier: What is the format to send via Twitter? But lots of limitation with Twitter
+                    - Anuraj: Does each rover need a new handle? 
+                        - Venkat: One handle has advantages. Each type of rovers could have a hashtag like legged, wheeled etc. Interesting experiments can be run under a unified twitter handle
     - July 5 -- 4th of July weekend, so probably skip
     - [[July 12, 2021]] -- Rhett
     - [[July 19, 2021]] -- Jascha

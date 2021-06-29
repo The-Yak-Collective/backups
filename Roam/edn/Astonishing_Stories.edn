@@ -14332,7 +14332,12 @@
   [1623 :node/title "July 30th, 2020" 536876949]
   [1624 :block/uid "0IrLD648d" 536878991]
   [1624 :user/color "rgb(47,199,88)" 536876950]
+  [1624 :user/display-name "Nathan Chen" 536881694]
   [1624 :user/email "nathanielchen8@gmail.com" 536876950]
+  [1624
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a-/AOh14GgjYMH0In_Hpw55zIyaxi7BIqDRoGFZG9Dfjtv0kQ=s96-c"
+   536881694]
   [1624 :user/uid "rdvBRh1rlZa1zRy2uay3dUm7OJ43" 536876950]
   [1625 :block/children 1626 536876967]
   [1625 :block/children 1627 536876986]
@@ -24952,8 +24957,8 @@
   [2866 :version/id "0.8.6" 536881265]
   [2866
    :version/nonce
-   "uuid0179d293-5cd6-4621-9971-3fa328659dfb"
-   536881693]
+   "uuid17ea7fef-2481-4b5d-8751-ea5bae2a5f5f"
+   536881695]
   [2867 :block/uid "06-12-2021" 536881266]
   [2867 :create/time 1623491321849 536881266]
   [2867 :create/user 2367 536881266]
@@ -25250,4 +25255,11 @@
   [2912 :edit/time 1624873732400 536881693]
   [2912 :edit/user 2367 536881693]
   [2912 :log/id 1624873732399 536881693]
-  [2912 :node/title "June 28th, 2021" 536881693]]}
+  [2912 :node/title "June 28th, 2021" 536881693]
+  [2913 :block/uid "06-29-2021" 536881695]
+  [2913 :create/time 1624960124971 536881695]
+  [2913 :create/user 2367 536881695]
+  [2913 :edit/time 1624960124971 536881695]
+  [2913 :edit/user 2367 536881695]
+  [2913 :log/id 1624960124970 536881695]
+  [2913 :node/title "June 29th, 2021" 536881695]]}
