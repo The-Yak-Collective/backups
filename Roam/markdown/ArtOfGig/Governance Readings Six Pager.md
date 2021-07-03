@@ -15,3 +15,5 @@
     - Predictable vs Surprising
         - Luck/predictability or Serendipity vs. Sublimity
     - Stocks vs. Flows philiosophies
+- Meta: readings to help manage collective writing
+    - http://www.scriptsecrets.net/tips/tip59.htm

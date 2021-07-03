@@ -58,6 +58,25 @@ https://sloanreview.mit.edu/article/picking-the-right-approach-to-digital-collab
 Hey Grigori, I was inspired by our chat re: GitLab and wanted to offer you the Valve employee handbook -- they're completely decentralized and self-organizing:
 http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf
 And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-organizing-utopia-6d32d329ecdb
+        - 11. Tobi Lutke -- Gaming
+https://www.theobservereffect.org/tobi.html
+        - 12. The plan for the chat this coming Friday --
+
+To keep rhythm and set the stage for discussion: a case study of organizational first principles. Please read the first article, feel free to skim the second for more color:
+
+1. https://corporate-rebels.com/morning-star/
+2. https://hbr.org/2011/12/first-lets-fire-all-the-managers
+
+Prompt:
+- In an ideal world, how would you like to be interacting with the Yak Collective in two years?
+- Are there any first principles you think we should be operating from?
+- As far as the meta goes, what do you think our priorities should be? What are blockers?
+        - 13 A surprise read:
+Today read may come as a little surprise. It is the most recent annual letter to shareholders, by Jeff Bezos.
+https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders
+The prompt questions were:
+            - How can we create value for people involved in The Yak Collective, potential clients, society at large?
+            - Have we created something -- an idea, a process, a memorable phrase, a ritual, an artifact, ... , a bot, -- that can have lasting power, i.e. something that we will be able to refer to, say, 2, 5, 10 or 20 years from now?
     - **Queued**
         - 10. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
             - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
