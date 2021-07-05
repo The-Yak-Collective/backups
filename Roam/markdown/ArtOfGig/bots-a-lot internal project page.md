@@ -1,11 +1,11 @@
 - About:: internal project page to consolidate multitude of discord bots & other tools
-- Page Type:: #Project
-- Chief Page Wrangler:: [[Maier Fenster]]
-    - Additional Page Wranglers:: 
-- Created:: [[December 6th, 2020]] by [[Maier Fenster]]
-- Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
-- Status:: {{or: Active | Early Concept | Proposal | Complete}}
-- license:: {{or:MIT | CC 2.0}}
+    - Page Type:: #Project
+    - Chief Page Wrangler:: [[Maier Fenster]]
+        - Additional Page Wranglers:: 
+    - Created:: [[December 6th, 2020]] by [[Maier Fenster]]
+    - Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
+    - Status:: {{or: Active | Early Concept | Proposal | Complete}}
+    - license:: {{or:MIT | CC 2.0}}
 - Jobs and ways to contribute::
     - jobs::
         - bot designer::

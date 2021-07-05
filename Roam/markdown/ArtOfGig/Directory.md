@@ -256,6 +256,9 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
             - [[market development]]
             - enterprise scale [[information technology]] as well as [[website]] as a [[systems architect]]
             - [[data science]]
+- [[Fiona Ingram]]
+    - Futurist, Explorer, Value Designer from Melbourne Australia
+    - Background in CX design, foresight & social innovation with a focus on creating value flows and generative capacity. Skilled at weaving organisational and social outcomes, lousy at tolerating entrenched 20C ways of thinking.
 - [[Richard Hughes-Jones]]
 - [[David Jiang]]
     - UI/UX Web developer with 7+ years of experience. HMTL/CSS/JS, Typescript, React, Vue, Angular, etc..
