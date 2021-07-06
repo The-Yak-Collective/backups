@@ -94,6 +94,12 @@
     - Twitter: @vertis
     - Email: luke <at> vertis.io
 - [[Chris Clark]]
+- [[Chris Coldewey]]
+    - Indie strategy consultant for last decade at [Grey Area](https://greyareainc.com)
+    - Financial inclusion, strategy, philanthropy, startups, social impact, bitcoin & cryptocurrency
+    - Oscillate btw helping big philanthropy and intergovernmental orgs find their footing with new tech and rapidly evolving fields, and helping to stand up fledgling orgs often in social impact & tech space
+    - American in Vancouver, CA 
+    - Contact: chris [at] greyareainc.com & @krrish on Twitter
 - [[Luca Conti]]
     - Independent Content marketing freelance since 2007
     - Blogger, writer, curator and author of 17 books about digital marketing
