@@ -461,6 +461,119 @@
                         - Venkat: One handle has advantages. Each type of rovers could have a hashtag like legged, wheeled etc. Interesting experiments can be run under a unified twitter handle
     - July 5 -- 4th of July weekend, so probably skip
     - [[July 12, 2021]] -- Rhett
+        - Prompt 
+        - Discussion
+            - ROS ?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FCFYbZ7slog.png?alt=media&token=a3eba8d8-d56c-4741-9a82-6500ef593c87)
+                - Difficult to know what is the value of using ROS for people out of robotics
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FJ3xUM8_tiB.png?alt=media&token=795b5217-4b4a-4c65-ac33-519cd5b41328)
+                    - ROS is not an OS, it is a framework or Platform. It is treating Robotics as a Distributed Systems problems. It is all grpahs
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FkJQOYT1-BX.png?alt=media&token=44b4855b-f986-4103-a456-a26c0469d255)
+                    - Key concepts in ROS
+                        - Nodes - computation units communicating with messages with the framework
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FF_T0yyzJb5.png?alt=media&token=6c2c56d3-f402-4ba5-9865-239e80db453f)
+                    - Eric - A service is something that we want to be stable in the system
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FI48Hj7fGYA.png?alt=media&token=b4a90c50-bf00-40b5-9758-1d56b54513fb)
+                    - Release Version of ROS2 has to mapped to a particular OS version otherwise it is a lot of pain
+                        - Tried with Raspbian, didn't work. So had to use Ubuntu
+                    - Victor - had the same problem, tried compiling with source
+                    - Anuraj - why a native build and not cross-compiled
+                        - Rhett - Easy for the tutorials
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FJsdDBjN5q0.png?alt=media&token=ce33c26a-ba52-46e5-9ce7-3fafbc1ed1c0)
+                    - rclpy.spin - this is where the things are handed over to ROS2
+                    - Venkat - Does ROS2 make any timing guarentees
+                        - Rhett - No, but there is a concept of quality of service
+                        - Venkat - How about real time control ? How to control a drone? Each rotor 
+                            - Anuraj - https://micro.ros.org for real time work
+                            - Jascha - Definition of Real Time - determinism
+                            - Eric - One node for all motors and not one node for all motors
+                            - Victor - One node can 
+                            - Venkat - Self fault repairing drones by Raffaello D’Andrea. The most you encapsulate in a node is the value proposition of ROS goes down.
+                                - Victor - The communication between nodes is really slow, architecture 
+                                    - Jascha - Hyrdrolic project with strict deadlines with ROS
+                            - Maier - Does ROS play well with other software because if it takes over then some parts should not be handled with ROS? 
+                                - Jascha - Linux kernel is not deterministic. 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FHcuG_FB3Ai.png?alt=media&token=160d89a6-0122-4074-8c6b-b11eddca438e)
+                    - ROS2 wants to meet industry where it is
+                    - Not sure if Rovers are a distributed systems problem
+                    - ROS is used on ISS but only on a part of the ground station
+                - 
+            - fprime - https://github.com/nasa/fprime
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FtWFr6e51G0.png?alt=media&token=2e58551f-8fdd-4b4b-ae80-e740283c36fc)
+                    - Completely different architecture than ROS
+                    - It provides a build tools for code generation 
+                    - The robot is a single process in a CPU
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F_pmLfliIDn.png?alt=media&token=bc7b528a-087a-4106-a945-9de593b6affa)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FSI6bgni98Y.png?alt=media&token=b229ea4a-dcc5-4c8c-af9e-62216d5a65dc)
+                    - Each of the state machine is described in XML eg below
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FsYrL6TzHXf.png?alt=media&token=9e221dcf-31d0-40de-bdbe-9f92afe5d536)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FR_g-ASm-5u.png?alt=media&token=bc3cac09-8706-4edb-817d-ac7637339362)
+                    - Installation is easy. Build the binary and run it
+                    - Comes with a development ground stations
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FVj7ZEZ5dEY.png?alt=media&token=d864b716-8131-4035-9e07-d106da529a07)
+                        - Don't launch a space mission with it
+            - Rhett's library CiC
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FHNnDYGw7Bu.png?alt=media&token=8ed72cda-95ff-4203-976c-fa0d8372a643)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FRq1RiNJjeo.png?alt=media&token=67e5b821-593f-4544-9142-b9ae90976d0a)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FOGYSbzpqZU.png?alt=media&token=a436aedc-70a7-445c-a7eb-e3e8fadb7113)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FpKvUgbuOeo.png?alt=media&token=949e4070-9372-43e8-b01d-c7bfdad5b553)
+            - Where is the Ruby on Rails for Rovers? 
+                - Community for software stack ? 
+                - Victor - Why run ROS? one argument, compared to other things it is more tedious but it brings standardization. Not enough 
+                    - Venkat - Who are the corporate sponsors?
+                        - Victor - Amazon, Google, other small robotics specialized companies
+                            - Amazon uses ROS2 for their Robotics as a Service. AWS RoboMaker
+                    - Venkat - It is very horizontal and robot agnostic. Can it be more elegant by being specialized with Rovers? Eg upto 6 wheeled robots and 6 legged robots. Part of too many abstractions is to lose sight of underlying hardware.
+                    - Victor - for flying robots the the stack is different
+                    - Maier - ROS cannot be expeced to be OS
+                        - Question - 
+                            - What does Ruby on Rails for Rover look like? 
+                            - What does an OS for Rover look like? 
+                        - Maier - 
+                            - Linux is not real time but works with real time components
+                            - Jascha - Classic approach to this is buffers
+                                - Maier - That is a good solution for Desktop but is it good for Rovers? 
+                                - QNX is real time and VxWorks
+                        - Victor - Does rover need to deterministically real time? 
+                            - Jascha - Some big systems don't
+                                - Byzantines general's problem - Send messages multiple time 
+                                - Commutating a motor has be deterministic. Opensource o-drive has jitter but it is okay
+                        - Venkat - Lower and Upper bound for determinism
+                            - Eg - Interrupt gear, pilots shoot through the propellors
+                            - Eg - synchronizing motor movement to camera exposure. Basic question does rover need synchronizing
+                            - Jascha - Determinism has specific meaning, guaranteed timing
+                                - For low inductance motor causes low time constants and jitter
+                    - Maier - 
+                        - We need to have some sort of subsumption architecture. Multiple levels of watch dogs. Asteroid detector
+                        - What do we expect in useful ROS software OS? What else? If the rover is on Mars and controlled from Earth? 
+                            - Humans are kind of real time systems but human culture is not real time? 
+                            - Rhett - What is the scope of the term "OS"
+                            - Jascha - RT vs Not. At the group of robot level, RT goes away. Determinism is at the lower level.
+                    - Venkat 
+                        - If ROS is not fun, then what? 
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FIxn4i0yC6a.png?alt=media&token=6d7430f9-cf2c-4f4e-95e2-57fd17782ddb)
+                    - Jascha - ROS1 vs ROS2
+                        - ROS1 - Low volume high mix
+                        - ROS2 - High volume, low mix
+                        - Kiva Systems probably may not use ROS2, they may have own stack
+                    - Rhett - Where does simulation fit in?
+                        - Jascha - Selling automation is hard, so simulation lubricates the process and deep learning
+                        - Venkat - When you are automating a large factory then simulation helps 
+                        - Eric - Simulator can be used just for debugging the software stack
+            - A good to question to ask to understand the architecture of software is "Who Hurt You?
+        - Links from Discord
+            - MicroROS - https://micro.ros.org/
+            - fprime and ROS - https://www.genebm.com/drone-bytes/software-design/middlewares-ros-fprime
+            - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-desktop-with-x2go-on-ubuntu-20-04
+            - https://www.linux.com/news/in-the-trenches-with-thomas-gleixner-real-time-linux-kernel-patch-set/
+            - https://www.linuxfoundation.org/press-release/the-linux-foundation-launches-elisa-project-enabling-linux-in-safety-critical-systems/
+            - https://robohub.org/meet-the-drone-that-already-delivers-your-packages-kiva-robot-teardown/
+            - https://www.youtube.com/watch?v=OSafzXRfBM0
+            - https://en.wikipedia.org/wiki/Communicating_sequential_processes
+            - https://en.wikipedia.org/wiki/Allen%27s_interval_algebra
+                - Venkat - I used both in my multi-robot planning framework in 2006 and both are very elegant theoretical foundations to build on top of... I'm kinda half thinking of resurrecting my work from back then and building a snowflakey bespoke thing for my rover
+                - Venkat - temporal interval calculus is especially useful for thinking of real-time system in terms of upper+lower bounds on events (think "generalized launch windows") I've always thought it could be the foundation of a proper robotic OS
+            - https://ashish-kmr.github.io/rma-legged-robots/
     - [[July 19, 2021]] -- Jascha
 - [[July 26, 2021]] -- Project management special
 - ---
