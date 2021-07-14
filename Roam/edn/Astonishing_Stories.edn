@@ -51,6 +51,8 @@
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :harc/e
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :user/display-page
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :block/parents
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :graph/name {:db/unique :db.unique/identity},
@@ -25360,4 +25362,16 @@
   [2927 :edit/time 1626169644820 536881709]
   [2927 :edit/user 2367 536881709]
   [2927 :log/id 1626169644820 536881709]
-  [2927 :node/title "July 13th, 2021" 536881709]]}
+  [2927 :node/title "July 13th, 2021" 536881709]
+  [2928 :block/uid "07-14-2021" 536881710]
+  [2928 :create/time 1626256066168 536881710]
+  [2928 :create/user 2367 536881710]
+  [2928 :edit/time 1626256066168 536881710]
+  [2928 :edit/user 2367 536881710]
+  [2928 :log/id 1626256066167 536881710]
+  [2928 :node/title "July 14th, 2021" 536881710]
+  [2929 :version/id "0.8.7" 536881710]
+  [2929
+   :version/nonce
+   "uuidc352d188-a79b-4cf4-ba0b-14d5a6bf320e" 
+   536881710]]}
