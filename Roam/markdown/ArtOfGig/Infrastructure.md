@@ -24,6 +24,51 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 60 [[July 14th, 2021]]
+        - participants:: [[Maier Fenster]] [[Jenna Dixon]] [[Phil Wolff]] [[Nathan Acks]] [[Sachin Benny]]
+        - notes::
+            - [[Jenna Dixon]] points out that we'll be doing some heavy bot development over the next 4 weeks.
+            - [[Sachin Benny]] wants to try spinning up a smaller online science fiction "magazine". Initially, this will riff off of Astonishing Stories. The idea is that any project member can edit. We will need a submission process, and some automation to easily move things through stages. Ideally, submitters would also join the [[Yak Collective]] Discord server.
+            - [[Maier Fenster]] wants to clarify how much of the proposed workflow should be inside the [[Yak Collective]], and how much outside.
+            - [[Sachin Benny]] thinks that (at least to begin with), the entire process (including submission) should be within the [[Yak Collective]]. There are currently four stages:
+                - Submission & pick up by an editor
+                - Editing
+                - Layout & proof reading
+                - Publishing
+            - [[Jenna Dixon]] points out that a rough draft of this process is already on the Production Squad page. There's also different kinds of editing -- developmental editing (content) vs. copy editing (spelling, consistency, etc.).
+            - [[Maier Fenster]] thinks that really what we're talking about is a kanban board containing links to Google Documents.
+            - [[Sachin Benny]] agrees.
+            - [[Jenna Dixon]] points out that we already have a kanban on Roam.
+            - [[Maier Fenster]] would like the kanban to live in GitHub, and then we could layer in some automation.
+            - [[Nathan Acks]] worries that this process might be too "squishy" for automation.
+            - [[Maier Fenster]] notes that this sort of project automation already exists. Ideally, this would move items on a board and ping relevant people when something is done.
+            - [[Sachin Benny]] wonders who actually signs off on the end? Who has final editorial control? Ideally final approval would live with the author.
+            - [[Jenna Dixon]] wonders if the editor should be able to reject.
+            - [[Sachin Benny]] thinks that there should be a sense of "required" and "optional" changes.
+            - [[Phil Wolff]] wonders why we don't want to allow completely open submissions?
+            - [[Sachin Benny]] points out that even the original Astonishing Stories had a pretty strong editorial stance. We want to maintain that.
+            - [[Maier Fenster]] wonders what exactly Astonishing Stories needs that they don't have today?
+            - [[Sachin Benny]] feels that we need a more open submission process, and a way that the author can drive the publishing process.
+            - [[Maier Fenster]] wonders what this kind of agency means for an author. Do they just have buttons they press at certain times? Can they nudge the editor?
+            - [[Sachin Benny]] agrees with this process.
+            - [[Maier Fenster]] thinks that a kanban is probably overkill from the author's perspective. The author wants to see controls and the state of __their__ story. The editor needs to see the state of a story, changes, etc. So, maybe we just need a webpage with the item + some metadata. This could also be a Discord bot that produces cards, but that seems perhaps too complicated.
+            - [[Sachin Benny]] thinks that it would actually be best to keep things in Discord.
+            - [[Nathan Acks]] suggests a bot where people on the Discord server can submit stories, and then the bot DMs them with status and lets them do nudges. On the back end, the bot creates a GitHub issue, adds it to the kanban, and then generates notifications in the Astonishing Stories channel when there are state changes.
+            - [[Jenna Dixon]] likes this idea, and wonders if we should do something manual before spinning up a bot.
+            - [[Sachin Benny]] thinks that we already have a feel for the process, so we can jump right to notifications.
+            - [[Jenna Dixon]] wonders if we should use Knack for submissions.
+            - [[Maier Fenster]] agrees that Knack should be the database here. We should have people submit links rather than documents.
+            - [[Nathan Acks]] thinks that if we're using Knack for submissions, why not use it for tracking things?
+            - [[Maier Fenster]] thinks that they key is the question, "where does the action happen?" Does it happen in Discord? In Knack? In GitHub? People need to get notified. People need to say what they need to happen.
+            - [[Jenna Dixon]] thinks we should do whatever's easiest.
+            - [[Maier Fenster]] thinks it should be manually prototyped first (probably in Knack). Once the database and the manual process is in place, we should layer in the bot.
+            - [[Jenna Dixon]] suggests that [[Sachin Benny]] rough out a form in Knack. [[Sachin Benny]] will do this.
+            - [[Nathan Acks]] and [[Jenna Dixon]] will take the new Knack sign-up form live [[2021-07-17|this Saturday]] at 9am MT / 11am ET.
+            - [[Jenna Dixon]] would like there to be a draft email notification for Knack.
+            - [[Nathan Acks]] points out that if Knack can hit a webhook, then we can use it for notifications. Otherwise, we'll need a bot.
+            - [[Maier Fenster]] observes that we don't __really__ need anything real-time here. Polling Knack every 15 minutes should be fine.
+    - Infrastructure Chat 59 [[July 7th, 2021]]
+    - Infrastructure Chat 58 [[June 30th, 2021]]
     - Infrastructure Chat 57 [[June 23rd, 2021]]
         - participants:: [[Jenna Dixon]] [[Maier Fenster]] [[Nathan Acks]] [[Sachin Benny]]
         - notes::

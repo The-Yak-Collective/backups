@@ -26,6 +26,9 @@
 - {{mermaid}}
     - graph LR
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
+- {{mermaid}}
+    - graph LR
+    submission-->dev_edit-- loop as needed -->author_review1-->dev_edit-- author approval-->copyedit-- loop as needed -->author_review2-->copyedit-- author approval-->design-->layout-- loop as needed -->design-- production approval-->proofread-- production approval-->publish
 - # 2. Production contributor roles — stub
     - ## Developmental editors aka Referees
         - __Read at the forest level. Big picture on structure and content. 
