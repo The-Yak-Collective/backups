@@ -29,7 +29,7 @@ https://jorgdesign.springeropen.com/articles/10.1186/s41469-017-0026-x
         - 2. The path to success for a platform venture is by no means easy or guaranteed, nor is it completely different from that of companies with more-conventional business models. Why? Because, like all companies, platforms must ultimately perform better than their competitors. In addition, to survive long-term, platforms must also be politically and socially viable.
             - {{[[DONE]]}} **The read** is an article based on the excellent book The Business of Platforms by Michael Cusumano, et al. is here:
                 - https://sloanreview.mit.edu/article/the-future-of-platforms/
-        -  3. Do you need a business ecosystem?
+        - {{[[DONE]]}}  3. Do you need a business ecosystem?
             - https://www.bcg.com/ru-ru/publications/2019/do-you-need-business-ecosystem
             - "The concept of business ecosystems is not new. Indeed, the large fairs in many medieval cities at which merchants came together and exchanged goods for a given period of time each year can be regarded as early forms of ecosystems. Similarly, as early as the fourteenth century, the city of Prato, Italy, had established a textile industry as an ecosystem of independent craftsmen specializing in weaving, carding, spinning, fulling, and dyeing, and orchestrated by powerful wool merchants that acted as the trading hubs of the system and provided critical functions of production coordination, quality control, and even financing." 
 It is thought provoking and invites a reading about medieval marketplaces.
@@ -41,7 +41,7 @@ The article above is a part of a series, that include:
         - {{[[DONE]]}} 4. An Interesting Read On The Fifth Generation Management
 https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
             - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
-        - 5. What is the effect of interactivity on platform design and performance 
+        - {{[[DONE]]}} 5. What is the effect of interactivity on platform design and performance 
 https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
         - {{[[DONE]]}} 6. This one is on Medieval Guilds. It is free and interesting
 https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period
@@ -53,7 +53,7 @@ or something similar
             - https://www.notion.so/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b
         - 9. About Trust and Common Ground.
 Given that lack of close connection and established trust, it’s also harder to develop the kind of common ground that facilitates productive interaction. The issues that people care about, the technical languages they speak, their modes of problem-solving, and their goals tend to diverge greatly when they work in different locations, specialize in different domains, and are responsible for different outcomes. It’s particularly challenging to bridge the gaps in understanding if they don’t know many people in common. The less employees know about each other’s motives and knowledge bases, research shows, the less inclined they are to share knowledge with each other. This can lead to more mistakes, slower project completion, and, in many cases, less innovative outcomes.
-https://sloanreview.mit.edu/article/picking-the-right-approach-to-digital-collaboration
+            - {{[[DONE]]}} https://sloanreview.mit.edu/article/picking-the-right-approach-to-digital-collaboration
         - {{[[DONE]]}} 10. A read on Valve recommended by [[Oliver King]]
 Hey Grigori, I was inspired by our chat re: GitLab and wanted to offer you the Valve employee handbook -- they're completely decentralized and self-organizing:
 http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf
@@ -123,7 +123,7 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - Bear management vs wolf slaughter, [Frank Chimero talk](https://frankchimero.com/blog/2014/only-openings/)
         - {{[[DONE]]}} [Hurling Frootmig principle](https://sites.google.com/site/h2g2theguide/Index/h/206017) 
         - {{[[DONE]]}} [Wind in the Willow principle](https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29) 
-        - Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
+        - {{[[TODO]]}} Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
         - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
         - {{[[DONE]]}} [David Teece interview on dynamic capabilities](https://www.strategy-business.com/article/00225?gko=32b8d)
         - {{[[DONE]]}} [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)
@@ -175,14 +175,15 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
         - {{[[DONE]]}} [Carrier bag theory of fiction by Ursula Le Guin](https://theanarchistlibrary.org/library/ursula-k-le-guin-the-carrier-bag-theory-of-fiction) 
-        - [Sarah Constantin The relationship between hierarchy and wealth](https://srconstantin.wordpress.com/2019/01/23/the-relationship-between-hierarchy-and-wealth)
-        - [Haraway on Chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
-        - [[Anarchists in China]]
-        - [Intro to Kropotkin](http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization)
+        - {{[[DONE]]}} [Sarah Constantin The relationship between hierarchy and wealth](https://srconstantin.wordpress.com/2019/01/23/the-relationship-between-hierarchy-and-wealth)
+            - Is it possible to create non-hierarchical social systems for humans? Power Distance. Lowest in Nordics, Israel and highest in Arab, Southeast Asian and Latin America. "Nominally non-hierarchical organizations often suffer from failure modes that keep them from getting anything done, and actually wind up quite hierarchical in practice." "  one context in which a structureless organization can work; a very small team (no more than five) of people who come from very similar backgrounds" "Medieval Iceland from the [tenth to thirteenth centuries](http://www.daviddfriedman.com/Academic/Iceland/Iceland.html) was a stateless society, with private courts of law, and competing legislative assemblies (Icelanders could choose which assembly and legal code to belong to), but no executive branch or police. It lasted longer than US" "Bronze Age levels of technological development (cities, metalworking, intensive agriculture, literacy, long-distance trade, and high populations) can be developed without states, at scales involving millions of people, for centuries" __Is Hierarchy the Engine of Growth or a Luxury Good?__ Top-down state control of the economy causes knowledge problems that limit economic productivity.  Dominance hierarchies inhibit accurate transmission of information, which worsens knowledge problems and principal-agent problems (“communication is only possible between equals.”)  One of the observations in __Wealth of Nations __is that countries with strong middle classes had more subsequent economic growth than countries with more wealth inequality. If hierarchies tend to emerge as soon as size, scale, and wealth arise, then that means we don’t have a solution to the problem of __preventing __them from emerging. __By default __an organization will succumb to inefficient hierarchy, and structureless organizations will succumb faster and to more toxic hierarchies. **When designing governance structures, the question you want to ask is not just “is this a system I’d want to live under today?” but “how effective __will t__his system be in the __future __at resisting the guys who will come along and try to take over and milk it for short-term personal gain until it collapses?”**
+        - {{[[DONE]]}} [Haraway on Chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
+        - {{[[DONE]]}} [[Anarchists in China]]
+        - {{[[DONE]]}} [Intro to Kropotkin](http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization)
             - "An English child boxes one on one, not in a group as we Russians like to spar.”
 Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
             - Wikipedia on Mutual Aid: https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
-        - [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
+        - {{[[DONE]]}} [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
         - {{[[DONE]]}} Ernest junger
             -  https://en.wikipedia.org/wiki/Eumeswil
             - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386

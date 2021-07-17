@@ -17,3 +17,12 @@
     - Stocks vs. Flows philiosophies
 - Meta: readings to help manage collective writing
     - http://www.scriptsecrets.net/tips/tip59.htm
+- Notes on 7/17 call
+    - Bryan -- tyrnanny of structurelessness, guilds one, do another round of high concept and log line
+    - Grigori
+        - key articles: netflix deck, guilds, steve yegge rant, business ecosystem... weird connection to Kropotkin, Siberia vs. Galapagos
+    - Sachin
+        - mapping the history of governance in small/medium org
+        - a lot of them also have some point of failure
+        - older readings didn't have a SPOF individual like open source/more recent ones
+    - Suggestion -- divide into chunks
