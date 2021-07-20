@@ -575,6 +575,73 @@
                 - Venkat - temporal interval calculus is especially useful for thinking of real-time system in terms of upper+lower bounds on events (think "generalized launch windows") I've always thought it could be the foundation of a proper robotic OS
             - https://ashish-kmr.github.io/rma-legged-robots/
     - [[July 19, 2021]] -- Jascha
+        - Prompt 
+        - Discussion
+            - Topologies
+                - Inside Out vs Outside In
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F91ejgWiV4T.png?alt=media&token=b00b3f36-8cba-4388-be79-c93c1ae6612b)
+                        - Sensors on the mobile robot or Sensors in the environment
+                    - Inside out [[SLAM]]
+                - Degrees of Freedom
+                    - In 3D space we need 4 distances to resolve. in short N+1 distances from the point
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FB8mw7FUt9H.png?alt=media&token=050c9058-1f19-4997-bf41-e54423ad6eb4)
+                - Hard to measure things inside ocean
+                - Drop sonar beacons inside ocean. No way to power it -> battery powered
+            -  Recievers - RTK
+                - Normal phones have ~5 meters accuracy
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FLDtslPGGUl.png?alt=media&token=ff98c344-a664-4033-9c95-a48393879105)
+                    - This has two cm accuracy. Has a ground based correction station. Differential GPS. The station has to be really close
+                    - California has Ntrip correction station
+                    - In older system correction system from satellites SBAS, newer systems correction data over Internet
+                - Important part of RTK is measuring phase
+            - GNSS
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FKnnLzHHtv2.png?alt=media&token=29c39470-a35a-42ba-b42e-a3f505ba2e77)
+                - GPS satellites are not geosynchronous
+                    - The GPS rotate around the earth twice
+                    - Flavors of GPS L1 and L2 bands - older bands commonly used. L5 is newer 1.5GHz and more robust
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F4dkOM5b0ft.png?alt=media&token=04cccf93-591d-4f07-b4c4-86f9fbf63f24)
+                    - around 100 GNSS satellites. Modern receivers can receivers from any one of them
+                    - Baseline accuracy is 15 meters
+                        - Largest contributor to error/noise is atmosphere. Propagation speed change pretty significantly
+                        - Corrections
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDzudR-HttM.png?alt=media&token=2f062da2-9994-418c-a1c8-4792589e4ef0)
+                                - Differential GPS - really high accuracy. It is possible to send accuracy corrections over Internet or cellular connections
+                    - Challenges - Blocked signal - Water, tunnels etc
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FbQWrZUQLyU.png?alt=media&token=4f9f633b-a344-4256-bd26-755f39a7bc53)
+                        - Large frequency band
+                    - Apple AirTag has a Time of Flight system. Other tracking tags have signal strength
+            - Bluetooth 5.x
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FH6z-Z4bQa0.png?alt=media&token=765c6d44-524c-4bb8-b321-b5c5e6a12ebd)
+            - Maier - How does camera based localization compare to RF based systems
+                - Jascha - Biggest driver is AR/VR for camera based
+            - Maier - Difference between indoor localization vs outdoor localization. Mars outside vs caves
+                - Jascha - Indoors cameras are much friendlier indoors. For farming, mining, for dirty env. cameras become challenging. RF is good. 
+                - Jascha Spirit rover concern was dust on solar panel. Dust storm cleared the dust on the solar panel. 
+            - Anuraj - RADAR based systems for harsh weather
+            - Venkat 
+                - Pioneer 11 (Voyager? ) - Carl Sagan gold plate. Distances to pulsars and Earth's location relative to these Pulsars
+                - Content based localization, landmark based is a version of that
+                - Anuraj - Fiducials on Rovers - https://space.stackexchange.com/questions/2985/what-are-the-black-and-white-circular-patterns-on-the-curiosity-rover
+                - Jascha - Fiducials on PCB 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F_JwxZVCoq_.png?alt=media&token=1d62b745-20e2-4bdf-81d3-06849db7b86a)
+            - Jascha - In monocular system there is no way to detect depth without movement
+                - in a perfectly still pond in perfect reflections, an insect loses localization
+                - Maier - Clear plastic bag full of water to repel insects
+                    - Visual System Jammer for Insects
+            - Jascha - Mouse pointer localization in computer mice
+            - Discord Links
+                - Venkat - does mars have a strong enough magnetic field for compasses to work?
+                    - Maier - No - https://www.nasa.gov/press-release/goddard/2020/mars-electric-currents
+                - Monocular [[SLAM]] with Tello Drone
+                    - {{[[video]]: https://www.youtube.com/watch?v=5tXE1TO7TC8}}
+                - Opportunity Rover Self cleaning solar panels - https://www.space.com/25577-mars-rover-opportunity-solar-panels-clean.html
+                - Clear view screen - https://en.wikipedia.org/wiki/Clear_view_screen
+                - RADAR SLAM - https://arxiv.org/abs/2104.05347#:~:text=We%20propose%20a%20full%20radar,estimates%20pose%20by%20joint%20optimization
+                - Fiducial SLAM - https://campus-rover.gitbook.io/lab-notebook/gen4-reports/fiducialslam
+                - Insects 
+                    - https://www.nationalgeographic.com/animals/article/jumping-spiders-moon-stars-astronomy
+                    - https://animals.howstuffworks.com/insects/water-bags-repel-flies.htm
+                - https://what3words.com/clip.apples.leap
 - [[July 26, 2021]] -- Project management special
 - ---
 - PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
