@@ -24315,6 +24315,22 @@
                     ":edit/user": {
                       ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                     }
+                  },
+                  {
+                    "string": "[[Chris Butler]]\n[Pattern Detected](https://docs.google.com/document/d/1il8vklPABd9MV-4t5MHyeFHqJPukGKVGSS7U2ODhb7c/edit#)",
+                    "create-time": 1626836094221,
+                    "refs": [
+                      {
+                        "uid": "bOWtpNePH"
+                      }
+                    ],
+                    "uid": "nGJB2udAG",
+                    "edit-time": 1626836095408,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "bOWtpNePH"
+                      }
+                    ]
                   }
                 ],
                 "uid": "qzP0lfjX7",
@@ -30491,6 +30507,18 @@
     "title": "July 20th, 2021",
     "uid": "07-20-2021",
     "edit-time": 1626774425430,
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1626860869534,
+    "title": "July 21st, 2021",
+    "uid": "07-21-2021",
+    "edit-time": 1626860869534,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },
