@@ -24,6 +24,21 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 61 [[July 21st, 2021]]
+        - participants:: [[Nathan Acks]] [[Anuraj R]] [[Maier Fenster]] [[Jenna Dixon]]
+        - notes::
+            Demo’d the Knack updates. Things that we need to do:
+                - Fix formatting of link title/URL field.
+                - Maybe move the email disclaimer on the sign-up form under the email field?
+                - ~~Turn off the “reload page” link.~~
+                - ~~Note on the sign-up page that email information is private for Knack logins.~~
+                - Change the form submission message to note that an email is inbound.
+                - Add a password reset link to the member login field.
+                - Fix up the email people get when they update their profile.
+                - Fix email people get when they sign up to include a password reset link.
+                - Move from first/last name to just (preferred?) name?
+                - Add tooltips to fields?
+            Then… Direct website integration is the next big thing.
     - Infrastructure Chat 60 [[July 14th, 2021]]
         - participants:: [[Maier Fenster]] [[Jenna Dixon]] [[Phil Wolff]] [[Nathan Acks]] [[Sachin Benny]]
         - notes::
