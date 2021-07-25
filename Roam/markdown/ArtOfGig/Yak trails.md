@@ -1,0 +1,75 @@
+- # Call logs
+    - [[July 24th, 2021]] 10:00 [[Anuraj R]] [[Jenna Dixon]]
+        - Consider::
+            - compare: API alternatives to Substack
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FyaiYfBVi6e.jpg?alt=media&token=928ce796-12c0-4024-b6bc-7eec87b7a878)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FacSnX551Se.jpg?alt=media&token=b53d4269-71e4-42d6-b6c1-b9856d19d19b)
+                    - [[Buttondown]] https://buttondown.email/
+                    - API: https://buttondown.email/features/api
+                    - Zapier: https://buttondown.email/features/integrations
+                    - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FFeiijzs8Mc.jpg?alt=media&token=c2d8fa02-f37d-4585-b91a-f9245adac0bb)
+                    - [[EmailOctopus]]
+                        - https://emailoctopus.com/api-documentation
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FMdxZ0kMmwg.jpg?alt=media&token=1e4036f2-3cff-415b-82c1-48a1c74d25f4)
+                    - [[Benchmark]] https://www.benchmarkemail.com/
+                        - Dev Docs: https://www.benchmarkemail.com/developers/
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F4M3NWctWEA.jpg?alt=media&token=1cf3d68f-bf32-46b9-af95-d154b5a83694)
+                    - [[MailerLite]] https://www.mailerlite.com/
+                    - Dev Docs: https://developers.mailerlite.com/docs
+                    - API Reference: https://developers.mailerlite.com/reference
+                    - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FWjvv3XvT2u.jpg?alt=media&token=7feafaf6-4e11-45e1-9909-325dd7462c23)
+                    - [[ConvertKit]] https://convertkit.com/
+                        - __no dev docs, no API__
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FQkwaCdJcUV.jpg?alt=media&token=756978f0-acb9-4373-be49-83095fed9d1e)
+                    - [[SendFox]] https://sendfox.com/
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FP_SsEViwwJ.jpg?alt=media&token=491674d8-a9d9-497e-b59b-6b0404bc634d)
+                            - https://appsumo.com/collections/appsumo-originals
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fiu3ogKZ8rF.jpg?alt=media&token=707ceecc-1ec8-4e88-9c64-034fc06273fd)
+                    - [[Campaign Monitor]] https://www.campaignmonitor.com/
+                        - https://www.campaignmonitor.com/api/
+                        - https://www.campaignmonitor.com/api/getting-started/
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fj-izHgyJ-_.jpg?alt=media&token=f81e8041-6fc6-4e07-88d3-99ee21501493)
+                    - [[SendGrid]] https://sendgrid.com/
+                        - [Freecode Camp - How to Send an Email Newsletter with the SendGrid API](https://www.freecodecamp.org/news/send-email-newsletter-with-the-sendgrid-api/)
+                        - [SendGrid - Start in Five Minutes](https://docs.sendgrid.com/for-developers/sending-email/api-getting-started)
+                        - API Reference: https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication
+                        - Docs: https://docs.sendgrid.com/
+                        - Webhooks: https://docs.sendgrid.com/for-developers/tracking-events/event
+                        - Libraries: https://github.com/sendgrid/
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FAImf8MGu98.jpg?alt=media&token=001bbb21-a324-4667-9682-5127b340c59f)
+                    - {{slider}}
+                    - [[Sendy]] https://sendy.co/
+                        - API: https://sendy.co/api
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-DPYdrhCIy.jpg?alt=media&token=0e8f738e-0c9f-4cb9-98df-8ead02b1b050)
+                    - [[Mailgun]] https://www.mailgun.com/
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fj3l4rn8mxR.jpg?alt=media&token=304bdb6d-57b4-414b-8bad-3bdb1011c8dd)
+                    - [[Mailjet]] https://www.mailjet.com/
+                        - https://www.mailjet.com/email-api/
+                        - https://dev.mailjet.com/
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F8n1Jjd16t_.jpg?alt=media&token=0f0aa6c8-3e9b-4876-b977-aa6a125160d5)
+                    - [[Mailchimp]] https://mailchimp.com/
+                        - https://mailchimp.com/developer/
+                        - `Transactional` https://mailchimp.com/developer/transactional/
+                        - `Marketing` https://mailchimp.com/developer/marketing/
+                        - `Batch Async` https://mailchimp.com/developer/marketing/guides/run-async-requests-batch-endpoint/
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FGW78v-PZIf.jpg?alt=media&token=ac00b8b5-4514-4944-b33c-d86bf4f3bde6)
+                    - [[Revue]] https://www.getrevue.co/
+                        - http://help.getrevue.co/en/articles/4700053-about-our-api
+                        - https://www.getrevue.co/api
+                        - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-RJasWfiZK.jpg?alt=media&token=e6369a29-d25f-4ca0-88e7-2af06c4a2a62)
+                    - [[Postman]] https://www.postman.com/
+                    - {{slider}}
+            - Gitbook cf Slab cf _______
+        - Log::
+            - 
