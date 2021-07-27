@@ -642,6 +642,104 @@
                     - https://www.nationalgeographic.com/animals/article/jumping-spiders-moon-stars-astronomy
                     - https://animals.howstuffworks.com/insects/water-bags-repel-flies.htm
                 - https://what3words.com/clip.apples.leap
+    - [[July 26th, 2021]] - David Lang
+        - Citizen Science
+        - Gold lost in California cave - reason to get started
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FcrMTM8fqPI.png?alt=media&token=a89f7ba9-7d9a-4abd-aeca-7d3bd3862a01)
+        - openrov small website
+        - NY times article
+        - kit
+            -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fx6jxJ1dYkE.png?alt=media&token=2da3daba-9eb0-440d-8e06-73680091dfc0)
+        - collaboration started when common hardware platform was avialable
+        - cheap knock offs 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FizFf7CeTW5.png?alt=media&token=ba8f32dc-bfc3-4167-820f-517c66c5f01d)
+        - In 2015 some people started making better kits, wanted to be the DJI of underwater drones
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FKd13khDjZM.png?alt=media&token=b78e854c-4c73-4c8f-b17b-65ffce36e762)
+        - [[Eric Platon]] - how deep is the sea in the ocean? 
+            - [[David Lang]] - 108 meters, goal was around 100 meters, chosen arbitrarily
+                - Tether problem - thrust to drag ratio
+                - Breakthrough - ethernet over powerline on a twisted pair cable, changed the game for tethered 
+        - John Dobson - Dobsonian Telescope
+            - Two books suggested 
+                - Seeing in the Dark
+        - Listening devices in forest
+        - Origami microscopes, DIY geiger counters, open source POC machines, 
+        - What low cost tools and tinkering meant for the future of science
+        - Kickstarter and the problems with academia
+        - Open Insulin
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FfdAOLs61yT.png?alt=media&token=99fdd418-6640-4169-818c-3c792c4be177)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FwvPpGoSuoU.png?alt=media&token=05dd9098-28ed-4a73-b878-0c09d1afaafd)
+        - Pressure chamber - scibetter.com
+        - iNaturalist, openTron, openEnzymes,
+        - Discussion
+            - [[Eric Platon]] - Quadratic Funding?
+                - [[David Lang]] - Lot like X-Prize, emerged from the crypto community, old idea of participatory funding
+                - https://wtfisqf.com
+                - pot of money and everyone competes for the funding, hopefully a democratizes funding
+            - [[Eric Platon]] - Is there a pattern in the distribution of funding that cannot be seen in the usual way of funding at the government level
+                - [[David Lang]] - Some patterns, but right now not enough funding. People don't read the rules for funding. The crypto community is obsessed with alternative way of funding
+                - [[Venkatesh Rao]] - https://experiment.com
+                    - [[David Lang]] - only a few countries like US, UK, Australia
+            - [[Maier Fenster]] - Does the money come with mentorship? If there is mentorship then people look for more than money. 
+                - [[David Lang]] - Right now yes, people in early career are focus.
+                - [[David Lang]] - https://www.scibetter.com/angels
+                    - Eg YCombinator
+                    - Post Docs stuck and career stalled? 
+                - 
+            - [[Maier Fenster]] - Science and Science tools? 
+                - [[David Lang]] - tools are a big part of science, blind spot of academia,
+                    - tools are brushed under the 
+                    - Book - Image and Logic, science advances through theory, experimentation and new instrumentation/tools
+                    - In the ocean conferences, people were surprised that openROV was just done. Such things are not rewarded in academia
+            - [[Rhett Garber]] - What was the initial spark for openROV?
+                - [[David Lang]] - Eric Stackpole obsessed with telerobotics, he heard the story of the gold, wanted to explore the cave, the cave story turned out to be important, McGuffen design, the story that started the story. The story was used for 10 years
+                - [[David Lang]] - Yak Rover path is interesting.
+                    - What to look out for? Wierd problem around tether solved
+                    - Don't be surprised by interesing solutions. NASA might not be able solve everything
+                    - Interfaces important to think about. Not many people playing with telerobotics
+                - [[David Lang]] - There are interesting challenges with Yak Rover that noone is playing around with. Some things were valuable but it was not known
+                - [[David Lang]] - If you don't want to be a company then know that, lots of paths can be taken
+            - [[Anuraj R]] -- How many kits were manufactured? 
+                - [[David Lang]] - All done by ourselves, around 50 pieces
+                - [[Venkatesh Rao]] - How many units were shipped? 
+                    - [[David Lang]] - Probably close to 1000
+                    - [[David Lang]] - 
+                        - How to build one of these
+                        - how to build 10 to 100 of these
+                        - How to get it people and start collaboration
+                - [[Venkatesh Rao]] - the social scaling? new kind of people showed for Yak Rover, how does the social part scale up? 
+                    - [[David Lang]] - for openROV was 15 to 20 
+                    - [[Venkatesh Rao]] - What about the people at the periphery?
+                        - [[David Lang]] - Number one rule was "having fun". People would come and go. It was big party. Once we went sailing. 
+                        - [[David Lang]] - Create a forum and make it welcoming for new folks
+            - [[Maier Fenster]] - possible directions for the projects? the roads that were not taken?
+                - [[David Lang]] - standards are underrated
+                - [[David Lang]] - Disruptive standards, figuring out a way that works for a lot of people
+                    - Take a look at Ben Rheinhardt's post
+                    - Book - Engineering Rules
+                - [[David Lang]] - Interfaces
+            - [[Eric Platon]] - by telerobotics do you mean remote robotics
+                - [[David Lang]] - idea of robotics being distance worlds or local robotics in new configurations. it is not going like zoom, maybe it going to VR. experiments with bigger screen and groups of people 
+                - [[Venkatesh Rao]] - #[[Maier Fenster]]'s robot was exposed through internet and people could play with it
+                - [[David Lang]] - Robot Garden
+            - [[Eric Platon]] - XPrize for Avatar, sponsered by ANA
+                - [[Venkatesh Rao]] - Avatar
+            - [[David Lang]]
+                - The kids would play with the ROV with game controllers. The would enjoy it a lot. We got to the edge of it and some team member are still working on it
+            - Links
+                - https://experiment.com/
+                - https://www.wilsoncenter.org/sciencestack
+                - https://www.xprize.org/prizes/avatar
+                - https://twitter.com/eerrp?lang=en
+                - https://www.amazon.com/Image-Logic-Material-Culture-Microphysics/dp/0226279170
+                - https://www.scibetter.com/angels
+                - https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000
+                - https://en.wikipedia.org/wiki/Dobsonian_telescope
+                - https://dobsoniantelescopes.com/
+                - https://jhupbooks.press.jhu.edu/title/engineering-rules
+                - https://mitpress.mit.edu/books/robot-garden
+                - https://missionrobotics.us/
+                - 
 - [[July 26, 2021]] -- Project management special
 - ---
 - PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
