@@ -10,8 +10,9 @@ Last Gardened:: [[October 21st, 2020]] by [[Jenna Dixon]]
     - Member database (future website release)
         - Minimal information from [[Discord]] (server name, user ID, role data) will be moved over using a `yak_shaver` bot. May or may not commit info to [[GitHub]] along the way.
 # Access
+    - New Yak signup: https://yak.knack.com/yaks
+    - Yak login: [https://yak.knack.com/yaks#yak-profile/](https://yak.knack.com/yaks#yak-profile/)
     - Builder: [https://builder.knack.com](https://builder.knack.com)
-    - Members: [https://yak.knack.com/yaks#yak-profile/](https://yak.knack.com/yaks#yak-profile/)
     - Share login: [[Jenna Dixon]] | [[Jordan Peacock]] 
-    - Alternate Builder access as needed: [[Nathan Acks]] | [[Maier Fenster]] 
+    - Alternate Builder access as needed: [[Nathan Acks]] | [[Maier Fenster]] | [[Anuraj R]]
     - [[Jordan Peacock]] monthly charge 39USD on his card. Our plan allows 2 Builders.
