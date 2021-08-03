@@ -740,7 +740,53 @@
                 - https://mitpress.mit.edu/books/robot-garden
                 - https://missionrobotics.us/
                 - 
-- [[July 26, 2021]] -- Project management special
+- Cycle 4
+    - Aug 2: Venkat
+        - Slides: https://docs.google.com/presentation/d/1GQRr4_UuZf1VGIWuOSg2AUOVpdT3_3ZKqK6L08V_d4k/edit?usp=sharing
+        - Short word on management
+            - New cycle program: https://roamresearch.com/#/app/ArtOfGig/page/zbS4aNTCP
+            - September 20: Big meeting on organization, more impact, preps for 2022.
+            - Targeting Fall event around November 2021.
+        - Review intermediate build "Accessory before the fact"
+            - Focus on electronics and programming
+            - Much fewer parts than main build (see slide 10), still printing of 7 simple parts.
+            - Beaglebone Blue package
+                - Many I/O, notably to control DC motors.
+                - Library install on MacOS a pain with Catalina. Needed to get High Sierra.
+                - Programming was possible. It required using Cloud9 through AWS.
+        - Review main build "Nature is murder"
+            - Slide from 22
+            - Move to OnShape
+                - Parts in CAD made for PLA and aluminum
+                - Aim at internal wiring (wires going in aluminum legs, and specific PLA design to accommodate)
+                - Balljoint challenge in CAD: Limitation in OnShap, could not constrain sphere-in-sphere interactions.
+                - No dynamic evaluation of the design in OnShape.
+                    - Jascha mentions Autodesk Fusion can import and do that, or Ansys.
+                    - Not many alternatives today, mostly exist for decades (Ansys), or "new age" like Autodesk.
+                - The main build is aimed at being modular (scavengeability)
+                    - Lead to flexible parts
+                    - Jascha asks why not external wire. Venkat answers he may have to, see below.
+            - Wiring challenges
+                - Review of options on how to wire internally. Hard, naive approaches do not work.
+                - Of course, Venkat starts with "ribbons" in parts. It does not work in practice.
+                - Looking into different cabling and connectors. No decision yet.
+                - External wiring looks the most promising option.
+                - Many projects get delayed due to wiring specs.
+                - Idea to make an R&D project here, if someone can be attracted.
+            - TPU tyre printing
+                - Side project, achieved within a few iterations.
+                - TPU is not PLA. Need to go slow: 18 mm/s, about 1/3 the speed of PLA.
+                - Open ideas to use TPU for bumpers, etc. Advice: Try TPU.
+        - Discussion around the Fall event.
+            - Venkat suggests we all propose a few R&D ideas relevant for the project.
+            - 
+    - Aug 9: Eric, __Abio Flex Wanderer__
+    - Aug 16: Victor, __Go and See__
+    - Aug 23: Anuraj, __Infinity and Beyond__
+    - Aug 30: Maier, __Wonderful Wandering Growth__
+    - Sept 6: Rhett, __Stubborn__
+    - Sept 13: Jascha, Special Topics
+    - Sept 20: Plan fall and Year 1 strong endgame
 - ---
 - PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
 - ---

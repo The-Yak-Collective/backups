@@ -21383,6 +21383,7 @@
   [2366 :log/id 1601045773849 536879719]
   [2366 :node/title "September 25th, 2020" 536879719]
   [2367 :block/uid "rN2nfaCTX" 536879724]
+  [2367 :user/display-page 2955 536881761]
   [2367 :user/email "yakcollective.org@gmail.com" 536879723]
   [2367 :user/uid "ZbY0TESZxRPgzCl68gDfzSfXBe82" 536879723]
   [2368 :block/uid "09-28-2020" 536879725]
@@ -25374,8 +25375,8 @@
   [2929 :version/id "0.8.7" 536881710]
   [2929
    :version/nonce
-   "uuid939d783f-7110-4e06-a671-cafb33216d8e"
-   536881760]
+   "uuid8c931c18-74a0-4c58-a368-8eacba3ac8b5"
+   536881763]
   [2930 :block/uid "07-15-2021" 536881711]
   [2930 :create/time 1626342440216 536881711]
   [2930 :create/user 2367 536881711]
@@ -25556,4 +25557,17 @@
   [2954 :edit/time 1627897614341 536881760]
   [2954 :edit/user 2367 536881760]
   [2954 :log/id 1627897614340 536881760]
-  [2954 :node/title "August 2nd, 2021" 536881760]]}
+  [2954 :node/title "August 2nd, 2021" 536881760]
+  [2955 :block/uid "0jmuPCgtD" 536881761]
+  [2955 :create/time 1627984032858 536881762]
+  [2955 :create/user 2367 536881762]
+  [2955 :edit/time 1627984032858 536881762]
+  [2955 :edit/user 2367 536881762]
+  [2955 :node/title "Anonymous" 536881762]
+  [2956 :block/uid "08-03-2021" 536881763]
+  [2956 :create/time 1627984032862 536881763]
+  [2956 :create/user 2367 536881763]
+  [2956 :edit/time 1627984032862 536881763]
+  [2956 :edit/user 2367 536881763]
+  [2956 :log/id 1627984032861 536881763]
+  [2956 :node/title "August 3rd, 2021" 536881763]]}
