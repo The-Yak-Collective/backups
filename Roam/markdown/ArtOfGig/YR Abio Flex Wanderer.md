@@ -1,17 +1,21 @@
-- Zis is the Z1 prototype page, where the main focus is brainy & generic software for rovers. In scope:
+- Abio Flex Wanderer page, where the main focus is brainy & generic software for rovers. In scope:
     - Off-the-shelf hardware, and most likely other Yaks.
     - Software "brain" for rovers, configurable or automatically adaptable to the actual hardware.
     - Remote control, debugging, telemetry/monitoring.
     - [[Maier Fenster]] i think it will need more sophisticated gaits
 - Naming concept:
-    - Abio Flex Wanderer
     - Abio is "not bio", to lead to the idea that the bot is a biologic mimicry of an animal, currently a spider (6 legs, not even 8).
-- **Key information**
-    - Video stream and snapshot API available. Please ask Eric; access contained to really interested people at first, as the API server is very weak for now.
+    - Formerly Z1 rover
+- **Key information and features**
+    - Accessible through SSH to run any code (Python and C++ facilities)
+    - Video stream and snapshot APIs available.
+        - Available through Twilio thanks to Maier's work.
+        - Original on-bot service: Please ask Eric; access contained to really interested people at first, as the API server is very weak for now.
     - Bot text stream
         - Twitter (temporary) @YakRover
         - Discord: @IamZ1
-    - Execution environment: Raspbian Buster
+    - Hardware includes OAK-1 camera
+    - Extra hardware available: OAK-D camera, Intel RealSense camera, Intel Neural Compute
 - Current activity and intents
     - Hardware: HiWonder SpiderPi
     - Images: https://postimg.cc/gallery/FQZ0cgT
@@ -29,7 +33,13 @@ for now, i am thinking re delegate, that you have code on the robot and code on 
         - From Sascha: Roomba gang and mux for cheap radiation resistance.
             - Benefit of possible scavenging when fleet of rovers.
             - About testing a design: "Depends on what environment we're trying to simulate/test exactly. Xrays are cheap and easy to come by all over the place. For gamma there's Co-60 sterilization facilities. And then for a proton source there is renting time on a proton therapy machine."
-- Latest notes
+- Updates and talks
+    - 2021-08 Abduction reasoning: https://docs.google.com/presentation/d/1Fybk35jU2N2QfoxDJbSMK89kOyDvYGs59-p0tPM8xNo/edit?usp=sharing
+    - 2021-08 Update, half-year review: https://docs.google.com/presentation/d/1H1Xqa83JakNmVmJAmPI_gZLwtvuPlmWvcDWWkNoZvR8/edit?usp=sharing
+    - 2021-06 Update on compute: https://docs.google.com/presentation/d/1cM6-KweIYGPF-lW0d8lOEmhzV43tiL6MrEiZMQMFtlg/edit?usp=sharing
+    - 2021-04 Update powering issues: https://docs.google.com/presentation/d/1oPbuPB1fPUsY4jZZZjFH0ZrprLuJQKK8I0WcBRl3dlA/edit?usp=sharing
+    - 2021-01 Update software and autonomy: https://docs.google.com/presentation/d/1FoEfDoPXV4wzc9_4VPEsl_PVmekTosOjpxo0xFX3FR8/edit?usp=sharing
+- Notes archive
     - 2021-04-30
         - Maier's worked on sending video to Twilio. It works really well.
         - Installation of an OAK-1 camera instead of the standard one.
@@ -38,7 +48,6 @@ for now, i am thinking re delegate, that you have code on the robot and code on 
             - After almost frying the RPi, I had to reinstall the whole system on a new SD card. Fortunately our work was on a separate flash drive.
             - In the reinstall process, I found the USB power block was really unreliable. And boom, it all sorted out by using an expensive USB power block ($30). Now the tethered bot works all fine.
         - Some time on finding how to get a SpiderBot to Maier (still).
-- Notes archive
     - 2021-03-01
         - Work on the power issue. Adding a voltage regulator.
         - Video streaming: Considering moving from mjpg_streamer to uv4l (https://www.linux-projects.org/uv4l/)
