@@ -62,6 +62,7 @@
  :datoms
  [[1 :block/uid "86RlNgFSD" 536878990]
   [1 :user/color "rgb(117,132,156)" 536870913]
+  [1 :user/display-page 2961 536881768]
   [1 :user/email "sachben91@gmail.com" 536870913]
   [1
    :user/settings
@@ -25375,8 +25376,8 @@
   [2929 :version/id "0.8.7" 536881710]
   [2929
    :version/nonce
-   "uuidaeba6aff-bc28-4b51-b0b9-c1a284348255"
-   536881767]
+   "uuid95b0c5dc-281f-4d9b-8e15-08bb26c165b0"
+   536881933]
   [2930 :block/uid "07-15-2021" 536881711]
   [2930 :create/time 1626342440216 536881711]
   [2930 :create/user 2367 536881711]
@@ -25592,10 +25593,34 @@
   [2959 :edit/user 2367 536881766]
   [2959 :log/id 1628243228199 536881766]
   [2959 :node/title "August 6th, 2021" 536881766]
+  [2960 :block/children 2985 536881892]
   [2960 :block/uid "08-09-2021" 536881767]
   [2960 :create/time 1628502411860 536881767]
   [2960 :create/user 2367 536881767]
   [2960 :edit/time 1628502411860 536881767]
   [2960 :edit/user 2367 536881767]
   [2960 :log/id 1628502411859 536881767]
-  [2960 :node/title "August 9th, 2021" 536881767]]}
+  [2960 :node/title "August 9th, 2021" 536881767]
+  [2961 :block/uid "e7jwQHYeQ" 536881768]
+  [2961 :create/time 1628519971530 536881769]
+  [2961 :create/user 1 536881769]
+  [2961 :edit/time 1628519971530 536881769]
+  [2961 :edit/user 1 536881769]
+  [2961 :node/title "Anonymous_1" 536881769]
+  [2985 :block/open true 536881890]
+  [2985 :block/order 0 536881931]
+  [2985 :block/page 2960 536881891]
+  [2985 :block/parents 2960 536881891]
+  [2985 :block/string "" 536881895]
+  [2985 :block/uid "DpfghR9ej" 536881890]
+  [2985 :create/time 1628524719133 536881890]
+  [2985 :create/user 1 536881890]
+  [2985 :edit/time 1628524725849 536881895]
+  [2985 :edit/user 1 536881890]
+  [2992 :block/uid "08-10-2021" 536881933]
+  [2992 :create/time 1628588602655 536881933]
+  [2992 :create/user 2367 536881933]
+  [2992 :edit/time 1628588602655 536881933]
+  [2992 :edit/user 2367 536881933]
+  [2992 :log/id 1628588602654 536881933]
+  [2992 :node/title "August 10th, 2021" 536881933]]}

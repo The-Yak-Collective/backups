@@ -781,12 +781,98 @@
             - Venkat suggests we all propose a few R&D ideas relevant for the project.
             - 
     - Aug 9: Eric, __Abio Flex Wanderer__
+        - Prompt
+            - https://docs.google.com/presentation/d/1H1Xqa83JakNmVmJAmPI_gZLwtvuPlmWvcDWWkNoZvR8/edit#slide=id.p
+            - https://docs.google.com/presentation/d/1Fybk35jU2N2QfoxDJbSMK89kOyDvYGs59-p0tPM8xNo/edit?usp=sharing
+        - Discussion
+            - Year 1 Roadmap mid-way Review
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FQppHlQVe1k.png?alt=media&token=2b74a111-c1bc-4f94-9795-b58245336372)
+                    - BOS - Software middleware
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXrdQrxFrtl.png?alt=media&token=95102ddf-7147-4e6b-a849-1ab3415d5b94)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FrWXCLLkVUp.png?alt=media&token=d88ea7ca-f89a-43af-b52e-ace425e1c4be)
+                - Goal is to make mission software without reinventing the wheel
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F39aobDChS0.png?alt=media&token=5edd3f43-e154-40d2-9f53-31774d69c88d)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FSgw1zMQVC4.png?alt=media&token=b39ed56f-009e-4317-ae01-d7c30d59c568)
+                        - BOS Middleware could be ROS or something else
+                        - The names System1 and System2 are from book Daniel Kahneman "Thinking Fas vs Thinking Slow"
+                            - System1 - This could be Subsumption Architecture? 
+                    - Currently On the SpiderBot
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FwcV_eEAorH.png?alt=media&token=7bf0f718-18f4-4d91-9eb5-d2cc8598228c)
+                        - Primitives are on hold because it is harder than it look
+                - Autonomy goal is atleast autonomous navigation
+                    - Idea is just to state the destination
+                    - For autonomous navigation
+                        -  first thing is planning, replanning, ...
+                        - If problem is detected then human intervention
+                        - Curiosity is semi-autonomous
+                        - What is required for full autonomous?
+                        - 
+                - [[Rhett Garber]] - What BOS looks like? 
+                    - [[Eric Platon]] - Not much yet, currently the yellow and green box
+                - [[Maier Fenster]] - BOS Advisor not SpiderBot? 
+                    - [[Eric Platon]] - This is abstract guide,  - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FSgw1zMQVC4.png?alt=media&token=b39ed56f-009e-4317-ae01-d7c30d59c568)
+                - [[Venkatesh Rao]] - What going forward means? Anthropologically there are references. Body orientation. Some tribes are north/south etc. Some tribes direction references to river direction. When the [[YR: Nature is Murder]] was being designed there was confusion during CAD design. The right hand view is left hand view in body centric view in OnShape. Probably what is needed find the symmetries. 
+                - [[Anuraj R]] - Are the BOS Advisors human or software? 
+                    - [[Eric Platon]] - Software processes are running all the time which react to events. Some situation in which the body might need to be always flat. Then this is not System1 and System2 which are more about commands. Any command can be overridden by the advisor
+            - Artificial Abductive Reasoning On Mars
+                - We want to say to the rover "Go to the destination, get some samples and come back"
+                - Currently no use of Abductive Reasoning
+                - The Martian by Ridley Scott
+                    - Everyone thinks Mark is dead
+                        - not here, lost contact in dust strom, witness being hit, humans are not well cut for Mars -> Enough evidence to conclude Mark is dead
+                        - On different SOLs the satellite images of the site chanes -> Mar is alive. 
+                        - The power of evidence
+                            - Depending on what evidence we have we make different conclusions
+                - Abductive Reasoning 101
+                    - We as humans have ability to select evidence to make reasonings
+                    - This has been formalized in the 19th century
+                    - No guarantee the explanation is correct
+                    - It allows to reason with uncertainty
+                    - Formally abduction literally means collecting evidence in the 19th century
+                - Sherlock Holmes main reasoning method is abductive reasoning. 
+                    - Arthur Conan Doyle was born at the same time as this reasoning method was formalized
+                - Autonomy Today on Mars rovers
+                    - Currently "semi-autonomy"
+                        - human planning (NAV team does this). Autonomous execution. Stop and ask for help if there is an anomaly(NASA term - hazard identification)
+                    - On Perseverance
+                        - AutoNav -
+                            -  The engineers put on VR goggles and then use it for planning. Thinking while drive. Curiosity was 20m/h vs 120m/h for Perseverance
+                        - ENav - Part of AutoNav
+                    - Current limitations
+                        - Self limitation - we want to limit autonomy because of safety of rover due to hazards
+                        - Reduced complexity
+                - Autonomy for Max Safety and Max Reliability on Mars rovers
+                - How to come up with rules to hand out to Mars? Human design and selection, vague in generating rules
+                    - Solution  level 1 - Inductive Reasoning
+                        - Use observations to state a rule
+                        - Problem - How to make the observations in the first place? 
+                    - Solution level 2 - Abductive Reasoning
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXlLK3b9CBA.png?alt=media&token=9d9dc78a-971b-4582-9184-b61639c20175)
+                    - [[Anuraj R]] - On rovers is the Induction and Abduction 
+                        - [[Eric Platon]] - Deep learning is kind of inductive reasoning specifically supervised learning
+                - [[Venkatesh Rao]] - Internal representation inside DL models that are recognizable for humans. The quote mentioned of Douglas Adams, Derg Gentley. Detectives think terms stable ontologies. Fascinating to engineer into a rover. Allow rover come up with it's own concepts then it is a true rover. Maybe right ontology is not easy to find by humans
+                    - [[Maier Fenster]] - "open ended ontology creation for rovers"
+                - [[Eric Platon]] - What it means to go forward for a rover depending on its body ?
+                    - in terms of concepts inside rover it should be able to build it on its own
+                    - [[Maier Fenster]] - Maybe the rover does not have that concept of forward? Then how to communicate with rover when there is no concept of rover 
+                - [[Anuraj R]] - which robots was abductive reasoning used in? 
+                    - [[Eric Platon]] - it was pretty hard see the value of abductive in early days. Most programming is inductive. deep learning is more of deductive. Abductive is still out of reach
+            - Link in discussion
+                - https://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
+                - https://en.wikipedia.org/wiki/Guugu_Yimithirr_language
+                - https://www.languagetrainers.com.au/blog/2014/08/languages-that-dont-use-left-or-right/
+                - https://www.pinterest.com/pin/660903314045009327/
+                - https://www.ribbonfarm.com/2016/09/07/startups-secrets-and-abductive-reasoning/
+                - https://www.nasa.gov/feature/jpl/nasas-mars-rover-drivers-need-your-help
+                - https://aws.amazon.com/blogs/robotics/navigating-robots-on-mars-jpl-open-source-rover-challenge/
+                -  The Game’s Afoot: Predecessors and Pursuits of a Postmodern Detective Novel (in Theory and Practice of Classic Detective Fiction) - https://d1wqtxts1xzle7.cloudfront.net/62393606/epdf.pub_theory-and-practice-of-classic-detective-fiction-c20200317-81365-zprduh-with-cover-page-v2.pdf?Expires=1628580327&Signature=JjkT2SsmBJeW0f8ALPyOFNZOLu1oQfX82in~31ANCQ-cf0GGPJ2h6Df6YTLikTiJrayXMkWYFXykRPq~QGQkzu7INAiSAkhO6aENuPasQrbLxm9Kh1dIw9teq6RhzdnCVyxykyzGzeyYH59qeV4T4V1FSrzSX10LVrmLG4CKVmqf2wX84dhq-Lig1RCfSrTQE-dVHwx44eemLImCLWe9e7Wq4~7bDZqi2LNSz1UtAIHguAq73HUAe2BzbO589tv2dokHsU9IWEwSU4hYYfFLmb0-LroORuMXXI-7D8HfI-uOAYaBJWeIyFk2azU1VRBIKe6LUtsXwhvdzxGKSKjI6Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=93
     - Aug 16: Victor, __Go and See__
-    - Aug 23: Anuraj, __Infinity and Beyond__
+    - Aug 23: Special guests Louis and Fabian/NASA space robotics challenge
     - Aug 30: Maier, __Wonderful Wandering Growth__
-    - Sept 6: Rhett, __Stubborn__
-    - Sept 13: Jascha, Special Topics
-    - Sept 20: Plan fall and Year 1 strong endgame
+    - Sept 6: Anuraj, __Infinity and Beyond__
+    - Sept 13: Rhett, __Stubborn__
+    - Sept 20: Jascha, Special Topics
+    - Sept 27: Plan fall and Year 1 strong endgame
 - ---
 - PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
 - ---
