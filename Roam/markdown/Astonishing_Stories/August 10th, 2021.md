@@ -1,0 +1,3 @@
+- Postpunk ethos [[postpunk scifi]]
+    - Emphasis on play instead of perfection
+    - Making people feel delighted to live in the present and not in the past or the future 

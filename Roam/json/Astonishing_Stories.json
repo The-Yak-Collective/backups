@@ -30771,8 +30771,82 @@
   {
     "create-time": 1628588602655,
     "title": "August 10th, 2021",
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    "children": [
+      {
+        "edit-time": 1628626501669,
+        "children": [
+          {
+            "string": "Emphasis on play instead of perfection",
+            "create-time": 1628626478748,
+            "uid": "MdEoo5jLG",
+            "edit-time": 1628626520851,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "Making people feel delighted to live in the present and not in the past or the future ",
+            "create-time": 1628626520845,
+            "uid": "QUDxTzvZg",
+            "edit-time": 1628626541245,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "DgLnLas0k"
+          }
+        ],
+        "uid": "ABVJStQKR",
+        ":block/refs": [
+          {
+            ":block/uid": "DgLnLas0k"
+          }
+        ],
+        "string": "Postpunk ethos [[postpunk scifi]]",
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "create-time": 1628626472618,
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      }
+    ],
     "uid": "08-10-2021",
     "edit-time": 1628588602655,
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1628626501672,
+    "title": "postpunk scifi",
+    "uid": "DgLnLas0k",
+    "edit-time": 1628626501690,
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    }
+  },
+  {
+    "create-time": 1628675206813,
+    "title": "August 11th, 2021",
+    "uid": "08-11-2021",
+    "edit-time": 1628675206813,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },

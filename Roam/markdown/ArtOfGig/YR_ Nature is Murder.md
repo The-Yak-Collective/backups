@@ -13,4 +13,5 @@
     - To do: make a more specialized chassis, and a rig to investigate force transfer/distribution (spring weight suspension? kitchen scale?)
     -   https://twitter.com/vgr/status/1379233874136297473
     - 
+- Aug 2: Venkat
 - 
