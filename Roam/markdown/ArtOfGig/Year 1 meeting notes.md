@@ -867,6 +867,36 @@
                 - https://aws.amazon.com/blogs/robotics/navigating-robots-on-mars-jpl-open-source-rover-challenge/
                 -  The Game’s Afoot: Predecessors and Pursuits of a Postmodern Detective Novel (in Theory and Practice of Classic Detective Fiction) - https://d1wqtxts1xzle7.cloudfront.net/62393606/epdf.pub_theory-and-practice-of-classic-detective-fiction-c20200317-81365-zprduh-with-cover-page-v2.pdf?Expires=1628580327&Signature=JjkT2SsmBJeW0f8ALPyOFNZOLu1oQfX82in~31ANCQ-cf0GGPJ2h6Df6YTLikTiJrayXMkWYFXykRPq~QGQkzu7INAiSAkhO6aENuPasQrbLxm9Kh1dIw9teq6RhzdnCVyxykyzGzeyYH59qeV4T4V1FSrzSX10LVrmLG4CKVmqf2wX84dhq-Lig1RCfSrTQE-dVHwx44eemLImCLWe9e7Wq4~7bDZqi2LNSz1UtAIHguAq73HUAe2BzbO589tv2dokHsU9IWEwSU4hYYfFLmb0-LroORuMXXI-7D8HfI-uOAYaBJWeIyFk2azU1VRBIKe6LUtsXwhvdzxGKSKjI6Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=93
     - Aug 16: Victor, __Go and See__
+        - Prompt - https://docs.google.com/presentation/d/1B9Q4BO3c4TsFfhUiyFzK4yBgFl-m7o87f73UMxEBsCc/edit?usp=sharing
+            - Why Docker and agenda
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDDdgZGy9FX.png?alt=media&token=0726e297-796d-4974-9d94-2f3c9ad185a1)
+            - What is Docker? 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FWl_DpTDIZo.png?alt=media&token=c9d1c967-e14e-458c-91c3-9b5693ad937c)
+                - Old school way was to implement the whole OS in the container
+                - In windows and mac it is lightweight VM
+                - Tries to solve problem "It works for me on my local computer"
+                - Helps in producing research more reproducible. Provide code + docker file + data to reproduce the research env. It makes the assumptions and requirements transparent
+                - Docker is fairly hard to keep in a HPC cluster
+            - Why Docker exists? 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FaBfO4s0w3k.png?alt=media&token=06494a06-a4bd-4c51-b079-984881b3ad5a)
+                - Code would work development env but not in prod. 
+                - Regular Linux runs around 200 processes. Docker container run application + minimal processes
+                - It makes automating the whole pipeline, from building to deplying
+            - Docker Architecture
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0qBij267hj.png?alt=media&token=fe047b56-73bf-4b8c-bb76-aa1523e3da40)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F8tN4XBtPKt.png?alt=media&token=b35eedc1-927c-478d-8650-1b2808dd6302)
+        - Discussion
+            - [[Anuraj R]] - What happens when two containers try to access the same hardware in the RPi? 
+                - [[Victor Hill]] - would not work, same as when two processes try to access same hardware
+            - [[Maier Fenster]] - What about caching when git pull in caching? 
+            - [[Venkatesh Rao]] - Why use docker and not run native directly? Maybe for code sharing? 
+                - [[Victor Hill]] - value starts when you want to come back to something that works. On Raspbian the ROS had to compiled from scratch. Docker is a good way to avoid this building from scratch
+            - [[Venkatesh Rao]] - In space how would this work ? 
+                - [[Victor Hill]] - Is this new? No. The fundamental issue is the question "will my code run" ?
+            - [[Rhett Garber]] - For bare metal Arduino, one needs USB. For RPi ssh and VSCode runs fine. Not sure about complicated use-cases? 
+                - [[Victor Hill]] - Is it Raspbian or Ubuntu? 
+            - [[Anuraj R]] - Has the PiCar been teleoperated? 
+                - [[Victor Hill]] - very basic operation was tried out earlier
     - Aug 23: Special guests Louis and Fabian/NASA space robotics challenge
     - Aug 30: Maier, __Wonderful Wandering Growth__
     - Sept 6: Anuraj, __Infinity and Beyond__
