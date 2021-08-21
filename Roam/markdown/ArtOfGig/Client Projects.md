@@ -23,4 +23,4 @@
 - There is no standard fee structure at the moment. We are dealing with projects on a case-by-case basis to establish healthy precedents through trial and error.
 - For official YC client projects, members who have already contributed to internal projects (either content, or infrastructure) should be given priority in staffing client projects, modulo expertise matches. But the project principal and coordinator have final say in assignments to make the project actually work. 
 - It is the board of partners' responsibility to monitor for violations of governance principles and decide what to do.
-- Filed in [[Yak Collective Governance]]
+- Filed in [[Online Governance Studies]]

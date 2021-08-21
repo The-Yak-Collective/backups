@@ -19,6 +19,6 @@
     - Monitor for mentions and RT tweets etc
     - Mention on any podcasts etc you might be invited to
 - ** Internal townhall, to debrief on learnings**
-    - Schedule with [[Yak Collective Governance]] to do a Friday townhall or on another day... learning opp for future project managers to learn from this experience
+    - Schedule with [[Online Governance Studies]] to do a Friday townhall or on another day... learning opp for future project managers to learn from this experience
 - ## Future Considerations
     - Notify preferred press outlets with appropriate lead time.

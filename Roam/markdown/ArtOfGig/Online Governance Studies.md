@@ -128,9 +128,6 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - {{[[DONE]]}} [David Teece interview on dynamic capabilities](https://www.strategy-business.com/article/00225?gko=32b8d)
         - {{[[DONE]]}} [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)
     - **Queued**
-        - [Doctorow Metacrap article](https://people.well.com/user/doctorow/metacrap.htm)
-        - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/)
-        - [Anatomy of a 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9?gi=cd39e157edd4)
         - Liquid modernity, Zygmunt Bauman
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
             - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
@@ -169,8 +166,6 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
             - http://www.bbc.co.uk/history/british/modern/suez_01.shtml
             - https://mattstoller.substack.com/p/what-we-can-learn-from-a-big-boat
         - [[Crisp Collective Analysis]]
-        - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
-        - [Cursed takes: Multiplayer Figma](https://newsletter.danhon.com/archive/s09e18-cursed-takes-multiplayer-figma-and-low)
         - [Greenpeace architecture of participation](https://blog.weareopen.coop/howto-create-an-architecture-of-participation-for-your-open-source-project-a38386c69fa5)
 - **Anarchism Track** — needs an owner 🤣
     - **Completed**
@@ -203,6 +198,15 @@ Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) 
             - YouTube channel: [Beau of the Fifth Column](https://youtu.be/y-PbSFZASR0?t=125)
             - Music like Propagandhi
             - [PhilosophyTube on Antifa](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
+- **Technology Track**
+    - Completed
+        - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
+    - Queued
+        - [Cursed takes: Multiplayer Figma](https://newsletter.danhon.com/archive/s09e18-cursed-takes-multiplayer-figma-and-low)
+        - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/)
+- **Meta -- on online studies knowledge management**
+    - [Doctorow Metacrap article](https://people.well.com/user/doctorow/metacrap.htm)
+    - [Anatomy of a 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9?gi=cd39e157edd4)
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]

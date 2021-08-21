@@ -33,7 +33,7 @@
 [[Amanda Reeves]] lead
         - [[Infrastructure]] cell 
 [[Darren Kong]] lead
-        - [[Yak Collective Governance]] cell
+        - [[Online Governance Studies]] cell
 [[Venkatesh Rao]] lead
         - [[Yak Discord server]] cell
 [[Jordan Peacock]]  lead

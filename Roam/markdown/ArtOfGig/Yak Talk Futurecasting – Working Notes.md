@@ -3,7 +3,7 @@
 - ## Column Ideas Queue
 - __Subtracks__
     - **Future of Governance**
-        - __Potential to collaborate with #online-governance [[Yak Collective Governance]] track at some point__
+        - __Potential to collaborate with #online-governance [[Online Governance Studies]] track at some point__
         - **Future of Justice**
             - https://thenib.com/after-the-cops/
             - https://www.c2i2.ucla.edu/racial-justice-and-tech/

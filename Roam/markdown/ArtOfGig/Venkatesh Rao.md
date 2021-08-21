@@ -8,7 +8,7 @@
         - [[Roam Production Kanban]]
         - [[Future Frontiers]]
         - [[YC Marketing]]
-        - [[Yak Collective Governance]]
+        - [[Online Governance Studies]]
         - [[Yak Collective State of the Union]]
         - [[YC Annual Meeting 2020]]
         - [[Project Pitches]]

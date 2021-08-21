@@ -27,7 +27,7 @@
             - soft launch readers » [[Production Squad]]
             - review may not be a good small task 
         - newsletter contribution » [[Yak Talk Newsletter – To Do and Content Ideas]]
-        - governance source docs » [[Yak Collective Governance]]
+        - governance source docs » [[Online Governance Studies]]
 - prospectus
     - capabilities
     - hi-lights
@@ -43,7 +43,7 @@
 - momentum problem
     - excitment --> losing engagement
     - tentatively [[Venkatesh Rao]]
-- governance principles » [[Yak Collective Governance]]
+- governance principles » [[Online Governance Studies]]
     - after january 
 - CFP process
     - refactor itself into continuous CFP
