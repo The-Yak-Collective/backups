@@ -1,4 +1,24 @@
 - # Call logs
+    - [[August 21st, 2021]] 11:00am ET [[Anuraj R]] [[Nathan Acks]] [[Jenna Dixon]]
+        - convo on [[Buttondown]]
+            - Pros
+                - Handles list management for us (unlike [[Mandrill]], [[SendGrid]], [[Mailgun]])
+                - Handles drafts for us (unlike [[Mandrill]], [[SendGrid]], [[Mailgun]])
+                - Write in Markdown
+                - Some ability to customize design
+                    - https://buttondown.email/settings/design
+                - 
+            - Cons
+                - Costs money ($29/month)
+                - Requires more work to make formatting look good
+        - Tucking into the chunking of the content, each chunk will have a different approach and can be handled by a different Yak
+            - https://gist.github.com/djinna/f04e8ca8b5486d619b9650f47ce73fca
+                - [[Jenna’s notes from the last Yak trails edition]]
+        - Created a doc of the current state of play for the planned Yak trails chunks
+            - [[Yak trail chunks v1.0]]
+        - ¿Run Substack and Buttondown side by side v shut Substack down (or archive)?
+            - Managing two lists seems like a bad idea
+        - 
     - [[July 24th, 2021]] 10:00 [[Anuraj R]] [[Jenna Dixon]]
         - Consider::
             - compare: API alternatives to Substack
@@ -8,6 +28,19 @@
                     - API: https://buttondown.email/features/api
                     - Zapier: https://buttondown.email/features/integrations
                     - {{slider}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-DPYdrhCIy.jpg?alt=media&token=0e8f738e-0c9f-4cb9-98df-8ead02b1b050)
+                    - [[Mailgun]] https://www.mailgun.com/
+                    - {{slider}}
+                    - Used by [[Buttondown]] and [[Substack]]
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fj-izHgyJ-_.jpg?alt=media&token=f81e8041-6fc6-4e07-88d3-99ee21501493)
+                    - [[SendGrid]] https://sendgrid.com/
+                        - [Freecode Camp - How to Send an Email Newsletter with the SendGrid API](https://www.freecodecamp.org/news/send-email-newsletter-with-the-sendgrid-api/)
+                        - [SendGrid - Start in Five Minutes](https://docs.sendgrid.com/for-developers/sending-email/api-getting-started)
+                        - API Reference: https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication
+                        - Docs: https://docs.sendgrid.com/
+                        - Webhooks: https://docs.sendgrid.com/for-developers/tracking-events/event
+                        - Libraries: https://github.com/sendgrid/
+                        - {{slider}}
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FFeiijzs8Mc.jpg?alt=media&token=c2d8fa02-f37d-4585-b91a-f9245adac0bb)
                     - [[EmailOctopus]]
                         - https://emailoctopus.com/api-documentation
@@ -35,21 +68,10 @@
                         - https://www.campaignmonitor.com/api/
                         - https://www.campaignmonitor.com/api/getting-started/
                         - {{slider}}
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fj-izHgyJ-_.jpg?alt=media&token=f81e8041-6fc6-4e07-88d3-99ee21501493)
-                    - [[SendGrid]] https://sendgrid.com/
-                        - [Freecode Camp - How to Send an Email Newsletter with the SendGrid API](https://www.freecodecamp.org/news/send-email-newsletter-with-the-sendgrid-api/)
-                        - [SendGrid - Start in Five Minutes](https://docs.sendgrid.com/for-developers/sending-email/api-getting-started)
-                        - API Reference: https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication
-                        - Docs: https://docs.sendgrid.com/
-                        - Webhooks: https://docs.sendgrid.com/for-developers/tracking-events/event
-                        - Libraries: https://github.com/sendgrid/
-                        - {{slider}}
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FAImf8MGu98.jpg?alt=media&token=001bbb21-a324-4667-9682-5127b340c59f)
                     - {{slider}}
                     - [[Sendy]] https://sendy.co/
                         - API: https://sendy.co/api
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-DPYdrhCIy.jpg?alt=media&token=0e8f738e-0c9f-4cb9-98df-8ead02b1b050)
-                    - [[Mailgun]] https://www.mailgun.com/
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fj3l4rn8mxR.jpg?alt=media&token=304bdb6d-57b4-414b-8bad-3bdb1011c8dd)
                     - [[Mailjet]] https://www.mailjet.com/
                         - https://www.mailjet.com/email-api/

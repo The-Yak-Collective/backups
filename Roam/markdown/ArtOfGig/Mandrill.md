@@ -1,0 +1,3 @@
+- Owned by Mailchimp now
+- https://mailchimp.com/features/transactional-email/
+- 
