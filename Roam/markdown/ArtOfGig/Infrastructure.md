@@ -24,6 +24,22 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 65 [[August 18th, 2021]]
+        - participants:: [[Nathan Acks]] [[Anuraj R]]
+        - notes::
+            - Set up a new [yak-trails-tools](https://github.com/The-Yak-Collective/yak-trails-tools) repo. [[Anuraj R]] is in charge.
+            - Walked through [[Eric Platon]]’s [weekly2markdown](https://gitlab.com/yakc/tools/-/tree/main/weekly2markdown) code.
+    - Infrastructure Chat 64 [[August 11th, 2021]]
+        - participants:: [[Nathan Acks]] [[Jenna Dixon]] [[Maier Fenster]] [[Anuraj R]]
+        - notes::
+            - [[Nathan Acks]] will split the `$lunks` command into `$mlinks` and `$hlinks`, and use the “html1” form for our HTML template
+            - Started a review of the open agenda items in the `#infrastructure` channel.
+    - Infrastructure Chat 63 [[August 4th, 2021]]
+        - participants:: [[Nathan Acks]] [[Anuraj R]]
+        - notes::
+            - The Buttondown API __does__ have a way to add content. Just PATCH on the drafts endpoint.
+            - We’ll do a work session on Saturday to get a basic framework spun up.
+    - Infrastructure Chat 62 [[July 28th, 2021]]
     - Infrastructure Chat 61 [[July 21st, 2021]]
         - participants:: [[Nathan Acks]] [[Anuraj R]] [[Maier Fenster]] [[Jenna Dixon]]
         - notes::
