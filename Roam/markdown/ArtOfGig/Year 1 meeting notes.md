@@ -898,6 +898,97 @@
             - [[Anuraj R]] - Has the PiCar been teleoperated? 
                 - [[Victor Hill]] - very basic operation was tried out earlier
     - Aug 23: Special guests Louis and Fabian/NASA space robotics challenge
+        - Presentation 
+            - Lunar challenges
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYFMC78RFmG.png?alt=media&token=611c3caa-64e7-4ccc-94a1-ec3ae395f642)
+                    - no light for 14 days, so maybe hibernate for 14 days. nuclear option is there but not available commercial companies
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FL_4RmTfG4e.png?alt=media&token=161eb34e-7683-4928-a5ba-375e560cba04)
+                    - Minimum size of Antenna to get useful information is 15 meters. Ideal requirement is 30 meters. 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FsopPUGXk0d.png?alt=media&token=9594fa0c-90db-405d-bbb5-f89ebcfffcac)
+                    - weak magnetic field of moon
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FnbltbB0PlV.png?alt=media&token=4ad3b645-698b-4ec5-b9a9-ecd141a3f4b1)
+            - Space Robot 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FwEfX4oGJ8h.png?alt=media&token=041a229e-e335-471f-bb92-b52211e11251)
+                    - Two redundant boards
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FjbIuYCSFdM.png?alt=media&token=b84bd435-f509-4619-8e5f-b1d8bd869705)
+                    - iSpace mission in 2023
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fu3lZAbUW-G.png?alt=media&token=a6c6a378-4b67-4275-8547-70e0f1456104)
+                    - how to collaborate with humans
+                    - how to train people who drive the robot, shifts of 8 hours if driving for 24 hours
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FntbKaAwVBP.png?alt=media&token=6545a6df-fc4d-491c-9bf6-f047b2c28979)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FlO-K0ZPet5.png?alt=media&token=4fb9681f-7ff3-4ba4-b303-dda12df55fbc)
+                        - only partially replicates the moon. 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FPhnM6vghIz.png?alt=media&token=dc4a76e5-5bad-4770-a779-d92e43602b57)
+                    - lots of tradeoffs depending on what needs to be simulated. These tradeoffs 
+                    - Gazebo choice - open source, NASA has one project using Gazebo. Gazebo is a lot modular-> choice for physics engine and rendering engine
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F4IVaBMxUjK.png?alt=media&token=e8a03a56-5521-45c5-b8f1-acfbfa5eda90)
+                    - Resolution available 5m per pixels, not enough
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FnZM3alcJeJ.png?alt=media&token=59cd32f9-7f25-410f-8a3a-5da968c2b8f3)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-FLxD4y6zp.png?alt=media&token=539d970e-89d0-4d20-86c6-145101b23834)
+                    - description for environment in xml file
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FzIyxBfCc-7.png?alt=media&token=82bfd6dc-954f-4321-b7ae-4a9021c0a2ed)
+                    - simulators allows varying the camera parameters to test
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FFqzGE88RC2.png?alt=media&token=71ffb100-6eee-4204-b2d3-5ec6bff725f8)
+                    - On lunakhod the camera view angle was not enough to avoid some rocks
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0s1uhb64EG.png?alt=media&token=b38c4d3d-e6e3-4cc2-95a3-545e99a0ee98)
+                    - develop models vision models
+                        - one using machine learning. take image from one camera and generate test data
+                        - simulator used to generate training data to train the model
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FVnBDx2h7tY.png?alt=media&token=b196af2c-f4a3-4099-a9e9-8d34f26c34a5)
+                        - time was not enough for more simulation and more advanced simulation
+                - 
+            - Space Robotics Challenge Phase 2
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FtDq7gr1w5F.png?alt=media&token=2351ec02-4607-4209-82f4-1f5b9ec2097c)
+                    - In phase 1 was unrelated and was using humanoid robot to work with humans
+                    - Phase 2 is particularly about In-situ resource utilization
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FPY-7YSbxAU.png?alt=media&token=2d9e3dc7-522c-48f5-a9b8-3b885de0c8ad)
+                    - Three rounds described above
+                    - [[Eric Platon]] - Three rovers? 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FRE17pHaabL.png?alt=media&token=cb8f3185-8df6-4c62-9200-a748f9349f38)
+                    - A group of rovers(less than 6) need to localize resource and bring it back
+                    - This competition is simulator based
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FR8mC2aiRQV.png?alt=media&token=530ae1fc-f6ec-4182-b277-94ba1aaba885)
+                    - object detection using YOLO, detecting rovers in YOLO occasionally challenging
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FdfKRU17Y9k.png?alt=media&token=52901882-1aa3-49cb-8e2e-007cd9bf5f5c)
+                    - top view for monitoring exploration 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F9MGAW0fEC8.png?alt=media&token=a77fc6b4-fcd3-4567-a3a7-56a46173b46e)
+                    - custom machine learning model 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FSDNDISgEPK.png?alt=media&token=52c42a9a-efb5-4c24-bfbb-abcf67279329)
+                    - ros2 uses behaviour trees in navigation stack
+                    - used a lot in games but now also starting to used in robotics
+                    - alternative to state machines
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FqZ_zWj0YaT.png?alt=media&token=fd1d5cf1-6abe-4e52-83d2-e16aa88bb28d)
+                    - no fiducials were used, nasa uses a lot fiducials markers on rovers
+                    - simulator performance degrades when multiple rovers are added
+        - Discussion
+            - [[Victor Hill]] - Total resource requirement to run a simulation? What was interesting in the simulation? 
+                - Fabian - physics engine simulation problems
+            - [[Anuraj R]] - How many teams participated ? 
+                - Fabian - around 100 in the beginning and 14 in the last round
+            - [[Maier Fenster]] - Why was monitoring very difficult? 
+                - Fabian - one of the aspects of rovers working together is some were manual and some were autonomous. then when the rovers start working together then there are a lot of thiings to observe multiple things. Lots of context to know the state of the rovers
+                - [[Maier Fenster]] - is that the problem is of the simulator or architecture of the mission of rovers? will the problems be seen in real rovers? 
+                - Fabian - maybe the real rovers would also have similar problems 
+            - [[Maier Fenster]] - how detailed the simulation need to be for a simple mission
+                - Fabian - is the tooling for the operator enough or not? The big vision was to see how people will make strategies to operate the rovers, how many rovers to send etc? 
+            - [[Anuraj R]]- Did everyone in the project use Gazebo? 
+                - Fabian - Yes
+            - [[Maier Fenster]] - was using ROS suitable? 
+                - Fabian - Yes. For ROS it was easy to find libraries for indoor robots. For outdoor field robots the libraries needed tweaking
+            - [[Eric Platon]] - Everything inthe project was ROS1? 
+                - Fabian - yes
+            - [[Anuraj R]] - Was the competition time based? 
+                - Fabian - simulation was 2 hours, the simulation was run NASA machines
+            - [[Anuraj R]] - Was the communcation delay also simulated? 
+                - Fabian - yes
+            - [[Jascha Wilcox]] - evaluating the simulation performance was manual? was there any automated tests to test the performance? 
+                - Fabian - regression tests for computer visions. would have been better to run tests for subsystems in isolation 
+                - [[Eric Platon]] - is there any tool or framework that allows this automated testing? 
+                - Fabian - 
+                    - applied intuition company - https://www.appliedintuition.com
+                    - https://robotika.cz/en
+            - [[Eric Platon]] - could simulation become a useful tool? 
+                - Fabian - the cost of space is really high, for testing it could be useful
     - Aug 30: Maier, __Wonderful Wandering Growth__
     - Sept 6: Anuraj, __Infinity and Beyond__
     - Sept 13: Rhett, __Stubborn__
