@@ -20,6 +20,9 @@
             - Managing two lists seems like a bad idea
         - 
     - [[July 24th, 2021]] 10:00 [[Anuraj R]] [[Jenna Dixon]]
+        - update [[August 25th, 2021]]
+            - https://zapier.com/learn/email-marketing/best-email-newsletter-software/
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FhpGz5NdIgn.jpg?alt=media&token=01c1d3d0-f0b1-481c-ada0-bae60172ab06)
         - Consider::
             - compare: API alternatives to Substack
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FyaiYfBVi6e.jpg?alt=media&token=928ce796-12c0-4024-b6bc-7eec87b7a878)
