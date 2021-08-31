@@ -990,6 +990,54 @@
             - [[Eric Platon]] - could simulation become a useful tool? 
                 - Fabian - the cost of space is really high, for testing it could be useful
     - Aug 30: Maier, __Wonderful Wandering Growth__
+        - Presentation/Prompt - https://docs.google.com/presentation/d/1ZvbMm22KntT20pFa7QrfkiOHeu0bAIb4N7vmpE6cUeU/edit?usp=sharing
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FmJ5v0-5ytr.png?alt=media&token=3a40b408-7c6f-415f-8f86-2ea737b7a48e)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FJkqKzN4dXq.png?alt=media&token=5e245c36-c317-4fac-8710-6a8abc12e647)
+                - Greyed part not done yet
+                - Current problem is [[Maier Fenster]] has 32 bit system and [[Victor Hill]] has a 64 bit system
+                - [[Victor Hill]] has a VPN. Goal is to integrate [[Victor Hill]] docker based software and [[Maier Fenster]]'s software
+            - Current Status ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Ftu_FvrjNHN.png?alt=media&token=a713e569-be71-4e95-bf4f-c6fb40c40b7e)
+                - Top level interface is webserver
+                    - Only feedback on twitter interface, twilio is video interface
+                    - below discord, twitter and twilio is a command wrapper
+                    - Servo interface passes the commands to the servo hardware
+                - Perceptazoid - take a raw sensor data and make it more meaningful. Take a stream of video and give direction of the rover is moving
+                - Everything on the right column is ready-made from a manufacturer
+                - Servo bus control with red cross - the rover has a bus for rover servos but it is inoperative. 
+            - Current problems ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FaGOv6xKEDx.png?alt=media&token=031bcb1f-5363-4eb0-a945-ecfdb8036990)
+                - all these problems are mundane. not preventing anything
+            - Twitter rabbit-hole -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYMWYs3KwQq.png?alt=media&token=85874a20-a076-4828-aeee-8aa300c6aedd)
+                - Twitter doesn't allow repeated tweets. Only happens with same repeated texts
+            - work with eric requires logging - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FSqIcmVY3fo.png?alt=media&token=7dcd9363-64a4-492b-94b3-9f21ee10a6ca)
+                - This is the logging system here Current Status ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Ftu_FvrjNHN.png?alt=media&token=a713e569-be71-4e95-bf4f-c6fb40c40b7e)
+                - Logging interferes with other commands - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FyWaiFwHjbG.png?alt=media&token=8c3e3ed5-2c15-4e4b-aab3-65c7e76bff2f)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FQEs7BXxuoC.png?alt=media&token=63d8f367-8726-4ac6-bea4-d2fb4d957a20)
+            - Next steps - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F9s9y_SoPBk.png?alt=media&token=ce63e375-a8f1-47c5-8f43-a9e03aeb6036)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZbqQspu3it.png?alt=media&token=09f67e32-42f6-495d-8028-374682e267e4)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FdHSDjrxiuj.png?alt=media&token=e5d55431-aa8b-446b-bcf5-36035a1c9595)
+            - Hobbyist? 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDn3xhkJ0cd.png?alt=media&token=2533c3ef-41b6-4d00-ad70-bf0a3eb9f10c)
+            - Challenges for a hobbyist - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FazK6NQabqL.png?alt=media&token=d6df6a30-8842-4c28-9198-87371526e092)
+            - How does YC help ? ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F2OgTNuUFK-.png?alt=media&token=cc966342-a6fd-4251-887d-0ab4a498de12)
+                - [[Rhett Garber]] - award self badges for progress. Go broad or deep? 
+            - Test Bed Suggestion
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FGmYwVMivGv.png?alt=media&token=5f940208-2646-4a4c-81d6-70c77cb3facc)
+        - Discussion
+            - [[Rhett Garber]] - Which component is the board? 
+                - [[Maier Fenster]] - The servo controller is a RPi hat
+            - [[Venkatesh Rao]] - What has changed in the last two decades in robotics hardware? 
+            - [[Venkatesh Rao]] - Stuart Brand's idea of shearing layers
+            - [[Venkatesh Rao]] - Social aspect of badges/patches
+                - [[Rhett Garber]] - Mission badges/patches. Use Discourse? 
+                - [[Victor Hill]] - Learning with bagdes/patches 
+                - [[Venkatesh Rao]] - separate complexity and time length of learning and assign badges and the ultimate patch/badge is when the Rover lands on Mars
+                - [[Venkatesh Rao]] - game of matching gems. badges are depending the complexity of the game
+            - [[Venkatesh Rao]] - introduce badge/patch later in fall, "basically course defintion for a rover olympics"
+            - [[Eric Platon]] - Does the Arduino version solve the problem then is it better to buy the Arduino? 
+        - Links 
+            - https://meta.discourse.org/t/what-are-badges/32540
+            - {{[[video]]: https://www.youtube.com/watch?v=Ijir9Iok87M}}
+            - 
     - Sept 6: Anuraj, __Infinity and Beyond__
     - Sept 13: Rhett, __Stubborn__
     - Sept 20: Jascha, Special Topics
