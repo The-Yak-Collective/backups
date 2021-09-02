@@ -24,6 +24,17 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 67 [[September 1st, 2021]]
+        - participants:: [[Nathan Acks]] [[Maier Fenster]]
+        - notes::
+            It’s unclear whether we’ll be able to continue to scrape data from Discord like we do now. We think the smart money is that there will be a fork of our [our current bot library](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1) within the next few months. For now, bot development will focus on moving to slash commands and user interaction improvements, but we’re going to punt any back-end changes until [after the new year]([[January 1st, 2022]]). If we do need to rewrite the bots to use a new library (or start directly talking to the API ourselves), the deadline for the change is [[April 1st, 2022]].
+            [[Nathan Acks]] is feeling pretty good about being able to do the Knack CSS updates this week. After that, the next step is to move to pulling member data directly from Knack. But how do we avoid having to reprocess/download images every time we build? Ideas:
+                - [[Maier Fenster]] thinks we should just punt and hotlink to the image Knack stores in AWS.
+                - Another option would be to use JavaScript to hook the upload process, cropping the image __before__ it’s uploaded.
+                - [[Nathan Acks]] thinks that maybe we can run the image download through Cloudinary. We still need to download it, but Cloudinary’s CDN is fast, and by downloading the image during build we minimize the number of hits on their infrastructure.
+            There are some advantages to doing this in GitHub, rather than Netlify. So we may want to make the move to ActionsFlow __before__ beginning to pull data from Knack.
+            [[Maier Fenster]] will be missing the next [two]([[September 8th, 2021]]) [meetings]([[September 15th, 2021]]) because of holidays.
+    - ~~Infrastructure Chat 66~~ [[August 25th, 2021]]
     - Infrastructure Chat 65 [[August 18th, 2021]]
         - participants:: [[Nathan Acks]] [[Anuraj R]]
         - notes::
