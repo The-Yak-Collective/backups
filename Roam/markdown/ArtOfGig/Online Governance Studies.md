@@ -210,6 +210,8 @@ Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) 
 - [[Governance Tests]]
 - 
 - ## [[Governance Meetings Minutes]]
+- [[September 3rd, 2021]] [[Yak Gov Chat Minutes - The 9 types of people you find in coliving]]
+- [[August 27th, 2021]] [[Yak Gov Chat Minutes - xxxxxxxxxx]]
 - [[May 7th, 2021]] [[Yak Gov Chat Minutes - Chinese Anarchism]]
 - [[April 30th, 2021]] [[Crisp Collective Analysis]]
 - [[January 15th, 2021]]  [[Yak Gov Chat Minutes - Discovery and Serendipity]]
