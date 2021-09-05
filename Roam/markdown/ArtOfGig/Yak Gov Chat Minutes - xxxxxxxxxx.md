@@ -1,0 +1,10 @@
+- 
+- reading: ISE JINGU AND THE PYRAMID OF ENABLING TECHNOLOGIES
+    - [https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies](https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies)
+    - ![The first ceremonial trees being felled at the 61st sengu, 1993, via YouTube. Workers use the three-string cutting method, which controls the fall direction and prevents core tear-out.](https://images.squarespace-cdn.com/content/v1/594027566b8f5b6f0abad495/1625016540125-VOWYNUZ6C5NPXH5WQLC0/5eyxnu.gif?format=750w)
+    - ![Thatched roofs being made during the 61st sengu, 1993, via YouTube.](https://images.squarespace-cdn.com/content/v1/594027566b8f5b6f0abad495/1624993763000-AF90EB2C9GT0MRDUZKYG/5expps.gif?format=750w)
+    - > Brian Potter is a structural engineer and the author of the excellent [Construction Physics](https://constructionphysics.substack.com/) newsletter.
+    - 
+    - 
+- 
+- 
