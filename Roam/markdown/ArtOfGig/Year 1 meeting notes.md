@@ -1039,6 +1039,26 @@
             - {{[[video]]: https://www.youtube.com/watch?v=Ijir9Iok87M}}
             - 
     - Sept 6: Anuraj, __Infinity and Beyond__
+        - [Slides](https://docs.google.com/presentation/d/1Js7fY315cFg9Ntvges4qI3SgPa4-Sp7nwI9qyEY6Jc4/edit)
+        - Talk points
+            - Build update
+                - Waiting for parts for mechanical assembly of Infinity
+                - Python SDK based control of Beyond
+            - Human-Robot interactions
+                - Thesis on affordance based design
+                - Comparison of past rover missions
+                - Most before Curiosity and Perseverence were telerobotics
+                - Spirit holds distances record
+                - List of mission capabilities for past missions/affordances like sample collection, repair etc.
+        - Discussion points
+            - Affordances in design vs. engineering sense
+            - ESP32 mod for Beyond
+            - Connection between emergent abductive reasoning and affordances
+            - [Open AI research on hide and seek game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+            - Declarative programming as a command modality
+            - Program generation
+            - 3 laws of robotics applied to rovers
+                - Cheap rovers vs. expensive rovers/equipment
     - Sept 13: Rhett, __Stubborn__
     - Sept 20: Jascha, Special Topics
     - Sept 27: Plan fall and Year 1 strong endgame
