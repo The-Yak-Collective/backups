@@ -24,6 +24,7 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - ~~Infrastructure Chat 68~~ [[September 8th, 2021]]
     - Infrastructure Chat 67 [[September 1st, 2021]]
         - participants:: [[Nathan Acks]] [[Maier Fenster]]
         - notes::
