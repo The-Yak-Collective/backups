@@ -134,7 +134,6 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - Yuval Levin on [institutions losing power to mold character](https://www.nytimes.com/2020/01/18/opinion/sunday/institutions-trust.html)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
         - [Corey Robin, How intellectuals create a public](https://www.chronicle.com/article/how-intellectuals-create-a-public/)
-        - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
         - Essential Balances by Ivo Velitchkov (on Yak Roam), proposed by [[Benjamin P Taylor - London]] https://www.strategicstructures.com/wordpress/?page_id=2013
         - [Albert O. Hirschman](https://en.wikipedia.org/wiki/Albert_O._Hirschman), [Exit, Voice, and Loyalty](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty)
             - cf [[Mansion Statement]] here
@@ -183,6 +182,7 @@ Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) 
             -  https://en.wikipedia.org/wiki/Eumeswil
             - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386
         - {{[[DONE]]}} [Ivan Illich introduction](https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/) 
+        - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
     - **Queued**
         - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
         - Ivan illich
