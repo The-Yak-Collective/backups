@@ -1060,6 +1060,162 @@
             - 3 laws of robotics applied to rovers
                 - Cheap rovers vs. expensive rovers/equipment
     - Sept 13: Rhett, __Stubborn__
+        - Prompt - Slides - https://drive.google.com/file/d/1EdLaFf87cKph2gc21yQ_43K89n5S3MGZ/view
+            - Previous State
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FFwpoAXqXLX.png?alt=media&token=41d9531f-f0d3-49cd-accd-9e64cc1b9e8e)
+                    - control over serial
+                - Challenges
+                    - Summer
+                    - no telemetry when commands were sent
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXaOWYyYSAW.png?alt=media&token=b96ca986-763f-41f5-824d-c723a6b4bf78)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FEu5UZ696p0.png?alt=media&token=de79331b-b9ca-4ab1-964f-91783cdd58af)
+            - Fusion 360 a CAD software free for hobbyist
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FMely2BUByB.png?alt=media&token=20758712-9f80-4e1b-9828-1962493f4ca9)
+                - Some misalignments in photo packets
+                - Second camera tried out was ArduCam
+                    - Uses both SPI and I2C? Why?
+                    - [[Maier Fenster]] - SPI is faster and I2C is slower. SPI is for video maybe and I2C is for control
+                    - [[Rhett Garber]] - one byte off in the camera data return data
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZ81odxN-A-.png?alt=media&token=e362fafe-6a80-4dd5-8254-dfecd0149be9)
+                - much for flexible than previous version
+                - [[Anuraj R]] - what is the red board? 
+                    - [[Rhett Garber]] - the red board is a breakout boards
+                - [[Maier Fenster]] - many hats have ID eeproms for identification
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fu7M3qa_bOq.png?alt=media&token=229b8296-7759-4ad4-9f86-d958517aff2a)
+                - [[Maier Fenster]] - Why not python? 
+                    - [[Rhett Garber]] - already had done it in C
+                - gds - new component in Go
+                - [[Maier Fenster]] - What is the possibility for remote access from other places? 
+                    - [[Rhett Garber]] - Really close
+                - [[Maier Fenster]] - Trying out to figure the communication protocol between rovers with [[Victor Hill]]. Maybe some HTTP based protocol? 
+                - [[Victor Hill]] - We want to send command, information and data 
+                - [[Maier Fenster]] - just sending information is not super interesting. Maybe Rhett has Neural Network hardware, then a request could be send to Ml operations. 
+                    - usecase - one rover 
+                - [[Sai Prasanna]] - the commands are at an abstract level which is quite high right? 
+                    - [[Maier Fenster]] - same command can or cannot be execute on the different kinds of rovers. right now we want the rovers to be able to talk with each other and share processing capabilities. after that we want rovers to be able
+                - [[Venkatesh Rao]] - how does this connect to affordances and abductive reasoning. the HTTP based protocol seems that a declarative commands behind the scenes. 
+                    - [[Eric Platon]] - this line though goes further 
+                    - [[Venkatesh Rao]] - abductive synthesis? 
+                    - [[Eric Platon]] - this would be useful heterogenous rovers. lot of work to make a framework that works on different hardware
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fyj2Ec901zh.png?alt=media&token=0334dd6a-0811-4003-854c-d273e2f31cc0)
+                - Multiple devices accessing the same devices and mutexes seemed to solve the problem
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FPhW7nj_QPz.png?alt=media&token=1d8a907b-1d13-449b-80b4-b09967998d7c)
+                - how are we going to define interfaces for rovers? how does the design impact how other people join the project
+                - [[Maier Fenster]] - we should have someone talk about system engineering perspective from rover perspective
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F37fmyePuvR.png?alt=media&token=511b92da-ab1b-4271-9867-626823e54749)
+                - [[Eric Platon]] - the movie "short circuit" . it is comedy movie and 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F6sqADm2Uoh.png?alt=media&token=c2769c0e-afd0-4939-a94b-520f88d3fd71)
+                - just common to use tools that easy or nearby. this is not the same as being simple
+                - adding unix does not make it simple
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FdyQHrjj2Ri.png?alt=media&token=80f0693b-025f-4f09-9334-c208df930ed0)
+                - [[Venkatesh Rao]] - wherever there is a natural collaboration there are synergies
+        - Discussion
+        - Notes (Sai, )
+            - Challenges in the build
+                - Unstable connections on the breadboard
+                - Ground station has limited interface
+                    - Adruino only platform limits collabration options
+                        - Serial interface has problems
+                - Rewiring
+                    - Soldering, fitting on the chassis is tricky
+            - 3D printing - Treaded wheel
+                - fusion 360 modeling software
+                    - Has a change log like git commit history for modelling
+                - Made a wheel in 3d printer
+            - Arduino Cameras
+                - Initial Camera - Adafruit TTL Serial
+                    - Pretty limited camera, buggy.
+                    - Byte shifting error
+                        - Off by one byte
+                - Second camera - ArduCam Shield V2
+                    - A reasonable camera, has video
+                    - Two competing standards SPI, I2C
+                        - SPI + I2C
+                        - Anuraj: SPI - Faster than I2C 
+                        - Maier: SPI is could be used mainly for video due to low latency requirements
+            - Ground Station V2
+                - Raspberry Pi connects via wifi/vpn,
+                -  Wired in same transceiver RFM69
+                    - Circuit python
+                    - Didn't workout as good
+                - Breakout board for raspberry PI for proto-typing
+                    - Quarter of the cost of Rpi
+                - Linux is my Robot Operating System
+            - Software of the Ground station
+                - Use unix domain sockets to communicate between components.
+                - Rfm69
+                    - /dev/gpiomem, /dev/l2c-1
+                    - Python script that does radio interface
+                        - Client can connect to unix domain socket, write out to the radio.
+                - Comsock
+                    - Provide unix socket to comm layer
+                    - comsock
+                        - Provide command infrastructure 
+                            - C lang, already written for adruino, ported to rpi
+                - Ground data system
+                    - Dashboard for the rover
+                        - Uptime
+                        - Motor
+                        - Logs
+                        - Extensive telemetery
+                    - Update the command system to make it user friendly.
+                        - CLI system to control the rover to move, etc.
+                    - Super close to be able to do remote interface.
+                        - Installing OpenVPN in the rover helps this process.
+            - Communication between the rovers (Maier)
+                - HTTP interface between the rovers.
+                    - Web server gives commands. 
+                    - The commands can be executed as python script.
+                - Abstractions for rover communication
+                    - Command
+                        - HTTP
+                    - Information
+                    - Data
+                - What we want to do (long term)?
+                    - Sharing processing capabilities
+                    - Remote control for various tasks
+                        - One rover has algorithm to do something controls another rover.
+                            - e.g. Identify a door and move around it.
+                            - "Send me commands to move me through the doorway"
+                    - Rovers to learn from each other.
+                    - Find a way to abstract out the higher levels in the interface.
+            - Abductive Reasoning 
+                - VGR: What we want is declarative language that does abductive reasoning.
+                    - "It starts with an observation or set of observations and then seeks the simplest and most likely conclusion from the observations"
+                        - Maybe we want abductive synthesis.
+                    - CSS for robot affordances computed using reasoning.
+                - Eric: Abductive reasoning is intimidating word, but might be simple to implement at times.
+                    - Rover framework is where issues of reasoning comes up. As we build the ontology of the rover abstractions adaptable to different hardware.
+                        - ROS works well with anything with wheels, for legs there is work to do.
+            - Telemetry 
+                - Grafana for dashboard using telemetry.
+                    - Data agnostic web interface with multiple data backends
+                - Shared telemetry across rovers.
+            - Challenges 
+                - Running radio in python
+                    - Python sucks as it's not realtime.
+                    - There are proble
+                - Unexpected portability problems in networking code.
+            - System Engineering and Rovers 
+                - Thinking about rovers at different levels of abstractions (which is important problem of systems engineering).
+                - Making decisions about interfaces.
+                - Would be nice to hear about system engineering in rover designs.
+                - Some Hamming Quotes from Art of Engineering
+            - Misc
+                - Short Circuit Movie 
+                    - Eric Allard https://m.imdb.com/name/nm0020063/
+                    - Taking to him might help with systems engineering.
+                - Rhegtt
+                    - Systems engineering is similar to software engineering
+                - Systems engineering course MIT OCW
+                    - Bureaucratic
+                - Elon Musk wandering around SpaceX videos
+                    - Unlearning aspects of "systems engineering"
+                - Simple Made Easy - Rich Hickey
+                    - Is ROS - Simple or Easy?
+                - Synergy
+                    - vgr: Trying to do OSS for hardware collabration with fun.
+                        - We will hit least common denominator
     - Sept 20: Jascha, Special Topics
     - Sept 27: Plan fall and Year 1 strong endgame
 - ---
