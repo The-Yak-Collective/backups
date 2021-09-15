@@ -1,0 +1,5 @@
+- CDK event planner 
+- the catalogs to be created 
+    - unable to use internet explorer - ask tammy if theres a way around? 
+    - we have other details from Alanna 
+- 

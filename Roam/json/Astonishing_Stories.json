@@ -31265,8 +31265,84 @@
   {
     "create-time": 1631612621240,
     "title": "September 14th, 2021",
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    "children": [
+      {
+        "string": "CDK event planner ",
+        "create-time": 1631630928869,
+        "uid": "1GWlbpc-Q",
+        "edit-time": 1631630933040,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      },
+      {
+        "string": "the catalogs to be created ",
+        "create-time": 1631630933388,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "children": [
+          {
+            "string": "unable to use internet explorer - ask tammy if theres a way around? ",
+            "create-time": 1631639849238,
+            "uid": "Y4z3PJHop",
+            "edit-time": 1631639871174,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "we have other details from Alanna ",
+            "create-time": 1631639862037,
+            "uid": "mBpOyXHvQ",
+            "edit-time": 1631639878104,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          }
+        ],
+        "uid": "7wCahSKmO",
+        "edit-time": 1631630942062,
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1631639892860,
+        "uid": "MBLT5lQ3I",
+        "edit-time": 1631639892860,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      }
+    ],
     "uid": "09-14-2021",
     "edit-time": 1631612621240,
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1631699027405,
+    "title": "September 15th, 2021",
+    "uid": "09-15-2021",
+    "edit-time": 1631699027405,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },
