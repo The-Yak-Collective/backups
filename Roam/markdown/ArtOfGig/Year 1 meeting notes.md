@@ -1217,6 +1217,153 @@
                     - vgr: Trying to do OSS for hardware collabration with fun.
                         - We will hit least common denominator
     - Sept 20: Jascha, Special Topics
+        - Sensors - a transducer. Actuators 
+            - Actuators - signals goes bidirectional
+            - [[Rhett Garber]] - What is a transducer? 
+                - [[Jascha Wilcox]] - Converts one form of energy to another
+            - [[Venkatesh Rao]] - A transfer function that is invertible - sensor and actuator is is physical. Control theory definition
+        - [[Venkatesh Rao]] - Different proprioceptive sensor
+        - [[Jascha Wilcox]] - How to measure tendon force? In tendon when they are perturbed the tension in them can be calculated
+            - [[Venkatesh Rao]] - In a spy movie, bounce a laser and detect voice. 
+            - [[Jascha Wilcox]] - Laser Microphone? 
+            - [[Jascha Wilcox]] - In MRI, resonance is measured but at the atomic level
+            - [[Venkatesh Rao]] - How are the depth of ice caps are measured? 
+        - [[Rhett Garber]] - Energy Expense? 
+        - [[Jascha Wilcox]] - Accuracy is expensive. 
+            - [[Venkatesh Rao]] - For precise measurement, the more energy needs to be put in 
+        - [[Jascha Wilcox]] - Automotive Camera with programmable ROI
+        - [[Jascha Wilcox]] - for camera sensor, binning is just grouping of pixels
+            - [[Venkatesh Rao]] - Covid testing eg. called pool testing.
+            - [[Rhett Garber]] - Difference between binning and sampling? 
+            - [[Venkatesh Rao]] - photograph of spinning fans
+            - [[Eric Platon]] - Hard to get good picture of TV with digital camera
+        - [[Jascha Wilcox]] - How a DSLR works video by Smarter Every Day
+            - Global vs Rolling Shutters
+                - In global all the captured photons are read out together
+        - [[Jascha Wilcox]] - For self driving cars, one wants to run inference on all the cameras together. On camera compute may not be useful for every case
+            - [[Venkatesh Rao]] - Different use cases  if inference to be done camera or not. Interesting to look beyond self driving cars
+            - [[Venkatesh Rao]] - Two antenna system on Perseverance
+        - [[Jascha Wilcox]] - Vision based skin for robots? Which sensors are trying to eat each other? 
+        - [[Venkatesh Rao]] - Which sensors cannot be eaten?  Diet calorie counting with photo. Hard to do with camera
+        - [[Jascha Wilcox]] - Healthy.io Kidney tests. convert chemical data to colour and then use vision pipline.
+            - [[Venkatesh Rao]] - This is two sensors in series
+        - [[Jascha Wilcox]] - Camera based heart rate sensors
+        - [[Venkatesh Rao]] - image compression for ML
+        - [[Venkatesh Rao]] - HRV has become a holy grail, everything is being tried to measure multiple stuff
+            - [[Jascha Wilcox]] - This is because the sensor to measure HRV is commoditized 
+        - [[Jascha Wilcox]] - Sesning environment with rummaging
+            - [[Venkatesh Rao]] - Chinese game for monks
+        - [[Venkatesh Rao]] - for human senses the active part is has been centralized in the brain but the actual sensor is not active
+        - [[Venkatesh Rao]] - neuroplaticity of brain and human sensing changes
+        - [[Jascha Wilcox]] - whiskers are interesting sensors, good example of sensor-actuator combination. They do work in vacuum so might be interesting to put on a rover
+        - [[Eric Platon]] - Difficult to replace earth quake detector
+        - [[Eric Platon]] - weighing scale with cameras
+        - Notes (sai)
+            - jascha
+                - Sensor Definitions: Energy flows one directional in sensor, bi-directional in case of actuator.
+                - Passive vs Active Sensor
+                    - Active - Converts energy it sources
+                    - Passive - Gathers energy from environment
+                - Transducer - Converts energy from one form to another.
+            - vgr
+                - Actuator acts on the world, sensor vanishes.
+                - Sensor is transfer function and convolution.
+            - jascha 
+                - Thinking of sensor as a question answering device, very often sensor output is adequate, question has to be answered by computation.
+                - Sensors eating sensors
+                    - Complex sensors answers directly vs simple sensors with computation
+                    - Trying to measure mass - Scale vs Roundabout way using some stuff (bank robbery movie)
+            - vgr
+                - Thin sensor fat processor vs vice versa
+                - Observability
+                    - Human sense - Directed sense (eyes, ears little, nose least control)
+                    - Drawing distinction between known unknown question answering vs unknown unknown situation awareness sensor
+            - jascha 
+                - Measuring muscular tension - Peturb tendon and measure reverb to measure tension.
+            - vgr
+                - Astronomy - Can't Probe anything directly.
+                - Laser Microphone - Glass
+                - Structure of ice caps
+            - jascha 
+                - Notion of Question answering with energy impacts architecture.
+            - Sensor availability, Power to inference
+            - rhettg - Accuracy takes more energy
+            - jascha - Fixed bandwidth vs Accuracy - Resolution vs Framerate
+            - vgr - Multiple phenomena like statistical limits (bias variance trade off,??) and Nyquist Frequency Limit
+            - jascha Binning - Reduces noise
+                - Resolution, Framerate, Noise - 3 constraints
+            - vgr 
+                - Fast spinning propeller measuring with digital camera, creates weird distortion due to framerate and frequency of phoenomena getting near.
+            - eric- Image of television flickering is another example (Stroboscophic effect)
+            - jascha - DSLR - flashing - strobe sync speed
+                - Notion of Global vs rolling shutters
+                - Artifacts due to rolling shutters in fast moving environments have implication for classification with machine learning.
+            - jascha - General Trend 
+                - Everyone is moving towards vision
+                - Tesla AI day
+                    - Distributed compute vs centralized compute
+                    - Fault tolerant system
+                        - Sensor fusion and redundancy relates to self driving cars needing to be more error free
+                - Very few people making vision processors
+                - Skeptical of inference or compute in camera (unlike what George Hortz answered Elon)
+            - vgr
+                - Interfeometry is one extreme
+                - What kind of datastructure in thing we are sensing?
+                    - Embarassingly parallel - Tiny dot in canvas
+                        - Doing inference in camera makes sense
+                    - Autonomous driving - Things might not fit into one sensor, need fusion and can't do in sensor
+            - jascha - Notion of Scaling 
+                - If you don't know what you're looking for , you have issues.
+                - Perseverance solves it with two antennae. One to find Earth, then narrow field one to talk to earth.
+                - Vision based "skin" - Cameras everywhere on robot would be it's skin is a notion that's emerging.
+                    - Vision can be used to perform lot of other things.
+                    - Lidar and cameras
+            - vgr - what sensors can't replace another sensor?
+                - Diet apps using camera suck/impossible. Finding fat content using gloss is hard.
+            - jascha - Urine analysis - "Catalyst" , intermediary transducer that is color test script, then you can take photo of test script and do vision based processing. 
+            - vgr - Vision is like what happened to electricity
+                - Instead of measuring some other signal, measure locally and convert to electric pulse.
+                - Electricity ate sensing 150 years ago.
+            - jascha - What conversions between sensors are missing?
+                - Gas meter with camera in front of it.
+                - If it's human readable, it can be consumed by vision.
+            - vgr - Primates, vision became much more powerful and ate other sensors in biology
+                - Biological precedent of sensors eating sensors
+            - vgr, jascha - Smell is a meta sensor with multiple molecule detection sensor..
+            - jascha - Color Amplification
+                - Take people's pulse across teh room
+                - Respiration rate and heart rate using camera
+            - jascha - Most biological sensors are passive (echolocation is active, maybe tactile sense is active)
+                - Rummaging - Occluded environment (bin, use touch to find objects in a bin without vision)
+            - vgr - Positioning makes sensing active
+            - sai - Grey area between active and passive sensor
+            - jascha - example whiskers - sensor/actuators forming a active sensor
+                - Whiskers work in vaccum
+            - vgr - Better way to think is to think of sensor's state with respect to energy transformation rather than the just seeing sensor in isolation.
+                - Rummaging can be thought of as impulse frequency response of injecting white noise into the bin with hand.
+            - jascha - Lidar is something not natural, vision is natural but sold as something that goes to super human (super natural) level.
+                - Lidar is direct measurement, Camera is indirect measurement
+            - rhettg - Is camera's more popular because of costs getting lower due to consumer electronics
+            - jascha - Sound as sensor - Ultrasound can be used for handtracking.
+            - eric - Earthquake detector is hard to replace with vision
+                - If you use camera, it will take too late to give an alert.
+            - jascha - Pushback on earthquake det with camera, it can do it but with low precision maybe.
+            - vgr - Deforestation detection using sound with chainsaws, Earthquakes seems little bit of a stretch.
+                - Cameras are versatile as lot of things have visual signature.
+            - eric - Weighing scales 
+                - Weighing without scales using camera.
+                - Human ability to weigh with eyes. 
+                - We can be pretty accurate, with 5% error rate (in their systems in his company) and improving. 
+                - Used in farms for animals 
+            - eric - Tomato ripeness detection
+                - Thermal cameras - company gave up
+                - Another company used a proxy, take images from camera.
+            - eric - Vision systems (camera + compute) is eating other sensors
+                - jw - Why not lidar?
+                    - eric - Much easier tech, 3d cameras didn't work well.
+            - jascha - Big sensors
+                - Continuous Glucose level monitoring
+                - MRI - not incremental, lot of things had to be figured out to 
     - Sept 27: Plan fall and Year 1 strong endgame
 - ---
 - PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
