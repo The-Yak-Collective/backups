@@ -24315,22 +24315,6 @@
                     ":edit/user": {
                       ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
                     }
-                  },
-                  {
-                    "string": "[[Chris Butler]]\n[Pattern Detected](https://docs.google.com/document/d/1il8vklPABd9MV-4t5MHyeFHqJPukGKVGSS7U2ODhb7c/edit#)",
-                    "create-time": 1626836094221,
-                    "refs": [
-                      {
-                        "uid": "bOWtpNePH"
-                      }
-                    ],
-                    "uid": "nGJB2udAG",
-                    "edit-time": 1626836095408,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "bOWtpNePH"
-                      }
-                    ]
                   }
                 ],
                 "uid": "qzP0lfjX7",
@@ -30671,18 +30655,6 @@
     }
   },
   {
-    "create-time": 1627984032858,
-    "title": "Anonymous",
-    "uid": "0jmuPCgtD",
-    "edit-time": 1627984032858,
-    ":create/user": {
-      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
-    },
-    ":edit/user": {
-      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
-    }
-  },
-  {
     "create-time": 1627984032862,
     "title": "August 3rd, 2021",
     "uid": "08-03-2021",
@@ -30754,18 +30726,6 @@
     "edit-time": 1628502411860,
     ":edit/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
-    }
-  },
-  {
-    "create-time": 1628519971530,
-    "title": "Anonymous_1",
-    "uid": "e7jwQHYeQ",
-    "edit-time": 1628519971530,
-    ":create/user": {
-      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
-    },
-    ":edit/user": {
-      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
     }
   },
   {
@@ -30948,18 +30908,6 @@
     },
     ":edit/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
-    }
-  },
-  {
-    "create-time": 1629391120690,
-    "title": "Anonymous_2",
-    "uid": "RgcFd1IdE",
-    "edit-time": 1629391120690,
-    ":create/user": {
-      ":user/uid": "1rhr6Y97lEPukzK1rlKf1vPy8Hc2"
-    },
-    ":edit/user": {
-      ":user/uid": "1rhr6Y97lEPukzK1rlKf1vPy8Hc2"
     }
   },
   {
@@ -31427,6 +31375,30 @@
     "title": "September 22nd, 2021",
     "uid": "09-22-2021",
     "edit-time": 1632303827508,
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1632390274007,
+    "title": "Anonymous",
+    "uid": "YmWpD9ZCt",
+    "edit-time": 1632390274007,
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1632390274011,
+    "title": "September 23rd, 2021",
+    "uid": "09-23-2021",
+    "edit-time": 1632390274011,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },

@@ -55,8 +55,6 @@
             - [[Paul Sas]] [[Quarentiny Portals]]
             - [[Sachin Benny]] DeLimerence 
                 - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2FpqBu1lZQMI.pdf?alt=media&token=a0928902-ef0c-4da9-aa7c-e365db7cdddc}}
-            - [[Chris Butler]]
-[Pattern Detected](https://docs.google.com/document/d/1il8vklPABd9MV-4t5MHyeFHqJPukGKVGSS7U2ODhb7c/edit#)
         - In Editor review
             - 
         - Committed to layout
