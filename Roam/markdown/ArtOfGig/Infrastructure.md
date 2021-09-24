@@ -24,6 +24,12 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 70 [[September 22nd, 2021]]
+        - participants:: [[Maier Fenster]] [[Nathan Acks]] [[Anuraj R]]
+        - notes::
+            - Mostly just talking about various software/hardware problems we’re all running into.
+            - [[Nathan Acks]] also gave [[Maier Fenster]] and update about the state of [[Knack]] integration. [[Maier Fenster]] is interested in integrating Knack and the gig list process to maybe help send folks email. [[Nathan Acks]] would like user activity information to eventually be pushed from [[Discord]] into Knack.
+    - ~~Infrastructure Chat 69~~ [[September 15th, 2021]]
     - ~~Infrastructure Chat 68~~ [[September 8th, 2021]]
     - Infrastructure Chat 67 [[September 1st, 2021]]
         - participants:: [[Nathan Acks]] [[Maier Fenster]]
