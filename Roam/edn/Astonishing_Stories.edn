@@ -62,6 +62,7 @@
  :datoms
  [[1 :block/uid "86RlNgFSD" 536878990]
   [1 :user/color "rgb(117,132,156)" 536870913]
+  [1 :user/display-page 3054 536882033]
   [1 :user/email "sachben91@gmail.com" 536870913]
   [1
    :user/settings
@@ -24972,8 +24973,8 @@
   [2866 :version/id "0.8.6" 536881265]
   [2866
    :version/nonce
-   "uuid730bd765-7d1b-4385-9951-eb10f4e0016f"
-   536881709]
+   "uuidb8d9abc1-cd97-4213-8dd0-ee33f81a9990"
+   536882036]
   [2867 :block/uid "06-12-2021" 536881266]
   [2867 :create/time 1623491321849 536881266]
   [2867 :create/user 2367 536881266]
@@ -25355,6 +25356,7 @@
   [2924 :edit/user 2367 536881706]
   [2924 :log/id 1625910404163 536881706]
   [2924 :node/title "July 10th, 2021" 536881706]
+  [2925 :block/children 3055 536882035]
   [2925 :block/uid "07-11-2021" 536881707]
   [2925 :create/time 1625996773121 536881707]
   [2925 :create/user 2367 536881707]
@@ -25683,8 +25685,8 @@
   [2999 :version/id "0.8.8" 536881952]
   [2999
    :version/nonce
-   "uuid86bce426-cbf9-486b-b3dc-ff9623388be0"
-   536882032]
+   "uuidb0aa7dc4-1ba7-4d61-80cb-994d9632b9f1"
+   536882039]
   [3000 :block/uid "08-13-2021" 536881953]
   [3000 :create/time 1628847954541 536881953]
   [3000 :create/user 2367 536881953]
@@ -26068,10 +26070,44 @@
   [3052 :edit/user 2367 536882031]
   [3052 :log/id 1632649385276 536882031]
   [3052 :node/title "September 26th, 2021" 536882031]
+  [3053 :block/children 3056 536882037]
   [3053 :block/uid "09-27-2021" 536882032]
   [3053 :create/time 1632735843904 536882032]
   [3053 :create/user 2367 536882032]
   [3053 :edit/time 1632735843904 536882032]
   [3053 :edit/user 2367 536882032]
   [3053 :log/id 1632735843903 536882032]
-  [3053 :node/title "September 27th, 2021" 536882032]]}
+  [3053 :node/title "September 27th, 2021" 536882032]
+  [3054 :block/uid "Z52FdUYmn" 536882033]
+  [3054 :create/time 1632776026183 536882034]
+  [3054 :create/user 1 536882034]
+  [3054 :edit/time 1632776026183 536882034]
+  [3054 :edit/user 1 536882034]
+  [3054 :node/title "Anonymous_1" 536882034]
+  [3055 :block/open true 536882035]
+  [3055 :block/order 0 536882035]
+  [3055 :block/page 2925 536882036]
+  [3055 :block/parents 2925 536882036]
+  [3055 :block/string "" 536882035]
+  [3055 :block/uid "SP2bqGlPc" 536882035]
+  [3055 :create/time 1626020492386 536882035]
+  [3055 :create/user 1 536882035]
+  [3055 :edit/time 1626020492386 536882035]
+  [3055 :edit/user 1 536882035]
+  [3056 :block/open true 536882037]
+  [3056 :block/order 0 536882037]
+  [3056 :block/page 3053 536882038]
+  [3056 :block/parents 3053 536882038]
+  [3056 :block/string "" 536882037]
+  [3056 :block/uid "l9h3crIhE" 536882037]
+  [3056 :create/time 1632796572653 536882037]
+  [3056 :create/user 1 536882037]
+  [3056 :edit/time 1632796572653 536882037]
+  [3056 :edit/user 1 536882037]
+  [3057 :block/uid "09-28-2021" 536882039]
+  [3057 :create/time 1632822253050 536882039]
+  [3057 :create/user 2367 536882039]
+  [3057 :edit/time 1632822253050 536882039]
+  [3057 :edit/user 2367 536882039]
+  [3057 :log/id 1632822253049 536882039]
+  [3057 :node/title "September 28th, 2021" 536882039]]}

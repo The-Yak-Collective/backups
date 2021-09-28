@@ -1364,7 +1364,83 @@
             - jascha - Big sensors
                 - Continuous Glucose level monitoring
                 - MRI - not incremental, lot of things had to be figured out to 
-    - Sept 27: Plan fall and Year 1 strong endgame
+    - Sept 27: Open Forum
+        - language
+            - what level of abstraction
+            - connection to affordances
+            - code free for automation
+                - ladder logic as old example
+            - https://cliport.github.io/
+            - RCC and TIC
+            - What does it mean to turn? Go forward?
+                - Philosophy problem
+            - Shared context is necessary
+            - Language to describe capabilities and what it is
+                - Affordances are one way to describe what you are and what you can do
+            - Broadcast/discovery
+                - "hey I have storage"
+                - "hey I have gpu capability"
+        - affordances
+            - Affordances are "object action relationships"
+                - "What the environment offers to be done on it" -- Gibson
+            - Rhett -- are they nouns or verbs?
+            - An API is a published set of affordances
+            - Robot framework https://robotframework.org/
+                - General to any software domain
+                - You can define keywords, which are composable
+                - Like a DSL
+                    - What is a least common denominator definition of "roving"
+                        - Most fundamental thing = "we are moving"
+                        - "don't run into me"
+                        - 
+            - What is IFTTT
+                - Sai: Wittgensteinian connection between language/reality via verbs
+        - Missions and environments
+            - Diversity in missions -- correlated to diversity in failures/designs
+            - 3 kinds of environments
+                - Modules
+                - Natural raw materials
+                - Spare parts
+        - homogeneity/heterogeneity
+            - If you could deploy 100 rovers on Mars, what would they be?
+                - If a 1000 rovers, but 100 a month?
+            - Precedent = air forces (JSF)
+            - Missions --> heterogeneity
+            - DNA is homogeneous, species are heterogenous
+        - modularity/scavenging 
+            - Base station with "spare parts"
+                - spare parts are not "modules"
+                    - Pickle Rick as holy grail
+                - Correlation between failures, all need the same spare part
+                    - "Failure statistics" of modular/parts based systems
+            - What is the smallest unit we could share among robots
+            - "What are the base pairs of rover robotics"?
+                - Eg: Eric Klavins triangle robots
+                - Mars meter-scale "gray goo" https://www.youtube.com/watch?v=AIrH01N9AsE
+                    - gray goo is normally associated with uncontrolled replication
+                - DuAxel robots (JPL) https://www.jpl.nasa.gov/robotics-at-jpl/duaxel
+                - Self replication robots example https://www.livescience.com/251-robots-clone.html
+                - https://www.epfl.ch/labs/biorob/research/modular/roombots/
+            - Tradeoffs of modularity
+                - load-bearing things might be hard to build
+                - all are extraordinarily suboptimal (mass etc)
+                - Modules are waterfall designs, only a few pre-configured options
+                    - Closed world learning scope
+                    - More extreme in grey-goo self-replication
+        - abductive reasoning
+        - virtualization
+        - simulation
+        - standardization
+        - horizontal vs. vertical integration for robotics
+            - system boundary vs. system interface directions
+            - subsystem level standards
+            - Horizontal example -- industrial automation
+                - defined by larger players
+            - Vertical example -- lab automation/equipment
+            - Is "cubesats for rovers" a good direction
+            - off the shelf standards as pre-horizontal/vertical
+        - ...?
+    - Oct 4: Plan fall and Year 1 strong endgame
 - ---
 - PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
 - ---
