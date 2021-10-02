@@ -3,12 +3,10 @@
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
 - Created:: [[May 4th, 2020]] by [[Venkatesh Rao]]
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
-- Last Updated:: [[November 19th, 2020]] by [[Venkatesh Rao]]
-- Last Gardened:: [[November 20th, 2020]] by [[Jenna Dixon]]
 - We currently have 3 tracks of readings: General, Platforms, Anarchism. Each features a backlog of short readings (must be free, reasonably browsable within 15 minutes, and text... no video/audio). We pick one to read and discuss every Friday morning at 9 AM in the governance chat
 - [[Glossary]]
 - [[Governance Readings Six Pager]]
-- **Platforms Track** — [[Grigori Milov]]
+- **Platforms Track** — [[Grigori Milov]]^^^^
     - **Completed**
         - {{[[DONE]]}} A piece about a hierarchy of marketplaces. It refers to some thinking of Bill Gurley, among other things, who deserves a lot of attention.
             - https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
