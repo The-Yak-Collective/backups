@@ -2,6 +2,7 @@
 - [[Wonderful Wandering Growth]] by [[Maier Fenster]]
 - [[YR Infinity and Beyond]] by [[Anuraj R]]
 - [[YR Abio Flex Wanderer]] by [[Eric Platon]]
+    - Target for Dec 13th demo day: Show how a bot can build internal models of its environment automatically (e.g. what is a leg in "data space", what is a rock). This is the base of this build plans about autonomy.
 - [[YR: Nature is Murder]] by [[Venkatesh Rao]]
 - [[YR Go and See]] by [[Victor Hill]]
 - [[Stubborn Pursuit of a Path]] by [[Rhett Garber]]

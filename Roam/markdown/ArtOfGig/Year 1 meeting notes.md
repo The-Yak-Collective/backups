@@ -1427,8 +1427,12 @@
                 - Modules are waterfall designs, only a few pre-configured options
                     - Closed world learning scope
                     - More extreme in grey-goo self-replication
-        - abductive reasoning
-        - virtualization
+            - Examples:
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Ffdy5VVbkBQ.png?alt=media&token=b7a13366-123a-42bd-8512-cf02021cba7c)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FeMysuPiwao.png?alt=media&token=25f4e18d-434a-4861-a926-8c931e30aae2)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXbX_kO01Tl.png?alt=media&token=cf8a60e8-57ca-4d8e-8b5a-477388c40c85)
+        - abductive reasoning: Basically the ability to create "options" when executing a task, to avoid grinding to a halt. Difficulties related to safety.
+        - virtualization ⇄ related to modular robotics, creating HW plane and SW planes
         - simulation
         - standardization
         - horizontal vs. vertical integration for robotics
@@ -1441,6 +1445,76 @@
             - off the shelf standards as pre-horizontal/vertical
         - ...?
     - Oct 4: Plan fall and Year 1 strong endgame
+- [[October 4th, 2021]] -- Project management special
+    - DEMO event for fall
+        - Date -- Dec 13-20 week
+        - Objective
+            - Convert/recruit
+                - Make it easier for people to interact with our robots
+            - Some form of deadline/force us to deliver
+            - Talk about project with larger group
+            - Open House
+        - Medium (table to prep meeting)
+            - Twitch -- squad stream -  4 creators in 1 window
+            - Zoom (default option)
+            - Gather town
+        - Target audience
+            - More doer-members
+        - What is the ask
+            - Please join
+            - Please build a robot
+            - Please work on this X task (Technical)
+            - Please work on Y task (support)
+        - What can we offer
+            - Audience
+            - Justify the existence of the community
+                - Achievements
+        - Scope
+            - Short term
+            - Long term
+                - Discource as badge system
+        - Content
+            - Keep it aligned to the Mars theme
+                - Delay etc.
+            - Only us or other people to present?
+                - Open, but not a contest
+            - Demo content
+                - Spider demo with n=3/4
+                - Others, do something with where you are
+                - Something to do with the Docker
+                - Anuraj drone
+            - Interactive demos vs. winter school
+            - Badges award ceremony
+                - A way to tell the story
+        - TODO
+            - Improve the web page
+                - Timeline view of each build, showing badges, etc.
+            - Improve sign-up workflow
+            - FAQ
+    - Potential agenda 8 hours
+        - Do some sort of mission 
+        - Ambitious: Review/game tapes discussion
+        - Conservative: ??
+        - Extremely conservative: photos of all rovers
+- Cycle 5
+    - Oct 11 ?? Maier may take this on Wed
+    - Oct 18 Venkat
+    - Oct 25 Anuraj 
+    - Nov 1  Eric
+    - Nov 8 Sai first demo  (30 min) + Milestone meeting (30 min)
+        - Milestone meeting... ???
+            - Detailed event plan from Venkat
+            - Option choices for how to do the event
+            - Can we pull off a hackathon (ourselves + other participants)
+    - Nov 15 Rhett
+    - Nov 22 Victor
+    - Nov 29 Jascha
+    - Dec 6 PLANNING WEEK SLOT
+    - Dec 13-20 DEMO DAY (6-8 hours) 
+    - Dec 20 slack
+    - Dec 27 * No meeting, holiday week
+    - January 3 [[Yak Rover Year 2 kickoff]]
+- 
 - ---
 - PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
 - ---
