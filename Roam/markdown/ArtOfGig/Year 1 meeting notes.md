@@ -1498,6 +1498,42 @@
         - Extremely conservative: photos of all rovers
 - Cycle 5
     - Oct 11 ?? Maier may take this on Wed
+        - Current Status
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FJM1PxpQj0J.png?alt=media&token=985cb675-113f-4e39-8285-1e9de64acf45)
+            - Bus problem improvement
+                - solved by new hardware PL2303
+                - checksum wrong and increasing delay solved communication problems
+                - [[Anuraj R]] - Logic Analyzers to debug protocols
+            - Command Enrichment
+                - Improve action groups 
+            - Sequence command improvments
+                - added more commands
+                    - pause, wait/nowait, push/pop
+                - planned
+                    - smoothing, general timing
+                - Evasive actions
+        - Rover Liberation
+            - Tennyson poem
+            - Baby steps towards freedom
+                - built-in personality, inner activity, sense of rhythm, closing the loop
+                - Built In Personality
+                    - built mechanism allowing easy variation of activities
+                    - variation is on low level for now
+                    - paper on pacing 
+                - Sense of rhythm gaits are repetitive
+                    - dancing robots, roombas,
+            - What does the rover want to do? 
+                - start with creating a rhythm
+                - reference task
+                - not critical 
+                - [[Rhett Garber]] 
+                    - keep moving
+                    - seeking novelty
+                - [[Venkatesh Rao]]
+                    - depending of energy reserves different gaits
+                    - snake charmers and snakes
+                    - take risks in gait depending safety and energy
+                    - 
     - Oct 18 Venkat
     - Oct 25 Anuraj 
     - Nov 1  Eric
