@@ -31474,6 +31474,18 @@
         ":edit/user": {
           ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
         }
+      },
+      {
+        "string": "",
+        "create-time": 1632779999151,
+        "uid": "VvVguLT67",
+        "edit-time": 1632779999151,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
       }
     ],
     "uid": "09-27-2021",
@@ -31667,6 +31679,18 @@
     "title": "October 12th, 2021",
     "uid": "10-12-2021",
     "edit-time": 1634031836941,
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1634118305878,
+    "title": "October 13th, 2021",
+    "uid": "10-13-2021",
+    "edit-time": 1634118305878,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },
