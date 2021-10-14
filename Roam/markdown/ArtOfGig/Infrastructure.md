@@ -24,6 +24,31 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 73 [[October 13th, 2021]]
+        - participants:: [[Maier Fenster]] [[Nathan Acks]] [[Sachin Benny]] [[Venkatesh Rao]]
+        - notes::
+            Maybe embed a Discord widget in our site?
+            [[Maier Fenster]] really wants to know “how many people are in the [[Yak Collective]]?”
+            [[Sachin Benny]] agrees that it would be good to trim people.
+            [[Nathan Acks]]: I think there are three buckets we’re talking about…
+                - Census of yaks (active, lurker, checked-out)
+                - Trimming deadweight
+                - Aligning external representation with actual activity
+            [[Maier Fenster]] just wants to totally trim people who haven’t been on Discord in the last month or so. Trim deadweight as a one-time process — ping everyone, say, three times. Require that they update their information in Knack. Then boot everyone who hasn’t set a password after X weeks.
+            Maybe we just pull their @yak status.
+            Would DMing everyone on the server be spamming? We need to figure this out. Maybe review the Discord ToS? [[Maier Fenster]] is going to ping Discord support about this.
+            [[Sachin Benny]] and [[Venkatesh Rao]] want to restart Astonishing Stories. How to get access?
+            [[Nathan Acks]] wonders if they should reprioritize simplification.
+            [[Venkatesh Rao]] thinks that [[Nathan Acks]] should stick to the current schedule. Timeline is that Knack __and__ simplification needs to be ready for [[December 1st, 2021]].
+            If we’re going to something around NFTs, not only do we need something way easier for people to use, but we also need __stable__ URLs. It needs to be __super easy__ for people to post content. How can we add hooks for NFTs, etc.? How do we integrate with blockchain in general?
+            [[Nathan Acks]] wonders if we can put things in IPFS?
+            [[Venkatesh Rao]] notes that ENS is an Ethereum-based DNS service.
+            [[Nathan Acks]] mentions Obsidian + Obsidian Publish. This may not be as suitable for NFT-like things. (Maybe there’s a way we can turn this into something without needing Publish.)
+            [[Venkatesh Rao]] mentions the Athens projects.
+            [[Venkatesh Rao]] mentions that we need a concept of “types” or “levels” of inactivity.
+    - Infrastructure Chat 72 [[October 6th, 2021]]
+        - participants:: [[Maier Fenster]] [[Nathan Acks]]
+    - ~~Infrastructure Chat 71~~ [[September 29th, 2021]]
     - Infrastructure Chat 70 [[September 22nd, 2021]]
         - participants:: [[Maier Fenster]] [[Nathan Acks]] [[Anuraj R]]
         - notes::
