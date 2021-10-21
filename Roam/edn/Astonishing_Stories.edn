@@ -25685,8 +25685,8 @@
   [2999 :version/id "0.8.8" 536881952]
   [2999
    :version/nonce
-   "uuid4fa17990-dc24-4948-8f24-8b94a4b8ea95"
-   536882063]
+   "uuid8af3c392-f892-47ec-8172-5fecd9062e66"
+   536882103]
   [3000 :block/uid "08-13-2021" 536881953]
   [3000 :create/time 1628847954541 536881953]
   [3000 :create/user 2367 536881953]
@@ -26269,10 +26269,148 @@
   [3079 :edit/user 2367 536882062]
   [3079 :log/id 1634636705236 536882062]
   [3079 :node/title "October 19th, 2021" 536882062]
+  [3080 :block/children 3081 536882064]
   [3080 :block/uid "10-20-2021" 536882063]
   [3080 :create/time 1634723061132 536882063]
   [3080 :create/user 2367 536882063]
   [3080 :edit/time 1634723061132 536882063]
   [3080 :edit/user 2367 536882063]
   [3080 :log/id 1634723061132 536882063]
-  [3080 :node/title "October 20th, 2021" 536882063]]}
+  [3080 :node/title "October 20th, 2021" 536882063]
+  [3081 :block/children 3082 536882069]
+  [3081 :block/children 3083 536882071]
+  [3081 :block/children 3084 536882077]
+  [3081 :block/children 3085 536882083]
+  [3081 :block/children 3086 536882089]
+  [3081 :block/children 3087 536882093]
+  [3081 :block/children 3088 536882097]
+  [3081 :block/children 3089 536882100]
+  [3081 :block/open true 536882064]
+  [3081 :block/order 0 536882064]
+  [3081 :block/page 3080 536882065]
+  [3081 :block/parents 3080 536882065]
+  [3081
+   :block/string
+   "what if a pixel in an nft comes alive "
+   536882066]
+  [3081 :block/uid "hZwgZyQ2n" 536882064]
+  [3081 :create/time 1634762009536 536882064]
+  [3081 :create/user 1 536882064]
+  [3081 :edit/time 1634762017423 536882066]
+  [3081 :edit/user 1 536882064]
+  [3082 :block/open true 536882067]
+  [3082 :block/order 0 536882069]
+  [3082 :block/page 3080 536882068]
+  [3082 :block/parents 3080 536882068]
+  [3082 :block/parents 3081 536882070]
+  [3082
+   :block/string
+   "advanced form of nft where each pixel changes according to some form of computation"
+   536882073]
+  [3082 :block/uid "dHmJVQHRh" 536882067]
+  [3082 :create/time 1634762018135 536882067]
+  [3082 :create/user 1 536882067]
+  [3082 :edit/time 1634762035308 536882073]
+  [3082 :edit/user 1 536882067]
+  [3083 :block/open true 536882071]
+  [3083 :block/order 1 536882071]
+  [3083 :block/page 3080 536882072]
+  [3083 :block/parents 3080 536882072]
+  [3083 :block/parents 3081 536882072]
+  [3083
+   :block/string
+   "then instead of obeying the rules it disobeys them but why would it change that, cause its function is to maximize the value "
+   536882079]
+  [3083 :block/uid "i89WjNmkl" 536882071]
+  [3083 :create/time 1634762035301 536882071]
+  [3083 :create/user 1 536882071]
+  [3083 :edit/time 1634762071577 536882079]
+  [3083 :edit/user 1 536882071]
+  [3084 :block/open true 536882077]
+  [3084 :block/order 2 536882077]
+  [3084 :block/page 3080 536882078]
+  [3084 :block/parents 3080 536882078]
+  [3084 :block/parents 3081 536882078]
+  [3084
+   :block/string
+   "so it tries to maximize the value of the each pixel - and they kind of act as one - like a bird that changes formations - like the murmurings "
+   536882085]
+  [3084 :block/uid "DwZxX0ATo" 536882077]
+  [3084 :create/time 1634762071569 536882077]
+  [3084 :create/user 1 536882077]
+  [3084 :edit/time 1634762111720 536882085]
+  [3084 :edit/user 1 536882077]
+  [3085 :block/open true 536882083]
+  [3085 :block/order 3 536882083]
+  [3085 :block/page 3080 536882084]
+  [3085 :block/parents 3080 536882084]
+  [3085 :block/parents 3081 536882084]
+  [3085
+   :block/string
+   "would it be motivated by external factors - like would it be thinking about value of other nfts or the mathematical problem "
+   536882088]
+  [3085 :block/uid "pk3jf7yzE" 536882083]
+  [3085 :create/time 1634762111714 536882083]
+  [3085 :create/user 1 536882083]
+  [3085 :edit/time 1634762163376 536882088]
+  [3085 :edit/user 1 536882083]
+  [3086 :block/open true 536882089]
+  [3086 :block/order 4 536882089]
+  [3086 :block/page 3080 536882090]
+  [3086 :block/parents 3080 536882090]
+  [3086 :block/parents 3081 536882090]
+  [3086
+   :block/string
+   "what would it optimize for if anything "
+   536882092]
+  [3086 :block/uid "Qz4E6AQ54" 536882089]
+  [3086 :create/time 1634762187236 536882089]
+  [3086 :create/user 1 536882089]
+  [3086 :edit/time 1634762196871 536882092]
+  [3086 :edit/user 1 536882089]
+  [3087 :block/open true 536882093]
+  [3087 :block/order 5 536882093]
+  [3087 :block/page 3080 536882094]
+  [3087 :block/parents 3080 536882094]
+  [3087 :block/parents 3081 536882094]
+  [3087
+   :block/string
+   "what if it obeyed the same mechanics of starling murmurations "
+   536882096]
+  [3087 :block/uid "bsa8a3MMX" 536882093]
+  [3087 :create/time 1634762225188 536882093]
+  [3087 :create/user 1 536882093]
+  [3087 :edit/time 1634762238424 536882096]
+  [3087 :edit/user 1 536882093]
+  [3088 :block/open true 536882097]
+  [3088 :block/order 6 536882097]
+  [3088 :block/page 3080 536882098]
+  [3088 :block/parents 3080 536882098]
+  [3088 :block/parents 3081 536882098]
+  [3088 :block/string "pixelated version of murmurations" 536882099]
+  [3088 :block/uid "GAeD8O5uC" 536882097]
+  [3088 :create/time 1634762238553 536882097]
+  [3088 :create/user 1 536882097]
+  [3088 :edit/time 1634762248317 536882099]
+  [3088 :edit/user 1 536882097]
+  [3089 :block/open true 536882100]
+  [3089 :block/order 7 536882100]
+  [3089 :block/page 3080 536882101]
+  [3089 :block/parents 3080 536882101]
+  [3089 :block/parents 3081 536882101]
+  [3089
+   :block/string
+   "could be from perspective of an artist"
+   536882102]
+  [3089 :block/uid "KrFP6vaQU" 536882100]
+  [3089 :create/time 1634762454053 536882100]
+  [3089 :create/user 1 536882100]
+  [3089 :edit/time 1634762465420 536882102]
+  [3089 :edit/user 1 536882100]
+  [3090 :block/uid "10-21-2021" 536882103]
+  [3090 :create/time 1634809531261 536882103]
+  [3090 :create/user 2367 536882103]
+  [3090 :edit/time 1634809531261 536882103]
+  [3090 :edit/user 2367 536882103]
+  [3090 :log/id 1634809531260 536882103]
+  [3090 :node/title "October 21st, 2021" 536882103]]}

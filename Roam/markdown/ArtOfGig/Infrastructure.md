@@ -24,6 +24,19 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat 74 [[October 20th, 2021]]
+        - participants:: [[Maier Fenster]] [[Nathan Acks]]
+        - notes::
+            [[Nathan Acks]] wants to talk about newsletter functionality (and paying for things).
+            [[Maier Fenster]] recalls that the general thought was that if something cost $10 - $15 per month, it made sense to do.
+            [[Nathan Acks]] notes that all of the options we were looking at are a lot more expensive:
+                - $30/month for [Buttondown](https://buttondown.email) or [Ghost](https://ghost.org) (full API access)
+                - $50/month for [Zapier](https://zapier.com) (lets us do things like listen for Discord posts in real time)
+            [[Maier Fenster]] notes that we __can__ just listen for posts. But they also think that it’s better to run a script once a week, rather than continuously.
+            [[Maier Fenster]] does not agree that a visual workflow in Zapier is less opaque than a commented Python script.
+            [[Maier Fenster]] wonders if Zapier has code comments?
+            [[Nathan Acks]] wonders if it maybe would be better to just have a script that updated a links Sheet once a day, with a 24 hour lag. (For example, something that ran at midnight and pulled all links between 48 - 24 hours ago.) This would help work around the problem where someone edits their post. Seems like a way to balance timeliness of links vs. the various issues with pulling links in __real__ time.
+            The general consensus seems to be that Buttondown makes more sense to use than Ghost, but using Zapier is contentious. Perhaps the right thing to do for now would be to move to using Google Sheets as an intermediate form for the newsletter, but keep the actual data harvesting from Discord (and push into Buttondown) in Python.
     - Infrastructure Chat 73 [[October 13th, 2021]]
         - participants:: [[Maier Fenster]] [[Nathan Acks]] [[Sachin Benny]] [[Venkatesh Rao]]
         - notes::

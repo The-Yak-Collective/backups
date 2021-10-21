@@ -31773,8 +31773,132 @@
   {
     "create-time": 1634723061132,
     "title": "October 20th, 2021",
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    "children": [
+      {
+        "string": "what if a pixel in an nft comes alive ",
+        "create-time": 1634762009536,
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "children": [
+          {
+            "string": "advanced form of nft where each pixel changes according to some form of computation",
+            "create-time": 1634762018135,
+            "uid": "dHmJVQHRh",
+            "edit-time": 1634762035308,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "then instead of obeying the rules it disobeys them but why would it change that, cause its function is to maximize the value ",
+            "create-time": 1634762035301,
+            "uid": "i89WjNmkl",
+            "edit-time": 1634762071577,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "so it tries to maximize the value of the each pixel - and they kind of act as one - like a bird that changes formations - like the murmurings ",
+            "create-time": 1634762071569,
+            "uid": "DwZxX0ATo",
+            "edit-time": 1634762111720,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "would it be motivated by external factors - like would it be thinking about value of other nfts or the mathematical problem ",
+            "create-time": 1634762111714,
+            "uid": "pk3jf7yzE",
+            "edit-time": 1634762163376,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "what would it optimize for if anything ",
+            "create-time": 1634762187236,
+            "uid": "Qz4E6AQ54",
+            "edit-time": 1634762196871,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "what if it obeyed the same mechanics of starling murmurations ",
+            "create-time": 1634762225188,
+            "uid": "bsa8a3MMX",
+            "edit-time": 1634762238424,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "pixelated version of murmurations",
+            "create-time": 1634762238553,
+            "uid": "GAeD8O5uC",
+            "edit-time": 1634762248317,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          },
+          {
+            "string": "could be from perspective of an artist",
+            "create-time": 1634762454053,
+            "uid": "KrFP6vaQU",
+            "edit-time": 1634762465420,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          }
+        ],
+        "uid": "hZwgZyQ2n",
+        "edit-time": 1634762017423,
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      }
+    ],
     "uid": "10-20-2021",
     "edit-time": 1634723061132,
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "create-time": 1634809531261,
+    "title": "October 21st, 2021",
+    "uid": "10-21-2021",
+    "edit-time": 1634809531261,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },
