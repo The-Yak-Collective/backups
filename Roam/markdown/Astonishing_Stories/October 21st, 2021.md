@@ -1,0 +1,5 @@
+- Sharepoint edits
+    - {{[[POMO]]: 10}}
+    - Get an understanding of how many pages there are and what needs to be done on those page - what needs to be added etc 
+    - {{[[POMO]]: 10}} Add FAQs to one page
+    - 
