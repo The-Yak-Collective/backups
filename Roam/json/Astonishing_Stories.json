@@ -32015,10 +32015,22 @@
     }
   },
   {
-    "create-time": 1634895909896,
+    "create-time": 1634900034616,
     "title": "October 22nd, 2021",
     "uid": "10-22-2021",
-    "edit-time": 1634895909896,
+    "edit-time": 1634900034618,
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    }
+  },
+  {
+    "create-time": 1634982234482,
+    "title": "October 23rd, 2021",
+    "uid": "10-23-2021",
+    "edit-time": 1634982234482,
     ":create/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },

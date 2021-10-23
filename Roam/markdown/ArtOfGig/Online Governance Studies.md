@@ -125,10 +125,10 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
         - {{[[DONE]]}} [David Teece interview on dynamic capabilities](https://www.strategy-business.com/article/00225?gko=32b8d)
         - {{[[DONE]]}} [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)
-    - **Queued**
         - Liquid modernity, Zygmunt Bauman
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
             - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
+    - **Queued**
         - Yuval Levin on [institutions losing power to mold character](https://www.nytimes.com/2020/01/18/opinion/sunday/institutions-trust.html)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
         - [Corey Robin, How intellectuals create a public](https://www.chronicle.com/article/how-intellectuals-create-a-public/)
