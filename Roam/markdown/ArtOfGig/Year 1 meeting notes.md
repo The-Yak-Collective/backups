@@ -1535,14 +1535,14 @@
                     - take risks in gait depending safety and energy
                     - 
     - Oct 18 Venkat
-    - Oct 25 Anuraj 
+    - Oct 25 Rhett
     - Nov 1  Eric
     - Nov 8 Sai first demo  (30 min) + Milestone meeting (30 min)
         - Milestone meeting... ???
             - Detailed event plan from Venkat
             - Option choices for how to do the event
             - Can we pull off a hackathon (ourselves + other participants)
-    - Nov 15 Rhett
+    - Nov 15 Anuraj?
     - Nov 22 Victor
     - Nov 29 Jascha
     - Dec 6 PLANNING WEEK SLOT
