@@ -1,0 +1,5 @@
+- {{[[TODO]]}} cancel att 
+- {{[[TODO]]}} buy soap for new house 
+- Things to do before leaving 
+    - CCPA - forward meeting to LAC
+    - One Drive Consolidation

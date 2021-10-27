@@ -3,10 +3,10 @@
     - Thus the domains in which I'm interested include data governance and ethics, [collaboratives](https://datacollaboratives.org/), facilitating inequitable power dynamics in stakeholder collaboration, product strategy, and in ways in which academic teams launch sustainable data-driven teams and tools. 
 - Yak: I'm interested in finding individual Yak'ers or assembling small Yak-teams for collaboration.
     - Currently: I'm not very active in the Yak community yet, so I won't post any current needs or interests as they may become obsolete by the time someone reads them. Please reach out to me instead.
-    - I'm always excited to speak with data engineering, ML, and UX folks that have deep experience working with non profits and academic product teams. 
+    - I'm always excited to speak with product leads, ML, and UX folks that have deep experience working with non profits and academic teams. 
 - Although always out of date, you can case studies of my work under the "Projects" section of my [LinkedIn Profile](https://www.linkedin.com/in/amanahuja)
 - Best way to reach me: Discord for casual chat. Email for the rest, I suppose. 
 - To do: 
     - {{[[DONE]]}} Add a basic description of my work to this directory
     - {{[[DONE]]}}  Attend a Yak intro session to orient
-    - {{[[TODO]]}} Connect with a few Yak people based on their directory profiles, ideally a few people in a similar domain but more familiar with the Yak community.  
+    - {{[[DONE]]}} Connect with a few Yak people based on their directory profiles, ideally a few people in a similar domain but more familiar with the Yak community.  
