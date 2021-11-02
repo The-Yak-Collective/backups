@@ -36,7 +36,7 @@
     - [[Collaboration model/economy]]
         - A mutual subcontracting pricing model
         - A set of contracts/NDAs that allow any of us to easily rope in others via subcontracts
-        - Something like a [[Blockchain]] (?) [[token]] IF it actually solves our problems
+        - Something like a [[Blockchain Roadmap]] (?) [[token]] IF it actually solves our problems
             - if this is *actually* desired to be pursued, I'd [[Greg Docter]] be happy to see what my [consensys](https://consensys.net/) network might have to offer
         - A way to price and accomplish internal admin/cost tasks
     - Shared Basic Conversion model

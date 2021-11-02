@@ -1,5 +1,6 @@
 - The 2021 builds are all experimental discovery builds, and each has a letter/number designation. The numbers are all 1, since these are the parallel version 1 builds, and the letters are X, Y, Z, W, and U following the USAF experimental flyoff prototyping naming conventions.
 - [[Wonderful Wandering Growth]] by [[Maier Fenster]]
+    - rover will walk around in garden and look like it is interacting with terrain, rather than just brute forcing its way forward
 - [[YR Infinity and Beyond]] by [[Anuraj R]]
 - [[YR Abio Flex Wanderer]] by [[Eric Platon]]
     - Target for Dec 13th demo day: Show how a bot can build internal models of its environment automatically (e.g. what is a leg in "data space", what is a rock). This is the base of this build plans about autonomy.

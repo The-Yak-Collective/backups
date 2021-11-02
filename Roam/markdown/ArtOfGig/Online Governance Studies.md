@@ -3,11 +3,86 @@
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
 - Created:: [[May 4th, 2020]] by [[Venkatesh Rao]]
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
-- We currently have 3 tracks of readings: General, Platforms, Anarchism. Each features a backlog of short readings (must be free, reasonably browsable within 15 minutes, and text... no video/audio). We pick one to read and discuss every Friday morning at 9 AM in the governance chat
+- We meet every Friday morning on Discord Chat at 9 AM Pacific to read and discuss a short reading relevant to online governance. We have multiple reading tracks each with their queues, which you can find below. For the 2021-22 season, we have 4 active tracks: Nature and Long-Term Thinking, Case Studies, Technology, and General with active queues. Please feel free to add links to any queue (preferred), or in the Discord channel using the $readingadd command. The Discord list is used as an inbox/buffer and is periodically cleared and moved here.
+- **Nature and Long-Term Thinking Track 2021-22**
+    - **Completed**
+        - [Wikipedia on Permaculture](https://en.wikipedia.org/wiki/Permaculture)
+        - [Ise Jingu and the Pyramid of Enabling Technologies](https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies)
+    - **Queued**
+        - [How cells can find their way through the human body](https://phys.org/news/2020-08-cells-human-body.html)
+        - [Biodiversity May Thrive Through Games of Rock-Paper-Scissors](https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/)
+- **Case Studies Track**
+    - **Completed**
+    - **Queued**
+        - [A Spark of Hope: The Ongoing Lessons of the Zapatista Revolution 25 Years On](https://nacla.org/news/2019/01/18/spark-hope-ongoing-lessons-zapatista-revolution-25-years)
+        - [Autonomous Administration of North and East Syria](https://en.wikipedia.org/wiki/Autonomous_Administration_of_North_and_East_Syria)
+        - [Disney Parks Essay Series by Cory Doctorow (index twitter thread)](https://twitter.com/doctorow/status/1419689975163936781?s=21)
+        - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
+        - [Spotify: An Emergent Organization](https://www.workfutures.io/p/spotify-an-emergent-organization)
+        - [Our Distributed Company is a Garden](https://sanctucompu.substack.com/p/distributed)
+        - [Hold me, I’m scared: Your guide to navigating the hold system](https://motionographer.com/2019/03/11/hold-me-im-scared-your-guide-to-navigating-the-hold-system/)
+- **Technology Track 2021-22**
+    - __For DAOs specifically, pull more links from here into our list as needed__: [Rafa's General List](https://docs.google.com/document/d/14IANUqTGUW1-P4ungM0tHYz9-PVQvWfFWpGcS7iBKDo/edit)
+    - __We have an experimentation track going too__ [[Blockchain Roadmap]]
+    - **Completed**
+        - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
+        - [A Beginner's Guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
+    - **Queued**
+        - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+        - [Vitalik Buterin on DAOs, DACs, DA and more: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+        - [DAO Challenges Twitter Thread](https://twitter.com/divine_economy/status/1443257518428495878?s=21)
+        - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/)
+        - [Vitalik Buterin on Crypto Cities](https://vitalik.ca/general/2021/10/31/cities.html)
+        - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+        - [A Guide to Designing Effective NFT Launches](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+        - [Mathew Ball, Metaverse Primer (9 parts)](https://www.matthewball.vc/the-metaverse-primer)
+        - [Tech Stack for Decentralized Cities](https://creators.mirror.xyz/-lNPJRz2GLWIcsuMTZqklGNEWRrY7Nk0Y33Qn6Lw4q4)
+        - [Unlocking the Treasury](https://sukernik.medium.com/unlocking-the-treasury-483aeea01001)
+        - [How Our Team is Building Asynchronous Communication into our Workflows](https://medium.com/@NadiaTatlow/how-our-team-is-building-asynchronous-communication-into-our-workflows-2b06e740be1)
+        - [Understanding Urbit](https://urbit.org/understanding-urbit/)
+        - [You don't need your own Discord server](http://blog.seanbonner.com/2021/10/06/you-dont-need-your-own-discord/)
+        - [COBOLing Together UI Benefits: How Delays in Fiscal Stabilizers Impact Aggregate Consumption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928948)
+        - [Explained: DeFi Governance Tokens](https://medium.com/multi-io/explained-defi-governance-tokens-23a76e4df543#:~:text=What%20Are%20DeFi%20Governance%20Tokens,profit%20from%20dividends%20when%20issued.)
+- **General Track 2021-22**
+    - **Completed**
+        - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
+        - [The 9 types of people you find in coliving](https://supernuclear.substack.com/p/the-9-types-of-people-you-find-in)
+        - [Why Decentralization Matters](https://cdixon.org/2018/02/18/why-decentralization-matters)
+        - [Carnegie Library](https://en.wikipedia.org/wiki/Carnegie_library)
+            - [The Best Fields for Philanthropy, Andrew Carnegie](https://babel.hathitrust.org/cgi/pt?id=chi.18663833&view=1up&seq=690)
+        - Liquid modernity, Zygmunt Bauman
+            - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
+            - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
+        - [Alex Komoroske on Coordination Headwind](https://komoroske.com/slime-mold/)
+    - **Queued**
+        - [Every Design Studio Should Be a Worker-Owned Studio](https://eyeondesign.aiga.org/every-design-studio-should-be-a-worker-owned-studio/)
+        - [Bruno Cucinelli interview](https://om.co/2015/04/27/brunello-cucinelli-2/)
+        - [Nisaken Center: Cost Disease Socialism](https://www.niskanencenter.org/cost-disease-socialism-how-subsidizing-costs-while-restricting-supply-drives-americas-fiscal-imbalance/)
+        - [I Am Not a Bot (podcast with transcript)](https://gimletmedia.com/shows/reply-all/emh36dn/178-i-am-not-a-bot)
+        - [Donella Meadows, Dancing With Systems](https://donellameadows.org/archives/dancing-with-systems/)
+        - [Bruce Webster: Thermocline of Truth](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
+        - [Plage and Renaissance, Anand Giridharindas](https://the.ink/p/after-the-plague)
+        - [Sociocracy: Basic Concepts and Principles](https://www.sociocracyforall.org/sociocracy/)
+        - [Sarah Constantin How to be an Educated Layman](https://srconstantin.github.io/2021/06/09/Educated-Layman.html)
+        - [Group Decision-Making in Coliving](https://supernuclear.substack.com/p/group-decision-making-in-coliving)
+        - [Hakim Bey, The Temporary Autonomous Zone](https://ia800208.us.archive.org/14/items/al_Hakim_Bey_T.A.Z._The_Temporary_Autonomous_Zone_Ontological_Anarchy_Poetic_Terror/Hakim_Bey__T.A.Z.__The_Temporary_Autonomous_Zone__Ontological_Anarchy__Poetic_Terrorism_a4.pdf)
+        - [Shifting the impossible to the inevitable: A Private ARPA user manual](https://benjaminreinhardt.com/parpa)
+        - [Partial Common Ownership](https://www.radicalxchange.org/concepts/partial-common-ownership/)
+        - [Stewardship of Global Collective Behavior](https://www.pnas.org/content/118/27/e2025764118)
+        - [Squad Wealth](https://otherinter.net/research/squad-wealth/)
+- **Proposed Tracks**: Will be either created or forked from existing tracks if there's enough queued material and/or someone steps up to curate it
+    - Web3
+    - Metaverse
+    - Grants/funding
+    - Offline-online link
+    - Corporatization/legibility
+- **Meta -- on online studies knowledge management**
+    - [Doctorow Metacrap article](https://people.well.com/user/doctorow/metacrap.htm)
+    - [Anatomy of a 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9?gi=cd39e157edd4)
 - [[Glossary]]
 - [[Governance Readings Six Pager]]
-- **Platforms Track** — [[Grigori Milov]]^^^^
-    - **Completed**
+- **2020-21 completed readings**
+    - **Platform Track 2020-21 archive**
         - {{[[DONE]]}} A piece about a hierarchy of marketplaces. It refers to some thinking of Bill Gurley, among other things, who deserves a lot of attention.
             - https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
         - {{[[DONE]]}} Underutilized fixed assets created marketplaces 
@@ -75,23 +150,7 @@ https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders
 The prompt questions were:
             - How can we create value for people involved in The Yak Collective, potential clients, society at large?
             - Have we created something -- an idea, a process, a memorable phrase, a ritual, an artifact, ... , a bot, -- that can have lasting power, i.e. something that we will be able to refer to, say, 2, 5, 10 or 20 years from now?
-    - **Queued**
-        - 10. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
-            - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
-        - Backup resources (not short reads, not free, or both)
-            - There is also a lot of literature on guilds behind the paywalls, including 
-1. https://www.jstor.org/stable/1360368?seq=1
-2. https://global.oup.com/academic/product/the-art-of-solidarity-in-the-middle-ages-9780198201571?cc=us&lang=en&
-3. https://yalebooks.yale.edu/book/9780300169072/markets-and-marketplaces-medieval-italy-c-1100-c-1440
-            - Len Rachitsky recently had an excellent 4 part series on modern platforms
-
-                - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace
-                - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-9ee
-                - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911
-                - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-2e5
-            - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
-- **General Track** — [[Venkatesh Rao]] — on hiatus while platform track clears backlog
-    - **Completed Readings**
+    - **General Track 2020-21 archive**
         - [Seb Paquet Scene-Hacking](https://www.slideshare.net/vgururao/scene-hacking)
             - {{[[DONE]]}} [Geeks, MOPs, and sociopaths in subculture evolution | Meaningness](https://meaningness.com/geeks-mops-sociopaths) 
 How muggles and sociopaths invade and undermine creative subcultures; and how to stop them.
@@ -125,18 +184,27 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
         - {{[[DONE]]}} [David Teece interview on dynamic capabilities](https://www.strategy-business.com/article/00225?gko=32b8d)
         - {{[[DONE]]}} [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)
-        - Liquid modernity, Zygmunt Bauman
-            - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
-            - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
-    - **Queued**
-        - Yuval Levin on [institutions losing power to mold character](https://www.nytimes.com/2020/01/18/opinion/sunday/institutions-trust.html)
+    - **Anarchism Track 2020-21 archive**
+        - {{[[DONE]]}} [Carrier bag theory of fiction by Ursula Le Guin](https://theanarchistlibrary.org/library/ursula-k-le-guin-the-carrier-bag-theory-of-fiction) 
+        - {{[[DONE]]}} [The relationship between hierarchy and wealth](https://srconstantin.wordpress.com/2019/01/23/the-relationship-between-hierarchy-and-wealth)
+            - Is it possible to create non-hierarchical social systems for humans? Power Distance. Lowest in Nordics, Israel and highest in Arab, Southeast Asian and Latin America. "Nominally non-hierarchical organizations often suffer from failure modes that keep them from getting anything done, and actually wind up quite hierarchical in practice." "  one context in which a structureless organization can work; a very small team (no more than five) of people who come from very similar backgrounds" "Medieval Iceland from the [tenth to thirteenth centuries](http://www.daviddfriedman.com/Academic/Iceland/Iceland.html) was a stateless society, with private courts of law, and competing legislative assemblies (Icelanders could choose which assembly and legal code to belong to), but no executive branch or police. It lasted longer than US" "Bronze Age levels of technological development (cities, metalworking, intensive agriculture, literacy, long-distance trade, and high populations) can be developed without states, at scales involving millions of people, for centuries" __Is Hierarchy the Engine of Growth or a Luxury Good?__ Top-down state control of the economy causes knowledge problems that limit economic productivity.  Dominance hierarchies inhibit accurate transmission of information, which worsens knowledge problems and principal-agent problems (“communication is only possible between equals.”)  One of the observations in __Wealth of Nations __is that countries with strong middle classes had more subsequent economic growth than countries with more wealth inequality. If hierarchies tend to emerge as soon as size, scale, and wealth arise, then that means we don’t have a solution to the problem of __preventing __them from emerging. __By default __an organization will succumb to inefficient hierarchy, and structureless organizations will succumb faster and to more toxic hierarchies. **When designing governance structures, the question you want to ask is not just “is this a system I’d want to live under today?” but “how effective __will t__his system be in the __future __at resisting the guys who will come along and try to take over and milk it for short-term personal gain until it collapses?”**
+        - {{[[DONE]]}} [Haraway on Chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
+        - {{[[DONE]]}} [[Anarchists in China]]
+        - {{[[DONE]]}} [Intro to Kropotkin](http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization)
+            - "An English child boxes one on one, not in a group as we Russians like to spar.”
+Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
+            - Wikipedia on Mutual Aid: https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
+        - {{[[DONE]]}} [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
+        - {{[[DONE]]}} Ernest junger
+            -  https://en.wikipedia.org/wiki/Eumeswil
+            - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386
+        - {{[[DONE]]}} [Ivan Illich introduction](https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/) 
+- **Antilibrary (links collected but not read for too long)**
+    - From 2020-21 General Track
+        - [NYT: Yuval Levin on institutions losing power to mold character](https://www.nytimes.com/2020/01/18/opinion/sunday/institutions-trust.html)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
         - [Corey Robin, How intellectuals create a public](https://www.chronicle.com/article/how-intellectuals-create-a-public/)
-        - Essential Balances by Ivo Velitchkov (on Yak Roam), proposed by [[Benjamin P Taylor - London]] https://www.strategicstructures.com/wordpress/?page_id=2013
         - [Albert O. Hirschman](https://en.wikipedia.org/wiki/Albert_O._Hirschman), [Exit, Voice, and Loyalty](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty)
-            - cf [[Mansion Statement]] here
-                - does anyone know created the [[Mansion Statement]] page on the graph? it’s unsigned 
-            - proposed by [[Jenna Dixon]]
         - [Social Change Ecosystem Map](https://buildingmovement.org/our-work/movement-building/social-change-ecosystem-map/) for the idea of roles, guilds within guilds
             - > The Social Change Ecosystem Map - Definition of Roles
 __Weavers:__ I see the through-lines of connectivity between people, places, organizations, ideas, and movements.
@@ -164,25 +232,7 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
             - https://mattstoller.substack.com/p/what-we-can-learn-from-a-big-boat
         - [[Crisp Collective Analysis]]
         - [Greenpeace architecture of participation](https://blog.weareopen.coop/howto-create-an-architecture-of-participation-for-your-open-source-project-a38386c69fa5)
-- **Anarchism Track** — needs an owner 🤣
-    - **Completed**
-        - {{[[DONE]]}} [Carrier bag theory of fiction by Ursula Le Guin](https://theanarchistlibrary.org/library/ursula-k-le-guin-the-carrier-bag-theory-of-fiction) 
-        - {{[[DONE]]}} [The relationship between hierarchy and wealth](https://srconstantin.wordpress.com/2019/01/23/the-relationship-between-hierarchy-and-wealth)
-            - Is it possible to create non-hierarchical social systems for humans? Power Distance. Lowest in Nordics, Israel and highest in Arab, Southeast Asian and Latin America. "Nominally non-hierarchical organizations often suffer from failure modes that keep them from getting anything done, and actually wind up quite hierarchical in practice." "  one context in which a structureless organization can work; a very small team (no more than five) of people who come from very similar backgrounds" "Medieval Iceland from the [tenth to thirteenth centuries](http://www.daviddfriedman.com/Academic/Iceland/Iceland.html) was a stateless society, with private courts of law, and competing legislative assemblies (Icelanders could choose which assembly and legal code to belong to), but no executive branch or police. It lasted longer than US" "Bronze Age levels of technological development (cities, metalworking, intensive agriculture, literacy, long-distance trade, and high populations) can be developed without states, at scales involving millions of people, for centuries" __Is Hierarchy the Engine of Growth or a Luxury Good?__ Top-down state control of the economy causes knowledge problems that limit economic productivity.  Dominance hierarchies inhibit accurate transmission of information, which worsens knowledge problems and principal-agent problems (“communication is only possible between equals.”)  One of the observations in __Wealth of Nations __is that countries with strong middle classes had more subsequent economic growth than countries with more wealth inequality. If hierarchies tend to emerge as soon as size, scale, and wealth arise, then that means we don’t have a solution to the problem of __preventing __them from emerging. __By default __an organization will succumb to inefficient hierarchy, and structureless organizations will succumb faster and to more toxic hierarchies. **When designing governance structures, the question you want to ask is not just “is this a system I’d want to live under today?” but “how effective __will t__his system be in the __future __at resisting the guys who will come along and try to take over and milk it for short-term personal gain until it collapses?”**
-        - {{[[DONE]]}} [Haraway on Chthulucene](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/)
-        - {{[[DONE]]}} [[Anarchists in China]]
-        - {{[[DONE]]}} [Intro to Kropotkin](http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization)
-            - "An English child boxes one on one, not in a group as we Russians like to spar.”
-Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
-            - Wikipedia on Mutual Aid: https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
-        - {{[[DONE]]}} [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
-        - {{[[DONE]]}} Ernest junger
-            -  https://en.wikipedia.org/wiki/Eumeswil
-            - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386
-        - {{[[DONE]]}} [Ivan Illich introduction](https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/) 
-        - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
-    - **Queued**
-        - NOTE: This section needs essays/chapters browsable within 15 minutes to get off the ground. Books, videos, podcasts, etc are nice to have as backup resources but don’t serve the need for the governance chat format. Anarchism readings track backburnered until someone steps up to curate it. 
+    - From 2020-21 Anarchism track
         - Ivan illich
             - https://www.tandfonline.com/doi/abs/10.1111/j.1469-5812.1981.tb00481.x?journalCode=rept20
         - bayo akomolofe https://bayoakomolafe.net/project/i-coronavirus-mother-monster-activist/
@@ -196,44 +246,48 @@ Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) 
             - YouTube channel: [Beau of the Fifth Column](https://youtu.be/y-PbSFZASR0?t=125)
             - Music like Propagandhi
             - [PhilosophyTube on Antifa](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
-- **Technology Track**
-    - Completed
-        - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
-    - Queued
-        - [Cursed takes: Multiplayer Figma](https://newsletter.danhon.com/archive/s09e18-cursed-takes-multiplayer-figma-and-low)
-        - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/)
-- **Meta -- on online studies knowledge management**
-    - [Doctorow Metacrap article](https://people.well.com/user/doctorow/metacrap.htm)
-    - [Anatomy of a 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9?gi=cd39e157edd4)
-- [[Governance Tests]]
-- 
-- ## [[Governance Meetings Minutes]]
-- [[September 3rd, 2021]] [[Yak Gov Chat Minutes - The 9 types of people you find in coliving]]
-- [[August 27th, 2021]] [[Yak Gov Chat Minutes - xxxxxxxxxx]]
-- [[May 7th, 2021]] [[Yak Gov Chat Minutes - Chinese Anarchism]]
-- [[April 30th, 2021]] [[Crisp Collective Analysis]]
-- [[January 15th, 2021]]  [[Yak Gov Chat Minutes - Discovery and Serendipity]]
-- [[December 11th, 2020]] [[Yak Gov Chat Minutes - Do You Need a Business Ecosystem?]]
-- [[December 4th, 2020]] [[Yak Gov Chat Minutes - The Future of Platforms]] #meeting-notes
-- [[November 20th, 2020]] [[Yak Gov Chat Minutes - Cognition all the way down]] #meeting-notes
-- [[November 13th, 2020]] [[Yak Gov Chat Minutes - The independent researcher]] #meeting-notes
-- [[November 6th, 2020]] [[YC Gov Chat Minutes - Collective Intentionality]] #meeting-notes
-- [[October 30th, 2020]] [[YC Gov Chat Minutes - Master Operating Principle]] #meeting-notes
-- [[October 23rd, 2020]] [[YC Gov Chat Minutes - AMA Mike Baxter]] #meeting-notes
-- [[September 25th, 2020]] [[YC Gov Chat Minutes - Netflix culture deck]] #meeting-notes
-- [[09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces]] #meeting-notes
-- [[08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem]] #meeting-notes
-- [[08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams]] #meeting-notes
-- [[08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization]] #meeting-notes
-- [[07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process]] #meeting-notes
-- [[07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests]] #meeting-notes
-- [[07/10/2020 – YC Gov Chat Minutes – Governance Tests]] #meeting-notes
-- [[07/03/2020 – YC Gov Chat Minutes]] #meeting-notes
-- [[06/26/2020 – YC Gov Chat Minutes]] #meeting-notes
-- [[06/18/2020 – YC Governance Chat Minutes – The Tyranny of Structurelessness pt. 1]] #meeting-notes
-- [[06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief]]  #meeting-notes
-- [[06/05/2020 – YC Governance Chat Minutes]] #meeting-notes
-- [[05/29/2020 – YC Governance Chat Minutes]] #meeting-notes
-- [[05/14/2020 – YC Governance Chat Minutes]] #meeting-notes
-- [[07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business']] #meeting-notes
-- [[05/08/2020 – YC Governance Chat Minutes]] #meeting-notes
+    - From 2020-21 Platforms track
+        - 10. An entrepreneur Fabrice Grinda also has a lot of good ideas about platforms/marketplaces.
+            - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
+        - Backup resources (not short reads, not free, or both)
+            - There is also a lot of literature on guilds behind the paywalls, including 
+1. https://www.jstor.org/stable/1360368?seq=1
+2. https://global.oup.com/academic/product/the-art-of-solidarity-in-the-middle-ages-9780198201571?cc=us&lang=en&
+3. https://yalebooks.yale.edu/book/9780300169072/markets-and-marketplaces-medieval-italy-c-1100-c-1440
+            - Len Rachitsky recently had an excellent 4 part series on modern platforms
+
+                - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace
+                - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-9ee
+                - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911
+                - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-2e5
+            - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
+- [[Governance Meetings Minutes]]
+    - [[September 3rd, 2021]] [[Yak Gov Chat Minutes - The 9 types of people you find in coliving]]
+    - [[August 27th, 2021]] [[Yak Gov Chat Minutes - xxxxxxxxxx]]
+    - [[May 7th, 2021]] [[Yak Gov Chat Minutes - Chinese Anarchism]]
+    - [[April 30th, 2021]] [[Crisp Collective Analysis]]
+    - [[January 15th, 2021]]  [[Yak Gov Chat Minutes - Discovery and Serendipity]]
+    - [[December 11th, 2020]] [[Yak Gov Chat Minutes - Do You Need a Business Ecosystem?]]
+    - [[December 4th, 2020]] [[Yak Gov Chat Minutes - The Future of Platforms]] #meeting-notes
+    - [[November 20th, 2020]] [[Yak Gov Chat Minutes - Cognition all the way down]] #meeting-notes
+    - [[November 13th, 2020]] [[Yak Gov Chat Minutes - The independent researcher]] #meeting-notes
+    - [[November 6th, 2020]] [[YC Gov Chat Minutes - Collective Intentionality]] #meeting-notes
+    - [[October 30th, 2020]] [[YC Gov Chat Minutes - Master Operating Principle]] #meeting-notes
+    - [[October 23rd, 2020]] [[YC Gov Chat Minutes - AMA Mike Baxter]] #meeting-notes
+    - [[September 25th, 2020]] [[YC Gov Chat Minutes - Netflix culture deck]] #meeting-notes
+    - [[09/11/2020 - YC Gov Chat Minutes - The Hierarchy of Marketplaces]] #meeting-notes
+    - [[08/28/2020 - YC Gov Chat Minutes - The Free Rider Problem]] #meeting-notes
+    - [[08/21/2020 – YC Gov Chat Minutes - Migrating from Hierarchy to Open Product Teams]] #meeting-notes
+    - [[08/14/2020 – YC Gov Chat Minutes - A Manifesto for the Open Participatory Organization]] #meeting-notes
+    - [[07/24/2020 - YC Gov Chat Minutes - RFP/Greenlighting Process]] #meeting-notes
+    - [[07/17/2020 - YC Gov Chat Minutes - Continue discussion on Gov Tests]] #meeting-notes
+    - [[07/10/2020 – YC Gov Chat Minutes – Governance Tests]] #meeting-notes
+    - [[07/03/2020 – YC Gov Chat Minutes]] #meeting-notes
+    - [[06/26/2020 – YC Gov Chat Minutes]] #meeting-notes
+    - [[06/18/2020 – YC Governance Chat Minutes – The Tyranny of Structurelessness pt. 1]] #meeting-notes
+    - [[06/12/2020 – YC Governance Chat Minutes – New Old Home Debrief]]  #meeting-notes
+    - [[06/05/2020 – YC Governance Chat Minutes]] #meeting-notes
+    - [[05/29/2020 – YC Governance Chat Minutes]] #meeting-notes
+    - [[05/14/2020 – YC Governance Chat Minutes]] #meeting-notes
+    - [[07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business']] #meeting-notes
+    - [[05/08/2020 – YC Governance Chat Minutes]] #meeting-notes

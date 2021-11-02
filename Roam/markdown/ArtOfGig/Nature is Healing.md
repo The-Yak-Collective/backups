@@ -42,7 +42,7 @@
             - the 17 UN __SDGs__, i.e. Affordable and clean energy?
             - the __sectors/industries__ causing environmental externalities, i.e. Oil extraction
             - the part of the __value chain__, i.e. production, logistics, operation, planning
-            - the __technologies__ to solve the problem, i.e. [[Blockchain]] (see Powerledger.io), [[SaaS]], [[IoT]], 
+            - the __technologies__ to solve the problem, i.e. [[Blockchain Roadmap]] (see Powerledger.io), [[SaaS]], [[IoT]], 
             - the (appropriate ranking of) sciences/scientific approaches: physics/climate science vs. economics (behavioral + theoretical/math based)/social sciences vs. philosophy vs. anthropology vs. communication/culture vs. (of course) theology/ethics ...
         - As climate action comes in waves but once campaigns/trends let go their momentum, greenwashed corporate lipservices kick in - So, how to avoid greenwashing for now and ever
         - How not to talk about a Climate Crisis but turn climate action into something very attractive & positive, relating to quality of life, personal growth, etc.

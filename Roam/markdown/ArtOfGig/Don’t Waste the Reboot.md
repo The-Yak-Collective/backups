@@ -14,7 +14,7 @@
     - Sectoral impact dashboard ((suggested by [[Venkatesh Rao]])
     - Go no-code - leverage no-code tools to test new opps (suggested by [[Paul Millerd]] - can be stolen)
         - [[Alex Wagner]] politely requests to steal this
-    - Tech-backed barter-forward model (suggested by [[Balaji Sundararajan]] based on a [[Blockchain]] proposal done by self)
+    - Tech-backed barter-forward model (suggested by [[Balaji Sundararajan]] based on a [[Blockchain Roadmap]] proposal done by self)
     - Leadership and the dangerous art of psychic blowjob by ([Venky Ramaca])
     - Use the [under utilized fixed asset](https://kwokchain.com/2020/01/23/underutilized-fixed-assets/) model to think about new business models or repurposing businesses. suggested by [[Sachin Benny]]
     - [[REBUP]] Relaxed beliefs under pandemics (potential draft in progress by [[Chris Harris]])

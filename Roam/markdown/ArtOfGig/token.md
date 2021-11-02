@@ -4,13 +4,13 @@
     - balance out gamification incentive/disincentives
         - Internal only?
             - Weird, barter micro-economy 
-        - non-[[Blockchain]] perhaps
+        - non-[[Blockchain Roadmap]] perhaps
     - two tiers?
         - social currency vs transactional currency  
     - strong proof-of-work metaphors ? 
         - "One thought I had was that every voice chat mines coins in proportion to the number of people who attended, so 5 people in a 10 minute chat = 5 yak coins mined for eg. It's a proxy for growth in trust levels and takes actually non-fake participation to create. Similarly for collaborative output. 25 people contributing 2 slides each to a deck = say 50 yakcoins create" [[Venkatesh Rao]]
     - technology expressions:
-        - [[Blockchain]]
+        - [[Blockchain Roadmap]]
             - [[Aragon]] / dandelion organization 
             - if going the blockchain wrote, I [[Greg Docter]] can see what ConsenSys folks might have to offer here (either in terms of insight or tooling itself)
         - physical yak coin

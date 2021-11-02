@@ -1,0 +1,8 @@
+- This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
+- Currently proposed experiments
+    - A multi-sig wallet with n/m signature authority to hold and disburse YC funds in the form of ethereum or a suitable stablecoin (tbd)
+    - Publish the [[Governance Readings Six Pager]] on [mirror.xyz](https://mirror.xyz) as a split-contract NFT with proceeds being divided suitably among contributors and a YC fund.
+    - Put wallets on rovers  of the [[Yak Rover]] project and have them run a collaboration economy on tokens
+- Options to explore/look into
+    - Please add links directly here (preferred) or via the $readingadd command in the #blockchain-roadmap channel on discord.
+- We have an associated study group track in [[Online Governance Studies]]
