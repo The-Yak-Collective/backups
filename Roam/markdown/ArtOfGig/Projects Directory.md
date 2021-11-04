@@ -8,6 +8,7 @@
     - [[Future Frontiers]]
     - [[Neurofuturama]]
 - **Free ideas**
+    - [[Yak Lab]] 
     - Financial re-engineering post covid. — BIG gap
         - Debt/credit management, recapitalization
         - Bankruptcy decision
@@ -41,6 +42,7 @@
         - starting to collect resources here, lmk if you want to collab: https://www.are.na/krish/corporations-states -- [[Krish Khubchand 🎈]]
     - Virtual work / working from home
     - **Tabled**
+    - 
 - Old process scaffolding from 2020 when things were much more complex
     - September-October 2020 proposal pages::
         - [[Concept Contrast Project (temp name)]] - generating brief papers contrasting YC attitude towards various consulting issues vs. traditional attitudes. at stage 1, we report on uncommon alternative already practiced, by others led by [[Rafael Fernandez]] & [[Maier Fenster]]

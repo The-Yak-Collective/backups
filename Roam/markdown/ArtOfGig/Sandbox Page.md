@@ -1,7 +1,7 @@
 - Use this page to try to Roam editing. Look at the help box at the bottom right on the browser interface for keyboard short cuts. Most of it is standard markdown.
 - Roam is very forgiving and it's easy to merge/change stuff, but be mindful of what other people are doing
 - Testing **Why:** At the end of the contest, the company could host a celebratory banquet to recognize the winners with awards such as “Most Innovative” implementation plan.
-- Testing **What:** can actually be written in a block.
+- Testing **What:** can actually be written in a block.{{word count here}}
 - Testing how to use the directory page 
     - High-usability version (allows people to read your page embedded within this page instead of jumping around):
 

@@ -1,0 +1,20 @@
+- **NOTE**: If you are have custodial responsibilities with yak collective please make sure you use a well-supported wallet address (Metamask is strongly recommended) for your custodial actions. Most dApps we might use will NOT support arbitrary wallets.
+- {{[[table]]}}
+    - **Name**
+        - **Address (Metamask STRONGLY recommended)** 
+            - **ENS**
+                - **Comments**
+    - Nathan Acks
+        - 0x954176e55f81F9B5FD92C94aFCAe27Cc13a73824
+    - Sachin Benny
+        - 0x02Dad585640b1929d88296687918d7751717Ccaa
+    - Jenna Dixon
+        - 0xea1bf2A0b45ED328a52a4aa3744669f6Ae525866
+    - Maier Fenster
+        - 0x4E2e9B0F72619FA813f0828Ad47189CDcec79910
+    - Venkatesh Rao
+        - 0x103d30cfE109A8c6FddF3ebE1F83178D3972978c
+            - venkateshrao.eth
+- Gnosis Safe address: 
+- [Gnosis Safe management best practices](https://help.gnosis-safe.io/en/articles/4772567-what-safe-setup-should-i-use)
+- 
