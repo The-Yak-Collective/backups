@@ -29,6 +29,7 @@
         - [A Beginner's Guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
     - **Queued**
         - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+        - [a16z — Building and Running a DAO](https://future.a16z.com/building-and-running-a-dao-why-governance-matters/)
         - [Vitalik Buterin on DAOs, DACs, DA and more: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
         - [DAO Challenges Twitter Thread](https://twitter.com/divine_economy/status/1443257518428495878?s=21)
         - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/)

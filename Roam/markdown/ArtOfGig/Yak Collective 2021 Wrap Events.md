@@ -1,0 +1,8 @@
+- [[Yak Rover Demo Day]]
+    - **Annual Meeting Date: Dec 14, 2021, 7AM-12PM US Pacific (UTC-8)**
+    - [Annual Meeting Google Calendar Link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjVzMXQ2aDc5bGd0a2VmZ2UwaW4xNmtnYzIgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
+    - **Annual Meeting Tentative Agenda**
+- [[YC Annual Meeting 2021]]
+    - **Demo Day Date: Sunday Dec 12, 7AM-12PM US Pacific (UTC-8)**
+    - [Demo Day Google calendar link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzN1NmxxcTA4ODIwNWp2YjhyNnJkdW9pOGsgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
+    - **Demo Day Tentative Agenda**

@@ -1,0 +1,13 @@
+- **Annual Meeting Date: Dec 14, 2021, 7AM-12PM US Pacific (UTC-8)**
+- [Annual Meeting Google Calendar Link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjVzMXQ2aDc5bGd0a2VmZ2UwaW4xNmtnYzIgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
+- Zoom link: COMING SOON
+- **Annual Meeting Tentative Agenda**
+    - New member orientation (all)
+    - Infrastructure update ([[Nathan Acks]])
+    - Production and publishing ops (Jenna Dixon)
+    - Online Governance paper (Sachin Benny)
+    - Yak Rover Highlights (Maier Fenster) -- Note there will be a separate [[Yak Rover Demo Day]] on Dec 
+    - Finance and blockchain Initiatives (Venkatesh Rao)
+    - Town Hall/Open Discussion
+    - Future Projects discussion...
+- This is our second annual meeting. See [[YC Annual Meeting 2020]] for notes on last year's meeting and what to expect.

@@ -11,6 +11,7 @@
 - [[Yak Rover Reference Materials]]
 - [[Yak Rover 2021 Builds]]
 - [[Year 1 meeting notes]]
+- [[Yak Rover Demo Day]]
 - [[Learning Wishlist]]
 - [[Common Problems]]
 - **Overview**
