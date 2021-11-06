@@ -1,17 +1,22 @@
 - About:: __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
-- Created:: [[May 4th, 2020]] by [[Venkatesh Rao]]
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
-- We meet every Friday morning on Discord Chat at 9 AM Pacific to read and discuss a short reading relevant to online governance. We have multiple reading tracks each with their queues, which you can find below. For the 2021-22 season, we have 4 active tracks: Nature and Long-Term Thinking, Case Studies, Technology, and General with active queues. Please feel free to add links to any queue (preferred), or in the Discord channel using the $readingadd command. The Discord list is used as an inbox/buffer and is periodically cleared and moved here.
-- **Nature and Long-Term Thinking Track 2021-22**
+- We meet every Friday on Discord Chat at 9 AM Pacific to read and discuss a short reading relevant to online governance. We have multiple reading tracks each with their queues, which you can find below. 
+- For the 2021-22 season, we have 4 active tracks with active queues: Nature and Long-Term Thinking, Case Studies, Technology, and General. Please feel free to add links to any queue (preferred), or in the Discord ogs channel using the `$readingadd` command. The Discord list is used as an inbox/buffer and is periodically cleared and moved here.
+- 
+- ## 2021-22 Tracks
+- ### Nature and Long-Term Thinking
     - **Completed**
         - [Wikipedia on Permaculture](https://en.wikipedia.org/wiki/Permaculture)
         - [Ise Jingu and the Pyramid of Enabling Technologies](https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies)
     - **Queued**
         - [How cells can find their way through the human body](https://phys.org/news/2020-08-cells-human-body.html)
         - [Biodiversity May Thrive Through Games of Rock-Paper-Scissors](https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/)
-- **Case Studies Track**
+        - [[Starhawk]], [The Empowerment Manual: A Guide for Collaborative Groups](https://newsociety.com/books/e/the-empowerment-manual?_ga=2.249791683.458793619.1636130017-946958014.1636130017&sitedomain=us)
+» [excerpt](http://nsp-blurbs.s3-website-us-west-2.amazonaws.com/9780865716971_excerpt.pdf)
+» [toc](http://nsp-blurbs.s3-website-us-west-2.amazonaws.com/9780865716971_toc.pdf)
+- ### Case Studies
     - **Completed**
     - **Queued**
         - [A Spark of Hope: The Ongoing Lessons of the Zapatista Revolution 25 Years On](https://nacla.org/news/2019/01/18/spark-hope-ongoing-lessons-zapatista-revolution-25-years)
@@ -21,7 +26,7 @@
         - [Spotify: An Emergent Organization](https://www.workfutures.io/p/spotify-an-emergent-organization)
         - [Our Distributed Company is a Garden](https://sanctucompu.substack.com/p/distributed)
         - [Hold me, I’m scared: Your guide to navigating the hold system](https://motionographer.com/2019/03/11/hold-me-im-scared-your-guide-to-navigating-the-hold-system/)
-- **Technology Track 2021-22**
+- ### Technology
     - __For DAOs specifically, pull more links from here into our list as needed__: [Rafa's General List](https://docs.google.com/document/d/14IANUqTGUW1-P4ungM0tHYz9-PVQvWfFWpGcS7iBKDo/edit)
     - __We have an experimentation track going too__ [[Blockchain Roadmap]]
     - **Completed**
@@ -32,7 +37,7 @@
         - [a16z — Building and Running a DAO](https://future.a16z.com/building-and-running-a-dao-why-governance-matters/)
         - [Vitalik Buterin on DAOs, DACs, DA and more: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
         - [DAO Challenges Twitter Thread](https://twitter.com/divine_economy/status/1443257518428495878?s=21)
-        - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/)
+        - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/) - we already read this?
         - [Vitalik Buterin on Crypto Cities](https://vitalik.ca/general/2021/10/31/cities.html)
         - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
         - [A Guide to Designing Effective NFT Launches](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
@@ -41,10 +46,10 @@
         - [Unlocking the Treasury](https://sukernik.medium.com/unlocking-the-treasury-483aeea01001)
         - [How Our Team is Building Asynchronous Communication into our Workflows](https://medium.com/@NadiaTatlow/how-our-team-is-building-asynchronous-communication-into-our-workflows-2b06e740be1)
         - [Understanding Urbit](https://urbit.org/understanding-urbit/)
-        - [You don't need your own Discord server](http://blog.seanbonner.com/2021/10/06/you-dont-need-your-own-discord/)
+        - [You don't need your own Discord](http://blog.seanbonner.com/2021/10/06/you-dont-need-your-own-discord/)
         - [COBOLing Together UI Benefits: How Delays in Fiscal Stabilizers Impact Aggregate Consumption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928948)
         - [Explained: DeFi Governance Tokens](https://medium.com/multi-io/explained-defi-governance-tokens-23a76e4df543#:~:text=What%20Are%20DeFi%20Governance%20Tokens,profit%20from%20dividends%20when%20issued.)
-- **General Track 2021-22**
+- ### General
     - **Completed**
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
         - [The 9 types of people you find in coliving](https://supernuclear.substack.com/p/the-9-types-of-people-you-find-in)
@@ -72,17 +77,17 @@
         - [Stewardship of Global Collective Behavior](https://www.pnas.org/content/118/27/e2025764118)
         - [Squad Wealth](https://otherinter.net/research/squad-wealth/)
 - **Proposed Tracks**: Will be either created or forked from existing tracks if there's enough queued material and/or someone steps up to curate it
-    - Web3
-    - Metaverse
     - Grants/funding
     - Offline-online link
     - Corporatization/legibility
-- **Meta -- on online studies knowledge management**
+    - GAP: The "why" of community/centripetal vs. centrifugal —Jenna
+    - GAP: How online gov differs from landed gov —Jenna
+- **Meta — on online studies knowledge management**
     - [Doctorow Metacrap article](https://people.well.com/user/doctorow/metacrap.htm)
     - [Anatomy of a 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9?gi=cd39e157edd4)
 - [[Glossary]]
 - [[Governance Readings Six Pager]]
-- **2020-21 completed readings**
+- ## 2020-21 completed readings
     - **Platform Track 2020-21 archive**
         - {{[[DONE]]}} A piece about a hierarchy of marketplaces. It refers to some thinking of Bill Gurley, among other things, who deserves a lot of attention.
             - https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
@@ -200,7 +205,7 @@ Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) 
             -  https://en.wikipedia.org/wiki/Eumeswil
             - https://web.archive.org/web/20170318071339/http://www.norwichconference.com/?p=386
         - {{[[DONE]]}} [Ivan Illich introduction](https://howtosavetheworld.ca/2005/02/13/ivan-illich-the-progressive-libertarian-anarchist-priest/) 
-- **Antilibrary (links collected but not read for too long)**
+- ### Antilibrary (links collected but not read for too long)
     - From 2020-21 General Track
         - [NYT: Yuval Levin on institutions losing power to mold character](https://www.nytimes.com/2020/01/18/opinion/sunday/institutions-trust.html)
         - [Fred Turner, Network Celebrity](https://fredturner.stanford.edu/wp-content/uploads/Turner-Larson-Network-Celebrity-PC-2015.pdf)
@@ -262,7 +267,7 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-2e5
             - [What do platforms do, understanding the gig economy](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-121919-054857)
-- [[Governance Meetings Minutes]]
+- ### Governance Meetings Minutes
     - [[September 3rd, 2021]] [[Yak Gov Chat Minutes - The 9 types of people you find in coliving]]
     - [[August 27th, 2021]] [[Yak Gov Chat Minutes - xxxxxxxxxx]]
     - [[May 7th, 2021]] [[Yak Gov Chat Minutes - Chinese Anarchism]]
@@ -292,3 +297,5 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
     - [[05/14/2020 – YC Governance Chat Minutes]] #meeting-notes
     - [[07/31/2020 – YC Gov Chat Minutes - Laloux on 'What Lies Ahead for Business']] #meeting-notes
     - [[05/08/2020 – YC Governance Chat Minutes]] #meeting-notes
+- —
+- Created:: [[May 4th, 2020]] by [[Venkatesh Rao]]
