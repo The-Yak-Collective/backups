@@ -1,9 +1,9 @@
 - **NOTE**: If you are have custodial responsibilities with yak collective please make sure you use a well-supported wallet address (Metamask is strongly recommended) for your custodial actions. Most dApps we might use will NOT support arbitrary wallets.
+- Our safe is currently set up with 2/6 signatures to spend. This is the list of signatories. If you have a proposal to spend YC funds, you'll need to run some sort of consultation process that ends with 2 people on this list releasing the funding.
 - {{[[table]]}}
-    - **Name**
+    - **Signatory**
         - **Address (Metamask STRONGLY recommended)** 
             - **ENS**
-                - **Comments**
     - Nathan Acks
         - 0x954176e55f81F9B5FD92C94aFCAe27Cc13a73824
     - Sachin Benny
@@ -15,6 +15,9 @@
     - Venkatesh Rao
         - 0x103d30cfE109A8c6FddF3ebE1F83178D3972978c
             - venkateshrao.eth
-- Gnosis Safe address: 
+    - **YC Gnosis Safe**
+        - **0xbD3A86bbb085FFE1373D6dedAc2983126566809b**
+            - map yakcollective.eth?
+- [Gnosis Safe address](https://gnosis-safe.io/app/#/safes/0xbD3A86bbb085FFE1373D6dedAc2983126566809b/balances): This will open as read-only unless you connect with a wallet with signing authority, in which case you'll be able to initiate transactions and admin actions.
 - [Gnosis Safe management best practices](https://help.gnosis-safe.io/en/articles/4772567-what-safe-setup-should-i-use)
 - 
