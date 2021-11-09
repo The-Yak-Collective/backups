@@ -35,6 +35,7 @@
     - **Queued**
         - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
         - [a16z — Building and Running a DAO](https://future.a16z.com/building-and-running-a-dao-why-governance-matters/)
+        - [Eight Qualities of DAOs](https://www.ourmachine.net/writing/eight-qualities-daos/)
         - [Vitalik Buterin on DAOs, DACs, DA and more: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
         - [DAO Challenges Twitter Thread](https://twitter.com/divine_economy/status/1443257518428495878?s=21)
         - [Nakatomi Spaces](https://www.bldgblog.com/2010/01/nakatomi-space/) - we already read this?
@@ -62,6 +63,7 @@
         - [Alex Komoroske on Coordination Headwind](https://komoroske.com/slime-mold/)
     - **Queued**
         - [Every Design Studio Should Be a Worker-Owned Studio](https://eyeondesign.aiga.org/every-design-studio-should-be-a-worker-owned-studio/)
+        - [Unrepresentative Claims: Speaking for Oneself in a Social Movement](https://www.cambridge.org/core/journals/american-political-science-review/article/unrepresentative-claims-speaking-for-oneself-in-a-social-movement/E045E3270DB08B76F09048DE99C06B7B)
         - [Bruno Cucinelli interview](https://om.co/2015/04/27/brunello-cucinelli-2/)
         - [Nisaken Center: Cost Disease Socialism](https://www.niskanencenter.org/cost-disease-socialism-how-subsidizing-costs-while-restricting-supply-drives-americas-fiscal-imbalance/)
         - [I Am Not a Bot (podcast with transcript)](https://gimletmedia.com/shows/reply-all/emh36dn/178-i-am-not-a-bot)

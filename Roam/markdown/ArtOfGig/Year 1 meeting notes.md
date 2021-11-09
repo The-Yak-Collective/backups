@@ -1542,6 +1542,7 @@
             - Detailed event plan from Venkat
             - Option choices for how to do the event
             - Can we pull off a hackathon (ourselves + other participants)
+        - 
     - Nov 15 Anuraj?
     - Nov 22 Victor
     - Nov 29 Jascha

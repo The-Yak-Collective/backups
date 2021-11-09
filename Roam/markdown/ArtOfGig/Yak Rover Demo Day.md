@@ -2,8 +2,60 @@
 - [Demo Day Google calendar link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzN1NmxxcTA4ODIwNWp2YjhyNnJkdW9pOGsgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
 - A showcase and discussion surrounding the [[Yak Rover]] project
 - This will serve as a prelude to the [[YC Annual Meeting 2021]] two days later on Dec 14, and highlights from this meeting will also be presented there.
+- Ref: [[Yakathon 1 Mars Rover Edition - 2021 March 28]]
+- Marketing
+    - Eventbrite
+    - Trailer video
+    - Discussion/mingling
+        - Discord channel
+        - Zoom breakaway rooms
+- Time budget
+    - Demos: 2 hours -- serialized?
+        - individual demos
+        - complex demo (2 spider bots)
+        - maybe... parallel free-for-all chaos
+    - Discussion sessions: 2 hours
+        - guest speaker?
+        - 
+    - Opening: 30 min
+    - Closing: 30 min
 - **Demo Day Tentative Agenda**
     - New member orientation
     - Demos of builds
+        - NIM: assembly+ basic movement
+        - WWG: interact with garden
+        - Stubborn: picture taking... integrate/teleoperate stretch goal
+        - IAB: Local remote control for both... teleoperation stretch
+        - Gradient Ascent: Teleoperation with following of an object + obstacle avoidance. Stretch goal: Open AI Clipton (??) connect language with reps
+        - Go and See: rover + camera, local remote control, teleoperation modulo internet connection + testbed for software approaches
+        - AFW: Simple game putting together work from Maier and Eric
+            - May not work.. battery problem
+    - Structure ideas
+        - Parallel sessions for different rovers
+        - Counter -- series... battery constraint, plus diffs
+        - Contingency plans....video
+        - Discussion as a fluid panel discussion
+        - Structure as solid/liquid/gas levels of abstraction/competence
     - Technical deep dives and discussions
+    - Structural elements
+        - Intro
+        - Conclusion/town hall
+        - Intros of all rovers
+        - ASSUME more people will watch the video than attend live
+    - Non-demo session ideas (4x 1h)
+        - Blockchain discussion
+        - Minimal setup/set of skills to do something (function of your skills and home setup)
+            - Have a couple of simple cookbooks
+            - Maybe sort by where you're coming from (electronics/programming/mechanical)
+            - "Learn how to build your own rover"
+            -  
+        - Open source space programs (big ideas session)
+        - Autonomy/abductive reasoning
+        - Playfulness in rovers
+        - Rover simulation RPG type game
+        - Languages/abstraction levels/bio-semiotics for rover
+        - Rover operating systems -- BOS etc.
+        - Practical architecture: stacks/containers/VPNs
+        - Guest speakers?
     - 2022 Planning
+        - Refactor admin roles into pieces (unbundle)
