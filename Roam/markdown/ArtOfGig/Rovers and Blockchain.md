@@ -1,0 +1,5 @@
+- Reading Links
+    - https://www.frontiersin.org/articles/10.3389/frobt.2020.00054/full
+    - https://tiers.utu.fi/project/dltrobotics
+    - https://arxiv.org/abs/1608.00695
+    - https://medium.com/@takahirookada/handle-smart-contract-on-ethereum-with-arduino-or-esp32-1bb5cbaddbf4
