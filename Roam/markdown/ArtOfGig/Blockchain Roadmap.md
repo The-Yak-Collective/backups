@@ -13,6 +13,19 @@
         - Put wallets on rovers  of the [[Yak Rover]] project and have them run a collaboration economy on tokens
 - Options to explore/look into
     - Please add links directly here (preferred) or via the $readingadd command in the #blockchain-roadmap channel on discord.
+    - [[Zigzag]] podcast series on 2018 [[Civil]] token launch. 
+Real-time story arc of an early journo blockchain attempt. /jd
+        - https://zigzagpod.com/episodes/2018/06/14/episode-2
+        - https://zigzagpod.com/episodes/2018/06/21/chapter-3-higher-than-we-knew
+        - https://zigzagpod.com/episodes/2018/07/12/chapter-6-whats-a-cvl-token
+        - https://zigzagpod.com/episodes/2018/07/19/chapter-7-a-new-frontier-for-journalism
+        - https://zigzagpod.com/episodes/2018/07/26/chapter-8-putting-crypto-pioneers-to-the-test
+        - https://zigzagpod.com/episodes/2018/08/02/chapter-9-letter-from-startup-blockchain-women-entrepreneurland
+        - https://zigzagpod.com/episodes/2018/08/16/chapter-11-ten-things-you-should-know-about-crypto
+        - https://zigzagpod.com/episodes/2018/08/23/chapter-12-enter-the-mesh
+        - https://zigzagpod.com/episodes/2018/09/20/the-civil-token-sale-is-live
+        - https://zigzagpod.com/episodes/2018/10/18/s2-ep2-why-civils-token-sale-failed
+        - https://zigzagpod.com/episodes/2018/12/20/s2-ep12-lessons-learned-from-a-risky-crypto-experiment
 - We have an associated study group track in [[Online Governance Studies]]
 - Meeting Notes
     - [[Chat with Rafa Nov 8 2021]]
