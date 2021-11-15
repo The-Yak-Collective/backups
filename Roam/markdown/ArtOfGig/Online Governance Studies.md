@@ -50,6 +50,8 @@
         - [You don't need your own Discord](http://blog.seanbonner.com/2021/10/06/you-dont-need-your-own-discord/)
         - [COBOLing Together UI Benefits: How Delays in Fiscal Stabilizers Impact Aggregate Consumption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928948)
         - [Explained: DeFi Governance Tokens](https://medium.com/multi-io/explained-defi-governance-tokens-23a76e4df543#:~:text=What%20Are%20DeFi%20Governance%20Tokens,profit%20from%20dividends%20when%20issued.)
+        - [Ed Zitron | The Nihilism and Exploitation of the NFT Industry](https://ez.substack.com/p/the-nihilism-and-exploitation-of)
+    - 
 - ### General
     - **Completed**
         - [Hobbies vs. Marvelous Pursuits](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)
