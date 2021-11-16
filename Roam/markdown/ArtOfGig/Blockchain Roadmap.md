@@ -3,7 +3,7 @@
 - Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)
-    - **Treasury Management** (this includes thinking about digital assets like fungible tokens vs. NFT club passes, how they are distributed, who holds them, what liquidity should be available, transferability, utility (voting, access, economic reward) -- initialized, see [[YC Treasury]]
+    - **Treasury Management** (this includes thinking about digital assets like fungible tokens vs. NFT club passes, how they are distributed, who holds them, what liquidity should be available, transferability, utility (voting, access, economic reward)) -- initialized, see [[YC Treasury]]
     - **Membership and Participation** (this is related to the "who" and what types of contribution zones we want to reinforce / support / nudge)
     - ![](https://cdn.discordapp.com/attachments/904793053598998618/906601862801784842/FDbGMe2XoAwhq_j.png)
 - Currently proposed experiments
