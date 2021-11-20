@@ -62,7 +62,6 @@
  :datoms
  [[1 :block/uid "86RlNgFSD" 536878990]
   [1 :user/color "rgb(117,132,156)" 536870913]
-  [1 :user/display-page 3054 536882033]
   [1 :user/email "sachben91@gmail.com" 536870913]
   [1
    :user/settings
@@ -21395,7 +21394,7 @@
   [2366 :log/id 1601045773849 536879719]
   [2366 :node/title "September 25th, 2020" 536879719]
   [2367 :block/uid "rN2nfaCTX" 536879724]
-  [2367 :user/display-page 3048 536882026]
+  [2367 :user/display-page 3139 536882236]
   [2367 :user/email "yakcollective.org@gmail.com" 536879723]
   [2367 :user/uid "ZbY0TESZxRPgzCl68gDfzSfXBe82" 536879723]
   [2368 :block/uid "09-28-2020" 536879725]
@@ -24973,8 +24972,8 @@
   [2866 :version/id "0.8.6" 536881265]
   [2866
    :version/nonce
-   "uuidb8d9abc1-cd97-4213-8dd0-ee33f81a9990"
-   536882036]
+   "uuidfb5d18dc-0371-4384-ae12-e4e2b44625ab"
+   536882235]
   [2867 :block/uid "06-12-2021" 536881266]
   [2867 :create/time 1623491321849 536881266]
   [2867 :create/user 2367 536881266]
@@ -25685,8 +25684,8 @@
   [2999 :version/id "0.8.8" 536881952]
   [2999
    :version/nonce
-   "uuid12620837-f5ac-4f57-b92e-1cc137de4096"
-   536882234]
+   "uuid133e9dae-1c4f-4ac2-8f21-9f967c3e5bf7"
+   536882238]
   [3000 :block/uid "08-13-2021" 536881953]
   [3000 :create/time 1628847954541 536881953]
   [3000 :create/user 2367 536881953]
@@ -26036,12 +26035,6 @@
   [3047 :edit/user 2367 536882021]
   [3047 :log/id 1632303827508 536882021]
   [3047 :node/title "September 22nd, 2021" 536882021]
-  [3048 :block/uid "YmWpD9ZCt" 536882026]
-  [3048 :create/time 1632390274007 536882027]
-  [3048 :create/user 2367 536882027]
-  [3048 :edit/time 1632390274007 536882027]
-  [3048 :edit/user 2367 536882027]
-  [3048 :node/title "Anonymous" 536882027]
   [3049 :block/uid "09-23-2021" 536882028]
   [3049 :create/time 1632390274011 536882028]
   [3049 :create/user 2367 536882028]
@@ -26079,12 +26072,6 @@
   [3053 :edit/user 2367 536882032]
   [3053 :log/id 1632735843903 536882032]
   [3053 :node/title "September 27th, 2021" 536882032]
-  [3054 :block/uid "Z52FdUYmn" 536882033]
-  [3054 :create/time 1632776026183 536882034]
-  [3054 :create/user 1 536882034]
-  [3054 :edit/time 1632776026183 536882034]
-  [3054 :edit/user 1 536882034]
-  [3054 :node/title "Anonymous_1" 536882034]
   [3055 :block/open true 536882035]
   [3055 :block/order 0 536882035]
   [3055 :block/page 2925 536882036]
@@ -26750,4 +26737,17 @@
   [3138 :edit/time 1637315127632 536882234]
   [3138 :edit/user 2367 536882234]
   [3138 :log/id 1637315127631 536882234]
-  [3138 :node/title "November 19th, 2021" 536882234]]}
+  [3138 :node/title "November 19th, 2021" 536882234]
+  [3139 :block/uid "54Y39CIY3" 536882236]
+  [3139 :create/time 1637401475468 536882237]
+  [3139 :create/user 2367 536882237]
+  [3139 :edit/time 1637401475469 536882237]
+  [3139 :edit/user 2367 536882237]
+  [3139 :node/title "Anonymous" 536882237]
+  [3140 :block/uid "11-20-2021" 536882238]
+  [3140 :create/time 1637401475473 536882238]
+  [3140 :create/user 2367 536882238]
+  [3140 :edit/time 1637401475473 536882238]
+  [3140 :edit/user 2367 536882238]
+  [3140 :log/id 1637401475472 536882238]
+  [3140 :node/title "November 20th, 2021" 536882238]]}
