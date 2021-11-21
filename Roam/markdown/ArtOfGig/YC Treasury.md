@@ -1,4 +1,5 @@
 - **NOTE**: If you are have custodial responsibilities with yak collective please make sure you use a well-supported wallet address (Metamask is strongly recommended) for your custodial actions. Most dApps we might use will NOT support arbitrary wallets.
+- We also have a [[YC Fiat Fund]]
 - Our safe is currently set up with 2/6 signatures to spend. This is the list of signatories. If you have a proposal to spend YC funds, you'll need to run some sort of consultation process that ends with 2 people on this list releasing the funding.
 - {{[[table]]}}
     - **Signatory**

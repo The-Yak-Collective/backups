@@ -17,7 +17,7 @@
         7. [[Vinay Débrou]]: Yak Network Map
         8. [[Jordan Peacock]]: New Yaks
         9. [[Darren Kong]]: Infrastructure big picture/wrap up
-        10. [[Venkatesh Rao]]:  [[Yak Collective Fund]] and paid [[Client Projects]]
+        10. [[Venkatesh Rao]]:  [[YC Fiat Fund]] and paid [[Client Projects]]
     - **0900 - 0920: Retrospective fishbowl on past projects**
         - **Moderator: Jenna**
             - Answer: "Why are projects impt to YC"

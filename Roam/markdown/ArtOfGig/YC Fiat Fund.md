@@ -1,4 +1,5 @@
 - **About**: This is an informal ledger of available funds that uses the native Roam calculator to keep a running tally of available funds. Looking for a volunteer to beef up this page, either in-line here and/or via connecting to an actual spreadsheet.
+- We also have an ethereum based [[YC Treasury]]
 - **Rules**:
     - Anyone can request funds for an [[Internal Project]] once it has been started.
     - You have to formally pitch and start a project via the [[Project Pitches]] in order to be eligible for funding. 

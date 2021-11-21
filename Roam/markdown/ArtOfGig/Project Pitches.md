@@ -3,7 +3,7 @@
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional page wranglers: Looking for people
 - Notes::
-    - See also: [[Production Squad]] page maintained by [[Jenna Dixon]] for production support that will be available, and the [[Yak Collective Fund]] to see how much financial support is currently available.
+    - See also: [[Production Squad]] page maintained by [[Jenna Dixon]] for production support that will be available, and the [[YC Fiat Fund]] to see how much financial support is currently available.
     - Unlike the old proposals [[Greenlighting Process]] (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.
 - **DEPRECATED OLD PROPOSAL PROCESS CONTENT**: Everything in this section is deprecated and retained here only to provide historical context.
     - TO PROPOSE A PROJECT::
@@ -37,7 +37,7 @@ Text-heavy website section is like the__ [[Astonishing__ Stories]] __project.
 Image-heavy website section is like__ [[Future Frontiers]]. 
 Consult [[Jenna Dixon]] for details
         - **Financial Structure**: Internal Project | Client Project
-            - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [[Yak Collective Fund]]. Client projects are funded by a client. Check out [[Client Projects]] for details.
+            - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [[YC Fiat Fund]]. Client projects are funded by a client. Check out [[Client Projects]] for details.
         - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
     - **Projects List**
         - [[The New Old Country]]: A sequel to [[The New Old Home]] creating a vision for "The New Old Homestead," integrated with above-the-api technology and meeting the needs of a post-Covid19, tech-heavy world challenged by issues like climate change, existential insecurity, and individualism. 
