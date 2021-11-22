@@ -6,6 +6,10 @@
     - **Treasury Management** (this includes thinking about digital assets like fungible tokens vs. NFT club passes, how they are distributed, who holds them, what liquidity should be available, transferability, utility (voting, access, economic reward)) -- initialized, see [[YC Treasury]]
     - **Membership and Participation** (this is related to the "who" and what types of contribution zones we want to reinforce / support / nudge)
     - ![](https://cdn.discordapp.com/attachments/904793053598998618/906601862801784842/FDbGMe2XoAwhq_j.png)
+- Nov 21 meeting agenda
+    - Review of [[Mirror.xyz Site]]
+    - [[YC Indirect Cost Schedule]] model
+    - [[Web 3 Research topics]] that need investigation
 - Currently proposed experiments
     - A multi-sig wallet with n/m signature authority to hold and disburse YC funds in the form of ethereum or a suitable stablecoin (tbd)
     - Publish the [[Governance Readings Six Pager]] on [mirror.xyz](https://mirror.xyz) as a split-contract NFT with proceeds being divided suitably among contributors and a YC fund.

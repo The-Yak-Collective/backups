@@ -70,6 +70,7 @@ Last Gardened:: [[October 23rd, 2020]] by [[Jenna Dixon]]
             - Chief Page Wrangler:: [[Jenna Dixon]]
         - [[Roam]]
             - Chief Page Wrangler:: [[Venkatesh Rao]]
+        - [[Mirror.xyz Site]]
         - [[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))
             - Chief Page Wrangler:: [[Nathan Acks]]
             - See [[Building the Website]] for more details
