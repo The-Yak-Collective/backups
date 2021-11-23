@@ -43,19 +43,21 @@
         - Intros of all rovers
         - ASSUME more people will watch the video than attend live
     - Non-demo session ideas (4x 1h)
-        - Blockchain discussion
+        - **Blockchain discussion**
         - Minimal setup/set of skills to do something (function of your skills and home setup)
             - Have a couple of simple cookbooks
             - Maybe sort by where you're coming from (electronics/programming/mechanical)
             - "Learn how to build your own rover"
             -  
-        - Open source space programs (big ideas session)
-        - Autonomy/abductive reasoning
-        - Playfulness in rovers
-        - Rover simulation RPG type game
-        - Languages/abstraction levels/bio-semiotics for rover
-        - Rover operating systems -- BOS etc.
-        - Practical architecture: stacks/containers/VPNs
-        - Guest speakers?
+        - Open source space programs (big ideas session) -- separate session
+        - **Playfulness in rovers**
+        - Rover simulation RPG type game -- td session
+        - "Rover middleware and OSes" 
+            - **Autonomy/abductive reasoning**
+            - **Languages/abstraction levels/bio-semiotics for rover**
+            - **Rover operating systems -- BOS etc.**
+            - **Practical architecture: stacks/containers/VPNs x (no victor)**
+        - Guest speakers? x
+    - [[Project Ideas]]
     - 2022 Planning
         - Refactor admin roles into pieces (unbundle)

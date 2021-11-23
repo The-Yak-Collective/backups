@@ -1,0 +1,3 @@
+- How to get more artists in our group?
+- NFT artist communities —- try to join/connect
+- Explore GAN

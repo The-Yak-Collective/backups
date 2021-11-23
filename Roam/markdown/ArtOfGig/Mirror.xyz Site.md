@@ -7,3 +7,11 @@
     - Mirror revenue contributes to the [[YC Treasury]]
     - We use the [[YC Indirect Cost Schedule]] to determine rates
     - Projects that intend to publish on YC Mirror must set up a suitable split contract as early as possible, ideally before contributors put in significant work
+- Mirror moving to L2 support with lower fees
+- Individuals can experiment with own accounts
+- YC should have
+    - Minimum quality
+    - Thematic scope
+- Mint if at least 1 person is likely to collect
+- Artwork has huge impact
+    - [[Artwork Brainstorm]]

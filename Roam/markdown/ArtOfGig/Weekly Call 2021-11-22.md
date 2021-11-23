@@ -1,0 +1,12 @@
+- Agenda for Nov 22 meeting
+    - 1. Mirror.xyz tour and discussion
+        - https://alpha.backdrop.so/rafa0.eth
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FWi__5-GPCh.png?alt=media&token=e42d5eab-eed6-4b78-a298-080ce47369ea)
+    - 2. Discussion of revenue fractions to YC treasury
+        - vgr intro
+        - roundrobin
+        - 
+    - 3. Signing up for Web3 research topics
+- 
+- 
+- 

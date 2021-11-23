@@ -1,0 +1,14 @@
+- list of agenda items in this channel:
+- Discuss and set up a multisig account with n/m signing protocol on gnosis
+- Find and discuss learning materials on how to set up a governance token/stablecoin for a potential DAO
+- IPFS, Arweave and storage solutions
+- How ERC-20 and 721 tokens work
+- Solana ecosystem survey
+- Polychain
+- unlock protocol for sites <https://docs.unlock-protocol.com/>
+- Bleeding edge of NFTs (past projects like Loot)
+- Mirror ecosystem
+- Treasury management
+- explore Web3+metaverse things like decentraland and cryptovoxels
+- research ERC 1155s <https://eips.ethereum.org/EIPS/eip-1155>
+- maybe deploy a simple no-code erc-20 <https://vittominacori.github.io/erc20-generator/>
