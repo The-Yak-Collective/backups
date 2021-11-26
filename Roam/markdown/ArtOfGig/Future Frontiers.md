@@ -39,6 +39,7 @@
             - 
             - [Space Fashion](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8eb80a442b_14_0) | [[Meredith Noelle]]
             - [Overview Effect - Democratize](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8cac20a276_19_0) | [[Ryan Hogan]]
+            - 
         - **Copyedit**
             - ^^[[Fname Lname]]^^
         - **Staged for Web**
