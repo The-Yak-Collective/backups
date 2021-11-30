@@ -77,7 +77,7 @@
     - Admin/Editors/Users can be added to a graph, and then we'll get direct access in our graph menu
         - Roam can set it up to make all gardners graph editors; then we can make the graph viewable-only, and gardeners can manually add new yaks. ^^We need to think about this...^^ [[September 27th, 2020]]
         - 
-- ### from [[Jenna Dixon]]::
+- ### from [[JennaD]]::
     - I'm trying to catch topics as they go by, please add others just so we have a record of what we touched on to help others?
     - roam/js by person
     - permissioning in general

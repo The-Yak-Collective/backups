@@ -22,7 +22,7 @@
         - [[Momentum Problem]] cell
 [[Venkatesh Rao]] lead
         - [[Production Squad]] cell
-[[Jenna Dixon]] lead
+[[JennaD]] lead
     - **Active Cells**
         - [[Future Frontiers]] cell
 [[Siva Swaroop]] lead

@@ -46,5 +46,5 @@
 - Current State: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
 - Created:: [[April 30th, 2021]] by [[Venkatesh Rao]]
 - Last Updated:: `/Today` by `[[Fname Lname]]`
-- Last Gardened:: [[April 30th, 2021]] by [[Jenna Dixon]]
+- Last Gardened:: [[April 30th, 2021]] by [[JennaD]]
 - 

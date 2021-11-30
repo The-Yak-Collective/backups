@@ -1,7 +1,7 @@
 - About:: __XXX__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
-    - Additional Page Wranglers:: [[Jenna Dixon]] | [[Fname Lname]]
-- Created:: [[October 30th, 2020]] by [[Jenna Dixon]]
+    - Additional Page Wranglers:: [[JennaD]] | [[Fname Lname]]
+- Created:: [[October 30th, 2020]] by [[JennaD]]
 - Last Updated:: `/today` by [[Fname Lname]]
 - Last Gardened:: `/today` by [[Fname Lname]]
 - 
@@ -27,7 +27,7 @@
         - tk
     - [[Jordan Peacock]]
         - tk
-    - [[Jenna Dixon]]
+    - [[JennaD]]
         - volunteer v paid gigs distinction
         - in production the triangle is good-fast-cheap
     - [[Grigori Milov]]

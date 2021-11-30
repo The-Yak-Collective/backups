@@ -1,0 +1,86 @@
+- This is an implementation oriented list
+- See [[Online Governance Studies]] tech section for subset relevant to DAO implementation 
+- ---
+- Discuss and set up a multisig account with n/m signing protocol on [gnosis](https://gnosis.io/protocol/)
+- a story describing a day in the life of a yak dao member /mf
+- Find and discuss learning materials on how to set up a governance token/stablecoin for a potential DAO
+    - see examples of algorithms that manage loosely knit organization __without__ a specific overriding goal /mf
+- try to define a series of NFTs that have value or interest to consultants or other natural yak grazing /mf
+- using blockchain to enhance the reputational attraction of service providers, with a focus on the providers of the gig economy. how is it done and can we offer a service /mf
+    - more generally - what web3 service can the YC offer /mf
+        - example - NFT market or minting /mf
+        - example - integrating blockchain into discord server /mf
+- Options for integrating website dynamic content into blockchains? #[[Nathan Acks]]
+    - When is this appropriate? #[[Nathan Acks]]
+    - [IPFS](https://ipfs.io/), [Arweave](https://arweave.org/), [Filecoin](https://filecoin.io/), other storage solutions?
+        - Which of these is best for web hosting? Which is best for storing NFT content? #[[Nathan Acks]]
+    - [Web3.js](https://web3js.readthedocs.io/), [Web3.py](https://github.com/ethereum/web3.py) #[[Nathan Acks]]
+        - Can we strongly connect Discord identities to blockchain identities, since our server roles correspond to involvement levels (kinda)? Is this even a good idea? #[[Nathan Acks]]
+    - [ENS](https://ens.domains/) vs. [Unstoppable Domains](https://unstoppabledomains.com/) vs. [Handshake](https://handshake.org/) vs. ??? #[[Nathan Acks]]
+    - what does a (native) web3 presence look like for yc, and do we prefer one with a bridge to web2.0? /mf
+- How ERC-20 and 721 tokens work
+- split logic which is both clear and flexible /mf
+- Solana ecosystem survey
+    - Are there storage/domain systems built on top of Solana? #[[Nathan Acks]]
+- How do we prevent blockchain lock in? #[[Nathan Acks]]
+- L1s, L2s, L3s, bridges
+    - See pages 2/3 here for a nice TLDR of layers https://timroughgarden.github.io/fob21/l/l1.pdf 
+- Polychain 
+    - @vgr is this what you mean? https://polychaincapitalsllc.com/ #[[JennaD]]
+- [Colony](https://colony.io/)
+- unlock protocol for sites https://docs.unlock-protocol.com/
+- Bleeding edge of NFTs (past projects like Loot)
+    - can add Dom Hoffman's corruptions project brief as separate page when on desktop
+        - eg? https://nftnow.com/columns/sailing-opensea-corruptions-grailers-more/
+        - https://opensea.io/collection/corruption-s
+        - 
+    - can add page for Charged Particles, advance use cases for NFTs when on desktop https://docs.charged.fi/charged-particles-protocol/why-use-charged-particles/some-of-the-possibilities
+    - 
+- [Mirror](https://mirror.xyz/) ecosystem
+- Treasury management
+- explore Web3+metaverse things like decentraland and cryptovoxels
+    - How would the plumbing work in a world where a NFT points to a single scarce item in the metaverse? 
+- research [ERC 1155s](https://eips.ethereum.org/EIPS/eip-1155)
+- maybe deploy a simple no-code erc-20 [Example](https://vittominacori.github.io/erc20-generator/)
+- Solidity programming basics awareness
+    - eg [Nat Eliason - How to Learn Solidity Programming (the Fun Way)](https://www.nateliason.com/blog/learn-solidity)
+- Hardware Wallets #[[Anuraj R]] #[[Patrick Atwater]]
+    - https://unchained.com/blog/multisig-ethereum-contract-for-hardware-wallets/
+    - https://www.ledger.com/blog-ledger-becomes-your-secure-gateway-to-web3
+    - Trezor + MetaMask - https://blog.trezor.io/trezor-metamask-ethereum-dapps-smart-contracts-announcement-dac153caa66c
+- Basic situation awareness of PoW/PoS debates/criticisms/risks
+    - General questions about how the incentives for folks who __run__ the networks do/don’t align with the incentives for network __users__, and also larger societal needs? #[[Nathan Acks]]
+- Culture war between Bitcoin and Ethereum and practical implications
+
+    - add tezos hic et nunc global north/south divide and community forking
+- Social
+    - Since blockchain activity is irreversible, will individuals just spin up new identities to get away from their past? 
+        - or be less involved /mf
+        - or be able to evolve (not the same as a fork, as it is more gradual) /mf
+    - Can someone with no blockchain history be trusted? In the real world, communities are suspicious of outsiders.
+    - Could someone manufacture blockchain history as a way to seed a new identity? Also, what does __blockchain history__ really entail?
+    - Identity swapping - nothing prevents people from hopping across identities, is this a problem? Thinking about the "sleeves" and "stacks" from Altered Carbon.
+        - How to handle forking nyms? How to merge nyms? #[[Nathan Acks]] #[[JennaD]]
+    - Is there a way to repent on the blockchain? 
+- Delegation (Political Science for DAOs?)
+    - How does the voting work from a technical perspective? (Tools, procedures, etc)
+    - Direct democracy vs. republic? Is there a size threshold where one works better than the other?
+    - How do you prevent hostile takeovers?
+    - Identity verification - Because one person can control many blockchain addresses, what prevents one person from using bots to take over a group?
+    - What/how on-chain accountability changes individual behavior and group dynamics. cf `right to be forgotten` discourse #[[JennaD]]
+        - especially - how do we forgive (also forget?) mistakes, if yc is supposed to be a safe place, we want reputational price for mistakes to be low /mf
+    - When delegating, how does a group keep people informed? Current DAOs are centered around Discord and Twitter, which are very ephemeral, and hard to keep track of. Do DAOs adopt corporate reporting practices? At what point is a DAO just a corporation?
+    - some of this goes under "safety" and perhaps - how to keep the dao beast from escaping its human masters /mf
+    - 
+- Noob guide
+    - https://ethereum.org/en/developers/docs/web2-vs-web3/
+    - https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+    - https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b
+    - ENS Domains - https://docs.ens.domains/
+    - Deeper guide to blockchains (Columbia CS prof's course): https://timroughgarden.github.io/fob21/ 
+    - Course at Princeton - https://www.coursera.org/learn/cryptocurrency
+        - https://www.cs.princeton.edu/~arvindn/cryptocurrency/
+    - how-to for getting up to speed and joining the yc dao
+- What is the difference between a DAO and a corporation? 
+Between a DAO and a non-profit?
+- How do new paradigms like proof of space-time affect YC's infrastructure? https://en.wikipedia.org/wiki/Proof_of_space 

@@ -1,4 +1,4 @@
-- 08:39 [[Jenna Dixon]] joining [[Hugo Macedo]] on new gardening pages per Discord ping
+- 08:39 [[JennaD]] joining [[Hugo Macedo]] on new gardening pages per Discord ping
     - https://discordapp.com/channels/692111190851059762/704369362315772044/762253182222991381
     - [[Roam Gardening]] https://roamresearch.com/#/app/ArtOfGig/page/dfP3vW5iD
     - [[YC Roam Style Guide (TBD)]] https://roamresearch.com/#/app/ArtOfGig/page/ae_VMn1vq

@@ -1,5 +1,5 @@
-- 19:58 [[Jenna Dixon]] updated [[Knack]]
-- 20:07 [[Jenna Dixon]] gardened [[Infrastructure]]
-- 21:04 [[Jenna Dixon]] knacked the Yak Map fields + imported [[Vinay Débrou]]'s Discord scrape
+- 19:58 [[JennaD]] updated [[Knack]]
+- 20:07 [[JennaD]] gardened [[Infrastructure]]
+- 21:04 [[JennaD]] knacked the Yak Map fields + imported [[Vinay Débrou]]'s Discord scrape
     - https://docs.google.com/spreadsheets/d/1XzsOv4YWPibDl8RPgGrY2cl146TKoKcPLq0X3sm2lpE/edit#gid=1683206849
     - 

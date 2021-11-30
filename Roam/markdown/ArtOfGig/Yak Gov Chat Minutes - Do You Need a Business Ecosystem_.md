@@ -1,6 +1,6 @@
 - About:: __notes from weekly governance call__
 - Chief Page Wrangler:: [[Grigori Milov]]
-- Created:: [[December 4th, 2020]] by [[Jenna Dixon]]
+- Created:: [[December 4th, 2020]] by [[JennaD]]
 - Page Type:: {{or: #Minutes | #Project | #tk2}}
 - Status:: {{or: Complete | Active | Early Concept | Proposal}}
 - 

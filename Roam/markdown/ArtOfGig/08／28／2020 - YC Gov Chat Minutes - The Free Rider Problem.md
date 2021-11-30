@@ -7,7 +7,7 @@
     - [[Greg Kramer]]
     - [[Grigori Milov]]
     - [[Hershil Patel]]
-    - [[Jenna Dixon]] __passed bc low bandwidth__
+    - [[JennaD]] __passed bc low bandwidth__
         - this seems related in a neat adjacency way: [The 300,00-year case for the 15-hour week](https://www.ft.com/content/8dd71dc3-4566-48e0-a1d9-3e8bd2b3f60f) by [[James Suster]] who has a book coming out on this next month. Grasshopper and the ants. Modern worklife creates a time crunch for non-remunerative work cf Jordan's points re tempo. 
         - rising contributions lift all boats
     - [[Jordan Peacock]]

@@ -1,5 +1,5 @@
 - About:: __A place to build a group of yaks interested in swarming to produce YakC work outputs.__
-- Chief Page Wrangler:: [[Jenna Dixon]]
+- Chief Page Wrangler:: [[JennaD]]
     - Additional Page Wranglers:: [[Suwaythan Nahaganeshan]] | [[Fname Lname]] 
 - 
 -  
@@ -50,7 +50,7 @@ More formal than #reader or #sparring-partner.__
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
-            - [[Jenna Dixon]]
+            - [[JennaD]]
     - ## Design & Layout
         - __Work with__ [[Yak Collective Website]] __to add projects to the website. 
 Native, Webflow, Carrd, Google Slides....__
@@ -60,7 +60,7 @@ Native, Webflow, Carrd, Google Slides....__
             - [[Grigori Milov]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
-            - [[Jenna Dixon]]
+            - [[JennaD]]
     - ## Proofreaders
         - __Proofreading is the final step in the editorial cycle before publication. A proofreader looks at an increment of text on the manuscript and compares it to the corresponding typeset increment and marks any errors. Proofreaders have no editorial authority; they can mark queries for typesetters, editors, or authors.__
         - fmi: [Proofreading](https://en.wikipedia.org/wiki/Proofreading) (Wikipedia)
@@ -70,7 +70,7 @@ Native, Webflow, Carrd, Google Slides....__
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
             - [[Firstname Lastname]]
-            - [[Jenna Dixon]]
+            - [[JennaD]]
         - 
     - ## 🎨 Illustrators 🎨
         - __On their own production timeline. Can be original or found. If found, prefer CC.__
@@ -104,4 +104,4 @@ Native, Webflow, Carrd, Google Slides....__
     - graph TD
         - final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout1-->author_review2-- loop as needed -->design-->proofread-->author_review3-->layout2-->publish
 - 
-- Last Updated:: [[September 21th, 2020]] by [[Jenna Dixon]]
+- Last Updated:: [[September 21th, 2020]] by [[JennaD]]

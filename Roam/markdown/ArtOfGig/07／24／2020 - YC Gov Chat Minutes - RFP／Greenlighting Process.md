@@ -22,7 +22,7 @@
         - Idea 1: Create a track in Discord for Platform Thinking 
         - Idea 2: How did Bezos come to the platform philosophy? 
     - [[Hershil Patel]]
-    - [[Jenna Dixon]]
+    - [[JennaD]]
         - [Participatory management](https://en.wikipedia.org/wiki/Participatory_management) to become a platform has a limiter of do humans have the toolset to manage power structures?
         - Read Walkaway discussion 
             - >[...] __Walkaway__ is a remarkable "story of a utopia in progress, as messy as every new thing ever is, told in the form of people talking to each other, arguing with each other and working together to solve problems. It's all about the deep, disturbing, recognizable weirdness of the future that must come from the present we have already made for ourselves, trying to figure out what went wrong and what comes next."[[1]](https://en.wikipedia.org/wiki/Walkaway_(Doctorow_novel)#cite_note-npr-1)

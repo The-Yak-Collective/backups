@@ -1,4 +1,4 @@
 - could use  {{[[∆]]:1+2}}
-- [[Astonishing Stories -  Meeting notes]] call 19:00 on Discord General w [[Sachin Benny]] [[Amanda Reeves]] [[Jenna Dixon]] [[Jordan Peacock]]
+- [[Astonishing Stories -  Meeting notes]] call 19:00 on Discord General w [[Sachin Benny]] [[Amanda Reeves]] [[JennaD]] [[Jordan Peacock]]
 - added [[Justice]] to [[Production Squad]] illustrator. working on [[Astonishing Stories]]
 - 

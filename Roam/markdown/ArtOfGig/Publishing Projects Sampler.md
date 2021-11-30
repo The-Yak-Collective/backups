@@ -47,6 +47,6 @@ We are committed to listening, learning, making changes, and being pro-active in
     - https://www.workingfutur.es
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F1dgVllzZEx.png?alt=media&token=6519e5e7-076c-4fc1-99d3-caec3b2cb3b2)
     - 
-- Created:: [[August 4th, 2020]] by [[Jenna Dixon]]
-- Updated:: [[December 17th, 2020]] by [[Jenna Dixon]]
+- Created:: [[August 4th, 2020]] by [[JennaD]]
+- Updated:: [[December 17th, 2020]] by [[JennaD]]
 - 

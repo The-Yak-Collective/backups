@@ -2,7 +2,7 @@
 - Chief Page Wrangler:: [[Hugo Macedo]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
 - Last Updated:: 
-    - [[June 23rd, 2021]] by [[Jenna Dixon]]
+    - [[June 23rd, 2021]] by [[JennaD]]
         - to grab a topic for the Discord channel; used above for About as well; shortened page title
     - [[September 20th, 2020]] by [[Hugo Macedo]]
 - 

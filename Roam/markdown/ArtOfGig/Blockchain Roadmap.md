@@ -3,7 +3,9 @@
 - Nov 22 meeting agenda
     - Review of [[Mirror.xyz Site]]
     - [[YC Indirect Cost Schedule]] model
-    - [[Web 3 Research topics]] that need investigation
+- Nov 29 meeting agenda
+    - [[Web 3 Implementation Research topics]] that need investigation
+    - Lore/Mission story
 - Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)

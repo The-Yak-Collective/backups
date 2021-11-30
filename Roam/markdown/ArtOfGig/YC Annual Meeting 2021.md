@@ -4,7 +4,7 @@
 - **Annual Meeting Tentative Agenda**
     - New member orientation (all)
     - Infrastructure update ([[Nathan Acks]])
-    - Production and publishing ops ([[Jenna Dixon]])
+    - Production and publishing ops ([[JennaD]])
     - Online Governance paper ([[Sachin Benny]])
     - Yak Rover Highlights ([[Maier Fenster]]) -- Note there will be a separate [[Yak Rover Demo Day]] on Dec 
     - Finance and blockchain Initiatives ([[Venkatesh Rao]])

@@ -1,7 +1,7 @@
 - Status::
     - stub
 - Last update::
-    - [[August 18th, 2020]] by [[Jenna Dixon]]
+    - [[August 18th, 2020]] by [[JennaD]]
 - Suggestions invited::
     - yes indeedy
 - We're all on the learning curve with Roam lol. There seems to be a tipping point where befuddlement or frustration shifts into flying around in a way other text editors don’t let you. 

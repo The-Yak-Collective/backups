@@ -9,7 +9,7 @@
     - **0800-0805**: [[Introduction to the Yak Collective]]
     - **0805-0900: Operations/Infra Updates (9x5 minutes each = 45 minutes, 10 minutes slack)** — everybody make sure to cover where things will go next. Emcee = Darren 
         1. Darren - intro 
-        2. [[Jenna Dixon]]: Production infrastructure and member directory intro
+        2. [[JennaD]]: Production infrastructure and member directory intro
         3. [[Nathan Acks]]: Website
         4. [[Maier Fenster]]: Tools & Automation
         5. [[Hugo Macedo]]: Marketing

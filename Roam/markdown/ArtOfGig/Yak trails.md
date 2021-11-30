@@ -1,5 +1,5 @@
 - # Call logs
-    - [[August 21st, 2021]] 11:00am ET [[Anuraj R]] [[Nathan Acks]] [[Jenna Dixon]]
+    - [[August 21st, 2021]] 11:00am ET [[Anuraj R]] [[Nathan Acks]] [[JennaD]]
         - convo on [[Buttondown]]
             - Pros
                 - Handles list management for us (unlike [[Mandrill]], [[SendGrid]], [[Mailgun]])
@@ -19,7 +19,7 @@
         - ¿Run Substack and Buttondown side by side v shut Substack down (or archive)?
             - Managing two lists seems like a bad idea
         - 
-    - [[July 24th, 2021]] 10:00 [[Anuraj R]] [[Jenna Dixon]]
+    - [[July 24th, 2021]] 10:00 [[Anuraj R]] [[JennaD]]
         - update [[August 25th, 2021]]
             - https://zapier.com/learn/email-marketing/best-email-newsletter-software/
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FhpGz5NdIgn.jpg?alt=media&token=01c1d3d0-f0b1-481c-ada0-bae60172ab06)

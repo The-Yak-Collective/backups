@@ -8,7 +8,7 @@
             - How can we overcome challenges #1 - role confusion and #2 control imbalance? 
     - [[Hershil Patel]]
         - 
-    - [[Jenna Dixon]] wonder if there’s a recent update on how they are doing now
+    - [[JennaD]] wonder if there’s a recent update on how they are doing now
         - entrepreneurial units interesting
         - > Based on these interviews, we designed and administered a survey that was made available on the Firm’s intranet to over 10,000 employees from September to December 2015. Only 286 survey responses were obtained from 9 platform owners, 33 micro-enterprise owners, and 244 micro-enterprise members.
         - Are there recent updates to the study from this firm? 

@@ -1,11 +1,11 @@
 About:: __GDPR-compliant platform for storing member profile information. 
 API access to/from Discord+Roam+Website. 
 Member login for maintaining their own public Yak information.__
-Chief Page Wrangler:: [[Jenna Dixon]]
+Chief Page Wrangler:: [[JennaD]]
     - Additional Page Wranglers:: [[Nathan Acks]] | [[Maier Fenster]] 
 Created:: [[September 13th, 2020]] by [[Nathan Acks]]
-Last Updated:: [[October 5th, 2020]] by [[Jenna Dixon]]
-Last Gardened:: [[October 21st, 2020]] by [[Jenna Dixon]]
+Last Updated:: [[October 5th, 2020]] by [[JennaD]]
+Last Gardened:: [[October 21st, 2020]] by [[JennaD]]
 # Purpose
     - Member database (future website release)
         - Minimal information from [[Discord]] (server name, user ID, role data) will be moved over using a `yak_shaver` bot. May or may not commit info to [[GitHub]] along the way.
@@ -13,6 +13,6 @@ Last Gardened:: [[October 21st, 2020]] by [[Jenna Dixon]]
     - New Yak signup: https://yak.knack.com/yaks
     - Yak login: [https://yak.knack.com/yaks#yak-profile/](https://yak.knack.com/yaks#yak-profile/)
     - Builder: [https://builder.knack.com](https://builder.knack.com)
-    - Share login: [[Jenna Dixon]] | [[Jordan Peacock]] 
+    - Share login: [[JennaD]] | [[Jordan Peacock]] 
     - Alternate Builder access as needed: [[Nathan Acks]] | [[Maier Fenster]] | [[Anuraj R]]
     - [[Jordan Peacock]] monthly charge 39USD on his card. Our plan allows 2 Builders.

@@ -1,8 +1,8 @@
 - About:: __stub page for collecting privacy policy inspo__
 - Chief Page Wrangler:: [[Fname Lname]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
-- Created:: [[August 25th, 2020]] by [[Jenna Dixon]]
-- Last Updated:: [[October 21st, 2020]] by [[Jenna Dixon]]
+- Created:: [[August 25th, 2020]] by [[JennaD]]
+- Last Updated:: [[October 21st, 2020]] by [[JennaD]]
 - Last Gardened:: `/today` by [[Fname Lname]] 
 -  
 -  

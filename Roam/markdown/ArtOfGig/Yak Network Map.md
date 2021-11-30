@@ -11,7 +11,7 @@
 - Meetings::
     - call [[August 18th, 2020]]
         - ![](https://media.discordapp.net/attachments/739944326913851488/745295101785407498/unknown.png)
-    - Attending: [[Vinay Débrou]] | [[Jenna Dixon]] | [[Maier Fenster]]
+    - Attending: [[Vinay Débrou]] | [[JennaD]] | [[Maier Fenster]]
     - Follow up: [[Vinay Débrou]] will propose possible times for a joint call on the [[Discord]] [[Infrastructure]] channel
 - 
 - **Update Dec 10th, 2020** [[Vinay Débrou]]

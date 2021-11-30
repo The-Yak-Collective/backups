@@ -1,6 +1,6 @@
 About:: __Documenting channel lifecycle and categories for the Yak Collective Discord server.__
 Chief Page Wrangler:: [[Nathan Acks]]
-    - Additional Page Wranglers:: [[Jenna Dixon]] | `[[Fname Lname]]`
+    - Additional Page Wranglers:: [[JennaD]] | `[[Fname Lname]]`
 Created:: [[March 14th, 2021]] by [[Nathan Acks]]
 Current State:: {{or:Proposed | Live | Draft | Archived}}
 ---
@@ -56,4 +56,4 @@ Current State:: {{or:Proposed | Live | Draft | Archived}}
     - {{[[TODO]]}} [[Nathan Acks]] Merge this document into [[Discord Channel Lifecycle and Organization]].
 
 Last Updated:: [[March 17th, 2021]] by [[Nathan Acks]]
-Last Gardened:: [[March 15th, 2021]] by [[Jenna Dixon]]
+Last Gardened:: [[March 15th, 2021]] by [[JennaD]]

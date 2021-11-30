@@ -1,5 +1,5 @@
 - About:: __documenting the YakC bot family used for pushing/pulling Discord and project exhausts into the automated portions of the YakTalk newsletter__
-- Page Wranglers:: [[Phil Wolff]] | [[Jenna Dixon]] | [[Maier Fenster]] | [[Venkatesh Rao]]
+- Page Wranglers:: [[Phil Wolff]] | [[JennaD]] | [[Maier Fenster]] | [[Venkatesh Rao]]
 - Page Type:: {{or:#WorkingDoc | #Project | #tk2}}
 - Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
 - ---
@@ -18,14 +18,14 @@
     - Which bot handles what? 
     - "Key person" problem: assuring a new person can continue. Access to data, documents, code. Apprenticing. 
     - Tools for programmatic newsletters. 
-        - [https://buttondown.email](https://buttondown.email) more APIish than substack and mailchimp, via [[Jenna Dixon]]
+        - [https://buttondown.email](https://buttondown.email) more APIish than substack and mailchimp, via [[JennaD]]
     - How do we add human announcements at the top of the feed, only as needed? 
         - News announcement channel. 
     - What language do we want in the header or footer for disclaimers or explanations? 
         - "This is activity from the Yak Collective's discord[link] conversations as of [date/time]. CC-BY Yak Collective [year]. Archive[link] of newsletters and blog posts."
     - Action items: 
-        - manually curated first and second editions, then automate further. [[Phil Wolff]], [[Jenna Dixon]] to .md the first set. 
-        - check for permissions to automation elements. [[Jenna Dixon]] ping for Prafur's access to ??
+        - manually curated first and second editions, then automate further. [[Phil Wolff]], [[JennaD]] to .md the first set. 
+        - check for permissions to automation elements. [[JennaD]] ping for Prafur's access to ??
         - fundraising project seed: raise a budget to cover incidentals. 
         - https://github.com/The-Yak-Collective/yakcollective/blob/astonishing-stories/newsletter/_posts/2021-05-01_draft.md
         - check on css classes to define for common parts. 
@@ -52,7 +52,7 @@
                     - ogs 99 | lkjdahfglk
                     - yr 99 | lkjashdlfkjh
 - Call Notes for [[May 15th, 2021]]:
-    - [[Phil Wolff]] [[Jenna Dixon]] attending
+    - [[Phil Wolff]] [[JennaD]] attending
     - worked on Github set up + Github Desktop
     - worked on pushing 2021-05-15 draft out
     - rejiggerred Substack look and feel /j
@@ -75,7 +75,7 @@
     - [[Nathan Acks]]: We don't have a bot that can do anything like this to my knowledge, __and__ Roam still lacks an API (at least one that will work for the YC graph). __But!__ We have [a stable daily backup](https://github.com/The-Yak-Collective/backups) now, so anything we write should be available as a (Roam-flavored) markdown file [here](https://github.com/The-Yak-Collective/backups/tree/master/Roam/markdown/ArtOfGig). Files in that directory get refreshed daily, so as long as we don't need to turn-around changes in this text on short notice, we can pull from here.
     - [[Phil Wolff]]: Could this work with a non-Roam source-of-truth for the boilerplate?
 - Automated newsletter parts
-    - Upcoming events [[Jenna Dixon]]
+    - Upcoming events [[JennaD]]
         - [[Nathan Acks]]: Two options here: One is to use the bot that produces the `#upcoming-events` dashboard ([project_ui](https://github.com/The-Yak-Collective/project_ui)), the other to use the bot that pushes updates to `#event-notifications` ([gmail_hook](https://github.com/The-Yak-Collective/gmail_hook)). My instinct is that the Project_UI bot will be easier to adapt... All we really need it to is push a new/updated markdown file detailing the events somewhere. Maybe we overload the [backups](https://github.com/The-Yak-Collective/backups) repo for this, or maybe we create a new "newsletter" repo. Probably want to update that file one per week at XX:XX UTC.
         - Scope: recurring events and nonrecurring events, soonest first
         - User actions: 
@@ -109,7 +109,7 @@
                     - not sure how much maintenance such a bot would add to future techdebt.
                     - no obvious technical risks that I imagine.
             - ## Content
-                - Masthead [[Jenna Dixon]] 
+                - Masthead [[JennaD]] 
                     - Placeholder text:
                         - H1: Yaklog
                         - P: These links are from our Yak Collective discord where hundreds of independent consultants talk and collaborate.
@@ -130,7 +130,7 @@
                         - post date/time (+post permalink)
                             - Should be the datetime of the original message.
                             - The permalink is the #anchor link to this part of the linklog.
-                - Monthly leaderboard list of top/trending few channels [[Jenna Dixon]]
+                - Monthly leaderboard list of top/trending few channels [[JennaD]]
                     - [[Nathan Acks]]: This is handled by the [yak_scraper](https://github.com/The-Yak-Collective/onboarding_robot) bot. Seems like we'd just be writing the results of `$signal` for a period of X days once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y)))?
                     - [[Maier Fenster]] done, i think
                 - Channels showing signs of life (low-levels up from quiet) [[#]]
@@ -143,11 +143,11 @@
                 - Excerpts from Soapbox, will need a bit of human markup and queuing [[#]]
                     - [[Nathan Acks]]: No bot to do this, I think that [Maier's comment below](((5R-5Tqjlh))) is spot-on.
                     - [[Maier Fenster]] no idea how to do this. seems to me more efficient if done manually, at least until that time people use the channel a lot. how is it different form summarizing/extracting any text channel?
-                - Agenda lists for channels that have them [[Jenna Dixon]]
-                    - Infra [[Jenna Dixon]]
+                - Agenda lists for channels that have them [[JennaD]]
+                    - Infra [[JennaD]]
                     - Marketing [[#]]
                     - Rover [[#]]
-                    - OGS [[Jenna Dixon]] or [[#]]
+                    - OGS [[JennaD]] or [[#]]
                     - [[Nathan Acks]]: This is handled by [gigayak](https://github.com/The-Yak-Collective/gigayak). Seems like we'd just be writing the results of `$agendalist` for each channel with an agenda once per week at XX:XX UTC, presumably to [the same repo/place as any upcoming events](((7jQNzv81y))). Probably needs more massaging than other data to get into a form suitable for cut-and-paste.
                         - **Side note:** "Gigayak" is the best bot name. Always makes me think of some kind of giant yak kaiju.
                     - [[Maier Fenster]] need to add that functionality, but not a biggie, as the data is all in database, so only need query
@@ -160,5 +160,5 @@
 - 
 - ---
 - Last Updated:: [[April XXth, 2021]] by [[#]]
-- Created:: [[April 28th, 2021]] by [[Jenna Dixon]]
+- Created:: [[April 28th, 2021]] by [[JennaD]]
 - 

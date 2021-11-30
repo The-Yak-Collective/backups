@@ -2,7 +2,7 @@
 [[Kim Stanley Robinson]] interviewed by [[Robin Sloan]] about [[Ministry for the Future]]
 Tue, Feb 9, 2021 10:00 PM EST
 - SIGNUP LINK:: https://www.crowdcast.io/e/ksrobinson
--  Page Wrangler: [[Jenna Dixon]]
+-  Page Wrangler: [[JennaD]]
     - Additional Page Wranglers: [[Oliver King]] | `[[Fname Lname]]`
 - Page Type:: #[[Pop-Up Event]]
 - Status:: #[[Active]]
@@ -11,12 +11,12 @@ Tue, Feb 9, 2021 10:00 PM EST
 - CHAT CONVENTIONS:: 
     - __a quick riff off the Roam Book Club community conventions__
     - start new threads under the appropriate timestamp
-    - start new blocks with your # eg #[[Jenna Dixon]]
+    - start new blocks with your # eg #[[JennaD]]
     - indent replies to comments from others
     - ideas/suggestions on multiplayer Roam welcome 
 - ---
 - 10:00 ET
-    - #[[Jenna Dixon]] stream firing up now 22:04. 
+    - #[[JennaD]] stream firing up now 22:04. 
 w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
     - 
     - 
@@ -29,7 +29,7 @@ w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
     - 
     - 
 - 10:20
-    - #[[Jenna Dixon]] 
+    - #[[JennaD]] 
         - yes KSR's notorious for giving big info downloads lol
             - my first experience of that was [[Aurora]]
             - "dreaded expository lump" "Dump until you die"
@@ -42,7 +42,7 @@ w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
     - 
     - 
 - 10:30
-    - #[[Jenna Dixon]]
+    - #[[JennaD]]
         - ah we've gotten to the PKM discussion of the night
             - project-based. finding bricks for a wall. pieces of string.
         - [[Robin Sloan]]: "financial science fiction" central bank playing central role in story. KSR laughs. 😹
@@ -52,12 +52,12 @@ w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
         - Ahhh, the romance of the Central Bankers
         - I love the emergence, or perhaps re-emergence, of political-economic themes as central drivers in science-fiction novels a la the power dynamics in Dune or Three Body Problem
         - From the comments -- "what would happen if KSR was interviewed by an economist?" -- I feel like that would be too cringe to be enjoyable
-            - #[[Jenna Dixon]] I saw that too and had similar reaction
+            - #[[JennaD]] I saw that too and had similar reaction
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FMpz-q1D2n-.jpg?alt=media&token=78e71a2e-bc6e-4476-a041-f377e20fc282)
     - 
     - 
 - 10:40
-    - #[[Jenna Dixon]]
+    - #[[JennaD]]
         - now on to California as a character. mention of Point Reyes Bookstore.
             - I was there during the Healdsburg Fire year, backpacking at the coast, bought a couple of books to take with.
         - [Groundwater management act](https://en.wikipedia.org/wiki/Sustainable_Groundwater_Management_Act)
@@ -68,7 +68,7 @@ w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FY9XIAV8DBe.jpg?alt=media&token=d8bf6fc3-c412-4bb5-b6ce-f5634de66eb9)
     - #[[Oliver King]]
         - "What role does California have in the future?" -- KSR answers by talking about social problems e.g. income inequality as contextualised by the neoliberal global order and goes on to talk about biohealth programs e.g. groundwater management act. Is the first point meant to signal his attitude about the viability or likelihood of what California can do for the social good?
-            - #[[Jenna Dixon]] does seem like he can hold Calif as a place that can demo solutions
+            - #[[JennaD]] does seem like he can hold Calif as a place that can demo solutions
         - It's interesting to listen to KSR answer the California question in a meandering and somewhat disorganized way; this is the first time I've heard him speak but seems to be as reflected in the way he writes as well
         - KSR says he wants to speak to mainstream economists! Says he doesn't understand why MMT can't work. Seems like the more relevant question is: what are the consequences of proceeding as if MMT can work, and the consequences of proceeding as if it doesn't work?
     - 
@@ -78,7 +78,7 @@ w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
         - Wanted to obscure the novel's timeline for himself, a fuzzball he couldn't quite make sense of, and wasn't sure why he did that; SUPER INTERESTING!
         - "Now we know that" re: the growing urgency of climate change and how we're going to manage our transition into the Antropocene. I'd push back against that, I wonder how what percentage of the population __really__ know and think about these things in a meaningful way, and the percentage of those who do ready to take meaningful action, and then the percentage who follow-through in a meaningful way
         - 
-    - #[[Jenna Dixon]]
+    - #[[JennaD]]
         - on to the climate question now
         - he'd been disconnected on a weeklong rafting trip when the pandemic hammer dropped
         - strong realization that things can change fast
@@ -96,7 +96,7 @@ w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
         - "All the good little solutions will be eaten by the neoliberal order" as a premise to necessitate a top-down solution. That's an interesting angle I hadn't though of before and would be curious to explore more as a thought process. Can't we convert Moloch from Sith to Jedi a la [[Daniel Schmachtenberger]]?
         - "The novel is a mess" -- I think that's OK. Climate Change as a hyper-concept, something so huge as a space that it's impossible to grasp fully, is something to be appreciated in its immensity. Perhaps the grim naivete of the book is in itself a testament to our future.
     - 
-    - #[[Jenna Dixon]]
+    - #[[JennaD]]
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDvfOtxfii8.jpg?alt=media&token=64a97c89-15b8-44a2-9f24-315414de45aa)
             - [[Ursula Leguin]]. [[Ian Banks]]. [[Afrofuturists]]. [[Cory Doctorow]].
             - Bottom up important. Need good topdown too. Good little projects will get eaten up by neoliberalism.
@@ -116,7 +116,7 @@ w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
 - 
 - 
 - 
-- Created:: [[February 9th, 2021]] by [[Jenna Dixon]]
+- Created:: [[February 9th, 2021]] by [[JennaD]]
 - Last Updated:: `/Today` by `[[Fname Lname]]`
 - Last Gardened:: `/Today` by `[[Fname Lname]]`
 - 

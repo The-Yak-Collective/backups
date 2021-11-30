@@ -13,7 +13,7 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
         - Added most recent project release to the homepage.
         - Additional front-end performance optimizations.
         - Bug fixes
-    - [[Jenna Dixon]]
+    - [[JennaD]]
         - Updated yak logo.
 # v2.3
     - [[Nathan Acks]]

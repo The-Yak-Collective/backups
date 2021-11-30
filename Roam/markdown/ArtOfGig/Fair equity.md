@@ -6,7 +6,7 @@
 - Created:: [[October 31st, 2020]] by [[Kacper Wikieł]]
 - Status:: {{or: Early Concept | Active | Proposal | Complete}}
 - Last Updated:: `/today` by [[Fname Lname]]
-- Last Gardened:: [[November 9th, 2020]] by [[Jenna Dixon]] 
+- Last Gardened:: [[November 9th, 2020]] by [[JennaD]] 
 - Jobs and ways to contribute::
     - researchers 
         - reading Slicing the Pie and similar materials on equity compensation 
