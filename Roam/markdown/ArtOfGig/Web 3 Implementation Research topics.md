@@ -1,3 +1,4 @@
+- Support for the [[Blockchain Roadmap]] track
 - This is an implementation oriented list
 - See [[Online Governance Studies]] tech section for subset relevant to DAO implementation 
 - ---
@@ -30,14 +31,10 @@
 - [Colony](https://colony.io/)
 - unlock protocol for sites https://docs.unlock-protocol.com/
 - Bleeding edge of NFTs (past projects like Loot)
-    - can add Dom Hoffman's corruptions project brief as separate page when on desktop
-        - eg? https://nftnow.com/columns/sailing-opensea-corruptions-grailers-more/
-        - https://opensea.io/collection/corruption-s
-        - 
-    - can add page for Charged Particles, advance use cases for NFTs when on desktop https://docs.charged.fi/charged-particles-protocol/why-use-charged-particles/some-of-the-possibilities
-    - 
+    - Dom Hoffman's [[Corruption(s*)]] project #Ack
+    - [[Charged Particles]], advance use cases for NFTs #Ack
 - [Mirror](https://mirror.xyz/) ecosystem
-- Treasury management
+    - Treasury management
 - explore Web3+metaverse things like decentraland and cryptovoxels
     - How would the plumbing work in a world where a NFT points to a single scarce item in the metaverse? 
 - research [ERC 1155s](https://eips.ethereum.org/EIPS/eip-1155)
@@ -52,7 +49,7 @@
     - General questions about how the incentives for folks who __run__ the networks do/don’t align with the incentives for network __users__, and also larger societal needs? #[[Nathan Acks]]
 - Culture war between Bitcoin and Ethereum and practical implications
 
-    - add tezos hic et nunc global north/south divide and community forking
+    - The Hic Et Nunc project on the Tezos Chain is in a current "Culture war". HEN is an open source NFT marketplace built on the Tezos chain by a Brazilian developer. NFTs minted on HEN are called OBJKT. The developer "discontinued" the project after a site called objct.com announced their own minting feature (using their own smart contract and not HEN's). HEN is an open source project, so several clones were made and members of the community resurrected the project. However, several other people not a part of the original community have since taken advantage of this market volatility and open source framework to appropriate the technology and marketplace into what the original community is framing as an act of global north hegemony. This global south/north tension might be an interesting and current case study of chain/culture wars. #Ack
 - Social
     - Since blockchain activity is irreversible, will individuals just spin up new identities to get away from their past? 
         - or be less involved /mf
@@ -62,6 +59,7 @@
     - Identity swapping - nothing prevents people from hopping across identities, is this a problem? Thinking about the "sleeves" and "stacks" from Altered Carbon.
         - How to handle forking nyms? How to merge nyms? #[[Nathan Acks]] #[[JennaD]]
     - Is there a way to repent on the blockchain? 
+    - https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e
 - Delegation (Political Science for DAOs?)
     - How does the voting work from a technical perspective? (Tools, procedures, etc)
     - Direct democracy vs. republic? Is there a size threshold where one works better than the other?
@@ -71,7 +69,9 @@
         - especially - how do we forgive (also forget?) mistakes, if yc is supposed to be a safe place, we want reputational price for mistakes to be low /mf
     - When delegating, how does a group keep people informed? Current DAOs are centered around Discord and Twitter, which are very ephemeral, and hard to keep track of. Do DAOs adopt corporate reporting practices? At what point is a DAO just a corporation?
     - some of this goes under "safety" and perhaps - how to keep the dao beast from escaping its human masters /mf
-    - 
+    - What are the pros and cons of an open-sourced organization, where all activity is public? This visibly backfired on ConstitutionDAO, as the winner of that auction knew exactly how much they needed to bid to win.
+    - What are the security risks of having finances, governance, etc in code? Can those things be changed by a hacker? https://en.wikipedia.org/wiki/The_DAO_(organization)
+    - https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q
 - Noob guide
     - https://ethereum.org/en/developers/docs/web2-vs-web3/
     - https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
@@ -84,3 +84,4 @@
 - What is the difference between a DAO and a corporation? 
 Between a DAO and a non-profit?
 - How do new paradigms like proof of space-time affect YC's infrastructure? https://en.wikipedia.org/wiki/Proof_of_space 
+- Incentive design https://twitter.com/tony_intern/status/1465719820071186440?s=21

@@ -83,6 +83,8 @@
         - [Partial Common Ownership](https://www.radicalxchange.org/concepts/partial-common-ownership/)
         - [Stewardship of Global Collective Behavior](https://www.pnas.org/content/118/27/e2025764118)
         - [Squad Wealth](https://otherinter.net/research/squad-wealth/)
+        - [Rochdale Principles](https://en.wikipedia.org/wiki/Rochdale_Principles)
+        - 
 - **Proposed Tracks**: Will be either created or forked from existing tracks if there's enough queued material and/or someone steps up to curate it
     - Grants/funding
     - Offline-online link

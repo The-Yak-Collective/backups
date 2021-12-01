@@ -1,5 +1,6 @@
 - This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
 - [[YC Treasury]]
+- [[Blockchain Infrastructure Resources]]
 - Nov 22 meeting agenda
     - Review of [[Mirror.xyz Site]]
     - [[YC Indirect Cost Schedule]] model

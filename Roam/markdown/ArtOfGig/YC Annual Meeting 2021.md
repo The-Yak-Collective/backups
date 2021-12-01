@@ -2,12 +2,33 @@
 - [Annual Meeting Google Calendar Link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjVzMXQ2aDc5bGd0a2VmZ2UwaW4xNmtnYzIgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
 - Zoom link: COMING SOON
 - **Annual Meeting Tentative Agenda**
-    - New member orientation (all)
-    - Infrastructure update ([[Nathan Acks]])
-    - Production and publishing ops ([[JennaD]])
-    - Online Governance paper ([[Sachin Benny]])
-    - Yak Rover Highlights ([[Maier Fenster]]) -- Note there will be a separate [[Yak Rover Demo Day]] on Dec 
-    - Finance and blockchain Initiatives ([[Venkatesh Rao]])
-    - Town Hall/Open Discussion
-    - Future Projects discussion...
+- Event starts at 1500 UTC (7 AM US Pacific, 10 AM US Eastern)
+- {{[[table]]}}
+    - **Time (UTC)**
+        - **Topic**
+            - **Lead**
+    - 1500
+        - Introduction/Orientation
+            - ??
+    - 1530
+        - Infrastructure update 
+            - ([[Nathan Acks]])
+    - 1600
+        - Production and publishing ops
+            -  ([[JennaD]])
+    - 1630
+        - Online Governance paper
+            -  ([[Sachin Benny]])
+    - 1700
+        - Yak Rover Highlights 
+            - ([[Maier Fenster]])
+    - 1730
+        - Blockchain Initiative
+            -  ([[Venkatesh Rao]])
+    - 1800
+        - Future Projects discussion...
+            - Networking/Pitching
+    - 1830
+        - Town Hall/Open Discussion
+            - All
 - This is our second annual meeting. See [[YC Annual Meeting 2020]] for notes on last year's meeting and what to expect.
