@@ -11,7 +11,7 @@
     - more generally - what web3 service can the YC offer /mf
         - example - NFT market or minting /mf
         - example - integrating blockchain into discord server /mf
-- Options for integrating website dynamic content into blockchains? #[[Nathan Acks]]
+- ^^[[Nathan Acks]]: I’ll put something together about hosting options. Might take me a couple of weeks though, as I also need to put together my part of the [[YC Annual Meeting 2021]]. Lots of sub-points, might not get to all of them.^^ Options for integrating website dynamic content into blockchains? #[[Nathan Acks]]
     - When is this appropriate? #[[Nathan Acks]]
     - [IPFS](https://ipfs.io/), [Arweave](https://arweave.org/), [Filecoin](https://filecoin.io/), other storage solutions?
         - Which of these is best for web hosting? Which is best for storing NFT content? #[[Nathan Acks]]
