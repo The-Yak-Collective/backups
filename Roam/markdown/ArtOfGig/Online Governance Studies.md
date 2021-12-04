@@ -4,7 +4,9 @@
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
 - We meet every Friday on Discord Chat at 9 AM Pacific to read and discuss a short reading relevant to online governance. We have multiple reading tracks each with their queues, which you can find below. 
 - For the 2021-22 season, we have 4 active tracks with active queues: Nature and Long-Term Thinking, Case Studies, Technology, and General. Please feel free to add links to any queue (preferred), or in the Discord ogs channel using the `$readingadd` command. The Discord list is used as an inbox/buffer and is periodically cleared and moved here.
-- 
+- ---
+- [[The Art of Online Governance | Production]] [[November 26th, 2021]]
+- ---
 - ## 2021-22 Tracks
 - ### Nature and Long-Term Thinking
     - **Completed**
