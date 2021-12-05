@@ -2,7 +2,7 @@ About:: __Documentation for the Yak Collective's shared infrastructure.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[August 29th, 2020]] by [[Nathan Acks]]
-Last Updated:: [[January 3rd, 2021]] by [[Nathan Acks]]
+Last Updated:: [[December 4th, 2021]] by [[Nathan Acks]]
 Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
 # Assets
     - ^^This asset list is a work in progress, and is mostly based off of what [[Nathan Acks]] knows + SVG diagram development by [[Maier Fenster]]. If you work with or own a piece of infrastructure listed below, please visit the corresponding page and make sure all of the information's correct. And feel free to add services, etc. that we've missed!^^
@@ -24,6 +24,9 @@ Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
             - Blue Rectangle
                 - `APPLET`
                     - A function, service applet, or internal tool; contained by and run by some service
+            - Black Trapezoid
+                - `HARDWARE`
+                    - Physical hardware (robot, etc.)
             - Red Line
                 - `USER_DATA`
                     - Manual data flow (someone creates an account, reviews a list and takes action, etc.)
@@ -42,9 +45,6 @@ Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
         - [Google Calendar](https://calendar.google.com/calendar/embed?src=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
             - Owner:: [[Venkatesh Rao]]
             - Part of the [[Yak Collective Robot]] account
-        - [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform)
-            - Owner:: [[Venkatesh Rao]]
-            - Part of the [[Yak Collective Robot]] account
         - [The New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit) deck
             - Owner:: [[Drew Schorno]]
         - [Don't Waste the Reboot](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit) deck
@@ -52,25 +52,35 @@ Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
         - [Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a164565897w230197394p216651325)
             - Owner:: [[Tom Critchlow]]
             - Part of the [[Yak Collective Robot]] account
-        - [[Vultr]] Calendar Yak (a.k.a. [gmail_hook](https://github.com/The-Yak-Collective/gmail_hook)) bot
+        - [[Vultr]] [gigayak](https://github.com/The-Yak-Collective/gigayak) bot
             - Chief Page Wrangler:: [[Maier Fenster]]
-        - [[Vultr]] yak_scraper (a.k.a. [onboarding_robot](https://github.com/The-Yak-Collective/onboarding_robot)) bot
+        - [[Vultr]] [IamZ1](https://github.com/The-Yak-Collective/iamz1) bot
             - Chief Page Wrangler:: [[Maier Fenster]]
-        - [[Vultr]] ^^**EXPERIMENTAL**^^ [gigayak](https://github.com/The-Yak-Collective/gigayak) bot
+        - [[Vultr]] [Project_UI](https://github.com/The-Yak-Collective/project_ui) bot
             - Chief Page Wrangler:: [[Maier Fenster]]
-        - [[Carl]] welcome_bot bot
+        - [[Vultr]] Shepherd/yak_scraper (a.k.a. [onboarding_robot](https://github.com/The-Yak-Collective/onboarding_robot)) bot
+            - Chief Page Wrangler:: [[Maier Fenster]]
+        - [[Vultr]] yakdate (a.k.a. [gmail_hook](https://github.com/The-Yak-Collective/gmail_hook)) bot
+            - Chief Page Wrangler:: [[Maier Fenster]]
+        - [[Welcomer]]
             - Chief Page Wrangler:: [[Jordan Peacock]]
-        - [[Carl]] yakyak bot
+        - [[Carl]]
             - Chief Page Wrangler:: [[Jordan Peacock]]
+        - [[Bookmarker]]
+            - Chief Page Wrangler:: [[JennaD]]
+        - [[Integormat]]
+            - Chief Page Wrangler:: [[Nathan Acks]]
         - [[Discord]]
             - Chief Page Wrangler:: [[Jordan Peacock]]
         - [[Namecheap]]
             - Chief Page Wrangler:: [[Venkatesh Rao]]
+        - [[Cloudinary]]
         - [[Knack]]
             - Chief Page Wrangler:: [[JennaD]]
         - [[Roam]]
             - Chief Page Wrangler:: [[Venkatesh Rao]]
-        - [[Mirror.xyz Site]]
+        - [[Mirror.xyz]]
+            - Chief Page Wrangler:: [[Venkatesh Rao]]
         - [[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))
             - Chief Page Wrangler:: [[Nathan Acks]]
             - See [[Building the Website]] for more details

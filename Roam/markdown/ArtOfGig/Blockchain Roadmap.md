@@ -2,7 +2,7 @@
 - [[YC Treasury]]
 - [[Blockchain Infrastructure Resources]]
 - Nov 22 meeting agenda
-    - Review of [[Mirror.xyz Site]]
+    - Review of [[Mirror.xyz]]
     - [[YC Indirect Cost Schedule]] model
 - Nov 29 meeting agenda
     - [[Web 3 Implementation Research topics]] that need investigation

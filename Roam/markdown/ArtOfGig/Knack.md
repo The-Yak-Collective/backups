@@ -7,10 +7,12 @@ Created:: [[September 13th, 2020]] by [[Nathan Acks]]
 Last Updated:: [[October 5th, 2020]] by [[JennaD]]
 Last Gardened:: [[October 21st, 2020]] by [[JennaD]]
 # Purpose
-    - Member database (future website release)
+    - Member database
+    - Sign up form
+    - Future directions
         - Minimal information from [[Discord]] (server name, user ID, role data) will be moved over using a `yak_shaver` bot. May or may not commit info to [[GitHub]] along the way.
 # Access
-    - New Yak signup: https://yak.knack.com/yaks
+    - New Yak signup: https://www.yakcollective.org/join/
     - Yak login: [https://yak.knack.com/yaks#yak-profile/](https://yak.knack.com/yaks#yak-profile/)
     - Builder: [https://builder.knack.com](https://builder.knack.com)
     - Share login: [[JennaD]] | [[Jordan Peacock]] 

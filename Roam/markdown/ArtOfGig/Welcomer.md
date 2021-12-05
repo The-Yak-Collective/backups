@@ -1,0 +1,13 @@
+- About:: __New member workflow.__
+- Chief Page Wrangler:: [[Jordan Peacock]]
+    - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
+- Created:: [[December 4th, 2021]] by [[Nathan Acks]]
+- Last Updated:: [[December 4th, 2021]] by [[Nathan Acks]]
+- Last Gardened:: `/Today` by `[[Fname Lname]]`
+- # Purpose
+    - Currently unused?
+    - Greets new [[Discord]] users and informs them of the minimal participation bar.
+    - Minimal participation bar:
+        - Change server display name to given/chosen name
+        - Add time zone to server display name (helps with coordination)
+        - Post a short introduction to `introductions`

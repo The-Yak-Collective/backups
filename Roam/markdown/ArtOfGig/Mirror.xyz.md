@@ -1,0 +1,22 @@
+- About:: __web3 publishing platform__
+- Chief Page Wrangler:: [[Venkatesh Rao]]
+    - Additional Page Wranglers:: [[Nathan Acks]] | [[JennaD]] 
+- Last Updated:: [[December 4th, 2021]] by [[Nathan Acks]]
+- Last Gardened:: [[December 4th, 2021]] by [[Nathan Acks]]
+- We have the [yakcollective.mirror.xyz site](https://yakcollective.mirror.xyz) site
+- Primary admin is Venkatesh Rao (can be changed, but painful)
+- Contributors (takes contract interaction gas fees to add)
+    - Jenna Dixon — also delegate to Mirror DAO
+    - Sachin Benny
+- Policies
+    - Mirror revenue contributes to the [[YC Treasury]]
+    - We use the [[YC Indirect Cost Schedule]] to determine rates
+    - Projects that intend to publish on YC Mirror must set up a suitable split contract as early as possible, ideally before contributors put in significant work
+- Mirror moving to L2 support with lower fees
+- Individuals can experiment with own accounts
+- YC should have
+    - Minimum quality
+    - Thematic scope
+- Mint if at least 1 person is likely to collect
+- Artwork has huge impact
+    - [[Artwork Brainstorm]]
