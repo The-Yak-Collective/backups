@@ -1,0 +1,10 @@
+- Areas of potential contribution…
+    - Beaglebone Blue programming -- NIM
+    - CAD design -- IAB
+    - Unity framework design and programming - GA
+    - Define expressive/dance language - WWG
+- Expectations (“job description”)
+    - You need to be a self-starter
+    - Flexible in collaboration… case/
+    - Intermittent, but not fleeting
+- Move this content to a webpage linked to bubble slide

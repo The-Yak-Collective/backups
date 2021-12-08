@@ -9,22 +9,22 @@
             - **Lead**
     - 1500
         - Introduction/Orientation
-            - ??
+            - ([[Sachin Benny]])
     - 1530
         - Infrastructure update 
             - ([[Nathan Acks]])
     - 1600
-        - Production and publishing ops
-            -  ([[JennaD]])
+        - Publishing ops
+            - ([[JennaD]])
     - 1630
         - Online Governance paper
-            -  ([[Sachin Benny]])
+            - ([[Sachin Benny]])
     - 1700
         - Yak Rover Highlights 
             - ([[Maier Fenster]])
     - 1730
         - Blockchain Initiative
-            -  ([[Venkatesh Rao]])
+            - ([[Venkatesh Rao]])
     - 1800
         - Future Projects discussion...
             - Networking/Pitching

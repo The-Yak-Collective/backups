@@ -1,24 +1,29 @@
 - This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
 - [[YC Treasury]]
 - [[Blockchain Infrastructure Resources]]
-- Nov 22 meeting agenda
-    - Review of [[Mirror.xyz]]
-    - [[YC Indirect Cost Schedule]] model
-- Nov 29 meeting agenda
-    - [[Web 3 Implementation Research topics]] that need investigation
-    - Lore/Mission story
-- Bootstrapping Agenda Topics suggest by Rafa
+- ## Meeting Notes
+    - [[Chat with Rafa Nov 8 2021]] #[[meeting-notes]]
+    - [[Weekly Call 2021-11-22]] #[[meeting-notes]]
+    - [[November 22nd, 2021]] Nov 22 meeting agenda #[[meeting-notes]]
+        - Review of [[Mirror.xyz]]
+        - [[YC Indirect Cost Schedule]] model
+    - [[November 29th, 2021]] Nov 29 meeting agenda #[[meeting-notes]]
+        - [[Web 3 Implementation Research topics]] that need investigation
+        - Lore/Mission story
+    - [[December 6th, 2021]] Dec 6 #[[meeting-notes]]
+        - 
+- ## Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)
     - **Treasury Management** (this includes thinking about digital assets like fungible tokens vs. NFT club passes, how they are distributed, who holds them, what liquidity should be available, transferability, utility (voting, access, economic reward)) -- initialized, see [[YC Treasury]]
     - **Membership and Participation** (this is related to the "who" and what types of contribution zones we want to reinforce / support / nudge)
     - ![](https://cdn.discordapp.com/attachments/904793053598998618/906601862801784842/FDbGMe2XoAwhq_j.png)
-- Currently proposed experiments
+- ## Currently proposed experiments
     - A multi-sig wallet with n/m signature authority to hold and disburse YC funds in the form of ethereum or a suitable stablecoin (tbd)
     - Publish the [[Governance Readings Six Pager]] on [mirror.xyz](https://mirror.xyz) as a split-contract NFT with proceeds being divided suitably among contributors and a YC fund.
     - [[Rovers and Blockchain]]
         - Put wallets on rovers  of the [[Yak Rover]] project and have them run a collaboration economy on tokens
-- Options to explore/look into
+- ## Options to explore/look into
     - Please add links directly here (preferred) or via the $readingadd command in the #blockchain-roadmap channel on discord.
     - [[Zigzag]] podcast series on 2018 [[Civil]] token launch. 
 Real-time story arc of an early journo blockchain attempt. /jd
@@ -34,7 +39,3 @@ Real-time story arc of an early journo blockchain attempt. /jd
         - https://zigzagpod.com/episodes/2018/10/18/s2-ep2-why-civils-token-sale-failed
         - https://zigzagpod.com/episodes/2018/12/20/s2-ep12-lessons-learned-from-a-risky-crypto-experiment
 - We have an associated study group track in [[Online Governance Studies]]
-- Meeting Notes
-    - [[Chat with Rafa Nov 8 2021]]
-    - [[Weekly Call 2021-11-22]]
-    - 

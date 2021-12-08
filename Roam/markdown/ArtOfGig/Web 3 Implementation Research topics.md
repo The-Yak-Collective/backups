@@ -84,4 +84,6 @@
 - What is the difference between a DAO and a corporation? 
 Between a DAO and a non-profit?
 - How do new paradigms like proof of space-time affect YC's infrastructure? https://en.wikipedia.org/wiki/Proof_of_space 
-- Incentive design https://twitter.com/tony_intern/status/1465719820071186440?s=21
+- Incentive design 
+    - https://twitter.com/tony_intern/status/1465719820071186440
+- 
