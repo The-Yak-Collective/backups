@@ -1,6 +1,6 @@
 - [[Infrastructure]] call 13:30 
     - infrastructure chat 19 [[September 20th, 2020]] #meeting-notes
 - Production call 14:45 [[JennaD]] and [[Suwaythan Nahaganeshan]] to discuss design for [[Future Frontiers]] deck
-    - [[JennaD]] added [[Suwaythan Nahaganeshan]] to [[Production Squad]]
+    - [[JennaD]] added [[Suwaythan Nahaganeshan]] to [[Publishing Ops]]
 - 
 - 

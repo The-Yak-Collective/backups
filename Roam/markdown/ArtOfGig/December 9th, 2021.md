@@ -1,0 +1,8 @@
+- [[Publishing Ops]]
+    - reading links, not yet clear where to drop #[[Online Governance Studies]] or #[[Blockchain Roadmap]] or #[[Publishing Ops]]
+        - https://www.roxinekee.com/blog/dao-core-contributor-role-proposal-job-description
+            - detailed description of what in #Cabin is called a #core-contributor
+        - https://www.roxinekee.com/blog/dao-core-contributor-role-proposal-job-description
+            - the submission for the job 
+        - https://www.roxinekee.com/blog/dao-leadership-as-showrunning-what-do-core-contributors-do
+            - #showrunning as metaphor for contributing

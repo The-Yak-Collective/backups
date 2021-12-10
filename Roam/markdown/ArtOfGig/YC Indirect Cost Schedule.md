@@ -1,6 +1,6 @@
 - YC maintains and evolves a significant amount of support infrastructure that require both direct expenses and volunteer time to keep up. Including but not limited to:
     - Everything on the infrastructure map
-    - [[Production Squad]] services
+    - [[Publishing Ops]] services
     - ?
 - Indirect cost support is a model pioneered around World War 2 to rationalize government R&D grants to research universities so that infrastructure and other shared resources that funded projects draw on (such as facilities, labs, libraries, administrative support)
 - 

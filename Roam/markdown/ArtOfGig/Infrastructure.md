@@ -123,6 +123,8 @@ suggest most recent note left untwirled for easy review to visitors__
                 - Layout & proof reading
                 - Publishing
             - [[JennaD]] points out that a rough draft of this process is already on the Production Squad page. There's also different kinds of editing -- developmental editing (content) vs. copy editing (spelling, consistency, etc.).
+                - [[December 9th, 2021]] update: changed name of Production Squad page to [[Publishing Ops]] #[[JennaD]]
+                - 
             - [[Maier Fenster]] thinks that really what we're talking about is a kanban board containing links to Google Documents.
             - [[Sachin Benny]] agrees.
             - [[JennaD]] points out that we already have a kanban on Roam.
@@ -1433,7 +1435,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
                 - pull everything out of sidebar that's inactive 
                 - identify the single wringable neck for each page - associated with cell? 
             - Index/welcome page for the Roam - useful structure
-        - Project mgt as independent role »»  [[Production Squad]]
+        - Project mgt as independent role »»  [[Publishing Ops]]
         - project activity measurement, etc.
         - Nathan has more availability post-November
         - Onboarding continue to be a painpoint

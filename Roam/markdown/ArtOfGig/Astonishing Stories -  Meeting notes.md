@@ -3,7 +3,7 @@
         - On the call today at 6CST we'll be talking through:
 
             - Responses to the paid illustrator gig we posted 
-                - [[Sachin Benny]] will add folks to [[Production Squad]] Illustrator section
+                - [[Sachin Benny]] will add folks to [[Publishing Ops]] Illustrator section
             - Timeline for publishing stories since we are close on engaging an illustrator
                 - [[Yak Talk]] newsletter may be going on hiatus. can be hijacked for AS stories
                 - {{[[TODO]]}} propose: adding Newsletter link to website on the [[Infrastructure]] call [[September 27th, 2020]]
