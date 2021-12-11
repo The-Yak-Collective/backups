@@ -6,6 +6,8 @@
 - For the 2021-22 season, we have 4 active tracks with active queues: Nature and Long-Term Thinking, Case Studies, Technology, and General. Please feel free to add links to any queue (preferred), or in the Discord ogs channel using the `$readingadd` command. The Discord list is used as an inbox/buffer and is periodically cleared and moved here.
 - ---
 - [[The Art of Online Governance | Production]] [[November 26th, 2021]]
+- » [Google Doc](https://docs.google.com/document/d/1WvCmvNeQLHy9XqiL1iq7fvSHllou6Liq8JJcxHag3tQ/edit?usp=sharing)
+- 
 - ---
 - ## 2021-22 Tracks
 - ### Nature and Long-Term Thinking

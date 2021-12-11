@@ -5,17 +5,18 @@
     - SL* ms **Dec-03**
         - Introduction **V**
         - Two Traps **[Who?]**
-        - Governance Regimes - Intro **[Who?]**
-        - Q1 Hobbesian **S**
         - Q2 Gaian **B**
         - Q3 Muddler **V**
         - Q4 Citadel **G**
         - Conclusion **V**
+        - Governance Regimes - Intro **[Who?]**
     - Dev Edit **V Dec-04**
+        - 
     - SL* Review **Dec-05**
-    - Copyedit Edit **S/J Dec-10**
-    - Mirror Layout **S Dec-11**
-    - Mirror Proof **J Dec-12**
-    - Public Comment **V Dec-14**
+    - Copyedit Edit **S/J Dec-12**
+        - Q1 Hobbesian **S**
+    - Mirror Layout  **S/V/J Dec-13 - 9PST **
+    - Mirror Proof and hand off to Nathan for yak website (sachin) **J/S Dec-13**
+    - Public Comment/Soft launch/Beta  **V Dec-14**
     - Mint **V Dec-24**
 - *SL=section leader
