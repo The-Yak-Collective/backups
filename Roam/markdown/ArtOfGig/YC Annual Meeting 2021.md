@@ -9,12 +9,12 @@
             - **Lead**
     - 1500
         - Introduction/Orientation
-            - ([[Sachin Benny]])
+            - ???
     - 1530
-        - Infrastructure update 
+        - Infrastructure update 50 mins
             - ([[Nathan Acks]])
-    - 1600
-        - Publishing ops
+    - 1620
+        - Publishing ops 10 mins
             - ([[JennaD]])
     - 1630
         - Online Governance paper

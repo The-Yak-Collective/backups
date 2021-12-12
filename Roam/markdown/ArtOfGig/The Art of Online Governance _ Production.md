@@ -3,18 +3,18 @@
         - author_final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
 - {{kanban}}
     - SL* ms **Dec-03**
-        - Introduction **V**
+        - Introduction **S**
         - Two Traps **[Who?]**
-        - Q2 Gaian **B**
-        - Q3 Muddler **V**
         - Q4 Citadel **G**
-        - Conclusion **V**
+        - Conclusion **S**
         - Governance Regimes - Intro **[Who?]**
     - Dev Edit **V Dec-04**
         - 
     - SL* Review **Dec-05**
     - Copyedit Edit **S/J Dec-12**
         - Q1 Hobbesian **S**
+        - Q2 Gaian **B**
+        - Q3 Muddler **V**
     - Mirror Layout  **S/V/J Dec-13 - 9PST **
     - Mirror Proof and hand off to Nathan for yak website (sachin) **J/S Dec-13**
     - Public Comment/Soft launch/Beta  **V Dec-14**

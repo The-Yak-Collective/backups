@@ -24,9 +24,6 @@ Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
             - Blue Rectangle
                 - `APPLET`
                     - A function, service applet, or internal tool; contained by and run by some service
-            - Black Trapezoid
-                - `HARDWARE`
-                    - Physical hardware (robot, etc.)
             - Red Line
                 - `USER_DATA`
                     - Manual data flow (someone creates an account, reviews a list and takes action, etc.)
@@ -54,18 +51,26 @@ Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
             - Part of the [[Yak Collective Robot]] account
         - [[Vultr]] [gigayak](https://github.com/The-Yak-Collective/gigayak) bot
             - Chief Page Wrangler:: [[Maier Fenster]]
-        - [[Vultr]] [IamZ1](https://github.com/The-Yak-Collective/iamz1) bot
-            - Chief Page Wrangler:: [[Maier Fenster]]
         - [[Vultr]] [Project_UI](https://github.com/The-Yak-Collective/project_ui) bot
             - Chief Page Wrangler:: [[Maier Fenster]]
         - [[Vultr]] Shepherd/yak_scraper (a.k.a. [onboarding_robot](https://github.com/The-Yak-Collective/onboarding_robot)) bot
             - Chief Page Wrangler:: [[Maier Fenster]]
         - [[Vultr]] yakdate (a.k.a. [gmail_hook](https://github.com/The-Yak-Collective/gmail_hook)) bot
             - Chief Page Wrangler:: [[Maier Fenster]]
+        - [[Vultr]] [Pagekite](https://pagekite.net/) frontend
+            - Chief Page Wrangler:: [[Maier Fenster]]
+        - [[Yak Rover]] [IamZ1](https://github.com/The-Yak-Collective/iamz1) bot
+            - Maintainer:: [[Maier Fenster]]
+        - [[Yak Rover]] [Rover-Twitter](https://github.com/The-Yak-Collective/Rover-Twitter) bot
+            - Maintainer:: [[Maier Fenster]]
+        - [[Yak Rover]] [Pagekite](https://pagekite.net/) backends
+            - Maintainer:: [[Maier Fenster]]
         - [[Welcomer]]
             - Chief Page Wrangler:: [[Jordan Peacock]]
         - [[Carl]]
             - Chief Page Wrangler:: [[Jordan Peacock]]
+        - [[UnbelievaBoat]]
+            - Chief Page Wrangler:: [[JennaD]]
         - [[Bookmarker]]
             - Chief Page Wrangler:: [[JennaD]]
         - [[Integormat]]
@@ -79,7 +84,7 @@ Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
             - Chief Page Wrangler:: [[JennaD]]
         - [[Roam]]
             - Chief Page Wrangler:: [[Venkatesh Rao]]
-        - [[Mirror.xyz]]
+        - [[Mirror.xyz]] "The Art of Online Governance" paper
             - Chief Page Wrangler:: [[Venkatesh Rao]]
         - [[Netlify]] Continuous Integration ([Jekyll](https://jekyllrb.com/))
             - Chief Page Wrangler:: [[Nathan Acks]]
