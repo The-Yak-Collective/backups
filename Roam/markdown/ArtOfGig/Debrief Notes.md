@@ -1,0 +1,29 @@
+- Eric: All the problems we have are actual problems on mars missions
+- Maier: Just a few hours ago everything was good... on "earth" (Tokyo in evening) everything was fine, but on "mars" (Tokyo at night) things broke
+- James: lag is a big deal and perspective matters a lot
+- Sai: should have more abstract commands, accounting for the lag
+- Maier -- what commands get it stuck?
+    - Anuraj -- when the "drone" feed was there, it was easier
+- Sai -- I could orient myself to the rover POV
+- Venkat: design and build challenges show up in live demos
+- Maier -- LRA had a bias, veers to the left. Helping the bot's own model of itself adjust to changes in its body. 
+- Sai -- this is what I'm working on... RL for hand robotics
+- Venkat -- 2 levels of feedback, goal-level abstraction vs. low-level regulation
+- Sai -- CLIP, natural language as command
+- Points from new participants
+    - How to get in...
+    - James and Brian... big exposure to what we don't know we don't know
+    - Venkat... trying to do a whole build as a starting out
+    - Maier -- how to get to social robotics via doing/trial-and-error discovery
+    - Phil -- self-awareness: digital twins that model the abilities of sensors/actuators, allowing: simulation for low-level planning; gap analysis for the difference between what is seen/felt/done and the model to adjust the model toward reality; to enable abstractions shared among bots/services. 
+    - Phil: Charging/repowering yourself leads to fintech (paying for power) and trusted identity. 
+- Nalini
+    - publish capabilities as a way to mitigate intermittent comms
+    - systems engineering side of project
+- Meta: 
+    - Learning what you don't know.  
+    - Did the learning process work as you expected? 
+    - Is there structured knowledge that could build your competencies faster? 
+- Discussion on convergence
+- Ecosystem/capability development
+- OpenROV style build, but also the tools/pieces to reuse

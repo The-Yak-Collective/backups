@@ -1,6 +1,7 @@
 - **Demo Day Date: Sunday Dec 12, 7AM-12PM US Pacific (UTC-8)**
 - [Demo Day Google calendar link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzN1NmxxcTA4ODIwNWp2YjhyNnJkdW9pOGsgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
 - A showcase and discussion surrounding the [[Yak Rover]] project
+- [[Debrief Notes]]
 - This will serve as a prelude to the [[YC Annual Meeting 2021]] two days later on Dec 14, and highlights from this meeting will also be presented there.
 - Ref: [[Yakathon 1 Mars Rover Edition - 2021 March 28]]
 - Marketing
