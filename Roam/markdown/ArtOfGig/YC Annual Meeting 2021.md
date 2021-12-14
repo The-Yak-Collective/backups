@@ -1,34 +1,41 @@
 - **Annual Meeting Date: Dec 14, 2021, 7AM-12PM US Pacific (UTC-8)**
-- [Annual Meeting Google Calendar Link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjVzMXQ2aDc5bGd0a2VmZ2UwaW4xNmtnYzIgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
-- Zoom link: COMING SOON
+- **Housekeeping**
+    - [Annual Meeting Google Calendar Link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjVzMXQ2aDc5bGd0a2VmZ2UwaW4xNmtnYzIgbzk5NW00MzE3M2Jwc2xtaGg0OW5tcnA1aTRAZw&tmsrc=o995m43173bpslmhh49nmrp5i4%40group.calendar.google.com)
+    - Zoom link: COMING SOON
 - **Annual Meeting Tentative Agenda**
 - Event starts at 1500 UTC (7 AM US Pacific, 10 AM US Eastern)
 - {{[[table]]}}
-    - **Time (UTC)**
-        - **Topic**
-            - **Lead**
-    - 1500
-        - Introduction/Orientation
-            - ???
-    - 1530
-        - Infrastructure update 50 mins
-            - ([[Nathan Acks]])
-    - 1620
-        - Publishing ops 10 mins
-            - ([[JennaD]])
-    - 1630
-        - Online Governance paper
-            - ([[Sachin Benny]])
-    - 1700
-        - Yak Rover Highlights 
-            - ([[Maier Fenster]])
-    - 1730
-        - Blockchain Initiative
-            - ([[Venkatesh Rao]])
-    - 1800
-        - Future Projects discussion...
-            - Networking/Pitching
-    - 1830
-        - Town Hall/Open Discussion
-            - All
+    - 14:30 - 15:00 — 30 min — 
+        - PRE-MEETING SETUP
+    - 15:00 - 15:05 —  5 min — 
+        - Opening — @Sachin Benny (US Central)? (speaker)
+
+    - 15:05 - 15:15 — 10 min — 
+        - Introductions **IN CHAT?**— @Sachin Benny (US Central)? (moderator)
+    - 15:15 - 15:25 — 10 min —
+        -  Infrastructure Ops — @Nathan Acks U-0700 (speaker)
+    - 15:25 - 15:30 —  5 min — 
+        - Publishing Ops — @JennaD U-0500 (speaker)
+    - 15:30 - 15:50 — 20 min — 
+        - Online Governance Paper — @Sachin Benny (US Central) (speaker)
+    - 15:50 - 16:10 — 20 min — 
+        - Yak Rover — @Maier U+0200 (speaker)
+    - 16:10 - 16:15 —  5 min — 
+        - BREAK
+    - 16:15 - 16:25 — 10 min — 
+        - Postmortem: Innovation Essays — ??? (speaker)
+    - 16:25 - 16:35 — 10 min — 
+        - Postmortem: Future Frontiers — @Venkatesh Rao (U-0800)?(speaker)
+    - 16:35 - 16:45 — 10 min — 
+        - What’s Next: Astonishing Stories Reboot — @Sachin Benny (US Central) (speaker)
+    - 16:45 - 17:00 — 15 min — 
+        - What’s Next: Blockchain — @Venkatesh Rao (U-0800) (speaker)
+    - 17:00 - 17:05 —  5 min — 
+        - BREAK
+    - 17:05 - 17:25 — 20 min — 
+        - Project Pitches — @Sachin Benny (US Central)? (moderator)
+    - 17:25 - 17:55 — 30 min — 
+        - Town Hall — @Sachin Benny (US Central)? (moderator)
+    - 17:55 - 18:00 —  5 min — 
+        - Closing — @Sachin Benny (US Central)? (moderator)
 - This is our second annual meeting. See [[YC Annual Meeting 2020]] for notes on last year's meeting and what to expect.
