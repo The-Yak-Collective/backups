@@ -50,6 +50,7 @@
 - Culture war between Bitcoin and Ethereum and practical implications
 
     - The Hic Et Nunc project on the Tezos Chain is in a current "Culture war". HEN is an open source NFT marketplace built on the Tezos chain by a Brazilian developer. NFTs minted on HEN are called OBJKT. The developer "discontinued" the project after a site called objct.com announced their own minting feature (using their own smart contract and not HEN's). HEN is an open source project, so several clones were made and members of the community resurrected the project. However, several other people not a part of the original community have since taken advantage of this market volatility and open source framework to appropriate the technology and marketplace into what the original community is framing as an act of global north hegemony. This global south/north tension might be an interesting and current case study of chain/culture wars. #Ack
+    - Jargon: "The Flippening" (speculative future event when Ethereum's market cap might surpass Bitcoin's)
 - Social
     - Since blockchain activity is irreversible, will individuals just spin up new identities to get away from their past? 
         - or be less involved /mf

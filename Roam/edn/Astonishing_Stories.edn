@@ -62,6 +62,7 @@
  :datoms
  [[1 :block/uid "86RlNgFSD" 536878990]
   [1 :user/color "rgb(117,132,156)" 536870913]
+  [1 :user/display-page 3168 536882270]
   [1 :user/email "sachben91@gmail.com" 536870913]
   [1
    :user/settings
@@ -25688,8 +25689,8 @@
   [2999 :version/id "0.8.8" 536881952]
   [2999
    :version/nonce
-   "uuid76fa895e-2183-4037-80ba-545a770a547d"
-   536882263]
+   "uuidfe63e7fc-4d98-45b0-83cf-f69937fcb45a"
+   536882271]
   [3000 :block/uid "08-13-2021" 536881953]
   [3000 :create/time 1628847954541 536881953]
   [3000 :create/user 2367 536881953]
@@ -26917,8 +26918,8 @@
   [3162 :version/id "0.9.0" 536882264]
   [3162
    :version/nonce
-   "uuid607403fa-766c-4695-a8a0-fdfca52a72fe"
-   536882269]
+   "uuid4a21b1b1-42d9-4d25-b683-bf6795056014"
+   536882274]
   [3163 :block/uid "12-10-2021" 536882265]
   [3163 :create/time 1639129544728 536882265]
   [3163 :create/user 2367 536882265]
@@ -26953,4 +26954,31 @@
   [3167 :edit/time 1639475142977 536882269]
   [3167 :edit/user 2367 536882269]
   [3167 :log/id 1639475142976 536882269]
-  [3167 :node/title "December 14th, 2021" 536882269]]}
+  [3167 :node/title "December 14th, 2021" 536882269]
+  [3168 :block/uid "i_0sqgUsj" 536882270]
+  [3168 :create/time 1639500803541 536882271]
+  [3168 :create/user 1 536882271]
+  [3168 :edit/time 1639500803541 536882271]
+  [3168 :edit/user 1 536882271]
+  [3168 :node/title "Anonymous_1" 536882271]
+  [3169 :block/uid "BTheDI9ux" 536882272]
+  [3169 :user/display-name "Jacob Scarf Merrell" 536882272]
+  [3169 :user/display-page 3170 536882272]
+  [3169
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a-/AOh14GjHfZpa4Db9TfIcX5aPZLxL9x_dCiPcgmzymfe4=s96-c"
+   536882272]
+  [3169 :user/uid "BXVcApkID9REv5ZWltg7fVbnWBo2" 536882272]
+  [3170 :block/uid "fd1oAONTM" 536882272]
+  [3170 :create/time 1639503003308 536882273]
+  [3170 :create/user 3169 536882273]
+  [3170 :edit/time 1639503003308 536882273]
+  [3170 :edit/user 3169 536882273]
+  [3170 :node/title "Jacob Scarf Merrell" 536882273]
+  [3171 :block/uid "12-15-2021" 536882274]
+  [3171 :create/time 1639561608373 536882274]
+  [3171 :create/user 2367 536882274]
+  [3171 :edit/time 1639561608373 536882274]
+  [3171 :edit/user 2367 536882274]
+  [3171 :log/id 1639561608372 536882274]
+  [3171 :node/title "December 15th, 2021" 536882274]]}

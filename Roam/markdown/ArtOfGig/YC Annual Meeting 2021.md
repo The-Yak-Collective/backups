@@ -8,28 +8,28 @@
     - 14:30 - 15:00 — 30 min — 
         - PRE-MEETING SETUP
     - 15:00 - 15:05 —  5 min — 
-        - Opening — @Sachin Benny (US Central)? (speaker)
+        - Opening — @Sachin Benny (US Central)
 
     - 15:05 - 15:15 — 10 min — 
-        - Introductions **IN CHAT?**— @Sachin Benny (US Central)? (moderator)
+        - Introductions **IN DISCORD CHAT**— @Sachin Benny (US Central)r)
     - 15:15 - 15:25 — 10 min —
-        -  Infrastructure Ops — @Nathan Acks U-0700 (speaker)
+        -  Infrastructure Ops — @Nathan Acks U-0700
     - 15:25 - 15:30 —  5 min — 
-        - Publishing Ops — @JennaD U-0500 (speaker)
+        - Publishing Ops — @JennaD U-0500
     - 15:30 - 15:50 — 20 min — 
-        - Online Governance Paper — @Sachin Benny (US Central) (speaker)
+        - Online Governance Paper — @Sachin Benny (US Central) 
     - 15:50 - 16:10 — 20 min — 
-        - Yak Rover — @Maier U+0200 (speaker)
+        - Yak Rover — @Maier U+0200
     - 16:10 - 16:15 —  5 min — 
         - BREAK
     - 16:15 - 16:25 — 10 min — 
-        - Postmortem: Innovation Essays — ??? (speaker)
+        - Postmortem: Innovation Essays — 
     - 16:25 - 16:35 — 10 min — 
-        - Postmortem: Future Frontiers — @Venkatesh Rao (U-0800)?(speaker)
+        - Postmortem: Future Frontiers — @Venkatesh Rao (U-0800)
     - 16:35 - 16:45 — 10 min — 
-        - What’s Next: Astonishing Stories Reboot — @Sachin Benny (US Central) (speaker)
+        - What’s Next: Astonishing Stories Reboot — @Sachin Benny (US Central)
     - 16:45 - 17:00 — 15 min — 
-        - What’s Next: Blockchain — @Venkatesh Rao (U-0800) (speaker)
+        - What’s Next: Blockchain — @Venkatesh Rao (U-0800) 
     - 17:00 - 17:05 —  5 min — 
         - BREAK
     - 17:05 - 17:25 — 20 min — 
