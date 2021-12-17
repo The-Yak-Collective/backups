@@ -91,6 +91,7 @@
         - 
 - **Proposed Tracks**: Will be either created or forked from existing tracks if there's enough queued material and/or someone steps up to curate it
     - Grants/funding
+        - https://benjaminreinhardt.com/grants
     - Offline-online link
     - Corporatization/legibility
     - GAP: The "why" of community/centripetal vs. centrifugal —Jenna
