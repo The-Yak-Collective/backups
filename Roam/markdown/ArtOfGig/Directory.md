@@ -320,6 +320,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
         - startup/tech - always exciting
         - philosophy
 - [[Greg Kramer]]
+- [[Rithwik Krishnakumar]]
 - [[Lydia Laurenson]]
     - I've been described as as a "media polymath"
     - I consult on media strategy and I run a new publication called __The New Modality:__ http://thenewmodality.com
