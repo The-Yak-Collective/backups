@@ -1,5 +1,5 @@
 - prompt: Bleeding edge of NFTs (past projects like Loot)
-- contributor: #Ack
+- contributor: #[[Commits Vortex]]
 - Following on from the agenda item to explore the bleeding edge of NFTs, I've been following some of Dom Hofmann's (@dhof) work. Dom was a key figure in the Loot project and creator of Vine, and has since started a project called [Corruption(s*)](https://opensea.io/collection/corruption-s). 
     - The project is a smart contract that generates and transforms a series of NFTs that are ASCI art on the Ethereum chain. The transformations of the asci art changes over time based on transaction activity, becoming more or less "corrupted".
         - the more the NFT is transacted the less stable the visual makeup of the NFT becomes over time, and vice versa the less it is transacted the more stable it becomes. 
@@ -10,4 +10,6 @@
 - The cryptic nature of the art is reflected in the cryptic [exchanges that the community and the artist are having](https://corruptions.netlify.app/messages/), even go so far as to encode some of their comms in base64. Out of this exchange more contracts have been made to make more derivatives and transformations of the asci art. 
     - To me, the novelty of this NFT project is the manner in which cryptography is exerting itself into the production of lore, and thus driving interactions between communities of collectors and artists. It has also been interesting to see the community attempt to figure out how to respond to these messages on their voice calls, and to hear some people actively pushing back against the vertiginous impulse towards speed in response. 
 - Somewhere in this mix is a broader thesis on the way that mathematical cryptography developments are transforming the nature of communication. For example, It's remarkable to me the proliferation of Proof of X derivatives, the way they have taken on political valences, and how these are each linked to the byzantine generals problem and different manners of doing cryptographic verification.
-- Here is a thread on the project by someone leading the Reflections community (covering up to Nov 20): https://twitter.com/TimshelXYZ/status/1462196326288949249
+- Here are some threads on the project by members of the community: 
+    - https://twitter.com/TimshelXYZ/status/1462196326288949249
+    - https://twitter.com/elistonberg/status/1461342536954486787
