@@ -1548,10 +1548,25 @@
     - Nov 29 Jascha
     - Dec 6 PLANNING WEEK SLOT
     - Dec 13-20 DEMO DAY (6-8 hours) 
+- Cycle 6 -- Eric leading
     - Dec 20 slack
+        - New participant, Brian Smith
+            - Into model rocketry
+            - [National Association of Rocketry](https://www.nar.org/)
+            - [BPS rocketry](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
+            - [Bremen drop tower](https://www.atlasobscura.com/places/bremen-drop-tower)
+            - Topics 
+                - Collaboration topics
+                - [[Things We Are Looking For]]
+                - BOS Operating system
+                    - [[Rover Licensing Issues]]
+                - Rhett -- everybody should have a build
+                - Skills
+                - Onboarding with Brian
+                    - Potential farmed out 3d printer jobs
+                    - Donkeycarts
     - Dec 27 * No meeting, holiday week
     - January 3 [[Yak Rover Year 2 kickoff]]
-- 
 - ---
 - PLEASE KEEP THIS LINK HERE AT THE BOTTOM: [Weekly Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfl01O61dgzQ6qG0VXbvC9daLhFNnNLaTwezRRUTm-mxh_yLw/viewform)
 - ---

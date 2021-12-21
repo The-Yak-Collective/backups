@@ -1,8 +1,10 @@
 - Areas of potential contribution…
-    - Beaglebone Blue programming -- NIM
     - CAD design -- IAB
     - Unity framework design and programming - GA
     - Define expressive/dance language - WWG
+    - SLAM (several builds interested)
+        - Openslam.org
+        - 
 - Expectations (“job description”)
     - You need to be a self-starter
     - Flexible in collaboration… case/

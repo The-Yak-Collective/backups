@@ -1,0 +1,14 @@
+- [Chris Anderson video](https://www.youtube.com/watch?v=DDx6gjwU0K8) -- everybody watch this please
+- Maier
+    - Audit approach
+    - Optimize for virality
+- Some people want to make money, others don't care
+- Governance models
+- Rover 101
+- Contagious wrt IP vs. $
+- Eric -- keep an eye on it
+- Anuraj -- Try and keep an inventory of what you're using and what licensing it's using
+- Maier -- need to keep an eye on what the members of the projects want to do
+    - Start a company
+    - Keep it open/free
+    - 
