@@ -1,0 +1,30 @@
+- ## **On-Chain Lexical Discovery and Utilization Platform or Protocol**
+    - > Follows is an outline of an on-chain lexical discovery writing and publishing platform. It is a very rudimentary speculation at this point, and several unconsidered edge/corner-cases exist. It is currently conceived as a platform, whereas it would be nice to be able to transition the idea into a protocol where human intervention in the discovery and management was possibly handled by smart contracts. Further, there remains a question of whether or not there is any reason to utilize blockchain technology in order to execute this idea, or if the idea is even worth pursuing in the first place. The idea was spurred by looking at [[Bleeps DAO]], which is putting short 2-second sounds on the Ethereum blockchain and developing a way to make melodies out of those sounds. That DAO has an economic model for generating revenue to the DAO. It is an open question for this idea if a DAO is necessary, and whether there is any need for a financial incentive to participate either as a community submitting terms or as a writer utilizing the platform.
+    - **Spurred by:** #[[Commits Vortex]]
+- ## **Brief Outline**
+    - A writing and publishing platform designed to network lexical discovery
+    - Communities are able to submit sets or bundles of lexicons to the platform
+        - They are also able to supply definitions or descriptions of the terms submitted
+        - They are able to submit layers of bundled lexical terms
+            - i.e. the first bundle is an entry to the community's lexicon or vernacular
+            - the second batch are more specialized terms that make sense once terms from the first bundle have been utilized in one's writing
+            - and so on in increasing levels of complexity or domain specificity
+    - Users of the platform are able to enter into a lexical network from a variety of avenues
+        - Perhaps one avenue originates via exposure to a community who's lexicon has been submitted to the platform
+    - Users are able to write and publish essays on the platform, with a bank of terms, derived from the accessible, on-chain, lexicons. Imagine a bank of terms that users can insert into their writing (with ability to modify for grammatical context)
+        - These insertions serve at least two purposes
+            - 1) Incorporating terms from a bundle unlocks access to a community's second layer bundle
+            - 2) A writer using a new lexical vocabulary may find themselves generating new terms in their writing as a result of working with something akin to a __pomptist thesaurus__
+                - The new terms that the user used may have been submitted by another community in a separate bundle of lexical terms
+                - By using those terms, they could be granted access to the bundle in which the term was contained, and thus gain awareness of another community's lexical provenance
+    - Drawing an analogy with Bleeps DAO, one could imagine the lexical terms submitted by communities as being the base unit, analogous with a Bleeps
+        - The writing platform would be analogous with the Bleeps DAO's melody creator, where the base lexical unites are available materials for constructing  paragraphs and essays
+    - Yak Collective Terms
+        - Draw from the WIP glossary from the [[Online Governance Studies]] Paper
+            - Hurling 
+            - Frootmig 
+            - Wind in the Willows 
+            - In group contrarian 
+            - BDFL 
+            - Root cause vs Muddling through 
+            - Anarch vs Anarchist
