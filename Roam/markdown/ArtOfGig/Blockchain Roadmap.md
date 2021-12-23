@@ -38,4 +38,9 @@ Real-time story arc of an early journo blockchain attempt. /jd
         - https://zigzagpod.com/episodes/2018/09/20/the-civil-token-sale-is-live
         - https://zigzagpod.com/episodes/2018/10/18/s2-ep2-why-civils-token-sale-failed
         - https://zigzagpod.com/episodes/2018/12/20/s2-ep12-lessons-learned-from-a-risky-crypto-experiment
+    - https://samczsun.com/
+        - https://samczsun.com/hiding-in-plain-sight/
+        - https://samczsun.com/research/
+        - 
+    - 
 - We have an associated study group track in [[Online Governance Studies]]
