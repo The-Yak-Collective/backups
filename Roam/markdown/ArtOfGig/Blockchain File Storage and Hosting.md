@@ -1,0 +1,214 @@
+A good pre-reading:
+    - https://twitter.com/dustyweb/status/1473746845272788994
+[Another good pre-reading.](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
+This should be accurate as of [the end of 2021]([[December 31st, 2021]]).
+# File Storage & Hosting
+    - Not "blockchain as in Bitcoin", but "blockchain as in [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)".
+    - > Hash trees are used in [hash-based cryptography](https://en.wikipedia.org/wiki/Hash-based_cryptography). Hash trees are also used in the [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System), [Btrfs](https://en.wikipedia.org/wiki/Btrfs) and [ZFS](https://en.wikipedia.org/wiki/ZFS) file systems (to counter [data degradation](https://en.wikipedia.org/wiki/Data_degradation)); [Dat](https://en.wikipedia.org/wiki/Dat_%28software%29) protocol; [Apache Wave](https://en.wikipedia.org/wiki/Apache_Wave) protocol; [Git](https://en.wikipedia.org/wiki/Git_%28software%29) and [Mercurial](https://en.wikipedia.org/wiki/Mercurial) distributed revision control systems; the [Tahoe-LAFS](https://en.wikipedia.org/wiki/Tahoe-LAFS) backup system; [Zeronet](https://en.wikipedia.org/wiki/Zeronet); the [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum) peer-to-peer networks; the [Certificate Transparency](https://en.wikipedia.org/wiki/Certificate_Transparency) framework; the [Nix package manager](https://en.wikipedia.org/wiki/Nix_package_manager) and descendants like [GNU Guix](https://en.wikipedia.org/wiki/GNU_Guix); and a number of [NoSQL](https://en.wikipedia.org/wiki/NoSQL) systems such as [Apache Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra), [Riak](https://en.wikipedia.org/wiki/Riak), and [Dynamo](https://en.wikipedia.org/wiki/Dynamo_%28storage_system%29). Suggestions have been made to use hash trees in [trusted computing](https://en.wikipedia.org/wiki/Trusted_computing) systems.
+    - ## [IPFS](https://ipfs.io/)
+        Reference implementation is in Go.
+        Wide support on __desktop__ (Brave, other major browsers with extension + proxy)... No mobile support?
+        Two levels of hashes: One for a particular set of data (a file "version"), and one for the file name.
+            - Both of these hashes look (and are accessed) a bit like a Google Drive URL.
+            - The first layer corresponds to actual file data, and lives in the /ipfs/ namespace.
+            - The second hash layer (the one containing the file name) is the "InterPlanetary Name System" (IPNS); this lives in the /ipns/ namespace.
+                - This is the hash of a public key whose private key signs the data (first hash layer) stored there.
+                - [DNSLink](https://docs.ipfs.io/concepts/dnslink/#publish-content-path) provides a (partial) alternative to IPNS. This is a special DNS TXT record that points to an IPFS or IPNS hash. (I suspect that any IPLD namespaced hash would be valid here, actually...)
+            - For a more real-world implementation, Use DNSLink + pointing a CNAME record to gateway.ipfs.io or ipfs.namebase.io. Alternately, use ENS
+        IPFS actually runs on top of a hash tree abstraction layer called [IPLD](https://ipld.io/) that should theoretically allow for content-agnostic addressing across different hash trees (git, blockchains, etc.).
+            - IPLD seems to be designed as the hash tree to end all hash trees.
+            - It seems that IPFS defines the data structures that IPLD then references (in the /ipfs/ namespace), as well as a protocol for working with that data. But the hashes themselves are defined by IPLD, and data transfer is taken care of by a separate project, libp2p.
+        IPFS seems to represent files in three tiers: Blocks, files, and folders. These correspond to leaves, first-level nodes, and nth level nodes in a Merkel tree.
+        Actual block-level discovery is handled with DHT, just like BitTorrent.
+        IPFS persistence can be guaranteed by using pinning or [Filecoin](https://filecoin.io/) (basically, Ethereum smart contracts that specify that data should be stored for some time by a particular node).
+        IPFS content is __not__ private -- all CIDs are (theoretically) knowable/accessible.
+            - However, it __is__ possible to run a private IPFS network...
+        ### [Filecoin](https://filecoin.io/)
+            - Basically, all Filecoin nodes are IPFS nodes, but not every IPFS node is a Filecoin node.
+            - Contracts guarantee storage duration, integrity, and replication.
+                - Basically trying to answer the question: "How do you incentivize pinning?"
+            - Storage and retrieval are split into two different mining pools:
+                - For storage nodes, proof-of-work is actually proof-of-storage.
+                - For retrieval nodes, proof-of-work is proof-of-(timely)-delivery.
+            - Miners have kind of nuts-o hardware requirements...
+            - It basically takes 1 - 5 hours to retrieve data, and stored files are immutable. So this is more like Amazon Glacier or a WORM drive than an S3 bucket.
+    - ## [Hypercore](https://hypercore-protocol.org/)
+        - Reference implementation in NodeJS.
+        - Powers [Cabal](https://cabal.chat/) and the [Beaker Browser](https://beakerbrowser.com/) (dead?).
+            - Beaker Browser has an Android version.
+            - No iOS support?
+        - Spun off of the [Dat Project](https://docs.datproject.org/docs/dat-protocol).
+        - Basic building block is an append-only log, the Hypercore.
+            - Only one computer (the one with the Hypercore's public key) can update this.
+        - Hypercores are shared using Hyperswarm... Which appears to derived from tracker-less BitTorrent!
+            - So, Hypercore is block-based data, and a hyper:// address the equivalent of a magnet link.
+        - File storage is accomplished via "Hyperdrives", each of which is made up of two Hypercores (file data + file metadata)
+            - Always versioned.
+        - "Hyperbee" provides a distributed, versioned, key/value hash.
+        - At least Beaker Browser seems to support both pure Markdown and HTML files.
+        - Uses [Dat-DNS](https://www.datprotocol.com/deps/0005-dns/) for lookups.
+    - ## [Arweave](https://www.arweave.org/)
+        - Reference implementation written in Erlang. 🥴
+        - Appears to be a corporate open source project, rather than a community-driven open platform like IPFS or Hypercore. Flutter/Java vs. Rust/Python.
+        - Arweave incentivizes storage using a large initial disbursement and then declining ongoing disbursements meant to mirror the falling price of storage.
+        - While IPFS is focused on __spacial__ scope (it's the __interplanetary__ file system, after all), Arweave is focused on *temporal* scope, with an initial economic planning horizon of 400 - 1300 years.
+            - Consistent with this, there seems to be some concern within the Arweave community with continuing to support older hardware
+            - Arweave is also explicitly planning for its own eventual obsolesce.
+            - That said, it appears that, like Bitcoin, Arweave is structured around a finite coin supply (albeit for a given amount of data on-chain).
+            - Also, while gussied-up with mathematical equations, actual mechanical discussion of the Arweave storage endowment is kinda vague.
+        - Arweave's concept of the "permaweb" includes permanently available zero-maintenance dapps. Which is one of those things that seems to really attract business people that I have a great deal of skepticism about (bugs! vulnerabilities!).
+        - Arweave search is GraphQL-based.
+            - Gateways provide the GraphQL endpoints and access to Arweave data.
+            - Current gateways: [Amplify](https://www.amplify.host/) and [Meson.Network](https://meson.network/).
+            - Gateways (and miners) are also where content moderation happens, which is a kind of Mastodon-like approach.
+                - It's implied that there may also be some centralized blacklisting of content going on, which seems... Potentially problematic.
+            - Because Gateways are all HTTP endpoints, Arweave assumes DNS & webservers. This makes it less radical than, say IPFS, but ensures compatibility with all existing browsers.
+        - There's also a built-in smart contract system.
+        - Miners handle data storage, similar to IPFS.
+            - While IPFS/Filecoin make storage hosting an *explicit* transaction, Arweave transactions are *implicit* as miners (and gateways) scan/filter what content they accept. Whitelisting vs. blacklisting.
+                - Mining is also structured to incentivize retention of significant amounts of data.
+                    - This incentive structure also means that there is never any incentive to discard information (since being the only node that holds a certain piece of data )
+                    - Miners can also hold  private data, which obviously "games" the system (per above). However, the total amount of Arweave rewards scales with the entire size of the data store, so it's not possible for a "storage monster" to completely game the rewards function in this way.
+            - Mining functions similar to Filecoin's proof-of-storage, but using more Bitcoin-like semantics.
+            - Overall, Arweave seems to include most (all?) of the functions of IPFS + Filecoin + Ceramic.
+        - Arweave smart contracts are run on client nodes rather than the chain itself. This makes them more flexible, but also means that they lose some of the "code is law" aspect that more traditional smart contracts have.
+            - Native Arweave smart contract language is JavaScript.
+        - Data transfer is handled with BitTorrent.
+            - Modified optimistic tit-for-tat is used that allows for more types of "favors" than just data sharing.
+    - ## [Internet Computer](https://dfinity.org/)
+        - Run by a Swizz-based non-profit (DFINITY).
+        - Reference implementation written in Rust. 🤩
+        - Data is hosted in "canisters" (4 GB limit, but Fleek seems to use a 2.5 GB limit).
+            - Canisters can further be subdivided into "frontend" and "backend", depending on whether they're designed to be accessed directly by users, or only within IC.
+                - This distinction is primarily driven by the need for a load-balancing architecture.
+            - Canisters are actually a special type of smart contract!
+            - Canisters run in dedicated hypervisors, with all code compiled down to WASM.
+                - Calls can either be updates, which are run and verified by all nodes in a subnet and change a canister's state, or queries that return canister internals and only run on a few nodes (but any state changes they cause are discarded once the query finishes).
+                - Canisters are single-threaded, but when a thread is blocked the subnet might switch to a different call.
+                - Persistence is achieved *in memory*. (It sounds like there is no distinction between "storage" and "memory" in a canister.)
+        - Currently all access is through gateways (similar to Arweave).
+            - It's not clear if DFINITY maintains an open source gateway, but [Fleek does](https://github.com/FleekHQ/ic-proxy).
+                - This is either a major oversight, or some not-very-well-hidden centralization.
+            - It looks like there's also a Chrome browser extension (also by Fleek) that allows more native interactions.
+        - The IC tries to create (as incentives) and burn (to run canisters) tokens in a fashion that balances inflationary and deflationary tendencies.
+            - Tokens can also be locked in "neurons" for governance purposes.
+        - An (automated?) governance layer arranges nodes into "subnets"", each of which is responsible for storing, replicating, and running a set of canisters.
+            - Subnets are classified by type (presumably the internal structure and nodes for a given type are chosen to optimize for particular operations).
+        - Seems to be a bit of not-invented-here happening in the DFINITY repos...
+            - Also, network descriptions are a bit hand-wavy.
+            - "New cryptography" is a phrase that gives me serious pause.
+            - Maybe in their defense, the entire thing is less than a year old...
+        - Has its own smart contract layer (and its own governance blockchain), but is being more tightly integrated into Bitcoin (plan is for every canister to have its own Bitcoin address).
+    - ## [ZeroNet](https://zeronet.io/)
+        - Reference implementation written in Python.
+        - Desktop + Android support.
+        - Basically websites via trackerless BitTorrent.
+            - All website development/hosting is local.
+            - Possible to spin up an NGINX reverse proxy.
+        - Very Freenet/I2P approach to access (browsing is all done through a local proxy.)
+        - Comes bundled with SQLite for simple/light DBs.
+        - Surprisingly tight integration with Tor.
+        - Site addresses are actually Bitcoin wallet addresses, but the actual data is served up via BitTorrent.
+        - Uses Namecoin for lookups (.bit TLD).
+# Name Services
+    - ## [ENS](https://ens.domains/)
+        - Basically NFTs on the Ethereum blockchain.
+            - Gas fees make these expensive!
+            - Can link Ethereum addresses, IPFS hashes, etc. to domain-name like objects.
+        - Basically, each ENS domain contains three types of data: User data (the Ethereum addresses that can make changes, separated into "registrant"/"owner" and "controllers"), the record data (an arbitrary string), the record type, and the domain TTL.
+            - Record types map to "resolvers", which are just additional smart contracts that define how the record data should be interpreted.
+            - There can be an arbitrary number of record data/type tuples, though adding/changing these requires burning gas.
+            - Supported out-of-the-box for many Ethereum-based dapps.
+            - ENS is designed to compliment, rather than replace, DNS.
+            - You can claim DNS TLDs on ENS, but this also burns gas.
+            - Good support, at least on desktop (Brave, Opera, MetaMask Extension)
+    - ## [Unstoppable Domains](https://unstoppabledomains.com/)
+        - Like ENS, this is domains as NFTs on the Polygon (Ethereum L2) blockchain.
+        - Less DNS-like.
+            - __No__ renewal fees.
+            - __No__ gas fees.
+            - __But!__ Seems to be less web3-native than ENS.
+                - Corporate rather than community-driven.
+        - Good support -- arguably better than ENS (Opera, Chrome, Firefox, etc.).
+        - Also hooks into crypto addresses + IPFS.
+            - Provides its own IPFS uploader.
+        - Seems to be a more streamlined (but less flexible/more centralized) architecture than ENS.
+        - Requires periodic renewal (< 1 year-ish)
+    - ## [Bonfida Solana Naming Service](https://naming.bonfida.org/)
+        - Uses the .sol  domain name.
+        - Supports arbitrary text strings; like most solutions, wallet addresses (SOL in this case), IPFS hashes, and Twitter handles are explicit use cases.
+            - Additional record types include Ethereum and Bitcoin wallets and Arweave hashes.
+        - Good support within the Solana ecosystem (most wallets + a Chrome resolver extension that works for both IPFS hashes and normal domains/IPs).
+        - __Sold via 7-day (or 3-day; the documentation is contradictory) auction **only**.__
+            - The minimum bid is 2.5 FIDA; also requires gas fees (but these are *really* cheap on the Solana chain).
+            - The documentation implies that the first bid cannot be canceled; however, since you must also cancel a bid before entering a higher bid, this also implies that the first bid cannot be increased.
+                - This creates an incentive to __not__ bid on your own domain until as late in the auction as possible.
+            - Once a domain is won, there is an additional (one time?) charge to for on-chain space (1 - 10 kB).
+                - Subdomains hold 2 kB of data.
+        - Some verification is done via a Bonfida oracle. This implies more centralization than ENS (seems more equivalent to Unstoppable Domains).
+    - ## [Handshake](https://handshake.org/)
+        - Reference implementation written for NodeJS.
+        - Resolving requires a browser extension or custom DNS.
+        - Designed to replace *both* DNS (really, the root zone of DNS) and CAs.
+            - Based around TLDs (!!!).
+            - Requires running a node to fully participate.
+            - CAs are replaced by allowing certificate hashes to be stored on-chain. This enables self-signed certificates to be used.
+        - Handshake TLDs basically just are NS records; you are then responsible for resolution beyond the TLD.
+        - Uses a "coin" protocol to decide on cryptographic keys that manage a particular resource (domain/cert).
+        - Domains names are released for auction on the Handshake chain.
+            - There doesn't seem to be a way to propose a custom domain.
+            - It looks like the easiest way to deal with Handshake is to use something like [namebase.io](https://www.namebase.io/) (though there seems to be some advice to steer clear of them).
+                - It looks like the best solution is to basically run our own resolver...
+        - Registration is for 2 years
+    - ## [Namecoin](https://www.namecoin.org/)
+        - Based on Bitcoin (fork) rather than Ethereum.
+            - Uses the Bitcoin coin limit (!!!).
+            - The Namecoin miner __also__ functions as a Bitcoin miner.
+        - Integration with Tor and I2P.
+        - Uses .bit TLD.
+        - Supports on-chain TLS certificates for HTTPS.
+            - Domain CA is stored on-chain. Because only the TLD owner can associate the CA with the domain, this eliminates the need for trusted registrars.
+                - This is probably a better solution than either the current system or the TOFU approach used by Gemini, __et al.__ (though it's arguably inferior to always-encrypted Tor or IPFS connections).
+        - Seems to be closely tied to ZeroNet.
+            - Like ZeroNet, there seems to be a strong emphasis on "run it yourself".
+        - Namespaced, similar to IPFS.
+        - Supports domains and identities, similar to ENS.
+            - __Not scalable to DNS levels.__
+# APIs & Integrations
+    - [Ethereum](https://web3js.readthedocs.io/)
+    - [Solana](https://github.com/solana-labs/solana-web3.js/)
+    - [Arweave](https://github.com/ArweaveTeam/arweave-js)
+    - [Ceramic](https://github.com/ceramicnetwork/js-ceramic) (IPFS)
+    - ## [Ceramic](https://ceramic.network/)
+        - Extends IPLD (but not associated with that project). More of a family of protocols than a single application.
+            - Ceramic seems to be somewhat NoSQL-y; information is carried by stream, which is its own append-only Merkle tree referenced by an immutable StreamID (there's an obvious parallel here between IPFS and IPNS). Presumably the information carried in a tree is not a single value, but rather a data structure of some kind.
+            - Streams are interpreted by Ceramic nodes, and valid state transitions (new log entries) are determined by the associated StreamType.
+                - Currently defined StreamTypes are JSON blobs and links into other blockchains.
+                - StreamTypes are typically tied to and authenticated by [W3C DIDs](https://www.w3.org/TR/did-core/).
+                    - There's an NFT DID method (unclear if this is currently available or not) that confers particular stream commit rights on the __current__ owner of a particular NFT.
+        - Every Ceramic node is its own VM, which allows spatial scalability and offline processing. This again parallels IPFS's capabilities.
+        - Ceramic nodes seem to generally be dedicated to a specific set of streams, which are "pinned" there (similar to IPFS files).
+            - Just as with IPFS, unless a stream is pinned (or active in) multiple nodes, it ceases to be available to the network at all.
+            - Long-term archiving can be done using Filecoin, Arweave, or even Amazon S3.
+        - Pretty significant list of web3 projects using the technology (including IPFS!).
+        - __Like IPFS, all data is public!__
+        - Reference implementation in JavaScript.
+            - Regular JS HTTP client for browser use, and a JS Core Client for use in-browser or via NodeJS.
+        - __Peer discovery is currently centralized rather than using DHT via libp2p.__
+    - ## [Unlock Protocol](https://unlock-protocol.com/)
+        - Ethereum-based protocol designed for membership handling.
+            - Basically, a paywall layer.
+            - Locks are smart contracts, while memberships are structured as NFTs.
+        - While locks/memberships are decentralized, Unlock itself is a corporation.
+            - There's an entire centralized dashboard for controlling all of this.
+        - Could use to control @yak status on Discord via the "Swordy"or "Collab.Land" bots.
+## Hosting
+    - Arweave websites can be pushed using the [Arkb](https://docs.arweave.org/developers/tools/textury-arkb) tool.
+    - Internet computer sites are just specialized canisters.
+    - ## [Fleek](https://fleek.co/)
+        - Basically looks like Netlify for IPFS.
+            - Fleek plans are ~2x more expensive than Netlfiy (but still includes a fee tier).
+        - While files are stored in IPFS (or the Internet Computer), it looks like Fleek pushes them out to a CDN for web1/2 browsing purposes.
+            - Only IPFS sites can be hosted on ENS domains.
+                - IPNS is used for IPFS sites to avoid paying high gas fee rates.
+        - Fleek only supports 2FA via SMS. 😭
