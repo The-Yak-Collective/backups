@@ -51,7 +51,7 @@ This should be accurate as of [the end of 2021]([[December 31st, 2021]]).
         - Reference implementation written in Erlang. 🥴
         - Appears to be a corporate open source project, rather than a community-driven open platform like IPFS or Hypercore. Flutter/Java vs. Rust/Python.
         - Arweave incentivizes storage using a large initial disbursement and then declining ongoing disbursements meant to mirror the falling price of storage.
-        - While IPFS is focused on __spacial__ scope (it's the __interplanetary__ file system, after all), Arweave is focused on *temporal* scope, with an initial economic planning horizon of 400 - 1300 years.
+        - While IPFS is focused on __spacial__ scope (it's the __interplanetary__ file system, after all), Arweave is focused on __temporal__ scope, with an initial economic planning horizon of 400 - 1300 years.
             - Consistent with this, there seems to be some concern within the Arweave community with continuing to support older hardware
             - Arweave is also explicitly planning for its own eventual obsolesce.
             - That said, it appears that, like Bitcoin, Arweave is structured around a finite coin supply (albeit for a given amount of data on-chain).
@@ -76,7 +76,7 @@ This should be accurate as of [the end of 2021]([[December 31st, 2021]]).
         - Data transfer is handled with BitTorrent.
             - Modified optimistic tit-for-tat is used that allows for more types of "favors" than just data sharing.
     - ## [Internet Computer](https://dfinity.org/)
-        - Run by a Swizz-based non-profit (DFINITY).
+        - Run by a Swiss-based non-profit (DFINITY).
         - Reference implementation written in Rust. 🤩
         - Data is hosted in "canisters" (4 GB limit, but Fleek seems to use a 2.5 GB limit).
             - Canisters can further be subdivided into "frontend" and "backend", depending on whether they're designed to be accessed directly by users, or only within IC.
@@ -115,7 +115,7 @@ This should be accurate as of [the end of 2021]([[December 31st, 2021]]).
         - Basically NFTs on the Ethereum blockchain.
             - Gas fees make these expensive!
             - Can link Ethereum addresses, IPFS hashes, etc. to domain-name like objects.
-        - Basically, each ENS domain contains three types of data: User data (the Ethereum addresses that can make changes, separated into "registrant"/"owner" and "controllers"), the record data (an arbitrary string), the record type, and the domain TTL.
+        - Basically, each ENS domain contains four types of data: User data (the Ethereum addresses that can make changes, separated into "registrant"/"owner" and "controllers"), the record data (an arbitrary string), the record type, and the domain TTL.
             - Record types map to "resolvers", which are just additional smart contracts that define how the record data should be interpreted.
             - There can be an arbitrary number of record data/type tuples, though adding/changing these requires burning gas.
             - Supported out-of-the-box for many Ethereum-based dapps.
@@ -139,8 +139,8 @@ This should be accurate as of [the end of 2021]([[December 31st, 2021]]).
         - Supports arbitrary text strings; like most solutions, wallet addresses (SOL in this case), IPFS hashes, and Twitter handles are explicit use cases.
             - Additional record types include Ethereum and Bitcoin wallets and Arweave hashes.
         - Good support within the Solana ecosystem (most wallets + a Chrome resolver extension that works for both IPFS hashes and normal domains/IPs).
-        - __Sold via 7-day (or 3-day; the documentation is contradictory) auction **only**.__
-            - The minimum bid is 2.5 FIDA; also requires gas fees (but these are *really* cheap on the Solana chain).
+        - **Sold via 7-day (or 3-day; the documentation is contradictory) auction __only__.**
+            - The minimum bid is 2.5 FIDA; also requires gas fees (but these are __really__ cheap on the Solana chain).
             - The documentation implies that the first bid cannot be canceled; however, since you must also cancel a bid before entering a higher bid, this also implies that the first bid cannot be increased.
                 - This creates an incentive to __not__ bid on your own domain until as late in the auction as possible.
             - Once a domain is won, there is an additional (one time?) charge to for on-chain space (1 - 10 kB).
@@ -149,7 +149,7 @@ This should be accurate as of [the end of 2021]([[December 31st, 2021]]).
     - ## [Handshake](https://handshake.org/)
         - Reference implementation written for NodeJS.
         - Resolving requires a browser extension or custom DNS.
-        - Designed to replace *both* DNS (really, the root zone of DNS) and CAs.
+        - Designed to replace __both__ DNS (really, the root zone of DNS) and CAs.
             - Based around TLDs (!!!).
             - Requires running a node to fully participate.
             - CAs are replaced by allowing certificate hashes to be stored on-chain. This enables self-signed certificates to be used.

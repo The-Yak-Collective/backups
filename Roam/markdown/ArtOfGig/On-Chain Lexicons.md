@@ -2,7 +2,7 @@
     - > Follows is an outline of an on-chain lexical discovery writing and publishing platform. It is a very rudimentary speculation at this point, and several unconsidered edge/corner-cases exist. It is currently conceived as a platform, whereas it would be nice to be able to transition the idea into a protocol where human intervention in the discovery and management was possibly handled by smart contracts. Further, there remains a question of whether or not there is any reason to utilize blockchain technology in order to execute this idea, or if the idea is even worth pursuing in the first place. The idea was spurred by looking at [[Bleeps DAO]], which is putting short 2-second sounds on the Ethereum blockchain and developing a way to make melodies out of those sounds. That DAO has an economic model for generating revenue to the DAO. It is an open question for this idea if a DAO is necessary, and whether there is any need for a financial incentive to participate either as a community submitting terms or as a writer utilizing the platform.
     - **Spurred by:** #[[Commits Vortex]]
 - ## **Brief Outline**
-    - A writing and publishing platform designed to network lexical discovery
+    - A writing and publishing platform designed to network lexical discovery 
     - Communities are able to submit sets or bundles of lexicons to the platform
         - They are also able to supply definitions or descriptions of the terms submitted
         - They are able to submit layers of bundled lexical terms
@@ -28,3 +28,4 @@
             - BDFL 
             - Root cause vs Muddling through 
             - Anarch vs Anarchist
+- Solutioning
