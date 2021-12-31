@@ -49,7 +49,7 @@ Flash teams exhibit distributed leadership.
     - Locations:: from [[Open Participatory Organisation]], it is used to mean an opportunity to produce value by contributing values and skills in the context of an operational framework [Bonnitta Roy](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
 - M
     - Murmuration Principle:: Ad hoc groups form, move, and disperse as needed to feed and evade predators. An individual can make good decisions for the group with situational awareness of a few other close-by individuals.
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDppNqoCXcN.jpeg?alt=media&token=b1cc6487-3612-4909-8d67-1894baf2828f)
+        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGRHBwTnFvQ1hjTi5qcGVnP2FsdD1tZWRpYSZ0b2tlbj1iMWNjNjQ4Ny0zNjEyLTQ5MDktOGQ2Ny0xODk0YmFmMjgyOGY=)
             - source: [An Open Architecture for Self-Organization](https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09)
     - **Minimum Viable Happiness:** Platforms that create meaningfully more happiness in the average transaction than any substitute, __not__ how many transactions you accumulate, will dominate the market.[ Source](https://sarahtavel.medium.com/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
     - **Muddling Through:** An approach to decision-making based on "successive limited comparisons" described in Charles Lindblom' seminal 1959 article [The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)

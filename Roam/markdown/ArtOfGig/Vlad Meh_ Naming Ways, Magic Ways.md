@@ -6,33 +6,33 @@
         - So commodifying one kind of magic tends to create a new kind of magic? @Joseph Fridman (Boston) used the interesting phrase “prediction surplus”
         - There’s also taking old magic concepts literally which might open up interesting lines of speculation
         - A good diagnostic question is: what do people think of as magic today? Eg: being a Unix guru or blockchain maven or knowing how to do dark SEO and click baiting and chaos magick and meme magic to sell products/win elections etc. Maybe there’s others. Who are today’s “magicians”? Steve Jobs? Trump? Satoshi?(edited)
-        - ![🤔](https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg)
+        - ![🤔](./images/aHR0cHM6Ly9kaXNjb3JkLmNvbS9hc3NldHMvMjYzYTdmNGVlYjZmNjllNDZkOTY5ZmE0NzkxODg1OTIuc3Zn)
         - 1
         - [4:06 PM]
         - So commodifying one kind of magic tends to create a new kind of magic? @Joseph Fridman (Boston) used the interesting phrase “prediction surplus”
         - [4:07 PM]
         - There’s also taking old magic concepts literally which might open up interesting lines of speculation
-        - ![ ](https://cdn.discordapp.com/avatars/692934169118113893/f1a515c911af4d0d143aeb1155f61f16.png?size=128)
+        - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTI5MzQxNjkxMTgxMTM4OTMvZjFhNTE1YzkxMWFmNGQwZDE0M2FlYjExNTVmNjFmMTYucG5nP3NpemU9MTI4)
         - ## Vlad Mehakovic (Aus/Syd)Today at 4:07 PM
         - I think it was paul graham that said writing code is like casting spells
         - [4:08 PM]
         - Software eats the world gets into this motif - APIs that make things happen in the "real world"
-        - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
+        - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTIxMTA3ODk2NTc3NTU3MjgvYzk2NzUxNTg0ODA4ZWY5MDBjM2EyYWU3YzQ2ODI3NTgucG5nP3NpemU9MTI4)
         - ## Venkatesh Rao (US Pacific)Today at 4:14 PM
         - I think a general principle is that magic is necessarily illegible/esoteric knowledge and abilities. So if everyone learns a magic way it ceases to be a magic way. Iirc there was a time literacy was perceived as a magical ability... being able to decipher strange symbols
         - [4:16 PM]
         - So v2.0 of the question is what’s magic today that will be commodity non-magic tomorrow? What new abilities on top will be seen as magic? Maybe try to imagine an old magician vada new one?
-        - ![ ](https://cdn.discordapp.com/avatars/692934169118113893/f1a515c911af4d0d143aeb1155f61f16.png?size=128)
+        - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTI5MzQxNjkxMTgxMTM4OTMvZjFhNTE1YzkxMWFmNGQwZDE0M2FlYjExNTVmNjFmMTYucG5nP3NpemU9MTI4)
         - ## Vlad Mehakovic (Aus/Syd)Today at 4:17 PM
         - Pushing that line of thought - what will become magic in a kernel-enabled world?
         - [4:18 PM]
         - Text -> reading is magic, computing -> coding is magic, neurofuturama -> ?
-        - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
+        - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTIxMTA3ODk2NTc3NTU3MjgvYzk2NzUxNTg0ODA4ZWY5MDBjM2EyYWU3YzQ2ODI3NTgucG5nP3NpemU9MTI4)
         - ## Venkatesh Rao (US Pacific)Today at 4:18 PM
         - Being able to interpret brain data?
         - [4:19 PM]
         - Coding is already commodity in many ways, eg no-code/low-code environments. AI and data science are currently magic
-        - ![ ](https://cdn.discordapp.com/avatars/692934169118113893/f1a515c911af4d0d143aeb1155f61f16.png?size=128)
+        - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTI5MzQxNjkxMTgxMTM4OTMvZjFhNTE1YzkxMWFmNGQwZDE0M2FlYjExNTVmNjFmMTYucG5nP3NpemU9MTI4)
         - ## Vlad Mehakovic (Aus/Syd)Today at 4:19 PM
         - Agreed
         - [4:19 PM]
@@ -41,10 +41,10 @@
         - Until commodified
         - [4:20 PM]
         - I think interpretation makes sense
-        - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
+        - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTIxMTA3ODk2NTc3NTU3MjgvYzk2NzUxNTg0ODA4ZWY5MDBjM2EyYWU3YzQ2ODI3NTgucG5nP3NpemU9MTI4)
         - ## Venkatesh Rao (US Pacific)Today at 4:20 PM
         - Remember guy in Matrix who could read raw code and visualize “woman in red”?
-        - ![ ](https://cdn.discordapp.com/avatars/692934169118113893/f1a515c911af4d0d143aeb1155f61f16.png?size=128)
+        - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTI5MzQxNjkxMTgxMTM4OTMvZjFhNTE1YzkxMWFmNGQwZDE0M2FlYjExNTVmNjFmMTYucG5nP3NpemU9MTI4)
         - ## Vlad Mehakovic (Aus/Syd)Today at 4:20 PM
         - Hahah
         - [4:20 PM]

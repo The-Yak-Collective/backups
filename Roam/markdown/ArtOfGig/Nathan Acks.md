@@ -1,7 +1,7 @@
-- Paycheck type currently working in the non-profit space, but planning on making the jump to independence.
+- Paycheck type currently working in the non-profit space. Planning to make a two-stage jump to independence (industry for a few years, then full indy).
+    - For the last 5 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
 - Long-time follower of [Ribbonfarm](https://www.ribbonfarm.com/), which is how I discovered [[Breaking Smart]] and [[Art of Gig]].
 - M.S. in Applied Mathematics specializing in [Operations Research](https://en.wikipedia.org/wiki/Operations_research).
-- For the last 5 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
 - Twitter:: [@nathan_acks](https://twitter.com/nathan_acks)
 - Websites::
     - [Delphi Strategy](https://www.delphi-strategy.com/) (newsletters, essays)
@@ -20,5 +20,5 @@
 - To Do::
     - {{[[DONE]]}} Update the [[Yak Collective Website]] documentation
     - {{[[DONE]]}} Update the [Discord channel proposal]([[Discord Channel Lifecycle and Organization]])
-    - {{[[TODO]]}} Migrate from [IFTTT](https://ifttt.com/) to [ActionsFlow](https://github.com/actionsflow/actionsflow) ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))
+    - {{[[TODO]]}} Migrate from [IFTTT](https://ifttt.com/) to GitHub Actions ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))
     - {{[[TODO]]}} Code review for [[Yak Collective Website]]

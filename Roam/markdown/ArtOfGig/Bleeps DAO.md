@@ -17,5 +17,5 @@
     - Interesting to think about what a similar model in a written context would be, with a particular lexicon for instance being developed and minted as verbal building blocks for essays
     - Also interesting to consider a forking of the Bleeps DAO open source code, and thus chains of sonic primitives competing based on economic and distributive terms
 - **Economic Model of Melodies**
-    - ![](https://lh4.googleusercontent.com/3jCHDglTvgeWRp3Sn-Uhes69d3a0OMOw22m8pTbaAlgKYh66RZx1bScoSkb0KFS5mpPqrbZd42Xlc5Dkv59D0u7Hb2lS48eTQ6A0pewXLJufJFqIazvFx2Q1s0b6biPdqtB7zgharYm1)
+    - ![](./images/aHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzNqQ0hEZ2xUdmdlV1JwM1NuLVVoZXM2OWQzYTBPTU93MjJtOHBUYmFBbGdLWWg2NlJaeDFiU2NvU2tiMEtGUzVtcFBxcmJaZDQyWGxjNURrdjU5RDB1N0hiMmxTNDhlVFE2QTBwZXdYTEp1ZkpGcUlhenZGeDJRMXMwYjZiaVBkcXRCN3pnaGFyWW0x)
     - 

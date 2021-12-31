@@ -17,7 +17,7 @@
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)
     - **Treasury Management** (this includes thinking about digital assets like fungible tokens vs. NFT club passes, how they are distributed, who holds them, what liquidity should be available, transferability, utility (voting, access, economic reward)) -- initialized, see [[YC Treasury]]
     - **Membership and Participation** (this is related to the "who" and what types of contribution zones we want to reinforce / support / nudge)
-    - ![](https://cdn.discordapp.com/attachments/904793053598998618/906601862801784842/FDbGMe2XoAwhq_j.png)
+    - ![](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvOTA0NzkzMDUzNTk4OTk4NjE4LzkwNjYwMTg2MjgwMTc4NDg0Mi9GRGJHTWUyWG9Bd2hxX2oucG5n)
 - ## Currently proposed experiments
     - A multi-sig wallet with n/m signature authority to hold and disburse YC funds in the form of ethereum or a suitable stablecoin (tbd)
     - Publish the [[Governance Readings Six Pager]] on [mirror.xyz](https://mirror.xyz) as a split-contract NFT with proceeds being divided suitably among contributors and a YC fund.

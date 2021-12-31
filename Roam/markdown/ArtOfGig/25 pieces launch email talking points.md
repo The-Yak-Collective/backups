@@ -9,7 +9,7 @@
     - I have something to share: a group of independent consultants I am part of, [The Yak Collective](https://yakcollective.org), is releasing it's inaugural report, in the form of a slide deck, __Don't Waste The Reboot__.  Check it out! 
     - ## 👉 [Link To Report Deck- Don't Waste the Reboot](https://yakcollective.org/reports/yak-wisdom)
     - Include both a text link and the linked cover slide image.
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FR716MzCSBf?alt=media&token=84002fe0-4a54-4ef5-8eb5-298e5c56d75c)
+    - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGUjcxNk16Q1NCZj9hbHQ9bWVkaWEmdG9rZW49ODQwMDJmZTAtNGE1NC00ZWY1LThlYjUtMjk4ZTVjNTZkNzVj)
 - **Brief opening summary paragraph suggestions**
     - __Don't Waste the Reboot__  offers a smorgasbord of 25 non-mainstream ideas, systems, provocations, and frameworks to help leaders navigate the Covid-19 reboot. The goal is to offer organizations of all sorts — business, nonprofit, government — a real and meaningful alternative to traditional mainstream sources of advice, counsel, and intelligence for navigating this crisis. Here are some details:
 - **Details to potentially include**

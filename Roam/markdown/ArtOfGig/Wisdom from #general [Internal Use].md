@@ -1,6 +1,6 @@
 - I'm looking to transition from corporate to indie by taking an intermediate step and angling for a consultant type role within the company. Struggling to work out how to go about it (or if its even a good idea).- [[Yoni Balkind]]
 https://a16z.com/2019/10/08/passion-economy/ 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FGLefiJc90J?alt=media&token=91a797b7-f1b3-45a4-a3c4-c81252194b71)
+![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGR0xlZmlKYzkwSj9hbHQ9bWVkaWEmdG9rZW49OTFhNzk3YjctZjFiMy00NWE0LWEzYzQtYzgxMjUyMTk0Yjcx)
     - Problem Solving vs. Capacity Building
 "the consultant label is meaningless - instead what you want is the ability to build a new capability for the org. So pitch that - pitch stepping away from managing existing business functions and build something new. That's often the role of the consultant and if you can do that you'll get a taste of indie work. At the same time - don't forget to talk publicly about the transition. Building a network and profile is crucial for the transition to indie”
 This is a good read on the difference between problem solving and capacity building. Many folks imagine themselves being problem solvers but it's much better to be a capacity builder: https://thesystemsthinker.com/consultants-as-problem-solvers-or-capacity-builders/

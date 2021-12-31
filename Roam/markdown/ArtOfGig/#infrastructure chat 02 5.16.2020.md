@@ -6,7 +6,7 @@
     - So that’s an RFB: Request For Brainstorm
     - Principle: Apparent chaos caused by the illegibility of complex systems is good. Real chaos caused by the insufficiency of underpowered tools is bad. We on the infrastructure team need to protect the former from authoritarian high-modernist tooling impulses but address the latter with creative reimagination of corresponding industrial-corporate tooling.
     - Principle: Test-Driven Infrastructure Evolution. Gradatim ferociter
-    - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
+    - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTIxMTA3ODk2NTc3NTU3MjgvYzk2NzUxNTg0ODA4ZWY5MDBjM2EyYWU3YzQ2ODI3NTgucG5nP3NpemU9MTI4)
     - [10:24 AM]
     - ## Venkatesh Rao (US Pacific)Today at 10:23 AM
 - **Participants**: [[Steven Moody]], [[John Grant]], [[Scott Allen]], [[Mike Morris]], [[Sachin Benny]], [[Venkatesh Rao]]

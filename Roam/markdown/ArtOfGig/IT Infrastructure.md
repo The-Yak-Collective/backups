@@ -34,7 +34,7 @@ Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
         - [Infrastructure Map GitHub Repository](https://github.com/The-Yak-Collective/infrastructure-map)
         - [Edit the current map](https://github.com/The-Yak-Collective/infrastructure-map/edit/master/infrastructure.dot) (note that it can take a couple of minutes to update here)
         - [Full-sized version of the current map](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg) (assets link back to pages in this Roam graph)
-    - ![Yak Collective IT Infrastructure diagram](https://raw.githubusercontent.com/The-Yak-Collective/infrastructure-map/master/infrastructure.svg)
+    - ![Yak Collective IT Infrastructure diagram](./images/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RoZS1ZYWstQ29sbGVjdGl2ZS9pbmZyYXN0cnVjdHVyZS1tYXAvbWFzdGVyL2luZnJhc3RydWN0dXJlLnN2Zw==)
         - [[Yak Collective Robot]] ("Yakbot")
             - Chief Page Wrangler:: [[Nathan Acks]]
             - Google account; holds __some__ shared assets.

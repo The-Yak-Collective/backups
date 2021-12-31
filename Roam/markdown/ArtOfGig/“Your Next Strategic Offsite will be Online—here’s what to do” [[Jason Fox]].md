@@ -138,7 +138,7 @@
             - 3. Then we put it ‘out there’ as an open thing (potentially). Or we work with a client happy to play with us.
         - Concerns: this feels webinary/showcasy. Most of our stuff is so intwined to our client contexts.
         - Maybe we are okay with this concern—and I am okay with that. The result may be a little more performative but... yeah. One thing at a time.
-        - ![👍](https://discordapp.com/assets/08c0a077780263f3df97613e58e71744.svg)
+        - ![👍](./images/aHR0cHM6Ly9kaXNjb3JkYXBwLmNvbS9hc3NldHMvMDhjMGEwNzc3ODAyNjNmM2RmOTc2MTNlNThlNzE3NDQuc3Zn)
     - [[May 19th, 2020]] 18:56
         - Participants
             - [[Jason Fox]]

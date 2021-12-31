@@ -4,7 +4,7 @@
 - To discuss, join the Collaborations channel on the [[Yak Discord server]]
 - **Purpose**: We are looking to put together a pitch deck of at least 20 Indie Ideas - short & punchy 1-2 slides per idea.  The frame of the deck is as a stark difference to the bland "new new new normal" McKinsey and other mainstream views.  Showing that we have something to offer idea-wise and in practical hire-us ways.
 - Deck in progress: [Google slides link](https://docs.google.com/presentation/d/1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI/edit?usp=sharing) 
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FQTd_cabp4A?alt=media&token=e6ba171b-86f0-43b9-bd5a-3910864561bb)
+    - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGUVRkX2NhYnA0QT9hbHQ9bWVkaWEmdG9rZW49ZTZiYTE3MWItODZmMC00M2I5LWJkNWEtMzkxMDg2NDU2MWJi)
 - Add 2-slide sections according to these guidelines. Questions to [[Paul Millerd]]
     1. Add a 1-2 slide idea using the template in the deck (we can align formatting later)
     2. Also open to any comments on the go brrrrr  meme at the end  (WIP) 

@@ -22,9 +22,9 @@
 3. Establish security roles
 4. Establish credential sharing by roles
 5. Set up periodic review.
-            - ![🦾](https://discord.com/assets/12b7251a9a096c53443ac4efbd01d0a3.svg)
+            - ![🦾](./images/aHR0cHM6Ly9kaXNjb3JkLmNvbS9hc3NldHMvMTJiNzI1MWE5YTA5NmM1MzQ0M2FjNGVmYmQwMWQwYTMuc3Zn)
             - 1
-            - ![ ](https://cdn.discordapp.com/avatars/696421821628809246/1fc24dae9be6f005e0f077c81010568b.png?size=128)
+            - ![ ](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy82OTY0MjE4MjE2Mjg4MDkyNDYvMWZjMjRkYWU5YmU2ZjAwNWUwZjA3N2M4MTAxMDU2OGIucG5nP3NpemU9MTI4)
             - ## Nathan Acks (US Mountain)Today at 12:53 PM
             - 3.5. Establish system to share credentials
         - do an audit 
