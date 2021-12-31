@@ -31,8 +31,6 @@ jobs:
           mkdir Roam
           mv {edn,json,markdown} Roam/
           npx markdown-backup "Roam/markdown/**/*.md"
-          echo bash .bin/roam_asset_downloader.sh Roam/markdown/ArtOfGig
-          echo bash .bin/roam_asset_downloader.sh Roam/markdown/Astonishing_Stories
         env:
           R2G_EMAIL: ${{ secrets.ROAM_USER }}
           R2G_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
