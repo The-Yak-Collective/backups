@@ -24,6 +24,38 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat [[December 29th, 2021]]
+        - participants:: [[Nathan Acks]], [[Anuraj R]], [[Commits Vortex]], [[Maier Fenster]], [[Jordan Peacock]], [[Jenna Dixon]]
+        - notes::
+            [[Nathan Acks]] asks: Is there already a standard for how to host profiles in blockchain?
+            [[Commits Vortex]] is up for researching this.
+            [[Commits Vortex]] points out is that blockchain is basically bringing PGP-like applications to the masses.
+            [[Maier Fenster]] brings up two points:
+                1. What architecture do we need to become a DAO?
+                2. Do we want to have our own private blockchain?
+            The advantage to having our own blockchain would be that it would allow us to experiment.
+            [[Jordan Peacock]] is unsure how heavy a lift this would be.
+            [[Commits Vortex]] wants some clarification. What's the difference between this and a database?
+            [[Maier Fenster]] thinks that maybe each yak would host their own device. This would require us to spin up a fork of a particular chain. The "work" would come if we move over to an existing chain.
+            [[Nathan Acks]] is worried about hardware requirements. Ideally, they'd like us to be able to run things on, say, a Raspberry Pi.
+            [[Maier Fenster]] thinks that this is why we'd want to do a fork -- to maintain our own, easier parameters.
+            [[Commits Vortex]] thinks that running our own chain would be interesting from an experimentation perspective... But which chain should we fork? There's some strong path-dependency here. And if we're going to accept that path dependence, then why not just use a testnet?
+            [[Maier Fenster]] notes that there's no real difference, so long as we don't have to pay gas fees and don't need to make deeper modifications.
+            [[Commits Vortex]] thinks that perhaps we should look into the Tezos block chain.
+            [[Nathan Acks]] notes that Tezos transaction fees have never been higher than $0.21 in the last year.
+            [[Commits Vortex]] notes that Fantom (which is an Ethereum L2 solution?) might be another useful chain to look at.
+            [[Maier Fenster]]wonders: How do we get other yaks interested in playing with the blockchain?
+            [[Nathan Acks]] wonders: What problems do we many/most of us already face?
+            [[Maier Fenster]] observes that the biggest use case is probably becoming a DAO.
+            [[Nathan Acks]] observes that blockchains are mostly solving the "autonomous" class of problems.
+            [[Commits Vortex]] notes that one option would be fund distribution for publications. Given a set of governance rules, how do we handle minting NFTs, disbursing payments, etc.?
+            [[Commits Vortex]] notes that the first question is, what utility is X providing to the community? __Then__ we ask how to handle the infrastructure and incentives.
+            [[Nathan Acks]] comes back to the idea of on-chain profiles. We need a way to related Discord handles to wallet IDs, since wallet IDs are what's fundamental on-chain.
+            [[Commits Vortex]] wonder's what our relationship is to people beyond the Collective. Maybe we should issue governance tokens, and then people's "yak ID" is just the wallet that they have these governance tokens in.
+            [[Jenna Dixon]] notes that information and economy flows are __very__ different. There can be __a lot__ of unintended behaviors once you try to incentivize certain things. That said, Unbelievaboat actually has a simple economy function. Maybe we should start by playing with this?
+            [[Nathan Acks]] agrees that this is a good idea. Let's work out the bugs with Unbelievaboat first.
+            [[Commits Vortex]] seconds this agreement. Let's "role play" things a bit first. Also, maybe the DAO would just be a subset of the Yak Collective that manages something? (A protocol?)
+            [[Nathan Acks]] proposes that we should all come up with 1 - 3 ideas for things we would like to incentivize or decisions we would like to automate, and then discuss them next Wednesday.
     - Infrastructure Chat 74 [[October 20th, 2021]]
         - participants:: [[Maier Fenster]] [[Nathan Acks]]
         - notes::
