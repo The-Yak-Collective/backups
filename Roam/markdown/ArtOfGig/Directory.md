@@ -710,3 +710,9 @@ Previously founder/CEO of Pure Learning (a digital learning and consulting compa
     - Based in Toronto Canada
     - Working on a project I liked to call the [Dentropy Daemon](https://wiki.dentropydaemon.io/) whose goal is to build infrastructure cyberpunks would admire
     - Twitter [@PaulWMullins](https://twitter.com/PaulWMullins)
+- [[Kristin Eberth]]
+    - Based in Vancouver, BC
+    - Twitter [@kristineberth](https://twitter.com/kristineberth)
+    - Product growth & web3 stuff at [Input Logic](https://www.inputlogic.ca)
+    - Data analysis, incentive structures, community/product retention
+    - Meandering around, interested in experimenting with projects & collabs related to making beautiful technology, whatever that means
