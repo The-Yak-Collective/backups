@@ -1,7 +1,7 @@
 - This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
 - [[YC Treasury]]
 - [[Blockchain Infrastructure Resources]]
-- ## Meeting Notes
+- ## 2021 Meeting Notes
     - [[Chat with Rafa Nov 8 2021]] #[[meeting-notes]]
     - [[Weekly Call 2021-11-22]] #[[meeting-notes]]
     - [[November 22nd, 2021]] Nov 22 meeting agenda #[[meeting-notes]]
@@ -10,8 +10,43 @@
     - [[November 29th, 2021]] Nov 29 meeting agenda #[[meeting-notes]]
         - [[Web 3 Implementation Research topics]] that need investigation
         - Lore/Mission story
-    - [[December 6th, 2021]] Dec 6 #[[meeting-notes]]
-        - 
+    - Dec 6 #[[meeting-notes]]
+    - Dec 13: no meeting
+    - Dec 20: Ack report: [Survey of art primitives](https://docs.google.com/presentation/d/1e4WeafuEqZ4lhWw9xXibwVSjHZ-Fo2l5RJqXj3O8kmw/edit?usp=sharing)
+        - Offshoot discussion on a possible project [[On-Chain Lexicons]]
+    - Dec 26: [[Blockchain File Storage and Hosting]]
+- 2022 Meeting Notes
+    - Jan 3: Planning
+        - Day/Time
+        - Relation to other tracks
+        - Roadmap prioritization
+            - DAOification
+            - Web3 publishing infrastructure
+            - NFTs
+            - Finance aspect
+            - Learning the tech: Solidity programming, etc.
+        - Meeting format
+            - Readings
+            - Rotating discussion leads
+            - Coworking sessions
+            - ?
+        - Presentation format
+            - Roam page
+            - Slides
+        - Discussion format
+            - Presentation +Q&A
+            - Roundtable comments like OGS chats
+        - Experiment bootstrap model
+            - Lexicon example
+        - Goals for 2022?
+    - Jan 10
+    - Jan 17
+    - Jan 24
+    - Jan 31
+    - Feb 7
+    - Feb 14
+    - Feb 21
+    - Feb 28
 - ## Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)

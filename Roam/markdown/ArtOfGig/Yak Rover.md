@@ -10,7 +10,7 @@
 - [[Procurement Directory]]
 - [[Yak Rover Reference Materials]]
 - [[Yak Rover 2021 Builds]]
-- [[Year 1 meeting notes]]
+- [[Meeting Notes]]
 - [[Yak Rover Demo Day]]
 - [[Learning Wishlist]]
 - [[Project Ideas]]
@@ -54,7 +54,43 @@
     - **Component contributors and shared resource contributors** will try to do whatever they do in support of the build leader project arc, and their contributions will be featured as part of the build milestones. They will have no independent "path to market" -- if your contribution doesn't show up in a build milestone in some form, it doesn't show up at all
     - While people with meta skills like project management/architecture or adjacent skills like science communications are welcome, the core is hands-on contributions.
 - **Year 2 (2022) Plan**
-    - Year 2 will be devoted to refining and building the converged design from the end of Year 1. The YE milestone will be a field test.
+    - **Goals**: Year 2 aims at building on the momentum created in Year 1:
+        - **Spread**
+            - More builds!
+            - Groomed project website and other communication means
+        - **Convergence**
+            - Less to build!
+            - Shared software & design elements
+        - **Field tests**
+            - “Get dirty”
+            - Demo day 2022
+    - **Staffing**
+        - **Build leaders** commit to trying to build an actual "(minimum viable) rover". Each build leader will be free to direct their own design with minimal project-level constraints in using/contributing shared components when possible (e.g. software, CAD).
+        - **Shared resource contributors** commit to contributing one or more specific designs and/or fabricated elements (physical or software) to one or more specific builds. The goal is to build a library of resources as wildly applicable as possible (with documents helping in evaluating them):
+            - Wheels designs
+            - Electronics design
+            - A simulation environment
+            - A test suite for motors
+            - A SLAM module that compiles on the compute platform of all the builds, 
+            - A comprehensive field testing plan, including proving protocols, location scouting, permissions that might be required to access test areas, etc.
+        - **Meta artists** commit to elaborate on the concept of rover, as artistic theme, world-building concept, public discussion item.
+            - Place of the rover in current and future multi-planetary, space-faring society.
+            - Simple rover or more human compatible?
+            - Communication and broader management: Tweetosphere and Webosphere about rovers, autonomy, robotics.
+            - Story boards, scenarios involving rovers.
+    - **Approach**
+        - **Swarm of diverse rovers with shared elements**
+            - Multiply HW intiatives
+            - Identify and build a shared software stack
+            - Skills, knowledge and practice
+        - [From 2021] The management model will be a **loosely synchronized roadmap**, driven primarily by a shared track of technical knowledge building meetings. For eg., we might take take turns leading **weekly meetings evaluating past rover missions, or leading deep dive discussions / tutorials / readings into specific topics like motors or navigation**, but otherwise completely asynchronous and driven by the build leaders.
+        - [From 2021] We should end the year as **the most knowledgeable group on all things rover**, outside of space agencies and university departments or corporations doing research on rovers.
+        - We should **start contributing to common elements**, notably __software and data__:
+            - Write common elements
+            - Participate in deciding what shared elements do
+            - Use elements and share feedback
+            - Participate in licensing agreements
+    - Original plan: Year 2 will be devoted to refining and building the converged design from the end of Year 1. The YE milestone will be a field test.
 - **Years 3-10 Roadmap**
     - To be fleshed out obviously, but the goal would be to get to increasing levels of capability, cost, and external financing, and building out of the "friends of the project" network to the point that we have a realistic chance of actually getting a seat on a rocket going somewhere interesting.
 - **Scratch (the following sections of the project page are under development)**
