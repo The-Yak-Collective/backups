@@ -78,6 +78,7 @@
             - Simple rover or more human compatible?
             - Communication and broader management: Tweetosphere and Webosphere about rovers, autonomy, robotics.
             - Story boards, scenarios involving rovers.
+        - **Advisers** help frame the project direction as specialist and critiques, and possibly provide expert advice in their areas.
     - **Approach**
         - **Swarm of diverse rovers with shared elements**
             - Multiply HW intiatives

@@ -1,0 +1,11 @@
+- Mercury Cycle (1)
+    - January 11th, 2022 UTC: OS Discussion
+    - January 18th, 2022 UTC: Maier on Licensing
+    - January 25th, 2022 UTC: Anuraj on "Getting Started with Rovers" --> Publicize
+    - February 1st, 2022 UTC: Jascha
+    - February 8th, 2022 UTC: Venkatesh
+    - February 15th, 2022 UTC: Rhett
+    - February 22th, 2022 UTC: Eric
+    - March 1st, 2022 UTC: Sai?
+    - March 8th, 2022 UTC: Brian
+    - March 15th, 2022 UTC: YE Demo Day with Field Testing

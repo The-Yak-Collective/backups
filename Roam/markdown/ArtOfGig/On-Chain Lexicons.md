@@ -29,3 +29,32 @@
             - Root cause vs Muddling through 
             - Anarch vs Anarchist
 - Solutioning
+- 
+- ---
+- # Meeting Notes
+    - ## 2021-12-27
+    - **Meeting Participants:** #[[Commits Vortex]] #[[Meredith Noelle]]
+        - Discussion was mostly in the exploration space. Solutioning will follow. These discussions will track alongside the general [[Blockchain Roadmap]] to see where and how it could fit in with Yak Collective's general aims.
+        - ### Refined two ideas
+            - **Context**
+                - Different communities have different idiosyncratic usages of terms. These nuances could be expressed through text encoded on-chain via an NFT that displayed in one's writing on hover, or through some other analogous type of event listener. This would give the writer access to a token's particular usage and provenance
+            - **Redundancy**
+                - Multiple communities use the same terms, but in different contexts. This results in a type of lexical redundancy across communities. 
+                - When a user uses a term that they discovered through one community, they could be exposed to other terms used by other communities. 
+                - They could deepen their proximity or awareness of that other community's lexicon through usage or replacement of these redundant terms. 
+                - the ability to swap out redundant terms is somewhat akin to staking in DeFi. 
+                    - The longer one stakes, the more lexical terms are afforded to them in their writing.
+                    - The currency is exposure to lexicons and community contextualization
+                    - the NFTs could be sold on the secondary market, but it would maybe be smart to think about ways of disincentivizing this behaviour. 
+        - ### Better sense of Aim
+            - The aim is not to financialize language, but use blockchain to offer a transparent accounting of the following: 
+                - Tracing usage and provenance
+                - User navigation and profiles of discovery as proxy for networks of communities
+                - Record of staked investment in a community's lexicon
+            - Further, with the formation of a DAO, one mechanism of the DAO could be to make decisions about updates to term context
+        - ### Follow-Up Writing: 
+            - #[[Meredith Noelle]]
+                - Language Liquidity: https://mirror.xyz/0xF88593a3b58B069bCcE2b50cC502C9BF8Ba5b248/rsdTQVqU_hqwpTNJ-NAI-Yl5A31_2NKMMAQ0Nl-NzJ8
+                - Language as Currency: https://medium.com/@hackerm0m/language-and-currency-6efcc3504418?source=user_profile---------0-------------------------------
+    - ## 2022-01-03
+        - 

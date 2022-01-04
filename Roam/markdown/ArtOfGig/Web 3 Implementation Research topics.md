@@ -45,6 +45,11 @@
     - https://unchained.com/blog/multisig-ethereum-contract-for-hardware-wallets/
     - https://www.ledger.com/blog-ledger-becomes-your-secure-gateway-to-web3
     - Trezor + MetaMask - https://blog.trezor.io/trezor-metamask-ethereum-dapps-smart-contracts-announcement-dac153caa66c
+    - Raspbery Pi Wallets
+        - {{[[video]]: https://www.youtube.com/watch?v=eMPmgew0aYc}}
+        - {{[[video]]: https://www.youtube.com/watch?v=YrKo0QGWIuY}}
+        - https://www.pitrezor.com/2018/02/pitrezor-homemade-trezor-bitcoin-wallet.html
+        - {{[[video]]: https://www.youtube.com/watch?v=hHtGN_JzoP8}}
 - Basic situation awareness of PoW/PoS debates/criticisms/risks
     - General questions about how the incentives for folks who __run__ the networks do/don’t align with the incentives for network __users__, and also larger societal needs? #[[Nathan Acks]]
 - Culture war between Bitcoin and Ethereum and practical implications

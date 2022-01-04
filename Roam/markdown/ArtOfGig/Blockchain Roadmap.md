@@ -16,15 +16,44 @@
         - Offshoot discussion on a possible project [[On-Chain Lexicons]]
     - Dec 26: [[Blockchain File Storage and Hosting]]
 - 2022 Meeting Notes
-    - Jan 3: Planning
+    - Jan 3: Planning 
         - Day/Time
+            - Seems to work for most people, unless there are severe conflicts later we will keep this. 
         - Relation to other tracks
+            - Primarily tactical/practical application of decentralization
+            - Fridays are doctrine (high level principles)
+            - Mondays are blockchain specific strategy
+            - Wednesdays are turning Blockchain + others into practical implementation plans. 
+            - Saturdays are a working implementation session. 
         - Roadmap prioritization
             - DAOification
+                - Tokenomics, emerging properties of tokens. 
+                - Case studies, how are things emerging there? 
+                - Automation at the center. How do we automate out the mechanisms so the automation is at the center? 
             - Web3 publishing infrastructure
             - NFTs
-            - Finance aspect
+            - Finance aspects
             - Learning the tech: Solidity programming, etc.
+                - Prioritize this by doing (Dogfooding)
+                - Blockchain implementations and different smart contract implementations
+                - How are security concerns handled? DAO attack vectors
+            - Decentralized Identity
+            - Idenity
+                - Reputatiom/clout
+            - Cloud identity.
+                - Reputation Clout
+                - What is the right way to create flexible on-chain identities? 
+            - Community provenance
+            - Community provenance
+            - Cultural component of DAOification
+            - Agreements -> Rules (D of DAO). 
+                - How does this turn into community participation? 
+            - DAO abstraction
+                - Currently, DAOs try to build everything. How do they evolve to be symbiotic? 
+            - Next steps: 
+                - VGR will consolidate the above list to 5-7 items and bucketize everything. 
+                    - As we talk about them, we will add checkmarks to the bucket. 
+                - **Everyone**: Take dates off of the roadmap list (to research topics and present out)
         - Meeting format
             - Readings
             - Rotating discussion leads
@@ -40,12 +69,12 @@
             - Lexicon example
         - Goals for 2022?
     - Jan 10
-    - Jan 17
+    - Jan 17 — venkat, DAO platform options (Colony, Aragon etc)
     - Jan 24
-    - Jan 31
-    - Feb 7
-    - Feb 14
-    - Feb 21
+    - Jan 31 - [[Nathan Acks]] (though I've already presented, so someone else should bump me 🙃) - Blockchain identity solutions
+    - Feb 7 - maier fenster
+    - Feb 14 - Sachin Benny
+    - Feb 21 - meredith 
     - Feb 28
 - ## Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
