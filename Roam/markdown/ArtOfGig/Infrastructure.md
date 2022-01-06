@@ -24,6 +24,48 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat [[January 5th, 2022]]
+        - participants:: [[Nathan Acks]], [[Jordan Peacock]], [[Maier Fenster]], [[Anuraj R]], [[Commits Vortex]], [[Sachin Benny]], [[Jenna Dixon]]
+        - agenda::
+            - {{[[DONE]]}} Finish brainstorming blockchain implementation ideas
+        - notes::
+            Ideas for DAO automation and blockchain:
+                - [[Anuraj R]]: No ideas
+                - [[Commits Vortex]]: How to automate (in)determinance/generation? Thinking about this in terms of their own (lexicon) project + GPT-3. Automated idea prompts. (References a book co-written with GPT-3 -- the author provides a prompt and then GPT-3 provides additional text. The author then provides additional direction. Could we invert this, where the algorithm prompts/knudges the community or individuals towards some action.) One idea might be to automatically prompt/produce improvement proposals or prompts to action. (Riffing off an idea [[Maier Fenster]] interjected, perhaps this could be something that __purposefully__ tweaks/bumps/"sabotages" the normal bureaucratic workings.)
+                - [[Maier Fenster]]: Expands on [[Commits Vortex]]'s idea and identifies it as a DAO immune system -- something that detects potential social sclerosis and creates prompts designed to re-introduce some chaos. On a more practical level, [[Maier Fenster]]'s interested in "how to build a DAO?" The proposals that people come up with should go through an automation process that handles both the actual proposal, voting, and (ideally?) implementing/enforcing rules. For example, a proposal to create a channel that automatically gets implemented once there are enough votes, and also handles channel archiving. Can we build an interface that lets people easily __see__ the rules, and is also a framework for implementing these? As a first step, we need to identify all decisions we made recently, and then see if we can identify how to codify, parse, and implement them.
+                - [[Sachin Benny]]: No ideas.
+                - [[Jenna Dixon]]: Is concerned about the devil being in the details, and that most people __aren't__ as interested in the nuts-and-bolts. Whoever is coding up the automation has __a lot__ of potential power.
+                - [[Nathan Acks]]: My ideas where:
+                    - Onboarding process
+                    - Automatically archive channels
+                    - Automatically promote channels out of the incubator
+                    - Automatically create new channels when voting threshold is reached
+                    - Prompts to complete things like the yearly survey
+                    - Prompts to update profile information in Knack (or the blockchain?)
+                    - Infrastructure project bounties? (Payout in currency and/or governance tokens…)
+                    - Formalized project proposal system?
+            ([[Jordan Peacock]] had to drop off. [[Jenna Dixon]] joined late.)
+            [[Nathan Acks]] notes that we have three levels of proposals -- specific automation tasks, identifying domain-specific rules that we use to create a general rule framework, and more "friendly chaos" interjection.
+            [[Commits Vortex]] sees their speculative idea as something that could impact the potential trajectory of the DAO.
+            [[Nathan Acks]] thinks we may need a domain language for rules/proposals in order to make bot interjections as meaningful as possible.
+            [[Commits Vortex]] imagines a Discord channel that is a "speculative rules buffer" that people/bots could just throw out in a playful manner (not things that would be a full proposal necessarily, but "wouldn't it be fun it..."). There would then be some low threshold for feeding these into GPT-3 (perhaps via voting?). The GPT-3 bot could then generate proposals off of this corpus periodically.
+            [[Maier Fenster]] interprets this as using automated prompts to get people to make rules.
+            [[Commits Vortex]] pushes back, and thinks of this as more of a free space for ideas.
+            [[Nathan Acks]] thinks that this suggests the following steps:
+                1. What are the decisions we've made over the last 6 - 12 months?
+                2. What is the domain language that would describe these decisions?
+                3. Let's build out an automation that uses these rules. This would include channel life cycle automation, etc.
+                4. In parallel to the above, we can start building out the Yak "dreamspace" using the domain language we came up with
+            [[Jenna Dixon]] points out is that all of this conversation is predicated on us keeping Discord pretty central to what we do. Is that the right direction, or do we want to jump to Snapshot, Clarity, etc. for an interface? We also need to keep in mind that many of our decisions have changed over time. Also, none of this seems to involve blockchain right now...
+            [[Maier Fenster]] thinks notes that Discord is just an interface. We can move to other interfaces. We want people to vote with their Discord ID rather than their wallet.
+            [[Jenna Dixon]] thinks we need to keep things off-chain until we have some level of stability.
+            [[Maier Fenster]] doesn't think this is a problem if we have our own blockchain.
+            [[Anuraj R]] agrees that if we built our own chain, we would learn a lot.
+            [[Commits Vortex]] is generally okay with throwing lots of things on a chain so long as it's off a mainnet. This seems low-risk. One concern here is the irrevocability of decisions on the blockchain... How bad is this really?
+            [[Nathan Acks]] is concerned that we could block on implementing a chain if we try to implement our rules as "smart contracts" or something.
+            [[Maier Fenster]] thinks that automation and blockchain are more independent than this. Automation requires buy-in, but blockchain is something we can experiment with more slowly. How useful is a blockchain without automation anyway? So let's do automation first.
+            [[Commits Vortex]] thinks we could do a lower-security implementation to play with things. Also, we need to be okay with taking things slow.
+            [[Nathan Acks]] notes that for the next meeting we should start putting together [a list of past proposals](https://roamresearch.com/#/app/ArtOfGig/page/MFUDdJ8o9) so that we can start thinking through a domain-specific language for these. As the blockchain implementation project progresses, we can start alternating what we're doing in a particular meeting (automation vs. blockchain implementation).
     - Infrastructure Chat [[December 29th, 2021]]
         - participants:: [[Nathan Acks]], [[Anuraj R]], [[Commits Vortex]], [[Maier Fenster]], [[Jordan Peacock]], [[Jenna Dixon]]
         - notes::
