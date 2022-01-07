@@ -200,7 +200,7 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - Bear management vs wolf slaughter, [Frank Chimero talk](https://frankchimero.com/blog/2014/only-openings/)
         - {{[[DONE]]}} [Hurling Frootmig principle](https://sites.google.com/site/h2g2theguide/Index/h/206017) 
         - {{[[DONE]]}} [Wind in the Willow principle](https://en.wikisource.org/wiki/Page:Wind_in_the_Willows.djvu/29) 
-        - {{[[TODO]]}} Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
+        - {{[[DONE]]}} Article on [Cognition all the way down](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas)
         - [Lindblom: The Science of Muddling Through](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf)
         - {{[[DONE]]}} [David Teece interview on dynamic capabilities](https://www.strategy-business.com/article/00225?gko=32b8d)
         - {{[[DONE]]}} [David Teece dynamic capabilities summary](https://www.davidjteece.com/dynamic-capabilities)

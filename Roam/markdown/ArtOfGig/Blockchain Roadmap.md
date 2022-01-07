@@ -69,7 +69,7 @@
             - Lexicon example
         - Goals for 2022?
     - Jan 10
-    - Jan 17 — venkat, DAO platform options (Colony, Aragon etc)
+    - Jan 17 — Venkat, DAO platform options (Colony, Aragon etc)
     - Jan 24
     - Jan 31 - [[Nathan Acks]] (though I've already presented, so someone else should bump me 🙃) - Blockchain identity solutions
     - Feb 7 - maier fenster
