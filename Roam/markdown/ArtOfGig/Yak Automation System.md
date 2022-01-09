@@ -7,3 +7,11 @@
     - The first step in this process is to create [a list of past proposals/decisions](((b-1y0K2DN))) so we can figure out what what structure this language will need.
 # 2021 Proposals/Decisions
     - 
+# Other Things We'd Want the Robot to Understand
+    - Event automation #[[Jenna Dixon]]
+        - on-Discord event setup
+        - on-Discord Announcement channel reminder sequence
+        - yaktweet bot reminder sequence, optional
+            - some groups might want to stay on server only eg OGS? v Yak Rover 
+        - prolly other bits
+    - 
