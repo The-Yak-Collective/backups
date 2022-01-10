@@ -6,7 +6,37 @@
         - The first YAS automation will __probably__ be [channel lifecycle automation]([[Discord Channel Lifecycle and Organization]]).
     - The first step in this process is to create [a list of past proposals/decisions](((b-1y0K2DN))) so we can figure out what what structure this language will need.
 # 2021 Proposals/Decisions
-    - 
+    - Create channel X with topic Y [OPTIONAL: in category Z]
+        - "Projects" are essentially a special case of this these days...
+    - Rename channel X to Y
+    - Move channel X to category Z
+        - This should happen automatically after some time for channels in the incubator
+    - Archive channel X
+        - Also should happen automatically after some period of dormancy + 1 warning
+    - Resurrect channel X [OPTIONAL: in category Z]
+    - Approve new release of project X [OPTIONAL: with demo Y]
+        - Historically this is all new major versions of the website, but seems like we should make it more general
+        - There's been very little feedback about this in the past, so maybe this should be a negative check-off?
+    - Approve change Y to Discord
+        - I'm thinking of my ill-fated emoji-fication adventure as an example of this. Probably should just cause a yakshaver to be pinged when approved.
+    - Promote user X to role Y
+        - Should happen automatically for "yaks" after a post in `#introductions` + a display name in the right format
+            - Maybe provide feedback if the display name is incorrect?
+    - Remove user X from role Y
+    - Add user X to the Gnosis safe
+        - Maybe voting here should be restricted to existing yakbankers?
+        - Probably should have yakbankers pinged when approved
+    - Change Gnosis safe voting threshold to X/Y
+        - Maybe voting here should be restricted to existing yakbankers?
+    - Approve using new platform/tool/bot X
+        - Might be something that's been getting developed in-house...
+    - Approve shutting down platform/tool/bot X
+        - I'm cheating here because this hasn't actually come up formally, but it seems like a good mirror for approving something
+    - Subscribe to new announcements feed X in `#grapevine`
+        - We just kind of do this higgledy-piggledy right now, but maybe that's okay?
+    - Approve document X
+        - Surveys, etc.
+        - Probably shouldn't apply to the output of projects / work groups / study groups (group members should approve these)
 # Other Things We'd Want the Robot to Understand
     - Event automation #[[Jenna Dixon]]
         - on-Discord event setup
@@ -14,4 +44,12 @@
         - yaktweet bot reminder sequence, optional
             - some groups might want to stay on server only eg OGS? v Yak Rover 
         - prolly other bits
-    - 
+        - sync Discord events with Google Calendar #[[Nathan Acks]]
+        - handle recurring Discord events #[[Nathan Acks]]
+    - Change voting threshold of decision type X to Y votes in favor
+    - Create bounty X with payout Y and reviewer Z
+    - Approve budget X for project Y with responsible user Z
+        - Maybe this isn't needed if we use bounties?
+        - Can we create "sub-safes" in Gnosis that some group of people are given access to? That might be one way of doing this.
+    - Create new channel category X
+    - Destroy channel category X [OPTIONAL: reassign current channels to category Y]
