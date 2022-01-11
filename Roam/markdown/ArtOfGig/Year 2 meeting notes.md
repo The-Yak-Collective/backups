@@ -1,5 +1,46 @@
 - Mercury Cycle (1)
     - January 11th, 2022 UTC: OS Discussion
+        - Support deck: https://docs.google.com/presentation/d/19Vr84-c3U3cU8eU3K9-kZ099qmRxOVvTR8iisxE1BsQ/edit?usp=sharing
+        - [[BOS Operating system]] page
+        - **Rover** OS
+            - Diversity, low volume for a given "kind" (e.g. rover)
+            - Need the right metaphores
+            - What is a rover? How to qualify?
+                - Last time we talked about it: https://roamresearch.com/#/app/ArtOfGig/page/kZRPqFN4E
+        - Is ROS an OS?
+            - OS often about scheduling and other resource management. ROS has none.
+            - Parallel with Linux distributions
+            - Does it provide the "right" abstraction level?
+            - No default user interface (e.g. shell for Linux, Finder for MacOS)
+            - It did not live up to the label of "OS", based on our reviews
+                - Marginal extras compared to directly using, say, Linux or maker libraries (e.g. Beaglebone's)
+                - Gets in the way
+        - Hello World of an OS
+            - `ls` kind of command, to start feeling the concept (here centered on the file system), see the list of sensors/actuators, etc
+            - Typical sample program on Arduino, etc is the LED blinking---safe and simple.
+            - As an operator, expecting the same basic experience (e.g. shell + `ls` / operating systems navigation commands)
+            - Deploy on N bots should not give very different basic experience
+            - Possible `ls` to detail the orientation from the viewpoint of the rover
+        - Need for an "interface" (also "user interface")
+        - Perspective from Asimov's 3 laws
+            - Protect humans
+            - Protect others from harm
+            - Protect yourself
+        - Nvidia Isaac https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/
+            - Never say OS, but platform
+            - Jetson penetration (see Jascha Feb 1st), Isaac on software
+        - Perhaps a strong approach is "identity system" (self, body boundaries, safety)
+        - Contemporary problems:
+            - Multi-robot / multi-agent systems (air traffic control, fleet monitoring)
+                - Where is the boundary? 1 robot, 1 fleet?
+                - ROS makes communication easy, but nothing on what to do (e.g. protocols)
+                    - Now to get fleet controller, basically need a "server"
+                    - Problem of decentralization
+                - Old problems, but now getting out there
+                - Perhaps time to (re)approach?
+                    - Extensive academic research since the 90s
+                    - Problems of cost: Now cheaper to make actual multi-robots
+            - Decentralization, place of blockchain technologies?
     - January 18th, 2022 UTC: Maier on Licensing
     - January 25th, 2022 UTC: Anuraj on "Getting Started with Rovers" --> Publicize
     - February 1st, 2022 UTC: Jascha

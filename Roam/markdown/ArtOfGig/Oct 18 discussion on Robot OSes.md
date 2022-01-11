@@ -1,0 +1,57 @@
+- State of the art
+    - Things like “subsumption architecture” are vague philosophies, not OSes
+    - NASA etc. use bespoke things like Plexil (see [Eric’s Feb 8 discussion](https://roamresearch.com/#/app/ArtOfGig/page/02-08-2021))
+    - ROS1 really isn’t an OS at all, let alone an RTOS, it’s pub-sub middleware to handle the sideshow stuff (see Victor’s [Feb 22 session](https://roamresearch.com/#/app/ArtOfGig/page/DmVR1bbBK) and [Rhett’s Aug 12](https://roamresearch.com/#/app/ArtOfGig/page/s3CM2U-FE) session)
+    - ROS2 appears to try a little… but
+    - There have been serious attempts like [Microsoft’s CCR](https://en.wikipedia.org/wiki/Concurrency_and_Coordination_Runtime) (concurrency and coordination run time, abandoned in 2012)
+    - State of the art sucks… probably because computer scientists working top-down rather than roboticists working bottom up
+    - SO…. everybody ends up re-implementing vision, mobility, SLAM… over and over again.
+- Desiderata
+    - Start bottom-up from demands of REAL TIME, REAL SPACE, REAL MATTER
+    - Situatedness is a FIRST CLASS concept
+    - Embodiment is a FIRST CLASS concept
+    - Brains NONDUALISTICALLY reflect their bodies; No disembodied AIs
+    - A Robot OS must be ADAPTED to a SPECIFIC RANGE of bodies
+    - A Robot OS must support [Software 2.0](https://vimeo.com/274274744) as the __primary __programming paradigm
+    - A Robot OS must balance ESSENTIAL identity and SOCIALLY CONSTRUCTED identities (via entanglement with other robots, humans)
+    - Robot coordination/control languages must be interoperable with human
+    - Robots must embody survival/evolution/mortality and exploration/exploitation at core
+    - Robots must be able to think at “Asimov Three Laws” level
+- Some implications
+    - Yak OS must work BETTER in rover robots and WORSE in other kinds of robots
+    - See PonderNet… [Tweet: “There is no System 2”](https://twitter.com/IntuitMachine/status/1425894442347675648)
+- Ideas we've already discussed
+    - Rovers must do abductive reasoning (Eric)
+    - Rovers must exist in a containerized VPNized “society” (Victor)
+    - Rovers must be able to “borrow” and “lend” capabilities (Maier)
+    - Rovers must model the environment in terms of affordances (Anuraj)
+    - Rovers must be able to scavenge (Venkat)
+    - Rovers must have a “language” of representation/understanding (Rhett)
+    - …Obviously lots more to come
+    - But need a techno-philosophical True North first!
+- 12 interesting oldish ideas
+    - Region Connection Calculus
+    - Temporal Interval Calculus
+    - Maneuver automata
+    - Modal logics and dynamic semantics
+    - Qualitative Physics
+    - Pebble automata
+    - Situated Automata (Kalebling)
+    - STRIPS and HTN planning
+    - BDI systems (Bratman)
+    - “Network-Centric Warfare”
+    - Society of Mind (Minsky)
+    - Self-replicating machines
+- 12 interesting newish ideas
+    - CNNs for vision
+    - Temporality stack
+    - Formalized OODA loops
+    - Transformers for NLP
+    - Learning in physics engines/metaverse
+    - Construction worlds (minecraft)
+    - “Compression progress” (Schmidhuber)
+    - Antifragility/agile trial and error
+    - Identity logics (eg. public-key crypto)
+    - Cloud architecture (virtualization etc)
+    - Blockchain for trustless economics
+    - Crash-only programming

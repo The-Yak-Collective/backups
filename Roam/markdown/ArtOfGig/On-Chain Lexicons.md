@@ -34,7 +34,7 @@
 - # Meeting Notes
     - ## 2021-12-27
     - **Meeting Participants:** #[[Commits Vortex]] #[[Meredith Noelle]]
-        - Discussion was mostly in the exploration space. Solutioning will follow. These discussions will track alongside the general [[Blockchain Roadmap]] to see where and how it could fit in with Yak Collective's general aims.
+        - Discussion was mostly in the exploration space. Solutioning will follow. These discussions will track alongside the general [[Blockchain Ops Roadmap]] to see where and how it could fit in with Yak Collective's general aims.
         - ### Refined two ideas
             - **Context**
                 - Different communities have different idiosyncratic usages of terms. These nuances could be expressed through text encoded on-chain via an NFT that displayed in one's writing on hover, or through some other analogous type of event listener. This would give the writer access to a token's particular usage and provenance

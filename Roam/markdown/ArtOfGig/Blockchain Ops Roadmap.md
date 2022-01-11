@@ -1,0 +1,169 @@
+- This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
+- [[YC Treasury]]
+- [[Blockchain Infrastructure Resources]]
+- ## 2021 Meeting Notes
+    - [[Chat with Rafa Nov 8 2021]] #[[meeting-notes]]
+    - [[Weekly Call 2021-11-22]] #[[meeting-notes]]
+    - [[November 22nd, 2021]] Nov 22 meeting agenda #[[meeting-notes]]
+        - Review of [[Mirror.xyz]]
+        - [[YC Indirect Cost Schedule]] model
+    - [[November 29th, 2021]] Nov 29 meeting agenda #[[meeting-notes]]
+        - [[Web 3 Implementation Research topics]] that need investigation
+        - Lore/Mission story
+    - Dec 6 #[[meeting-notes]]
+    - Dec 13: no meeting
+    - Dec 20: Ack report: [Survey of art primitives](https://docs.google.com/presentation/d/1e4WeafuEqZ4lhWw9xXibwVSjHZ-Fo2l5RJqXj3O8kmw/edit?usp=sharing)
+        - Offshoot discussion on a possible project [[On-Chain Lexicons]]
+    - Dec 26: [[Blockchain File Storage and Hosting]]
+- 2022 Meeting Notes
+    - Jan 3: Planning 
+        - Day/Time
+            - Seems to work for most people, unless there are severe conflicts later we will keep this. 
+        - Relation to other tracks
+            - Primarily tactical/practical application of decentralization
+            - Fridays are doctrine (high level principles)
+            - Mondays are blockchain specific strategy
+            - Wednesdays are turning Blockchain + others into practical implementation plans. 
+            - Saturdays are a working implementation session. 
+        - Roadmap prioritization
+            - DAOification
+                - Tokenomics, emerging properties of tokens. 
+                - Case studies, how are things emerging there? 
+                - Automation at the center. How do we automate out the mechanisms so the automation is at the center? 
+            - Web3 publishing infrastructure
+            - NFTs
+            - Finance aspects
+            - Learning the tech: Solidity programming, etc.
+                - Prioritize this by doing (Dogfooding)
+                - Blockchain implementations and different smart contract implementations
+                - How are security concerns handled? DAO attack vectors
+            - Decentralized Identity
+            - Idenity
+                - Reputatiom/clout
+            - Cloud identity.
+                - Reputation Clout
+                - What is the right way to create flexible on-chain identities? 
+            - Community provenance
+            - Community provenance
+            - Cultural component of DAOification
+            - Agreements -> Rules (D of DAO). 
+                - How does this turn into community participation? 
+            - DAO abstraction
+                - Currently, DAOs try to build everything. How do they evolve to be symbiotic? 
+            - Next steps: 
+                - VGR will consolidate the above list to 5-7 items and bucketize everything. 
+                    - As we talk about them, we will add checkmarks to the bucket. 
+                - **Everyone**: Take dates off of the roadmap list (to research topics and present out)
+        - Meeting format
+            - Readings
+            - Rotating discussion leads
+            - Coworking sessions
+            - ?
+        - Presentation format
+            - Roam page
+            - Slides
+        - Discussion format
+            - Presentation +Q&A
+            - Roundtable comments like OGS chats
+        - Experiment bootstrap model
+            - Lexicon example
+        - Goals for 2022?
+    - Jan 10: DAOs comparison paper
+        - Prompt Article - https://jisajournal.springeropen.com/articles/10.1186/s13174-021-00139-6
+            - Question - Prompt: Call out what key points jumped out at you, and what you think the most important design variables are for a DAO
+        - Discussion
+            - [[Anuraj R]] - Gas Prices, Do humans override blockchain
+            - [[Bryan King]] - 
+            - [[Commits Vortex]] - 
+                - Development of Aragon ie 3 branch governance model, creating buffers of voting disputes, the proposal acceptance is not automatic, ability of someone to dissent
+                - How important is to have voting mechanism on chain
+            - [[Grigori Milov]]
+                - Difference in system based on proposals vs systems based on tasks, task-based appears simple
+                - Vote systems - majority and threshold based
+                - The paper does not seem exhaustive, maybe voting is not the best way to make decisions
+                - Graph of the activity of the DAOs
+            - [[Jenna Dixon]] - 
+                - appreciate the chance to feel the size and breadth
+                - wonder how many of the communities are going after something we would call real
+                - wonder if a consesus is being reached on the minimum viable size of a community
+                - appreciated the explanation of Conviction Voting, would like see it in action, since it addresses the intermittant attention that we see in YakC and is prolly common in DAOs where participatnts and part-time
+                - proposal-driven schema vs task-driven distinction seems like a big deal, maybe Venkat can say a bit of how/why Colony went that route
+            - [[Kiran Pathakota]]
+                - Super low activity numbers for Aragon
+                - Voting systems feed into design variables, we want high velocity decision system and also friction based decision system
+                - Incentives, for some decisions, specific people are needed, what goes into blockchain
+            - [[Maier Fenster]]
+                - What is YakC solving for and what are other DAOs 
+                    - They seem to solve of bad actors and trust
+                    - YakC seems to solve for goodness 
+                - The other problem we want to solve for is "how to increase activity"? Project bounty gives some activity but maybe not the best incentive
+                - Would interesting to solve for motivation without using money? What would make YakC interesting and pleasant
+            - [[Patrick Atwater]]
+                - Is is possible to have an "amend the blockchain"? that was missing
+                - In terms of YakC, what are we solving for, for others many solve for money, "What is the Tao of YakC"
+            - [[Rafael Fernandez]]
+                - Good overview of all the voting mechanism in DAOs
+                - This is the first generation of tooling, seem to going for enterprise solution, design space around decisions, what are you solving for is not fully explored
+                - Do these tools make sense ? Mirror has not chosen any specific tooling. That does not exclude decentralizzed decisions
+            - [[Venkatesh Rao]]
+                - Little premature to write an article, TheDAO - 50M stolen, ThaDAO for VC, and Ethereum was young enough to hard fork - the garden of Eden story of DAO
+                - Do you truly want to go fully automated? Or have reversal mechanism? 
+                - Initial focus on financial management, not on governance of others
+                - Whether to use a platform or roll out your own 
+                - Can you have not so legible mechanisms in decision, reputation affects voting in other areas, legible vs illegible
+                - Can we design a DAO to motivate a full range of behaviour, can we really make it so that we could trade it outside DAO
+            - Discord voice-meta Discussion start - https://discordapp.com/channels/692111190851059762/698566364595486720/930126176482119810
+            - Open Floor
+                - [[Rafael Fernandez]] - Composability and Fragmentation of Tooling
+                    - Two schools Full Enterprise Solution vs Plugin/Composibility(might win) Type Ecosystem
+                    - [[Venkatesh Rao]] - In IT infrastructure - Microsoft shops use the whole MS stack other use a mix and match approach. Smaller startups have more flexibility, both might emerge, but due to the nature of the medium the Plugin/Composibility types might win
+                    - [[Rafael Fernandez]] - Lot of the execution might happen at sub DAO level or inter DAO level
+                    - [[Nathan Acks]] - Data portability is a big concern while considering composability. Every thing on chain then standards on data might allow for flexibility
+                    - [[Commits Vortex]] - When we talk of composability, is each block a smart contract? Smart Contract A and Smart Contract B and be able to call from other Smart Contract? 
+                        - [[Rafael Fernandez]] - One is to be able to stack them together, eg a safe/vault can release from voting software, and the second is interoperability, voting within the pods in the DAO could be rolled up to make decision for the entire DAOs
+                    - [[Commits Vortex]] - When you talk about chain agnosticism, how do contemporary DAOs think about the mutability of software that isn't on chain? (i know you can make proxy contracts for on-chain contracts, but complicated). Do contemporary DAOs see any problem with the mutability of off-chain legos in terms of both decentralization and long-term operability between the legos? Or is that not the right way of framing the question of off-chain composability?
+                - [[Venkatesh Rao]] -
+                    -  Roll ups are kind of like side chain mechanisms to minimize the number of transactions, something like batch processing, a design variable to play with.
+                    - In the #infrastructure channel the fundamental activity is not the tokens etc but of logging. so all of the activity is generating data and in principle could be implemented on chain and other extreme is illegible logging which is happening right now in this meeting. We need to decide what to capture and how much. It is a data design decision. Seems like a place to start
+                - [[Jenna Dixon]] - Do we want have these calls recorded and posted to YouTube? 
+                    - seems to appear consensus - yes to recording - practice accountability and abandon [[Chatham House Rules]]
+                    - [[Jenna Dixon]] will record next three sessions 
+    - Jan 17 — Venkat, DAO platform options (Colony, Aragon etc)
+    - Jan 24 - [[Kiran Pathakota]] - [[Solana Ecosystem]] Options
+    - Jan 31 - [[Nathan Acks]] (though I've already presented, so someone else should bump me 🙃) - Blockchain identity solutions
+    - Feb 7 - maier fenster
+    - Feb 14 - Sachin Benny
+    - Feb 21 - meredith 
+    - Feb 28 - Bryan King
+- ## Bootstrapping Agenda Topics suggest by Rafa
+    - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
+    - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)
+    - **Treasury Management** (this includes thinking about digital assets like fungible tokens vs. NFT club passes, how they are distributed, who holds them, what liquidity should be available, transferability, utility (voting, access, economic reward)) -- initialized, see [[YC Treasury]]
+    - **Membership and Participation** (this is related to the "who" and what types of contribution zones we want to reinforce / support / nudge)
+    - ![](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvOTA0NzkzMDUzNTk4OTk4NjE4LzkwNjYwMTg2MjgwMTc4NDg0Mi9GRGJHTWUyWG9Bd2hxX2oucG5n)
+- ## Currently proposed experiments
+    - A multi-sig wallet with n/m signature authority to hold and disburse YC funds in the form of ethereum or a suitable stablecoin (tbd)
+    - Publish the [[Governance Readings Six Pager]] on [mirror.xyz](https://mirror.xyz) as a split-contract NFT with proceeds being divided suitably among contributors and a YC fund.
+    - [[Rovers and Blockchain]]
+        - Put wallets on rovers  of the [[Yak Rover]] project and have them run a collaboration economy on tokens
+- ## Options to explore/look into
+    - Please add links directly here (preferred) or via the $readingadd command in the #blockchain-roadmap channel on discord.
+    - [[Zigzag]] podcast series on 2018 [[Civil]] token launch. 
+Real-time story arc of an early journo blockchain attempt. /jd
+        - https://zigzagpod.com/episodes/2018/06/14/episode-2
+        - https://zigzagpod.com/episodes/2018/06/21/chapter-3-higher-than-we-knew
+        - https://zigzagpod.com/episodes/2018/07/12/chapter-6-whats-a-cvl-token
+        - https://zigzagpod.com/episodes/2018/07/19/chapter-7-a-new-frontier-for-journalism
+        - https://zigzagpod.com/episodes/2018/07/26/chapter-8-putting-crypto-pioneers-to-the-test
+        - https://zigzagpod.com/episodes/2018/08/02/chapter-9-letter-from-startup-blockchain-women-entrepreneurland
+        - https://zigzagpod.com/episodes/2018/08/16/chapter-11-ten-things-you-should-know-about-crypto
+        - https://zigzagpod.com/episodes/2018/08/23/chapter-12-enter-the-mesh
+        - https://zigzagpod.com/episodes/2018/09/20/the-civil-token-sale-is-live
+        - https://zigzagpod.com/episodes/2018/10/18/s2-ep2-why-civils-token-sale-failed
+        - https://zigzagpod.com/episodes/2018/12/20/s2-ep12-lessons-learned-from-a-risky-crypto-experiment
+    - https://samczsun.com/
+        - https://samczsun.com/hiding-in-plain-sight/
+        - https://samczsun.com/research/
+        - 
+    - 
+- We have an associated study group track in [[Online Governance Studies]]

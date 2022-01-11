@@ -1,0 +1,8 @@
+- [Original Eric BOS presentation from April 2021](https://docs.google.com/presentation/d/1FoEfDoPXV4wzc9_4VPEsl_PVmekTosOjpxo0xFX3FR8/edit#slide=id.g794f139eab_0_0)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FqFVxo15A8j.png?alt=media&token=a638b070-eb77-4fb0-88c9-4b373cf335ee)
+- [[Jupyter and ROS]]
+- [[Abductive Reasoning]]
+- [[Oct 18 discussion on Robot OSes]]
+- [[Taking 3 laws of robotics seriously]]
+- January 11th, 2022 UTC: OS Discussion
+- 

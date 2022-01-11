@@ -316,7 +316,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
         - health (paleo ways of life) / diet
         - finance
             - macro investing, monetary policy - just learning how the world works
-        - [[Blockchain Roadmap]]/crypto
+        - [[Blockchain Ops Roadmap]]/crypto
         - startup/tech - always exciting
         - philosophy
 - [[Greg Kramer]]

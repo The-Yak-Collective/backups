@@ -1558,7 +1558,7 @@
             - Topics 
                 - Collaboration topics
                 - [[Things We Are Looking For]]
-                - BOS Operating system
+                - [[BOS Operating system]]
                     - [[Rover Licensing Issues]]
                 - Rhett -- everybody should have a build
                 - Skills

@@ -32,7 +32,7 @@
         - [Hold me, I’m scared: Your guide to navigating the hold system](https://motionographer.com/2019/03/11/hold-me-im-scared-your-guide-to-navigating-the-hold-system/)
 - ### Technology
     - __For DAOs specifically, pull more links from here into our list as needed__: [Rafa's General List](https://docs.google.com/document/d/14IANUqTGUW1-P4ungM0tHYz9-PVQvWfFWpGcS7iBKDo/edit)
-    - __We have an experimentation track going too__ [[Blockchain Roadmap]]
+    - __We have an experimentation track going too__ [[Blockchain Ops Roadmap]]
     - **Completed**
         - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
         - [A Beginner's Guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)

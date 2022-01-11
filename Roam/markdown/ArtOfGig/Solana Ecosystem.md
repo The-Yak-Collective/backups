@@ -1,0 +1,11 @@
+- 
+- 
+- Appendix
+    - FAQs
+        - Are there storage/domain systems built on top of Solana?
+            - 
+        - What are the primary use cases for Solana? 
+        - How does Solana compare to <x>? 
+- References
+    - 
+- 
