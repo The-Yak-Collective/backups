@@ -128,6 +128,71 @@
                 - [[Jenna Dixon]] - Do we want have these calls recorded and posted to YouTube? 
                     - seems to appear consensus - yes to recording - practice accountability and abandon [[Chatham House Rules]]
                     - [[Jenna Dixon]] will record next three sessions 
+        - Outline of the DAO platform comparison paper, via [[Commits Vortex]]:
+            - TheDAO
+                - hacked
+                - fork of eth
+                - risk in contracts
+                - formation of dao creation platforms
+                    - Platforms
+                        - Aragon
+                            - apps (sets of smart contracts)
+                                - Finance
+                                - Token
+                                - Agent
+                                - Vote
+                                    - 1) The majority required: From all cast votes, the percentage of positive cast votes must be greater than or equals to the required percentage of support. 
+                                    - 2) The minimum participation required: The minimum acceptance quorum parameter states the minimum percentage of votes cast from all possible votes in the DAO.
+                                    - Holographic (derived from DAOstack)
+                                    - Dandelion (derived from DAOhaus)
+                                    - Dot-Vote
+                                        - More options than yes/no binary
+                                    - Conviction Voting
+                                        - express preference
+                                        - longer held, higher conviction
+                                        - can change at any time
+                                        - lowers conviction
+                                        - can set conviction thresholds for vote to pass
+                                    - Committee template
+                                        - sub-groups within dao
+                                        - see also optimistic dao structure
+                        - DAOstack
+                            - aims to tackle governance scalability problem
+                            - problem with 51% voter turnout to pass
+                            - lowering quarum to relative majority opens up attack vector of spamming proposals, and dilluting attention, resulting in more proposals (advisarial) being passed
+                                - holographic cosensus
+                                    - meant to solve this problem through middle layer prediction market
+                                    - community members may “bet” if a certain proposal will pass or not pass, staking a certain amount of their tokens
+                                    - if a proposal receives enough stakes, reaching a threshold, it may skip the requirement of absolute majority voting and be passed with a relative majority.
+                                    - act as a filter for the community, which may focus on the proposals that attract attention from stakers.
+                                    - stakers filter out bad proposals
+                                    - thry do this through financial incentivisation based on rewards for being right or wrong in prediction
+                        - DAOhuas
+                            - mimic the behaviour of moloch dao
+                            - non-quorum
+                                - relative majority is always enough to pass
+                            - rage-quit mech
+                                - may exit dao with resources if not in agreement
+                                    - exiting happens during graceperiod after approvl and before settlement
+                                    - is around 30% exit, the proposal is rejected
+                                    - fear of rage-quit makes communities prone to consensous
+                            - two types of proposals
+                                - calls to community action (allocation of shares)
+                                - donations to dao (paying tributes)
+                            - two versions v1 and v2
+                                - in v2, dao members can be expelled
+                                - non-dao members can submit proposals
+                                - introduction of sponsorship
+                                    - when proposal is sent, requires sponsorship
+                                    - brings it up into voting queue
+                                    - sponsor gets a portion of deposit back at end of voting regardless of outcome
+                        - Colony (not discussed)
+                            - DAOs are task-driven, which means tasks are published, and members accept them for a payout
+                - network considerations
+                    - xDai sidechain of eth
+                    - fraction of gas to summon a proposal
+                    - less decentralized than eth, and dependent on eth
+                    - lower voting rate (not sure why)
     - Jan 17 — Venkat, DAO platform options (Colony, Aragon etc)
     - Jan 24 - [[Kiran Pathakota]] - [[Solana Ecosystem]] Options
     - Jan 31 - [[Nathan Acks]] (though I've already presented, so someone else should bump me 🙃) - Blockchain identity solutions
