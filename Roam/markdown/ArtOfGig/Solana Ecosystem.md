@@ -1,11 +1,21 @@
-- 
-- 
+- Metaplex
+    - NFT Storefront
+    - 
+- project Serum
+    - Cross-chain swapping
+    - 
+- Proof of work vs. stake vs. history
+    - Cryptographically prove the passage of time. 
+- Stats
+    - 
 - Appendix
     - FAQs
         - Are there storage/domain systems built on top of Solana?
-            - 
+            - Mostly DEXs 
         - What are the primary use cases for Solana? 
         - How does Solana compare to <x>? 
+    - acronyms
+        - DEX - Decentralized Exchange. Opposite of coinbase - direct exchange of coins. 
 - References
-    - 
+    - [Ecosystem | Solana: Build crypto apps that scale](https://solana.com/ecosystem)
 - 

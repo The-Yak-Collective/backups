@@ -21,7 +21,7 @@
     - what does a (native) web3 presence look like for yc, and do we prefer one with a bridge to web2.0? /mf
 - How ERC-20 and 721 tokens work
 - split logic which is both clear and flexible /mf
-- Solana ecosystem survey
+- Solana ecosystem survey- [[Solana Ecosystem]]
     - Are there storage/domain systems built on top of Solana? #[[Nathan Acks]]
 - How do we prevent blockchain lock in? #[[Nathan Acks]]
 - L1s, L2s, L3s, bridges
