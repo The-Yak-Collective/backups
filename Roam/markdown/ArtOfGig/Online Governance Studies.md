@@ -22,8 +22,34 @@
 » [toc](http://nsp-blurbs.s3-website-us-west-2.amazonaws.com/9780865716971_toc.pdf)
 - ### Case Studies
     - **Completed**
-    - **Queued**
         - [A Spark of Hope: The Ongoing Lessons of the Zapatista Revolution 25 Years On](https://nacla.org/news/2019/01/18/spark-hope-ongoing-lessons-zapatista-revolution-25-years)
+            - 
+                - Sachin
+                    - it seems there already is shared language, culture and metaphors which helped Zapatista do this
+                    - the contrast of zapatista vs neoliberalism is pretty interesting. wonder if land reform would have worked in India if neoliberalism worked  
+                    - its hobbessian in some way cause global capitalism is the bear
+                - Bryan
+                    - very difficult for such organization to gain a hold on broader culture
+                    - tyranny of structurelessness thing where they went from organizing to being violent 
+                    - need a physical reminder that you are working on something 
+                - Commits
+                    - online orgs have a singular focus on a topic or action. but not beyond that? 
+                    - no immediate fallout of collective energy because they are developing relationships with each other 
+                    - what would by default globalism that is publicly visible look like? 
+                - Grigori
+                    - people felt hopeless then they declared war again "global capitalism"
+                    - its not enough to get power you have to hold onto the power - and that requires different set of skills
+                - Jenna
+                - Kiran
+                    - US constituition vs Zapatista. lot of pre-work is done but not really 
+                - Scott
+                - Venkat
+                    - Narmada valley movement 
+                    - social movements start with a specific goal (vs NAFTA/vs WTO/vs Narmada Dam) but then they switch to having vague goals such as against global capitalism
+                    - to an extend you can say they have succeeded cause they are still alive 
+                    - LEIF coalition - goal is to pay Brazil to not cut down the amazon
+                    - Last mile distribution of climate incentives is a moonshot level problem. people's behaviors will remain the same 
+    - **Queued**
         - [Autonomous Administration of North and East Syria](https://en.wikipedia.org/wiki/Autonomous_Administration_of_North_and_East_Syria)
         - [Disney Parks Essay Series by Cory Doctorow (index twitter thread)](https://twitter.com/doctorow/status/1419689975163936781?s=21)
         - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
