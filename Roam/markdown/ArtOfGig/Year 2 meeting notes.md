@@ -41,7 +41,7 @@
                     - Extensive academic research since the 90s
                     - Problems of cost: Now cheaper to make actual multi-robots
             - Decentralization, place of blockchain technologies?
-    - January 18th, 2022 UTC: Maier on Licensing
+    - January 18th, 2022 UTC: Maier on extended OS discussion ~~Licensing~~
     - January 25th, 2022 UTC: Anuraj on "Getting Started with Rovers" --> Publicize
     - February 1st, 2022 UTC: Jascha
     - February 8th, 2022 UTC: Venkatesh
