@@ -1,12 +1,12 @@
 - [Wikipedia page](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics#First_Law_modified)
 - Asimov's original 3 laws
-    - **First Law**A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+    - **First Law:** A robot may not injure a human being or, through inaction, allow a human being to come to harm.
         - In "[Little Lost Robot](https://en.wikipedia.org/wiki/Little_Lost_Robot)" several NS-2, or "Nestor", robots are created with only part of the First Law.[[1]](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics#cite_note-IROBOT-1) It reads:
         - 1. A robot may not harm a human being.
         - This modification is motivated by a practical difficulty as robots have to work alongside human beings who are exposed to low doses of radiation. Because their [positronic brains](https://en.wikipedia.org/wiki/Positronic_brain) are highly sensitive to [gamma rays](https://en.wikipedia.org/wiki/Gamma_ray) the robots are rendered inoperable by doses reasonably safe for humans. The robots are being destroyed attempting to rescue the humans who are in no actual danger but "might forget to leave" the irradiated area within the exposure time limit. Removing the First Law's "inaction" clause solves this problem but creates the possibility of an even greater one: a robot could initiate an action that would harm a human (dropping a heavy weight and failing to catch it is the example given in the text), knowing that it was capable of preventing the harm and then decide not to do so.
         - [Gaia](https://en.wikipedia.org/wiki/Gaia_%28Foundation_universe%29) is a planet with [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) in the [__Foundation__ series](https://en.wikipedia.org/wiki/Foundation_series) which adopts a law similar to the First Law, and the Zeroth Law, as its philosophy:
         - Gaia may not harm life or allow life to come to harm.
-    - **Second Law**A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+    - **Second Law:** A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
     - **Third Law**A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 - **Zeroth Law** A robot may not harm humanity, or, by inaction, allow humanity to come to harm.
 - New laws by Roger Macbride Allen
@@ -31,3 +31,25 @@
     - They seem to do bayesian updating on harm based on modeling humans
     - They also seem to treat inferences about outcomes the same as observed harm
     - A hack is to mess with the definition of "human" (eg in Robots of Dawn the Solarian robots define as "human" only those who speak in a Solarian accent)
+    - Interestingly, there don't seem to lots of levels of abstraction
+        - the robots often talk of "my circuits"
+- Other inspiration sources
+    - Sirus Cybernetics Corporation
+        - "Real people personalities"
+            - Elevator
+            - Marvin
+    - Culture "Minds"
+        - Picks their own name
+        - Insensitive to context
+        - Has a long history that frames behavior
+    - Bender/Futurama robots
+    - Terminator
+- Let's call this kind of framework a Potential Bias Operating Schema
+    - A set of "laws"
+        - eg
+            - a rover must attempt to maximize its longevity
+            - a rover must attempt to maximize its lifetime range unless it conflicts with law 1
+            - a rover must undertake specific missions as requested by people unless it conflicts with laws 1 and 2
+    - An opinionated default mode network
+    - a personality
+        - eg. happy/sad/depressed

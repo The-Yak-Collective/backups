@@ -2,6 +2,14 @@
     - January 11th, 2022 UTC: OS Discussion
         - Support deck: https://docs.google.com/presentation/d/19Vr84-c3U3cU8eU3K9-kZ099qmRxOVvTR8iisxE1BsQ/edit?usp=sharing
         - [[BOS Operating system]] page
+        - Attendees:
+            - Anuraj
+            - Brian
+            - Eric
+            - Jascha
+            - Maier
+            - Rhett
+            - Venkat
         - **Rover** OS
             - Diversity, low volume for a given "kind" (e.g. rover)
             - Need the right metaphores
@@ -42,9 +50,57 @@
                     - Problems of cost: Now cheaper to make actual multi-robots
             - Decentralization, place of blockchain technologies?
     - January 18th, 2022 UTC: Maier on extended OS discussion ~~Licensing~~
+        - Continuing discussion on OS after [last week](https://roamresearch.com/#/app/ArtOfGig/page/1Pa3V1k_u).
+        - Licensing will be discussed later in the cycle.
+        - No update on WWG at this point.
+        - Attendees:
+            - Anuraj
+            - Brian
+            - Eric
+            - Maier
+            - Rhett
+            - Venkat
+        - Update on "Mars Garden"
+            - By Mission Control Space Services Inc
+                - A "garden" made and available
+                - Indoor lunar analogue testbed, usable on demand.
+                - Provides map with different conditions (impressive different lightning depending on region)
+            - Canadian Space Agency "Mars yard"
+            - European Rover Challenge
+                - Relatively large area with craters and boulders; reddish soil
+                - Yearly event for participants to try rovers
+        - BOS ideas and discussion points
+            - Discussion on scope
+                - BOS would see Linux same as a BIOS
+                - 
+            - Issue of defining safety (software and physical)
+            - Rover "activities" different from "missions"
+                - "OS scheduling" becomes a different mechanism
+                - Activities map to set of OS processes, but for applications.
+                - BOS processes (provided by the system to applications) are not activities in this terminology
+            - System services
+                - Location, state, etc?
+                - Autonomy as a service???
+                    - Question on "autonomy"
+                    - Discussion on practical subsets, like energy management.
+                - Criteria: Do they affect the state of the rover, or can be isolated?
+            - Parallel with Linux kernel
+                - Kernel provides two categories of operations, user space and system
+                - Activity are affordances provided by actuators
+                - Actuator as potential central part. Or closed-loops?
+            - Metaphors
+                - Butler?
+                - Field agent/spy?
+                - "Economy of activities", like how economies lead some activities to work (e.g. what I do outside the US cannot impact directly the US economy)
+        - Draft on possible boot-up procedure
+            - Text document with list of things to do on booting up
+            - Including security (with blockchain), integrity, safety, services
+            - Autonomic aspects
+            - Note for later -- crash-only systems that only startup once and never shut down except by crashing
     - January 25th, 2022 UTC: Anuraj on "Getting Started with Rovers" --> Publicize
     - February 1st, 2022 UTC: Jascha
     - February 8th, 2022 UTC: Venkatesh
+        - Working notes: [[Taking 3 laws of robotics seriously]]
     - February 15th, 2022 UTC: Rhett
     - February 22th, 2022 UTC: Eric
     - March 1st, 2022 UTC: Sai?

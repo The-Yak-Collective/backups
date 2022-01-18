@@ -194,13 +194,86 @@
                     - fraction of gas to summon a proposal
                     - less decentralized than eth, and dependent on eth
                     - lower voting rate (not sure why)
-    - Jan 17 — Venkat, DAO platform options (Colony, Aragon etc)
+    - Jan 17 — Venkat, [Discussion of Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+        - Article - https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q
+            - Prompt Q - any features that should be include in DAO design which you didn't think of before the article?  
+        - Discussion
+            - [[Anuraj R]]
+                - Ruth Catlow, co-founder of Furtherfield and DECAL decentralized arts lab, notes, “We need to be building cultures before structures”
+            - [[Commits Vortex]]
+                - how people could push against norms, disintermediation between economics and governance rights
+            - [[Grigori Milov]]
+                - the idea of decoupling governance and economics
+                - to use governance rights people need to have expertise, at the moment of crises democracy may not be the best way forward
+                - "culture comes before structure"  - good to consider opposite view that one needs some structure as a basis for some culture. structure of incentives then it comes little earlier than culture, think incentives first
+            - [[Maier Fenster]]
+                - A DAO - why all this focus on money? DAO -  a bastard child of gaming?, view from the article
+                - What design features - create DAO in our culture, some sort of tool that allows create, absorb culture quickly
+            - [[Meredith Noelle]]
+                - relation between economics and governance
+                - how can we design a DAO differently? what does exactly "governance" mean? large part governance is resource management
+                - quote by RAND corp - corps are for optimizing supply chain etc
+                    - "Sensory functions are quite different from production functions, and require different modes of organization—e.g., more networks connected to the world outside an office’s boundaries. Determining appropriate designs for all manner of sensory organizations may become a good meta-theme for innovative research and development in the years ahead"
+            - [[Rafael Fernandez]]
+                - the article called into question - what does it actually mean to have these new types of toolkits? 
+                - new forms of organization possible
+                - gaming guilds, reputation accumulation
+                - YakC cultural exploration, internet culture
+                - changing boundaries of businesses - underated
+            - [[Venkatesh Rao]]
+                - quote "most DAOs represent governance through tokesn ...." interesting point relating to [[Maier Fenster]] why do we want to bring in money in
+                - money like principles into spaces that are not money related
+                - interview of Alexis Ohanian and comment about games/token - https://discordapp.com/channels/692111190851059762/904793053598998618/932672125402222704
+                    - others comment  
+                - Ivan Illich newsletter, defends spaces which are not market oriented. the preservation of vernacular spaces defence by Illich
+                - people who want to preserve vernacular/illegible see DAOs as threat
+                - DAOs planning to burn all its token if temperature goes above some degrees 
+                    - weird way to price in social costs
+                - exit to community idea realization - theory of the community around the firm - theory of ecosystem
+            - Open Floor
+                - [[Rafael Fernandez]] - backward financiazation
+                    - how many people are planning this don't have growth as the primary objective but have symbiotic and ecosystem harmony as primary objective
+                    - create sustainable spaces of exploration
+                - [[Commits Vortex]]
+                    - trojan horsing into finance, how would it work? if systems are autonomous the capacity to enter into and influence seems different, 
+                    - [[Venkatesh Rao]]
+                        - whats the closest analogy - shareholder activism, started in the 80s, proxy-wars, corporate raider subcultures to change direction of business, since coroporate doesn't have automated decision making, so corporate has concept of inside people and outside raiders
+                        - what DAOs is different - there are no insiders if the core is autonomous enough, for YakC people who joined earlier have become insiders, but this could be different if the core is automated enough
+                        - taking over can occur in a deeper way compared to corporates
+                    - soft culture, [[Grigori Milov]]'s comment about democratic voting useful in certain contexts, 
+                    - twitch plays pokemon phenomenon, play by chat, in the beginning there was complete anarchy, temporary voting for control, the game oscillated between anarchy and democracy
+                    - which modality of governance is useful in what contexts
+                    - parameterize the contract so that governance could move between quadrants
+                -  [[Rafael Fernandez]]
+                    - a lot of DAOs seems to have similar feeling of anarchy and democracy
+                    - when a DAO oscillates between democray and anarchy, does DAO compete with corporations? what corporation would compete with pokemon like DAO? 
+                    - [[Commits Vortex]]
+                        - there might be modalities in what corporates want to do
+                    - [[Rafael Fernandez]]
+                        - some concepts from corporates might not apply to DAOs
+                    - [[Meredith Noelle]]
+                        - historical accidence of corporates and the accident of DAOs? 
+                    - [[Rafael Fernandez]]
+                        - what is reality in the DAO landscape in cultural terms
+                            - [[Meredith Noelle]]
+                                - corporates and countries have different cultures
+            - Discord discussion start - https://discordapp.com/channels/692111190851059762/698566364595486720/932663775054692413
+                - [[Maier Fenster]] from discord
+                    - fancy 1:  This led to the idea that organizational values could be automated and executed by code, a lingering idea that perhaps falsely suggests tacit knowledge can be fully expressed in a software protocol
+                    - fancy 2:  In part, this is because not all stakeholders have the purchasing power representative of their stake, and their practical knowledge may be excluded from governance. This should be solved by shifting the culture toward more decision making mechanisms that decouple economic interest from governance rights.
+                    - fancy 3:  Stakeholders with practical knowledge, or “tacit” knowledge, like land stewards in the case of Regen Network, benefit governance by incorporating informal practices in decision making.
+                    - [19:02]
+                    - fancy 4:  the expectation of transparent co-ownership of its assets from the start
+                    - fancy 5:  In practice, this feature to distribute shares was rarely used because it did not enhance existing cultural patterns.
+                    - fancy 6:  a quote of a quote, actually: Much of the literature about redesigning organizations for the information-age focuses on production—on improving productivity, or manufacturing something new like the Boeing 777 jetliner. Yet, does this not reflect a lingering industrial-age mentality? Production organizations remain a crucial part of the organizational ecology. However, we should also be thinking about “sensory organizations.” Sensory functions are quite different from production functions, and require different modes of organization—e.g., more networks connected to the world outside an office’s boundaries. Determining appropriate designs for all manner of sensory organizations may become a good meta-theme for innovative research and development in the years ahead (27).
+    - 
     - Jan 24 - [[Kiran Pathakota]] - [[Solana Ecosystem]] Options
     - Jan 31 - [[Nathan Acks]] (though I've already presented, so someone else should bump me 🙃) - Blockchain identity solutions
     - Feb 7 - maier fenster
     - Feb 14 - Sachin Benny
     - Feb 21 - meredith 
     - Feb 28 - Bryan King
+    - Mar 05 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
 - ## Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)
