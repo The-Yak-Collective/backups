@@ -49,8 +49,8 @@
                     - to an extend you can say they have succeeded cause they are still alive 
                     - LEIF coalition - goal is to pay Brazil to not cut down the amazon
                     - Last mile distribution of climate incentives is a moonshot level problem. people's behaviors will remain the same 
-    - **Queued**
         - [Autonomous Administration of North and East Syria](https://en.wikipedia.org/wiki/Autonomous_Administration_of_North_and_East_Syria)
+    - **Queued**
         - [Disney Parks Essay Series by Cory Doctorow (index twitter thread)](https://twitter.com/doctorow/status/1419689975163936781?s=21)
         - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
         - [Spotify: An Emergent Organization](https://www.workfutures.io/p/spotify-an-emergent-organization)
@@ -59,9 +59,12 @@
 - ### Technology
     - __For DAOs specifically, pull more links from here into our list as needed__: [Rafa's General List](https://docs.google.com/document/d/14IANUqTGUW1-P4ungM0tHYz9-PVQvWfFWpGcS7iBKDo/edit)
     - __We have an experimentation track going too__ [[Blockchain Ops Roadmap]]
-    - **Completed**
+    - __For items that might be read by either/both groups, copy the link to completed, don't move it__
+    - **Completed by OGS chat**
         - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
         - [A Beginner's Guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
+    - **Completed by Blockchain Roadmap chat**
+        - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q) -- should be re-read by OGS too
     - **Queued**
         - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
         - [a16z — Building and Running a DAO](https://future.a16z.com/building-and-running-a-dao-why-governance-matters/)
