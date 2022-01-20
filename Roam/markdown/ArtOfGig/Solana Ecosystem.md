@@ -12,12 +12,16 @@
     - 
 - Proof of work vs. stake vs. history
     - Cryptographically prove the passage of time. 
+- Notable projects
+    - Audius - music sharing
+    - 
 - Stats
     - 
 - Appendix
     - FAQs
         - Are there storage/domain systems built on top of Solana?
             - Mostly DEXs 
+            - Vybe Network (data network )
         - What are the primary use cases for Solana? 
         - How does Solana compare to <x>? 
     - acronyms

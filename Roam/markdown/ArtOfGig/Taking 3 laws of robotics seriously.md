@@ -53,3 +53,16 @@
     - An opinionated default mode network
     - a personality
         - eg. happy/sad/depressed
+- Best robots
+- 1. Marvin
+- 2. Bender
+- 3. R. Daneel
+- 3. Robocop*
+- 4. Terminator
+- 5. Sirius cybernetics door
+- 6. Sirius cybernetics pre-cog elevator
+- 7. WALL-E
+- 8. R. Giskard
+- 9. Commander Data
+- 10. Vicki
+- Honorable inductee despite being part human
