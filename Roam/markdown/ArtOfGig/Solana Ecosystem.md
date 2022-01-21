@@ -3,7 +3,11 @@
 - Financial projects
     - Wallets
     - Exchanges 
-- 
+- Benefits of using Solana vs. Eth
+    - Lower transaction costs, easier to develop/test for than Eth. 
+- Solana DNS
+    - [Solana Name Service | Bonfida](https://naming.bonfida.org/#/auctions)
+    - 
 - Metaplex
     - NFT Storefront
     - 
@@ -28,4 +32,6 @@
         - DEX - Decentralized Exchange. Opposite of coinbase - direct exchange of coins. 
 - References
     - [Ecosystem | Solana: Build crypto apps that scale](https://solana.com/ecosystem)
+    - [S◎lanians ☀️ (@solanians_) / Twitter](https://twitter.com/solanians_) 
+    - 
 - 

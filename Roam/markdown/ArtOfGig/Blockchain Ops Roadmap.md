@@ -266,7 +266,6 @@
                     - fancy 4:  the expectation of transparent co-ownership of its assets from the start
                     - fancy 5:  In practice, this feature to distribute shares was rarely used because it did not enhance existing cultural patterns.
                     - fancy 6:  a quote of a quote, actually: Much of the literature about redesigning organizations for the information-age focuses on production—on improving productivity, or manufacturing something new like the Boeing 777 jetliner. Yet, does this not reflect a lingering industrial-age mentality? Production organizations remain a crucial part of the organizational ecology. However, we should also be thinking about “sensory organizations.” Sensory functions are quite different from production functions, and require different modes of organization—e.g., more networks connected to the world outside an office’s boundaries. Determining appropriate designs for all manner of sensory organizations may become a good meta-theme for innovative research and development in the years ahead (27).
-    - 
     - Jan 24 - [[Kiran Pathakota]] - [[Solana Ecosystem]] Options
     - Jan 31 - [[Nathan Acks]] (though I've already presented, so someone else should bump me 🙃) - Blockchain identity solutions
     - Feb 7 - maier fenster
