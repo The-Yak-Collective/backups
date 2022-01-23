@@ -1,6 +1,14 @@
-- Overview
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZKIORG3R6s.png?alt=media&token=6fd7771a-2c8c-4ccb-9b8e-b0babde1ce77)
+- Meta-points
+    - Lots of projects, not a lot of editorial work going on yet. 
+        - Google'd many projects in the following infographic and the usual play is a single landing page backed by a Discord with <100 members. 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZKIORG3R6s.png?alt=media&token=6fd7771a-2c8c-4ccb-9b8e-b0babde1ce77)
+- Weird projects
+    - [Blue Terra (@BlueTerraNFT) / Twitter](https://twitter.com/BlueTerraNFT)
+        - 5000 Solana NFTs backed by land in the Bahamas. 
+        - Interesting that they are structuring it so land is leasable/buildable by NFT owner. 
 - Financial projects
+    - DeFi
+        - [S◎L mates ☀️ (@Solana_Mates) / Twitter](https://twitter.com/solanians_/status/1484025271183618049/photo/1)
     - Wallets
     - Exchanges 
 - Benefits of using Solana vs. Eth
@@ -18,7 +26,7 @@
     - Cryptographically prove the passage of time. 
 - Notable projects
     - Audius - music sharing
-    - 
+- 
 - Stats
     - 
 - Appendix
@@ -33,5 +41,6 @@
 - References
     - [Ecosystem | Solana: Build crypto apps that scale](https://solana.com/ecosystem)
     - [S◎lanians ☀️ (@solanians_) / Twitter](https://twitter.com/solanians_) 
-    - 
+    - Notable threads
+        - 
 - 
