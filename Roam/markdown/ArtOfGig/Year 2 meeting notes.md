@@ -97,7 +97,7 @@
             - Including security (with blockchain), integrity, safety, services
             - Autonomic aspects
             - Note for later -- crash-only systems that only startup once and never shut down except by crashing
-    - January 25th, 2022 UTC: Anuraj on "Getting Started with Rovers" --> Publicize
+    - January 25th, 2022 5:45 UTC: Anuraj on "Getting Started with Rovers"
     - February 1st, 2022 UTC: Jascha
     - February 8th, 2022 UTC: Venkatesh
         - Working notes: [[Taking 3 laws of robotics seriously]]

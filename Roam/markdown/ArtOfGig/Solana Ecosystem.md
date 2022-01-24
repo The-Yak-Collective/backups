@@ -1,46 +1,58 @@
-- Meta-points
-    - Lots of projects, not a lot of editorial work going on yet. 
-        - Google'd many projects in the following infographic and the usual play is a single landing page backed by a Discord with <100 members. 
+- Meta
+    - Lots of projects, not a lot of editorial work going on yet. Most editorial content is on Twitter or Youtube.
+    - Early 2000s internet company feel (pets.com as a prime example)
+    - Most projects require a lot of trust (games are getting built, LP farms have custom tokens)
+    - Following infographic was used as a baseline for googling/searching (courtesy Solanians twitter)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZKIORG3R6s.png?alt=media&token=6fd7771a-2c8c-4ccb-9b8e-b0babde1ce77)
-- Weird projects
+- Games 
+    - [Experience | Star Atlas](https://staratlas.com/#). High production value MMORPG using Solana as an in-game currency/exchange.
+        - MMORPGs market cap ~ $10B (sic) in 2022. 
+    - [Metaplex NFT Marketplace (solsurvivor.net)](https://nft.solsurvivor.net/#/)
+    - [Solsets](https://www.solsets.io/). Solana sunset trading card game. 
+- Storage
+    - [arweave](https://www.arweave.org/). Permanent document data storage through decentralization. 
+- Creator-led
+    - [Wum.bo](https://wum.bo/) - Support creators by minting "creator coins" on their behalf. Community funding of artists.  
+    - [Audius](https://audius.co/). Music streaming. 
+- DeFi
+    - Lending/Borrowing
+        - [Solend | Lend and borrow on Solana](https://solend.fi/) - basically a money market fund for Solana. Earn an APR for deposited crypto. 
+        - Others
+            - Port
+            - Larix
+            - Jet
+    - Liquidity Pool (LP) Farming 
+        - [Saber | Solana AMM](https://app.saber.so/#/swap). Automated market maker (AMM)
+        - [marinade.finance | marinade](https://marinade.finance/)
+            - Staked SOL converts to mSOL that can be used as a coin on it's own. 
+    - Trading
+        - Serum project
+        - Mango
+        - Raydium
+    - Srcs
+        - [𝐿𝑖𝑚𝑖𝑛𝑎𝑙 𝑊𝑎𝑟𝑚𝑡ℎ ❤ on Twitter: "1/ Let's talk about some options for money-making strategies that you might not know about in crypto defi today. In the last few months I've had a number of people ask me if I'd manage some money for them. The short answer is "no, I won't," at least right now." / Twitter](https://twitter.com/liminal_warmth/status/1457751951777562627)
+        - [Staking vs Yield Farming vs Liquidity Mining- What's The Difference? - (blockchain-council.org)](https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/)
+- Misc
+    - [Raydius (raydius-research.com)](https://www.raydius-research.com/#/)- middleware for connected L2 chains (cross-chain transactions)
+    - [Solana Name Service | Bonfida](https://naming.bonfida.org/#/auctions)
+    - [SolLotto | The First Decentralized Pooled Giveway System Built On Solana](https://sollotto.io/). Lotteries on Solana.
     - [Blue Terra (@BlueTerraNFT) / Twitter](https://twitter.com/BlueTerraNFT)
         - 5000 Solana NFTs backed by land in the Bahamas. 
         - Interesting that they are structuring it so land is leasable/buildable by NFT owner. 
-- Financial projects
-    - DeFi
-        - [S◎L mates ☀️ (@Solana_Mates) / Twitter](https://twitter.com/solanians_/status/1484025271183618049/photo/1)
-    - Wallets
-    - Exchanges 
-- Benefits of using Solana vs. Eth
-    - Lower transaction costs, easier to develop/test for than Eth. 
-- Solana DNS
-    - [Solana Name Service | Bonfida](https://naming.bonfida.org/#/auctions)
-    - 
-- Metaplex
-    - NFT Storefront
-    - 
-- project Serum
-    - Cross-chain swapping
-    - 
-- Proof of work vs. stake vs. history
-    - Cryptographically prove the passage of time. 
-- Notable projects
-    - Audius - music sharing
-- 
-- Stats
-    - 
 - Appendix
     - FAQs
+        - What are the benefits of using Solana vs. Eth
+            - Lower transaction costs, easier to develop/test for than Eth. 
+            - Tradeoff is there are fewer validator nodes/more expensive to run validator nodes. 
         - Are there storage/domain systems built on top of Solana?
-            - Mostly DEXs 
-            - Vybe Network (data network )
-        - What are the primary use cases for Solana? 
-        - How does Solana compare to <x>? 
-    - acronyms
-        - DEX - Decentralized Exchange. Opposite of coinbase - direct exchange of coins. 
+            - There is a [Solana Name Service | Bonfida](https://naming.bonfida.org/#/auctions) but couldn't find a good distributed storage system. Mostly DEXs have migrated to Solana. 
+    - Acronyms
+        - CEX - Centralized Exchange. Exchange fiat/crypto currencies through conversion to dollars. Coinbase et al. 
+        - DEX - Decentralized Exchange. Opposite of coinbase - direct exchange of coins.
+        - AMM - Automated Market maker. 
+        - LP - Liquidity Pool. 
 - References
     - [Ecosystem | Solana: Build crypto apps that scale](https://solana.com/ecosystem)
     - [S◎lanians ☀️ (@solanians_) / Twitter](https://twitter.com/solanians_) 
-    - Notable threads
-        - 
-- 
+    - [S◎L mates ☀️ (@Solana_Mates) / Twitter](https://twitter.com/solanians_/status/1484025271183618049/photo/1)
+    - [Staking vs Yield Farming vs Liquidity Mining- What's The Difference? - (blockchain-council.org)](https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/)
