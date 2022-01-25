@@ -267,12 +267,55 @@
                     - fancy 5:  In practice, this feature to distribute shares was rarely used because it did not enhance existing cultural patterns.
                     - fancy 6:  a quote of a quote, actually: Much of the literature about redesigning organizations for the information-age focuses on production—on improving productivity, or manufacturing something new like the Boeing 777 jetliner. Yet, does this not reflect a lingering industrial-age mentality? Production organizations remain a crucial part of the organizational ecology. However, we should also be thinking about “sensory organizations.” Sensory functions are quite different from production functions, and require different modes of organization—e.g., more networks connected to the world outside an office’s boundaries. Determining appropriate designs for all manner of sensory organizations may become a good meta-theme for innovative research and development in the years ahead (27).
     - Jan 24 - [[Kiran Pathakota]] - [[Solana Ecosystem]] Options
-    - Jan 31 - [[Nathan Acks]] (though I've already presented, so someone else should bump me 🙃) - Blockchain identity solutions
-    - Feb 7 - maier fenster
-    - Feb 14 - Sachin Benny
-    - Feb 21 - meredith 
-    - Feb 28 - Bryan King
-    - Mar 05 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
+        - [[Anuraj R]] 
+            - What is the difference between solana and eth? 
+            - Why is solana cheaper?
+        - [[Commits Vortex]]
+            - Solana is a peek into the future of ethereum. 
+            - Network was degraded over the weekend (12 hour outage)
+                - Inundation of bots spamming the network
+                - https://github.com/solana-labs/solana/issues/21883
+            - Contrast with generative art market on tezos, [fxhash](https://www.fxhash.xyz/articles/beta), only open 12 hours at a time. Weird for an online commerce site having "hours of use". 
+            - [Nina](https://nina.market/). 
+                - Exploratory phase, seeing what's around. 
+                - What would YC want to do? 
+                    - Make a DAO? 
+                    - Make a protocol? 
+                    - Use a dApp for distribution? 
+        - [[Kiran Pathakota]]
+            - What would it look like for one of these protocols to focus on the ledger side of things rather than the currency
+            - The focus doesn't seem to be primarily focused on $SOL
+            - Since minting tokens on Solana is low friction, there is a different texture of activity on Solana
+            - One thing we could do as a simple experiment:
+                - Take a past project and mint it as an NFT
+            - Would be really easy to mint a YC token
+            - 
+        - [[Maier Fenster]]
+            - i simply got lost and i wonder what kind of map would prevent that.
+        - [[Nathan Acks]]
+            - DEXs have moved but there's not a lot of support for SNS. 
+                - Doing a swap would need two smart contracts (one on each chain). How do we handle the gas fees? 
+            - What's driving the cultural differences between Solana and Eth/Bitcoin? 
+                - VC funding? 
+                - lots of developer interest but the money still seems to be in Eth 
+            - The question of Identity management is really interesting
+                - Maybe a space for this in Solana
+                - What do folks think about https://democracy.earth/ ? - PA
+            - A lot of the links shared on Solana, and other blockchains, really lean into the financial aspect of ledgers, rather than more purely on just distributed ledger technology
+            - 
+        - [[Patrick Atwater]] 
+            - Solana has raised $340M. How do main folks make money back? 
+            - what on earth is a liquidator in the solana solend defi?
+                - DAI might work like this. DAI is over-collaterized (put 150% eth in to withdraw 100% of DAI). If it fell below the threshold, vault would be liquidated, all the eth equivalent to the DAI, it would be sold at the auction. This is how it works in MakerDAO. 
+    - Jan 31 - 
+    - Feb 7 - [[Maier Fenster]]
+    - Feb 14 - [[Sachin Benny]]
+    - Feb 21 - [[Meredith Noelle]] 
+    - Feb 28 - [[Bryan King]]
+    - Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
+    - Mar 14 - 
+    - Mar 21 - 
+    - Mar 28 - [[Nathan Acks]] - Blockchain identity solutions
 - ## Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)

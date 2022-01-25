@@ -98,6 +98,41 @@
             - Autonomic aspects
             - Note for later -- crash-only systems that only startup once and never shut down except by crashing
     - January 25th, 2022 5:45 UTC: Anuraj on "Getting Started with Rovers"
+        - how to start robotics with any budget and any skill
+        - not keeping notes of anything in slide set
+        - slides: https://docs.google.com/presentation/d/1YtmmXSZlU4JE1ruOgW-zZdgYQ9E_5K78ShbMAxCR-70/edit#slide=id.g1037a92bb10_0_484
+        - programming language for gazebo - python, c++, can add RPC and use that to set it up as a ROS node
+        - coppelia is short runway and high ceiling
+        - printed robots - esa-  take 3-4 weeks, of which 3-4 are full 24h/day printing. if done only weekends, a few months. expect to make some mistakes so it takes longer
+        - esa robot needs a specific size printer to fit the parts. price for minimal printer is always going down
+        - printing ottodiy takes about 24h printing
+        - @vgr - printing an existing design has lots of overhead - mistakes, fiting together, assembly, fiting in electronics. figure x5 of printing time for assembly and another x10 for software
+        - people can be build esa in 1-2 months because esa spent 2-3 years building it
+        - vgr self build - parts cost about comp $110 electronics $70 wiring $70 battery $10.  so about $200-300. but actually spent $400-500 - due to breaking things.
+        - validated design can save money and time!
+        - @brian simulators - do you need to build your own robot in simulator or do they come ready?
+            - @Anuraj - gazebo - you can import most parts. also you can model only joints and outside shell and overload an image/model on it
+            - coppelia has predefined models. also has its own youtube channel. simulations are crowdsourced too.
+        - @brian - where do you get the electronics for the esa?
+            - esa has a shop on amazon - bought it all there. many parts are unique and specific dimensions- to match the size of build you use.
+                - uses raspberry pi computer
+            - ottodiy has two modes - one where you buy it all and one where you buy only electronics
+        - @rhett - what about build systems, like lego mindstorms - now lego nxt
+        - vgr - we should make a sensor/actuator kit and all other parts would be printed/open source like raspberry pi
+        - brian - https://www.vexrobotics.com/
+        - maier - mindstorms seems uninviting - difficult to make changes
+            - vgr - mechanics closed universe was uninspiring. new things like monster truck parts seems more inviting - you have same scene but more flexibility. though it is merely remote control toys. better inspiration loop because you can build your own, buy more, etc.
+            - lego now has an open build community
+            - one company controlling a  series of kits is dispiriting
+            - fabian  - https://www.youtube.com/watch?v=MwHHErfX9hI - experiments. shows something about challenges for a rover
+        - anuraj - starting? start with ottodiy, programmable in scratch, c++, arudino, etc.
+            - shoudl take 1 month of weekeneds to get it to walk
+            - 3 montsh avoiding thigs - playing with visual blcoks, using example sfrom online
+            - a few months more to add parts or use ottoninja 
+        - maier - can we/should we sell a branded version of otto?
+            - anuraj - start by building a model for importing into simulators
+            - this can be a starter kit.
+        - vgr - we should revisit this subject periodically - it is fast moving space of entry level robotics
     - February 1st, 2022 UTC: Jascha
     - February 8th, 2022 UTC: Venkatesh
         - Working notes: [[Taking 3 laws of robotics seriously]]

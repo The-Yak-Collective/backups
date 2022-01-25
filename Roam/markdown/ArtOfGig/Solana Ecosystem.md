@@ -1,22 +1,38 @@
 - Meta
-    - Lots of projects, not a lot of editorial work going on yet. Most editorial content is on Twitter or Youtube.
-    - Early 2000s internet company feel (pets.com as a prime example)
-    - Most projects require a lot of trust (games are getting built, LP farms have custom tokens)
-    - Following infographic was used as a baseline for googling/searching (courtesy Solanians twitter)
+    - Numerous projects with varying levels of quality. Most meta-content is on Twitter or Youtube (makes it hard to find definitive guides to the ecosystem).
+    - Early 2000s internet company feel (huge valuations a la pets.com). 
+        - Hard to sift through winners and losers. 
+        - Playbook landing page + discord + telegram
+    - Most projects require a lot of trust in organizer ability (games are getting built, LP farms have custom tokens)
+    - [This tweet](https://twitter.com/solanians_/status/1477992743104581636/photo/2) was used as a baseline for googling/searching (courtesy Solanians twitter)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FZKIORG3R6s.png?alt=media&token=6fd7771a-2c8c-4ccb-9b8e-b0babde1ce77)
+    - Next Steps/Further Study
+        - Update projects so this page becomes a higher quality version of the answer to the question "what Solana projects should YC keep tabs on". 
+    - Example syntax: 
+        - Category
+            - <category notes>
+            - example 1 <link>. description
+                - notes on dApp 
 - Games 
+    - Strong parallels to the computer and internet, gaming likely to be beachhead for true blockchain governance. 
     - [Experience | Star Atlas](https://staratlas.com/#). High production value MMORPG using Solana as an in-game currency/exchange.
         - MMORPGs market cap ~ $10B (sic) in 2022. 
-    - [Metaplex NFT Marketplace (solsurvivor.net)](https://nft.solsurvivor.net/#/)
+        - Guilds that operate across games are also springing up. They are styling themselves as gaming corporations. 
     - [Solsets](https://www.solsets.io/). Solana sunset trading card game. 
+        - Computer generated art seems to be in vogue for NFTs on Solana. 
 - Storage
+    - Couldn't find a solution for data storage on Solana (similar to [Filecoin](https://filecoin.io/))
     - [arweave](https://www.arweave.org/). Permanent document data storage through decentralization. 
+        - Solana's ledger is backed up on arweave. No other ties there really. 
 - Creator-led
     - [Wum.bo](https://wum.bo/) - Support creators by minting "creator coins" on their behalf. Community funding of artists.  
     - [Audius](https://audius.co/). Music streaming. 
+        - Deadmau5 has signed on to this platform. Calls back to torrenting music P2P. 
 - DeFi
+    - Note: this obviously has the highest number of 
     - Lending/Borrowing
         - [Solend | Lend and borrow on Solana](https://solend.fi/) - basically a money market fund for Solana. Earn an APR for deposited crypto. 
+            - DAI might work similarly? 
         - Others
             - Port
             - Larix
@@ -26,9 +42,9 @@
         - [marinade.finance | marinade](https://marinade.finance/)
             - Staked SOL converts to mSOL that can be used as a coin on it's own. 
     - Trading
-        - Serum project
-        - Mango
-        - Raydium
+        - [Serum](https://www.projectserum.com/)
+        - [Mango Markets](https://www.mango.markets/)
+        - [Raydium](https://raydium.io/)
     - Srcs
         - [𝐿𝑖𝑚𝑖𝑛𝑎𝑙 𝑊𝑎𝑟𝑚𝑡ℎ ❤ on Twitter: "1/ Let's talk about some options for money-making strategies that you might not know about in crypto defi today. In the last few months I've had a number of people ask me if I'd manage some money for them. The short answer is "no, I won't," at least right now." / Twitter](https://twitter.com/liminal_warmth/status/1457751951777562627)
         - [Staking vs Yield Farming vs Liquidity Mining- What's The Difference? - (blockchain-council.org)](https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/)
@@ -43,16 +59,26 @@
     - FAQs
         - What are the benefits of using Solana vs. Eth
             - Lower transaction costs, easier to develop/test for than Eth. 
-            - Tradeoff is there are fewer validator nodes/more expensive to run validator nodes. 
+            - Tradeoff is there are fewer validator nodes/more expensive to run validator nodes so greater centralization (in theory). 
         - Are there storage/domain systems built on top of Solana?
             - There is a [Solana Name Service | Bonfida](https://naming.bonfida.org/#/auctions) but couldn't find a good distributed storage system. Mostly DEXs have migrated to Solana. 
+        - What are the technical differences of Solana vs. Eth? 
+            - Proof of History vs. Proof of Stake. 
+        - Why is Solana cheaper? 
+            - Younger coin, lower total value of projects. 
     - Acronyms
         - CEX - Centralized Exchange. Exchange fiat/crypto currencies through conversion to dollars. Coinbase et al. 
         - DEX - Decentralized Exchange. Opposite of coinbase - direct exchange of coins.
         - AMM - Automated Market maker. 
         - LP - Liquidity Pool. 
+        - dApp - Distributed App
 - References
     - [Ecosystem | Solana: Build crypto apps that scale](https://solana.com/ecosystem)
     - [S◎lanians ☀️ (@solanians_) / Twitter](https://twitter.com/solanians_) 
     - [S◎L mates ☀️ (@Solana_Mates) / Twitter](https://twitter.com/solanians_/status/1484025271183618049/photo/1)
     - [Staking vs Yield Farming vs Liquidity Mining- What's The Difference? - (blockchain-council.org)](https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/)
+- [[roam/comments]]
+    - [[January 24th, 2022]]
+        - Anonymous
+            - [Audius](https://audius.co/). Music streaming. 
+                - Would also add [nina.market](https://nina.market/) to this. Solana native, whereas Audius started Eth and then became cross-chain opperable.
