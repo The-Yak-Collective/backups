@@ -1,13 +1,13 @@
 - This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
 - [[YC Treasury]]
 - [[Blockchain Infrastructure Resources]]
-- [[Paper Split Discussion]]
 - ## 2021 Meeting Notes
     - [[Chat with Rafa Nov 8 2021]] #[[meeting-notes]]
     - [[Weekly Call 2021-11-22]] #[[meeting-notes]]
     - [[November 22nd, 2021]] Nov 22 meeting agenda #[[meeting-notes]]
         - Review of [[Mirror.xyz]]
         - [[YC Indirect Cost Schedule]] model
+        - [[Paper Split Discussion]]
     - [[November 29th, 2021]] Nov 29 meeting agenda #[[meeting-notes]]
         - [[Web 3 Implementation Research topics]] that need investigation
         - Lore/Mission story
@@ -307,7 +307,13 @@
             - Solana has raised $340M. How do main folks make money back? 
             - what on earth is a liquidator in the solana solend defi?
                 - DAI might work like this. DAI is over-collaterized (put 150% eth in to withdraw 100% of DAI). If it fell below the threshold, vault would be liquidated, all the eth equivalent to the DAI, it would be sold at the auction. This is how it works in MakerDAO. 
-    - Jan 31 - 
+    - Jan 31 - Reading/discussion of L2 technology
+        - Main Reading: [Ethereum.org article on Layer 2 rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
+        - Supporting reading: [A Primer on Ethereum L2 Scaling Techniques](https://medium.com/token-terminal/a-primer-on-ethereum-l2-scaling-techniques-17ac437891b1)
+        - Supporting reading: [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/#use-sidechains)
+        - [Adding xDai/Gnosis to your Metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup)
+            - Go here: [Chainlist](https://chainlist.org/) and add the Gnosis chain to your Metamask
+        - [Adding Polygon/MATIC to your Metamask](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)
     - Feb 7 - [[Maier Fenster]]
     - Feb 14 - [[Sachin Benny]]
     - Feb 21 - [[Meredith Noelle]] 
