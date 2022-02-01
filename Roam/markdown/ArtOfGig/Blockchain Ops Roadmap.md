@@ -311,15 +311,77 @@
         - Main Reading: [Ethereum.org article on Layer 2 rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
         - Supporting reading: [A Primer on Ethereum L2 Scaling Techniques](https://medium.com/token-terminal/a-primer-on-ethereum-l2-scaling-techniques-17ac437891b1)
         - Supporting reading: [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/#use-sidechains)
+        - Supporting reading: [Ethereum scaling](https://ethereum.org/en/developers/docs/scaling/)
         - [Adding xDai/Gnosis to your Metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup)
             - Go here: [Chainlist](https://chainlist.org/) and add the Gnosis chain to your Metamask
         - [Adding Polygon/MATIC to your Metamask](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)
+        - [[Bryan King]]
+            -  A lot of this is similar to escrow
+                - Or employer provided insurance and being part of a larger pool negotiating insurance coverage
+            - Are the L2 scaling solutions reducing autonomy and producing formal institutions?
+        - [[Commits Vortex]]
+            - Layer 2 saturations
+            - Is there an inherent way the network tends towards congestion?
+        - [[Maier Fenster]]
+            - Feeling cheated when reading about L2
+            - Promised a distributed network that would change the world
+            - The promise of 10-100x improvement might not be a lot
+            - The ability to dispute fraud seems against the ethos of the initial ideology
+            - What to do in contexts where humans and the need to execute quickly are in place?
+                - This could be especially important in the context of L2
+        - [[Nathan Acks]]
+            - Came away from the reading with two questions about rollup types
+                - Optimistic roll ups
+                    - Fraud challenge mechs
+                        - Somewhat undefined
+                        - Spot challenge might not be idea in terms of motivated watchers, and rather better to be randomized
+                - Zero knowledge (ZK) proof roll up 
+                    - Seems like the better solution, but being handled with an even hand to Optimistic roll ups in the ethereum.org writeup
+            - Identity and Wallets
+                - If wallet type technologies were how we came to handle identities, that would be a huge improvement in terms of being able to mix and match and create identity
+                - Parallels with Gemini protocol
+                - There is a general bubbling up of solutions to this particular issue of identity
+            - For all the narrative of speed, there seems to be more of a move towards deliberative transactions
+                - Pace dissonance
+            - Scaling trilemma
+        - [[Patrick Atwater]]
+            - Had a friend developing on Stacks Chain. Similar to L2 for Bitcoin
+            - The way Ethereum was doing roll ups made it more difficult to audit data in the rollups
+        - [[Venkatesh Rao]]
+            - Try a sidechain
+            - Try the gnosis chain
+            - Switch to that chain
+            - Jeavons Paradox
+                - Demand isn't solved
+                - But this is actually good, in a progressive sense
+                    - More people frustrated is better than less people frustrated
+            - Braess' Paradox
+                - Releasing congestion for traffic
+                - Mathematical topological form of Jeavons Paradox
+            - The pattern of promise v. reality
+                - When you hit the scaling problems you go back to a more pragmatic stance
+                - In web3 -- even in the Satoshi whitepaper, there is a hint of utopianism
+                - But when you go look at the technology, even though it has increased the level of decentralization, there still looks like there is still too much centralization, and this is spun into a moral failure
+                - This was the pattern in the Moxie web3 article
+                - Authentication is one example where decentralization has actually been relatively well implemented
+                - > "The job of the science fiction author is not to predict the automobile, but to predict the traffic jam"
+                - Metaphors for scalling
+                    - Side chains are like Side Service Lanes
+                    - L2 rollups are like HOV (High occupancy vehicles) Lanes
+                    - L1s are the Highway
+                - The highway metaphor is comparable to the potentially idealistic nature of automobile ideas when they were first produced
+            - When we say that the blockchain is fast, we are making a comparison to centralized bureaucratic settlement
+                - With a DAO smart contract
+                - It might take a very short amount of time
+                - But when we start to work with computers, we think of latency in a different scale
+                - The comparison between human and computers is different
+            - Review proposals in proposal channel
     - Feb 7 - [[Maier Fenster]]
     - Feb 14 - [[Sachin Benny]]
     - Feb 21 - [[Meredith Noelle]] 
     - Feb 28 - [[Bryan King]]
     - Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
-    - Mar 14 - 
+    - Mar 14 - [[Patrick Atwater]] (Chia Proof of Space Time Overview)
     - Mar 21 - 
     - Mar 28 - [[Nathan Acks]] - Blockchain identity solutions
 - ## Bootstrapping Agenda Topics suggest by Rafa

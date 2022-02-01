@@ -133,7 +133,49 @@
             - anuraj - start by building a model for importing into simulators
             - this can be a starter kit.
         - vgr - we should revisit this subject periodically - it is fast moving space of entry level robotics
-    - February 1st, 2022 UTC: Jascha
+    - February 1st, 2022 UTC: Jascha on "Newbots"
+        - Inflection point
+            - Convergence of factors
+                - Roomba wildly available
+                - Roomba is mainly plastic
+                - Additive manufacturing with Makerbots and RepRap
+                - Better compute
+                - Better batteries
+                - More standard software, notably ROS
+                - Decrease in cost and size: Affordable viable minimal robot
+            - Circa 2006
+            - Example historical inflection point: https://www.sciencedirect.com/science/article/abs/pii/S0167223197000043 (including Venkatesh's birth)
+            - Problem of storage
+            - Enabling technologies
+                - Batteries
+                - Cameras of all kinds
+                - Lot and growing around Jetson
+            - Many now do a robot, as it becomes more viable
+            - Robot "integrators" will come and multiply
+        - How to drill a whole in a metal sheet.
+            - We now often use software components to make it easier
+            - Yes, it is not easy.
+        - 10 years ago, no capital was available for making robot "experiments"
+        - Newbots
+            - Kiva Systems (Amazon Robotics)
+            - Roomba
+                - Plastics make it possible
+                - Does a lot of mediocre tasks, instead of one thing great
+            - Crover grain drone: Grain storage condition monitoring
+            - Ocado 600 series: Online grocery fulfillment
+            - Endiatx pill bot: GI examination / cancer screening
+            - Tevel Harvest Drone Swarm: Fruit harvest  (possible in garage, vs. approaches like the RIP Abundant Robotics)
+            - Bionic Hive SQUID
+            - Pliant Energy Systems C-Ray: Underwater mining
+            - Labrador Systems
+        - Discussion
+            - Recurring problems for NB makers?
+                - Fleet management
+                - DevOps, containers
+                - Traffic control
+            - What about self-driving cars?
+                - They are driving the enabled technologies with their success
+                - Tesla is a robotics company now.
     - February 8th, 2022 UTC: Venkatesh
         - Working notes: [[Taking 3 laws of robotics seriously]]
     - February 15th, 2022 UTC: Rhett
