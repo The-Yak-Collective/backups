@@ -1,8 +1,8 @@
 - Paycheck type currently working in the non-profit space. Planning to make a two-stage jump to independence (industry for a few years, then full indy).
-    - For the last 5 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
+    - For the last 6 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
 - Long-time follower of [Ribbonfarm](https://www.ribbonfarm.com/), which is how I discovered [[Breaking Smart]] and [[Art of Gig]].
 - M.S. in Applied Mathematics specializing in [Operations Research](https://en.wikipedia.org/wiki/Operations_research).
-- Twitter:: [@nathan_acks](https://twitter.com/nathan_acks)
+- Twitter:: [@necopinus](https://twitter.com/necopinus)
 - Websites::
     - [Delphi Strategy](https://www.delphi-strategy.com/) (newsletters, essays)
     - [Digital Orrery](https://www.digital-orrery.com/) (photography)

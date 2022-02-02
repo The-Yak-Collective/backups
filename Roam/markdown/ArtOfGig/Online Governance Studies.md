@@ -162,7 +162,7 @@ The article above is a part of a series, that include:
                 - [McKinsey is also interested](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/new-evidence-for-the-power-of-digital-platforms)
         - {{[[DONE]]}} 4. An Interesting Read On The Fifth Generation Management
 https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
-            - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
+            - ![](./images/aHR0cHM6Ly9zdGV2ZWJsYW5rLmZpbGVzLndvcmRwcmVzcy5jb20vMjAyMC8wOS93ZWFwb25zLXN5c3RlbXMuanBnP3c9NDY4Jmg9MjM4)
         - {{[[DONE]]}} 5. What is the effect of interactivity on platform design and performance 
 https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
         - {{[[DONE]]}} 6. This one is on Medieval Guilds. It is free and interesting
@@ -269,7 +269,7 @@ systems, institutions, policies, and practices.
 __Storytellers:__ I craft and share our community stories, cultures, experiences, histories, and
 possibilities through art, music, media, and movement.
 __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernment and wisdom
-            - ![Ecosystem Map 2020](https://buildingmovement.org/wp-content/uploads/2020/10/Ecosystem-Map-2020.png)
+            - ![Ecosystem Map 2020](./images/aHR0cHM6Ly9idWlsZGluZ21vdmVtZW50Lm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8xMC9FY29zeXN0ZW0tTWFwLTIwMjAucG5n)
             - proposed by [[JennaD]]
         - Suez case study
             - https://www.deshgujarat.com/2021/03/26/commerce-ministry-chalks-out-four-point-plan-to-deal-with-blockage-of-suez-canal/
