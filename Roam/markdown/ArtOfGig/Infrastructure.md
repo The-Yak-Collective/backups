@@ -24,6 +24,21 @@ suggest most recent note left untwirled for easy review to visitors__
             - Ice-breaker.video 
         - Amorphous organizations article from [[Vaughn Tan]]
 - ## Infrastructure Chat Notes
+    - Infrastructure Chat [[February 2nd, 2022]]
+        - participants:: [[Nathan Acks]], [[Anuraj R]], [[Maier Fenster]], [[Jenna Dixon]]
+        - agenda::
+            - {{[[DONE]]}} What are we missing to have full Knack integration?
+            - {{[[TODO]]}} What do we need to think about w.r.t. a local blockchain.
+        - notes::
+            We talked through various Knack integration strategies. The only one that will probably work is something like the following:
+                - Someone registers in Knack and gets the Discord invite link.
+                - New people on Discord are instructed to DM an onboarding bot.
+                - The onboarding bot asks for the person's Knack ID (probably the "fake" one we generate for the website), and then tries to write the person's Discord snowflake ID into knack __if and only if__ the snowflake ID field in Knack is currently empty for the corresponding record.
+                - Knack enforces uniqueness for Discord snowflake IDs.
+                - If the snowflake ID isn't blank or there's an error when writing it to Knack, the bot tells the person to reach out to someone. Otherwise we return a happy "registration complete" message.
+            We probably want some kind of regular tickler as well where people who are in Discord but not in Knack are regularly reminded to make this link. Or maybe we just cull them after a while?
+            Once we have the snowflake ID reliably stored in Knack, we can push in whether someone's a madeyak, the date of their last Discord message, and the number of messages they've sent in the previous 28 days in a reliable fashion.
+            **__However__**, [[Maier Fenster]] notes that Discord is going to require that all bots migrate to slash commands by [April 2022]([[April 1st, 2022]]), which is only two months away! ^^So __this__ actually needs to be our top bot priority right now, __not__ tying up the loose ends around Knack integration.^^
     - Infrastructure Chat [[January 5th, 2022]]
         - participants:: [[Nathan Acks]], [[Jordan Peacock]], [[Maier Fenster]], [[Anuraj R]], [[Commits Vortex]], [[Sachin Benny]], [[Jenna Dixon]]
         - agenda::
