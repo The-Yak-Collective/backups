@@ -1,0 +1,2 @@
+- Famous prime minister of Louis XIV responsible for France's big leap ahead in 17th century
+- https://en.wikipedia.org/wiki/Jean-Baptiste_Colbert

@@ -3,6 +3,6 @@
 - [[Jupyter and ROS]]
 - [[Abductive Reasoning]]
 - [[Oct 18 discussion on Robot OSes]]
-- [[Taking 3 laws of robotics seriously]]
+- [[Three Laws of Roverics]]
 - January 11th, 2022 UTC: OS Discussion
 - 

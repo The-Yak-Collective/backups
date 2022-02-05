@@ -50,6 +50,27 @@
                     - LEIF coalition - goal is to pay Brazil to not cut down the amazon
                     - Last mile distribution of climate incentives is a moonshot level problem. people's behaviors will remain the same 
         - [Autonomous Administration of North and East Syria](https://en.wikipedia.org/wiki/Autonomous_Administration_of_North_and_East_Syria)
+            - another interesting read would be about the catalms
+            - The [death penalty](https://en.wikipedia.org/wiki/Death_penalty) was abolished. Prisons house mostly people charged with terrorist activity related to [ISIL](https://en.wikipedia.org/wiki/ISIL) and other extremist groups, and are a large strain on the region's [economy](https://en.wikipedia.org/wiki/Economy_of_Rojava).
+            - makes me think about how in poorer countries you kind of stick with the family and friends you have, cause it is in some ways process knowledge
+            - most of their ideas have emerged from their own context and not from an external context
+            - effect of the french mandate -  led to formation of these regions?
+            - makes me think of axis powers and allies as level one chains and the rest of the countries, including third block are kind of like level 2. Where would DAOs be? Level 3 or 4.
+            - third block
+            - "For a former diplomat like me, I found it confusing: I kept looking for a hierarchy, the singular leader, or signs of a government line, when, in fact, there was none; there were just groups. There was none of that stifling obedience to the party, or the obsequious deference to the "big man"—a form of government all too evident just across the borders, in Turkey to the north, and the Kurdish regional government of Iraq to the south. The confident assertiveness of young people was striking. - seems kind of hobbesian
+            - The main sources of revenue for the autonomous region have been presented as: 1. Public properties such as grain silos and oil and gas in the Jazira Region, 2. Local taxation and customs fees taken at the border crossings, 3. Service delivery, 4. Remittances from Iraq and Turkey, and 5. Local donation
+            - Grigori
+                - you can get centralized as much as you want, but if you have a hostile neighbor then the centralized system kind of falls apart
+                - hostile enemy can crush you at any moment.
+                - if you want to make a jump to a more powerful system you need centralization of some kind
+            - Venkat
+                - the continuing existence of conflict shows that things kind of continue the way they are regardless of how governance is implemented/imposed?
+                - abstract governance rules exist
+                - big data problem - vastly more data
+                - they are caught between a rock and a hard place. This is like an ant between two cows and the two cows are backed by two elephants
+                - asymetricality of small powers -  people survive regardless, all history will continue
+                - think 5000 years in the past and 1000 years in the future. you just have to outlast the big powers
+                - idealism exists for 10 minutes every 100 years 
     - **Queued**
         - [Disney Parks Essay Series by Cory Doctorow (index twitter thread)](https://twitter.com/doctorow/status/1419689975163936781?s=21)
         - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
@@ -99,6 +120,13 @@
             - https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html
             - https://www.psychologytoday.com/ca/blog/age-discovery/201801/living-in-liquid-modernity
         - [Alex Komoroske on Coordination Headwind](https://komoroske.com/slime-mold/)
+        - [Dilemmas in general theory of planning](https://dl.dropboxusercontent.com/s/pnzo9s9rd6aiz8u/Rittel%2BWebber_1973_PolicySciences4-2.pdf)
+            - Bryan
+                - its good to know that our time is not that different
+            - Commits
+                - Reference to Bruo Latour - http://www.bruno-latour.fr/sites/default/files/89-CRITICAL-INQUIRY-GB.pdf
+                - some problems are tractable, others are not
+                - leaders make tractable problems more visible in some way. Second foundtation type deal
     - **Queued**
         - [Every Design Studio Should Be a Worker-Owned Studio](https://eyeondesign.aiga.org/every-design-studio-should-be-a-worker-owned-studio/)
         - [Unrepresentative Claims: Speaking for Oneself in a Social Movement](https://www.cambridge.org/core/journals/american-political-science-review/article/unrepresentative-claims-speaking-for-oneself-in-a-social-movement/E045E3270DB08B76F09048DE99C06B7B)

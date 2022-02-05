@@ -177,7 +177,7 @@
                 - They are driving the enabled technologies with their success
                 - Tesla is a robotics company now.
     - February 8th, 2022 UTC: Venkatesh
-        - Working notes: [[Taking 3 laws of robotics seriously]]
+        - Working notes: [[Three Laws of Roverics]]
     - February 15th, 2022 UTC: Rhett
     - February 22th, 2022 UTC: Eric
     - March 1st, 2022 UTC: Sai?
