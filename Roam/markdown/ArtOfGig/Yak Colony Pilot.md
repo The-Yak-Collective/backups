@@ -1,0 +1,12 @@
+- To join the pilot do the following steps
+    - Add Gnosis chain to Metamask at [Chainlist](https://chainlist.org) and add your address to the list of members on this page
+    - Request some xDai from an existing member of the pilot
+    - Join [Colony](https://colony.io/) and create a profile
+    - Go to [Yak Collective colony](https://xdai.colony.io/colony/yakcollective) and click **Join** on the right of the Colony name on the masthead
+    - Go to [Yak Collective on Clarity app](https://app.clarity.so/invite-link/N7MiFrMThG) and join that
+    - Ask for some YAKG (the governance token) and someone will send you 5 YAKG to get you started
+    - Go to Discord #🎪colony-pilot-apr-1 channel and join the fun
+- Members (add yourself and xDai address on metamask)
+    - Venkat: 0x2503b70933119084C26Df4C8d3E96d282de10743
+    - #[[JennaD]] 0xea1bf2A0b45ED328a52a4aa3744669f6Ae525866
+    - Sachin 0x02Dad585640b1929d88296687918d7751717Ccaa
