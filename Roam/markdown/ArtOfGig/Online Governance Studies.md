@@ -156,7 +156,7 @@
 - **Meta — on online studies knowledge management**
     - [Doctorow Metacrap article](https://people.well.com/user/doctorow/metacrap.htm)
     - [Anatomy of a 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9?gi=cd39e157edd4)
-- [[Glossary]]
+- [[Yak Lexicon]]
 - [[Governance Readings Six Pager]]
 - ## 2020-21 completed readings
     - **Platform Track 2020-21 archive**

@@ -377,8 +377,8 @@
                 - But when we start to work with computers, we think of latency in a different scale
                 - The comparison between human and computers is different
             - Review proposals in proposal channel
-    - Feb 7 - [[Maier Fenster]]
-    - Feb 14 - [[Sachin Benny]]
+    - Feb 7 - [[Maier Fenster]] -- Discussion of Moxie article
+    - Feb 14 - [[Sachin Benny]] -- ?
     - Feb 21 - [[Meredith Noelle]] 
     - Feb 28 - [[Bryan King]]
     - Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
