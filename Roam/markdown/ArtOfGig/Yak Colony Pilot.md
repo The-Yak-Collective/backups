@@ -2,7 +2,7 @@
 - [[Yak Colony Feature Requests]]
 - To join the pilot do the following steps
     - Add Gnosis chain to Metamask at [Chainlist](https://chainlist.org) and add your address to the list of members on this page
-    - Request some xDai from an existing member of the pilot
+    - Request some xDai from an existing member of the pilot... you only need fractions of a penny for most transactions so a small amount will last a while
     - Join [Colony](https://colony.io/) and create a profile, ^^make sure to add a profile pic^^
     - Go to [Yak Collective colony](https://xdai.colony.io/colony/yakcollective) and click **Join** on the right of the Colony name on the masthead
     - Go to [Yak Collective on Clarity app](https://app.clarity.so/invite-link/N7MiFrMThG) and join that
@@ -20,6 +20,7 @@
     9. Maier: 0x4E2e9B0F72619FA813f0828Ad47189CDcec79910
     10. Nathan: 0x954176e55f81F9B5FD92C94aFCAe27Cc13a73824
     11. Admin (YC shared wallet): 0x3B894393fbD9c879dc8d16d4D18277831bFf9fa1
+    12. Matthew: 0x4378be23bbd950fb1ac21ecf950d404d14fde172
 - 
 - ---
 - ### Screenshot archive from [[February 5th, 2022]]

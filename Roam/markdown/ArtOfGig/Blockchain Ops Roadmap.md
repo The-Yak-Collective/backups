@@ -378,6 +378,105 @@
                 - The comparison between human and computers is different
             - Review proposals in proposal channel
     - Feb 7 - [[Maier Fenster]] -- Discussion of Moxie article
+        - Readings:
+            - [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+            - [Solana’s endgame: becoming an Ethereum rollup](https://polynya.medium.com/solanas-endgame-becoming-an-ethereum-rollup-c77ee479a8ae)
+        - Comments
+            - [[Anuraj R]]
+                - Take away: NFT that was minted and booted from OpenSea
+                - Argument that people will not run their own servers
+                - Ease of running a server is key
+            - [[Bryan King]]
+                - Implications of being a cryptographer and ideological disposition
+                - The OpenSea experience is a white hat approach to OS and platform APIs
+                - What do end-users/operators need to know or understand with the technology they use?
+                - Web3 tech stack is complicated/overwhelming
+                - Will the adoption of web3 be hindered by quirks because people are not patient enough to sit through and learn, and then just write them off
+                - Gold rush means this might be a temporary moment unless it gathers enough gravity
+            - [[Commits Vortex]]
+                - Solid pods - individual servers
+                - Access mechs re: NFTs
+                - web2 affordances and vc inflow
+            - [[JennaD]]
+                - Scalability. The tension between small and agile and larger organizations
+                - > I don’t share the same generational excitement for moving all aspects of life into an instrumented economy
+                    -  "moving all aspects of life into instrumented economy" not realistic. what goes on-chain v what stays off-chain seems like the current crux  
+                - Middleware
+                    - When using metamask, still just as clueless and clicking through many accept dialogs without thought
+                    - Multiple ENS addresses for each tx
+                    - How do we fix any man in the middle type attacks
+                - Solana piece
+                    - Piece is sufficiently technical, and possibly not ready for general audience broadcast
+            - [[Kiran Pathakota]] 
+                - Node validators should be much easier to run than a full-blown server (95% availability)
+                    - Validators don't need to be up all the time
+                    - See [Vitalik's response to Moxie](https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/)
+                - Black box servers (bought by individuals/power companies)
+                    - It should be easier to run a protocol rather than a specific service like AWS
+                - Mobile libraries to be a validator (ledger storage on-device or in cloud)
+                - Solana rollup
+                    - assumed lots of inside baseball. 
+                    - Solana with Serum *should* be able to perform cross-chain 
+                        - [Serum](https://www.projectserum.com/)
+                    - Comments
+                        - Tokens are all part of a complementary framework
+                            - YAKG, YAKB and XDAI
+                        - +1 - not one blockchain. 
+                        - Decentralization isn't the killer feature, it's the changes in incentivization
+            - [[Maier Fenster]]
+                - Protocols move more slowly than platforms
+                - Distributed systems managed by different people, with people moving in many directions, it is difficult to make changing decisions
+                - How do you design a protocol and the people working on it to not feel constrained and not be automatically constrained by the network effects
+                - The Nash Equilibrium is a factor in the email protocol
+                - The origins of protocols being centralized v decentralized is unique
+                - The Solana article makes some suggestions about where the world is going
+                - The article is not in the competitive framework, but in the complimentary framework
+                    - Solving problems in Ethereum will naturally solve problems in Solana
+            - [[Meredith Noelle]]
+                - Moxies' article is all about implimentation and not about the technologies themselvs
+                    - Thinking about early days of of search engines
+                    - Nothing abut web pages changed but how we thought about search changed
+                - Did think that there was going to be _one_ blockchain
+                    - Now think that is wrong
+                    - Don't think it matters if Solana rolls up into Ethereum
+                    - It is okay to have multiple L1s for different purposes
+            - [[Patrick Atwater]] 
+                - Pointing out areas where there are high degrees of centralization with these decentralized tools
+                    - Will we keep finding centralized points, Zeno's Paradox
+                    - Does it really matter if we do?
+                    - The purist vision might not matter as much as usefullness
+                        - Particularly in relation to PoS and tendencies toward plutocracy with both Ethereum and Solana
+                    - Chia is sort of interesting in the way of does proofing
+                    - Are we constantly returning to alpha with these L1 alts?
+            - [[Venkatesh Rao]]
+                - Reaction: Why are people mad about the Moxie article?
+                    - The argument is between two types of utopians
+                    - Utopians for and against
+                    - If you don't have utopian expectations to begin with, this article is a shrug
+                        - Those who are more pragmatic or otherwise have a higher tolerance for ideological incoherence
+                - The server as the primary unit of fixation - different flavors of utopianism
+                    - Vitalik points out that the server is not the key
+                    - Every tech stack has a particular tech fixation
+                        - 20 years ago, servers where the libratory point in a stack
+                        - This is now more and more complicated
+                            - python managers
+                            - dependencies upstream of that
+                            - relying on web servers
+                            - sever theatre
+                                - (could be related to decentralization theatre)
+                    - Encryption is the fixation for someone like Moxie
+                    - Generational utopianism within the tech stack
+                        - We see generational differences in environmental movements and action
+                        - Older generation identifying with protestation of nuclear 
+                        - Newer generation may see nuclear as part of the solution
+                            - Yet they have a new identification valence between climate denialists and believers
+                    - Can see this also in terms of the web:
+                        - Tim Berner-Lees v Ted Nelson
+                        - Semantic web / html link handling
+                    - What is left after parsing away generational flavors
+                        - If you promise decentralization, build a UX that is as painful as decentralization, but it is still underpinned by centralization, then you are producing decentralization theatre. 
+                            - Jumping through the hops of decentralization without the reality of decentralization
+                            - A better solution would be to see what you are actually getting
     - Feb 14 - [[Sachin Benny]] -- ?
     - Feb 21 - [[Meredith Noelle]] 
     - Feb 28 - [[Bryan King]]

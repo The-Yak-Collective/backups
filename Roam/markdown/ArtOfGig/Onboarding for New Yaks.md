@@ -12,6 +12,7 @@
 - Hello and welcome, aspiring Yak! 🐂 :)
 - ## **What Is Yak Collective?**
 - Yak Collective is a place for people who are thinking about, or are currently making their living as an indie consultant. #needsupdate 
+    - [[Patrick Atwater]] 2/7/22 -- maybe refactor this in the direction of "tinkering our way through the Great weirding"
 - ## **What Is This Document?**
 - The first thing you should know: the Yak Collective is an__ experimental__ and __loosely-coordinated__ network of independent consultants. It is still very much an active experiment. Read about the Yak Collective’s origins and why it was formed at the [[About Page]].
 - YC operates by a simple [[Code of Conduct]] 
