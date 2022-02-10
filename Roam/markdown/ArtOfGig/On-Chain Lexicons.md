@@ -1,6 +1,8 @@
 - ## **On-Chain Lexical Discovery and Utilization Platform or Protocol**
     - > Follows is an outline of an on-chain lexical discovery writing and publishing platform. It is a very rudimentary speculation at this point, and several unconsidered edge/corner-cases exist. It is currently conceived as a platform, whereas it would be nice to be able to transition the idea into a protocol where human intervention in the discovery and management was possibly handled by smart contracts. Further, there remains a question of whether or not there is any reason to utilize blockchain technology in order to execute this idea, or if the idea is even worth pursuing in the first place. The idea was spurred by looking at [[Bleeps DAO]], which is putting short 2-second sounds on the Ethereum blockchain and developing a way to make melodies out of those sounds. That DAO has an economic model for generating revenue to the DAO. It is an open question for this idea if a DAO is necessary, and whether there is any need for a financial incentive to participate either as a community submitting terms or as a writer utilizing the platform.
     - **Spurred by:** #[[Commits Vortex]]
+    - Wayfinding:: [Figma](https://www.figma.com/file/Ig99MTJdsAVhguHWryvrms/Leixcal-Bundles?node-id=0%3A1)
+    - Resources:: To-be-added
 - ## **Brief Outline**
     - A writing and publishing platform designed to network lexical discovery 
     - Communities are able to submit sets or bundles of lexicons to the platform
@@ -28,8 +30,7 @@
             - BDFL 
             - Root cause vs Muddling through 
             - Anarch vs Anarchist
-- Solutioning
-- 
+                - Update now that OGS paper is published
 - ---
 - # Meeting Notes
     - ## 2021-12-27
@@ -57,4 +58,4 @@
                 - Language Liquidity: https://mirror.xyz/0xF88593a3b58B069bCcE2b50cC502C9BF8Ba5b248/rsdTQVqU_hqwpTNJ-NAI-Yl5A31_2NKMMAQ0Nl-NzJ8
                 - Language as Currency: https://medium.com/@hackerm0m/language-and-currency-6efcc3504418?source=user_profile---------0-------------------------------
     - ## 2022-01-03
-        - 
+        - {{[[TODO]]}} Update with information from Figma and Discord

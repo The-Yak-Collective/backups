@@ -17,6 +17,9 @@ suggest most recent note left untwirled for easy review to visitors__
 - ## Upcoming chat topics #needsupdate
     - Scheduled
     - Unscheduled
+        - Welcome squad update w [[Patrick Atwater]]
+            - See the latest tasks on the welcome squad initiative on Clarity https://app.clarity.so/yakc/roadmap 
+            - 
         - Marketing w/ [[Alex Wagner]] and others
     - ### Chat topics Icebox
         - Experiment with diff chat tools 

@@ -1,5 +1,6 @@
 - [[Yak Colony Bug Reports]]
 - [[Yak Colony Feature Requests]]
+- Related: [[Yak Clarity Base Pilot]]
 - General caution: Everything you do will require Metamask interactions
 - **Onboarding:** To join the pilot do the following steps
     - Install Metamask extension on your browser if you don't already have it installed.
@@ -34,7 +35,7 @@
         - Once a motion has been staked sufficiently (at least 10%), it will show up in the actions stream. If there are no objections, it will pass automatically and your stake will be returned to it. Here you can see examples of forced actions (happen immediately), staked actions (no objections, and will pass if not objected to), and voting in progress motions.
             - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGOF80RzhMdlNXNC41OS40NiUyMEFNLnBuZz9hbHQ9bWVkaWEmdG9rZW49YWUwMDZjNGQtODI5Yi00MjUwLWE0NDEtZDU2YzFkZGE1ZTZh)
     - **Objecting:** If you see a motion in the Action stream, it will be open to objections during the waiting period. Just click, click Object, and stake enough to trigger a vote. Then voting will be in progress and if the motion loses, the stake of the people proposing the motion will be lost.
-- **Members** (add yourself and xDai address on metamask). This list should mirror the [Members Tab](https://xdai.colony.io/colony/yakcollective/members) on the Colony and a^^ny mismatches should be investigated for potential security issues.^^
+- **Members** (add yourself and xDai address on metamask). This list should mirror the [Members Tab](https://xdai.colony.io/colony/yakcollective/members) on the Colony and ^^any mismatches should be investigated for potential security issues.^^
     1. Venkat: 0x2503b70933119084C26Df4C8d3E96d282de10743
     2. #[[JennaD]] 0xea1bf2A0b45ED328a52a4aa3744669f6Ae525866
     3. Sachin 0x02Dad585640b1929d88296687918d7751717Ccaa
@@ -47,5 +48,6 @@
     10. Nathan: 0x954176e55f81F9B5FD92C94aFCAe27Cc13a73824
     11. Admin (YC shared wallet): 0x3B894393fbD9c879dc8d16d4D18277831bFf9fa1
     12. Matthew: 0x4378be23bbd950fb1ac21ecf950d404d14fde172
+    13. #[[Patrick Atwater]]: 0xf1268B5eaE72617ddB2cfcaa82D379155b675DFD
 - ---
 - ### Screenshot archive from [[February 5th, 2022]]

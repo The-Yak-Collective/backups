@@ -1,0 +1,1 @@
+- Spec: Make a compact summary overview page of all space rover missions, using wikipedia etc, with key details of mission parameters in tabular format, and a reading or two beyond wikipedia telling the story of the mission (essays or book reviews preferably, books if not)
