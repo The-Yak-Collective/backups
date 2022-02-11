@@ -27,6 +27,7 @@
         - You'll see this banner across the top
         - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGVVVPRV9DVHJ4UC41MC4wMCUyMEFNLnBuZz9hbHQ9bWVkaWEmdG9rZW49OTNjNzA2ODEtN2I3NS00ZjZiLTg4ODctMGQ3YjY0YTI1MThj)
         - And this interface showing how much of the required amount is currently staked. This can be done by one or more people. If you have enough YAKG, your best bet is to stake it all yourself. If not, use the URL to round up support.
+            - Others will **not** see the staking ask in the dAPP. Only discoverable through your sharing the URL in the `Share URL` pink eyebrow. 2022-02-10 #[[JennaD]]
         - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGRDRSRmJYN0RTTi41MC4yNSUyMEFNLnBuZz9hbHQ9bWVkaWEmdG9rZW49MGZkZjk1NDMtN2YzMy00Y2MyLTgyOWMtNTM0ZGZmMTQxZDM2)
         - You stake by sliding the slider over. In this example, the whole amount is being staked (but hasn't been staked yet since it says 0%)
         - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGUUpSNWc4SDk5eC41MC40MCUyMEFNLnBuZz9hbHQ9bWVkaWEmdG9rZW49OTE4MDFkNTMtZWVhMy00NzgwLTlhMDUtZDc2NzIzYmViOWE4)
