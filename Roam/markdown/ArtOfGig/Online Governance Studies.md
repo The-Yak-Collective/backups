@@ -14,6 +14,25 @@
     - **Completed**
         - [Wikipedia on Permaculture](https://en.wikipedia.org/wiki/Permaculture)
         - [Ise Jingu and the Pyramid of Enabling Technologies](https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies)
+        - I[ntroduction for Culture shifters](https://vbsd.super.site/introduction-for-culture-shifters)
+            - Sachin
+                - articulate signals are external if you want to attract external people - projects themselves have articulate goals 
+                - and if the project is not able to articulate it then it kind of fails 
+                - the metaphors seem interchangeable - funnels and tubes - something can be both a tube and a funnel. Or tubes can accelerate funnels or create new types of funnels 
+                - Slower tubes - encourage a different type of activity 
+            - Grigori
+                - does not apply to all types of scaling 
+                - YakC feels like monoculture 
+            - Venkat 
+                - Cities dont have strong goals and scaling creates optionality
+                - During scaling for companies the optionality goes down 
+                - Developing an aversion to funnels altogether 
+            - Bryan
+                - We are good at tubes, we are bad at funnels 
+                - People join - how do we direct people towards things that they want 
+                - "Ships passing in the night" 
+                - Turning tubes into spaces generally fail and probably not a good heuristic 
+                - common bias of the last 15-20 years towards illegibility and not legibility. Can metrics be done in a smarter way? 
     - **Queued**
         - [How cells can find their way through the human body](https://phys.org/news/2020-08-cells-human-body.html)
         - [Biodiversity May Thrive Through Games of Rock-Paper-Scissors](https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/)
@@ -84,6 +103,7 @@
     - **Completed by OGS chat**
         - [Inventories, Not Identities](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e)
         - [A Beginner's Guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
+        - 
     - **Completed by Blockchain Roadmap chat**
         - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q) -- should be re-read by OGS too
     - **Queued**
