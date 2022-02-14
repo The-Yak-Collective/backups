@@ -4,5 +4,6 @@
 - [[Abductive Reasoning]]
 - [[Oct 18 discussion on Robot OSes]]
 - [[Three Laws of Roverics]]
+- [[Working Group Notes]]
 - January 11th, 2022 UTC: OS Discussion
 - 
