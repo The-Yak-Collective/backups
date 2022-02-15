@@ -1,0 +1,66 @@
+- Responses compiled from [this tweet](https://twitter.com/vgr/status/1491886306867118081?s=20&t=koPOUoyYihVRSrljSR8KzQ)
+- {{[[table]]}}
+    - **Toolchain**
+        - **Dev focus**
+            - **Deploy focus**
+                - **Comments**
+    - Basic shell + pip
+        - Basic stuff
+            - Only local
+                - Easiest
+    - Anaconda
+        - Data science focus?
+            - Jupyter notebooks?
+                - Slight config hell
+    - Google Collab
+        - Notebook
+            - Cloud GPUs
+                - Not sure I like notebooks
+    - [Replit](https://replit.com/)+Flask
+        - Simple websites
+            - WebApp prototyping, simple db/auth
+                - Seems to be cult fave
+    - [Streamlit](https://streamlit.io/)+One-time codes
+        - Data apps
+            - "Streamlit cloud"
+                - ???
+    - [Glitch](https://glitch.com/)
+        - ??
+            - ??
+                - Replit competitor seems like
+    - [Arc code + AWS lambda](https://arc.codes/docs/en/get-started/quickstart)
+        - Web functions
+            - AWS Lambda
+                - Other extreme from local shell I guess
+    - [Anvil](https://anvil.works/)
+        - ??
+            - ??
+                - ??
+    - Heroku+Flask
+        - ??
+            - ??
+                - Salesforce 😬
+    - [Beeware](https://beeware.org/)
+        - ??
+            - ??
+                - Open source write once/deploy everywhere
+    - [Streamlit+Northflank](https://northflank.com/guides/deploying-streamlit-on-northflank)
+        - ?
+            - ?
+                - ?
+    - [http.server method](https://gist.github.com/josephmisiti/484104f5d9dd78848837a35c018dc4f1)
+        - local hack
+            - can just serve from laptop
+                - ??
+    - [Python Anywhere](https://www.pythonanywhere.com/)
+        - General
+            - 1 free app with limits on free account
+                - See Maier example gig app
+    - [Plotly/Dash apps](https://plotly.com/)
+        - Data focus??
+            - ??
+                - ??
+    - [pglet](https://pglet.io/)
+        - ??
+            - ??
+                - ??

@@ -179,6 +179,53 @@
     - February 8th, 2022 UTC: Venkatesh
         - Working notes: [[Three Laws of Roverics]]
     - February 15th, 2022 UTC: Rhett
+        - Acronyms:
+            - SW software
+            - HW hardware
+            - MC microcontroller
+        - Exploring build systems, in general, not only traditional `Makefile` like approaches, but also the HW side of "building".
+            - "Build system" is typical of software engineering (process to transform source code into machine code, etc)
+            - Rovers are varied in SW and HW.
+        - "Stubborn Pursuit of a Path" is a build to explore minimalist approach.
+            - Packet radio, custom design
+            - Microcontroller
+            - Raw video data with stream bytes
+        - What's coming
+            - Will move soon to more power (RPi together with MC), to explore more possibilities.
+            - Build own chassis, instead of the base kit used so far.
+        - Inspiration on how to build a chassis
+            - BBC4 show running for 20 years: https://www.granddesigns.tv/
+            - Rhett's own room:
+                - Ply, struts, insulation, plumbing, electricity
+                - All great if following standards (size, placement, etc), with some adaptability.
+                - Changes can be difficult, e.g. when late inspection says no window here.
+            - Lego, but more like Construx (from the 80s)
+        - Build systems
+            - Map
+                - Components
+                - Methods
+                - Vocabulary
+            - Evaluation
+                - Fitness
+                - Adaptability
+                - Efficiency
+                - Cost
+            - Demo with Construx extended with 3D-printed parts to fit motors and shaft, and board support for a Pi.
+            - Systems Engineering perspective
+                - Physical
+                    - Power
+                        - Electronics
+                            - Compute
+                                - Software
+                                    - OS
+                - Questions
+                    - Can we explore what the relationships tell us?
+                    - Does it make sense to make software independent from the HW ?
+        - Discussions
+            - Impact of the target environment on the build system
+            - Tradeoffs
+            - Serviceability as differentiating for, say, cars
+            - Cheap, reusable, scavenge-able rovers
     - February 22th, 2022 UTC: Eric
     - March 1st, 2022 UTC: Sai?
     - March 8th, 2022 UTC: Brian

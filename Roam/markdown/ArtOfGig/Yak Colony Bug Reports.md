@@ -1,7 +1,7 @@
 - This is the bug reports page. There is also a [[Yak Colony Feature Requests]] page.
 - If you're comfortable reporting on Github, use this link to report issues directly to the Colony team https://github.com/JoinColony/colonyDapp/issues
 - If you spot a bug, please discuss it in Discord and document it using a screenshot, preferably annotated with exact details that one of us will share with the Colony team on their discord if necessary. Post the bugs in this 
-- List of bugs so far
+- ## Bugs
     - Claim funds button does not deactivate after funds are claim, and pressing it again triggers useless transactions that drain xDai. Until this is fixed, only claim funds ONCE, and the person who sent it should claim it.
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-bZMbthN8R.png?alt=media&token=c5d760c2-8bfa-4aef-8663-dd876b072589)
     - https://github.com/JoinColony/colonyDapp/issues/3170

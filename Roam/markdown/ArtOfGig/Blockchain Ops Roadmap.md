@@ -477,7 +477,58 @@
                         - If you promise decentralization, build a UX that is as painful as decentralization, but it is still underpinned by centralization, then you are producing decentralization theatre. 
                             - Jumping through the hops of decentralization without the reality of decentralization
                             - A better solution would be to see what you are actually getting
-    - Feb 14 - [[Sachin Benny]] -- ?
+    - Feb 14 - [[Venkatesh Rao]] - Clarity and Colony Overview
+        - See [[Yak Colony Pilot]] 
+        - [[Anuraj R]]
+            - 
+        - [[Commits Vortex]]
+            - 
+        - [[Grigori Milov]]
+            - 
+        - [[Jenna Dixon]]
+            - Discovered Clarity through Cabin's use of the application.
+            - Similar side bar functionality as Roam
+            - Clarity has an interesting wiki application
+            - The intro video gives a good overview of "views"
+            - Let's discuss the weekly pattern
+        - [[Kiran Pathakota]]
+            - Different pathways into governance / reputation
+            - 
+        - [[Maier Fenster]]
+            - 
+        - [[Patrick Atwater]]
+            - 
+        - [[Venkatesh Rao]]
+            - Initial thoughts on clarity
+                - Notion of seasons and cycles
+                    - Seasons are a group's planning 
+                    - Cycles are "this week" "next week" "sprints
+                - There is a lot of schaffolding
+                    - Dev team is working towards a plugin architecture where these opinionated designs can be customized to each base
+                - "Initiatives"
+                    - Goals that are not time-linked
+                    - Tasks can be associated with Initiatives
+                - Big reason for using Clarity is to work with Colony
+                    - Every task in Clarity will always include a nominal 0.1 xDai
+                    - This is a way to track participation before an incentive schedule/mechanism is designed
+                        - Suggested schedule:
+                            - Ordinary individual task or project: 0.1 xDai
+                            - Significant individual milestone task or project: 1 xDai
+                            - Ordinary simple  collaborative task or project: 0.1 xDai per contributor
+                            - Significant collaborative task or project: 42 xDai total, to be divided among all contributors
+                        - Relationship between incentive token and governance token
+            - Clarity Specifics
+                - Tasks
+                    - Can leave tasks unassigned and people can simply self-assign
+                - Pricing
+                    - $10 per member over posting/task limits
+            - Colony Discussion
+                - 20% of NFT from [[Online Governance Studies]] paper will go to the Yak Collective
+                - The staking formula is still unclear
+                - Still unclear why or how a motion passes
+            - Tasks
+                - Understand Colony Reputation and Staking
+                - Understand Clarity
     - Feb 21 - [[Meredith Noelle]] 
     - Feb 28 - [[Bryan King]]
     - Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
