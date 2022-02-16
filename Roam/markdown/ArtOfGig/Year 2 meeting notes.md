@@ -183,6 +183,7 @@
             - SW software
             - HW hardware
             - MC microcontroller
+        - Deck: https://drive.google.com/file/d/1gPGRAgjY2MFRSQ_17vuy9uivSlRhT5BM/view?usp=sharing
         - Exploring build systems, in general, not only traditional `Makefile` like approaches, but also the HW side of "building".
             - "Build system" is typical of software engineering (process to transform source code into machine code, etc)
             - Rovers are varied in SW and HW.
