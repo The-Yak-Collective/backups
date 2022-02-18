@@ -533,7 +533,7 @@
     - Feb 28 - [[Bryan King]]
     - Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
     - Mar 14 - [[Patrick Atwater]] (Chia Proof of Space Time Overview)
-    - Mar 21 - 
+    - Mar 21 - #[[JennaD]] tentative Richie Bonilla (richiebonilla#8888) & Caryn Tan (CarynTan#0040) [[Clarity]]
     - Mar 28 - [[Nathan Acks]] - Blockchain identity solutions
 - ## Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
@@ -549,7 +549,7 @@
 - ## Options to explore/look into
     - Please add links directly here (preferred) or via the $readingadd command in the #blockchain-roadmap channel on discord.
     - [[Zigzag]] podcast series on 2018 [[Civil]] token launch. 
-Real-time story arc of an early journo blockchain attempt. /jd
+Real-time story arc of an early journo blockchain attempt. #[[JennaD]]
         - https://zigzagpod.com/episodes/2018/06/14/episode-2
         - https://zigzagpod.com/episodes/2018/06/21/chapter-3-higher-than-we-knew
         - https://zigzagpod.com/episodes/2018/07/12/chapter-6-whats-a-cvl-token
