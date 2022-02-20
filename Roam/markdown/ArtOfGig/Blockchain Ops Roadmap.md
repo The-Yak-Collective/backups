@@ -530,7 +530,7 @@
                 - Understand Colony Reputation and Staking
                 - Understand Clarity
     - Feb 21 - [[Meredith Noelle]] 
-    - Feb 28 - [[Bryan King]]
+    - Feb 28 - [[Bryan King]] + 15min Will Minshaw on 0xSplits
     - Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
     - Mar 14 - [[Patrick Atwater]] (Chia Proof of Space Time Overview)
     - Mar 21 - #[[JennaD]] tentative Richie Bonilla (richiebonilla#8888) & Caryn Tan (CarynTan#0040) [[Clarity]]
