@@ -529,7 +529,28 @@
             - Tasks
                 - Understand Colony Reputation and Staking
                 - Understand Clarity
-    - Feb 21 - [[Meredith Noelle]] 
+    - Feb 21 - [[Meredith Noelle]] - Tokenomics
+        - [[Meredith Noelle]] Goes over this Tokenomics slide deck:
+            - file:///C:/Users/m.s.baldwin/Projects/UnderstandingDAO/Study%20Docs/tokenomics-meredith-yc.pdf
+            - [[Commits Vortex]]'s notes:
+                - Two primary ways of distributing tokens
+                    - Continuous
+                    - All at once
+                - What do you do with your tokens after an auction?
+                    - What does that say about the health of your ecosystem?
+                - 
+        - Discussion:
+            -  [[Venkatesh Rao]]
+                - Both token models described are comprehensive
+                - Looking at what we did with the colony token
+                - No idea what to do, just vague calibration
+                - A lot of low stake stuff like the yak project does not take this comprehensive approach
+        - Questions in Formation
+            - What are the implications of "Sufficient Decentralization"?
+            - How does the tape/program distinction intersect with monetary policy?
+            - Does the use of DIDs reduce the need for tokens to be indentity-correlating? 
+            - Tokens being over-burdened functionally. 
+            - Complicated v complex systems (comprehensiveness)
     - Feb 28 - [[Bryan King]] + 15min Will Minshaw on 0xSplits
     - Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
     - Mar 14 - [[Patrick Atwater]] (Chia Proof of Space Time Overview)

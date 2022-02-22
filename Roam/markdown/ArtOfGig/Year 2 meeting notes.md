@@ -228,6 +228,14 @@
             - Serviceability as differentiating for, say, cars
             - Cheap, reusable, scavenge-able rovers
     - February 22th, 2022 UTC: Eric
+        - Presentation: https://docs.google.com/presentation/d/1yVQn1uFzd296x3KJrmz2NABj2_MDgOk5iNW05JWdZPM/edit#slide=id.g1149f8403b3_0_1
+        - PiTank along with SpiderPi to test software
+        - Robot should be able know from sensor input
+            - Sensor Data -> Conceptualizing -> Evidencing(Tentative Rule) 
+            - When tentative rules become common -> Planning
+        - Inception Demo with PiTank
+            - Called inception inline with movie, because conceptually the process is similar
+        - Comparison to RL and ML
     - March 1st, 2022 UTC: Sai?
     - March 8th, 2022 UTC: Brian
     - March 15th, 2022 UTC: YE Demo Day with Field Testing
