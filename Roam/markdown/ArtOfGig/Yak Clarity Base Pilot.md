@@ -1,1 +1,10 @@
+- Clarity is the team's wiki/project management tool. It's primary function is to serve as an [open task board](https://app.clarity.so/yakc/tasks) so we can coordinate effort towards larger projects requiring multiple yaks. 
+- **Onboarding**
+- **Views**
+    - [Roadmap](https://app.clarity.so/yakc/roadmap) 
+    - 
+- **Common Actions**
+    - Claiming a task
+    - Approving a reward
+    - Paying out contributors
 - Related: [[Yak Colony Pilot]]
