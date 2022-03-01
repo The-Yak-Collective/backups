@@ -551,7 +551,7 @@
             - Does the use of DIDs reduce the need for tokens to be indentity-correlating? 
             - Tokens being over-burdened functionally. 
             - Complicated v complex systems (comprehensiveness)
-    - Feb 28 - [[Bryan King]] + 15min Will Minshaw on 0xSplits
+    - Feb 28 - Will Minshaw on 0xSplits
     - Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
     - Mar 14 - [[Patrick Atwater]] (Chia Proof of Space Time Overview)
     - Mar 21 - #[[JennaD]] tentative Richie Bonilla (richiebonilla#8888) & Caryn Tan (CarynTan#0040) [[Clarity]]

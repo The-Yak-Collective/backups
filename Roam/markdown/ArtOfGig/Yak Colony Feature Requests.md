@@ -1,7 +1,7 @@
 - This is our feature requests page that we can consider submitting to the Colony team. The [[Yak Colony Bug Reports]] page is for bugs.
 - Feature requests can be put in directly on the Colony team's Github. Try to review what's already there and add to existing reporting where possible. https://github.com/JoinColony/colonyDapp/issues
 - ## Feature requests
-- All contract addresses should have helpful nicknames so we know when something is routine maintenance vs. weird behavior that needs investigation
+- All contract addresses should have helpful nicknames so we know when something is routine maintenance vs. weird behavior that needs investigation 
 - Everybody should start with some nonzero reputation so that key workflows are not defunct?
 - More explanation/annotation of reputation
 - RSS feeds for events and actions #[[JennaD]]
