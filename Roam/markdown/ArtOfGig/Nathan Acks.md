@@ -6,7 +6,7 @@
 - Currently on an intensive course of self-study to bring myself up to speed with the tools and techniques needed to jump into a career in penetration testing, incident response, or really any hands-on cybersecurity role.
 - Twitter:: [@necopinus](https://twitter.com/necopinus)
 - Websites::
-    - [Cardboard Iguana Security](https://cardboard-iguana.com) (personal wiki + blog chronicling my cybersecurity journey)
+    - [Cardboard Iguana Security](https://cardboard-iguana.com) (personal hacking wiki + blog chronicling my cybersecurity journey)
     - [necopinus.xyz](https://necopinus.xyz) (photography, essays, etc.)
 - Internal Links::
     - [[IT Infrastructure]]
