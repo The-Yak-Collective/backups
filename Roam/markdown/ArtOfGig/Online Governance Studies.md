@@ -33,6 +33,39 @@
                 - "Ships passing in the night" 
                 - Turning tubes into spaces generally fail and probably not a good heuristic 
                 - common bias of the last 15-20 years towards illegibility and not legibility. Can metrics be done in a smarter way? 
+        - [encapsulated vs systemic complexity](https://vitalik.ca/general/2022/02/28/complexity.html)
+            - when does encapsulated become system - sometimes it happens when the problem is punted down 
+            - encapsulated vs systemic - product decisions, the choice seems to be between encapsulated vs systemic complexity. computer vision example 
+            - when do microservices run into issue - when there is interaction - and I think there is distrust that is created in a system encapsulated 
+            - distrust of encapsulated 
+            - systemic complexity - could be caused by heroic actions
+            - cities - encapuslate 
+            - interactions between subsystems causes enca
+            - worrying about encapsulated complexity - time and capital demands, affected by other factors - reason DAOs or we havent run into the problem 
+            - Brian 
+                - similar to monolithic software vs microservices. monoliths have more co-ordination issues. 
+                - lack of local knowledge causes systemic complexity
+            - Venkat 
+                - complicated vs complex
+                - economy is complex - fuzzy boundary
+                - jet engine - complicated - clearly defined interfaces
+                - optimization -> convex function defined on a complex set 
+                - complicated systems are optimizable because their boundaries are defined 
+                - if you do complicated systems with fixed boundaries, you are creating time bombs 
+                - the perfectionists - book on airbus engine?
+                - conways law - product structure will mimic conweys law - https://en.wikipedia.org/wiki/Conway%27s_law
+            - Grigori
+                - if its a two person team, all the complexity is encapsulated 
+                - when does it become systemic 
+            - Vijay
+                - your mental model did not incorporate all possible changes (the interface changes)
+            - Kiran
+            - Kartik (from chat)
+                - Complicated vs complex reminds me of https://www.infoq.com/presentations/Simple-Made-Easy
+                - Looking through a deployment lens:
+                    - The success of microservices is entirely due to deployment 
+concerns. Microservices lean into Conway's Law by allowing teams to deploy on independent schedules. The interfaces aren't necessarily better in microservices, but by existing they turn into Schelling Points. People start to rely on them, and so the people who maintain them start to care about not breaking them.
+                    - Vitalik says we should tend to try to encapsulate complexity, but that grants a lot of political power to the people who can make changes inside the encapsulation boundary.
     - **Queued**
         - [How cells can find their way through the human body](https://phys.org/news/2020-08-cells-human-body.html)
         - [Biodiversity May Thrive Through Games of Rock-Paper-Scissors](https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/)
