@@ -238,4 +238,34 @@
         - Comparison to RL and ML
     - March 1st, 2022 UTC: Sai?
     - March 8th, 2022 UTC: Brian
+        - Model rocketry: https://docs.google.com/presentation/d/16lQUPcu_2r3BXMnx4Tt6xA8aKtf-_HsboTQ6HYXPHNs/edit?usp=sharing
+        - "To do model rocketry, you need a rocket"
+        - One goal it to go higher.
+        - Tradeoffs
+            - Depending on the form factor
+            - Heavier rockets usually need a lot of thrust at the beginning, etc.
+            - Thrust duration competes with impulse.
+            - Complexity levels, e.g. several engines can require extra work to synchronize.
+        - Associations like NAR and Tripoli
+            - Fun time
+            - Competitions
+            - Community
+        - Certification
+            - Not needed for small rockets (function of impulse and capacity).
+            - Needed for builds qualified as "high power" (3 levels).
+            - Need specific locations depending on power.
+            - Buying high power models requires certification.
+        - Simulation and design software: To help in making custom builds.
+            - Custom builds can be dangerous
+            - Some basic criteria calculated by tools: Center of gravity must be "behind" the center of pressure.
+        - Passive/active control
+            - Active is sometimes forbidden, dangerous, closer to weaponry.
+            - Aim to stabilize
+            - Sometimes to guide too
+        - Serious commitment leads to rocket fuel
+            - Usually simple black powder
+            - More efficient with ammonium perchlorate and hybrid fuel (liquid+solid components)
+        - Interest for rovers
+            - Testing launches for a given weight and form factor? Maybe, but difficult and best delegated. Perhaps still valid just for the very first moments of launch, before entering more heavy-weight testing.
+            - Testing landing looks much more valuable and feasible.
     - March 15th, 2022 UTC: YE Demo Day with Field Testing
