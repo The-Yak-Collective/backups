@@ -94,7 +94,7 @@ concerns. Microservices lean into Conway's Law by allowing teams to deploy on in
                     - arrows theorem?impossibility of selecting the right candidate in a democratic election 
                     - survival of the stupidest - if they a co-operate in a smarter way could win over the smarter person
                     - lot of interesting phenomenon that happens when we go from two to three
-                    - de-dessertifying soil is really hard. roots of grass have complex ecosystem specific to a terrain. chances of success are low if its not adopted to a particular area 
+                    - de-desertifying soil is really hard. roots of grass have complex ecosystem specific to a terrain. chances of success are low if its not adopted to a particular area 
                     - other examples 
                 - Matthew
                     - Main thing I noticed is that biodiversity/ecosystems science/thinking starts from a point of dynamism and motion, which turns out to be way more robust than other disciplines which start from stasis and stillness. The other thing I was wondering related to the Primer archetypes. Is there a rock-paper-scissors mechanic between them (e.g. does Gaia beat Muddler?), and are there longer-range cycles of dominance involving the archetypes (e.g. does Citadel dominate in wartime, Gaia in times of prosperity)?

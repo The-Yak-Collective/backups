@@ -564,7 +564,7 @@
             - Sign up for sessions (8 available)
             - Wishlist of topics -- maybe announce bounties?
     - **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
-        1. Mar 21 - #[[JennaD]] tentative Richie Bonilla (richiebonilla#8888) & Caryn Tan (CarynTan#0040) [[Clarity]]
+        1. Mar 21 - #[[JennaD]] Richie Bonilla (richiebonilla#8888) & Caryn Tan (CarynTan#0040) [[Clarity]]
         2. Mar 28: [[Nathan Acks]] - Blockchain identity solutions
         3. April 4:   [[Patrick Atwater]] (Chia Proof of Space Time Overview)
         4. April 11:
