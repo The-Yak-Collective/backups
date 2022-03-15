@@ -269,3 +269,16 @@
             - Testing launches for a given weight and form factor? Maybe, but difficult and best delegated. Perhaps still valid just for the very first moments of launch, before entering more heavy-weight testing.
             - Testing landing looks much more valuable and feasible.
     - March 15th, 2022 UTC: YE Demo Day with Field Testing
+        - Prompt slides: https://docs.google.com/presentation/d/1LuRh44Cef2ufswupj9kaiGFM0cSagvzKaxoNXz7pPog/edit?usp=sharing
+- Venus Cycle (2)
+    - March 22nd - Link Grooming - Everyone
+    - March 29th - Eric on Straw-man synthesis (architecture) and action items for field testing
+    - April 5th
+    - April 12th
+    - April 19th -- Venkat -- build update. Goal: get ABTF running.
+    - April 26th
+    - May 3rd -- Anuraj
+    - May 10th -- rhettg
+    - May 17th
+    - May 24th -- maier
+    - May 31st

@@ -565,17 +565,32 @@
             - Wishlist of topics -- maybe announce bounties?
     - **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
         1. Mar 21 - #[[JennaD]] Richie Bonilla (richiebonilla#8888) & Caryn Tan (CarynTan#0040) [[Clarity]]
+            - Questions or Topic Suggestions
+                - _ _ _ _ _ _ _ _ _ _ _
+                - _ _ _ _ _ _ _ _ _ _ _
+                - _ _ _ _ _ _ _ _ _ _ _
+                - _ _ _ _ _ _ _ _ _ _ _
+                - _ _ _ _ _ _ _ _ _ _ _
+            - Some Clarity links 👇 
+                - https://www.clarity.so/
+                - https://twitter.com/clarityteams
+                - https://twitter.com/clarityteams/status/1502390308012576769
+                - https://twitter.com/gillpedroso/status/1503074269873545222
+                - https://twitter.com/divine_economy/status/1502775431602360322
+                - https://mailchi.mp/8276100b43e7/discord-code-blocks-pdf-embed-more-block-types-swap-panes-andsign-in-with-ethereum-15924364
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FmIH3OUWDdv.gif?alt=media&token=9456497b-caa3-4ce6-9454-d2a205675094)
         2. Mar 28: [[Nathan Acks]] - Blockchain identity solutions
         3. April 4:   [[Patrick Atwater]] (Chia Proof of Space Time Overview)
         4. April 11:
         5. April 18: [[Venkatesh Rao]] -- Making/spending money together
         6. April 25:
-        7. May 2:
+        7. May 2: [[Nathan Acks]] - [Radicle](https://radicle.xyz/)
         8. May 9:
         9. May 16:
         10. May 23:
         11. May 30: 
-        12. June 6:
+        12. June 6: [[Nathan Acks]] - [Internet Computer](https://internetcomputer.org/)
+            - [[Nathan Acks]] says: Someone should feel free to take this from me. I am interested in this one, but also feel deeply out-classed by the topic.
         13. __June 13: Summer planning__
             - Maybe work on a paper?
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
@@ -615,7 +630,7 @@
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)
     - **Treasury Management** (this includes thinking about digital assets like fungible tokens vs. NFT club passes, how they are distributed, who holds them, what liquidity should be available, transferability, utility (voting, access, economic reward)) -- initialized, see [[YC Treasury]]
     - **Membership and Participation** (this is related to the "who" and what types of contribution zones we want to reinforce / support / nudge)
-    - ![](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvOTA0NzkzMDUzNTk4OTk4NjE4LzkwNjYwMTg2MjgwMTc4NDg0Mi9GRGJHTWUyWG9Bd2hxX2oucG5n)
+    - ![](https://cdn.discordapp.com/attachments/904793053598998618/906601862801784842/FDbGMe2XoAwhq_j.png)
 - ## Currently proposed experiments
     - A multi-sig wallet with n/m signature authority to hold and disburse YC funds in the form of ethereum or a suitable stablecoin (tbd)
     - Publish the [[Governance Readings Six Pager]] on [mirror.xyz](https://mirror.xyz) as a split-contract NFT with proceeds being divided suitably among contributors and a YC fund.
