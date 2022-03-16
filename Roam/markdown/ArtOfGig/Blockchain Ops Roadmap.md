@@ -571,7 +571,7 @@
                 - _ _ _ _ _ _ _ _ _ _ _
                 - _ _ _ _ _ _ _ _ _ _ _
                 - _ _ _ _ _ _ _ _ _ _ _
-            - Some Clarity links 👇 
+            - Some Clarity links 👉
                 - https://www.clarity.so/
                 - https://twitter.com/clarityteams
                 - https://twitter.com/clarityteams/status/1502390308012576769
