@@ -564,28 +564,56 @@
             - Sign up for sessions (8 available)
             - Wishlist of topics -- maybe announce bounties?
     - **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
-        1. Mar 21 - #[[JennaD]] Richie Bonilla (richiebonilla#8888) & Caryn Tan (CarynTan#0040) [[Clarity]]
-            - Questions or Topic Suggestions
-                - _ _ _ _ _ _ _ _ _ _ _
-                - _ _ _ _ _ _ _ _ _ _ _
-                - _ _ _ _ _ _ _ _ _ _ _
-                - _ _ _ _ _ _ _ _ _ _ _
-                - _ _ _ _ _ _ _ _ _ _ _
+        1. Mar 21 - #[[JennaD]] [[Richie Bonilla]] & [[Caryn Tan]] of [[Clarity]]
+Twitter: [@richiebonilla](https://twitter.com/richiebonilla) and [@0xCaryn](https://twitter.com/0xCaryn)
+and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://twitter.com/kathihorvath) and [@creatorcabins](https://twitter.com/creatorcabins)
+            - rough timeline 40 mins + 20 mins convo
+                - backstories = 4 minutes
+                - overview = 4 minutes
+                - contributions = 8 minutes
+                - tokenbasedroles = 8 minutes
+                - daopatterns = 4 minutes
+                - newusers = 8 minutes
+                - pricing = 4 minutes
+                - time => 40 minutes
+            - Questions+Topic Suggestions
+                - **Back Stories** from Richie, Caryn, Kathi :04
+                - **Overview** past-present-future of Clarity :04
+                    - > a lay of the land vision discussion from richie and then dive into tool demo followed by questions #[[Caryn Tan]]
+                - deep dive into how the on-chain parts of Clarity distinguish it from web2 collab tools like Todoist
+                    - **Contributions Workflow :08**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FCHuzH6SNGs.png?alt=media&token=ca72bfb4-c1be-486f-a608-bb8c6a970261)
+                        - https://www.clarity.so/post/introducing-the-contributions-workflow
+                    - **Token-based Roles & Permissions :08**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYeRn5GKOWT.04.13%20AM.jpg?alt=media&token=cc5bba69-9794-44f3-a8ed-aa9a8b9c7d14)
+                        - https://www.clarity.so/post/introducing-token-based-roles-permissions
+                - **DAO Patterns** Any further highlights btw what Clarity is working on with DAO-ish patterns eg [[zodiac.wiki]] :04
+                - **New Users** How do new users go from 0 to 60 :08
+                    - > skilling up users and remove barriers to adoption #[[Caryn Tan]]
+                    - Mindmap: Clarity and eg Notion both have the power of being very free form but which also brings the difficulty: until mindmap is internalized, tool has high friction for busy +/or occasional users
+                        - quests
+                        - certification cf AWS and Notion's new consultant cert
+                        - cohort-based course with NFT completion of work on chain cf [[Fweb3]]
+                - **Pricing** strategy, esp for tangentially involved members where 10/mo of Pro plan prohibitive :04
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fc4riPbSUN-.png?alt=media&token=1bb3d610-0d6f-45cc-a4d3-ecd21486c213)
+                - ---
             - Some Clarity links 👉
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FP0BSIGeWUP.09.19%20AM.jpg?alt=media&token=71f55793-924e-424a-8986-d175c16f2796)
                 - https://www.clarity.so/
-                - https://twitter.com/clarityteams
+                - https://www.clarity.so/blog
+                - Twitter: [@clarityteams](https://twitter.com/clarityteams)
                 - https://twitter.com/clarityteams/status/1502390308012576769
                 - https://twitter.com/gillpedroso/status/1503074269873545222
                 - https://twitter.com/divine_economy/status/1502775431602360322
                 - https://mailchi.mp/8276100b43e7/discord-code-blocks-pdf-embed-more-block-types-swap-panes-andsign-in-with-ethereum-15924364
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FmIH3OUWDdv.gif?alt=media&token=9456497b-caa3-4ce6-9454-d2a205675094)
-        2. Mar 28: [[Nathan Acks]] - Blockchain identity solutions
-        3. April 4:   [[Patrick Atwater]] (Chia Proof of Space Time Overview)
-        4. April 11:
+        2. Mar 28: 
+        3. April 4:   
+        4. April 11: [[Nathan Acks]] - Blockchain identity solutions
         5. April 18: [[Venkatesh Rao]] -- Making/spending money together
-        6. April 25:
-        7. May 2: [[Nathan Acks]] - [Radicle](https://radicle.xyz/)
-        8. May 9:
+        6. April 25: [[Patrick Atwater]] (Chia Proof of Space Time Overview)
+        7. May 2: 
+        8. May 9: [[Nathan Acks]] - [Radicle](https://radicle.xyz/)
         9. May 16:
         10. May 23:
         11. May 30: 
