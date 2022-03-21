@@ -587,13 +587,14 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                     - **Token-based Roles & Permissions :08**
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYeRn5GKOWT.04.13%20AM.jpg?alt=media&token=cc5bba69-9794-44f3-a8ed-aa9a8b9c7d14)
                         - https://www.clarity.so/post/introducing-token-based-roles-permissions
+                - **API + Discord bot plans?** #[[Maier Fenster]]
                 - **DAO Patterns** Any further highlights btw what Clarity is working on with DAO-ish patterns eg [[zodiac.wiki]] :04
-                - **New Users** How do new users go from 0 to 60 :08
-                    - > skilling up users and remove barriers to adoption #[[Caryn Tan]]
-                    - Mindmap: Clarity and eg Notion both have the power of being very free form but which also brings the difficulty: until mindmap is internalized, tool has high friction for busy +/or occasional users
-                        - quests
-                        - certification cf AWS and Notion's new consultant cert
-                        - cohort-based course with NFT completion of work on chain cf [[Fweb3]]
+                    - **New Users** How do new users go from 0 to 60 :08
+                        - > skilling up users and remove barriers to adoption #[[Caryn Tan]]
+                        - Mindmap: Clarity and eg Notion both have the power of being very free form but which also brings the difficulty: until mindmap is internalized, tool has high friction for busy +/or occasional users
+                            - quests
+                            - certification cf AWS and Notion's new consultant cert
+                            - cohort-based course with NFT completion of work on chain cf [[Fweb3]]
                 - **Pricing** strategy, esp for tangentially involved members where 10/mo of Pro plan prohibitive :04
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fc4riPbSUN-.png?alt=media&token=1bb3d610-0d6f-45cc-a4d3-ecd21486c213)
                 - ---
