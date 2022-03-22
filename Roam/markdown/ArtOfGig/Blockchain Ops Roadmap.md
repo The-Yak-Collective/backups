@@ -568,7 +568,6 @@
 Twitter: [@richiebonilla](https://twitter.com/richiebonilla) and [@0xCaryn](https://twitter.com/0xCaryn)
 and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://twitter.com/kathihorvath) and [@creatorcabins](https://twitter.com/creatorcabins)
             - rough timeline 40 mins + 20 mins convo
-                - backstories = 4 minutes
                 - overview = 4 minutes
                 - contributions = 8 minutes
                 - tokenbasedroles = 8 minutes
@@ -578,8 +577,50 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                 - time => 40 minutes
             - Questions+Topic Suggestions
                 - **Back Stories** from Richie, Caryn, Kathi :04
+                    - backstories = 4 minutes
+                        - Richie
+                            - "productive communities"
+                            - June 2020 full time on clarity, post covid
+                            - Building for DAOs == building for productive communities with liquid talent
+                            - The biggest change from this pivot was bringing in more on-chain elements
+                        - Caryn
+                            - Focus: contributor experience
+                            - Notion of psychological safety in terms of feeling comfortable learning
+                            - How does Web3 enable flexible and modular work?
+                            - Interested in this in terms of the future of work
+                            - The Web3 space nourishes a generalist mindset?
+                        - Kathi (from Cabin)
+                            - Before moving more into DAO space was working as an intimacy coach
+                            - Primarily interested in building real life community
+                            - Noticed during onboarding that I didn't know how to claim a bounty, for instance
+                            - Joined the Cabin guild to help work on the onboarding experience
                 - **Overview** past-present-future of Clarity :04
                     - > a lay of the land vision discussion from richie and then dive into tool demo followed by questions #[[Caryn Tan]]
+                    - Richie
+                        - web2 is built on relationships between people that are based on content creation and consumption
+                        - this leads to exploitative relationships and there aren't the tools for distributing resources back to creators
+                        - Clarity belives that DAOs open the opportunity for organization to work based on cooperation
+                        - DAOs can create their own arena with their own values, this is the autonomous part
+                        - The onchain element is for clarity about contributions
+                        - Clarity is working on making the contribution chain more legible
+                            - This is also important for cross-DAO collaboration
+                            - Reputation becomes a proxy for what ID was in web2
+                        - It is hard to do programatic reputation without clear metadata
+                        - This is why tasks are the primary block of Clarity
+                        - The metadata that is built in the schema for the task metadata allows for portable reputation
+                        - It is part of clarity's model to make this metadata portable and interoperable
+                        - Venkatesh:
+                            - Can you share your views more broadly on composability principles in web3
+                            - Richie:
+                                - This is a fundamental idea of web3.
+                                - The output of one software system can become the input to another software system
+                                - This is already possible with web2 via APIs
+                                - The permissionlessness of the blockchains are fundamentally different from APIs which are rate limited, need to have integrations maintained, are not fully open, etc.
+                        - Commits:
+                            - how are you approaching schemas for identity and credential interoperability
+                            - Richie:
+                                - People who are working on this many people rather than going alone to address this problem.
+                                - The obsession with being first leads to a lot of branding
                 - deep dive into how the on-chain parts of Clarity distinguish it from web2 collab tools like Todoist
                     - **Contributions Workflow :08**
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FCHuzH6SNGs.png?alt=media&token=ca72bfb4-c1be-486f-a608-bb8c6a970261)
@@ -588,6 +629,95 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYeRn5GKOWT.04.13%20AM.jpg?alt=media&token=cc5bba69-9794-44f3-a8ed-aa9a8b9c7d14)
                         - https://www.clarity.so/post/introducing-token-based-roles-permissions
                 - **API + Discord bot plans?** #[[Maier Fenster]]
+                    - Richie
+                        - In S1
+                        - S1 was all about DAO workflows
+                            - Join workspaces
+                            - Token-gates documents
+                            - Goal was to find what was useful and what worked
+                                - 4 use cases
+                                    - Creating and sharing token-gated docs
+                                    - token-based roles and permissions
+                                    - community-wide wiki for connecting information across groups
+                        - Clarity is in a 4 phase roll out
+                            - End of april is tart of season 2
+                            - Theme will be integrations and workflows
+                            - Specifically DAO related work flows
+                            - Will be looking at one-off integrations at first and then making a generalized API with endpoints that anyone can use in V2
+                            - One of the one-off integrations will be Discord
+                                - Gnosis safe for paying out multiple pods within a DAO and making those pods more autonomous for paying out contributors
+                                - Orca pods and Clarity integration
+                                    - Shared NFT ownership
+                        - Maier
+                            - When we are talking about APIs we are talking about a gateway
+                            - It is difficult to convince people to use another tool
+                            - The way most members will use Clarity is to look at it, not to use it
+                            - The level 0 integration we need is a read only ability to read date from Clarity into something like Discord
+                            - This brings the look at it quality of Clarity into the spaces that people use
+                            - This is what I mean when I saw Minimum API
+                            - Richie
+                                - The thing that will help use with this is to understand use cases and champion workflows
+                                - I.e. the ability to see a list of tasks in discord
+                            - Maier
+                                - If all I had was an API and I could call the list, I could make a small piece of software that would tell people on Discord to type a command to see a list of tasks on offer on Clarity
+                                - In order to be introduced into the existence and power of Clarity that do not need to be on Clarity, and they are incentivized to use Clarity based on being paid for a contribution.
+                            - Richie
+                                - Agrees
+                                - Tasks from Clarity should be able to be listed anywhere that the DAO owns
+                                - This is in line with a lot of request Clarity has gotten
+                                - Especially top of funnel for DAOs
+                                - They realize they need a document and that it needs to be token-gated. They don't want to make a whole contribution stack using Clarity, but they want to make lists in Clarity and match it to their own platforms.
+                            - Maier
+                                - Clarity needs a direct link to the tasks page
+                                - Clarity needs to decide if they need to be in the front or in the back, and perhaps being in the back gives more exposure to the front end
+                            - Richie
+                                - Clarity would prefer to be in the back office
+                                - Talent is always going to be the scarsit resource, both talent and vibe fit
+                                - Being able to find and retain those people is going to be very important for DAOs
+                                - This is top of the funnel in terms of DAO ops
+                                - In a world where contributors are more polyamourous, having a consistant backend is important so you don't need to use many tools for working across orgs.
+                            - Venkatesh
+                                - One concern with this web3 model is that it approaches the Japanese business environment [[keiretsu]]
+                                    - A reference to a specific style kuritsu (sp*)
+                                - There is a more uniform approach towards the business stacks in this model
+                                - In the US ecosystem, businesses are constantly trying to eat other portions of the stack
+                                - Does how you want to position yourself, e.g. backend infra/office for DAOs on frontend, but is that the natural evolutionary end point where you can make enough money to survive? 
+                                - In a broader sense, what is you stategy thinking in terms of the value chain, and what type of environment will this result in?
+                            - Richie
+                                - A lot of what happens in web2 is switching cost
+                                - Take something like Asana. Asana doesn't really add a lot of value to the data.
+                                - In clarity, your data has longer life span
+                                - We are trending toward a world where data lock in is not a moat
+                                - The only moats left are UX and community
+                                - Our jobs are to create good UX for contributors and the people you find using Clarity are the people you would want to work in your DAO
+                                - DAOs paying Clarity for the tool
+                                - Clarity is fundamentally aligned with DAOs because they are making tools
+                        - Jenna
+                            - Wanting to talk about the underbelly
+                            - Yak Collective is headless
+                            - We don't have people like Kathi at Cabin that is making sense of the patterns afforded by Clarity
+                            - Caryn
+                                - Would want to hear more from Kathi
+                            - Kathi
+                                - A month ago complete newbi to Clarity
+                                - Used to taking the tools given to me and figuring out work flows based off prior web2 work
+                                - Have been working on how to jump between Discord and Clarity
+                                - Educating users on the fact that Clarity can do much more than used to
+                                - Also education on how to tend to digital landscapes
+                            - Richie: sharing screen (see recording)
+                            - Kathi:
+                                - How to setup and motivate a Clarity that isn't already setup with patterns and paths
+                            - Rafa
+                                - Should talk to Roxine about how they setup the layers of Clarity
+                            - Kathi
+                                - Looking at your DAO and defining the roles you see in it and the different users in the community and defining their specific needs is important to setting a path/pattern in Clarity
+                                - The automated weekly newsletter/recap via Clarity
+                                    - Core contributors edit this
+                                    - This is still a manual process
+                                    - Is integrated into the weekly meeting call
+                            - Richie
+                                - Communities with clearly defined goals work best with Clarity
+                                - Clarity is removing friction to clear goals, responsibility, autonomy, etc.
                 - **DAO Patterns** Any further highlights btw what Clarity is working on with DAO-ish patterns eg [[zodiac.wiki]] :04
                     - **New Users** How do new users go from 0 to 60 :08
                         - > skilling up users and remove barriers to adoption #[[Caryn Tan]]
@@ -596,6 +726,31 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                             - certification cf AWS and Notion's new consultant cert
                             - cohort-based course with NFT completion of work on chain cf [[Fweb3]]
                 - **Pricing** strategy, esp for tangentially involved members where 10/mo of Pro plan prohibitive :04
+                    - Richie
+                        - Per user per month does not align with how DAOs work
+                        - Per month is more aligned with monthly pay
+                        - The core utility of the product shouldn't get in the way of how DAOs work
+                        - Moving towards:
+                            - Pay for active contributors
+                            - Billed on a per day basis, around 70 cents a day
+                            - For the people who are actively working on bounties, passing project specs, etc., those are the billable users
+                            - You pay relative to community compute
+                            - This is the closest model though others are being ideated
+                    - Rafa
+                        - Creating a moat around "I like to coordinate with Clarity"
+                        - Mutually reinforcing
+                    - Maier
+                        - When you have a system in Clarity, it is based on some people doing the work and some people checking the work
+                        - The work may be complicated, but it might be easy to verify
+                        - Is it the case that the tasks are easier to verify than they are to do.
+                    - Richie
+                        - Have seen that the art of making a ticket is a real skill
+                        - And that bounties need to be clearly defined
+                        - Having the doc in the same place that the tasks are assigned is a value add
+                        - The work that can be verified is in the tickets, and there is work that is less easy to define
+                            - Did we finish our goal?
+                                - No: keep working
+                                - Yes: stop working
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fc4riPbSUN-.png?alt=media&token=1bb3d610-0d6f-45cc-a4d3-ecd21486c213)
                 - ---
             - Some Clarity links 👉

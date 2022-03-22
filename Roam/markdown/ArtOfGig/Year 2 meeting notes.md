@@ -272,6 +272,55 @@
         - Prompt slides: https://docs.google.com/presentation/d/1LuRh44Cef2ufswupj9kaiGFM0cSagvzKaxoNXz7pPog/edit?usp=sharing
 - Venus Cycle (2)
     - March 22nd - Link Grooming - Everyone
+        - Surya-280, a solar powered temperature monitor
+            - https://twitter.com/mohitbhoite/status/1493080139386683392?s=21
+            - Looks more artistic than practical, but Maier shared similar working prototypes: https://www.nature.com/articles/s41586-021-04363-9
+            - Electric system also as electronic system
+        - Sea anemone neuron connections
+            - https://twitter.com/lfeldmanbarrett/status/1491798703522287624?s=21
+        - Lego
+            - https://twitter.com/troy_mccann/status/1474861285934174209?s=21
+        - Granulobot
+            - https://twitter.com/b_saintyves/status/1503804859430100995?s=21
+        - Faster Mini Cheetah
+            - https://www.popsci.com/technology/machine-learning-robot-runs-its-fastest/
+            - "robots that could cross any kind of topography were generally sluggish across the board, because they weren’t optimized for speed; their responses were challenging to program."
+            - "researchers’ workaround was to use reinforcement learning"
+            - "the team simulated all the potential scenarios of the real-world in a computer."
+            - "it could modify how it loped in real time to adapt to the conditions of its route"
+            - "Thanks to this machine learning software, Mini Cheetah bumped its peak indoor velocity from 12 feet per second before training to 13 feet per second after. It more or less maintained this speed outdoors when tearing up unfamiliar grounds. It could catch itself when it tripped. Even if it had a broken leg, it could find a way to hobble on at maximum speed.""
+            - "only the hardware is the limit"
+            - https://sites.google.com/view/model-free-speed/
+        - Birdbot
+            - https://robohub.org/birdbot-is-energy-efficient-thanks-to-nature-as-a-model/
+            - Energy efficient movement
+            - No energy stable stances
+            - How to measure minimum energy use?
+                - Some models in Control Theory and others
+                - https://naomi.princeton.edu/wp-content/uploads/sites/744/2021/03/BlChLeMaTAC2001.pdf
+        - World Models
+            - https://worldmodels.github.io/
+        - Ocado warehouse
+            - https://www.youtube.com/watch?v=ssZ_8cqfBlE
+            - How does that work for rovers, in "open" environments?
+            - Centralised control with local multi-agent-system-based communication
+        - Guardbot
+            - guardbot.org
+            - Aesthetic, shape and fit
+        - James Webb telescope selfie
+            - https://www.space.com/james-webb-space-telescope-alignment-photo
+            - How do you get a rover to build a self-image of itself?
+            - Mirror routine dancing in India
+            - Build priors about each other to use them as future references / baselines for diagnosis
+            - Maybe need for both diagnosis from inside and from outside
+                - E.g. wheel rotation/slippage with internal encoding and wheel traces in the sand on Curiosity and co.
+                - Calibration
+                - Self orientation
+                - Alignment internal model and reality, dead reckoning, internal body clock
+        - Dancing competition
+            - https://www.youtube.com/watch?v=pXMnbNoccgA
+            - Place of aesthetics
+            - Example for demo days, etc
     - March 29th - Eric on Straw-man synthesis (architecture) and action items for field testing
     - April 5th
     - April 12th
