@@ -157,8 +157,21 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
                 - asymetricality of small powers -  people survive regardless, all history will continue
                 - think 5000 years in the past and 1000 years in the future. you just have to outlast the big powers
                 - idealism exists for 10 minutes every 100 years 
-    - **Queued**
         - [Disney Parks Essay Series by Cory Doctorow (index twitter thread)](https://twitter.com/doctorow/status/1419689975163936781?s=21)
+            - Disney parks started as an escaped reality for Walt Disney, to manage his own psyche before it became a money making venture
+            - Theme parks vs amusement parks - amusement parks focus on "gamification". Theme parks focus on Lore
+            - [Tolkien on fairytales](https://en.wikipedia.org/wiki/On_Fairy-Stories#:~:text=Tolkien%20suggests%20that%20fairy%20stories,changed%20by%20an%20outside%20perspective)
+            - Cities are weakly escaped realities - https://www.ribbonfarm.com/2019/10/29/the-city-as-weakly-escaped-reality/
+            - David Foster Wallace essays look at reality too hard in a way that if you look at it like DFW it does not end well
+                - https://archive.nytimes.com/www.nytimes.com/books/first/w/wallace-fun.html
+            - Do you believe in your own lore?If you dont then you are being manipulative or an evil designer? 
+            - Frontierland - https://www.ribbonfarm.com/2015/08/06/frontierland/
+            - along with the Gatlinburg-style themed city, there are genuine cultural districts...Chinatown, etc.
+            - We should design escaped realities, because everything is a simulation of a simulation of a simulation 
+            - "gamification is the high fructose corn syrup of the internet" - the person who wrote this is now raising icelandic horses 
+            - LARP is kind of like faking it till you make it but more sincere?
+            - hobbesian design vs gaian design of theme parks 
+    - **Queued**
         - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
         - [Spotify: An Emergent Organization](https://www.workfutures.io/p/spotify-an-emergent-organization)
         - [Our Distributed Company is a Garden](https://sanctucompu.substack.com/p/distributed)
