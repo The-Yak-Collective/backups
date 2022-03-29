@@ -763,8 +763,90 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                 - https://twitter.com/divine_economy/status/1502775431602360322
                 - https://mailchi.mp/8276100b43e7/discord-code-blocks-pdf-embed-more-block-types-swap-panes-andsign-in-with-ethereum-15924364
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FmIH3OUWDdv.gif?alt=media&token=9456497b-caa3-4ce6-9454-d2a205675094)
-        2. Mar 28: 
-        3. April 4:   
+        2. Mar 28: Conceptual Models for DAO2DAO Relations
+            - [[Jenna Dixon]]
+                - A lot of what was talked about during the last session was the "under story".
+                - What we didn't get to is the "over story"
+                - Kafka wasn't a metaphor
+                - It was real, implacable rules
+                - Daniel Swarez's novel Daemon
+            - [[Maier Fenster]]
+                - Share Jenna's worries about boxing ourselves into a beuracrecy
+                - Included this quote:
+                    - > They have “two capacities: the capacity to think, and the capacity to maintain capital, are in theory all that an economic agent needs to survive in the marketplace, provided that its thoughts and capital allow it to create sellable value fast enough to keep up with its own resource demands.
+                - Legibility:
+                    - When you talk to people about NFTs they have certain perceptions
+                    - Yet there are values and resources to these projects that are not immediedtly obvious
+                    - How do you talk between two DAOs that have different orientations (happy DAO and bitcoin DAO)?
+                - What value is Yak Collective producing?
+                    - Up to today, it has not been money
+                - Concept of GPD
+                    - Measuring the health of a DAO
+            - [[Meredith Noelle]]
+                - Share the same nightmare scenario
+                - International Relations is a fascinating framework to look at DAOs through is useful.
+                - Seeing a lot of DAO bloat in many DAOs
+                    - This is a byproduct of capitalism and the imperative of growth
+                - How to keep DAOs small and purpose driven
+            - [[Nathan Acks]]
+                - Agree with keeping DAOs (and organizations in general) focused
+                - Easy to add and become paralyzed
+                - Not sure I agree with DAOs being embedded into high-level institutions
+                - They are code-based
+                - Lawrence Lessig's Code is Law in cyberspace comments
+                    - Is it better to think of DAOs at orthoganel to cooprations which are trying to build structure on different substrates
+                - In terms of DAO2DAO relations, funding makes the most sense
+                    - More of a collaborative joint venture model
+                    - Not clear where that fits in, especially in our context
+            - [[Sachin Benny]]
+                - The whole idea of IR itself -- it feels like elite overproduction
+                - It seems like it is trying to make legible something that is not legible
+                - Not convinced this is how 20th century international relations worked
+                - If DAOs have extremely high legibility, then a lot of these concepts can make sense, otherwise not as much
+                - Section 3a: Normative and Non-normative perspectives
+                    - Would be interesting to see what kind of DAOs can collaborate with each other
+                    - For example: Can DAOs with normative perspectives collaborate with DAOs with non-normative perspectives?
+            - [[Venkatesh Rao]]
+                - Thought of this in relation to a proposal to donate to another DAO
+                - The more we experiment the more opportunities to collaborate and fund others will come up
+                - There is extraordinary up and downsides to DAOs
+                - If you look at DAO like things in the past:
+                    - The international Space Station
+                    - already a complex collaboration between multiple countries
+                    - A crucial piece in this is Russia
+                    - Russia at war with the rest of the world
+                    - A lot of the systems need to run autonomously
+                    - The 3 or 4 astronauts don't know how to run the thing
+                    - You can see the histori with the ISS:
+                        - Worried about being completely dependent on Russia for supplying rockets to the ISS
+                        - Now we have other hardware
+                    - If you have DAOs collaborating, in a low-trust context, how do you maintain and sustain opperations when trust deterorates
+                        - Inherent risks in IR maps onto the DAO2DAO risks of collaboration
+                        - But, when it does work, you are able to travel to space
+                        - Thinking about this in relation to the Yak Rover and organizational capacity
+                - When you have collaborations and money is not the best measure of output, how do you measure collaboration between different mission and value-aligned DAOs?
+                    - Again, the ISS is a useful model
+                    - Different nation states are offering material functional capabilities
+                    - Maybe there is a space for Yak Collective for running study group tracks
+                - Trying to keep a DAO small and purpos driven
+                    - Reminded of micro-serves in cloud computing
+                - The collaboration premise assumes relatively convergent premises
+                    - It is not immediately clear to me that premises are convergent
+                    - There are material reasons that nation states are required to converge 
+                    - This is not necessarily the case in terms of resources that DAOs manage
+                - +1 are DAOs and Coorporations convergent?
+            - [[Ben Mahala]]
+                - Kafka:
+                    - Had me thinking about how that relates to David Chapmen's Keigen different levels
+                    - Kafka beuracracy is a level four system level failur
+                    - Things like Trump and Putin are a level three failure
+                    - Wondering if there is a 2X2 map for these different types of failures
+                    - Level 5 metarational / liquid mode
+                        - This is what should be aimed for
+                    - This goes back to what Venkatesh was saying about the extremities of the high/low rewards
+            - [[Grigori Milov]]
+                - DAO2DAO collaboration requires that DAOs individually have clear definitions and capabilities and incentives
+        3. April 4:   Tiger and Toby from otherinternet will join to talk about their lore project https://otherinter.net/research/lore/
         4. April 11: [[Nathan Acks]] - Blockchain identity solutions
         5. April 18: [[Venkatesh Rao]] -- Making/spending money together
         6. April 25: [[Patrick Atwater]] (Chia Proof of Space Time Overview)

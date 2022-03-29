@@ -322,9 +322,52 @@
             - Place of aesthetics
             - Example for demo days, etc
     - March 29th - Eric on Straw-man synthesis (architecture) and action items for field testing
+        - Today at the YR meeting, aware of 3 view on collaborating for the end of year demo. 3 "strawmen"
+            - Venkat's inter agent protocol, where agents are rovers, non-roving robots and humans.
+            - Rhett's bottom up proposal to leverage practical technologies, ground for actually completing something by demo day.
+            - The above link, which focuses on software architecture to accommodate a few aspects we have been talking about.
+
+What is surprisingly interesting is the complementary of the views: Inter agent, intra agent, and mapping to real tech.
+        - Venkatesh on "inter agent protocol"
+            - Inspired by the games/missions we have in mind
+            - 3 kinds of agents: Robots, base stations/satellites, humans
+            - The more rovers get intelligent, the more we should be able to trust them on many topics (e.g. comm with Earth)
+            - Some abstraction level: All agents "equals" in terms of protocol.
+            - Need for shared semantics, in the messaging protocol
+            - "Mimetic transmission" in the protocol
+            - Properties
+                - Evolving based on actual collective experience
+                - Autonomy, collective construction and adaptation
+                - Kind of economy of language
+                - Invented language/protocol
+            - Proposal: Suggestion for a simple scenario first
+                - Define a first reduced vocabulary for this year
+                - Basic broadcasting, etc.
+            - Questions:
+                - What is language evolution, in more concrete detail? Semantics and/or grammar? E.g. what concept to learn, which ones are useful? Limited memory, etc.
+                    - "Community of practice" help here. Let multiple meaning compete and find the fittest.
+                - What mechanism to make sure concepts are useful and should be kept?
+                - What kind of change can be made to the language to make it useful?
+                - Protocol is about RPC or "goal driven" declarative messages?
+                    - RPC is planning and send commands
+                    - Declarative is set the goal and let the target split into commands by itself
+                    - Maybe need both
+        - Rhett on a bottom-up view of a software stack
+            - https://github.com/The-Yak-Collective/yakrover/pull/3
+            - Capitalise on Viktor's work with VPN for connectivity
+            - Base API for all rovers
+                - Identification
+                - "Command injection" a la NASA
+                - Camera
+                - Metrics
+            - Minimal API could just be identification and CI
+            - Demo idea
+                - 2 rovers come to the same object. They have to agree it is the same object. They have to identify each other. Pick up the object together.
+                - Rover Bingo, or rover high five
+                - Warm/cold guess game
     - April 5th
-    - April 12th
-    - April 19th -- Venkat -- build update. Goal: get ABTF running.
+    - April 12th — Venkat -- build update. Goal: get ABTF running.
+    - April 19th
     - April 26th
     - May 3rd -- Anuraj
     - May 10th -- rhettg
