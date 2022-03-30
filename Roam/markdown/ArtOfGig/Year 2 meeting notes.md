@@ -365,7 +365,7 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
                 - 2 rovers come to the same object. They have to agree it is the same object. They have to identify each other. Pick up the object together.
                 - Rover Bingo, or rover high five
                 - Warm/cold guess game
-    - April 5th
+    - April 5th - Demo Day Tentative Action Plan and Early Collaboration Plan - Eric
     - April 12th — Venkat -- build update. Goal: get ABTF running.
     - April 19th
     - April 26th
