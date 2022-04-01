@@ -817,7 +817,7 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                     - Russia at war with the rest of the world
                     - A lot of the systems need to run autonomously
                     - The 3 or 4 astronauts don't know how to run the thing
-                    - You can see the histori with the ISS:
+                    - You can see the history with the ISS:
                         - Worried about being completely dependent on Russia for supplying rockets to the ISS
                         - Now we have other hardware
                     - If you have DAOs collaborating, in a low-trust context, how do you maintain and sustain opperations when trust deterorates
@@ -825,11 +825,13 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                         - But, when it does work, you are able to travel to space
                         - Thinking about this in relation to the Yak Rover and organizational capacity
                 - When you have collaborations and money is not the best measure of output, how do you measure collaboration between different mission and value-aligned DAOs?
-                    - Again, the ISS is a useful model
+                    - Again, the ISS is a useful model -- currency is mostly meaningless in space
                     - Different nation states are offering material functional capabilities
                     - Maybe there is a space for Yak Collective for running study group tracks
                 - Trying to keep a DAO small and purpos driven
                     - Reminded of micro-serves in cloud computing
+                        - It is SOA for open internet, via splits
+                    - See also liquid orgs, liquid democracy, Kegan level 5 etc
                 - The collaboration premise assumes relatively convergent premises
                     - It is not immediately clear to me that premises are convergent
                     - There are material reasons that nation states are required to converge 
