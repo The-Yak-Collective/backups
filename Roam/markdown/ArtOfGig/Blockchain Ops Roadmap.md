@@ -849,16 +849,15 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
             - [[Grigori Milov]]
                 - DAO2DAO collaboration requires that DAOs individually have clear definitions and capabilities and incentives
         3. April 4:   Tiger and Toby from otherinternet will join to talk about their lore project https://otherinter.net/research/lore/
-        4. April 11: [[Nathan Acks]] - Blockchain identity solutions
+        4. April 11: 
         5. April 18: [[Venkatesh Rao]] -- Making/spending money together
         6. April 25: [[Patrick Atwater]] (Chia Proof of Space Time Overview)
-        7. May 2: 
-        8. May 9: [[Nathan Acks]] - [Radicle](https://radicle.xyz/)
-        9. May 16:
-        10. May 23:
+        7. May 2: [[Nathan Acks]] - Blockchain identity solutions
+        8. May 9: 
+        9. May 16: 
+        10. May 23: 
         11. May 30: 
-        12. June 6: [[Nathan Acks]] - [Internet Computer](https://internetcomputer.org/)
-            - [[Nathan Acks]] says: Someone should feel free to take this from me. I am interested in this one, but also feel deeply out-classed by the topic.
+        12. June 6: [[Nathan Acks]] - [Radicle](https://radicle.xyz/)
         13. __June 13: Summer planning__
             - Maybe work on a paper?
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
