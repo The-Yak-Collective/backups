@@ -321,7 +321,7 @@
             - https://www.youtube.com/watch?v=pXMnbNoccgA
             - Place of aesthetics
             - Example for demo days, etc
-    - March 29th - Eric on Straw-man synthesis (architecture) and action items for field testing
+    - March 29th - Straw-man synthesis (architecture) and action items for field testing
         - Today at the YR meeting, aware of 3 view on collaborating for the end of year demo. 3 "strawmen"
             - Venkat's inter agent protocol, where agents are rovers, non-roving robots and humans.
             - Rhett's bottom up proposal to leverage practical technologies, ground for actually completing something by demo day.
@@ -345,7 +345,8 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
                 - Basic broadcasting, etc.
             - Questions:
                 - What is language evolution, in more concrete detail? Semantics and/or grammar? E.g. what concept to learn, which ones are useful? Limited memory, etc.
-                    - "Community of practice" help here. Let multiple meaning compete and find the fittest.
+                    - "Community of practice" help here.
+                    - Let multiple meaning compete and find the fittest.
                 - What mechanism to make sure concepts are useful and should be kept?
                 - What kind of change can be made to the language to make it useful?
                 - Protocol is about RPC or "goal driven" declarative messages?
@@ -365,7 +366,8 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
                 - 2 rovers come to the same object. They have to agree it is the same object. They have to identify each other. Pick up the object together.
                 - Rover Bingo, or rover high five
                 - Warm/cold guess game
-    - April 5th - Demo Day Tentative Action Plan and Early Collaboration Plan - Eric
+        - Shortened discussion for time on internal architecture: https://www.figma.com/file/txEcKRHklPWdE0BdkVBGOo/The-Strawman?node-id=0%3A1
+    - April 5th -- Demo Day Tentative Action Plan and Early Collaboration Plan - Eric
     - April 12th — Venkat -- build update. Goal: get ABTF running.
     - April 19th
     - April 26th
@@ -373,4 +375,4 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - May 10th -- rhettg
     - May 17th
     - May 24th -- maier
-    - May 31st
+    - May 31st - Victor Hill
