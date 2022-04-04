@@ -22,5 +22,13 @@
 - Week 2
     - Reading: [What we lose when we lose literary magazines](https://countercraft.substack.com/p/what-we-lose-when-we-lose-literary?s=r)
     - Prompt: What does the future of literary magazines look like ?  any interesting examples would be nice
-    - 
+        - Venkat response
+            - Honestly couldn’t care less about *literary* magazines. I get the function, and I liked a few McSweeney’s articles and used to contribute to our hostel’s lit magazine in college, but I doubt much is lost if they go away. Online + forums do well enough as a replacement. Perhaps better, since they eliminate the conceits of literary publishing.
+            - But I’m very interested in the future of genre magazines, especially SF. I think a Renaissance might be possible — shared world building and lore, NFTs to monetize, rich online content like games and personality tests…
+        - Sachin's response 
+            - Emily Segals  projects on Mirror with $Novel look interesting, although right now it looks more like a crowdfunding project - https://emily.mirror.xyz/
+            - AI assisted writing tools are interesting, and could be an interesting gimmick for a sci-fi magazine - figure out which parts were written by AI and which parts by a human - https://www.sudowrite.com/app 
+            - NFTs of important artifacts/design fiction in a story could be interesting 
+            - https://knots.live/ - another interesting Emily Segal project. 
+            - Would be interested in learning more about how to build an audience for fiction 
 - 

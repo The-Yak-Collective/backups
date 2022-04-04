@@ -763,13 +763,14 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                 - https://twitter.com/divine_economy/status/1502775431602360322
                 - https://mailchi.mp/8276100b43e7/discord-code-blocks-pdf-embed-more-block-types-swap-panes-andsign-in-with-ethereum-15924364
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FmIH3OUWDdv.gif?alt=media&token=9456497b-caa3-4ce6-9454-d2a205675094)
-        2. Mar 28: Conceptual Models for DAO2DAO Relations
+        2. Mar 28: — Discussion of DAO2DAO relations model
             - [[Jenna Dixon]]
                 - A lot of what was talked about during the last session was the "under story".
                 - What we didn't get to is the "over story"
                 - Kafka wasn't a metaphor
                 - It was real, implacable rules
                 - Daniel Swarez's novel Daemon
+            - Reading: the 2 part article linked in these notes https://buzzard.life/posts/kristen/dao2dao-research/
             - [[Maier Fenster]]
                 - Share Jenna's worries about boxing ourselves into a beuracrecy
                 - Included this quote:
@@ -782,6 +783,8 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                     - Up to today, it has not been money
                 - Concept of GPD
                     - Measuring the health of a DAO
+            - https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d
+            - https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21
             - [[Meredith Noelle]]
                 - Share the same nightmare scenario
                 - International Relations is a fascinating framework to look at DAOs through is useful.
