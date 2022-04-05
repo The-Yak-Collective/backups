@@ -852,6 +852,7 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
             - [[Grigori Milov]]
                 - DAO2DAO collaboration requires that DAOs individually have clear definitions and capabilities and incentives
         3. April 4:   Tiger and Toby from otherinternet will join to talk about their lore project https://otherinter.net/research/lore/
+            - 
         4. April 11: 
         5. April 18: [[Venkatesh Rao]] -- Making/spending money together
         6. April 25: [[Patrick Atwater]] (Chia Proof of Space Time Overview)
