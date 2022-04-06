@@ -31,4 +31,6 @@
             - NFTs of important artifacts/design fiction in a story could be interesting 
             - https://knots.live/ - another interesting Emily Segal project. 
             - Would be interested in learning more about how to build an audience for fiction 
-- 
+- [The Grotesque Sublime](https://discord.com/channels/692111190851059762/709768319108120636/958880628860936273)
+    - Prompt - write a treatment or an intro to a modern day groteseque sublime mythos/universe (eg: what would a modern day cthulu mythos look like) - In 300 words or more
+    - 
