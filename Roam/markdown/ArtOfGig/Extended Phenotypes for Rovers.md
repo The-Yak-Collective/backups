@@ -1,0 +1,9 @@
+- Spider web
+- Beaver dam
+- Garage mirror
+- Bread crumbs
+- Marine rover buoys
+- Perseverance sample caches for future missions
+- Toy optics
+- Eusocial architectures
+    - Ants

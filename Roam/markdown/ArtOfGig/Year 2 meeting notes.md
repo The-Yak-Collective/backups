@@ -378,7 +378,9 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
             - All depend on the application and architecture
             - Confusing wording like API, usually understood as "Rest API", but actually meaning the "classical" programming interface (as in design by contract, or to some extent Java's interface or Objective-C protocols, etc)
             - Comms in Victor's work hit the "API" directly, allowing for direct remote control. So comms can bypass the controller. In here, comms are not supposed to bypass the controller. Control takes in comms as input to its "decision"/logics. Also Victor's comms are seen as optional, yet missing from the original figure (now added). Indeed we want sometimes for a remote controller (either human or programmed) to assume control, e.g. navigate locally to examine some area, while the main controller goal is still to go to some target).
-    - April 12th — Venkat -- build update. Goal: get ABTF running.
+    - April 12th — Venkat
+        - ABTF build update
+        - Discussion on [[Extended Phenotypes for Rovers]]
     - April 19th -- rhettg (instead of May 10, if not needed)
     - April 26th -- Demo Day scenario and action plan discussion: Rover and VR/AR
     - May 3rd -- Anuraj

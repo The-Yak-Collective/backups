@@ -14,4 +14,7 @@
     -   https://twitter.com/vgr/status/1379233874136297473
     - 
 - Aug 2: Venkat
+- February 8th, 2022 UTC: Venkatesh, [[Three Laws of Roverics]]
+- April 12th — Venkat
+    - [[Extended Phenotypes for Rovers]]
 - 
