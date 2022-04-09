@@ -171,11 +171,23 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
             - "gamification is the high fructose corn syrup of the internet" - the person who wrote this is now raising icelandic horses 
             - LARP is kind of like faking it till you make it but more sincere?
             - hobbesian design vs gaian design of theme parks 
+        - [Hold me, I’m scared: Your guide to navigating the hold system](https://motionographer.com/2019/03/11/hold-me-im-scared-your-guide-to-navigating-the-hold-system/)
+            - serious amount of money has to be involved for something like the hold system to exist
+            - it seems like nobody is happy with this system or knows why it exists - better system does not exist thats why it exists 
+            - Bryan - its a buyers market -  vast amount of talented people 
+            - why would you have someone on staff vs augment with freelancers 
+            - airline pilots have contract
+            - Financial capital is much more concentrated, Talent is a power law, very technical industry 
+            - unions have a huge influence 
+            - start with non union premises and the most advanced technology available - this is kind of what indie movies do? 
+            - DocumentaryDAO - by equipment + use money to buy equipment - lot of money and resources 
+            - distribution - netflix - funding models are different and accept the union structure 
+            - Lot of industries work in a similar way - people who are the top of the power law curve for whatever reason hold the power and the others are going to be the ones exploited in the system.
+            - you could apply it to dating - its not a buyers market  
     - **Queued**
         - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
         - [Spotify: An Emergent Organization](https://www.workfutures.io/p/spotify-an-emergent-organization)
         - [Our Distributed Company is a Garden](https://sanctucompu.substack.com/p/distributed)
-        - [Hold me, I’m scared: Your guide to navigating the hold system](https://motionographer.com/2019/03/11/hold-me-im-scared-your-guide-to-navigating-the-hold-system/)
 - ### Technology
     - __For DAOs specifically, pull more links from here into our list as needed__: [Rafa's General List](https://docs.google.com/document/d/14IANUqTGUW1-P4ungM0tHYz9-PVQvWfFWpGcS7iBKDo/edit)
     - __We have an experimentation track going too__ [[Blockchain Ops Roadmap]]
