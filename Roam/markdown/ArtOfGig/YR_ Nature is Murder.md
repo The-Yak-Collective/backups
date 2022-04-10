@@ -17,4 +17,25 @@
 - February 8th, 2022 UTC: Venkatesh, [[Three Laws of Roverics]]
 - April 12th — Venkat
     - [[Extended Phenotypes for Rovers]]
-- 
+- To do list
+    - System/environment
+        - Try to run test_encoders in bg and test_motors in fg
+            - Didn't work
+        - Make a local copy of rc_template and modify it
+        - Create a github repo and edit on laptop/pull and compile on robot
+    - Hardware testing
+        - Unit tests
+            - Drive motors
+                - Passed basic tests
+            - Encoders
+                - Passed basic tests
+            - Servos
+                - Failed basic tests
+                    - Cannot zero correctly
+                    - Sending position commands causes chatter
+                    - Sending sweep command is unreliable
+                - TO DO
+                    - Try running on battery to test for mains power interference
+                    - Try running only 1 at a time on battery to test for load 
+                    - Mess with other parameters
+            - 
