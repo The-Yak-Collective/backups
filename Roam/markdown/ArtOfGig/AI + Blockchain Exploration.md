@@ -1,0 +1,2 @@
+- April 11th [[Blockchain Ops Roadmap]] roadmap meeting collaborative discovery and mapping exercise.
+- FIRST 15 MINUTES: Google around the topic of "AI + Blockchain" any way you like, and try to **find interesting links, and share them here with brief one-sentence comments**. Next 45 minutes, we do a show-and-tell of the most interesting thing each person found. 
