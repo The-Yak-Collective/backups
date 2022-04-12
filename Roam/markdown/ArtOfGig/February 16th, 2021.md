@@ -1,4 +1,4 @@
-- #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:4 (10 PM Pacific, morning in Europe, afternoon in Japan).
+- #[[2021 meeting notes]] Regular Yak Rover group meeting No:4 (10 PM Pacific, morning in Europe, afternoon in Japan).
     - Reading Prompt -  http://alicesastroinfo.com/2012/07/mars-rover-rocker-bogie-differential/
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FNx25FwzbHE.png?alt=media&token=57173608-aefc-4924-abb6-54861792e42f)
     - Initial Reaction/Discussions

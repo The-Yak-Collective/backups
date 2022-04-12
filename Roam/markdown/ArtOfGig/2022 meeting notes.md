@@ -1,0 +1,392 @@
+- [[2021 meeting notes]]
+- Mercury Cycle (1)
+    - January 11th, 2022 UTC: OS Discussion
+        - Support deck: https://docs.google.com/presentation/d/19Vr84-c3U3cU8eU3K9-kZ099qmRxOVvTR8iisxE1BsQ/edit?usp=sharing
+        - [[BOS Operating system]] page
+        - Attendees:
+            - Anuraj
+            - Brian
+            - Eric
+            - Jascha
+            - Maier
+            - Rhett
+            - Venkat
+        - **Rover** OS
+            - Diversity, low volume for a given "kind" (e.g. rover)
+            - Need the right metaphores
+            - What is a rover? How to qualify?
+                - Last time we talked about it: https://roamresearch.com/#/app/ArtOfGig/page/kZRPqFN4E
+        - Is ROS an OS?
+            - OS often about scheduling and other resource management. ROS has none.
+            - Parallel with Linux distributions
+            - Does it provide the "right" abstraction level?
+            - No default user interface (e.g. shell for Linux, Finder for MacOS)
+            - It did not live up to the label of "OS", based on our reviews
+                - Marginal extras compared to directly using, say, Linux or maker libraries (e.g. Beaglebone's)
+                - Gets in the way
+        - Hello World of an OS
+            - `ls` kind of command, to start feeling the concept (here centered on the file system), see the list of sensors/actuators, etc
+            - Typical sample program on Arduino, etc is the LED blinking---safe and simple.
+            - As an operator, expecting the same basic experience (e.g. shell + `ls` / operating systems navigation commands)
+            - Deploy on N bots should not give very different basic experience
+            - Possible `ls` to detail the orientation from the viewpoint of the rover
+        - Need for an "interface" (also "user interface")
+        - Perspective from Asimov's 3 laws
+            - Protect humans
+            - Protect others from harm
+            - Protect yourself
+        - Nvidia Isaac https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/
+            - Never say OS, but platform
+            - Jetson penetration (see Jascha Feb 1st), Isaac on software
+        - Perhaps a strong approach is "identity system" (self, body boundaries, safety)
+        - Contemporary problems:
+            - Multi-robot / multi-agent systems (air traffic control, fleet monitoring)
+                - Where is the boundary? 1 robot, 1 fleet?
+                - ROS makes communication easy, but nothing on what to do (e.g. protocols)
+                    - Now to get fleet controller, basically need a "server"
+                    - Problem of decentralization
+                - Old problems, but now getting out there
+                - Perhaps time to (re)approach?
+                    - Extensive academic research since the 90s
+                    - Problems of cost: Now cheaper to make actual multi-robots
+            - Decentralization, place of blockchain technologies?
+    - January 18th, 2022 UTC: Maier on extended OS discussion ~~Licensing~~
+        - Continuing discussion on OS after [last week](https://roamresearch.com/#/app/ArtOfGig/page/1Pa3V1k_u).
+        - Licensing will be discussed later in the cycle.
+        - No update on WWG at this point.
+        - Attendees:
+            - Anuraj
+            - Brian
+            - Eric
+            - Maier
+            - Rhett
+            - Venkat
+        - Update on "Mars Garden"
+            - By Mission Control Space Services Inc
+                - A "garden" made and available
+                - Indoor lunar analogue testbed, usable on demand.
+                - Provides map with different conditions (impressive different lightning depending on region)
+            - Canadian Space Agency "Mars yard"
+            - European Rover Challenge
+                - Relatively large area with craters and boulders; reddish soil
+                - Yearly event for participants to try rovers
+        - BOS ideas and discussion points
+            - Discussion on scope
+                - BOS would see Linux same as a BIOS
+                - 
+            - Issue of defining safety (software and physical)
+            - Rover "activities" different from "missions"
+                - "OS scheduling" becomes a different mechanism
+                - Activities map to set of OS processes, but for applications.
+                - BOS processes (provided by the system to applications) are not activities in this terminology
+            - System services
+                - Location, state, etc?
+                - Autonomy as a service???
+                    - Question on "autonomy"
+                    - Discussion on practical subsets, like energy management.
+                - Criteria: Do they affect the state of the rover, or can be isolated?
+            - Parallel with Linux kernel
+                - Kernel provides two categories of operations, user space and system
+                - Activity are affordances provided by actuators
+                - Actuator as potential central part. Or closed-loops?
+            - Metaphors
+                - Butler?
+                - Field agent/spy?
+                - "Economy of activities", like how economies lead some activities to work (e.g. what I do outside the US cannot impact directly the US economy)
+        - Draft on possible boot-up procedure
+            - Text document with list of things to do on booting up
+            - Including security (with blockchain), integrity, safety, services
+            - Autonomic aspects
+            - Note for later -- crash-only systems that only startup once and never shut down except by crashing
+    - January 25th, 2022 5:45 UTC: Anuraj on "Getting Started with Rovers"
+        - how to start robotics with any budget and any skill
+        - not keeping notes of anything in slide set
+        - slides: https://docs.google.com/presentation/d/1YtmmXSZlU4JE1ruOgW-zZdgYQ9E_5K78ShbMAxCR-70/edit#slide=id.g1037a92bb10_0_484
+        - programming language for gazebo - python, c++, can add RPC and use that to set it up as a ROS node
+        - coppelia is short runway and high ceiling
+        - printed robots - esa-  take 3-4 weeks, of which 3-4 are full 24h/day printing. if done only weekends, a few months. expect to make some mistakes so it takes longer
+        - esa robot needs a specific size printer to fit the parts. price for minimal printer is always going down
+        - printing ottodiy takes about 24h printing
+        - @vgr - printing an existing design has lots of overhead - mistakes, fiting together, assembly, fiting in electronics. figure x5 of printing time for assembly and another x10 for software
+        - people can be build esa in 1-2 months because esa spent 2-3 years building it
+        - vgr self build - parts cost about comp $110 electronics $70 wiring $70 battery $10.  so about $200-300. but actually spent $400-500 - due to breaking things.
+        - validated design can save money and time!
+        - @brian simulators - do you need to build your own robot in simulator or do they come ready?
+            - @Anuraj - gazebo - you can import most parts. also you can model only joints and outside shell and overload an image/model on it
+            - coppelia has predefined models. also has its own youtube channel. simulations are crowdsourced too.
+        - @brian - where do you get the electronics for the esa?
+            - esa has a shop on amazon - bought it all there. many parts are unique and specific dimensions- to match the size of build you use.
+                - uses raspberry pi computer
+            - ottodiy has two modes - one where you buy it all and one where you buy only electronics
+        - @rhett - what about build systems, like lego mindstorms - now lego nxt
+        - vgr - we should make a sensor/actuator kit and all other parts would be printed/open source like raspberry pi
+        - brian - https://www.vexrobotics.com/
+        - maier - mindstorms seems uninviting - difficult to make changes
+            - vgr - mechanics closed universe was uninspiring. new things like monster truck parts seems more inviting - you have same scene but more flexibility. though it is merely remote control toys. better inspiration loop because you can build your own, buy more, etc.
+            - lego now has an open build community
+            - one company controlling a  series of kits is dispiriting
+            - fabian  - https://www.youtube.com/watch?v=MwHHErfX9hI - experiments. shows something about challenges for a rover
+        - anuraj - starting? start with ottodiy, programmable in scratch, c++, arudino, etc.
+            - shoudl take 1 month of weekeneds to get it to walk
+            - 3 montsh avoiding thigs - playing with visual blcoks, using example sfrom online
+            - a few months more to add parts or use ottoninja 
+        - maier - can we/should we sell a branded version of otto?
+            - anuraj - start by building a model for importing into simulators
+            - this can be a starter kit.
+        - vgr - we should revisit this subject periodically - it is fast moving space of entry level robotics
+    - February 1st, 2022 UTC: Jascha on "Newbots"
+        - Inflection point
+            - Convergence of factors
+                - Roomba wildly available
+                - Roomba is mainly plastic
+                - Additive manufacturing with Makerbots and RepRap
+                - Better compute
+                - Better batteries
+                - More standard software, notably ROS
+                - Decrease in cost and size: Affordable viable minimal robot
+            - Circa 2006
+            - Example historical inflection point: https://www.sciencedirect.com/science/article/abs/pii/S0167223197000043 (including Venkatesh's birth)
+            - Problem of storage
+            - Enabling technologies
+                - Batteries
+                - Cameras of all kinds
+                - Lot and growing around Jetson
+            - Many now do a robot, as it becomes more viable
+            - Robot "integrators" will come and multiply
+        - How to drill a whole in a metal sheet.
+            - We now often use software components to make it easier
+            - Yes, it is not easy.
+        - 10 years ago, no capital was available for making robot "experiments"
+        - Newbots
+            - Kiva Systems (Amazon Robotics)
+            - Roomba
+                - Plastics make it possible
+                - Does a lot of mediocre tasks, instead of one thing great
+            - Crover grain drone: Grain storage condition monitoring
+            - Ocado 600 series: Online grocery fulfillment
+            - Endiatx pill bot: GI examination / cancer screening
+            - Tevel Harvest Drone Swarm: Fruit harvest  (possible in garage, vs. approaches like the RIP Abundant Robotics)
+            - Bionic Hive SQUID
+            - Pliant Energy Systems C-Ray: Underwater mining
+            - Labrador Systems
+        - Discussion
+            - Recurring problems for NB makers?
+                - Fleet management
+                - DevOps, containers
+                - Traffic control
+            - What about self-driving cars?
+                - They are driving the enabled technologies with their success
+                - Tesla is a robotics company now.
+    - February 8th, 2022 UTC: Venkatesh
+        - Working notes: [[Three Laws of Roverics]]
+    - February 15th, 2022 UTC: Rhett
+        - Acronyms:
+            - SW software
+            - HW hardware
+            - MC microcontroller
+        - Deck: https://drive.google.com/file/d/1gPGRAgjY2MFRSQ_17vuy9uivSlRhT5BM/view?usp=sharing
+        - Exploring build systems, in general, not only traditional `Makefile` like approaches, but also the HW side of "building".
+            - "Build system" is typical of software engineering (process to transform source code into machine code, etc)
+            - Rovers are varied in SW and HW.
+        - "Stubborn Pursuit of a Path" is a build to explore minimalist approach.
+            - Packet radio, custom design
+            - Microcontroller
+            - Raw video data with stream bytes
+        - What's coming
+            - Will move soon to more power (RPi together with MC), to explore more possibilities.
+            - Build own chassis, instead of the base kit used so far.
+        - Inspiration on how to build a chassis
+            - BBC4 show running for 20 years: https://www.granddesigns.tv/
+            - Rhett's own room:
+                - Ply, struts, insulation, plumbing, electricity
+                - All great if following standards (size, placement, etc), with some adaptability.
+                - Changes can be difficult, e.g. when late inspection says no window here.
+            - Lego, but more like Construx (from the 80s)
+        - Build systems
+            - Map
+                - Components
+                - Methods
+                - Vocabulary
+            - Evaluation
+                - Fitness
+                - Adaptability
+                - Efficiency
+                - Cost
+            - Demo with Construx extended with 3D-printed parts to fit motors and shaft, and board support for a Pi.
+            - Systems Engineering perspective
+                - Physical
+                    - Power
+                        - Electronics
+                            - Compute
+                                - Software
+                                    - OS
+                - Questions
+                    - Can we explore what the relationships tell us?
+                    - Does it make sense to make software independent from the HW ?
+        - Discussions
+            - Impact of the target environment on the build system
+            - Tradeoffs
+            - Serviceability as differentiating for, say, cars
+            - Cheap, reusable, scavenge-able rovers
+    - February 22th, 2022 UTC: Eric
+        - Presentation: https://docs.google.com/presentation/d/1yVQn1uFzd296x3KJrmz2NABj2_MDgOk5iNW05JWdZPM/edit#slide=id.g1149f8403b3_0_1
+        - PiTank along with SpiderPi to test software
+        - Robot should be able know from sensor input
+            - Sensor Data -> Conceptualizing -> Evidencing(Tentative Rule) 
+            - When tentative rules become common -> Planning
+        - Inception Demo with PiTank
+            - Called inception inline with movie, because conceptually the process is similar
+        - Comparison to RL and ML
+    - March 1st, 2022 UTC: Sai?
+    - March 8th, 2022 UTC: Brian
+        - Model rocketry: https://docs.google.com/presentation/d/16lQUPcu_2r3BXMnx4Tt6xA8aKtf-_HsboTQ6HYXPHNs/edit?usp=sharing
+        - "To do model rocketry, you need a rocket"
+        - One goal it to go higher.
+        - Tradeoffs
+            - Depending on the form factor
+            - Heavier rockets usually need a lot of thrust at the beginning, etc.
+            - Thrust duration competes with impulse.
+            - Complexity levels, e.g. several engines can require extra work to synchronize.
+        - Associations like NAR and Tripoli
+            - Fun time
+            - Competitions
+            - Community
+        - Certification
+            - Not needed for small rockets (function of impulse and capacity).
+            - Needed for builds qualified as "high power" (3 levels).
+            - Need specific locations depending on power.
+            - Buying high power models requires certification.
+        - Simulation and design software: To help in making custom builds.
+            - Custom builds can be dangerous
+            - Some basic criteria calculated by tools: Center of gravity must be "behind" the center of pressure.
+        - Passive/active control
+            - Active is sometimes forbidden, dangerous, closer to weaponry.
+            - Aim to stabilize
+            - Sometimes to guide too
+        - Serious commitment leads to rocket fuel
+            - Usually simple black powder
+            - More efficient with ammonium perchlorate and hybrid fuel (liquid+solid components)
+        - Interest for rovers
+            - Testing launches for a given weight and form factor? Maybe, but difficult and best delegated. Perhaps still valid just for the very first moments of launch, before entering more heavy-weight testing.
+            - Testing landing looks much more valuable and feasible.
+    - March 15th, 2022 UTC: YE Demo Day with Field Testing
+        - Prompt slides: https://docs.google.com/presentation/d/1LuRh44Cef2ufswupj9kaiGFM0cSagvzKaxoNXz7pPog/edit?usp=sharing
+- Venus Cycle (2)
+    - March 22nd - Link Grooming - Everyone
+        - Surya-280, a solar powered temperature monitor
+            - https://twitter.com/mohitbhoite/status/1493080139386683392?s=21
+            - Looks more artistic than practical, but Maier shared similar working prototypes: https://www.nature.com/articles/s41586-021-04363-9
+            - Electric system also as electronic system
+        - Sea anemone neuron connections
+            - https://twitter.com/lfeldmanbarrett/status/1491798703522287624?s=21
+        - Lego
+            - https://twitter.com/troy_mccann/status/1474861285934174209?s=21
+        - Granulobot
+            - https://twitter.com/b_saintyves/status/1503804859430100995?s=21
+        - Faster Mini Cheetah
+            - https://www.popsci.com/technology/machine-learning-robot-runs-its-fastest/
+            - "robots that could cross any kind of topography were generally sluggish across the board, because they weren’t optimized for speed; their responses were challenging to program."
+            - "researchers’ workaround was to use reinforcement learning"
+            - "the team simulated all the potential scenarios of the real-world in a computer."
+            - "it could modify how it loped in real time to adapt to the conditions of its route"
+            - "Thanks to this machine learning software, Mini Cheetah bumped its peak indoor velocity from 12 feet per second before training to 13 feet per second after. It more or less maintained this speed outdoors when tearing up unfamiliar grounds. It could catch itself when it tripped. Even if it had a broken leg, it could find a way to hobble on at maximum speed.""
+            - "only the hardware is the limit"
+            - https://sites.google.com/view/model-free-speed/
+        - Birdbot
+            - https://robohub.org/birdbot-is-energy-efficient-thanks-to-nature-as-a-model/
+            - Energy efficient movement
+            - No energy stable stances
+            - How to measure minimum energy use?
+                - Some models in Control Theory and others
+                - https://naomi.princeton.edu/wp-content/uploads/sites/744/2021/03/BlChLeMaTAC2001.pdf
+        - World Models
+            - https://worldmodels.github.io/
+        - Ocado warehouse
+            - https://www.youtube.com/watch?v=ssZ_8cqfBlE
+            - How does that work for rovers, in "open" environments?
+            - Centralised control with local multi-agent-system-based communication
+        - Guardbot
+            - guardbot.org
+            - Aesthetic, shape and fit
+        - James Webb telescope selfie
+            - https://www.space.com/james-webb-space-telescope-alignment-photo
+            - How do you get a rover to build a self-image of itself?
+            - Mirror routine dancing in India
+            - Build priors about each other to use them as future references / baselines for diagnosis
+            - Maybe need for both diagnosis from inside and from outside
+                - E.g. wheel rotation/slippage with internal encoding and wheel traces in the sand on Curiosity and co.
+                - Calibration
+                - Self orientation
+                - Alignment internal model and reality, dead reckoning, internal body clock
+        - Dancing competition
+            - https://www.youtube.com/watch?v=pXMnbNoccgA
+            - Place of aesthetics
+            - Example for demo days, etc
+    - March 29th - Straw-man synthesis (architecture) and action items for field testing
+        - Today at the YR meeting, aware of 3 view on collaborating for the end of year demo. 3 "strawmen"
+            - Venkat's inter agent protocol, where agents are rovers, non-roving robots and humans.
+            - Rhett's bottom up proposal to leverage practical technologies, ground for actually completing something by demo day.
+            - The above link, which focuses on software architecture to accommodate a few aspects we have been talking about.
+
+What is surprisingly interesting is the complementary of the views: Inter agent, intra agent, and mapping to real tech.
+        - Venkatesh on "inter agent protocol"
+            - Inspired by the games/missions we have in mind
+            - 3 kinds of agents: Robots, base stations/satellites, humans
+            - The more rovers get intelligent, the more we should be able to trust them on many topics (e.g. comm with Earth)
+            - Some abstraction level: All agents "equals" in terms of protocol.
+            - Need for shared semantics, in the messaging protocol
+            - "Mimetic transmission" in the protocol
+            - Properties
+                - Evolving based on actual collective experience
+                - Autonomy, collective construction and adaptation
+                - Kind of economy of language
+                - Invented language/protocol
+            - Proposal: Suggestion for a simple scenario first
+                - Define a first reduced vocabulary for this year
+                - Basic broadcasting, etc.
+            - Questions:
+                - What is language evolution, in more concrete detail? Semantics and/or grammar? E.g. what concept to learn, which ones are useful? Limited memory, etc.
+                    - "Community of practice" help here.
+                    - Let multiple meaning compete and find the fittest.
+                - What mechanism to make sure concepts are useful and should be kept?
+                - What kind of change can be made to the language to make it useful?
+                - Protocol is about RPC or "goal driven" declarative messages?
+                    - RPC is planning and send commands
+                    - Declarative is set the goal and let the target split into commands by itself
+                    - Maybe need both
+        - Rhett on a bottom-up view of a software stack
+            - https://github.com/The-Yak-Collective/yakrover/pull/3
+            - Capitalise on Viktor's work with VPN for connectivity
+            - Base API for all rovers
+                - Identification
+                - "Command injection" a la NASA
+                - Camera
+                - Metrics
+            - Minimal API could just be identification and CI
+            - Demo idea
+                - 2 rovers come to the same object. They have to agree it is the same object. They have to identify each other. Pick up the object together.
+                - Rover Bingo, or rover high five
+                - Warm/cold guess game
+        - Shortened discussion for time on internal architecture: https://www.figma.com/file/txEcKRHklPWdE0BdkVBGOo/The-Strawman?node-id=0%3A1
+    - April 5th -- Demo Day Tentative Action Plan and Early Collaboration Plan
+        - Materials: https://www.figma.com/file/txEcKRHklPWdE0BdkVBGOo/The-Strawman?node-id=0%3A1
+        - Goals
+            - Identify action items on software collaboration
+            - Short list of scenarios for Demo Day
+        - Questions
+            - Time matters?
+            - Precision hard to guarantee across builds
+            - All depend on the application and architecture
+            - Confusing wording like API, usually understood as "Rest API", but actually meaning the "classical" programming interface (as in design by contract, or to some extent Java's interface or Objective-C protocols, etc)
+            - Comms in Victor's work hit the "API" directly, allowing for direct remote control. So comms can bypass the controller. In here, comms are not supposed to bypass the controller. Control takes in comms as input to its "decision"/logics. Also Victor's comms are seen as optional, yet missing from the original figure (now added). Indeed we want sometimes for a remote controller (either human or programmed) to assume control, e.g. navigate locally to examine some area, while the main controller goal is still to go to some target).
+    - April 12th — Venkat
+        - [Presentation link](https://docs.google.com/presentation/d/1MLA__lipaxRtQ7_dNDAGPYpYpV-4DeK4OqNoAc11dJk/edit?usp=sharing)
+        - ABTF build update
+        - Discussion on [[Read/Write Rovers]]
+    - April 19th -- rhettg (instead of May 10, if not needed)
+    - April 26th -- Demo Day scenario and action plan discussion: Rover and VR/AR
+    - May 3rd -- Anuraj
+    - May 10th -- rhettg
+    - May 17th - Brian
+    - May 24th -- maier
+    - May 31st - Victor Hill

@@ -1,2 +1,128 @@
 - April 11th [[Blockchain Ops Roadmap]] roadmap meeting collaborative discovery and mapping exercise.
 - FIRST 15 MINUTES: Google around the topic of "AI + Blockchain" any way you like, and try to **find interesting links, and share them here with brief one-sentence comments**. Next 45 minutes, we do a show-and-tell of the most interesting thing each person found. 
+- ## Discovery and Search
+- [[Commits Vortex]]
+    - Holly+
+        - https://holly.plus/
+        - https://holly.mirror.xyz/54ds2IiOnvthjGFkokFCoaI4EabytH9xjAYy1irHy94
+            - Convert source audio to ML vocal model 
+            - Outputs governed/canonized by a DAO
+    - Abraham AI
+        - https://abraham.ai/
+            - Decentralized AI artist
+            - Art generator (ML model) is held by a DAO
+            - Model state shared such that "no individual has full knowledge of it", and "requires cooperation of the DAO through a multi-party computation grid"
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fe38lYSRPKd.png?alt=media&token=df150a99-f5b3-457e-82af-3e288aa315ef)
+            - Many more examples in this vein here: https://blog.simondlr.com/posts/decentralized-autonomous-artists 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FtTKlUVICwr.png?alt=media&token=c39424a6-5711-4e44-af97-4ff60889a568)
+    - Color Museum
+        - https://color.museum/choose
+            - GPT-3 used to write descriptions during an NFT minting flow
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FTfQrkdVm6C.gif?alt=media&token=9f45cc97-f663-4ec9-8384-a4231819f66f)
+- [[Venkatesh Rao]]
+    - [Fetch.ai](https://fetch.ai/): An artificial intelligence and machine learning based blockchain platform populated with your digital twins - intelligent digital twins who learn and deliver solutions to make your life easier.
+    - Lol, somebody interviewed GPT3 about blockchain https://medium.com/geekculture/a-conversation-on-blockchain-with-gpt-3-10b99563ca62
+- [[Anuraj R]]
+    - Proof of Learning (PoLe): Empowering neural network training with consensus building on blockchains - https://www.sciencedirect.com/science/article/pii/S1389128621004965
+        - Instead of using PoW use the computation to optimize NNs
+            - "we aim to direct the computation and energy spent on blockchain consensus to the practical function of training NN models "
+    - https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/
+- [Tastier coffee, hurricane prediction and fighting the opioid crisis: 26 ways blockchain & AI make a powerful pair](https://builtin.com/artificial-intelligence/blockchain-ai-examples)
+- [[Nathan Acks]]
+    - [How AI Can Protect the Blockchain](https://hackernoon.com/how-ai-can-protect-the-blockchain) — Mostly a light-on-details sales pitch. The idea seems to be to use ML/AI to tune smart contract parameters in real time to help smooth out the operation of PoS chains and (maybe?) make some attacks more difficult. #[[Nathan Acks]]
+    - [GBC.AI](https://gbc.ai/) — Company mentioned above. Has an “assume a can opener” kind of feel to it. #[[Nathan Acks]]
+    - [A Blockchain and Artificial Intelligence-Based, Patient-Centric Healthcare System for Combating the COVID-19 Pandemic: Opportunities and Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8391524/) — Blockchain + AI in healthcare. Seems to be a survey paper, and might be a good start. That said, whenever someone says the phrase “blockchain protects user privacy”, my bullshit detector goes off. #[[Nathan Acks]]
+    - [Blockchain and Artificial Intelligence](https://arxiv.org/abs/1802.04451) — Another paper, this one focusing on AI-powered blockchain and smart contract design. #[[Nathan Acks]]
+    - [Integration of Artificial Intelligence and BlockChain](https://www.geeksforgeeks.org/integration-of-artificial-intelligence-and-blockchain/) — Another overview. Somewhat general/breathless. #[[Nathan Acks]]
+- [[Vaughn McKenzie-Landell]]
+    - [Awesome Blockchain AI projects on GH](https://github.com/steven2358/awesome-blockchain-ai) - Collection of links to projects applying blockchain and AI across different sectors: Data, Computation, Algorithms, Finance, Supply Chains, Medicine. Finishes with links to research and a list of dead projects 
+- [[Maier Fenster]]
+    - https://www.cisin.com/coffee-break/technology/would-the-crypto-market-be-cracked-with-the-combination-of-ai-blockchain.html
+    - https://intellias.com/five-benefits-of-combining-ai-and-blockchain/
+        - > Untangling the way AI thinks
+Regardless of how great AI is, people won’t use it if they don’t trust it. One of the issues that has put the brakes on broader adoption of AI is the impossibility to explain decisions made by the computer. With the possibility to record the decision-making process, AI can gain public trust much sooner.
+
+By using the blockchain for artificial intelligence, we can make the way computers think more transparent. A distributed ledger can store every decision made by AI, data point by data point, and make them available for analysis. With a blockchain, you can also be sure that the information is tamper-resistant from recording to examination.
+    - https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html
+        - > Other start-ups are using blockchains to open access to the artificial intelligence models themselves. Dr. Goertzel has created SingularityNET, a blockchain that will serve as a link among A.I. services around the world. If one artificial intelligence module is unable to come up with an answer, it can consult with others, and provide compensation if one of the other modules is able to get it right.
+
+“It lets you have a network of A.I.s that nobody owns,” Dr. Goertzel said.
+- [[JennaD]]
+    - Googling gets you what google's algo prioritizes #[[JennaD]]
+        - would be curious to compare eg with DuckDuckGo's results on same terms
+    - Newsletters or twitter lists? #[[JennaD]]
+    - Cf high school science teacher physics text story #[[JennaD]]
+        - Looking for a sense of what's happening versus actually understanding what's happening
+    - `Import AI, a newsletter about artificial intelligence` ...this AI email generally and this issue specifically... #[[JennaD]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FiA0Im83Lo_.png?alt=media&token=ee4c5572-367c-4e4e-8eb4-799126ca2458)
+        - https://mailchi.mp/jack-clark/import-ai-291-google-trains-the-worlds-biggest-language-model-how-robots-can-be-smarter-about-the-world-conjecture-a-new-ai-alignment-company
+        - https://jack-clark.net/
+        - https://twitter.com/jackclarksf
+            - https://twitter.com/jackclarkSF/status/1398304973205630991
+            - https://twitter.com/AnthropicAI/status/1473697046305677317
+            - https://twitter.com/AnthropicAI/status/1494352852734541826
+        - 
+- ## **Open Discussion**
+- Q1: What sense making insights have you come with as we've been talking?
+- Q2: How might this be relevant to anything we might do at Yak Collective?
+- Big Picture Themes: AI is communist and Blockchains are libertarian (Peter Thiel)
+- [[Venkatesh Rao]]
+    - The bot making that Maier is doing is connected to Q2
+- [[Nathan Acks]]
+    - Idea from Commits: Using AI as a generative prompt for ideas. 
+        - Could have something that would mine the proposal log or something before that, and then generating own ideas as a Yak Subconscious for making proposals
+        - AI being used to both dismantle and bolster the blockchain
+        - Microsoft is moving away from source code as being a source of confidentiality
+        - Came up in recent break of Microsoft repos
+            - Now assume that source code is always leaked and that any security measures in the system has to be opened up for scrutiny. 
+    - [[Maier Fenster]]
+        - As a DAO, what is my biggest worry? 
+            - Getting taken over and the money being directed towards some unintended purpose or mission
+            - Can we have an AI complement to measure health and status of a DAO
+    - [[Venkatesh Rao]]
+        - Roles based approach towards organization
+        - Blockchain is amenable to role based access
+        - Conduct parallel surveillance of the community to grant access
+    - [[Maier Fenster]]
+        - Similar to how the body works
+            - Skin / Immune System
+            - Skin is an exterior protection, Immune System as internal protection
+    - [[Nathan Acks]]
+        - This is already in place commonly outside of blockchains
+    - [[Commits Vortex]]
+        - Why surveillance rather than using AI to nudge or incentivize activity?
+    - [[Venkatesh Rao]]
+        - Why not both?
+    - [[JennaD]]
+        - For any bot, set up a batting average aka grade
+        - Don't give full power to until batting 1.000
+    - [[Anuraj R]]
+        - One approach is to stake something such as coins or reputation in Clarity 
+        - Staking around tasks
+    - [[Maier Fenster]]
+        - Let's test the bot on Venkatesh
+    - [[Commits Vortex]]
+        - Using AI to drive our formats and prompts?
+    - [[Sachin Benny]]
+        - Using Sudowrite for something like this.
+        - https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing
+    - [[Nathan Acks]]
+        - Think centaurs not butlers 
+            - https://petafloptimism.com/2016/03/31/centaurs-not-butlers/
+            - Using AI generatively in feedback with humansd
+            - https://petafloptimism.com/2016/03/31/centaurs-not-butlers/
+    - [[Venkatesh Rao]]
+        - Convergence potentials for AI and Blockchain
+        - General Adversarial Rave at the protocol level
+        - Believe that integration level is deep
+        - Software 2.0
+            - Software 1.0 being written by software 2.0
+    - [[Anuraj R]]
+        - What does this mean in terms of security auditing/certification checks?
+    - [[Venkatesh Rao]]
+        - There is always an advantage to taking a risk in an unregulated jurisdiction
+        - Regulatory hacking effect
+    - [[Maier Fenster]]
+        - Reading about engineering failures
+            - In the past, common for physical hardware to fail
+        - We might get used to this again with software 2.0

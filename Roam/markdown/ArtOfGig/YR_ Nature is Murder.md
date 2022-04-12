@@ -14,9 +14,10 @@
     -   https://twitter.com/vgr/status/1379233874136297473
     - 
 - Aug 2: Venkat
+- October 
 - February 8th, 2022 UTC: Venkatesh, [[Three Laws of Roverics]]
 - April 12th — Venkat
-    - [[Extended Phenotypes for Rovers]]
+    - [[Read/Write Rovers]]
 - To do list
     - System/environment
         - Try to run test_encoders in bg and test_motors in fg

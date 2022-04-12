@@ -1,0 +1,6 @@
+- [Presentation](https://docs.google.com/presentation/d/1MLA__lipaxRtQ7_dNDAGPYpYpV-4DeK4OqNoAc11dJk/edit?usp=sharing)
+- Some links
+- Thesis: [Intelligent Deployment Strategies For Passive Underwater Sensor Networks](https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=7501&context=theses)
+- Article: [A battery-free sensor for underwater exploration](https://news.mit.edu/2019/battery-free-sensor-underwater-exploration-0820)
+- Paper: [Autonomous data collection from underwater sensor networks using acoustic communication](https://ieeexplore.ieee.org/document/6094986)
+- Company offering products: [Seabird](https://www.seabird.com/eBooks/AUV-and-ROV-sensors-for-moving-platforms)

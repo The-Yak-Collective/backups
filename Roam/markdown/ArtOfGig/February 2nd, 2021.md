@@ -1,4 +1,4 @@
-- #[[Year 1 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). 
+- #[[2021 meeting notes]] regular yak rover group meeting No:2 (10 PM Pacific, morning in Europe, afternoon in Japan). 
     - Reading Prompt 
         - [[Curiosity Rover]] Virtual Tear Down
             - Power System and MMRTG

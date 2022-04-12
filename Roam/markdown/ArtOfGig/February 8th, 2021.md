@@ -1,4 +1,4 @@
-- #[[Year 1 meeting notes]] Regular Yak Rover group meeting No:3 (10 PM Pacific, morning in Europe, afternoon in Japan).
+- #[[2021 meeting notes]] Regular Yak Rover group meeting No:3 (10 PM Pacific, morning in Europe, afternoon in Japan).
     - Contents & Agenda (planned)
         - Quick overview of PLEXIL https://en.wikipedia.org/wiki/PLEXIL
             - PLEXIL is a framework developed at NASA, used on many missions to define the behaviour of "agents" (rover, satellites, smart habitats).
