@@ -1,0 +1,3 @@
+- Page for the #ai-workshop channel on Discord
+- We read a paper/article or do a small learning task every week
+- 
