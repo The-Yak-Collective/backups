@@ -184,6 +184,90 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
             - distribution - netflix - funding models are different and accept the union structure 
             - Lot of industries work in a similar way - people who are the top of the power law curve for whatever reason hold the power and the others are going to be the ones exploited in the system.
             - you could apply it to dating - its not a buyers market  
+        - Wikipedia Governance
+            - https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles
+            - https://meta.wikimedia.org/wiki/Wikipedia_Governance_(2002_essay)
+            - Grigori
+                - Not really about governance, not much complexity
+                - Governance for Wiki is trivial
+                    - big boss and that’s it
+                - Comparison of stated principles and actual operation
+                - Organizations like Wiki need /listening function/. figure out what’s on the minds of contributors
+                    - Wiki doesn’t seem to have listening function…not a recipe for success…invites trouble.
+            - Matthew
+                - Early wiki had a single wring-able neck.
+                - BDFL is well-established, DAOs are trying to figure out how to do away with the model
+                - The fork-exit seems rhetorical option vs an actual viable one for people who disagree.
+                    - Contributors have skillset to clone an organization
+                - NPOV
+                    - How does NPOV change when something isn’t produced in text-based, async environment
+                    - More real-time environments might not have this
+                - Official vs non-official versions of this
+                    - official version (Wales) vs outsider version (Sanger)
+                        - Sanger paints grimier picture after his tenure.
+            - Sachin
+                - Can wiki survive without Jimmy Wales
+                    - 50-50 whether or not
+                    - seems like he tried to relinquish control before but had to come back
+                - To Grigori’s listening function
+                    - being taken care of by automation
+                        - want to know more how that works
+                - All the problems Wikipedia has
+                    - maybe problems not solved by open-sourced style orgs
+                    - open-source software projects often come out of unprofitable problems that companies can’t solve
+                - Can DAOs change this
+                    - DAOs as money raising functions for orgs like Wiki
+                - To solve Wiki problems, it needs people who are paid to solve the problems
+            - Scott
+                - appreciates the clarity of “this is how it is” vs idealism
+                - Reminded by 2 conversations
+                    - anyone or anywhere work at GitLab…discussion about slack
+                        - slack is like open floor plan of online work
+                    - Functional differences of amazon and google
+            - Vaughn
+                - What was JImmy’s goal w/ the community
+                    - seems to be a meritocracy that focuses on attracting the best people from around the internet
+                        - his points are like a constitution, introducing checks of power
+                    - neutral status prevents fallback into the default modes
+                - Comparison to Bridgewater
+                    - Introduced systems for checking behavior
+            - Venkat
+                - Wikipedia is fundamentally not reproducable
+                    - forking isn’t a real option
+                    - Wiki is one of those things that can only emerge once due to path-dependence
+                    - not as bad as a state saying go found your own state
+                    - hard part is the social engineering
+                    - There are many printed encyclopedias, though
+                    - Twitter might be included in this, but Facebook isn’t
+                        - twitter clones have never worked
+                - Larry Sanger gets one line in the essay, but Sanger’s whole life mission has turned into airing grievances about his early times at wikipedia
+                    - Wales’ version is honest, but sanitized
+                - Very light touch BDFL
+                    - only 500 or so “bureaucrats” actively involved
+                - Interested in reading about the edit wars
+                - Reasonably honest picture of wiki
+                - If you are doing something for the first time, there’s a strong possibility of jackpot for the one who gets it right the first time
+                    - DAO-world…first DAOs to lock it in will win a lot
+                        - Gnosis is example…not much need for several multisig wallet
+            - Bryan
+                - don’t bite the newcomers
+                    - newcomers should be bold
+                    - Integration vs onboarding
+                        - newcomers should jump right in and get integrated into their role ASAP instead of being held in a staging area to be brought up to speed
+                - Strict scrutiny
+                    - narrowly defined policies that solve specific issues
+                    - auto-provision of access and privileges to prevent people from falling through the gaps
+                - Benevolent dictator
+                    - Don’t bother people with unwanted drama.
+                    - You can keep drama public, but you don’t have to broadcast	
+            - Sachin
+                - big companies have culture documents…twitter doesn’t have that?
+                    - twitter history is carousel of leaders
+                    - platform that’s ripe for being hijacked
+                    - does having core culture doc have anything to do with this?	
+                - Venkat
+                    - Roam…even just keeping limited documentation of operations is really hard
+                        - wiki is community document curation moonshot
     - **Queued**
         - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
         - [Spotify: An Emergent Organization](https://www.workfutures.io/p/spotify-an-emergent-organization)

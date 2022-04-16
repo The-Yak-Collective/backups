@@ -764,15 +764,16 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                 - https://mailchi.mp/8276100b43e7/discord-code-blocks-pdf-embed-more-block-types-swap-panes-andsign-in-with-ethereum-15924364
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FmIH3OUWDdv.gif?alt=media&token=9456497b-caa3-4ce6-9454-d2a205675094)
         2. Mar 28: — Discussion of DAO2DAO relations model
+            - https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d
             - [[Jenna Dixon]]
-                - A lot of what was talked about during the last session was the "under story".
-                - What we didn't get to is the "over story"
+                - A lot of what was talked about during the last session was the understory.
+                - What we didn't get to is the overstory
                 - Kafka wasn't a metaphor
                 - It was real, implacable rules
                 - Daniel Swarez's novel Daemon
             - Reading: the 2 part article linked in these notes https://buzzard.life/posts/kristen/dao2dao-research/
             - [[Maier Fenster]]
-                - Share Jenna's worries about boxing ourselves into a beuracrecy
+                - Share Jenna's worries about boxing ourselves into a beauracracy
                 - Included this quote:
                     - > They have “two capacities: the capacity to think, and the capacity to maintain capital, are in theory all that an economic agent needs to survive in the marketplace, provided that its thoughts and capital allow it to create sellable value fast enough to keep up with its own resource demands.
                 - Legibility:
@@ -851,14 +852,17 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                     - This goes back to what Venkatesh was saying about the extremities of the high/low rewards
             - [[Grigori Milov]]
                 - DAO2DAO collaboration requires that DAOs individually have clear definitions and capabilities and incentives
-        3. April 4:   Tiger and Toby from otherinternet will join to talk about their lore project https://otherinter.net/research/lore/
-            - 
+        3. April 4:   Tiger, Libby, and Toby from otherinternet will join to talk about their lore project 
+            - Reading: https://otherinter.net/research/lore/
+            - Libby Mars | https://twitter.com/libby_online
+            - Tiger Dingsun | https://twitter.com/goodgruel
+            - Toby Shorin | https://twitter.com/tobyshorin
         4. April 11: [[AI + Blockchain Exploration]]
         5. April 18: [[Venkatesh Rao]] -- Making/spending money together
         6. April 25: [[Patrick Atwater]] (Chia Proof of Space Time Overview)
-        7. May 2: [[Nathan Acks]] - Blockchain identity solutions
+        7. May 2: 
         8. May 9: [[Commits Vortex]] - Toucan Protocol
-        9. May 16: 
+        9. May 16: [[Nathan Acks]] - Blockchain identity solutions
         10. May 23: 
         11. May 30: 
         12. June 6: [[Nathan Acks]] - [Radicle](https://radicle.xyz/)
