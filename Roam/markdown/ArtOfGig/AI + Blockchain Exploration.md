@@ -20,14 +20,14 @@
             - GPT-3 used to write descriptions during an NFT minting flow
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FTfQrkdVm6C.gif?alt=media&token=9f45cc97-f663-4ec9-8384-a4231819f66f)
 - [[Venkatesh Rao]]
-    - [Fetch.ai](https://fetch.ai/): An artificial intelligence and machine learning based blockchain platform populated with your digital twins - intelligent digital twins who learn and deliver solutions to make your life easier.
+    - [Fetch.ai](https://fetch.ai/): An artificial intelligence and machine learning based blockchain platform populated with your digital twins - intelligent digital twins who learn and deliver solutions to make your life easier. — venkat
     - Lol, somebody interviewed GPT3 about blockchain https://medium.com/geekculture/a-conversation-on-blockchain-with-gpt-3-10b99563ca62
 - [[Anuraj R]]
     - Proof of Learning (PoLe): Empowering neural network training with consensus building on blockchains - https://www.sciencedirect.com/science/article/pii/S1389128621004965
         - Instead of using PoW use the computation to optimize NNs
             - "we aim to direct the computation and energy spent on blockchain consensus to the practical function of training NN models "
     - https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/
-- [Tastier coffee, hurricane prediction and fighting the opioid crisis: 26 ways blockchain & AI make a powerful pair](https://builtin.com/artificial-intelligence/blockchain-ai-examples)
+- [Tastier coffee, hurricane prediction and fighting the opioid crisis: 26 ways blockchain & AI make a powerful pair](https://builtin.com/artificial-intelligence/blockchain-ai-examples) — venkat
 - [[Nathan Acks]]
     - [How AI Can Protect the Blockchain](https://hackernoon.com/how-ai-can-protect-the-blockchain) — Mostly a light-on-details sales pitch. The idea seems to be to use ML/AI to tune smart contract parameters in real time to help smooth out the operation of PoS chains and (maybe?) make some attacks more difficult. #[[Nathan Acks]]
     - [GBC.AI](https://gbc.ai/) — Company mentioned above. Has an “assume a can opener” kind of feel to it. #[[Nathan Acks]]
