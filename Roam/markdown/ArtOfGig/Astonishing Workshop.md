@@ -53,3 +53,6 @@
     - Venkat’s log line/high concept
         - Log line: A guy dealing with a midlife crisis is sucked into a series of increasingly ridiculous and unlikely interstellar adventures that take him further and further away from his life on earth until he gives up trying to make sense of it and decides to just accept it as his new life 
         - High concept: What if the entire hyperspace transportation system of the Galaxy operated on the principle of the Infinite Improbability Drive in HHG?
+    - Sachin's log line/high concept 
+        - Log line: a detective with poor prospective memory in LA deals with the investigation of the murder of a famous Alt Lit writer. He tries to find clues for the writer's murder in all the auto fiction that the writer published but finds out that most of it is unreliable and he struggles to find motivation to find the killer as the cynicism of of the autofiction catches onto him. 
+        - high concept: using the trope of detectives finding clues in letters and books written by the victim except that in this case its is more harmful than helpful
