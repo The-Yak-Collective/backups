@@ -1,3 +1,19 @@
 - Page for the #ai-workshop channel on Discord
-- We read a paper/article or do a small learning task every week
-- 
+- We read a paper/article or do a small learning task every week. New readings and prompts are posted on Tuesdays.
+- April 12, Week 1: [ML Perf paper](https://arxiv.org/pdf/1910.01500.pdf)
+    - Venkat: ML Perf is more like SATs or GRE than like traditional hardware benchmarking, which is more like EEGs or fMRI
+- April 19, Week 2: [Taxonomy of NNs](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+    - Prompt: What would good 2x2 axes for this taxonomy be?
+- April 26, Week 3: Transformers, read at least one of the 3 things below
+    - Good [less-technical explainer](https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication)
+    - Good [more-technical explainer](https://jalammar.github.io/illustrated-transformer/)
+    - The original paper, [Attention is all you need](https://arxiv.org/abs/1706.03762) is really hard...
+- May 3, Week 4
+- Backlog/hopper
+    - Hands on 1
+        - Google Colab
+    - Hands on 2
+        - For technical people: Install PyTorch (Python/Anaconda first if necessary)
+        - For non-technical people: Find and use an AI-based image-manipulation tool
+    - Latent spaces https://www.nature.com/articles/s42256-020-0164-7
+    - Software 2.0 https://www.youtube.com/watch?v=y57wwucbXR8
