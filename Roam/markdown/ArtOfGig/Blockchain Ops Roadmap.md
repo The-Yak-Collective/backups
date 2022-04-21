@@ -858,7 +858,7 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
             - Tiger Dingsun | https://twitter.com/goodgruel
             - Toby Shorin | https://twitter.com/tobyshorin
         4. April 11: [[AI + Blockchain Exploration]]
-        5. April 18: [[Venkatesh Rao]] -- [Gnosis Zodiac](https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg)
+        5. April 18: [[Venkatesh Rao]] -- Exploration of Gnosis Zodiac 
             **Reading**
                 - [Zodiac](https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg) is a “composable design philosophy for DAOs”. There is an associated [Gnosis Safe](https://gnosis-safe.io/) app. Current setup:
                     - Avatars
@@ -874,6 +874,7 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                         - [Delay](https://gnosis.github.io/zodiac/docs/tutorial-modifier-delay/get-started) — Introduce a time-delay between module transaction initiation and avatar action
                     - Guards
                         - [Scope](https://github.com/gnosis/zodiac-guard-scope) — Avatar/Module permissioning
+            Reading: [Zodiac: The expansion pack for DAOs](https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg)
             **Initial Thoughts**
                 - [[Jenna Dixon]] notes that the Gnosis team is small, which is a vulnerability. The conversations around Zodiac seems focused on “exit” right now. There’s also a question of bugs in either Gnosis Safe or the Zodiac modules. The interactions within Zodiac can be quite complicated.
                 - [[Ben Mahala]] isn’t sure of the quality of the oracle or the bridge, and isn’t sure how much to trust these modules right now. The “exit” function is a good idea, but requires that people pay attention (the idea here is that there’s some window around every proposal where people can exit). [[Ben Mahala]]’s just not sure if this is the right set of tools for what the Yak Collective is trying to do.
@@ -882,6 +883,7 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                 - [[Vaughn McKenzie-Landell]] notes that Gnosis just submitted the core modular concept for standardization. [[Vaughn McKenzie-Landell]] also feels that this seems premature — Gnosis is pushing this really fast. Things that might be standardized in a DAO: members, activity, name… Up until now, everything else has been boutique. [[Vaughn McKenzie-Landell]] thinks though that the ideas Gnosis is playing with here are really salient right now, so this might be a good time to submit. Apparently Gnosis is not well-regarded in the larger crypto community, however. There’s an interesting question here of how “complete” DAOs are — and how complete we want them to be?
                 - [[Nathan Acks]] is highly skeptical that __anything__ in the DAO space is going to functionally scale past the Dunbar Number. What may be more likely is that there will be “DAOs of DAOs” to enable larger-scale coordination. In terms of security, [[Nathan Acks]] finds Solidity a really weird language, and doesn’t have a good enough handle on smart contracts in particular or web3 in general to really be able to talk about security here. However, a lot of the issues we’ve been seeing recently seem to essentially be exploits around timing issues or race conditions. It feels like right now the ecosystem really needs a “break glass to halt process” tool in addition to waiting periods. “Exit” functionality provides some of that, but isn’t probably enough in and of itself.
                 - [[Maier Fenster]] wants to be more positive. Is this more “glue”, or more “widgets”? It feels something between a GitHub or editor for DAOs. There’s no management or debugging tools here though. This is important not just for DAO development, but also for user transparency. Perhaps there needs to be a tool to alert people to when they should pay attention. [[Maier Fenster]]’s unclear why Gnosis has opted to use the language of gaming, and feels that this is obscuring some of what’s going on. The components seem solid and important, however.
+            
             **General Discussion**
                 - [[Venkatesh Rao]] wonders if this might be a second experiment we could run. If we were to do an experiment with this ecosystem, what would be the simplest thing we could do?
                 - [[Jenna Dixon]] wonders if we should actually talk to more people in this space, rather than moving towards a more experimental approach.

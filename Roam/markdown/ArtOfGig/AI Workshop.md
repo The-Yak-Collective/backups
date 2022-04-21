@@ -17,3 +17,5 @@
         - For non-technical people: Find and use an AI-based image-manipulation tool
     - Latent spaces https://www.nature.com/articles/s42256-020-0164-7
     - Software 2.0 https://www.youtube.com/watch?v=y57wwucbXR8
+    - Dall-e 2  and PaLM video https://www.youtube.com/watch?v=RJwPN4qNi_Y
+    - TVM https://tvm.apache.org/
