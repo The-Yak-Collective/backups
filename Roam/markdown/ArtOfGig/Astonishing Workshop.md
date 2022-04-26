@@ -56,3 +56,15 @@
     - Sachin's log line/high concept 
         - Log line: a detective with poor prospective memory in LA deals with the investigation of the murder of a famous Alt Lit writer. He tries to find clues for the writer's murder in all the auto fiction that the writer published but finds out that most of it is unreliable and he struggles to find motivation to find the killer as the cynicism of of the autofiction catches onto him. 
         - high concept: using the trope of detectives finding clues in letters and books written by the victim except that in this case its is more harmful than helpful
+    - Week 5: Leitmotifs
+        - Reading: http://woodzie.org/lotr/
+        - prompt: find 2 or more songs (instrumental or lyrical) that could potentially be scores for your answer to one of the previous prompts. If you have not answered any of the previous prompts pick one from the list
+        - Venkat’s attempt
+            - Using my Culture story skeleton
+                - Culture scenes: Bach, A Musical Offering
+                - GCU <True Name>: Dvorak, New World Symphony
+                - Ruskos: 
+                    - Imperial: No music or minimalist, like Philip Glass
+                    - Mimesiyah: Handel, Messiah
+                    - The people: Tchaikovsky, Marche Slav
+                - Ukros: Improv jazz of various sorts

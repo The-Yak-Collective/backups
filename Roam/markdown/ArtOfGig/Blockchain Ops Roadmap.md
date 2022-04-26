@@ -876,7 +876,10 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                         - [Scope](https://github.com/gnosis/zodiac-guard-scope) — Avatar/Module permissioning
             Reading: [Zodiac: The expansion pack for DAOs](https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg)
             **Initial Thoughts**
-                - [[Jenna Dixon]] notes that the Gnosis team is small, which is a vulnerability. The conversations around Zodiac seems focused on “exit” right now. There’s also a question of bugs in either Gnosis Safe or the Zodiac modules. The interactions within Zodiac can be quite complicated.
+                - [[Jenna Dixon]] 
+- the Gnosis team is small, which is a vulnerability. 
+- Gnosis just launched the [Exit](https://gnosis.github.io/zodiac/docs/tutorial-module-exit/get-started) module for Zodiac. 
+- Question of bugs in all web3 software. 
                 - [[Ben Mahala]] isn’t sure of the quality of the oracle or the bridge, and isn’t sure how much to trust these modules right now. The “exit” function is a good idea, but requires that people pay attention (the idea here is that there’s some window around every proposal where people can exit). [[Ben Mahala]]’s just not sure if this is the right set of tools for what the Yak Collective is trying to do.
                 - [[Anuraj R]] thought these tools look interesting, but won’t have an opinion until they start using them.
                 - [[Venkatesh Rao]] sees this as an attempt to try to realize composability. This is probably a utopian reaction against Web 2.0 style intense competition and consolidation. People are also concerned about how open source alternatives have had consistent failure to launch. So, this is an attempt to both enforce a certain amount of cooperation without giving up scalability by backing these principles in very early. [[Venkatesh Rao]] thinks this is a dangerous approach, as we don’t have a good sense of what standards we need right now. [[Venkatesh Rao]] sees this is a possible lower-stakes version of Colony… However, there’s a lot of complexity here, which makes the “activation energy” here perhaps a lot higher. Commitment voting might solve some of the problems with participation/neglect we’ve been wrestling with.
@@ -893,8 +896,8 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                 - [[Maier Fenster]] thinks that there’s a problem here of how destructive bugs can be, and how hard they are to patch rapidly. Blockchain may just not be flexible enough here. How do we add this flexibility?
                 - [[Vaughn McKenzie-Landell]] thinks that individual DAOs are extremely exposed, but the overall ecosystem may be much more resistant. There’s a lot of sharing, a lot of fail-fast here.
                 - [[Nathan Acks]] agrees with [[Vaughn McKenzie-Landell]] about the fragility of individual DAOs but the robustness of the ecosystem as a whole, but thinks that the bad press caused by that individual fragility is probably contributing to the polarization around web3. In general, [[Nathan Acks]]’s concerned about the speed that things like Zodiac are being pushed from a __security__ perspective, and thinks that the web3 space needs a slower, more careful development cadence. W.r.t. the idea of “social computing”, [[Nathan Acks]] wonders if this is actually a “computing” problem rather than an “interface” problem. To a certain extent, DAOs can be thought of as creating social groups of humans __and__ machines. The formalism for computer science came out of mathematics, but it’s not clear where the formalism for “social computing” / human-machine interfaces comes from. From a literary perspective, [[Nathan Acks]] thinks that the original __Ghost in the Shell__ mangas wrestle with some of these concepts.
-        6. April 25: [[Patrick Atwater]] (Chia Proof of Space Time Overview)
-        7. May 2: 
+        6. April 25: All: [[YC as Weird Grad School DAO]]
+        7. May 2: Maier — [[what is mine and what is right?]]
         8. May 9: [[Commits Vortex]] - Toucan Protocol
         9. May 16: [[Nathan Acks]] - Blockchain identity solutions
         10. May 23: 

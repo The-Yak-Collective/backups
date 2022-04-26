@@ -1,0 +1,58 @@
+- Rescue bots academy: https://en.wikipedia.org/wiki/Transformers:_Rescue_Bots_Academy [[Venkatesh Rao]]
+- Unseen university https://en.wikipedia.org/wiki/Unseen_University [[Venkatesh Rao]]
+- the  rather standard one in "doorways in the  sand": https://en.wikipedia.org/wiki/Doorways_in_the_Sand [[Maier Fenster]]
+- a very smart book: "a Young Lady's Illustrated Primer" https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra/dp/0553380966  [[Maier Fenster]]
+- 
+- possible contradiction between "grad school" and blockchain:[[Maier Fenster]]
+    - schoolwork should stay secret
+    - degrees are a certification and they get old fast. so even having them on blockchain is not that useful
+        - think "continuing legal education" (or medical)
+        - i think also should look at  https://glazkov.com/adt-primer/ about adult education
+- 
+- a modern non-school is y-combinator - combining theoretical and practical application. grade is provided by the world. [[Maier Fenster]]
+- https://marvel.fandom.com/wiki/Xavier%27s_School_for_Gifted_Youngsters
+- 
+- 
+- four thieves vinegar: "Hello Friend-
+We are between versions on the MicroLab, and we are hoping to have version 4.0 ready for you soon.  In the mean time, keep checking back, and take care of each other.
+
+	-FTVC"
+- magic correspondence course in "bedknobs and broomsticks". teacher was just ripping pages out of a book. student became a witch...[[Maier Fenster]]
+- 
+- I'm finding I'm interested in models that don't include **faculty** eg Academy of Sciences, Royal Society aka The Royal Society of London for Improving Natural Knowledge #[[JennaD]]
+    - <https://en.wikipedia.org/wiki/Royal_Society>
+    - via <https://en.wikipedia.org/wiki/Stephen_Maturin>
+    - lots of autodicaticism __combined__ with lots of collaborative learning
+    - Societas Eruditorum
+        - https://en.wikipedia.org/wiki/The_Baroque_Cycle
+- https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea also a powerful wizard training school #[[JennaD]]
+- 
+- or just Socrates: walking around town and looking at pretty boys.[[Maier Fenster]]
+- 
+- #[[Rafael Fernandez]]
+    - https://themagicians.fandom.com/wiki/Brakebills_University_for_Magical_Pedagogy
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F4T9j5ElkM-.png?alt=media&token=ab35571a-c034-48db-b7f0-e56fd02f1e42)
+    - https://mazury.xyz/
+- 
+- 
+- --
+- Discussion
+    - Infinite/finite game — open/closed agenda
+    - Vocational vs. elite orientations
+    - Internships
+        - Learning by doing
+        - Learning by happening to be there
+        - E
+    - “Send people to specialized training”
+    - Wild education — where you can die
+        - Safe-fail vs. fail-safe
+- Tooling
+    - Clarity
+    - Colony
+        - Reputation as transcript
+- What’s the point of onchain for education
+    - Maier — Certifications/credits
+    - Meredith — prerequisites
+    - Venkat — NFT “reputation” tokens
+    - Rafa — writer portfolio
+        - Showcase drawn from online record 

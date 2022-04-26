@@ -385,8 +385,71 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
         - Discussion on [[Read/Write Rovers]]
     - April 19th -- rhettg (instead of May 10, if not needed)
     - April 26th -- Demo Day scenario and action plan discussion: Rover and VR/AR
-    - May 3rd -- Anuraj
-    - May 10th -- rhettg
+        - Missions -- puzzle/clue format
+        - Inside facing or outside facing?
+        - Maier: Smaller number of active rovers, but responsive to others
+            - One rover does stuff, offloads tasks to others
+            - Kinda like a distributed rover
+        - Rhett: This sounds far from where we are
+        - Venkat: How does the networking work?
+        - Victor: One network (one VPN)
+            - One ROS node per rover
+            - OpenVPN+ROS PubSub
+        - Assumed rover capabilities
+            - Each rover has a camera
+            - Each rover has a network connection
+            - Each rover can see what others rovers see
+            - Autonomy? (simple search patterns for eg)
+            - Collaboratively operate rovers
+        - Competition or cooperation?
+        - AR/VR -- why?
+            - Relevance -- rovers borrowing skills from others
+            - Rhett -- more useful if the rovers are collocated
+            - Two scenarios
+                - Collocated vs. non-collocated skill sharing
+        - What would be fun for audience?
+            - Each person gets to control multiple rovers
+        - Game found by Anuraj https://store.steampowered.com/app/297920/Space_Colony_Steam_Edition/
+        - What are the technical next steps?
+            - What is the basic data structure of shared global "rover fleet state"?
+        - TO design
+            - Shared map -- rectangles
+                - Overlap
+                - Is the map known or unknown? ("satellite" image or constructed SLAM style)
+                - Is "global" position known on the synthetic map?
+            - Template for game objects
+                - How to put them in consistent shared locations
+            - Shared storage design
+                - What does it look like in a few months? 
+                - Persistence design/architecture
+                - Repository of "world models" shared with everybody
+                    - This is a multiverse that anyone can join
+                        - TBD: better name for it
+                - Imagery, telemetry, logs...
+                - Are we going to synthesize a model?
+            - Shared command interface 
+                - Not the old architecture
+                - Includes a world oracle
+            - Rover level API to accept commands and sending telemetry
+            - Shared minimal command vocabulary
+                - "Go forward" might be 2 feet or 20 feet in different universes
+                - Forward, backward, turn, take photo (send photo to global)
+                - Swarm commands: "* turn right"
+                - Maybe leave the command language to local discretion
+            - Magical multiverse
+                - All look for a magic object int he overlap zone
+            - Security -- can't cheat
+                - Computer designates which objects "work"
+        - To discuss next time?
+            - What the interface looks like
+            - What the model repo looks like
+            - Shared rover SDK/library that all rovers run
+                - Language
+                - Environment requirements
+                - What the protocol/API look like
+                - GOAL: something other people can donwload and run and connect to our repository of worlds...
+    - May 3rd -- maier -- IP of what we generate etc
+    - May 10th -- Anuraj
     - May 17th - Brian
-    - May 24th -- maier
+    - May 24th -- OPEN...
     - May 31st - Victor Hill
