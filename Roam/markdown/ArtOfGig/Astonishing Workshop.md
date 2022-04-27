@@ -68,3 +68,11 @@
                     - Mimesiyah: Handel, Messiah
                     - The people: Tchaikovsky, Marche Slav
                 - Ukros: Improv jazz of various sorts
+        - Sachin's response
+            - using a short story that I've written 20K words for 
+            - high concept: 80s style kids adventure (like ET, Stranger Things) but with the kids going on an adventure in space 
+            - logline: a 14 year goes through his first heartbreak and decides to distract himself from it by building a rover that takes him to space with the help of an old man who calls himself "the last yak". The kid lives in a time where space exploration is looked down upon by everyone in his community
+            - music - https://open.spotify.com/playlist/35TdF5fXshDxmzLVHNK7pm?si=5ebe716e4c134d95
+            - Johan Johansson - space scenes,exploring scenes 
+            - dream pop, french pop - falling in love, heartbreak 
+            - Alessandro Cortini - building the rover 

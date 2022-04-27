@@ -4,7 +4,7 @@
     - https://medium.com/@anthonyleezhang/blockchain-and-the-monopoly-on-violence-10933d7ead36
 - https://www.theblockcrypto.com/post/138410/someone-borrowed-5-bored-apes-to-claim-1-1-million-of-ape-tokens
 - https://www.theverge.com/2022/4/18/23030754/beanstalk-cryptocurrency-hack-182-million-dao-voting
-- https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/
+- less relevant: https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/
 - from noble house re the tai-pan:
     - 'First: There shall be only one tai-pan at one time and he hath total, absolute authority over the Company, power to employ or remove from employment all others, authority over all our captains and our ships and companies wherever they may be. The tai-pan is always alone, that being the joy and the hurt of it. His privacy must be guarded by all and his back protected by all. Whatsoever he orders, it shall be obeyed, and no committees or courts or inner circles shall ever be formed or allowed in the Company to curb this absolute power.
 - and
