@@ -1,8 +1,10 @@
+- 
+- ** Initial Discussion**
 - Rescue bots academy: https://en.wikipedia.org/wiki/Transformers:_Rescue_Bots_Academy [[Venkatesh Rao]]
 - Unseen university https://en.wikipedia.org/wiki/Unseen_University [[Venkatesh Rao]]
 - the  rather standard one in "doorways in the  sand": https://en.wikipedia.org/wiki/Doorways_in_the_Sand [[Maier Fenster]]
 - a very smart book: "a Young Lady's Illustrated Primer" https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra/dp/0553380966  [[Maier Fenster]]
-- 
+    - PA +1 on that being a good book. 
 - possible contradiction between "grad school" and blockchain:[[Maier Fenster]]
     - schoolwork should stay secret
     - degrees are a certification and they get old fast. so even having them on blockchain is not that useful
@@ -10,8 +12,15 @@
         - i think also should look at  https://glazkov.com/adt-primer/ about adult education
 - 
 - a modern non-school is y-combinator - combining theoretical and practical application. grade is provided by the world. [[Maier Fenster]]
+    - PA I think that explicitly riffing off YC might not be a bad thing. I was paintballing with a bunch of recent YC founders Sunday and it was kinda amazing how commoditity they've become. There was also a BAR discussion on FB about how the Y Combinator ambition to have 10% of the world's startups go through there has led to it being watered down a bit
+    - There's also a very 
+    - I definitely think that having a mix of theoretical and practical application is spot on 
 - https://marvel.fandom.com/wiki/Xavier%27s_School_for_Gifted_Youngsters
-- 
+- ** additional schools from PA**
+    - Sophists from ancient greece which were the old enemy of the dreadful platonists which took over philosophy as part of the post-roman empire Christian 
+    - Vienna circle
+    - Gymnosophists -- see the Myths that Mystify Ted Talk
+    - There's also the OG Enlightenment era republic of letters. See folks like Humboldt. 
 - 
 - four thieves vinegar: "Hello Friend-
 We are between versions on the MicroLab, and we are hoping to have version 4.0 ready for you soon.  In the mean time, keep checking back, and take care of each other.
