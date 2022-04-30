@@ -323,6 +323,86 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
                 - Reference to Bruo Latour - http://www.bruno-latour.fr/sites/default/files/89-CRITICAL-INQUIRY-GB.pdf
                 - some problems are tractable, others are not
                 - leaders make tractable problems more visible in some way. Second foundtation type deal
+        - [Welcome, ghosts by Simon Sarris](https://simonsarris.substack.com/p/welcome-ghosts)
+            - Sachin
+                - “will post my comments since I likely won’t stay on for the call. I find such trad takes personally amusing since I grew up in a town that was full of small shops and stores that rapidly urbanized and gave way to fancier stores/restaurants, and everyone was really excited about it. I think that’s the primary difference I’ve noticed between the west and the developing world. Growing up in India, you had fewer resources and money but the tempo/mood of the narrative was clearly upward , you could see things changing around you and people were mostly excited for it. While after I moved to the US, I’ve access to more resources and money but it feels like I came in at the end of something and people are nostalgic for something”
+            - Grigori
+                - Businesses need to survive
+                - Only after it survives can you talk about governance and organization
+                - Ownership and decision making(?)
+                    - private biz private owners make the decisions
+                    - big orgs it is distributed
+                    - when you invest in something, you don’t make the decisions
+                - Tradeoffs
+                    - people are focused on ownership over decision making
+            - Matthew
+                - Lamenting vibe
+                    - Everything seems like its on a downward spiral
+                - Unknown-knowns
+                    - the future is already here, just on an unevenly distributed vibe
+                        - people know about DAOs but they haven’t permeated
+                    - modes of organization will remain unindexed and inaccessible beyond a case study
+                - Unknown-unknowns
+                    - ways of organizing we don’t even know about
+                - Removing the informalities
+                    - they don’t get destroyed, they just get shifted elsewhere
+                    - cannot really suppress them, the underground will always exist
+                - Work being out of view
+                    - almost at the beginning of the end of the impact of the Internet revolution
+                    - the primary way we interact w/ computers is a mouse, but the possibility of interaction is near infinite
+            - Syntonikka
+                - Enjoyed poetic language
+                - Touched on subject DAOs have been thinking about
+                    - society once knew how to self-organize, but is now overinstitutionalized
+                - permits emerged for safety
+                - Earthship(?)
+                    - guy spent years fighting jurisdiction to build the experimental building he wanted to build
+                - Permits limit innovation
+                - DAOs trying to create legal frameworks for strangers
+            - Venkatesh
+                - Org theory tradition that studies the effect of environment on org structure
+                    - org structure is path dependent
+                    - (added book to reading list, I missed the title)
+                    - Literature is written with a “history can be forgotten” attitude
+                    - Ideas are ahistorical
+                - Bistro example
+                    - reminds him of Vaughan Tan research
+                        - Tokyo restaurant/small biz culture
+                        - Hypothesis: Tokyo is known worldwide for being open to quick reshaping of environment
+                            - Heart of Europe is opposite bc of tradition
+                            - US is opposite bc of regulation
+                        - Are there types of activities that lead to innovation?
+                            - Street food culture
+                                - it’s mostly uninnovative…vendors copy and there’s nothing new for decades
+                            - new things have high failure rate
+                                - this holds people back
+                        - Are there areas in the world good at this?
+                - The internet as museum
+                    - humans live short time
+                    - living memory is short
+                    - small scale things get forgotten quickly
+                    - important to preserve informal memories
+                - Sarris has balance of restorative nostalgia and reflective nostalgia
+                - Venkat skeptical of people who are poetically nostalgic. “Soft demagoguery”	
+            - Meredith
+                - Ossification w/ blockchain
+                - hard to make software that is flexible…may become even harder
+            - 2nd round
+                - Venkat
+                    - Idea mazes
+                    - Can we do idea mazes in the regular world?
+                    - What’s the idea maze of New York street food?
+                        - to do it, you’d need to 	know the history of NY street food
+                - Meredith
+                    - idea mazes aren’t something people actively do…seems like people just absorb them
+                - Venkat
+                    - half dozen founders that are idea mazes
+                    - Conor from Roam did this
+                    - if you don’t absorb idea maze, chances of success are low
+                - Matt
+                    - “On idea mazes: there’s like a barren middle ground? You either know the space (in the present and historically) organically, or you’ve got no effing clue and project such a strong reality distortion field that unknowledge doesn’t matter. The middle ground (e.g. someone mechanically identifying an opportunity and trying to go to market)”
+                - Bryan
+                    - Lore and idea maze are connected
     - **Queued**
         - [Every Design Studio Should Be a Worker-Owned Studio](https://eyeondesign.aiga.org/every-design-studio-should-be-a-worker-owned-studio/)
         - [Unrepresentative Claims: Speaking for Oneself in a Social Movement](https://www.cambridge.org/core/journals/american-political-science-review/article/unrepresentative-claims-speaking-for-oneself-in-a-social-movement/E045E3270DB08B76F09048DE99C06B7B)
