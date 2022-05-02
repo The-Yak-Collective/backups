@@ -1,9 +1,7 @@
-- Paycheck type currently working in the non-profit space. Planning to make a two-stage jump to independence (industry for a few years, then full indy).
-    - For the last 6 years I've led the IT & Security team at my organization. Prior to that I managed IT side of a digital organizing program. Prior to that was grad school. 🤓
-    - Currently looking to hop career paths into the wild world of cybersecurity. Referrals for junior penetration tester or incident response roles appreciated!
+- I currently work for a cybersecurity consulting firm. Before that I did various IT and cybersecurity obs for a network of US nonprofits. Prior to that was grad school. 🤓
 - Long-time follower of [Ribbonfarm](https://www.ribbonfarm.com/), which is how I discovered [[Breaking Smart]] and [[Art of Gig]].
 - M.S. in Applied Mathematics specializing in [Operations Research](https://en.wikipedia.org/wiki/Operations_research).
-- Currently on an intensive course of self-study to bring myself up to speed with the tools and techniques needed to jump into a career in penetration testing, incident response, or really any hands-on cybersecurity role.
+    - Currently on an intensive course of self-study to bring myself up to speed with the tools and techniques needed to jump into a career in penetration testing, incident response, or really any hands-on cybersecurity role.
 - Twitter:: [@necopinus](https://twitter.com/necopinus)
 - Websites::
     - [Cardboard Iguana Security](https://cardboard-iguana.com) (personal hacking wiki + blog chronicling my cybersecurity journey)
