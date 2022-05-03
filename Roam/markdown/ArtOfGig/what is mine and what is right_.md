@@ -1,17 +1,20 @@
-- https://every.to/p/what-does-it-mean-to-own-crypto
-- https://twitter.com/anthonyleezhang/status/1505564537034100738?s=21
-    - also as: 
-    - https://medium.com/@anthonyleezhang/blockchain-and-the-monopoly-on-violence-10933d7ead36
-- https://www.theblockcrypto.com/post/138410/someone-borrowed-5-bored-apes-to-claim-1-1-million-of-ape-tokens
-- https://www.theverge.com/2022/4/18/23030754/beanstalk-cryptocurrency-hack-182-million-dao-voting
-- less relevant: https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/
-- from noble house re the tai-pan:
-    - 'First: There shall be only one tai-pan at one time and he hath total, absolute authority over the Company, power to employ or remove from employment all others, authority over all our captains and our ships and companies wherever they may be. The tai-pan is always alone, that being the joy and the hurt of it. His privacy must be guarded by all and his back protected by all. Whatsoever he orders, it shall be obeyed, and no committees or courts or inner circles shall ever be formed or allowed in the Company to curb this absolute power.
-- and
-    - "Of course. But Struan's is very different from us. We own things and companies—they're percentagers. They've little more than a 5 percent holding in most of their subsidiaries yet they still exercise absolute control by special voting shares, or by making it mandatory in the Articles of Association that their tai-pan's also tai-pan of the subsidiary with overriding say."
-- and
+- this one is **reading material**
+    - https://every.to/p/what-does-it-mean-to-own-crypto
+    - [twitter chain](https://twitter.com/anthonyleezhang/status/1505564537034100738?s=21)
+    - also provided as: 
+        - https://medium.com/@anthonyleezhang/blockchain-and-the-monopoly-on-violence-10933d7ead36
+- some **background stories**
+    - https://www.theblockcrypto.com/post/138410/someone-borrowed-5-bored-apes-to-claim-1-1-million-of-ape-tokens
+    - https://www.theverge.com/2022/4/18/23030754/beanstalk-cryptocurrency-hack-182-million-dao-voting
+- no need to read - less relevant: https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/
+- **example of not-quite-ownership**:
+    - from the book "noble house" re the tai-pan:
+        - First: There shall be only one tai-pan at one time and he hath total, absolute authority over the Company, power to employ or remove from employment all others, authority over all our captains and our ships and companies wherever they may be. The tai-pan is always alone, that being the joy and the hurt of it. His privacy must be guarded by all and his back protected by all. Whatsoever he orders, it shall be obeyed, and no committees or courts or inner circles shall ever be formed or allowed in the Company to curb this absolute power.
+    - and
+        - "Of course. But Struan's is very different from us. We own things and companies—they're percentagers. They've little more than a 5 percent holding in most of their subsidiaries yet they **still exercise absolute control by special voting shares**, or by making it mandatory in the Articles of Association that their tai-pan's also tai-pan of the subsidiary with overriding say."
+- **example of something really not quite owned**
     - item 9: https://kermankohli.substack.com/p/last-week-part-1-bean-exploited-private?s=r 
-        - Another highly recommended read from this week. The following outlines the initiatives of the Etheruem Foundation, their spend, treasury and what they’re focusing in on. A report like this has never really been released by the foundation so it was great reading it as an outsider. One thing that caught my interest was that they have $300m of non-crypto assets. I was wondering what those assets are and in what legal entity they’re housed in and who controls that. Questions for another day I guess.
+        - Another highly recommended read from this week. The following outlines the initiatives of the Etheruem Foundation, their spend, treasury and what they’re focusing in on. A report like this has never really been released by the foundation so it was great reading it as an outsider. One thing that caught my interest was that** they have $300m of non-crypto assets**. I was wondering what those assets are and in what legal entity they’re housed in and who controls that. Questions for another day I guess.
         - ![Twitter avatar for @ethereum](./images/aHR0cHM6Ly9jZG4uc3Vic3RhY2suY29tL2ltYWdlL3R3aXR0ZXJfbmFtZS93XzM2L2V0aGVyZXVtLmpwZw==)[**Ethereum **@ethereumToday we’re publishing the EF report!
  
 This is a new way to communicate our core values, explain what makes the EF unique, and share information about all of the ways that EF teams contribute to our vision of Ethereum as an Infinite Garden.
@@ -22,3 +25,38 @@ Read it here: ](https://twitter.com/kermankohli/status/1515950624592080900)[ethe
 - prompts:
     - what does ownership mean?
     - do you own your friends?
+    - what is partial control?
+- comments:
+- [[Sachin Benny]] the core idea of ownership seems to get abstracted and becomes less of a  question, when you have metamask and other wallets.
+- how the eth fork happened is interesting to read. maybe it is a feature of early phase of technology.
+- reminds of boomtime - the ownership of a big part of Oklahoma was decided by a mad land rush starting at the border at 12:00
+- [[Venkatesh Rao]] question - what parts of this have technologies in traditional finance distorted (many analogies exist) and what parts are actually new. for example, flash loans are known in standard finance. but cyber pushes it to the extreme - 13 seconds for a 1B$ loan. like traveling at the speed of light. so cost of capital and interest capital velocity are pushed to extreme speed - compare to 1 day in current finance.  
+- interesting disagreement: was it a contract exploit or was it in some fundamental sense a crime? if code is law, then procedural literalism rules. it assumes code/law is complete... depending onw hat you believe there are many positions you can take about border between law and discretion. traditional law - law is in center and discretion is at the edges. but in smart contracts?
+- it is convenient to pretend one believes code is law, even if belief is not complete. (ignoring it is incomplete, buggy, etc.)
+- new law comes from hacked contracts
+- some of the activities we see on blockchain (like eth fork) are like a constitutional convention
+- question - are there qualitative differences between new and old?
+- [[Anuraj R]] one assumes the code has no bugs (https://blog.regehr.org/archives/820). but what about the hardware? code is law doe snot really work in the real world. so you need to trust the blockchain itself - so whatever you own, stays in your hand. if there are no courts (no means of enforcement), you have a problem.
+- https://www.sigarch.org/speculating-about-speculation-on-the-lack-of-security-guarantees-of-spectre-v1-mitigations/
+- [[Ben Mahala]] misunderstanding about doa contract. https://ethereum.stackexchange.com/questions/7832/give-a-summary-of-the-fork-state-changes-in-block-1920000 **nothing was rolled back**. a simple transfer was made, using some type of refund contract.
+- if a thief steals using code, is that a theft? well, if you use these words, that is an admission.
+- the open letter about the hack is a joke. usually it is cut and dry that "clearly this is not what was supposed to happen"
+- in real world, possession is an important part of ownership. in crypto - all power (ownership abilities) is in action, not in possession.
+- some article by david graber (?) about a commune - they needed a car. could get together the money, but they had to choose a person to be on the deed. some legal structure was required. there is no other way to encode that legally. but in virtual worlds, you can have that. consider an NFT being a token that allows access to a  shared item.
+- [[Commits Vortex]] what is interesting in context of ownership is the concept of stewardship - well defined in assets management. the asset manager have ownership on behalf of another. a kind of ownership w/o ownership.
+-  (based on paper by aaron) identity and NFTs and teh ongoing question of decentralized identifier and NFT or non-transferable NFT - which is a preferable model for conferring identity in a decentralized web. one argument. non transferable NFTs are publicly visible on blockchain and make keyswapping and security management difficult (can be spammed, air dropped, etc.). so one partial solution is creating zero-knowledge proofs of non transferable NFTs, but this opens up the option of transferring such NFTs, or at least some of their abilities - delegating stewardship, but perhaps more. that is an interesting design space to think through.
+- interesting in seeing if anybody develops ways of bypassing token gated assets w/o owning the token.
+- meta governance and protocols that allow people to exert influence over governance decisions by loaning out divergence tokens. the design space of governance should be explored.
+- [[Grigori Milov]] ownership usually means you bear costs - verify it, protect it. benefits - if you have the only copy of mona lisa, you are able to exploit all sorts of existing patterns - for example, people did and will continue enjoy mona lisa. so cost-benifit analysis.
+- [[Jenna Dixon]] governance attacks - stealing my vote vs stealing my NFT. so now asset monitoring tools are gaining traction.
+- ownership - duty of care. yes, there is a cost. do you own the object or does the object own you. so best not to own bad items.
+- zero day exploits are scary in a whole new way, due to chain irrevocability.
+- people do not want to publish risk score - is there any way to help people expose risks?
+- can we solve things now __enough__ to keep terrible things form happening? 
+- curious to see if it gets to cab drivers giving advice (actually started from there)
+- [[Maier Fenster]] seems like the real power of crypto is not in owning it but in knowing how to leverage it. so not "what assets do i have", but rather "what do I know how to do with the assets this is true about money as well, but for crypto, there need be no intermediate ". so, in fact, you do not need to possess or own the token, just be able to use it. maybe this should extend to real world 
+- [[Venkatesh Rao]] animals that eat rotting food think about their friend's stomach as a storage depot. give now (what you cannot consume), get back next time. maybe use tit-for-tat
+- blockchain gives  a consensus about value. if everybody leaves a coin, so does its value. it is all depdnent on social reality.
+- so blockchain IS the reality that goes away when you stop believing in it. (except for unlocking)
+- [[Ben Mahala]] on eth you can get tokens w/o the recipient knowing about it, in fact, neither does eth. it would be better if one needed to take an action to accept. eth probably allows you to build contracts that say "you own a token but cannot use or transfer"
+- tokens not first class abstractions on eth

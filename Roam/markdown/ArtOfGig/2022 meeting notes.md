@@ -448,7 +448,7 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
                 - Environment requirements
                 - What the protocol/API look like
                 - GOAL: something other people can donwload and run and connect to our repository of worlds...
-    - May 3rd -- maier -- IP of what we generate etc
+    - May 3rd -- maier -- [[IP Considerations for Transparent Rover]]
     - May 10th -- Anuraj
     - May 17th - Brian
     - May 24th -- OPEN...
