@@ -19,3 +19,5 @@
     - Software 2.0 https://www.youtube.com/watch?v=y57wwucbXR8
     - Dall-e 2  and PaLM video https://www.youtube.com/watch?v=RJwPN4qNi_Y
     - TVM https://tvm.apache.org/
+    - Response:
+        - I was most impressed by the mapping of position to the sinusoidal space - and meditated on mapping (visual ml is as move from high dimension/image to low dimension/numbers, but this example is a move from low dimension to high dimension, position and layer ) https://medium.com/@hackerm0m/ursula-le-guin-and-machine-learning-303e4e327b73

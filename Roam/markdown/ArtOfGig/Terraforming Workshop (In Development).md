@@ -1,0 +1,19 @@
+- Page for the #terraforming-workshop channel proposal on Discord
+- We read a paper/article or do a small learning task every week. New readings and prompts are posted on DAY.
+- Readings
+    - Week zero -- background / context
+        - The First Terraforming https://studio.ribbonfarm.com/p/the-first-terraforming?s=r 
+        - Why Solving Climate Change Will Be Like Mobilizing for War https://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/ 
+    - Week one
+        - Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf 
+    - Week two
+        - Mission Possible: Reaching net-zero carbon emissions from harder-to-abate sectors https://www.energy-transitions.org/publications/mission-possible/#download-form 
+- 
+- 
+- Potential future readings
+    - https://www.energy-transitions.org/publications/mind-the-gap-cdr/
+    - also see the rocky mountain institute
+    - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r 
+    - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66
+    - see the slides here: https://energy.ucdavis.edu/uc-davis-industrial-decarbonization-symposium-2022/ 
+        - maybe ask what resonates, what's missing
