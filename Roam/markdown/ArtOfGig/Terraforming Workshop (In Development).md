@@ -17,3 +17,7 @@
     - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66
     - see the slides here: https://energy.ucdavis.edu/uc-davis-industrial-decarbonization-symposium-2022/ 
         - maybe ask what resonates, what's missing
+    - Climate resources mentioned in state water plan update
+        - Arkstorm 2.0
+        - Cal adapt https://cal-adapt.org/
+        - Little Hoover Report: https://lhc.ca.gov/sites/lhc.ca.gov/files/Reports/221/Report221.pdf 
