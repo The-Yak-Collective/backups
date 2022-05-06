@@ -8,8 +8,9 @@
     - Good [less-technical explainer](https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication)
     - Good [more-technical explainer](https://jalammar.github.io/illustrated-transformer/)
     - The original paper, [Attention is all you need](https://arxiv.org/abs/1706.03762) is really hard...
-- May 3, Week 4
+- May 3, Week 4: Try out this [Browser-based tensorflow](https://playground.tensorflow.org/) for 15 minutes and share a screenshot
 - Backlog/hopper
+    - https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/
     - Hands on 1
         - Google Colab
     - Hands on 2
@@ -20,4 +21,4 @@
     - Dall-e 2  and PaLM video https://www.youtube.com/watch?v=RJwPN4qNi_Y
     - TVM https://tvm.apache.org/
     - Response:
-        - I was most impressed by the mapping of position to the sinusoidal space - and meditated on mapping (visual ml is as move from high dimension/image to low dimension/numbers, but this example is a move from low dimension to high dimension, position and layer ) https://medium.com/@hackerm0m/ursula-le-guin-and-machine-learning-303e4e327b73
+- I was most impressed by the mapping of position to the sinusoidal space - and meditated on mapping (visual ml is as move from high dimension/image to low dimension/numbers, but this example is a move from low dimension to high dimension, position and layer ) https://medium.com/@hackerm0m/ursula-le-guin-and-machine-learning-303e4e327b73

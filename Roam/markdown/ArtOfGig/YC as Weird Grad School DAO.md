@@ -11,6 +11,9 @@
     - degrees are a certification and they get old fast. so even having them on blockchain is not that useful
         - think "continuing legal education" (or medical)
         - i think also should look at  https://glazkov.com/adt-primer/ about adult education
+        - Perhaps microcredentials? (verifying that authenticated educational institution A certifies that individual B completed a specific chunk of learning/work C with attributes/description D) that work across institutions. In theory, this lets students assemble a body of study/work into collections that might represent a certificate or degree or professional continuing education etc. Persisting in a useful way even after the school disappears. Disclosed as permitted by the student. Some universities are working on this using DIDs and Verifiable Credentials (decentralized identity tech) and blockchain for storage. [[Phil Wolff]]
+            - https://www.collegesinstitutes.ca/policyfocus/micro-credentials/
+            - https://www.nea.org/professional-excellence/professional-learning/micro-credentials 
 - 
 - a modern non-school is y-combinator - combining theoretical and practical application. grade is provided by the world. [[Maier Fenster]]
     - PA I think that explicitly riffing off YC might not be a bad thing. I was paintballing with a bunch of recent YC founders Sunday and it was kinda amazing how commoditity they've become. There was also a BAR discussion on FB about how the Y Combinator ambition to have 10% of the world's startups go through there has led to it being watered down a bit
