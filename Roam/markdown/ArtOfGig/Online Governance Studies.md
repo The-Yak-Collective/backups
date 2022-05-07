@@ -268,6 +268,31 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
                 - Venkat
                     - Roam…even just keeping limited documentation of operations is really hard
                         - wiki is community document curation moonshot
+        - [Six years at Github](http://sophieshepherd.com/six-years/). Prompt: what are 1-2 things you have learnt from YC in the last two years?
+            - Bryan
+                - realizing what is a good idea to change and what are things that cannot be changed is a big part of governance 
+                - yak collective - comfortable with everything being illegible, takes work to make it legible and there is no reward to making it legible 
+                - energy levels of different projects - impressive that we meet every friday. got over the hurdle of having something worth spending time on. On the flip side, having the energy to get the paper done which is a high energy mode is harder. 
+                - yak collective has a hobbyist approach that is different from amateur or pro
+            - Matthew
+                - leaving an artefact/time capsule of your experience 
+                - putting pull requests on everything is interesting.
+                - Having incentives aligned is needed for something like an "open" approach work
+                - tension in the article between doing something vs realizing what is uncontrollable. how big of factor this is is unclear 
+                - yak collective: reinforced the idea that non essential things are fun too. 
+            - Venkat 
+                - this one is written by a low agency rank and file person, who are not as constrained. First instinct was to be slightly bored by it. 
+                - never hear this perspective anymore. 
+                - For most people most of the things are unchangeable in the world, they see the universe as a spectator sport 
+                - 2X2. agency vs constraint. 
+                - whats unique about github - the pull request 
+                - YC - there is literally no way to make somebody do something 
+                - YC is high agency low constrain environment for people who have low to medium level constraints. high agency high constraint - constraints are clear
+            - Grigori
+                - all the titles are cliches
+                - interesting question - what was the process of arriving at this cliche. fitting the narrative to cliche.
+                - analyzed whats going on and arrived at cliches? 
+                - we have to be careful with what we can learn from our experience, so that we dont arrive at the cliches. We should not fit the narrative of the cliche. 
     - **Queued**
         - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
         - [Spotify: An Emergent Organization](https://www.workfutures.io/p/spotify-an-emergent-organization)
