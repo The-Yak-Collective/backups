@@ -407,6 +407,7 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
                     - living memory is short
                     - small scale things get forgotten quickly
                     - important to preserve informal memories
+                    - the internet expires content. domains expire. dead people and organizations stop paying to keep artifacts alive. curators reframe and rewrite history. 
                 - Sarris has balance of restorative nostalgia and reflective nostalgia
                 - Venkat skeptical of people who are poetically nostalgic. “Soft demagoguery”	
             - Meredith
