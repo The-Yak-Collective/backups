@@ -897,7 +897,7 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
                 - [[Nathan Acks]] agrees with [[Vaughn McKenzie-Landell]] about the fragility of individual DAOs but the robustness of the ecosystem as a whole, but thinks that the bad press caused by that individual fragility is probably contributing to the polarization around web3. In general, [[Nathan Acks]]’s concerned about the speed that things like Zodiac are being pushed from a __security__ perspective, and thinks that the web3 space needs a slower, more careful development cadence. W.r.t. the idea of “social computing”, [[Nathan Acks]] wonders if this is actually a “computing” problem rather than an “interface” problem. To a certain extent, DAOs can be thought of as creating social groups of humans __and__ machines. The formalism for computer science came out of mathematics, but it’s not clear where the formalism for “social computing” / human-machine interfaces comes from. From a literary perspective, [[Nathan Acks]] thinks that the original __Ghost in the Shell__ mangas wrestle with some of these concepts.
         6. April 25: All: [[YC as Weird Grad School DAO]]
         7. May 2: [[Maier Fenster]] — [[what is mine and what is right?]]
-        8. May 9: [[Commits Vortex]] - Toucan Protocol
+        8. May 9: [[Commits Vortex]] - [[Toucan Protocol Overview]]
         9. May 16: [[Nathan Acks]] - Blockchain identity solutions
         10. May 23: 
         11. May 30: 

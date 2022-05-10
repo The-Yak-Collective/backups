@@ -1,0 +1,18 @@
+- Articles at three different levels of familiarity with Toucan: 
+- 1 - This is my first time learning about Toucan: 
+    - https://docs.toucan.earth/protocol/introduction/overview
+    - If time, good for brief overview of Voluntary Carbon Credit (VCC) market: 
+        - https://unblock.net/toucan-protocol-review/
+- 2 - I know about Toucan and the VCC market
+    - on the issues of incentives in the VCC market: 
+        - https://carbonplan.org/research/toucan-crypto-offsets 
+- 3 - I have been following Toucan and understand the technical details of the protocol
+    - on endogenous risk within the protocol forcing retroactive/reactive governance:
+        - https://blog.toucan.earth/a-response-to-our-community-ahead-of-nct-launch/
+- Discussion:
+    - Are there any questions?
+    - Prompt 1: What parallels if any do you see between Toucan and other climate actions that you track?
+    - Prompt 2: Toucan protocol uses the rhetoric of "the earth being a stakeholder". What might it look like to have nature itself self-governing its own market dynamics
+        - (See terra0's white paper "Can an augmented forest own and utilise itself?" for an example of something like this: https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf)
+    - Prompt 3.1: Will Toucan provoke a type of anti-globalist backlash? 
+        - Prompt 3.2: How does Toucan protocol interface with aspects of the sensing layer, and is a system like Toucan serviceable when considering last mile complications?

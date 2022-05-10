@@ -4,9 +4,12 @@
     - Week zero -- background / context
         - The First Terraforming https://studio.ribbonfarm.com/p/the-first-terraforming?s=r 
         - Why Solving Climate Change Will Be Like Mobilizing for War https://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/ 
-    - Week one
-        - Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf 
+    - Week one 
+        - Mental model for combatting climate change
+            - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66 
     - Week two
+        - Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf 
+    - Week three
         - Mission Possible: Reaching net-zero carbon emissions from harder-to-abate sectors https://www.energy-transitions.org/publications/mission-possible/#download-form 
 - 
 - 
@@ -21,3 +24,5 @@
         - Arkstorm 2.0
         - Cal adapt https://cal-adapt.org/
         - Little Hoover Report: https://lhc.ca.gov/sites/lhc.ca.gov/files/Reports/221/Report221.pdf 
+    - EV transition in CA
+        - https://energyathaas.wordpress.com/2022/05/09/13378/?unapproved=87138&moderation-hash=9c62a7228659eaee6278114d8513a28a#comment-87138 

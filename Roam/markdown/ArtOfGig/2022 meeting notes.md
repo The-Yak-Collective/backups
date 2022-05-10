@@ -449,7 +449,12 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
                 - What the protocol/API look like
                 - GOAL: something other people can donwload and run and connect to our repository of worlds...
     - May 3rd -- maier -- [[IP Considerations for Transparent Rover]]
-    - May 10th -- Anuraj
+    - May 10th -- Anuraj -- Quick demo 1) Setting up Ethereum Node on RPi 2) Deep Learning Object Detection with RPi
+        - Setting up RPi as Ethereum Node - TLDR - just flash the SD card with ethrasbian image, connect to router, and power up -> ready to go 
+            - https://ethereum.org/en/developers/tutorials/run-node-raspberry-pi/
+            - https://core-geth.org/setup-on-raspberry-pi
+        - Using DL for image classification on RPi with EdgeImpulse
+            - {{[[video]]: https://www.youtube.com/watch?v=dY3OSiJyne0}}
     - May 17th - Brian
     - May 24th -- OPEN...
     - May 31st - Victor Hill
