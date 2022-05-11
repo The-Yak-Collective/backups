@@ -9,6 +9,7 @@
     - Good [more-technical explainer](https://jalammar.github.io/illustrated-transformer/)
     - The original paper, [Attention is all you need](https://arxiv.org/abs/1706.03762) is really hard...
 - May 3, Week 4: Try out this [Browser-based tensorflow](https://playground.tensorflow.org/) for 15 minutes and share a screenshot
+- May 10, Week 5: Spend 15 minutes trying out this browser-based model training wizard to recognize a voice phrase or object (via Anuraj) 
 - Backlog/hopper
     - https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/
     - Hands on 1
