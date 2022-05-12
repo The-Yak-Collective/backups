@@ -14,6 +14,7 @@
 - 
 - 
 - Potential future readings
+    - Cash for clunkers programs: https://onlinelibrary.wiley.com/doi/epdf/10.1002/joom.1173 
     - https://www.energy-transitions.org/publications/mind-the-gap-cdr/
     - also see the rocky mountain institute
     - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r 
@@ -26,3 +27,9 @@
         - Little Hoover Report: https://lhc.ca.gov/sites/lhc.ca.gov/files/Reports/221/Report221.pdf 
     - EV transition in CA
         - https://energyathaas.wordpress.com/2022/05/09/13378/?unapproved=87138&moderation-hash=9c62a7228659eaee6278114d8513a28a#comment-87138 
+    - CA climate roadmap (recently released)
+        - https://ww2.arb.ca.gov/sites/default/files/2022-05/2022-draft-sp.pdf 
+    - Climate impacts
+        - Nontechnical summary: https://calmatters.org/environment/2022/04/california-climate-change-report-legislature/
+        - The LAO reports are also worthwhile
+        - It'd also be good to get several non-CA perspectives in here as well :P 
