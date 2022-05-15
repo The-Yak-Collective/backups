@@ -898,10 +898,10 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
         6. April 25: All: [[YC as Weird Grad School DAO]]
         7. May 2: [[Maier Fenster]] — [[what is mine and what is right?]]
         8. May 9: [[Commits Vortex]] - [[Toucan Protocol Overview]]
-        9. May 16: [[Nathan Acks]] - Blockchain identity solutions
+        9. May 16: [[Nathan Acks]] - Blockchain & Identity
         10. May 23: 
         11. May 30: 
-        12. June 6: [[Nathan Acks]] - [Radicle](https://radicle.xyz/)
+        12. June 6: 
         13. __June 13: Summer planning__
             - Maybe work on a paper?
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
