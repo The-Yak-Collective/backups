@@ -105,3 +105,19 @@
             - Replyguyware: Code that analyzes replies to a target that get responses to synthesize an AI reply guy that works on your behalf
             - Honeybot: A thirst-trap bot designed to bait and encourage stalker types. Used by security pros to detect and neutralize stalkers to clean up communities. Can be used to target and catfish suspected would-be stalkers.
             - This set of design fictions is focused on stalkers due to cat person story example, but probably versions will work for other kinds of surveillance society behaviors like vigalntes/superheroes, surveillance based philanthropy etc
+        - Sachin's response
+            - 3 Objects
+                - Neural Link - the neural link in this world would have very few interfaces or visual components. It will be embedded into the lives of people that it feels no different from normal consciousness. The medium becomes invisible. This world would also be less visual in general. There are very few interfaces, written language around. Most of the culture is oral.
+                - Simians - Simians are drones that are connected to and controlled by neural links. They are used by people to record their days. The drones are intelligent. They can have conversations with the humans and this is used as a way of inserting dialogue into the scenes that are shot. The drones are given instructions through the neural link. Users are used to/trained in thinking about their actions in terms of what it would look like in shots and what they would look like in a third-person perspective
+                - Deconstruction tech movement - people who are not part of the mainstream survelliance society but have escaped it in some ways by inventing their own DIY technology and not depending on the big coporations that the rest of the world depends on. They operate with similar principles as IDF as described in Lethal Theory. They infest the fabric of the city in different ways and try to go unnoticed. They see the survelliance tech as something they can use to navigate the city and order their lives.
+            - notes
+                - Nakatomi Spaces - https://www.bldgblog.com/2010/01/nakatomi-space/
+                - Fiction that you can put together without directly interacting with people, but by observing their life through survelliance mechanisms
+                - what would military strategy look like in such an envrionment
+                - 50 years from now, the buildings remain the same but survelliance tech has got extremely better
+                - Coding is the process of ordering matter as it is drawn into a body; by contrast, stratification is the process of creating hierarchal bodies, while territorialization is the ordering of those bodies in “assemblages,” that is to say, an emergent unity joining together heterogeneous bodies in a “consistency.” - applying this to modern surveillance states
+                - how does the Neural link and Simians collide with survelliance state. may be the central character is a john mclane like character that is trying to escape and infiltrate the fabric of the city. The disadvantages are that they dont have the advantages of all the modern technology that the rest of the city and law enforcement have access to.
+                - McLuhan way - culture becomes more oral and not written. There are not a lot of visual interfaces anymore perhaps, or if there are, the visual interfaces exist to accentuate the experience of oral culture
+                - what does infesting the city look like
+                    - controlling drones that belong to others
+                    - hacking into neural links of other people to use them as zombies out

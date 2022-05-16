@@ -62,8 +62,13 @@
  :datoms
  [[1 :block/uid "86RlNgFSD" 536878990]
   [1 :user/color "rgb(117,132,156)" 536870913]
+  [1 :user/display-name "Sachin Benny" 536882429]
   [1 :user/display-page 3168 536882270]
   [1 :user/email "sachben91@gmail.com" 536870913]
+  [1
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a-/AOh14GjRMoUfcm0mFdwaGtNYGLoQ-0lVy2eFV9Z0b8ph=s96-c"
+   536882429]
   [1
    :user/settings
    {:namespace-options [:none :partial :full],
@@ -27639,8 +27644,8 @@
   [3263 :version/id "0.9.4" 536882363]
   [3263
    :version/nonce
-   "uuid466d6f4b-e6be-4041-b651-d5b92fffc3dc"
-   536882428]
+   "uuid99bd12a7-d47e-4667-8900-7eeed37041b8"
+   536882430]
   [3264 :block/uid "03-12-2022" 536882364]
   [3264 :create/time 1647078127563 536882364]
   [3264 :create/user 2367 536882364]
@@ -28095,4 +28100,11 @@
   [3328 :edit/time 1652608393986 536882428]
   [3328 :edit/user 2367 536882428]
   [3328 :log/id 1652608393985 536882428]
-  [3328 :node/title "May 15th, 2022" 536882428]]}
+  [3328 :node/title "May 15th, 2022" 536882428]
+  [3329 :block/uid "05-16-2022" 536882430]
+  [3329 :create/time 1652694802981 536882430]
+  [3329 :create/user 2367 536882430]
+  [3329 :edit/time 1652694802981 536882430]
+  [3329 :edit/user 2367 536882430]
+  [3329 :log/id 1652694802980 536882430]
+  [3329 :node/title "May 16th, 2022" 536882430]]}

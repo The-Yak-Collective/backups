@@ -899,6 +899,8 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
         7. May 2: [[Maier Fenster]] — [[what is mine and what is right?]]
         8. May 9: [[Commits Vortex]] - [[Toucan Protocol Overview]]
         9. May 16: [[Nathan Acks]] - Blockchain & Identity
+            - [Research Notes]([[web3 Identity Research Notes]])
+            - [Presentation]([[Identity in web3]])
         10. May 23: 
         11. May 30: 
         12. June 6: 
