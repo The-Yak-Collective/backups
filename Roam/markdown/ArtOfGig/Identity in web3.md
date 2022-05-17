@@ -5,7 +5,9 @@
 
 Instead, this presentation is going to be about fleshing out some of the connections between the things we’re already familiar with.
 
-At least as much as one can in 30 – minutes.
+At least as much as one can in 30 – 50 minutes.
+
+A copy of this presentation + my research notes can be found in Roam.
 
 ^^**Note to self:** To stay on-time, each slide needs to be kept to ~2 minutes.^^
 ---
@@ -15,7 +17,7 @@ At least as much as one can in 30 – minutes.
     - Identity on web3 is rooted in your wallet
     - Authentication is just your wallet’s private key signing some piece of data
     - __None of this is about blockchain!__
-    - …But blockchain makes “real” world use cases *much* easier
+    - …But blockchain makes “real” world use cases __much__ easier
 > ^^02:00 – 03:00^^
 ---
 ## Public Key Crypto
@@ -211,6 +213,10 @@ This means that a site processing an Ethereum signature can verify the signature
 
 (I strongly suspect that packaging the public key in with the signature is one of the things that really gave Ethereum a leg up when it came to applications beyond cryptocurrency.)
 
+Proving control over an identity via private key signatures __isn’t__ a new concept. Firefox has supported signing in with a “certificate” for a long time, and the Gemini project uses short-lived certificates for sign-ins as well.
+
+What’s interesting here is that identity on web3 strikes a middle ground between the centralized approach of Firefox and the purposefully ephemeral approach of Gemini.
+
 But how does a site know that you have a wallet?
 
 ^^20:00 – 30:00^^
@@ -222,6 +228,8 @@ But how does a site know that you have a wallet?
         3. The wallet grabs, decrypts, signs, and pushes back the payload
         4. The site can now authenticate the wallet
 > WalletConnect 2.0 is more complicated, but that complication gains us more secure encryption and the removal of Ethereum-specific assumptions about signature structure.
+
+In many ways, the mechanics of WalletConntect 2.0 are yet another example of how the implementation of identity in web3 strikes a middle ground between older, centralized approaches and the hyper-private, ephemeral sort of authentication used by projects like Gemini that are reacting to the modern web’s failing.
 
 WalletConnect 2.0 is also strongly reminiscent of the W3C’s “decentralized identities” initiative, which I’ll talk a little more about shortly.
 
@@ -288,6 +296,6 @@ Perhaps coincidentally, Apple and Google are two of the biggest identity provide
         [[Identity in web3]]
     - My research notes:
         [[web3 Identity Research Notes]]
-> ^^32:00 – 48:00^
+> ^^32:00 – 48:00^^
 ---
 # Questions?
