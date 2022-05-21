@@ -429,6 +429,42 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
                     - “On idea mazes: there’s like a barren middle ground? You either know the space (in the present and historically) organically, or you’ve got no effing clue and project such a strong reality distortion field that unknowledge doesn’t matter. The middle ground (e.g. someone mechanically identifying an opportunity and trying to go to market)”
                 - Bryan
                     - Lore and idea maze are connected
+        - [Jesuits ](https://engelsbergideas.com/essays/jesuit/)
+            - Bryan
+                - trust in the jesuit system is high, didnt need to be watched. They trusted that other jesuits were doing the same thing as they were doing. 
+                - what would not talking to peers look like in the internet world?  What does changing the frequency of activity mean?
+                - Jesuits were good at PR - printing press
+                - instance of path dependence - would the jesuits have existed in a place without the other infrastructure that existed around them? right people at the right place in the right time
+                - bias on observing/orienting vs not acting 
+            - Grigori
+                - they had ambitious goals, because it clashed with traditional order they found ways to hide it 
+                - The development of the school was very fast for the time in which it was developed 
+                - they were very strict most of the time. 
+                - the system that made them spread very fast seems unclear. Interested to know more about what happened initially 
+                - they used printing press, but it does not follow from the article that competing movements did not use it?
+            - Jenna
+                - the letters when they arrived - how are the documents controlled, distributed, who decided what to print. internal decision making is unclear 
+                - async model - has a lot of writing/documenting involved. would be interesting to see if it comes out as product output in some way 
+            - Matthew 
+                - first time reading about jesuits was - novel about jesuits??
+                - they were providing legibility as a service - emphasis on translating documents, interfacing between different regions, describing what they were seeing. And thats what sucked a lot of people in 
+                - royal patronage helped them to get to the boundaries of the empire or liminal spaces between them. wonder how being associated with the state changed it. what is akin to royal patronage that jesuits had?
+                - tendency to document --> similar to everything being async by default. 
+            - Venkat 
+                - went to a jesuit school
+                - couple of things that didnt come through -  in the period of printing press -> westaphalia, jesuits were late adopters to this. Pamphlet wars 
+                - they became advisers for ...
+                - jesuits were good at getting close to the rulers and becoming the consultant equivalents of the time. They were more about political influence rather than religious
+                - jesuits - do most of things in the ears of rulers and not talk directly as much publicly 
+                - reason they were travellers - complimenting the printing press - preventing the info from getting in the hands of others 
+                - they had access to capital 
+                - had a lot of local autonomy but not decentralized. big capital played a big role in projects 
+                - reasons async communications worked - most of it was about money. Important things went through central authority 
+                - they did a lot of predictive processing - send out advisory blog posts 
+                - yak school operating more in that mode than we realize. letter writing was much more commmon and frequent. 6 mail deliveries a day. increased in tempo 
+                - people spend hours reading and responding to letters
+                - adapting to the medium.if there are long time delays you keep communicating hoping that some of it is useful. 
+                - lot of military operations have to unfold in radio silence. same strategy. high level autonomy for local commanders. commanders set overall goal, local commanders have smaller goals and they have contracted agreements between them.  similar to how the jesuits do it. overall mission was clear - spread the religions. filling in the details would be not predictable exactly 
     - **Queued**
         - [Every Design Studio Should Be a Worker-Owned Studio](https://eyeondesign.aiga.org/every-design-studio-should-be-a-worker-owned-studio/)
         - [Unrepresentative Claims: Speaking for Oneself in a Social Movement](https://www.cambridge.org/core/journals/american-political-science-review/article/unrepresentative-claims-speaking-for-oneself-in-a-social-movement/E045E3270DB08B76F09048DE99C06B7B)
