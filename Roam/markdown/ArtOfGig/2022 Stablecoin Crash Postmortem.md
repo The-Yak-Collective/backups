@@ -1,0 +1,5 @@
+- Articles and threads
+    - Patio11 take: https://bam.kalzumeus.com/archive/stablecoin-mechanisms-and-use-cases/
+    - [Consequences thread](https://twitter.com/defi_made_here/status/1525448525097598979?s=21&t=82FAxNL26tgrmNdbLRjLRA)
+    - [Thread on how the attack worked](https://twitter.com/onchainwizard/status/1524123935570382851?s=21&t=w7T30iN6eaqu3lB4pfH72g)
+    - Matt Levine: https://www.bloomberg.com/opinion/articles/2022-05-10/another-algorithmic-stablecoin-isn-t

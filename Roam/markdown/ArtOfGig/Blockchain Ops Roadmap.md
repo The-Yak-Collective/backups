@@ -901,7 +901,7 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
         9. May 16: [[Nathan Acks]] - Blockchain & Identity
             - [Research Notes]([[web3 Identity Research Notes]])
             - [Presentation]([[Identity in web3]])
-        10. May 23: 
+        10. May 23: [[2022 Stablecoin Crash Postmortem]]
         11. May 30: 
         12. June 6: 
         13. __June 13: Summer planning__
