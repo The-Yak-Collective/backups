@@ -456,5 +456,33 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
         - Using DL for image classification on RPi with EdgeImpulse
             - {{[[video]]: https://www.youtube.com/watch?v=dY3OSiJyne0}}
     - May 17th - Brian
-    - May 24th -- OPEN...
+    - May 24th -- On YR Raison d'Être
+        - Brainstorming further
+        - https://docs.google.com/presentation/d/1eY7FBFIJLZ6-xUvklsb9iNlXP0wqKkoHsIA3E4VWrP8/edit?usp=sharing
+        - Venkat thoughts
+            - "collaboration??" slight yellow flag
+                - asynchronous, time-interrupted patterns of working together
+            - [effectuation](https://www.effectuation.org/) vs. goal-orientation
+            - lionel messi "Walking style", tortoise and hare
+            - [coup d'oeil](https://en.wikipedia.org/wiki/Coup_d%27%C5%93il) examples of [strategic intuition](https://www.ribbonfarm.com/2008/02/11/book-review-and-summary-strategic-intuition/) in robotics/space
+                - arthur c. clarke geostationary comms system
+                - India remote sensing
+            - Opps for us
+                - Earth roverics
+                - Being first with something
+                - AI
+                - Some support thing?
     - May 31st - Victor Hill
+- Earth Cycle (3)
+    - June 7th ---  Link Grooming - Everyone
+    - June 14th
+    - June 21st
+    - June 28th
+    - July 5th
+    - July 12th
+    - July 19th
+    - August 2nd
+    - August 9th
+    - August 16th
+    - August 23rd --- On the Shape of YR - Once a cycle meta discussion following https://roamresearch.com/#/app/ArtOfGig/page/yLECPNlKA
+    - August 30th

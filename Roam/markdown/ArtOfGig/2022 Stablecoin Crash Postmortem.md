@@ -3,3 +3,60 @@
     - [Consequences thread](https://twitter.com/defi_made_here/status/1525448525097598979?s=21&t=82FAxNL26tgrmNdbLRjLRA)
     - [Thread on how the attack worked](https://twitter.com/onchainwizard/status/1524123935570382851?s=21&t=w7T30iN6eaqu3lB4pfH72g)
     - Matt Levine: https://www.bloomberg.com/opinion/articles/2022-05-10/another-algorithmic-stablecoin-isn-t
+    - Bennet Tomlin has a lot of background experience researching stable coins (particularly Tether). Here are some appearances where he's spoken about Terra Luna
+        - https://bennettftomlin.com/2022/05/19/first-appearance-on-tech-wont-save-us-terra-and-luna-and-stablecoins/
+        - https://bennettftomlin.com/2022/05/17/first-appearance-on-tastytrade-luna-and-terra/
+        - And here is the podcast he and Cas Piancy run: https://anchor.fm/cryptocriticscorner/episodes/Terra--Luna--and-Algorithmic-Stablecoins-e1i39e0
+- Discussion
+    - [[Anuraj R]] 
+        - TLDR - trust in system collapsed -> price collapse
+        -  Can a cryptocurrency be created without backing of nation state
+    - [[Commits Vortex]]
+        - Avalance blockchain
+    - [[Maier Fenster]]
+        - smart contracts weakness and other problems, gaming smart contracts? 
+        - do we need a central bank with tools to deal with currency attacks
+        - they didn't have mechanism to have control and fight attacks
+            - actually, looks like they thought they did, but did not survive the danger zone - see the matt levine link above
+    - [[Nathan Acks]]
+    - [[Venkatesh Rao]]
+        - what could be done to get guarentees for stable coins
+            - back it up with assets
+        - if not then have other means to build confidence in eg sovereign bond for countries
+        - eg Ecuador pegged to USD, Euro 
+        - to what extent can one currency be pegged to another? it would be nice to see this quantified
+    - [[Ben Mahala]]
+        - from Discord - RAI stable coin https://reflexer.finance/
+        - https://blog.bitmex.com/luna-brothers-inc/?utm_source=Sendgrid&utm_medium=email&utm_campaign=Email 
+            - Talks about derivatives in the stablecoin context. You can create a 'pseudo stablecoin' yourself by hand using something like BitMEX swaps
+    - [[Grigori Milov]]
+    - Open Floor
+        - [[Nathan Acks]]
+            - if you want to do a stable coin then use a basket of currencies and exchange between them, stable fraction of value to the blockchain ecosystem coins
+            - if all these around for 100 years then it increases confidence in the ecosystem
+        - [[Maier Fenster]]
+            -  Can a cryptocurrency be created without backing of nation state
+                - People want to be confident that they will get their money
+                - Two kinds of trust. 
+                    - This will be around tomorrow in a similar form
+                    - You can trust me
+                - When somone attacks nation state currency then central bank can do a lot of things
+            - there are exists in a death spiral even if there is 300 years of intertial trust
+        - [[Anuraj R]] - Can what central banks do be automated? 
+            - [[Venkatesh Rao]]
+                - Mechanism trust
+                - Intertial trust, as [[Nathan Acks]] called in shared history
+                    - US economic system is ~300 years, youngest form of USD ~50 years old
+                - the monopoly of violence argument fails at some levels
+                - cleverest mechanism trust cannot make up for inertial trust
+        - [[Nathan Acks]]
+            - how commited to the external players see the internal players to keep the system going
+            - if things go bad then interial trust plays a big role
+            - [[Venkatesh Rao]]
+                - push-pull mechansim 
+                    - one is the shared history
+                    - second is the extent to which one is willing to defend the idea
+            - a lot skepticism by many people
+        - [[Maier Fenster]]
+            - if everyone is anonymous then people have much lower involvement
+            - [[Venkatesh Rao]] this is true for nation state currencies too with cash, what percentage of the economy is anonymous
