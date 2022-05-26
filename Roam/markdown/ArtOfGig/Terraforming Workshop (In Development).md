@@ -1,97 +1,103 @@
 - Page for the #terraforming-workshop channel proposal on Discord
-- We read a paper/article or do a small learning task every week. New readings and prompts are posted on DAY.
-- Plan to orient the readings around a couple seasons. First season is an orientation to the first terraforming. The second season goes sector by sector using the speed and scale plan as a framework. The third season focuses on collective action. 
-- First season -- orientation to the first terraforming
-    - Week zero -- background / context
-        - PROMPT: share an image -- from a movie, sci fi book, meme, whatever -- that embodies your default mental model of how climate change will impact YOUR life in 30 years. 
-        - The First Terraforming https://studio.ribbonfarm.com/p/the-first-terraforming?s=r 
-        - Why Solving Climate Change Will Be Like Mobilizing for War https://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/ 
-    - Week one 
-        - Mental model for combatting climate change
-            - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66 
-            - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r  
-    - Week two
-        - Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf 
-    - Week three
-        - Mission Possible: Reaching net-zero carbon emissions from harder-to-abate sectors https://www.energy-transitions.org/publications/mission-possible/#download-form 
-    - Weeks NUMBER -- Regional Climate Impacts
-        - India?
-            - Heat wave, wet bulb 35 in Ministry for the Future
-        - China?
-        - Europe?
-        - Others?
-        - California
-            - Climate resources mentioned in state water plan update
-                - Arkstorm 2.0
-                - Cal adapt https://cal-adapt.org/
-                - Little Hoover Report: https://lhc.ca.gov/sites/lhc.ca.gov/files/Reports/221/Report221.pdf 
-            - Nontechnical summary: https://calmatters.org/environment/2022/04/california-climate-change-report-legislature/
-            - The LAO reports linked are also worthwhile
-            - It'd also be good to get several non-CA perspectives in here as well :P 
-    - Known unknown potential impacts:
-        - early signals and future potential impact of increased average global temperatures on more heat resistant mushrooms and the implications of that for breaking the human 98.6 immunological barrier. https://alltrades.substack.com/p/mushrooms-global-warming-and-the
-- Second season -- decarbonizing with speed at scale -- sector by sector focuses
-    - Electrify transportation -- land
-        - NEED more industry focused analysis on the transition
-        - Bloomberg / Aspen cities and Autonomous Vehicles: https://learn.sharedusemobilitycenter.org/overview/bloomberg-philanthropies-aspen-institute-initiative-on-cities-and-autonomous-vehicles-2017/#:~:text=In%202017%2C%20Bloomberg%20Philanthropies%20and,AVs)%20between%202017%20and%202019. 
-        - Gaps in CA's EV mandate https://energyathaas.wordpress.com/2022/05/09/13378/
-        - Cash for clunkers programs: https://onlinelibrary.wiley.com/doi/epdf/10.1002/joom.1173 
-    - Electrify transportation -- sea and air
-        - tech paths to zero carbon shipping (note not batteries)
-            - https://www.mckinsey.com/business-functions/sustainability/our-insights/green-corridors-a-lane-for-zero-carbon-shipping
-        - electrify shipping??
-            - https://www.mcjcollective.com/my-climate-journey-podcast/fleetzero
-        - This might be entirely zany though I'd be curious to get a good take on some of the ideas to bring back sailing with next gen materials 
-        - airplanes
-            - https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels?fbclid=IwAR3hHlWXZAPgOu1J2GUH99NLZtTYoreHL44TT2648zKNXGWUx2AM0KqSSWw
-            - https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann/a-bumpy-ride-toward-decarbonizing-aviation?fbclid=IwAR22Oxfbhueki4Sw5jpoYZVaxJvHcxU_ScU0WCj-R3UidVE2n3g7mvv8VUI 
-    - Decarbonize the grid -- generation
-        - wind and solar
-            - https://austinvernon.site/blog/solaronground.html
-        - geothermal 
-            - https://austinvernon.site/blog/drillingplan.html 
-        - Nuclear
-            - https://www.nuscalepower.com/projects/current-projects/united-states
-    - Decarbonize the grid -- transmission -- NEED 
-        - **Need **a good take on the challenges of building big continent scale interconnections
-        - **Need **a good take on Microgrids
-        - Need a good take on baseload vs intermittent issues
-    - Fix food  -- NEED 
-    - Protect nature -- NEED 
-        - There's a NatGeo feature recently on deforestationthat might operate as a decent nontechnical intro into that topic
-        - https://www.economist.com/interactive/graphic-detail/2022/05/21/the-brazilian-amazon-has-been-a-net-carbon-emitter-since-2016 
-    - Clean up industry
-        - see the slides here: https://energy.ucdavis.edu/uc-davis-industrial-decarbonization-symposium-2022/ 
-        - cement!
-            - [https://terraco2.com/ ](https://terraco2.com/)
-    - Remove Carbon
-        - "The analysis in this report describes how CDR, alongside rapid and deep global decarbonisation, can give the world a 50% chance of limiting global warming to 1.5°C."
-        - https://www.energy-transitions.org/publications/mind-the-gap-cdr/
-        - Maybe add in a resource on how Stripe and Microsoft are helping to seed the marketplace?
-        - The other angle is the variety of technological approaches (DAC, mineralization etc)
-- Third season -- Collective Action --  "How do we get it done? Four objectives guide us on how to avert disaster and ensure a livable planet for generations to come."
-    - Win politics and policy
-        - EV transition in CA
-            - https://energyathaas.wordpress.com/2022/05/09/13378/?unapproved=87138&moderation-hash=9c62a7228659eaee6278114d8513a28a#comment-87138 
-        - CA climate roadmap (recently released)
-            - https://ww2.arb.ca.gov/sites/default/files/2022-05/2022-draft-sp.pdf 
-            - the major element of the plan is the aggressive reduction of fossil fuels; the proposed scenario calls for **reduced petroleum use by 91% in 2045 from 2022 levels** at which point the state is expected to achieve carbon neutrality
-            - the proposed scenario calls for ambitious deployment of non-combustion technologies (clean energy, ZEVs, appliances, etc.) and strong consumer adoption of clean tech and fuel options
-            - Carbon removal, either through direct air capture or attached to emitting facilities, is a component of every scenario evaluated as part of the scoping plan process, as is some reliance on carbon sequestration
-            - the proposed scenario for natural and working lands calls for **2–2.5 million acres to be treated statewide annually** in forests, shrublands/chaparral, and grasslands through prescribed fire, harvesting and thinning
-    - Turn movements into action
-        - World Citizens Initiative: https://www.worldcitizensinitiative.org/ 
-        - Worlds Citizens Assembly: https://www.worldassembly.org/
-    - Innovate! -- NEEDS work
-        - Fusion? Geothermal?
-        - Why big ideas fail
-        - Maybe also something on why its so difficult to build these days (in the US / "West" at least)
-    - Invest! NEED
-        - Any good recs on climate finance? Something that shows the return and the business model would be great? Also some of the various micro considerations would be great
-- 
-- 
-- 
-- Potential future readings sources
-    - also see the rocky mountain institute
-    - see also Pete Weber's presentation and also the tool
-    - https://austinvernon.site/
+- Format
+    - We read a paper/article or do a small learning task every week. New readings and prompts are posted on DAY.
+    - Plan to orient the readings around a couple seasons. First season is an orientation to the first terraforming. The second season goes sector by sector using the speed and scale plan as a framework. The third season focuses on collective action. 
+- Curriculum
+    - **First season** -- **orientation to the first terraform**ing
+        - Week zero -- background / context
+            - PROMPT: share an image -- from a movie, sci fi book, meme, whatever -- that embodies your default mental model of how climate change will impact YOUR life in 30 years. 
+            - The First Terraforming https://studio.ribbonfarm.com/p/the-first-terraforming?s=r 
+            - Why Solving Climate Change Will Be Like Mobilizing for War https://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/ 
+        - Week one 
+            - Mental model for combatting climate change
+                - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66 
+                - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r  
+            - Global tool for simulating policy tradeoffs (ADD TO OWN WEEK)
+                - Spend 15-20 minutes playing around with the following week
+                - https://www.climateinteractive.org/en-roads/#:~:text=What%20is%20En%2DROADS%3F,quality%2C%20and%20sea%20level%20rise.
+                - What surprised you in playing around with the tool?
+                - What implicit assumptions are embedded in this type of model? 
+        - 
+        - Week two
+            - Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf 
+        - Week three
+            - Mission Possible: Reaching net-zero carbon emissions from harder-to-abate sectors https://www.energy-transitions.org/publications/mission-possible/#download-form 
+        - Weeks NUMBER -- Regional Climate Impacts
+            - India?
+                - Heat wave, wet bulb 35 in Ministry for the Future
+            - China?
+            - Europe?
+            - Northern latitudes?  
+            - Others?
+            - California
+                - Climate resources mentioned in state water plan update
+                    - Arkstorm 2.0
+                    - Cal adapt https://cal-adapt.org/
+                    - Little Hoover Report: https://lhc.ca.gov/sites/lhc.ca.gov/files/Reports/221/Report221.pdf 
+                - Nontechnical summary: https://calmatters.org/environment/2022/04/california-climate-change-report-legislature/
+                - The LAO reports linked are also worthwhile
+                - It'd also be good to get several non-CA perspectives in here as well :P 
+        - Known unknown potential impacts:
+            - early signals and future potential impact of increased average global temperatures on more heat resistant mushrooms and the implications of that for breaking the human 98.6 immunological barrier. https://alltrades.substack.com/p/mushrooms-global-warming-and-the
+    - **Second season** -- **decarbonizing with speed at scale** -- sector and regional focuses
+        - Electrify transportation -- land
+            - NEED more industry focused analysis on the transition
+            - Bloomberg / Aspen cities and Autonomous Vehicles: https://learn.sharedusemobilitycenter.org/overview/bloomberg-philanthropies-aspen-institute-initiative-on-cities-and-autonomous-vehicles-2017/#:~:text=In%202017%2C%20Bloomberg%20Philanthropies%20and,AVs)%20between%202017%20and%202019. 
+            - Gaps in CA's EV mandate https://energyathaas.wordpress.com/2022/05/09/13378/
+            - Cash for clunkers programs: https://onlinelibrary.wiley.com/doi/epdf/10.1002/joom.1173 
+        - Electrify transportation -- sea and air
+            - tech paths to zero carbon shipping (note not batteries)
+                - https://www.mckinsey.com/business-functions/sustainability/our-insights/green-corridors-a-lane-for-zero-carbon-shipping
+            - electrify shipping??
+                - https://www.mcjcollective.com/my-climate-journey-podcast/fleetzero
+            - This might be entirely zany though I'd be curious to get a good take on some of the ideas to bring back sailing with next gen materials 
+            - airplanes
+                - https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels?fbclid=IwAR3hHlWXZAPgOu1J2GUH99NLZtTYoreHL44TT2648zKNXGWUx2AM0KqSSWw
+                - https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann/a-bumpy-ride-toward-decarbonizing-aviation?fbclid=IwAR22Oxfbhueki4Sw5jpoYZVaxJvHcxU_ScU0WCj-R3UidVE2n3g7mvv8VUI 
+        - Decarbonize the grid -- generation
+            - wind and solar
+                - https://austinvernon.site/blog/solaronground.html
+            - geothermal 
+                - https://austinvernon.site/blog/drillingplan.html 
+            - Nuclear
+                - https://www.nuscalepower.com/projects/current-projects/united-states
+        - Decarbonize the grid -- transmission -- NEED 
+            - **Need **a good take on the challenges of building big continent scale interconnections
+            - **Need **a good take on Microgrids
+            - Need a good take on baseload vs intermittent issues
+        - Fix food  -- NEED 
+        - Protect nature -- NEED 
+            - There's a NatGeo feature recently on deforestationthat might operate as a decent nontechnical intro into that topic
+            - https://www.economist.com/interactive/graphic-detail/2022/05/21/the-brazilian-amazon-has-been-a-net-carbon-emitter-since-2016 
+        - Clean up industry
+            - see the slides here: https://energy.ucdavis.edu/uc-davis-industrial-decarbonization-symposium-2022/ 
+            - cement!
+                - [https://terraco2.com/ ](https://terraco2.com/)
+        - Remove Carbon
+            - "The analysis in this report describes how CDR, alongside rapid and deep global decarbonisation, can give the world a 50% chance of limiting global warming to 1.5°C."
+            - https://www.energy-transitions.org/publications/mind-the-gap-cdr/
+            - Maybe add in a resource on how Stripe and Microsoft are helping to seed the marketplace?
+            - The other angle is the variety of technological approaches (DAC, mineralization etc)
+    - **Third season** -- **Collective Action** --  "How do we get it done? Four objectives guide us on how to avert disaster and ensure a livable planet for generations to come."
+        - Win politics and policy
+            - EV transition in CA
+                - https://energyathaas.wordpress.com/2022/05/09/13378/?unapproved=87138&moderation-hash=9c62a7228659eaee6278114d8513a28a#comment-87138 
+            - CA climate roadmap (recently released)
+                - https://ww2.arb.ca.gov/sites/default/files/2022-05/2022-draft-sp.pdf 
+                - the major element of the plan is the aggressive reduction of fossil fuels; the proposed scenario calls for **reduced petroleum use by 91% in 2045 from 2022 levels** at which point the state is expected to achieve carbon neutrality
+                - the proposed scenario calls for ambitious deployment of non-combustion technologies (clean energy, ZEVs, appliances, etc.) and strong consumer adoption of clean tech and fuel options
+                - Carbon removal, either through direct air capture or attached to emitting facilities, is a component of every scenario evaluated as part of the scoping plan process, as is some reliance on carbon sequestration
+                - the proposed scenario for natural and working lands calls for **2–2.5 million acres to be treated statewide annually** in forests, shrublands/chaparral, and grasslands through prescribed fire, harvesting and thinning
+        - Turn movements into action
+            - World Citizens Initiative: https://www.worldcitizensinitiative.org/ 
+            - Worlds Citizens Assembly: https://www.worldassembly.org/
+        - Innovate! -- NEEDS work
+            - Fusion? Geothermal?
+            - Why big ideas fail
+            - Maybe also something on why its so difficult to build these days (in the US / "West" at least)
+        - Invest! NEED
+            - Any good recs on climate finance? Something that shows the return and the business model would be great? Also some of the various micro considerations would be great
+    - Potential future readings sources
+        - also see the rocky mountain institute
+        - see also Pete Weber's presentation and also the tool
+        - https://austinvernon.site/
