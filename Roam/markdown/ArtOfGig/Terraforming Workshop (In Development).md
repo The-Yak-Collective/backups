@@ -39,6 +39,13 @@
                 - It'd also be good to get several non-CA perspectives in here as well :P 
         - Known unknown potential impacts:
             - early signals and future potential impact of increased average global temperatures on more heat resistant mushrooms and the implications of that for breaking the human 98.6 immunological barrier. https://alltrades.substack.com/p/mushrooms-global-warming-and-the
+        - Global climate impacts -- the worries are overblown perspective
+            - Global and regional aggregate damages associated
+with global warming of 1.5 to 4 °C
+above pre-industrial levels 
+                - https://link.springer.com/content/pdf/10.1007/s10584-021-03198-7.pdf
+            - Effective altruist forum thread
+                - https://www.dropbox.com/s/abv8fe4pjwncy72/Good%20news%20on%20climate%20change%20-%20EA%20Forum.pdf?dl=0
     - **Second season** -- **decarbonizing with speed at scale** -- sector and regional focuses
         - Electrify transportation -- land
             - NEED more industry focused analysis on the transition
