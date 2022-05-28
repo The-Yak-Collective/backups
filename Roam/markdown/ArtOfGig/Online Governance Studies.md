@@ -9,6 +9,10 @@
 - » [Google Doc](https://docs.google.com/document/d/1WvCmvNeQLHy9XqiL1iq7fvSHllou6Liq8JJcxHag3tQ/edit?usp=sharing)
 - 
 - ---
+- ## Summer '22 Reading Tracks 
+    - Prompt Engineering/Step by Stepism 
+        - https://twitter.com/vgr/status/1529870394034794499?s=20&t=nV3ifgXYig3NwiagibAH2Q
+    - 
 - ## 2021-22 Tracks
 - ### Nature and Long-Term Thinking
     - **Completed**
@@ -293,6 +297,27 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
                 - interesting question - what was the process of arriving at this cliche. fitting the narrative to cliche.
                 - analyzed whats going on and arrived at cliches? 
                 - we have to be careful with what we can learn from our experience, so that we dont arrive at the cliches. We should not fit the narrative of the cliche. 
+        - Messi thread 
+            - Sachin
+                - Messi's style of play has to be complimented with a specific strategy that works for messi. which means other players have to sort of sacrifice or play a different role 
+                - Also when messi works - seems like he does the work of 2-3 brilliant players at the same time. 
+                - longer he goes in his career - has the charismatic effect - more defenders engage him which leads to srendipity for other players in other parts of the pitch and zemblanity for the opposition 
+                - In most organizations there is a need to justify everything you do - exploratory periods are fewer - actual mistakes or things leading to dead ends are not admitted 
+                - Messi was sick as a child and had lactic acid build up fast
+                - Alexander technique/non judgemental awarness is curative
+            - Grigori 
+                - wrong frame to focus on just one player 
+                - creating space passively vs actively 
+            - Jenna
+                - Wu-Wei parallels 
+                - Messi is naturally this way
+                - effective non action
+            - Venkat 
+                - wu-wei 
+                - adapting around other players strength - more possible in soccer than other games - how much is it a function of the looseness of the rules 
+                - modern war is more like soccer and older war is more like american football 
+                - working around energy patterns. - similar to wind in the willows. instead of starting with a goal, start with what you are capable. 
+                - where can I walk to that is more effective vs where can I run to 
     - **Queued**
         - [W3C Privacy War on Protocol](https://www.protocol.com/policy/w3c-privacy-war)
         - [Spotify: An Emergent Organization](https://www.workfutures.io/p/spotify-an-emergent-organization)
