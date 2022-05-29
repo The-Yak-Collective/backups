@@ -121,3 +121,20 @@
                 - what does infesting the city look like
                     - controlling drones that belong to others
                     - hacking into neural links of other people to use them as zombies out
+- Week 7
+    - Reading for the week is this [David Foster Wallace piece on how TV influences fiction](https://jsomers.net/DFW_TV.pdf)
+    - Prompt: write character treatments for 2-3 people you dont know in real life but only through twitter or other places on the internet. the treatment should be couple of character traits + what would be a storyworthy moment in their life?
+    - couple of quotes on what I mean by storyworthy moment from the Matthew Dicks book with the same title: [discord message link to quote images](https://discord.com/channels/692111190851059762/709768319108120636/977610234564575242)
+    - Venkat's response
+        - Trump
+            - Trait 1: Deeply sensitive to perceived humiliation/disrespect
+            - Trait 2: Likes to exercise power over people
+            - Storyworthy moment: The first time he realized that people who were being nice to his face were laughing at him behind his back. Like a moment when he first overheard a sycophant making humiliating jokes about him.
+        - Vitalik
+            - Trait 1: Extremely complex thinker who can keep very complicated sets of interrelated ideas in his head
+            - Trait 2: Extremely strong sense of social responsibility
+            - Storyworthy moment: First true test of leadership, where he realized that despite his youth, older people were looking at him to lead the way on an important matter. Probably the DAO hack and ETC fork moment.
+        - AOC
+            - Trait 1: Able to have fun and exhibit humor in a way that's rare in politicians
+            - Trait 2: Extremely strong shitposting and online brawling intuitions
+            - Storyworthy moment: When she realized that she causes derangement syndrome on the right and could use it to her own advantage, like when the old college dance video emerged and she did a little dance in the hallway of congress... totally pwned people like Ben Shapiro

@@ -1,5 +1,5 @@
 - **Workshops being developed**
-    - [[Workshops]]
+    - [[Prompt School]]
 - ** Initial Discussion**
 - Rescue bots academy: https://en.wikipedia.org/wiki/Transformers:_Rescue_Bots_Academy [[Venkatesh Rao]]
 - Unseen university https://en.wikipedia.org/wiki/Unseen_University [[Venkatesh Rao]]

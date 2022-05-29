@@ -1,0 +1,19 @@
+- Existing commands
+    - `/promptrecall`: Private display of current prompt
+    - `/promptshow`: Public display of current prompt
+    - `/promptset`: Curator sets the current prompt, allows for one or more links. Should increment a counter on the prompt list and add the new prompt at the end, maintaining a list.
+- Proposed commands
+    - `/prompthelp`: Displays this list of prompt bot commands
+    - `/prompttrackinfo`: Displays blurb explaining the workshop (to be set by curator upon creation)
+    - `/promptrespond`: Input some text in response to a prompt. Should display a social-shareable badge or something. Should also mark the current prompt done, and update position by 1
+    - `/promptunrespond`: Delete response and decrement counter
+    - `/promptreset`: Should replace the current prompt and throw away the existing one, without archiving or incrementing the counter (soft norm to be used by curators only)
+    - `/promptlist`: Show numbered list of last 10 prompts or something (private? public?)
+    - `/promptmates`: Show a list of people with at least one completed prompt, along with their current positions on the prompt track (possibly as a text graphic in future?). If ranked by position, it gives people an easy way to see who is nearest them for chatting, forming a soft cohort etc.
+    - `/promptrespondold [n]`: Input some text in response to an old prompt, referenced by number
+    - `/setposition [start | current | n]`: Set/reset the specific user's position in the prompt track to n
+- Brainstorm points:
+    - Should anyone be allowed to use curator commands? Don't police it, but set soft norms
+    - Is there an easy way to pipe the prompt list periodically to the website and/or Roam
+    - How to do bulk ops, like edit a lot of prompts at once? Ideally on a roam page or a markdown file
+    - How to insert new prompts in the middle of the prompt list if we discover that a logical step is missing? Or potentially re-order the list of prompts? This seems like something that should not be done on discord either... probably markdown?

@@ -1,0 +1,1 @@
+- Stub page for fermi gym channel in [[Prompt School]] track

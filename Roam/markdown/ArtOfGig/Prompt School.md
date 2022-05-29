@@ -1,0 +1,10 @@
+- Prompt school is a set of workshop tracks for learning varied topics of interest to Yak Collective members, run asynchronously (no regular meetings), and built around a weekly prompt in a Discord channel.
+- [[Webpage copy]]
+- [[Email blast copy]]
+- [[Brainstorm for Prompt Bot]]
+- Active Workshops
+    - [[Astonishing Workshop]]
+    - [[AI Workshop]]
+    - [[Terraforming Workshop]]
+    - [[Fermi Gym]]
+- 

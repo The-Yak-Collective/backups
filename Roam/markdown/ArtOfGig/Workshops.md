@@ -1,5 +1,0 @@
-- Workshops are ongoing learning activity streams, run asynchronously (no regular meetings) and built around a weekly prompt in a Discord channel.
-- [[Astonishing Workshop]]
-- [[AI Workshop]]
-- [[Terraforming Workshop (In Development)]]
-- [[Fermi Gym (Under development)]]
