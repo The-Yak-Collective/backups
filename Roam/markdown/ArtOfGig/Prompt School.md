@@ -2,6 +2,7 @@
 - [[Webpage copy]]
 - [[Email blast copy]]
 - [[Brainstorm for Prompt Bot]]
+- [[Prompt School Curator Checklist]]
 - Active Workshops
     - [[Astonishing Workshop]]
     - [[AI Workshop]]

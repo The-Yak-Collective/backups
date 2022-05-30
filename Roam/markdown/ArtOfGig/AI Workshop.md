@@ -1,17 +1,17 @@
 - Page for the #ai-workshop channel on Discord
 - We read a paper/article or do a small learning task every week. New readings and prompts are posted on Tuesdays.
-- April 12, Week 1: [ML Perf paper](https://arxiv.org/pdf/1910.01500.pdf)
+- Week 1: [ML Perf paper](https://arxiv.org/pdf/1910.01500.pdf)
     - Venkat: ML Perf is more like SATs or GRE than like traditional hardware benchmarking, which is more like EEGs or fMRI
-- April 19, Week 2: [Taxonomy of NNs](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+- Week 2: [Taxonomy of NNs](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
     - Prompt: What would good 2x2 axes for this taxonomy be?
-- April 26, Week 3: Transformers, read at least one of the 3 things below
+- Week 3: Transformers, read at least one of the 3 things below
     - Good [less-technical explainer](https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication)
     - Good [more-technical explainer](https://jalammar.github.io/illustrated-transformer/)
     - The original paper, [Attention is all you need](https://arxiv.org/abs/1706.03762) is really hard...
-- May 3, Week 4: Try out this [Browser-based tensorflow](https://playground.tensorflow.org/) for 15 minutes and share a screenshot
-- May 10, Week 5: Spend 15 minutes trying out this browser-based model training wizard to recognize a voice phrase or object (via Anuraj) 
-- May 17, Week 6: Read and comment on this article from 2021, focusing on insights that are still fresh versus things that have become obsolete [AI is learning how to create itself](https://www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/)
-- May 23, Week 7: Read up on the basics of discrete convolutions and make up and solve by hand a simple example of a 2d convolution on a 5x5 black and white "image" matrix of 0s and 1 and a 3x3 "convolution mask." Either with code or pencil and paper, generate before/after images (use partial hatching to indicate grayscale). There are many tutorials. Here is a decent one, but if you find a better one, post a link here. Note that the Wikipedia and Wolfram Mathworld pages are much more technical and cover continuous domain so don't start there unless you are already comfortable with the math. [2d convolution tutorial](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+- Week 4: Try out this [Browser-based tensorflow](https://playground.tensorflow.org/) for 15 minutes and share a screenshot
+- Week 5: Spend 15 minutes trying out this browser-based model training wizard to recognize a voice phrase or object (via Anuraj) 
+- Week 6: Read and comment on this article from 2021, focusing on insights that are still fresh versus things that have become obsolete [AI is learning how to create itself](https://www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/)
+- Week 7: Read up on the basics of discrete convolutions and make up and solve by hand a simple example of a 2d convolution on a 5x5 black and white "image" matrix of 0s and 1 and a 3x3 "convolution mask." Either with code or pencil and paper, generate before/after images (use partial hatching to indicate grayscale). There are many tutorials. Here is a decent one, but if you find a better one, post a link here. Note that the Wikipedia and Wolfram Mathworld pages are much more technical and cover continuous domain so don't start there unless you are already comfortable with the math. [2d convolution tutorial](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 - Backlog/hopper
     - https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/
     - Hands on 1

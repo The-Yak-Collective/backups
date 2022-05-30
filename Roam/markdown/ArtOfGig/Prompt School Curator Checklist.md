@@ -1,0 +1,11 @@
+- Participate in an existing prompt workshop for a while before proposing your own
+- Try to recruit a couple of people with interest in the prompt workshop before putting in the bootstrap work
+- Familiarize yourself with the [[Brainstorm for Prompt Bot]] to understand the medium you're working with
+- Make a Roam page with an overall description and a few weeks worth of sample prompts, and link it on the [[Prompt School]] page under Active Workshops. Put (under development) in the title. Do not put absolute dates on the prompts. Tag them __Week 1, Week 2__ etc. See existing examples for guidance
+- Propose the prompt workshop in the #proposal-log channel. If it gets 4+ votes it gets created in the Prompt School category. 
+- Post an intro message including a link to your roam page. Remove the under development from the title.
+- Post your first prompt. 
+- Best practices for prompts
+    - Keep the work restricted to a single action, like a single reading or concept
+    - Make the prompt related to the reading/concept and keep it as bite-sized as possible, ideally doable in under 15 minutes
+    - Specify the form of the response as clearly as possible. For example "A comment on the article along with an example of the concept you thought of". If you want people to post something longer, link to a suitable roam page location where they can do so

@@ -138,3 +138,20 @@
             - Trait 1: Able to have fun and exhibit humor in a way that's rare in politicians
             - Trait 2: Extremely strong shitposting and online brawling intuitions
             - Storyworthy moment: When she realized that she causes derangement syndrome on the right and could use it to her own advantage, like when the old college dance video emerged and she did a little dance in the hallway of congress... totally pwned people like Ben Shapiro
+    - Sachin's response 
+        - Zero HP Lovecraft 
+            - traits
+                - sharp nihilistic shitposting instinct that makes him seem like a postmodern prophet 
+                - likely does not believe in most of the things he says, says it for the lulz and does not believe it will have huge second order effects
+            - SW moment: when he realizes that it is entertaining and profitable for him to shitpost as an anon while being removed from any consequences 
+        - @peachblvd 
+            - traits
+                - extremely beautiful and could be a type of e-girl but chooses not to be 
+                - is actually 23 but has the level headedness of a 35 year old 
+            - SW moment: When realizes the power women's beauty has on men but decides not to  use that as much as she could
+        - @poetrygrifter
+            - traits
+                - someone late to being extremely online, got into it because of the pandemic 
+                - has reactionary aesthetics but in reality is a true believer in liberalism 
+                - has a "centrist" "moderate" personality 
+            - SW moment: realizes that LARP as reactionary leads to become an actual reactionary
