@@ -7,24 +7,20 @@
         - Week zero -- background / context
             - PROMPT: share an image -- from a movie, sci fi book, meme, whatever -- that embodies your default mental model of how climate change will impact YOUR life in 20 years. 
         - Week one 
-            - The First Terraforming https://studio.ribbonfarm.com/p/the-first-terraforming?s=r 
-            - Why Solving Climate Change Will Be Like Mobilizing for War https://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/ 
-            - PROMPT what resonates in the terraforming framing? What doesn't? What about framing climate action in terms of mobilizing for war? 
-        - Week two / three -- modeling how we combat climate change (part 1)
-            - Mental model for combatting climate change
-                - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66 
-                - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r  
-                - PROMPT
-        - Week three  -- modeling how we combat climate change (part 2)
             - Global tool for simulating policy tradeoffs 
                 - Spend 15-20 minutes playing around with the following tool
                 - https://www.climateinteractive.org/en-roads/#:~:text=What%20is%20En%2DROADS%3F,quality%2C%20and%20sea%20level%20rise.
                 - Prompt: What surprised you in playing around with the tool? What implicit assumptions are embedded in this type of model? 
-        - Week NUMBER
+        - Week two -- modeling how we combat climate change (part 1)
+            - Mental model for combatting climate change
+                - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66 
+            - Prompt: what's missing from the model?
+        - Week three  -- modeling how we combat climate change (part 2)
+            - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r  
+            - Prompt: what surprised you in Naam's predictions? What was missing? 
+        - Week four
             - Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf 
-        - Week NUMBER
-            - Mission Possible: Reaching net-zero carbon emissions from harder-to-abate sectors https://www.energy-transitions.org/publications/mission-possible/#download-form 
-        - Weeks NUMBER -- Regional Climate Impacts
+        - Weeks five-- Regional Climate Impacts
             - India?
                 - Heat wave, wet bulb 35 in Ministry for the Future
             - China?
@@ -87,6 +83,8 @@ above pre-industrial levels
             - https://www.energy-transitions.org/publications/mind-the-gap-cdr/
             - Maybe add in a resource on how Stripe and Microsoft are helping to seed the marketplace?
             - The other angle is the variety of technological approaches (DAC, mineralization etc)
+        - Other
+            - Mission Possible: Reaching net-zero carbon emissions from harder-to-abate sectors https://www.energy-transitions.org/publications/mission-possible/#download-form 
     - **Third season** -- **Collective Action** --  "How do we get it done? Four objectives guide us on how to avert disaster and ensure a livable planet for generations to come."
         - Win politics and policy
             - EV transition in CA
@@ -113,3 +111,9 @@ above pre-industrial levels
         - also see the rocky mountain institute
         - see also Pete Weber's presentation and also the tool
         - https://austinvernon.site/
+        - [[Readings from Berkeley Sustainability Course]]
+    - Contextual reading
+        - The First Terraforming https://studio.ribbonfarm.com/p/the-first-terraforming?s=r 
+        - Why Solving Climate Change Will Be Like Mobilizing for War https://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/ 
+        - PROMPT what resonates in the terraforming framing? What doesn't? What about framing climate action in terms of mobilizing for war? 
+- 

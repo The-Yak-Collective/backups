@@ -121,10 +121,27 @@
                 - what does infesting the city look like
                     - controlling drones that belong to others
                     - hacking into neural links of other people to use them as zombies out
+        - patwaters response
+            - new animism
+            - cue the conduit
+            - 
 - Week 7
     - Reading for the week is this [David Foster Wallace piece on how TV influences fiction](https://jsomers.net/DFW_TV.pdf)
     - Prompt: write character treatments for 2-3 people you dont know in real life but only through twitter or other places on the internet. the treatment should be couple of character traits + what would be a storyworthy moment in their life?
     - couple of quotes on what I mean by storyworthy moment from the Matthew Dicks book with the same title: [discord message link to quote images](https://discord.com/channels/692111190851059762/709768319108120636/977610234564575242)
+    - patwater's response
+        - Tyler Cowen is a modern day Erasmus
+            - Extremely curious and influential in explaining the Renaissance to the old guard aka the established Catholic order. Erasmus  ultimately had a somewhat ambiguous relationship with the church as he struggled to straddle the old and new order
+            - Very prolific writer and seems to be disciplined with his time
+            - Storyworthy moment would be when the Great Weirding comes to a head and there's an intense conflict between the old and new orders 
+        - Musk
+            - SNL skit showed Musk's idosyncracies
+            - Extremely ambitious and able to articulate a vision that people want to follow 
+            - SW moment would be when the Mars colony gets started and declares independence from Earth 
+        - Vaclav Smil
+            - Reminds me of a hermit tinkering and writing in the forest
+            - Massive systems thinker, a bit of a 
+            - SW moment is after a 1177 BC style civilization collapse in the way of climate change he comes out and is celebrated as a great guru or his books are worshiped somewhat similar to A Canticle for Leibowitz
     - Venkat's response
         - Trump
             - Trait 1: Deeply sensitive to perceived humiliation/disrespect
@@ -155,3 +172,6 @@
                 - has reactionary aesthetics but in reality is a true believer in liberalism 
                 - has a "centrist" "moderate" personality 
             - SW moment: realizes that LARP as reactionary leads to become an actual reactionary
+- Week 8
+    - prompt for the week is continuing from the DFW reading last week: create a story circle for 2-3 metamodern characters. Use the DFW essay on TVs influence on fiction to think about what metamodern characters in 2021 looks like. Here is the reading on Dan Harmon's story circle https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details
+    - 

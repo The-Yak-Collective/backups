@@ -903,6 +903,99 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
             - [Presentation]([[Identity in web3]])
         10. May 23: [[2022 Stablecoin Crash Postmortem]]
         11. May 30: 
+            - Article https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
+            - Notes
+                - > Here’s a glossary to shorten some words that will show up ~43531756765713534 times:
+DA – Data Availability
+DAS – Data Availability Sampling
+PBS – Proposer-builder Separation
+PDS – Proto-danksharding
+DS – Danksharding
+PoW – Proof of Work
+PoS – Proof of Stake
+                - Part I
+                    - Use Erasure/Reed–Solomon encoding with polynomials to encode block data
+                        - Basic idea, you can regenerate a whole block with 50% of the block data (any 50% will do)
+                    - Use Fraud Proofs or KZG commits to be sure it was Erasure coded correctly.
+                        - Fraud Proofs - someone checks the whole block and if it's not encoded correctly, warns everyone (and gets a reward)
+                        - KZG commits - Use cryptography to show the data is properly encoded (Erasure codes are polynomials, so it's a polynomial commitment)
+                    - Have a large number of independent nodes sample the block data to check for availability. 
+                - Part II
+                    - History - Everything that happened on the chain
+                        - Calldata? Gas cost reduction(EIP-4488)
+                            - EIP-4488 is the band-aid solution which has two components
+                                - 16 gas to 3 gas per byte
+                                - limit ~1 MB per block + 300 bytes/transaction
+                            - EIP-4444 makes it possible to prune history older than one year for clients
+                                - ~2.5 TB storage per year when implemented
+                                - PDS is also ~2.5 TB
+                                - DS is ~40 TB
+                                - Who stores all history?? 
+                                    - Institutional volunteers, Block explorers, etc
+                            - Peer to Peer protocols used by Ethereum today are here [devp2p](https://github.com/ethereum/devp2p) which might be replaced by something called "checkpoint sync" with something called [weak subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/)
+                                - https://github.com/ethereum/devp2p
+                    - Weak Statelessness
+                        - State: too big for RAM, HDD is slow so we use SSD
+                        - Validation is stateful, to know if transactions are valid 
+                - Part III
+                - Part IV
+            - [[Ben Mahala]]
+                - We already live in multi-chain world. Merge all security together. Find someway to tie the economic finality of all the chains together. 
+                - Plasma chains - instead of all the data on chain put the hash of the Merkle Root
+                    - Discovered the Data Availability problem
+                - Ethereum treid to solve this with Erasure coding + proofs that the encoding was correct
+                    - Erasure codes use the fact that you can reconstruct any polynomial of degree d from any d+1 coordinates that lie on that polynomial. You encode the data onto a polynomial so it can be reconstructed with  
+                    - 
+            - [[Nathan Acks]]
+                - The first two “key takeaways” are really more “premises” for the entire piece. I find the second obvious but the first non-obvious.
+                    - “Ethereum is the only major protocol building a scalable unified settlement and data availability layer”
+                    - “Rollups scale computation while leveraging Ethereum’s security“
+                - Data availability sampling: If I understand what they’re driving at correctly, the idea is to represent data in a block using a high-degree polynomial, and then to calculate additional points on this polynomial for use in determining data validity.
+                    - If this understanding is correct, then the sample graphic illustrating the relationship between the original data points and the concurrent polynomial is __completely__ misleading.
+                    - I __think__ we’re using a 2x extension for the actual data with 50% sampling for validation when validating the initial block, but a 4x extension with 75% sampling for __reconstruction__.
+                    - The idea here here is to make it possible for low-powered nodes and light clients to reconstruct all of the data. Splitting up the data into more “KZG commitments” allows clients to sample discrete rows and columns of a block and then coordinate amongst themselves to determine is enough data is available for reconstruction.
+                    - I find the distinction between “polynomial” and “vector” commitments a bit weird, since polynomials __are__ vectors.
+                - In general, there was something about this piece that kind of rubbed me the wrong way. I can’t quite put my finger on it, but it doesn’t __feel__ like the system being described has the level of robustness or scalability being ascribed to it. But then, I’m not super-knowledgable about the inner workings of Ethereum.
+                    - I continue to suspect that monolithic scaling won’t work, and instead we need “chains of chains”. But this is really an old anarchist take on how to organizing at scale which would probably be attacked (somewhat ironically, IMHO) as “insufficiently decentralized” these days.
+            - [[JennaD]]
+                - Concluding Thoughts #[[JennaD]]
+                    - > All roads lead to the endgame of centralized block production, decentralized trustless block validation, and censorship resistance. Ethereum’s roadmap has this vision square in its sights.
+
+Ethereum aims to be the ultimate unified DA and settlement layer – massively decentralized and secure at the base with scalable computation on top. This condenses cryptographic assumptions to one robust layer. A unified modular (or [disaggregated](https://twitter.com/epolynya/status/1520266209861668864?s=20&t=PdcmqDUTjarL77tq-Z8cNQ) now?) base layer with execution included also captures the highest value across L1 designs – leading to monetary premium and economic security as I recently covered (now open-sourced [here](https://members.delphidigital.io/reports/valuing-layer-1s-memes-money-or-more)).
+
+I hope you gathered a clearer view of how Ethereum research is all so interwoven. There are so many moving pieces, it’s very cutting-edge, and there’s a really big picture to wrap your head around. It’s hard to keep track of.
+
+Fundamentally, it all makes its way back to that singular vision. Ethereum presents a compelling path to massive scalability while holding dear those values we care so much about in this space.
+                        - "baroque financial products that average investors can't understand" — this bit from the [Wired](https://www.wired.com/story/web3-paradise-crypto-arcade/) cover text seems relevant to our convo today — would love to know what our knowledgeable yaks think about legibility for normies and how we mitigate this particular aspect of risk down the road. #[[JennaD]]
+                        - > WARNING: Users enter into transactions at their own risk; Web3 is not responsible for money lost, NFTs stolen, passwords phished, or dreams shattered in the course of this experiment. The edifice of Web3 is built on trillions of dollars invested in cryptocurrencies that, as yet, have little to no proven utility other than as speculative assets. Liquidity is provided by baroque financial products that average investors can't understand, which may end badly. Decentralization may or may not be a technological feature of systems, as opposed to a market condition, and thus is not actually guaranteed. Many decentralized autonomous organizations (DAOs) are neither decentralized nor autonomous. Past hopes of fully decentralized, participatory versions of the internet have been repeatedly dashed. It might be unwise to put personal data on a permanent uneditable public database. It may not be possible to disentangle the idealistic aspirations of Web3 from the cynical profit-seeking behavior exhibited by much of the crypto market, which is heavily concentrated in the hands of a small number of superrich people and Institutions. People tend to find ways to game systems despite the best intentions of those systems' designers. Results may vary. STORY BY GILAD EDELMAN
+                    - If only geniuses can understand, what does that mean. 
+`smart` v `smart enough`
+                    - `Danksharding` ftw!
+                    - The general criticism of complexity is not on its own dealbreaking; tons of things in life are more complex than many can understand, never mind the things that no one understands.
+            - [[Maier Fenster]]
+                - maybe going slow is propery of the blockchain
+                - cell carriers used to make money now, now phone makers do. 
+            - [[Venkatesh Rao]]
+                - bitcoin and ethereum are philosopies of economy
+                - ethereums -> modern traditional economy
+                - bitcoin -> all this complexity that exists today is not needed
+                - whose calibration of the economy is correct?
+                - ashby's law of requisite variety
+                    - to control a complex system you need a complex system
+                    - https://en.wikipedia.org/wiki/Variety_(cybernetics)#Law_of_requisite_variety
+            - Open Discussion
+                - [[Ben Mahala]]
+                    - in the bitcoin space, there is something called the Drivechain proposal. https://www.truthcoin.info/ and  https://www.youtube.com/playlist?list=PLw8-6ARlyVciMH79ZyLOpImsMug3LgNc4  which is basically trying to do the same thing, but in a very Bitcoiny way
+                - [[Anuraj R]] https://www.stacks.co/
+                - [[Nathan Acks]] 
+                    - in future we might not have all data
+                    - what are ledger like things that are useful to do
+                        - [[Maier Fenster]] not just a ledger. also software and a virtual machine! so a smart ledger
+                - [[Maier Fenster]]
+                    - https://brettscott.substack.com/p/crypto-countertrade?s=r
+                        - crypto is not money, but a tool
+                - [[JennaD]]
+                    - https://en.wikipedia.org/wiki/Variety_(cybernetics)
         12. June 6: 
         13. __June 13: Summer planning__
             - Maybe work on a paper?

@@ -1,1 +1,29 @@
-- Stub page for fermi gym channel in [[Prompt School]] track
+- The Fermi Gym is part of the [[Prompt School]]. It originated as a series of live sessions conducted by James Giammona in early 2022, and moved here to the Yak Collective in May 2022.
+- The basic idea of Fermi estimation is to apply simple, foundational science concepts and known basic quantities to estimate various quantities of interest. Usually only very simple arithmetic and algebra are required. To get an idea of what it's like, try a simple example -- estimate the mass of the earth to within +/- an order of magnitude, starting only with facts you already know off the top of your head. If you'd like to get a more comprehensive start, view the first video in James Giammona series linked in the references section below, and consider buying the Sanjoy Mahajan book. In general, we try to estimate answers using what we already know off the top off our heads, but Googling for starter data is fine. 
+- We take turns posting a problem in the Discord channel every Monday, using the prompt bot (under development, see [[Brainstorm for Prompt Bot]]). The others in the group then take a stab at solving it. If you'd like to participate in problem-setting, simply add yourself to list of names below.  We will rotate through the week, and each person will "tag" the next person in the Discord channel
+- **Prompter Rotation**
+    - Mauro Riccardi
+    - Ankit
+    - Venkatesh Rao
+    - Victor Hill
+- **Log of weekly problems**
+    - Week 1: [[How much water can a towel hold?]] -- Mauro
+    - Week 2: TBD Ankit
+    - Week 3: TBD Venkatesh Rao
+    - Week 4: TBD Victor Hill
+- **References**
+    - [James Giammona Video series (7 video sessions)](https://www.youtube.com/results?search_query=james+giammona)
+    - Main recommended book: [Sanjoy Mahajan, Art of Insight in Science and Engineering](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549/)
+    - Alternate: [Sanjoy Mahajan, Street Fighting Mathematics](https://www.amazon.com/Street-Fighting-Mathematics-Educated-Guessing-Opportunistic/dp/026251429X/)
+    - Another book: [Consider a Spherical Cow](https://www.amazon.com/Consider-Spherical-Cow-Environmental-Problem/dp/093570258X)
+    - Book of cell visualizations: [Machinery of Life](https://ccsb.scripps.edu/goodsell/machinery-of-life/)
+    - Biology numbers: http://book.bionumbers.org/
+    - Weight of stuff website: https://weightofstuff.com/
+    - Time perspectives: https://waitbutwhy.com/2013/08/putting-time-in-perspective.html
+    - Our world in data: https://ourworldindata.org/
+    - Nature article on biomass vs. artificial mass: https://www.nature.com/articles/s41586-020-3010-5.epdf
+    - Materials in a battery 
+        - https://twitter.com/jamestfrith/status/1522238154635362305?s=21&t=5U5LM3LtWUqcAhPEqMZb7w
+        - 
+    - Productized fermi gym game: https://www.confidentgame.com/
+    - 

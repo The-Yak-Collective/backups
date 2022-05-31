@@ -477,12 +477,12 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - June 7th ---  Link Grooming - Everyone
     - June 14th
     - June 21st
-    - June 28th
-    - July 5th
-    - July 12th
+    - June 28th: Venkat
+    - July 5th — US 4th of July weekend, maybe skip?
+    - July 12th: [[Maier Fenster]]
     - July 19th
     - August 2nd
     - August 9th
-    - August 16th
+    - August 16th Victor
     - August 23rd --- On the Shape of YR - Once a cycle meta discussion following https://roamresearch.com/#/app/ArtOfGig/page/yLECPNlKA
     - August 30th

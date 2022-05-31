@@ -1,0 +1,2 @@
+- Example of Latex formatting $$ax^2+bx+c=0$$
+- 

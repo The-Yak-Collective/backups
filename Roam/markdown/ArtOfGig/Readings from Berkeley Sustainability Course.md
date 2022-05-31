@@ -1,0 +1,158 @@
+- **From Crises to Sustainable Industry?**
+    - McKibben, Bill, (2020), “130 Degrees,” __The New York Review of Books__, August 20, 2020, available at: [https://www.nybooks.com/articles/2020/08/20/climate-emergency-130-degrees/ (Links to an external site.)](https://www.nybooks.com/articles/2020/08/20/climate-emergency-130-degrees/)
+        - Alt review: https://yaleclimateconnections.org/2020/08/mark-lynas-final-warning-on-climate-its-all-on-us-here-now/
+    - Bakker, Peter and John Elkington, (2020), “To build back better, we must reinvent capitalism. Here’s how,” __World Economic Forum__, July 13, 2020. Available at: [https://www.weforum.org/agenda/2020/07/to-build-back-better-we-must-reinvent-capitalism-heres-how/ (Links to an external site.)](https://www.weforum.org/agenda/2020/07/to-build-back-better-we-must-reinvent-capitalism-heres-how/)
+    - In Class Exercise: En-ROADS
+    - [https://www.climateinteractive.org/tools/guided-assignment-old/guided-assignment-welcome/ (Links to an external site.)](https://www.climateinteractive.org/tools/guided-assignment-old/guided-assignment-welcome/)
+    - [https://en-roads.climateinteractive.org/scenario.html?v=2.7.19 (Links to an external site.)](https://en-roads.climateinteractive.org/scenario.html?v=2.7.19)
+- **History of Industrialization**
+    - Dicken, Peter, (2015), “The Centre of Gravity Shifts,” Chapter 2 in __Global Shift: Mapping the Changing Contours of the World Economy, __Guilford Press, 7th Edition.
+    - “Manufacturing: From Past to Present,” __InventionLand__, available at: [https://inventionland.com/blog/manufacturing-past-present/ (Links to an external site.)](https://inventionland.com/blog/manufacturing-past-present/)
+    - Davis, Nicholas, and Derek O’Halloran, “The Fourth Industrial Revolution is driving Globalization 4.0,” __World Economic Forum__, November 8, 2018, available at:
+    - [https://www.weforum.org/agenda/2018/11/the-fourth-industrial-revolution-is-driving-a-new-phase-of-globalization/ (Links to an external site.)](https://www.weforum.org/agenda/2018/11/the-fourth-industrial-revolution-is-driving-a-new-phase-of-globalization/)
+- **Phases of Corporate Sustainability**
+    - Hawken, P., A. Lovins, and L.H. Lovins (1999), “The Next Industrial Revolution,” __Natural Capitalism__, Boston: Little, Brown and Company, pp:1-21.
+    - Gunningham, N., & Holley, C. (2016), “Next-generation environmental regulation: law, regulation, and governance,” __Ann. Rev. Law Soc. Sci.__, 12 (1) (2016), pp. 273-293
+- **– The Core Functions and Capabilities of Firms**
+    - Ketata, I., Sofka, W., & Grimpe, C. (2015), “The role of internal capabilities and firms’ environment for sustainable innovation: evidence for Germany,” __R&D Management__, 45(1), 60-75.
+    - Teece, David J, (2018), “Business Models and Dynamic Capabilities”,__ Long Range Planning__, 51, 40-49.  [https://berkeley.app.box.com/file/710429355987?s=jwunic9f34g2wpjingsba09pxsii9bjf (Links to an external site.)](https://berkeley.app.box.com/file/710429355987?s=jwunic9f34g2wpjingsba09pxsii9bjf)
+    - Cornet, Manu, Organizational Charts, available at: [https://bonkersworld.net/organizational-charts (Links to an external site.)](https://bonkersworld.net/organizational-charts)
+- ** – External Pressures on Firms**
+    - Winston, Andrew, (2019) “The Top Sustainability Stories of 2019,” __Harvard Business Review__, available at: [https://hbr.org/2019/12/the-top-sustainability-stories-of-2019 (Links to an external site.)](https://hbr.org/2019/12/the-top-sustainability-stories-of-2019)
+    - O’Rourke, Dara, (2005), “Market Movements: Nongovernmental Strategies to Influence Global Production and Consumption” __Journal of Industrial Ecology,__ vol. 9, no. 1-2.
+    - Eccles, Robert and Svetlana Klimenko, (2019), “The Investor Revolution” __Harvard Business Review__, May, 2019.
+- **Environmental Life Cycle Assessment – Part 1**
+    - Scott Matthews, Chris T. Hendrickson and Deanna H. Matthews, (2015), Chapter 1 in__ Life Cycle Assessment: Quantitative Approaches for Decisions that Matter__, Open access textbook, retrieved from: [https://www.lcatextbook.com/ (Links to an external site.)](https://www.lcatextbook.com/)
+    - Carnegie-Mellon, Economic Input-Output LCA tool: [http://www.eiolca.net/cgi-bin/dft/use.pl (Links to an external site.)](http://www.eiolca.net/cgi-bin/dft/use.pl)
+    - Guest Lecture: Michael Taptich, Senior Research Scientist, Amazon (former Berkeley PhD)
+- **Supply Chain Mapping**
+    - Goldstein, Benjamin, and Joshua Newell, (2020), “How to track corporations across space and time,” __Ecological Economics__, 169.
+    - Bonanni, L., Hockenberry, M., Zwarg, D., Csikszentmihalyi, C., & Ishii, H. (2010). Small business applications of sourcemap: a web tool for sustainable design and supply chain transparency. In __Proceedings of the SIGCHI Conference on Human Factors in Computing Systems__ (pp. 937-946).
+    - Mapping supply chains with:
+    - SourceMap - [https://open.sourcemap.com/ (Links to an external site.)](https://open.sourcemap.com/)
+    - Supply Shift - [https://www.supplyshift.net/ (Links to an external site.)](https://www.supplyshift.net/)
+    - EcoVadis - [https://ecovadis.com/ (Links to an external site.)](https://ecovadis.com/)
+    - Open Apparel Registry - [https://openapparel.org/ (Links to an external site.)](https://openapparel.org/)
+- **Environmental Life Cycle Assessment – Part 2**
+    - Scientific Applications International Corporation, (2006), “Life Cycle Assessment: Principles and Practice,” US EPA, EPA/600/R-06/060.
+    - In Class Exercise: Analyzing the “Ecological Footprint” of your personal consumption
+    - Personal Carbon Footprint Calculator? [https://coolclimate.org/calculator (Links to an external site.)](https://coolclimate.org/calculator)
+- **Workers Rights**
+    - WSR, “What Is Worker-driven Social Responsibility (WSR)?”, July 11, 2017.
+    - [https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo (Links to an external site.)](https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo)
+    - Outhwaite, O., & Martin-Ortega, O. (2019). Worker-driven monitoring–Redefining supply chain monitoring to improve labour rights in global supply chains. __Competition & Change__, __23__(4), 378-396.
+    - re/make - #PayUp Campaign.
+    - [https://remake.world/stories/news/under-paid-in-the-pandemic-a-close-look-at-garment-maker-wage-gaps-during-covid-19/ (Links to an external site.)](https://remake.world/stories/news/under-paid-in-the-pandemic-a-close-look-at-garment-maker-wage-gaps-during-covid-19/)
+    - [https://remake.world/stories/made-in/made-in-america/ (Links to an external site.)](https://remake.world/stories/made-in/made-in-america/)
+    - re/make Product Sustainability Tool:
+    - [https://docs.google.com/spreadsheets/d/1z8oDutghxwmqWNSbdz_md0oZwb4-ls0jvj-gkLWCRwM/edit#gid=776574139 (Links to an external site.)](https://docs.google.com/spreadsheets/d/1z8oDutghxwmqWNSbdz_md0oZwb4-ls0jvj-gkLWCRwM/edit#gid=776574139)
+    - Guest Speaker: Ayesha Barenblat, Executive Director, re/make
+- **Metrics & Indicators**
+    - Cohen, S., Bose, S., Guo, D., Miller, A., DeFrancia, K., Berger, O., & Zhang, C. (2014). The growth of sustainability metrics. __Sustainability Metrics White Paper Series: 1 of 3. The Earth Institute Research Program on Sustainability Policy and Management. Columbia University__.
+    - Unilever - [https://www.unilever.com/sustainable-living/our-approach-to-reporting/sustainability-performance-data/ (Links to an external site.)](https://www.unilever.com/sustainable-living/our-approach-to-reporting/sustainability-performance-data/) (+ spreadsheet of data)
+    - Walmart - [https://corporate.walmart.com/esgreport/data (Links to an external site.)](https://corporate.walmart.com/esgreport/data)
+    - TSC Key Performance Indicators:
+    - [https://www.sustainabilityconsortium.org/what-we-offer/thesis/#av_section_2 (Links to an external site.)](https://www.sustainabilityconsortium.org/what-we-offer/thesis/#av_section_2)
+    - [https://www.sustainabilityconsortium.org/tsc-downloads/coffee-product-sustainability-toolkit-supply-chain-diagram/ (Links to an external site.)](https://www.sustainabilityconsortium.org/tsc-downloads/coffee-product-sustainability-toolkit-supply-chain-diagram/)
+    - Country-level indicators (SDG) and rankings/dashboards...
+    - [https://www.globalgoals.org/ (Links to an external site.)](https://www.globalgoals.org/)
+    - [https://www.un.org/sustainabledevelopment/sustainable-development-goals/ (Links to an external site.)](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+- **Social Life Cycle Assessment**
+    - Benoit-Norris, C., Cavan, D. A., & Norris, G. (2012). Identifying social impacts in product supply chains: overview and application of the social hotspot database. __Sustainability__, __4__(9), 1946-1965.
+    - Fashion Revolution, (2015), “The 2 Euro T-Shirt – a Social Experiment,”[https://www.youtube.com/watch?v=KfANs2y_frk (Links to an external site.)](https://www.youtube.com/watch?v=KfANs2y_frk)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?v=KfANs2y_frk)
+- **The Higg Index**
+    - The Sustainable Apparel Coalition and the Higg Index:
+    - [https://apparelcoalition.org/the-sac/ (Links to an external site.)](https://apparelcoalition.org/the-sac/)
+    - [https://higg.com/tools-services/ (Links to an external site.)](https://higg.com/tools-services/)
+    - [https://www.rse-et-ped.info/wp-content/uploads/2018/04/SAC-Overview-RSEPED.pdf (Links to an external site.)](https://www.rse-et-ped.info/wp-content/uploads/2018/04/SAC-Overview-RSEPED.pdf)
+- **Transparency & Reporting** 
+    - Global Reporting Initiative, [www.globalreporting.org (Links to an external site.)](http://www.globalreporting.org/)
+    - [https://www.globalreporting.org/information/sustainability-reporting/Pages/default.aspx (Links to an external site.)](https://www.globalreporting.org/information/sustainability-reporting/Pages/default.aspx)
+    - SASB - [https://www.sasb.org/ (Links to an external site.)](https://www.sasb.org/)
+    - [https://materiality.sasb.org/ (Links to an external site.)](https://materiality.sasb.org/)
+    - Transparentem: https://www.transparentem.com/projects/
+    - Starbucks - [https://traceability.starbucks.com/#/ (Links to an external site.)](https://traceability.starbucks.com/#/)
+    - Patagonia - [https://www.patagonia.com/factories-farms-mills/ (Links to an external site.)](https://www.patagonia.com/factories-farms-mills/)
+- **Design for Environment**
+    - McDonough, W. and M. Braungart, (2002), “A Question of Design,” and “Why Being ‘Less Bad’ is No Good,” in __Cradle to Cradle__, New York: North Point Press, pp.: 17-67.
+    - Telenko, C., O'Rourke, J. M., Conner Seepersad, C., & Webber, M. E. (2016). A compilation of design for environment guidelines. __Journal of Mechanical Design__, __138__(3).
+    - Benyus, Janine, (2014), “Creating a Bio-Industrial Revolution,” TED Active Talk, available at:[https://www.youtube.com/watch?v=sf4oW8OtaPY (Links to an external site.)](https://www.youtube.com/watch?v=sf4oW8OtaPY)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?v=sf4oW8OtaPY)
+    - Cases:
+    - Apple
+    - [https://www.youtube.com/watch?v=AYshVbcEmUc (Links to an external site.)](https://www.youtube.com/watch?v=AYshVbcEmUc)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?v=AYshVbcEmUc)
+    - [https://www.youtube.com/watch?v=2Bu-gl7v-P8 (Links to an external site.)](https://www.youtube.com/watch?v=2Bu-gl7v-P8)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?v=2Bu-gl7v-P8)
+    - [https://www.forbes.com/sites/patrickmoorhead/2018/04/19/apples-new-iphone-recycling-robot-daisy-is-impressive-and-in-austin/#40301d097f2e (Links to an external site.)](https://www.forbes.com/sites/patrickmoorhead/2018/04/19/apples-new-iphone-recycling-robot-daisy-is-impressive-and-in-austin/#40301d097f2e)
+    - DSM Niaga - [https://www.dsm-niaga.com (Links to an external site.)](https://www.dsm-niaga.com/)
+    - [https://berkeley.box.com/s/701xbulphcmyxt81g5l2bngf80e05v7w (Links to an external site.)](https://berkeley.box.com/s/701xbulphcmyxt81g5l2bngf80e05v7w)
+    - In Class Exercise: Sustainable Product Design
+- **Sustainable Business Models**
+    - Evans, S., Vladimirova, D., Holgado, M., Van Fossen, K., Yang, M., Silva, E. A., & Barlow, C. Y. (2017). Business model innovation for sustainability: Towards a unified perspective for creation of sustainable business models. __Business Strategy and the Environment__, __26__(5), 597-608.
+    - Young, David and Martin Reeves, (2020), “The Quest for Sustainable Business Model Innovation,” __BCG__, available at: [https://www.bcg.com/publications/2020/quest-sustainable-business-model-innovation (Links to an external site.)](https://www.bcg.com/publications/2020/quest-sustainable-business-model-innovation)
+    - Business Model Canvas examples: [**https://www.strategyzer.com/expertise/business-models** (Links to an external site.)](https://www.strategyzer.com/expertise/business-models)
+    - Cases:
+    - Tom’s - “One for One” business model reflection:
+    - [https://fashionista.com/2019/11/toms-evolves-one-for-one-model (Links to an external site.)](https://fashionista.com/2019/11/toms-evolves-one-for-one-model)
+    - Lyft – [https://berkeley.box.com/s/m34i7un7olqqz98ih09tey1nydb2az6r (Links to an external site.)](https://berkeley.box.com/s/m34i7un7olqqz98ih09tey1nydb2az6r)
+- **Circular Business Models**
+    - Stahel, Walter, (2016), “The Circular Economy,” Nature, available at: [https://www.nature.com/news/the-circular-economy-1.19594 (Links to an external site.)](https://www.nature.com/news/the-circular-economy-1.19594)
+    - Ellen MacArthur Foundation...
+    - [https://www.ellenmacarthurfoundation.org/explore/the-circular-economy-in-detail (Links to an external site.)](https://www.ellenmacarthurfoundation.org/explore/the-circular-economy-in-detail)
+    - [https://www.circulardesignguide.com/methods (Links to an external site.)](https://www.circulardesignguide.com/methods)
+    - Cases:
+    - Nike, “10 Principles of Circular Design,” available at: [https://www.nikecirculardesign.com/guides/MiniGuide.pdf (Links to an external site.)](https://www.nikecirculardesign.com/guides/MiniGuide.pdf)
+    - Nike, “7 Ways Nike Is Taking Action for a Better, More Circular Future,” available at: [https://purpose.nike.com/seven-ways-nike-is-taking-action (Links to an external site.)](https://purpose.nike.com/seven-ways-nike-is-taking-action)
+    - Daimler – Case: “Circular Economy and the auto industry,” available at:
+    - [https://berkeley.app.box.com/file/701150003524?s=cui5ibuy6ulunwuxxb2g23x08o3wukqw (Links to an external site.)](https://berkeley.app.box.com/file/701150003524?s=cui5ibuy6ulunwuxxb2g23x08o3wukqw)
+    - Loop - [https://loopstore.com/ (Links to an external site.)](https://loopstore.com/)
+- **Sustainable Energy**
+    - Roberts, David (2020), “How to drive fossil fuels out of the US economy, quickly,” vox.com, available at: [https://www.vox.com/energy-and-environment/21349200/climate-change-fossil-fuels-rewiring-america-electrify (Links to an external site.)](https://www.vox.com/energy-and-environment/21349200/climate-change-fossil-fuels-rewiring-america-electrify)
+    - Griffith, Saul and Sam Calisch, (2020), “Mobilizing for a zero carbon America: Jobs, jobs, jobs, and more jobs,” July 29, 2020.
+    - Shell’s 2050 Plan:
+    - [https://www.shell.com/energy-and-innovation/the-energy-future/what-is-shells-net-carbon-footprint-ambition.html (Links to an external site.)](https://www.shell.com/energy-and-innovation/the-energy-future/what-is-shells-net-carbon-footprint-ambition.html)
+    - BP’s Plan:
+    - [https://www.weforum.org/agenda/2020/08/bp-green-renewable-energy-investment?utm_source=twitter&utm_medium=social_scheduler&utm_term=Decarbonizing+Energy&utm_content=25/08/2020+06:00 (Links to an external site.)](https://www.weforum.org/agenda/2020/08/bp-green-renewable-energy-investment?utm_source=twitter&utm_medium=social_scheduler&utm_term=Decarbonizing+Energy&utm_content=25/08/2020+06:00)
+    - IEA, (2020), World Energy Outlook, 2019, available at: [https://www.iea.org/reports/world-energy-outlook-2019 (Links to an external site.)](https://www.iea.org/reports/world-energy-outlook-2019)
+- **Sustainable Materials**
+    - Liedtke, C., Bienge, K., Wiesen, K., Teubler, J., Greiff, K., Lettenmeier, M., & Rohn, H. (2014). Resource use in the production and consumption system—The MIPS approach. __Resources__, __3__(3), 544-574.
+    - Olivetti, E. A., & Cullen, J. M. (2018). Toward a sustainable materials system. __Science__, __360__(6396), 1396-1398.
+    - Cases:
+    - Patagonia – Kammen, D. M., Hendricks, P., Pendleton-Knoll, S., Stanley, V., & Strand, R. (2018). __Patagonia's Path to Carbon Neutrality by 2025__. Berkeley-Haas Case Series. University of California, Berkeley. Haas School of Business.
+    - BMW - [https://berkeley.app.box.com/file/712063561955?comment_id=340281080&sb=/activity/comments/340281080 (Links to an external site.)](https://berkeley.app.box.com/file/712063561955?comment_id=340281080&sb=/activity/comments/340281080)
+- **Sustainable Manufacturing**
+    - Carla Gonçalves Machado, Mats Peter Winroth & Elias Hans Dener Ribeiro daSilva (2020) “Sustainable manufacturing in Industry 4.0: an emerging research agenda,” __International Journal of Production Research__, 58:5, 1462-1484.
+    - Stock, T and Seliger, G, (2016), “Opportunities of Sustainable Manufacturing in Industry 4.0”, __Procedia CIRP __40 (January). Elsevier: 536–41.
+    - Cases:
+    - Adidas - Andria Cheng, “How Adidas Plans To Bring 3D Printing To The Masses,” Forbes, May 22, 2018, Available at: [https://www.forbes.com/sites/andriacheng/2018/05/22/with-adidas-3d-printing-may-finally-see-its-mass-retail-potential/#4e6792d54a60 (Links to an external site.)](https://www.forbes.com/sites/andriacheng/2018/05/22/with-adidas-3d-printing-may-finally-see-its-mass-retail-potential/#4e6792d54a60)
+    - Nike – Flyknit - [https://news.nike.com/news/four-years-of-nike-flyknit (Links to an external site.)](https://news.nike.com/news/four-years-of-nike-flyknit)
+- **Sustainable Transportation**
+    - Wang, Shiying and Mengpin Ge, “Everything You Need to Know About the Fastest-Growing Source of Global Emissions: Transport,” World Resources Institute, October 16, 2019, available at: [https://www.wri.org/blog/2019/10/everything-you-need-know-about-fastest-growing-source-global-emissions-transport (Links to an external site.)](https://www.wri.org/blog/2019/10/everything-you-need-know-about-fastest-growing-source-global-emissions-transport)
+    - Roberts, David, “The way we get around is about to change,” vox.com, available at: [https://www.vox.com/a/new-economy-future/transportation (Links to an external site.)](https://www.vox.com/a/new-economy-future/transportation)
+    - Taptich, M. N., Horvath, A., & Chester, M. V. (2016). Worldwide greenhouse gas reduction potentials in transportation by 2050. __Journal of Industrial Ecology__, __20__(2), 329-340.
+    - [Hockenos (Links to an external site.)](https://e360.yale.edu/authors/paul-hockenos), Paul, (2018), “Europe Takes First Steps in Electrifying World’s Shipping Fleets,” Yale E360, February 22, 2018, available at: [https://e360.yale.edu/features/europe-takes-first-steps-in-electrifying-worlds-shipping-fleets (Links to an external site.)](https://e360.yale.edu/features/europe-takes-first-steps-in-electrifying-worlds-shipping-fleets)
+    - Cases:
+    - Tesla - Sayan Chatterjee and Dennis Terez, (2018), “Tesla: Testing a Business Model at its (R)evolutionary Best,” Ivey Business School, available at: [https://berkeley.box.com/s/ggvusjzvzahczw57lrjbwhlyahtpeya7 (Links to an external site.)](https://berkeley.box.com/s/ggvusjzvzahczw57lrjbwhlyahtpeya7)
+    - BMW: [https://berkeley.box.com/s/uu95fe2irk9lqz4wm4fzlsrbbwor3qgo (Links to an external site.)](https://berkeley.box.com/s/uu95fe2irk9lqz4wm4fzlsrbbwor3qgo)
+    - [https://berkeley.box.com/s/y2b54dlse2jerhfq5rna09khbdizppwi (Links to an external site.)](https://berkeley.box.com/s/y2b54dlse2jerhfq5rna09khbdizppwi)
+- **Sustainable Supply Chains**
+    - O’Rourke, Dara. (2014). “The Science of Sustainable Supply Chains.” __Science__ 344.6188: 1124-1127.
+    - Walmart, (2019), Project Gigaton, available at:
+    - [https://www.walmartsustainabilityhub.com/project-gigaton (Links to an external site.)](https://www.walmartsustainabilityhub.com/project-gigaton)
+    - [https://walmartsustainabilityhub.emissionscalculators.walmart.com/main/home/GSF/eng (Links to an external site.)](https://walmartsustainabilityhub.emissionscalculators.walmart.com/main/home/GSF/eng)
+- **Algorithms for Sustainability**
+    - Gomes, C., Dietterich, T., Barrett, C., Conrad, J., Dilkina, B., Ermon, S., ... & Fink, D. (2019). Computational sustainability: Computing for a better world and a sustainable future. __Communications of the ACM__, __62__(9), 56-65.
+    - Yeung, K. (2018). Algorithmic regulation: a critical interrogation. __Regulation & Governance__, __12__(4), 505-523.
+    - Cases:
+    - Google, “Machine learning finds new ways for our data centers to save energy,” available at:
+    - [https://sustainability.google/projects/machine-learning/ (Links to an external site.)](https://sustainability.google/projects/machine-learning/)
+- **“Net Positive” Businesses**
+    - Hollender, J. (2015). “Net positive: The future of sustainable business,” Stanford Social Innovation Review, available at: [https://ssir.org/articles/entry/net_positive_the_future_of_sustainable_business (Links to an external site.)](https://ssir.org/articles/entry/net_positive_the_future_of_sustainable_business)
+    - Cases:
+    - IKEA, (2019), “IKEA to Present Path to Become 'Climate Positive' at COP25,” available at: https://unfccc.int/news/ikea-to-present-path-to-become-climate-positive-at-cop25
+    - Net Positive Project [https://berkeley.box.com/s/62whp2okfstrfbn1kxlk36p9v895hcyn (Links to an external site.)](https://berkeley.box.com/s/62whp2okfstrfbn1kxlk36p9v895hcyn)
+    - Kingfisher [https://berkeley.box.com/s/g06yu8xotyxd6gigwpveek7vekftex4n (Links to an external site.)](https://berkeley.box.com/s/g06yu8xotyxd6gigwpveek7vekftex4n)
+- **Sustainable Consumption**
+    - Southerton, Dale, and Daniel Welch, (2018), __Transitions for Sustainable Consumption After the Paris Agreement__, Policy Analysis Brief, The Stanley Foundation.
+    - O’Rourke, Dara, and Niklas Lollo. (2015). “Transforming consumption: From decoupling, to behavior change, to system changes for sustainable consumption.” __Annual Review of Environment and Resources __40: 233-259.
+    - Cases:
+    - Unilever - “Consumers and Sustainability,” available at: [https://www.unilever.com/sustainable-living/our-strategy/consumers-and-sustainability/ (Links to an external site.)](https://www.unilever.com/sustainable-living/our-strategy/consumers-and-sustainability/)
+    - Unilever - “Making Purpose Pay,” available at: https://berkeley.box.com/s/osrkoliakyr7wqxaisgv5ht4fwm1awy6
