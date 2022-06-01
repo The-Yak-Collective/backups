@@ -110,6 +110,7 @@ above pre-industrial levels
     - Potential future readings sources
         - also see the rocky mountain institute
         - see also Pete Weber's presentation and also the tool
+        - Alex Steffen and Branko Milanovic's writings
         - https://austinvernon.site/
         - [[Readings from Berkeley Sustainability Course]]
     - Contextual reading
