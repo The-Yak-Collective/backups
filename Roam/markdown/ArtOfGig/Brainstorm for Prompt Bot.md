@@ -67,7 +67,7 @@
             - ID, parent ID, userwhocreated, created_at, string, where thread and channel ids act as "ID". maybe also "hidden", to emulate deletion
     - of course, like any channel (and sometime soon, thread), a channel can have a reading list, agenda, etc.
 - [[Nathan Acks]]
-    - # Create things. The first two should only work in
+    - # Create things. The first two should only work in [[Maier Fenster]] Ifelt it was more natural to be object oriented rather than action oriented, especially since the threads help narrow the choices in a nice way 
 # the channel, the third only in threads.
 #
 /ps create course <COURSE>
@@ -120,8 +120,9 @@ Notes:
 
 - Includes some additional functionality from Venkat's original brainstorm. Mostly just because it fit into what I was writing.
 
-- I have no idea if this sort of multi-keyword approach works with the slash-command API. I haven't checked. So feel free to ignore.
+- I have no idea if this sort of multi-keyword approach works with the slash-command API. I haven't checked. So feel free to ignore. [[Maier Fenster]] it does, but not too many levels, so I only use one 
+    - 
 
-- Some of these clearly need to be restricted to trusted yaks (/ps archive course, for example).
+- Some of these clearly need to be restricted to trusted yaks (/ps archive course, for example).[[Maier Fenster]] right now, nothing is deleted, like a blockchain :)
 
-- I kind of like the idea of having people react with emojis when a prompt is displayed, rather than an explicit slash command. Feels more "Discord native".
+- I kind of like the idea of having people react with emojis when a prompt is displayed, rather than an explicit slash command. Feels more "Discord native". [[Maier Fenster]] in thread version, there is no "single" showing of the prompt. i guess Icoudl detect reactions on each showing, but not for ephermal ones (when you do "recall") 
