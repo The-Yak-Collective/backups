@@ -6,20 +6,21 @@
     - **First season** -- **orientation to the first terraform**ing
         - Week zero -- background / context
             - PROMPT: share an image -- from a movie, sci fi book, meme, whatever -- that embodies your default mental model of how climate change will impact YOUR life in 20 years. 
-        - Week one 
+        - Week one
+            - Read the first 8 pages of Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf The later ones get pretty dry and dense. Then draw a simple impressionistic timeline of the human species (not super detailed or to linear scale). Think aion rather than chronos, maybe a bit of kairos. 
+            - PROMPT
+        - Week two
             - Global tool for simulating policy tradeoffs 
                 - Spend 15-20 minutes playing around with the following tool
                 - https://www.climateinteractive.org/en-roads/#:~:text=What%20is%20En%2DROADS%3F,quality%2C%20and%20sea%20level%20rise.
                 - Prompt: What surprised you in playing around with the tool? What implicit assumptions are embedded in this type of model? 
-        - Week two -- modeling how we combat climate change (part 1)
+        - Week three-- modeling how we combat climate change (part 1)
             - Mental model for combatting climate change
                 - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66 
             - Prompt: what's missing from the model?
-        - Week three  -- modeling how we combat climate change (part 2)
+        - Week four-- modeling how we combat climate change (part 2)
             - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r  
             - Prompt: what surprised you in Naam's predictions? What was missing? 
-        - Week four
-            - Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf 
         - Weeks five-- Regional Climate Impacts
             - India?
                 - Heat wave, wet bulb 35 in Ministry for the Future
