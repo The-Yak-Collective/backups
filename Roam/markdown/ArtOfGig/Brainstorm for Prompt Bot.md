@@ -1,3 +1,5 @@
+- [[Maier Fenster]] since new prompt-bot (/psXXX) is implemented using threads, a lot of the below should be rethought and also new ideas become possible
+- the data is all stored in an sqlite database, so we can push what we want, when we want to where we want, from our vultr server
 - Existing commands
     - `/promptrecall`: Private display of current prompt. **should be updated to include the index number for convenient use with rewind command**
     - `/promptshow`: Public display of current prompt. **should be updated to include the index number for convenient use with rewind command**

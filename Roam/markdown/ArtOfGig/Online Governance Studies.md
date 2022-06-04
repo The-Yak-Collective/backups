@@ -12,7 +12,35 @@
 - ## Summer '22 Reading Tracks 
     - Prompt Engineering/Step by Stepism 
         - https://twitter.com/vgr/status/1529870394034794499?s=20&t=nV3ifgXYig3NwiagibAH2Q
-    - 
+- Summary of readings 21-22
+    - Bryan 
+        - Cory Doctrow disney article - lore - governance ideas
+        - idea mazes (future reading), Zapatistas article and Northern Syria article 
+        - long arc of governance, you have to survive before you have something to govern. 
+    - Grigori
+        - Dillemmas in general theory of planning - it can be used as a springboard to learn about the future of planning and what they are thinking of planning right now. 
+        - would be good to read about planning and what that looks like in the current world 
+    - Jenna
+        - wishlist: spaced repetition bot to resurface articles and notes that we have to keep them current in our headspace 
+        - future reading on non grifty parts of the DAO space and review of those 
+            - eg https://www.dorg.tech/ | https://blog.dorg.tech/ | https://docs.dorg.tech/workflows/doing-internal-work#the-swarm
+    - Matthew 
+        - readings - slide deck about co-ordination headwinds, rock paper scissors (bio reading)
+        - potential future track - fundamental governance constraints - extrapolating from the above readings
+        - is there an equivalent for modern/complex governance views 
+    - Sachin 
+        - ise jingu - refer to it a lot in terms of maintenance, and adapting to new conditions, and also applies in terms of preserving process knowledge
+        - messi  - feels like how yc operates and to an extend how people in the yc operate on an individual level also fall somewhere on that spectrum
+        - future topics
+        - prompt school
+        - anything else that I've been thinking about - prehistory of some of the ideas we have been discussing, early 20th century -
+    - Venkat 
+        - Ise Jingu - renewal and long termism being the same problem. Normally you think about it in terms of something for 10K years, Ise Jingu uses the idea of being regenerative. 
+        - nobody is doing that type of thinking. corporations think in 3-5 year terms, no one thinks in the 20-30 year terms
+        - "wood decays but the idea does not"
+        - Rock paper scissors - Hobbesian and Gaian felt very simplistic and perhaps naive, rock paper scissors. what are some non cartoon ways of thinking about evolution 
+        - blockchain readings back to this track 
+        - historical case studies vs theoretical and conceptual evolution. what are conceptual leaps or technological leaps that create new governance ideas 
 - ## 2021-22 Tracks
 - ### Nature and Long-Term Thinking
     - **Completed**
@@ -490,6 +518,29 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
                 - people spend hours reading and responding to letters
                 - adapting to the medium.if there are long time delays you keep communicating hoping that some of it is useful. 
                 - lot of military operations have to unfold in radio silence. same strategy. high level autonomy for local commanders. commanders set overall goal, local commanders have smaller goals and they have contracted agreements between them.  similar to how the jesuits do it. overall mission was clear - spread the religions. filling in the details would be not predictable exactly 
+        - Commons 
+            - Sachin
+                - does not seem like it applies to platforms, unsure if it applies to web3
+                - does it even apply in terms of governance of cities and such
+                - it also seems away from the commons - the way we operate 
+                - local circumstances rules apply 
+            - Grigori 
+                - it does not describe what we have here, it would benefit us if we could compile something along the lines of 8 principles 
+                - none of these really apply to yak collective 
+            - Bryan
+                - probably not much theres something extremely negative that someone can do to harm the common resources we have
+                - we have the option of easily leaving 
+                - renegotiate when something comes up 
+            - Venkat 
+                - Elinor Ostrom - nobel winning economist, is at the socialist side of things
+                - Amartya Sen 
+                - probably all 8 should be spectrums 
+                - applying it to public internet - large models scrape the entire internet - but it fails in that too
+                - it does not mean that public internet is not good commons 
+            - Jenna
+                - good guidelines for things that we want to do if conflict comes up 
+                - assume good actors vs assume bad actors (Lunar punk??). in cases where there are bad actors - its not tragedy of commons but different problem 
+                - https://discord.com/channels/692111190851059762/698566364595486720/982314638056251412 - commons example?
     - **Queued**
         - [Every Design Studio Should Be a Worker-Owned Studio](https://eyeondesign.aiga.org/every-design-studio-should-be-a-worker-owned-studio/)
         - [Unrepresentative Claims: Speaking for Oneself in a Social Movement](https://www.cambridge.org/core/journals/american-political-science-review/article/unrepresentative-claims-speaking-for-oneself-in-a-social-movement/E045E3270DB08B76F09048DE99C06B7B)
