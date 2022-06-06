@@ -902,7 +902,7 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
             - [Research Notes]([[web3 Identity Research Notes]])
             - [Presentation]([[Identity in web3]])
         10. May 23: [[2022 Stablecoin Crash Postmortem]]
-        11. May 30: 
+        11. May 30: Reading Hitchhikers Guide to Ethereum
             - Article https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
             - Notes
                 - > Here’s a glossary to shorten some words that will show up ~43531756765713534 times:
@@ -996,7 +996,7 @@ Fundamentally, it all makes its way back to that singular vision. Ethereum prese
                         - crypto is not money, but a tool
                 - [[JennaD]]
                     - https://en.wikipedia.org/wiki/Variety_(cybernetics)
-        12. June 6: 
+        12. June 6: Retrospective
         13. __June 13: Summer planning__
             - Maybe work on a paper?
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
