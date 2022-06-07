@@ -1,6 +1,6 @@
 - About:: __web3 publishing platform__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
-    - Additional Page Wranglers:: [[Nathan Acks]] | [[JennaD]] 
+    - Additional Page Wranglers:: [[Nathan Acks]] | [[Jenna]] 
 - Last Updated:: [[December 4th, 2021]] by [[Nathan Acks]]
 - Last Gardened:: [[December 4th, 2021]] by [[Nathan Acks]]
 - We have the [yakcollective.mirror.xyz site](https://yakcollective.mirror.xyz) site

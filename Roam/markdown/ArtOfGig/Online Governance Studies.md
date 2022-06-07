@@ -712,7 +712,7 @@ __Storytellers:__ I craft and share our community stories, cultures, experiences
 possibilities through art, music, media, and movement.
 __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernment and wisdom
             - ![Ecosystem Map 2020](./images/aHR0cHM6Ly9idWlsZGluZ21vdmVtZW50Lm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8xMC9FY29zeXN0ZW0tTWFwLTIwMjAucG5n)
-            - proposed by [[JennaD]]
+            - proposed by [[Jenna]]
         - Suez case study
             - https://www.deshgujarat.com/2021/03/26/commerce-ministry-chalks-out-four-point-plan-to-deal-with-blockage-of-suez-canal/
             - https://www.scmp.com/economy/china-economy/article/3127506/suez-canal-blockage-china-see-minor-raw-material-disruptions

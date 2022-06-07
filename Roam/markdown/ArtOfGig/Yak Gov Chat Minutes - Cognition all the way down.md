@@ -1,6 +1,6 @@
 - About:: __notes from weekly governance call__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
-- Created:: [[November 20th, 2020]] by [[JennaD]]
+- Created:: [[November 20th, 2020]] by [[Jenna]]
 - Page Type:: {{or: #Minutes | #Project | #tk2}}
 - Status:: {{or: Active | Complete | Early Concept | Proposal}}
 - Last Updated:: `/today` by [[Fname Lname]]
@@ -23,7 +23,7 @@
 - 
 - 
 - 
-- [[JennaD]]
+- [[Jenna]]
     - > we’re saying that biologists should chill out and see the virtues of anthropomorphising all sorts of living things.
     - > Ever since the cybernetics advances of the 1940s and ’50s, engineers have had a robust, practical science of mechanisms with purpose and goal-directedness – without mysticism. We suggest that biologists catch up.
     - > tend to take the gifts of engineering for granted. For thousands of years, our ancestors prospected for physical regularities that they could exploit by designing structures that could perform specific functions reliably. What makes a good rope, good glue, a good fire-igniter? The humble nut-and-bolt fastener is an elegantly designed exploitation of leverage, flexibility, tensile strength and friction, evolving over 2,000 years, and significantly refined in the past two centuries.

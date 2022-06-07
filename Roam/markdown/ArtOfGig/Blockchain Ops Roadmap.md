@@ -398,7 +398,7 @@
                     - Solid pods - individual servers
                     - Access mechs re: NFTs
                     - web2 affordances and vc inflow
-                - [[JennaD]]
+                - [[Jenna]]
                     - Scalability. The tension between small and agile and larger organizations
                     - > I don’t share the same generational excitement for moving all aspects of life into an instrumented economy
                         -  "moving all aspects of life into instrumented economy" not realistic. what goes on-chain v what stays off-chain seems like the current crux  
@@ -564,7 +564,7 @@
             - Sign up for sessions (8 available)
             - Wishlist of topics -- maybe announce bounties?
     - **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
-        1. Mar 21 - #[[JennaD]] [[Richie Bonilla]] & [[Caryn Tan]] of [[Clarity]]
+        1. Mar 21 - #[[Jenna]] [[Richie Bonilla]] & [[Caryn Tan]] of [[Clarity]]
 Twitter: [@richiebonilla](https://twitter.com/richiebonilla) and [@0xCaryn](https://twitter.com/0xCaryn)
 and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://twitter.com/kathihorvath) and [@creatorcabins](https://twitter.com/creatorcabins)
             - rough timeline 40 mins + 20 mins convo
@@ -957,8 +957,8 @@ PoS – Proof of Stake
                     - I find the distinction between “polynomial” and “vector” commitments a bit weird, since polynomials __are__ vectors.
                 - In general, there was something about this piece that kind of rubbed me the wrong way. I can’t quite put my finger on it, but it doesn’t __feel__ like the system being described has the level of robustness or scalability being ascribed to it. But then, I’m not super-knowledgable about the inner workings of Ethereum.
                     - I continue to suspect that monolithic scaling won’t work, and instead we need “chains of chains”. But this is really an old anarchist take on how to organizing at scale which would probably be attacked (somewhat ironically, IMHO) as “insufficiently decentralized” these days.
-            - [[JennaD]]
-                - Concluding Thoughts #[[JennaD]]
+            - [[Jenna]]
+                - Concluding Thoughts #[[Jenna]]
                     - > All roads lead to the endgame of centralized block production, decentralized trustless block validation, and censorship resistance. Ethereum’s roadmap has this vision square in its sights.
 
 Ethereum aims to be the ultimate unified DA and settlement layer – massively decentralized and secure at the base with scalable computation on top. This condenses cryptographic assumptions to one robust layer. A unified modular (or [disaggregated](https://twitter.com/epolynya/status/1520266209861668864?s=20&t=PdcmqDUTjarL77tq-Z8cNQ) now?) base layer with execution included also captures the highest value across L1 designs – leading to monetary premium and economic security as I recently covered (now open-sourced [here](https://members.delphidigital.io/reports/valuing-layer-1s-memes-money-or-more)).
@@ -966,7 +966,7 @@ Ethereum aims to be the ultimate unified DA and settlement layer – massively d
 I hope you gathered a clearer view of how Ethereum research is all so interwoven. There are so many moving pieces, it’s very cutting-edge, and there’s a really big picture to wrap your head around. It’s hard to keep track of.
 
 Fundamentally, it all makes its way back to that singular vision. Ethereum presents a compelling path to massive scalability while holding dear those values we care so much about in this space.
-                        - "baroque financial products that average investors can't understand" — this bit from the [Wired](https://www.wired.com/story/web3-paradise-crypto-arcade/) cover text seems relevant to our convo today — would love to know what our knowledgeable yaks think about legibility for normies and how we mitigate this particular aspect of risk down the road. #[[JennaD]]
+                        - "baroque financial products that average investors can't understand" — this bit from the [Wired](https://www.wired.com/story/web3-paradise-crypto-arcade/) cover text seems relevant to our convo today — would love to know what our knowledgeable yaks think about legibility for normies and how we mitigate this particular aspect of risk down the road. #[[Jenna]]
                         - > WARNING: Users enter into transactions at their own risk; Web3 is not responsible for money lost, NFTs stolen, passwords phished, or dreams shattered in the course of this experiment. The edifice of Web3 is built on trillions of dollars invested in cryptocurrencies that, as yet, have little to no proven utility other than as speculative assets. Liquidity is provided by baroque financial products that average investors can't understand, which may end badly. Decentralization may or may not be a technological feature of systems, as opposed to a market condition, and thus is not actually guaranteed. Many decentralized autonomous organizations (DAOs) are neither decentralized nor autonomous. Past hopes of fully decentralized, participatory versions of the internet have been repeatedly dashed. It might be unwise to put personal data on a permanent uneditable public database. It may not be possible to disentangle the idealistic aspirations of Web3 from the cynical profit-seeking behavior exhibited by much of the crypto market, which is heavily concentrated in the hands of a small number of superrich people and Institutions. People tend to find ways to game systems despite the best intentions of those systems' designers. Results may vary. STORY BY GILAD EDELMAN
                     - If only geniuses can understand, what does that mean. 
 `smart` v `smart enough`
@@ -994,9 +994,67 @@ Fundamentally, it all makes its way back to that singular vision. Ethereum prese
                 - [[Maier Fenster]]
                     - https://brettscott.substack.com/p/crypto-countertrade?s=r
                         - crypto is not money, but a tool
-                - [[JennaD]]
+                - [[Jenna]]
                     - https://en.wikipedia.org/wiki/Variety_(cybernetics)
         12. June 6: Retrospective
+            - Prompt
+            - Notes
+                - When blockchain interacts with the real world what are the problems we encounter?
+                - In the space you run into three types of people:
+                    - People who know nothing about the space and don't care
+                    - Generally positive and/or invested 
+                        - Discussions too saccharin
+                    - Staunchly anti people
+                        - Have hit an eternal September where quality of discussion has dropped
+                    - In Yak Collective: appreciate that there is some critical discussion outside the Twitter discourse
+                - Valuable: Introduction to Brett Scott talking about distinction between money and non-money
+                - yak collective is not trust-less like blockchain usually assumes. at the same time, its tempo is very different, especially when considering voting.
+                - 4 dimensions: tech, vibe, attitude, experience
+                - Getting hands dirty with Colony was enjoyable
+                - Enjoyed presentations
+                - Enjoyed working on blockchain lexicon project
+                - Colony and Clarity has both shallow and deep failures
+                    - Shallow: Good at setting up, but not designing experiment scope well enough
+                    - Deep: Tools not ready for use
+                        - Clarity: overdesigned and over powered
+                        - Colony: Proposing a motion to make a decision
+                            - 72hr working period doesn't match tempo of YC weekly cadence
+                - Found Toucan underwhelming from tech perspective
+                - Enjoyed taking temperature of the space in general
+                - Middle ground:
+                    - Doing more than reading but not boot strapping
+                    - Doing raids:
+                        - Everyone from small group goes and tries new experiments with wallets
+                            - e.g. Lens protocol
+                        - Fresh perspective and low commitment
+            - Discussion
+                - Lens protocol is interesting to look at
+                - For next week:
+                    - Can we separate the blockchain track into execution and study tracks?
+                    - Can we turn a version of this into prompt school?
+                    - Should we keep this as it is?
+                    - Also offer new proposals
+                - Cycles
+                    - This bust feels different because tech sector is also experiencing a crisis. 
+                    - The macro environment has changed
+                        - Going into period of higher inflation and higher interest rates since Bitcoin was created
+                        - A lot of coins trade on risk-on prices
+                    - This bear market has been much less price-based
+                    - Crypto is good as sucking air out of everything, even though it is a mirror of the market
+                    - We should look at the boom, not the bust
+                        - The boom built out infrastructure
+                        - We have people and infrastructure and we need to continue building
+                        - More worried about chips shortage
+                    - Reminded of 2001
+                        - Shakedown of internet comps like pets.com
+                        - But in the end, everyone uses the internet
+                        - Feel similarly with web3
+                    - Not as worried about chips because production is centralized
+                    - Crypto and jackpot of crises (Gibson)
+                    - Might be facing upwards of 10 year economic downturn, and not 2-3 years
+                        - What do you do with crypto during this time?
+                        - Crypto might still exist in the future, but not in the same way that the internet still exists
+                        - Product Zeitgeist Fit might be off
         13. __June 13: Summer planning__
             - Maybe work on a paper?
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
@@ -1045,7 +1103,7 @@ Fundamentally, it all makes its way back to that singular vision. Ethereum prese
 - ## Options to explore/look into
     - Please add links directly here (preferred) or via the $readingadd command in the #blockchain-roadmap channel on discord.
     - [[Zigzag]] podcast series on 2018 [[Civil]] token launch. 
-Real-time story arc of an early journo blockchain attempt. #[[JennaD]]
+Real-time story arc of an early journo blockchain attempt. #[[Jenna]]
         - https://zigzagpod.com/episodes/2018/06/14/episode-2
         - https://zigzagpod.com/episodes/2018/06/21/chapter-3-higher-than-we-knew
         - https://zigzagpod.com/episodes/2018/07/12/chapter-6-whats-a-cvl-token

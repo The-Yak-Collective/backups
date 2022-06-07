@@ -1,6 +1,6 @@
 - About:: __notes from weekly governance call__
 - Chief Page Wrangler:: [[Grigori Milov]]
-- Created:: [[December 4th, 2020]] by [[JennaD]]
+- Created:: [[December 4th, 2020]] by [[Jenna]]
 - Page Type:: {{or: #Minutes | #Project | #tk2}}
 - Status:: {{or: Complete | Active | Early Concept | Proposal}}
 - Last Updated:: `/today` by [[Fname Lname]]
@@ -21,7 +21,7 @@ by Michael A. Cusumano, David B. Yoffie, and Annabelle Gawer
 - 
 - 
 - 
-- [[JennaD]]
+- [[Jenna]]
     - Would like a similar typology of collectives
     - YakC = Herding cats
     - Seems like a pretty good wrap-up of the questions YakC is working on:

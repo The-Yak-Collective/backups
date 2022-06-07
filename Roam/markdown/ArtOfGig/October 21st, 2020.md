@@ -1,5 +1,5 @@
-- [[JennaD]] added another example to the [[Privacy Policy]] stub page
+- [[Jenna]] added another example to the [[Privacy Policy]] stub page
     - https://threads.com/privacy
-- [[JennaD]] gardened `:header:` template to add `Created by::` line
+- [[Jenna]] gardened `:header:` template to add `Created by::` line
 - 
 - 

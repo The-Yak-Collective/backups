@@ -1,1 +1,1 @@
-- light edits on [[Schema | member data]] by [[JennaD]]
+- light edits on [[Schema | member data]] by [[Jenna]]

@@ -1,5 +1,5 @@
 - ### [[September 21st, 2020]] Yak Chat Astonishing Stories
-    - call 19:00 on Discord General w [[Sachin Benny]] [[Amanda Reeves]] [[JennaD]] [[Jordan Peacock]] [[Justice]]
+    - call 19:00 on Discord General w [[Sachin Benny]] [[Amanda Reeves]] [[Jenna]] [[Jordan Peacock]] [[Justice]]
         - On the call today at 6CST we'll be talking through:
 
             - Responses to the paid illustrator gig we posted 
@@ -9,10 +9,10 @@
                 - {{[[TODO]]}} propose: adding Newsletter link to website on the [[Infrastructure]] call [[September 27th, 2020]]
                 - {{[[TODO]]}} suggest: connect with [[Hugo Macedo]] to connect story launches with [[YC Marketing]]
             - CFP process for 5 new stories 
-                - {{[[TODO]]}} [[Sachin Benny]] will draft and push to [[JennaD]] for review
+                - {{[[TODO]]}} [[Sachin Benny]] will draft and push to [[Jenna]] for review
             - Feedback from [[Paul Sas]] about the process and visibility
                 - {{[[TODO]]}} notes tk from [[Sachin Benny]]
-                - suggestion from [[JennaD]] for establishing a regular cadence of project updates in the project channel eg Fridays to encourage weekend work and invite to join Monday call
+                - suggestion from [[Jenna]] for establishing a regular cadence of project updates in the project channel eg Fridays to encourage weekend work and invite to join Monday call
             - {{[[TODO]]}} [[Sachin Benny]] copyeditor call for the #Announcements channel on Discord
             - {{[[TODO]]}} proofreader volunteer: 🎉💥 [[Amanda Reeves]] 💥 🎉
             - {{[[TODO]]}} [[Justice]] our illustrator

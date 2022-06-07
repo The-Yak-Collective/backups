@@ -19,7 +19,7 @@ b) how are online communities like/unlike irl in terms of types of people?
     - 
 - [[Grigori Milov]]
     - 
-- [[JennaD]]
+- [[Jenna]]
     - 😂
     - > ... getting everyone to focus intensely on fairness is the one way to guarantee feelings of unfairness.
     - 

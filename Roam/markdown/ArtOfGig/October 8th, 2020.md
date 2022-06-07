@@ -1,8 +1,8 @@
-- 19:49 [[JennaD]] lightly gardened [[Astonishing Stories - Marketing Launch]]
+- 19:49 [[Jenna]] lightly gardened [[Astonishing Stories - Marketing Launch]]
     - [[Sachin Benny]] shared the link with me in Discord
     - feeling kinda strongly about __YakC__ instead of __YC__
     - 
-- 20:00 convo [[Nathan Acks]] [[JennaD]] on web implementation stuff »» [[Astonishing Stories]] [[Knack]]
+- 20:00 convo [[Nathan Acks]] [[Jenna]] on web implementation stuff »» [[Astonishing Stories]] [[Knack]]
     - {{[[TODO]]}} configure: AS alt type
     - {{[[TODO]]}} configure: AS story teaser setup
     - {{[[TODO]]}} configure: ^^copyediting^^ » layout » proofreading process

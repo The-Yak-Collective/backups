@@ -24,7 +24,7 @@
     - Added after the call: One way to address alignment is actually to create a few projects with an intention to ship customer facing (paid) products or services. This may require a little bit more clarity about governance model. But it is worth doing anyway.
     - A real culture is more discovered than prescribed. Netflix culture doc shows both some critical tensions and the directions in which the org wants them to be resolved. 
     - Both are to be discovered in case of YC. 
-- [[JennaD]]
+- [[Jenna]]
     - we're go-to-war-with-the-yaks-you-have. I am usually wondering if I have sufficient chops to contribute.
         - > Discussing the military’s performance during the Iraq War, Donald Rumsfeld, the former defense secretary, once famously said, “You go to war with the army you have, not the army you might want or wish to have at a later time.” When I talk to managers about creating great teams, I tell them to approach the process in exactly the opposite way.
 - [[John Grant]]

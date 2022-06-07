@@ -5,7 +5,7 @@
 - Page Type:: {{or: #Project | #tk1 | #tk2 }}
 - Status:: {{or: Early Concept | Active | Proposal | Complete}}
 - Last Updated:: [[November 18th, 2020]] by [[Venkatesh Rao]]
-- Last Gardened:: [[November 19th, 2020]] by [[JennaD]]
+- Last Gardened:: [[November 19th, 2020]] by [[Jenna]]
 - 
 - A client project is one paid for by an external client, and participants get paid a share. To propose a client project, first get informal agreement from your potential client, and then put in a pitch on the [[Project Pitches]] page.
 - THIS IS VERY ROUGH

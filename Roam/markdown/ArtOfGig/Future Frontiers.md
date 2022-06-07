@@ -1,9 +1,9 @@
 - About:: The goal of the future frontiers project to create an evolving, curated set of small modules spotlighting an idea, concept, trend, or piece of design fiction relating to frontiers and exploration. 
 - Chief Page Wrangler:: [[Venkatesh Rao]]
-    - Additional Page Wranglers::  | [[JennaD]] [[Siva Swaroop]]
+    - Additional Page Wranglers::  | [[Jenna]] [[Siva Swaroop]]
 - Anyone can submit a contribution by adding a few slides to the [Future Frontiers Input Deck](https://docs.google.com/presentation/d/1oIziqtVM878uRG-JOfrQNvGFsQWKP_S_W8cLkhQlXvA/edit?usp=sharing) (open for read-only browsing/commenting, but you'll need to request permission to add a submission) in the prescribed format below.
 - If you need ideas, here is a [[Future Frontiers Contribution Prompts]] (if you'd like to see a module on some topic but don't feel like doing it yourself, feel free to add a prompt to the page above)
-- If approved by the editor (currently [[Venkatesh Rao]]) it will go into a lightweight production process (currently coordinated by [[JennaD]]) and end up as a page on the [[Yak Collective Website]] and featured in the newsletter
+- If approved by the editor (currently [[Venkatesh Rao]]) it will go into a lightweight production process (currently coordinated by [[Jenna]]) and end up as a page on the [[Yak Collective Website]] and featured in the newsletter
 - **Launch Date: **Current goal is to launch with the first 3 modules by **Dec 1, 2020**
 - **Format**
     - We are using an [[Infinity Pool]] format suitable for ongoing contribution 
@@ -14,7 +14,7 @@
         - **1 anchor graphic**: this can be an evocative image, table, block diagram, mind-map, etc. Please make sure you're using either original or open-source licensed material.
         - **100-250 words of text** (optional but strongly recommended): this should succinctly describe the idea. This can be a prose paragraph, a bullet list, a list of references, etc.
     - If you have a large graphic and/or a lot of text in a single submodule you can spread it over 2 slides.
-    - If you need to break the default format, talk to the editor [[Venkatesh Rao]] and/or production lead [[JennaD]] to see if it can be accommodated
+    - If you need to break the default format, talk to the editor [[Venkatesh Rao]] and/or production lead [[Jenna]] to see if it can be accommodated
 - **Framework**
     - We use the [[PESTLE  (Political, Economic, Sociocultural, Technological, Legal Ecological) framework]] framework as an initial brainstorming tool to think through the implications of a module, but not explicitly unless it is useful.
     - 
@@ -80,8 +80,8 @@
             - {{[[TODO]]}} [[Venkatesh Rao]] ping: [[Siva Swaroop]]
             - {{[[TODO]]}} [[Venkatesh Rao]] schedule: weekly call for next 2-3-4 weeks to conclude project
                 - {{[[TODO]]}} ping: [[Hugo Macedo]] to join next call for launch planning
-            - {{[[TODO]]}} [[JennaD]] share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [[Publishing Ops]]
-            - {{[[DONE]]}} [[JennaD]] refine: current kanban for production endgame 👆
+            - {{[[TODO]]}} [[Jenna]] share: copyeditor and proofreader descriptions for Discord recruitment announcement by @vgr // cc [[Publishing Ops]]
+            - {{[[DONE]]}} [[Jenna]] refine: current kanban for production endgame 👆
                 - {{[[DONE]]}} #ping: [[Venkatesh Rao]] on Discord FF channel
             - {{[[TODO]]}} [[Suwaythan Nahaganeshan]] push: design along to v2 ahead of call with jenna on Wed [[September 23rd, 2020]] at noon
             - 
@@ -148,4 +148,4 @@ Next decade can bring more examples like this one.
             - 
 - 
 - Last Updated:: [[November 1, 2020]] by [[Venkatesh Rao]]
-- Last Gardened:: [[December 12th, 2020]] by [[JennaD]]
+- Last Gardened:: [[December 12th, 2020]] by [[Jenna]]

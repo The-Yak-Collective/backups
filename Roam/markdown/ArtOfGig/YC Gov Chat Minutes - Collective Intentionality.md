@@ -1,7 +1,7 @@
 - About:: __chat notes for weekly call__
 - Chief Page Wrangler:: [[Fname Lname]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
-- Created:: [[November 6th, 2020]] by [[JennaD]]
+- Created:: [[November 6th, 2020]] by [[Jenna]]
 - Last Updated:: `/today` by [[Fname Lname]]
 - Last Gardened:: `/today` by [[Fname Lname]]
 - 
@@ -20,7 +20,7 @@ In ^^__joint attention__^^, the world is experienced as perceptually available 
 - Comments::
     - [[Grigori Milov]]
         - 
-    - [[JennaD]]
+    - [[Jenna]]
         - liked the supergranular distinctions even if I won't be able to hold onto them clearly eg
 __To intend that the door be closed is different from intending to close the door__
     - [[Sachin Benny]]

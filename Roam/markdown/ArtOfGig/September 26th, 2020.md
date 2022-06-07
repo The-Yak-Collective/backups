@@ -1,3 +1,3 @@
-- Started on [[Roam Gardening]] and [[YC Roam Style Guide (TBD)]] #ping [[JennaD]]
+- Started on [[Roam Gardening]] and [[YC Roam Style Guide (TBD)]] #ping [[Jenna]]
 - call for [[Future Frontiers]] reinvigoration
 - 

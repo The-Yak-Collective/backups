@@ -28,7 +28,7 @@
     - Is there an easy way to pipe the prompt list periodically to the website and/or Roam
     - How to do bulk ops, like edit a lot of prompts at once? Ideally on a roam page or a markdown file
     - How to insert new prompts in the middle of the prompt list if we discover that a logical step is missing? Or potentially re-order the list of prompts? This seems like something that should not be done on discord either... probably markdown?
-    - allow for a binge mode within some reasonable limit #[[JennaD]]
+    - allow for a binge mode within some reasonable limit #[[Jenna]]
     - periodic cohort formation
     - channels as lobby for participants and push prompts into threads
     - prompts all automated into Roam pages

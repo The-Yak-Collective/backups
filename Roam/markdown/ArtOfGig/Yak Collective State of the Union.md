@@ -23,7 +23,7 @@
         - [[Momentum Problem]] cell
 [[Venkatesh Rao]] lead
         - [[Publishing Ops]] cell
-[[JennaD]] lead
+[[Jenna]] lead
     - **Active Cells**
         - [[Future Frontiers]] cell
 [[Siva Swaroop]] lead

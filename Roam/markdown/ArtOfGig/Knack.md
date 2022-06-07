@@ -1,11 +1,11 @@
 About:: __GDPR-compliant platform for storing member profile information. 
 API access to/from Discord+Roam+Website. 
 Member login for maintaining their own public Yak information.__
-Chief Page Wrangler:: [[JennaD]]
+Chief Page Wrangler:: [[Jenna]]
     - Additional Page Wranglers:: [[Nathan Acks]] | [[Maier Fenster]] 
 Created:: [[September 13th, 2020]] by [[Nathan Acks]]
-Last Updated:: [[October 5th, 2020]] by [[JennaD]]
-Last Gardened:: [[October 21st, 2020]] by [[JennaD]]
+Last Updated:: [[October 5th, 2020]] by [[Jenna]]
+Last Gardened:: [[October 21st, 2020]] by [[Jenna]]
 # Purpose
     - Member database
     - Sign up form
@@ -15,6 +15,6 @@ Last Gardened:: [[October 21st, 2020]] by [[JennaD]]
     - New Yak signup: https://www.yakcollective.org/join/
     - Yak login: [https://yak.knack.com/yaks#yak-profile/](https://yak.knack.com/yaks#yak-profile/)
     - Builder: [https://builder.knack.com](https://builder.knack.com)
-    - Share login: [[JennaD]] | [[Jordan Peacock]] 
+    - Share login: [[Jenna]] | [[Jordan Peacock]] 
     - Alternate Builder access as needed: [[Nathan Acks]] | [[Maier Fenster]] | [[Anuraj R]]
     - [[Jordan Peacock]] monthly charge 39USD on his card. Our plan allows 2 Builders.

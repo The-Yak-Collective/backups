@@ -5,7 +5,7 @@
 - [[Discord]] server admins -- known as YakShavers. If you think you need admin privileges to do something, talk to one of the current admins.
     - [[Venkatesh Rao]]
     - [[Maier Fenster]]
-    - [[JennaD]]
+    - [[Jenna]]
     - [[Oliver King]]
     - [[Darren Kong]]
     - [[Paul Millerd]]

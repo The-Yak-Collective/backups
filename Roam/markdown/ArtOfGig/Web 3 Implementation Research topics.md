@@ -27,7 +27,7 @@
 - L1s, L2s, L3s, bridges
     - See pages 2/3 here for a nice TLDR of layers https://timroughgarden.github.io/fob21/l/l1.pdf 
 - Polychain 
-    - @vgr is this what you mean? https://polychaincapitalsllc.com/ #[[JennaD]]
+    - @vgr is this what you mean? https://polychaincapitalsllc.com/ #[[Jenna]]
 - [Colony](https://colony.io/)
 - unlock protocol for sites https://docs.unlock-protocol.com/
 - Bleeding edge of NFTs (past projects like Loot)
@@ -63,7 +63,7 @@
     - Can someone with no blockchain history be trusted? In the real world, communities are suspicious of outsiders.
     - Could someone manufacture blockchain history as a way to seed a new identity? Also, what does __blockchain history__ really entail?
     - Identity swapping - nothing prevents people from hopping across identities, is this a problem? Thinking about the "sleeves" and "stacks" from Altered Carbon.
-        - How to handle forking nyms? How to merge nyms? #[[Nathan Acks]] #[[JennaD]]
+        - How to handle forking nyms? How to merge nyms? #[[Nathan Acks]] #[[Jenna]]
     - Is there a way to repent on the blockchain? 
     - https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e
 - Delegation (Political Science for DAOs?)
@@ -71,7 +71,7 @@
     - Direct democracy vs. republic? Is there a size threshold where one works better than the other?
     - How do you prevent hostile takeovers?
     - Identity verification - Because one person can control many blockchain addresses, what prevents one person from using bots to take over a group?
-    - What/how on-chain accountability changes individual behavior and group dynamics. cf `right to be forgotten` discourse #[[JennaD]]
+    - What/how on-chain accountability changes individual behavior and group dynamics. cf `right to be forgotten` discourse #[[Jenna]]
         - especially - how do we forgive (also forget?) mistakes, if yc is supposed to be a safe place, we want reputational price for mistakes to be low /mf
     - When delegating, how does a group keep people informed? Current DAOs are centered around Discord and Twitter, which are very ephemeral, and hard to keep track of. Do DAOs adopt corporate reporting practices? At what point is a DAO just a corporation?
     - some of this goes under "safety" and perhaps - how to keep the dao beast from escaping its human masters /mf

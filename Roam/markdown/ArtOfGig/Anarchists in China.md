@@ -30,7 +30,7 @@
     - Anarchists don't seem to know what they'd do if they were successful in destroying the status quo. If that happened, there's a power vacuum and eventually another strong, centralized force moves in to grab control.
 - 
 - 
-- [[JennaD]]
+- [[Jenna]]
     - general reminder of broad movements hard and messy. cooptation. grift.
     - law of unintended consequences
         - > Perhaps the motives of Chinese authorities in sending students abroad were not entirely “pure.” Chu Ho-chung, himself sent to Germany during this period, has written that local authorities in the Wuhan area sent student “activists” abroad to get rid of them, with the more radical being dispatched to Europe and the less radical to Japan! [[4]](https://theanarchistlibrary.org/library/robert-scalapino-and-george-t-yu-the-chinese-anarchist-movement/#fn4) He also reported that students interested in engineering and mining generally went to Brussels in this period, whereas those studying law, political science, and economics went mainly to Paris. Thus Paris became the natural locus of student radicalism. The Paris Group Whatever the factual basis of these remarks, Paris did indeed become the center of the early Chinese Anarchist Movement. When Sun

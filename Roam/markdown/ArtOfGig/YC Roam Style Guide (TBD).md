@@ -1,5 +1,5 @@
 - About:: Defines our agreed conventions on how to use Roam
-- Chief Page Wrangler:: [[JennaD]]
+- Chief Page Wrangler:: [[Jenna]]
     - Additional Page Wranglers:: [[Hugo Macedo]] 
 - Last Updated:: [[September 26th, 2020]]
 - Last Updated By:: [[Hugo Macedo]] 

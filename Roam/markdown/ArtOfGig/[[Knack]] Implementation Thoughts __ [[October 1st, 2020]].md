@@ -1,7 +1,7 @@
-- #pong #[[JennaD]] #[[Maier Fenster]]
+- #pong #[[Jenna]] #[[Maier Fenster]]
     - [[Maier Fenster]] should this ping us only ONCE on discord? and after it pings, should it self-erase? or manual?
         - [[Nathan Acks]] It might have pinged twice because I initially added two line, and then consolidated. I wasn't aware that we'd taken the ping functionality live.
-    - [[JennaD]] thanks for starting this up Nathan 
+    - [[Jenna]] thanks for starting this up Nathan 
         - #pong #[[Nathan Acks]] I’m on the road today [[October 2nd, 2020]] with limited connectivity. look forward to diving in on tomorrow [[October 3rd, 2020]]
 - # [[Nathan Acks]]
     - ## Backend

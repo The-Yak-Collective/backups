@@ -1,5 +1,5 @@
 About:: __Documentation for the [UnbelievaBoat](https://unbelievaboat.com/) [[Discord]] bot.__
-Chief Page Wrangler:: [[JennaD]]
+Chief Page Wrangler:: [[Jenna]]
     - Additional Page Wranglers:: `[[Fname Lname]]` | `[[Fname Lname]]`
 Created:: [[December 11th, 2021]] by [[Nathan Acks]]
 Last Updated:: [[December 11th, 2021]] by [[Nathan Acks]]

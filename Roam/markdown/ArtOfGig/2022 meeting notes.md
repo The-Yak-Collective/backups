@@ -481,8 +481,8 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - July 5th — US 4th of July weekend, maybe skip?
     - July 12th: [[Maier Fenster]]
     - July 19th
-    - August 2nd
-    - August 9th
+    - August 2nd Brian
+    - August 9th rhettg
     - August 16th Victor
     - August 23rd --- On the Shape of YR - Once a cycle meta discussion following https://roamresearch.com/#/app/ArtOfGig/page/yLECPNlKA
     - August 30th

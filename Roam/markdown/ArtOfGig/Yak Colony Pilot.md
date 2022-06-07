@@ -27,7 +27,7 @@
         - You'll see this banner across the top
         - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGVVVPRV9DVHJ4UC41MC4wMCUyMEFNLnBuZz9hbHQ9bWVkaWEmdG9rZW49OTNjNzA2ODEtN2I3NS00ZjZiLTg4ODctMGQ3YjY0YTI1MThj)
         - And this interface showing how much of the required amount is currently staked. This can be done by one or more people. If you have enough YAKG, your best bet is to stake it all yourself. If not, use the URL to round up support.
-            - Others will **not** see the staking ask in the dAPP. Only discoverable through your sharing the URL in the `Share URL` pink eyebrow. 2022-02-10 #[[JennaD]]
+            - Others will **not** see the staking ask in the dAPP. Only discoverable through your sharing the URL in the `Share URL` pink eyebrow. 2022-02-10 #[[Jenna]]
         - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGRDRSRmJYN0RTTi41MC4yNSUyMEFNLnBuZz9hbHQ9bWVkaWEmdG9rZW49MGZkZjk1NDMtN2YzMy00Y2MyLTgyOWMtNTM0ZGZmMTQxZDM2)
         - You stake by sliding the slider over. In this example, the whole amount is being staked (but hasn't been staked yet since it says 0%)
         - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGUUpSNWc4SDk5eC41MC40MCUyMEFNLnBuZz9hbHQ9bWVkaWEmdG9rZW49OTE4MDFkNTMtZWVhMy00NzgwLTlhMDUtZDc2NzIzYmViOWE4)
@@ -38,7 +38,7 @@
     - **Objecting:** If you see a motion in the Action stream, it will be open to objections during the waiting period. Just click, click Object, and stake enough to trigger a vote. Then voting will be in progress and if the motion loses, the stake of the people proposing the motion will be lost.
 - **Members** (add yourself and xDai address on metamask). This list should mirror the [Members Tab](https://xdai.colony.io/colony/yakcollective/members) on the Colony and ^^any mismatches should be investigated for potential security issues.^^
     1. Venkat: 0x2503b70933119084C26Df4C8d3E96d282de10743
-    2. #[[JennaD]] 0xea1bf2A0b45ED328a52a4aa3744669f6Ae525866
+    2. #[[Jenna]] 0xea1bf2A0b45ED328a52a4aa3744669f6Ae525866
     3. Sachin 0x02Dad585640b1929d88296687918d7751717Ccaa
     4. #[[Anuraj R]] - 0xd85795143687Ae28c15be426938C938ad9beaF25
     5. Meredith: 0xF88593a3b58B069bCcE2b50cC502C9BF8Ba5b248

@@ -3,7 +3,7 @@
     - Location:: Google Meet » [meet.google.com/zfc-qhjy-oey](meet.google.com/zfc-qhjy-oey)
     - Participating:: 
         - [[Nathan Acks]] 
-        - [[JennaD]]
+        - [[Jenna]]
     - Agenda and Minutes:: 
         - {{[[TODO]]}} review: revised YakMap signup form no login: 
 https://yak.knack.com/yaks#yakmap-participation-signup/

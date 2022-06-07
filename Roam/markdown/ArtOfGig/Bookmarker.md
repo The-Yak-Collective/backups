@@ -1,5 +1,5 @@
 - About:: __Discord bot that allows users to privately bookmark posts of interest.__
-- Chief Page Wrangler:: [[JennaD]]
+- Chief Page Wrangler:: [[Jenna]]
     - Additional Page Wranglers:: [[Nathan Acks]]
 - Created:: [[December 4th, 2021]] by [[Nathan Acks]]
 - Last Updated:: [[December 4th, 2021]] by [[Nathan Acks]]

@@ -46,7 +46,7 @@
         - **Discord channel**: channel-name 
             - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
         - **Launch Deliverable**: New Type - Content Hub
-            - %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [[Don’t Waste the Reboot]] __project. The text-heavy website section is like the__ [[Astonishing__ Stories]] __project. The image-heavy website section is like__ [[Future Frontiers]]. Consult [[JennaD]] for details
+            - %% __This is what will launch on launch date. Delete the ones that don't apply. The deck option is like the__ [[Don’t Waste the Reboot]] __project. The text-heavy website section is like the__ [[Astonishing__ Stories]] __project. The image-heavy website section is like__ [[Future Frontiers]]. Consult [[Jenna]] for details
         - **Financial Structure**: Internal Project
         - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
 -  

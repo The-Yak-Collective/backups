@@ -1,7 +1,7 @@
 About:: __Map of fields in Knack member database.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: 
-[[Vinay Débrou]] | [[Maier Fenster]] | [[JennaD]] | [[Jordan Peacock]]
+[[Vinay Débrou]] | [[Maier Fenster]] | [[Jenna]] | [[Jordan Peacock]]
 Last Updated:: [[December 11th, 2020]] by [[Nathan Acks]]
 Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
 Member data files are formally this is just a special kind of page. However, we treat the corresponding `.md` files more like a data structure that is then referenced in many other pages. Because of this, the most important part of these files is the front matter -- most member data files don't even have any content beyond that.
@@ -82,7 +82,7 @@ rss:
   - https://yakcollective.substack.com/feed```
         - Here's the conversation from the previous version of this page:
             - [[Nathan Acks]] we should also have an "rss feed" field in the member data (for feeds to be aggregated on the "writings" page) [[October 15th, 2020]]
-            - [[JennaD]] nice catch √ just added the field, and added it to the profile edit page for yaks and admins [[October 15th, 2020]]
+            - [[Jenna]] nice catch √ just added the field, and added it to the profile edit page for yaks and admins [[October 15th, 2020]]
             - [[Nathan Acks]] In Knack, set to a URL field with no link text.
     - ## yak_orbit
         - **yak orbit**: (display only) will reflect how member-like the yak is, generally, but not exactly corresponding to yak..member scale [[Maier Fenster]]

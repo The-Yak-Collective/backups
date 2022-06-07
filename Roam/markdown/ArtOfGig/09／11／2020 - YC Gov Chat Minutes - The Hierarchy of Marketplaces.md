@@ -3,7 +3,7 @@
 - 
 - [[Hershil Patel]]
     - 
-- [[JennaD]]
+- [[Jenna]]
     - appreciate this online governance study group
 feeling the Aug loss of momentum
 wondering about it turning into a boy’s club

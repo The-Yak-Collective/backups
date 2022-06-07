@@ -1,10 +1,10 @@
 - About:: __Directory Listing for Things Discussed in Yak #Infrastructure Discord channel__
 - Chief Page Wrangler:: [[Darren Kong]]
-    - Additional Page Wranglers:: [[Nathan Acks]] | [[JennaD]]
+    - Additional Page Wranglers:: [[Nathan Acks]] | [[Jenna]]
 - Created:: [[May 9th, 2020]] by [[Darren Kong]]
 - Last Updated:: [[January 3rd, 2021]] by [[Nathan Acks]]
-- Last Gardened:: [[November 16th, 2020]] by [[JennaD]]
-    - [[November 9th, 2020]] by [[JennaD]]
+- Last Gardened:: [[November 16th, 2020]] by [[Jenna]]
+    - [[November 9th, 2020]] by [[Jenna]]
         - __reversed the order of the chat notes so that the newest is on top 👇
 suggest most recent note left untwirled for easy review to visitors__
             - [Quick link to view chat notes.](https://roamresearch.com/#/app/ArtOfGig/page/d4mEcgqn5)
@@ -178,7 +178,7 @@ suggest most recent note left untwirled for easy review to visitors__
             - Set up a new [yak-trails-tools](https://github.com/The-Yak-Collective/yak-trails-tools) repo. [[Anuraj R]] is in charge.
             - Walked through [[Eric Platon]]’s [weekly2markdown](https://gitlab.com/yakc/tools/-/tree/main/weekly2markdown) code.
     - Infrastructure Chat 64 [[August 11th, 2021]]
-        - participants:: [[Nathan Acks]] [[JennaD]] [[Maier Fenster]] [[Anuraj R]]
+        - participants:: [[Nathan Acks]] [[Jenna]] [[Maier Fenster]] [[Anuraj R]]
         - notes::
             - [[Nathan Acks]] will split the `$lunks` command into `$mlinks` and `$hlinks`, and use the “html1” form for our HTML template
             - Started a review of the open agenda items in the `#infrastructure` channel.
@@ -189,7 +189,7 @@ suggest most recent note left untwirled for easy review to visitors__
             - We’ll do a work session on Saturday to get a basic framework spun up.
     - Infrastructure Chat 62 [[July 28th, 2021]]
     - Infrastructure Chat 61 [[July 21st, 2021]]
-        - participants:: [[Nathan Acks]] [[Anuraj R]] [[Maier Fenster]] [[JennaD]]
+        - participants:: [[Nathan Acks]] [[Anuraj R]] [[Maier Fenster]] [[Jenna]]
         - notes::
             Demo’d the Knack updates. Things that we need to do:
                 - Fix formatting of link title/URL field.
@@ -204,9 +204,9 @@ suggest most recent note left untwirled for easy review to visitors__
                 - Add tooltips to fields?
             Then… Direct website integration is the next big thing.
     - Infrastructure Chat 60 [[July 14th, 2021]]
-        - participants:: [[Maier Fenster]] [[JennaD]] [[Phil Wolff]] [[Nathan Acks]] [[Sachin Benny]]
+        - participants:: [[Maier Fenster]] [[Jenna]] [[Phil Wolff]] [[Nathan Acks]] [[Sachin Benny]]
         - notes::
-            - [[JennaD]] points out that we'll be doing some heavy bot development over the next 4 weeks.
+            - [[Jenna]] points out that we'll be doing some heavy bot development over the next 4 weeks.
             - [[Sachin Benny]] wants to try spinning up a smaller online science fiction "magazine". Initially, this will riff off of Astonishing Stories. The idea is that any project member can edit. We will need a submission process, and some automation to easily move things through stages. Ideally, submitters would also join the [[Yak Collective]] Discord server.
             - [[Maier Fenster]] wants to clarify how much of the proposed workflow should be inside the [[Yak Collective]], and how much outside.
             - [[Sachin Benny]] thinks that (at least to begin with), the entire process (including submission) should be within the [[Yak Collective]]. There are currently four stages:
@@ -214,17 +214,17 @@ suggest most recent note left untwirled for easy review to visitors__
                 - Editing
                 - Layout & proof reading
                 - Publishing
-            - [[JennaD]] points out that a rough draft of this process is already on the Production Squad page. There's also different kinds of editing -- developmental editing (content) vs. copy editing (spelling, consistency, etc.).
-                - [[December 9th, 2021]] update: changed name of Production Squad page to [[Publishing Ops]] #[[JennaD]]
+            - [[Jenna]] points out that a rough draft of this process is already on the Production Squad page. There's also different kinds of editing -- developmental editing (content) vs. copy editing (spelling, consistency, etc.).
+                - [[December 9th, 2021]] update: changed name of Production Squad page to [[Publishing Ops]] #[[Jenna]]
                 - 
             - [[Maier Fenster]] thinks that really what we're talking about is a kanban board containing links to Google Documents.
             - [[Sachin Benny]] agrees.
-            - [[JennaD]] points out that we already have a kanban on Roam.
+            - [[Jenna]] points out that we already have a kanban on Roam.
             - [[Maier Fenster]] would like the kanban to live in GitHub, and then we could layer in some automation.
             - [[Nathan Acks]] worries that this process might be too "squishy" for automation.
             - [[Maier Fenster]] notes that this sort of project automation already exists. Ideally, this would move items on a board and ping relevant people when something is done.
             - [[Sachin Benny]] wonders who actually signs off on the end? Who has final editorial control? Ideally final approval would live with the author.
-            - [[JennaD]] wonders if the editor should be able to reject.
+            - [[Jenna]] wonders if the editor should be able to reject.
             - [[Sachin Benny]] thinks that there should be a sense of "required" and "optional" changes.
             - [[Phil Wolff]] wonders why we don't want to allow completely open submissions?
             - [[Sachin Benny]] points out that even the original Astonishing Stories had a pretty strong editorial stance. We want to maintain that.
@@ -235,99 +235,99 @@ suggest most recent note left untwirled for easy review to visitors__
             - [[Maier Fenster]] thinks that a kanban is probably overkill from the author's perspective. The author wants to see controls and the state of __their__ story. The editor needs to see the state of a story, changes, etc. So, maybe we just need a webpage with the item + some metadata. This could also be a Discord bot that produces cards, but that seems perhaps too complicated.
             - [[Sachin Benny]] thinks that it would actually be best to keep things in Discord.
             - [[Nathan Acks]] suggests a bot where people on the Discord server can submit stories, and then the bot DMs them with status and lets them do nudges. On the back end, the bot creates a GitHub issue, adds it to the kanban, and then generates notifications in the Astonishing Stories channel when there are state changes.
-            - [[JennaD]] likes this idea, and wonders if we should do something manual before spinning up a bot.
+            - [[Jenna]] likes this idea, and wonders if we should do something manual before spinning up a bot.
             - [[Sachin Benny]] thinks that we already have a feel for the process, so we can jump right to notifications.
-            - [[JennaD]] wonders if we should use Knack for submissions.
+            - [[Jenna]] wonders if we should use Knack for submissions.
             - [[Maier Fenster]] agrees that Knack should be the database here. We should have people submit links rather than documents.
             - [[Nathan Acks]] thinks that if we're using Knack for submissions, why not use it for tracking things?
             - [[Maier Fenster]] thinks that they key is the question, "where does the action happen?" Does it happen in Discord? In Knack? In GitHub? People need to get notified. People need to say what they need to happen.
-            - [[JennaD]] thinks we should do whatever's easiest.
+            - [[Jenna]] thinks we should do whatever's easiest.
             - [[Maier Fenster]] thinks it should be manually prototyped first (probably in Knack). Once the database and the manual process is in place, we should layer in the bot.
-            - [[JennaD]] suggests that [[Sachin Benny]] rough out a form in Knack. [[Sachin Benny]] will do this.
-            - [[Nathan Acks]] and [[JennaD]] will take the new Knack sign-up form live [[2021-07-17|this Saturday]] at 9am MT / 11am ET.
-            - [[JennaD]] would like there to be a draft email notification for Knack.
+            - [[Jenna]] suggests that [[Sachin Benny]] rough out a form in Knack. [[Sachin Benny]] will do this.
+            - [[Nathan Acks]] and [[Jenna]] will take the new Knack sign-up form live [[2021-07-17|this Saturday]] at 9am MT / 11am ET.
+            - [[Jenna]] would like there to be a draft email notification for Knack.
             - [[Nathan Acks]] points out that if Knack can hit a webhook, then we can use it for notifications. Otherwise, we'll need a bot.
             - [[Maier Fenster]] observes that we don't __really__ need anything real-time here. Polling Knack every 15 minutes should be fine.
     - Infrastructure Chat 59 [[July 7th, 2021]]
     - Infrastructure Chat 58 [[June 30th, 2021]]
     - Infrastructure Chat 57 [[June 23rd, 2021]]
-        - participants:: [[JennaD]] [[Maier Fenster]] [[Nathan Acks]] [[Sachin Benny]]
+        - participants:: [[Jenna]] [[Maier Fenster]] [[Nathan Acks]] [[Sachin Benny]]
         - notes::
-            - [[JennaD]] would like to talk about launching some of the channels from the incubator & soft launching the member portal.
-            - [[JennaD]] moves three channels from the incubator to the plaza, as no one else really has an opinion.
+            - [[Jenna]] would like to talk about launching some of the channels from the incubator & soft launching the member portal.
+            - [[Jenna]] moves three channels from the incubator to the plaza, as no one else really has an opinion.
             - [[Nathan Acks]] suggests that we should lock #create-archive-channels so that non-yaks can't post.
             - (Everyone works on fixing permissions.)
             - [[Maier Fenster]] suggests that we should have a simpler permission structure in Discord.
             - [[Nathan Acks]] concurs, and adds that they think the website needs to be simplified too. There's too much going on with both the website and Discord backend for a handful of folks who are all doing this out of their back pockets to keep things structured.
-            - [[JennaD]] wants to see what's necessary to take the new project UI live.
+            - [[Jenna]] wants to see what's necessary to take the new project UI live.
             - [[Nathan Acks]] recalls that the info function doesn't work yet and there's some debug messages, but thinks that if we just remove these it would be ready to go live.
-            - [[JennaD]] thinks that the current Roam links need to go.
+            - [[Jenna]] thinks that the current Roam links need to go.
             - [[Maier Fenster]] notes that just changing the channel links will fix the uninformative Roam links. But what about the lack of additional information? Ideally this should be pulled from Knack.
             - [[Nathan Acks]] thinks we should comment out the additional information function __for now__. Once project management in Knack is a thing, we can re-add.
             - [[Maier Fenster]] quickly comments out the information function.
-            - [[JennaD]] would like to add in the study groups and incubator.
+            - [[Jenna]] would like to add in the study groups and incubator.
             - [[Maier Fenster]] quickly does this.
-            - [[JennaD]], [[Sachin Benny]], and [[Nathan Acks]] quickly edit a few channels.
-            - [[JennaD]] takes the new project UI live!
+            - [[Jenna]], [[Sachin Benny]], and [[Nathan Acks]] quickly edit a few channels.
+            - [[Jenna]] takes the new project UI live!
             - [[Sachin Benny]] wants to restart __Astonishing Stories__, and perhaps change directions a bit. Current science fiction magazines are somewhat outdated, and tend to focus less on hard sci-fi these days. Perhaps we can start publishing a minimum of one story per month, maybe with external submissions. We will need some way to change the project description, figure out a way to accept stories, and add the publish date to the stories.
             - [[Nathan Acks]] points out that this is mostly copy. For story submission, probably easiest to use a Google form right now. So the only real change that needs to be made right now is to add the publication date to the story.
     - Infrastructure Chat 56 [[June 16th, 2021]]
-        - participants:: [[JennaD]] [[Maier Fenster]] [[Matt Ryall]] [[Phil Wolff]]
+        - participants:: [[Jenna]] [[Maier Fenster]] [[Matt Ryall]] [[Phil Wolff]]
         - notes::
-            - [[JennaD]] notes that we're seeing an increase in new folks. We should probably reboot the newbie onboarding call.
+            - [[Jenna]] notes that we're seeing an increase in new folks. We should probably reboot the newbie onboarding call.
             - [[Maier Fenster]] agrees.
-            - [[JennaD]] wonders both how much we should specialize, and what our "product(s)" should be.
+            - [[Jenna]] wonders both how much we should specialize, and what our "product(s)" should be.
             - [[Maier Fenster]] thinks that the Yak Rover is starting to pull together a diverse pool of talent. Moreover, there's a difference between __maximizing revenue__ and __maximizing interest__. Their own business has learned this lesson the hard way.
             - [[Nathan Acks]] notes that they've received personal advice to specialize in the past, but has resisted this. But maybe there's a good place for "spot generalists?" A.k.a., "when you absolutely, positively need to MacGiver this shit right now."
-            - [[JennaD]] thinks we should work a bit on the newsletter. Can we automate pushing data to GitHub?
+            - [[Jenna]] thinks we should work a bit on the newsletter. Can we automate pushing data to GitHub?
             - [[Phil Wolff]] points out that a big part of the newsletter workflow is actually in Google Sheets. Basically, [[Maier Fenster]]'s bots produce a CSV of exhaust, [[Phil Wolff]] uses IMPORTXML() in Google Sheets to pull page titles (this doesn't work for Twitter, YouTube, and Google Docs, so these links are just dropped), and then the resulting markdown into GitHub.
             - [[Nathan Acks]] is willing to write a shell script to parse out the link CSV file.
             - [[Maier Fenster]] notes that the command is `$links`. The relevant code is in [csvofyaks.py](https://github.com/The-Yak-Collective/onboarding_robot/blob/main/csvofyaks.py). The shell script should probably live in that repo.
     - Infrastructure Chat 55 [[June 9th, 2021]]
-        - participants:: [[Maier Fenster]], [[JennaD]]
+        - participants:: [[Maier Fenster]], [[Jenna]]
         - notes::
             - [[Nathan Acks]] wants to start by deciding if we want to bump the meeting to 11 ET, as was suggested in the #infrastructure channel.
             - [[Maier Fenster]] has conflicts through July.
             - [[Nathan Acks]] will bump the meeting time to 11 ET starting in August.
-            - [[JennaD]] would like to use the agenda a bit more.
+            - [[Jenna]] would like to use the agenda a bit more.
             - [[Maier Fenster]] will need to leave early, but would like to discuss what we can do to make bots a bit more useful for projects. They'd also like to drop the licensing and financial governance agenda items.
             - [[Nathan Acks]] points out that licensing impacts a current agenda item to "open source" the website code. But they're fine dropping financial governance.
-            - [[JennaD]] agrees. Dropping the financial governance discussion, since that's moved elsewhere.
+            - [[Jenna]] agrees. Dropping the financial governance discussion, since that's moved elsewhere.
             - [[Nathan Acks]] moves on to the question of Google Analytics. They're largely ambivalent to this -- they're not a fan of having analytics on the page, but other people like it.
-            - [[JennaD]] wonders if Google Analytics exhaust could be included on the website.
+            - [[Jenna]] wonders if Google Analytics exhaust could be included on the website.
             - [[Maier Fenster]] notes that we don't have much traffic yet, and should probably hold off until there's something more significant.
-            - [[JennaD]] would maybe like to switch to an indie analytics vendor like Fathom (though that's not free), perhaps an indie. For example, they like Buttondown because it's an indie.
+            - [[Jenna]] would maybe like to switch to an indie analytics vendor like Fathom (though that's not free), perhaps an indie. For example, they like Buttondown because it's an indie.
             - [[Nathan Acks]] mostly likes Buttondown because it's more technically correct and has an API. Eventually we'll layer in some kind of automation.
-            - [[JennaD]] has a call-to-action for newsletter to get people involved in the "New Old Home" reboot. Additionally, they'd like to start a section talking about the "yak stack" of various indies.
-            - [[Nathan Acks]] and [[Maier Fenster]] both think that [[JennaD]] has good instincts here, and should continue pursuing the current direction.
-            - [[JennaD]] wonders if there's a better way of getting Yak Rover content.
+            - [[Jenna]] has a call-to-action for newsletter to get people involved in the "New Old Home" reboot. Additionally, they'd like to start a section talking about the "yak stack" of various indies.
+            - [[Nathan Acks]] and [[Maier Fenster]] both think that [[Jenna]] has good instincts here, and should continue pursuing the current direction.
+            - [[Jenna]] wonders if there's a better way of getting Yak Rover content.
             - [[Maier Fenster]] suggests looking into Twitter. There's even a "unified" Yak Rover account, but right now it just tweets about [[Maier Fenster]] rover.
-            - [[JennaD]] already does this, but [[Venkatesh Rao]] posts so much that the signal-to-noise isn't good.
+            - [[Jenna]] already does this, but [[Venkatesh Rao]] posts so much that the signal-to-noise isn't good.
             - [[Nathan Acks]] wonders if we could get the Yak Rover folks to adopt some set of hashtags.
-            - [[JennaD]] thinks that hashtags might be a big ask to do consistently.
+            - [[Jenna]] thinks that hashtags might be a big ask to do consistently.
             - [[Maier Fenster]] thinks that people __would__ do this, but just need to be badgered a bit. Directly mention them.
     - Infrastructure Chat 54 [[June 2nd, 2021]]
-        - participants:: [[JennaD]] [[Maier Fenster]] [[Nathan Acks]] [[Phil Wolff]]
+        - participants:: [[Jenna]] [[Maier Fenster]] [[Nathan Acks]] [[Phil Wolff]]
         - notes::
-            - [[JennaD]] would like us to each talk about an agenda item.
+            - [[Jenna]] would like us to each talk about an agenda item.
             - [[Phil Wolff]] would like to talk about licensing policies and finances.
             - [[Maier Fenster]] doesn't think that this is the right place for these, and that this should be discussed in the online governance chat. These are already on the agenda there as well.
-            - [[JennaD]] points out that the online governance group is more of a study group, and is currently __not__ trying to be a "leadership council". So given our activity, we should just propose this.
+            - [[Jenna]] points out that the online governance group is more of a study group, and is currently __not__ trying to be a "leadership council". So given our activity, we should just propose this.
             - [[Maier Fenster]] thinks that maybe we should have a special call about this.
-            - [[Nathan Acks]] is with [[JennaD]] and [[Phil Wolff]] -- if not us, who? We should just propose something in `#decision-log`, and then let people shoot it down.
+            - [[Nathan Acks]] is with [[Jenna]] and [[Phil Wolff]] -- if not us, who? We should just propose something in `#decision-log`, and then let people shoot it down.
             - [[Phil Wolff]] points out that licensing is key for outside collaboration. We should probably start off by just talking about the legal layer here.
-            - [[JennaD]] notes that there's a Roam page somewhere about finances.
+            - [[Jenna]] notes that there's a Roam page somewhere about finances.
             - [[Phil Wolff]] thinks that this page is more the __start__ of a conversation.
             - [[Phil Wolff]] also thinks that we need some concept of an NDA.
             - [[Nathan Acks]] thinks that when we start talking about NDAs, we're opening up a whole can of worms. How do we track this? How do we enforce this? NDAs are a lot more complicated here than just licensing, and maybe we should just start here.
             - [[Phil Wolff]] thinks that licensing and NDAs are more tightly linked than that in the real world.
             - [[Maier Fenster]] disagrees.
-            - [[JennaD]] notes that things around here don't get done unless there is (1) someone who's willing to take responsibility, and (2) a concrete thing to build. So let's find both for these.
+            - [[Jenna]] notes that things around here don't get done unless there is (1) someone who's willing to take responsibility, and (2) a concrete thing to build. So let's find both for these.
             - [[Maier Fenster]] reiterates their belief that this discussion should be in its own channel.
             - [[Phil Wolff]] observes that there used to be a convention in parts of Silicon Valley of a "mutual NDA". Some kind of two sentence thing, sometimes on the back of a business card. This would be useful if someone comes to talk to us in a consulting context. They volunteer to write up something here.
             - [[Maier Fenster]] wants an example.
             - [[Phil Wolff]] suggests that there could be a choice for "Yak Coffee" of a mutual NDA or Chatham House Rules.
-            - [[JennaD]] suggests that people might bring their own NDAs.
+            - [[Jenna]] suggests that people might bring their own NDAs.
             - [[Maier Fenster]] thinks that there is a risk here of creating legal documents.
             - [[Nathan Acks]] points out that there's a lot of strategic not-knowing that goes on in the business world. Perhaps it is better not to have a position here.
             - [[Phil Wolff]] thinks that not having something adds too much friction.
@@ -336,15 +336,15 @@ suggest most recent note left untwirled for easy review to visitors__
             - [[Maier Fenster]] asks how [[Phil Wolff]] handles things.
             - [[Phil Wolff]] notes that it starts off based on personal reputation, and then an NDA gets layered on later if/when secrets get revealed.
             - [[Maier Fenster]] asks why this isn't good enough for us?
-            - [[JennaD]] tries to bring this home...
+            - [[Jenna]] tries to bring this home...
             - [[Phil Wolff]] acknowledges [[Maier Fenster]]'s concerns... There's a formality/informality concern here. Maybe we can't skip the paperwork?
             - [[Maier Fenster]] really wants a dedicated channel for this.
             - [[Nathan Acks]] asks if this conversation could maybe live in `#internal-learnings` or `#tool-time`?
             - [[Maier Fenster]] agrees that this could live in `#tool-time`.
-            - [[JennaD]] thinks we should go for this. Let's drop something there.
+            - [[Jenna]] thinks we should go for this. Let's drop something there.
                 - > Having opinions, rather than having a conversation.
 
--- [[JennaD]]
+-- [[Jenna]]
             - [[Maier Fenster]] would like to talk about project UI/UX a bit more. Projects aren't happening... But they aren't. We don't seem to have the right infrastructure to reliably get new projects off the ground (and keep them running).
             - [[Phil Wolff]] thinks that one of the challenges is Roam. It's too slow. Very few people use it. Everything's theoretically in Roam, but there's nothing in Discord feeding them there, and once people get to Roam it all gets very confused.
             - [[Maier Fenster]] thinks that basic project information (and voting) should be in Knack. Roam would be more of a wiki/notepad.
@@ -354,31 +354,31 @@ suggest most recent note left untwirled for easy review to visitors__
             - [[Maier Fenster]] notes that the barn raising example is a good one. Most projects lack define time frames and goals.
             - [[Phil Wolff]] the limited back-end access to Knack makes things hard.
     - Infrastructure Chat 53 [[May 26th, 2021]]
-        - participants:: [[Maier Fenster]] [[JennaD]] [[Nathan Acks]] [[Nitzan Hermon]]
+        - participants:: [[Maier Fenster]] [[Jenna]] [[Nathan Acks]] [[Nitzan Hermon]]
         - notes::
-            - [[JennaD]] notes that [[Venkatesh Rao]] feels that the newsletter might be aa bit over-produced.
+            - [[Jenna]] notes that [[Venkatesh Rao]] feels that the newsletter might be aa bit over-produced.
             - (We all work shopped this a bit.)
             - [[Nathan Acks]] notes that the current "Yak Trails" newsletter is long, but not unusually so compared to the other newsletters in their inbox.
             - [[Nitzan Hermon]] prefers shorter newsletters, maybe 5 - 10 paragraphs.
             - [[Maier Fenster]] thinks that a "yak stack" section where people talk about their own tech stack would be interesting. The problem, as always, is someone who's willing to take that on as a regular project.
             - [[Nitzan Hermon]] notes that Discord in general is a daunting medium. It can be hard to engage. Discord feels very treadmill-like.
-            - [[JennaD]] notes that ideally the newsletter can help make the conversations here less daunting.
+            - [[Jenna]] notes that ideally the newsletter can help make the conversations here less daunting.
             - [[Nathan Acks]] wants to turn to the website spacing tweaks quickly before the end of the call.
-            - [[JennaD]] suggests reducing the bullet list indent and zeroing out the spacing between headers and lists.
+            - [[Jenna]] suggests reducing the bullet list indent and zeroing out the spacing between headers and lists.
     - Infrastructure Chat 52 [[May 19th, 2021]]
-        - participants:: [[Maier Fenster]], [[JennaD]], [[Nathan Acks]], [[Phil Wolff]]
+        - participants:: [[Maier Fenster]], [[Jenna]], [[Nathan Acks]], [[Phil Wolff]]
         - notes::
-            - [[JennaD]] would like to clean up the `#infrastructure` channel agenda. And document things.
+            - [[Jenna]] would like to clean up the `#infrastructure` channel agenda. And document things.
             - [[Nathan Acks]] thinks they should update the text in `#experimental-help-channel` to reflect the new channel organization and remind people about the $help commands.
             - [[Maier Fenster]] notes that the various channel re-orgs have lead to the various bots to loose access to many channels.
             - [[Nathan Acks]] volunteers to give the bots read access (and write, for @gigayak) to all of the channels (probably at the category level).
-            - [[JennaD]] brings up the question [[Maier Fenster]] added about using Apollo or Sesh for calendaring.
+            - [[Jenna]] brings up the question [[Maier Fenster]] added about using Apollo or Sesh for calendaring.
             - [[Maier Fenster]] thinks that Calendly is still our least worst option. There's some jankiness in the current system, but this is a consequence of us using the free tier (and consequently needing to overload a set of Calendly's variables).
             - [[Maier Fenster]] thinks that the problem is less the software, and more that new people don't feel comfortable setting up meetings.
             - [[Phil Wolff]] thinks that the friction of this process is still important. But yes, there's still an excitement problem.
-            - [[JennaD]] points out that Calendly requires going off-discord, but both [Apollo](https://apollo.fyi/) and [Sesh](https://sesh.fyi/) work on Discord.
+            - [[Jenna]] points out that Calendly requires going off-discord, but both [Apollo](https://apollo.fyi/) and [Sesh](https://sesh.fyi/) work on Discord.
             - [[Nathan Acks]] thinks that as long as meetings ultimately wind up on our Google Calendar, then the solution is acceptable.
-            - [[JennaD]] moves us on to [[Phil Wolff]]'s point about UX for upcoming events.
+            - [[Jenna]] moves us on to [[Phil Wolff]]'s point about UX for upcoming events.
             - [[Phil Wolff]] notes that we don't have any Doodle-like functionality, public calendars, or any scheduling workflow at all.
             - [[Maier Fenster]] asks if we're looking for a Discord bot.
             - [[Phil Wolff]] notes that this should be visual, but it would be good to have the data available for bots.
@@ -386,8 +386,8 @@ suggest most recent note left untwirled for easy review to visitors__
             - [[Phil Wolff]] notes that we have no reminder functionality. This is normally handled through people's personal calendar system.
             - [[Maier Fenster]] notes that Apollo will handle notifications.
             - [[Nathan Acks]] notes that we can get most (all?) of this functionality if we expose an option to add people as Google Calendar event attendees.
-            - [[JennaD]] thinks that for the moment, some information about Calendly should be added to the help channel.
-            - [[JennaD]] wants to switch to using Knack forms on the website.
+            - [[Jenna]] thinks that for the moment, some information about Calendly should be added to the help channel.
+            - [[Jenna]] wants to switch to using Knack forms on the website.
             - (Everyone workshopped this a bit.)
     - Infrastructure Chat 51 [[May 12th, 2021]]
         - participants:: [[Oliver King]], [[Maier Fenster]], [[Nathan Acks]]
@@ -415,12 +415,12 @@ suggest most recent note left untwirled for easy review to visitors__
     - Infrastructure Chat 50 [[May 5th, 2021]]
         - participants:: [[Nathan Acks]], [[Oliver King]]
     - Infrastructure Chat 49 [[April 28th, 2021]]
-        - participants:: [[Nathan Acks]], [[JennaD]], [[Phil Wolff]]
+        - participants:: [[Nathan Acks]], [[Jenna]], [[Phil Wolff]]
         - **Notes**
             - [[Nathan Acks]] got on a few minutes late, and so missed some notes...
-            - [[JennaD]] is looking to improve some of the existing bots. The goal is to automate Yak Talk a bit more.
+            - [[Jenna]] is looking to improve some of the existing bots. The goal is to automate Yak Talk a bit more.
             - [[Phil Wolff]] notes that there's a bot now for pulling links (`$links`). It looks like this is part of onboarding_robot. Ideally this might just be the upcoming events + a list of links.
-            - [[JennaD]] notes that the next step would be to generate a list of robots + commands to generate/read this.
+            - [[Jenna]] notes that the next step would be to generate a list of robots + commands to generate/read this.
             - [[Phil Wolff]] thinks that newsletters should start on the website, and then move into the newsletter. Potential bots: Last week content, upcoming, etc. There should be *one* place people go to get raw data.
             - [[Phil Wolff]] would ideally like a script that daily pulls what happened on Discord, events, shared links, maybe agenda items.
         - **Follow-Up**
@@ -436,17 +436,17 @@ suggest most recent note left untwirled for easy review to visitors__
     - Infrastructure Chat 47 [[April 14th, 2021]]
     - Infrastructure Chat 46 [[April 7th, 2021]]
     - Infrastructure Chat 45 [[March 31st, 2021]]
-        - participants:: [[Bryan King]] [[JennaD]] [[Oliver King]] [[Phil Wolff]] [[Maier Fenster]]
+        - participants:: [[Bryan King]] [[Jenna]] [[Oliver King]] [[Phil Wolff]] [[Maier Fenster]]
         - **Notes**
             - [[Oliver King]] wants to make the channels more legible. Can we differentiate projects from channels, active from non-active, etc.
             - [[Nathan Acks]] brings up their past experiences with the emoji prefixes as what __not__ to do.
-            - [[JennaD]] suggests a quarterly cadence of changes to the Discord server.
+            - [[Jenna]] suggests a quarterly cadence of changes to the Discord server.
             - [[Nathan Acks]] and [[Oliver King]] like the quarterly cadence idea.
             - [[Maier Fenster]] proposes having a weekly change poll in the **Announcements** channel.
             - [[Phil Wolff]] asks why we're talking about polling.
             - [[Maier Fenster]] thinks that the problem with the emoji change was that it was bigger than folks expected.
             - [[Phil Wolff]] suggests the reverse: Make the change, but leave a changelog so that people can respond and things can be reverted.
-            - [[JennaD]] is worried that some people only check in infrequently. Perhaps a monthly cadence?
+            - [[Jenna]] is worried that some people only check in infrequently. Perhaps a monthly cadence?
             - [[Maier Fenster]] thinks that a monthly cadence is too slow. Maybe a changelog + discussion of some sort.
             - [[Phil Wolff]] likes a more anarchic approach.
             - [[Nathan Acks]] is worried that there's a tension between illegibility and engagement.
@@ -454,19 +454,19 @@ suggest most recent note left untwirled for easy review to visitors__
             - [[Nathan Acks]] I'm honestly not sure what a `yakherder` does?
             - [[Maier Fenster]] thinks that right now the main issue is that we have people with vision, but they're all worried about offending other folks.
             - [[Oliver King]] wants to pin this, but thinks that we should perhaps spin this out as a weekly questions.
-            - [[JennaD]] asks if this is the right time to switch to using Knack for sign-ups?
+            - [[Jenna]] asks if this is the right time to switch to using Knack for sign-ups?
             - [[Nathan Acks]] thinks that the key tension here is between minimizing information gathering and normalizing the use of Knack.
-            - [[JennaD]] thinks that this also hooks into the question of whether we should have an internal newsletter.
+            - [[Jenna]] thinks that this also hooks into the question of whether we should have an internal newsletter.
             - [[Bryan King]] only has about an hour this week.
             - [[Nathan Acks]] thinks that we should switch out the sign-up form this week, but can't commit. So it's really up to Bryan.
             - [[Bryan King]] points out that most of the time they spent over the weekend was trying to coordinate requirements, not actual implementation.
-            - [[JennaD]] seconds this.
+            - [[Jenna]] seconds this.
             - [[Oliver King]] points out that this comes back a bit to how hard publishing is. Perhaps we should hold-off on any more infrastructure-related activities until there's a clearer roadmap.
             - [[Nathan Acks]] doesn't have a solution to the larger problem, but suggests that a meta-ticket in GitHub outlining how to move into Knack might be helpful.
-            - [[JennaD]] doesn't think this would be helpful now. We need to lock down governance more first.
+            - [[Jenna]] doesn't think this would be helpful now. We need to lock down governance more first.
             - [[Nathan Acks]] notes that they'd [written up their own channel reorganization proposal]([[Nathan Acks' March 2021 Discord Channel Organization Change Proposal]]), centered around permissioning. we're heading in a different direction now, but perhaps something from that document will be useful for Oliver, __et al.__?
     - Infrastructure Chat 44 [[March 24th, 2021]]
-        - participants:: [[Bryan King]] [[JennaD]] [[Oliver King]] [[Maier Fenster]] [[Phil Wolff]]
+        - participants:: [[Bryan King]] [[Jenna]] [[Oliver King]] [[Maier Fenster]] [[Phil Wolff]]
         - **Agenda**
             - Me stepping back (what is there to discuss?)
             - ~~Discord channel organization discussion.~~
@@ -482,7 +482,7 @@ suggest most recent note left untwirled for easy review to visitors__
             - Maier wants a clear vision. Someone should write a vision for how the website should be flexible and accessible.
             - Oliver thinks we need a case study. Can we conduct some interviews with build leaders? Oliver will lead this.
     - Infrastructure Chat 43 [[March 17th, 2021]]
-        - participants:: [[Oliver King]] [[JennaD]] [[Maier Fenster]] [[Phil Wolff]] [[Nathan Acks]]
+        - participants:: [[Oliver King]] [[Jenna]] [[Maier Fenster]] [[Phil Wolff]] [[Nathan Acks]]
         - **Agenda**
             1. Welcome/help channel.
             2. ~~Discord channel organization discussion.~~
@@ -508,11 +508,11 @@ suggest most recent note left untwirled for easy review to visitors__
                 1. If we need logins, people should only have a single one, and
                 2. If we think we want to save data long-term (by importing it to the member record mothership), we should make sure that records are associated with either an email address or a Discord [snowflake ID](https://en.wikipedia.org/wiki/Snowflake_ID) for linkability.
     - Infrastructure Chat 42 [[March 10th, 2021]]
-        - participants:: [[Oliver King]] [[JennaD]] [[Maier Fenster]] [[Phil Wolff]] [[Nathan Acks]]
+        - participants:: [[Oliver King]] [[Jenna]] [[Maier Fenster]] [[Phil Wolff]] [[Nathan Acks]]
         - **Agenda**
             1. [[Venkatesh Rao]] discussion of consistent open-source licensing policy for yc content (member contributed and 3rd party used)
             2. [[Venkatesh Rao]] financial governance/spending process
-            3. [[JennaD]] softlaunch member profile portal » review round » launch
+            3. [[Jenna]] softlaunch member profile portal » review round » launch
             4. [[Maier Fenster]] discuss ui for projects bot a bit more
             5. [[Maier Fenster]] should we use a calendar bot like apollo or sesh
             6. [[Nathan Acks]] Revisit third-party analytics/tracking decisions
@@ -531,20 +531,20 @@ suggest most recent note left untwirled for easy review to visitors__
                     - Then folks get a more limited "base level" access... But this doesn't include projects, etc.
                         - This would be gated by some sort of "internal access" sign-up.
                     - Oliver's internal sign-up form would have a skill list.
-                - [[JennaD]] is concerned that gating further access could be problematic, as we have a strong "working out loud" ethos. But perhaps we could show/hide channels on demand?
+                - [[Jenna]] is concerned that gating further access could be problematic, as we have a strong "working out loud" ethos. But perhaps we could show/hide channels on demand?
                 - [[Nathan Acks]] We can do this.
                 - [[Maier Fenster]] This is definitely possible, but how should we make sure that channels always get roles? 
-                - [[JennaD]] thinks we should have more high-touch, in-person engagement.
+                - [[Jenna]] thinks we should have more high-touch, in-person engagement.
                     - Also, remove the channel emoji...
                 - [[Oliver King]] is reluctant to leave things to __just__ up to people.
                 - [[Nathan Acks]] notes that we've gotten __really__ sloppy about roles, and cleaning this up might make things nicer for folks.
-                - [[JennaD]] thinks we're probably at the point where we need to start mirroring roles from Discord into Knack.
+                - [[Jenna]] thinks we're probably at the point where we need to start mirroring roles from Discord into Knack.
                 - [[Oliver King]] it's generally useful to have some integration.
                 - [[Maier Fenster]] thinks we should have more "short guides" than a lot of user tiers.
                 - [[Oliver King]] thinks there's definitely too many channels.
                 - [[Phil Wolff]] notes that the Yak Coffee idea originated in Marketing. The idea is to translate the enthusiasm for talk among each other into actually generating __work__.
                     - [[Oliver King]] thinks this is a bit like Interintellect or Clubhouse.
-                    - [[JennaD]] thinks the question for Yak Coffee is: Are we going to integrate all of this into Knack or not?
+                    - [[Jenna]] thinks the question for Yak Coffee is: Are we going to integrate all of this into Knack or not?
                 - [[Oliver King]] thinks we should think about what channels are visible at which levels.
                 - [[Maier Fenster]] and [[Phil Wolff]] __don't__ feel that there are too many channels.
                 - [[Maier Fenster]] proposes that we alternately have a "mute" button.
@@ -630,33 +630,33 @@ suggest most recent note left untwirled for easy review to visitors__
                     - Where should we put a page in Roam to hold our ideas about UX?
                 - [[Nathan Acks]] We don't have such a page, but if someone creates something, I'll be happy to link it to [[IT Infrastructure]]
     - Infrastructure Chat 39 [[February 17th, 2021]]
-        - participants:: [[Maier Fenster]] [[JennaD]] [[Nathan Acks]]
+        - participants:: [[Maier Fenster]] [[Jenna]] [[Nathan Acks]]
         - **Agenda**
             - Bot's down...
         - **Meeting Notes**
             - Looks like [[Nathan Acks]] is going to be the "emoji master" for channels.
             - [[Maier Fenster]] Discord has a 500 channel limit. We're going to run into this limit with the weekly questions in a year or four.
                 - [[Nathan Acks]] Maybe we should have a separate question archive.
-                - [[JennaD]] Even if we archive things, they'll still be marked as new, and then people need to tap on them to get them dismissed.
-                - [[JennaD]] Should we really remove permission to post from the archived weekly questions?
+                - [[Jenna]] Even if we archive things, they'll still be marked as new, and then people need to tap on them to get them dismissed.
+                - [[Jenna]] Should we really remove permission to post from the archived weekly questions?
                 - [[Nathan Acks]] We did have a problem with people posting to the initial archives...
-                - [[JennaD]] Maybe we should leave the weekly questions up for three weeks (or something)?
+                - [[Jenna]] Maybe we should leave the weekly questions up for three weeks (or something)?
                 - [[Maier Fenster]] The goal was to get general discussions out of `coworking-cafe`. Questions will be rotated on Fridays.
-                - [[JennaD]] What if we had a "last week's questions" category that questions from the previous week?
+                - [[Jenna]] What if we had a "last week's questions" category that questions from the previous week?
                 - [[Maier Fenster]] I can do this.
-                - [[JennaD]] I'd really like to revitalize the projects. [[Oliver King]]'s trying to revitalize these. Yak Rover is happening, but everything else is sleepy.
+                - [[Jenna]] I'd really like to revitalize the projects. [[Oliver King]]'s trying to revitalize these. Yak Rover is happening, but everything else is sleepy.
                 - [[Nathan Acks]] I don't have good revitalization ideas, except to make things more welcoming and more active in general, with the idea that having more active people here will lead to more project activity.
                 - [[Maier Fenster]] Something else is the proposed help menu. Anyone can upload to this. Links can be internal to the menu, to other Discord chats, or even off-site. Anyone can download/upload the menu.
-                - [[JennaD]] Who's intended to be the owner?
+                - [[Jenna]] Who's intended to be the owner?
                 - [[Maier Fenster]] Whoever uploads last wins. To upload, use the Discord file upload feature, and use `$$uploadmenu` as the comment. Filename doesn't matter.
-                - [[JennaD]] The help channel should expose the bots, and help people learn about them.
-                - [[JennaD]] We should try to push the new project UI live during the call next week.
+                - [[Jenna]] The help channel should expose the bots, and help people learn about them.
+                - [[Jenna]] We should try to push the new project UI live during the call next week.
     - Infrastructure Chat 38 [[February 10th, 2021]]
-        - participants:: [[Maier Fenster]] [[JennaD]] [[Nathan Acks]]
+        - participants:: [[Maier Fenster]] [[Jenna]] [[Nathan Acks]]
         - **Agenda**
             1. [[Venkatesh Rao]] ~~discussion of consistent open-source licensing policy for yc content (member contributed and 3rd party used)~~
             2. [[Venkatesh Rao]] ~~financial governance/spending process~~
-            3. [[JennaD]] softlaunch member profile portal » review round » launch
+            3. [[Jenna]] softlaunch member profile portal » review round » launch
             4. [[Maier Fenster]] discuss ui for projects bot a bit more
             5. [[Oliver King]] discuss project board -- logistics and feedback
         - **Meeting Notes**
@@ -672,14 +672,14 @@ suggest most recent note left untwirled for easy review to visitors__
                 - Assumption is that the first 10  characters of the channel name and the corresponding role match.
                 - [[Maier Fenster]] reminds [[Nathan Acks]] that the primary purpose of the dashboards is to help orient new yaks.
                 - [[Maier Fenster]] wants to to either use trailing emoji in channel names, or separate the leading emoji with an underscore.
-                    - [[JennaD]] suggests the format used by a different Discord server that has unicode mid-dots as separators. [[Nathan Acks]] really likes this.
+                    - [[Jenna]] suggests the format used by a different Discord server that has unicode mid-dots as separators. [[Nathan Acks]] really likes this.
                 - [[Nathan Acks]] will play with some options, and then [[Maier Fenster]] will auto-create roles based on the channel name sans-emoji (or use existing roles when appropriate).
     - Infrastructure Chat 37 [[January 31st, 2021]]
         - participants:: [[Maier Fenster]] [[Oliver King]] [[Steve Lagree]] [[Grigori Milov]] [[Nathan Acks]]
         - **Agenda**
             1. [[Venkatesh Rao]] ~~discussion of consistent open-source licensing policy for yc content (member contributed and 3rd party used)~~
             2. [[Venkatesh Rao]] ~~financial governance/spending process~~
-            3. [[JennaD]] ~~softlaunch member profile portal » review round » launch~~
+            3. [[Jenna]] ~~softlaunch member profile portal » review round » launch~~
             4. [[Maier Fenster]] ~~discuss ui for projects bot a bit more~~
             5. [[Nathan Acks]] Discuss alternate timeslots for infrastructure call
             6. [[Oliver King]] discuss project board -- logistics and feedback
@@ -707,17 +707,17 @@ suggest most recent note left untwirled for easy review to visitors__
             - [[Oliver King]] Maybe infrastructure could be the working group for this?
             - [[Nathan Acks]]'s head always goes to the website, and it sounds like we really do need a "member" section. Maybe something like Oliver's board could live there.
             - [[Maier Fenster]] prefers something less structured, and thinks that Discord + the website is the right place for a lot of this.
-            - [[JennaD]] worries that we don't have a lot of "glue" people, and hopes that perhaps what Oliver and Steve are working on could help provide that.
-            - [[JennaD]] Is anything happening with an internal newsletter?
+            - [[Jenna]] worries that we don't have a lot of "glue" people, and hopes that perhaps what Oliver and Steve are working on could help provide that.
+            - [[Jenna]] Is anything happening with an internal newsletter?
                 - [[Maier Fenster]] The newsletter is waking up, but we need activity to go into the newsletter.
             - [[Maier Fenster]] All madeyaks can now tweet on the YC Twitter account directly from Discord.
                 - The more tools we have to help people do things, the more things will hopefully happen.
                 - We put out the survey a few weeks ago, and 50% of people didn't know how to start projects.
-                    - [[JennaD]] Can we get a report-back from this form?
-            - [[JennaD]] is going to be practicing the multi-user Roam book club, mostly to experiment with multi-player.
+                    - [[Jenna]] Can we get a report-back from this form?
+            - [[Jenna]] is going to be practicing the multi-user Roam book club, mostly to experiment with multi-player.
                 - The first book may be useful.
                 - ^^Calls are almost all men. Suggests a problem we should address.^^
-                - [[JennaD]] would like to do a pop-up event related to Kim Stanely Robinson's new event __The Ministry of the Future__. Where should I drop this?
+                - [[Jenna]] would like to do a pop-up event related to Kim Stanely Robinson's new event __The Ministry of the Future__. Where should I drop this?
                     - [[Maier Fenster]] create an event, and it will show up in the events channel.
                 - [[Oliver King]] is also in the Roam book club. Maybe this could be a mini-event?
             - [[Nathan Acks]] wonders how easy it is to embed AirTable in the website.
@@ -725,18 +725,18 @@ suggest most recent note left untwirled for easy review to visitors__
                     - [[Oliver King]] is on the AirTable pro plan.
             - [[Maier Fenster]] mentions that Venkat is a little worried about publicizing Roam pages, in case that invites vandalism.
             - [[Steve Lagree]] How do we start working on projects? What are quests, etc.?
-                - [[JennaD]] points out that Venkat hopes that people can just show up and start doing things.
+                - [[Jenna]] points out that Venkat hopes that people can just show up and start doing things.
                 - [[Oliver King]] the idea isn't so much to a distinct structure... But to highlight values. For example: "Show up and do things," and the quest board can provide some examples of __what__ people can do.
                 - [[Maier Fenster]] the idea of a flywheel is that we need enough people doing things in public to get other people engaged and start doing things. There's just not a lot that out there in public right now. Right now, there's not a lot happening in public.
-                - [[JennaD]] points out that we're sort of caught in the gap between doing project because they're fun, and actually get gigs, etc.
+                - [[Jenna]] points out that we're sort of caught in the gap between doing project because they're fun, and actually get gigs, etc.
                     - People should join [[Grigori Milov]]'s call on Fridays.
-            - [[Oliver King]] and [[JennaD]] will coordinate on a pop-up Kim Stanely Robinson event.
+            - [[Oliver King]] and [[Jenna]] will coordinate on a pop-up Kim Stanely Robinson event.
             - [[Oliver King]] asks that people should experiment with the AirTable quest board. We should put things onto it that we'd like to see happen.
                 - [[Nathan Acks]] will take a look and add ideas.
                 - [[Maier Fenster]]'s worried that this could become just a "pile of ideas". We need an organized way of talking and tracking things. This might work well for discover, but we need to filter people into more organized conversations. Maybe we should use GitHub for this.
                     - [[Steve Lagree]] agrees that we could potentially use GitHub as an issue tracker.
                     - [[Nathan Acks]] thinks that perhaps we should not always use GitHub. Sometimes this should be Discord. We want to make sure we're friendly for non-techies.
-                    - [[JennaD]] thinks that we should spin up a Roam page per quest. And that should be the place where we have discussions.
+                    - [[Jenna]] thinks that we should spin up a Roam page per quest. And that should be the place where we have discussions.
             - ^^**Time change:** Wednesday at 15:00 UTC / 10:00 EST / 07:00 PST /  (experiment, may change depending on feedback).^^
     - Infrastructure Chat 36 [[January 24th, 2021]]
         - participants:: [[Maier Fenster]] [[Nathan Acks]]
@@ -1363,7 +1363,7 @@ suggest most recent note left untwirled for easy review to visitors__
         - Bot can compose parameters from discord into knack url like snowflake iD (UUID)
         - Astonishing stories launching 1x week. card can be iterated upon.
     - Infrastructure Chat 21 [[October 4th, 2020]] #meeting-notes
-        - participants:: [[Nathan Acks]] | [[Maier Fenster]] | [[Hershil Patel]] | [[JennaD]] | [[Vinay Débrou]]
+        - participants:: [[Nathan Acks]] | [[Maier Fenster]] | [[Hershil Patel]] | [[Jenna]] | [[Vinay Débrou]]
         - Jenna has integrated the Yak Map questions into Knack.
             - So, the idea is to drive the Yak Map first, and __then__ create an account if that makes sense.
         - YakTalk is burned out. Too intense to produce.
@@ -1543,7 +1543,7 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
                 - {{[[TODO]]}} webhook to YC website? 
             - {{[[TODO]]}} Nathan - @Bardia works at Roam, interested in knowing about Astonishing Stories/Yak experience with roam 
         - member database:
-            - {{[[DONE]]}} Knack: is it time? [[JennaD]]: check with Jordan (payment) (dm'd on Discord)
+            - {{[[DONE]]}} Knack: is it time? [[Jenna]]: check with Jordan (payment) (dm'd on Discord)
                 - {{[[TODO]]}} receive reply from [[Jordan Peacock]]
             - {{[[DONE]]}} yak map: is it time? [[Darren Kong]]check with Vinay (data schema)
                 - {{[[TODO]]}} receive reply from [[Vinay Débrou]]

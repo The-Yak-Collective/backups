@@ -1,7 +1,7 @@
 - About:: __The Rat hummed a tune, and the Mole recollected that animal-etiquette forbade any sort of comment on the sudden disappearance of one's friends at any moment, for any reason or no reason whatever.__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
-    - Additional Page Wranglers::  [[Grigori Milov]] | [[JennaD]]
-- Created:: [[October 30th, 2020]] by [[JennaD]]
+    - Additional Page Wranglers::  [[Grigori Milov]] | [[Jenna]]
+- Created:: [[October 30th, 2020]] by [[Jenna]]
 - Last Updated:: `/today` by [[Fname Lname]]
 - Last Gardened:: `/today` by [[Fname Lname]]
 - 

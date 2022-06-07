@@ -3,7 +3,7 @@
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional page wranglers: Looking for people
 - Notes::
-    - See also: [[Publishing Ops]] page maintained by [[JennaD]] for production support that will be available, and the [[YC Fiat Fund]] to see how much financial support is currently available.
+    - See also: [[Publishing Ops]] page maintained by [[Jenna]] for production support that will be available, and the [[YC Fiat Fund]] to see how much financial support is currently available.
     - Unlike the old proposals [[Greenlighting Process]] (now deprecated), which had both a Roam page component and a google forms component, which was used for the first two cycles (May and July 2020), this process will solely be based on Roam, Discord, and automated/semi-automated activities triggered on github and the website.
 - **DEPRECATED OLD PROPOSAL PROCESS CONTENT**: Everything in this section is deprecated and retained here only to provide historical context.
     - TO PROPOSE A PROJECT::
@@ -35,7 +35,7 @@
 Deck option is like the__ [[Don’t Waste the Reboot]] __project. 
 Text-heavy website section is like the__ [[Astonishing__ Stories]] __project. 
 Image-heavy website section is like__ [[Future Frontiers]]. 
-Consult [[JennaD]] for details
+Consult [[Jenna]] for details
         - **Financial Structure**: Internal Project | Client Project
             - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [[YC Fiat Fund]]. Client projects are funded by a client. Check out [[Client Projects]] for details.
         - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
@@ -61,7 +61,7 @@ Consult [[JennaD]] for details
 Deck option is like the__ [[Don’t Waste the Reboot]] __project. 
 Text-heavy website section is like the__ [[Astonishing__ Stories]] __project. 
 Image-heavy website section is like__ [[Future Frontiers]]. 
-Consult [[JennaD]] for details
+Consult [[Jenna]] for details
             - **Financial Structure**: Internal Project 
             - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__
         - [[Boutiques vs Marketplaces Wargames]] Emergent boutiques and emergent marketplaces may be similar in size (pretty small), but they are essentially completely different organizations -- with different goals, different structures and different business models. 
@@ -89,7 +89,7 @@ Team leads choose how to structure their teams. Every Yak should be able to join
 Deck option is like the__ [[Don’t Waste the Reboot]] __project. 
 Text-heavy website section is like the__ [[Astonishing__ Stories]] __project. 
 Image-heavy website section is like__ [[Future Frontiers]]. 
-Consult [[JennaD]] for details
+Consult [[Jenna]] for details
             - **Financial Structure**: Internal Project
         - [[Hack US Gig Worker Healthcare]]: The US healthcare "debate" is focused on full-time workers & employer-based insurance.  We will design some piece of creative content (deck, essays, video) designed to persuasively re-frame the debate around US healthcare and the intangible cost on lost creativity, entrepreneurship and mental well-being of gig workers.  
             - Current State:: {{or: Draft | Proposed | Started | Stalled | Live | Finished | Abandoned }}
@@ -113,7 +113,7 @@ Consult [[JennaD]] for details
                 - %% __This is what will launch on launch date. 
 Deck option is like the__ [[Don’t Waste the Reboot]] __project. 
 Text-heavy website section is like the__ [[Astonishing__ Stories]] __project. Image-heavy website section is like__ [[Future Frontiers]]. 
-Consult [[JennaD]] for details
+Consult [[Jenna]] for details
             - **Financial Structure**: **Internal Project** | Client Project
                 - Could pursue sponsorship, but happy doing this out of my own time too
             - **Comments** Right now the idea space in terms of fixing US healthcare for gig workers is essentially Aspen Institute "portable benefits" programs which really don't solve the problem they claim to solve or California "turn everyone into full-time employees" fixes that are stuck in the 20th century rather than any real attempt at trying to find something that works.
@@ -133,4 +133,4 @@ Consult [[JennaD]] for details
             - **Financial Structure**: Internal project
         - [[Empirical Feng Shui]] - Collaborative Physical Design / Hardware Design / Social Science to build an Aeron Chair for the Mind
 - Last Updated:: [[November 18th, 2020]] by [[Venkatesh Rao]]
-- Last Gardened:: [[December 5th, 2020]] by [[JennaD]]
+- Last Gardened:: [[December 5th, 2020]] by [[Jenna]]

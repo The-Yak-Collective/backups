@@ -22,7 +22,7 @@
         - salient 
 - ## Yak brand logos, icons, symbols, signatures, etc. 
     - {{[[TODO]]}} Yak art to use in your presentations and publications.
-        - [High quality Yak logo](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/resources/yak-logo-icon.png) (up-scaling courtesy [[JennaD]])
+        - [High quality Yak logo](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/resources/yak-logo-icon.png) (up-scaling courtesy [[Jenna]])
         - Early projects used [Hero Pattern](https://www.heropatterns.com/)'s Topography SVG (here's a [grayscale archived version](https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/resources/hero-patterns-topo-map.svg) in case the original website goes down)
     - {{[[TODO]]}} Templates for common documents. 
 - ## Base style

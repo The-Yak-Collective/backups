@@ -1,5 +1,5 @@
 - Stub::
-    - created [[August 5th, 2020]] by [[JennaD]]
+    - created [[August 5th, 2020]] by [[Jenna]]
 - {{kanban}}
     - draft
         - piece_18_lname [[Darren Kong]]

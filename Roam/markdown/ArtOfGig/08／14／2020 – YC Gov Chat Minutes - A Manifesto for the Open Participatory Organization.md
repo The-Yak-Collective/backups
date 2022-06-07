@@ -10,7 +10,7 @@
     - Manifestos are good to help organizations how to not get into trouble 
     - Have doubts of manifestos as agile manifesto got adapted which surprised even the initial members 
     - 
-- [[JennaD]] - 
+- [[Jenna]] - 
     - 2 weeks ago we spoke about sermons cf [[Boil the Ocean]]
     - may not be that similar: pods within a larger org and a standalone participatory org
 - [[Meredith Noelle]]
@@ -56,7 +56,7 @@
             - Truman's Congressional Address
         - Tom Peters had a manifesto spoke to a point in time as a reaction to Regan where if we lean too much into numbers we'll see ourselves in the financialization of the economy which is where we are today 
         - There's a lag time between a manifesto launch and when the ideas become relevant 
-    - [[JennaD]] I didn’t unmute but wanted to add that a new manifesto might address the 50k-ft view (aka eagle view aka sermon) and the 10k-ft view (aka mouse view) in the sense of big clear intentions for sure; but then also super granular how-we-are-going-to-get-there statements too
+    - [[Jenna]] I didn’t unmute but wanted to add that a new manifesto might address the 50k-ft view (aka eagle view aka sermon) and the 10k-ft view (aka mouse view) in the sense of big clear intentions for sure; but then also super granular how-we-are-going-to-get-there statements too
 » eg a thread I fell into last week following a link posted to #yak-sparring by [[Venkatesh Rao]]. An example would be the 20 behaviors from the Goldsmith. From my own Roam notes:
         - #Read via [[Venkatesh Rao]] on Discord #yak-sparring
             - [[Prickles and Goo | Melting Asphalt]]

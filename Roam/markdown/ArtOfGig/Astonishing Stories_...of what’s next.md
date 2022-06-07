@@ -106,7 +106,7 @@
     - Scenarios - https://roamresearch.com/#/app/Astonishing_Stories/page/zh6lSZyAk
     - MICE framework - http://www.sfcenter.ku.edu/Workshop-stuff/MICE-Quotient.htm
 - 
-- [[September 14th, 2020]] Notes on project call w/ [[Sachin Benny]] [[Amanda Reeves]] [[JennaD]]
+- [[September 14th, 2020]] Notes on project call w/ [[Sachin Benny]] [[Amanda Reeves]] [[Jenna]]
     - [[Nathan Acks]] asked [[September 10th, 2020]] on » [Discord](
 https://discordapp.com/channels/@me/741807575024271430/753791288956158042)
         - key things i need:
@@ -155,7 +155,7 @@ iirc, part of the idea was for these to go out in yak talk. in that case, we'll 
 - 
 - 
 - [[October 12th, 2020]] 19:43 call 
-    - [[Sachin Benny]] [[Nathan Acks]] [[JennaD]]
+    - [[Sachin Benny]] [[Nathan Acks]] [[Jenna]]
     - edit cycles
     - {{[[TODO]]}} ping authors re copyedits SB
     - {{[[TODO]]}} create footnotes SB

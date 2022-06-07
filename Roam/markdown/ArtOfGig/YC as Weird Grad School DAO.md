@@ -33,13 +33,13 @@ We are between versions on the MicroLab, and we are hoping to have version 4.0 r
 	-FTVC"
 - magic correspondence course in "bedknobs and broomsticks". teacher was just ripping pages out of a book. student became a witch...[[Maier Fenster]]
 - 
-- I'm finding I'm interested in models that don't include **faculty** eg Academy of Sciences, Royal Society aka The Royal Society of London for Improving Natural Knowledge #[[JennaD]]
+- I'm finding I'm interested in models that don't include **faculty** eg Academy of Sciences, Royal Society aka The Royal Society of London for Improving Natural Knowledge #[[Jenna]]
     - <https://en.wikipedia.org/wiki/Royal_Society>
     - via <https://en.wikipedia.org/wiki/Stephen_Maturin>
     - lots of autodicaticism __combined__ with lots of collaborative learning
     - Societas Eruditorum
         - https://en.wikipedia.org/wiki/The_Baroque_Cycle
-- https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea also a powerful wizard training school #[[JennaD]]
+- https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea also a powerful wizard training school #[[Jenna]]
 - 2022-05-02 add [[Collegium of Tal]] and discussion of itinerancy cf carney lifestyle
     - https://newsletter.eleanorkonik.com/stint/
         - > The Collegium of Tal was founded to protect and train mages. It exists to be their haven, and being a safe haven requires political power. It also requires its members to be committed to a common cause, which is easier when everyone knows the stakes. Forcing graduates to become itinerants for a time makes them understand in their bones how vulnerable they are alone, without the collective might of their fellows behind them.

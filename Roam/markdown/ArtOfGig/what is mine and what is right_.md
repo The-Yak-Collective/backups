@@ -38,7 +38,7 @@ Read it here: ](https://twitter.com/kermankohli/status/1515950624592080900)[ethe
 - question - are there qualitative differences between new and old?
 - [[Anuraj R]] one assumes the code has no bugs (https://blog.regehr.org/archives/820). but what about the hardware? code is law doe snot really work in the real world. so you need to trust the blockchain itself - so whatever you own, stays in your hand. if there are no courts (no means of enforcement), you have a problem.
 - https://www.sigarch.org/speculating-about-speculation-on-the-lack-of-security-guarantees-of-spectre-v1-mitigations/
-- [[Ben Mahala]] misunderstanding about doa contract. https://ethereum.stackexchange.com/questions/7832/give-a-summary-of-the-fork-state-changes-in-block-1920000 **nothing was rolled back**. a simple transfer was made, using some type of refund contract.
+- [[Ben Mahala]] misunderstanding about The DAO contract. https://ethereum.stackexchange.com/questions/7832/give-a-summary-of-the-fork-state-changes-in-block-1920000 **nothing was rolled back**. a simple transfer was made, using some type of refund contract.
 - if a thief steals using code, is that a theft? well, if you use these words, that is an admission.
 - the open letter about the hack is a joke. usually it is cut and dry that "clearly this is not what was supposed to happen"
 - in real world, possession is an important part of ownership. in crypto - all power (ownership abilities) is in action, not in possession.

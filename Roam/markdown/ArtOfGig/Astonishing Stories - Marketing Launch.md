@@ -3,7 +3,7 @@
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
 - Created:: [[October 1st, 2020]] by [[Hugo Macedo]]
 - Last Updated:: [[October 1st, 2020]] by [[Hugo Macedo]]
-- Last Gardened:: [[October 21st, 2020]] by [[JennaD]]
+- Last Gardened:: [[October 21st, 2020]] by [[Jenna]]
 -  
 - ^^[[Astonishing Stories]] team - please help fill out the fields below - especially the highlighted^^
 - 

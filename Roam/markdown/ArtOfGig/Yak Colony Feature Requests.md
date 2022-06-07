@@ -4,5 +4,5 @@
 - All contract addresses should have helpful nicknames so we know when something is routine maintenance vs. weird behavior that needs investigation 
 - Everybody should start with some nonzero reputation so that key workflows are not defunct?
 - More explanation/annotation of reputation
-- RSS feeds for events and actions #[[JennaD]]
+- RSS feeds for events and actions #[[Jenna]]
 - 

@@ -1,9 +1,9 @@
 - About:: __weekly online-governance-chat minutes__
 - Chief Page Wrangler:: [[Darren Kong]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
-- Created:: [[October 23rd, 2020]] by [[JennaD]]
+- Created:: [[October 23rd, 2020]] by [[Jenna]]
 - Last Updated:: `/today` by [[Fname Lname]]
-- Last Gardened:: [[October 23rd, 2020]] by [[JennaD]]
+- Last Gardened:: [[October 23rd, 2020]] by [[Jenna]]
 - Guest:: [[Mike Baxter]]
     - https://goalatlas.com/strategy-manual/
     - ![](./images/aHR0cHM6Ly9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9nb2FsYXRsYXMubWFya2V0aW5nL3VwbG9hZHMvMjAyMC8wOS9TdHJhdGVneU1hbnVhbF9Gcm9udF9Db3Zlci5wbmc=) 

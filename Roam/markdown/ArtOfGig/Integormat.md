@@ -1,6 +1,6 @@
 - About:: __Low/No-code automation service.__
 - Chief Page Wrangler:: [[Nathan Acks]]
-    - Additional Page Wranglers:: [[JennaD]] | [[Anuraj R]]
+    - Additional Page Wranglers:: [[Jenna]] | [[Anuraj R]]
 - Created:: [[December 4th, 2021]] by [[Nathan Acks]]
 - Last Updated:: [[December 4th, 2021]] by [[Nathan Acks]]
 - Last Gardened:: `/Today` by `[[Fname Lname]]`

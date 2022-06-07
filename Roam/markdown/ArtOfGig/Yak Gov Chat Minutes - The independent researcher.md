@@ -1,7 +1,7 @@
 - About:: __notes from weekly governance call__
 - Chief Page Wrangler:: [[Fname Lname]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]]
-- Created:: [[November 13th, 2020]] by [[JennaD]]
+- Created:: [[November 13th, 2020]] by [[Jenna]]
 - Page Type:: {{or: #Minutes | #Project | #tk2}}
 - Status:: {{or: Complete | Early Concept | Active | Proposal}}
 - Last Updated:: `/today` by [[Fname Lname]]
@@ -17,7 +17,7 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FVbb7PUZGHX.png?alt=media&token=cef04e13-6448-426f-a0ca-d49db7bba6ca)
     - [[Grigori Milov]]
         - tk
-    - [[JennaD]]
+    - [[Jenna]]
         - tk
     - [[Palash]]
         - I constantly write everything I read, in Roam. If those things connect, it works

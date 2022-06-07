@@ -1,5 +1,5 @@
 - 09:03 
-    - #[[JennaD]] Starting up a page for [[[[Kim Stanley Robinson]] Pop-Up Watch Party]] event tonight co-hosting with #[[Oliver King]]
+    - #[[Jenna]] Starting up a page for [[[[Kim Stanley Robinson]] Pop-Up Watch Party]] event tonight co-hosting with #[[Oliver King]]
     - Will incorporate some multiplayer Roam conventions from [Roam Book Club 3](https://roamresearch.com/#/app/RBC3-The-Culture-Code) which I'm in and is in it's second week.
     - link to Crowdcast » https://www.crowdcast.io/e/ksrobinson
     - ![](./images/aHR0cHM6Ly9jcm93ZGNhc3QtcHJvZC5pbWdpeC5uZXQvLU01NEZXaE5FMTRnUVpoNzRpSm0vZXZlbnQtY292ZXItNDI0NT93PTgwMA==)

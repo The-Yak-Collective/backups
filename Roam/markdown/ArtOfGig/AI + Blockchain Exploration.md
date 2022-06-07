@@ -47,13 +47,13 @@ By using the blockchain for artificial intelligence, we can make the way compute
         - > Other start-ups are using blockchains to open access to the artificial intelligence models themselves. Dr. Goertzel has created SingularityNET, a blockchain that will serve as a link among A.I. services around the world. If one artificial intelligence module is unable to come up with an answer, it can consult with others, and provide compensation if one of the other modules is able to get it right.
 
 “It lets you have a network of A.I.s that nobody owns,” Dr. Goertzel said.
-- [[JennaD]]
-    - Googling gets you what google's algo prioritizes #[[JennaD]]
+- [[Jenna]]
+    - Googling gets you what google's algo prioritizes #[[Jenna]]
         - would be curious to compare eg with DuckDuckGo's results on same terms
-    - Newsletters or twitter lists? #[[JennaD]]
-    - Cf high school science teacher physics text story #[[JennaD]]
+    - Newsletters or twitter lists? #[[Jenna]]
+    - Cf high school science teacher physics text story #[[Jenna]]
         - Looking for a sense of what's happening versus actually understanding what's happening
-    - `Import AI, a newsletter about artificial intelligence` ...this AI email generally and this issue specifically... #[[JennaD]]
+    - `Import AI, a newsletter about artificial intelligence` ...this AI email generally and this issue specifically... #[[Jenna]]
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FiA0Im83Lo_.png?alt=media&token=ee4c5572-367c-4e4e-8eb4-799126ca2458)
         - https://mailchi.mp/jack-clark/import-ai-291-google-trains-the-worlds-biggest-language-model-how-robots-can-be-smarter-about-the-world-conjecture-a-new-ai-alignment-company
         - https://jack-clark.net/
@@ -93,7 +93,7 @@ By using the blockchain for artificial intelligence, we can make the way compute
         - Why surveillance rather than using AI to nudge or incentivize activity?
     - [[Venkatesh Rao]]
         - Why not both?
-    - [[JennaD]]
+    - [[Jenna]]
         - For any bot, set up a batting average aka grade
         - Don't give full power to until batting 1.000
     - [[Anuraj R]]

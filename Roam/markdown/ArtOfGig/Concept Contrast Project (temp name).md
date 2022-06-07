@@ -4,7 +4,7 @@
     - Additional Page Wranglers:: 
 - Created:: [[October 16, 2020]] by [[Maier Fenster]]
 - Last Updated:: [[October 16, 2020]] by [[Maier Fenster]]
-- Last Gardened:: [[October 21th, 2020]] by [[JennaD]]
+- Last Gardened:: [[October 21th, 2020]] by [[Jenna]]
 - Vote:: ^^**please vote on this line using emoticon (👍👎) reactions so this project can mature**^^
 - Status:: {{or: Early Concept | Active | Proposal | Complete}}
 - Jobs and ways to contribute::

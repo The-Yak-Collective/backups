@@ -4,13 +4,17 @@
 - **Prompter Rotation**
     - Mauro Riccardi
     - Ankit
+    - JC
+    - David White
     - Venkatesh Rao
     - Victor Hill
 - **Log of weekly problems**
     - Week 1: [[How much water can a towel hold?]] -- Mauro
     - Week 2: TBD Ankit
-    - Week 3: TBD Venkatesh Rao
-    - Week 4: TBD Victor Hill
+    - Week 3: JC
+    - Week 4: David White
+    - Week 5: TBD Venkatesh Rao
+    - Week 6: TBD Victor Hill
 - **References**
     - [James Giammona Video series (7 video sessions)](https://www.youtube.com/results?search_query=james+giammona)
     - Main recommended book: [Sanjoy Mahajan, Art of Insight in Science and Engineering](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549/)
