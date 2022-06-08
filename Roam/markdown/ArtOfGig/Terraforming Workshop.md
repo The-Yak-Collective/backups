@@ -7,8 +7,8 @@
         - Week zero -- background / context
             - PROMPT: share an image -- from a movie, sci fi book, meme, whatever -- that embodies your default mental model of how climate change will impact YOUR life in 20 years. 
         - Week one
-            - Read the first 8 pages of Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf The later ones get pretty dry and dense. Then draw a simple impressionistic timeline of the human species (not super detailed or to linear scale). Think aion rather than chronos, maybe a bit of kairos. 
-            - PROMPT
+            - Read the first 8 pages of Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf The later ones get pretty dry and dense. 
+            - PROMPT draw a simple impressionistic timeline of the human species (not super detailed or to linear scale). Think aion rather than chronos, maybe a bit of kairos. 
         - Week two
             - Global tool for simulating policy tradeoffs 
                 - Spend 15-20 minutes playing around with the following tool
@@ -118,4 +118,5 @@ above pre-industrial levels
         - The First Terraforming https://studio.ribbonfarm.com/p/the-first-terraforming?s=r 
         - Why Solving Climate Change Will Be Like Mobilizing for War https://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/ 
         - PROMPT what resonates in the terraforming framing? What doesn't? What about framing climate action in terms of mobilizing for war? 
+        - Handy -- speed and scale images for the book: https://d2fahduf2624mg.cloudfront.net/post_purchase_docs/BK_PENG_005919/2021-10-22-03-04-58/bk_peng_005919.pdf?Expires=1654648505&Signature=B-aI8WHcTWkd4zlMlHHH8ihRVtg93oAnd1u~xYDXGsMxy970xF-ekH06hOR2LsQl0iu03vCwR2V0EeCFVFz7dLKB6jXYVxnA6ppX9xoEtMu-T3HRnNjuiIMgb9eZEiFcDhfxEpT0in084e18JPgDkrv79CRiL7IterMx2jL~mwwjshoN4qRd0nnEwF2bEk0LiPhLgty5u7PTtaKEDzjuEksRWGMKVqZTPEspVVRCiOMTU59THWy5ftmwswv3j~uL5832PmNBbxUpBRm0u3l8HMTr9TKTrsyz-rcIQgxoYG0GbuGPZGG2BbmDS2qZT0KAp~Hrn2hCKZJT42NN61HAwQ__&Key-Pair-Id=APKAJOD7UKDYDPO4CBTA 
 - 

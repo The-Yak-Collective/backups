@@ -1,24 +1,26 @@
 - [[June 6th, 2022]]
     - {{[[DONE]]}} review: vol 1 in Vellum #[[Jenna]]
-        - {{[[TODO]]}} decide: Dedication, stay, edit, go?
+        - {{[[DONE]]}} decide: Dedication, ~~stay, edit,~~ go?
             - > _For all the indies out there_
-            - A: 
-        - {{[[DONE]]}} decide: Epigraph, stay, edit, go?
+            - A: go
+        - {{[[DONE]]}} decide: Epigraph, ~~stay, edit,~~ go?
             - > __originally published on The Art of Gig newsletter__
-            - a: 
-        - {{[[DONE]]}} decide: any addl "elements" as Vellum calls them aka book parts
+            - a: go
+        - {{[[DONE]]}} ~~decide: any addl "elements" as Vellum calls them aka book parts~~
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fi6ENbe7SE-.png?alt=media&token=394ff825-85eb-4c14-a613-eb5c0e3bc3d3)
-            - {{[[TODO]]}} praise page
-            - {{[[TODO]]}} foreword
-            - {{[[TODO]]}} introduction
-            - {{[[TODO]]}} preface
-            - {{[[TODO]]}} afterword
-            - {{[[TODO]]}} also by page
+                - {{[[DONE]]}} ~~praise page~~
+                - {{[[DONE]]}} ~~foreword~~
+                - {{[[DONE]]}} ~~introduction~~
+                - {{[[DONE]]}} ~~preface~~
+                - {{[[DONE]]}} ~~afterword~~
+                - {{[[DONE]]}} ~~also by page~~
             - Let's not do any of these things... rough cut means rough cut! If we do all this extra stuff we're backsliding into doing a proper book :D
+                - √ gotcha — I did think you might want to include a wee bit of text at the beginning stipulating to the rough cut 
     - {{[[TODO]]}}  collect: misc questions for #[[Venkatesh Rao]]
         - {{[[TODO]]}} decide: in __1. Gigcraft as Soulcraft__ ¶3 Art of Gig substack about link now points to the new guy » https://artofgig.substack.com/archive
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXFZTAAOhcf.png?alt=media&token=979eb51e-c1c9-4b3a-b374-458ead9d86eb)
             - a: Delete that line. in book context it's not necessary
+            - {{[[TODO]]}} delete
         - {{[[TODO]]}} decide: other links to AoG on substack
             - {{[[DONE]]}} __4. Knowing Which Nut to Tighten__ §Neutralizing Your Risks ¶9
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FWQkMe5bumh.png?alt=media&token=40751583-679a-4636-ac87-d1d1e023a2e6)
@@ -26,8 +28,11 @@
                 - __a: converted to Vellum internal link__ #[[Jenna]]
                 - {{[[TODO]]}} edit: __took some cheap shots__ **or** __took a lot of cheap shots__ ? #[[vgr]] -- SOME CHEAP SHOTS
                 - I'd say delete all the links.
+                    - ah, interesting, the text is fine without the link and readers can go hunt stuff down if they want
+                        - {{[[TODO]]}} delete all x-ref links
             - {{[[TODO]]}} __6. You Are Not a Scientist__ ¶1
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDE5eyxkRdX.png?alt=media&token=21e087f1-c9a8-4e2f-8f40-c5452f9a7e20)
                 - https://artofgig.substack.com/p/the-shtickbox-affair
                 - It doesn't look like this piece came over?
                 - a: It's one of the fiction pieces in Yakverse Chronicles
+                    - ah, gotcha
