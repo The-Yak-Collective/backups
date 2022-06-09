@@ -12,6 +12,9 @@
 - Week 5: Spend 15 minutes trying out this browser-based model training wizard to recognize a voice phrase or object (via Anuraj) 
 - Week 6: Read and comment on this article from 2021, focusing on insights that are still fresh versus things that have become obsolete [AI is learning how to create itself](https://www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/)
 - Week 7: Read up on the basics of discrete convolutions and make up and solve by hand a simple example of a 2d convolution on a 5x5 black and white "image" matrix of 0s and 1 and a 3x3 "convolution mask." Either with code or pencil and paper, generate before/after images (use partial hatching to indicate grayscale). There are many tutorials. Here is a decent one, but if you find a better one, post a link here. Note that the Wikipedia and Wolfram Mathworld pages are much more technical and cover continuous domain so don't start there unless you are already comfortable with the math. [2d convolution tutorial](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+- Week 8: Comment on this article on AI art by Holly Herndon and Mat Dryhurst: https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY
+- Week 9: First read Harry Frankfurt's classic article On Bullshit http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf, then read Robin Sloan's article Notes on a Genre https://www.robinsloan.com/lab/notes-on-a-genre/ and answer the question: Is AI a bullshit engine?
+- 
 - Backlog/hopper
     - https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/
     - Hands on 1

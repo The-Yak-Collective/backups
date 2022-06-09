@@ -6,9 +6,38 @@
     - **First season** -- **orientation to the first terraform**ing
         - Week zero -- background / context
             - PROMPT: share an image -- from a movie, sci fi book, meme, whatever -- that embodies your default mental model of how climate change will impact YOUR life in 20 years. 
+                - VGR I actually had 3 images pop up in my mind. A parched desert, a survivalist homestead/compound, and a dense megacity. The last of these is associated in my head with Asimov's Caves of Steel, and I think is the dominant picture. Dense megacities is it.
+                - PA Here's my image for the zero-th week prompt: crickets! The future feels very murky these days though one solid thing that I feel certain about is the changes in our food system and the coming ubiquity of alternative, more resource efficient protein sources. Exhibit A are crickets! 
+
+In terms of future uncertainty, one thing I think about a lot is the Bronze Age collapse of 1177 BC. There's a good book called 1177 BC the year civilization collapse and my big takeaway from the Bronze age is that globally affluent knowledge workers in the US often implicitly assume that our current high level of resources means that we'll adapt. Climate change means more smoky days but not the end of the suburbs and people don't __really__ plan for mass migration in the same way that other parts of the world do. People here assume that migrants will come here. The Bronze age collapse is a good lesson though that it was precisely the more affluent / advanced areas that fell harder as long distance supply chains fell apart.
         - Week one
             - Read the first 8 pages of Harvesting the Biosphere: The Human Impact http://www.vaclavsmil.com/wp-content/uploads/PDR37-4.Smil_.pgs613-636.pdf The later ones get pretty dry and dense. 
             - PROMPT draw a simple impressionistic timeline of the human species (not super detailed or to linear scale). Think aion rather than chronos, maybe a bit of kairos. 
+                - VGR Read the reading. My timeline:
+Last Ice age
+Neolithic Revolution
+Bronze Age and Bronze Age collapse
+Environment collapse of 2000-1000 bc
+Axial age
+“Worst year in history” (536 AD) due to global geopolitical collapse, volcano, famine etc
+Black Death
+Mini ice age -1300-1850
+Industrial climate change/advent of anthropocene (1850-2015)
+Great Weirding (2016-20)
+Permaweird begins 2021
+New dark age and city-state world begins (2040)
+Great population collapse of 2070-2100 from 9b to 4b
+Peak climate change of 2120
+Dark age ends 2300
+First starship leaves for alpha Centauri 2350
+Terraforming and climate control achieved 2400
+Biosphere restored and stabilized 2450, humans at 6b stable 2500, golden age begins
+Solar flare wipes out earth 2501
+2504, starship receives transmission of “1000y earth golden age” documentary as last transmission from earth
+                - PA I was playing around with the notion of geologic time and how "modern" human civilization is a small slice of the human story but then also a tiny slice of the ages of the earth. I did a v v mediocre clock to show that which reminds me of how we're two minutes to midnight ish in the doomsday clock. That kinda aligns with the End of Everything feeling and unraveling, call it the Great Weirding or whatever. I was also reflecting on how the ancient past with things like two story mushrooms reminds me of something out of sci fi like HG Wells the Time Machine.
+
+Then I did an infinity sign that probably just looks like a bunch of squiggles with the pairwise spirits of Invention and Discovery along with a couple illustrative paths. My goal which probably only makes sense in my own head due to the sloppiness was to highlight how the human story circles back on itself and then also look at the primacy of the present in looking at the past. Anyway I didn't project into the future.
+                    - https://discord.com/channels/692111190851059762/980214604380639232/984119444425023528
         - Week two
             - Global tool for simulating policy tradeoffs 
                 - Spend 15-20 minutes playing around with the following tool
