@@ -541,6 +541,25 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
                 - good guidelines for things that we want to do if conflict comes up 
                 - assume good actors vs assume bad actors (Lunar punk??). in cases where there are bad actors - its not tragedy of commons but different problem 
                 - https://discord.com/channels/692111190851059762/698566364595486720/982314638056251412 - commons example?
+        - [Bulldozer vs Vetocracy ](https://vitalik.eth.limo/general/2021/12/19/bullveto.html)
+            - having a fixed limit for processes that are put in place - such as the shrine of ise jingu example. The limit should perhaps be more than or exactly one generation perhaps. so that it avoids sociopathic incentives to a certain extent 
+            - cases where the vetocratic mechanism is used to stifle something that could actually be more useful with a bulldozer 
+            - recognizing when to be vetocratic vs when to be bulldozer is hard - requires
+            - Venkat 
+                - Fukuyama - vetocracy - anything can be blocked at 6 levels. Effectively the way things get sorted out is people go to the courts and get things settled there. 
+                - individual european countries are not like but other governance structures took ideas from this 
+                - baramdipity?? there is serendipity but there is an external force that is trying to change to to zemblanity environment 
+                - bulldozer thinking - its pretty old, vetocracy is a newer idea. 
+                - yak collective bull dozer bias -- DAOs generally have vetocracy bias - DAOs have a knob from bulldozer to vetocracy. system 
+                - code management - people went from thinking of code as something that they own to something that is more open/communal, until 5-6 years, the onboarding process for new employees - on the first day you were supposed to push something into production 
+                - go from individual vetocracy to collective bulldozer (anyone can change anything), if you are not competent, you may destroy something 
+            - Grigori
+                - "we have a pretty huge bulldozer in our country" that is fighting against vetocracy
+                - it is a 30,000 foot view on whats going in DAO or society, it can be abstracted down to lower layers as well 
+                - current state of yc - much more important to find more bulldozers and not to distract by trying to regulate - finding the bulldozers itself is not easy
+            - Jenna
+                - making a distinction between what regime would I want to live under vs where I myself am a regime or making the regime
+                - adjectives - bulldozery vs vetocractic 
     - **Queued**
         - [Every Design Studio Should Be a Worker-Owned Studio](https://eyeondesign.aiga.org/every-design-studio-should-be-a-worker-owned-studio/)
         - [Unrepresentative Claims: Speaking for Oneself in a Social Movement](https://www.cambridge.org/core/journals/american-political-science-review/article/unrepresentative-claims-speaking-for-oneself-in-a-social-movement/E045E3270DB08B76F09048DE99C06B7B)
