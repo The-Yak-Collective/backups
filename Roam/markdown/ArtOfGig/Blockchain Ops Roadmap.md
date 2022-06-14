@@ -1056,19 +1056,50 @@ Fundamentally, it all makes its way back to that singular vision. Ethereum prese
                         - Crypto might still exist in the future, but not in the same way that the internet still exists
                         - Product Zeitgeist Fit might be off
         13. __June 13: Summer planning__
+            - Agenda
+                - Tomorrow will be summer planning session for the blockchain call. Please try to make it. 
+                - Agenda:
+                    1. Topics you want covered 
+                        - Nathan -- infrastructure, website, IPFS, ENS. integrate wallets more
+                        - RT analysis of crypto winter [[Maier Fenster]]
+                            - drone slumps, AI slumps... 
+                        - other decentralized tech projects? -- ben
+                            - hollow....
+                            - chat app
+                        - #Jenna
+                            - __Fingerspitzengefuhl__
+                                - ¿ go back to honest broker role, invite conversation btw trusted players?
+                                - understory and overstory
+                                    - understory: underpinnings of the tech
+overstory: how it gets used by people and groups
+                                - weekly model v. popup model
+                                - is there a #promptschool activity cf #Fweb3 from February
+                        - Commits -- maybe only a few topics rather than many
+                    2. What YC should do during the slump
+                    3. Format for next 3 months — keep it same, or refactor it
+                        - lower or high energy? maier - lower energy
+                    4. Creative collaborative project ideas. Floor is open.
+                        - governance, human side
+                        - grigori -- blockchain governance primer (for a few weeks)
+                            - ogs took more than a year... try to do something in a shorter time
+                            - commits -- maybe do it in prompts school format
+                        - ben -- limited ability on the work side
             - Maybe work on a paper?
+            - raids! [[Maier Fenster]]
+            - change what we do to be more slump-proof - needing less energy to participate and yet get something [[Maier Fenster]]
+            - if we build - focus on dao, not blockchain itself [[Maier Fenster]]
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
         1. June 20:
-        2. June 27:
+        2. June 27: ¿guest?
         3. July 4: US Independence day, NO MEETING
         4. July 11:
         5. July 18:
-        6. July 25:
+        6. July 25: ¿guest?
         7. Aug 1:
         8. Aug 8:
         9. Aug 15:
         10. Aug 22:
-        11. Aug 29:
+        11. Aug 29: ¿guest?
         12. Sept 5: US Labor Day, NO MEETING
         13. __Sept 12: Fall planning__
             - Some sort of capstone event/and or publication?

@@ -1,0 +1,17 @@
+- Scavenging robot - Venkat
+    - "Completion" problem
+    - Hermit crab
+    - Neoteny
+    - Growth/adulthood rites test
+    - Functional, not just ritual
+    - "Soul has to acquire a body" (by scavenging/stealing)
+    - Bagworm https://en.wikipedia.org/wiki/Bagworm_moth
+    - Caddisfly https://en.wikipedia.org/wiki/Caddisfly
+    - https://en.wikipedia.org/wiki/Tinea_pellionella
+- Tree-climbing robot  - Anuraj
+    - Coconut tree climbing inspiration
+    - Jumping robot that trails a rope to create a climbing apparatus
+    - Jump to get at dates
+- Spider-silk wind assisted robot (shoots arrow into sky to open parachute and then climbs the rope) -- Maier
+    - https://www.nationalgeographic.com/animals/article/spider-silk-ballooning-flying-animals-spd
+- Archer fish inspired robot that shoots a water jet to take down food
