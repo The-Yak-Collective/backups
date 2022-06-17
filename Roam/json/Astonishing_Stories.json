@@ -35642,10 +35642,73 @@
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     },
     ":log/id": 1655373254609,
+    "children": [
+      {
+        "edit-time": 1655440449343,
+        "children": [
+          {
+            "string": "characters are driven by being perfomance of self awareness of their style",
+            "uid": "RuOS1LfpX",
+            "create-time": 1655440449331,
+            "edit-time": 1655440585974,
+            ":create/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            },
+            ":edit/user": {
+              ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "h05a0iYOp"
+          }
+        ],
+        "uid": "h0GiHRECG",
+        ":block/refs": [
+          {
+            ":block/uid": "h05a0iYOp"
+          }
+        ],
+        "string": "[[metamodern]]",
+        ":create/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        },
+        "create-time": 1655440441298,
+        ":edit/user": {
+          ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+        }
+      }
+    ],
     "uid": "06-16-2022",
     "edit-time": 1655373254610,
     ":edit/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
+  },
+  {
+    "uid": "h05a0iYOp",
+    "create-time": 1655440449344,
+    "edit-time": 1655440449345,
+    "title": "metamodern",
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    }
+  },
+  {
+    "create-time": 1655442000668,
+    "title": "June 17th, 2022",
+    ":create/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
+    },
+    ":log/id": 1655442000667,
+    "uid": "06-17-2022",
+    "edit-time": 1655442000668,
+    ":edit/user": {
+      ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
     }
   }
 ]
