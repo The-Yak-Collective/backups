@@ -35710,5 +35710,18 @@
     ":edit/user": {
       ":user/uid": "TbYBNyDwHVf7gs6UbN0vxIQWqSQ2"
     }
+  },
+  {
+    "create-time": 1655545773466,
+    "title": "June 18th, 2022",
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    ":log/id": 1655545773465,
+    "uid": "06-18-2022",
+    "edit-time": 1655545773466,
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
   }
 ]
