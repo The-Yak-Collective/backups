@@ -183,3 +183,12 @@
         - Take (pay its price): At potus debate, a far left enviro terrorist, claiming Alice as inspiration and demanding she be made dictator, kills both Bob and Charlie with a bomb. Far right gun nuts immediately load up and start larping a civil war that threatens to turn real. But almost nobody will take her calls.
         - Return (and go back to where they started): whole thing unravels, moderate replacement candidates rise on both sides via special primaries, civil war threat us contained, and Alice is scapegoated by all and forced to retreat from limelight. She creates a new nonprofit and declares she’s going back to doing ESG audits but this time doing it right. 
         - Change (now capable of change): This is a tragedy, so no redemption. Alice struggles to make it work, fails, and launches a crypto based ESG audit model. Everybody flips bozobit on her.
+    - Sachin Response 
+        - you - AI engineer who blogs, has gained popularity for raising concerns about AI becoming super intelligent and is interested in AI alignment, he has found evidence that AI transformers have developed a language of their own with significantly high Shannon entropy and Kolomogorov complexity
+        - need - the world to believe and take these concerns seriously while also being known for the "performance" of his online presence
+        - go - decides to implant a specific type of neural net in his head with the goal of developing an intuition for the language in which AI communicates with each other. This whole performance is made available to the world through Twitch/Twitter
+        - search - looks for signatures of intelligent communication in a subset of AI transformers. 
+        - find - finds that there is a decentralized super intelligence that wants to take over the world and that what they are communicating are ways to destabilize the existing order in the world, and that they have "intentions"
+        - take - publishes that information with evidence deciphering how this AI intelligence is communicating with each other
+        - return - the world takes him seriously, there are downstream effects that eventually leads to government regulation of AI development, an AI winter of sorts ensue
+        - changed - eventually finds a sign that whatever he interpreted was him persevering to make something intelligible
