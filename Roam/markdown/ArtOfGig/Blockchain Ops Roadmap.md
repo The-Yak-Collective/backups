@@ -1088,6 +1088,47 @@ overstory: how it gets used by people and groups
             - raids! [[Maier Fenster]]
             - change what we do to be more slump-proof - needing less energy to participate and yet get something [[Maier Fenster]]
             - if we build - focus on dao, not blockchain itself [[Maier Fenster]]
+        14. __June 20: Beyond Blockchain: Paxos and Broader Distributed Systems __
+            - Prompt:  If we were to make a figurative map of distributed systems, what would 3 continents be?
+                - State replication v non-state replication
+                - Algos meant for computer v algos suited to be applied in human contexts
+                - Ben
+                    - 1) 1 to 1 vs. groups (A direct encrypted message (maybe PGP) vs. Mastodon /
+cwtch or Element)
+
+                    - 2) Global State Replication vs. Fractured State (Paxos vs. Bittorrent, ZeroNet)
+
+                    - 3) Insitituional Integrataion vs Economic Integration  (Google Internal
+Paxos-like systems vs Bitcoin and Ethereum)
+                - Commits
+                    - concentric circles of proxemity
+                        - P2P
+                        - Federated
+                        - Serverless
+                        - Edge Computing
+                - Jenna
+                    - islands on the distributed systems map 
+
+                    - self-organizing systems
+
+                    - participatory management
+                    - decentralized governance
+
+                    - remote work
+
+                    - __really more a venn diagram thing for me__
+                - Maier
+                    - island of systems pretending to be distributed
+continent of total mess with random waves
+sea of reforming systems
+land of the stable systems with only local behavior
+ocean of meme storms and basic stable structure
+but consider - is what is being sent data or programs?
+                - Venkatesh
+                    - Realtime / soft-realtime (north south axis)
+                    - Genisis: Top-down design v emergent design
+                    - When we agree on something we tend to be converging on a future we are seeing
+                    - Big continent of consensus reality v archipelago of marginal and fractures proposals
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
         1. June 20:
         2. June 27: ¿guest?

@@ -475,8 +475,8 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - May 31st - Victor Hill
 - Earth Cycle (3)
     - June 7th ---  Link Grooming - Everyone
-    - June 14th
-    - June 21st
+    - June 14th — [[Natural Robotics Contest ]] brainstorm
+    - June 21st — earth roverics brainstorm?
     - June 28th: Venkat
     - July 5th — US 4th of July weekend, maybe skip?
     - July 12th: [[Maier Fenster]]

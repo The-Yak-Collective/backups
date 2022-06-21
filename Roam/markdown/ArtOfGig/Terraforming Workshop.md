@@ -58,6 +58,10 @@ Then I did an infinity sign that probably just looks like a bunch of squiggles w
             - Northern latitudes?  
             - Others?
             - California
+                - Salt Lake armageddon: https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html
+                    - PROMPT what would a terraforming response look like? 
+                        - Actually maybe the terraforming response is piping water from the Mississipi? 
+                - Edison adaptation stuff -- see reading add
                 - Climate resources mentioned in state water plan update
                     - Arkstorm 2.0
                     - Cal adapt https://cal-adapt.org/

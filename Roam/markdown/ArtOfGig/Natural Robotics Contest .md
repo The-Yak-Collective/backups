@@ -1,13 +1,23 @@
 - Scavenging robot - Venkat
-    - "Completion" problem
-    - Hermit crab
-    - Neoteny
-    - Growth/adulthood rites test
-    - Functional, not just ritual
-    - "Soul has to acquire a body" (by scavenging/stealing)
-    - Bagworm https://en.wikipedia.org/wiki/Bagworm_moth
-    - Caddisfly https://en.wikipedia.org/wiki/Caddisfly
-    - https://en.wikipedia.org/wiki/Tinea_pellionella
+    - Brainstorm
+        - "Completion" problem
+        - Hermit crab
+        - Neoteny
+        - Growth/adulthood rites test
+        - Functional, not just ritual
+        - "Soul has to acquire a body" (by scavenging/stealing)
+        - Bagworm https://en.wikipedia.org/wiki/Bagworm_moth
+        - Caddisfly https://en.wikipedia.org/wiki/Caddisfly
+        - https://en.wikipedia.org/wiki/Tinea_pellionella
+    - Submitted entry:
+        - Your name / Team name: Yak Collective
+        - Contact email: venkat
+        - What problem is your robot designed to solve?
+            - Allow resource-constrained rovers in extreme environments (Moon, Mars, wilderness areas on Earth, places like junkyards or landfills) to meet their needs by scavenging suitable materials from the environment. Materials can include scrap, natural organic and inorganic materials, parts from dead robots/scrapped machinery, etc. An example of such an opportunity is Perseverance discovering a piece of heat shielding from its lander (see: https://www.cnet.com/science/space/unexpected-nasa-mars-rover-finds-shiny-foil-piece-on-a-rock/). Scavenging ability allows initial designs to be less resource intensive (for eg. rovers can be lighter for cheaper deployment). The ability can range from simple (such as using found material to fashion a cover as in illustration) to complex (such as replacing a broken leg with one scavenged from a dead robot, including electrical/computing integration, a proper transplant).
+        - What inspiration has your design taken from nature?
+            - Many species, such as the hermit crab, bag worm, caddis fly, and Tinea pellionella (case-bearing clothes moth) construct protective shells/cases for themselves using found materials. In the case of the hermit crab, it simply finds a whole empty shell to take over. In the case of the various insects, they construct cases from debris. 
+        - Picture
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FEAsRq3e1gr.png?alt=media&token=608a15cd-85cf-4ef2-9e6b-3b98a3291237)
 - Tree-climbing robot  - Anuraj
     - Coconut tree climbing inspiration
     - Jumping robot that trails a rope to create a climbing apparatus

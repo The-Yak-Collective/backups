@@ -1,0 +1,96 @@
+- What are existing examples of Earth rovers
+    - Various underwater exploration vehicles
+    - Weather balloons, weather drones
+
+    - tags/sensors on wild animals?
+- Differences between Earth and Mars rovers
+    - You can go where the rover goes
+        - Scout rovers... for humans
+    - "Recoding" service robots and rovers
+    - Watching things change or grow (earth specific mostly)
+        - Long-duration change
+        - Time-lapse photography
+- User interaction with rovers
+    - How do you report
+        - Default "system normal" reporting
+        - Default predicted change reporting
+        - Anomalous reporting
+            - Risk
+            - Wonder
+        - 1000 things going on -- what to focus on?
+    - Rover follows you and takes direction on what to pay attention
+        - Machine learning interesting stuff
+            - What you attend to
+            - What you indicate as interesting
+    - "Change watching" vs. roving
+        - Generic novelty seeking circuit
+        - "Here's a rock, here's a cat, here's blue rock" ... "blue rocks are interesting"
+    - Re-enchantment as function of rover 
+        - Rovers have aesthetics.... ?
+            - Develop a sense of taste based on themselves and their humans
+        - Form factor effects... it should show you its world/wonder
+        - Tree-climbing rover... monkey POV
+        - "What is it like to be a monkey"?
+            - Is it enchanting to have the monkey bot or is the monkey bot perspective enchanting
+            - What is it like to be a bat https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf
+            - Granny weatherwax example
+            - Doc Ock
+        - How do I see the world from POV of a rover
+            - Particular rover
+            - Eg: lead in shoes
+            - Rover tells stories
+                - Simple camera not that interesting
+                - "Narrative compression" by rover itself
+                - "Automatic narration" 
+                - Sensory augmentation -- Moon Ribas earthquake
+                - Rick and Morty eg. Harmon story circle
+                - Implanted sensors to feel what the rover is feeling
+        - Remote control cars -- Victor video https://www.youtube.com/watch?v=zp2cvPROfSg&t=70s
+        - https://en.wikipedia.org/wiki/Protocol_analysis
+        - Debugging as a separate interaction mode
+- Thought starter questions
+- What are some domains on Earth that are suitable for roving
+    - Obvious wildernesses -- forests, deserts, poles, mountains, ocean surface, ocean depths, atmosphere, atmospheric phenomena (example hurricanes)
+    - Built environment with wilderness aspects -- junkyards, industrial sites, sewage systems
+    - Apparently civilized domains that are wild to some form factors
+        - Domestic environment (routine for adult humans, roving environment for pets, babies, robots)
+            - "Locations from which your house looks interesting"
+        - Offices
+        - Streets/sidewalks
+            - ON LOOKING https://www.amazon.com/Looking-Walkers-Guide-Art-Observation/dp/1439191263
+            - https://bldgblog.com/2010/01/nakatomi-space/
+            - https://bldgblog.com/2010/01/nakatomi-space/
+- Conceptual aspects of earth roving
+    - Scale/perspective limitations
+    - What is the output of rovers/roving, especially if the rover is looking at which unstructured reality
+    - Static vs. dynamic missions
+        - Exploring leaves/grass vs. chasing cats
+        - Roving as an opportunistic second-order function
+            - % of attention to roving
+            - 1% slack time (like 20% time at 3M/Google)
+    - Deer keep eating fruit trees (criminal deer)
+    - Crime-watch sidewalk delivery robots
+    - Mapping in space/time ... when/where events and anomalous events
+    - Rovers vs. computers
+        - Computers are on a very different faster time scale
+        - Rovers are on a human time scale
+        - Embodiment
+        - Computers don't sleep
+        - Rovers... do sleep? Depends on level of maintenance etc
+- Neuro relations
+    - DMN https://en.wikipedia.org/wiki/Default_mode_network
+    - Task positive network --- sometimes you do want the rover to do tasks for me
+        - haul things, etc
+- What makes a robot an earth rover as opposed to a service robot (like food delivery or butler or manufacturing)?
+    - not so much destination as a domain
+
+    - observing, analyzing
+- What can you assume on earth that you can't assume on Mars or Moon
+
+    - weather changes
+    - animals & other life
+- What are commercial applications if any
+- What would an "earth exploration" program look like, and how might it differ from a space program?
+    - Precedent: [International Geophysical Year (1957-58)](https://en.wikipedia.org/wiki/International_Geophysical_Year)
+    - [NASA Expeditions twitter account](https://twitter.com/nasaexpeditions?s=21&t=aZM22pM8Bj8Npfotf7HytA)
+    - Examples on Discord earth rover thread
