@@ -1,4 +1,16 @@
-- [[June 6th, 2022]]
+- [[June 23rd, 2022]]
+    - {{[[TODO]]}} review: Vellum's own instructions about proofing #jd #vgr
+        - https://help.vellum.pub/proofing/
+        - > For the Kindle version of your ebook, you will need to use Amazon’s [Kindle Previewer](https://www.amazon.com/gp/feature.html?docId=1000765261) utility, as this is the only way to preview your book with Amazon’s [Enhanced Typesetting](https://kdp.amazon.com/en_US/help/topic/G202087570).
+        - {{[[TODO]]}} finish: vol 1 Kindle Previewer review #jd #vgr
+            - https://kindlepreviewer3.s3.amazonaws.com/UserGuide320_EN.pdf
+    - {{[[TODO]]}} review: Vellum's own instructions about uploading to stores? or skip since not using #vgr
+        - https://help.vellum.pub/uploading/
+    - {{[[DONE]]}} generate: v2 of vol 1 from Vellum
+        - {{[[DONE]]}} upload: to shared Dropbox folder
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FJA7VdHLk-d.png?alt=media&token=b851d3a6-9487-4895-add2-218cf904a76d)
+        - 
+- [[June 6th, 2022]] | [[June 23rd, 2022]] a few updates below
     - {{[[DONE]]}} review: vol 1 in Vellum #[[Jenna]]
         - {{[[DONE]]}} decide: Dedication, ~~stay, edit,~~ go?
             - > _For all the indies out there_
@@ -17,22 +29,26 @@
             - Let's not do any of these things... rough cut means rough cut! If we do all this extra stuff we're backsliding into doing a proper book :D
                 - √ gotcha — I did think you might want to include a wee bit of text at the beginning stipulating to the rough cut 
     - {{[[TODO]]}}  collect: misc questions for #[[Venkatesh Rao]]
-        - {{[[TODO]]}} decide: in __1. Gigcraft as Soulcraft__ ¶3 Art of Gig substack about link now points to the new guy » https://artofgig.substack.com/archive
+        - {{[[DONE]]}} decide: in __1. Gigcraft as Soulcraft__ ¶3 Art of Gig substack about link now points to the new guy » https://artofgig.substack.com/archive
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXFZTAAOhcf.png?alt=media&token=979eb51e-c1c9-4b3a-b374-458ead9d86eb)
             - a: Delete that line. in book context it's not necessary
-            - {{[[TODO]]}} delete
+                - {{[[DONE]]}} delete
+                - __noting that there are plenty of other references to the nuts and bolts of the newletter that remain__ #[[June 23rd, 2022]]
         - {{[[TODO]]}} decide: other links to AoG on substack
             - {{[[DONE]]}} __4. Knowing Which Nut to Tighten__ §Neutralizing Your Risks ¶9
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FWQkMe5bumh.png?alt=media&token=40751583-679a-4636-ac87-d1d1e023a2e6)
                 - https://artofgig.substack.com/p/a-tale-of-two-schools
                 - __a: converted to Vellum internal link__ #[[Jenna]]
-                - {{[[TODO]]}} edit: __took some cheap shots__ **or** __took a lot of cheap shots__ ? #[[vgr]] -- SOME CHEAP SHOTS
+                - {{[[DONE]]}} edit: __took some cheap shots__ **or** __took a lot of cheap shots__ ? #[[vgr]] -- SOME CHEAP SHOTS
                 - I'd say delete all the links.
                     - ah, interesting, the text is fine without the link and readers can go hunt stuff down if they want
-                        - {{[[TODO]]}} delete all x-ref links
+                        - {{[[TODO]]}} ~~delete all x-ref links~~
+                        - {{[[DONE]]}} __when I saw how well Vellum handles internal anchors (autorecognizes them, whoa), I did that instead about the same amount of work as deleting -jd__ #[[June 23rd, 2022]]
             - {{[[TODO]]}} __6. You Are Not a Scientist__ ¶1
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDE5eyxkRdX.png?alt=media&token=21e087f1-c9a8-4e2f-8f40-c5452f9a7e20)
                 - https://artofgig.substack.com/p/the-shtickbox-affair
                 - It doesn't look like this piece came over?
-                - a: It's one of the fiction pieces in Yakverse Chronicles
-                    - ah, gotcha
+                    - a: It's one of the fiction pieces in Yakverse Chronicles
+                        - ah, gotcha
+                        - {{[[TODO]]}} reserve decision on how to handle link until we've decided whether it can be a one-book book #[[June 23rd, 2022]]
+                        - 
