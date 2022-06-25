@@ -43,13 +43,13 @@ Then I did an infinity sign that probably just looks like a bunch of squiggles w
                 - Spend 15-20 minutes playing around with the following tool
                 - https://www.climateinteractive.org/en-roads/#:~:text=What%20is%20En%2DROADS%3F,quality%2C%20and%20sea%20level%20rise.
                 - Prompt: What surprised you in playing around with the tool? What implicit assumptions are embedded in this type of model? 
-        - Week three-- modeling how we combat climate change (part 1)
+        - Week three -- modeling how we combat climate change (part 2)
+            - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r  
+            - Prompt: what surprised you in Naam's predictions? What was missing? 
+        - Week four-- modeling how we combat climate change (part 1)
             - Mental model for combatting climate change
                 - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66 
             - Prompt: what's missing from the model?
-        - Week four-- modeling how we combat climate change (part 2)
-            - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r  
-            - Prompt: what surprised you in Naam's predictions? What was missing? 
         - Weeks five-- Regional Climate Impacts
             - India?
                 - Heat wave, wet bulb 35 in Ministry for the Future

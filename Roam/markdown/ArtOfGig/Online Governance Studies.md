@@ -560,6 +560,91 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
             - Jenna
                 - making a distinction between what regime would I want to live under vs where I myself am a regime or making the regime
                 - adjectives - bulldozery vs vetocractic 
+        - [The Art of Community](https://reason.com/1972/04/01/the-art-of-community/)
+            - Grigori
+                - Old book with a different context.
+                - A lot has changed, the author's version of community is different from what an antropologist's would be.
+                - Not what a community is, but what a community can do?
+                    - what are the use cases of a community?
+                        - maximizing rent is not an appropriate answer
+            - Jenna
+                - Sarah Taber's Twitter threads: we need a better understanding of how rural communities work: https://twitter.com/SarahTaber_bww/status/1539438501317513216
+            - Matthew
+                - mixed-use urban development meme "it's all good"
+                - Conception of community as a nested stack that feeds on one and other
+                    - internet as stack w/ layers
+                        - app layer isn't fixed, constantly moving target
+                            - community is the same way. changes as we become more sophisticated and nuanced
+                - clear land banking
+                    - sit on land w/ assumption that surrounding properties will improve in value
+                    - opposite of the author's proposal of land's value being judged on it's productivity
+                        - unclear what extent this has played out...seems speculative
+            - Sachin
+                - The state's high modern view of community
+                - Non-places
+                    - transcient places where people are moving through but never stay
+                    - Everybody is sort of upholding a contract w/ eachother
+                - The Funnel vs Tube Reading we did
+                    - this is missing from proprietary community.
+                    - They allow for serendipity
+                - last 5-10 years, places on the internet are more similar to anthropological places than proprietary
+                    - he's met more people online and become friends IRL than IRL
+                - no end to land values because of tech improvements
+                    - is uber drivers at airport a proprietary community
+                - company towns might be the ultimate form of proprietary community. They're also dependent on technology to exist
+            - Venkat
+                - since it's from 70s, ask: what extent have these ideas been realized?
+                    - this is actually the default
+                        - HOAs inside developer communities
+                        - Puppet government
+                            - homeowners get to govern, but administration is in hands of developer
+                        - condos and apartments are even more extreme example
+                    - the more you are in a physical integrated environment, the more power the owner of the environment will have
+                        - if elevator in high-rise goes out, homeowner is dependent on the government to fix the problem.
+                    - the more complex communities have all the amentities that you need. not a company town, but has serendipidous environment
+                    - otoh, public communities becoming ineffective
+                - company town connection
+                    - as you shrink the city scale, at what point does the fact of proprietary ownership make community aspect difficult?
+                    - it's not the ownership structure that makes it hard or easy, but technology advancement
+                - Bowling Alone
+                    - in 60s and 70s, there were neighborhood bowling leagues.
+                    - as community unraveled, leagues fell off
+                - Tubes and funnels would really strengthen the proprietary community
+                - MacCallum's wiki page is interesting
+                    - failed contract for seasteading community
+                        - cruise ships are like hotel communities on the water, and cruise ships are becoming more complex like traditional communities
+                - A lot of agatha christie's murder mysteries are set in hotels and ships and such
+                    - people generally don't know each other, but a provacation event can bring strangers together.
+                    - governance, private or public don't matter, but how people respond to events matters
+            - Bryan
+                - Libertarians always simplify these things. A hotel exists in some larger municipality, and is dependent on others for utilities and has to manage relations with neighbors.
+                - Transcient communities have an easier time w/ social contracts. People on the move generally behave well, and when they don't you know they'll be going away soon. But permanent communities have lots of petty squabbles and long-running issues that require constant maintainence
+                - The sharing economy is built on this premise. Airbnb was started to allow people to improve the productivity of their homes. Zipcar the same for vehicles.
+            - Sachin
+                - convergence in design of everything
+                    - there are just logical optimizations
+                    - airbnb users ending up back at hotels because the hotels are optimal places for travel
+            - venkat
+                - driving force for similarity is the advances in manufacturing tech and financial technologies (real estate aggregation)
+                    - these things are unique to the US
+                    - building materials are standardized and therefore modular
+                    - Keller Eastering's Extra-state Craft (?)
+                        - about special economic zones around ports and places where people are trying to attract foreign investment (the other end of the spectrum...multinational and geopolitically convenient)
+                        - Like airports where people are committed to being there for a longer term
+            - Grigori
+                - uniformity of the cities is a function of how cities are and also how travelers see them
+                    - easier to get lost if a city diverges from common pattern
+                    - interesting things reveal themselves in new places over a longer period of time
+            - Sachin
+                - Irish pubs have an official look that comes from a Chinese company
+            - Jenna
+                - Mobility and settlements
+                    - some people want to stay in one place, and some want to move around
+                    - also, refugees. sometimes it's not a choice
+                    - Station Eleven...people stuck in an airport created a community
+                    - Octavia Butler and Cory Doctorow have books about enclaves
+                - Origin of gov surveillance started w/ driver's licenses, which are then used for tracking people
+                - Problematic treatment of gyspys and hobos.
     - **Queued**
         - [Every Design Studio Should Be a Worker-Owned Studio](https://eyeondesign.aiga.org/every-design-studio-should-be-a-worker-owned-studio/)
         - [Unrepresentative Claims: Speaking for Oneself in a Social Movement](https://www.cambridge.org/core/journals/american-political-science-review/article/unrepresentative-claims-speaking-for-oneself-in-a-social-movement/E045E3270DB08B76F09048DE99C06B7B)
