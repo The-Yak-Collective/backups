@@ -478,6 +478,7 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - June 14th — [[Natural Robotics Contest ]] brainstorm
     - June 21st — earth roverics brainstorm?
     - June 28th: Venkat
+        - [[Mouths for Rovers]]
     - July 5th — US 4th of July weekend, maybe skip?
     - July 12th: [[Maier Fenster]]
     - July 19th

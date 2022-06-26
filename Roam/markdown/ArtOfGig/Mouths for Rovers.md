@@ -1,0 +1,7 @@
+- Nature inspiration
+    - Tongues
+        - https://www.jungleroots.com/post/the-weirdest-wildest-most-unusual-tongues-in-the-world
+        - https://www.livescience.com/photos-weird-animal-tongues.html
+    - Cheeks
+        - https://www.nationalgeographic.com/animals/article/cheek-pouches-stuffed-animals-news
+    - 
