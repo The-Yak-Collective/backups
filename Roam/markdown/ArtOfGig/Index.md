@@ -1,7 +1,7 @@
 - Goal::
     - The goal of this index page is to have a central place to link all root pages while we figure out a better organization scheme. 
 - Suggest:: 
-    - Check out the [[Start Here]] page, then the [[Code of Conduct]] page, then get started here on this [[Index]] page. 
+    - Check out the [[Untitled_4]] page, then the [[Code of Conduct]] page, then get started here on this [[Index]] page. 
     - 👈 The Shortcuts left sidebar has links to top-level pages.
 - Need ideas for what to do?::
     - Check out the [[Weekly Prompts]] page

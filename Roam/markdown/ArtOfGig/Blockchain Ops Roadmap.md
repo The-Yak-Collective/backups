@@ -1,8 +1,10 @@
 - This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
+- This covers the period Fall 2021-Spring 2022 (~8 months)
+- Starting Summer 2022, we broadened this track into a [[Distributed Systems Study Group]]
 - [[YC Treasury]]
 - [[Blockchain Infrastructure Resources]]
 - [[Yak Colony Pilot]]
-- ## Fall 2021 Meeting Notes
+- ## 2021 Meeting Notes
     1. [[Chat with Rafa Nov 8 2021]] #[[meeting-notes]]
     2. [[Weekly Call 2021-11-22]] #[[meeting-notes]]
     3. [[November 22nd, 2021]] Nov 22 meeting agenda #[[meeting-notes]]
@@ -1129,38 +1131,6 @@ but consider - is what is being sent data or programs?
                     - Genisis: Top-down design v emergent design
                     - When we agree on something we tend to be converging on a future we are seeing
                     - Big continent of consensus reality v archipelago of marginal and fractures proposals
-    - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
-        1. June 20:
-        2. June 27: ¿guest?
-        3. July 4: US Independence day, NO MEETING
-        4. July 11:
-        5. July 18:
-        6. July 25: ¿guest?
-        7. Aug 1:
-        8. Aug 8:
-        9. Aug 15:
-        10. Aug 22:
-        11. Aug 29: ¿guest?
-        12. Sept 5: US Labor Day, NO MEETING
-        13. __Sept 12: Fall planning__
-            - Some sort of capstone event/and or publication?
-            - Decision on if/how to go DAO
-    - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
-        1. Sept 19:
-        2. Sept 26:
-        3. Oct 3:
-        4. Oct 10:
-        5. Oct 17:
-        6. Oct 24:
-        7. Oct 31:
-        8. Nov 7:
-        9. Nov 14:
-        10. Nov 21:
-        11. Nov 28:
-        12. Dec 5:
-        13. Dec 12: Likely annual meeting week... with reporting opp
-        14. Dec 19:
-        15. Dec 26: Boxing Day, NO MEETING 
 - ## Bootstrapping Agenda Topics suggest by Rafa
     - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
     - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)
