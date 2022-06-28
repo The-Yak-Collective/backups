@@ -4,10 +4,15 @@
         - https://www.livescience.com/photos-weird-animal-tongues.html
     - Cheeks
         - https://www.nationalgeographic.com/animals/article/cheek-pouches-stuffed-animals-news
+- Example artificial mouths
+    - Tree chopper: https://twitter.com/lexfridman/status/1538372924285018113?s=21&t=HNWUol6r2AlgICMzazDn5g
+    - 
 - Technologies
     - Peristaltic pump: https://www.adafruit.com/product/1150
     - Peristalsis: https://en.wikipedia.org/wiki/Peristalsis
     - Video: https://www.youtube.com/watch?v=H0vnB0bgzDI
     - Artificial muscle: https://www.sparkfun.com/datasheets/Robotics/NM70.pdf
+        - 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0RQjZpxDwb.16.03%20PM.png?alt=media&token=d53d0ebb-1350-458b-93d8-44c6ef503593)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F4VzviOG4LS.jpeg?alt=media&token=97e79a12-7077-4c3b-97e2-087398a9ba49)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FfUD6gnlKFJ.jpg?alt=media&token=c188daab-64e4-4f3f-bf54-ec9411357d56)

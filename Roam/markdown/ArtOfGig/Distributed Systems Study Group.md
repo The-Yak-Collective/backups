@@ -14,6 +14,18 @@
         - Brainstorm of "continents" of distributed systems
     2. June 27: 
         - Discussion of [What we talk about when we talk about distributed systems](https://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
+            - Questions: 
+                - Venkat: How do you add a new trusted member?
+                - Meredith: Are distributed systems the norm?
+                - Jenna: Human mapping 
+                - Grigori: Why do we need consensus
+                - Commits: Diff between software dependencies vs distributed systems
+                    - List of problems DS try to solve?
+                    - Relation between DS and time
+                - Ben: How do you unify the language? Blockchain, general systems,… How do you get to an engineering tradeoff?
+                    - Inactivity bleed of stake as solution to FLP
+                - Nathan: Recovery from failure? Maximal system integrity, optimize for correctness?
+        - Prompt: Come up with ONE question about distributed systems that you don’t know the answer to, either social or technical . Plus general comments about the reading.
         - Prompt: Based on what you know, add as many terms as you can in 15 minutes to the [[Distributed Systems Map and Lexicon]] lexicon section. Both technical and non-technical terms invited.
     3. July 4: No meeting, US July 4th
     4. July 11: Something more social sciency

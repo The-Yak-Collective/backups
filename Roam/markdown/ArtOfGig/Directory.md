@@ -3,7 +3,7 @@
     - Additional Page Wranglers:: [[Jenna]] | [[Fname Lname]] 
 - Last Updated:: [[September 8th, 2020]]
 - Last Updated By:: [[Jenna]]
-- ###  How to jump in here
+- ###  How to jump in here 
 - Minimalist version: 
     - Insert a page with your name in alphabetical order (by last name), and then do what you like with that page. 
         - [[Benito Berretta]] 
