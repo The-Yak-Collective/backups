@@ -443,6 +443,10 @@ If you have a technology problem - I can solve it.
 If it's a people\process\requirements\ui\ux problem, if you're drowning in data or tech debt -- let's shed some light and see what can be done.
     - [oleksandr@tvori.info](mailto:oleksandr@tvori.info), tg: [@oleksandr_now](https://t.me/oleksandr_now), often wizzard0
 - [[Meredith Noelle]]
+- [[Josh Nuttall]]
+    - extensive expertise in the digital world — strategy, communication, design, social media, marketing, and data analytics, with a passion for building future-orientated businesses.
+    - an active learner and self-starter, launching and successfully leading his own freelance consultancy since the age of 24.
+    - Twitter: [joshnuttall](https://twitter.com/JoshNuttall) 
 - [[Conor O'Hollaren]]
     - Freelance [[UX Design]] and Product Strategy, based in Brooklyn, NY. Working with a mix of interaction design agencies and early-stage startups.
     - Site: [dotconor.com](https://www.dotconor.com)

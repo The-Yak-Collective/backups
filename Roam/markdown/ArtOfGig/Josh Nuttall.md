@@ -1,0 +1,12 @@
+- Josh has a fascination with technology, synthesising, data, people, and sustainability. From his South African base, he has worked with a variety of businesses: from diverse start-ups to established large financial services firms, leisure travel companies, architectural firms and performing artists. He has had the opportunity and space to grow his thinking, learn from others and design systems to connect the dots.
+- His life experience reflects deep thinking and the expertise to carry conceptual ideas through to effective execution. He is an active learner and self-starter, launching and successfully leading his own freelance consultancy since the age of 24.
+- He has experience in engaging with senior managers and executives, particularly in financial services, about marketing and strategic thinking. In these roles, he has been recognised as a leader and thought-provoker.
+- He has extensive expertise in the digital world — strategy, communication, design, social media, marketing, and data analytics, with a passion for building future-orientated businesses.
+- Josh is widely read in reflecting on the current world, especially business, organisational and tech trends, with specific insights and experience in the South African context — a dynamically changing society with many challenges and opportunities which are relevant globally.
+- Intro’d to the crypto world in 2017, while working in finance led him to view BTC and ETH purely as financial assets, not fully grasping the coordination potential of the new networks that they offered. In early 2021, Josh re-entered the crypto sphere, directing his attention to the social and cultural shifts. This saw him back a learning DAO, Crypto Culture & Society, and contribute to the exploratory stages of the Mirror DAO.
+- Currently based in South Africa, recently back from a few months in  Spain. He has embraced the digital world of today, a remarkable resource to connect, engage and learn, creating relationships and connecting the local with the global.
+- **Overview:** joshuaxyz.notion.site 
+- **Twitter:** [joshnuttall](https://twitter.com/JoshNuttall)
+- **Medium:** [medium.com/@joshnuttall](https://medium.com/@joshnuttall)
+- **Mirror:** [josh.mirror.xyz](https://josh.mirror.xyz/)
+- **ENS:** joshnuttall.eth
