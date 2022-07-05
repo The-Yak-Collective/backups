@@ -7,6 +7,7 @@
 - Minimalist version: 
     - Insert a page with your name in alphabetical order (by last name), and then do what you like with that page. 
         - [[Benito Berretta]] 
+        - [[Rohit Krishnan]]
 - High-usability version 
     - Allows people to read your page embedded within this page instead of jumping around:
         - Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.

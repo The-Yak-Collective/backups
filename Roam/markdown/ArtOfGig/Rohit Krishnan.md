@@ -1,0 +1,3 @@
+- VC, former McK consultant, ex-finance nerd and current tech nerd
+- Writing https://www.strangeloopcanon.com/
+- Twitter: https://twitter.com/krishnanrohit
