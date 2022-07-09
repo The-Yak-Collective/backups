@@ -12,6 +12,72 @@
 - ## Summer '22 Reading Tracks 
     - Prompt Engineering/Step by Stepism 
         - https://twitter.com/vgr/status/1529870394034794499?s=20&t=nV3ifgXYig3NwiagibAH2Q
+    - [Governance in Review (GitcoinDAO Season 14)](https://pop.mirror.xyz/NbNlmtjw3hTzVHiCU9dBjcgFDxpD91UY8DOtl5Ht_x0)
+        -    Matthew
+            - Metaphors of seeing a DAO as biological organism
+                - in OGS primer, failure modes
+                    - do DAOs have tendency to overindex on particular images of organization? (ie organisms, machines)
+            - interesting to see that even in progressive structure, they still end up circling back to solve typical organization problems (purpose, mission, vision, etc)
+            - interesting that Gitcoin uses seasons to manage the cadence of governance
+                - is this common in DAO space?
+                - middleground between continuous integration and annual upgrades
+                - drawn from new media (TV, video games, etc)
+                - if someone comes in midseason, does that change the dynamic? or are the just means of delineating time.
+        - Sachin
+            - interesting, feels like they're reimplementing how medium-sized org work, but within a different medium
+                - work needs to happen, so mission takes a back seat and you end up doing weird things with mission
+            - YakC went through a cycle of this initially, trying to figure out a mission, but ended up finding it unfruitful
+            - Meme: I just need to align on the goals of the organization
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FhP8KTIJkbe.png?alt=media&token=2a46b71a-b777-4844-8ba1-1dc2fbc84772)
+            - having fun assigning level of goblin mode in various modes of his life
+                - part of emerging org is being comfortable with things being in some level of goblin mode
+            - stateless cities were easier to exist because everyone has same environment and shared sense of reality
+                - how do you create stateless org when people don't recognize the same reality?
+            - biology analogies idealize the Gaian emergent thing
+                - not everything is emerging, some things are just collapsing
+        - Venkat
+            - gitcoin has good rep as an actual project for doing things
+            - article is underwhelming relative to org's achievements (actually powerful mechanism)
+            - quadratic mechanism has widespread gov application, very impressive compared to their governance modes
+            - steward cards
+                - means of counting who is actually involved in the project, necessary for this
+            - voter matrix decision card
+                - sort of like YakC decision channel
+                - if we ever build a voting mechanism, we should have opinions attached...our prompt school can be adapted to this
+            - you have to pay attention to things that seem elementary because inexperienced people might figure out weird new ways of doing things
+            - algorithmic social scoring is a brand new idea, so there's lots of ground to be broken there...there are no adults in this space
+            - echo Sachin's goblin mode...the world is in degenerative state but we still have to figure out how to maintain things
+                - a lot of DAO culture is about figuring out when the energy and motivation are low
+                - bots and templates and such are about making goblin mode better
+        - Bryan
+            - there is no such thing as equilibrium in nature...how would you even go about determining the ideal state? It's not like a machine, where man has built it and knows how it should be
+            - Blood vessel analogy is poor because there are certain constraints we inherit from nature. 
+            - Important distinction re:biology is the bits about transforming ecosystems and continual growth, not some ideal state
+            - The stuff about habits is good, especially in goblin mode. What can be done to keep the ball in play? Yak collective is pretty good about this wrt meeting formats, consistency, automations, etc
+            - Participation, not engagement. Engagement feels dirty, like it's about marketing and ignores the fact that organizations should be two way, not one way. Participation should be the goal...are people showing up to hash things out, even if they aren't completely satisfied?
+            - Being a Shepard/delegate that's responsible for success feels like it's getting into BDFL mode.
+        - Venkat
+            - once heard David Allen talk about GTD, researcher in Antartica, built around surviving in extreme environments, if things change there's immense stress. Goblin mode zombies have to do really heavy things in order to survive
+                - what kind of workflow can survive not just inner degeneration, but outer degeneration?
+                - The Checklist book (by surgeon...missed name). When surgeons are tired, they can't make mistakes, so they use checklists so they don't forget the basics, like washing hands
+                - Yak C isn't hostile environment, but is a sort of refuge of burned out people. It's like the greeting sign at Ellis Island.
+            - graph minds
+                - inspired by Yak C in part
+            - marketing isn't a thing you can or should do at DAOs (don't be about engagement)
+                - opposite of start-up...it's a 'don't shut down' state of being
+            - inviting people to join graph mind sounds like joining a cult, but people find their way into graph minds and discover something fruitful.
+            - people stumble upon the boundaries of YakC and the automated processes work to put you in the proper place
+            - like translating something and the immune system not rejecting
+        - Sachin
+            - co-CEOs
+                - one person can be in goblin mode and another in high energy and they can switch modes to keep riding the wave
+                - even in relationships...the adage that together you must add up to 100
+        - Venkat
+            - goblin portfolios...like a stock portfolio. multiple people can be in goblin mode within a good process and they can overcome goblin mode
+            - sum greater than the parts at the bottom level of acceptable performance
+                - weaknesses combined is less than a weakness
+        - Matthew
+            - 
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
@@ -708,7 +774,7 @@ The article above is a part of a series, that include:
                 - [McKinsey is also interested](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/new-evidence-for-the-power-of-digital-platforms)
         - {{[[DONE]]}} 4. An Interesting Read On The Fifth Generation Management
 https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
-            - ![](./images/aHR0cHM6Ly9zdGV2ZWJsYW5rLmZpbGVzLndvcmRwcmVzcy5jb20vMjAyMC8wOS93ZWFwb25zLXN5c3RlbXMuanBnP3c9NDY4Jmg9MjM4)
+            - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
         - {{[[DONE]]}} 5. What is the effect of interactivity on platform design and performance 
 https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
         - {{[[DONE]]}} 6. This one is on Medieval Guilds. It is free and interesting
@@ -815,7 +881,7 @@ systems, institutions, policies, and practices.
 __Storytellers:__ I craft and share our community stories, cultures, experiences, histories, and
 possibilities through art, music, media, and movement.
 __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernment and wisdom
-            - ![Ecosystem Map 2020](./images/aHR0cHM6Ly9idWlsZGluZ21vdmVtZW50Lm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8xMC9FY29zeXN0ZW0tTWFwLTIwMjAucG5n)
+            - ![Ecosystem Map 2020](https://buildingmovement.org/wp-content/uploads/2020/10/Ecosystem-Map-2020.png)
             - proposed by [[Jenna]]
         - Suez case study
             - https://www.deshgujarat.com/2021/03/26/commerce-ministry-chalks-out-four-point-plan-to-deal-with-blockage-of-suez-canal/
