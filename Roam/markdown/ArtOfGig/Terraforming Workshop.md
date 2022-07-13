@@ -43,6 +43,7 @@ Then I did an infinity sign that probably just looks like a bunch of squiggles w
                 - Spend 15-20 minutes playing around with the following tool
                 - https://www.climateinteractive.org/en-roads/#:~:text=What%20is%20En%2DROADS%3F,quality%2C%20and%20sea%20level%20rise.
                 - Prompt: What surprised you in playing around with the tool? What implicit assumptions are embedded in this type of model? 
+                - ADDITION ANOTHER TOOL https://us.energypolicy.solutions/scenarios/home
         - Week three -- modeling how we combat climate change (part 2)
             - From Chris Tull https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author?s=r  
             - Prompt: what surprised you in Naam's predictions? What was missing? 
