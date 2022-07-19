@@ -78,10 +78,60 @@
                     - does not mean we should give up on this, but good to know there are limits to this system
                     - EIP-1599 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md
                     - Delegation is also important thing to look at, Liquid Democracy
-    5. July 18: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
-    6. July 25: ¿guest?
+    5. July 18: 
+        - Articles
+            - https://maurann.com/assets/readings/koolhaas-rem_junkspace.pdf
+                - Discussion
+                    - [[Anuraj R]]
+                        - Pyramids are not junk
+                        - what makes something become junk
+                    - [[Ben Mahala]]
+                    - [[Venkatesh Rao]]
+                        - article famous in architecture circles
+                        - the author may like the evolutionary power of junkspace
+                        - maybe not read it in a structured way
+                    - [[Grigori Milov]]
+                        - lack of structure
+                        - notion of shortage of masterpieces, shielded from quality checks etc
+                        - junkspace is orderless but authoratarian
+                        - once there is a well developed power structure then there is no need of architecture
+                        - junkspace tyranny - the tyranny of mediocrity
+                    - [[Maier Fenster]]
+                        - article is using junkspace as a suitcase word. 
+                        - talking about 20th century. somone in 18th or 19th century from rural england coming to London would be overwhelmed. the author might be talking about sometype of overload
+                        - structure of modern shopping malls eg of mall in Israel
+                        - tour of ruins of market place of second temple in Jerusalem
+                            - what would a person from a village think when they arrived this market place 
+            - https://www2.econ.iastate.edu/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf
+                - Discussion
+                    - [[Ben Mahala]]
+                        - author touches on points on what would become chaos theory etc
+                        - things he calls hierarchy is called reductionism
+                    - [[Venkatesh Rao]]
+                        - author pioneer of AI, came up with the notion of bounded rationality etc
+                        - a complex system that evolves needs intermediate stable systems 
+                    - [[Maier Fenster]]
+                        - change the broader practical goal of today's prompt?
+                        -  if we were to build a metaverse based on junkspace then what would it look like
+                        - the article did not age well
+                            - from discord  
+                                - think human-based systems have a more viable option of reach-through from one hierarchy level to another. the ones we care about are dynamic to , like a flock of birds, so the leader (of which there can be many at once) take turns at different effective places in hierarchy. in his words - i think the systems we care about are not near decomposable as he suggests most social systems are.
+                                - __one cannot, for example, enact the role of "friend" with large numbers of other people.__
+                                - it seems like the focus on hierarchy detracts from analyzing the  links between components.
+                    - [[Grigori Milov]]
+                        - hierarchy, in his view in human orgs is the power structure. 
+                        - hierarchy is defined in specific terms
+                        - a lot depends on intensity of interactions in human systems
+                        - catalytic reactions - stable intermediate forms
+                    - [[Commits Vortex]]
+                        - question about adjacent fields
+                        - how to view hierarchy
+                        - notion of decomposability, idea of modularity, if there is any implicit heierarchicalism 
+                        - multiverses for these maps, visualization of maps of distributed consensus works
+                        - 
+    6. July 25: Contd: discussion of a Junkspace and Simon articles
     7. Aug 1:
-    8. Aug 8:
+    8. Aug 8: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
     9. Aug 15:
     10. Aug 22:
     11. Aug 29: ¿guest?
