@@ -1163,3 +1163,8 @@ Real-time story arc of an early journo blockchain attempt. #[[Jenna]]
         - 
     - 
 - We have an associated study group track in [[Online Governance Studies]]
+- [[roam/comments]]
+    - [[July 21st, 2022]]
+        - [[Anonymous_22]]
+            - 2022 Meeting Notes
+                - 

@@ -130,7 +130,7 @@
                         - multiverses for these maps, visualization of maps of distributed consensus works
                         - 
     6. July 25: Contd: discussion of a Junkspace and Simon articles
-    7. Aug 1:
+    7. Aug 1: stub for systems science led by maier/benjamin
     8. Aug 8: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
     9. Aug 15:
     10. Aug 22:

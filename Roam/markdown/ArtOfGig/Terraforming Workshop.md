@@ -51,7 +51,10 @@ Then I did an infinity sign that probably just looks like a bunch of squiggles w
             - Mental model for combatting climate change
                 - https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66 
             - Prompt: what's missing from the model?
-        - Weeks five-- Regional Climate Impacts
+        - Weeks five-- empirical technology transitions
+            - https://www.inet.ox.ac.uk/files/energy_transition_paper-INET-working-paper.pdf
+            - What are your lessons learned from the pessimistic predictions of renewable energy cost declines a decade ago? What else did you learn from the paper?
+        - Regional Climate Impacts
             - India?
                 - Heat wave, wet bulb 35 in Ministry for the Future
             - China?
