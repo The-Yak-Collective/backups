@@ -78,6 +78,54 @@
                 - weaknesses combined is less than a weakness
         - Matthew
             - 
+    - https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0
+        - Grigori
+            - False claims...unclear what the author is driving at
+            - starts w/ definition of information came about in 1940s, but then went back to talk about information in 1800s
+            - understand things about atoms, institutions, and blockchains, but doesn't see how the author is putting them together
+        - Jenna
+            - something interesting going on here
+            - smart contracts are vulnerable to same things other social institutions/software is
+            - non-state things on blockchain. new things will be created
+        - Sachin
+            - feels myopic...poor understanding of institutions but optimistic view of technology
+            - interesting tangents
+                - blockchain hardness...replace blockchain with any new technology and the same things can be said.
+                - creating incentives w/ technology depends on creating some institution
+                - atom hardness...reminds of nakatomi spaces.
+                    - you can interpret a space in whatever way you want
+                    - community sees it one way, but an intruder can interpret it differently
+                        - something is only hard if someone chooses to interpret it differently than the majority
+                        - basically what's going on w/ US Supreme Court and Clarence Thomas reinterpreting the institution
+                - blockchain has already been institutionalized
+                - blockchain is an instrument for techno capital to create power where they don't have power
+        - Venkat
+            - enjoyed the article...grasping at an intuition that's just beyond reach. makes sense why he's fumbling
+            - author works for ethereal foundation
+            - not sure this argument re:hardness for any technology is true. there are special things about blockchain that separate it from lithium bateries
+            - schelling points...how do you coordinate without any basis for coordination? you basically have to guess or pick landmarks
+                - this article is like Schelling points in time...infinite possible futures and limiting it to a more certain number.
+            - blockchain code can be buggy too. BUT code that survives is code that gets managed over time
+                - TCIP code is 50-60 years old, still has bugs, but it's everywhere and mostly just works for everyone
+            - author's hunch is right...AIB is poking at things that the world hasn't figured it out
+            - Striated and smooth, nakatomi work well here
+                - moving in smooth space is more expensive than a striated one.
+        - Bryan
+            - Hardness vs. Antifragile
+            - Random code on GitHub isn't very hard because in 20 years, you won't be able to pull it down and run it. the code might be valid, but it cannot be useful
+        - Jenna
+            - Do you need to be a prodigy to grok blockchain and other new technologies?
+        - Venkat
+            - lots of things have to be true for institutions to survive, and that's kinda the whole thing that this business of hardness is getting at. with blockchains, the same things are required, but blockchains seem to require fewer things to be true
+            - Hardness by itself vs. reusable hard
+                - old documents in lost language aren't reusable hard
+            - measuring hardness of institutions: longevity/redundancy of core information assets (ie the Bible in Christianity)
+        - Jenna
+            - Gnosis has release Tabula (a mirror competitor)
+        - Grigori
+            - struggled w/ interplay between hardness and predictablility
+                - has to do with information being fixed at a particular point in time, but that doesn't necessarily seem "hard"
+                - Venkat: I think that's where the idea of cast comes into play
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
