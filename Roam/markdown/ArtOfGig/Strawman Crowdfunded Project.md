@@ -1,0 +1,110 @@
+- Title: **Internet of Rovers**
+- Short Description: Infrastructure and backend for an internet of rovers, along with a reference design for a basic low-cost ($500-$1000 depending on configuration), open-source, modular and extensible rover design with social capabilities designed to serve as a default node on the IoR
+    - [[Maier Fenster]] consider add-on to existing rover, prompt school, place to join own rover, "parts you can add to a rover", rover or drone?
+        - we also need a definition of the audience and what problem we solve for them, and us
+        - a lot of the below does not fit in $500-$1000. and maybe that is a lot for some hobbyists. 
+    - [[Rhett Garber]] what do you do with an Internet of Rovers?
+        - Exploration as a service
+        - Rent a Rover?
+            - Want a big rover
+    - Anuraj
+        - bare metal rover... like SMARS
+    - Brian
+        - Location over rover design itself
+    - Venkat
+        - Service-oriented roverics (Eg: find me all bugs in the garden)
+- Reference examples
+    - Drone network ... run a drone on a map
+- Rough specs -- internet of rovers
+    - Published API for rovers to join the Internet of Rovers
+    - Published specs for rovers to be conformant to the IoR
+    - System Software
+        - Docker containers for supported compute options
+        - Basic navigation and control library (forked from some standard)
+        - Python-based extension support
+        - [[Maier Fenster]] open source demos downloaded by container and working at once can be a strong selling point
+    - Communications
+        - Connect to Yak Rover global VPN via any WiFi access point
+        - Ability to expose sensing and control capabilities to trusted network
+        - Capacity for SDR-based connectivity
+    - Social
+        - Global registry mechanism for joining/discovery and capability sharing
+    - Economic
+        - Simple Ethereum-lite based sidechain token economy connected to Ethereum mainnet via a bridge node
+        - Unique naming system for all rovers, each with an associated 1/n NFT for governance rights
+    - [[Maier Fenster]] seem to be missing that "thing" which makes it an internet for  & by rovers. what do rovers get from it
+- Rough specs -- standard modular reference rover (though Internet of Rovers will be open to any conforming design)
+    - [[maier fenster]] we provide the standard parts?
+    - Mission: Indoor roving on a home or office class wifi network
+    - Size: About a shoebox
+    - Weight: < 2kg
+    - Mechanical: 
+        - Tripod/pentoid main body with 3/4 single-joint articulated limb joints to enable both wheeled and walking type mobility
+            - quadruped walking is easy
+            - might be able to do transformers style biped walking too
+        - Support for a variety of main compute boards and breakout boards
+        - Standard basic wheel unit and leg unit designs  
+        - A payload deck able to hold a variety of sensor and actuator payloads
+        - [[Maier Fenster]] need more details on what modular means
+    - Mobility: 
+        - Wheel units (usable in tricycle or 4WD config): 
+            - DC drive motors (probably N20) with hall effect sensors drive wheel unit
+            - Passive wheels with SG90 or similar steering servo
+            - Combo wheels with both drive and steering
+        - Walking only: 4x2=8 joint servos 
+        - Combo: both
+    - Power:
+        - 12V main power (4s LiPo) up to 8A
+        - Optional capacity for solar panel extension
+        - [[maier fenster]] self-charging an important issue
+    - Wire harness
+        - All main drive and servo motors independently powered via breakout boards on 12V power bus
+        - All peripheral cabling on DuPont connectors
+        - Board-to-harness cabling dependent on board selected
+        - i2C bus and 3.3/5v power rails integrated into payload deck
+    - Compute
+        - Support for
+            - Raspberry Pi 4 with TBD robotics hat, possibly Adafruit Crickit
+            - Beaglebone Blue
+            - Maybe Arduino Mega??
+        - Support for optional Oak-D lite camera
+        - Support for Nvidia Jetson Nano as either main board or ancillary board
+    - Basic payload peripheral choices
+        - Static camera mount
+            - Standard USB cameras
+            - Oak-D lite
+        - Ultrasonic ranging sensor
+    - Advanced peripherals
+        - 2-axis camera gimbal mount
+        - 1+1 dof gripper (1 active joint + 1 gripper solenoid)
+- Crowdfunding options (may be possible to do more than 1)
+    - Kickstarter
+    - GoFundMe
+    - [Crowdsupply](https://www.crowdsupply.com/) -- specific to hardware projects
+    - Mirror crypto Crowdfund
+- Finances
+    - Minimum raise 10k
+        - 10% to YC
+        - 20% to shared capital fund (min $2000)
+        - 70% divided equally among team to support research, use as desired to support research
+- Team
+    - Overall system architecture -- Rhett
+    - Embedded architecture and crypto capability -- Anuraj
+    - OS architecture -- Maier
+    - Machine learning -- Eric
+    - Network, social, and VPN design -- Victor
+    - Mechanical design of reference rovers/specs -- Venkat
+    - Power, battery, and wire harness design -- ??
+    - Simulation models/environments -- ?? Fabian maybe?
+    - ?? -- Brian
+- Deliverables
+    - Complete reference design for default rover that can be printed/assembled by anyone
+    - Up and running internet of rovers with a server anyone can connect their rover to
+    - 5 instances of the default and non-default rovers on the network up and running 
+- Rewards for supporters
+    - $10 -- Yak Rover NFT for a rover name you select
+    - $50 -- toy 3d printed model (non-functional)
+    - $100 -- 1 hour of rover token credits to use the IoR once it is up and running
+    - $200 -- NFT of one of the 5 initial demonstration rovers, built and named by team
+    - $500 (limit 10) -- Kit to build a default rover, not including compute board or camera, with associated NFT and naming rights
+    - $1000 (limit 3) -- Fully assembled default rover with basic configuration and compute, with associated NFT and naming rights
