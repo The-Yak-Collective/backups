@@ -102,6 +102,8 @@ above pre-industrial levels
                 - https://austinvernon.site/blog/solaronground.html
             - geothermal 
                 - https://austinvernon.site/blog/drillingplan.html 
+                - Maybe some deep dives on geothermal:
+                    - http://altarockenergy.com/wp-content/uploads/2022/07/SHG-DevelopingGlobalScale-Jun6a.pdf
             - Nuclear
                 - https://www.nuscalepower.com/projects/current-projects/united-states
         - Decarbonize the grid -- transmission -- NEED 
@@ -145,6 +147,10 @@ above pre-industrial levels
             - Maybe also something on why its so difficult to build these days (in the US / "West" at least)
         - Invest! NEED
             - Any good recs on climate finance? Something that shows the return and the business model would be great? Also some of the various micro considerations would be great
+            - Economist on ESG: https://www.economist.com/special-report/2022/07/21/internalising-the-externalities 
+            - Tesla 2021 impact report
+                - https://www.tesla.com/ns_videos/2021-tesla-impact-report.pdf
+            - https://www.sustainalytics.com/esg-research
     - Potential future readings sources
         - also see the rocky mountain institute
         - see also Pete Weber's presentation and also the tool
