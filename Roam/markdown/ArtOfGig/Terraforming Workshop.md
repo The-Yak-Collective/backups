@@ -100,10 +100,11 @@ above pre-industrial levels
         - Decarbonize the grid -- generation
             - wind and solar
                 - https://austinvernon.site/blog/solaronground.html
-            - geothermal 
+            - THIS WOULD BE AWESOME geothermal 
                 - https://austinvernon.site/blog/drillingplan.html 
                 - Maybe some deep dives on geothermal:
                     - http://altarockenergy.com/wp-content/uploads/2022/07/SHG-DevelopingGlobalScale-Jun6a.pdf
+                - https://austinvernon.site/blog/geothermalnextsteps.html 
             - Nuclear
                 - https://www.nuscalepower.com/projects/current-projects/united-states
         - Decarbonize the grid -- transmission -- NEED 
