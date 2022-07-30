@@ -78,7 +78,9 @@
                 - weaknesses combined is less than a weakness
         - Matthew
             - 
-    - https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0
+    - [Atoms, Institutions, Blockchains](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0)
+        - vgr twitter thread
+            - https://twitter.com/vgr/status/1550513962218795010?s=21&t=wt81ACVma5hrmwrExNOecQ
         - Grigori
             - False claims...unclear what the author is driving at
             - starts w/ definition of information came about in 1940s, but then went back to talk about information in 1800s
@@ -126,6 +128,118 @@
             - struggled w/ interplay between hardness and predictablility
                 - has to do with information being fixed at a particular point in time, but that doesn't necessarily seem "hard"
                 - Venkat: I think that's where the idea of cast comes into play
+    - Chores
+        - Readings
+        - https://puzzling.org/politics-and-society/tech-community/2018/03/be-selfish-if-it-needs-to-be-done-someone-else-can-do-it/
+        - https://www.bmc.com/blogs/keeping-the-lights-on-ktlo/
+        - Prompt: Identify some tensions between innovation and maintenance, and provide some attributes which we could model a 2x2 for orgs of all types
+        - Venkat
+            - KTLO has haters
+                - research people complain that budgets are eaten up by KTLO
+                - firefighting eats up budgets too
+                - KTLO as a category is a good thing
+                    - means you've got a machine that works and needs attention to keep it working
+                    - KTLO = value
+            - presence of high KTLO costs means people might not be thinking critically
+                - as time goes on, costs should go down because you get better at maintaining
+                - "evolutionary end state of commodity design"
+            - tension: does KTLO exist because people aren't pushing cost curve down enough? or is it a constrained by inertia?
+                - minimal vs bloated KTLO cost as an axis
+        - Gender focus on chores
+            - chores as pillar of society is a character trait, gender agnostic
+            - Die Hard w/ a vengeance
+                - cop that does the thing because he's in the place at that time
+                - Cop is a backstopping kind of job, just needs to do what needs to be done
+            - KTLO as essentialist way vs characteristic perspective
+            - 2x2: is it really KTLO or subjectively KTLO?
+                - sometimes when people stop doing things nothing happens
+                - Yak Coll welcome squad...we tried, stopped, muddling though now but it's absence doesn't kill a thing.
+    - Sachin
+        - Be Selfish
+            - small org, people need to take on chores or other tasks that aren't enjoyable or stimulating
+            - regardless of gender, people need to take these things on
+            - there are things that people think can be ignored and things will be OK
+                - is it good enough to keep the ball in play?
+                - you don't need to be extensive/details to ship
+                - sometimes you get lucky when you do things like this
+            - sometimes people think you need to work more to ship more, but you can ship less by doing what's only essential
+            - a lot of things don't matter at a certain scale
+        - KTLO
+            - depends on the org...tenured ones spend more on KTLO
+            - some KTLO work is can just be automated but hasn't, and people have been churning the same tasks for too long. Seems miserable for everyone.
+            - some orgs do things w/out a core competency for innovation's sake
+                - they don't get the implication of new thing on existing thing
+            - Chesterson's Fence
+                - if you don't know why something exists don't change it
+            - Joel Spolsky on launching a product: don't completely rebuild a product and launch a slightly different version of it
+    - Jenna
+        - - ktlo is often misidentified, maintenance is uncool eg Why I am Not a Maker piece by Deb Chachra
+https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
+- 2x2... 1 axis needed/notneeded, other axis:  __ __ __ __ __ __ __ __ _?
+- what actually moves the needle
+- work smarter not harder ie wu wei (not really, prolly)
+- yc reading list maintenance
+- event set up in discord
+- yaktweeting events
+- prompt school set up
+- knack set up
+- heat map+newsletter
+- welcome new yaks
+- rewarming existing yaks
+- what is minimum viable community management
+- gender divide, prolly
+- another piece on "glue work" relevant
+    - Grigori
+        - mistake to think that innovation and KTLO are opposites
+        - sometimes people just want to present the dichotomy to make a point
+        - innovation is perceived as sexier than maintenance
+        - value of maintenance and value of innovation isn't clearly defined
+        - if you know the value of something, then you can use appropriate incentives to get those things done
+        - power game dynamic over budgets, resources, etc
+        - 2x2
+            - innovation
+    - Bryan
+        - sometimes chores by themselves can be worthwhile
+            - in a spiritual sense, like the rebuilding of the temple at Ice Jingu
+            - good for introducing people to a particular set of skills
+                - by eliminating chores, do we prevent people from fully developing their skills
+        - There's a budget/time/resources aspect
+            - big budgets get you fancy KTLO solutions
+            - no budgets require cobbled together solutions that just work OK
+        - Doing things for the sake of doing them (enjoyable, even if not essential) is OK if you have the resources
+            - it's like the high production value Lorecraft at companies. It's over the top but they have the cash to fund those endeavors
+        - Backstoppers vs Explorers
+            - organizations need both types. too great of an imbalance can lead to status games between maintenance and innovation
+    - Jenna
+        - nobody really pushes things forward at Yak Collective
+        - none of the existing members have the energy...do we need to find people that have the energy?
+    - Venkat
+        - many things are necessary in a long-term way
+            - vitamins (long-term) vs aspirin (short-term)
+            - if you continuously do unhealthy things you will destroy yourself
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FozOrTyxpGs.46.45%402x.png?alt=media&token=75286581-e77d-4f0a-bb43-4becb0352166)
+            - Ise Jingu is a giant vitamin
+                - lots of things become determistically necessary when you hold a particular meaning frame
+    - Sachin
+        - don't see a lot of vitamin-unecessary quadrant existing today
+            - corporations have lots of churn in terms of people, so they don't feel like it's necessary to do the long-term vitamin style work
+    - Jenna
+        - often, KTLO is the wrong word
+            - if something needs to happen and needs to be automated, just do it
+            - if it can't be automated, then it's maintenance, and don't disparage it with KTLO term
+    - Grigori
+        - people that actually exercise enjoy it
+        - people who don't, usually find it boring
+        - apply to maintenance, if you do it the right way, you won't complain about it
+        - Bryan: reminds me of backstopping
+    - Venkat
+        - to Jenna's point about innovation in YC being driven by Venkat
+            - you have to constantly be doing little experiments, you just have to realize that most things will fail, and even if it succeeds, you don't have to exercise that option
+        - at portfolio level, experiments 
+        - if you're committed to continues exploration, that commitment is a KTLO activity
+            - if you have a budget and 80% is devoted to maintenance (deterministic KTLO) the rest of the budget should be diversified across experiments
+        - "goblin mode for too long will kill you"
+        - "I think steadily doing experiments, trying new things, and doubling down on a fraction, is a vitamin at the level of individual experiments but aspirin at the level of the portfolio. It doesn't matter if this or that experiment fails or succeeds but is not doubled-down on as an option, but some yield fraction of experiments must succeed, and some further fraction of that must be doubled down on to renew/grow the org and replace what is lost through obsoloscence/entropy/decay. So at that meta level, "innovation" is a KTLO"
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
