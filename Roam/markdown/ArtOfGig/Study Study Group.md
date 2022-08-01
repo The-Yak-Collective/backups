@@ -2,8 +2,9 @@
 - [OG twitter conversation](https://twitter.com/fstflofscholars/status/1553397180832038912?s=21&t=r_xM8S9D10oxZPsQmHLMNw)
 - Erica’s initial thoughts
     - What have you/do you study? 
-    - Studies: Architectures that furnish ongoing learning
-        - Domestic architectures sometimes have a "study". Presently, the more common analog is the home office. It presumes a contextual separation between work and living that has broken down or blurred. But a study is different. It connotes administering, learning, and contemplating as related spatial enterprises.
+    - Who do you study with? What groups are you in?
+    - Architectures that furnish studying:
+        - The Study: a feature of domestic architecture. Presently, the more common analog is the home office. It presumes a contextual separation between work and living that has broken down or blurred. But a study is different. It connotes administering, learning, and contemplating as related spatial enterprises.
         - There are formal places where studying occurs: schools, universities, libraries. But there are also spaces where studying occurs that are less intentionally designed to enclose that practice: cafes, public spaces e.g. parks, bars even, cultural venues.
         - What if we look online? What is studying in the networked world? While there is so much information at one's fingertips -- websites, ebooks, social media, tutorials, etc., that does not quite capture the vibe. And while there are plenty of online school settings and remote learning configurations, the thing I would want to signal is closer to the private and semi-private pos
     - Who are some very cool studiers, people whose studying you appreciate?
