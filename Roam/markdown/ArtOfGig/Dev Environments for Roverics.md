@@ -1,0 +1,10 @@
+- Motivation
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F1jyXO1Gau1.png?alt=media&token=b0d2e794-cf1e-4e20-bec6-e3fa1ad62fda)
+- Compute
+    - ??? What are even the right categories to talk about this?
+        - cloud/desktop/board? IDE vs. non-IDE? Github??
+- Electronics -- should get an expert in to talk about this
+    - Circuit design env??
+- Mechanical design -- should get an OnShape person in to talk about this
+    - CAD env
+    - 3d printing env

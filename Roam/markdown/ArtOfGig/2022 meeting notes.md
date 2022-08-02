@@ -484,7 +484,7 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - July 12th: [[Maier Fenster]]
     - July 19th: Anuraj update
     - July 26: [[Strawman Crowdfunded Project]] brainstorm
-    - August 2nd
+    - August 2nd: [[Dev Environments for Roverics]]
     - August 9th rhettg
     - August 16th Brian
     - August 23rd --- On the Shape of YR - Once a cycle meta discussion following https://roamresearch.com/#/app/ArtOfGig/page/yLECPNlKA
