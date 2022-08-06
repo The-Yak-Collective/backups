@@ -154,26 +154,26 @@
             - 2x2: is it really KTLO or subjectively KTLO?
                 - sometimes when people stop doing things nothing happens
                 - Yak Coll welcome squad...we tried, stopped, muddling though now but it's absence doesn't kill a thing.
-    - Sachin
-        - Be Selfish
-            - small org, people need to take on chores or other tasks that aren't enjoyable or stimulating
-            - regardless of gender, people need to take these things on
-            - there are things that people think can be ignored and things will be OK
-                - is it good enough to keep the ball in play?
-                - you don't need to be extensive/details to ship
-                - sometimes you get lucky when you do things like this
-            - sometimes people think you need to work more to ship more, but you can ship less by doing what's only essential
-            - a lot of things don't matter at a certain scale
-        - KTLO
-            - depends on the org...tenured ones spend more on KTLO
-            - some KTLO work is can just be automated but hasn't, and people have been churning the same tasks for too long. Seems miserable for everyone.
-            - some orgs do things w/out a core competency for innovation's sake
-                - they don't get the implication of new thing on existing thing
-            - Chesterson's Fence
-                - if you don't know why something exists don't change it
-            - Joel Spolsky on launching a product: don't completely rebuild a product and launch a slightly different version of it
-    - Jenna
-        - - ktlo is often misidentified, maintenance is uncool eg Why I am Not a Maker piece by Deb Chachra
+        - Sachin
+            - Be Selfish
+                - small org, people need to take on chores or other tasks that aren't enjoyable or stimulating
+                - regardless of gender, people need to take these things on
+                - there are things that people think can be ignored and things will be OK
+                    - is it good enough to keep the ball in play?
+                    - you don't need to be extensive/details to ship
+                    - sometimes you get lucky when you do things like this
+                - sometimes people think you need to work more to ship more, but you can ship less by doing what's only essential
+                - a lot of things don't matter at a certain scale
+            - KTLO
+                - depends on the org...tenured ones spend more on KTLO
+                - some KTLO work is can just be automated but hasn't, and people have been churning the same tasks for too long. Seems miserable for everyone.
+                - some orgs do things w/out a core competency for innovation's sake
+                    - they don't get the implication of new thing on existing thing
+                - Chesterson's Fence
+                    - if you don't know why something exists don't change it
+                - Joel Spolsky on launching a product: don't completely rebuild a product and launch a slightly different version of it
+        - Jenna
+            - - ktlo is often misidentified, maintenance is uncool eg Why I am Not a Maker piece by Deb Chachra
 https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
 - 2x2... 1 axis needed/notneeded, other axis:  __ __ __ __ __ __ __ __ _?
 - what actually moves the needle
@@ -189,57 +189,125 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
 - what is minimum viable community management
 - gender divide, prolly
 - another piece on "glue work" relevant
-    - Grigori
-        - mistake to think that innovation and KTLO are opposites
-        - sometimes people just want to present the dichotomy to make a point
-        - innovation is perceived as sexier than maintenance
-        - value of maintenance and value of innovation isn't clearly defined
-        - if you know the value of something, then you can use appropriate incentives to get those things done
-        - power game dynamic over budgets, resources, etc
-        - 2x2
-            - innovation
-    - Bryan
-        - sometimes chores by themselves can be worthwhile
-            - in a spiritual sense, like the rebuilding of the temple at Ice Jingu
-            - good for introducing people to a particular set of skills
-                - by eliminating chores, do we prevent people from fully developing their skills
-        - There's a budget/time/resources aspect
-            - big budgets get you fancy KTLO solutions
-            - no budgets require cobbled together solutions that just work OK
-        - Doing things for the sake of doing them (enjoyable, even if not essential) is OK if you have the resources
-            - it's like the high production value Lorecraft at companies. It's over the top but they have the cash to fund those endeavors
-        - Backstoppers vs Explorers
-            - organizations need both types. too great of an imbalance can lead to status games between maintenance and innovation
-    - Jenna
-        - nobody really pushes things forward at Yak Collective
-        - none of the existing members have the energy...do we need to find people that have the energy?
-    - Venkat
-        - many things are necessary in a long-term way
-            - vitamins (long-term) vs aspirin (short-term)
-            - if you continuously do unhealthy things you will destroy yourself
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FozOrTyxpGs.46.45%402x.png?alt=media&token=75286581-e77d-4f0a-bb43-4becb0352166)
-            - Ise Jingu is a giant vitamin
-                - lots of things become determistically necessary when you hold a particular meaning frame
-    - Sachin
-        - don't see a lot of vitamin-unecessary quadrant existing today
-            - corporations have lots of churn in terms of people, so they don't feel like it's necessary to do the long-term vitamin style work
-    - Jenna
-        - often, KTLO is the wrong word
-            - if something needs to happen and needs to be automated, just do it
-            - if it can't be automated, then it's maintenance, and don't disparage it with KTLO term
-    - Grigori
-        - people that actually exercise enjoy it
-        - people who don't, usually find it boring
-        - apply to maintenance, if you do it the right way, you won't complain about it
-        - Bryan: reminds me of backstopping
-    - Venkat
-        - to Jenna's point about innovation in YC being driven by Venkat
-            - you have to constantly be doing little experiments, you just have to realize that most things will fail, and even if it succeeds, you don't have to exercise that option
-        - at portfolio level, experiments 
-        - if you're committed to continues exploration, that commitment is a KTLO activity
-            - if you have a budget and 80% is devoted to maintenance (deterministic KTLO) the rest of the budget should be diversified across experiments
-        - "goblin mode for too long will kill you"
-        - "I think steadily doing experiments, trying new things, and doubling down on a fraction, is a vitamin at the level of individual experiments but aspirin at the level of the portfolio. It doesn't matter if this or that experiment fails or succeeds but is not doubled-down on as an option, but some yield fraction of experiments must succeed, and some further fraction of that must be doubled down on to renew/grow the org and replace what is lost through obsoloscence/entropy/decay. So at that meta level, "innovation" is a KTLO"
+        - Grigori
+            - mistake to think that innovation and KTLO are opposites
+            - sometimes people just want to present the dichotomy to make a point
+            - innovation is perceived as sexier than maintenance
+            - value of maintenance and value of innovation isn't clearly defined
+            - if you know the value of something, then you can use appropriate incentives to get those things done
+            - power game dynamic over budgets, resources, etc
+            - 2x2
+                - innovation
+        - Bryan
+            - sometimes chores by themselves can be worthwhile
+                - in a spiritual sense, like the rebuilding of the temple at Ice Jingu
+                - good for introducing people to a particular set of skills
+                    - by eliminating chores, do we prevent people from fully developing their skills
+            - There's a budget/time/resources aspect
+                - big budgets get you fancy KTLO solutions
+                - no budgets require cobbled together solutions that just work OK
+            - Doing things for the sake of doing them (enjoyable, even if not essential) is OK if you have the resources
+                - it's like the high production value Lorecraft at companies. It's over the top but they have the cash to fund those endeavors
+            - Backstoppers vs Explorers
+                - organizations need both types. too great of an imbalance can lead to status games between maintenance and innovation
+        - Jenna
+            - nobody really pushes things forward at Yak Collective
+            - none of the existing members have the energy...do we need to find people that have the energy?
+        - Venkat
+            - many things are necessary in a long-term way
+                - vitamins (long-term) vs aspirin (short-term)
+                - if you continuously do unhealthy things you will destroy yourself
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FozOrTyxpGs.46.45%402x.png?alt=media&token=75286581-e77d-4f0a-bb43-4becb0352166)
+                - Ise Jingu is a giant vitamin
+                    - lots of things become determistically necessary when you hold a particular meaning frame
+        - Sachin
+            - don't see a lot of vitamin-unecessary quadrant existing today
+                - corporations have lots of churn in terms of people, so they don't feel like it's necessary to do the long-term vitamin style work
+        - Jenna
+            - often, KTLO is the wrong word
+                - if something needs to happen and needs to be automated, just do it
+                - if it can't be automated, then it's maintenance, and don't disparage it with KTLO term
+        - Grigori
+            - people that actually exercise enjoy it
+            - people who don't, usually find it boring
+            - apply to maintenance, if you do it the right way, you won't complain about it
+            - Bryan: reminds me of backstopping
+        - Venkat
+            - to Jenna's point about innovation in YC being driven by Venkat
+                - you have to constantly be doing little experiments, you just have to realize that most things will fail, and even if it succeeds, you don't have to exercise that option
+            - at portfolio level, experiments 
+            - if you're committed to continues exploration, that commitment is a KTLO activity
+                - if you have a budget and 80% is devoted to maintenance (deterministic KTLO) the rest of the budget should be diversified across experiments
+            - "goblin mode for too long will kill you"
+            - "I think steadily doing experiments, trying new things, and doubling down on a fraction, is a vitamin at the level of individual experiments but aspirin at the level of the portfolio. It doesn't matter if this or that experiment fails or succeeds but is not doubled-down on as an option, but some yield fraction of experiments must succeed, and some further fraction of that must be doubled down on to renew/grow the org and replace what is lost through obsoloscence/entropy/decay. So at that meta level, "innovation" is a KTLO"
+    - The Networked State
+        - Reading item and prompts
+            - Saw a lot of links that hovered around the creation of new cities, so thought this would be fun.
+                - Read a summary of Balaji's The Networked State (https://thenetworkstate.com/the-network-state-in-one-thousand-words%29
+                - Describe initial reactions to the idea and any related thoughts. Any strong ideas you like? Anything you, uh, don't?
+                - Alternative if you're familiar with the book concept: read Vitalik's review of the above: https://vitalik.ca/general/2022/07/13/networkstates.html
+                - Bonus: consider the dashboard of Networked States (https://thenetworkstate.com/dashboard%29 and propose your own (hint: think of one moral differentiator that you could use to organise and grow a decentralised community around)
+        - Thoughts and comments
+            - Notes
+                - Anuraj in listen mode
+                - Grigori
+                    - Might be difficult to transition from centralised states to decentralised states now?
+                    - Talks about failure modes: the nation state's ability to impede network connectivity and slow connection to decentralised communities
+                    - How can an individual at a low level trust that there's no commitment or negotiation between nation states and decentralised communities/networked states?
+                        - What are the failure modes?
+                - Jenna
+                    - Doesn't match up with being disconnected via geography, as opposed to malicious disconnection/blocking
+                    - The feeling of reality when being connected vs being disconnected is qualitatively different
+                        - How does this work when transitioning between on and offline?
+                - Matthew
+                    - General
+                        - Aware that there's a lot of hype around the release, so picked it up as an intermediate read while I was away
+                    - Like
+                        - Opens the door for questions about the mechanics of nations, states, nation states to a much wider audience and revokes some of the taboo status associated with them
+                            - Kinda like cryptocurrency allowed the questioning of the nature of money and the proposal of alternatives
+                        - Makes the point that belonging to an imagined community should be opt-in
+                            - Not a consequence of chance (who your parents happen to be, where you happen to be born and when)
+                            - My own story, Stateless, about coming of age meaning a choice of nation states
+                            - Ada Palmer's Hives and Adult Competency exams
+                                - And the fracturing of that structure/descent back to mundane governance
+                        - The idea of using a single powerful idea to drive larger coordination and divergence
+                            - Typical nation states use vague caricatures of nation-ness, appeals to authority or history to invoke commitment and alignment
+                            - This is much more immediate, much more felt etc.
+                    - Dislike
+                        - Geopolitical crystal-balling (liable to make smart people do/say/think dumb things)
+                        - In-group or individual tech-media vendetta continuation
+                        - Overlooks a lot of the practicalities—and much of the dirty work of governance—at the nation state level (e.g. infrastructure, social care)
+                        - Not everyone is a very online person (majority excluded, which constrains success)
+                        - Reduces a nation state to a dashboard and a set of metrics
+                        - The focus on the sole founder/strongman required to kick it off
+                    - My own networked state?
+                        - Most of the existing examples are positive—van life, nature-connected or OldEuro-vibe cities, digital nomads
+                        - I'd like to see something in service of negatively impacted individuals, packs, tribes, imagined communities—political dissidents, maybe investigative journalists, halfway homes for refugees or migrants
+                - Sachin
+                    - Televangelists (and the modern church?) as an existing example of the networked state
+                        - Recruit via TV and other mediums
+                        - Exceptionally strong group belonging
+                        - Effective funding mechanisms
+                        - Have physical locations
+                    - Feels like a watered-down version of Extrastatecraft (Keller Easterling)
+                        - Cites the example of broadband networks consolidating in Africa
+                    - Different mediums will drive and birth different types of networked states
+                    - Special economic zones cited as another existing example of networked states
+                    - What is the difference between something like special economic zones etc. and the proposed idea of the networked state?
+                        - Why is it proposed as a new idea?
+                - VGR
+                    - A little bit averse because quite close to it
+                    - The vision is mostly wrong, but in an interesting way
+                    - The way to interpret is to see the origins of the person proposing it
+                    - Reproducing the "main character" energy problem
+                        - People only used to high agency propose solutions dependent on high agency
+                    - Has a longer history: began with an innocuous Balaji talk at Stanford about Silicon Valley disengaging and exiting
+                    - High agency, high power in tech; in larger arena (like media) found himself with voice problems and involved in conflict
+                    - Can't solve problems about a certain scope with engineering and innovation only, no matter how powerful, rich etc. the main characters are
+                    - Summary why he's wrong: his origin story is a bet on a wrong axiom—everything cannot be solved by exiting and building an alternative
+                        - At some point other actors/parties/stakeholders have to be acknowledged and worked with (or, worse case, war and conflict)
+                        - At a certain scale, voice starts to outcompete exit
+                    - Worth considering as a mind-expanding exercise, despite the apparent issues with the exit bias, reductionism etc.
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
