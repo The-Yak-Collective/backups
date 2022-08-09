@@ -131,8 +131,54 @@
                         - 
     6. July 25: Contd: discussion of a Junkspace and Simon articles
     7. Aug 1: stub for systems science led by maier/benjamin
-    8. Aug 8: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
-    9. Aug 15:
+    8. Aug 8: Brainstorming for Distributed Yak Infrastructure 2.0
+        - [Yak Collective IT Infrastructure](https://roamresearch.com/#/app/ArtOfGig/page/6fhTlx1p_)
+            - Prompt - Product Manager Hat. If we build a newer version what would we build
+            - Discussion
+                - [[Nathan Acks]] Explainer
+                    - Grew up organically
+                    - All Discord bots hosted on Vultr server and written in python. Mostly stateless
+                    - Website was initially using GitHub pages but now uses Netlify. Netlify builds the jekyll website
+                    - GitHub actions addition to infra would be great. Eg [Lunch-time tickets](https://github.com/The-Yak-Collective/lunchtime-tickets)
+                - [[Commits Vortex]]
+                    - The user experience on Discord is cluttered
+                    - Good to have visibility of reading lists
+                    - Difficult to track messages. If you are not embedded in the community then it difficult to jump into something
+                - [[Grigori Milov]]
+                    - Refactor the diagram for easier navigation through it
+                    - Simplify Discord Channels
+                - [[Venkatesh Rao]]
+                    - Two areas that could use creative thinking
+                        - Time Dimension of Profile pages
+                            - Profile Page on Website vs Discord 
+                            - Speed up tempo of Website
+                            - Something like GitHub acitvity/commit chart for Profile Page on Website. This gives a live sense of what people are upto in the community
+                            - Take exhaust on Discord and show on Profile on Webpage
+                        - Infrastructure simplification
+                            - Design principles on how bots should behave
+                - [[Maier Fenster]]
+                    - we have more hopes than people to do the stuff
+                    - we need people not only who build it but also people who use it in addition to people who would improve it
+                    - the infra part needs traction either from user side or builder side
+                - [[Venkatesh Rao]]
+                    - Reason for mismatch between hopes and execution could be because there it is distributed volunteer based product
+                    - New user onboarding is lacking at the moment. Difficult for them get in the community. How to onboard outsiders? 
+                    - YC is between public space and private space
+                    - yaktweet command - distributed collective twitter account
+                    - fermi gym bootstrapping and related channel
+                - [[Commits Vortex]]
+                    - Intro channel is where posts go to die
+                    - automating updates of people/members to website
+                    - sidestep whole issue of member?
+                    - prioritize ideas instead of people
+                - [[Nathan Acks]]
+                    - change website that uses exhaust from Discord
+                - [[Maier Fenster]]
+                    - what is Discord giving us? should we work somewhere else? 
+                - [[Commits Vortex]]
+                    - chorus bot similar to yaktweet
+                    - telescope bot, RMIT, annotation on post
+    9. Aug 15: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
     10. Aug 22:
     11. Aug 29: ¿guest?
     12. Sept 5: US Labor Day, NO MEETING

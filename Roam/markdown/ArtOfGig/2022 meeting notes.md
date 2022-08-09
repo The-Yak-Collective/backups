@@ -486,6 +486,8 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - July 26: [[Strawman Crowdfunded Project]] brainstorm
     - August 2nd: [[Dev Environments for Roverics]]
     - August 9th rhettg
+        - low-latency rover vide0
+        - 
     - August 16th Brian
     - August 23rd --- On the Shape of YR - Once a cycle meta discussion following https://roamresearch.com/#/app/ArtOfGig/page/yLECPNlKA
     - August 30th
