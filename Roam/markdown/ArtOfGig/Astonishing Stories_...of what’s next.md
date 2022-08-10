@@ -63,7 +63,6 @@
             - [[Johnicholas Hines]]
             - [[Zhan Li]]
             - [[Paul Sas]]
-            - [[Sumit Paul-Choudhury]] 
             - [[Hershil Patel]]
     - ## Scenario mapper
         - Trace pathways between future fragments to create scenarios, curating a collection of interesting scenarios to provide inspiration for speculative fiction. Can be done autonomously or in collaboration with others
@@ -73,7 +72,6 @@
             - [[Ben Smith]]
             - [[Paul Sas]]
             - [[Prashant Gandhi]]
-            - [[Sumit Paul-Choudhury]]
             - [[Hershil Patel]]
     - ## Speculative fiction creator
         - Take the scenarios that you find inspiring and create interesting pieces of speculative fiction around it
