@@ -308,6 +308,68 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                         - At some point other actors/parties/stakeholders have to be acknowledged and worked with (or, worse case, war and conflict)
                         - At a certain scale, voice starts to outcompete exit
                     - Worth considering as a mind-expanding exercise, despite the apparent issues with the exit bias, reductionism etc.
+    - [Why Do We Obey Rules?](https://www.newyorker.com/science/elements/why-do-we-obey-rules)
+        - Grigori
+            - distinction between rules and models
+                - in the past they were the same, but models have evolved over time
+            - thin rules v. thick rules is helpful
+                - if rules are thick and require interpretation they can't be bent in particular ways
+        - Jenna
+            - title of New Yorker review
+                - it's not why we obey, but when
+                    - important to break rules
+                    - military disregarding unjust orders
+            - are there local things for breaking rules, or are the criteria for breaking rules absolutist
+            - if you're a bureaucrat and meet a citizen, the citizen should be able to expect to be treated the same as every other citizen
+            - schmidt quote: "definition of sovereignty is getting to decide on exceptions"
+            - "radius of predictability"
+                - improving that is all we can ask for
+            - good abbott = BDFL
+        - Matthew
+            - if we were to ask what the rules of YakC are, what are they? how could they be categorized (thick vs thin)?
+            - are thick or thin rules more compatible with lean or fat systems?
+                - what happens when combining the different options?
+            - strongly implied that rules lag behind culture and norms
+                - if that's the case, why are rules established at all?
+            - rules are optional that's downstream of culture, not an immutable fact of the universe
+            - interesting asymmetry: takes magnitudes more effort to unmake a rule than to harshly enforce the rule
+        - Sachin
+            - why do some rules last longer?
+                - seems like it's because they're based on interpretations.
+                - thick rules have stronger believers
+            - rule formation
+                - a lot of conflict arise when thin rules are applied broadly in order to make things legible and easy to manage.
+                - thick rules that turn into thick rules...a lot of hot button issues today are like this
+            - radius of predictability
+                - on day to day, it's bad because rules are based on other rules who are based on other rules. hard to really know what's going on
+                - even if you figure out a rule, sometimes you miss a detail or there's someone else using a different rule so it's tough to know what's going on
+        - Venkat
+            - https://iep.utm.edu/thick-co/
+            - trad philosophers are stuck in their own heads
+                - philosophy is the art of making maps of experienced reality
+            - lean v fat, thick v thin
+                - trying to think about how thickness sheds light on modeling vs rules aspect of reality
+                    - rule saying all houses must be painted red
+                        - if you want to question the rule, you might nerd snipe w/ color theory, introduce ambiguity, etc
+                        - if that rule is interpreted as thin rule, it will have some reference or basis
+                        - models are scientific, rules are political
+                            - rules can have exceptions, given by dictator-type
+            - the anarch and monarch are sovereign by today's standards, but previously sovereignty was only given to the absolute ruler
+            - rule of law v rule by law
+                - china makes up rules and applies them, and rulers there are above the law, they are rule by law
+            - what's the role of the monarch?
+                - declaring the nature of reality
+        - Bryan
+            - Rules help legitimize a state or give a ruler sovereignty, but individuals also benefit from the certainty that rules introduce.
+                - rules of thumb, heuristics help people make decisions
+                - also brings stability, because people can make maps of the world and use them over and over.
+            - What happens when people break rules?
+                - both religion and state judicial systems recognize this and provide space for people to make amends.
+                - giving that space probably helps citizens buy into the regime. If they didn't have it, they'd be more likely to attempt a takeover
+            - Rules for unmaking
+                - why would you have rules at all then?
+        - Chat log
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Ft7EPp6RnsU.50.41%402x.png?alt=media&token=20eb1f68-3a50-46f9-bdc8-485fe1908e41)
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
