@@ -179,6 +179,37 @@
                     - chorus bot similar to yaktweet
                     - telescope bot, RMIT, annotation on post
     9. Aug 15: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
+        - Prompt - What did find interesting in the paper? 
+        - Discussion
+            - [[Anuraj R]] - timestamps for sync? trivial method?
+            - [[Ben Mahala]] - seeds of byzantine fault tolerance
+                - all nodes communicate first, and if they contacted every node 
+                - all the things that start from here and flow into the current systems
+                - if there is a crash in one node it takes down all systems, but this has been solved in today's systems
+            - [[Grigori Milov]]
+                - in the middle of article the usefullness of order of events is questioned
+                - play it local, maybe a more recent article on syncing in distributed system would give a better view
+                - what ever happends on global system does not matter until locally processed, local times scale more important? 
+            - [[Nathan Acks]]
+                - pick pockets, how they fake sensation of things on the body
+                - [[Commits Vortex]]
+                    - hand illusion, rubber hand after partition in a table, people feel illusion on the rubber hand even though it is not their real hand
+                - a lot of what the brain is doing is anticipating the events,  
+            - [[Venkatesh Rao]]
+                - new advances in databases 10 years ago - spanner system, that line of research began in this paper
+                - Paxos - first reading of the summer
+                - this is works under 
+                - the non trivialiality can be appreciated one the lack of data is known, that is a central time keeping
+                - distributed system is unnatural, eg is blind and there is baton/ball to pass on another person, how to pass the ball so that everyone gets to play with the ball
+                - trade off central time keeping and message verbosity(everyone talks to everyone)
+                - byzantine fault tolerance increase the complexity of this problem
+                - relation to physics and space-time is fascinating
+                - twitter had ordering problems, now it seems ordered, they seemed to have solved it locally
+                - Leslie Lamport MS Page - https://www.microsoft.com/en-us/research/people/lamport/publications/
+                - our brains does process events in the actual sequence? but brains constructs a simulated 
+                - https://en.wikipedia.org/wiki/Predictive_coding - puts the animal on the lowest energy path of behaviour
+                - eye and optical processing are a little ahead by speculating what is happening - eye has saccades
+                - Nvidia research using saccades in VR, walking in infinite straight line
     10. Aug 22:
     11. Aug 29: ¿guest?
     12. Sept 5: US Labor Day, NO MEETING
