@@ -1,0 +1,103 @@
+- [[August 16th, 2022]]
+    - **Twitter Blue** | Grabbed this vgr text comm-A in Twitter Blue thread view. 
+__(Twitter bought Threader and turned it into Blue » https://threader.app/ )__
+        - URL: https://twitter.com/vgr/status/1529870394034794499
+            - # Thread
+                - ![](https://pbs.twimg.com/profile_images/1558999691672440837/j2u1Ypag_x96.jpg)[🔗](https://twitter.com/vgr)
+                - [Venkatesh Rao](https://twitter.com/vgr)
+                - [@vgr](https://twitter.com/vgr)
+                - Tagging an interesting microtrend that also looks important: a “step-by-step” ethos developing momentum. A general interest in break-king illegible learning processes into their component steps and refining them. A kind of process skill mindfulness. Like 6-sigma but for learning.
+                - Exhibit A: The rise of prompt engineering
+                - Quote Tweet
+                - ![](https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg)
+                - Andrej Karpathy
+                - @karpathy
+                - Humans program each other by prompt engineering too, so it's interesting to see that form of programming becoming increasingly prevalent with computers. Programming turns into a kind of applied psychology of neural nets, biological or synthetic.
+                - Exhibit B: The unreasonable effectiveness of nudging prompt engineering down a “step by step” path
+                - Quote Tweet
+                - ![](https://pbs.twimg.com/profile_images/922432805426130944/Zv5SABlH_normal.jpg)
+                - Carlos E. Perez
+                - @IntuitMachine
+                - So mind-boggling that the main discovery in research is a specific incantation (i.e. “Let’s think step by step”).  Does anyone not recognize how insane this appears?! twitter.com/arankomatsuzak…
+                - Show this thread
+                - Exhibit C: This remarkable viral video example of step-by-step prompt engineering for teaching a human. I had no idea doing backflips could be made this legible. This makes me think even I could learn to do them in middle age, though I’m not going to try
+                - Quote Tweet
+                - ![](https://pbs.twimg.com/profile_images/1318818568763547648/Ydb24ows_normal.jpg)
+                - Dan Barton![⚽](https://abs-0.twimg.com/emoji/v2/svg/26bd.svg)
+                - @Coach_365
+                - Technical detail looks like this!
+                - ![](https://pbs.twimg.com/ext_tw_video_thumb/1515227769050996740/pu/img/5ukZ11AoByZVnx_P.jpg)
+                - Exhibit D: The accidental discovery at the
+                - [@yak_collective](https://twitter.com/yak_collective)
+                -  that good prompts are all you really need to sustain a slow and steady learning track on any subject. We’re trying to develop that into a Thing ™ (details soon…I’ll link here when we go public with it)
+                - Initially I thought “prompt engineering” should be called “magic spells” since you’re commanding illegible forces to do improbably miraculous seeming things with the right words, but this is exactly wrong. Prompt engineering illuminates and demystifies. It’s anti-magic spells!
+                - I will add: the Wordle Revolution (no longer a “fad” since a dedicated minority among us have turned it into a healthy daily habit) belongs here. A nugget of accessible step-by-step thinking to warm up a mindfully step-by-step day. I wrote this about it
+                - ![](https://pbs.twimg.com/card_img/1558179297877053440/2jD0LneV?format=jpg&name=small)[🔗](https://t.co/LJvG9Hc37o)
+                - [studio.ribbonfarm.comDerangements![🟨](https://abs-0.twimg.com/emoji/v2/svg/1f7e8.svg)![⬜](https://abs-0.twimg.com/emoji/v2/svg/2b1c.svg)![🟨](https://abs-0.twimg.com/emoji/v2/svg/1f7e8.svg)![🟩](https://abs-0.twimg.com/emoji/v2/svg/1f7e9.svg)![⬜](https://abs-0.twimg.com/emoji/v2/svg/2b1c.svg)](https://t.co/LJvG9Hc37o)
+                - Step-by-step-ism (needs a better name) is exactly the antidote we need to a bunch of unhealthy things:
+
+- vibing as a bad substitute for sense-making
+- derangement syndromes as a chronic state of mental ill-health
+- uncritical brute-force trial-and-error that learns nothing
+                - I think we’re about to discover that there are “10x teachers” and that prompting skill is fat-tailed
+
+Prompting and step-by-stepping is basically skilled teaching, whether it’s silicon or living neural nets. Except in the former you can also do some “brain surgery”
+                - Thanks
+                - [@kylemathews](https://twitter.com/kylemathews)
+                -  for reminding me of this piece. Yes, Blue Origin “gradatim ferociter” might have a moment again. I forgot I wrote this. Much as I admire SpaceX, long-term I think I trust this philosophy more, whatever the execution troubles.
+                - ![](https://pbs.twimg.com/card_img/1558425691347353601/_A5SUNSH?format=png&name=small)[🔗](https://t.co/hX2bchXetQ)
+                - [studio.ribbonfarm.comGradatim FerociterOne of my favorite phrases is gradatim ferociter, the motto of Blue Origin. It means "step by step, ferociously." The phrase helped me figure out why, despite really liking Nassim Taleb's idea of...](https://t.co/hX2bchXetQ)
+                - In general, I guess this is a swing away from both “one-shot” intuitionism where you get from A to B via a stroke of illegible genius AND away from the move-fast-break-things mode of inefficient learning where you get a high learning rate at the cost of high waste and risk
+                - A more “slow is smooth, smooth is fast” approach to mindful learning.
+                - There is also going to be a tendency to deny there us anything new here and an effort to identify this development with a favored old tradition. I’d suggest resisting that temptation. 
+
+There’s more than “Socratic method, you invented the Socratic method!” here.
+    - **Readwise** | DMd link to @readwise + `t` (or `thread`), then used Export Highlights command in app, which download a .md file
+        - # Tagging an Interesting M... by @vgr on Twitter
+            - URL: https://twitter.com/vgr/status/1529870394034794499
+                - Tagging an interesting microtrend that also looks important: a “step-by-step” ethos developing momentum. A general interest in break-king illegible learning processes into their component steps and refining them. A kind of process skill mindfulness. Like 6-sigma but for learning.
+                - Exhibit A: The rise of prompt engineering https://t.co/l4YSvNFGSq
+                - Exhibit B: The unreasonable effectiveness of nudging prompt engineering down a “step by step” path https://t.co/zJ4MsIY9GH
+                - Exhibit C: This remarkable viral video example of step-by-step prompt engineering for teaching a human. I had no idea doing backflips could be made this legible. This makes me think even I could learn to do them in middle age, though I’m not going to try https://t.co/zU3JnEePaY
+                - Exhibit D: The accidental discovery at the @yak_collective that good prompts are all you really need to sustain a slow and steady learning track on any subject. We’re trying to develop that into a Thing ™ (details soon…I’ll link here when we go public with it)
+                - Initially I thought “prompt engineering” should be called “magic spells” since you’re commanding illegible forces to do improbably miraculous seeming things with the right words, but this is exactly wrong. Prompt engineering illuminates and demystifies. It’s anti-magic spells!
+                - I will add: the Wordle Revolution (no longer a “fad” since a dedicated minority among us have turned it into a healthy daily habit) belongs here. A nugget of accessible step-by-step thinking to warm up a mindfully step-by-step day. I wrote this about it https://t.co/LJvG9Hc37o
+                - Step-by-step-ism (needs a better name) is exactly the antidote we need to a bunch of unhealthy things:
+                - vibing as a bad substitute for sense-making
+                - derangement syndromes as a chronic state of mental ill-health
+                - uncritical brute-force trial-and-error that learns nothing
+                - I think we’re about to discover that there are “10x teachers” and that prompting skill is fat-tailed
+                - Prompting and step-by-stepping is basically skilled teaching, whether it’s silicon or living neural nets. Except in the former you can also do some “brain surgery”
+                - Thanks @kylemathews for reminding me of this piece. Yes, Blue Origin “gradatim ferociter” might have a moment again. I forgot I wrote this. Much as I admire SpaceX, long-term I think I trust this philosophy more, whatever the execution troubles.
+                - https://t.co/hX2bchXetQ
+                - In general, I guess this is a swing away from both “one-shot” intuitionism where you get from A to B via a stroke of illegible genius AND away from the move-fast-break-things mode of inefficient learning where you get a high learning rate at the cost of high waste and risk
+                - A more “slow is smooth, smooth is fast” approach to mindful learning.
+                - There is also going to be a tendency to deny there us anything new here and an effort to identify this development with a favored old tradition. I’d suggest resisting that temptation. 
+                - There’s more than “Socratic method, you invented the Socratic method!” here.
+                - Oh, the big upside here is that only the *original* discovery of effective prompt patterns is a rare skill. Once discovered, others can easily copy. An ordinary gym teacher should be able to copy that clever backflip teaching method.
+                - There’s a potential for a network effect here, and good prompt patterns driving out weak ones. 
+                - And of course, a clever architecture may allow AIs to discover good prompt patterns to. PromptGAN?
+                - “Cueing” is another good aspect with subtly different connotations from prompting https://t.co/F6ImMFbmsC
+                - Also “scaffolding” https://t.co/CCIQpweTJf
+                - I have a fair amount of college teaching experience. Enough to know I’m not naturally talented at this. Once I know something, I find it hard to put myself in the shoes (motherboards?) of someone who does not know. But when I’m in a patient mood I can sort of do it okay.
+    - **Threadreader** | Has a Threadthulhu page already
+        - URL: https://threadreaderapp.com/user/vgr
+    - **A brute force method** | https://diligentiagroup.com/background-investigations/how-to-download-and-pdf-a-twitter-stream/
+    - **Vicinitas** | downloaded 2198 @vgr tweets into an Excel file, below
+        - > Export into Excel for free up to 3,200 recent tweets of any Twitter user 
+            - https://www.vicinitas.io/free-tools/download-user-tweets?tracker=%40vgr
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FyTQsFzA145.png?alt=media&token=4d41d416-1d8d-423c-b267-61ce5a6fd639)
+            - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FM6TxcgMtIy.xlsx?alt=media&token=42b75e08-2527-4bfe-80d4-63173f06a92b
+            - 
+    - **Spooler** | tool by Darius Kazemi, https://tinysubversions.com/
+        - > A tool that turns Twitter threads into blog posts that you can share.
+        - Note that Spooler wants the URL of the **last** tweet of a thread
+        - `https://tinysubversions.com/spooler/?url=https://twitter.com/vgr/status/1530607380433580037`
+    - **Twitter Print Styles** | Chrome extension
+        - https://chrome.google.com/webstore/detail/twitter-print-styles/bepilablapiogeghmjiopiaoikgdcgjo/related
+        - Used to pull a PDF of Ada Palmer thread
+            - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fvm2JIkloxn.pdf?alt=media&token=176e188b-ae12-4024-b30e-d5dbeb3911a0}}
+    - Twitter thread reader | Chrome extension
+        - https://chrome.google.com/webstore/detail/twitter-thread-reader/cbkbehonmkldgmpdpaigonchnngpbnlm/related
+        - 
+- 
