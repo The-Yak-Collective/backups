@@ -370,6 +370,110 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - why would you have rules at all then?
         - Chat log
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Ft7EPp6RnsU.50.41%402x.png?alt=media&token=20eb1f68-3a50-46f9-bdc8-485fe1908e41)
+    - [The Legacy of Hammurabi](https://law.mit.edu/pub/thelegacyofhammurabi)
+        - Grigori
+            - comparing rules and models from last week
+                - rule is cut off version of a model
+                    - we know that we need models, but instead we have rules, which are simplified versions of models.
+                    - rules say what to do, not to do
+                    - rules make assumptions of inputs and outcomes, wioth a model that describes how in translates to out
+                - why is this so?
+                    - rules are tools for social programming. todays reading references this
+                    - simple structure allows most people to avoid the details of inputs and outomes
+                    - don't think, just follow the rules
+            - following the rules
+                - two types of people
+                    - rule followers and rule composers
+                    - important to not leave out this detail
+            - somebody has to write the algorithms, and they aren't the same people who are subject to the rules, makes space for movement
+        - Bryan
+            - no mention of blockchain or smart contracts was interesting
+            - Is there space for lawlessness in all of this? Not necessarily in a malicious way, but in a new frontier kind of way
+            - there will always be people who don't want to interface with rules in the moment.
+                - guy sees flower, guy picks flower because he likes it, whether or not he knows what it is or whether its legal to posess
+            - excessive regulations - how long do people play along before the scope of automated reg is to omuch of a burden
+                - how much is too much?
+        - Sachin
+            - read a story about a doctor's algorithm for determining whether someone is receiving to many opioids.
+                - woman had dogs (dependents) receiving prescriptions under her name, so she was flagged as an abuser instead of an honest user
+            - recidivism algorithms for figuring out who likely an inmate is to commit another crime, used to decide lengths of sentence, bail price, etc
+                - supposed to remove bias from legal system, but just introduces bias from whoever wrote the algorithm
+            - computational law makes law easier to manage the complexity
+                - "I did it because the algorithm said so"
+            - encapsulated vs sysmetic complexity
+                - laws have more systemic complexity than is visible on the surface
+                - something with encapsulated complexity better candidates for algorithms
+            - decisions are already made with these systems
+                - in the future, maybe its more about understanding how to play around with the algorithm, instead of understanding how the law works
+            - Robin Hood of the legal algorithms could be a thing
+        - Venkat
+            - author is aware of blockchain but chose not to cover. possibly because comp law is a separate field with extended history
+            - valuable for blockchain people to look at this
+            - to grigori's point of "who wrote the laws"
+                - in developed authoritarian states, law is written to be illegible to average citizen, so they can never be in compliance
+                - legal systems as a whole are written with this hostile intent in mind.
+                - powerful governing authorities need to leverage against you at their discretion
+                - most of the time it won't be used against you
+                - US is example of this when it comes to small biz law
+                    - so much compliance, licensing, regulations, etc
+                    - not because a single dictator wanted rules, but instead it's bottom up
+                        - barbers wanting to introduce barriers to entry via legislation
+                - laws against self-repair
+                - as comp law grows, understanding these issues is critical
+                - worst case scenario: cabal of lawyers write self-driving car laws creating loopholes for automatic lawsuits
+                - MOre power = more law distortion
+            - delegated behaviors
+                - smart house thermostate is delegated to control HVAC
+                - could be following laws from different jurisdiction, you could be breaking a law in you locality
+            - ada palmer series
+                - she constructs nation-less world
+                - hives have hive laws
+                - people choose to be hive-less
+                    - they get to choose between 3 sets of default law
+                        - white law: altruistic
+                        - gray law: reasonable law
+                        - black law: minimal, basically an outlaw
+                - Hives can set their own laws
+                - we are probably headed in this direction
+            - connection to APIs, cloud, SaaS systems
+                - law encoded as distant cloud-based reality
+                - defined how API allows you to interact with it
+                - online gambling dependent on IP address
+        - Jenna
+            - amazed that there's a journal on comp law
+            - rules as group hypnosis moment
+                - enough people must buy in for an rules to work
+            - police need to used discretion to enforce law, but is that anything other than the road to ruin?
+            - "complexity is the enemy of understanding"
+            - john rockefeller
+                - didn't break any laws to build his empire, but they made a lot of laws because of it
+            - is there any way to not end up with more complexity than humans can handle?
+            - let's automate everything that can be automated for you
+                - always unexpected edge cases and side effects, how can we create processes to handle exceptions
+            - pubpub is a tool to explore
+        - Grigori
+            - another failure model
+                - when legal system is underdeveloped, there is a lot to fix
+                - parliament just keeps making laws and nobody has the attention span to keep up with the changes
+            - difference between physical space and metaverse is huge, they need dramatically different legal systems
+        - Venkat
+            - if things go wrong for you, and it's obviously wrong, the right to due process is an interesting fundamental
+                - indian constitution, right to constitutional remedy, one of the only rights that cannot be suspended in any emergency
+                - Karl Popper meant this in Open Societies book
+                    - premise: there are no absolute truths
+                - in an open society, there are no absolute laws, but can be resolved by a law saying you're always entitled to legal change
+        - Jenna
+            - books on founding of boston
+                - guys got charter from king of england, but nothing said it had to be in england, because england never had to deal with foreign lands
+                - OODA loops: heroes end up being the people who can find the clever workaround
+            - JD: Make good rules, not too many
+        - Venkat
+            - that's evolution at work
+            - silicon valley's whole thing is figuring out ways to work around the law in ways that nobody found before
+            - code base grows more and more
+                - over time, knowledge grows, so legal code must accomodate
+            - you lose control if laws are automated, it's not necessarily bad
+            - absolute amount of agency could grow when ceding some agency in legal realm
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
