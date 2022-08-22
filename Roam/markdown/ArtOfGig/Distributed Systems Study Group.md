@@ -12,7 +12,7 @@
     1. June 20: 
         - Discussion of Paxos: https://en.wikipedia.org/wiki/Paxos_(computer_science))
         - Brainstorm of "continents" of distributed systems
-    2. June 27: 
+    2. June 27: Discussion of Spanner https://storage.googleapis.com/pub-tools-public-publication-data/pdf/65b514eda12d025585183a641b5a9e096a3c4be5.pdf
         - Discussion of [What we talk about when we talk about distributed systems](https://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
             - Questions: 
                 - Venkat: How do you add a new trusted member?
