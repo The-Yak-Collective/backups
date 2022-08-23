@@ -491,4 +491,36 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - August 16th Brian
         - Otto update
     - August 23rd --- On the Shape of YR - Once a cycle meta discussion following https://roamresearch.com/#/app/ArtOfGig/page/yLECPNlKA
-    - August 30th
+        - Does a rover have a home?
+            - Where you're charging
+        - Motivation slowdown solutions
+            - Coworking
+                - Need at least 2h block
+                - late night energy problem for US
+                -  
+        - Year end demo thing
+            - Ambitious Eric plan??? is out
+                - Rovers on VPN
+                    - Maier+Anuraj on it
+        - Rhett: forget YE big demo, keep meetings interesting
+        - What would you like to see happening in the group?
+            - Maier: lego bricks type stuff: https://www.theverge.com/2022/8/20/23308217/lego-brick-computer-james-brown
+            - Anuraj: get sensor data from Maier's robot
+            - Anuraj+Victor: ethereum on rovers etc on VPN
+            - Venkat: true roving
+            - Brian: rover in crawlspace
+        - 
+    - August 30th 
+        - Whole session on side quests and yak shaves
+            - Anuraj -- Yocto meta-linux (build embedded linuxes)
+- Mars
+    - Sept 6: no session/labor day/venkat and brian out
+    - Sept 13: Brian
+    - Sept 20: Anuraj
+    - Sept 27 Rhett
+    - Oct 4: Venkat
+    - Oct 11: Maier
+    - Oct 17
+    - Oct 23: Retrospective?
+- Venus 
+    - Oct 30
