@@ -474,6 +474,71 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - over time, knowledge grows, so legal code must accomodate
             - you lose control if laws are automated, it's not necessarily bad
             - absolute amount of agency could grow when ceding some agency in legal realm
+    - [The Not So Wild, Wild West](https://mises.org/library/not-so-wild-wild-west)
+        - Venkat
+            - skeptical of low homicide rates
+            - pulp printing's first big genre was westerns. gave the idea of the west as a violent, lawless place
+                - less culture of fact-checking
+                - fictional representation stuck
+        - Sachin
+            - been watching shows about creation of FBI
+                - interesting to see the evolution of crime
+                - FBI was underdog in the 1920s, but over time they become more positive of the gangsters
+            - uncap, how property rights come into play
+            - Sarah Perry, Frontierland piece
+                - lore of the frontier is different from how it was originally defined by Frederick Turner
+        - Grigori
+            - missing some kind of basis for comparison
+            - if it wasn't so wild, what was?
+                - something european, what were the murder rates in London in a given year during the same time period.
+            - keeping track of crime is a function of the state. no state, no records.
+                - would skew stats
+            - doesn't agree w/ article's definition of anarchy
+        - Dave
+            - has family that lived in Wild West, they used to just murder people
+        - Bryan
+            - Rule makers have incentive for focusing on lawlessness...creates authority
+            - "demand for law and order" spoken like true economists
+            - Curious about frontiers in other places and times
+                - even the western US frontier had Natives with their own governance systems before this time (Iroquois Nation, etc)
+                - Path dependence
+                    - America was a young democracy, focused on individual and property rights.
+                    - in feudal times, a king would've instead allotted the frontier, and the land use would've been different, more coordinated, etc
+                        - they had different views of ownership and utility
+                    - Quasi-government becomes government
+        - Jenna
+            - are people mostly good?
+                - probably, but there are monsters
+                - the monsters are interesting, we tell the stories about them instead of the good guys
+            - every human system seems to fail...is it just because we aren't good enough
+        - Sachin
+            - reminded of Carrier Bag Theory of Fiction
+                - we grow used to things, and we but those things in our bags
+        - Venkat
+            - not everything that was murder would've counted as murder
+            - Deadwood
+                - before Bullock becomes effective sheriff, town is run by a saloon owner, who controls the mining industry indirectly, mostly by killing people and presenting it as not-a-murder
+                - even if there's no law and order, you have an incentive to not claim it as murder
+            - Capacity for violoence
+                - everyone was armed
+                - people were leaving civil war and aggressive
+            - stories from Victorian london
+                - Jack the ripper, etc
+                - policing in London took 100 years to grow effective
+                - we don't think of this place and time as violent because the storytelling bias is different
+                    - stories mostly about the middle class
+                    - Charles dickens poor characters experienced violence
+            - article is spinning violence
+                - trying to make ancap-ism seem more violent than it is
+                - hard to believe that lack of core organizing principles could work
+            - find another reading that challenges this interpretation of history
+        - Jenna
+            - The Distant Mirror (Tipman?)
+                - in the past, you couldn't grow up without being broken
+                - would we be able to recognize the people in the past
+        - Venkat
+            - 14th century children were raised to be psychopaths
+                - sort of had to be that way to make it to adulthood
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
