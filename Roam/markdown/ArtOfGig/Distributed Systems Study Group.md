@@ -8,11 +8,52 @@
 - There is interest in creating a prompt-school type track around this, and we will be trialing this over the summer.
 - Resources/references: Please add links etc. under this bullet
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
+- Previously: **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
 - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
-    1. June 20: 
+    1. June 20: : Beyond Blockchain: Paxos and Broader Distributed Systems __
         - Discussion of Paxos: https://en.wikipedia.org/wiki/Paxos_(computer_science))
         - Brainstorm of "continents" of distributed systems
-    2. June 27: Discussion of Spanner https://storage.googleapis.com/pub-tools-public-publication-data/pdf/65b514eda12d025585183a641b5a9e096a3c4be5.pdf
+        - Prompt:  If we were to make a figurative map of distributed systems, what would 3 continents be?
+            - State replication v non-state replication
+            - Algos meant for computer v algos suited to be applied in human contexts
+            - Ben
+                - 1) 1 to 1 vs. groups (A direct encrypted message (maybe PGP) vs. Mastodon /
+cwtch or Element)
+
+                - 2) Global State Replication vs. Fractured State (Paxos vs. Bittorrent, ZeroNet)
+
+                - 3) Insitituional Integrataion vs Economic Integration  (Google Internal
+Paxos-like systems vs Bitcoin and Ethereum)
+            - Commits
+                - concentric circles of proxemity
+                    - P2P
+                    - Federated
+                    - Serverless
+                    - Edge Computing
+            - Jenna
+                - islands on the distributed systems map 
+
+                - self-organizing systems
+
+                - participatory management
+                - decentralized governance
+
+                - remote work
+
+                - __really more a venn diagram thing for me__
+            - Maier
+                - island of systems pretending to be distributed
+continent of total mess with random waves
+sea of reforming systems
+land of the stable systems with only local behavior
+ocean of meme storms and basic stable structure
+but consider - is what is being sent data or programs?
+            - Venkatesh
+                - Realtime / soft-realtime (north south axis)
+                - Genisis: Top-down design v emergent design
+                - When we agree on something we tend to be converging on a future we are seeing
+                - Big continent of consensus reality v archipelago of marginal and fractures proposals
+    2. June 27: Distributed systems exploration and lexicon brainstorm
         - Discussion of [What we talk about when we talk about distributed systems](https://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
             - Questions: 
                 - Venkat: How do you add a new trusted member?
@@ -28,7 +69,7 @@
         - Prompt: Come up with ONE question about distributed systems that you don’t know the answer to, either social or technical . Plus general comments about the reading.
         - Prompt: Based on what you know, add as many terms as you can in 15 minutes to the [[Distributed Systems Map and Lexicon]] lexicon section. Both technical and non-technical terms invited.
     3. July 4: No meeting, US July 4th
-    4. July 11: Something more social sciency
+    4. July 11: Vitalik Buterin: [Quadratic Payments](https://vitalik.ca/general/2019/12/07/quadratic.html)
         - Article - Quadratic Voting
             - https://vitalik.ca/general/2019/12/07/quadratic.html
         - Discussion
@@ -78,7 +119,7 @@
                     - does not mean we should give up on this, but good to know there are limits to this system
                     - EIP-1599 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md
                     - Delegation is also important thing to look at, Liquid Democracy
-    5. July 18: 
+    5. July 18:  Junkspace and Simon articles
         - Articles
             - https://maurann.com/assets/readings/koolhaas-rem_junkspace.pdf
                 - Discussion
@@ -130,7 +171,7 @@
                         - multiverses for these maps, visualization of maps of distributed consensus works
                         - 
     6. July 25: Contd: discussion of a Junkspace and Simon articles
-    7. Aug 1: stub for systems science led by maier/benjamin
+    7. Aug 1: Systems theory discussion led by maier/benjamin: SOMEONE ADD LINKS??
     8. Aug 8: Brainstorming for Distributed Yak Infrastructure 2.0
         - [Yak Collective IT Infrastructure](https://roamresearch.com/#/app/ArtOfGig/page/6fhTlx1p_)
             - Prompt - Product Manager Hat. If we build a newer version what would we build
@@ -210,10 +251,11 @@
                 - https://en.wikipedia.org/wiki/Predictive_coding - puts the animal on the lowest energy path of behaviour
                 - eye and optical processing are a little ahead by speculating what is happening - eye has saccades
                 - Nvidia research using saccades in VR, walking in infinite straight line
-    10. Aug 22:
-    11. Aug 29: ¿guest?
+    10. Aug 22: Discussion of the [Google Spanner system](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+    11. Aug 29: [Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
     12. Sept 5: US Labor Day, NO MEETING
     13. __Sept 12: Fall planning__
+        - Review of readings of summer/general reactions
         - Some sort of capstone event/and or publication?
         - Decision on if/how to go DAO
 - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
@@ -232,3 +274,5 @@
     13. Dec 12: Likely annual meeting week... with reporting opp
     14. Dec 19:
     15. Dec 26: Boxing Day, NO MEETING 
+- Hopper -- articles we could read
+    - 
