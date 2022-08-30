@@ -253,6 +253,39 @@ but consider - is what is being sent data or programs?
                 - Nvidia research using saccades in VR, walking in infinite straight line
     10. Aug 22: Discussion of the [Google Spanner system](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
     11. Aug 29: [Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
+        - Discussion
+            - [[Maier Fenster]]
+                - Distinction between evil vs faulty
+                - What is the cost of assuming a faulty computer is randomly bad vs evily bad
+                - what a blockchain would look like without blockchain with a central ledger
+            - [[Anuraj R]]
+                - Human and computing distributed systems
+            - [[Venkatesh Rao]]
+                - Impact of Leslie Lamport
+                - LaTeX guy image of Leslie Lamport
+                - what happens when adversarial teams responding to each other but instead everyone does their own thing
+                - economy is independant agents taking actions for thier own benefits
+            - [[Nathan Acks]]
+                - signing messages made the problem easier 
+                - unreliability of generals -> how to solve
+            - [[Ben Mahala]]
+                - where the cracks are from reality creeps in. P387 a solution with oral messages
+                - with signatures if the messages are sent then lying becomes impossible
+                - if you say nothing or somone being censored looks the same to third party
+                - meta problem, lamport assumes that everyone assumes that it is a battle
+                    - everyone has the genesis block
+            -  Open Floor
+                - [[Maier Fenster]] synergy between this paper and end to end encryption
+                - https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+                - Tit for Tat evolutionarily stable system
+                - [[Venkatesh Rao]] 
+                    - a small group of good players in the ecosystem and its effects and the feedback and virtuous cycle of good players. effect of vicious cycle of bad players
+                    - unaligned also looks like unreliable eg Yak Collective
+                    - in the animal world if something away then it comes back it is treated as normal - wind in the willows
+                - [[Maier Fenster]]
+                    - byzantine generals vs byzantine empire, someone being evil vs sophisticated prisoner's dilemma
+                - [[Nathan Acks]]
+                    - 
     12. Sept 5: US Labor Day, NO MEETING
     13. __Sept 12: Fall planning__
         - Review of readings of summer/general reactions

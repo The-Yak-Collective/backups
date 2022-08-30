@@ -511,6 +511,22 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
             - Brian: rover in crawlspace
         - 
     - August 30th 
+        - Rhett -- motor controllers with hall effect inputs
+            - Jascha: Dynamixel http://www.dynamixel.com/whatisdxl.php
+            - S-bus: https://github.com/uzh-rpg/rpg_quadrotor_control/wiki/SBUS-Protocol
+        - Kitchen robotics sidebar
+            - Spice robot -- using dynamixel to do current-limited force gripper instead of spring-loading to prevent overloading
+            - Rotimatic
+            - Dosa printer
+            - Clover
+        - General domestic robotics
+            - Oto sprinkler: https://otolawn.com/
+            - Labrador robot for assistive: https://labradorsystems.com/ 
+            - Moley robotics: https://moley.com/
+            - Bumblebee https://bumblebeespaces.com/
+        - Retrofit value vs. codesign
+        - Humanoid form factor vs. cat/ladybug/roomba etc
+        - How long does infrastructure last, how quickly tech changes?
         - Whole session on side quests and yak shaves
             - Anuraj -- Yocto meta-linux (build embedded linuxes)
 - Mars
@@ -522,5 +538,7 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - Oct 11: Maier
     - Oct 17
     - Oct 23: Retrospective?
+    - Hopper
+        - Coworking session on interface for all types of robots
 - Venus 
     - Oct 30
