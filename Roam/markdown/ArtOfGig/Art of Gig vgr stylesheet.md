@@ -1,0 +1,23 @@
+- gigwork is 1 word
+- saw a nuanced version of the hyphenate adjective phrases rule: only do it when the phrase is a noun and a participle together. I'll have to think about it... I've mostly hyphenated consistently with following rules
+    - hyphenate some noun phrases and compound words by convention, even when not an adjective form
+    - hyphenate adjective phrases unless it looks too awkward
+    - in a series of related compound adjective phrases with the same last word, use the A-, B-, C-D X model
+    - don't hyphenate adjective phrases with a modifier ending in ly (eg: "highly contagious disease"... what do you call these adverbs used as adjectives?)
+- hyphenation examples
+    - Solve for industry-level questions, not organization- or world-level answers.
+    - self-image is a compound noun, hyphenated even when not an adjective
+    - No hyphen in "Grinder selection effects" 
+- Checklist of cases where I have some confusions
+    - long-term/long term, short-term/short term
+    - bad-actor/bad actor, good-actor/good actor
+- Both volumes global checks
+    - Newsletter, issue, week
+    - vs versus
+    - U.S United States
+    - there's (with the smart apostrophe?) replace with there are... decided to drop the idiomatic conversational style
+    - no capitalization after colon I think...
+    - check for overuse of sort of
+    - check for common repeated words
+        - the the
+        - because because
