@@ -539,6 +539,92 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
         - Venkat
             - 14th century children were raised to be psychopaths
                 - sort of had to be that way to make it to adulthood
+    - [Book Review: The Secret of Our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
+        - Bryan
+            - we've lost a lot of local knowledge to global knowledge
+            - the three patterns of cultural transmission aren't celebrated today
+                - we have a distrust of experts
+                - there's a fetish with youth
+                - diversity is a pillar
+            - we're in a period of questioning everything
+                - critical analyusis of culture is everywhere
+                - we don't really take cultural assumptions at face value
+            - question: how do we properly shepard culture so that it evolves at an appropriate pace?
+        - Grigori
+            - Culture not coded properly
+                -  rules and taboos don’t contain sufficient information
+            - to transmit culture
+                - you need a leader, someone who is trusted
+                - you don’t want to ignore directions
+            - in culture, most causes and effects are very unclear
+                - effects can come back a long time after the cause
+                - Culture needs top down AND bottom up
+        - Jenna
+            - the joy of a detailed book review for efficiency
+            - imitation: surprised mirror neurons didn't come up.
+                - hypoth: those are why we're good at mimesis
+                - can't imitate each other the same online v IRL
+            - ongoing question
+            - collaboration v cooperation v competition
+            - a growing sense of niceness and compassion for each other is the underlying driver for whether things get better
+            - 100 object collection for after the apocalypse (need link?)
+                - how do we make the world again?
+        - Sachin
+            - caribou example has been disproven
+            - doubting the narrative of cause-effect of culture
+            - familial taboo around food that he still follows instinctively
+            - Chesterton's fence
+                - don't get rid of things until you know why they exist
+                - applies to a lot of modern systems
+                    - when you join a new company, you have so many questions about why things are
+                    - first instinct is abandon those things or evolve them
+                    - but those things could be embedded in fabric of org
+            - need authority, need to see other people doing the same thing
+            - He came to US on regular permanent visa, which few people go through the trouble of doing, but he knew lots of people who'd already done it, so it felt reasonable for him to do
+                - things are publicly knowable, but there's a lot more to understand something intuitively
+        - Venkat
+            - why and how cultural evolution transmission would've changed in the last century
+                - the three mechanisms
+                    - old people, experts, people like you
+                    - speed of change has happened so fast that it's intragenerational instead of intergenerational. you can't learn from yourself 20 years ago. those behaviors are no longer adaptive
+            - self-consciously imitate someone younger
+                - cache invalidation
+                - learned behaviors can be dropped, new ones can be picked up
+            - people like you have the same problems as you
+                - we all live in isolated villages
+                - but we've all moved to environments that are completely different from villages
+                - your life can be dependent on non-local things (like chinese supply chains)
+                - causal pattern behind of adaptiveness of seeking diversity
+                - the definition of who is like you has shifted
+                    - no longer demographic-based, but lifestyle or abilities-based
+                - editor's note: this is the whole basis for the yak collective
+            - expertise in the sense of smart, educated, credentialed people doesn't make sense
+                - expertise in cultural aspect is learning from a long history of humans
+                - reversion to older patterns
+                    - credentialed, downloaded education + patched has shifted to a system more like looking around you and seeing who's plugged themselves into modern traditions
+                    - he's a blogger, and knows the whole ecosystem well, but it's all unconscious and basically useless. it's hard to teach too
+                - expertise is being immersed in the right place in time
+            - review feels like an overcompensation for the Rationalist ethos
+            - everything has accelerated, which means basis for cultural evolution has shifted
+                - you can't afford to let evolution become unconscious
+                - ask how exactly is evolution going on?
+                    - what's hangover?
+                    - which parts make sense today
+                    - double down on what makes sense
+        - Links from voice-meta chat
+            - venkat
+                - https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/
+                - https://en.wikipedia.org/wiki/We,_the_Navigators
+                - https://twitter.com/oshanjarow/status/1564362568080281602?s=21&t=QREZ7CA-lom9qhm6rk_vOw
+                - https://twitter.com/vgr/status/1565497903061209088?s=21&t=QREZ7CA-lom9qhm6rk_vOw
+            - Anuraj
+                - https://phys.org/news/2020-08-termite-fishing-chimpanzees-clues-evolution-technology.html
+                - https://twitter.com/NicoleBarbaro/status/1296808913044566016?s=20&t=-2lV5ZJWmyfnjQsbKLmNbw
+                - https://twitter.com/NicoleBarbaro/status/1296810231645626369?s=20&t=-2lV5ZJWmyfnjQsbKLmNbw
+            - Jenna
+                - https://twitter.com/JoHenrich
+                - https://www.thetimes.co.uk/article/joseph-henrich-interview-the-anthropologist-who-says-its-westerners-who-are-the-weirdos-9xcj57zk8
+                - https://www.tandfonline.com/doi/abs/10.1080/2153599X.2021.1991462?journalCode=rrbb20
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas

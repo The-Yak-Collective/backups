@@ -1,48 +1,52 @@
-- __gigwork__ is 1 word
-    - other specific words
-        - __predefined__
-        - __self-image__ as noun and adj.
-        - __ex__
-- __So__ as a sentence igniter: minimize #jrd
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0dyKQ1UB1A.png?alt=media&token=915dd766-b307-48d6-acba-d0cc204e8d68)
-    - 
-- saw a nuanced version of __the hyphenate adjective phrases rule__: only do it when the phrase is a noun and a participle together. I'll have to think about it... I've mostly hyphenated consistently with following rules
-    - hyphenate some noun phrases and compound words by convention, even when not an adjective form
-        - __ex__
-        - __ex__
-        - __ex__
-    - hyphenate adjective phrases unless it looks too awkward
-        - __ex__
-        - __ex__
-        - __ex__
-    - in a series of related compound adjective phrases with the same last word, use the A-, B-, C-D X model
-        - __ex__
-        - __ex__
-        - __ex__
-    - don't hyphenate adjective phrases with a modifier ending in ly
-        - eg: "highly contagious disease"... what do you call these adverbs used as adjectives?
-            - __intensifiers__, but not widely used
-            - https://www.grammarly.com/blog/adverb/
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FNn2gstLO-k.23.19%20PM.jpg?alt=media&token=d9a8c3bc-68ee-4ddc-b3bd-9fddb9d9b9c9)
-        - __ex__
-        - __ex__
-- hyphenation examples
-    - Solve for __industry-level questions__, not __organization-__ or __world-level answers__.
-    - __self-image__ is a compound noun, hyphenated even when not an adjective
-    - No hyphen in __grinder selection effects__
-- Checklist of cases where I have some confusions
-    - {{[[TODO]]}} long-term/long term, short-term/short term
-    - {{[[TODO]]}} bad-actor/bad actor, good-actor/good actor
-        - j: these both have to do with whether used as a noun v. as an adjective. Hyphenated as adj.
-- Both volumes global checks
+- Specific words and phrases
+    - __But__ as a sentence igniter: use sparingly #jrd
+    - __decision-making__
+    - __gigwork__ is 1 word
+    - __predefined__
+    - __self-image__ with hyphen both as n. and adj.
+    - __So__ as a sentence igniter: use sparingly #jrd
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0dyKQ1UB1A.png?alt=media&token=915dd766-b307-48d6-acba-d0cc204e8d68)
+- 1-sentance paragraphs: use sparingly #jrd
+- Hyphenation
+    - saw a nuanced version of __the hyphenate adjective phrases rule__: only do it when the phrase is a noun and a participle together. I'll have to think about it... I've mostly hyphenated consistently with following rules
+        - hyphenate some noun phrases and compound words by convention, even when not an adjective form
+            - __ex__
+        - hyphenate adjective phrases unless it looks too awkward
+            - __ex__
+        - in a series of related compound adjective phrases with the same last word, use the A-, B-, C-D X model
+            - __ex__
+        - don't hyphenate adjective phrases with a modifier ending in ly
+            - eg: "highly contagious disease"... what do you call these adverbs used as adjectives?
+                - __intensifiers__, but not widely used
+                - https://www.grammarly.com/blog/adverb/
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FNn2gstLO-k.23.19%20PM.jpg?alt=media&token=d9a8c3bc-68ee-4ddc-b3bd-9fddb9d9b9c9)
+            - __ex__
+            - __ex__
+    - hyphenation examples
+        - Solve for __industry-level questions__, not __organization-__ or __world-level answers__.
+        - __self-image__ is a compound noun, hyphenated even when not an adjective
+        - No hyphen in __grinder selection effects__
+    - Checklist of cases where I have some confusions
+        - {{[[TODO]]}} long-term/long term, short-term/short term
+        - {{[[TODO]]}} bad-actor/bad actor, good-actor/good actor
+            - j: these both have to do with whether used as a noun v. as an adjective. Hyphenated as adj.
+- Lists
+    - avoid for long paragraphs where possible
+    - lowercase where not complete sentences and no ending punctuation
+- Links
+    - edit out __https://__ in the display
+- Global checks
+    - __Sections__, not __Parts__
+        - {{[[DONE]]}} AG1
+        - {{[[TODO]]}} AG2
     - {{[[TODO]]}} Newsletter, issue, week
-        - {{[[TODO]]}} AG1
+        - {{[[DONE]]}} AG1
         - {{[[TODO]]}} AG2
     - {{[[TODO]]}} vs versus
-        - {{[[TODO]]}} AG1
+        - {{[[DONE]]}} AG1
         - {{[[TODO]]}} AG2
     - {{[[TODO]]}} U.S United States
-        - {{[[TODO]]}} AG1
+        - {{[[DONE]]}} AG1
         - {{[[TODO]]}} AG2
     - {{[[TODO]]}} there's (with the smart apostrophe?) replace with there are... decided to drop the idiomatic conversational style
         - {{[[DONE]]}} AG1 2022-09-01/jrd
@@ -51,13 +55,13 @@
         - {{[[DONE]]}} AG1 2022-09-01/jrd. __spotchecked with search, only found a couple__
         - {{[[TODO]]}} AG2
     - {{[[TODO]]}} check for overuse of __sort of__ and __some sort of__
-        - {{[[TODO]]}} AG1
+        - {{[[DONE]]}} AG1 #jrd only a few
         - {{[[TODO]]}} AG2
     - {{[[TODO]]}} check for common repeated words
-        - {{[[TODO]]}} the the
+        - {{[[TODO]]}} the ~~the~~
             - {{[[DONE]]}} AG1 2022-09-01/jrd
             - {{[[TODO]]}} AG2
-        - {{[[TODO]]}} because because
+        - {{[[TODO]]}} because ~~because~~
             - {{[[DONE]]}} AG1 2022-09-01/jrd
             - {{[[TODO]]}} AG2
             - 
