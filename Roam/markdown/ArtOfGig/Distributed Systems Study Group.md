@@ -287,12 +287,12 @@ but consider - is what is being sent data or programs?
                 - [[Nathan Acks]]
                     - 
     12. Sept 5: US Labor Day, NO MEETING
-    13. __Sept 12: Fall planning__
+    13. Sept 12: Vinay/social software
+- **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
+    1. Sept 19:
         - Review of readings of summer/general reactions
         - Some sort of capstone event/and or publication?
         - Decision on if/how to go DAO
-- **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
-    1. Sept 19:
     2. Sept 26:
     3. Oct 3:
     4. Oct 10:

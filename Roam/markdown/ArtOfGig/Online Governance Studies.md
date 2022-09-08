@@ -54,7 +54,7 @@
             - Blood vessel analogy is poor because there are certain constraints we inherit from nature. 
             - Important distinction re:biology is the bits about transforming ecosystems and continual growth, not some ideal state
             - The stuff about habits is good, especially in goblin mode. What can be done to keep the ball in play? Yak collective is pretty good about this wrt meeting formats, consistency, automations, etc
-            - Participation, not engagement. Engagement feels dirty, like it's about marketing and ignores the fact that organizations should be two way, not one way. Participation should be the goal...are people showing up to hash things out, even if they aren't completely satisfied?
+            -  Participation, not engagement. Engagement feels dirty, like it's about marketing and ignores the fact that organizations should be two way, not one way. Participation should be the goal...are people showing up to hash things out, even if they aren't completely satisfied?
             - Being a Shepard/delegate that's responsible for success feels like it's getting into BDFL mode.
         - Venkat
             - once heard David Allen talk about GTD, researcher in Antartica, built around surviving in extreme environments, if things change there's immense stress. Goblin mode zombies have to do really heavy things in order to survive
