@@ -625,6 +625,88 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - https://twitter.com/JoHenrich
                 - https://www.thetimes.co.uk/article/joseph-henrich-interview-the-anthropologist-who-says-its-westerners-who-are-the-weirdos-9xcj57zk8
                 - https://www.tandfonline.com/doi/abs/10.1080/2153599X.2021.1991462?journalCode=rrbb20
+        - 
+    - [On Hartmut Rosa and the Acceleration of Social Change in Modernity](https://jhiblog.org/2019/01/23/on-hartmut-rosa-and-the-acceleration-of-social-change-in-modernity/)
+        - Venkat
+            - https://theconvivialsociety.substack.com/p/the-paradox-of-control
+                - resisting acceleration
+                - Hannah Arendt-ish
+                - Analysis is solid but not strongly original
+                    - conventional wisdom
+                    - hard to reduce this to practice
+            - Spiritually in Ivan Illich Convivial lines of thinking
+                - not convinced that acceleration is bad, including socially
+                - intergenerational things might not be good
+                - acceleration is stressful
+                    - can be managed though
+                    - no effective response
+            - Catastrophic ways out might be the only way to stop acceleration
+        - Sachin
+            - you become more unhappy looking for a solution to accelerationism
+            - https://jonathanrexallen.wordpress.com/2013/06/30/hegels-unhappy-consciousness/
+            - frenetic standstill is academic term for goblin mode
+            - lots of these ideas are like Twitter memes
+            - Discomfort around uncertainty
+                - in the west, everything was predictable, but has changed in the last decade
+                - must be a way to become more comfortable with uncertainty
+                - doing things proactively instead of under bad circumstance
+            - venkat's thread about looking to your own past for guidance on how to act in the present
+                - feels true
+                - advice is often useless 
+        - Matthew
+            - prefers the term "motion" over acceleration
+                - feels more neutral
+                - acceleration assumes forward motion, progression
+            - Thomas (Nail?)
+                - goes through history and slices it into eras
+                    - cetripedal motion - coming in
+                    - centrifugal - going out
+                    - (editor: didn't follow the rest)
+            - liquid modernity, flow-like concept
+            - alienation in modern culture
+                - rate of change experienced by individual vs group
+                - cultures are changing faster than the individual can?
+                - or have individual and culture been decoupled and moving at different rates?
+            - stamping out acceleration altogether, vs. stepping away from acceleration and hold on for dear life.
+            - redistribute motion between individual and group
+            - we're exposed to lots of information, does that effect how we experience the rate of change?
+        - Jenna
+            - https://www.goodreads.com/quotes/9900497-the-bad-news-is-you-re-falling-through-the-air-nothing
+                - "The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is, there’s no ground."
+            - useful to have early adopters and laggards
+                - always makes sure we push things forward while having survivors
+            - some people deal with rug pulls better than others
+            - "life is one rug pull after another. it gets easier the sooner you learn to make peace with that"
+            - fluid in your conception of work and life, accepting change
+        - Grigori
+            - acceleration is not necessarily bad
+                - it's neither good or bad, actually
+                - going to happen whether you like it or not
+            - communist manifesto says basically the same thing as this reading
+            - it's just more comfortable to live in a stable environment, but it's not a given
+            - success is legible, we can see when people are doing big, important things
+            - what can we do?
+                - condition ourselves to be more comfortable w/ acceleration
+                - OR become a force of acceleration and carry forward other people with us.
+                - focus more on doing things that are actively new.
+                - don't reduce any motion to something null
+        - Dave
+            - governance is critical to managing acceleration
+            - push and pull technologies help with the governance
+            - "change that you want at the speed that you want"
+            - Meta has to keep reimagining themselves
+                - not just for fun, but out of necessity
+        - Bryan
+            - What are we accelerating towards?
+                - likes Matthew's framing of motion instead
+                - reminded of Danes vs. Saxons, where Saxons were obviously technologically superior, and everyone knew it
+                    - also: printing press, internet, other innovations where there was hyperacceleration
+            - Lots of focus on the tools and systems enabling accelerations, not much on the actual people/groups pushing on the accelerator
+                - Gutenberg vs. Luther, who made the bigger impact?
+            - Could continous motion (without visible forward progress) be the antidote to acceleration?
+                - Ise Jingu, Bangladeshi Charlands
+                    - people who habitually rebuilding their environments, so they're always doing something, but never really going anywhere.
+    - 
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
