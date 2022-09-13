@@ -288,6 +288,57 @@ but consider - is what is being sent data or programs?
                     - 
     12. Sept 5: US Labor Day, NO MEETING
     13. Sept 12: Vinay/social software
+        - Read
+            - A group is its own enemy https://web.archive.org/web/20040415062627/http://shirky.com/writings/group_enemy.html
+        - Prompt: why most social software fails with groups (many-to-many interactions)?
+        -  Discusssion
+            - [[Meredith Noelle]]
+                - people dont write social software anymore
+                - cashapp: social dynamics within a functional app
+                - how web3 changes group dynamics
+            - [[Nathan Acks]]
+                - reminds of philosophy behind experimental social networks
+                - choose a server of your own values : mastodon servers
+                - public square is becoming less good than it was before
+            - [[Ben Mahala]]
+                - medieval town square was the one public space
+                - limited public space in meatspace vs inifinite group space on the internet
+                - groups need member-trimming and membership criteria
+                - multiple moderators
+            - [[Commits Vortex]]
+                - scale is the key thing
+                - social stickiness is interesting from voice/exit lens
+                - dead discord servers
+                - these patterns are persisting - see them in many communities that go dead (discord servers)
+            - [[Grigori Milov]]
+                - doesnt take the prompt for granted
+                - software doesnt fail, groups fail
+                - groups need structure
+                - default structure is hierarchy
+            - [[Jenna Dixon]]
+                - early web context
+            - [[Maier Fenster]]
+                - doesnt reflect the experience at Yak Collective
+                - havent spotted the 3 mentioned negative patterns
+                - what are we doing right at YakC?
+                - group defending against attempts to do what the group was not supposed to do
+                - 
+            - [[Vinay Débrou]]
+                - not every software is made for many-to-many interactions
+                - Dunbar limit for dense subgraph (tight-knit communities) : around 150 people
+                - Density: scaling and density(of edges) of social graph doesn't go together
+                - there is a always an emergent core group: visibly recognized for their effort/commitment as members vs users
+                - Structure: need for a constitution/governance structure that rolls out the values charter: additional power to the more committed core group
+                - member rights, user rights
+                - social software: need to understand social context (take advantage of it and be ready for the emergent challenges) and design for the social patterns as much as technological affordances
+                - identity : emergent reputations not designed ones
+                - member level recognition
+                - positive gatekeeping for higher powers in group-- porous membranes
+            - Resources:
+                - https://en.wikipedia.org/wiki/Dense_subgraph
+                - https://medium.com/@vinaydebrou/network-of-free-agent-clusters-nofac-d646598a98da
+                - https://www.robinsloan.com/notes/home-cooked-app/
+                - https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/
 - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
     1. Sept 19:
         - Review of readings of summer/general reactions
