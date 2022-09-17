@@ -706,7 +706,53 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
             - Could continous motion (without visible forward progress) be the antidote to acceleration?
                 - Ise Jingu, Bangladeshi Charlands
                     - people who habitually rebuilding their environments, so they're always doing something, but never really going anywhere.
-    - 
+    - [Impact Networks](https://www.fwb.help/wip/impact-networks)
+        - **Impact Networks**
+            - sachin
+                - network leadership model isn’t surprising
+                    - modern companies work in this hub-and-spoke manner
+                        - are they decentralized?
+                - you don’t hear a lot about amazon’s executive team
+                    - clones of Jeff Bezos, with similar framework of thought
+                    - they’re network leaders
+                - decentralized orgs are different
+                    - instead of everyone alignment, if you have network leaders that are loosely aligned but pursuing their own things, that’s a good model for decentralization
+                - avoiding authoritative decision making, critical hubs
+                    - feels unavoidable regardless of whether network is centralized or decentralized
+                    - there are people that, if removed from network, the network falls apart
+                    - something cannot emerge from nothing
+                - a lot of writing in this space casts hierarchy as a problem
+            - Grigori
+                - this is pretty obvious by now, yet we don’t do it the way the author describes
+                    - applies to a lot of network orgs
+                    - easy to read, hard to implement
+                - no evidence that hub and spoke to network org is even possible, no examples
+                - strong pull in hierarchical structure
+                    - if you are top or center of hub, there are a lot of personal risks in ceding authority
+                    - multi-hub
+                        - every person here feels the same way…not wanting to give up authority
+                - There are good hierarchies that do things right
+                - if you are undecided between hierarchy and network, nothing good happens
+                - amazon isn’t a multihued, it’s a well-functioning hierarchy
+            - Dave
+                - agree w/ grigori about easy pull to hierarchy
+                - always a power curves, someone is always much much better than everyone else
+                - written to people who are just going over the basics
+            - Bryan
+                - it’s not hierarchy vs network, it’s both
+                    - hierarchy naturally happens, it should be embraced, and those with authority would be wise to be good network leaders
+                - the question is, how do you create strong networks? it seems like a lot of networks are very weak, and therefore not all that useful
+                - without hierarchy, you end up with lots of peer-to-peer competition for status, which distracts from the objectives.
+                    - having managers creates more of a cooperative-competitive environment
+            - Jenna
+                - getting booster, impressed by CVS organization
+                - agree that there’s nothing new
+                - who’s his audience
+                    - lots of young people joining DAOs, this is new for them
+                    - in that case, this is a nice writeup
+                - how do we behave?
+                    - doesn’t cover this point
+                    - we’re always status seeking, how do you work around this simple biological fact
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
