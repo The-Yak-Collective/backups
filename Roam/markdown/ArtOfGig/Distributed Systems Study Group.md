@@ -341,11 +341,13 @@ but consider - is what is being sent data or programs?
                 - https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/
 - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
     1. Sept 19:
+        - [Oliver Wendell Holmes and the Darwinian Common Law Paradigm](https://journals.openedition.org/ejpap/411)
+    2. Sept 26:
+        - TBD
+    3. Oct 3:
         - Review of readings of summer/general reactions
         - Some sort of capstone event/and or publication?
         - Decision on if/how to go DAO
-    2. Sept 26:
-    3. Oct 3:
     4. Oct 10:
     5. Oct 17:
     6. Oct 24:
