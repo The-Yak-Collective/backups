@@ -340,7 +340,8 @@ but consider - is what is being sent data or programs?
                 - https://www.robinsloan.com/notes/home-cooked-app/
                 - https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/
 - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
-    1. Sept 19:
+    1. Sept 19: Federal vs state tensions in history of US legal system
+        - [Kerry Thread](https://twitter.com/kerry62189/status/1570976739475755011?s=21&t=0gbpJtbmY8LF3EphPk2mXw)
         - [Oliver Wendell Holmes and the Darwinian Common Law Paradigm](https://journals.openedition.org/ejpap/411)
     2. Sept 26:
         - TBD
