@@ -344,7 +344,35 @@ but consider - is what is being sent data or programs?
         - [Kerry Thread](https://twitter.com/kerry62189/status/1570976739475755011?s=21&t=0gbpJtbmY8LF3EphPk2mXw)
         - [Oliver Wendell Holmes and the Darwinian Common Law Paradigm](https://journals.openedition.org/ejpap/411)
     2. Sept 26:
-        - TBD
+        - Reading Article - https://erikhollnagel.com/onewebmedia/ETTO.pdf
+        - Prompt -  Think of an example you’ve encountered of this principle and comment on whether there are important conditions where the tradeoff can be broken. 
+        - Discussion
+            - [[Nathan Acks]] - trade off between optimal and robust solution in applied maths
+            - [[Jenna Dixon]] - dealt with issue in almost everything touched
+                - who gets to decide is the real question, pick two - fast, efficient, cheap
+            - [[Grigori Milov]] - easy to find examples
+                - good distinction between individual and collective decisions
+                - in some orgs decisions are made collectively, while in others decisions individually while execution collectively
+            - [[Ben Mahala]] - frontier defined by this is technology dependent, a new tech can help in getting more efficiency
+                - lot of orgs tend to be dishonest about actual place on the trade-offs
+                - lot of entities in principle have to follow thouroughness but don't 
+                - chemical safety board youtube https://www.youtube.com/user/USCSB/videos
+                - if there is a possibility of catatrophe then it can be spread 
+                - thouroughness and efficiency both take effort 
+            - [[Venkatesh Rao]] - Noah Sussman called it CAP theorem for humans
+                - ETTO at the org level ends being bureucracy vs private sector tradeoff
+                - can see the same things in accounting, policing, eg of where one leans to thouroughness it leans to bureucracy 
+                - DAO vs traditional startup companies
+                - decentraliced tech leans towards thourougness and centralized leans towards efficiency
+                - one way to complete CAP theorem in humans 
+                    - accountability(power differential -Ben's suggestion), thourouhness, efficiency
+            - Open Floor
+                - [[Nathan Acks]] - our perceptions of ourselves tend to be not correct to reality
+                - [[Jenna Dixon]] - we all end up on the spectrum somewhere, some funkies who tend to live up to the standard set up by the person in power
+                - [[Ben Mahala]] - in decentralized systems these sort of dishonesty is difficult to do. in a group when everyone is a peer it is difficult to do. can't loosen rules locally without loosening it globally
+                - [[Venkatesh Rao]] - eg multi-sig gnosis safe
+                    - meta lesson with YakCollective - of all the experiments thoroughness experiments succeed more often then efficiency experiments
+                - 
     3. Oct 3:
         - Review of readings of summer/general reactions
         - Some sort of capstone event/and or publication?
