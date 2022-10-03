@@ -343,7 +343,7 @@ but consider - is what is being sent data or programs?
     1. Sept 19: Federal vs state tensions in history of US legal system
         - [Kerry Thread](https://twitter.com/kerry62189/status/1570976739475755011?s=21&t=0gbpJtbmY8LF3EphPk2mXw)
         - [Oliver Wendell Holmes and the Darwinian Common Law Paradigm](https://journals.openedition.org/ejpap/411)
-    2. Sept 26:
+    2. Sept 26: [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf)
         - Reading Article - https://erikhollnagel.com/onewebmedia/ETTO.pdf
         - Prompt -  Think of an example you’ve encountered of this principle and comment on whether there are important conditions where the tradeoff can be broken. 
         - Discussion
