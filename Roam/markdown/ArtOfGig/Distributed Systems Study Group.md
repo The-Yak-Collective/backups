@@ -377,6 +377,38 @@ but consider - is what is being sent data or programs?
         - Review of readings of summer/general reactions
         - Some sort of capstone event/and or publication?
         - Decision on if/how to go DAO
+        - Article: https://en.wikipedia.org/wiki/Hanseatic_League
+        - Prompt - Under what conditions can things like the hanseatic league be stable and under what conditions will centralizing forces destabilize them?
+        - Discussion
+            - [[Meredith Noelle]] - culture generally structured
+            - [[Venkatesh Rao]]
+                - one successfull example of decetralized governance
+                - delian leagues of greek city states were defensive leagues
+                - full stack - economic, cultural 
+                - what was there in the rest of Europe - no big power. It was stable because there was nothing else to destablizie it
+                - natural advantages of trade route
+                - difficult for one to dominate
+                - in mediterranean Italy could dominate
+            - [[Grigori Milov]]
+                - decentralized structures are not getting destroyed by external powers
+                - difficult to run such structures without some people doing the centralizing work
+                - when times are bad there is strong incentive is make it centralized
+                - slow decision making in decentralized systems
+            - [[Meredith Noelle]]
+                - is there something about maritime trade in decentralized city states
+                - naval technolgy, nodes on the network
+            - [[Anuraj R]]
+                - does water bodies prevent centralizing forces
+            - [[Venkatesh Rao]]
+                - south east asia, fragmented islands, but no decentralized league
+                    - [[Anuraj R]] - did the climate in SE asia make a difference and allow emergence of large centralizing forces
+            - [[Ben Mahala]]
+                - middle ages was mostly a time of centralized states were weak 
+                - blog - https://acoup.blog/
+            - [[Venkatesh Rao]] - 
+                - piracy is interesting angle
+                - piracy happens at the margins of civilizational conflict
+                - 
     4. Oct 10:
     5. Oct 17:
     6. Oct 24:
