@@ -753,6 +753,72 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - how do we behave?
                     - doesn’t cover this point
                     - we’re always status seeking, how do you work around this simple biological fact
+    - [Beyond Theory Y](https://hbr.org/1970/05/beyond-theory-y)
+        - Jenna
+            - coercive management
+                - not very appealing for a lot of people
+                - mostly interesting in doing things vs. being in charge of people
+            - The Little Prince
+                - commanding things and them happening
+        - Matthew
+            - do each of the philosophies tend to prioritize the immutability of different parts of the contingency trio?
+            - if you assume that one part of the trio (ie people) is a fixed variable, you get a nice platform to experiment with the other two.
+                - systematically investigate how things can be tinkered with
+            - constant emphasis on meaning and narrative
+                - philosophy of work inevitably degenerates into the same types of debate as philosophy of life
+            - continuously surprised by the narrative component of work
+        - Sachin
+            - wanted to hear more about how much coordination is required
+                - scientists needed less coordination, so they communicated less, so the reduced structure works for them
+                - Stockton group in the study had low coordination headwinds
+            - Bezos: more communication indicates dysfunction
+            - working in an office vs remote
+                - being present together builds trust, rapport, etc in informal ways
+                - remote work tends to be very formal, structured communication
+            - coordination headwinds on start-ups
+                - as you grow you need more structure and more communication
+            - time horizons
+                - shorter term "sprints" vs longer term narratives and roadmaps in future quarters
+        - Venkat
+            - when people give an "it depends" answer, it means that people haven't thought much about the problem
+                - but occasionally that answer means the author understands the depth behind the topic
+            - article represents good solid research in org theory
+                - n=1 experience has low confidence, but this kind of article takes those individual intuitions and solidifies them w/ research
+            - had experience in his phd with an advisor that had strong top-down managerial tendencies
+            - 2nd advisor was also top-down as a backstop tendency until the student proves that they can drive themselves
+            - wrote a bunch of articles as he was learning about management in mid 2000s
+                - managed small team in a startup-y environment that was in a larger org
+                - a manager needs to understand the type x or y tendencies of their employees and tailor managerial approach accordingly
+            - instincts about managing
+                - huge part is empathy and attunement, it can be harder to have empathy with people who are demographically and psychographically different than the manager.
+            - worked with odesk (upwork) to work on task management tools
+                - "hirer managing", big brothers management, very theory X
+        - Bryan
+            - individual motivation
+                - there's a lot more to satisfaction than competence
+                    - really a blend of things: the work itself, autonomy, achievement, people, purpose, etc
+                - Maslow wrote a theory Z after this was published, talking more about self-actualization
+                - People can be type Y, but inside a type X organization
+                    - they can cross the boundary as they get worn down by top-down management
+                    - crossing into type Y is possible, but requires lots of work and probably different organization
+            - innovation in organization
+                - been reading Drucker's Innovation and Entrepreneurship 
+                    - talks about the necessity of separating innovation from typical operations
+                        - innovation is type Y, operation is type x
+                - Organization cannot be divorced from function. 
+                    - they work together to create ideal working environments
+        - Grigori
+            - worked for successful entrepreneurial org
+                - had to combine two styles of management
+                    - product team was hands off approach
+                    - rest of org needed lots of top-down, even those who weren't even his subordinates
+                - lots of communication between an individual team and the rest of the org
+                - people find ways to become immune to top-down management
+        - Jenna
+            - an entrepreneur is someone who can get other people to do things for them
+                - finds it a mystery that people are blind followers
+            - 
+    - 
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
