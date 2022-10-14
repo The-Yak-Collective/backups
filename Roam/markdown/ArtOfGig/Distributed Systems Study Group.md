@@ -410,11 +410,11 @@ but consider - is what is being sent data or programs?
                 - piracy happens at the margins of civilizational conflict
                 - 
     4. Oct 10:
-    5. Oct 17:
-    6. Oct 24:
-    7. Oct 31:
-    8. Nov 7:
-    9. Nov 14:
+    5. Oct 17: DevCon trip report
+    6. Oct 24: zk proofs
+    7. Oct 31: account abstraction
+    8. Nov 7: Microsoft paper
+    9. Nov 14: Plan 2023 Surge?? 
     10. Nov 21:
     11. Nov 28:
     12. Dec 5:
