@@ -818,7 +818,35 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
             - an entrepreneur is someone who can get other people to do things for them
                 - finds it a mystery that people are blind followers
             - 
-    - 
+    - VGR devcon talk
+        - Matthew
+            - Cynefin framework
+                - the end of each type of quadrant is always "respond"
+                    - how many problems are caused by human inability to respond
+            - Design principles
+                - how do they get leveraged by different types of people
+                - difference between someone with low agency and high agency
+                    - if you're low agency, how would you put some of the principles for sustainable hypercomplexity into use?
+                    - high agency people are in the position to fuck around and find out
+                - principles have an inherent kindness
+                - tina ideologies seem to be harsh and uncompromising
+                    - also claim to be timeless and eternal
+            - Unflattening Hobbes
+                - https://www.ribbonfarm.com/2018/10/18/unflattening-hobbes/
+        - Sachin
+            - tweaking the system at an axiomiatic level seems analogous to Muddling Through
+            - Tech world in last couple of decades was dominated by TINA ideologies
+                - ie software eating the world
+            - Same crowd now trying to figure out hypercomplexity things
+            - Really likes carrier bag principle
+                - Station Eleven and Borges exhibit lots of carrier bag traits
+        - Jenna
+            - https://twitter.com/kamilkazani/status/1579163196849475584
+            - Living in a time and place where personal safety isn't a concern
+            - Forgiveness ala Arendt
+                - getting past eye for an eye has been huge for humanity
+                - Powers by Ursula Le Guin
+            - 
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
