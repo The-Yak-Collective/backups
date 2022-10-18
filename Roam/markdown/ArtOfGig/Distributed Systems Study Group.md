@@ -411,6 +411,9 @@ but consider - is what is being sent data or programs?
                 - 
     4. Oct 10:
     5. Oct 17: DevCon trip report
+        - Prompt Article - https://volt.capital/blog/the-merge
+        - Reactions
+            - 
     6. Oct 24: zk proofs
     7. Oct 31: account abstraction
     8. Nov 7: Microsoft paper

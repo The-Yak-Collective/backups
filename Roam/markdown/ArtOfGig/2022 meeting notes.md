@@ -534,9 +534,65 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
     - Sept 13: Brian
     - Sept 20: Anuraj
     - Sept 27 Rhett
-    - Oct 4: Venkat
-    - Oct 11: Maier
-    - Oct 17
+    - Oct 4: Venkat... coworking session designing a rover head
+    - Oct 11: Maier+Rhett print a tire
+    - Oct 17: Maier -- rover languages
+        - command->narrow intention/clarify->monitor->correct
+        - [9:16 PM]
+        - narrow = YR asks questions to fill in data it does not have.
+        - https://say-can.github.io/
+        - what does a smart contract with a rover look like?
+        - a bit trolly/clickbaity, but some interesting points https://scale.com/blog/text-universal-interface
+        - multi-way com:
+1. A tells B talk to C
+2. A talks to B & C
+        - [9:29 PM]
+        - 3. A talks to a group of B (swarm?)
+        - [9:31 PM]
+        - negotiation and authorization (related to servant)
+        - stage of adaptation between human and rover
+        - [9:47 PM]
+        - language referring to context, esp. mutable context and recent context.
+        - [9:48 PM]
+        - building a shared set of referable memories with a rover
+        - [9:50 PM]
+        - darmok
+        - [9:51 PM]
+        - avoid developing too obtuse a personal jargon - or do you?
+        - [9:52 PM]
+        - compare to keyboard shortcuts - which aid productivity
+        - paper I cite often https://castlelab.princeton.edu/html/Papers/languages.pdf
+        - [9:53 PM]
+        - Abstract: The modeling of very complex problems requires the participation of people
+with diverse backgrounds. The combined eorts of these people, properly coordinated,
+can contribute to the solution of complex problems, but only if we facilitate the process
+of communicating. In this paper, we highlight the importance of languages, illustrated
+by a discussion of the \languages" used by four core groups of people. We show how
+the choice of language can either disguise similarities or hide important dierences.
+Most signicantly, we illustrate how the language we speak can color our view of the
+problem, leading, in some cases, to poor representations of a problem.
+        - metaphoric mapping between human and rover movements
+        - scene from pacific rim where 2 brothers control the giant mecha robot https://www.youtube.com/watch?v=9Pn6NgaX8I0
+        - instructions using maps
+        - [10:06 PM]
+        - instruction using 2x2 as a declarative language ![🙂](./images/aHR0cHM6Ly9kaXNjb3JkLmNvbS9hc3NldHMvZGEzNjUxZTU5ZDYwMDZkZmE1ZmEwN2VjMzEwMmQxZjMuc3Zn)
+        - [10:07 PM]
+        - mapping as a language rather than merely a medium
+        - [10:09 PM]
+        - map language could be  a very important component of a YR language
+        - [10:10 PM]
+        - compare language to "configuration space"
+        - [10:12 PM]
+        - map configuration space to language OR map navigation of the space to language?
+        - re: "I feel lucky" single-result-search prompts https://www.thediff.co/p/the-rise-of-single-result-search
+        - intention narrowing -> intention crystallization. but what about open-ended exploration?
+        - [10:25 PM]
+        - there are studies on serendipity during search
+        - **NEW**
+        - [10:28 PM]
+        - intention feeding OR intention prompting OR intention seeding (edited)
+        - [10:29 PM]
+        - intention seeding for a rover
     - Oct 23: Retrospective?
     - Hopper
         - Coworking session on interface for all types of robots
