@@ -847,6 +847,84 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - getting past eye for an eye has been huge for humanity
                 - Powers by Ursula Le Guin
             - 
+    - [The Origins of Political Order](https://en.wikipedia.org/wiki/The_Origins_of_Political_Order)
+        - Dave
+            - interesting that FF pulls out accountability and use of religion to draw his 3 components
+        - Jenna
+            - getting to Denmark was funny
+            - sucker for speculative fiction with solarpunk governance in beautiful places
+                - KSR california trilogy
+                - Becky Chambers
+                - the murderbot diaries
+                    - humans work w/ corporate rim (under the API jobs)
+                    - main character gets involved in solarpunk governance
+                - books are weak on details, just a dream
+            - tyranny of cousins
+                - in her public admin days
+                    - of course you'd treat your mother differently
+                    - but in Statecraft, everyone has to be treated the same
+                - modern American health system
+                    - even most powerful have to know someone to get into a doc
+                - the catholic church created a way for small states in europe to survive
+                    - small states innovated w/ small armies to circumvent to church's legitimacy
+        - Matthew
+            - Getting to Denmark seems like anovel idea
+                - good objective, seemingly?
+                - Austria
+                    - approach in Vienna to homelessness vs rest of europe
+                        - always going to be differences when viewing from the outside vs within the system
+            - Examining how civilization fails is full of shortcomings
+                - is there a way, as an insider, to escape the inevitable bias that creeps in?
+            - Annotation for the venn diagram
+                - the point is that the states w/ all 3 are more stable
+                    - more stable than what?
+                    - more stable than primative societies?
+                - is stability a desired quality?
+                    - different types of stability
+                        - placating difficult children by placating OR teaching the rules
+                            - end result in the short term is the same, but different in long run
+                - if someone buys into this model for decision making, how immutable is their idea of the state?
+                - Reading Ian McGilcrist, thinking that there are many things we take as foundational and immutable that are actually very malleable
+                    - things that can be quickly updated
+                    - statehood is fixed, you're a citizen where you're born
+                    - alternative: opt-in states
+        - Shreeda
+            - confused about rule of law and accountability
+                - accountability needs a balancing function
+                - but what does rule of law actually mean
+            - what's happening in the US right now?
+                - does accountability exist?
+                - religion is in decline?
+        - Venkat
+            - Fukayama is one of his biggest influences
+                - end of history was formative, one of his first "read for me" "reading independence" moment
+            - https://www.ribbonfarm.com/2016/07/16/the-weird-state-of-the-state/
+            - In 90s FF was popular, but in 00s he started to decline, now it's surging again
+            - These 2 volumes fall into the point in time where FF was wrestling with "the history of the end of history"
+            - VGR might've been more confident that it was true
+            - To Shreeda
+                - rule of law is a book full of laws
+                - accountability is the mechanism for holding leaders to some standards
+                - FF makes subtle distinction
+                    - rule of law v rule by law
+                        - by law, rules exist, there are certain people who are above the law
+                        - of law, rules are strong, and no leader is strong enough to be above them
+            - FF deprecated Greek history of democracy and inherited ideas from the high middle ages
+                - ancient greece is bad example
+                - between 900-1300 AD in europe is good one
+                    - magna carta, rise of Christianity
+            - Cities played a huge role in accountabiltiy
+                - standard way to exit was forming a free state
+                - people bought cities from the monarchs because the monarchs accumulated debt that needed to be paid off
+        - Bryan
+        - Venkat
+            - referendums in Russia
+                - bullshit, but if nobody challenges them they will be legitimized
+            - state effectiveness vs. state size
+                - big gov not necessarily good gov
+                - (graph in the ribbonfarm link above, slide 15)
+            -  
+    - 
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
