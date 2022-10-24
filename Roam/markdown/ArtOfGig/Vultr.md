@@ -19,7 +19,11 @@ sudo -s
 # to update the _acme-challenge.robots and _acme-challenge.rovers
 # TXT records in Namecheap. After updating, wait 30 - 60 seconds
 # before continuing the script.
-#look at https://toolbox.googleapps.com/apps/dig/#TXT/_acme-challenge.rovers.yakcollective.org
+#
+# (The below links can be used to check DNS propagation.)
+#
+# https://toolbox.googleapps.com/apps/dig/#TXT/_acme-challenge.rovers.yakcollective.org
+# https://toolbox.googleapps.com/apps/dig/#TXT/_acme-challenge.robots.yakcollective.org
 #
 certbot certonly --manual --preferred-challenges=dns --force-renewal -d "robots.yakcollective.org"
 certbot certonly --manual --preferred-challenges=dns --force-renewal -d "*.rovers.yakcollective.org"
