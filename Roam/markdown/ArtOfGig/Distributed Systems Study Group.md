@@ -339,11 +339,11 @@ but consider - is what is being sent data or programs?
                 - https://medium.com/@vinaydebrou/network-of-free-agent-clusters-nofac-d646598a98da
                 - https://www.robinsloan.com/notes/home-cooked-app/
                 - https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/
-- **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
-    1. Sept 19: Federal vs state tensions in history of US legal system
+        - 
+    14. Sept 19: Federal vs state tensions in history of US legal system
         - [Kerry Thread](https://twitter.com/kerry62189/status/1570976739475755011?s=21&t=0gbpJtbmY8LF3EphPk2mXw)
         - [Oliver Wendell Holmes and the Darwinian Common Law Paradigm](https://journals.openedition.org/ejpap/411)
-    2. Sept 26: [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf)
+    15. Sept 26: [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf)
         - Reading Article - https://erikhollnagel.com/onewebmedia/ETTO.pdf
         - Prompt -  Think of an example you’ve encountered of this principle and comment on whether there are important conditions where the tradeoff can be broken. 
         - Discussion
@@ -373,7 +373,7 @@ but consider - is what is being sent data or programs?
                 - [[Venkatesh Rao]] - eg multi-sig gnosis safe
                     - meta lesson with YakCollective - of all the experiments thoroughness experiments succeed more often then efficiency experiments
                 - 
-    3. Oct 3:
+    16. Oct 3: ??
         - Review of readings of summer/general reactions
         - Some sort of capstone event/and or publication?
         - Decision on if/how to go DAO
@@ -409,20 +409,55 @@ but consider - is what is being sent data or programs?
                 - piracy is interesting angle
                 - piracy happens at the margins of civilizational conflict
                 - 
-    4. Oct 10:
-    5. Oct 17: DevCon trip report
+    17. Oct 10: Hypercomplexity talk
+    18. Oct 17: Eth roadmap and DevCon trip report
         - Prompt Article - https://volt.capital/blog/the-merge
         - Reactions
             - 
-    6. Oct 24: zk proofs
-    7. Oct 31: account abstraction
-    8. Nov 7: Microsoft paper
-    9. Nov 14: Plan 2023 Surge?? 
-    10. Nov 21:
-    11. Nov 28:
-    12. Dec 5:
-    13. Dec 12: Likely annual meeting week... with reporting opp
-    14. Dec 19:
-    15. Dec 26: Boxing Day, NO MEETING 
+    19. Oct 24: Retrospective
+        - [[Anuraj R]] 
+            - Lamport Papers and Vinay's reading were really interesting
+        - [[Ben Mahala]]
+            - Distributed Systems reading was nice
+            - For the coming sessions - deep dives
+        - [[Grigori Milov]]
+            - Most enjoyable about Junkspace article and Leslie Lamport articles
+            - Need more to read scientific articles, maybe different protocol for harder reads
+        - [[Maier Fenster]]
+            - Difficult to point any particular article
+            - We should classify these readings to allow other people to go on other journeys
+        - [[Nathan Acks]]
+            - Enjoyed the technical papers - Lamport papers
+            - Vinay's reading - A Group is Its own works Enemy
+            - More time needed for technical papers
+            - We should classify these readings to allow other people to go on other journeys
+            - Tag the papers
+        -  [[Venkatesh Rao]]
+            - in the previous season there was lots of handson blockchain stuff
+            - ETTO principle was great - one of the super obvious that no-one pointed out before
+            - cleanup the readings the send out in newsletter
+            - for the coming season - narrow the focus back down to blockchain stuff
+            - more red teaming
+        - Links 
+            - [[Anuraj R]] - https://queue.acm.org/detail.cfm?id=3136559
+            - [[Ben Mahala]] - https://usacac.army.mil/sites/default/files/documents/ufmcs/The_Red_Team_Handbook.pdf
+            - [[Grigori Milov]] - https://www.usenix.org/system/files/osdi18-veeraraghavan.pdf
+            - [[Maier Fenster]] - https://changers.substack.com/p/releasing-change-understanding-flux
+            - [[Nathan Acks]] - https://arstechnica.com/information-technology/2022/10/how-vice-society-got-away-with-a-global-ransomware-spree/
+            - [[Shreeda Segan]] - https://vitalik.ca/general/2021/01/26/snarks.html
+            - [[Venkatesh Rao]] - http://infofranpro.wikidot.com/19520101-on-cooling
+        - [[Open Floor]]
+            - [[Maier Fenster]] tension between each meeting should standing on its own versus making a journey of papers
+            - 
+- **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
+    1. Oct 31: Account abstraction
+    2. Nov 7: Microsoft paper
+    3. Nov 14: Plan 2023 Surge?? 
+    4. Nov 21:
+    5. Nov 28:
+    6. Dec 5:
+    7. Dec 12: Likely annual meeting week... with reporting opp
+    8. Dec 19:
+    9. Dec 26: Boxing Day, NO MEETING 
 - Hopper -- articles we could read
     - 
