@@ -23,7 +23,8 @@
     - 17. Coordination ceiling is very low — idea of a distributed systems map+lexicon didn’t gain traction
     - 18. I think og slide-deck project format is dead but still anchors our public posture like a bad hangover
     - 19. More promising formats — infinity pool, whitepaper/NFT not yet refined
-20. Bot infrastructure growing at the speed of Maier
+
+    - 20. Bot infrastructure growing at the speed of Maier
     - 21. YouTube growing at the speed of Anuraj
     - 22. “Collaborative tinkering” seems like an accurate headline. I’d perhaps add “studying”? 
     - 23. Is this more like a “study room/study hall” for the cozyweb than “weird grad school”?

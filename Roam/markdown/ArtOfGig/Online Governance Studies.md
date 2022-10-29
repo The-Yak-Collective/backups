@@ -924,6 +924,86 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - big gov not necessarily good gov
                 - (graph in the ribbonfarm link above, slide 15)
             -  
+    - [Thoughts on Slouching Towards Utopia](https://brinklindsey.substack.com/p/thoughts-on-slouching-towards-utopia)
+        - Sachin
+            - Problems started in the 60s w/ New Left policy
+            - Feels hard to be involved in any interface with a system at a local level
+                - ie how cities make decisions
+                - did something change in 60s and 70s for people to get engaged in community politics
+            - Hypercomplexity
+                - since your actions may not be immediately correlated with something that happens around you (ie things happening in china), things are hard to comprehend
+        - Shreeda
+            - working class can only be spoken to by republicans, it seems
+        - Venkat
+            - economic side of software eating the world
+                - neoliberal era from 1980s to today was the best kind of slouching towards utopia
+                - Delong himself is ambivalent to neoliberalism
+                    - something broke in 1970s
+            - this is economics version of Richard Gabriels thesis
+                - all the people who plan beautiful software end up failing
+                - people who half-assed the planning seem to take off
+                - Gabriel hates his own insight, like delong
+                    - wishes it wasn't the case that worse is better but realizes that it is
+                - Venkat likes what's actually happening over what should be happening
+            - 1970s thing is interesting
+                - new left moved up Maslow's hierarchy towards self-actualization
+                - premature to give up on improving material things
+                - not monocasual phenomenon
+            - Read review of bowling alone
+                - social and cultural life broke around this time too
+                - that happened naturally, not related to left policy
+            - 1974 paper, Danny Rogers(?)
+                - factory automation replaced a lot of people in the 70s
+                - capital share of income grew, labor share collapsed
+            - globalization and containerization
+                - not just that work went to china, but that shipping jobs required to bring stuff back to US got automated too (ports, ship hands, etc)wer
+        - Grigori 
+            - interesting part is hypercomplexity 
+                - adding even more complexity on top to make the story even more global by adding bits from places around the world
+                    - but really are these all the same stories?
+                        - doubtful
+                        - russia zigs when the world zags
+                        - Soviet Union collapsed but it is not a part of the story
+                        - space devoted to India is small
+                        - how did china respond to influx of jobs during this period?
+            - interesting to see triangle of big gov, big labor, big business
+                - no longer have big labor, really
+                - nice to have a triangle, without the third leg things get wobbly
+        - Jenna
+            - intrigued that research labs where part of the trio of innovations
+            - squad goals
+                - small groups coming together
+            - we haven't figured something out between free market and managed economy
+            - something cool about envisioning qualities of a future without knowing how we'll get there
+            - "Muddling towards utopia"
+            - what do we do about labor's loss of power?
+                - chop wood, carry water. do your own chores
+                - valuing simple labor over bullshit jobs
+            - old footage of railroad workers loading ice on trains to California
+        - Bryan
+            - stories and interpreted history of economics is interesting
+                - has huge bearing on economic policy
+                - but the stories are still ongoing, so it's hard to say what is and what isn't
+            - "production and plenty" is prerequisite for utopia, but cannot be guaranteed.
+                - if covid was x% more deadly and systems fell apart, would that have been a swift end to neoliberalism order
+            - Economic keep the lights on
+                - new left abandoned material gains in favor of cultural ones, and in effect stopped maintaining the maachines
+                - there's a need for people to continue incremental improvements, keep the gears oiled, etc
+            - Alt right following new left playbook, worrying solely about culture and not keeping tabs on the working class
+        - Sachin
+            - labor organizations haven't evolved like other organizations, no innovation
+            - when he talks to people that work in city planning
+                - little talk about technology and it's impact on civic stuff
+            - anti-trust hasn't been updated to apply to tech cos
+                - if it benefits the customer its not anti-trust, good defense against legal system
+                - people in politics don't pay much attention to tech so it's tough for them to grok how it actually impacts policy
+        - Venkat
+            - has anyone read Didion's Slouching for Bethlehem?
+                - inspiration for this essay
+                - about 60s and 70s California and it's dysfunction
+                - worth finding a review
+        - Jenna
+            - likes tracking the turning points, where things started to go wrong
     - 
 - Summary of readings 21-22
     - Bryan 
