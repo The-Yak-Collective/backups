@@ -451,6 +451,37 @@ but consider - is what is being sent data or programs?
             - 
 - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
     1. Oct 31: Account abstraction
+        - Reading - https://www.gwern.net/Unseeing
+        - Prompt -  Come up with an example of “unseeing” a social system
+        - Discussion
+            - [[Maier Fenster]]
+            - [[Sachin Benny]]
+                - skate park design story
+                - Reliance Company - Jio launch of 4G/5G network. Giving free data plans to acquire customers
+                - Uber growth - local governance laws move really slow -> Uber ignored and scaled fast
+            - [[Venkatesh Rao]]
+                - How Design engineering is taught in Mech. Engg. Brainstrom 20 uses of Pencil. After unseeing writing tool abstraction, then many uses emerge. Like support, weapon, etc..
+                - 3D printing - unconciously thinking the contraints by bed dimensions so thought the max dimension of printable object is limited by that dimension, effective contraint is square root of the bed side-length
+                - time domain - people have abstract view of converstation. physical process of talking is contraint by many factors eg rapid talking vs talking long pauses
+                - Zenefits - SaaS for health insurance plans for SME. some states have laws have human in the loop requirement
+                - arbitrage in business models 
+            - Open Floor
+                - [[Jenna Dixon]]
+                    - Zenefits - rule breaking vs making use of loop hole
+                - [[Venkatesh Rao]]
+                    - if clever hacking becomes a habit then it becomes a difficult to build something without hacks
+                - [[Maier Fenster]]
+                    - Nikola Company, Theranos 
+                - [[Ben Mahala]]
+                    - manipulation is another abstraction of the system
+                - [[Venkatesh Rao]]
+                    - why do we give start-ups the benefit of doubt
+                    - long-term abstract trust
+                    - Juicero - bad business thinking - gray area
+                    - App called Yo
+                    - abstraction on trust relationship
+                - [[Maier Fenster]]
+                    - fake pattern recognition
     2. Nov 7: Microsoft paper
     3. Nov 14: Plan 2023 Surge?? 
     4. Nov 21:
