@@ -10,6 +10,76 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - Season 2 Synth Notes - Nov 4, 2022
+        - Venkat
+            - lighthouse reads - shed light on territory, reflect frame of rest of thinking
+                - ise jingu
+                    - PA this reminds me of the Gradatim Ferociter piece in your studio
+            - striking
+                - this year, because we started w/ emotionally ocmpelling case studies, we approached the year with a sense of history mindset
+                - things that leapt out were appeals to history
+                - fukayama's origins
+                - welcome, ghosts was a mood piece
+                - sense of history is more about sentiment or mood
+                    - we have to come to a mood consensus re: how we feel about sense of history?
+                        - happy or dark?
+                - biology
+                    - any time evo bio comes up (rock, paper sciz, etc)
+                        - frames thinking well
+                        - but seems different from gaia stuff
+            - wicked problems feels like this year's muddling through
+            - Doctorow on Disney feels important, not sure why quite yet.
+        - Shreeda
+            - general questions she noticed as a newcomer
+                - What conditions create institutions?
+                - What makes institutions suceed vs. fail?
+                - What does the future of institutions look like?
+                - How does one begin to understand and think about the behavior of complex adaptive systems?
+                - What does "seeing like a network" / CAD look like?
+                    - PA perhaps seeing like a network is a multi-verse like series of perspectives. Lots of images overlapping and also distinct
+                - Why are institutions and rules even necessary?
+        - Sachin
+            - Disney call was really good
+            - Messi Twitter thread - low energy mode most of the game until he needs to burst
+            - Jesuits - prehistory of decentralized governance. older way of doing governance when comms was much slower
+            - bio readings - leveled up in terms of the way we viewed Gaia quadrant...more sophisticated now
+            - Economics and mid-20th century capital readings felt like the citadel quadrant
+                - Slouching Towards Utopia, Exit/Voice/Loyalty
+            - Case Studies on Rojava, Zap, Natives 
+                - lots of history, not a lot of success, but impressed by surivival
+            - Six Things at Github, etc
+                - governance when people don't have high agency
+                - what do you do when you don't have resources
+                - other things that fall into this low agency operation category
+        - Jenna
+            - scanning for the ones she didn't recognize, surprising amount of unknowns
+            - how do we bubble up earlier pieces that weren't necessarily memorable
+            - pieces
+                - Ghosts
+                    - subset of things in category of looking back to look forward
+                - Messi twitter thread
+                    - big hairy problem, worst thing you can do is get busy right away
+                - Coordination Headwinds
+                - Ise Jingu
+            - looking for pieces that she wants to have at her fingertips for conversation
+        - Grigori
+            - took notes, no access to add to spreadsheet
+            - "History in the making"
+                - oppostie of evolution, on a different time frame
+                - evolution cannot be seen, but when history is made you can see it
+            - Shortlist
+                - when history is made survival is an issue
+                - Messi - low rate of change, high rate of chanfe
+                - Coordination headwinds
+        - Patrick general questions
+            - What's the process by which readings get selected? That's been surprisingly opaque to me as a person who drops in infrequently
+            - How many of each reading fall into public / private / frontier part of the triangle? 
+                - Doing a quick scan of titles
+                    - 15+ public
+                    - 3-5 private
+                    - 5-7 frontier
+        - Hogwart's School of Online GOvernance - sorting hats
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F88OBC-Y0vA.57.51%402x.png?alt=media&token=55b58941-75c3-433e-be2a-9f07d0b51dc8)
     - Prompt Engineering/Step by Stepism 
         - https://twitter.com/vgr/status/1529870394034794499?s=20&t=nV3ifgXYig3NwiagibAH2Q
     - [Governance in Review (GitcoinDAO Season 14)](https://pop.mirror.xyz/NbNlmtjw3hTzVHiCU9dBjcgFDxpD91UY8DOtl5Ht_x0)

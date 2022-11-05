@@ -13,6 +13,8 @@
     - [[Threat Model]]
     - [[Discord Channel Lifecycle and Organization]]
     - [[Yak Collective Member Types]] #proposal
+- Inbox::
+    - > Put things you want me to see here. I currently check this page about once per month.
 - Pings::
     - {{[[query]]: {and: [[ping]] [[Nathan Acks]] {not: [[pong]]} {not: [[query]]}}}}
 - To Do::
