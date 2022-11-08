@@ -482,7 +482,51 @@ but consider - is what is being sent data or programs?
                     - abstraction on trust relationship
                 - [[Maier Fenster]]
                     - fake pattern recognition
-    2. Nov 7: Microsoft paper
+    2. Nov 7: Spectral Utopias
+        - Reading: https://www.dropbox.com/s/e8nymejjsx3y1dk/spectral%20utopias%20FINAL%20english%202021.pdf?dl=0
+            - Prompt: top lesson for modern post-social distributed systems, and top difference.
+        - Discussion
+            - [[Ben Mahala]]
+            - [[Grigori Milov]]
+                - fighting regulators vs building stuff
+                - fight came to end when Internet came around
+                - top difference - radio is really vocal and audio and limited to neighberhood or extended neighberhood
+            - [[Jenna Dixon]]
+                - it is all about elite capture - the communcations platform
+                - fighting godzilla and little people running around on platforms
+                - apple ecosystem - bdfl or trapped inside a crappy dictator system
+                - parables of... 
+                - yak-collective as airport
+                - solar punks
+            - [[Shreeda Segan]]
+                - don't devalue small scale efforts
+                - top-difference difficult to do small scale efforts
+            - [[Venkatesh Rao]]
+                - low-power to the people book
+                - it is becoming in the internet era
+                - in radio there were physical constraits in radio spectrum
+                - stamping out small players for non-technical reasons
+                - wordpress was complex when it started - complexification of stuff as they grow
+                - long tail of agency
+                - big similarity - no matter the technology - powerful people have similar behaviour
+            - [[Ben Mahala]]
+                - low power community broadcast is inverse of Internet - in the geographical neighberhood - 
+                - In the Internet one can run small servers but there are othe problems, like it is difficult to know somone in the neighberhood has it
+                - 
+            - [[Commits Vortex]]
+                - from Discord
+                - https://stories.platformdesigntoolkit.com/platforms-are-engines-of-learning-4f7b70249177
+                - i'm finding the scalability v subsidiarity element really useful for thinking about the function of localism and federalism in platform contexts
+                - https://journals.sagepub.com/doi/10.1177/20563051221126041
+                - also, the whole history of BBS is really relevant to this discussion. the fees associated with long-distance calling to dial into an out of state server meant that server connections were more local
+                - Kevin Driscoll's The Modem World is good on this BBS history: 
+                - https://yalebooks.yale.edu/book/9780300248142/the-modem-world/
+            - open floor
+                - [[Jenna Dixon]] sync vs async
+                - [[Ben Mahala]] https://en.wikipedia.org/wiki/Mesh_networking
+                - [[Venkatesh Rao]] farcaster - protocol does not require entire history
+                    - something new in blockchain despite being local there can some global stuff
+                - 
     3. Nov 14: Plan 2023 Surge?? 
     4. Nov 21:
     5. Nov 28:
