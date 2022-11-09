@@ -529,7 +529,7 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
         - How long does infrastructure last, how quickly tech changes?
         - Whole session on side quests and yak shaves
             - Anuraj -- Yocto meta-linux (build embedded linuxes)
-- Mars
+- Mars (4)
     - Sept 6: no session/labor day/venkat and brian out
     - Sept 13: Brian
     - Sept 20: Anuraj
@@ -593,8 +593,61 @@ problem, leading, in some cases, to poor representations of a problem.
         - intention feeding OR intention prompting OR intention seeding (edited)
         - [10:29 PM]
         - intention seeding for a rover
-    - Oct 23: Retrospective?
-    - Hopper
-        - Coworking session on interface for all types of robots
-- Venus 
-    - Oct 30
+    - Oct 23: More rover languages -- The Return of Eric
+    - Nov 1: 
+        - Teardown video/discussion of [Nikodem Bartnik Pico rover](https://github.com/NikodemBartnik/Pico-Mars-Rover)
+        - Discussion of potential distributed rover engineering as the 2023 challenge
+- Jupiter Cycle (5)
+    - **Nov 8: REBOOT WITH TIME CHANGE TO 8PM UTC**
+        - Retrospective of 2022 so far
+            - Maier -- slow, didn't get to collabroate
+            - Eric -- external factors slow down
+            - Anuraj -- fpga, video
+            - Jascha -- advising 2 companies, more IoT
+            - Ian -- bought a crawler and DJI drone
+            - Rhett -- might have felt more successful if no goals :D
+            - Brian -- new, got a lot done, installed ros1, basic comms with arduino, built the otto, micropython on esp32
+            - Venkat -- learning and exploring on the software side, aim to continue moving to RPi from Beaglebone; progress on a rover mount (ongoing)
+        - What's working, what's not
+            - maier: 
+                - what worked: supporting brian, youtube, keeping project going, learning community aspect worked
+                - what didn't work: working together, stimulating each other to make progress, unable to decide what it is we're doing... individual fun? group fun? standout project to show others??
+            - anuraj
+                - what worked: consistency, regular meetings working out, beginnings of a common project, controlling hardware over the internet
+                - what's not working: converging/working together more, more exhaust... website etc
+            - erik
+                - unusual year personally...
+                - moved more towards software (good? bad?)
+                - what worked: self-reorg when PM vanished :D... maturity/interest of all members
+                - what didn't work: first quarter discussion on common target just collapsed
+            - Jascha
+                - Unable to join for professional/personal, so little to say
+                - Convergence?
+                - Work in remote teams: Usually common infrastructure in the background. Do we have one? An always online rover with charging dock, always available to the team.
+                - Could foster joint work
+            - Brian
+                - Working: Group dynamics, learning space.
+                - Not worked: A common project to join and contribute to would be great.
+            - Rhett
+                - Working: Meetings still attractive, especially unplanned ones. Satisfied with a project to keep tinkering on.
+                - Surprised: Little discussion about shared worked (notably links on Discord); lack of (natural) collaboration; common infrastructure would be great and encourage collaboration.
+            - Ian
+                - Ability to "clone" a rover (BOM, etc) would help. A "reverse infrastructure" to reproduce easily and foster collaboration.
+                - Right now too many options, hard to see any baseline.
+            - Closing remark, Venkat
+                - Desire for some satisfying common project
+                - Something like a 1 child 1 computer?
+                - Can we pick a goal better aligned to who we are?
+                - If common infra, what do we expect really?
+        - going to ICRA 2023?
+            - https://www.icra2023.org/
+    - Nov 15:
+        - Do we have enough to do an annual event?
+        - Pivot/retool/reboot ideas?
+            - Oceanic?
+            - Loosen Mars Mission thing?
+            - Distributed design engineering?
+            - "Robot focused tailscale" ????
+    - Nov 22:
+- Hopper
+    - Coworking session on interface for all types of robots
