@@ -6,7 +6,8 @@
     - __self-image__ with hyphen both as n. and adj.
     - __So__ as a sentence igniter: use sparingly #jrd
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F0dyKQ1UB1A.png?alt=media&token=915dd766-b307-48d6-acba-d0cc204e8d68)
-- 1-sentance paragraphs: use sparingly #jrd
+- 1-sentence paragraphs: use sparingly #jrd
+- __sort of__ and __some sort of__ use sparingly #[jrd] __added 2022-11-09__
 - Hyphenation
     - saw a nuanced version of __the hyphenate adjective phrases rule__: only do it when the phrase is a noun and a participle together. I'll have to think about it... I've mostly hyphenated consistently with following rules
         - hyphenate some noun phrases and compound words by convention, even when not an adjective form
@@ -38,32 +39,32 @@
 - Global checks
     - __Sections__, not __Parts__
         - {{[[DONE]]}} AG1
-        - {{[[TODO]]}} AG2
-    - {{[[TODO]]}} Newsletter, issue, week
+        - {{[[DONE]]}} AG2 __2022-11-09/jrd__
+    - Newsletter, issue, week | also __The Art of Gig__ newsletter (ital + The)
         - {{[[DONE]]}} AG1
-        - {{[[TODO]]}} AG2
-    - {{[[TODO]]}} vs versus
+        - {{[[DONE]]}} AG2 __2022-11-09/jrd__
+    - {{[[TODO]]}} vs ~~versus~~
         - {{[[DONE]]}} AG1
-        - {{[[TODO]]}} AG2
-    - {{[[TODO]]}} U.S United States
+        - {{[[DONE]]}} AG2 __2022-11-09/jrd__
+    - {{[[TODO]]}} U.S ~~United States~~
         - {{[[DONE]]}} AG1
-        - {{[[TODO]]}} AG2
-    - {{[[TODO]]}} there's (with the smart apostrophe?) replace with there are... decided to drop the idiomatic conversational style
+        - {{[[DONE]]}} AG2 __2022-11-09/jrd just found 1__
+    - there's (with the smart apostrophe?) replace with there are... decided to drop the idiomatic conversational style
         - {{[[DONE]]}} AG1 2022-09-01/jrd
-        - {{[[TODO]]}} AG2
-    - {{[[TODO]]}} no capitalization after colon I think...
+        - {{[[DONE]]}} AG2 __2022-11-09/jrd spotcheck didn't turn any up__
+    - no capitalization after colon I think...
         - {{[[DONE]]}} AG1 2022-09-01/jrd. __spotchecked with search, only found a couple__
-        - {{[[TODO]]}} AG2
-    - {{[[TODO]]}} check for overuse of __sort of__ and __some sort of__
+        - {{[[DONE]]}} AG2 __2022-11-09/jrd spotchecked... lots of places where following Cap makes sense eg full sentance or lists__
+    - check for overuse of __sort of__ and __some sort of__
         - {{[[DONE]]}} AG1 #jrd only a few
-        - {{[[TODO]]}} AG2
-    - {{[[TODO]]}} check for common repeated words
-        - {{[[TODO]]}} the ~~the~~
+        - {{[[DONE]]}} AG2 __2022-11-09/jrd hmmm there are so many in AG2 seems late to try to reduce!__
+    - check for common repeated words
+        - the ~~the~~
             - {{[[DONE]]}} AG1 2022-09-01/jrd
-            - {{[[TODO]]}} AG2
+            - {{[[DONE]]}} AG2 __2022-11-09/jrd none found__
         - {{[[TODO]]}} because ~~because~~
             - {{[[DONE]]}} AG1 2022-09-01/jrd
-            - {{[[TODO]]}} AG2
+            - {{[[DONE]]}} AG2 __2022-11-09/jrd none found__
             - 
 - ## Numbers — follow Chicago Manual of Style
     - https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec002.html
