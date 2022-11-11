@@ -1,3 +1,7 @@
+- 2022-11-10 [AG2] worknotes #[jrd]
+    - ch14: rejiggered to fix a bad break
+    - ch15: light break fixes
+- ---
 - Specific words and phrases
     - __But__ as a sentence igniter: use sparingly #jrd
     - __decision-making__
@@ -27,6 +31,7 @@
         - Solve for __industry-level questions__, not __organization-__ or __world-level answers__.
         - __self-image__ is a compound noun, hyphenated even when not an adjective
         - No hyphen in __grinder selection effects__
+        - __follow-through__ as __n.__ and __adj.__
     - Checklist of cases where I have some confusions
         - {{[[TODO]]}} long-term/long term, short-term/short term
         - {{[[TODO]]}} bad-actor/bad actor, good-actor/good actor
