@@ -10,6 +10,84 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - [MakerDAO woes](https://www.wired.com/story/makerdao-rune-christensen-decentralize/)
+        - Bryan
+            - > Christensen says he always planned to step aside once the DAO had become self-sufficient, but when he tried, it was always rudderless in his absence.
+            - "unbundle bureaucracy" is more like atomizing bureaucracy
+                - what is the appropriate level of atomization?
+            - you need leadership, but you don't need management
+            - Voting sounds a lot like Meta/FB board w. Zuckerberg
+            - > “a real lack of intellectual rigor and consistency” around the concept of decentralization, which has become a cliché used to signpost a general philosophy rather than a clearly defined objective.
+            - Everything, everywhere comes down to participation
+        - Grigori
+            - purpose of the DAO was to govern stablecoin
+                - this kind of thing isn't what most people do in their free time
+                - analogous to participating in central bank voting, etc
+                - hard for most people to wrap their heads around how these things actually work
+            - what exactly was bureaucracy being unbundled from?
+        - Jenna
+            - if any of this is going to be used by muggles you cannot require users to have capacity for abstract thought
+            - how do we make sure things stay fair?
+            - always about elite capture, except the elites are always fighting amongst themselves
+            - article said all DAOs aren't working, but there are examples of smaller DAOs who seem to be working well
+        - Matthew
+            - similar pattern w/ VGRs involvement in YC, hole if he dropped out
+            - mitigation: could you remove random node from the org to test the resilience systematically? then add the node back and remove someone else?
+            - decentralization as general philosophy
+                - sort of like the hand-wavy way we talk about democracy
+                - stickiness of phrases causes a ton of issues, lots of talking past each other
+            - failure to get people to vote
+                - never going to win against a fight w/ human nature
+        - Sachin
+            - goes well w/ Kei's prehistory of DAOs
+            - started w/ idea that everything can be software protocol, but protocols alone won't solve governance
+            - Maker has same gov issues as regular product orgs...hero complex, charismatic leader
+                - mentioned in coordination headwinds
+            - elite capture
+                - cory doctorow retweeted book about clerks that work for superheroes
+                - regular people clean up after the elites
+            - makerdao list of proposals
+                - can't comprehend them without days of review
+                - nobody has time to do this, so they don't know enough to vote
+                - why wasn't I asked (ftrain piece?)
+            - the longer YC lasts the more core people we've amass, could survive an exit from VGR
+        - Shreeda
+            - members have varying levels of agency but their governance power might not reflect that, leads to low voter turnout etc 
+            - how to distribute and package context to the right people in an effective way 
+            - why does the founder model work so effectively / why do most successful orgs have such a strong founder presence.... a friend said to me that the job of the CEO is to stay fast to a vision even if other people flap around it 
+            - tension between stipulating all this beforehand / DAO design vs enabling organic self-organization 
+            - maybe it's something about self organizing systems where a goal is at a higher level of abstraction... swarm behavior maybe works because of the clarity of the goal... DAOs are more like social networks with shared values / vibes but not necessarily super clear goals;
+        - Venkat
+            - wonder what's happening w/ xDAI and gnosis chain?
+                - should be safe
+                - on his mind bc of FTX meltdown
+            - organizing pattern doesn't matter
+                - FTX has same problem
+                    - one person with too much unaccountable problem doing unclear, obscure things
+            - Maker could be on verge of meltdown?
+            - Key weakness is that governance token based voting 
+                - could be improved w/ mechanisms
+                - but mechanisms could lead to gridlock
+                - gridlock leads to a few people doing bad things
+                - not a way to make governance tokens work
+                - ethereum gov is NOT, will never be token based
+                    - requires social consensus
+                    - eth foundation plays honest broker
+                - amazed that it has been working for so long
+            - been sitting in on EF meetings, impressed with their inner workings
+                - different set of problems comes up with soft, social consensus
+            - should be able to stake tokens and use them for critical decisions
+            - more things on eth will get away from gov tokens
+            - once the dust settles we should read about FTX case
+            - problem of charismatic leaders
+                - BDFL framework
+                - briefly we tried BDF-month
+                    - seems like a good way to get benefits of BDFL without the great costs
+                    - otherwise get caught in the pattern of nothing getting done, someone has to force things through
+                - role cannot be attached to specific people
+                    - BDFM should be a learnable role, anyone should be able to observe  how things work and then go off and do something themselves
+                - 
+    - 
     - Season 2 Synth Notes - Nov 4, 2022
         - Venkat
             - lighthouse reads - shed light on territory, reflect frame of rest of thinking
