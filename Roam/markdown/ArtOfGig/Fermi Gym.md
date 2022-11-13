@@ -1,6 +1,54 @@
 - The Fermi Gym is part of the [[Prompt School]]. It originated as a series of live sessions conducted by James Giammona in early 2022, and moved here to the Yak Collective in May 2022.
 - The basic idea of Fermi estimation is to apply simple, foundational science concepts and known basic quantities to estimate various quantities of interest. Usually only very simple arithmetic and algebra are required. To get an idea of what it's like, try a simple example -- estimate the mass of the earth to within +/- an order of magnitude, starting only with facts you already know off the top of your head. If you'd like to get a more comprehensive start, view the first video in James Giammona series linked in the references section below, and consider buying the Sanjoy Mahajan book. In general, we try to estimate answers using what we already know off the top off our heads, but Googling for starter data is fine. 
 - We take turns posting a problem in the Discord channel every Monday, using the prompt bot (under development, see [[Brainstorm for Prompt Bot]]). The others in the group then take a stab at solving it. If you'd like to participate in problem-setting, simply add yourself to list of names below.  We will rotate through the week, and each person will "tag" the next person in the Discord channel
+- [[Fermi Gym Webpage on yakcollective.org]]
+- November 12 meeting -- initial meeting
+    - Agenda
+        - Introductions
+        - Brainstorm
+            - Ankit
+                - Weekly problems are fun but what does it add up to? what's the use?
+                - Bigger scale problems, go beyond toy
+                - Test/competitive structure... doesn't have to be a competition
+                    - But helps motivate a bit
+                - James used to present initial info etc.
+                - Try out same vs. different parallel problems
+                - Calibrate accuracy
+            - Mauro
+                - Bigger problems are harder to set
+                - More interaction within a single week
+                - Better for newcomers
+            - David
+                - More structure
+                - Climate theme... go subject area by subject area
+                - Build up content on roam page
+                - Different gradations of problems... easier vs. longer-term/bigger
+                    - Sub-problems tackled over a longer period of time
+                - Like different first principles
+                    - Eg. economics vs. physics angles
+                    - Physics = "one answer" bias
+            - Venkat
+                - How to frame complex problems... 
+                - Longer cycles. Example:
+                    - Week 1: gather some facts
+                    - Week 2: set a few big problems for the next few weeks
+                    - Week 3-6: solve a problem a week 
+                - Software sprint ideas. The kickoff for each cycle is a sync video meeting, (once per month/2 months) e.g consisting of:
+                    - 1 Hour Retrospective
+                    - 1 Hour Future Planning
+                - 
+        - More synchronous stuff
+        - Bot
+            - 
+        - Very simple demo problem
+- Season 1
+    - December 3rd: [[Season 1: kickoff]]
+    - Dec 4-Dec 11: [[Season 1: brainstorm]]
+    - Dec 12-Dec 19: [[Season 1: Question Formulation]]
+    - Dec 20-Feb 3: [[Season 1: Gym Sessions]]
+- Season 2:
+    - February 4th: [[Season 2 kickoff]] 
+    - ...
 - **Prompter Rotation**
     - Mauro Riccardi
     - Ankit
@@ -8,13 +56,7 @@
     - David White
     - Venkatesh Rao
     - Victor Hill
-- **Log of weekly problems**
-    - Week 1: [[How much water can a towel hold?]] -- Mauro
-    - Week 2: TBD Ankit
-    - Week 3: JC
-    - Week 4: David White
-    - Week 5: TBD Venkatesh Rao
-    - Week 6: TBD Victor Hill
+- **Log of problems in [[Prompt School]] bot records**
 - **References**
     - [James Giammona Video series (7 video sessions)](https://www.youtube.com/results?search_query=james+giammona)
     - Main recommended book: [Sanjoy Mahajan, Art of Insight in Science and Engineering](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549/)
