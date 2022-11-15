@@ -528,6 +528,54 @@ but consider - is what is being sent data or programs?
                     - something new in blockchain despite being local there can some global stuff
                 - 
     3. Nov 14: Plan 2023 Surge?? 
+        - Reading - https://www.robinsloan.com/lab/specifying-spring-83/
+        - Prompt -  if this protocol existed with tooling support and content how do you think people would actually use it and how would you use it?
+        - Discussion
+            - [[Ben Mahala]]
+                - web was additional to internet, geo cities
+                - over past 20 years web has become the anchor
+                - email anchored to work life
+                - might not fullfill what the web needs
+            - [[Jenna Dixon]]
+                - olive oil newsletter - driving around california collecting olives
+                - what is a protocol
+                - mouse eye vs eagle eye view -> eye on details vs big picture view
+                - can yak-rover have a lab notes with this protocol?
+                - rss reader, presentation is part of the content
+                - john postle
+            - [[Meredith Noelle]]
+                - rss or twitter or discord - no differentiation
+                - the board concept is a way to differentiate the way info is presented
+                - card protocol
+                - gap between this and a different way to change our experience of information
+            - [[Shreeda Segan]]
+                - unless there is already a community it might not take off
+                - protocol as a medium? what is a protocol? 
+                - yak collective project for protocols? 
+                - lab notebook idea is cool
+            - [[Venkatesh Rao]]
+                - Ethereum foundation protocol studies? 
+                - indie hacker with farmer market sensibilities with idealism
+                - pointer to where we should be going
+                - diy use of protocol should be possible
+                - grease monkey, zapier
+                - eth difficult to run nodes
+                - forcing of single tempo by rss, twitter etc
+                - pinterest does not have the notion of flow
+                - parallel stream line with different flow rate
+                - stuart brands concept of shearing 
+            - [[Open Floor]]
+                - what is really is a protocol? 
+                    - how two entities interact? 
+                - meta data , where the edge areas are? 
+                - challenge of defining protocol
+                    - it can get really complex
+                    - distinction between protocol and platforms
+                    - protocol mediates changes between two entities
+                - what sort of protocols would people create? 
+                - time is interesting aspect of protocol
+                    - stateless protocols without aspect of time is not a protocol? 
+                - 
     4. Nov 21:
     5. Nov 28:
     6. Dec 5:
