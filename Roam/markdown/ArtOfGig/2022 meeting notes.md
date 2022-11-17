@@ -575,7 +575,7 @@ problem, leading, in some cases, to poor representations of a problem.
         - scene from pacific rim where 2 brothers control the giant mecha robot https://www.youtube.com/watch?v=9Pn6NgaX8I0
         - instructions using maps
         - [10:06 PM]
-        - instruction using 2x2 as a declarative language ![🙂](./images/aHR0cHM6Ly9kaXNjb3JkLmNvbS9hc3NldHMvZGEzNjUxZTU5ZDYwMDZkZmE1ZmEwN2VjMzEwMmQxZjMuc3Zn)
+        - instruction using 2x2 as a declarative language ![🙂](https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg)
         - [10:07 PM]
         - mapping as a language rather than merely a medium
         - [10:09 PM]
@@ -642,6 +642,50 @@ problem, leading, in some cases, to poor representations of a problem.
         - going to ICRA 2023?
             - https://www.icra2023.org/
     - Nov 15:
+        - Rhett and Jascha: Informal on infrastructure/protocols/Tailscale for robots
+            - Connection topologies in general (ie. centralized cloud vs federated fog vs completely p2p)
+            - Typical struggles observed in industry with connecting things
+            - __new wave__ networking stuff 
+                - buzzronym is "SD-WAN" (software-defined wide area network)
+                - Live demo of both Tailscale and Zerotier
+            - Background
+                - NAT hole punching
+                    - https://en.wikipedia.org/wiki/Hole_punching_(networking)
+                    - A network is its own bubble (closed set of addresses), for a bunch of reasons.
+                    - NAT allows to communicate across bubbles, by translating addresses.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FLLY33h2CVE.png?alt=media&token=c0b782dd-4bd4-461a-956b-68f053ed56aa)
+                    - Hole punching is that opening a connection between two bubbles, which would let arbitrary communications come through, without network level control (bypassing a network guards like firewalls).
+                    - Annoying as many blocks not playing well, mainly for security reasons (protecting an internal network, etc).
+                    - Mainly an IPv4 problem. In IPv6 gives one unique address for every device, so often no need for NAT. But IPv6 not really available
+                - Pain points to do networking because of these legacy infrastructure
+                - Problem of networking patterns: Traffic goes through bottlenecks and centralised infrastructure points, even if trying to contact our physical neighbour (different from an "internet neighbour" in general)
+                - How do we hole punch in a secure but smoother ways? Like on  a VPN.
+                    - With VPN, need for setting an extra server.
+                    - Alternative exists, like Tailscale or Zerotier
+            - What is VPN ? Trad home network with cat5 cables?
+                - 1 address for the whole home network
+                - Hub/switch etc routing to all devices
+                - VPN on top to connect several networks seen as secured unit from "outside": 2 addresses (public and private)
+                - Ability to communicate both ways (e.g. browser <-> server)
+                - Basically centralised model for the home network.
+                - Need to configure and maintain (notably rotate keys regularly)
+            - Tailscale peer to peer VPN network
+                - Infrastructure to just deal with keys, the rest is P2P
+                - Hole punch automation
+                - More flexible than VPN
+                - Security becomes simpler for the users
+                - Software defined network
+            - ngrok
+                - Difficult random URLs for each network node/endpoint/service
+                - Especially valid when short-lived nodes
+            - Questions
+                - Last year demo day was simpler, using dynamic DNS to get to each bot.
+                - Can Tailscale work on MCUs? Need for minimum kernel pieces (typically networking stacks).
+                - Tradeoffs
+                    - Harder to centralise shared pieces of infrastructure
+                    - Hole punching (basically comm with anyone) made easy
+                    - Reconcile physical (e.g. a rover) and virtual (IP address)
+                - What would be the minimal viable virtual and consistent "world" -> topic for next week
         - Do we have enough to do an annual event?
         - Pivot/retool/reboot ideas?
             - Oceanic?
