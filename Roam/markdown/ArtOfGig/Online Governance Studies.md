@@ -10,6 +10,53 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - Thick Descriptions
+        - Bryan
+            - The Native POV
+                - feels like in season 2 we got a little more mature and started appreciating the contexts around our readings
+                - If I were in those shoes, with that worldview, what might I do?
+                    - I think this is opposite of the empirical, systematic POV we were discussing a couple of weeks ago
+            - A lot of our most interesting discussions seem to happen around "menial observations"
+        - Venkat
+            - Geertz is the only anthropologist he takes seriously
+            - Balinese Cock FIght piece
+            - Hard to learn thick descriptions
+                - as hard as writing fiction
+            - "faction" factual fiction
+        - Shreeda
+            - writing fiction resonates
+        - Sachin
+            - also read the Balinese Cock fight piece
+            - some fiction feels like it falls in this vein
+            - falls in the structuralist school of thought
+            - Rene Girard might be in here too?
+                - cultural symbols. etc
+        - Matthew
+            - https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7
+            - Girard is opposed to Levi-Strauss, etc(?)
+            - thick and thin of one axis of 2x2
+            - thin descriptions have a validity that thick concepts don't
+            - thick descriptions feels like a more enlightened way of studying culture
+        - Jenna
+            - duh reaction - why would you do anything else
+            - 360 review inside companies
+                - upwards, downwards, sideways reviews
+                    - anthropology did bad things there?
+        - Grigori
+            - thin/thick distinction
+                - case study approach in management
+                - you can draw a lot of conclusions from a single case study or event
+        - 
+        - 
+        - 
+        - Venkat
+            - protocol effects
+                - instead of studying effects of law, thinking about the soft laws behind the hard laws
+                - eigenstructure of the medium is the message
+            - advanced muddling
+                - messi's soccer style, leveling up muddling through
+        - Sachin
+            - 
     - [MakerDAO woes](https://www.wired.com/story/makerdao-rune-christensen-decentralize/)
         - Bryan
             - > Christensen says he always planned to step aside once the DAO had become self-sufficient, but when he tried, it was always rudderless in his absence.
