@@ -576,7 +576,75 @@ but consider - is what is being sent data or programs?
                 - time is interesting aspect of protocol
                     - stateless protocols without aspect of time is not a protocol? 
                 - 
-    4. Nov 21:
+    4. Nov 21: Farcaster
+        - Reading - https://www.farcaster.xyz/ecosystem
+            - [[Ben Mahala]] - 
+                - Major flaw is registering identity on chain
+                - Mastodon - low barrier entry
+                - pet name system https://en.wikipedia.org/wiki/Petname
+            - [[Bryan King]]
+                - UX of twitter
+                - some problems of mastodon
+                - irc - pgp kind of tool
+                - meta discourse on Twitter about Twitter
+                - social design first and technical later
+                - this feels like exit over voice
+            - [[Commits Vortex]]
+                - Mastodon might open up horizons of fediverse
+                - different affordances compared to twitter
+                - the ability to extend actions at the protocol level seems interesting and unique from api approach 
+                - in terms of protocol, two things
+                    - 1. "Fids can be transferred between addresses, though the FIR ensures that an address owns only one fid at a time."  -- I can't work out what this means
+                    - 2. "If the custody address does not cancel the transfer within three days, the recovery address can complete the transfer."
+- What is the notification system for this?
+- Wouldn't it be better to say "if the recovery address does no complete the transfer within three days, then the transfer fails."?
+            - [[Grigori Milov]]
+                - governance issue - how the protocol can be changed - anyone can propose and then team decides
+                - evolution of twitter - importance to notice the evolutionary path of twitter. Farcaster seems at the starting point of twitter
+                - evolutionary forces centralization
+                - monetization mechanism
+                - smaller clients for twitter failed
+                - ad based system forces centralization
+            - [[Jenna Dixon]]
+                - section 7 - security consideration - swarm actor, bot attacks
+                - stability without stagnation
+                - Dan Romero's podcast - https://share.transistor.fm/s/ca91681a
+                - way to use twitter - use list, join conversation later
+            - [[Maier Fenster]]
+                - Governance Issue 
+                - Twitter chaos - what are the needs of the people and communications platform of a billion people
+                - FC protocol seems to be for sending messages between computers
+                - shaming attacks how to prevent? is it possible with the protocol
+                - proposol - can you decentralize the followers? https://hackmd.io/@farcasterxyz/HkcscxJ8i
+            - [[Nathan Acks]]
+                - it is so close to being a generic messaging protocol
+                - how to handle large amount of data going around
+                - bad applications - what if someone uses FC for nefarious activities
+                - timestamp messages - hard problem
+                - having onchain identity might be important
+            - [[Shreeda Segan]]
+                - own client design, antithetical to scaling
+                - network growth
+            - [[Venkatesh Rao]]
+                - is it crypto+mastodon? maybe not. here the intent hubs to be similar to email providers
+                - email is dominated by few and others sent to spam
+                - email is basically a global headspace
+                - email/twitter is salt water medium. local stuff is freshwater
+                - mastodon had freshwater medium feel. 
+                - hubs here have responsibility towards global casts, each hub can make decision of history storage
+                - social layer attacks are by client  handle these
+                - governance level - not satisfactory
+                - vc funded firm - both of client and protocol
+                - non trivial decentralized governance in ETH
+                - next move is web, there will be no crypto needed, crypto global namespace is transparent
+                - this could potentially grow in decentralized governance
+            - Open Floor
+                -  [[Nathan Acks]] - data portability, hub structure allows porting data
+                - [[Venkatesh Rao]] - 
+                    - if you control the handle and data, then one create a rebel network, 
+                    - usenet fragmented into two layers
+                    - 
+        - 
     5. Nov 28:
     6. Dec 5:
     7. Dec 12: Likely annual meeting week... with reporting opp

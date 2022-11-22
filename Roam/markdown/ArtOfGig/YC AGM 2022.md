@@ -1,5 +1,39 @@
 - Dates/window
-    - [[December 1st, 2022]] to [[December 15th, 2022]]
+    - [[January 7th, 2023]] to [[January 20th, 2023]]
+- Event
+    - ## Theme
+        - ### Meta theme:
+            - Protocols
+        - ### First part sub-theme:
+            - Protocol Patterns
+        - ### Interlude sub-theme
+            - From Pattern to Play
+        - ### Second part sub-theme:
+            - Protocol Play
+    - ## Proposed structure
+        - ### First Part
+            - Opening ceremony
+                - 1 hour long
+                - Solicit some lightning talks/demos/activities
+                    - Mix of insiders and outsiders?
+                    - 6 x 10 min slots, 4 x 15 min slots
+            - First Block
+                - Four hour session
+                - Breakouts/loosely coordinated activities
+                - Informal gathering buffer pre and post for the willing and available
+        - ### Interlude
+            - One week break
+            - Continuity via an activity, prompt or reading
+        - ### Second Part
+            - Second Block
+                - Four hour session
+                - Breakouts/loosely coordinated activities
+                - Informal gathering buffer pre and post for the willing and available
+            - Closing ceremony
+                - 1 hour long
+                - Solicit some lightning talks/demos/activities
+                    - Mix of insiders and outsiders?
+                    - 6 x 10 min slots, 4 x 15 min slots
 - Prompts from [[Venkatesh Rao]]:
     - What’s a creative format for an annual day in light of [[Venkatesh Rao]] state of play. I don’t think we should just repeat what we did last 2 years. It doesn’t really work. Maybe something like a lowkey yakathon or day-long coworking session focused on collaborative tinkering? In the past we;ve focused on PR/recruitment, but this time perhaps we should focus as
     - what orgs are we __most__ like, and __least__ like? Eg, YC is like libraries but unlike  startups. much or more on ourselves internally?
