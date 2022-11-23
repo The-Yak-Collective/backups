@@ -693,5 +693,26 @@ problem, leading, in some cases, to poor representations of a problem.
             - Distributed design engineering?
             - "Robot focused tailscale" ????
     - Nov 22:
+        - Simulated rover
+            - Allow software coordination
+        - Levels of "simulation"
+            - soft rover, RPi with camera, gimballed Rpi, rover
+        - Rhett demo
+            - VM connected to VPN tailscale
+            - Can do the same thing over zerotier... next expt
+        - Tailscale vs. Zerotier
+            - Venn diagram intersection of individual tailents vs. one owner owns all the circles
+            - House party vs. park party
+            - Individual node security happens at node level
+            - How do you handle failover for coordination servers?
+        - Interaction with external identities like github repo access
+        - These are the only 2 known solutions at consumer grade
+        - Zerotier public network option... option to go blockchainy
+            - Some link to urbit?
+        - Vs. Victor VPN
+            - No need to maintain server
+            - Robust, easy on/off
+            - These systems skip dns
+        - Minimum-viable experiment??
 - Hopper
     - Coworking session on interface for all types of robots
