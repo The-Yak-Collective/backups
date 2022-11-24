@@ -1,5 +1,5 @@
 - A proof-of-work based indie consulting network. Your participation in and contributions to [[Projects Directory]] determine your stake in it, not your credentials or claims.
-- [[Online Governance Studies]]
+- [[Governance Studies]]
 - [[Internal Volunteer Opportunities]]
     - Lead a collaboration
 - Yak Collective Org structure

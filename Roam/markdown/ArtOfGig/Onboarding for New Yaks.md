@@ -57,6 +57,6 @@
     - Are you a new Yak with ideas on how to better this document and process?
         - Please join us in #Infrastructure with your thoughts and comments.
     - Are you a Yak interested in how the Yak Collective is governed and where it's going? 
-        - Consider participating in the [[Online Governance Studies]] chats on Friday.
+        - Consider participating in the [[Governance Studies]] chats on Friday.
 - ## How to Invite People to Yak Collective
 - Send them [this link](https://docs.google.com/forms/d/e/1FAIpQLSfVUUvuIkzEGffk1CoEgzOkeO_yI05Nuw6zU3H1TNLmiQOf7g/viewform) to our intake form.

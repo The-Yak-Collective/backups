@@ -1,7 +1,7 @@
 - **Reading:** https://www.rolandberger.com/en/Point-of-View/Frederic-Laloux-on-what-lies-ahead-for-business.html
 - 
 - [[Grigori Milov]] leads the discussion.
-- [[Alex Wagner]] recording voice chat via voice memo and transcribing via [Descript app](https://www.descript.com). [[Praful Mathur]] will taking over notes for future [[Online Governance Studies]] chats.
+- [[Alex Wagner]] recording voice chat via voice memo and transcribing via [Descript app](https://www.descript.com). [[Praful Mathur]] will taking over notes for future [[Governance Studies]] chats.
 - 
 - # Discussion:
 - 

@@ -23,7 +23,7 @@
         - We've released 4 such projects already: [[Don’t Waste the Reboot]], [[The New Old Home]], [[Astonishing Stories]], [[Future Frontiers]] and one is in the works [[Yaks do innovation consulting]]
     - Form collaboration teams and go after larger consulting gigs that individual indies otherwise would not be able to take on by themselves 
         - We've done one such project, [[Neurofuturama]]
-    - Ongoing chat tracks on various subjects/themes of interest to members. Some have been going steady for a long time, such as [[Online Governance Studies]] (Fridays 9 AM PT) and [[infrastructure chats]] (Sundays 10:30 AM PT) plus various transient ones that come and go
+    - Ongoing chat tracks on various subjects/themes of interest to members. Some have been going steady for a long time, such as [[Governance Studies]] (Fridays 9 AM PT) and [[infrastructure chats]] (Sundays 10:30 AM PT) plus various transient ones that come and go
 - **How you can participate**
     - Check out our published projects
     - Join the discord, hang out

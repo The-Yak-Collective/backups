@@ -11,7 +11,7 @@
             - [[Sample Project]]: Brief 1-2 sentence pitch/blurb.
         - Populate the project's own page as you see fit.
         - Propose a Discord channel, share your project's page in it once it is created, and invite people to join the channel as either potential participants or interested supporters/watchers. You may have to go actively recruiting.
-        - Show up at a [[Online Governance Studies]] chat (Friday mornings 9 AM Pacific) to live-pitch your project informally to people. We'll be starting a section of the chat for that. 
+        - Show up at a [[Governance Studies]] chat (Friday mornings 9 AM Pacific) to live-pitch your project informally to people. We'll be starting a section of the chat for that. 
         - If you decide you have critical mass by your launch date, your project status will shift to **Started** and things may start to automatically happen, like a page appearing on the website, an announcement in the newsletter etc.
     - [[Sample Project]]: Brief 1-2 sentence pitch/blurb.
         -  %% __Project name should be a short phrase that should link to a detail page which you are free to structure as you see fit (click sample project page link for ideas). The 1-2 sentence pitch blurb should be a succinct summary of the idea that can also serve as placeholder text for the webpage that will be automatically created__

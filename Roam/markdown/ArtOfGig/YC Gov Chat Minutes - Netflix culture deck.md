@@ -1,4 +1,4 @@
-- About:: __chat minutes for [[September 25th, 2020]] [[Online Governance Studies]] weekly call__
+- About:: __chat minutes for [[September 25th, 2020]] [[Governance Studies]] weekly call__
 - Chief Page Wrangler:: [[Fname Lname]]
     - Additional Page Wranglers:: [[Fname Lname]] | [[Fname Lname]] 
 - Last Updated:: [[September 25th, 2020]]

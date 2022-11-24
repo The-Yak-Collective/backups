@@ -22,7 +22,7 @@
     - Drawing an analogy with Bleeps DAO, one could imagine the lexical terms submitted by communities as being the base unit, analogous with a Bleeps
         - The writing platform would be analogous with the Bleeps DAO's melody creator, where the base lexical unites are available materials for constructing  paragraphs and essays
     - Yak Collective Terms
-        - Draw from the WIP glossary from the [[Online Governance Studies]] Paper
+        - Draw from the WIP glossary from the [[Governance Studies]] Paper
             - Hurling 
             - Frootmig 
             - Wind in the Willows 

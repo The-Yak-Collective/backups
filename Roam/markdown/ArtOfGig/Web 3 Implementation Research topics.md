@@ -1,6 +1,6 @@
 - Support for the [[Blockchain Ops Roadmap]] track
 - This is an implementation oriented list
-- See [[Online Governance Studies]] tech section for subset relevant to DAO implementation 
+- See [[Governance Studies]] tech section for subset relevant to DAO implementation 
 - ---
 - Discuss and set up a multisig account with n/m signing protocol on [gnosis](https://gnosis.io/protocol/)
 - a story describing a day in the life of a yak dao member /mf

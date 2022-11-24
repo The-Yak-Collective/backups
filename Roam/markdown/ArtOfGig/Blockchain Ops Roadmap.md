@@ -526,7 +526,7 @@
                     - Pricing
                         - $10 per member over posting/task limits
                 - Colony Discussion
-                    - 20% of NFT from [[Online Governance Studies]] paper will go to the Yak Collective
+                    - 20% of NFT from [[Governance Studies]] paper will go to the Yak Collective
                     - The staking formula is still unclear
                     - Still unclear why or how a motion passes
                 - Tasks
@@ -1121,7 +1121,7 @@ Real-time story arc of an early journo blockchain attempt. #[[Jenna]]
         - https://samczsun.com/research/
         - 
     - 
-- We have an associated study group track in [[Online Governance Studies]]
+- We have an associated study group track in [[Governance Studies]]
 - [[roam/comments]]
     - [[July 21st, 2022]]
         - [[Anonymous_22]]

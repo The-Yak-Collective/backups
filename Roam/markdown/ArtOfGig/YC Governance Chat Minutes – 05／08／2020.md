@@ -59,7 +59,7 @@
 - We will keep Friday governance chats to a 30-minute limit.
 - Setting a weekly habit, so we don't have to think about all of the ideas and concepts at once.
 - "The idea is to create a track of collective learning that anyone can jump into and participate in, starting at any time."
-- [[Online Governance Studies]]
+- [[Governance Studies]]
 - Post suggested readings or references here. Venkat will periodically review.
 - Learning each other's preferences and styles
 - "Every community is kinda different, depending on who self-selects into it. "
@@ -72,4 +72,4 @@
 - [[John Grant]]
 - I like the approach of "short meetings, that are quite dense", with "asynchronous work to think about during the week".
 - [[Venkatesh Rao]]
-- "In closing, please post any links you want to share in [[Online Governance Studies]] and we'll meet next Friday at the same time."
+- "In closing, please post any links you want to share in [[Governance Studies]] and we'll meet next Friday at the same time."

@@ -34,19 +34,26 @@
                 - Solicit some lightning talks/demos/activities
                     - Mix of insiders and outsiders?
                     - 6 x 10 min slots, 4 x 15 min slots
-- Event skeleton B
-    - Opening Ceremony
-        - 4-6 non-Yak lightning talks on topic of general YC interest
-    - First Block
-        - For each alive/semi-latent YC activity stream:
-            - Report/review activity and outcomes from previous year
-    - Interlude
-        - Continuity TBC
-    - Second Block
-        - For each alive/semi-latent YC activity stream:
-            - Plan and speculate re: activity and outcomes for upcoming year
-    - Closing Ceremony
-        - 4-6 non-Yak lightning talks on topic of general YC interest
+- {{[[DONE]]}} Event skeleton B
+    - Day One
+        - Opening Ceremony
+            - 4-6 non-Yak lightning talks on topic of general YC interest
+        - First Block
+            - For each alive/semi-latent YC activity stream:
+                - Report/review activity and outcomes from previous year
+        - Interlude
+            - Continuity TBC
+                - Heightened async activity to lure new Yaks
+    - Day Two
+        - Second Block
+            - For each alive/semi-latent YC activity stream:
+                - Plan and speculate re: activity and outcomes for upcoming year
+        - Closing Ceremony
+            - 4-6 non-Yak lightning talks on topic of general YC interest
+- Lightning talk candidates
+    - Name, topic, why, link
+    - Candidates
+        - 
 - Prompts from [[Venkatesh Rao]]:
     - What’s a creative format for an annual day in light of [[Venkatesh Rao]] state of play. I don’t think we should just repeat what we did last 2 years. It doesn’t really work. Maybe something like a lowkey yakathon or day-long coworking session focused on collaborative tinkering? In the past we;ve focused on PR/recruitment, but this time perhaps we should focus as
     - what orgs are we __most__ like, and __least__ like? Eg, YC is like libraries but unlike  startups. much or more on ourselves internally?

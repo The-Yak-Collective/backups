@@ -3,7 +3,7 @@
         - Including Blockchain technologies
     - Distributed computing (social)
     - Distributed systems generally (including swarms in nature etc)
-- The goal is to have a track complementary to the [[Online Governance Studies]] track, with a more technological focus.
+- The goal is to have a track complementary to the [[Governance Studies]] track, with a more technological focus.
 - We aim to create a [[Distributed Systems Map and Lexicon]] as our work product over the summer
 - There is interest in creating a prompt-school type track around this, and we will be trialing this over the summer.
 - Resources/references: Please add links etc. under this bullet

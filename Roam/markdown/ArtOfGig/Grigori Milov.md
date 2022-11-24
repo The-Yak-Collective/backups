@@ -1,5 +1,5 @@
 - The pages I follow:
-- [[Online Governance Studies]]
+- [[Governance Studies]]
 - [[Future Frontiers]]
 - [[Yak Collective State of the Union]]
 - [[YC Marketing]]
