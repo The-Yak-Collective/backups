@@ -291,6 +291,14 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
     - I’m an indie product engineer: I started at Facebook for a few years and moved into consulting / freelancing. I’ve contracted at larger companies (Dropbox, Stripe) and startups, building user-facing apps and internal tools. There’s also an informal consulting angle that usually shows up in my gigs of helping employees be better and more leveraged at what they do (e.g. pushing for a better knowledge management tool, or talking about process.)
 - [[Adam Khan]]
     - Web developer/designer with an editorial background and an interest in process http://engaging.net 
+- [[Chris Khan]]
+    - Software/data engineer 
+        - Studied mechanical engineering
+        - Started out doing full stack work with web startups and freelance work
+        - Started a few web retail product and service businesses
+        - Data architect/engineer/scientist for brick and mortar retail services company for a while
+
+        - Working now with a startup in SSO space
 - [[Darren Kong]]
     - Product person based in #Texas/Austin 
     - Currently paychecking. Previously working with [[Toby Shorin]] on Other Internet, a boutique digital/brand strategy shop.
