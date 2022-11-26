@@ -450,7 +450,7 @@ but consider - is what is being sent data or programs?
             - [[Maier Fenster]] tension between each meeting should standing on its own versus making a journey of papers
             - 
 - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
-    1. Oct 31: Account abstraction
+    1. Oct 31: Gwern, unseeing
         - Reading - https://www.gwern.net/Unseeing
         - Prompt -  Come up with an example of “unseeing” a social system
         - Discussion
@@ -527,7 +527,7 @@ but consider - is what is being sent data or programs?
                 - [[Venkatesh Rao]] farcaster - protocol does not require entire history
                     - something new in blockchain despite being local there can some global stuff
                 - 
-    3. Nov 14: Plan 2023 Surge?? 
+    3. Nov 14: Robin Sloan article
         - Reading - https://www.robinsloan.com/lab/specifying-spring-83/
         - Prompt -  if this protocol existed with tooling support and content how do you think people would actually use it and how would you use it?
         - Discussion
@@ -645,9 +645,9 @@ but consider - is what is being sent data or programs?
                     - usenet fragmented into two layers
                     - 
         - 
-    5. Nov 28:
-    6. Dec 5:
-    7. Dec 12: Likely annual meeting week... with reporting opp
+    5. Nov 28: Pair of linked readings for next distributed systems call, posting early. Found via rover group exploring zerotier as an option for our rover vpn needs. A post, talking about the zerotier philosophy of “decentralize till it hurts, centralize till it works.” I have also scheduled the cited Google paper for the following week. Read this first https://adamierymenko.com/decentralization/ and if time, browse this https://www.zerotier.com/2019/06/30/lf-announcement/
+    6. Dec 5: [The power of ((even a little bit) of centralization](https://storage.googleapis.com/zt-web-large-files/2011__A_Little_Centralization__Tsitsiklis_Xu.pdf) — cited by the zerotier papers
+    7. Dec 12:
     8. Dec 19:
     9. Dec 26: Boxing Day, NO MEETING 
 - Hopper -- articles we could read

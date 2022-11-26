@@ -10,6 +10,85 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - [An Exploration of Internet-Native Organizations](https://www.forefront.market/blog/internet-native-organizations)
+        - with special guest Scott Moore
+        - Scott
+            - doing work in web3 since 2015-16, around the idea of decentralized companies
+            - built project inspired by work in machine learning, feeding contributor results from orgs and distributing equity between organizations to create founder collectives
+            - DAO hack happened, nobody talked about daos for a while
+            - merged his project with Kevin's Gitcoin
+                - open source repos as original digital organizations (cathedral & bazaar)
+                - how do you fund open source software
+                - quadratic voting became lucky guess at how to do it
+                - started doing bounties
+                - democratic ways of signalling support for projects in particular communities
+                    - works better in ethereum than trad science research orgs
+            - april 2021 Gitcoin became a DAO
+                - still learning
+                - hard to go from having a large audience to having a large community
+                - Orbit Model
+                    - bringing people who care about a project into a position with more pull
+        - Grigori
+            - in many parts of article, it sounds like it's trying to find the opposite of traditional organization
+                - people were fed up w/ corporate culture and decided to go in opposite direction
+                - sounds like it was easier to implement and explain to people by going against traditional ways of organizing
+                - people might be fed up with org politics, but they are comfortable with them
+            - "leaders in DAOs are just people with more context"
+                - but what about the power?
+            - "everyone is a leader"
+                - but what about accountablility?
+                - delivering on the promises?
+        - Jenna
+            - "DAOs were envisioned as having automation in the center"
+                - our experience: automate things that can be possibly automated but no more
+            - hyperstructures, collective intelligence was interesting
+                - https://jacob.energy/hyperstructures.html
+            - questions for scott's experience
+                - own experience, what's the ideal size?
+                - how many prime commitments can each person take on (number of DAOs)?
+                - when bounties were big last year, how much drive by activity does that draw and how much of a problem is that?
+        - Shreeda
+            - "alignment stronger than structure"
+                - reminds her of thesis of YC: token governance not working, soft consensus is better
+            - who is a leader in a network, and how is that derived from context?
+                - who takes on the context wrangling?
+                - BDFM
+                    - how much bandwidth does anyone have to take on the context wrangling
+            - learned helplessness in trad orgs?
+                - where does that come from?
+        - Venkat
+            - YC comes at this from less of practicioners POV, we are hobbists
+                - Gitcoin is successfully scale example, is also a very narrow scope
+                - how does scope effect what success and it's measurements look like
+            - context is available for the taking in online organizations
+                - Oliver King did this in YC, contributed effectively because he could grasp the context or figure out who to ask
+                - why doesn't this happen more often?
+                    - biggest energy shortfcoming in YC
+                        - lot of good effort for participation, but project management and coordination efforts on project timelines makes it more difficult
+                        - it takes time, also a thankless effort
+                            - hard to do it for the short term
+                - when BDFM works it's very powerful
+                    - longer tenures or tours of duties are increasingly valuable
+        - Bryan
+            - The more I read these types of things the more it becomes clear to me that they’re actually talking about communes, not communities
+            - Or maybe this is a bigger project than they realize, redoing government
+            - You don’t actually have to know the lore to be a part of a community
+            - You don’t really even need to feel like you belong per se, it’s more of a “am I enjoying this? Could I see myself enjoying this?
+            - Often IRL communities (particularly neighborhood level) the structure (ie government) exists adjacent to the day-to-day in a separate apparatus that’s sort of opaque until you get involved.
+        - Scott
+            - norm evolution definitely depends on what you're trying to do, but aligning on these norms is key (lore does help strengthen norms but may not be necessary)
+            - neighborhoods are good from a conceptual POV
+                - in complex research-style orgs you have to manage up and down
+                - natural structure for a potluck-having / vibing neighborhood is more flat because the general interests of each member are simpler
+                - naturally limited in size by being local, 'who shows up' helps set clear boundaries, whereas less organic orgs tend to have to set their own limits
+            - gitcoin has stumbled into narrowness of scope, makes building context easier and allows better enactment of organizational purpose
+            - structure is bad (but necessary) because you're never spending as much time and attention on the actual thing as you should
+            - bounties or small contracts (e.g. w/ oliver) without clear insight into reputation are like sortition -- a random selection in hopes that the person does a good job (selecting from a superset of intrinsic + extrinsically motivated people)
+            - consensus is better than voting
+                - voting should be a last resort measure (goodhart's law)
+                - consensus by humming is good but hard to scale (IETF style)
+            - full automation (e.g. hyperstructures) is not generally possible, it comes back to people at the end of the day (we live in the world of atoms)
+            - 
     - Thick Descriptions
         - Bryan
             - The Native POV
