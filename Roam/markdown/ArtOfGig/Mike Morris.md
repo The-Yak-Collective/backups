@@ -1,13 +1,11 @@
 - Recovering software dev/designer/architect, self-sufficiency hacker, strategist, writer, brewer, anti-authoritarian, apprentice human being. 
-- Freelance thinker based in South Cape region of South Africa. Come out of a software design/architecture background, ±25y as consultant and technical trainer in that space. Current focus is on strategy, carbon drawdown, resilience/self-sufficiency.
-- 20+ years as tech trainer and indie consultant in software, strategy, but inactive in that space these past ~5y. Interested in the opportunities that will abound in the OldStack->NewStack transition, helping steer that transition toward more Earth-friendly, sustainable directions.
+- Freelance thinker based in South Cape region of South Africa. Come out of a software design/architecture background, ±25y as consultant and technical trainer in that space. Current focus is on r&d in the vague space encompassing "Tools for Though" and "Personal Computing".
+- 20+ years as tech trainer and indie consultant in software, strategy. Interested in the opportunities that will abound in the OldStack->NewStack transition, helping steer that transition toward more Earth-friendly, sustainable directions.
 - **contact**:
     - Web: https://www.mikro2nd.net (workish), https://one.mikro2nd.net (personal: slightly sweary warning)
     - one.mikro2nd.net (personal)
-    - Twitter: @mikro2nd
-    - Matrix: @mikro2nd2:matrix.org
-    - www.mikro2nd.net (work)
-    - ~~Facebook~~, ~~LinkedIn~~
+    - Fediverse: @mikro2nd@indieweb.social
+    - ~~Facebook~~, ~~LinkedIn~~, ~~Twitter~~
 - **know about/have done**
     - self-sufficiency/small-scale farming
     - software design and implementation
