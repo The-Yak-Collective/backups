@@ -646,6 +646,43 @@ but consider - is what is being sent data or programs?
                     - 
         - 
     5. Nov 28: Pair of linked readings for next distributed systems call, posting early. Found via rover group exploring zerotier as an option for our rover vpn needs. A post, talking about the zerotier philosophy of “decentralize till it hurts, centralize till it works.” I have also scheduled the cited Google paper for the following week. Read this first https://adamierymenko.com/decentralization/ and if time, browse this https://www.zerotier.com/2019/06/30/lf-announcement/
+        - Prompt - reactions
+        - Discussion
+            - [[Nathan Acks]]
+                - disagree about market forces - 
+                - somthing like amazon s3
+            - [[Meredith Noelle]]
+            - [[Grigori Milov]]
+                - all the bad things in centralizalized systems due to human internventions? 
+                - analyse the incentive structure
+                - incentive of the author of the article? 
+                - hard to talk about centralization - priorities in the article
+            - [[Ben Mahala]]
+                - one thing that was not brought up - when the author calls centralization it often had decentralization inside, many google systems are decentralized in some ways
+                - what is the threat model from the system
+            - [[Venkatesh Rao]]
+                - zerotier as vpn for rover
+                - mixing up human centric problems with engineering problems, mixing up of many of them
+                    - difficult to know which of the contraints are hard ones
+                - orchestration 
+                - distributed is not decentralized - distribution is everything except agency
+                - censorship resistance 
+            - [[Maier Fenster]]
+                - depressing article because it tries to prove something we all want?
+                - in yakrover this should be interesting
+                    - robots on mars - person writing patches is atleast 20 minutes away
+            - Open Floor
+                - [[Maier Fenster]]
+                    - how does this relate to farcaster/Mastodon
+                - [[Venkatesh Rao]]
+                    - no network level caching in Mastodon
+                    - cap theorem are contraints on global system but maybe not be true locally, there maybe local areas where C can be given up and AP gaurenteed. Are there protocol that choose ones from C, A and P in different locality
+                - [[Nathan Acks]]
+                    - three parallel networks that optimize for different things
+                - [[Venkatesh Rao]]
+                    - eth2 tries this, consensus layer, execution layer and L2 layer
+                - [[Ben Mahala]]
+                    - 
     6. Dec 5: [The power of ((even a little bit) of centralization](https://storage.googleapis.com/zt-web-large-files/2011__A_Little_Centralization__Tsitsiklis_Xu.pdf) — cited by the zerotier papers
     7. Dec 12:
     8. Dec 19:
