@@ -708,11 +708,34 @@ problem, leading, in some cases, to poor representations of a problem.
         - Interaction with external identities like github repo access
         - These are the only 2 known solutions at consumer grade
         - Zerotier public network option... option to go blockchainy
-            - Some link to urbit?
+            - Some link to urbit? (as in, it looks like there is some urbit lying under?)
         - Vs. Victor VPN
             - No need to maintain server
             - Robust, easy on/off
             - These systems skip dns
         - Minimum-viable experiment??
+    - Nov. 29
+        - Follow up after last week on VPN-related technologies
+        - Rhett: Rover Stack
+            - Tier 0: Collaboration Infrastructure (People)
+                - Discord, GitHub, VPNs
+            - Tier 1: APIs for Rovers
+                - Could be direct commands (e.g. Rhett's language),
+                - Or "higher level" layer
+                    - Facilities around and extensions to command APIs
+                    - Timeline of desired commands
+                    - Predictions of what the command timeline leads to (body and situation)
+                    - Time sharing
+                    - Abstraction of the actual rover (more than with direct commands?)
+                    - Companies using predictions for telepresence / "remote controls" (or used at some point)
+                        - Telexistence https://tx-inc.com/en/home/
+                        - S4E https://www.linkedin.com/company/se4/ (went under, so website lost)
+            - Tier 2: Apps
+        - APIs for many similar rovers (all Wall-Es) or different ones (1 super Wall-E with a lot of compute)
+        - Needs for publishing capabilities
+        - Perhaps interesting to split tiers into user side and rover side.
+        - Next week on Tier 0
+            - Working example with Rhett, Jascha and Maier.
+            - Look into Nvidia Omniverse or Unity?
 - Hopper
     - Coworking session on interface for all types of robots
