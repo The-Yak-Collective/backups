@@ -10,6 +10,25 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - Bobos
+        - Bryan
+        - Grigori
+            - you don't have to be right to be famous
+            - you only have to be right from time to time
+            - if you want to be exemplary bobo, you have to be clear and make a point with viral properties
+            - jobs of pundits like David Brooks are gone
+                - NYT still exists, some columnists are still well known, but there are only dozens of these people anymore, not a whole class
+        - Kiran
+            - excerpts seem out of touch 20 years later
+            - bobos are a middle class, the stooges of the true elites that don't have to play by the rules
+        - Sachin
+            - brooks paints a version of reality that he doesn't experience
+            - preserving their reality even if things have changed
+        - Venkat
+            - if you write long enough, you'll end up writing more than being right
+            - never even interestingly wrong
+                - if you're going to be wrong you want it to go some place interesting
+            - 
     - [An Exploration of Internet-Native Organizations](https://www.forefront.market/blog/internet-native-organizations)
         - with special guest Scott Moore
         - Scott
