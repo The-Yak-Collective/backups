@@ -1,0 +1,11 @@
+- Work through homework slides: 
+- Work through sample problems -- diffusion/santa
+- Move all these topics into page/rewatch...
+- Second order stuff
+- Start to dump stuff in a links thread?
+    - Tennis ball
+- 3 tracks
+    - theory
+        - modalities (1 modality per week...?)
+    - practice
+    - examples

@@ -1,4 +1,6 @@
 - The Fermi Gym is part of the [[Prompt School]]. It originated as a series of live sessions conducted by James Giammona in early 2022, and moved here to the Yak Collective in May 2022.
+- [[Philsophy of Fermi Estimation]]
+- 
 - The basic idea of Fermi estimation is to apply simple, foundational science concepts and known basic quantities to estimate various quantities of interest. Usually only very simple arithmetic and algebra are required. To get an idea of what it's like, try a simple example -- estimate the mass of the earth to within +/- an order of magnitude, starting only with facts you already know off the top of your head. If you'd like to get a more comprehensive start, view the first video in James Giammona series linked in the references section below, and consider buying the Sanjoy Mahajan book. In general, we try to estimate answers using what we already know off the top off our heads, but Googling for starter data is fine. 
 - We take turns posting a problem in the Discord channel every Monday, using the prompt bot (under development, see [[Brainstorm for Prompt Bot]]). The others in the group then take a stab at solving it. If you'd like to participate in problem-setting, simply add yourself to list of names below.  We will rotate through the week, and each person will "tag" the next person in the Discord channel
 - [[Fermi Gym Webpage on yakcollective.org]]
@@ -43,7 +45,7 @@
         - Very simple demo problem
 - Season 1
     - December 3rd: [[Season 1: kickoff]]
-    - Dec 4-Dec 11: [[Season 1: brainstorm]]
+    - Dec 4-Dec 11: [[Season 1: brainstorm week]]
     - Dec 12-Dec 19: [[Season 1: Question Formulation]]
     - Dec 20-Feb 3: [[Season 1: Gym Sessions]]
 - Season 2:
