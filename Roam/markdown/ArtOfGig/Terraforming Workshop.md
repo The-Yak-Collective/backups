@@ -3,7 +3,8 @@
     - We read a paper/article or do a small learning task every week. New readings and prompts are posted on Thursdays.
     - The readings are oriented around a couple seasons. First season is an orientation to the first terraforming. The second season goes sector by sector using John Doerr's book speed and scale plan as a framework. The third season focuses on collective action in the speed and scale plan. 
 - Curriculum
-    - **First season** -- **orientation to the first terraform**ing
+    - See "Collision Orbit" for the first use of the word terraforming: https://archive.org/details/sim_astounding-science-fiction_1942-07_29_5/page/26/mode/2up
+    - **Zero-th season** -- **orientation to the first terraforming** (general climate science background aka stumbling forward in 2022)
         - Week zero -- background / context
             - PROMPT: share an image -- from a movie, sci fi book, meme, whatever -- that embodies your default mental model of how climate change will impact YOUR life in 20 years. 
                 - VGR I actually had 3 images pop up in my mind. A parched desert, a survivalist homestead/compound, and a dense megacity. The last of these is associated in my head with Asimov's Caves of Steel, and I think is the dominant picture. Dense megacities is it.
@@ -82,7 +83,22 @@ above pre-industrial levels
                 - https://link.springer.com/content/pdf/10.1007/s10584-021-03198-7.pdf
             - Effective altruist forum thread
                 - https://www.dropbox.com/s/abv8fe4pjwncy72/Good%20news%20on%20climate%20change%20-%20EA%20Forum.pdf?dl=0
-    - **Second season** -- **decarbonizing with speed at scale** -- sector and regional focuses
+    - **First proper season** -- playing around with the idea of focusing on California -- Draft prompt ideas
+        - Salton sea -- analyze the prospect of Lithium Valley for EV materials and geothermal energy from a PESTLE framework
+        - Analyze CA’s massive energy transition goals from a PESTLE framework  https://cafwd.org/resources/building-a-sustainable-energy-future-a-call-to-action/ 
+            - Maybe also share Pete Weber's presentation
+            - Q's...
+                - What surprised you? What are your biggest takeaways for global terraforming? 
+        - Glen Canyon damn removal? 
+        - Rewilding parts of the state? 
+        - Reseeding the kelp forests which have been decimated ~95% https://www.economist.com/1843/2021/10/29/sea-urchins-v-kelp-the-fight-for-californias-marine-life
+        - What are other good resources on how California has already been terraformed? See the elimination of Tulare lake, Central Valley transformation, channelization of the LA River, creation of the Salton Sea...
+        - Carbon removal?
+        - Cement?
+        - Exporting carbon viz a viz deindustrialization?
+        - 
+- Additional Resources
+    - **additional resources part one** -- **decarbonizing with speed at scale** -- sector and regional focuses
         - Electrify transportation -- land
             - NEED more industry focused analysis on the transition
             - Bloomberg / Aspen cities and Autonomous Vehicles: https://learn.sharedusemobilitycenter.org/overview/bloomberg-philanthropies-aspen-institute-initiative-on-cities-and-autonomous-vehicles-2017/#:~:text=In%202017%2C%20Bloomberg%20Philanthropies%20and,AVs)%20between%202017%20and%202019. 
@@ -126,7 +142,7 @@ above pre-industrial levels
             - The other angle is the variety of technological approaches (DAC, mineralization etc)
         - Other
             - Mission Possible: Reaching net-zero carbon emissions from harder-to-abate sectors https://www.energy-transitions.org/publications/mission-possible/#download-form 
-    - **Third season** -- **Collective Action** --  "How do we get it done? Four objectives guide us on how to avert disaster and ensure a livable planet for generations to come."
+    - **additional resources part two** -- **Collective Action** --  "How do we get it done? Four objectives guide us on how to avert disaster and ensure a livable planet for generations to come."
         - Win politics and policy
             - EV transition in CA
                 - https://energyathaas.wordpress.com/2022/05/09/13378/?unapproved=87138&moderation-hash=9c62a7228659eaee6278114d8513a28a#comment-87138 

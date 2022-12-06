@@ -8,4 +8,6 @@
             - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGUVZZR2VOSXc5bi4wNC40OSUyMEFNLnBuZz9hbHQ9bWVkaWEmdG9rZW49OGQ3MGM5Y2ItM2VlMS00NDM3LWFiZmEtODAzMDk5OWU1Nzhh)
     3. Introduction to Season 1 theme (David, Sensors): 1 hour
         - [David White Sensors Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQlEOLABCWZ9MNToWjiJ3lQQAFe8rnWz9JWHMRrI3UXZuw1zFZgE1ShUgJb-JYvp9Y6B2Op5AJDTujk/pub?start=false&loop=true&delayms=60000&slide=id.p)
+        - CCD tutorial https://www.mssl.ucl.ac.uk/www_detector/ccdgroup/optheory/ccdoperation.html
+        - Tutorial: https://www.philadelphia.edu.jo/academics/kaubaidy/uploads/Sensor-Lect4.pdf
 - 
