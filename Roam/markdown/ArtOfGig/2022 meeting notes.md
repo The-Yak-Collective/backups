@@ -737,5 +737,27 @@ problem, leading, in some cases, to poor representations of a problem.
         - Next week on Tier 0
             - Working example with Rhett, Jascha and Maier.
             - Look into Nvidia Omniverse or Unity?
+    - Dec. 7th
+        - On collaborative infrastructure
+        - Demo with TailScale on a RPi-based rover.
+            - Step by step review and discussion.
+            - Install TailScale with apt, link to a TailScale account, communicate.
+            - Less than 5 min to attach the rover to an account.
+            - Problem of naming conflict, and words like "spider" and "bot" seem forbidden.
+            - Adding the email address to the "group:yak" in  "Access controls" tab on TailScale allows to SSH into the newly-linked rover from anywhere.
+            - Demo pinging from the new rover to an existing one and back.
+            - On the network, the `yak-prime` machine exposes endpoints. Demo to access them from the new rover (metrics, cam capture).
+            - Questions
+                - Can we link a machine to several TailScale networks?
+                    - Apparently yes since last week
+                    - 2 nets at the same time.
+                - Each node has an owner associated. This can be replaced by tags. Owned nodes are "servers" (personal devices, so only the owner can SSH), tagged nodes are "clients" (everyone with permission can access through the tags). Tags are shared infrastructure.
+                - What is the Yak Rover project aiming at in terms of network?
+        - About changing the project to a study group on robotics, and rover as one topic
+            - Idea to breakdown into more focused topics. Typically like the one on networking the past few sessions. Others like ML, etc.
+            - Issue of creating islands.
+            - Potential to expose clearer topics that people can related to and join.
+            - Similar to what OpenRobotics is doing. But having a single mission is important toward a concrete goal.
+        - Next week on simulation, Jascha and Eric (something about Gazebo, Unity, Isaac?)
 - Hopper
     - Coworking session on interface for all types of robots
