@@ -1,0 +1,38 @@
+- Event overview and details
+    - ## First Half
+        - Sunday [[January 8th, 2023]], time TBC
+        - Opening Ceremony, time TBC (~1 hour)
+            - 3-6 Non-YC Speakers
+                - TBC
+        - Buffer, time TBC (~15-30 mins)
+            - Informal gathering/chatter/downtime for the willing and available
+        - Core Block, time TBC (~3-4 hours)
+            - AI Workshop
+            - Distributed Systems Studies
+            - Fermi Gym
+            - Governance Studies
+            - Terraforming
+            - Rover / Robotics Studies
+            - Infrastructure
+    - ## Interlude
+        - Monday [[January 9th, 2023]] to Saturday [[January 14th, 2023]]
+        - Interim Activities
+            - 
+    - ## Second Half
+        - Sunday [[January 15th, 2023]], time TBC
+        - Core Block, time TBC (~3-4 hours)
+        - Buffer, time TBC (~15-30 mins)
+            - Informal gathering/chatter/downtime for the willing and available
+        - Closing Ceremony, time TBC (~1 hour)
+            - 3-6 Non-YC Speakers
+                - TBC
+- Speaker pitch pack
+    - 10-20 minute lightning talk on a YC-adjacent topic
+        - Narrative / war stories OR technical-focused
+    - Audio only
+    - Talk (and Q&A) recording made available to speaker
+    - Pre/peri/post boosting from YC (and potentially other involved parties)
+    - Chance to:
+        - Catalyse a project under the YC umbrella on an easy, sustainable cadence
+        - Meet and greet diverse people with different skills, exp., perspectives
+        - Exposure to potentially interesting, ongoing projects within YC
