@@ -1,12 +1,12 @@
 - Event overview and details
     - ## First Half
-        - Sunday [[January 8th, 2023]], time TBC
-        - Opening Ceremony, time TBC (~1 hour)
+        - Sunday [[January 8th, 2023]], 1600-2000 UTC
+        - Opening Ceremony (~1600-1700 UTC)
             - 3-6 Non-YC Speakers
                 - TBC
-        - Buffer, time TBC (~15-30 mins)
+        - Buffer (~1700-1720 UTC)
             - Informal gathering/chatter/downtime for the willing and available
-        - Core Block, time TBC (~3-4 hours)
+        - Core Block (~1720-2000 UTC)
             - AI Workshop
             - Distributed Systems Studies
             - Fermi Gym
@@ -14,25 +14,40 @@
             - Terraforming
             - Rover / Robotics Studies
             - Infrastructure
+            - YakFit
+            - Story Telling
     - ## Interlude
         - Monday [[January 9th, 2023]] to Saturday [[January 14th, 2023]]
         - Interim Activities
-            - 
+            - TBC
     - ## Second Half
-        - Sunday [[January 15th, 2023]], time TBC
-        - Core Block, time TBC (~3-4 hours)
-        - Buffer, time TBC (~15-30 mins)
+        - Sunday [[January 15th, 2023]], 1600-2000 UTC
+        - Core Block (~1600-1840 UTC)
+            - TBC
+        - Buffer (~1840-1900 UTC)
             - Informal gathering/chatter/downtime for the willing and available
-        - Closing Ceremony, time TBC (~1 hour)
+        - Closing Ceremony (~1900-2000 UTC)
             - 3-6 Non-YC Speakers
                 - TBC
-- Speaker pitch pack
-    - 10-20 minute lightning talk on a YC-adjacent topic
-        - Narrative / war stories OR technical-focused
-    - Audio only
-    - Talk (and Q&A) recording made available to speaker
-    - Pre/peri/post boosting from YC (and potentially other involved parties)
-    - Chance to:
-        - Catalyse a project under the YC umbrella on an easy, sustainable cadence
-        - Meet and greet diverse people with different skills, exp., perspectives
-        - Exposure to potentially interesting, ongoing projects within YC
+- Opening/closing ceremony speakers
+    - Candidates
+        - 2 x pending via [[Matthew Sweet]] on themes of operationalising cutting-edge ML research and either old school internet protocols or new dev of IoT protocols
+    - Pitching
+        - What we're asking for
+            - 10-20 minute lightning talk on a YC-adjacent topic
+                - Narrative / war stories OR technical-focused
+        - Value add for speakers
+            - Audio only and informal
+            - Talk (and Q&A) recording made available to speaker
+            - Pre/peri/post boosting from YC (and potentially other involved parties)
+                - Social media before, during, after
+                - Annoucements/write-ups before and/or after
+            - Chance to:
+                - Catalyse a project within YC umbrella at an easy, sustainable cadence
+                - Meet and greet diverse people with different skills, exp., perspectives
+                - Get involved with interesting ongoing projects within YC
+        - Additional speaker asks
+            - Pick a day and slot
+                - Opening or closing ceremony
+                - 1 of 3/4 slots
+            - Provide a short bio, talk title/tagline and place to link to (site, social handle)
