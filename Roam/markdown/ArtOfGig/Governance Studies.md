@@ -10,6 +10,77 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - What I learned co-founding Vox
+        - Bryan
+            - What is success?
+                - hitting KPIs?
+                - Clout and legacy?
+                - Mission Accomplished?
+            - Appears that they didn't try hard enough and didn't use their imaginations
+                - Founding team has all left, why?
+            - You can't try to disrupt only part of the incumbent playbook
+            - "This was not an important aspect of the analog journalism skillset because editorial staIers had to \ght to obtain precious column inches. In digital, the space is limitless, so it’s generally good to do more."
+                - this assumption seems wrong
+                - constraints are good
+            - how to train people to do performance art vs do a job
+            - obligatory "low interest rate" comment
+            - no plan, no strategy, just vibes
+            - reminds me of nymag in the 70s, hostile takeover by Rupert Murdoch
+                - ironically nymag is now owned by vox
+        - Venkat
+            - interesting on two levels
+                - story of media landscape over last 15 years
+                    - coincides w/ ribbonfarm arc, the road not taken for him
+                    - nothing too surprising, clickbait artists, etc
+                - degree to which platforms ended up shaping content strategy
+                    - long narrative leads for recipes, etc
+                    - writing for algorithms instead of audience
+            - convo at Yak C about tech stack and environment we use
+                - we feel similar pressures w/r/t to VC backed platforms
+                - some time VC/ad-supported biz models have to make more money
+                - DAO tool crowd will have to deal with the same thing
+            - purely internal strategies don't map onto extrnal environment, you might have to give up on it
+            - governance context on strategy
+        - Shreeda
+            - can't scale a small group's instincts, can't commodify high-quality mission-driven thinking
+            - coordination headwinds probably maps onto this too
+            - platforms stipulating what content looks like
+            - history of 21st century journalism...need a book about this
+            - how TED talks have influenced a lot of downstream thinking
+            - ending was meh, feels like author is pandering
+        - Sachin
+            - even if author could've solved their problems, it never seemed like Vox went deep, they just descriped things, would've been disrupted by AI anyways
+            - chat GPT reduces the value of thin descriptions
+            - thin desc have zero marginal cost, easy to get them via compute
+            - platforms changed journo status game from writing for a specific outlet to having a following on twitter, substack readers, etc
+            - outlets are the middleman, can be disrupted
+                - outlets cashing in with clickbait articles
+                - clickbait articles are good fodder for twitter beef
+        - Jenna
+            - grow or die conundrum
+                - if you have to get huge to survive, that's no good
+            - things on YT w/ millions of views that you never hear of, remind how massive these platforms are. ideas spread fast
+            - inside baseball
+                - journos like to dunk on the author
+            - don't die, just find ways to survive
+        - Grigori
+            - issues of governance not discussed, understandable bc author is a writer
+                - publications live and die on backs of writers (in mind of the writers)
+                - chinese wall between writers and operations (ad sales, biz dev, etc)
+                - who is responsible for the business model
+                    - writers again think they are, but they aren't capable
+            - cannot take biz model for granted in the modern media landscape
+                - as soon as you think you have it, you probably don't
+            - zero to one
+                - rediscovered the difference between twitter and NY times
+                - thiel talked about how twitter has huge valuation because of bright future
+                - if you look back, twitter goes sideways, NY times has grown
+            - misunderstanding of platforms in this article
+                - author blames platforms
+                    - news orgs were some of the first platforms in the world
+                        - because they were the first two-sided marketplace
+                        - don't understand why news orgs have forgotten about this, instead blame the platforms
+            - story of NY times success is interesting, need to find an account of it
     - Bobos
         - Bryan
         - Grigori
