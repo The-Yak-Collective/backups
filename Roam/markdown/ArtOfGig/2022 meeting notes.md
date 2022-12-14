@@ -759,5 +759,39 @@ problem, leading, in some cases, to poor representations of a problem.
             - Potential to expose clearer topics that people can related to and join.
             - Similar to what OpenRobotics is doing. But having a single mission is important toward a concrete goal.
         - Next week on simulation, Jascha and Eric (something about Gazebo, Unity, Isaac?)
+    - Dec. 14th
+        - On simulators
+        - Goals of simulation
+            - Photo-realistic simulations for show/demo
+            - Doing Science and ML when good physics engine
+            - Possible world reviews (e.g. a full space mission)
+            - Robot application development
+            - Breaking time constraints (science, review, development)
+        - Frame for YR, it would be great to have headless simulators available.
+            - With fully-fledged VMs, more than containers to access raw resources.
+            - Problems like each simulator is an ecosystem with learning curve.
+        - Frame for robotics in general
+            - Several dimensions like photo-realism and physics realism.
+            - So easy to get photo-realistic simulators with GPU that doing anything else.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FcQ6tOwQgDh.png?alt=media&token=3bc402dc-fe75-4b03-bce5-d0a8e4cea053)
+        - Nvidia Isaac
+            - "The Gorilla" around SV, as Jetson is easy to get for performance on robots.
+            - Photorealistic, accurate
+            - Some other simulators claim better physics engines, but not photo realistic.
+        - Unity
+            - Game Engine ramping up on robotics simulations
+            - Promising, but hard to install, mandatory license (free ones available).
+            - Some companies offer services, e.g. https://roboticsimulationservices.com/
+        - Gazebo
+            - Related to ROS
+            - Open source and more flexible
+            - Not backed by a large company, and feels less dynamic/driven in the changing landscape.
+        - "Academic" simulators:
+            - MuJoCo: Acquired by DeepMind.
+            - SimBenchmark
+            - CoppeliaSim: Can plug physics engine, can run headlessly.
+            - WorldViz Vizard
+        - Links shared during the presentation: https://discord.com/channels/692111190851059762/779070653122084864/1049411994169651200
+        - Next week: Continue on simulation, review of the Unity ecosystem for robotics (Eric)
 - Hopper
     - Coworking session on interface for all types of robots

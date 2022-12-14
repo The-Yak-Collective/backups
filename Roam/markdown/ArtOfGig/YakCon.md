@@ -4,18 +4,34 @@
         - Opening Ceremony (~1600-1700 UTC)
             - 3-6 Non-YC Speakers
                 - TBC
+            - Potential: all-hands open floor / tinkering show-and-tell
         - Buffer (~1700-1720 UTC)
             - Informal gathering/chatter/downtime for the willing and available
         - Core Block (~1720-2000 UTC)
-            - AI Workshop
-            - Distributed Systems Studies
-            - Fermi Gym
-            - Governance Studies
-            - Terraforming
-            - Rover / Robotics Studies
-            - Infrastructure
-            - YakFit
-            - Story Telling
+            - All-hands: track intros
+            - Breakouts
+                - Asks for point runners of each track
+                    - Quick intro to the track at all-hands
+                    - Review/summarise track activity in the past year / months
+                    - Formulate a take-home async activity for the interlude
+                    - Facilitate take-home activity synthesis and regroup
+                - Tracks / streams
+                    - Distributed Systems Studies
+                        - Point: [[Venkatesh Rao]]
+                    - Rover / Robotics Studies
+                        - Point: [[Anuraj R]]
+                    - Governance Studies
+                        - Point: [[Bryan King]]
+                    - Fermi Gym
+                        - Point: [[David White]]
+                    - Infrastructure
+                        - Point: [[Nathan Acks]]
+                    - Terraforming
+                        - Point: [[Patrick Atwater]]
+                    - YakFit
+                        - Point: [[Jenna Dixon]]
+                    - Story Telling
+                        - Point: [[Sachin Benny]]
     - ## Interlude
         - Monday [[January 9th, 2023]] to Saturday [[January 14th, 2023]]
         - Interim Activities
@@ -29,6 +45,7 @@
         - Closing Ceremony (~1900-2000 UTC)
             - 3-6 Non-YC Speakers
                 - TBC
+            - Potential: all-hands open floor / tinkering show-and-tell
 - Opening/closing ceremony speakers
     - Candidates
         - 2 x pending via [[Matthew Sweet]] on themes of operationalising cutting-edge ML research and either old school internet protocols or new dev of IoT protocols
