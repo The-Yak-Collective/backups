@@ -10,6 +10,44 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - Great Founder Theory
+        - Bryan
+            - yeah duh airport management book vibes
+            - lots of founders actually don't do a good job and/or build something that's not great that still somehow succeeds
+                - also what about when founders sell or otherwise rescind power to someone else who continues building and maintaining the thing
+            - author seems to be focused on pattern matching the last century's leaders, but what would he say about the emergence of the BDFL archetype?
+            - author seems to think that everything is high stakes, all or nothing
+            - leadership in military an sport?
+        - Grigori
+            - suprised this topic is still discussed
+                - in his part of the world, War and Peace helped settle this 150 years ago
+                    - great men are just labels, it's easy to have them, they don't really provide power themselves
+                    - https://www.marxists.org/archive/tolstoy/1869/war-and-peace/book-9-chapter-1.html
+            - if you dive deeper into his examples (gov, biz, uni), they lose track of foundational principles and people
+        - Matthew
+            - whats the outcome of the founder-victim mindset?
+            - weary of framing around great founders
+                - body of institution is standing in the way of individuals are capable of getting the institutional goals achieved
+                    - that feels naive
+                    - in institutions, there's usually good reason that the brakes have been applied
+            - can looking at history become an infohazard?
+        - Sachin
+            - type of thinking that leads to people believing in SBF-type characters
+                - gets proven time and again but always comes back
+            - great founder theory leads to less technological development?
+        - Shreeda
+            - parallel between big man stuff and great founders
+                - great founder is aspirational version of big man
+            - institutions don't follow evolution...they lack memes, etc
+                - how buildings learn...maybe there is mechanism for evolution
+            - his idea of institution is different from fukayama's
+                - FF describes it as extension of military states
+        - Bryan
+        - Venkat
+            - Copying over my page of links on [[Straussian]] philosophy in case we want to read more on that, it's sort of the steelmanned version of this stuff
+            - Adding screenshots of my thread
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F9xINguaeKF.png?alt=media&token=75be4101-10fb-4259-bbff-95e868067ba7)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FINjBFtG7kM.png?alt=media&token=39dd9e01-6903-4a3a-91cf-6fbb5f290eef)
     - What I learned co-founding Vox
         - Bryan
             - What is success?
@@ -303,7 +341,6 @@
                 - role cannot be attached to specific people
                     - BDFM should be a learnable role, anyone should be able to observe  how things work and then go off and do something themselves
                 - 
-    - 
     - Season 2 Synth Notes - Nov 4, 2022
         - Venkat
             - lighthouse reads - shed light on territory, reflect frame of rest of thinking
@@ -1368,7 +1405,6 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - worth finding a review
         - Jenna
             - likes tracking the turning points, where things started to go wrong
-    - 
 - Summary of readings 21-22
     - Bryan 
         - Cory Doctrow disney article - lore - governance ideas
