@@ -11,8 +11,8 @@
             - All-hands: track intros
             - Breakouts
                 - Asks for point runners of each track
-                    - Quick intro to the track at all-hands
-                    - Review/summarise track activity in the past year / months
+                    - Quick intro to the track at all-hands (5 minutes)
+                    - Review/summarise track activity in the past year / months (10 minutes)
                     - Formulate a take-home async activity for the interlude
                     - Facilitate take-home activity synthesis and regroup
                 - Tracks / streams

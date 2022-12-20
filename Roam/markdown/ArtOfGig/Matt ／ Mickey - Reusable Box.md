@@ -1,0 +1,79 @@
+- Key Qs
+    - What “market wedge” __might __OceanSix choose for the product, which will enable market penetration with low risk?
+        - The answer __should__ include a general proposed path to success and the reasoning behind it
+        - No requirement, but definitely a plus, to refer to specific competitors or potential collaborators in any particular suggested niche
+    - What modifications __should__ be made to the product to make it suitable for that market wedge?
+- Outline
+    - Market wedge: **medical / healthcare / clinical supplies**
+        - Why?
+            - High volume / throughput of products
+                - Diversity of services and materials
+                - Continuous nature of service function and provision
+                - Minimum orders for products (provider or supplier mandated)
+            - High value of products
+                - Cost / value of specialised consumables / items and liquids
+                - Sensitivity of specialised consumables / items and liquids
+                - Bulk value of generic consumables / items and liquids
+                - Example products
+                    - Clinical consumables / items
+                    - Laboratory consumables / items
+                    - Laboratory liquids
+                    - Generic liquids
+            - Multiple vectors of packaging movement
+                - Supplier >>> site
+                - Site >>> supplier
+                - Delivery location >>> centralised site store
+                - Delivery location >>> centralised department / team store
+                - Site store >>> departments / teams / functions
+            - Discrete use cases enable experimentation, verification, targeted rollout
+                - Discrete via product line / items
+                - Discrete via teams / departments / functions
+                - Discrete via suppliers / organisations
+                - Discrete via packaging movement vector
+            - B2B with >1 well-resourced, innovation-focused party
+                - Hospitals / healthcare providers that are incredibly resource-sensitive
+                - Departments / teams relying on inefficient, labour-intensive workarounds
+                - Resource-rich suppliers that are incentivised to appear innovative / sustainable
+            - Current materials
+                - One-use plastic wrappers for regulated / clinical consumables
+                - Plastic / paper / sawdust for outer-inner fillers, spill protection, buffers
+                - Cardboard for whole delivery packaging and unit / pack packaging
+                - Various one-use tapes used for sealing inner and outer packaging
+                - Adhesive document sleeves for delivery notes / information
+            - Distribution and reception of packaging
+                - Cardboard doesn't protect valuable / sensitive contents during distribution
+                - Nested cardboard boxes are excessive and not effective utilisers of space
+                - Distribution often via third-party couriers / logistics orgs
+            - Reception and processing of packaging
+                - Larger packaging must be unsealed, entered, decomposed and collected
+                - One-use / filler / buffer plastics and spillage protection must be discarded
+                - Smaller unit / packs as above, or stacked in centralised stores
+            - Storage and re-use of packaging
+                - Some packaging stored (unsafely / inefficiently) for intra-site distribution
+                - Extra depots / network paths required for packaging storage / circulation
+                - Some packaging becomes default form factor for stores
+                - Various tapes used for sealing inner and outer packaging that is reused
+                - Adhesive document sleeves for notes / information during reuse
+            - Return and disposal of packaging
+                - Unstored / non-reused packaging wasted or industrially recycled
+                - Certain packaging (e.g. laboratory liquids) kept, re-filled and returned (encased in stored/saved packaging from previous deliveries)
+    - Modifications (generic) for selected market wedge
+        - Integrated document / note / info sleeve on exterior
+        - Standardised form factors aligned with existing packaging form factors
+        - Built-in sealing / closure mechanisms
+        - Inserts for item / inner package stabilisation
+        - Inserts for item / inner package segregation
+        - Compatible with cleaning / sterilisation processes
+        - 
+        - Shipping / distribution form factors vs smaller, on-site form factors
+        - Collapsible and small storage footprint for re-use and return
+    - Entry-points / scenarios
+        - Possible cases
+            - Cold chain control and verification
+            - Central stores for intra-site circulation of items
+            - Laboratory liquid packaging distribution and return
+            - Targeted site-supplier product line packaging upgrade
+        - For each
+            - Interested / involved parties
+            - Diagram / mapping of movement / ecosystem
+            - Packaging design constraints / modifications
