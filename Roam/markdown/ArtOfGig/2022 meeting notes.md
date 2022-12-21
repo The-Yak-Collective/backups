@@ -793,5 +793,71 @@ problem, leading, in some cases, to poor representations of a problem.
             - WorldViz Vizard
         - Links shared during the presentation: https://discord.com/channels/692111190851059762/779070653122084864/1049411994169651200
         - Next week: Continue on simulation, review of the Unity ecosystem for robotics (Eric)
+    - Dec. 21st
+        - Review of Unity for robotics
+        - Unity
+            - Game tooling for 2D and 3D game, with physics engine.
+            - It was popular when Eric used it (~2014) and apparently a leading company in the gaming industry.
+        - Unity for robotics
+            - Unity leveraging its virtual potential to robotics simulation.
+            - https://github.com/Unity-Technologies/Unity-Robotics-Hub
+            - Quite some focus on ROS robotic software
+            - Extra tools (packages/plugins) to use in Unity for creating virtual robots, and for interacting with a ROS control software.
+            - Asset library where free and paid contents allow to create worlds, etc
+            - Several samples involve machine learning stages
+                - Perceived as an enabling features for many new robotic applications.
+                - Simulators can be very valuable to generate synthetic (=fake) realistic training data, thus cutting development cost significantly.
+                - Similar placement from Nvidia Omniverse (maybe, as murky goals).
+                - Note this kind of "sim2real" tooling is about closing the gap with running on a real robot in a real environment. It is independent from ML, so 2 interleaved trends here:
+                    - sim2real for "plain" robots and for "ML" robots
+                    - cross-feeding sim-ML, where sim allows training ML faster, and ML asking for more sim to get more data.
+        - Content review
+            - Quick overview of what Unity and the robotics pieces look.
+            - Expected review of two tutorials on pose estimation and SLAM scenario
+            - At this point, failed review of a pose estimation tutorial
+                - https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation
+                - Problems with package management, mainly (conflicts in their management by Unity apparently)
+            - Just mentioned and shown screenshots of the SLAM tutorial
+                - https://github.com/Unity-Technologies/Robotics-Nav2-SLAM-Example
+                - Just lacked time to set this one up.
+        - Questions
+            - Physics engine? [Integrated to Unity](https://unity.com/solutions/programming-physics)
+            - Problems from running on a Mac? Game development really happens on Windows, and Unity is from there.
+                - Several problems in the ROS tutorials, but mostly independent from the OS.
+                - Problems really in the package management by Unity, apparently (it imports dependency without reconciliation, leading to packages loaded twice, and incompatible versions)
+                - When used in 2014, again on a Mac, it was working just fine already.
+            - On running headless:
+                - Yes, but perhaps not as others like Gazebo.
+                - When we want to run an (interactive) scenario in Unity, the software builds a binary, which is in turn run. The binary is interactive, meaning it can accept input (from a game controller or ROS commands) and exposes output (telemetry, display streams, and to ROS topic adapters)
+                - So we can run headless on the binary.
+                - This is not "as headless as" Gazebo for example, as the build in Unity must happen in a licensed environment. Personal use builds in the UI (blocking it completely while it happens), and more professional solutions call for paid accounts.
+                - With the binary, a colleague managed to wrap in a Docker container (on a custom image I built for our tentative CI for robotics service), and it runs just fine. So licensing is not a technical issue, it may just mean we cannot build a paid service using Unity.
+            - Comparison with Gazebo
+                - Main point to Eric is their different lineages
+                - Gazebo is born in robotics.
+                    - The robot is at the center.
+                    - Tools organisation and purpose is for robots engineers, with facilities somewhat at hand reach for a roboticist mind set.
+                    - World building is harder and demanding. E.g. Louis and Fabian last year on their lunar surface generation for the NASA challenge.
+                - Unity is born in game development, world building.
+                    - The world and its agents are at the center.
+                    - A target robot is just one of many agents.
+                    - Organisation is tailored for world building, rather than a center-of-the-universe robot. Tooling is more generic (in a way) and aimed at great illusions, rather than real-ish robot joints (which are modelled then in the ROS extensions for Unity).
+                - Today roboticists are more likely to use Gazebo (when they do use a simulator!). But tomorrow, world building is to me the most important, as robust robots have to deal with some degree of "openendedness", which is impractical before launch, e.g. self-driving cars slow progress.
+                    - I intend to publish soonish a review of companies (117 robotics international companies, to date).
+                    - Relevant here:
+                        - 29 do not use sim
+                        - Gazebo is the first sim with 25
+                        - Unity is third/fourth with 8
+                        - Second is actually robot manufacturer's own simulator, and some same "in house" simulator, which sometimes means the manufacturer's (that's why Unity is either 3rd or 4th here---need to work more on this one)
+                    - Depending on the work and attitude behind Gazebo, this snapshot may change well in the next few years.
+                        - The Gazebo community and documentation are issues for many, apparently. It may change with the ROS2 industrial push.
+                        - Unity is lauded for its documentation and community. This is however true for the game development side. On the ROS integration, quite limited.
+    - Dec 28th
+- Saturn Cycle
+    - Jan 3
+    - Jan 10
+- Uranus Cycle
+- Neptune Cycle
+- Pluto Cycle
 - Hopper
     - Coworking session on interface for all types of robots

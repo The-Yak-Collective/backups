@@ -1,0 +1,7 @@
+- [[YaRG Meeting Notes]]
+- Study tracks
+    - [[Robotics Simulation]]
+    - [["Tailscale for Robotics"]]
+- Projects
+    - [[Yak Rover]]
+- 

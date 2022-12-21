@@ -10,7 +10,7 @@
 - [[Procurement Directory]]
 - [[Yak Rover Reference Materials]]
 - [[Yak Rover 2021 Builds]]
-- [[Meeting Notes]]
+- [[YaRG Meeting Notes]]
 - [[Strawman Crowdfunded Project]]
 - License Discussion
     - According to a 2015 book on ROS

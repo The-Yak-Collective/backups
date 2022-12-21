@@ -25,6 +25,8 @@
                 - Delivery location >>> centralised site store
                 - Delivery location >>> centralised department / team store
                 - Site store >>> departments / teams / functions
+            - Established patterns of packaging movement
+                - No need to incentivise / engineer new behaviours
             - Discrete use cases enable experimentation, verification, targeted rollout
                 - Discrete via product line / items
                 - Discrete via teams / departments / functions
@@ -64,16 +66,63 @@
         - Inserts for item / inner package stabilisation
         - Inserts for item / inner package segregation
         - Compatible with cleaning / sterilisation processes
-        - 
-        - Shipping / distribution form factors vs smaller, on-site form factors
         - Collapsible and small storage footprint for re-use and return
     - Entry-points / scenarios
         - Possible cases
             - Cold chain control and verification
-            - Central stores for intra-site circulation of items
-            - Laboratory liquid packaging distribution and return
+                - Strength: strongest
             - Targeted site-supplier product line packaging upgrade
+                - Strength: medium
+            - Laboratory liquid packaging distribution and return
+                - Strength: weak
+            - Central stores for intra-site circulation of items
+                - Strength: weakest
         - For each
+            - Strength
             - Interested / involved parties
-            - Diagram / mapping of movement / ecosystem
+            - Involved systems / services / products
+                - Specific products, values, volumes, named suppliers and systems
+            - Diagram / mapping of existing movement / ecosystem
+            - Diagram / mapping of proposed movement / ecosystem
             - Packaging design constraints / modifications
+            - Problem being solved
+- Mickey:
+    - Cold chain control and verification:
+        - Involved parties:
+            - Wholesale/warehouse
+            - Transport
+            - Receiver:
+hospital/pharmacy/reseller
+        - Packaging design constraints / modifications
+            - Temperature sensor with memory – cold chain consistency check
+            - Lock/seal – integrity check
+            - Additional cooling pads/gels/insulation bags for lower temperatures (currently 2-3°c/ 4°c for 12-48 hours.)
+            - The mobile app combined with a QR code for administrative parts (input, output, signing…) App backend can be on blockchain to prevent retroactive tracking information changes. The blockchain part can sound like a gimmick, so we need to discuss it.
+        - Movement/flow:
+            - Wholesale/warehouse: goods are packaged appropriately, the temperature sensor is started, the box is sealed/locked, the app scans the box QR code, the operator enters the data about the shipment, shipment is transferred to transportation
+            - Transportation: courier scans the QR code of the box, and carries it to the destination, and transport is done in the cold chamber.
+            - Receiver: the receiver scans the QR code of the box, unlocks/unseals the box, opens, reads the sensor data, confirms shipment in the app, and stores the goods appropriately. If there were inappropriate temperature swings, the shipment is compromised, flagged in the app, and sent back.
+            - Circular part: two options: one is that the box is sent back empty. The other that it is filled with medical waste, sealed, and sent for waste management, then cleaned and sent back.
+    - Central stores for intra-site circulation of items:
+        - Involved parties:
+            - Central warehouse
+            - Optional courier
+            - Receiver: hospital
+ward/room
+        - Packaging design constraints / modifications
+            - Additional inlays for easier transport of different things
+            - Spill-proofing
+            - The mobile app combined with a QR code for administrative parts (input, output, signing…)
+        - Movement/flow:
+            - Warehouse: goods are packaged appropriately, the app scans the box QR code, the operator enters the output order, goods are taken by the receiver (who scans the QR code and accepts the input order) or optionally given to the courier
+            - Courier (optional): courier scans the QR code of the box, carries it to the destination
+            - Receiver: the receiver scans the QR code of the box, opens the box, confirms the input order, and stores the goods appropriately.
+            - Circular part: the receiver send/takes the box back to the warehouse to be ready for the next transfer. The other option is that the box is used as a medical locker within the hospital room.
+    - Laboratory liquid packaging distribution and return:
+        - Involved parties:
+        - Packaging design constraints / modifications
+        - Movement/flow:
+    - Targeted site-supplier product line packaging upgrade
+        - Involved parties:
+        - Packaging design constraints / modifications
+        - Movement/flow:

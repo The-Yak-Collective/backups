@@ -44,8 +44,8 @@
     - YakC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__
 - Only do subcontracts over national borders to mitigate counterparty risk of hiring international contracts.
     - "We try to make sure this doesn't happen."
-- [[Jordan Peacock]]
 - YC operating on a community-model/trust. 
+- [[Jordan Peacock]]
 - [[Venkatesh Rao]]
     - Possible 360-review process per project, report publicly available after project wraps.
 - Going for implicit over explicit guidelines here.
