@@ -3,8 +3,25 @@
         - The answer __should__ include a general proposed path to success and the reasoning behind it
         - No requirement, but definitely a plus, to refer to specific competitors or potential collaborators in any particular suggested niche
     - What modifications __should__ be made to the product to make it suitable for that market wedge?
+- Initial presentation Qs
+    - Views on the product?
+        - The reusable box is close to a commodity; literal design seems like a red ocean. Better to focus on adoption in particular niches, applications and ecosystems.
+    - What is the market niche?
+        - Medical / healthcare / clinical equipment and supplies
+        - See "Why?" below...
+    - What is the big challenge and how have you overcome it?
+        - Challenges
+            - Communicating the value-add of a switch to reusable packaging to the medical supplier and other firmly established, interconnected players
+            - Not making / enabling any fundamental innovations in the logistics process or doing any dramatic
+        - Overcoming
+            - The sustainability halo; align distribution with actual product packaging
+            - Material footprint reduction
+            - Reduction in processing time, cost, energy
+    - How did you get to this idea?
+        - Matt's partner is a biomedical scientist
+        - Mickey's partner is ex-Roche
 - Outline
-    - Market wedge: **medical / healthcare / clinical supplies**
+    - Market wedge: **medical / healthcare / clinical equipment and supplies**
         - Why?
             - High volume / throughput of products
                 - Diversity of services and materials
@@ -14,11 +31,6 @@
                 - Cost / value of specialised consumables / items and liquids
                 - Sensitivity of specialised consumables / items and liquids
                 - Bulk value of generic consumables / items and liquids
-                - Example products
-                    - Clinical consumables / items
-                    - Laboratory consumables / items
-                    - Laboratory liquids
-                    - Generic liquids
             - Multiple vectors of packaging movement
                 - Supplier >>> site
                 - Site >>> supplier
@@ -27,6 +39,7 @@
                 - Site store >>> departments / teams / functions
             - Established patterns of packaging movement
                 - No need to incentivise / engineer new behaviours
+                - Eliminating inefficiencies
             - Discrete use cases enable experimentation, verification, targeted rollout
                 - Discrete via product line / items
                 - Discrete via teams / departments / functions
@@ -36,12 +49,14 @@
                 - Hospitals / healthcare providers that are incredibly resource-sensitive
                 - Departments / teams relying on inefficient, labour-intensive workarounds
                 - Resource-rich suppliers that are incentivised to appear innovative / sustainable
+                - Distributors that are (mostly) agnostic to packaging form factors / constraints
             - Current materials
                 - One-use plastic wrappers for regulated / clinical consumables
                 - Plastic / paper / sawdust for outer-inner fillers, spill protection, buffers
                 - Cardboard for whole delivery packaging and unit / pack packaging
                 - Various one-use tapes used for sealing inner and outer packaging
                 - Adhesive document sleeves for delivery notes / information
+                - Actual products exhibit sophisticated packaging design / engineering
             - Distribution and reception of packaging
                 - Cardboard doesn't protect valuable / sensitive contents during distribution
                 - Nested cardboard boxes are excessive and not effective utilisers of space
@@ -69,23 +84,79 @@
         - Collapsible and small storage footprint for re-use and return
     - Entry-points / scenarios
         - Possible cases
-            - Cold chain control and verification
-                - Strength: strongest
-            - Targeted site-supplier product line packaging upgrade
-                - Strength: medium
-            - Laboratory liquid packaging distribution and return
-                - Strength: weak
-            - Central stores for intra-site circulation of items
-                - Strength: weakest
-        - For each
-            - Strength
-            - Interested / involved parties
-            - Involved systems / services / products
-                - Specific products, values, volumes, named suppliers and systems
-            - Diagram / mapping of existing movement / ecosystem
-            - Diagram / mapping of proposed movement / ecosystem
-            - Packaging design constraints / modifications
-            - Problem being solved
+            - Strongest case
+                - Supply of temperature-sensitive antibodies and reagents
+                    - Summary
+                        - Recurring provision of immunohistochemistry / immunocytochemistry (IHC/ICC) antibody and reagent kits from a global biotech org to a medium size NHS trust
+                    - Overview
+                        - Healthcare function
+                            - Immunohistochemistry / immunocytochemistry (IHC/ICC)
+                        - Interested / involved parties
+                            - Suppliers
+                                - Roche: https://www.roche.com
+                            - Distributor
+                                - DHL: https://www.dhl.com/gb-en/
+                            - End user
+                                - SW UK hospital trust (medium size)
+                        - Relevant products
+                            - IHC/ICC antibody kits for Roche OMNI analysers
+                                - Ordered monthly following stock take
+                                - Lower volume, very high cost (£1,000s per)
+                                - High variance
+                                - ~10ml per kit
+                                - Manufacturer mandated temp of 8-30 degrees cels.
+                                    - Exceptions invalidate test results
+                            - IHC/ICC reagents for Roche OMNI analysers
+                                - Ordered monthly following stock take
+                                - Higher volume, moderate cost (£10s/100s per)
+                                - Low variance
+                                - ~500ml bottles in packs of six
+                                - Manufacturer mandated temp of 8-30 degrees cels.
+                                    - Exceptions invalidate test results
+                    - Packaging design constraints / modifications
+                        - Current packaging
+                            - Large cardboard boxes filled with buffer material (e.g. packing peanuts, paper, sawdust, cardboard) containing smaller cardboard boxes
+                            - Unpacked upon arrival and taken into temp-controlled storage urgently
+                            - If excessively warm, additional ice pack included or shipped in styrofoam box containing ice packs
+                        - Modifications
+                            - Two distinct designs
+                                - Larger reusable distribution box appropriate to existing packaging form factors
+                                - Smaller reusable box appropriate to existing pack sizes that is suitable for on-site storage or dissemination / reuse elsewhere within the site
+                            - Mods (beyond the generic mentioned above)
+                                - Fillable coolant walls on either/both reusable boxes
+                                - Insertion of commodity temp checker
+                    - Movement / ecosystem
+                        - Current
+                            - Stock take performed by trust
+                            - Products purchased from supplier by trust
+                            - Supplier picks and packs products
+                            - Products shipped via third-party distribution to trust
+                            - Products received into storage and used by trust
+                        - Proposed
+                            - Stock take performed by trust
+                            - Products purchased from supplier by trust
+                            - Supplier picks and packs products in reusable boxes
+                            - Products shipped via third-party distribution to trust
+                            - Products received into storage and used by trust
+                            - **Existing stock of smaller reusable boxes and larger, outer packaging returned to supplier**
+                    - Problem(s) being solved
+                        - Current cardboard packaging is oversized
+                        - Current cardboard packaging is unsustainable/single-use
+                        - Current cardboard packaging doesn't protect products
+                        - Temps not guaranteed between supplier and arrival on site
+                        - Hidden cost inefficiency
+                            - Single-use, inefficiently sized cardboard packaging distributed 100 times likely costs more than nested reusable boxes (e.g. 1 large outer, 6-10 inner) being distributed and reused 100 times
+                        - Aligning distribution / bulk packaging with product packaging practices
+                            - e.g. this Roche article on reagent package design: https://www.roche.com/stories/efficiency-meets-ecology-in-evergreener
+            - Other cases
+                - Target the packaging of a high value, site-supplier product line
+                    - Supply of cartridges for Biocartis Idylla, the PCR-based (polymerase chain reaction) molecular testing platform
+                        - https://www.biocartis.com/en/meet-idylla/idylla-platform
+                - Upgrade packaging of circular clinical liquid management process
+                    - Recurring supply, return and safe disposal of solvents, formalin and other hazardous liquids
+                        - https://www.gentamedical.co.uk
+                - Enhance packaging of central stores distributing items around a site
+                    - Replacement of appropriated cardboard boxes from various deliveries to a site that are repurposed, stored and used to circulate items from central stores to relevant departments
 - Mickey:
     - Cold chain control and verification:
         - Involved parties:
