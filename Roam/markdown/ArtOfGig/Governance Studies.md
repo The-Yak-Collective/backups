@@ -10,6 +10,61 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - On Consensus and Humming in the IETF
+        - Grigori
+            - definition via negation
+                - what __cannot__ be said?
+                - dealing with people who don't want to vote but vote anyways
+            - all about power structure, not decision making structure
+                - the chairs have a lot of power, play a lot of power games
+        - Kiran
+            - "in the quest to avoid" they ended up with all three
+            - majority is starting point, not end
+                - looking for places to continue conversation
+        - Matthew
+            - how do you build in correction mechanisms to catch errors early?
+            - governance by explicit mechanics vs governance by vibe sampling
+            - this fails in an interesting way
+            - testing for consensus
+                - contemplative practice tools that explicitly designed to understand the assumptions that you have
+                    - what's the collective equivalent of that?
+            - rough consensus and running code not easy
+                - requires both technical and social proficiency
+                - cannot be transplanted into different contexts
+                    - brand new group couldn't pick this up and run with it
+        - Sachin
+            - getting rough consensus feels like the job of product manager
+            - equivalent of a hum in meetings
+                - raise objection -> lets take this offline
+            - how was it when people were working IRL together?
+                - online interfaces don't provide affordances for hums and subsequent discussions
+                - no way to build top-down alignment in an org w/ remote company
+            - echo matthew's point re:meditation
+        - Venkat
+            - IETF has lived through a bunch of historical-technical events
+                - important point, they are successful org
+                    - maybe moreso than w3c and eth governance
+            - comparing and constrasting to large corporations, since IETF is one of a few orgs of it's type
+                - most corps have condition of bureacratic capture
+                - in practice, corps are governed in ways that looks like this
+                - intel has been captured, amazon still run by king
+            - IETF is form of legitimate bureaucracy, it's designed to be a bureaucracy
+                - they think capture is a good thing, and the threat of democratic capture looms large
+                - democratic tendencies do so with ignorance of the rough consensus mechanisms
+            - diff from informal democracy
+                - hum start of convo vs. end
+                - matters of principle vs matters of taste
+            - healthy document within healthy tradition
+        - Bryan
+            - a lot of this comes down to expediency
+                - asking for objections instead of opinions means you can move on
+            - also seems like the most successful people I've encountered are the ones who have pointed objections but otherwise go with the flow
+            - trick is avoiding the "looks good to me" culture or worse "do what you want"
+            - second order hums
+                - getting people to acknowledge objections raised by others that they hadn't considered
+                    - especially present in multidiscipline groups that defer to a particular individual's expertise
+            - https://every.to/p/what-i-miss-about-working-at-stripe
+    - 
     - Great Founder Theory
         - Bryan
             - yeah duh airport management book vibes

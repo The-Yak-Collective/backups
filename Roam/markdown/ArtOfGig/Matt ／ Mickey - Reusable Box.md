@@ -12,7 +12,7 @@
     - What is the big challenge and how have you overcome it?
         - Challenges
             - Communicating the value-add of a switch to reusable packaging to the medical supplier and other firmly established, interconnected players
-            - Not making / enabling any fundamental innovations in the logistics process or doing any dramatic
+            - Not making / enabling any fundamental innovations in the logistics process or doing anything dramatic
         - Overcoming
             - The sustainability halo; align distribution with actual product packaging
             - Material footprint reduction
