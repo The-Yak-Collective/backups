@@ -1,71 +1,81 @@
 - Event overview and details
-    - ## First Half
-        - Sunday [[January 8th, 2023]], 1600-2000 UTC
-        - Opening Ceremony (~1600-1700 UTC)
-            - 3-6 Non-YC Speakers
-                - TBC
-            - Potential: all-hands open floor / tinkering show-and-tell
+    - ## 1st Half: Sun. [[January 8th, 2023]], 1600-2000 UTC
+        - Intro to YC and Session Orientation: [[Matthew Sweet]] (~1600-1620 UTC)
+        - Kick-Off Speaker (~1620-1700 UTC)
+            - Killian Butler Talk & Q/A
+                - Talk title
+                    - Productising ML Research
+                - Bio
+                    - Kilian is the Head of Product at Papercup. Papercup aims to make the world's media watchable in any language through building an automated media dubbing system that retains the expressivity of the original content. Prior to joining Papercup he worked at startups in several product roles in Dublin, Berlin and London.
+                - Links
+                    - https://www.linkedin.com/mwlite/in/kilianbutler
+                    - https://twitter.com/kilianbutler
         - Buffer (~1700-1720 UTC)
             - Informal gathering/chatter/downtime for the willing and available
-        - Core Block (~1720-2000 UTC)
-            - All-hands: track intros
-            - Breakouts
-                - Asks for point runners of each track
-                    - Quick intro to the track at all-hands (5 minutes)
-                    - Review/summarise track activity in the past year / months (10 minutes)
-                    - Formulate a take-home async activity for the interlude
-                    - Facilitate take-home activity synthesis and regroup
-                - Tracks / streams
-                    - Distributed Systems Studies
-                        - Point: [[Venkatesh Rao]]
-                    - Rover / Robotics Studies
-                        - Point: [[Anuraj R]]
-                    - Governance Studies
-                        - Point: [[Bryan King]]
-                    - Fermi Gym
-                        - Point: [[David White]]
-                    - Infrastructure
-                        - Point: [[Nathan Acks]]
-                    - 
-                    - Terraforming
-                        - Point: [[Patrick Atwater]]
-                    - YakFit
-                        - Point: [[Jenna Dixon]]
-                    - Story Telling
-                        - Point: [[Sachin Benny]]
+        - All-Hands: Track Intros and Recent Activity Review (~1720-1800 UTC)
+            - Fermi Gym with [[David White]]
+            - Distributed Systems Studies with [[Venkatesh Rao]]
+            - Governance Studies with [[Bryan King]]
+            - Rover / Robotics Studies with TBC
+            - Infrastructure with [[Nathan Acks]]
+        - Breakout Activities A (~1800-1900 UTC)
+            - Rover / Robotics Studies with TBC
+            - Distributed Systems Studies with [[Venkatesh Rao]]
+        - Breakout Activities B (~1900-2000 UTC)
+            - Fermi Gym with [[David White]]
+            - Governance Studies with [[Bryan King]]
+            - Infrastructure with [[Nathan Acks]]
+        - Closing (~2000-2010 UTC)
     - ## Interlude
         - Monday [[January 9th, 2023]] to Saturday [[January 14th, 2023]]
-        - Interim Activities
-            - TBC
-    - ## Second Half
-        - Sunday [[January 15th, 2023]], 1600-2000 UTC
-        - Core Block (~1600-1840 UTC)
-            - TBC
-        - Buffer (~1840-1900 UTC)
+        - Interim Asynchronous Activities
+            - Fermi Gym with [[David White]]
+            - Distributed Systems Studies with [[Venkatesh Rao]]
+            - Governance Studies with [[Bryan King]]
+            - Rover / Robotics Studies with TBC
+            - Infrastructure as self-paced build-a-thon (async assistance as needed from [[Nathan Acks]])
+    - ## 2nd Half: Sun [[January 15th, 2023]], 1600-2000 UTC
+        - Intro to YC and Session Orientation: [[Matthew Sweet]] (~1600-1620 UTC)
+        - Kick-Off Speaker (~1620-1700 UTC)
+            - Gordon Brander Talk & Q/A
+                - Talk title
+                    - TBC
+                - Bio
+                    - TBC
+                - Links
+                    - TBC
+        - Buffer (~1700-1720 UTC)
             - Informal gathering/chatter/downtime for the willing and available
-        - Closing Ceremony (~1900-2000 UTC)
-            - 3-6 Non-YC Speakers
-                - TBC
-            - Potential: all-hands open floor / tinkering show-and-tell
-- Opening/closing ceremony speakers
-    - Candidates
-        - 2 x pending via [[Matthew Sweet]] on themes of operationalising cutting-edge ML research and either old school internet protocols or new dev of IoT protocols
-    - Pitching
-        - What we're asking for
-            - 10-20 minute lightning talk on a YC-adjacent topic
-                - Narrative / war stories OR technical-focused
-        - Value add for speakers
-            - Audio only and informal
-            - Talk (and Q&A) recording made available to speaker
-            - Pre/peri/post boosting from YC (and potentially other involved parties)
-                - Social media before, during, after
-                - Annoucements/write-ups before and/or after
-            - Chance to:
-                - Catalyse a project within YC umbrella at an easy, sustainable cadence
-                - Meet and greet diverse people with different skills, exp., perspectives
-                - Get involved with interesting ongoing projects within YC
-        - Additional speaker asks
-            - Pick a day and slot
-                - Opening or closing ceremony
-                - 1 of 3/4 slots
-            - Provide a short bio, talk title/tagline and place to link to (site, social handle)
+        - All-Hands: Track Intros and Preview of Early 2023 (~1720-1800 UTC)
+            - Fermi Gym with [[David White]]
+            - Distributed Systems Studies with [[Venkatesh Rao]]
+            - Governance Studies with [[Bryan King]]
+            - Rover / Robotics Studies with TBC
+            - Infrastructure with [[Nathan Acks]]
+        - Breakout Activities A (~1800-1900 UTC)
+            - Rover / Robotics Studies with TBC
+            - Distributed Systems Studies with [[Venkatesh Rao]]
+        - Breakout Activities B (~1900-2000 UTC)
+            - Governance Studies with [[Bryan King]]
+            - Fermi Gym with [[David White]]
+            - Infrastructure with [[Nathan Acks]]
+        - Closing (~2000-2010 UTC)
+- Posts, promo, etc
+    - General/static
+        - Eventbrite
+        - YC.org event details
+    - Emails
+        - 1 x [[January 1st, 2022]]: advance notification/overview
+        - 1 x [[January 7th, 2023]]: before first session/preview
+        - 1 x [[January 9th, 2023]]: review of first, reminder of second session
+        - 1 x [[January 14th, 2023]]: before second session/preview
+        - 1 x [[January 16th, 2023]]: event wrap-up
+    - Social media
+        - [[January 7th, 2023]]: notification/thread before first session
+        - [[January 8th, 2023]]: live tweet/cast session
+        - [[January 14th, 2023]]: notification/thread before second session
+        - [[January 15th, 2023]]: live tweet/cast session
+        - [[January 16th, 2023]]: event wrap-up
+- Other
+    - Digital event provider
+    - Event recording and distribution

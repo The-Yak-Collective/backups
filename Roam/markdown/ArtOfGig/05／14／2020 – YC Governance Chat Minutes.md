@@ -15,10 +15,10 @@
                         - __Note: Will follow-up. Not sure if I got this down correctly. - Alex__
                 - 1) "Thinking about the conditions from voluntary activity to coercive expansion"
                     - "For example, Roam cult. There are people offering courses on how to set up and use Roam. Eventually, capital will become interested in Roam, a VC will invest.
-- [[Scott Garlinger]]
-    - https://the-syllabus.com/
 - Not better TED talks, or better bureaucracies. How do you build something to work as quickly as possible? 
     - Being minimum viable new institutions.
+- [[Scott Garlinger]]
+    - https://the-syllabus.com/
 - [[Alex Wagner]]
 - How to create a Grand Unifying Problem to create "head-in-the-game" culture for Yaks.
     - Existential threats are great, but so is an effective, and urgent narrative.
