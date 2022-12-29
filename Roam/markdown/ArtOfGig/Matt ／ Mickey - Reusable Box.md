@@ -85,7 +85,7 @@
     - Entry-points / scenarios
         - Possible cases
             - Strongest case
-                - Supply of temperature-sensitive antibodies and reagents
+                - Recurring supply of temperature-sensitive antibodies and reagents
                     - Summary
                         - Recurring provision of immunohistochemistry / immunocytochemistry (IHC/ICC) antibody and reagent kits from a global biotech org to a medium size NHS trust
                     - Overview
