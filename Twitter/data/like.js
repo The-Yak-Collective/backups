@@ -1,6 +1,13 @@
 window.YTD.like.part0 = [
   {
     "like" : {
+      "tweetId" : "1598632188144193537",
+      "fullText" : "@todd_x_y This is a pretty good shitpost because it's a binary use of the language for something which is inevitable and entirely non-binary :-)\nJoin @yak_collective and their distributed governance discussion.",
+      "expandedUrl" : "https://twitter.com/i/web/status/1598632188144193537"
+    }
+  },
+  {
+    "like" : {
       "tweetId" : "1543291730094706688",
       "fullText" : "finished one year of video-editing on the sides\n\nmy editing skills are improving at the speed a snail moves 😭",
       "expandedUrl" : "https://twitter.com/i/web/status/1543291730094706688"
@@ -9,7 +16,7 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1531770561172340736",
-      "fullText" : "@vgr @yak_collective https://t.co/KH8YlzbWgA",
+      "fullText" : "You’re unable to view this Tweet because this account owner limits who can view their Tweets. {learnmore}",
       "expandedUrl" : "https://twitter.com/i/web/status/1531770561172340736"
     }
   },
@@ -380,7 +387,7 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1257822265653198854",
-      "fullText" : "You’re unable to view this Tweet because this account owner limits who can view their Tweets. {learnmore}",
+      "fullText" : "@ScottAllen Haha, great finds, all super interesting!\n\nI wonder how to make this next level. \n\nI also wonder what would happen if we ran this on the photos from the TV shows. A lot of those start out incredibly grainy. Not sure the GAN could find something accurate, but would be fun to see.",
       "expandedUrl" : "https://twitter.com/i/web/status/1257822265653198854"
     }
   },
@@ -394,7 +401,7 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1257660250192314368",
-      "fullText" : "You’re unable to view this Tweet because this account owner limits who can view their Tweets. {learnmore}",
+      "fullText" : "You know how on TV they always snap \"enhance!\" and the blurriness magically resolves?\n\nI bet we could do that with a GAN and it would make a cool webapp",
       "expandedUrl" : "https://twitter.com/i/web/status/1257660250192314368"
     }
   },

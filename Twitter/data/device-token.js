@@ -52,5 +52,32 @@ window.YTD.device_token.part0 = [
       "lastSeenAt" : "2022-11-08T21:51:23.958Z",
       "clientApplicationName" : "Mobile Web (Twitter)"
     }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "PqSCxXMQMeK5Ywd4TlQ8RUB6eMKQbqyrSM0y8xax",
+      "createdAt" : "2022-11-15T20:07:06.634Z",
+      "lastSeenAt" : "2022-12-29T18:45:41.889Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "12dzqvpafc6X5rqzZ0vCvSchc00AZrDDN2pjt9T8",
+      "createdAt" : "2022-11-05T02:04:30.654Z",
+      "lastSeenAt" : "2022-12-29T18:47:13.724Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "4HW0wJfplvgbVm6Qz8rtS0oQbxM68Z2xevt4SX1v",
+      "createdAt" : "2022-11-13T00:27:55.878Z",
+      "lastSeenAt" : "2022-12-29T18:48:36.094Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
   }
 ]

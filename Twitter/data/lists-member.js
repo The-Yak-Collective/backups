@@ -1,6 +1,11 @@
 window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
+      "url" : "https://twitter.com/riveranomics/lists/1580154842374250496"
+    }
+  },
+  {
+    "userListInfo" : {
       "url" : "https://twitter.com/Folklore_0x/lists/1577214815034130432"
     }
   },
@@ -31,11 +36,6 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/edwardrooster/lists/1486718060505362435"
-    }
-  },
-  {
-    "userListInfo" : {
       "url" : "https://twitter.com/jsamlarose/lists/1468878669334650883"
     }
   },
@@ -52,16 +52,6 @@ window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
       "url" : "https://twitter.com/sub_pub_/lists/1410813730573611009"
-    }
-  },
-  {
-    "userListInfo" : {
-      "url" : "https://twitter.com/edwardrooster/lists/1407843362355527680"
-    }
-  },
-  {
-    "userListInfo" : {
-      "url" : "https://twitter.com/siiviv/lists/1407568365946695686"
     }
   },
   {
@@ -196,7 +186,12 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/ylimedeg/lists/project-program-futures"
+      "url" : "https://twitter.com/ProfessorStrix/lists/sense-makers"
+    }
+  },
+  {
+    "userListInfo" : {
+      "url" : "https://twitter.com/makanidotspace/lists/project-program-futures"
     }
   },
   {
@@ -207,11 +202,6 @@ window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
       "url" : "https://twitter.com/maxcuratella/lists/systems-change-practice"
-    }
-  },
-  {
-    "userListInfo" : {
-      "url" : "https://twitter.com/elbowspeak/lists/chanson"
     }
   },
   {

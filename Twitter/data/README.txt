@@ -244,38 +244,6 @@ app.js
 - appId: Identifier of the app Twitter believes may be installed on devices associated with the user.
 - appNames: Name of the app Twitter believes may be installed on devices associated with the user.
 ----------------------
-birdwatch-note-rating.js
-- noteId: Unique identifier for the Birdwatch note.
-- userId: The Twitter user ID of the author of the Birdwatch note rating.
-- createdAt: Day and time at which the Birdwatch note rating was created.
-- agree: Indicates whether the Twitter user agrees or not with the Birdwatch note, if available.
-- helpful: Indicates whether the Twitter user finds the Birdwatch note helpful or not helpful, if available.
-- helpfulTags: Tags the user added to this Birdwatch note, if available. (Options may include but are not limited to “clear“, “good source”, etc.)
-- nothelpfulTags: Tags the user added to this Birdwatch note, if available. (Options may include but are not limited to “outdated“, “incorrect“, etc.)
-- helpfulnessLevel: Indicates whether the Twitter user finds the Birdwatch note helpful or not, if available. (Options may include but are not limited to "helpful", "somewhat helpful", "not helpful", etc.)
-- userAlias: The Birdwatch alias of the author of the Birdwatch note rating.
-----------------------
-birdwatch-note-tombstone.js
-- noteId: Unique identifier for the Birdwatch note.
-- userId: The Twitter user ID of the author of the Birdwatch note.
-- createdAt: Day and time at which the Birdwatch note rating was created.
-- deletedAt: Day and time at which the Birdwatch note rating was deleted.
-----------------------
-birdwatch-note.js
-- noteId: Unique identifier for the Birdwatch note.
-- userId: The Twitter user ID of the author of the Birdwatch note.
-- createdAt: Day and time at which the Birdwatch note was created.
-- tweetId: Unique identifier for the Tweet annotated.
-- summary: Text of the Birdwatch note; users may explain why they think a Tweet is misleading and include what they believe to be correct information.
-- classification: Classification the user added to this Birdwatch note, if available. (Options may include but are not limited to "not misleading," "harmfully misleading," "potentially misleading," etc.)
-- believable: User-entered multiple choice response to note writing question: “If this tweet were widely spread, its message would likely be believed by:” (Options may include but are not limited to “believable by few”, “believable by many”, etc.) 
-- trustworthySources: Binary indicator, based on user-entered multiple choice in response to note writing question “Did you link to sources you believe most people would consider trustworthy?” (Options may include: 1 if “Yes” is selected, 0 if “No” is selected) 
-- misleadingTags: User-entered checkbox in response to question “Why do you believe this tweet may be misleading?” (Check all that apply question type)
-- notMisleadingTags: User-entered checkbox in response to question “Why do you believe this tweet is not misleading?” (Check all that apply question type).
-- harmful: User-entered multiple choice response to note writing question: “If many believed this tweet, it might cause:”. (Options may include but are not limited to “little harm”, “considerable harm”, etc.)
-- validation: User-entered multiple choice response to note writing question: “Finding and understanding the correct information would be:” (Options may include but are not limited to “easy”, “challenging”.)
-- userAlias: The Birdwatch alias of the author of the Birdwatch note.
-----------------------
 block.js
 - accountId: Unique identifiers of accounts currently blocked by the account.
 - userLink: Link to information about the blocked users’ profiles if accessible to the account. For example, this information might not be accessible if blocked profiles are protected or deactivated.
@@ -326,6 +294,38 @@ commerce-catalog.js
 - catalogType: The type of catalog, always set to Product
 - authorUserId: Your twitter user id
 - lastUpdatedAt: Timestamp when the catalog was last updated by you
+----------------------
+community-note-rating.js
+- noteId: Unique identifier for the Community note.
+- userId: The Twitter user ID of the author of the Community note rating.
+- createdAt: Day and time at which the Community note rating was created.
+- agree: Indicates whether the Twitter user agrees or not with the Community note, if available.
+- helpful: Indicates whether the Twitter user finds the Community note helpful or not helpful, if available.
+- helpfulTags: Tags the user added to this Community note, if available. (Options may include but are not limited to “clear“, “good source”, etc.)
+- nothelpfulTags: Tags the user added to this Community note, if available. (Options may include but are not limited to “outdated“, “incorrect“, etc.)
+- helpfulnessLevel: Indicates whether the Twitter user finds the Community note helpful or not, if available. (Options may include but are not limited to "helpful", "somewhat helpful", "not helpful", etc.)
+- userAlias: The Community alias of the author of the Community note rating.
+----------------------
+community-note-tombstone.js
+- noteId: Unique identifier for the Community note.
+- userId: The Twitter user ID of the author of the Community note.
+- createdAt: Day and time at which the Community note rating was created.
+- deletedAt: Day and time at which the Community note rating was deleted.
+----------------------
+community-note.js
+- noteId: Unique identifier for the Community note.
+- userId: The Twitter user ID of the author of the Community note.
+- createdAt: Day and time at which the Community note was created.
+- tweetId: Unique identifier for the Tweet annotated.
+- summary: Text of the Community note; users may explain why they think a Tweet is misleading and include what they believe to be correct information.
+- classification: Classification the user added to this Community note, if available. (Options may include but are not limited to "not misleading," "harmfully misleading," "potentially misleading," etc.)
+- believable: User-entered multiple choice response to note writing question: “If this tweet were widely spread, its message would likely be believed by:” (Options may include but are not limited to “believable by few”, “believable by many”, etc.) 
+- trustworthySources: Binary indicator, based on user-entered multiple choice in response to note writing question “Did you link to sources you believe most people would consider trustworthy?” (Options may include: 1 if “Yes” is selected, 0 if “No” is selected) 
+- misleadingTags: User-entered checkbox in response to question “Why do you believe this tweet may be misleading?” (Check all that apply question type)
+- notMisleadingTags: User-entered checkbox in response to question “Why do you believe this tweet is not misleading?” (Check all that apply question type).
+- harmful: User-entered multiple choice response to note writing question: “If many believed this tweet, it might cause:”. (Options may include but are not limited to “little harm”, “considerable harm”, etc.)
+- validation: User-entered multiple choice response to note writing question: “Finding and understanding the correct information would be:” (Options may include but are not limited to “easy”, “challenging”.)
+- userAlias: The Community alias of the author of the Community note.
 ----------------------
 community_tweet.js
 This JSON file contains all the Tweets posted in Communities and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
@@ -606,6 +606,9 @@ twitter-shop.js
 - name: Name of the shop provided by you
 - description: Description of the shop provided by you
 - productSetIds: list of product set ids provided by you. Items from this set will be displayed in the shop
+----------------------
+twitter_article_media
+Folder of images, videos, and/or gifs shared in the account’s Twitter Articles that are posted on the user profile. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
 ----------------------
 user-link-clicks.js
 - tweetId: Unique identifier for the Tweet the user clicked on when using Twitter on iOS or Android.

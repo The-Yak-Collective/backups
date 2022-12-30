@@ -9,11 +9,15 @@ window.YTD.personalization.part0 = [
           }
         ],
         "genderInfo" : {
-          "gender" : "female"
+          "gender" : "male"
         }
       },
       "interests" : {
         "interests" : [
+          {
+            "name" : "AI image generation",
+            "isDisabled" : false
+          },
           {
             "name" : "Ada Colau",
             "isDisabled" : false
@@ -24,6 +28,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Amazon",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Andor",
             "isDisabled" : false
           },
           {
@@ -103,6 +111,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Business & finance news",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Business news",
+            "isDisabled" : false
+          },
+          {
             "name" : "Business personalities",
             "isDisabled" : false
           },
@@ -112,6 +128,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Celebrities",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Central Banks",
             "isDisabled" : false
           },
           {
@@ -128,6 +148,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Computer programming",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Console gaming",
             "isDisabled" : false
           },
           {
@@ -148,10 +172,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Cybersecurity",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Devils",
             "isDisabled" : false
           },
           {
@@ -200,6 +220,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Ethereum cryptocurrency",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Events",
             "isDisabled" : false
           },
           {
@@ -283,6 +307,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Google Innovation",
+            "isDisabled" : false
+          },
+          {
             "name" : "Government institutions",
             "isDisabled" : false
           },
@@ -311,7 +339,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Jack Dorsey",
+            "isDisabled" : false
+          },
+          {
             "name" : "Journalists",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Julia Fox",
             "isDisabled" : false
           },
           {
@@ -375,6 +411,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Movies & TV",
+            "isDisabled" : false
+          },
+          {
             "name" : "Music",
             "isDisabled" : false
           },
@@ -404,6 +444,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Organic",
+            "isDisabled" : false
+          },
+          {
+            "name" : "PC gaming",
             "isDisabled" : false
           },
           {
@@ -463,6 +507,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Sci-fi & fantasy",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Sci-fi & fantasy TV",
+            "isDisabled" : false
+          },
+          {
             "name" : "Science",
             "isDisabled" : false
           },
@@ -472,6 +524,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Screenwriting",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Seasonal cooking",
             "isDisabled" : false
           },
           {
@@ -516,6 +572,14 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Tech news",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Tech news",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Tech personalities",
             "isDisabled" : false
           },
           {
@@ -579,6 +643,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Web3",
+            "isDisabled" : false
+          },
+          {
             "name" : "Writing",
             "isDisabled" : false
           },
@@ -625,6 +693,7 @@ window.YTD.personalization.part0 = [
             "@RapCaviar",
             "@RappiBrasil",
             "@RappiMexico",
+            "@RobinhoodApp",
             "@SeattleSmg",
             "@Spotify",
             "@SpotifyARG",
@@ -700,10 +769,12 @@ window.YTD.personalization.part0 = [
             "@Airbnb",
             "@Athleta",
             "@Atlassian",
+            "@BCG",
             "@BSSportsbook",
             "@BestBuy",
             "@BestBuyCanada",
             "@BestFoods",
+            "@Betterment",
             "@BrotherOffice",
             "@BusinessInsider",
             "@CIOonline",
@@ -733,7 +804,9 @@ window.YTD.personalization.part0 = [
             "@FXNetworks",
             "@Fidelity",
             "@FoodNetwork",
+            "@Forbes",
             "@Ford",
+            "@FortuneMagazine",
             "@FreeformTV",
             "@FrontiersIn",
             "@GenesisUSA",
@@ -744,6 +817,7 @@ window.YTD.personalization.part0 = [
             "@Hellmanns",
             "@HomeDepot",
             "@IPSY",
+            "@IllinoisLottery",
             "@IntelTech",
             "@Intuit",
             "@JaguarUSA",
@@ -753,7 +827,6 @@ window.YTD.personalization.part0 = [
             "@LiveNation",
             "@LoneStarBeer",
             "@Lowes",
-            "@MDPIOpenAccess",
             "@MINIUSA",
             "@MTNDEWENERGY",
             "@MTNDEWGaming",
@@ -770,13 +843,17 @@ window.YTD.personalization.part0 = [
             "@Oikos",
             "@OldNavy",
             "@OneOfNFT",
+            "@OutKickBets",
             "@PBS",
             "@POLITICOPro",
+            "@ParaBrandStudio",
             "@PayPal",
             "@PayPalUK",
             "@Porsche",
             "@Promodotcom",
+            "@Quaker",
             "@QuincyInst",
+            "@QuizGriz",
             "@RezDogsFX",
             "@SAPANZ",
             "@SIRIUSXM",
@@ -799,20 +876,22 @@ window.YTD.personalization.part0 = [
             "@TwoGoodYogurt",
             "@UberEats",
             "@UniFirst_Corp",
+            "@VICE",
+            "@VRSTbrand",
             "@VelaEdFund",
-            "@Velocity_Para",
             "@Venmo",
             "@Visa_Fr",
             "@WIRED",
             "@WSJ",
             "@Walmart",
-            "@WaltDisneyWorld",
             "@Wix",
             "@Xero",
+            "@Zoom",
             "@acprocold",
             "@alwayssunny",
             "@asahi_globe",
             "@astepro_us",
+            "@babylonmovie",
             "@biogen",
             "@bnnbstudio",
             "@bublywater",
@@ -834,19 +913,21 @@ window.YTD.personalization.part0 = [
             "@hbomax",
             "@hgtv",
             "@honeybook",
+            "@hulu",
             "@intel",
             "@investmentnews",
             "@kroger",
             "@lendistry",
             "@lotrimin",
             "@monmouthu",
+            "@naturabroficial",
             "@netflix",
             "@nobleaudio_jp",
             "@pandoramusic",
             "@patagonia",
             "@prodigalsonfox",
             "@rockstarenergy",
-            "@tickticktrader",
+            "@startefacts_",
             "@tmg_social",
             "@toocool2betrue",
             "@truthorange",
@@ -871,7 +952,7 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
-        "Los Angeles, CA, USA"
+        "New York, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [
