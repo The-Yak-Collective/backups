@@ -10,6 +10,48 @@
 - 
 - ---
 - ## Summer '22 Reading Tracks 
+    - Humming Part 2
+        - Matt
+            - managing exceptions instead of the typical case
+            - strength of disagreement is more important that the number of them
+                - strong objections are against consensus
+        - Jenna
+            - underlying assumption that there is a best technical solution
+                - if you know the best exists, why do you have to find consensus
+            - watership down, rabbits decision making
+                - suddenly group makes a decision and they start moving in the same direction
+        - Kiran
+            - outcome driven nature of IETF helps how they govern
+                - most online communities don't have to worry about making the right technical choice
+            - bringing along as many people as possible
+            - if you aren't outcome driven, how does that change governance?
+            - vote stuffing is harder to do face-to-face
+        - Venkat
+            - thinking about IETF more as judiciary
+                - preventing the tyranny of the masses
+                - not quite judiciary
+                    - judge in court room follows due process principles
+                    - if court is unable to reach conclusion within it's paramaters, the judges just make something up
+            - what happens if chair makes poor judgement call on technical matter
+                - often have forks, where subset of group splits off and tries to make a competiting alternative in the marketplace
+                - IETF is a monopoly
+                - judicial process where questions are raised to the marketplace to decide
+        - Grigori
+            - purpose of humming is to raise relevant issues and then address them
+                - that's why it happens at the start, to uncover issues
+            - doesn't really resolve main risks of thee methodology
+                - people come unprepared, don't see/understand the issues
+                - chair doesn't follow procedure, what seemed to be consensus in actually invalid
+                - chair used power to mislead the group
+                - participants have doubts, or have reasons to remain quiet
+                - participants playing power games
+            - 
+        - Bryan
+            - I don't know much about IETF, but assuming it doesn't make sense to fork it, so it doesn't have the same sorts of schisms that tend to develop in OSS
+            - consensus requires faith in the institution
+            - coersion in the face of consensus
+        - Matt
+            - Could technical power / political power / market power form something like an iron triangle?
     - On Consensus and Humming in the IETF
         - Grigori
             - definition via negation

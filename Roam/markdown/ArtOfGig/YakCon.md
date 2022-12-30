@@ -19,6 +19,7 @@
             - Governance Studies with [[Bryan King]]
             - Rover / Robotics Studies with TBC
             - Infrastructure with [[Nathan Acks]]
+            - Nascent activities with [[Matthew Sweet]]
         - 1755-1805: **Break**
         - 1805-1855: **Breakout Activities A**
             - Rover / Robotics Studies with TBC
@@ -39,10 +40,23 @@
             - Governance Studies with [[Bryan King]]
             - Rover / Robotics Studies with TBC
             - Infrastructure as self-paced build-a-thon (async assistance as needed from [[Nathan Acks]])
+        - Integrated Regular YC Sessions
+            - TBC
     - ## Part Two: Sun [[January 15th, 2023]], 1600-2000 UTC
         - 1600-1620: **Intro to YC and Session Orientation**
             - via [[Matthew Sweet]]
         - 1620-1700: **Kick-Off Speaker(s)**
+            - Mike Casey Talk & Q/A
+                - Talk title
+                    - Can Crypto Close the $4 Trillion SME Financing Gap?
+                - Bio
+                    - Mike Casey is the founder of Portico Advisers, a firm that works with entrepreneurs and investors in complex markets facing capital scarcity — whether that's by geography (e.g., Africa) or vertical (e.g., life sciences).
+                    - Previously, Mike advised private equity, sovereign wealth fund, hedge fund, and corporate clients on investments in more than 20 countries. He started his career working on strategy at the U.S. Department of Defense.
+                    - Mike holds an MA in International Relations and Economics from the Johns Hopkins University School of Advanced International Studies.
+                - Links
+                    - https://porticoadvisers.com/
+                    - https://www.mcasey.xyz/
+                    - http://fcast.me/mc
             - Gordon Brander Talk & Q/A
                 - Talk title
                     - TBC
@@ -58,6 +72,7 @@
             - Governance Studies with [[Bryan King]]
             - Rover / Robotics Studies with TBC
             - Infrastructure with [[Nathan Acks]]
+            - Nascent activities with [[Matthew Sweet]]
         - 1755-1805: **Break**
         - 1805-1855: **Breakout Activities A**
             - Rover / Robotics Studies with TBC
@@ -72,8 +87,14 @@
             - via [[Matthew Sweet]]
 - Posts, promo, etc
     - General/static
-        - Eventbrite
-            - YakCon Part One
+        - YakCon Primer
+            - YakCon
+                - YakCon 2023 is a week-long interactive tinkering session.
+                - Its two live, collaborative events—YakCon: Part One (Sunday Jan 8th, 1600-2000 UTC) and YakCon: Part Two (Sunday Jan 15th, 1600-2000 UTC)—book-end a week of special sessions and distributed, asynchronous explorations.
+            - YakCon: Part One (Sunday Jan 8th, 1600-2000 UTC)
+            - YakCon: The Interlude (Monday Jan 16th to Saturday Jan 14th)
+            - YakCon: Part Two (Sunday Jan 15th, 1600-2000 UTC)
+            - YakCon
                 - Join The Yak Collective for the first part of a fully-stacked, interactive tinkering session. At this event you'll be able to:
                     - Learn about the difficulties of productising machine learning research with Killian Butler
                     - Help hook up open source rovers to a virtual private network with abcdef
@@ -83,8 +104,7 @@
                     - Workshop the next iteration of the YCs infrastructure with Nathan Acks
                 - There'll also be a look back at what The Yak Collective was up to in 2022, a glimpse of what's on the horizon for 2023, and a whiff of the latent activities waiting for the right person to take them forward—from terraforming Cali and infinite fitness to AI tool testing and alternative storytelling. That person could be you...
                 - Or it could not; join us at YakCon Part One to find out.
-            - YakCon Part Two
-        - YC.org event details
+        - YakCon Comprehensive
     - Emails
         - 1 x [[January 1st, 2022]]: advance notification/overview
         - 1 x [[January 7th, 2023]]: before first session/preview
@@ -98,7 +118,5 @@
         - [[January 15th, 2023]]: live tweet/cast session
         - [[January 16th, 2023]]: event wrap-up
 - Other
-    - Digital event provider
-    - Event recording and distribution
-    - Track/activity lead asks
-        - 
+    - Event organisation: https://lu.ma
+    - Event video, recording etc.: https://whereby.com
