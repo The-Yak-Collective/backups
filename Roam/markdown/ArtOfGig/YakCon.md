@@ -1,7 +1,8 @@
-- Event overview and details
-    - ## 1st Half: Sun. [[January 8th, 2023]], 1600-2000 UTC
-        - Intro to YC and Session Orientation: [[Matthew Sweet]] (~1600-1620 UTC)
-        - Kick-Off Speaker (~1620-1700 UTC)
+- Event overview and details (all times in UTC)
+    - ## Part One: Sun. [[January 8th, 2023]], 1600-2000 UTC
+        - 1600-1620: **Intro to YC and Session Orientation**
+            - via [[Matthew Sweet]]
+        - 1620-1700: **Kick-Off Speaker(s)**
             - Killian Butler Talk & Q/A
                 - Talk title
                     - Productising ML Research
@@ -10,22 +11,26 @@
                 - Links
                     - https://www.linkedin.com/mwlite/in/kilianbutler
                     - https://twitter.com/kilianbutler
-        - Buffer (~1700-1720 UTC)
+        - 1700-1720: **Break / Mixer**
             - Informal gathering/chatter/downtime for the willing and available
-        - All-Hands: Track Intros and Recent Activity Review (~1720-1800 UTC)
+        - 1720-1755: **All-Hands, Track Intros and Recent Activity Review**
             - Fermi Gym with [[David White]]
             - Distributed Systems Studies with [[Venkatesh Rao]]
             - Governance Studies with [[Bryan King]]
             - Rover / Robotics Studies with TBC
             - Infrastructure with [[Nathan Acks]]
-        - Breakout Activities A (~1800-1900 UTC)
+        - 1755-1805: **Break**
+        - 1805-1855: **Breakout Activities A**
             - Rover / Robotics Studies with TBC
             - Distributed Systems Studies with [[Venkatesh Rao]]
-        - Breakout Activities B (~1900-2000 UTC)
+        - 1855-1905: **Break**
+        - 1905-1955: **Breakout Activities B**
             - Fermi Gym with [[David White]]
             - Governance Studies with [[Bryan King]]
             - Infrastructure with [[Nathan Acks]]
-        - Closing (~2000-2010 UTC)
+        - 1955-2000: **Break**
+        - 2000-2010: **Closing**
+            - via [[Matthew Sweet]]
     - ## Interlude
         - Monday [[January 9th, 2023]] to Saturday [[January 14th, 2023]]
         - Interim Asynchronous Activities
@@ -34,9 +39,10 @@
             - Governance Studies with [[Bryan King]]
             - Rover / Robotics Studies with TBC
             - Infrastructure as self-paced build-a-thon (async assistance as needed from [[Nathan Acks]])
-    - ## 2nd Half: Sun [[January 15th, 2023]], 1600-2000 UTC
-        - Intro to YC and Session Orientation: [[Matthew Sweet]] (~1600-1620 UTC)
-        - Kick-Off Speaker (~1620-1700 UTC)
+    - ## Part Two: Sun [[January 15th, 2023]], 1600-2000 UTC
+        - 1600-1620: **Intro to YC and Session Orientation**
+            - via [[Matthew Sweet]]
+        - 1620-1700: **Kick-Off Speaker(s)**
             - Gordon Brander Talk & Q/A
                 - Talk title
                     - TBC
@@ -44,25 +50,40 @@
                     - TBC
                 - Links
                     - TBC
-        - Buffer (~1700-1720 UTC)
+        - 1700-1720: **Break / Mixer**
             - Informal gathering/chatter/downtime for the willing and available
-        - All-Hands: Track Intros and Preview of Early 2023 (~1720-1800 UTC)
+        - 1720-1755: **All-Hands, Track Intros and Recent Activity Review**
             - Fermi Gym with [[David White]]
             - Distributed Systems Studies with [[Venkatesh Rao]]
             - Governance Studies with [[Bryan King]]
             - Rover / Robotics Studies with TBC
             - Infrastructure with [[Nathan Acks]]
-        - Breakout Activities A (~1800-1900 UTC)
+        - 1755-1805: **Break**
+        - 1805-1855: **Breakout Activities A**
             - Rover / Robotics Studies with TBC
             - Distributed Systems Studies with [[Venkatesh Rao]]
-        - Breakout Activities B (~1900-2000 UTC)
-            - Governance Studies with [[Bryan King]]
+        - 1855-1905: **Break**
+        - 1905-1955: **Breakout Activities B**
             - Fermi Gym with [[David White]]
+            - Governance Studies with [[Bryan King]]
             - Infrastructure with [[Nathan Acks]]
-        - Closing (~2000-2010 UTC)
+        - 1955-2000: **Break**
+        - 2000-2010: **Closing**
+            - via [[Matthew Sweet]]
 - Posts, promo, etc
     - General/static
         - Eventbrite
+            - YakCon Part One
+                - Join The Yak Collective for the first part of a fully-stacked, interactive tinkering session. At this event you'll be able to:
+                    - Learn about the difficulties of productising machine learning research with Killian Butler
+                    - Help hook up open source rovers to a virtual private network with abcdef
+                    - Explore the challenges of memory in distributed systems with Venkatesh Rao
+                    - Tackle >> problem themes << in the Fermi gym with abcdef
+                    - Reflect on >> insert governance theme << with Bryan King
+                    - Workshop the next iteration of the YCs infrastructure with Nathan Acks
+                - There'll also be a look back at what The Yak Collective was up to in 2022, a glimpse of what's on the horizon for 2023, and a whiff of the latent activities waiting for the right person to take them forward—from terraforming Cali and infinite fitness to AI tool testing and alternative storytelling. That person could be you...
+                - Or it could not; join us at YakCon Part One to find out.
+            - YakCon Part Two
         - YC.org event details
     - Emails
         - 1 x [[January 1st, 2022]]: advance notification/overview
@@ -79,3 +100,5 @@
 - Other
     - Digital event provider
     - Event recording and distribution
+    - Track/activity lead asks
+        - 

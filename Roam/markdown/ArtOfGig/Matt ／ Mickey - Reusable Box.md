@@ -3,6 +3,22 @@
         - The answer __should__ include a general proposed path to success and the reasoning behind it
         - No requirement, but definitely a plus, to refer to specific competitors or potential collaborators in any particular suggested niche
     - What modifications __should__ be made to the product to make it suitable for that market wedge?
+- Pair presentation
+    - Our product / ideas
+        - General session
+            - Create visual sound bites that are sticky and ready for re-use
+                - Visualise key concepts
+                - Cues can be provided to assist
+            - Prose alternative to bullet points for Drew to play with
+            - Identify what needs to be in support material and what doesn't need to be there
+        - Comments from Pedro, Patrick
+            - Why hasn't this worked already?
+            - Market sizing statistics included?
+            - Why that specific service?
+            - How does that wedge evolve?
+            - Make it clear that its product packaging for distribution, not products themselves
+            - Non-UK changes to model
+            - How to actually to enter the market? Step-by-step...
 - Initial presentation Qs
     - Views on the product?
         - The reusable box is close to a commodity; literal design seems like a red ocean. Better to focus on adoption in particular niches, applications and ecosystems.

@@ -32,7 +32,3 @@ Meta::
             - [[IT Infrastructure and Project Security Basics]]
             - [[Building the Website]]
         - [[Website Version History]]
-Current Plan::
-    - {{[[DONE]]}} Update the [[Yak Collective Website]] documentation
-    - {{[[TODO]]}} Migrate from [IFTTT](https://ifttt.com/) to GitHub Actions ([associated ticket in GitHub](https://github.com/The-Yak-Collective/yakcollective/issues/19))
-    - {{[[TODO]]}} Code review for [[Yak Collective Website]]
