@@ -24,9 +24,9 @@
     final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
     - {{kanban}}
         - **Initial Contribution**
+            - [Metaphysical frontiers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8c6e0b5997_5_0) | [[Varun Adibhatla]]
             - [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8c4f1ef5b7_0_0) | [[Siva Swaroop]]
             - [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8cac20a276_15_6) | [[Grigori Milov]]
-            - [Metaphysical frontiers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8c6e0b5997_5_0) | [[Varun Adibhatla]]
             - [2030 China - US Oceanic Race](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g86ae70180b_36_34) | [[Patrick Atwater]]
             - [Orbital Data Centers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g86ae70180b_36_105) | [[Grigori Milov]]
             - [Future of Orbital Slots](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g86ae70180b_36_60) | [[Suwaythan Nahaganeshan]]
