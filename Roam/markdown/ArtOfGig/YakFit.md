@@ -1,0 +1,109 @@
+- ## fitness-health as infinite game 
+- playing the long game yak-style original post on discord
+    - > I occasionally still muse on what a yakfit project could be too. Primal movement stuff like your Strength Side guys… who basically scare me as having unattainable looks for normies and who also don’t actually move that well (acknowledging self as movement snob)
+    - > https://youtu.be/DZPvK1MWGdg
+    - > and MovNat, Ido Portal, Katie Bowman (“movement snacks” ftw), MovementbyDavid, Hybrid Calisthenics, and Original Strength (tx @Matthew Sweet (UTC) for that rec)
+    - > … but maybe the deeper traditions of like Shi Heng Yi who has the Strength Side guys’ look but for realz, really curious what allowed him to share what he does since my martial arts instructors talked a lot about how all the real stuff was village-secret level for most of all time + in the Chinese traditions all the people who really knew something died or were killed in the cultural revolution 
+    - > eg this bone marrow washing vid…
+    - > https://youtu.be/Jz7MNKX63sI
+    - >  ... or his fundamentals of qigong series
+    - > https://youtu.be/d1EHSYWS1B4
+    - > The big divide for me is around fitness-for-what: high level sports and endurance stuff v playing the long game. Used to do the former, kinda forced into the latter now so have to be pretty strategic. Also no more “workout” thinking, move more all through the day is where it’s at for buttjobs. Known paradox: If your work is on your feet, there’s nothing like the moment when you get to take a seat. If your work is stationary, nothing like the moment when you get to stride out. 
+- `infinitness` `infitness`
+- ### experiment | ideas with reasonable science behind them
+- > You’ll have more energy and focus during the daytime to get work done if you get better sleep. It’s a vicious cycle. Start one step at a time. Turn the phone off and put it in another room 1-2 hours before bed, then in a week or two, do the same with the laptop. Take it as gradually as you need to, but you can do it. Easy. —grimhood
+- better sleep/circadian rhythm play
+    - wake before sunrise
+    - 20 min first light amble cf
+        - how common early morning qigong practices are
+        - huberman and grimhood big on this one
+    - super low light btw local sunset and bedtime
+        - bonus points for red light
+        - bonus points for no screens
+    - bedtime 3-4 hours after sunset 
+        - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4720388/ via grimhood discord
+- ultradian rhythm play
+    - actively shift gears through 90 mins cycles through the day
+- deep rest play
+    - add short or longer pauses when shifting between activities cf
+        - Josh Waitzman 30 sec reset
+        - Huberman deep rest stuff
+        - Martha Beck pausing during transitions
+- ### movement snack play
+- Katy Bowman
+- Original Strength
+    - https://www.youtube.com/@OriginalStrengthSystem
+    - shoulder rotation https://www.youtube.com/watch?v=GadACcgWDcM
+    - seated rolls https://www.youtube.com/watch?v=iUGAS3WzHx0 
+- Strength Side
+- MovNat
+- Ido Portal
+- MovementbyDavid "stay flexy"
+    - eg https://youtube.com/shorts/c5dog2sRz-4
+- Sheng Heng Yi-style intensity aka fire method (v water method)
+- Bruce Frantzis "knows some things but is also prolly crazy'
+    - Dan Kleiman as more accessible vessel for Bruce eg
+        - https://dankleiman.com/categories/tai-chi/
+        - https://dankleiman.com/categories/qigong/
+        - https://dankleiman.com/categories/movement-practice/
+        - https://dankleiman.com/categories/inner-form/
+        - https://dankleiman.com/categories/xing-yi/
+        - https://dankleiman.com/2012/11/26/how-to-feel-the-4-main-energies-of-tai-chi/
+            - > Peng. expanding/rising energy
+            - > Ji. pressing forward energy
+            - > Lu. absorb/yielding energy
+            - > An. condensing/downward energy
+    - https://www.youtube.com/@EnergyArts
+    - "there is no stop or start" https://www.youtube.com/shorts/ubeaDFz1Qe0
+    - Tai Chi Tip series — https://www.youtube.com/watch?v=eFTH5F40k5M&list=PLZGxERtakiPZ4O9x8P44HVqZnWTkMLKiu
+    - Four energies of tai chi — https://www.youtube.com/watch?v=Wk0PCIAxD1c
+        - > You will hear about the four energies and see demonstrations of them for a better understanding of tai chi.
+- Peter Attiah
+- Andrew Huberman
+    - https://hubermanlab.com
+    - Huberman v Jocko
+        - https://hubermanlab.com/jocko-willink-how-to-become-resilient-forge-your-identity-and-lead-others/
+        - two types of meditation fr Rick Rubin
+        - morning light exposure 
+            - cf my experience studying qigong in Kunming
+        - _generators vs projectors_
+    - Huberman v Ido Portal 
+        - https://hubermanlab.com/ido-portal-the-science-and-practice-of-movement/ 
+- Kelly Starrett and Supple Leopard
+- Stephen Kotler and his newest book
+    - https://www.gnarcountry.com/enter-the-gnar-course
+    - https://www.gnarcountry.com/
+    - _main point to me is changing the mindset about low slow slide into decline which is also from tai chi_
+    - he's a serious marketer, always wonder about how legit
+- Contrarian view from [chick lifter]
+- QS world
+- ### doing stuff in meatspace aka Specialization is for insects
+- Heinlein quote
+    - > “A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.” ― Robert A. Heinlein
+- Knots
+    - Levels of Knot Tying: Easy to Complex | WIRED https://www.youtube.com/watch?v=d-hTvyIESfQ&t=502s
+        - https://www.youtube.com/watch?v=d-hTvyIESfQ&lc=UgzpKjChji4lmNlbyql4AaABAg
+        - 0:13 Level 1 Overhand knot
+        - 0:28 Stopper knot
+        - 0:39 Square knot
+        - 0:59 Level 2 Bowline
+        - 1:36 Level 3 Slipknot
+        - 2:31 Level 4 Solomon bar/Cobra knot
+        - 3:27 Level 5 Zipper sinnet
+        - 4:39 Level 6 Trucker's hitch
+        - 5:07 Half hitch, Full hitch
+        - 5:49 Level 7 Fisherman's knot
+        - 6:30 Zeppelin bend
+        - 7:23 Level 8 Double coin knot
+        - 8:19 Level 9 Prosperity knot
+        - 9:58 Level 10 Snake knot
+        - 11:42 Level 11 Spindle fiber bar
+        - 13:49 Level 12 Emergency snow goggles
+        - 15:40 Level 13 Backbone bar
+        - 16:45 Level 14 Utility pouch
+        - 17:49 Level 15 Bush sandals 
+    - First Class Amateur
+        - intermediate guide to knots https://www.youtube.com/watch?v=eYO0tPOYwyM
+        - sport shoe carrier https://www.youtube.com/watch?v=gRbSgR0XvbY
+        - knot for pulling cable https://www.youtube.com/watch?v=L5bVvpA75eQ
+    - + many many other neat knot youtubes

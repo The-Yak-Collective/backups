@@ -20,6 +20,7 @@
             - Rover / Robotics Studies with TBC
             - Infrastructure with [[Nathan Acks]]
             - Nascent activities with [[Matthew Sweet]]
+            - #[[YakFit]] ? #[[Jenna]]
         - 1755-1805: **Break**
         - 1805-1855: **Breakout Activities A**
             - Rover / Robotics Studies with TBC
@@ -32,7 +33,7 @@
         - 1955-2000: **Break**
         - 2000-2010: **Closing**
             - via [[Matthew Sweet]]
-    - ## Interlude
+    - ## Async
         - Monday [[January 9th, 2023]] to Saturday [[January 14th, 2023]]
         - Interim Asynchronous Activities
             - Fermi Gym with [[David White]]
@@ -89,10 +90,11 @@
     - General/static
         - YakCon Primer
             - YakCon
-                - YakCon 2023 is a week-long interactive tinkering session.
-                - Its two live, collaborative events—YakCon: Part One (Sunday Jan 8th, 1600-2000 UTC) and YakCon: Part Two (Sunday Jan 15th, 1600-2000 UTC)—book-end a week of special sessions and distributed, asynchronous explorations.
+                - YakCon is a week-long interactive tinkering session.
+                - Its two live, collaborative events—Part One (Sunday Jan 8th, 1600-2000 UTC) and Part Two (Sunday Jan 15th, 1600-2000 UTC)—book-end a week of distributed, asynchronous explorations.
+                - Events include guest speakers, a look at what The Yak Collective was up to in 2022, a glimpse of what's on the horizon for 2023, and breakout activities for some central YC activities, such as the Fermi gym, governance studies and the rover project.
             - YakCon: Part One (Sunday Jan 8th, 1600-2000 UTC)
-            - YakCon: The Interlude (Monday Jan 16th to Saturday Jan 14th)
+            - YakCon: Async (Monday Jan 9th to Saturday Jan 14th)
             - YakCon: Part Two (Sunday Jan 15th, 1600-2000 UTC)
             - YakCon
                 - Join The Yak Collective for the first part of a fully-stacked, interactive tinkering session. At this event you'll be able to:
@@ -102,7 +104,7 @@
                     - Tackle >> problem themes << in the Fermi gym with abcdef
                     - Reflect on >> insert governance theme << with Bryan King
                     - Workshop the next iteration of the YCs infrastructure with Nathan Acks
-                - There'll also be a look back at what The Yak Collective was up to in 2022, a glimpse of what's on the horizon for 2023, and a whiff of the latent activities waiting for the right person to take them forward—from terraforming Cali and infinite fitness to AI tool testing and alternative storytelling. That person could be you...
+                - There'll also be a look back at what The Yak Collective was up to in 2022, a glimpse of what's on the horizon for 2023, and a whiff of nascent activities waiting for the right person to take them forward—from terraforming Cali and infinite fitness to AI tool testing and alternative storytelling. That person could be you...
                 - Or it could not; join us at YakCon Part One to find out.
         - YakCon Comprehensive
     - Emails
