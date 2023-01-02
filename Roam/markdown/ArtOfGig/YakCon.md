@@ -20,7 +20,7 @@
             - Rover / Robotics Studies with TBC
             - Infrastructure with [[Nathan Acks]]
             - Nascent activities with [[Matthew Sweet]]
-            - #[[YakFit]] ? #[[Jenna]]
+                - `siderail` #[[YakFit]] ? #[[Jenna]]
         - 1755-1805: **Break**
         - 1805-1855: **Breakout Activities A**
             - Rover / Robotics Studies with TBC
@@ -96,29 +96,53 @@
             - YakCon: Part One (Sunday Jan 8th, 1600-2000 UTC)
             - YakCon: Async (Monday Jan 9th to Saturday Jan 14th)
             - YakCon: Part Two (Sunday Jan 15th, 1600-2000 UTC)
-            - YakCon
-                - Join The Yak Collective for the first part of a fully-stacked, interactive tinkering session. At this event you'll be able to:
-                    - Learn about the difficulties of productising machine learning research with Killian Butler
-                    - Help hook up open source rovers to a virtual private network with abcdef
-                    - Explore the challenges of memory in distributed systems with Venkatesh Rao
-                    - Tackle >> problem themes << in the Fermi gym with abcdef
-                    - Reflect on >> insert governance theme << with Bryan King
-                    - Workshop the next iteration of the YCs infrastructure with Nathan Acks
-                - There'll also be a look back at what The Yak Collective was up to in 2022, a glimpse of what's on the horizon for 2023, and a whiff of nascent activities waiting for the right person to take them forward—from terraforming Cali and infinite fitness to AI tool testing and alternative storytelling. That person could be you...
-                - Or it could not; join us at YakCon Part One to find out.
         - YakCon Comprehensive
+            - TBC
     - Emails
         - 1 x [[January 1st, 2022]]: advance notification/overview
+            - 2023-01-01 moved to Substack draft with light edits! 15:05 eastern /jenna
+                - Come join us at YakCon
+                - A lot's changed since early 2020. One thing hasn't: the Yak Collective continues to slouch towards another year. It’s third. To mark the occasion—and to usher in 2023—we're holdng a week-long interactive tinkering session: **YakCon**.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FlhXVFTUnkp.png?alt=media&token=cca2d1d9-f8c0-4c71-90fc-dcfe721ca6b3)
+                - The core of YC is synchronous study, collab, and tinkering sessions with async research and comms. Both occur at an easy, sustainable tempo with an infinite game outlook.
+                - YakCon reflects this. It's a week-long interactive tinkering session. It isn't a broadcast. It's not your typical AGM. It's a participatory open house.
+                - Come by and check it out: https://lu.ma/yakcon
         - 1 x [[January 7th, 2023]]: before first session/preview
         - 1 x [[January 9th, 2023]]: review of first, reminder of second session
         - 1 x [[January 14th, 2023]]: before second session/preview
         - 1 x [[January 16th, 2023]]: event wrap-up
     - Social media
+        - {{[[DONE]]}} [[January 1st, 2022]]: advance notification/overview
+            - agenda and intro
+                - A lot's changed since early 2020. One thing hasn't; the @yak_collective continues to slouch towards another completed year. Its third.
+                - To mark the occasion—and to usher in 2023—a week-long interactive tinkering session is taking place.
+                - YakCon
+                - Agenda screenshot
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FlhXVFTUnkp.png?alt=media&token=cca2d1d9-f8c0-4c71-90fc-dcfe721ca6b3)
+                    - ### YakCon: Part One & Two | Sun 8th & 15th Jan, 1600-2000 UTC
+                        - 1600-1620: **Intro to YC and Session Orientation**
+                        - 1620-1700: **Kick-Off Speaker(s)**
+                        - 1700-1720: **Break / Mixer**
+                        - 1720-1755: **All-Hands, Track Intros and Activity Reviews/Previews**
+                        - 1755-1805: **Break**
+                        - 1805-1855: **Breakout Activities A**
+                        - 1855-1905: **Break**
+                        - 1905-1955: **Breakout Activities B**
+                        - 1955-2000: **Break**
+                        - 2000-2010: **Closing**
+                    - ### YakCon: Async | Monday Jan 9th to Saturday Jan 14th
+                        - Asynchronous explorations led by YC track leads.
+            - gist/gestalt
+                - The core of YC is synchronous study, collab and tinkering sessions with async research and comms. Both occur at an easy, sustainable tempo with an infinite game outlook.
+                - YakCon reflects this. It's a week-long interactive tinkering session.
+            - sign-up link
+                - YakCon isn't a broadcast. It's not your typical AGM. It's a participatory open house. Come by and check it out.
+                - https://lu.ma/yakcon
         - [[January 7th, 2023]]: notification/thread before first session
         - [[January 8th, 2023]]: live tweet/cast session
         - [[January 14th, 2023]]: notification/thread before second session
         - [[January 15th, 2023]]: live tweet/cast session
         - [[January 16th, 2023]]: event wrap-up
 - Other
-    - Event organisation: https://lu.ma
+    - Event link: https://lu.ma/yakcon
     - Event video, recording etc.: https://whereby.com

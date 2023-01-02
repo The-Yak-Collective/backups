@@ -1,18 +1,33 @@
-- ## fitness-health as infinite game 
-- playing the long game yak-style original post on discord
-    - > I occasionally still muse on what a yakfit project could be too. Primal movement stuff like your Strength Side guys… who basically scare me as having unattainable looks for normies and who also don’t actually move that well (acknowledging self as movement snob)
-    - > https://youtu.be/DZPvK1MWGdg
-    - > and MovNat, Ido Portal, Katie Bowman (“movement snacks” ftw), MovementbyDavid, Hybrid Calisthenics, and Original Strength (tx @Matthew Sweet (UTC) for that rec)
-    - > … but maybe the deeper traditions of like Shi Heng Yi who has the Strength Side guys’ look but for realz, really curious what allowed him to share what he does since my martial arts instructors talked a lot about how all the real stuff was village-secret level for most of all time + in the Chinese traditions all the people who really knew something died or were killed in the cultural revolution 
-    - > eg this bone marrow washing vid…
-    - > https://youtu.be/Jz7MNKX63sI
-    - >  ... or his fundamentals of qigong series
-    - > https://youtu.be/d1EHSYWS1B4
-    - > The big divide for me is around fitness-for-what: high level sports and endurance stuff v playing the long game. Used to do the former, kinda forced into the latter now so have to be pretty strategic. Also no more “workout” thinking, move more all through the day is where it’s at for buttjobs. Known paradox: If your work is on your feet, there’s nothing like the moment when you get to take a seat. If your work is stationary, nothing like the moment when you get to stride out. 
+- # fitness as infinite game 
+    - playing the long game yak-style original post on discord
+        - > I occasionally still muse on what a yakfit project could be too. Primal movement stuff like your Strength Side guys… who basically scare me as having unattainable looks for normies and who also don’t actually move that well (acknowledging self as movement snob)
+        - > https://youtu.be/DZPvK1MWGdg
+        - > and MovNat, Ido Portal, Katie Bowman (“movement snacks” ftw), MovementbyDavid, Hybrid Calisthenics, and Original Strength (tx @Matthew Sweet (UTC) for that rec)
+        - > … but maybe the deeper traditions of like Shi Heng Yi who has the Strength Side guys’ look but for realz, really curious what allowed him to share what he does since my martial arts instructors talked a lot about how all the real stuff was village-secret level for most of all time + in the Chinese traditions all the people who really knew something died or were killed in the cultural revolution 
+        - > eg this bone marrow washing vid…
+        - > https://youtu.be/Jz7MNKX63sI
+        - >  ... or his fundamentals of qigong series
+        - > https://youtu.be/d1EHSYWS1B4
+        - > The big divide for me is around fitness-for-what: high level sports and endurance stuff v playing the long game. Used to do the former, kinda forced into the latter now so have to be pretty strategic. Also no more “workout” thinking, move more all through the day is where it’s at for buttjobs. Known paradox: If your work is on your feet, there’s nothing like the moment when you get to take a seat. If your work is stationary, nothing like the moment when you get to stride out. 
 - `infinitness` `infitness`
-- ### experiment | ideas with reasonable science behind them
+- ## Experiment | ideas with reasonable science behind them
+- Thinking siderail for YakCon On. Include in the short intros round, not a track. 
+- Do you remember the BASF ads? "We don't make the thing, we make it better" A yakfit pitch along that line. 
+    - {{video: https://youtu.be/ZJHPpsb3FzM}}
+- 
+- DIY structure, could be a thread on the yakfit channel. 
+- BJ Fogg and Tiny Habits? We could ride along with his free 5-day email nudge bu starts on Saturdays so maybe unfortunate timing.
+https://tinyhabits.com/join/
+and let folks self-report what they chose and how the week went
+    - [Tiny Habits signup](https://tinyhabits.com/join/)
+        - Tiny Habits preceded Atomic Habits by quite a bit.
+    - [Tiny Habits](https://tinyhabits.com/)
+    - [BJ Fogg, PhD](https://tinyhabits.com/author/bjadmin/)
 - > You’ll have more energy and focus during the daytime to get work done if you get better sleep. It’s a vicious cycle. Start one step at a time. Turn the phone off and put it in another room 1-2 hours before bed, then in a week or two, do the same with the laptop. Take it as gradually as you need to, but you can do it. Easy. —grimhood
-- better sleep/circadian rhythm play
+- > In performance training, first we learn to flow with whatever comes. Then we learn to use whatever comes to our advantage. Finally, we learn to be completely self-sufficient and create our own earthquakes, so our mental process feeds itself explosive inspirations without the need for outside stimulus. 
+—Josh Waitzkin, __The Art of Learning__ 
+newly via Tiago on Ribbonfarm https://www.ribbonfarm.com/2016/01/28/productivity-for-precious-snowflakes/
+- ### Better sleep/circadian rhythm play
     - wake before sunrise
     - 20 min first light amble cf
         - how common early morning qigong practices are
@@ -22,14 +37,15 @@
         - bonus points for no screens
     - bedtime 3-4 hours after sunset 
         - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4720388/ via grimhood discord
-- ultradian rhythm play
+- ### Ultradian rhythm play
     - actively shift gears through 90 mins cycles through the day
-- deep rest play
+- ### Deep rest play
     - add short or longer pauses when shifting between activities cf
-        - Josh Waitzman 30 sec reset
+        - Josh Waitzkin 30 sec reset
+            - https://theartoflearningproject.org/2021/09/the-distillation-of-josh-waitzkin/
         - Huberman deep rest stuff
         - Martha Beck pausing during transitions
-- ### movement snack play
+- ### Movement snack play
 - Katy Bowman
 - Original Strength
     - https://www.youtube.com/@OriginalStrengthSystem
@@ -40,24 +56,28 @@
 - Ido Portal
 - MovementbyDavid "stay flexy"
     - eg https://youtube.com/shorts/c5dog2sRz-4
-- Sheng Heng Yi-style intensity aka fire method (v water method)
-- Bruce Frantzis "knows some things but is also prolly crazy'
-    - Dan Kleiman as more accessible vessel for Bruce eg
+- Dan Kleiman as more accessible vessel for Bruce Frantzis eg
+    - https://dankleiman.com/2012/05/22/what-should-i-practice-today/
+    - https://dankleiman.com/2012/11/26/how-to-feel-the-4-main-energies-of-tai-chi/
+        - > Peng. expanding/rising energy
+        - > Ji. pressing forward energy
+        - > Lu. absorb/yielding energy
+        - > An. condensing/downward energy
+    - https://dankleiman.com/2013/10/09/the-problem-with-learning-tai-chi-from-the-classics/
+        - http://www.scheele.org/lee/classics.html
+    - quick links
         - https://dankleiman.com/categories/tai-chi/
         - https://dankleiman.com/categories/qigong/
         - https://dankleiman.com/categories/movement-practice/
         - https://dankleiman.com/categories/inner-form/
         - https://dankleiman.com/categories/xing-yi/
-        - https://dankleiman.com/2012/11/26/how-to-feel-the-4-main-energies-of-tai-chi/
-            - > Peng. expanding/rising energy
-            - > Ji. pressing forward energy
-            - > Lu. absorb/yielding energy
-            - > An. condensing/downward energy
+- Bruce Frantzis "knows some things but is also prolly crazy'
     - https://www.youtube.com/@EnergyArts
     - "there is no stop or start" https://www.youtube.com/shorts/ubeaDFz1Qe0
     - Tai Chi Tip series — https://www.youtube.com/watch?v=eFTH5F40k5M&list=PLZGxERtakiPZ4O9x8P44HVqZnWTkMLKiu
     - Four energies of tai chi — https://www.youtube.com/watch?v=Wk0PCIAxD1c
         - > You will hear about the four energies and see demonstrations of them for a better understanding of tai chi.
+- Sheng Heng Yi-style intensity aka fire method (v water method)
 - Peter Attiah
 - Andrew Huberman
     - https://hubermanlab.com
@@ -77,7 +97,7 @@
     - he's a serious marketer, always wonder about how legit
 - Contrarian view from [chick lifter]
 - QS world
-- ### doing stuff in meatspace aka Specialization is for insects
+- ### Doing stuff in meatspace aka Specialization is for insects
 - Heinlein quote
     - > “A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.” ― Robert A. Heinlein
 - Knots
