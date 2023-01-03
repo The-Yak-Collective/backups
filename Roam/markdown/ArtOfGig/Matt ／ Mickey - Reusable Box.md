@@ -3,6 +3,51 @@
         - The answer __should__ include a general proposed path to success and the reasoning behind it
         - No requirement, but definitely a plus, to refer to specific competitors or potential collaborators in any particular suggested niche
     - What modifications __should__ be made to the product to make it suitable for that market wedge?
+- Final version
+    - ## Filling the Packaging Sustainability Void in Healthcare Product Distribution
+        - FigJam: https://www.figma.com/file/rcxZPDOGXQdsJzq99LKgVx/Matt-%2F-Mickey%3A-The-BOX?node-id=0%3A1&t=TJGuweMeSAScwdX3-1
+        - ### One: The Opportunity
+            - Unsustainable product distribution packaging
+                - Short
+                    - Product distribution packaging is primitive and wasteful
+                - Med
+                    - Current product distribution packaging is costly, wasteful and unaligned with both product design sophistication and the explicit sustainability initiatives invoked by all parties.
+                - Long
+                    - The current state of product distribution packaging is costly, wasteful, and out-of-sync with both product design sophistication and the explicit sustainability initiatives involved parties profess to value.
+                    - Critical-level suppliers tote their sustainable, innovative practices and the NHS has national-level initiatives to control supply chain efficiency and waste. However, products are often transported to hospitals as small boxes in oversized large boxes, stuffed with waste filler material and sealed with one-use tapes.
+            - High product value, volume and variety
+                - Short
+                    - Healthcare products are high value, high volume and highly varied.
+                - Med
+                    - Healthcare products span a great variety of services and include high value specialty items and high volume generic products.
+                - Long
+                    - Healthcare involves a vast variety of high value specialised products and high volumes of generic items. These are in constant use at the largest possible scale, often involve tight production and operational constraints, and are sourced from a finite pool of approved partners.
+            - An established ecosystem
+                - Short
+                    - It's an ecosystem with established behaviour patterns and relationships
+                - Med
+                    - It's an ecosystem with established behaviour patterns and relationships that doesn't require 0>1 innovation or the engineering of new behaviours.
+                - Long
+                    - It's an ecosystem with established behaviour patterns and relationships that doesn't require 0>1 innovation or the engineering of new behaviours.
+                    - Within the ecosystem there are hospitals and healthcare service providers that are incredibly resource-sensitive, departments and teams relying on inefficient, labour-intensive workarounds, resource-rich suppliers that are incentivised to appear innovative and sustainable, and distributors that are (mostly) agnostic to packaging form factors and constraints.
+            - Continuous product movement
+                - Short
+                    - There are multiple vectors of continuous product movement.
+                - Med
+                    - Products are in continuous motion, flowing between suppliers, healthcare service providers and interfacing third-parties.
+                - Long
+                    - Products are in continuous motion, flowing in multiple directions at all times of the day and year. From suppliers to centralised hospital sites, from centralised sites to satellite locations, from department to department, and between various stores.
+                    - The products in motion touch numerous in-house and contracted service providers, suppliers and wholesalers, and distribution partners.
+            - Discrete use cases
+                - Short
+                    - Discrete use cases enable targeted market entry and expansion
+                - Med
+                    - Diverse product categories, users and movements facilitate targeted market entry and expansion.
+                - Long
+                    - Market entry and expansion cases can be conceived effectively by choosing from a range of characteristics. These include specific product lines and categories, select suppliers, service providers and partners, different teams, departments or functional areas, and certain vectors of product movement.
+        - ### Two: 
+        - ### Three: 
+        - ### Supporting Materials
 - Pair presentation
     - Our product / ideas
         - General session

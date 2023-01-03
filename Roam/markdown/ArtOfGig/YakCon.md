@@ -58,6 +58,10 @@
                     - https://porticoadvisers.com/
                     - https://www.mcasey.xyz/
                     - http://fcast.me/mc
+            - Dan Grover Talk & Q/A
+                - Talk title
+                - Bio
+                - Links
             - Gordon Brander Talk & Q/A
                 - Talk title
                     - TBC
