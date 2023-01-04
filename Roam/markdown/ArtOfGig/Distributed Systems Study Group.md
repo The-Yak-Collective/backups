@@ -8,684 +8,692 @@
 - There is interest in creating a prompt-school type track around this, and we will be trialing this over the summer.
 - Resources/references: Please add links etc. under this bullet
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
-- Previously: **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
-- **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
-    1. June 20: : Beyond Blockchain: Paxos and Broader Distributed Systems __
-        - Discussion of Paxos: https://en.wikipedia.org/wiki/Paxos_(computer_science))
-        - Brainstorm of "continents" of distributed systems
-        - Prompt:  If we were to make a figurative map of distributed systems, what would 3 continents be?
-            - State replication v non-state replication
-            - Algos meant for computer v algos suited to be applied in human contexts
-            - Ben
-                - 1) 1 to 1 vs. groups (A direct encrypted message (maybe PGP) vs. Mastodon /
+- **2022 Readings**
+    - Previously: **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
+    - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
+        1. June 20: : Beyond Blockchain: Paxos and Broader Distributed Systems __
+            - Discussion of Paxos: https://en.wikipedia.org/wiki/Paxos_(computer_science))
+            - Brainstorm of "continents" of distributed systems
+            - Prompt:  If we were to make a figurative map of distributed systems, what would 3 continents be?
+                - State replication v non-state replication
+                - Algos meant for computer v algos suited to be applied in human contexts
+                - Ben
+                    - 1) 1 to 1 vs. groups (A direct encrypted message (maybe PGP) vs. Mastodon /
 cwtch or Element)
 
-                - 2) Global State Replication vs. Fractured State (Paxos vs. Bittorrent, ZeroNet)
+                    - 2) Global State Replication vs. Fractured State (Paxos vs. Bittorrent, ZeroNet)
 
-                - 3) Insitituional Integrataion vs Economic Integration  (Google Internal
+                    - 3) Insitituional Integrataion vs Economic Integration  (Google Internal
 Paxos-like systems vs Bitcoin and Ethereum)
-            - Commits
-                - concentric circles of proxemity
-                    - P2P
-                    - Federated
-                    - Serverless
-                    - Edge Computing
-            - Jenna
-                - islands on the distributed systems map 
+                - Commits
+                    - concentric circles of proxemity
+                        - P2P
+                        - Federated
+                        - Serverless
+                        - Edge Computing
+                - Jenna
+                    - islands on the distributed systems map 
 
-                - self-organizing systems
+                    - self-organizing systems
 
-                - participatory management
-                - decentralized governance
+                    - participatory management
+                    - decentralized governance
 
-                - remote work
+                    - remote work
 
-                - __really more a venn diagram thing for me__
-            - Maier
-                - island of systems pretending to be distributed
+                    - __really more a venn diagram thing for me__
+                - Maier
+                    - island of systems pretending to be distributed
 continent of total mess with random waves
 sea of reforming systems
 land of the stable systems with only local behavior
 ocean of meme storms and basic stable structure
 but consider - is what is being sent data or programs?
-            - Venkatesh
-                - Realtime / soft-realtime (north south axis)
-                - Genisis: Top-down design v emergent design
-                - When we agree on something we tend to be converging on a future we are seeing
-                - Big continent of consensus reality v archipelago of marginal and fractures proposals
-    2. June 27: Distributed systems exploration and lexicon brainstorm
-        - Discussion of [What we talk about when we talk about distributed systems](https://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
-            - Questions: 
-                - Venkat: How do you add a new trusted member?
-                - Meredith: Are distributed systems the norm?
-                - Jenna: Human mapping 
-                - Grigori: Why do we need consensus
-                - Commits: Diff between software dependencies vs distributed systems
-                    - List of problems DS try to solve?
-                    - Relation between DS and time
-                - Ben: How do you unify the language? Blockchain, general systems,… How do you get to an engineering tradeoff?
-                    - Inactivity bleed of stake as solution to FLP
-                - Nathan: Recovery from failure? Maximal system integrity, optimize for correctness?
-        - Prompt: Come up with ONE question about distributed systems that you don’t know the answer to, either social or technical . Plus general comments about the reading.
-        - Prompt: Based on what you know, add as many terms as you can in 15 minutes to the [[Distributed Systems Map and Lexicon]] lexicon section. Both technical and non-technical terms invited.
-    3. July 4: No meeting, US July 4th
-    4. July 11: Vitalik Buterin: [Quadratic Payments](https://vitalik.ca/general/2019/12/07/quadratic.html)
-        - Article - Quadratic Voting
-            - https://vitalik.ca/general/2019/12/07/quadratic.html
-        - Discussion
-            - [[Anuraj R]]
-                - h-index in academia
-                - gitcoin
-            - [[Ben Mahala]]
-                - https://twitter.com/glenweyl
-                - Mechanism too clever, fine in domains they exist in. Lack simplicity
-                - One person - One vote has strong narrative. It feels fair
-                - There is not easy case study to intuitively know it
-                - Problems with Identity and Collusion
-                - People need to know what exactly they want. Not sure how much this system would work in the case when people don't know what they want
-                - People might not hook into this system
-            - [[Bryan King]]
-                - Rank Choice Voting
-                - It reduces gamesmanship. In US elections, a third party cannot ascend, as voting for third party is risky? 
-                - Interesting part is obscuring of preference
-                - Spectrum of of how much you care, and there are many people who don't care
-                - Advertising section is interesting
-            - [[Grigori Milov]]
-                - Article misses the issue of power which also exist which is not evenly distributed in a system
-                - In the presence of power, the fluidity of new system compared to old one (one person one vote), the danger of moving to unstable system
-                    - easy to make a complex system, cubic system etc
-            - [[Venkatesh Rao]]
-                - The math is interesting. 
-                - Ben's point of not having a meta-narrative
-                    - [[Ben Mahala]]
-                - Eg routing of TCP packets and algos for it
-                    - CSMA by CD,
-                    - Telephone game
-                - People can't do it for troubleshooting but not as default
-                - Grigori's point of slippery slope
-                    - [[Grigori Milov]]
-                - Diodes, triodes etc
-                - The system depends on people knowing how much they care
-                - Time in Yak Collective gives your certain voting tokens? 
-                    - Making a voting bot with auto voting options
-                - Vickrey auction, https://en.wikipedia.org/wiki/Vickrey_auction
-                - Power holders in the system
-                    - Buying power in quadratic system also depends on real world buying power
-                    - Have to shield quadratic voting from real world inequalities
-                - At some point one person - one vote was also established
-            - Open Floor
-                - [[Ben Mahala]]
-                    - lot of work needs to be done to make this system viable
-                    - does not mean we should give up on this, but good to know there are limits to this system
-                    - EIP-1599 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md
-                    - Delegation is also important thing to look at, Liquid Democracy
-    5. July 18:  Junkspace and Simon articles
-        - Articles
-            - https://maurann.com/assets/readings/koolhaas-rem_junkspace.pdf
-                - Discussion
-                    - [[Anuraj R]]
-                        - Pyramids are not junk
-                        - what makes something become junk
-                    - [[Ben Mahala]]
-                    - [[Venkatesh Rao]]
-                        - article famous in architecture circles
-                        - the author may like the evolutionary power of junkspace
-                        - maybe not read it in a structured way
-                    - [[Grigori Milov]]
-                        - lack of structure
-                        - notion of shortage of masterpieces, shielded from quality checks etc
-                        - junkspace is orderless but authoratarian
-                        - once there is a well developed power structure then there is no need of architecture
-                        - junkspace tyranny - the tyranny of mediocrity
-                    - [[Maier Fenster]]
-                        - article is using junkspace as a suitcase word. 
-                        - talking about 20th century. somone in 18th or 19th century from rural england coming to London would be overwhelmed. the author might be talking about sometype of overload
-                        - structure of modern shopping malls eg of mall in Israel
-                        - tour of ruins of market place of second temple in Jerusalem
-                            - what would a person from a village think when they arrived this market place 
-            - https://www2.econ.iastate.edu/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf
-                - Discussion
-                    - [[Ben Mahala]]
-                        - author touches on points on what would become chaos theory etc
-                        - things he calls hierarchy is called reductionism
-                    - [[Venkatesh Rao]]
-                        - author pioneer of AI, came up with the notion of bounded rationality etc
-                        - a complex system that evolves needs intermediate stable systems 
-                    - [[Maier Fenster]]
-                        - change the broader practical goal of today's prompt?
-                        -  if we were to build a metaverse based on junkspace then what would it look like
-                        - the article did not age well
-                            - from discord  
-                                - think human-based systems have a more viable option of reach-through from one hierarchy level to another. the ones we care about are dynamic to , like a flock of birds, so the leader (of which there can be many at once) take turns at different effective places in hierarchy. in his words - i think the systems we care about are not near decomposable as he suggests most social systems are.
-                                - __one cannot, for example, enact the role of "friend" with large numbers of other people.__
-                                - it seems like the focus on hierarchy detracts from analyzing the  links between components.
-                    - [[Grigori Milov]]
-                        - hierarchy, in his view in human orgs is the power structure. 
-                        - hierarchy is defined in specific terms
-                        - a lot depends on intensity of interactions in human systems
-                        - catalytic reactions - stable intermediate forms
-                    - [[Commits Vortex]]
-                        - question about adjacent fields
-                        - how to view hierarchy
-                        - notion of decomposability, idea of modularity, if there is any implicit heierarchicalism 
-                        - multiverses for these maps, visualization of maps of distributed consensus works
-                        - 
-    6. July 25: Contd: discussion of a Junkspace and Simon articles
-    7. Aug 1: Systems theory discussion led by maier/benjamin: SOMEONE ADD LINKS??
-    8. Aug 8: Brainstorming for Distributed Yak Infrastructure 2.0
-        - [Yak Collective IT Infrastructure](https://roamresearch.com/#/app/ArtOfGig/page/6fhTlx1p_)
-            - Prompt - Product Manager Hat. If we build a newer version what would we build
+                - Venkatesh
+                    - Realtime / soft-realtime (north south axis)
+                    - Genisis: Top-down design v emergent design
+                    - When we agree on something we tend to be converging on a future we are seeing
+                    - Big continent of consensus reality v archipelago of marginal and fractures proposals
+        2. June 27: Distributed systems exploration and lexicon brainstorm
+            - Discussion of [What we talk about when we talk about distributed systems](https://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
+                - Questions: 
+                    - Venkat: How do you add a new trusted member?
+                    - Meredith: Are distributed systems the norm?
+                    - Jenna: Human mapping 
+                    - Grigori: Why do we need consensus
+                    - Commits: Diff between software dependencies vs distributed systems
+                        - List of problems DS try to solve?
+                        - Relation between DS and time
+                    - Ben: How do you unify the language? Blockchain, general systems,… How do you get to an engineering tradeoff?
+                        - Inactivity bleed of stake as solution to FLP
+                    - Nathan: Recovery from failure? Maximal system integrity, optimize for correctness?
+            - Prompt: Come up with ONE question about distributed systems that you don’t know the answer to, either social or technical . Plus general comments about the reading.
+            - Prompt: Based on what you know, add as many terms as you can in 15 minutes to the [[Distributed Systems Map and Lexicon]] lexicon section. Both technical and non-technical terms invited.
+        3. July 4: No meeting, US July 4th
+        4. July 11: Vitalik Buterin: [Quadratic Payments](https://vitalik.ca/general/2019/12/07/quadratic.html)
+            - Article - Quadratic Voting
+                - https://vitalik.ca/general/2019/12/07/quadratic.html
             - Discussion
-                - [[Nathan Acks]] Explainer
-                    - Grew up organically
-                    - All Discord bots hosted on Vultr server and written in python. Mostly stateless
-                    - Website was initially using GitHub pages but now uses Netlify. Netlify builds the jekyll website
-                    - GitHub actions addition to infra would be great. Eg [Lunch-time tickets](https://github.com/The-Yak-Collective/lunchtime-tickets)
-                - [[Commits Vortex]]
-                    - The user experience on Discord is cluttered
-                    - Good to have visibility of reading lists
-                    - Difficult to track messages. If you are not embedded in the community then it difficult to jump into something
-                - [[Grigori Milov]]
-                    - Refactor the diagram for easier navigation through it
-                    - Simplify Discord Channels
-                - [[Venkatesh Rao]]
-                    - Two areas that could use creative thinking
-                        - Time Dimension of Profile pages
-                            - Profile Page on Website vs Discord 
-                            - Speed up tempo of Website
-                            - Something like GitHub acitvity/commit chart for Profile Page on Website. This gives a live sense of what people are upto in the community
-                            - Take exhaust on Discord and show on Profile on Webpage
-                        - Infrastructure simplification
-                            - Design principles on how bots should behave
-                - [[Maier Fenster]]
-                    - we have more hopes than people to do the stuff
-                    - we need people not only who build it but also people who use it in addition to people who would improve it
-                    - the infra part needs traction either from user side or builder side
-                - [[Venkatesh Rao]]
-                    - Reason for mismatch between hopes and execution could be because there it is distributed volunteer based product
-                    - New user onboarding is lacking at the moment. Difficult for them get in the community. How to onboard outsiders? 
-                    - YC is between public space and private space
-                    - yaktweet command - distributed collective twitter account
-                    - fermi gym bootstrapping and related channel
-                - [[Commits Vortex]]
-                    - Intro channel is where posts go to die
-                    - automating updates of people/members to website
-                    - sidestep whole issue of member?
-                    - prioritize ideas instead of people
-                - [[Nathan Acks]]
-                    - change website that uses exhaust from Discord
-                - [[Maier Fenster]]
-                    - what is Discord giving us? should we work somewhere else? 
-                - [[Commits Vortex]]
-                    - chorus bot similar to yaktweet
-                    - telescope bot, RMIT, annotation on post
-    9. Aug 15: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
-        - Prompt - What did find interesting in the paper? 
-        - Discussion
-            - [[Anuraj R]] - timestamps for sync? trivial method?
-            - [[Ben Mahala]] - seeds of byzantine fault tolerance
-                - all nodes communicate first, and if they contacted every node 
-                - all the things that start from here and flow into the current systems
-                - if there is a crash in one node it takes down all systems, but this has been solved in today's systems
-            - [[Grigori Milov]]
-                - in the middle of article the usefullness of order of events is questioned
-                - play it local, maybe a more recent article on syncing in distributed system would give a better view
-                - what ever happends on global system does not matter until locally processed, local times scale more important? 
-            - [[Nathan Acks]]
-                - pick pockets, how they fake sensation of things on the body
-                - [[Commits Vortex]]
-                    - hand illusion, rubber hand after partition in a table, people feel illusion on the rubber hand even though it is not their real hand
-                - a lot of what the brain is doing is anticipating the events,  
-            - [[Venkatesh Rao]]
-                - new advances in databases 10 years ago - spanner system, that line of research began in this paper
-                - Paxos - first reading of the summer
-                - this is works under 
-                - the non trivialiality can be appreciated one the lack of data is known, that is a central time keeping
-                - distributed system is unnatural, eg is blind and there is baton/ball to pass on another person, how to pass the ball so that everyone gets to play with the ball
-                - trade off central time keeping and message verbosity(everyone talks to everyone)
-                - byzantine fault tolerance increase the complexity of this problem
-                - relation to physics and space-time is fascinating
-                - twitter had ordering problems, now it seems ordered, they seemed to have solved it locally
-                - Leslie Lamport MS Page - https://www.microsoft.com/en-us/research/people/lamport/publications/
-                - our brains does process events in the actual sequence? but brains constructs a simulated 
-                - https://en.wikipedia.org/wiki/Predictive_coding - puts the animal on the lowest energy path of behaviour
-                - eye and optical processing are a little ahead by speculating what is happening - eye has saccades
-                - Nvidia research using saccades in VR, walking in infinite straight line
-    10. Aug 22: Discussion of the [Google Spanner system](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
-    11. Aug 29: [Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
-        - Discussion
-            - [[Maier Fenster]]
-                - Distinction between evil vs faulty
-                - What is the cost of assuming a faulty computer is randomly bad vs evily bad
-                - what a blockchain would look like without blockchain with a central ledger
-            - [[Anuraj R]]
-                - Human and computing distributed systems
-            - [[Venkatesh Rao]]
-                - Impact of Leslie Lamport
-                - LaTeX guy image of Leslie Lamport
-                - what happens when adversarial teams responding to each other but instead everyone does their own thing
-                - economy is independant agents taking actions for thier own benefits
-            - [[Nathan Acks]]
-                - signing messages made the problem easier 
-                - unreliability of generals -> how to solve
-            - [[Ben Mahala]]
-                - where the cracks are from reality creeps in. P387 a solution with oral messages
-                - with signatures if the messages are sent then lying becomes impossible
-                - if you say nothing or somone being censored looks the same to third party
-                - meta problem, lamport assumes that everyone assumes that it is a battle
-                    - everyone has the genesis block
-            -  Open Floor
-                - [[Maier Fenster]] synergy between this paper and end to end encryption
-                - https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
-                - Tit for Tat evolutionarily stable system
-                - [[Venkatesh Rao]] 
-                    - a small group of good players in the ecosystem and its effects and the feedback and virtuous cycle of good players. effect of vicious cycle of bad players
-                    - unaligned also looks like unreliable eg Yak Collective
-                    - in the animal world if something away then it comes back it is treated as normal - wind in the willows
-                - [[Maier Fenster]]
-                    - byzantine generals vs byzantine empire, someone being evil vs sophisticated prisoner's dilemma
-                - [[Nathan Acks]]
-                    - 
-    12. Sept 5: US Labor Day, NO MEETING
-    13. Sept 12: Vinay/social software
-        - Read
-            - A group is its own enemy https://web.archive.org/web/20040415062627/http://shirky.com/writings/group_enemy.html
-        - Prompt: why most social software fails with groups (many-to-many interactions)?
-        -  Discusssion
-            - [[Meredith Noelle]]
-                - people dont write social software anymore
-                - cashapp: social dynamics within a functional app
-                - how web3 changes group dynamics
-            - [[Nathan Acks]]
-                - reminds of philosophy behind experimental social networks
-                - choose a server of your own values : mastodon servers
-                - public square is becoming less good than it was before
-            - [[Ben Mahala]]
-                - medieval town square was the one public space
-                - limited public space in meatspace vs inifinite group space on the internet
-                - groups need member-trimming and membership criteria
-                - multiple moderators
-            - [[Commits Vortex]]
-                - scale is the key thing
-                - social stickiness is interesting from voice/exit lens
-                - dead discord servers
-                - these patterns are persisting - see them in many communities that go dead (discord servers)
-            - [[Grigori Milov]]
-                - doesnt take the prompt for granted
-                - software doesnt fail, groups fail
-                - groups need structure
-                - default structure is hierarchy
-            - [[Jenna Dixon]]
-                - early web context
-            - [[Maier Fenster]]
-                - doesnt reflect the experience at Yak Collective
-                - havent spotted the 3 mentioned negative patterns
-                - what are we doing right at YakC?
-                - group defending against attempts to do what the group was not supposed to do
-                - 
-            - [[Vinay Débrou]]
-                - not every software is made for many-to-many interactions
-                - Dunbar limit for dense subgraph (tight-knit communities) : around 150 people
-                - Density: scaling and density(of edges) of social graph doesn't go together
-                - there is a always an emergent core group: visibly recognized for their effort/commitment as members vs users
-                - Structure: need for a constitution/governance structure that rolls out the values charter: additional power to the more committed core group
-                - member rights, user rights
-                - social software: need to understand social context (take advantage of it and be ready for the emergent challenges) and design for the social patterns as much as technological affordances
-                - identity : emergent reputations not designed ones
-                - member level recognition
-                - positive gatekeeping for higher powers in group-- porous membranes
-            - Resources:
-                - https://en.wikipedia.org/wiki/Dense_subgraph
-                - https://medium.com/@vinaydebrou/network-of-free-agent-clusters-nofac-d646598a98da
-                - https://www.robinsloan.com/notes/home-cooked-app/
-                - https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/
-        - 
-    14. Sept 19: Federal vs state tensions in history of US legal system
-        - [Kerry Thread](https://twitter.com/kerry62189/status/1570976739475755011?s=21&t=0gbpJtbmY8LF3EphPk2mXw)
-        - [Oliver Wendell Holmes and the Darwinian Common Law Paradigm](https://journals.openedition.org/ejpap/411)
-    15. Sept 26: [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf)
-        - Reading Article - https://erikhollnagel.com/onewebmedia/ETTO.pdf
-        - Prompt -  Think of an example you’ve encountered of this principle and comment on whether there are important conditions where the tradeoff can be broken. 
-        - Discussion
-            - [[Nathan Acks]] - trade off between optimal and robust solution in applied maths
-            - [[Jenna Dixon]] - dealt with issue in almost everything touched
-                - who gets to decide is the real question, pick two - fast, efficient, cheap
-            - [[Grigori Milov]] - easy to find examples
-                - good distinction between individual and collective decisions
-                - in some orgs decisions are made collectively, while in others decisions individually while execution collectively
-            - [[Ben Mahala]] - frontier defined by this is technology dependent, a new tech can help in getting more efficiency
-                - lot of orgs tend to be dishonest about actual place on the trade-offs
-                - lot of entities in principle have to follow thouroughness but don't 
-                - chemical safety board youtube https://www.youtube.com/user/USCSB/videos
-                - if there is a possibility of catatrophe then it can be spread 
-                - thouroughness and efficiency both take effort 
-            - [[Venkatesh Rao]] - Noah Sussman called it CAP theorem for humans
-                - ETTO at the org level ends being bureucracy vs private sector tradeoff
-                - can see the same things in accounting, policing, eg of where one leans to thouroughness it leans to bureucracy 
-                - DAO vs traditional startup companies
-                - decentraliced tech leans towards thourougness and centralized leans towards efficiency
-                - one way to complete CAP theorem in humans 
-                    - accountability(power differential -Ben's suggestion), thourouhness, efficiency
-            - Open Floor
-                - [[Nathan Acks]] - our perceptions of ourselves tend to be not correct to reality
-                - [[Jenna Dixon]] - we all end up on the spectrum somewhere, some funkies who tend to live up to the standard set up by the person in power
-                - [[Ben Mahala]] - in decentralized systems these sort of dishonesty is difficult to do. in a group when everyone is a peer it is difficult to do. can't loosen rules locally without loosening it globally
-                - [[Venkatesh Rao]] - eg multi-sig gnosis safe
-                    - meta lesson with YakCollective - of all the experiments thoroughness experiments succeed more often then efficiency experiments
-                - 
-    16. Oct 3: ??
-        - Review of readings of summer/general reactions
-        - Some sort of capstone event/and or publication?
-        - Decision on if/how to go DAO
-        - Article: https://en.wikipedia.org/wiki/Hanseatic_League
-        - Prompt - Under what conditions can things like the hanseatic league be stable and under what conditions will centralizing forces destabilize them?
-        - Discussion
-            - [[Meredith Noelle]] - culture generally structured
-            - [[Venkatesh Rao]]
-                - one successfull example of decetralized governance
-                - delian leagues of greek city states were defensive leagues
-                - full stack - economic, cultural 
-                - what was there in the rest of Europe - no big power. It was stable because there was nothing else to destablizie it
-                - natural advantages of trade route
-                - difficult for one to dominate
-                - in mediterranean Italy could dominate
-            - [[Grigori Milov]]
-                - decentralized structures are not getting destroyed by external powers
-                - difficult to run such structures without some people doing the centralizing work
-                - when times are bad there is strong incentive is make it centralized
-                - slow decision making in decentralized systems
-            - [[Meredith Noelle]]
-                - is there something about maritime trade in decentralized city states
-                - naval technolgy, nodes on the network
-            - [[Anuraj R]]
-                - does water bodies prevent centralizing forces
-            - [[Venkatesh Rao]]
-                - south east asia, fragmented islands, but no decentralized league
-                    - [[Anuraj R]] - did the climate in SE asia make a difference and allow emergence of large centralizing forces
-            - [[Ben Mahala]]
-                - middle ages was mostly a time of centralized states were weak 
-                - blog - https://acoup.blog/
-            - [[Venkatesh Rao]] - 
-                - piracy is interesting angle
-                - piracy happens at the margins of civilizational conflict
-                - 
-    17. Oct 10: Hypercomplexity talk
-    18. Oct 17: Eth roadmap and DevCon trip report
-        - Prompt Article - https://volt.capital/blog/the-merge
-        - Reactions
-            - 
-    19. Oct 24: Retrospective
-        - [[Anuraj R]] 
-            - Lamport Papers and Vinay's reading were really interesting
-        - [[Ben Mahala]]
-            - Distributed Systems reading was nice
-            - For the coming sessions - deep dives
-        - [[Grigori Milov]]
-            - Most enjoyable about Junkspace article and Leslie Lamport articles
-            - Need more to read scientific articles, maybe different protocol for harder reads
-        - [[Maier Fenster]]
-            - Difficult to point any particular article
-            - We should classify these readings to allow other people to go on other journeys
-        - [[Nathan Acks]]
-            - Enjoyed the technical papers - Lamport papers
-            - Vinay's reading - A Group is Its own works Enemy
-            - More time needed for technical papers
-            - We should classify these readings to allow other people to go on other journeys
-            - Tag the papers
-        -  [[Venkatesh Rao]]
-            - in the previous season there was lots of handson blockchain stuff
-            - ETTO principle was great - one of the super obvious that no-one pointed out before
-            - cleanup the readings the send out in newsletter
-            - for the coming season - narrow the focus back down to blockchain stuff
-            - more red teaming
-        - Links 
-            - [[Anuraj R]] - https://queue.acm.org/detail.cfm?id=3136559
-            - [[Ben Mahala]] - https://usacac.army.mil/sites/default/files/documents/ufmcs/The_Red_Team_Handbook.pdf
-            - [[Grigori Milov]] - https://www.usenix.org/system/files/osdi18-veeraraghavan.pdf
-            - [[Maier Fenster]] - https://changers.substack.com/p/releasing-change-understanding-flux
-            - [[Nathan Acks]] - https://arstechnica.com/information-technology/2022/10/how-vice-society-got-away-with-a-global-ransomware-spree/
-            - [[Shreeda Segan]] - https://vitalik.ca/general/2021/01/26/snarks.html
-            - [[Venkatesh Rao]] - http://infofranpro.wikidot.com/19520101-on-cooling
-        - [[Open Floor]]
-            - [[Maier Fenster]] tension between each meeting should standing on its own versus making a journey of papers
-            - 
-- **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
-    1. Oct 31: Gwern, unseeing
-        - Reading - https://www.gwern.net/Unseeing
-        - Prompt -  Come up with an example of “unseeing” a social system
-        - Discussion
-            - [[Maier Fenster]]
-            - [[Sachin Benny]]
-                - skate park design story
-                - Reliance Company - Jio launch of 4G/5G network. Giving free data plans to acquire customers
-                - Uber growth - local governance laws move really slow -> Uber ignored and scaled fast
-            - [[Venkatesh Rao]]
-                - How Design engineering is taught in Mech. Engg. Brainstrom 20 uses of Pencil. After unseeing writing tool abstraction, then many uses emerge. Like support, weapon, etc..
-                - 3D printing - unconciously thinking the contraints by bed dimensions so thought the max dimension of printable object is limited by that dimension, effective contraint is square root of the bed side-length
-                - time domain - people have abstract view of converstation. physical process of talking is contraint by many factors eg rapid talking vs talking long pauses
-                - Zenefits - SaaS for health insurance plans for SME. some states have laws have human in the loop requirement
-                - arbitrage in business models 
-            - Open Floor
-                - [[Jenna Dixon]]
-                    - Zenefits - rule breaking vs making use of loop hole
-                - [[Venkatesh Rao]]
-                    - if clever hacking becomes a habit then it becomes a difficult to build something without hacks
-                - [[Maier Fenster]]
-                    - Nikola Company, Theranos 
+                - [[Anuraj R]]
+                    - h-index in academia
+                    - gitcoin
                 - [[Ben Mahala]]
-                    - manipulation is another abstraction of the system
+                    - https://twitter.com/glenweyl
+                    - Mechanism too clever, fine in domains they exist in. Lack simplicity
+                    - One person - One vote has strong narrative. It feels fair
+                    - There is not easy case study to intuitively know it
+                    - Problems with Identity and Collusion
+                    - People need to know what exactly they want. Not sure how much this system would work in the case when people don't know what they want
+                    - People might not hook into this system
+                - [[Bryan King]]
+                    - Rank Choice Voting
+                    - It reduces gamesmanship. In US elections, a third party cannot ascend, as voting for third party is risky? 
+                    - Interesting part is obscuring of preference
+                    - Spectrum of of how much you care, and there are many people who don't care
+                    - Advertising section is interesting
+                - [[Grigori Milov]]
+                    - Article misses the issue of power which also exist which is not evenly distributed in a system
+                    - In the presence of power, the fluidity of new system compared to old one (one person one vote), the danger of moving to unstable system
+                        - easy to make a complex system, cubic system etc
                 - [[Venkatesh Rao]]
-                    - why do we give start-ups the benefit of doubt
-                    - long-term abstract trust
-                    - Juicero - bad business thinking - gray area
-                    - App called Yo
-                    - abstraction on trust relationship
+                    - The math is interesting. 
+                    - Ben's point of not having a meta-narrative
+                        - [[Ben Mahala]]
+                    - Eg routing of TCP packets and algos for it
+                        - CSMA by CD,
+                        - Telephone game
+                    - People can't do it for troubleshooting but not as default
+                    - Grigori's point of slippery slope
+                        - [[Grigori Milov]]
+                    - Diodes, triodes etc
+                    - The system depends on people knowing how much they care
+                    - Time in Yak Collective gives your certain voting tokens? 
+                        - Making a voting bot with auto voting options
+                    - Vickrey auction, https://en.wikipedia.org/wiki/Vickrey_auction
+                    - Power holders in the system
+                        - Buying power in quadratic system also depends on real world buying power
+                        - Have to shield quadratic voting from real world inequalities
+                    - At some point one person - one vote was also established
+                - Open Floor
+                    - [[Ben Mahala]]
+                        - lot of work needs to be done to make this system viable
+                        - does not mean we should give up on this, but good to know there are limits to this system
+                        - EIP-1599 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md
+                        - Delegation is also important thing to look at, Liquid Democracy
+        5. July 18:  Junkspace and Simon articles
+            - Articles
+                - https://maurann.com/assets/readings/koolhaas-rem_junkspace.pdf
+                    - Discussion
+                        - [[Anuraj R]]
+                            - Pyramids are not junk
+                            - what makes something become junk
+                        - [[Ben Mahala]]
+                        - [[Venkatesh Rao]]
+                            - article famous in architecture circles
+                            - the author may like the evolutionary power of junkspace
+                            - maybe not read it in a structured way
+                        - [[Grigori Milov]]
+                            - lack of structure
+                            - notion of shortage of masterpieces, shielded from quality checks etc
+                            - junkspace is orderless but authoratarian
+                            - once there is a well developed power structure then there is no need of architecture
+                            - junkspace tyranny - the tyranny of mediocrity
+                        - [[Maier Fenster]]
+                            - article is using junkspace as a suitcase word. 
+                            - talking about 20th century. somone in 18th or 19th century from rural england coming to London would be overwhelmed. the author might be talking about sometype of overload
+                            - structure of modern shopping malls eg of mall in Israel
+                            - tour of ruins of market place of second temple in Jerusalem
+                                - what would a person from a village think when they arrived this market place 
+                - https://www2.econ.iastate.edu/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf
+                    - Discussion
+                        - [[Ben Mahala]]
+                            - author touches on points on what would become chaos theory etc
+                            - things he calls hierarchy is called reductionism
+                        - [[Venkatesh Rao]]
+                            - author pioneer of AI, came up with the notion of bounded rationality etc
+                            - a complex system that evolves needs intermediate stable systems 
+                        - [[Maier Fenster]]
+                            - change the broader practical goal of today's prompt?
+                            -  if we were to build a metaverse based on junkspace then what would it look like
+                            - the article did not age well
+                                - from discord  
+                                    - think human-based systems have a more viable option of reach-through from one hierarchy level to another. the ones we care about are dynamic to , like a flock of birds, so the leader (of which there can be many at once) take turns at different effective places in hierarchy. in his words - i think the systems we care about are not near decomposable as he suggests most social systems are.
+                                    - __one cannot, for example, enact the role of "friend" with large numbers of other people.__
+                                    - it seems like the focus on hierarchy detracts from analyzing the  links between components.
+                        - [[Grigori Milov]]
+                            - hierarchy, in his view in human orgs is the power structure. 
+                            - hierarchy is defined in specific terms
+                            - a lot depends on intensity of interactions in human systems
+                            - catalytic reactions - stable intermediate forms
+                        - [[Commits Vortex]]
+                            - question about adjacent fields
+                            - how to view hierarchy
+                            - notion of decomposability, idea of modularity, if there is any implicit heierarchicalism 
+                            - multiverses for these maps, visualization of maps of distributed consensus works
+                            - 
+        6. July 25: Contd: discussion of a Junkspace and Simon articles
+        7. Aug 1: Systems theory discussion led by maier/benjamin: SOMEONE ADD LINKS??
+        8. Aug 8: Brainstorming for Distributed Yak Infrastructure 2.0
+            - [Yak Collective IT Infrastructure](https://roamresearch.com/#/app/ArtOfGig/page/6fhTlx1p_)
+                - Prompt - Product Manager Hat. If we build a newer version what would we build
+                - Discussion
+                    - [[Nathan Acks]] Explainer
+                        - Grew up organically
+                        - All Discord bots hosted on Vultr server and written in python. Mostly stateless
+                        - Website was initially using GitHub pages but now uses Netlify. Netlify builds the jekyll website
+                        - GitHub actions addition to infra would be great. Eg [Lunch-time tickets](https://github.com/The-Yak-Collective/lunchtime-tickets)
+                    - [[Commits Vortex]]
+                        - The user experience on Discord is cluttered
+                        - Good to have visibility of reading lists
+                        - Difficult to track messages. If you are not embedded in the community then it difficult to jump into something
+                    - [[Grigori Milov]]
+                        - Refactor the diagram for easier navigation through it
+                        - Simplify Discord Channels
+                    - [[Venkatesh Rao]]
+                        - Two areas that could use creative thinking
+                            - Time Dimension of Profile pages
+                                - Profile Page on Website vs Discord 
+                                - Speed up tempo of Website
+                                - Something like GitHub acitvity/commit chart for Profile Page on Website. This gives a live sense of what people are upto in the community
+                                - Take exhaust on Discord and show on Profile on Webpage
+                            - Infrastructure simplification
+                                - Design principles on how bots should behave
+                    - [[Maier Fenster]]
+                        - we have more hopes than people to do the stuff
+                        - we need people not only who build it but also people who use it in addition to people who would improve it
+                        - the infra part needs traction either from user side or builder side
+                    - [[Venkatesh Rao]]
+                        - Reason for mismatch between hopes and execution could be because there it is distributed volunteer based product
+                        - New user onboarding is lacking at the moment. Difficult for them get in the community. How to onboard outsiders? 
+                        - YC is between public space and private space
+                        - yaktweet command - distributed collective twitter account
+                        - fermi gym bootstrapping and related channel
+                    - [[Commits Vortex]]
+                        - Intro channel is where posts go to die
+                        - automating updates of people/members to website
+                        - sidestep whole issue of member?
+                        - prioritize ideas instead of people
+                    - [[Nathan Acks]]
+                        - change website that uses exhaust from Discord
+                    - [[Maier Fenster]]
+                        - what is Discord giving us? should we work somewhere else? 
+                    - [[Commits Vortex]]
+                        - chorus bot similar to yaktweet
+                        - telescope bot, RMIT, annotation on post
+        9. Aug 15: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
+            - Prompt - What did find interesting in the paper? 
+            - Discussion
+                - [[Anuraj R]] - timestamps for sync? trivial method?
+                - [[Ben Mahala]] - seeds of byzantine fault tolerance
+                    - all nodes communicate first, and if they contacted every node 
+                    - all the things that start from here and flow into the current systems
+                    - if there is a crash in one node it takes down all systems, but this has been solved in today's systems
+                - [[Grigori Milov]]
+                    - in the middle of article the usefullness of order of events is questioned
+                    - play it local, maybe a more recent article on syncing in distributed system would give a better view
+                    - what ever happends on global system does not matter until locally processed, local times scale more important? 
+                - [[Nathan Acks]]
+                    - pick pockets, how they fake sensation of things on the body
+                    - [[Commits Vortex]]
+                        - hand illusion, rubber hand after partition in a table, people feel illusion on the rubber hand even though it is not their real hand
+                    - a lot of what the brain is doing is anticipating the events,  
+                - [[Venkatesh Rao]]
+                    - new advances in databases 10 years ago - spanner system, that line of research began in this paper
+                    - Paxos - first reading of the summer
+                    - this is works under 
+                    - the non trivialiality can be appreciated one the lack of data is known, that is a central time keeping
+                    - distributed system is unnatural, eg is blind and there is baton/ball to pass on another person, how to pass the ball so that everyone gets to play with the ball
+                    - trade off central time keeping and message verbosity(everyone talks to everyone)
+                    - byzantine fault tolerance increase the complexity of this problem
+                    - relation to physics and space-time is fascinating
+                    - twitter had ordering problems, now it seems ordered, they seemed to have solved it locally
+                    - Leslie Lamport MS Page - https://www.microsoft.com/en-us/research/people/lamport/publications/
+                    - our brains does process events in the actual sequence? but brains constructs a simulated 
+                    - https://en.wikipedia.org/wiki/Predictive_coding - puts the animal on the lowest energy path of behaviour
+                    - eye and optical processing are a little ahead by speculating what is happening - eye has saccades
+                    - Nvidia research using saccades in VR, walking in infinite straight line
+        10. Aug 22: Discussion of the [Google Spanner system](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+        11. Aug 29: [Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
+            - Discussion
                 - [[Maier Fenster]]
-                    - fake pattern recognition
-    2. Nov 7: Spectral Utopias
-        - Reading: https://www.dropbox.com/s/e8nymejjsx3y1dk/spectral%20utopias%20FINAL%20english%202021.pdf?dl=0
-            - Prompt: top lesson for modern post-social distributed systems, and top difference.
-        - Discussion
+                    - Distinction between evil vs faulty
+                    - What is the cost of assuming a faulty computer is randomly bad vs evily bad
+                    - what a blockchain would look like without blockchain with a central ledger
+                - [[Anuraj R]]
+                    - Human and computing distributed systems
+                - [[Venkatesh Rao]]
+                    - Impact of Leslie Lamport
+                    - LaTeX guy image of Leslie Lamport
+                    - what happens when adversarial teams responding to each other but instead everyone does their own thing
+                    - economy is independant agents taking actions for thier own benefits
+                - [[Nathan Acks]]
+                    - signing messages made the problem easier 
+                    - unreliability of generals -> how to solve
+                - [[Ben Mahala]]
+                    - where the cracks are from reality creeps in. P387 a solution with oral messages
+                    - with signatures if the messages are sent then lying becomes impossible
+                    - if you say nothing or somone being censored looks the same to third party
+                    - meta problem, lamport assumes that everyone assumes that it is a battle
+                        - everyone has the genesis block
+                -  Open Floor
+                    - [[Maier Fenster]] synergy between this paper and end to end encryption
+                    - https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+                    - Tit for Tat evolutionarily stable system
+                    - [[Venkatesh Rao]] 
+                        - a small group of good players in the ecosystem and its effects and the feedback and virtuous cycle of good players. effect of vicious cycle of bad players
+                        - unaligned also looks like unreliable eg Yak Collective
+                        - in the animal world if something away then it comes back it is treated as normal - wind in the willows
+                    - [[Maier Fenster]]
+                        - byzantine generals vs byzantine empire, someone being evil vs sophisticated prisoner's dilemma
+                    - [[Nathan Acks]]
+                        - 
+        12. Sept 5: US Labor Day, NO MEETING
+        13. Sept 12: Vinay/social software
+            - Read
+                - A group is its own enemy https://web.archive.org/web/20040415062627/http://shirky.com/writings/group_enemy.html
+            - Prompt: why most social software fails with groups (many-to-many interactions)?
+            -  Discusssion
+                - [[Meredith Noelle]]
+                    - people dont write social software anymore
+                    - cashapp: social dynamics within a functional app
+                    - how web3 changes group dynamics
+                - [[Nathan Acks]]
+                    - reminds of philosophy behind experimental social networks
+                    - choose a server of your own values : mastodon servers
+                    - public square is becoming less good than it was before
+                - [[Ben Mahala]]
+                    - medieval town square was the one public space
+                    - limited public space in meatspace vs inifinite group space on the internet
+                    - groups need member-trimming and membership criteria
+                    - multiple moderators
+                - [[Commits Vortex]]
+                    - scale is the key thing
+                    - social stickiness is interesting from voice/exit lens
+                    - dead discord servers
+                    - these patterns are persisting - see them in many communities that go dead (discord servers)
+                - [[Grigori Milov]]
+                    - doesnt take the prompt for granted
+                    - software doesnt fail, groups fail
+                    - groups need structure
+                    - default structure is hierarchy
+                - [[Jenna Dixon]]
+                    - early web context
+                - [[Maier Fenster]]
+                    - doesnt reflect the experience at Yak Collective
+                    - havent spotted the 3 mentioned negative patterns
+                    - what are we doing right at YakC?
+                    - group defending against attempts to do what the group was not supposed to do
+                    - 
+                - [[Vinay Débrou]]
+                    - not every software is made for many-to-many interactions
+                    - Dunbar limit for dense subgraph (tight-knit communities) : around 150 people
+                    - Density: scaling and density(of edges) of social graph doesn't go together
+                    - there is a always an emergent core group: visibly recognized for their effort/commitment as members vs users
+                    - Structure: need for a constitution/governance structure that rolls out the values charter: additional power to the more committed core group
+                    - member rights, user rights
+                    - social software: need to understand social context (take advantage of it and be ready for the emergent challenges) and design for the social patterns as much as technological affordances
+                    - identity : emergent reputations not designed ones
+                    - member level recognition
+                    - positive gatekeeping for higher powers in group-- porous membranes
+                - Resources:
+                    - https://en.wikipedia.org/wiki/Dense_subgraph
+                    - https://medium.com/@vinaydebrou/network-of-free-agent-clusters-nofac-d646598a98da
+                    - https://www.robinsloan.com/notes/home-cooked-app/
+                    - https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/
+            - 
+        14. Sept 19: Federal vs state tensions in history of US legal system
+            - [Kerry Thread](https://twitter.com/kerry62189/status/1570976739475755011?s=21&t=0gbpJtbmY8LF3EphPk2mXw)
+            - [Oliver Wendell Holmes and the Darwinian Common Law Paradigm](https://journals.openedition.org/ejpap/411)
+        15. Sept 26: [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf)
+            - Reading Article - https://erikhollnagel.com/onewebmedia/ETTO.pdf
+            - Prompt -  Think of an example you’ve encountered of this principle and comment on whether there are important conditions where the tradeoff can be broken. 
+            - Discussion
+                - [[Nathan Acks]] - trade off between optimal and robust solution in applied maths
+                - [[Jenna Dixon]] - dealt with issue in almost everything touched
+                    - who gets to decide is the real question, pick two - fast, efficient, cheap
+                - [[Grigori Milov]] - easy to find examples
+                    - good distinction between individual and collective decisions
+                    - in some orgs decisions are made collectively, while in others decisions individually while execution collectively
+                - [[Ben Mahala]] - frontier defined by this is technology dependent, a new tech can help in getting more efficiency
+                    - lot of orgs tend to be dishonest about actual place on the trade-offs
+                    - lot of entities in principle have to follow thouroughness but don't 
+                    - chemical safety board youtube https://www.youtube.com/user/USCSB/videos
+                    - if there is a possibility of catatrophe then it can be spread 
+                    - thouroughness and efficiency both take effort 
+                - [[Venkatesh Rao]] - Noah Sussman called it CAP theorem for humans
+                    - ETTO at the org level ends being bureucracy vs private sector tradeoff
+                    - can see the same things in accounting, policing, eg of where one leans to thouroughness it leans to bureucracy 
+                    - DAO vs traditional startup companies
+                    - decentraliced tech leans towards thourougness and centralized leans towards efficiency
+                    - one way to complete CAP theorem in humans 
+                        - accountability(power differential -Ben's suggestion), thourouhness, efficiency
+                - Open Floor
+                    - [[Nathan Acks]] - our perceptions of ourselves tend to be not correct to reality
+                    - [[Jenna Dixon]] - we all end up on the spectrum somewhere, some funkies who tend to live up to the standard set up by the person in power
+                    - [[Ben Mahala]] - in decentralized systems these sort of dishonesty is difficult to do. in a group when everyone is a peer it is difficult to do. can't loosen rules locally without loosening it globally
+                    - [[Venkatesh Rao]] - eg multi-sig gnosis safe
+                        - meta lesson with YakCollective - of all the experiments thoroughness experiments succeed more often then efficiency experiments
+                    - 
+        16. Oct 3: ??
+            - Review of readings of summer/general reactions
+            - Some sort of capstone event/and or publication?
+            - Decision on if/how to go DAO
+            - Article: https://en.wikipedia.org/wiki/Hanseatic_League
+            - Prompt - Under what conditions can things like the hanseatic league be stable and under what conditions will centralizing forces destabilize them?
+            - Discussion
+                - [[Meredith Noelle]] - culture generally structured
+                - [[Venkatesh Rao]]
+                    - one successfull example of decetralized governance
+                    - delian leagues of greek city states were defensive leagues
+                    - full stack - economic, cultural 
+                    - what was there in the rest of Europe - no big power. It was stable because there was nothing else to destablizie it
+                    - natural advantages of trade route
+                    - difficult for one to dominate
+                    - in mediterranean Italy could dominate
+                - [[Grigori Milov]]
+                    - decentralized structures are not getting destroyed by external powers
+                    - difficult to run such structures without some people doing the centralizing work
+                    - when times are bad there is strong incentive is make it centralized
+                    - slow decision making in decentralized systems
+                - [[Meredith Noelle]]
+                    - is there something about maritime trade in decentralized city states
+                    - naval technolgy, nodes on the network
+                - [[Anuraj R]]
+                    - does water bodies prevent centralizing forces
+                - [[Venkatesh Rao]]
+                    - south east asia, fragmented islands, but no decentralized league
+                        - [[Anuraj R]] - did the climate in SE asia make a difference and allow emergence of large centralizing forces
+                - [[Ben Mahala]]
+                    - middle ages was mostly a time of centralized states were weak 
+                    - blog - https://acoup.blog/
+                - [[Venkatesh Rao]] - 
+                    - piracy is interesting angle
+                    - piracy happens at the margins of civilizational conflict
+                    - 
+        17. Oct 10: Hypercomplexity talk
+        18. Oct 17: Eth roadmap and DevCon trip report
+            - Prompt Article - https://volt.capital/blog/the-merge
+            - Reactions
+                - 
+        19. Oct 24: Retrospective
+            - [[Anuraj R]] 
+                - Lamport Papers and Vinay's reading were really interesting
             - [[Ben Mahala]]
+                - Distributed Systems reading was nice
+                - For the coming sessions - deep dives
             - [[Grigori Milov]]
-                - fighting regulators vs building stuff
-                - fight came to end when Internet came around
-                - top difference - radio is really vocal and audio and limited to neighberhood or extended neighberhood
-            - [[Jenna Dixon]]
-                - it is all about elite capture - the communcations platform
-                - fighting godzilla and little people running around on platforms
-                - apple ecosystem - bdfl or trapped inside a crappy dictator system
-                - parables of... 
-                - yak-collective as airport
-                - solar punks
-            - [[Shreeda Segan]]
-                - don't devalue small scale efforts
-                - top-difference difficult to do small scale efforts
-            - [[Venkatesh Rao]]
-                - low-power to the people book
-                - it is becoming in the internet era
-                - in radio there were physical constraits in radio spectrum
-                - stamping out small players for non-technical reasons
-                - wordpress was complex when it started - complexification of stuff as they grow
-                - long tail of agency
-                - big similarity - no matter the technology - powerful people have similar behaviour
-            - [[Ben Mahala]]
-                - low power community broadcast is inverse of Internet - in the geographical neighberhood - 
-                - In the Internet one can run small servers but there are othe problems, like it is difficult to know somone in the neighberhood has it
-                - 
-            - [[Commits Vortex]]
-                - from Discord
-                - https://stories.platformdesigntoolkit.com/platforms-are-engines-of-learning-4f7b70249177
-                - i'm finding the scalability v subsidiarity element really useful for thinking about the function of localism and federalism in platform contexts
-                - https://journals.sagepub.com/doi/10.1177/20563051221126041
-                - also, the whole history of BBS is really relevant to this discussion. the fees associated with long-distance calling to dial into an out of state server meant that server connections were more local
-                - Kevin Driscoll's The Modem World is good on this BBS history: 
-                - https://yalebooks.yale.edu/book/9780300248142/the-modem-world/
-            - open floor
-                - [[Jenna Dixon]] sync vs async
-                - [[Ben Mahala]] https://en.wikipedia.org/wiki/Mesh_networking
-                - [[Venkatesh Rao]] farcaster - protocol does not require entire history
-                    - something new in blockchain despite being local there can some global stuff
-                - 
-    3. Nov 14: Robin Sloan article
-        - Reading - https://www.robinsloan.com/lab/specifying-spring-83/
-        - Prompt -  if this protocol existed with tooling support and content how do you think people would actually use it and how would you use it?
-        - Discussion
-            - [[Ben Mahala]]
-                - web was additional to internet, geo cities
-                - over past 20 years web has become the anchor
-                - email anchored to work life
-                - might not fullfill what the web needs
-            - [[Jenna Dixon]]
-                - olive oil newsletter - driving around california collecting olives
-                - what is a protocol
-                - mouse eye vs eagle eye view -> eye on details vs big picture view
-                - can yak-rover have a lab notes with this protocol?
-                - rss reader, presentation is part of the content
-                - john postle
-            - [[Meredith Noelle]]
-                - rss or twitter or discord - no differentiation
-                - the board concept is a way to differentiate the way info is presented
-                - card protocol
-                - gap between this and a different way to change our experience of information
-            - [[Shreeda Segan]]
-                - unless there is already a community it might not take off
-                - protocol as a medium? what is a protocol? 
-                - yak collective project for protocols? 
-                - lab notebook idea is cool
-            - [[Venkatesh Rao]]
-                - Ethereum foundation protocol studies? 
-                - indie hacker with farmer market sensibilities with idealism
-                - pointer to where we should be going
-                - diy use of protocol should be possible
-                - grease monkey, zapier
-                - eth difficult to run nodes
-                - forcing of single tempo by rss, twitter etc
-                - pinterest does not have the notion of flow
-                - parallel stream line with different flow rate
-                - stuart brands concept of shearing 
+                - Most enjoyable about Junkspace article and Leslie Lamport articles
+                - Need more to read scientific articles, maybe different protocol for harder reads
+            - [[Maier Fenster]]
+                - Difficult to point any particular article
+                - We should classify these readings to allow other people to go on other journeys
+            - [[Nathan Acks]]
+                - Enjoyed the technical papers - Lamport papers
+                - Vinay's reading - A Group is Its own works Enemy
+                - More time needed for technical papers
+                - We should classify these readings to allow other people to go on other journeys
+                - Tag the papers
+            -  [[Venkatesh Rao]]
+                - in the previous season there was lots of handson blockchain stuff
+                - ETTO principle was great - one of the super obvious that no-one pointed out before
+                - cleanup the readings the send out in newsletter
+                - for the coming season - narrow the focus back down to blockchain stuff
+                - more red teaming
+            - Links 
+                - [[Anuraj R]] - https://queue.acm.org/detail.cfm?id=3136559
+                - [[Ben Mahala]] - https://usacac.army.mil/sites/default/files/documents/ufmcs/The_Red_Team_Handbook.pdf
+                - [[Grigori Milov]] - https://www.usenix.org/system/files/osdi18-veeraraghavan.pdf
+                - [[Maier Fenster]] - https://changers.substack.com/p/releasing-change-understanding-flux
+                - [[Nathan Acks]] - https://arstechnica.com/information-technology/2022/10/how-vice-society-got-away-with-a-global-ransomware-spree/
+                - [[Shreeda Segan]] - https://vitalik.ca/general/2021/01/26/snarks.html
+                - [[Venkatesh Rao]] - http://infofranpro.wikidot.com/19520101-on-cooling
             - [[Open Floor]]
-                - what is really is a protocol? 
-                    - how two entities interact? 
-                - meta data , where the edge areas are? 
-                - challenge of defining protocol
-                    - it can get really complex
-                    - distinction between protocol and platforms
-                    - protocol mediates changes between two entities
-                - what sort of protocols would people create? 
-                - time is interesting aspect of protocol
-                    - stateless protocols without aspect of time is not a protocol? 
+                - [[Maier Fenster]] tension between each meeting should standing on its own versus making a journey of papers
                 - 
-    4. Nov 21: Farcaster
-        - Reading - https://www.farcaster.xyz/ecosystem
-            - [[Ben Mahala]] - 
-                - Major flaw is registering identity on chain
-                - Mastodon - low barrier entry
-                - pet name system https://en.wikipedia.org/wiki/Petname
-            - [[Bryan King]]
-                - UX of twitter
-                - some problems of mastodon
-                - irc - pgp kind of tool
-                - meta discourse on Twitter about Twitter
-                - social design first and technical later
-                - this feels like exit over voice
-            - [[Commits Vortex]]
-                - Mastodon might open up horizons of fediverse
-                - different affordances compared to twitter
-                - the ability to extend actions at the protocol level seems interesting and unique from api approach 
-                - in terms of protocol, two things
-                    - 1. "Fids can be transferred between addresses, though the FIR ensures that an address owns only one fid at a time."  -- I can't work out what this means
-                    - 2. "If the custody address does not cancel the transfer within three days, the recovery address can complete the transfer."
+    - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
+        1. Oct 31: Gwern, unseeing
+            - Reading - https://www.gwern.net/Unseeing
+            - Prompt -  Come up with an example of “unseeing” a social system
+            - Discussion
+                - [[Maier Fenster]]
+                - [[Sachin Benny]]
+                    - skate park design story
+                    - Reliance Company - Jio launch of 4G/5G network. Giving free data plans to acquire customers
+                    - Uber growth - local governance laws move really slow -> Uber ignored and scaled fast
+                - [[Venkatesh Rao]]
+                    - How Design engineering is taught in Mech. Engg. Brainstrom 20 uses of Pencil. After unseeing writing tool abstraction, then many uses emerge. Like support, weapon, etc..
+                    - 3D printing - unconciously thinking the contraints by bed dimensions so thought the max dimension of printable object is limited by that dimension, effective contraint is square root of the bed side-length
+                    - time domain - people have abstract view of converstation. physical process of talking is contraint by many factors eg rapid talking vs talking long pauses
+                    - Zenefits - SaaS for health insurance plans for SME. some states have laws have human in the loop requirement
+                    - arbitrage in business models 
+                - Open Floor
+                    - [[Jenna Dixon]]
+                        - Zenefits - rule breaking vs making use of loop hole
+                    - [[Venkatesh Rao]]
+                        - if clever hacking becomes a habit then it becomes a difficult to build something without hacks
+                    - [[Maier Fenster]]
+                        - Nikola Company, Theranos 
+                    - [[Ben Mahala]]
+                        - manipulation is another abstraction of the system
+                    - [[Venkatesh Rao]]
+                        - why do we give start-ups the benefit of doubt
+                        - long-term abstract trust
+                        - Juicero - bad business thinking - gray area
+                        - App called Yo
+                        - abstraction on trust relationship
+                    - [[Maier Fenster]]
+                        - fake pattern recognition
+        2. Nov 7: Spectral Utopias
+            - Reading: https://www.dropbox.com/s/e8nymejjsx3y1dk/spectral%20utopias%20FINAL%20english%202021.pdf?dl=0
+                - Prompt: top lesson for modern post-social distributed systems, and top difference.
+            - Discussion
+                - [[Ben Mahala]]
+                - [[Grigori Milov]]
+                    - fighting regulators vs building stuff
+                    - fight came to end when Internet came around
+                    - top difference - radio is really vocal and audio and limited to neighberhood or extended neighberhood
+                - [[Jenna Dixon]]
+                    - it is all about elite capture - the communcations platform
+                    - fighting godzilla and little people running around on platforms
+                    - apple ecosystem - bdfl or trapped inside a crappy dictator system
+                    - parables of... 
+                    - yak-collective as airport
+                    - solar punks
+                - [[Shreeda Segan]]
+                    - don't devalue small scale efforts
+                    - top-difference difficult to do small scale efforts
+                - [[Venkatesh Rao]]
+                    - low-power to the people book
+                    - it is becoming in the internet era
+                    - in radio there were physical constraits in radio spectrum
+                    - stamping out small players for non-technical reasons
+                    - wordpress was complex when it started - complexification of stuff as they grow
+                    - long tail of agency
+                    - big similarity - no matter the technology - powerful people have similar behaviour
+                - [[Ben Mahala]]
+                    - low power community broadcast is inverse of Internet - in the geographical neighberhood - 
+                    - In the Internet one can run small servers but there are othe problems, like it is difficult to know somone in the neighberhood has it
+                    - 
+                - [[Commits Vortex]]
+                    - from Discord
+                    - https://stories.platformdesigntoolkit.com/platforms-are-engines-of-learning-4f7b70249177
+                    - i'm finding the scalability v subsidiarity element really useful for thinking about the function of localism and federalism in platform contexts
+                    - https://journals.sagepub.com/doi/10.1177/20563051221126041
+                    - also, the whole history of BBS is really relevant to this discussion. the fees associated with long-distance calling to dial into an out of state server meant that server connections were more local
+                    - Kevin Driscoll's The Modem World is good on this BBS history: 
+                    - https://yalebooks.yale.edu/book/9780300248142/the-modem-world/
+                - open floor
+                    - [[Jenna Dixon]] sync vs async
+                    - [[Ben Mahala]] https://en.wikipedia.org/wiki/Mesh_networking
+                    - [[Venkatesh Rao]] farcaster - protocol does not require entire history
+                        - something new in blockchain despite being local there can some global stuff
+                    - 
+        3. Nov 14: Robin Sloan article
+            - Reading - https://www.robinsloan.com/lab/specifying-spring-83/
+            - Prompt -  if this protocol existed with tooling support and content how do you think people would actually use it and how would you use it?
+            - Discussion
+                - [[Ben Mahala]]
+                    - web was additional to internet, geo cities
+                    - over past 20 years web has become the anchor
+                    - email anchored to work life
+                    - might not fullfill what the web needs
+                - [[Jenna Dixon]]
+                    - olive oil newsletter - driving around california collecting olives
+                    - what is a protocol
+                    - mouse eye vs eagle eye view -> eye on details vs big picture view
+                    - can yak-rover have a lab notes with this protocol?
+                    - rss reader, presentation is part of the content
+                    - john postle
+                - [[Meredith Noelle]]
+                    - rss or twitter or discord - no differentiation
+                    - the board concept is a way to differentiate the way info is presented
+                    - card protocol
+                    - gap between this and a different way to change our experience of information
+                - [[Shreeda Segan]]
+                    - unless there is already a community it might not take off
+                    - protocol as a medium? what is a protocol? 
+                    - yak collective project for protocols? 
+                    - lab notebook idea is cool
+                - [[Venkatesh Rao]]
+                    - Ethereum foundation protocol studies? 
+                    - indie hacker with farmer market sensibilities with idealism
+                    - pointer to where we should be going
+                    - diy use of protocol should be possible
+                    - grease monkey, zapier
+                    - eth difficult to run nodes
+                    - forcing of single tempo by rss, twitter etc
+                    - pinterest does not have the notion of flow
+                    - parallel stream line with different flow rate
+                    - stuart brands concept of shearing 
+                - [[Open Floor]]
+                    - what is really is a protocol? 
+                        - how two entities interact? 
+                    - meta data , where the edge areas are? 
+                    - challenge of defining protocol
+                        - it can get really complex
+                        - distinction between protocol and platforms
+                        - protocol mediates changes between two entities
+                    - what sort of protocols would people create? 
+                    - time is interesting aspect of protocol
+                        - stateless protocols without aspect of time is not a protocol? 
+                    - 
+        4. Nov 21: Farcaster
+            - Reading - https://www.farcaster.xyz/ecosystem
+                - [[Ben Mahala]] - 
+                    - Major flaw is registering identity on chain
+                    - Mastodon - low barrier entry
+                    - pet name system https://en.wikipedia.org/wiki/Petname
+                - [[Bryan King]]
+                    - UX of twitter
+                    - some problems of mastodon
+                    - irc - pgp kind of tool
+                    - meta discourse on Twitter about Twitter
+                    - social design first and technical later
+                    - this feels like exit over voice
+                - [[Commits Vortex]]
+                    - Mastodon might open up horizons of fediverse
+                    - different affordances compared to twitter
+                    - the ability to extend actions at the protocol level seems interesting and unique from api approach 
+                    - in terms of protocol, two things
+                        - 1. "Fids can be transferred between addresses, though the FIR ensures that an address owns only one fid at a time."  -- I can't work out what this means
+                        - 2. "If the custody address does not cancel the transfer within three days, the recovery address can complete the transfer."
 - What is the notification system for this?
 - Wouldn't it be better to say "if the recovery address does no complete the transfer within three days, then the transfer fails."?
-            - [[Grigori Milov]]
-                - governance issue - how the protocol can be changed - anyone can propose and then team decides
-                - evolution of twitter - importance to notice the evolutionary path of twitter. Farcaster seems at the starting point of twitter
-                - evolutionary forces centralization
-                - monetization mechanism
-                - smaller clients for twitter failed
-                - ad based system forces centralization
-            - [[Jenna Dixon]]
-                - section 7 - security consideration - swarm actor, bot attacks
-                - stability without stagnation
-                - Dan Romero's podcast - https://share.transistor.fm/s/ca91681a
-                - way to use twitter - use list, join conversation later
-            - [[Maier Fenster]]
-                - Governance Issue 
-                - Twitter chaos - what are the needs of the people and communications platform of a billion people
-                - FC protocol seems to be for sending messages between computers
-                - shaming attacks how to prevent? is it possible with the protocol
-                - proposol - can you decentralize the followers? https://hackmd.io/@farcasterxyz/HkcscxJ8i
-            - [[Nathan Acks]]
-                - it is so close to being a generic messaging protocol
-                - how to handle large amount of data going around
-                - bad applications - what if someone uses FC for nefarious activities
-                - timestamp messages - hard problem
-                - having onchain identity might be important
-            - [[Shreeda Segan]]
-                - own client design, antithetical to scaling
-                - network growth
-            - [[Venkatesh Rao]]
-                - is it crypto+mastodon? maybe not. here the intent hubs to be similar to email providers
-                - email is dominated by few and others sent to spam
-                - email is basically a global headspace
-                - email/twitter is salt water medium. local stuff is freshwater
-                - mastodon had freshwater medium feel. 
-                - hubs here have responsibility towards global casts, each hub can make decision of history storage
-                - social layer attacks are by client  handle these
-                - governance level - not satisfactory
-                - vc funded firm - both of client and protocol
-                - non trivial decentralized governance in ETH
-                - next move is web, there will be no crypto needed, crypto global namespace is transparent
-                - this could potentially grow in decentralized governance
-            - Open Floor
-                -  [[Nathan Acks]] - data portability, hub structure allows porting data
-                - [[Venkatesh Rao]] - 
-                    - if you control the handle and data, then one create a rebel network, 
-                    - usenet fragmented into two layers
-                    - 
-        - 
-    5. Nov 28: Pair of linked readings for next distributed systems call, posting early. Found via rover group exploring zerotier as an option for our rover vpn needs. A post, talking about the zerotier philosophy of “decentralize till it hurts, centralize till it works.” I have also scheduled the cited Google paper for the following week. Read this first https://adamierymenko.com/decentralization/ and if time, browse this https://www.zerotier.com/2019/06/30/lf-announcement/
-        - Prompt - reactions
-        - Discussion
-            - [[Nathan Acks]]
-                - disagree about market forces - 
-                - somthing like amazon s3
-            - [[Meredith Noelle]]
-            - [[Grigori Milov]]
-                - all the bad things in centralizalized systems due to human internventions? 
-                - analyse the incentive structure
-                - incentive of the author of the article? 
-                - hard to talk about centralization - priorities in the article
-            - [[Ben Mahala]]
-                - one thing that was not brought up - when the author calls centralization it often had decentralization inside, many google systems are decentralized in some ways
-                - what is the threat model from the system
-            - [[Venkatesh Rao]]
-                - zerotier as vpn for rover
-                - mixing up human centric problems with engineering problems, mixing up of many of them
-                    - difficult to know which of the contraints are hard ones
-                - orchestration 
-                - distributed is not decentralized - distribution is everything except agency
-                - censorship resistance 
-            - [[Maier Fenster]]
-                - depressing article because it tries to prove something we all want?
-                - in yakrover this should be interesting
-                    - robots on mars - person writing patches is atleast 20 minutes away
-            - Open Floor
+                - [[Grigori Milov]]
+                    - governance issue - how the protocol can be changed - anyone can propose and then team decides
+                    - evolution of twitter - importance to notice the evolutionary path of twitter. Farcaster seems at the starting point of twitter
+                    - evolutionary forces centralization
+                    - monetization mechanism
+                    - smaller clients for twitter failed
+                    - ad based system forces centralization
+                - [[Jenna Dixon]]
+                    - section 7 - security consideration - swarm actor, bot attacks
+                    - stability without stagnation
+                    - Dan Romero's podcast - https://share.transistor.fm/s/ca91681a
+                    - way to use twitter - use list, join conversation later
                 - [[Maier Fenster]]
-                    - how does this relate to farcaster/Mastodon
-                - [[Venkatesh Rao]]
-                    - no network level caching in Mastodon
-                    - cap theorem are contraints on global system but maybe not be true locally, there maybe local areas where C can be given up and AP gaurenteed. Are there protocol that choose ones from C, A and P in different locality
+                    - Governance Issue 
+                    - Twitter chaos - what are the needs of the people and communications platform of a billion people
+                    - FC protocol seems to be for sending messages between computers
+                    - shaming attacks how to prevent? is it possible with the protocol
+                    - proposol - can you decentralize the followers? https://hackmd.io/@farcasterxyz/HkcscxJ8i
                 - [[Nathan Acks]]
-                    - three parallel networks that optimize for different things
+                    - it is so close to being a generic messaging protocol
+                    - how to handle large amount of data going around
+                    - bad applications - what if someone uses FC for nefarious activities
+                    - timestamp messages - hard problem
+                    - having onchain identity might be important
+                - [[Shreeda Segan]]
+                    - own client design, antithetical to scaling
+                    - network growth
                 - [[Venkatesh Rao]]
-                    - eth2 tries this, consensus layer, execution layer and L2 layer
+                    - is it crypto+mastodon? maybe not. here the intent hubs to be similar to email providers
+                    - email is dominated by few and others sent to spam
+                    - email is basically a global headspace
+                    - email/twitter is salt water medium. local stuff is freshwater
+                    - mastodon had freshwater medium feel. 
+                    - hubs here have responsibility towards global casts, each hub can make decision of history storage
+                    - social layer attacks are by client  handle these
+                    - governance level - not satisfactory
+                    - vc funded firm - both of client and protocol
+                    - non trivial decentralized governance in ETH
+                    - next move is web, there will be no crypto needed, crypto global namespace is transparent
+                    - this could potentially grow in decentralized governance
+                - Open Floor
+                    -  [[Nathan Acks]] - data portability, hub structure allows porting data
+                    - [[Venkatesh Rao]] - 
+                        - if you control the handle and data, then one create a rebel network, 
+                        - usenet fragmented into two layers
+                        - 
+            - 
+        5. Nov 28: Pair of linked readings for next distributed systems call, posting early. Found via rover group exploring zerotier as an option for our rover vpn needs. A post, talking about the zerotier philosophy of “decentralize till it hurts, centralize till it works.” I have also scheduled the cited Google paper for the following week. Read this first https://adamierymenko.com/decentralization/ and if time, browse this https://www.zerotier.com/2019/06/30/lf-announcement/
+            - Prompt - reactions
+            - Discussion
+                - [[Nathan Acks]]
+                    - disagree about market forces - 
+                    - somthing like amazon s3
+                - [[Meredith Noelle]]
+                - [[Grigori Milov]]
+                    - all the bad things in centralizalized systems due to human internventions? 
+                    - analyse the incentive structure
+                    - incentive of the author of the article? 
+                    - hard to talk about centralization - priorities in the article
                 - [[Ben Mahala]]
-                    - 
-    6. Dec 5: [The power of ((even a little bit) of centralization](https://storage.googleapis.com/zt-web-large-files/2011__A_Little_Centralization__Tsitsiklis_Xu.pdf) — cited by the zerotier papers
-    7. Dec 12:
-    8. Dec 19:
-    9. Dec 26: Boxing Day, NO MEETING 
+                    - one thing that was not brought up - when the author calls centralization it often had decentralization inside, many google systems are decentralized in some ways
+                    - what is the threat model from the system
+                - [[Venkatesh Rao]]
+                    - zerotier as vpn for rover
+                    - mixing up human centric problems with engineering problems, mixing up of many of them
+                        - difficult to know which of the contraints are hard ones
+                    - orchestration 
+                    - distributed is not decentralized - distribution is everything except agency
+                    - censorship resistance 
+                - [[Maier Fenster]]
+                    - depressing article because it tries to prove something we all want?
+                    - in yakrover this should be interesting
+                        - robots on mars - person writing patches is atleast 20 minutes away
+                - Open Floor
+                    - [[Maier Fenster]]
+                        - how does this relate to farcaster/Mastodon
+                    - [[Venkatesh Rao]]
+                        - no network level caching in Mastodon
+                        - cap theorem are contraints on global system but maybe not be true locally, there maybe local areas where C can be given up and AP gaurenteed. Are there protocol that choose ones from C, A and P in different locality
+                    - [[Nathan Acks]]
+                        - three parallel networks that optimize for different things
+                    - [[Venkatesh Rao]]
+                        - eth2 tries this, consensus layer, execution layer and L2 layer
+                    - [[Ben Mahala]]
+                        - 
+        6. Dec 5: [The power of ((even a little bit) of centralization](https://storage.googleapis.com/zt-web-large-files/2011__A_Little_Centralization__Tsitsiklis_Xu.pdf) — cited by the zerotier papers
+        7. Dec 12:
+        8. Dec 19:
+        9. Dec 26: Boxing Day, NO MEETING 
+- 2023 Readings
+    - Season: Winter
+        - Jan 2: [Wikipedia on Memory Hierarchy](https://en.m.wikipedia.org/wiki/Memory_hierarchy)
+        - Jan 9: [Cache Coherency]()
+        - Jan 16:
+        - Jan 23:
+        - 
 - Hopper -- articles we could read
     - 

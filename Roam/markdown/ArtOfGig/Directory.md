@@ -745,3 +745,7 @@ Decided to learn what the heck that non-fungible format was, and is, at around e
     - Product growth & web3 stuff at [Input Logic](https://www.inputlogic.ca)
     - Data analysis, incentive structures, community/product retention
     - Meandering around, interested in experimenting with projects & collabs related to making beautiful technology, whatever that means
+- [[Sharath Devulapalli]]
+    - Analytics consultant based out of Bangalore, India
+    - Twitter @deesharath
+    - Blogs at https://deesharath.substack.com/

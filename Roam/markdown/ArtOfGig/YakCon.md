@@ -15,12 +15,11 @@
             - Informal gathering/chatter/downtime for the willing and available
         - 1720-1755: **All-Hands, Track Intros and Recent Activity Review**
             - Fermi Gym with [[David White]]
-            - Distributed Systems Studies with [[Venkatesh Rao]]
+            - [[Distributed Systems and Robotics]] with [[Venkatesh Rao]]
             - Governance Studies with [[Bryan King]]
-            - Rover / Robotics Studies with TBC
             - Infrastructure with [[Nathan Acks]]
             - Nascent activities with [[Matthew Sweet]]
-                - `siderail` #[[YakFit]] ? #[[Jenna]]
+                - `siderail` #[[YakFit-💪]] ? #[[Jenna]]
         - 1755-1805: **Break**
         - 1805-1855: **Breakout Activities A**
             - Rover / Robotics Studies with TBC
@@ -60,15 +59,17 @@
                     - http://fcast.me/mc
             - Dan Grover Talk & Q/A
                 - Talk title
+                    - Simulation Games Might Be What The World Needs Now
                 - Bio
+                    - Dan Grover is a product designer, engineer, and entrepreneur. He grew up in Vermont and has lived in Boston, New York, San Francisco, and Guangzhou. When he's not working, he's running, reading, traveling, and trying new foods.
                 - Links
+                    - http://dangrover.com/
+                    - https://www.linkedin.com/in/dangrover/
             - Gordon Brander Talk & Q/A
                 - Talk title
-                    - TBC
                 - Bio
-                    - TBC
                 - Links
-                    - TBC
+                    - 
         - 1700-1720: **Break / Mixer**
             - Informal gathering/chatter/downtime for the willing and available
         - 1720-1755: **All-Hands, Track Intros and Recent Activity Review**

@@ -1,0 +1,21 @@
+- This track will introduce two activities
+    - [[Yak Robotics Garage (YaRG)]]
+    - [[Distributed Systems Study Group]]
+- **Theme for YakCon**: Distributed Memory for Robotics
+    - Sunday 8th
+        - Session 1: Pebble Game: Spend 20 minutes on this problem
+            - You have a set of robots in a maze each carrying n pebbles. They have no memory, but can place and pick up their pebbles. They have to explore the whole maze (for example, to sweep away trash or deactivate mines) together efficiently. They have no GPS but they have a compass. Come up with a strategy for the robots to work together to efficiently 
+            - Hands on paper version: sample paper/spreadsheet version 
+                - cue/prompt to aim camera at the physical map
+        - Session 2: Reading and discussion on distributed memory for robotics 
+            - For technical people: Browse this paper: [On the Power of the Compass](https://www.clear.rice.edu/comp651/papers/2015-01-Spring/04567972.pdf)
+            - For non-technical people: Watch this 20 minute talk: [Kei Kreutler on Memory](https://www.twitch.tv/videos/1551986569)
+    - Asynchronous week of activities (Monday 9th - Saturday 14th)
+        - Will take place on #yak-rover and #distributed systems channels
+        - Daily paper shares for discussion
+        - Optional: attend our regular meetings
+            - Distributed systems: Mondays at 8 AM Pacific (1600 UTC)
+            - Yak Rover/Robotics Garage: Tuesdays at 12 PM Pacific (2000 UTC)
+    - Sunday 15
+        - Session 1: Open discussion of challenge of real-world distributed memory for robots
+        - Session 2: Design session for practice protocol for networked rover memory system
