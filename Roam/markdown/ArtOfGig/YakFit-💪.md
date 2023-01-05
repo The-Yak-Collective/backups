@@ -11,64 +11,76 @@
         - > The big divide for me is around fitness-for-what: high level sports and endurance stuff v playing the long game. Used to do the former, kinda forced into the latter now so have to be pretty strategic. Also no more “workout” thinking, move more all through the day is where it’s at for buttjobs. Known paradox: If your work is on your feet, there’s nothing like the moment when you get to take a seat. If your work is stationary, nothing like the moment when you get to stride out. 
     - `infinitness` `infitness` ?
 - ## Experiment | Ideas with reasonable science behind them
-    - Choose Your Own Adventure. DIY structure. Many of us prolly already doing some or many experiments! Share on the thread on #yakfit-💪 channel. 
+    - Choose Your Own Adventure. DIY structure. Many of us prolly already doing some or many experiments! Share on the thread on #yakfit-💪 channel. Earlier example is [Josh Waitzkin](https://www.joshwaitzkin.com/) and [tai chi](https://www.joshwaitzkin.com/the-art-of-learning). 
     - Big reframe: aging is not a slow slide into decline. In tai chi, you aren't considered to really hit your stride until around 70, shifting to that mindset pretty big change for many of us. 
     - Goal of this YakCon siderail to explore a YakFit-💪 strategy for playing a long game for fitness, functional fitness as something that makes everything else better. BASF ads as model — "we don't make the thing, we make it better." 
         - {{video: https://youtu.be/ZJHPpsb3FzM}}
-    - Rightsizing time and energy commitment for the long game in contradistinction to big-push styles like American football, Crossfit, and other approaches modeled on wartime training like Jocko and Navy Seal types. When I studied tai chi, the really good elders practiced 4, 6 hours a day. New example is [Commoncog](https://commoncog.com/2022-commoncog-recap/) guy. Earlier example is [Josh Waitzkin](https://www.joshwaitzkin.com/) and [tai chi](https://www.joshwaitzkin.com/the-art-of-learning). Similar shift with meditation practices for monks versus householders.
-        - > About a month ago I relocated to the capital of Malaysia to train for the Malaysian Senior Judo Nationals. I train Judo four hours a day, and have basically cut out everything else from my life for a period of three months.
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXdJcY6dUd-.png?alt=media&token=01786f11-73c0-405b-b477-3817983a7c5f)
-        - [THE DISTILLATION OF JOSH WAITZKIN](https://theartoflearningproject.org/2021/09/the-distillation-of-josh-waitzkin/) — KEY THEMES
-            - Unobstructed Self Expression 
-            - Thematic Learning
-            - Depth over Breadth 
-            - Go towards Stress, Tension & Weaknesses 
-            - Life works in Oscillation
+    - Rightsizing time and energy commitment for the long game in contradistinction to big-push styles like American football, Crossfit, and other approaches modeled on wartime training like Jocko and Navy Seal types. When I studied tai chi, the really good elders practiced 4, 6 hours a day. Similar shift with meditation practices for monks versus householders.
+        - New example is [Commoncog](https://commoncog.com/2022-commoncog-recap/) guy. 
+“About a month ago I relocated to the capital of Malaysia to train for the Malaysian Senior Judo Nationals. I train Judo four hours a day, and have basically cut out everything else from my life for a period of three months.”
+        - Earlier example is [Josh Waitzkin](https://www.joshwaitzkin.com/) and [tai chi](https://www.joshwaitzkin.com/the-art-of-learning). 
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXdJcY6dUd-.png?alt=media&token=01786f11-73c0-405b-b477-3817983a7c5f)
+            - [THE DISTILLATION OF JOSH WAITZKIN](https://theartoflearningproject.org/2021/09/the-distillation-of-josh-waitzkin/) — KEY THEMES
+                - Unobstructed Self Expression 
+                - Thematic Learning
+                - Depth over Breadth 
+                - Go towards Stress, Tension & Weaknesses 
+                - Life works in Oscillation
         - Fire Method example, willingness to get hurt
             - {{video: https://vimeo.com/717945664}}
     - ---
     - ## General inspo
         - [Don’t Go to War With Yourself - Interview with Oliver Burkeman](https://www.theatlantic.com/ideas/archive/2023/01/new-years-resolutions-oliver-burkeman/672465/?ref=the-browser)
-            - > The difference between not doing anything at all and doing 10 minutes a few times a week is absolute.
+            - “The difference between not doing anything at all and doing 10 minutes a few times a week is absolute.”
         - [Steve Jobs’ Former Assistant Reveals Lessons About Burnout and Wellbeing](https://www.tlnt.com/steve-jobs-former-assistant-reveals-lessons-about-burnout-and-wellbeing/) 
-            - > Steve was able to sustain his determined focus, clear vision, and exceptional creativity precisely because he was so disciplined about tending to his self-care. He took the time to feed his fire. **He had a meditation practice, exercised regularly, nourished his body and mind, had a loving family, and maintained a deep sense of purpose while building Apple.** [emphasis added]
+            - “Steve was able to sustain his determined focus, clear vision, and exceptional creativity precisely because he was so disciplined about tending to his self-care. He took the time to feed his fire. **He had a meditation practice, exercised regularly, nourished his body and mind, had a loving family, and maintained a deep sense of purpose while building Apple.** [emphasis added]
 
-Steve’s downfall as a leader was that, as attentive as he was to his own wellbeing, he was inattentive to the wellbeing of his people. He challenged and stretched people outside of their comfort zone, making them better and helping them fulfill their highest potential, but often at the expense of their health.
+“Steve’s downfall as a leader was that, as attentive as he was to his own wellbeing, he was inattentive to the wellbeing of his people. He challenged and stretched people outside of their comfort zone, making them better and helping them fulfill their highest potential, but often at the expense of their health.”
         - [‘I sleep better, I feel incredible and my energy levels are through the roof’: the one exercise that finally worked — four writers on finding their perfect route to fitness](https://www.theguardian.com/lifeandstyle/2022/dec/31/exercise-fitness-new-year-weightlifting-couch-to-5k)
         - [27 Life-Changing Micro Habits That Require Only A Few Minutes](https://www.fatherly.com/life/micro-habits-that-can-improve-your-life)
         - [Macro Decisions - Dan Go](https://www.linkedin.com/posts/danfounder_the-other-day-i-had-a-conversation-with-a-activity-7014223362860204032-59Px/) `758 reactions` on __LinkedIn__ 😲
         - [Permission to Slow Down - Nat Eliason](https://blog.nateliason.com/p/slow) who knows a trend when he sees one
-        - > You’ll have more energy and focus during the daytime to get work done if you get better sleep. It’s a vicious cycle. Start one step at a time. Turn the phone off and put it in another room 1-2 hours before bed, then in a week or two, do the same with the laptop. Take it as gradually as you need to, but you can do it. Easy. —grimhood
-        - > In performance training, first we learn to flow with whatever comes. Then we learn to use whatever comes to our advantage. Finally, we learn to be completely self-sufficient and create our own earthquakes, so our mental process feeds itself explosive inspirations without the need for outside stimulus. 
-—Josh Waitzkin, __The Art of Learning__ 
-newly via Tiago on Ribbonfarm https://www.ribbonfarm.com/2016/01/28/productivity-for-precious-snowflakes/
+        - “You’ll have more energy and focus during the daytime to get work done if you get better sleep. It’s a vicious cycle. Start one step at a time. Turn the phone off and put it in another room 1-2 hours before bed, then in a week or two, do the same with the laptop. Take it as gradually as you need to, but you can do it. Easy.” —grimhood
+        - “In performance training, first we learn to flow with whatever comes. Then we learn to use whatever comes to our advantage. Finally, we learn to be completely self-sufficient and create our own earthquakes, so our mental process feeds itself explosive inspirations without the need for outside stimulus.”
+—Josh Waitzkin, __The Art of Learning__ newly via [Tiago on Ribbonfarm](https://www.ribbonfarm.com/2016/01/28/productivity-for-precious-snowflakes/)
         - BJ Fogg and Tiny Habits
             - Tiny Habits preceded Atomic Habits by quite a bit.
             - [Tiny Habits](https://tinyhabits.com/)
             - [Quick Start Guide — Tiny Habits® 5-Day Program](https://tinyhabits.com/quickstart/)
             - [BJ Fogg, PhD](https://tinyhabits.com/author/bjadmin/)
 - ---
-- ### Door 1 | Play with better sleep/circadian rhythms
-    - commit to waking before sunrise
-    - commit to 20 min first light outdoor amble cf
+- ### Door 1 | Play with daylight for better sleep/circadian rhythms
+    - {{[[TODO]]}} Share your daylight experiments on the YC Discord yakfit-💪 channel.
+    - Commit to waking before sunrise
+    - Commit to 20 min first light outdoor amble cf
         - how common early morning qigong practices are
             - personally saw this in Kunming, China
         - Huberman and Grimhood both big on this one
             - https://twitter.com/hubermanlab/status/1565404591922892800
-    - commit to super low light btw local sunset and bedtime
+    - Commit to super low light btw local sunset and bedtime
         - bonus points for red light
         - bonus points for no screens
-    - commit to bedtime 3-4 hours after sunset 
+    - Commit to bedtime 3-4 hours after sunset 
         - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4720388/ via grimhood discord
 - ### Door 2 | Play with ultradian rhythm
-    - commit to shifting gears in ±90 mins cycles through the day
+    - {{[[TODO]]}} Share your ultradian timeboxing experiments on the YC Discord yakfit-💪 channel.
+    - Commit to shifting gears in ±90 mins cycles through the day cf
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FjMmWW3h86p.png?alt=media&token=a7e62254-4813-44c5-83d0-575f18a5d63b)
+        - [Use the Science of Ultradian Rhythms To Boost Productivity, Energy, and Willpower](https://www.bluezones.com/2020/06/how-taking-breaks-can-increase-productivity-boost-energy-levels-and-help-you-show-up-in-your-life/)
+        - [Avoid Burnout and Increase Awareness Using Ultradian Rhythms: Circadian rhythms’ lesser know cousins may hold the key to a more fruitful day](https://betterhumans.pub/avoid-burnout-and-increase-awareness-using-ultradian-rhythms-5e64158e7e19)
+            - "For productivity, we are concerned with the specific ultradian rhythm known as the [Basic Rest-Activity Cycle](http://chronicle.uchicago.edu/990923/kleitman.shtml) (BRAC). This is a rhythm that plays out in 80–120 minute cycles non-stop, day and night. It is most detectable during sleep, when we move from non-REM sleep to REM sleep and back, over and over again throughout the night."
+        - [Ultradian Rhythms: How to Achieve Peak Productivity](https://www.kosmotime.com/ultradian-rhythm/)
+        - [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal](https://www.amazon.com/gp/product/0743226755/)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FY6SPsEkIMR.png?alt=media&token=6abcd2bd-7481-4df2-8574-916d0bb3500e)
 - ### Door 3 | Play with deep rest
-    - commit to a pause when shifting between activities cf
+    - {{[[TODO]]}} Share your deep rest experiments on the YC Discord yakfit-💪 channel.
+    - Commit to a pause when shifting between activities cf
         - Josh Waitzkin 30 sec reset
         - Huberman deep rest stuff
         - Martha Beck pausing during transitions
         - __Permission to Slow Down__, Nat Eliason. https://blog.nateliason.com/p/slow
 - ### Door 4 | Play with movement snacks
+    - {{[[TODO]]}} Share your movement snack experiments on the YC Discord yakfit-💪 channel.
     - https://twitter.com/caseyjohnston/status/1609612543701536768
     - All kinds of options for movement snacks these days!
         - Katy Bowman
@@ -130,11 +142,18 @@ newly via Tiago on Ribbonfarm https://www.ribbonfarm.com/2016/01/28/productivity
             - https://www.shesabeast.co/exercise-snack-i-dont-like-it/
         - QS world
             - deciding on how granular to track personally and what to share something the Quantified Self folks have been going at hard for a long time
-- ### Door 5 | Play with doing stuff in meatspace | __specialization is for insects__
+- ### Door 5 | Play with moving slo-oooow
+    - {{[[TODO]]}} Share your slo-oooow experiments on the YC Discord yakfit-💪 channel.
+    - Tai chi does a lot of moving glacially. It’s our only real shot at the possibility of repatterning movement habits and esp premovement habits. Smoother, less injurious. Try doing any movement glacially, see what you notice.
+    - cf “A conversation with Lisa Feldman Barrett, author of Seven and a Half Lessons About the Brain”
+        - Q: Why do I have a brain?
+        - A: Brain’s didn’t evolve so you can think, feel or see. **They evolved to control bodies**. Everything your brain does – think, feel, see, hear, etc. -- it does in the service of controlling your body. This is your brain’s most important job. Understanding this illuminates mysteries like: How are your mind and body linked? How does chronic stress seep under the skin and make you sick? Why are physical illnesses like heart disease and Parkinson’s disease so similar to mental illnesses like depression? And why there is a growing epidemic of depression and anxiety around the world?
+- ### Door 6 | Play with doing stuff in meatspace | __specialization is for insects__
+    - {{[[TODO]]}}  Share your non-screen doings on the YC Discord yakfit-💪 channel.
     - Heinlein quote
         - > “A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.” ― Robert A. Heinlein
     - Knots
-        - 
+        - I tackled knots last year.
         - Levels of Knot Tying: Easy to Complex | WIRED https://www.youtube.com/watch?v=d-hTvyIESfQ&t=502s
             - https://www.youtube.com/watch?v=d-hTvyIESfQ&lc=UgzpKjChji4lmNlbyql4AaABAg
             - 0:13 Level 1 Overhand knot
@@ -161,4 +180,4 @@ newly via Tiago on Ribbonfarm https://www.ribbonfarm.com/2016/01/28/productivity
             - sport shoe carrier https://www.youtube.com/watch?v=gRbSgR0XvbY
             - knot for pulling cable https://www.youtube.com/watch?v=L5bVvpA75eQ
         - + many many other neat knot youtubes
-    - Many other possibilities: at different times I've also played at carving spoons, carving walking sticks, twig fires, wood splitting, sewing, woodworking, leatherwork, metalwork, chicken wrangling, gardening, farming, overwintering in Vermont with wood heat (rocket stoves are amazing) and no running water, trail crew work including trail maintenance, chainsawing, sledgehammer, hole digging etc etc etc.
+    - Many other possibilities: at different times I've also played at carving spoons, carving walking sticks, twig fires, wood splitting, sewing, woodworking, leatherwork, metalwork, chicken wrangling, gardening, farming, overwintering in Vermont with wood heat (rocket stoves are amazing) and no running water, trail crew work including trail maintenance, chainsawing, sledgehammer, hole digging etc etc etc etc.

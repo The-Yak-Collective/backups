@@ -1,7 +1,6 @@
 - Use this page to post gigs or requests for specific types of gigs. Specify date posted, and update to mark closed. Make a page with details if you don’t already have one elsewhere. 
     - **Idea:** save search for ["remote gig"](https://twitter.com/search?q=remote%20gig&src=typed_query) on twitter. Might be noisy, might be fortuitous. [[Alex Wagner]]
 - **Gigs available**
-    - 
     - **Community manager for [[Art of Gig]] community, a couple of hours a week. Responsibilities: lightly patrolling the Roam and discord and compiling a weekly update for newsletter, contact [[Venkatesh Rao]]
     - **Posted 7/8/2020** Looking for a hands-on Growth Lead for a stealth-mode BlockChain product talented at design and social signaling. [[Libby Schultz]]
     - **Posted 6/21/2020** [[Ollie Glass]] Anyone available for some qualitative coding work? It involves reading and labelling a few thousand App Store reviews, also coming up with the set of labels to use

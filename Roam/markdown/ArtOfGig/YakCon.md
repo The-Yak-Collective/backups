@@ -1,3 +1,16 @@
+- Event dates and times
+    - Part One: Sunday [[January 8th, 2023]], 1600-2000 UTC
+    - Async Week: [[January 9th, 2023]] to [[January 14th, 2023]]
+    - Part Two: Sunday [[January 15th, 2023]], 1600-2000 UTC
+- Event info and registration (via [[Luma]]):
+    - https://lu.ma/yakcon
+- Event video, recording etc. (via [[Whereby]]):
+    - {{[[TODO]]}} Confirm link.
+    - https://yc.whereby.com
+- Posts and promo etc.
+    - YakTalk Substack, [[January 3rd, 2023]]
+        - Come join us at YakCon
+        - https://yakcollective.substack.com/p/come-join-us-at-yakcon
 - Event overview and details (all times in UTC)
     - ## Part One: Sun. [[January 8th, 2023]], 1600-2000 UTC
         - 1600-1620: **Intro to YC and Session Orientation**
@@ -19,7 +32,7 @@
             - Governance Studies with [[Bryan King]]
             - Infrastructure with [[Nathan Acks]]
             - Nascent activities with [[Matthew Sweet]]
-                - `siderail` #[[YakFit-💪]] ? #[[Jenna]]
+                - `siderail` [[YakFit-💪]]  #[[Jenna]]
         - 1755-1805: **Break**
         - 1805-1855: **Breakout Activities A**
             - Rover / Robotics Studies with TBC
@@ -148,6 +161,3 @@
         - [[January 14th, 2023]]: notification/thread before second session
         - [[January 15th, 2023]]: live tweet/cast session
         - [[January 16th, 2023]]: event wrap-up
-- Other
-    - Event link: https://lu.ma/yakcon
-    - Event video, recording etc.: https://whereby.com
