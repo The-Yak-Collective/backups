@@ -9,8 +9,36 @@
 - » [Google Doc](https://docs.google.com/document/d/1WvCmvNeQLHy9XqiL1iq7fvSHllou6Liq8JJcxHag3tQ/edit?usp=sharing)
 - 
 - ---
-- Season 3
-    - 
+- Season 3 Reading Track (1/6/23 — TBD)
+    - ### Fri, Jan 6th, 2023
+        - Selected reading: 
+        - Prompt: 
+        - Responses: 
+        - Reading contestants:
+            - https://themorningnews.org/article/2022-the-year-that-was-and-wasnt
+            - https://return.life/2022/12/swarm-governance-is-the-endgame/
+                - A bit too negative
+                - Is the thesis here about cyborg mother right? If not, where does this piece really go wrong?
+            - https://www.researchgate.net/publication/344043102_Just_a_Body_in_a_Seat_The_mental_well-being_of_Content_Moderators
+            - https://www.societyandspace.org/articles/the-revenge-of-the-real-review
+                - Also a good one
+            - https://www.solarshades.club/p/pods-domes-and-faux-phones
+            - https://medium.com/solarpunks/on-the-political-dimensions-of-solarpunk-c5a7b4bf8df4
+            - https://longnow.org/ideas/news-from-now-here-rethinking-revolutionary-time/
+                - Top contestant
+            - https://www.palladiummag.com/2022/08/16/in-an-aging-world-the-metropole-beckons/
+            - https://ambrook.com/research/internet-access-broadband-rural-smart-farming
+            - https://newsletter.danhon.com/archive/s13e23-colliders-speedrunning-benevolent/
+                - Jenna recommended
+            - https://progress.institute/how-do-we-make-an-entrepreneurial-state/
+            - https://www.noemamag.com/hyperconnected-culture-and-its-discontents/
+            - https://reallifemag.com/i-write-the-songs/
+            - https://powazek.com/posts/3571
+            - https://www.nature.com/articles/d41586-022-04412-x
+            - https://branch.climateaction.tech/issues/issue-4/map-of-the-future/
+            - https://davekarpf.substack.com/p/rethinking-political-innovation
+            - https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/japan-the-harbinger-state/2A9123B64A04C480B1BC5669FC2C8AF3#.Y62A--sN770.twitter 
+                - recommended by vgr 
 - ## Summer '22 Reading Tracks 
     - Humming Part 2
         - Matt

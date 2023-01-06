@@ -12,10 +12,12 @@
     - `infinitness` `infitness` ?
 - ## Experiment | Ideas with reasonable science behind them
     - Choose Your Own Adventure. DIY structure. Many of us prolly already doing some or many experiments! Share on the thread on #yakfit-💪 channel. Earlier example is [Josh Waitzkin](https://www.joshwaitzkin.com/) and [tai chi](https://www.joshwaitzkin.com/the-art-of-learning). 
-    - Big reframe: aging is not a slow slide into decline. In tai chi, you aren't considered to really hit your stride until around 70, shifting to that mindset pretty big change for many of us. 
+    - Big reframe: aging is not a slow slide into decline. In tai chi, you aren't considered to really hit your stride until around 70, shifting to that mindset pretty big change for many of us. Suggest Fire Method v. Water Method a good construct for playing the long game.
     - Goal of this YakCon siderail to explore a YakFit-💪 strategy for playing a long game for fitness, functional fitness as something that makes everything else better. BASF ads as model — "we don't make the thing, we make it better." 
         - {{video: https://youtu.be/ZJHPpsb3FzM}}
     - Rightsizing time and energy commitment for the long game in contradistinction to big-push styles like American football, Crossfit, and other approaches modeled on wartime training like Jocko and Navy Seal types. When I studied tai chi, the really good elders practiced 4, 6 hours a day. Similar shift with meditation practices for monks versus householders.
+        - Fire Method example, willingness to get hurt. See Kotler below also.
+            - {{video: https://vimeo.com/717945664}}
         - New example is [Commoncog](https://commoncog.com/2022-commoncog-recap/) guy. 
 “About a month ago I relocated to the capital of Malaysia to train for the Malaysian Senior Judo Nationals. I train Judo four hours a day, and have basically cut out everything else from my life for a period of three months.”
         - Earlier example is [Josh Waitzkin](https://www.joshwaitzkin.com/) and [tai chi](https://www.joshwaitzkin.com/the-art-of-learning). 
@@ -26,8 +28,8 @@
                 - Depth over Breadth 
                 - Go towards Stress, Tension & Weaknesses 
                 - Life works in Oscillation
-        - Fire Method example, willingness to get hurt
-            - {{video: https://vimeo.com/717945664}}
+    - Suggest looking at and using Water Method cf
+        - [Simple Wellness: Soft Living (Pt. 1)](https://www.paulcavel.com/blog/simple-wellness-soft-living-part-1)
     - ---
     - ## General inspo
         - [Don’t Go to War With Yourself - Interview with Oliver Burkeman](https://www.theatlantic.com/ideas/archive/2023/01/new-years-resolutions-oliver-burkeman/672465/?ref=the-browser)
@@ -36,7 +38,8 @@
             - “Steve was able to sustain his determined focus, clear vision, and exceptional creativity precisely because he was so disciplined about tending to his self-care. He took the time to feed his fire. **He had a meditation practice, exercised regularly, nourished his body and mind, had a loving family, and maintained a deep sense of purpose while building Apple.** [emphasis added]
 
 “Steve’s downfall as a leader was that, as attentive as he was to his own wellbeing, he was inattentive to the wellbeing of his people. He challenged and stretched people outside of their comfort zone, making them better and helping them fulfill their highest potential, but often at the expense of their health.”
-        - [‘I sleep better, I feel incredible and my energy levels are through the roof’: the one exercise that finally worked — four writers on finding their perfect route to fitness](https://www.theguardian.com/lifeandstyle/2022/dec/31/exercise-fitness-new-year-weightlifting-couch-to-5k)
+        - [‘I sleep better, I feel incredible and my energy levels are through the roof’: the one exercise that finally worked — four writers on finding their perfect route to fitness - The Guardian](https://www.theguardian.com/lifeandstyle/2022/dec/31/exercise-fitness-new-year-weightlifting-couch-to-5k)
+        - [Exploring Our Why: To uncover our own motivation for exercise - Intuitive Fitness](https://intuitivefitness.substack.com/p/motivation)
         - [27 Life-Changing Micro Habits That Require Only A Few Minutes](https://www.fatherly.com/life/micro-habits-that-can-improve-your-life)
         - [Macro Decisions - Dan Go](https://www.linkedin.com/posts/danfounder_the-other-day-i-had-a-conversation-with-a-activity-7014223362860204032-59Px/) `758 reactions` on __LinkedIn__ 😲
         - [Permission to Slow Down - Nat Eliason](https://blog.nateliason.com/p/slow) who knows a trend when he sees one
@@ -133,6 +136,7 @@
                 - https://hubermanlab.com/ido-portal-the-science-and-practice-of-movement/ 
         - Kelly Starrett and Supple Leopard
         - Stephen Kotler and his newest book
+            - https://twitter.com/steven_kotler/status/1610305643994574848
             - https://www.gnarcountry.com/enter-the-gnar-course
             - https://www.gnarcountry.com/
             - _main point to me is changing the mindset about low slow slide into decline which is also from tai chi_

@@ -1,21 +1,82 @@
-- Event dates and times
-    - Part One: Sunday [[January 8th, 2023]], 1600-2000 UTC
-    - Async Week: [[January 9th, 2023]] to [[January 14th, 2023]]
-    - Part Two: Sunday [[January 15th, 2023]], 1600-2000 UTC
-- Event info and registration (via [[Luma]]):
-    - https://lu.ma/yakcon
-- Event video, recording etc. (via [[Whereby]]):
-    - {{[[TODO]]}} Confirm link.
-    - https://yc.whereby.com
-- Posts and promo etc.
-    - YakTalk Substack, [[January 3rd, 2023]]
-        - Come join us at YakCon
-        - https://yakcollective.substack.com/p/come-join-us-at-yakcon
-- Event overview and details (all times in UTC)
-    - ## Part One: Sun. [[January 8th, 2023]], 1600-2000 UTC
-        - 1600-1620: **Intro to YC and Session Orientation**
-            - via [[Matthew Sweet]]
-        - 1620-1700: **Kick-Off Speaker(s)**
+- Key event info
+    - When
+        - Part One: Sunday [[January 8th, 2023]], 1600-2000 UTC
+        - Async Week: [[January 9th, 2023]] to [[January 14th, 2023]]
+        - Part Two: Sunday [[January 15th, 2023]], 1600-2000 UTC
+    - Where and how
+        - Event info and registration (via [[Luma]]):
+            - https://lu.ma/yakcon
+        - Event video, recording etc. (via [[Whereby]]):
+            - link tbc
+    - Part one and two agenda
+        - {{[[table]]}}
+            - **Time (UTC)**
+                - **General Description**
+                    - **YakCon Part One**
+                        - **YakCon Part Two**
+            - 1600-1620
+                - Intro to YC and Session Orientation
+                    - YC Intro, Look Back at 2022
+                        - YC Re-Intro, 2023 Trajectory
+            - 1620-1700
+                - Kick-Off Speaker(s)
+                    - Productising Machine Learning Research, Killian Butler
+                        - Can Crypto Close the $4 Trillion SME Financing Gap?, Mike Casey
+Simulation Games Might Be What The World Needs Now, Dan Grover
+            - 1700-1720
+                - Break / Mixer
+                    - na
+                        - na
+            - 1720-1755
+                - All-Hands: Track Intros and Activity Reviews/Previews
+                    - [[Distributed Systems and Robotics]]
+Fermi Gym
+Governance Studies
+Infrastructure
+YC Pop-Up Consulting
+[[YakFit-💪]]
+Other Nascent Activities
+                        - [[Distributed Systems and Robotics]]: 2023
+Fermi Gym: 2023
+Governance Studies: 2023
+Infrastructure: 2023
+Other Nascent Activities: 2023
+            - 1755-1805
+                - Break
+                    - na
+                        - na
+            - 1805-1855
+                - Breakout Activities A
+                    - [[Distributed Systems and Robotics]] Pt. 1
+Fermi Gym Pt. 1
+                        - [[Distributed Systems and Robotics]] Pt. 2
+Fermi Gym Pt. 2
+            - 1855-1905
+                - Break
+                    - na
+                        - na
+            - 1905-1955
+                - Breakout Activities B
+                    - Governance Studies Pt. 1
+Infrastructure Pt. 1
+                        - Governance Studies Pt. 2
+Infrastructure Pt. 2
+            - 1955-2000
+                - Break
+                    - na
+                        - na
+            - 2000-2010
+                - Closing
+                    - na
+                        - na
+    - Async activites
+        - [[Infrastructure]] as self-paced build-a-thon (async assistance as needed from [[Nathan Acks]])
+        - [[Fermi Gym]]
+        - [[Governance Studies]]
+        - [[Distributed Systems and Robotics]]
+        - [[YakFit-💪]]
+    - Speaker info
+        - Part One
             - Killian Butler Talk & Q/A
                 - Talk title
                     - Productising ML Research
@@ -24,41 +85,7 @@
                 - Links
                     - https://www.linkedin.com/mwlite/in/kilianbutler
                     - https://twitter.com/kilianbutler
-        - 1700-1720: **Break / Mixer**
-            - Informal gathering/chatter/downtime for the willing and available
-        - 1720-1755: **All-Hands, Track Intros and Recent Activity Review**
-            - Fermi Gym with [[David White]]
-            - [[Distributed Systems and Robotics]] with [[Venkatesh Rao]]
-            - Governance Studies with [[Bryan King]]
-            - Infrastructure with [[Nathan Acks]]
-            - Nascent activities with [[Matthew Sweet]]
-                - `siderail` [[YakFit-💪]]  #[[Jenna]]
-        - 1755-1805: **Break**
-        - 1805-1855: **Breakout Activities A**
-            - Rover / Robotics Studies with TBC
-            - Distributed Systems Studies with [[Venkatesh Rao]]
-        - 1855-1905: **Break**
-        - 1905-1955: **Breakout Activities B**
-            - Fermi Gym with [[David White]]
-            - Governance Studies with [[Bryan King]]
-            - Infrastructure with [[Nathan Acks]]
-        - 1955-2000: **Break**
-        - 2000-2010: **Closing**
-            - via [[Matthew Sweet]]
-    - ## Async
-        - Monday [[January 9th, 2023]] to Saturday [[January 14th, 2023]]
-        - Interim Asynchronous Activities
-            - Fermi Gym with [[David White]]
-            - Distributed Systems Studies with [[Venkatesh Rao]]
-            - Governance Studies with [[Bryan King]]
-            - Rover / Robotics Studies with TBC
-            - Infrastructure as self-paced build-a-thon (async assistance as needed from [[Nathan Acks]])
-        - Integrated Regular YC Sessions
-            - TBC
-    - ## Part Two: Sun [[January 15th, 2023]], 1600-2000 UTC
-        - 1600-1620: **Intro to YC and Session Orientation**
-            - via [[Matthew Sweet]]
-        - 1620-1700: **Kick-Off Speaker(s)**
+        - Part Two
             - Mike Casey Talk & Q/A
                 - Talk title
                     - Can Crypto Close the $4 Trillion SME Financing Gap?
@@ -78,44 +105,7 @@
                 - Links
                     - http://dangrover.com/
                     - https://www.linkedin.com/in/dangrover/
-            - Gordon Brander Talk & Q/A
-                - Talk title
-                - Bio
-                - Links
-                    - 
-        - 1700-1720: **Break / Mixer**
-            - Informal gathering/chatter/downtime for the willing and available
-        - 1720-1755: **All-Hands, Track Intros and Recent Activity Review**
-            - Fermi Gym with [[David White]]
-            - Distributed Systems Studies with [[Venkatesh Rao]]
-            - Governance Studies with [[Bryan King]]
-            - Rover / Robotics Studies with TBC
-            - Infrastructure with [[Nathan Acks]]
-            - Nascent activities with [[Matthew Sweet]]
-        - 1755-1805: **Break**
-        - 1805-1855: **Breakout Activities A**
-            - Rover / Robotics Studies with TBC
-            - Distributed Systems Studies with [[Venkatesh Rao]]
-        - 1855-1905: **Break**
-        - 1905-1955: **Breakout Activities B**
-            - Fermi Gym with [[David White]]
-            - Governance Studies with [[Bryan King]]
-            - Infrastructure with [[Nathan Acks]]
-        - 1955-2000: **Break**
-        - 2000-2010: **Closing**
-            - via [[Matthew Sweet]]
 - Posts, promo, etc
-    - General/static
-        - YakCon Primer
-            - YakCon
-                - YakCon is a week-long interactive tinkering session.
-                - Its two live, collaborative events—Part One (Sunday Jan 8th, 1600-2000 UTC) and Part Two (Sunday Jan 15th, 1600-2000 UTC)—book-end a week of distributed, asynchronous explorations.
-                - Events include guest speakers, a look at what The Yak Collective was up to in 2022, a glimpse of what's on the horizon for 2023, and breakout activities for some central YC activities, such as the Fermi gym, governance studies and the rover project.
-            - YakCon: Part One (Sunday Jan 8th, 1600-2000 UTC)
-            - YakCon: Async (Monday Jan 9th to Saturday Jan 14th)
-            - YakCon: Part Two (Sunday Jan 15th, 1600-2000 UTC)
-        - YakCon Comprehensive
-            - TBC
     - Emails
         - 1 x [[January 1st, 2022]]: advance notification/overview
             - 2023-01-01 moved to Substack draft with light edits! 15:05 eastern /jenna
@@ -129,7 +119,7 @@
         - 1 x [[January 9th, 2023]]: review of first, reminder of second session
         - 1 x [[January 14th, 2023]]: before second session/preview
         - 1 x [[January 16th, 2023]]: event wrap-up
-    - Social media
+    - Social media ([[Twitter]] and [[Farcaster]], main YC account)
         - {{[[DONE]]}} [[January 1st, 2022]]: advance notification/overview
             - agenda and intro
                 - A lot's changed since early 2020. One thing hasn't; the @yak_collective continues to slouch towards another completed year. Its third.
@@ -161,3 +151,11 @@
         - [[January 14th, 2023]]: notification/thread before second session
         - [[January 15th, 2023]]: live tweet/cast session
         - [[January 16th, 2023]]: event wrap-up
+- Tasks
+    - Re: [[Whereby]]...
+        - {{[[TODO]]}} Configure [[Whereby]]
+        - {{[[TODO]]}} Stress-test [[Whereby]] (screen sharing, recording, access)
+        - {{[[TODO]]}} Track leads to fiddle with [[Whereby]]/ get comfy
+    - {{[[TODO]]}} Confirm track leads prepped for part one, two and async
+    - Actions for after
+        - {{[[TODO]]}} Distribute relevant recordings to speakers
