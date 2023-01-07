@@ -94,6 +94,8 @@
             - shoulder rotation https://www.youtube.com/watch?v=GadACcgWDcM
             - seated rolls https://www.youtube.com/watch?v=iUGAS3WzHx0 
         - Strength Side
+            - {{video: https://youtu.be/VvYKtA-eIVU}}
+            - many good short like: https://youtube.com/shorts/N2Zsq6AVUCk
         - MovNat
         - Ido Portal
         - MovementbyDavid "stay flexy"

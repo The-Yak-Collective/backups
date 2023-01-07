@@ -11,9 +11,48 @@
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
     - ### Fri, Jan 6th, 2023
-        - Selected reading: 
+        - Selected reading: News from now here; most and least important moment of 2022 
         - Prompt: 
         - Responses: 
+            - Jenna
+                - what is the long now doing with this piece? why are they publishing it? who is this person? 
+                - pointing at something interesting but obvious
+                - most / least moment
+                    - most: january 6th insurgence; a fruiting spore of collapse (even though it was 2021)
+                    - 
+            - Kiran
+                - it was a confusing piece — prefigurative politics was defining it
+                - before you have a lot of followers on twitter, you have to act like you have a lot of followers on twitter 
+                - future is not 1 to 1
+                - most and least moment: 
+                    - most: also jan 6th, but also the war
+                    - least: saudi beat argentina 
+            - Shreeda
+                - OODA loops (Such an unstable, open-ended political environment makes it hard to sustain any fixed notion of future accomplishment.)
+                - There are many alternatives (Utopia is not held up as “the end,” but can be invoked in order to assert the possibility of different alternatives and the revolutionary openings these may involve, the advent of a radical alterity here and now. )
+                - Interstitial process / muddling through (The only possible way of conceiving revolution is as an interstitial process that involves the creation, expansion and multiplication of cracks)
+                - Prefigurative politics and shifting nature of how time works in today's politics / social media / there's a new narrative often 
+                - most / least important:
+                    - most: 
+                    - least:  
+            - Venkat 
+                - he liked it and thought it made some non-obvious points
+                - unambiguous emotional disposition --> the non-obvious point
+                    - the affective disposition towards the future; what emotions do you have about times other than the present? 
+                        - hope vs despair (future); primarily an emotional mood then you have an intellectual context
+                        - what happens when you subvert that idea that the emotional vibe has to be a coherent one? 
+                - future is unevenly distributed (more obvious point)
+                    - practicing the future doesn't necessarily invoke it; causing the future you desire is not the same as living it
+                - most / least important moment: 
+                    - ukraine conflict --> a moment of resolution never arrived; the moment that didn't happen (in terms of broad global consciousness arriving)
+            - Grigori
+                - the article was hard to read
+                - there are different dimensions of now
+                    - reflecting on the world cup
+                        - project the future from right now or the general trend from before 2018/2020 --> two completely different fields/pictures
+                        - this can be one of the definitions of a revolution; something happens and there's an inflection point. you're uncertain of whether you should go back to the previous trend or make something happen from where you are right now
+                - most / least important moment: 
+                    - ukraine conflict 
         - Reading contestants:
             - https://themorningnews.org/article/2022-the-year-that-was-and-wasnt
             - https://return.life/2022/12/swarm-governance-is-the-endgame/
