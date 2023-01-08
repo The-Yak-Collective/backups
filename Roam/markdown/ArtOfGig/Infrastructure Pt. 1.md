@@ -1,0 +1,20 @@
+- Introductions
+    - [[Nathan Acks]]
+    - 
+- Agenda
+- Why build projects?
+- Current directional thoughts
+    - Website & automation simplification **(in progress)**
+    - Improving Discord bots
+    - More Discord bots?
+    - "Exhaust" aggregation system
+    - web3 technologies?
+- Brainstorming!
+- Build-a-thon projects (forks & prototypes)
+    - Who's doing what?
+        - 
+    - Resources
+        - [[Nathan Acks]] - `necopinus#8544`
+        - [[Maier Fenster]] - `Maier U+0200#6756`
+        - [[IT Infrastructure]]
+        - [[IT Infrastructure and Project Security Basics]]

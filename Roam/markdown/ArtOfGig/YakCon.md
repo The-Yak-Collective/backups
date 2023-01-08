@@ -7,7 +7,7 @@
         - Event info and registration (via [[Luma]]):
             - https://lu.ma/yakcon
         - Event video, recording etc. (via [[Whereby]]):
-            - link tbc
+            - https://yc.whereby.com/yakcon
     - Part one and two agenda
         - {{[[table]]}}
             - **Time (UTC)**
@@ -32,14 +32,14 @@ Simulation Games Might Be What The World Needs Now, Dan Grover
                     - [[Distributed Systems and Robotics]]
 Fermi Gym
 Governance Studies
-Infrastructure
+[[Infrastructure]]
 YC Pop-Up Consulting
 [[YakFit-💪]]
 Other Nascent Activities
                         - [[Distributed Systems and Robotics]]: 2023
 Fermi Gym: 2023
 Governance Studies: 2023
-Infrastructure: 2023
+[[Infrastructure: 2023]]
 Other Nascent Activities: 2023
             - 1755-1805
                 - Break
@@ -58,9 +58,9 @@ Fermi Gym Pt. 2
             - 1905-1955
                 - Breakout Activities B
                     - Governance Studies Pt. 1
-Infrastructure Pt. 1
+[[Infrastructure Pt. 1]]
                         - Governance Studies Pt. 2
-Infrastructure Pt. 2
+[[Infrastructure Pt. 2]]
             - 1955-2000
                 - Break
                     - na
@@ -105,95 +105,78 @@ Infrastructure Pt. 2
                 - Links
                     - http://dangrover.com/
                     - https://www.linkedin.com/in/dangrover/
-- Posts, promo, etc
-    - Emails
-        - 1 x [[January 1st, 2022]]: advance notification/overview
-            - 2023-01-01 moved to Substack draft with light edits! 15:05 eastern /jenna
-                - Come join us at YakCon
-                - A lot's changed since early 2020. One thing hasn't: the Yak Collective continues to slouch towards another year. It’s third. To mark the occasion—and to usher in 2023—we're holdng a week-long interactive tinkering session: **YakCon**.
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FlhXVFTUnkp.png?alt=media&token=cca2d1d9-f8c0-4c71-90fc-dcfe721ca6b3)
-                - The core of YC is synchronous study, collab, and tinkering sessions with async research and comms. Both occur at an easy, sustainable tempo with an infinite game outlook.
-                - YakCon reflects this. It's a week-long interactive tinkering session. It isn't a broadcast. It's not your typical AGM. It's a participatory open house.
-                - Come by and check it out: https://lu.ma/yakcon
-        - 1 x [[January 7th, 2023]]: before first session/preview
-        - 1 x [[January 9th, 2023]]: review of first, reminder of second session
-        - 1 x [[January 14th, 2023]]: before second session/preview
-        - 1 x [[January 16th, 2023]]: event wrap-up
-    - Social media ([[Twitter]] and [[Farcaster]], main YC account)
-        - {{[[DONE]]}} [[January 1st, 2022]]: mini-announcement / promo
-            - [[Twitter]] thread (boosted etc. by a couple people)
-                - agenda and intro
-                    - A lot's changed since early 2020. One thing hasn't; the @yak_collective continues to slouch towards another completed year. Its third.
-                    - To mark the occasion—and to usher in 2023—a week-long interactive tinkering session is taking place.
-                    - YakCon
-                    - Agenda screenshot
-                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FlhXVFTUnkp.png?alt=media&token=cca2d1d9-f8c0-4c71-90fc-dcfe721ca6b3)
-                        - ### YakCon: Part One & Two | Sun 8th & 15th Jan, 1600-2000 UTC
-                            - 1600-1620: **Intro to YC and Session Orientation**
-                            - 1620-1700: **Kick-Off Speaker(s)**
-                            - 1700-1720: **Break / Mixer**
-                            - 1720-1755: **All-Hands, Track Intros and Activity Reviews/Previews**
-                            - 1755-1805: **Break**
-                            - 1805-1855: **Breakout Activities A**
-                            - 1855-1905: **Break**
-                            - 1905-1955: **Breakout Activities B**
-                            - 1955-2000: **Break**
-                            - 2000-2010: **Closing**
-                        - ### YakCon: Async | Monday Jan 9th to Saturday Jan 14th
-                            - Asynchronous explorations led by YC track leads.
-                - gist/gestalt
-                    - The core of YC is synchronous study, collab and tinkering sessions with async research and comms. Both occur at an easy, sustainable tempo with an infinite game outlook.
-                    - YakCon reflects this. It's a week-long interactive tinkering session.
-                - sign-up link
-                    - YakCon isn't a broadcast. It's not your typical AGM. It's a participatory open house. Come by and check it out.
-                    - https://lu.ma/yakcon
-        - {{[[DONE]]}} [[January 3rd, 2023]]: longer annoucement / promo
-            - Via [[Substack]]
-                - https://yakcollective.substack.com/p/come-join-us-at-yakcon
-        - {{[[DONE]]}} [[January 7th, 2023]]: more info about the agenda
-            - As [[Twitter]] thread; repurposed for [[Farcaster]] and [[Luma]] direct emails.
-                - In [[Luma]], reiterate participatory nature and Discord sign-up/join link instead
-            - Draft
-                - YakCon nears.
-                - It's a week-long interactive tinkering session hosted by the Yak Collective, with two virtual meetups (on Sunday 8th and 15th Jan) joined by a week of asynchronous activities (curated by volunteer track leads) on our Discord.
-                - You can register for it here: https://lu.ma/yakcon
-                - (And you probably should; it's approaching max viable capacity)
-                - Or you can stick around and learn more about what YakCon Part One, YakCon Part Two and the spanning Async Week actually involve...
-                - The plan for YakCon Part One and Two?
-                - Both sessions will begin with a quick introduction to the Yak Collective and either a quick review of 2022 (Part One) or a quick preview of 2023 (Part Two). This will be followed by our guest speakers.
-                - In Part One, Killian Butler will give us some insight into productising machine learning research.
-                - He knows a little (actually, a lot) about this; he's Head of Product at Papercup. They're working on rapid, automated dubbing that preserves the expressivity of the original content.
-                - In Part Two, we'll be hearing from Mike Casey and Dan Grover.
-                - Mike will be tackling a difficult question: "Can Crypto Close the $4 Trillion SME Financing Gap?" 
-                - He specialises in investment and entrepreneurship in complex markets facing capital scarcity — whether that's by geography (think Africa) or vertical (think life sciences).
-                - Dan—designer, engineer, entrepreneur—will be exploring the possibility that simulation games might be what the world needs right now.
-                - Once the speakers have spoke (and fielded some challenging questions), we can get into the actual activities of YC. The infinite games currently being played by us.
-                - We'll take a brief tour through:
-                    - Rover building and distributed systems studies
-                    - The Fermi Gym
-                    - Governance studies
-                    - Infrastructure activities
-                    - YC's pop-up consulting projects
-                    - [[YakFit-💪]]
-                - Some other nascent activities will probably get a namedrop, too.
-                - In Part One, this round robin will be more focused on recent activity. In Part Two, there'll be a little more focus on upcoming activities and possibilities.
-                - With the all-hands ticked off, the breakouts begin.
-                - In these, you'll be able to participate in a session based on some recurring YC activities:
-                    - The Fermi Gym OR robotics and distributed systems studies (Breakout A)
-                    - Infrastructure OR governance studies (Breakout B)
-                - Breakouts in Part One will lay the groundwork for things taking place during Async Week. "Async Week" is a fancy name for asynchronous activities (curated by volunteer track leads) on our Discord. Breakouts in Part Two will bring together the efforts from Part One and Async Week.
-                - The end of the breakout sessions marks the end of the event for the day. To close, there may be a few comments, some questions or even a discussion.
-                - And we can neither confirm nor deny the existence of a secret afterparty.
-                - YakCon sounds great, right? Register for it here: https://lu.ma/yakcon
-        - [[January 8th, 2023]]: live tweet/cast session
-        - [[January 14th, 2023]]: notification/thread before second session
-        - [[January 15th, 2023]]: live tweet/cast session
-        - [[January 16th, 2023]]: event wrap-up
+- Posts, emails, social media ([[Twitter]] and [[Farcaster]], main YC account)
+    - {{[[DONE]]}} [[January 1st, 2022]]: mini-announcement / promo
+        - [[Twitter]] thread (boosted etc. by a couple people)
+            - agenda and intro
+                - A lot's changed since early 2020. One thing hasn't; the @yak_collective continues to slouch towards another completed year. Its third.
+                - To mark the occasion—and to usher in 2023—a week-long interactive tinkering session is taking place.
+                - YakCon
+                - Agenda screenshot
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FlhXVFTUnkp.png?alt=media&token=cca2d1d9-f8c0-4c71-90fc-dcfe721ca6b3)
+                    - ### YakCon: Part One & Two | Sun 8th & 15th Jan, 1600-2000 UTC
+                        - 1600-1620: **Intro to YC and Session Orientation**
+                        - 1620-1700: **Kick-Off Speaker(s)**
+                        - 1700-1720: **Break / Mixer**
+                        - 1720-1755: **All-Hands, Track Intros and Activity Reviews/Previews**
+                        - 1755-1805: **Break**
+                        - 1805-1855: **Breakout Activities A**
+                        - 1855-1905: **Break**
+                        - 1905-1955: **Breakout Activities B**
+                        - 1955-2000: **Break**
+                        - 2000-2010: **Closing**
+                    - ### YakCon: Async | Monday Jan 9th to Saturday Jan 14th
+                        - Asynchronous explorations led by YC track leads.
+            - gist/gestalt
+                - The core of YC is synchronous study, collab and tinkering sessions with async research and comms. Both occur at an easy, sustainable tempo with an infinite game outlook.
+                - YakCon reflects this. It's a week-long interactive tinkering session.
+            - sign-up link
+                - YakCon isn't a broadcast. It's not your typical AGM. It's a participatory open house. Come by and check it out.
+                - https://lu.ma/yakcon
+    - {{[[DONE]]}} [[January 3rd, 2023]]: longer annoucement / promo
+        - Via [[Substack]]
+            - https://yakcollective.substack.com/p/come-join-us-at-yakcon
+    - {{[[DONE]]}} [[January 7th, 2023]]: more info about the agenda
+        - As [[Twitter]] thread; repurposed for [[Farcaster]] and [[Luma]] direct emails.
+            - https://twitter.com/yak_collective/status/1611644634471567362
+            - In [[Luma]], reiterate participatory nature and Discord sign-up/join link instead
+        - Draft
+            - YakCon nears.
+            - It's a week-long interactive tinkering session hosted by the Yak Collective, with two virtual meetups (on Sunday 8th and 15th Jan) joined by a week of asynchronous activities (curated by volunteer track leads) on our Discord.
+            - You can register for it here: https://lu.ma/yakcon
+            - (And you probably should; it's approaching max viable capacity)
+            - Or you can stick around and learn more about what YakCon Part One, YakCon Part Two and the spanning Async Week actually involve...
+            - The plan for YakCon Part One and Two?
+            - Both sessions will begin with a quick introduction to the Yak Collective and either a quick review of 2022 (Part One) or a quick preview of 2023 (Part Two). This will be followed by our guest speakers.
+            - In Part One, Killian Butler will give us some insight into productising machine learning research.
+            - He knows a little (actually, a lot) about this; he's Head of Product at Papercup. They're working on rapid, automated dubbing that preserves the expressivity of the original content.
+            - In Part Two, we'll be hearing from Mike Casey and Dan Grover.
+            - Mike will be tackling a difficult question: "Can Crypto Close the $4 Trillion SME Financing Gap?" 
+            - He specialises in investment and entrepreneurship in complex markets facing capital scarcity — whether that's by geography (think Africa) or vertical (think life sciences).
+            - Dan—designer, engineer, entrepreneur—will be exploring the possibility that simulation games might be what the world needs right now.
+            - Once the speakers have spoke (and fielded some challenging questions), we can get into the actual activities of YC. The infinite games currently being played by us.
+            - We'll take a brief tour through:
+                - Rover building and distributed systems studies
+                - The Fermi Gym
+                - Governance studies
+                - Infrastructure activities
+                - YC's pop-up consulting projects
+                - [[YakFit-💪]]
+            - Some other nascent activities will probably get a namedrop, too.
+            - In Part One, this round robin will be more focused on recent activity. In Part Two, there'll be a little more focus on upcoming activities and possibilities.
+            - With the all-hands ticked off, the breakouts begin.
+            - In these, you'll be able to participate in a session based on some recurring YC activities:
+                - The Fermi Gym OR robotics and distributed systems studies (Breakout A)
+                - Infrastructure OR governance studies (Breakout B)
+            - Breakouts in Part One will lay the groundwork for things taking place during Async Week. "Async Week" is a fancy name for asynchronous activities (curated by volunteer track leads) on our Discord. Breakouts in Part Two will bring together the efforts from Part One and Async Week.
+            - The end of the breakout sessions marks the end of the event for the day. To close, there may be a few comments, some questions or even a discussion.
+            - And we can neither confirm nor deny the existence of a secret afterparty.
+            - YakCon sounds great, right? Register for it here: https://lu.ma/yakcon
+    - [[January 8th, 2023]]: live tweet/cast session
+    - 1 x [[January 9th, 2023]]: review of first, reminder of second session
+    - [[January 14th, 2023]]: notification/thread before second session
+    - [[January 15th, 2023]]: live tweet/cast session
+    - [[January 16th, 2023]]: event wrap-up
 - Tasks
-    - Re: [[Whereby]]...
-        - {{[[TODO]]}} Configure [[Whereby]]
-        - {{[[TODO]]}} Stress-test [[Whereby]] (screen sharing, recording, access)
-        - {{[[TODO]]}} Track leads to fiddle with [[Whereby]]/ get comfy
-    - {{[[TODO]]}} Confirm track leads prepped for part one, two and async
     - Actions for after
         - {{[[TODO]]}} Distribute relevant recordings to speakers

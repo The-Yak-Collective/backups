@@ -175,7 +175,6 @@
                 - getting people to acknowledge objections raised by others that they hadn't considered
                     - especially present in multidiscipline groups that defer to a particular individual's expertise
             - https://every.to/p/what-i-miss-about-working-at-stripe
-    - 
     - Great Founder Theory
         - Bryan
             - yeah duh airport management book vibes

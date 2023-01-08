@@ -1,0 +1,13 @@
+- (Re)Introductions
+    - [[Nathan Acks]]
+    - 
+- Agenda
+- Show-and-tell
+    - 
+- Next steps
+    - Pitch it to the wider group!
+        - [#infrastructure channel](https://discord.com/channels/692111190851059762/704369362315772044)
+        - Use `$unfurl` to bring the conversation to other channels, as needed
+    - Get any additional access you need
+        - [[Nathan Acks]] - `necopinus#8544`
+        - [[Maier Fenster]] - `Maier U+0200#6756`
