@@ -6,8 +6,6 @@
 - The goal is to have a track complementary to the [[Governance Studies]] track, with a more technological focus.
 - We aim to create a [[Distributed Systems Map and Lexicon]] as our work product over the summer
 - There is interest in creating a prompt-school type track around this, and we will be trialing this over the summer.
-- Resources/references: Please add links etc. under this bullet
-    - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
 - **2022 Readings**
     - Previously: **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
@@ -691,9 +689,9 @@ but consider - is what is being sent data or programs?
 - 2023 Readings
     - Season: Winter
         - Jan 2: [Wikipedia on Memory Hierarchy](https://en.m.wikipedia.org/wiki/Memory_hierarchy)
-        - Jan 9: [Cache Coherency]()
+        - Jan 9: [Cache Coherency](https://en.wikipedia.org/wiki/Cache_coherence)
         - Jan 16:
         - Jan 23:
         - 
 - Hopper -- articles we could read
-    - 
+    - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why

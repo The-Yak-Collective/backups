@@ -1,0 +1,19 @@
+- **Make a copy of this spreadsheet to play on online, OR print/draw the map and play with pencil, "pebbles" (such as  M&Ms) and paper**: [Spreadsheet](https://docs.google.com/spreadsheets/d/1-AnuN7j2cKUTxvPwBqJ4mowYrmMvy0MQrKNwJ6yPN1k/edit?usp=sharing)
+- **Setup**
+- The game is to visit every open cell of a square grid, using 2 rovers as efficiently as possible
+- Rovers cannot detect (x,y) position, they only know which way is north and whether or not a direction is open or blocked one step in any direction
+- Each rover carries 5 pebbles it can drop and pick up in cells, this is the only form of memory available
+- Rovers cannot communicate, or detect each other's presence, but can occupy the same cell (ie no collisions)
+- Rovers move 1 step at a time, NSEW, and can optionally also drop or pick up one or more pebbles up to carrying limit of 5
+- Rovers cannot detect whether the current cell has already been visited, other than by detecting a pebble in it
+- The pebbles of different rovers are indistinguishable
+- The rover can hold at most 5 pebbles at a time
+- Any number of pebbles can be dropped in a cell
+- **Make up a rule that *only* uses compass direction (NSEW), number of detected pebbles, and whether or not a direction is blocked (by an obstacle or wall) as input**
+- **Output should be a direction to move one step, and number of pebbles to drop or pick up**
+- Use the following notation
+- x: visited cell (though rovers can't use this information)
+- 1-10: pebbles in cell
+- An: current position of rover A, and number of pebbles (n) it has
+- Bn: Current position of rover B, and number of pebbles (m) it has
+- **Simulate your rule manually on the map**

@@ -1,20 +1,59 @@
+- Agenda
 - Introductions
     - [[Nathan Acks]]
-    - 
-- Agenda
+    - Ben Mahala
+        - Software dev
+    - Jenna
+        - No-code building
+    - Maier Fenster
+        - Discord bots!
+    - Matthew Sweet
+        - Research, project management, link management/organization/usability
+    - Osman Sheiknureldin
+        - Web development, marketing tools + automation, make it easier for new people to catch up
+    - Sudham
+        - Highschool senior from India. Into web2 dev in the past & exploring web3 and GPT-3 stuff currently. More here: https://sudham.xyz
+    - Venkat
+        - Created initial YC website, academic coding + no-code/low-code, better website + maybe some bot stuff
+    - mickey
+        - Concept artist: What does the future of project X look like? Can do all sorts of visual stuff
 - Why build projects?
 - Current directional thoughts
     - Website & automation simplification **(in progress)**
     - Improving Discord bots
     - More Discord bots?
     - "Exhaust" aggregation system
+        - [[Osman Sheikhnureldin]] - what are the different types of exhaust that can be automatically aggregated? I.e book recommendations - pull all Amazon/Good Reads/Bookshop.org links shared in the Discord, Roam, and other places.
+            - [[Nathan Acks]]
+                - Exhaust sources: Discord, [member RSS feeds](https://www.yakcollective.org/writings.html), __some__ [tweets](https://twitter.com/yak_collective), __some__ [casts on Farcaster](https://fcast.me/yak), **other places?**
+                - Exhaust sinks: Discord, [website](https://yakcollective.org), [Twitter](https://twitter.com/yak_collective), [Farcaster](https://fcast.me/yak), [newsletter](https://yakcollective.substack.com), **other places?**
     - web3 technologies?
-- Brainstorming!
-- Build-a-thon projects (forks & prototypes)
-    - Who's doing what?
-        - 
-    - Resources
-        - [[Nathan Acks]] - `necopinus#8544`
-        - [[Maier Fenster]] - `Maier U+0200#6756`
-        - [[IT Infrastructure]]
-        - [[IT Infrastructure and Project Security Basics]]
+- Brainstorming high-level things that need to be improved
+    - More automation
+    - Abstract away some of the complexity of the current system
+        - **An easier way to edit the website in GitHub / easily create new pages**
+            - How to handle governance in this situation?
+    - How to customize bots?
+        - **Add templates to a state machine?**
+        - **Simple Python code, maybe a config file.**
+    - Build tools that people in other Discord communities can use
+    - Is there a "YC kit"?
+    - Tools that allow someone to be an active member without needing to have Discord open all of the time
+    - A way to get links out of Discord into a newsletter
+        - Feed a queue, make relevant annotations, and then distribute
+    - Visual refresh for the website
+        - More like tinker toys
+- Async project
+    - ^^Think through [the high-level projects we brainstormed](((fYrSSN68_))) and come up with 2 - 4 ideas for specific projects that we could do to move these forward.^^
+        - **Examples**
+            - Migrate the website to WordPress
+            - Write (or find) a Discord bot that aggregates links and allows yaks to add comments
+            - Write (or find) a bot that can aggregate posts from Discord into a newsletter
+            - Sketch out a website look-n-feel refresh
+            - etc.
+- Resources
+    - [[Nathan Acks]] - `necopinus#8544`
+        - ^^Open Q&A time at 09:00 Mountain / 16:00 UTC in Voice Calls > `#general`^^
+    - [[Maier Fenster]] - `Maier U+0200#6756`
+    - [[IT Infrastructure]]
+    - [[IT Infrastructure and Project Security Basics]]

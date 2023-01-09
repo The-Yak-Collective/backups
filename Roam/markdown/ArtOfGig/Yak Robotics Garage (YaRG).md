@@ -1,7 +1,7 @@
 - [[YaRG Meeting Notes]]
 - Study tracks
-    - [[Robotics Simulation]]
-    - [["Tailscale for Robotics"]]
+    - [[Robotics Simulation]] < -- new for 2023, Eric will present SLAM in Unity on Tuesday 10th at 2000 UTC
+    - [["Tailscale for Robotics"]] <-- recent initiative, few weeks old, led by Rhett Garber
 - Projects
-    - [[Yak Rover]]
+    - [[Yak Rover]] <-- 2 year old pretty mature project
 - 

@@ -557,6 +557,8 @@ hello@sampanter.info
 - [[Drew Shiel]]
     - Twitter: [@gothwalk](https://www.twitter.com/gothwalk)
     - Marketer (Google Ads, Analytics, one-person online-marketing-department), Food Historian, Domestic and Agricultural Historian, Ongoing Climate Crisis Thinker.
+- [[David Steven]]
+    - Independent-ish. Senior Fellow at the UN Foundation and NYU Center on International Cooperation. Founder of various global partnerships. Working on the future of multilateralism and the multilateralism of the future. 
 - [[Alastair Steward]] 
     - Coaching, facilitation, org design, & complexity enthusiast. Advocate for the value—business value and human value—of helping people fulfill their potential.
 - [[Damian Stewart]]

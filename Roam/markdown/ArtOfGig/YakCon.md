@@ -1,3 +1,36 @@
+- -
+    - ## Current Status
+        - Current plan
+            - 1805-1855: **Breakout Activities A**
+                - Rover building and distributed systems studies (Venkat)
+                - The Fermi Gym (David)
+            - 1855-1905: **Break**
+            - 1905-1955: **Breakout Activities B**
+                - Governance studies (Bryan)
+                - Infrastructure activities (Nathan)
+        - Adjusted plan
+            - 1805-1855: **Breakout Activities A**
+                - Rover building and distributed systems studies (Venkat)
+                - The Fermi Gym (David)
+            - 1855-1905: **Break**
+            - 1905-1955: **Breakout Activities B**
+                - Governance studies (Bryan)
+                - Infrastructure activities (Nathan)
+    - ## General Notices
+        - ### If you haven't already...
+            - Please head to the https://www.yakcollective.org/join.html
+            - Sign up to access the YC Discord
+            - Intro yourself in the #introductions channel
+        - ### Comments and questions...
+            - Drop general comments, questions etc. in the #voice-meta channel
+            - Look out for emergent threads and dialogue in the relevant channels
+            - We'll try to integrate comments, Qs, discussion by audio too
+        - ### On recording...
+            - We'll be recording the event until the end of the speaker session
+            - If you don't want to be recorded, please stay off cam and audio
+            - Start and end of recording will be signalled
+        - ### On participation...
+            - This session, Async Week and Part Two are designed around interaction so stick around, ask questions, and get involved
 - Key event info
     - When
         - Part One: Sunday [[January 8th, 2023]], 1600-2000 UTC
@@ -30,7 +63,7 @@ Simulation Games Might Be What The World Needs Now, Dan Grover
             - 1720-1755
                 - All-Hands: Track Intros and Activity Reviews/Previews
                     - [[Distributed Systems and Robotics]]
-Fermi Gym
+[[Fermi Gym]]
 Governance Studies
 [[Infrastructure]]
 YC Pop-Up Consulting
@@ -178,5 +211,7 @@ Fermi Gym Pt. 2
     - [[January 15th, 2023]]: live tweet/cast session
     - [[January 16th, 2023]]: event wrap-up
 - Tasks
+    - {{[[TODO]]}} Post boosting Part Two during the later week
+    - {{[[TODO]]}} Post summing the event and having CTAs for the coming week
     - Actions for after
         - {{[[TODO]]}} Distribute relevant recordings to speakers

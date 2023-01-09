@@ -74,4 +74,46 @@
         - https://twitter.com/jamestfrith/status/1522238154635362305?s=21&t=5U5LM3LtWUqcAhPEqMZb7w
         - 
     - Productized fermi gym game: https://www.confidentgame.com/
-    - 
+- **YakCon Pt1**
+    - How to use basic science facts to get order of magnitude estimates for interesting questions
+    - It is worthwhile to provide some intro facts to get everyone to the same baseline
+    - Anyone can be a fermi estimator, not much needed beyond basic algebra/dimensional analysis
+    - Fermi estimation is great developing BS detection skills (i.e. how much lithium will we actually need to make batteries for cars)
+    - Questions Tackled in the Past Year
+        - How long does it take for you to breath the same helium atom?
+        - How many trees are on earth?
+        - What is the amount of energy needed to capture/convert/sequester CO2 back to 1900 levels (300 ppm)?
+        - What is the number of clocks on earth?
+        - What velocity is needed for metal rods to initiate orbital bombardment?
+        - Number of push-ups per second to power 10 LED bulbs?
+        - How much CO2 is saved by turning hemp plants into plastic?
+        - Which will have more climate impact going forward, space travel or cryptocurrency?
+        - How many tons of cargo can go through the Suez Canal per day assuming peak throughput?
+        - How much carbon is stored in a fir tree?
+        - How many electrons to light up a city?
+        - What is the length of utility pipes in New York?
+        - How much concrete was generated in 2021?
+        - How much rice did Sri Lanka grow in 2021?
+        - How long is the DNA in a human cell?
+        - How many transistors will be produced in 2022?
+        - Number of stars in the galaxy?
+        - What is higher, all the trees or all the grass?
+        - What is the farthest object Webb telescope can see?
+        - How much rainfall happened in the US (all states, territories) in 2021? Bonus = 5yr & 20yr trends?
+    - Lessons Learned?
+        - It can be hard to formulate questions
+            - Only one way to approach a problem
+            - Background knowledge can get in the way
+            - Hard to find a correct answer
+        - It can be good to structure a session around a topic
+            - Climate
+            - Sensors
+            - Infrastructure
+        - Some combination of sync-async works better than purely async
+            - Mixing working out things together in discord and then doing private calculations is fun
+        - It is okay to fudge numbers, take a rough guess
+        - Economic questions can be difficult to get answers to
+    - Questions for the interlude
+        - (easy) Given the Sun is 93 million miles away, how big is the sun?
+        - (medium) How much material would be required to build a dyson sphere around the sun @ 1 mm thickness? 1 cm thickness?
+        - (hard) If the Sun incidence is roughly 100 W/m^2 on Earth, how much energy is being produced by fusion (He3 + He3 -> He4 + 2p+ reaction is assumed to be the relevant reaction)

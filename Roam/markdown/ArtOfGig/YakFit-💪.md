@@ -10,7 +10,7 @@
         - > https://youtu.be/d1EHSYWS1B4
         - > The big divide for me is around fitness-for-what: high level sports and endurance stuff v playing the long game. Used to do the former, kinda forced into the latter now so have to be pretty strategic. Also no more “workout” thinking, move more all through the day is where it’s at for buttjobs. Known paradox: If your work is on your feet, there’s nothing like the moment when you get to take a seat. If your work is stationary, nothing like the moment when you get to stride out. 
     - `infinitness` `infitness` ?
-- ## Experiment | Ideas with reasonable science behind them
+- ## Invitation for weeklong experiment based off ideas with reasonable science behind them
     - Choose Your Own Adventure. DIY structure. Many of us prolly already doing some or many experiments! Share on the thread on #yakfit-💪 channel. Earlier example is [Josh Waitzkin](https://www.joshwaitzkin.com/) and [tai chi](https://www.joshwaitzkin.com/the-art-of-learning). 
     - Big reframe: aging is not a slow slide into decline. In tai chi, you aren't considered to really hit your stride until around 70, shifting to that mindset pretty big change for many of us. Suggest Fire Method v. Water Method a good construct for playing the long game.
     - Goal of this YakCon siderail to explore a YakFit-💪 strategy for playing a long game for fitness, functional fitness as something that makes everything else better. BASF ads as model — "we don't make the thing, we make it better." 

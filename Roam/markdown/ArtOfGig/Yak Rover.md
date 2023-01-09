@@ -7,10 +7,9 @@
     - Current State:: {{or: Started | Proposed | Draft | Stalled | Live | Finished | Abandoned}}
     - Last Updated:: [[December 9th, 2020]] by [[Venkatesh Rao]]
     - Last Gardened:: [[December 9th, 2020]] by [[Venkatesh Rao]]
-- [[Procurement Directory]]
 - [[Yak Rover Reference Materials]]
 - [[Yak Rover 2021 Builds]]
-- [[YaRG Meeting Notes]]
+- **[[YaRG Meeting Notes]]**
 - [[Strawman Crowdfunded Project]]
 - License Discussion
     - According to a 2015 book on ROS

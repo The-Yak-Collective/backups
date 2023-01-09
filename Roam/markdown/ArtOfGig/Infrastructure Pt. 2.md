@@ -1,13 +1,38 @@
+- Agenda
 - (Re)Introductions
     - [[Nathan Acks]]
     - 
-- Agenda
-- Show-and-tell
+- Recap the needs we brainstormed last time
+    - Current directional thoughts
+        - Website & automation simplification **(in progress)**
+        - Improving Discord bots
+        - More Discord bots?
+        - "Exhaust" aggregation system
+            - [[Osman Sheikhnureldin]] - what are the different types of exhaust that can be automatically aggregated? I.e book recommendations - pull all Amazon/Good Reads/Bookshop.org links shared in the Discord, Roam, and other places.
+                - [[Nathan Acks]]
+                    - Exhaust sources: Discord, [member RSS feeds](https://www.yakcollective.org/writings.html), __some__ [tweets](https://twitter.com/yak_collective), __some__ [casts on Farcaster](https://fcast.me/yak), **other places?**
+                    - Exhaust sinks: Discord, [website](https://yakcollective.org), [Twitter](https://twitter.com/yak_collective), [Farcaster](https://fcast.me/yak), [newsletter](https://yakcollective.substack.com), **other places?**
+        - web3 technologies?
+    - Brainstorming high-level things that need to be improved
+        - More automation
+        - Abstract away some of the complexity of the current system
+            - **An easier way to edit the website in GitHub / easily create new pages**
+                - How to handle governance in this situation?
+        - How to customize bots?
+            - **Add templates to a state machine?**
+            - **Simple Python code, maybe a config file.**
+        - Build tools that people in other Discord communities can use
+        - Is there a "YC kit"?
+        - Tools that allow someone to be an active member without needing to have Discord open all of the time
+        - A way to get links out of Discord into a newsletter
+            - Feed a queue, make relevant annotations, and then distribute
+        - Visual refresh for the website
+            - More like tinker toys
+- Brainstorming __specific__ projects
     - 
 - Next steps
-    - Pitch it to the wider group!
-        - [#infrastructure channel](https://discord.com/channels/692111190851059762/704369362315772044)
-        - Use `$unfurl` to bring the conversation to other channels, as needed
-    - Get any additional access you need
-        - [[Nathan Acks]] - `necopinus#8544`
-        - [[Maier Fenster]] - `Maier U+0200#6756`
+    - Join us in [the #infrastructure channel](https://discord.com/channels/692111190851059762/704369362315772044)
+    - Start building!
+        - Get any additional access you need
+            - [[Nathan Acks]] - `necopinus#8544`
+            - [[Maier Fenster]] - `Maier U+0200#6756`
