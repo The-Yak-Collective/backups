@@ -1,8 +1,8 @@
--  **In a nutshell:**
+-  **In a nutshell**
     - Independent-ish. Senior Fellow at the UN Foundation and NYU Center on International Cooperation. Founder of various global partnerships. Working on the future of multilateralism and the multilateralism of the future. 
 - **Coordinates**
     - Live/work in Italy. Trying not to get on a plane (and succeeding for 3 years). Email me for a virtual coffee (david@riverpath.com) or if you're in Tuscany.
-- **#Biography...**
+- **Biography**
     - Independent-ish but primarily working through the [UN Foundation](https://unfoundation.org/) (as a Senior Fellow) and he NYU [Center on International Cooperation](https://cic.nyu.edu/) (where I am still a Senior Fellow). Former non-resident fellow at Brookings.
     - Led the group of partners who supported/contributed to the UN Secretary-General's report on the future of multilateralism - [Our Common Agenda](https://www.un.org/en/content/common-agenda-report/). Also supported the Next Generation Fellows who produced [Our Future Agenda](https://ourfutureagenda.org/report/).
     - Co-founder of the [Global Partnership to End Violence against Children](https://www.end-violence.org/) and helped develop the [INSPIRE](https://www.who.int/publications-detail-redirect/9789241565356) prevention framework. (See the [2023 update](https://www.end-violence.org/articles/hope-opportunity-and-urgency-tackling-child-violence-2023-dr-howard-taylor-executive)).
