@@ -74,3 +74,9 @@
         - {{mermaid}}
             - graph LR
 do1-->do2-->do3-->do4-- loop -->do3-->do5-->done 
+    - To open a roam link in the app rather than the browser:
+        - if someone shares the entire graph with you by [adding you as an editor](https://roamresearch.com/#/app/help/page/o72ciMkam), you should see the graph in the Shared Graph section from the [Graphs & Settings](https://roamresearch.com/#/app) page from your desktop app and browser!
+        - Besides, you can easily create an app link from the browser itself! Here is how:
+        - ![](https://ci4.googleusercontent.com/proxy/bI4G82DvdDc4AqkStvKR2qfNl-c1-lvvXoUq686p-OBwSAhK_lkfaNbynJorlBVawz5H0OL7wjGcH7YsOZDhvPI-IAjlO2Fapm5ZjVy1fbJ9YWjGF7VdVfzIXlSMb5mQ7p3iJE6opzV5xTPlNjiUNAaFA29M4Lf_w8ElbzIPXVCvwbCS=s0-d-e1-ft#https://roam-research-6a2c436dc9f6.intercom-mail.com/i/o/649173596/ff1ff82932388379e56d2680/chrome_GIQ3N4pqhR.gif)
+        - or, replace `[https://roamresearch.com/`](https://roamresearch.com/%60) of the web link with `roam://` to open it on the desktop app!
+        - You can also check out the feature on our Change Log here:https://roamresearch.com/#/app/help/page/y23-OKwHg

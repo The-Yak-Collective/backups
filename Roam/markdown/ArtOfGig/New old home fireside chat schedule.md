@@ -149,8 +149,6 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
 - Topic ideas:
     - Childcare/education
     - 
-- 
-- 
 - Intro/Overview **(Jordan starts)**
     1. Jordan welcomes audience
     2. Jordan explains Yak Collective briefly
@@ -165,6 +163,8 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
     6. Pamela invites Drew as co-lead take it away Drew...
     7. **Drew ** introduces himself 
     8. Drew: so without further ado, let's dig into the deck... 
+- 
+- 
 - 
 - 
 - 

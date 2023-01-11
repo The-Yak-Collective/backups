@@ -1,6 +1,6 @@
 - Hi! I’m Arpit, an independent growth/product marketing consultant based in Kolkata, India.
-    - I'm driven by building value and not by personal gain. 
     - I like to think about the big challenges we are facing as a society, work on challenging problems, and challenge the status quo.
+    - I'm driven by building value and not by personal gain. 
     - Software excites me, great software makes me want to jump!
     - I'm a huge proponent of tools that enable non-technical folks to do stuff that was previously only possible with code.
     - Software excites me, great software makes me want to jump!
