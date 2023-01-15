@@ -39,7 +39,7 @@ anyway, i was thinking on how we tie it all together.
         - While assembling the YC Marketing cell, I would love to know who has the marketing experience to contribute
         - I wonder if there are people lost in the big forest of discord usernames that would like to help
         - I still don't know who's out there (or in there). I can imagine the diversity of expertise, experience, points of view, ...  Should be like Amazonia forest!! - but now I can only see a vast sea of green 
-            - ![](./images/aHR0cHM6Ly9zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9jb250ZW50bGFiLnN0dWRpb2QvZ2V0dHkvOThmM2E5YzRkNTc3NDI2OWJhYWMwZjVkOTM1OGIyN2M=)
+            - ![](https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/98f3a9c4d5774269baac0f5d9358b27c)
 - 
 - [[Nathan Acks]] This seems more-or-less right to me, but I would tweak it a little...
     - I don't think I'd use email for the onboarding process at all.

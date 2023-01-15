@@ -1,36 +1,26 @@
 - -
     - ## Current Status
-        - Current plan
-            - 1805-1855: **Breakout Activities A**
-                - Rover building and distributed systems studies (Venkat)
-                - The Fermi Gym (David)
-            - 1855-1905: **Break**
-            - 1905-1955: **Breakout Activities B**
-                - Governance studies (Bryan)
-                - Infrastructure activities (Nathan)
-        - Adjusted plan
-            - 1805-1855: **Breakout Activities A**
-                - Rover building and distributed systems studies (Venkat)
-                - The Fermi Gym (David)
-            - 1855-1905: **Break**
-            - 1905-1955: **Breakout Activities B**
-                - Governance studies (Bryan)
-                - Infrastructure activities (Nathan)
+        - Breakouts
+            - Options
+                - The Fermi Gym
+            - Breakout A
+                - Rover building and distributed systems studies
+            - Breakout B
+                - Governance studies
+                - Infrastructure activities
     - ## General Notices
         - ### If you haven't already...
-            - Please head to the https://www.yakcollective.org/join.html
-            - Sign up to access the YC Discord
-            - Intro yourself in the #introductions channel
+            - Please head to https://www.yakcollective.org/join.html to access the YC Discord
+            - Intro yourself in the __introductions__ channel
         - ### Comments and questions...
-            - Drop general comments, questions etc. in the #voice-meta channel
+            - Drop general comments, questions etc. in the __voice-meta__ channel
             - Look out for emergent threads and dialogue in the relevant channels
             - We'll try to integrate comments, Qs, discussion by audio too
         - ### On recording...
             - We'll be recording the event until the end of the speaker session
+            - Breakout session recordings are at the discretion of the session leader
             - If you don't want to be recorded, please stay off cam and audio
             - Start and end of recording will be signalled
-        - ### On participation...
-            - This session, Async Week and Part Two are designed around interaction so stick around, ask questions, and get involved
 - Key event info
     - When
         - Part One: Sunday [[January 8th, 2023]], 1600-2000 UTC
@@ -81,19 +71,19 @@ Other Nascent Activities: 2023
             - 1805-1855
                 - Breakout Activities A
                     - [[Distributed Systems and Robotics]] Pt. 1
-Fermi Gym Pt. 1
+Fermi Gym, Pt. 1
                         - [[Distributed Systems and Robotics]] Pt. 2
-Fermi Gym Pt. 2
+Fermi Gym, Pt. 2
             - 1855-1905
                 - Break
                     - na
                         - na
             - 1905-1955
                 - Breakout Activities B
-                    - Governance Studies Pt. 1
-[[Infrastructure Pt. 1]]
-                        - Governance Studies Pt. 2
-[[Infrastructure Pt. 2]]
+                    - Governance Studies, Pt. 1
+[[Infrastructure, Pt. 1]]
+                        - Governance Studies, Pt. 2
+[[Infrastructure, Pt. 2]]
             - 1955-2000
                 - Break
                     - na
@@ -205,7 +195,7 @@ Fermi Gym Pt. 2
             - The end of the breakout sessions marks the end of the event for the day. To close, there may be a few comments, some questions or even a discussion.
             - And we can neither confirm nor deny the existence of a secret afterparty.
             - YakCon sounds great, right? Register for it here: https://lu.ma/yakcon
-    - [[January 9th, 2023]]: review of first, CTA for async activities
+    - {{[[DONE]]}} [[January 9th, 2023]]: review of first, CTA for async activities
         - Distribution
             - {{[[DONE]]}} [[Luma]] (condensed version summing Async Week activities)
             - Via [[Substack]]
@@ -245,15 +235,36 @@ Fermi Gym Pt. 2
                 - We'll be hearing from Mike Casey ([Farcaster](http://fcast.me/mc), [personal site](https://mcasey.xyz/)). He specialises in investment and entrepreneurship in complex markets facing capital scarcity — whether that's by geography (think Africa) or vertical (think life sciences). He'll be tackling the difficult question: "Can Crypto Close the $4 Trillion SME Financing Gap?"
                 - We'll also be hearing from Dan Grover ([personal site](http://dangrover.com/), [LinkedIn](https://www.linkedin.com/in/dangrover/)). Dan—designer, engineer, entrepreneur—will be exploring the possibility that simulation games might be what the world needs right now.
                 - Sounds good, right? So get to it. Register for YakCon Part Two [here](https://lu.ma/yakcon) and go [here](https://www.yakcollective.org/join.html) to access to the YC Discord.
-    - [[January 12th, 2023]]: booster for part two
-        - Via [[Substack]] and [[Luma]], repurposed as [[Twitter]] thread
+    - {{[[DONE]]}} [[January 14th, 2023]]: booster for part two
+        - Via [[Substack]], repurposed as [[Twitter]] thread
         - Copy
-            - TBC
-    - [[January 14th, 2023]]: notification/thread before second session
-    - [[January 15th, 2023]]: live tweet/cast session
-    - [[January 16th, 2023]]: event wrap-up
-- Tasks
-    - {{[[TODO]]}} Post boosting Part Two during the later week
-    - {{[[TODO]]}} Post summing the event and having CTAs for the coming week
-    - Actions for after
-        - {{[[TODO]]}} Distribute relevant recordings to speakers
+            - Part One and Async Week make up two thirds of YakCon, our week-long interactive tinkering session. Tomorrow's Part Two (1600-2000 UTC) concludes the event.
+            - For Part One we had around thirty participants (+/- 5) for the full session, inc. a mixture of active and inactive Yaks and newcomers. General consensus: everyone enjoyed themselves.
+            - The talk that Kilian Butler gave to kick the session off was focused on productising machine learning research. You can check it out on our YouTube channel here: https://www.youtube.com/watch?v=Zl1-zt0zQ28
+            - Then—after whirlwind tours of YC activity in 2022—we got into two rounds of breakouts.
+            - The first breakout gave participants two choices:
+                - Enter the Fermi Gym and attempt a roughly-right answer to a sensor-focused problem
+                - Orient themselves in the terrain of distributed robotics via a pebble automata puzzle
+            - The second breakout gave participants another choice:
+                - Read an essay on rules and discuss their common invocations (as models, as algorithms, as laws)
+                - Receive an introduction to YC's infrastructure and ideate opportunities for expansion, improvement and experimentation
+            - Spanning the gap between last week's Part One and tomorrow's Part Two was Async Week, which saw a smattering of activity on the YC Discord. This included reading drops, the regular recurring sync sessions and dialogues in different channels.
+            - Part Two will utilise the same essential structure as Part One:
+                - Guest speakers
+                - All-hands intro to YC and 2023 activity previews
+                - Two rounds of breakouts (Fermi Gym or distributed robotics; governance or infrastructure)
+            - The difference will be in our guest speakers. For Part Two we have, rather appropriately, two speakers.
+            - Mike Casey ([Farcaster](http://fcast.me/mc), [personal site](https://mcasey.xyz/)) will be tackling the difficult question: "Can Crypto Close the $4 Trillion SME Financing Gap?"
+            - Mike specialises in investment and entrepreneurship in complex markets facing capital scarcity — whether that's by geography (think Africa) or vertical (think life sciences). It's an interesting playspace to be in.
+            - For example, in [this piece](https://porticoadvisers.com/2022/09/14/four-dynamics/) Mike highlighted four dynamics shaping global private markets today:
+                - Primary fundraising is extremely challenging
+                - Consolidation is transforming the strategic landscape
+                - The difficult macro environment is necessitating novel liquidity solutions
+                - Crypto is emerging as an institutional asset class
+            - Mike'll be providing some insight into how these dynamics—and others—are unfolding and the impact they're having.
+            - Our second speaker is Dan Grover ([personal site](http://dangrover.com/), [LinkedIn](https://www.linkedin.com/in/dangrover/)). Dan—designer, engineer, entrepreneur—will be expanding upon and contextualising his essay, [Simulation Games Might Be What The World Needs Now](http://dangrover.com/blog/2022/09/24/sim-games.html).
+            - Spoiler alert, but my favourite snippet from this piece is as follows:
+                - "Shopify CEO Tobi Lutke argues a similar point] – positing that games like Factorio teach transferrable skills for dealing with complex strategic tradeoffs that aren’t taught in business books. It’s difficult at first to imagine this at first with a game like Factorio in particular. After all, it doesn’t even come close to simulating reality – its object is to build and streamline a factory on a hostile alien planet whose purpose seems, perversely, to be to produce the materials needed to further expand the factory.
+                - But even the most unrealistic sim games speak directly to this ever-present, essential, structural truth to the reality we inhabit. These games reenforce that the world is always more complicated than it looks. They teach us that the laws governing the material outcomes we live with don’t care at all about our virtue or intentions – that the Covid virus doesn’t care whether you trust Tony Fauci and the supply chain doesn’t care whether you’d prefer the items you purchase be made in your own country. And most importantly, they teach us how to model, analyze, and problem-solve in the face of such a complex, cruel, and indifferent world and ignore hucksters offering us easy remedies."
+            - And that's just the speakers.
+            - YakCon Part Two is shaping up to be as fun as Part One. Come and join the party. Register for Part Two [here](https://lu.ma/yakcon) and go [here](https://www.yakcollective.org/join.html) to access to the YC Discord.

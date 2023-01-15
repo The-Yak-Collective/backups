@@ -1,2 +1,2 @@
-- ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGNWY2Qzk2NDhVei5qcGVnP2FsdD1tZWRpYSZ0b2tlbj1kN2VjMmVlYi05MzQ3LTRkMDYtYWY5NC1iNTc4YTgyZGM5ZDM=)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F5f6C9648Uz.jpeg?alt=media&token=d7ec2eeb-9347-4d06-af94-b578a82dc9d3)
 - 

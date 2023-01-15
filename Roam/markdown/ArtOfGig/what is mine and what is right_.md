@@ -15,12 +15,12 @@
 - **example of something really not quite owned**
     - item 9: https://kermankohli.substack.com/p/last-week-part-1-bean-exploited-private?s=r 
         - Another highly recommended read from this week. The following outlines the initiatives of the Etheruem Foundation, their spend, treasury and what they’re focusing in on. A report like this has never really been released by the foundation so it was great reading it as an outsider. One thing that caught my interest was that** they have $300m of non-crypto assets**. I was wondering what those assets are and in what legal entity they’re housed in and who controls that. Questions for another day I guess.
-        - ![Twitter avatar for @ethereum](./images/aHR0cHM6Ly9jZG4uc3Vic3RhY2suY29tL2ltYWdlL3R3aXR0ZXJfbmFtZS93XzM2L2V0aGVyZXVtLmpwZw==)[**Ethereum **@ethereumToday we’re publishing the EF report!
+        - ![Twitter avatar for @ethereum](https://cdn.substack.com/image/twitter_name/w_36/ethereum.jpg)[**Ethereum **@ethereumToday we’re publishing the EF report!
  
 This is a new way to communicate our core values, explain what makes the EF unique, and share information about all of the ways that EF teams contribute to our vision of Ethereum as an Infinite Garden.
 
 Read it here: ](https://twitter.com/kermankohli/status/1515950624592080900)[ethereum.foundation/report-2022-04…](https://ethereum.foundation/report-2022-04.pdf)
-        - ![Image](./images/aHR0cHM6Ly9jZG4uc3Vic3RhY2suY29tL2ltYWdlL2ZldGNoL3dfNjAwLGNfbGltaXQsZl9hdXRvLHFfYXV0bzpnb29kLGZsX3Byb2dyZXNzaXZlOnN0ZWVwL2h0dHBzJTNBJTJGJTJGcGJzLnN1YnN0YWNrLmNvbSUyRm1lZGlhJTJGRlFtOUIxcldVQUVGblRTLmpwZw==)
+        - ![Image](https://cdn.substack.com/image/fetch/w_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQm9B1rWUAEFnTS.jpg)
         - [April 18th 2022**654** Retweets**2,540** Likes](https://twitter.com/kermankohli/status/1515950624592080900)
 - prompts:
     - what does ownership mean?

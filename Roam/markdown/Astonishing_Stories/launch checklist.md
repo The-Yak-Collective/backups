@@ -18,7 +18,7 @@
     - 
 - # [[October 23rd, 2020]] First Story Launch
     - {{[[DONE]]}} For stories that don't have artwork, use the artwork that is currently not used as a placeholder
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFzdG9uaXNoaW5nX1N0b3JpZXMlMkY4XzJ2anNtNGpyLmpwZz9hbHQ9bWVkaWEmdG9rZW49MjI3YmYwMTMtNGNhMi00MjI2LWI1ODItNDQ1M2IwMWRlOGUz)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2F8_2vjsm4jr.jpg?alt=media&token=227bf013-4ca2-4226-b582-4453b01de8e3)
     - {{[[TODO]]}} Story order 
         - [01 Nathan Chen](((8yEaJjIrg)))
         - 02 [[Ben Smith]] [Your Payment Is Ready](https://docs.google.com/document/d/15LRvkKeNMwRgr6Zf8dYLBBAqhpBxIyLP_WBE16H-PCg)
@@ -27,7 +27,7 @@
         - ^^agglomerizing the aesthetic^^
         - ^^GPT 51 Pre Fab^^
     - {{[[DONE]]}} Replace artwork for "your payment is ready" 
-        - ![](./images/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvNzQ4MTk5Njk3MjE4NDA0MzUzLzc2NDk4Mzc2MzQwNjgxNTIzMi9pbl9hX2NsYXNzX29mX3RoZWlyX293bi5qcGc=)
+        - ![](https://cdn.discordapp.com/attachments/748199697218404353/764983763406815232/in_a_class_of_their_own.jpg)
     - {{[[DONE]]}} add placeholder card for GPT-51 Pre-Fab Father 
         - ^^[[Nathan Acks]]: Right now this is all lorem ipsum. Would be good to at least have a description.^^ - https://docs.google.com/document/d/1ypHVOPVaIv-XLi8RxXVM77XIdwEy266-viriWmlBNAg/edit?ts=5f7d4e09
         - {{[[TODO]]}} Add Text for GPT-51

@@ -39,7 +39,7 @@
     - Personal Carbon Footprint Calculator? [https://coolclimate.org/calculator (Links to an external site.)](https://coolclimate.org/calculator)
 - **Workers Rights**
     - WSR, “What Is Worker-driven Social Responsibility (WSR)?”, July 11, 2017.
-    - [https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo (Links to an external site.)](https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo)
+    - [https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo (Links to an external site.)](https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo)[![](https://bcourses.berkeley.edu/images/play_overlay.png)](https://www.youtube.com/watch?time_continue=5&v=EsnT-ZoV8V8&feature=emb_logo)
     - Outhwaite, O., & Martin-Ortega, O. (2019). Worker-driven monitoring–Redefining supply chain monitoring to improve labour rights in global supply chains. __Competition & Change__, __23__(4), 378-396.
     - re/make - #PayUp Campaign.
     - [https://remake.world/stories/news/under-paid-in-the-pandemic-a-close-look-at-garment-maker-wage-gaps-during-covid-19/ (Links to an external site.)](https://remake.world/stories/news/under-paid-in-the-pandemic-a-close-look-at-garment-maker-wage-gaps-during-covid-19/)
@@ -59,7 +59,7 @@
     - [https://www.un.org/sustainabledevelopment/sustainable-development-goals/ (Links to an external site.)](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 - **Social Life Cycle Assessment**
     - Benoit-Norris, C., Cavan, D. A., & Norris, G. (2012). Identifying social impacts in product supply chains: overview and application of the social hotspot database. __Sustainability__, __4__(9), 1946-1965.
-    - Fashion Revolution, (2015), “The 2 Euro T-Shirt – a Social Experiment,”[https://www.youtube.com/watch?v=KfANs2y_frk (Links to an external site.)](https://www.youtube.com/watch?v=KfANs2y_frk)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?v=KfANs2y_frk)
+    - Fashion Revolution, (2015), “The 2 Euro T-Shirt – a Social Experiment,”[https://www.youtube.com/watch?v=KfANs2y_frk (Links to an external site.)](https://www.youtube.com/watch?v=KfANs2y_frk)[![](https://bcourses.berkeley.edu/images/play_overlay.png)](https://www.youtube.com/watch?v=KfANs2y_frk)
 - **The Higg Index**
     - The Sustainable Apparel Coalition and the Higg Index:
     - [https://apparelcoalition.org/the-sac/ (Links to an external site.)](https://apparelcoalition.org/the-sac/)
@@ -76,11 +76,11 @@
 - **Design for Environment**
     - McDonough, W. and M. Braungart, (2002), “A Question of Design,” and “Why Being ‘Less Bad’ is No Good,” in __Cradle to Cradle__, New York: North Point Press, pp.: 17-67.
     - Telenko, C., O'Rourke, J. M., Conner Seepersad, C., & Webber, M. E. (2016). A compilation of design for environment guidelines. __Journal of Mechanical Design__, __138__(3).
-    - Benyus, Janine, (2014), “Creating a Bio-Industrial Revolution,” TED Active Talk, available at:[https://www.youtube.com/watch?v=sf4oW8OtaPY (Links to an external site.)](https://www.youtube.com/watch?v=sf4oW8OtaPY)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?v=sf4oW8OtaPY)
+    - Benyus, Janine, (2014), “Creating a Bio-Industrial Revolution,” TED Active Talk, available at:[https://www.youtube.com/watch?v=sf4oW8OtaPY (Links to an external site.)](https://www.youtube.com/watch?v=sf4oW8OtaPY)[![](https://bcourses.berkeley.edu/images/play_overlay.png)](https://www.youtube.com/watch?v=sf4oW8OtaPY)
     - Cases:
     - Apple
-    - [https://www.youtube.com/watch?v=AYshVbcEmUc (Links to an external site.)](https://www.youtube.com/watch?v=AYshVbcEmUc)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?v=AYshVbcEmUc)
-    - [https://www.youtube.com/watch?v=2Bu-gl7v-P8 (Links to an external site.)](https://www.youtube.com/watch?v=2Bu-gl7v-P8)[![](./images/aHR0cHM6Ly9iY291cnNlcy5iZXJrZWxleS5lZHUvaW1hZ2VzL3BsYXlfb3ZlcmxheS5wbmc=)](https://www.youtube.com/watch?v=2Bu-gl7v-P8)
+    - [https://www.youtube.com/watch?v=AYshVbcEmUc (Links to an external site.)](https://www.youtube.com/watch?v=AYshVbcEmUc)[![](https://bcourses.berkeley.edu/images/play_overlay.png)](https://www.youtube.com/watch?v=AYshVbcEmUc)
+    - [https://www.youtube.com/watch?v=2Bu-gl7v-P8 (Links to an external site.)](https://www.youtube.com/watch?v=2Bu-gl7v-P8)[![](https://bcourses.berkeley.edu/images/play_overlay.png)](https://www.youtube.com/watch?v=2Bu-gl7v-P8)
     - [https://www.forbes.com/sites/patrickmoorhead/2018/04/19/apples-new-iphone-recycling-robot-daisy-is-impressive-and-in-austin/#40301d097f2e (Links to an external site.)](https://www.forbes.com/sites/patrickmoorhead/2018/04/19/apples-new-iphone-recycling-robot-daisy-is-impressive-and-in-austin/#40301d097f2e)
     - DSM Niaga - [https://www.dsm-niaga.com (Links to an external site.)](https://www.dsm-niaga.com/)
     - [https://berkeley.box.com/s/701xbulphcmyxt81g5l2bngf80e05v7w (Links to an external site.)](https://berkeley.box.com/s/701xbulphcmyxt81g5l2bngf80e05v7w)

@@ -690,8 +690,9 @@ but consider - is what is being sent data or programs?
     - Season: Winter
         - Jan 2: [Wikipedia on Memory Hierarchy](https://en.m.wikipedia.org/wiki/Memory_hierarchy)
         - Jan 9: [Cache Coherency](https://en.wikipedia.org/wiki/Cache_coherence)
-        - Jan 16:
+        - Jan 16: Internet archive
         - Jan 23:
+        - Jan 30: Venkat out [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface)
         - 
 - Hopper -- articles we could read
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why

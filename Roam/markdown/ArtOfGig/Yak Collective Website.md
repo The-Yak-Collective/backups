@@ -5,7 +5,7 @@ Created:: [[August 29th, 2020]] by [[Nathan Acks]]
 Page Type:: #Project
 Status:: {{or: Active | Early Concept | Proposal | Complete}}
 Current State:: 
-    - ![Netlify Status](./images/aHR0cHM6Ly9hcGkubmV0bGlmeS5jb20vYXBpL3YxL2JhZGdlcy85NDNmZjY0Ni00MWI2LTRiNGItYWI4Ni1hODkxNjk4YzcyYzcvZGVwbG95LXN0YXR1cw==)
+    - ![Netlify Status](https://api.netlify.com/api/v1/badges/943ff646-41b6-4b4b-ab86-a891698c72c7/deploy-status)
 Last Updated:: [[December 11th, 2020]] by [[Nathan Acks]]
 Last Gardened:: `/Today` by `[[Fname Lname]]`
 Ways to Contribute::

@@ -6,9 +6,9 @@
 - Last Gardened:: [[October 23rd, 2020]] by [[Jenna]]
 - Guest:: [[Mike Baxter]]
     - https://goalatlas.com/strategy-manual/
-    - ![](./images/aHR0cHM6Ly9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9nb2FsYXRsYXMubWFya2V0aW5nL3VwbG9hZHMvMjAyMC8wOS9TdHJhdGVneU1hbnVhbF9Gcm9udF9Db3Zlci5wbmc=) 
+    - ![](https://s3-eu-west-1.amazonaws.com/goalatlas.marketing/uploads/2020/09/StrategyManual_Front_Cover.png) 
 - Attendees::
-    - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFydE9mR2lnJTJGY21VMUN3aWN4ZS5qcGVnP2FsdD1tZWRpYSZ0b2tlbj01MjYzNzRhNS1iOGI0LTRiZTgtOTJlNS05OGRhNTQzNTUzNTI=)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FcmU1Cwicxe.jpeg?alt=media&token=526374a5-b8b4-4be8-92e5-98da54355352)
 - Transcript:
     - d k:  Hey Mike, Mike Baxter GMT plus one. I have looked up your Discord profile actually. So I'll just give a quick read through.
         - Mike is from London and he's been an independent consultant for 20 years. His firm is called Goal Atlas. He's worked in strategy, digital transformation, sales and marketing, across a number of industries such as retail, tech travel, pharma, financial services, and more, has also been involved in some of London's tech startups. And so we have Mike here today to talk about his indie career, his new book The Strategy Manual, and to field any questions about those two things, as well as I guess the topic of this call typically is around online governance and maybe to shed some insight into where, where he thinks that collective could go next, where it's interesting and more.

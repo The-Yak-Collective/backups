@@ -17,17 +17,17 @@
     - Digital conference, everything is recorded, tremendous amount of accountability in the event industry
 - People don't watch after
     - How to make recorded content much better
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRm5PUFNCZU92Z08ucG5nP2FsdD1tZWRpYSZ0b2tlbj1iOTAxM2M4MC02MGZiLTRkNzYtODA0NS0yMDdkNzQ1ZDJhNTM=)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FnOPSBeOvgO.png?alt=media&token=b9013c80-60fb-4d76-8045-207d745d2a53)
         - Transcript, chat, slides
 - Tools: https://docs.google.com/spreadsheets/d/1Grmwx-a3huFqdRThWE3vmeteWkfEKDPJDGT8e3Z1Cc0/htmlview?pru=AAABchkpJcY*lFNrrYSWWfqoq2cSB8W5rw#gid=1941368468
-- ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRmo1SnZ6YXNkQWgucG5nP2FsdD1tZWRpYSZ0b2tlbj1lZmNkZDZiYS0zYjBkLTRmYzUtYTEzYS0wZmYyM2EyZGMyM2E=)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2Fj5JvzasdAh.png?alt=media&token=efcdd6ba-3b0d-4fc5-a13a-0ff23a2dc23a)
 - 11 speculations
     - 1.  community
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRnJIOXNoZURLcDQucG5nP2FsdD1tZWRpYSZ0b2tlbj02OGIwNjE3Yy1jMDAyLTQ3MmItYjExOC0zNmRlZTYwNzI5OGE=)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FrH9sheDKp4.png?alt=media&token=68b0617c-c002-472b-b118-36dee607298a)
         - Who can convene the right community. For itself, sponsor, speakers
     - 2. Skeuomorphism
         - Skeuomorphism is the design concept of making items represented resemble their real-world counterparts. Skeuomorphism is commonly used in many design fields, including user interface (UI) and Web design, architecture, ceramics and interior design.
-        - Step way back ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRnRXeWRtR0kxak0ucG5nP2FsdD1tZWRpYSZ0b2tlbj00ZWJiM2M0MC00Zjc0LTQzYTAtODRjNy1jMjQzMGI1MDFiMDg=)
+        - Step way back ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FtWydmGI1jM.png?alt=media&token=4ebb3c40-4f74-43a0-84c7-c2430b501b08)
     - 3. Time and space
         - Parallel tracks? holdover from atoms 
     - 4. Your 3 screens
@@ -39,7 +39,7 @@
         - Whatever you can create that makes people part of the community
     - 6. Content timeliness
         - Some content is best delivered in real time because it's novel, transient or interactive (needs to be timely)
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRk1rWE16S0xhZXoucG5nP2FsdD1tZWRpYSZ0b2tlbj0wMmYwODNlMS00YWVlLTQyYzUtYmQ0OS0wNjU3YzYxNzAxYTY=)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FMkXMzKLaez.png?alt=media&token=02f083e1-4aee-42c5-bd49-0657c61701a6)
         - Look no further than talk shows - the moderator is as important as the guest. Look at John Krasinski
         - People will come together to watch something together
     - 7. The attendee is always in the shopping cart
@@ -51,14 +51,14 @@
     - 11 Video is the new normal
 - The tech
     - Learn to fish
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRmI0TjBhNGE4NXoucG5nP2FsdD1tZWRpYSZ0b2tlbj02MjA0M2M2My1lMDllLTRmYTEtYjFjZC0xMjBmOGVmZWUyMjU=)
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRmVXbmU2blN0a18ucG5nP2FsdD1tZWRpYSZ0b2tlbj03MTZlMjY2MS0xMzk3LTQ1ODItYTI1NS03ZDRjM2Y1NTQ1OWE=)
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRnZLZnlzZTJIcWsucG5nP2FsdD1tZWRpYSZ0b2tlbj0xNWUzZDY0ZS1iYzM4LTQ1ZWUtOGM3Ni1lOGU5M2I1NTM5ZTE=)
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRk13OUFTMTRPYWMucG5nP2FsdD1tZWRpYSZ0b2tlbj1mYzAxOTVkNS04YTFlLTQ2Y2MtODIyYi0zMTI5Nzg5ZTY5Zjk=)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2Fb4N0a4a85z.png?alt=media&token=62043c63-e09e-4fa1-b1cd-120f8efee225)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FeWne6nStk_.png?alt=media&token=716e2661-1397-4582-a255-7d4c3f55459a)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FvKfyse2Hqk.png?alt=media&token=15e3d64e-bc38-45ee-8c76-e8e93b5539e1)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FMw9AS14Oac.png?alt=media&token=fc0195d5-8a1e-46cc-822b-3129789e69f9)
     - Have a fish
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRmN3US0zTUluQ2cucG5nP2FsdD1tZWRpYSZ0b2tlbj05ZmZkZjdjMy1lYmNiLTQ2OTAtYjYzOC1mNTgyZjNhMmY0ODA=)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FcwQ-3MInCg.png?alt=media&token=9ffdf7c3-ebcb-4690-b638-f582f3a2f480)
 - Hybrid model
-    - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRlRxcmhsbHZqekwucG5nP2FsdD1tZWRpYSZ0b2tlbj01YzJjODBjMi1jOWYzLTQ5MDMtODljYy1kZTAwMmRlNDYyYzE=)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FTqrhllvjzL.png?alt=media&token=5c2c80c2-c9f3-4903-89cc-de002de462c1)
 - Consequences
     - Video is the new norm
     - From ticket to subscribtion (community, time & space broke)
@@ -69,13 +69,13 @@
     - Wannamaker 
     - More niche events that aren't for profit will self-organize
 - Rules to live by
-    - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRl9LcFRxR2p5eGYucG5nP2FsdD1tZWRpYSZ0b2tlbj03YTM0OWNkOS0xZTBiLTRlOTktODMyYS0yMzEwNTU3OTQ0MTQ=)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2F_KpTqGjyxf.png?alt=media&token=7a349cd9-1e0b-4e99-832a-231055794414)
 - Do what the platforms can't
-    - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRlByNk5fbDRVUVAucG5nP2FsdD1tZWRpYSZ0b2tlbj02ODRmZTA1ZC05YmViLTRjNDctYjkxNy0yMTg2ZjFjYTY4ODQ=)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2FPr6N_l4UQP.png?alt=media&token=684fe05d-9beb-4c47-b917-2186f1ca6884)
 - New ways to make money
-    - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRmItd1p2VzFPVF8ucG5nP2FsdD1tZWRpYSZ0b2tlbj1iZmNhYjRiZi02ZjcxLTQ0Y2ItYTM3Zi1iMDQ1MTRlZTNiOTI=)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2Fb-wZvW1OT_.png?alt=media&token=bfcab4bf-6f71-44cb-a37f-b04514ee3b92)
 - Think about other stuff
-- ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRjlRbVNOTHB2TjYucG5nP2FsdD1tZWRpYSZ0b2tlbj1jYjdjMTY1ZS03ZTE3LTRlNTgtYjVhOC02NTI5YzI4MWMyYzA=)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2F9QmSNLpvN6.png?alt=media&token=cb7c165e-7e17-4e58-b5a8-6529c281c2c0)
 - Questions
     - How to make sure people are engaged
         - Send physical artifact

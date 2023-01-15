@@ -15,8 +15,8 @@
     - I would love for this deck to draw in a *diverse* mix of perspectives from the Yak Collective. Naturally, all of us with experience facilitating offsites will have plenty of perspectives to through in the mix. But... what are the unexpected insights? The pattern disrupts? The unexpected yet refreshingly bold and constructively contrarian insights that differentiate us from the default support offered by large consulting firms?
     - It would help if you have had enough experience consulting so as to harbour that Vetenari/Machiavellian-like dark rogue jadedness that makes new thinking so much more salient. In other words—let’s not have this be a deck of sunshine and rainbows, but rather: the genuinely provocative ‘new ways of seeing’ strategic offsites. 
     - I’m on Melbourne time (GMT +10) and actively working with a client on this. My May is busy but there *is* some capacity for me to lead this. I imagine that we will meet online soon (once we get feedback/approval from the Yak Council). I may use a platform that allows us to record our initial session, so that folks in other time zones will catch up. I then hope we may have our own discord channel and roam sub to flesh this out. 
-    - Paul Millerd, Scott Allen, Thomas Verhagen, khuyen, Ben Mosior, Erin Peterschick, Antoine Buteau, Mike Wimsatt, Alex Wagner, and Damien Stewart have expressed interest thus far. 
     - I’d thought initially to make this a ‘white paper’ (or ‘play book’)—but that might warrant a bit more coherence than is achievable/desirable within a 2-3 week turnaround. We want this document to *spark thought*. To have executives rethinking the offsite—not to abandon it, per se, but to see the opportunity in a new light.
+    - Paul Millerd, Scott Allen, Thomas Verhagen, khuyen, Ben Mosior, Erin Peterschick, Antoine Buteau, Mike Wimsatt, Alex Wagner, and Damien Stewart have expressed interest thus far. 
     - If you’re also interested in contributing please add your discord name below
         - eg: Jason Fox
             - [[Nita Baum]] 
@@ -138,7 +138,7 @@
             - 3. Then we put it ‘out there’ as an open thing (potentially). Or we work with a client happy to play with us.
         - Concerns: this feels webinary/showcasy. Most of our stuff is so intwined to our client contexts.
         - Maybe we are okay with this concern—and I am okay with that. The result may be a little more performative but... yeah. One thing at a time.
-        - ![👍](./images/aHR0cHM6Ly9kaXNjb3JkYXBwLmNvbS9hc3NldHMvMDhjMGEwNzc3ODAyNjNmM2RmOTc2MTNlNThlNzE3NDQuc3Zn)
+        - ![👍](https://discordapp.com/assets/08c0a077780263f3df97613e58e71744.svg)
     - [[May 19th, 2020]] 18:56
         - Participants
             - [[Jason Fox]]

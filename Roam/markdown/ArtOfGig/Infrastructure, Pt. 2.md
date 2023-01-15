@@ -1,0 +1,20 @@
+- Agenda
+    - From last time
+        - [Current directional thoughts](((IQhvWFF9r)))
+        - [Notes from the initial brainstorming session](((fYrSSN68_)))
+    - Recurring themes
+        - The website needs to be easier for anyone to update
+        - We need some way to aggregate “exhaust” and provide new/returning people with a better sense of what’s currently happening
+- (Re)Introductions
+    - [[Nathan Acks]]
+    - 
+- Brainstorming theme 1: Website simplification
+    - 
+- Brainstorming theme 2: Discord/sub-group exhaust
+    - 
+- Next steps
+    - Join us in [the #infrastructure channel](https://discord.com/channels/692111190851059762/704369362315772044)
+    - Start building!
+        - Get any additional access you need
+            - [[Nathan Acks]] - `necopinus#8544`
+            - [[Maier Fenster]] - `Maier U+0200#6756`

@@ -17,13 +17,13 @@
     - During the meeting, the pace and quality of the conversation can be managed through attention to politics and by using carefully tailored frameworks, decision points, and group exercises.
     - After the meeting, an action plan ensures clear accountability and follow-through.
 - **Preparing for the meeting**
-    - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRjlMOFg3ZVhPNG4ucG5nP2FsdD1tZWRpYSZ0b2tlbj04ZjQ3MjcwOS0wZDhkLTQ5OTMtYTFhZi00YWZlMTE0ODQ1OTE=)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2F9L8X7eXO4n.png?alt=media&token=8f472709-0d8d-4993-a1af-4afe11484591)
     - Frisch and Chandler recommend first clarifying each meeting’s purpose: do you need an expansive conversation about broad strategic options—or must you make concrete decisions about a specific priority, such as improving customer loyalty?  What time frame applies to the issues that will be discussed: Three to five years? Five to ten? 
     - Then, identify the right number of participants. (An expansive conversation requires a larger group.) 
     - And give them a “fact book”—a compilation of just enough relevant data about your company and its external environment—and insist they read it ahead of time.
     - Finally, create a structure for the meeting that will compel progress.
         - Useful to have a facilitator agenda. The first two columns make up the structured agenda, shown to all meeting participants ahead of time.
-        - ![](./images/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9maXJlc2NyaXB0LTU3N2EyLmFwcHNwb3QuY29tL28vaW1ncyUyRmFwcCUyRkFCMiUyRjdPaUxCVUllY2IucG5nP2FsdD1tZWRpYSZ0b2tlbj00ZThjOWRlZi04NDAyLTQwOWEtOTcxZi1hNGY0Yjg0NmE5ZmM=)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAB2%2F7OiLBUIecb.png?alt=media&token=4e8c9def-8402-409a-971f-a4f4b846a9fc)
 - **At the meeting**
     - To induce genuine engagement, not ritualistic agreement:
         - Downplay your authority (CEO). Avoid expressing strong opinions early in the discussion. 

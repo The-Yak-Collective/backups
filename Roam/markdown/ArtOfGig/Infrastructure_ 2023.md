@@ -8,4 +8,4 @@
     - Other projects (somewhat aspirational)
         - "Exhaust" aggregation system
         - New sign-up process
-    - We'll be brainstorming potential projects in [today's break-out session]([[Infrastructure Pt. 2]])!
+    - We'll be brainstorming potential projects in [today's break-out session]([[Infrastructure, Pt. 2]])!

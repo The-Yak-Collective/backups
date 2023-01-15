@@ -10,7 +10,62 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
-    - ### Fri, Jan 6th, 2023
+    - Fri, Jan 13th, 2023 
+        - Selected reading:  https://minervawisdom.com/2020/03/26/carl-schmitt-and-the-concept-of-sovereignty/
+        - Responses: 
+            - Bryan
+                - he sees the reading as a narrative of sovereignty as opposed to something that would be more interesting to him
+                    - he would like something more instructional — how to wield sovereignty; suggests something more anthropological
+                    - people pretty much ignore laws
+                - Mafia has been intertwined with the government; organized crime gets license to operate sometimes — organized crime is the de facto law enforcement
+                - sovereignty and agency? are they the same?
+                - Magna Carta: the common people have the same rights / rule of law; that has granted us all freedom
+            - David
+                - he got three things from the reading 
+                    - he believes political communities come together not through their institutions but primarily b/c they have a common purpose and are necessary to kill outsiders
+                    - sovereign idea 
+                        - not empirical 
+                        - not an evolutionary dynamic
+                            - brexit: a failure to understand how european instititions are embedded in british politics 
+                        - international systems are there primarily to protect the strong 
+            - Sachin
+                - punishing the enforcer of the law, reminds him of the texas abortion law where you can sue clinics in violation and get 10K
+                - you can see quietly making exceptions in a lot of corporations 
+                    - quiet-quitting; making an exception without consulting a higher authority
+                - when moved to US, he thought it was weird that suburbs have sidewalks but no one is walking on them; in India, infrastructure was broken but people were still walking anywhere
+                    - maybe people are not cynical enough today 
+            - Shreeda
+                - is it actually dictatorial?
+                - governance coming across from a state of exception 
+            - Venkat 
+                - Schmitt is something that's referenced in a lot of articles
+                - dissonance between reality and the model — how does it effect how you should think about it? 
+                    - more people comply with the model of politics in a ceremonial sense even if they don't sincerely believe in political rhetoric
+                - the power to make exceptions needs some nuance; almost like a risk management exercise
+                    - worry about your right to make exceptions and who has the right to enforce punishments 
+                        - representatives of the state who enforce punishments
+                        - the mob — can police your right to exceptions
+                        - self-appointed busy bodies; e.g. karens 
+                            - axelrod (norms are strongly founded if people take on the role of enforcing the meta-norm) 
+                                - punishing those who decide to not enforce the norms 
+                - who gets to make the exception vs who gets to openly make the exception
+                    - everyone gets to break rules here and there but very few people do it very openly 
+                        - cynicism (https://nosubject.com/Cynicism_as_a_Form_of_Ideology) is more closed 
+                        - who gets to openly flout? 
+                            - actual monarchs (ceremonial outlaws)
+                            - outlaws (spaces where the police don't dare to go, e.g. the mob. beyond the frontiers of what is claimed)
+                            - january 6th; open sedition (you feel like you're powerful enough; current state of governance gets discredited)
+                    - narrow view of schmitt — only take people who can legally make exceptions seriously; but most systems aren't that tightly controlled. 
+                        - the median system has enough people capable of being in violation
+                    - people take the model view extremely seriously as a normative prescription
+                        - people hope that there is a monarch for repairing the system
+                            - opens the door to totalitarian models of governance
+                            - moldbug etc people go down this path
+                    - We should read something about the theory of civil disobedience. Gandhi, Rosa Parks etc. When people make a calculated judgment that the law can be safely challenged.
+                    - surveillance state makes exceptions a lot less viable 
+                        - every act of exception will become an act of civil disobedience 
+                        - 
+    - ###  Fri, Jan 6th, 2023
         - Selected reading: News from now here; most and least important moment of 2022 
         - Prompt: 
         - Responses: 
