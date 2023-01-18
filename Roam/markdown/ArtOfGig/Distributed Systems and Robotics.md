@@ -8,7 +8,6 @@
             - You have a set of robots in a maze each carrying n pebbles. They have no memory, but can place and pick up their pebbles. They have to explore the whole maze (for example, to sweep away trash or deactivate mines) together efficiently. They have no GPS but they have a compass. Come up with a strategy for the robots to work together to efficiently 
         - Reading and discussion on distributed memory for robotics 
             - For technical people: Browse this paper: [On the Power of the Compass](https://www.clear.rice.edu/comp651/papers/2015-01-Spring/04567972.pdf)
-            - For non-technical people: Watch this 20 minute talk: [Kei Kreutler on Memory](https://www.twitch.tv/videos/1551986569)
     - **Asynchronous week of activities **(Monday 9th - Saturday 14th)
         - Will take place on #yak-rover and #distributed systems channels
         - Daily paper shares for discussion
@@ -21,7 +20,7 @@
             - Reading choice A: [Hobo sign language](https://www.popularmechanics.com/technology/a25174860/hobo-code/)
             - Reading choice B: [Short story, The Map](https://www.ribbonfarm.com/2022/05/05/the-map/)
             - Video choice C: [Kei Kreutler talk on spatial memory](https://www.twitch.tv/videos/1551986569) 
-        - Open discussion: 2 prompts on TERRAMARKING
+        - Open discussion: 2 prompts on [[Computing as Terramarking]]
             - Mention what you  read
             - Share ONE idea for a physical annotation or tag (chalk mark or sticker indicating a specific useful protocol element) that a world full of varied wandering robots AND humans can interpret (a symbol/token in a human-readable robot protocol language)
                 - Example: Robots leave pointers to free charging stations
@@ -36,3 +35,4 @@
                 - Maier: how is it different from geotags? You have to be there, and when you are there you can erase the mark. Proof of attention. When you don't have words to describe what you're seeing, an arrow is useful. Physical can also get erased by wind etc. Feature because it is time-limited in an automated way.
                 - Matthew: simple shapes, so they degrade gracefully. Secret languages need an asymmetry between size of group using the language vs. host group.
                 - Nathan: Forgetting is an equally important problem... better records = more culture war. What can be a cross-cultural marker but is also time-limited. Smelly vs. nice flowers. Cf: "this is not a place of honor"
+        - 

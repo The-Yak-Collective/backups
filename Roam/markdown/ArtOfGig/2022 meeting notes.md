@@ -854,8 +854,9 @@ problem, leading, in some cases, to poor representations of a problem.
                         - Unity is lauded for its documentation and community. This is however true for the game development side. On the ROS integration, quite limited.
     - Dec 28th
 - Saturn Cycle
-    - Jan 3
-    - Jan 10
+    - Jan 3 -- ??
+    - Jan 10 -- Unity for SLAM
+    - Jan 17 -- [[Computing as Terramarking]]
 - Uranus Cycle
 - Neptune Cycle
 - Pluto Cycle
