@@ -3,8 +3,20 @@
         - From [[Venkatesh Rao]]:
             - General reaction to YakCon: the format has legs. Clearly the async part needs better programming models but overall I think the idea of an event as simply regular scheduled programming turned up to 11 is worth exploring further. Just an up-tempo regime. Natural for a highly tempo-aware group like this. Most trad orgs have a fixed tempo, and do events as off-tempo breaks. There’s a sense of a retreat or mood change. I never thought to examine that assumption that events have to be a break from the routine. When the routine itself is a delicate equilibrium between voluntary motivation and friction, up-tempo is an event by itself. Other things that fit the model: homecoming week, military surges in war zones etc. Basically take the seasonality metaphor seriously.  The weather doesn’t have designed special days, but does have tempo variations and exceptional days. Another way to think of an up-tempo week is like a one-rep max in weight training. You’re not always testing yourself by pushing past 100%, but sometimes you do. Most times you’re at 70%.
         - From [[Matthew Sweet]]
-            - 
-    - Materials
+            - The general format (two sessions of intro > speaker(s) > all-hands > breakouts spanned by a week) worked really well.
+            - A decent amount of interest was gathered for Part One, but a big drop off during Async Week and coming into Part Two was really evident. I think this is fine, though. The aim with this format, from a promo / awareness perspective, should be to:
+                - Maximising interest prior to Part One and converting, then...
+                - Achieving high continuity with the engaged group from Part One, through Async Week and into Part Two
+            - The promo and continuity can be achieved in part through a bit more advance planning around promotion and posts, as well as upgrading Async Week activities a little more. Onboarding and orientating people in the Discord did seem to be a sticking point, too.
+            - On the speaker front, a longer on-ramp for finding, pitching and confirming guests speakers would be really helpful. However, I still think the short format plus quick Q&A works well for the speaker and the attendees. And it isn't the hardest sell in the world, either, as YC is a pretty diverse, high engagement bunch when it comes to it.
+            - Tooling-wise, [[Luma]] was really good for event management, and I think [[Whereby]] was slick, too. Personally, I'm no Zoom fan and G.Meet isn't really designed for events. Teams is... ugh.
+            - On future events
+                - For YC as a whole
+                    - Think it makes sense to go to a higher tempo than annual and to diverge more strongly from established rhythms and practices. Quarterly feels too short of a cycle, though. Perhaps something aligned around the solstices/shortest and longest days of the year would be fun.
+                - For individual activity tracks/streams
+                    - The kernel of the format could also be used to catalyse synthesis activities, like those that occur at the end of a season (e.g. the gov. studies primer). Not on a defined cycle, but at timely moments.
+                    - A pared down version of Part One and Two—perhaps half the length but with speakers, an all-hands and a breakout / interactive segment focused exclusively on a given track—plus an Async Week could easily be moulded to fit around a desired track/activity-specific outcome.
+    - Materials etc for the event
         - Screen shared blocks
             - Current Status
                 - Breakouts

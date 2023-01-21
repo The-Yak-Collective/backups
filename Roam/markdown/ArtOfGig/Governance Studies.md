@@ -10,6 +10,57 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Fri, Jan 20th, 2023
+        - Selected reading: https://www.nber.org/system/files/working_papers/w21338/w21338.pdf 
+            - https://en.wikipedia.org/wiki/Civil_disobedience 
+        - Bryan: 
+            - table 1: non-instrumental vs instrumental 
+            - his prior understanding of civil disobedience was much more individualistic 
+            - what has to happen for something to become instrumental? 
+            - there are two meanings of civil: be polite in a disagreement, but also Civic duty that people have 
+            - when does civil disobedience become a militant disobedience? 
+        - David: 
+            - so much study of governance isn't empirical – waiting for dataset to validate the model 
+            - actors and protestors might not be fully rational beings (obviously the case); he thinks the paper isn't accounting for human nature of optimism
+            - protest tactics that piss people off (rebellion, throwing paint on paintings); reframing the space of what is possible
+        - Grigori 
+            - crowd disobedience is a dynamic situation 
+            - you have to also take into account the rationality of the power group / state / leader
+        - Jenna
+            - same point as bryan about individual rule breaking 
+        - Kiran
+            - being indian, you get introduced to it early-on in life
+            - put more nonviolent civil disobedience into context
+            - for every civil disobedience movement, there's a corresponding violent one
+        - Sachin
+            - is this an ealry to mid 20s model that is not successful anymore?
+            - people are more atomized, so how do you coordinate on a large scale? they're not successful anymore 
+            - successful civil disobedience movement needs to be co-opted by an organization that can help them
+            - it's more coopted as cyncism as ideology (zizek)
+            - bjp party... also a failed disobedience movement
+            - are there recent examples? cynciism as ideology civil disobedience 
+            - model disobedience: too much symmetry of information..... either be cynical leader (you're sticking it to the system) like elon or trump (admit to being morally fraud person who is cynical) or you're like Mishima (committed sepoku, symbol for japanese new right movement)
+        - Venkat
+            - civil disobedience is not actually bounded rational, it's actulaly super-rational
+                - it adopts a rationality that is larger 
+                - information about the leader to be revealed: either weaker than he looks, or deep-state type of archetype (too harsh)
+                    - in either case, you force a change... they quit, they're removed by military or democratic voting
+                - creates a common knowledge cascade --> foundation for governing narrative changes 
+                    - yet it doesn't explain most attempted civil disobediences 
+                    - there's a level of modeling and analysis beyond revolutionary change 
+                    - the paper is trapped.... point that thoreau makes
+                    - “One would think, that a deliberate and practical denial of its authority was the only offence never contemplated by government; else, why has it not assigned its definite, its suitable and proportionate, penalty?”
+                        - states are incapable of answering questions of their own moral legitimacy --> the state itself could be irrational 
+                        - sometimes it's not just revolutions. there's a whole narrative shift. 
+                            - you can swap governments thru revolution but it might not change the narrative
+                            - the planner wins if they can move the equilibrium of the governing body's philosophical narrative
+                    - current spheres: climate, blm (what is the fundamental narrative shift they want?)
+                        - shift the moral authority narrative from neoliberalism to degrowth 
+                        - blm: what is it beyond civil rights movement stuff from 60s? 
+            - threaten the legitimacy of the governing narrative but doesn't spurn aggression 
+            - if you react in an extremist way, that leads larger group to question their loyalty to their state
+            - trump led a civil disobedience movement by breaking a lot of informal norms and guardrails of american democracy 
+                - emergent virtual leader... him + pepe people etc 
     - Fri, Jan 13th, 2023 
         - Selected reading:  https://minervawisdom.com/2020/03/26/carl-schmitt-and-the-concept-of-sovereignty/
         - Responses: 
