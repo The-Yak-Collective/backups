@@ -46,9 +46,9 @@
     - "We try to make sure this doesn't happen."
 - YC operating on a community-model/trust. 
 - [[Jordan Peacock]]
-- Going for implicit over explicit guidelines here.
 - [[Venkatesh Rao]]
     - Possible 360-review process per project, report publicly available after project wraps.
+- Going for implicit over explicit guidelines here.
 - [[Christian Bacher]]
 - "How do we ensure a certain level of quality?"
 - [[Venkatesh Rao]]
