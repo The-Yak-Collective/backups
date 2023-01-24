@@ -690,9 +690,27 @@ but consider - is what is being sent data or programs?
     - Season: Winter
         - Jan 2: [Wikipedia on Memory Hierarchy](https://en.m.wikipedia.org/wiki/Memory_hierarchy)
         - Jan 9: [Cache Coherency](https://en.wikipedia.org/wiki/Cache_coherence)
-        - Jan 16: Internet archive
-        - Jan 23:
-        - Jan 30: Venkat out [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface)
-        - 
+        - Jan 16: Jeff Hawkins/Numenta memory-first model of cognition. Browse the Wikipedia article for context then the neuroscience one to the extent you can (surprisingly readable). The model has been increasingly influential in ML.
+            - Wikipedia: https://en.wikipedia.org/wiki/On_Intelligence 
+            - [Cortical columns paper](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full)
+        - Jan 23: [Map rooms](https://interconnected.org/home/2023/01/20/map_room)
+            - Discussion
+            - [[Commits Vortex]]
+                - Interesting was inclusion of audio. 
+            - [[Bryan King]]
+                - recording studio setup 
+                - internet canvas tools are frustrating
+                - in digitools no one deletes anything, everyone keeps going
+            - [[Ben Mahala]]
+                - idea that humans are good at 3d spaces, this is wiped out in textual computing
+                - google drive to 3d mode
+            - [[Nathan Acks]]
+                - 
+        - Jan 30:
+        - Feb 6: [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface)
 - Hopper -- articles we could read
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
+    - Paper about reconstructing images from fMRI scans from 2019: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633
+    - From 2012, reconstructing what we hear from brain activity: https://journals.plos.org/plosbiology/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001251
+    - High-level overview of work reconstructing spoken and heard words from brain activity, circa 2019: https://www.science.org/content/article/artificial-intelligence-turns-brain-activity-speech
+    - Overview of another 2019 paper, reconstructing words spoken to monkeys: https://engineering.brown.edu/news/2019-12-12/researchers-reconstruct-spoken-words-processed-nonhuman-primate-brains
