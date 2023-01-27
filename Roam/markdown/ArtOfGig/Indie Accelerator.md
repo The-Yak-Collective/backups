@@ -1,0 +1,8 @@
+- About:: __ Study track with the goal of speeding up an indies first few months/years as an Indie Consultant. As an organization still in incubation (founded Jan 2023), we are still trying to define how to achieve this goal. [[Yak Collective]] has a depth of domain knowledge so we think folks should be in good hands. 
+- Chief Page Wrangler:: [[Kiran Pathakota]]
+    - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
+- Status:: {{or: Active | Early Concept | Proposal | Complete}}
+- We are currently in prompt school mode but looking to supplement this with [[indie coffee chats]] and occasional workshops.
+- Workshops in production: 
+    - Revamp of [[Pilot Workshop – Executive Sparring]]
+        - Goal is to record it this time. Potentially make it possible to train others in the future. 
