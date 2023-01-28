@@ -10,6 +10,37 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Fri, Jan 27th, 2023 
+        - Selected reading: 1. https://thepsmiths.substack.com/p/review-the-art-of-not-being-governed 
+2. https://maggieappleton.com/ai-dark-forest 
+        - Bryan 
+            - there is really no escape — how do you live outside of any surveillance mechanisms? there are really no stateless frontiers anymore
+            - stateless crypto stuff is interesting in theory but a little immature 
+            - his fav part of a lot of crypto tech --> the state has to say yes to neoliberal ideal of freedom 
+        - David
+            - He lives in Italy and sees this play out — what tribes are becoming stronger in the online conditions? 
+            - are we seeing an evolutionary process in AI and that strategies of being human won't be effective for long? 
+        - Grigori 
+            - the book review struck him as very arrogant: the tone of the article, e.g. consider the claim that the valley people know enough about the hill people — you'd have to approach the hill people who don't want to talk to you at all
+            - convergent evolution of ungovernability --> 
+            - second article is a metaphor for hill people.... digital barbarians. 
+        - Jenna
+            - culture of going to the beach as a glamorous thing is a recent invention. previously, pirates lurked there and it was a dangerous place 
+        - Matthew
+            - there's a bit of comfort in the fact that people are always trying to escape --> our particular contemporary era isn't the only one dealing with these dynamics of voice and exit, etc. 
+            - connection between barbarian mode and goblin mode. taxonomy of digital ecosystem
+            - 
+        - Sachin
+            - made him think of a bunch of other readings — deluze and striated vs smooth spaces. states do the thing of making smooth spaces striated 
+            - 4chan is not barbaric... maybe it was a smooth space at one point 
+            - nobody wants to be a full barbarian
+            - migrants have a high degree of non identifying with national identity.... anything with indian identity is a late 20th century construct. any kind of striation is top-down and more modern 
+            - top percentile income in their own strange countries make the best developers. underrated barbarian culture. good engineer, have a starlink 
+        - Shreeda
+            - ideas of legibility 
+        - VGR
+            - hill people --> fiction and stories and mythologies happen to be very interesting and don't fit into canons of valley people 
+            - he doesn't think there will be a lemon market or the particular remedies she suggests are that compelling 
     - Fri, Jan 20th, 2023
         - Selected reading: https://www.nber.org/system/files/working_papers/w21338/w21338.pdf 
             - https://en.wikipedia.org/wiki/Civil_disobedience 
