@@ -857,6 +857,34 @@ problem, leading, in some cases, to poor representations of a problem.
     - Jan 3 -- ??
     - Jan 10 -- Unity for SLAM
     - Jan 17 -- [[Computing as Terramarking]]
+    - Feb 1 --- OnShape to Simulations
+        - Jascha Wilcox talks about the intersection of CAD and simulators
+        - OnShape CAD to Gazebo/Nvidia Isaac
+            - Same approach for Solidworks and Autodesk, but not covered here.
+        - Ongoing work as turns out more work than expected.
+        - Typical problem:
+            - Story of Airbus problem with data interchange format ending up with components the wrong side, leading to massive loss.
+            - Important geometric / volumetric / sub-components data is lost when moving from tool to tool, notably CAD to sim and back.
+            - Impact on physics simulation
+        - Nvidia Omniverse has facilities to interface properly with OnShape, to get exchange rights. Apparently many parameters.
+        - Example issue:
+            - OnShape part appearance tesselation quality is often auto.
+            - Pro work often requires to set it to "very fine", but data can get lost in export/import operations.
+            - Omniverse deals with it properly.
+        - Need to think about physics engine
+            - E.g. Omniverse has a section for OnShape on "Prepare assembly for physics import"
+            - 4 options with consequences on the result.
+        - Nvidia JetBot GitHub repository
+            - has step files, but not the OnShape files, so a lot of data missing.
+            - Possible to import in OnShape, but a lot of extra work complete the full design and work on it. (perhaps an overlook from Nvidia to not share the OnShape config)
+            - Going sim to OnShape does not seem supported, and difficult, as OnShape to sim looks like still "losing" some data (not used in sim or its physics engine), so getting back may be partial (and perhaps at this point).
+        - OnShape to Robot tool (SDF/URDF) ([Rhoban repository on Github](https://github.com/Rhoban/onshape-to-robot))
+            - The tool tries to conserve all data across tools.
+            - Gazebo simulator
+            - At this point, issues at running it as ends up everything assumes Linux, perhaps Ubuntu
+            - "Design-time considerations" a.k.a. hard constraints for the tool to work
+                - Works, but constrains many things like the name of components (must start with `dof_` or does not work at all)---very specific or unusable.
+                - Components must be constructed in some specific order, or the tool does not find its way properly.
 - Uranus Cycle
 - Neptune Cycle
 - Pluto Cycle
