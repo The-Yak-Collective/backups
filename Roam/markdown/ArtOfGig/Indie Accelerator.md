@@ -2,7 +2,23 @@
 - Chief Page Wrangler:: [[Kiran Pathakota]]
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
-- We are currently in prompt school mode but looking to supplement this with [[indie coffee chats]] and occasional workshops.
+- We are currently in study group mode but looking to supplement this with [[indie coffee chats]] and occasional workshops.
 - Workshops in production: 
     - Revamp of [[Pilot Workshop – Executive Sparring]]
         - Goal is to record it this time. Potentially make it possible to train others in the future. 
+- Meeting notes: 
+    - February 1st, 2023
+        - Reading: https://tomcritchlow.com/2022/06/03/indie-consulting-map/ 
+        - Notes: 
+            - Maier:
+                - What type of Indie are we talking about here? 
+                - Consulting is a process not a phase diagram
+                - Equity that a consultant builds
+                    - Connections, skills.
+            - Rinku: 
+                - Not sure exactly what to do BUT knows it's not about working at a large company. 
+                - Worried about: 
+                    - Consultants still work for people.
+            - Jenna: 
+                - Has anchor clients. No reason to bail even though it might be the *wrong* way. 
+                - Using #[[Indie Accelerator]] as a potential for a reboot. 
