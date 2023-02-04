@@ -10,6 +10,51 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - https://saylordotorg.github.io/text_money-and-banking-v2.0/s22-01-the-trilemma-or-impossible-tri.html
+        - https://www.figma.com/file/jYo46NXmEBq6O6sLVHmX1Y/Untitled?node-id=0%3A1&t=yxO36LIDYKHAmcPV-1
+        - Bryan
+            - "Each component of the trilemma comes laden with costs and benefits, so each major international policy regime has strengths and weaknesses"
+            - "Note that those were the prevailing regimes. Because nations determine their monetary relationship with the rest of the world individually, some countries have always remained outside the prevailing system, often for strategic reasons."
+            - "__But just as no country can do away with scarcity or asymmetric information, none can escape the trilemma (a dilemma with three components), also known as the impossible trinity__."
+            - Sovereignty, Ambition?, Wealth, Intellectual/creative freedoms, open borders
+        - Venkat
+            - governance knobs
+                - Attributes: Absence of a BDFL, high-enough muddling through tempo, exit/entry balance of people, level of voice, "friction" in civic processes, voter turnouts, the dictator's handbook categories (essentials, influentials, interchangeables), KTLO...
+            - can you have a dictator, can tempo be high enough, can you have free entry/exit
+            - interest rate = muddle through
+                - low rates = low friction
+            - bdfl
+        - Matthew
+            - interesting that they used examples to explain why certain mechanisms can't coexist with others
+            - markets get exploited, institutions get captured
+        - Kiran
+            - free capital movement being people entry exit
+            - fixed foreign exchange rate being social status or credibility of group
+            - ind. monetary policy = being able to set long term goals inside the group
+            - if you allow movement of people, is there a lot of churn and tough to get social status working?
+        - Jenna
+            - fast-cheap-good, pick two
+            - like the trilemma, not sure about what the push and pull of corners may be
+        - Grigori
+            - we are going backwards
+            - instead of having list of regimes that we have observed, we are trying to solve a problem that says something about governance
+            - doesn't appear that this problem can be solved
+        - Ananth
+            - optimization problems in engineering
+            - milton friedman, against going off gold standard
+        - Sachin
+            - trilemma of governance seems too broad
+                - gets abstracted away too much
+                - trilemma of specific things within governance might make sense
+                    - BDFL trilemma
+            - common knowledge is important, probably a vertice
+                - makes coordination and alignment easier
+                - more interestingness
+            - inventories not identities
+                - how individual identities play into governance models
+                - IDs specific to contexts, "identity stacks"
+            - 
+    - 
     - Fri, Jan 27th, 2023 
         - Selected reading: 1. https://thepsmiths.substack.com/p/review-the-art-of-not-being-governed 
 2. https://maggieappleton.com/ai-dark-forest 
