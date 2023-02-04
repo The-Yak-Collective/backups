@@ -6,149 +6,6 @@ window.YTD.ad_impressions.part0 = [
           "impressions" : [
             {
               "deviceInfo" : {
-                "osType" : "Ios",
-                "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Moutai Global",
-                "screenName" : "@MoutaiGlobal"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Colombia"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2022-10-12 14:30:31"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Ios",
-                "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1579513913690955776",
-                "tweetText" : "Cambia tu vieja Tarjeta Débito Maestro por la nueva Tarjeta Débito Mastercard con código de seguridad, que te permite comprar desde cualquier lugar del mundo.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "promotedTrendInfo" : {
-                "trendId" : "91471",
-                "name" : "#Bancolombia20221012",
-                "description" : ""
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Bancolombia",
-                "screenName" : "@Bancolombia"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Colombia"
-                }
-              ],
-              "impressionTime" : "2022-10-12 14:29:59"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Ios",
-                "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1584591707911462915",
-                "tweetText" : "The top toys of the season are waiting for you at Macy’s! Get ahead of your holiday shopping when you discover Toys”R”Us at your local Macy’s or online.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Macy's",
-                "screenName" : "@Macys"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Building Toys"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Games For Kids"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@FamHealthGuide"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "WCA Macy's Toys R Us Site Visitors"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "BAU_Retain_09_TRU_Cntl_F22P07=Y"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "BAU_Migrate_Reactivate_03_TRU_Cntl_F22P07=Y"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "BAU_Onboard_02_TRU_Cntl_F22P07=Y"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "BAU_TRU_Customers_Cntl_F22P08=Y"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "BAU_Reengaged_10_TRU_Cntl_F22P07=Y"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "BAU_Migrate_Occasionalists_04_TRU_Cntl_F22P07=Y"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Women"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2022-11-04 15:51:39"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
                 "osType" : "Desktop"
               },
               "displayLocation" : "WtfSidebar",
@@ -981,6 +838,363 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2022-11-28 00:08:29"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Ios",
+                "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+              },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1594752476535734272",
+                "tweetText" : "Still using spreadsheets to track your finances? You need Rocket Money.\n\n🚫 Cancel unwanted subscriptions\n🤑 Lower your bills\n💸 Optimize spending\n\nDownload now",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Rocket Money",
+                "screenName" : "@RocketMoneyApp"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Install Rocket Money - Bills & Budgets IOS All"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Purchase Rocket Money - Bills & Budgets ANDROID All"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Purchase Rocket Money - Bills & Budgets IOS All"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "08-03-22 Exclusion List iOS + Android"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Install Rocket Money - Bills & Budgets ANDROID All"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "iOS"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "OS versions",
+                  "targetingValue" : "iOS 14.0 and above"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-01-01 17:44:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Ios",
+                "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1601040914675163136",
+                "tweetText" : "𝙔𝙤𝙪 𝙙𝙚𝙨𝙚𝙧𝙫𝙚 𝙢𝙤𝙧𝙚 💙\n\nPrioritize your well-being with Balance, ✨Apple's App of the Day.\n\n𝗙𝗿𝗲𝗲 𝗼𝗻𝗲-𝘆𝗲𝗮𝗿 𝘀𝘂𝗯𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗮𝗹𝗹 𝗻𝗲𝘄 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Balance",
+                "screenName" : "@balanceapp"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Purchase Balance: Meditation & Sleep IOS All"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Install Balance: Meditation & Sleep IOS All"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Sign up Balance: Meditation & Sleep IOS All"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "OS versions",
+                  "targetingValue" : "iOS 15.0 and above"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "iOS"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-01-01 17:40:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Ios",
+                "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "mobal.io",
+                "screenName" : "@Mobal_io"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rustybrick"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@BrianEDean"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MarketingProfs"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@semrush"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@RossHudgens"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@randfish"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Moz"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SEO"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@timsoulo"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@GregGifford"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CyrusShepard"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@willcritchlow"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@dr_pete"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@dannysullivan"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@bill_slawski"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Los Angeles CA, US"
+                }
+              ],
+              "impressionTime" : "2023-01-01 17:40:55"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "SiteGround",
+                "screenName" : "@SiteGround"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@yoast"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-01-08 16:27:38"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "SiteGround",
+                "screenName" : "@SiteGround"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@yoast"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-01-08 16:28:50"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "SiteGround",
+                "screenName" : "@SiteGround"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@yoast"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-01-08 16:28:49"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Ios",
+                "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "OKX",
+                "screenName" : "@okx"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Crypto"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Uniswap"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ethereum"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@brian_armstrong"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@cz_binance"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@avalancheavax"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ConsenSys"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@opensea"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@zhusu"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SBF_FTX"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@jespow"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CoinDesk"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@solana"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "iOS"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Los Angeles"
+                }
+              ],
+              "impressionTime" : "2023-01-15 03:55:43"
             }
           ]
         }

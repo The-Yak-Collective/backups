@@ -31,10 +31,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Andor",
-            "isDisabled" : false
-          },
-          {
             "name" : "Android",
             "isDisabled" : false
           },
@@ -64,14 +60,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "B2B",
-            "isDisabled" : false
-          },
-          {
-            "name" : "BE: 1",
-            "isDisabled" : false
-          },
-          {
-            "name" : "BE:FIRST",
             "isDisabled" : false
           },
           {
@@ -111,14 +99,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Business & finance news",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Business news",
-            "isDisabled" : false
-          },
-          {
             "name" : "Business personalities",
             "isDisabled" : false
           },
@@ -128,10 +108,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Celebrities",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Central Banks",
             "isDisabled" : false
           },
           {
@@ -151,10 +127,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Console gaming",
-            "isDisabled" : false
-          },
-          {
             "name" : "Cooking",
             "isDisabled" : false
           },
@@ -167,15 +139,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Cryptocurrencies",
-            "isDisabled" : false
-          },
-          {
             "name" : "Cybersecurity",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Digital assets & cryptocurrency",
             "isDisabled" : false
           },
           {
@@ -216,14 +180,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Entertainment franchises",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Ethereum cryptocurrency",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Events",
             "isDisabled" : false
           },
           {
@@ -339,15 +295,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Jack Dorsey",
-            "isDisabled" : false
-          },
-          {
             "name" : "Journalists",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Julia Fox",
             "isDisabled" : false
           },
           {
@@ -411,10 +359,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Movies & TV",
-            "isDisabled" : false
-          },
-          {
             "name" : "Music",
             "isDisabled" : false
           },
@@ -444,10 +388,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Organic",
-            "isDisabled" : false
-          },
-          {
-            "name" : "PC gaming",
             "isDisabled" : false
           },
           {
@@ -507,14 +447,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Sci-fi & fantasy",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Sci-fi & fantasy TV",
-            "isDisabled" : false
-          },
-          {
             "name" : "Science",
             "isDisabled" : false
           },
@@ -527,7 +459,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Seasonal cooking",
+            "name" : "Simulation games",
             "isDisabled" : false
           },
           {
@@ -575,14 +507,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Tech news",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Tech personalities",
-            "isDisabled" : false
-          },
-          {
             "name" : "Technology",
             "isDisabled" : false
           },
@@ -627,6 +551,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Video games",
+            "isDisabled" : false
+          },
+          {
             "name" : "Visual arts",
             "isDisabled" : false
           },
@@ -643,19 +571,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Web3",
-            "isDisabled" : false
-          },
-          {
             "name" : "Writing",
             "isDisabled" : false
           },
           {
             "name" : "YouTube",
-            "isDisabled" : false
-          },
-          {
-            "name" : "YouTubers",
             "isDisabled" : false
           },
           {
@@ -666,103 +586,23 @@ window.YTD.personalization.part0 = [
         "partnerInterests" : [ ],
         "audienceAndAdvertisers" : {
           "lookalikeAdvertisers" : [
-            "@1912Pike",
-            "@8ballpool",
-            "@AdsAPIAutotest",
-            "@AmazonPhotos",
-            "@Audible_ES",
-            "@Caviar",
-            "@CoupangEats",
-            "@Eat24",
+            "@BigoArabia",
+            "@CarrefourSaudi",
             "@Evony_TKR",
-            "@Gemini",
-            "@Grubhub",
-            "@HBOMaxBR",
-            "@KL7",
-            "@KyleD",
-            "@LinkedIn",
-            "@McDoCanada",
-            "@McDonalds",
-            "@McDonaldsCanada",
-            "@McDonalds_BR",
-            "@NieR_Rein",
-            "@PERFMKTNG",
-            "@PeacockStore",
-            "@Postmates",
-            "@Rakuten",
-            "@RapCaviar",
-            "@RappiBrasil",
-            "@RappiMexico",
+            "@McDMalaysia",
+            "@RakutenPay_App",
             "@RobinhoodApp",
-            "@SeattleSmg",
-            "@Spotify",
-            "@SpotifyARG",
-            "@SpotifyAU",
-            "@SpotifyAds",
-            "@SpotifyAfrica",
-            "@SpotifyArabia",
-            "@SpotifyBrasil",
-            "@SpotifyCanada",
-            "@SpotifyCares",
-            "@SpotifyChile",
-            "@SpotifyColombia",
-            "@SpotifyDE",
-            "@SpotifyEurope",
-            "@SpotifyHK",
-            "@SpotifyID",
-            "@SpotifyIreland",
-            "@SpotifyJP",
-            "@SpotifyKR",
-            "@SpotifyKpop",
-            "@SpotifyLive",
-            "@SpotifyMY",
-            "@SpotifyMexico",
-            "@SpotifyNL",
-            "@SpotifySG",
-            "@SpotifySpain",
-            "@SpotifyTurkiye",
-            "@SpotifyUK",
-            "@SpotifyUSA",
-            "@SpotifyVietnam",
-            "@Spotify_LATAM",
-            "@Spotify_PH",
-            "@Spotify_TH",
-            "@Starbucks",
-            "@StarbucksCanada",
-            "@StarbucksJobs",
-            "@SwarmApp",
-            "@Tinder",
+            "@TapScannerApp",
             "@Tinder_Japan",
-            "@Twitter",
-            "@Uber",
-            "@Visa",
-            "@Yelp",
-            "@_Kevork_",
-            "@ahmadshafey",
-            "@anchor",
-            "@audible_com",
-            "@bodyfastapp",
-            "@davis_support",
-            "@duolingo",
-            "@excelsior_ff",
-            "@forpodcasters",
-            "@goatapp",
-            "@houchishoujo",
-            "@inDriveBrasil",
-            "@jinchaoye",
-            "@linkedinjapan",
-            "@mariokarttourEN",
-            "@mariokarttourJP",
-            "@piccoma_jp",
-            "@spotifyartists",
-            "@spotifyfrance",
-            "@spotifyindia",
-            "@spotifypodcasts",
-            "@spotifytaiwan",
-            "@teamsnap",
-            "@tiktok_kuromame",
-            "@tiktok_us",
-            "@zhihao",
+            "@bazsuperapp",
+            "@farfetch",
+            "@fujitvplus",
+            "@indosatim3",
+            "@pairs_official",
+            "@payfleamarket",
+            "@tapple_official",
+            "@weatherlive_app",
+            "@yahoo_shopping",
             "@28dayschallenge",
             "@31Nights",
             "@AAAFlorida",
@@ -849,11 +689,12 @@ window.YTD.personalization.part0 = [
             "@ParaBrandStudio",
             "@PayPal",
             "@PayPalUK",
+            "@PeacockStore",
             "@Porsche",
             "@Promodotcom",
             "@Quaker",
             "@QuincyInst",
-            "@QuizGriz",
+            "@Rakuten",
             "@RezDogsFX",
             "@SAPANZ",
             "@SIRIUSXM",
@@ -862,6 +703,13 @@ window.YTD.personalization.part0 = [
             "@SexLivesOnMax",
             "@SnowpiercerTV",
             "@SouthwestAir",
+            "@Spotify",
+            "@SpotifyCanada",
+            "@SpotifyDE",
+            "@SpotifyJP",
+            "@SpotifyUK",
+            "@Spotify_PH",
+            "@Starbucks",
             "@StelaraUS",
             "@T2Interactive",
             "@T2InteractiveUS",
@@ -891,6 +739,8 @@ window.YTD.personalization.part0 = [
             "@alwayssunny",
             "@asahi_globe",
             "@astepro_us",
+            "@audible_com",
+            "@axios",
             "@babylonmovie",
             "@biogen",
             "@bnnbstudio",
@@ -920,14 +770,14 @@ window.YTD.personalization.part0 = [
             "@lendistry",
             "@lotrimin",
             "@monmouthu",
-            "@naturabroficial",
             "@netflix",
             "@nobleaudio_jp",
             "@pandoramusic",
             "@patagonia",
             "@prodigalsonfox",
             "@rockstarenergy",
-            "@startefacts_",
+            "@spotifypodcasts",
+            "@teamsnap",
             "@tmg_social",
             "@toocool2betrue",
             "@truthorange",
@@ -952,7 +802,8 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
-        "New York, USA"
+        "Los Angeles, CA, USA",
+        "Lebanon, NH, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [

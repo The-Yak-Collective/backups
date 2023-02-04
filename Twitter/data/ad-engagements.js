@@ -7,194 +7,6 @@ window.YTD.ad_engagements.part0 = [
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
-                  "osType" : "Ios",
-                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1579513913690955776",
-                  "tweetText" : "Cambia tu vieja Tarjeta Débito Maestro por la nueva Tarjeta Débito Mastercard con código de seguridad, que te permite comprar desde cualquier lugar del mundo.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "promotedTrendInfo" : {
-                  "trendId" : "91471",
-                  "name" : "#Bancolombia20221012",
-                  "description" : ""
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bancolombia",
-                  "screenName" : "@Bancolombia"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Colombia"
-                  }
-                ],
-                "impressionTime" : "2022-10-12 14:29:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 14:30:02",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2022-10-12 14:30:00",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2022-10-12 14:30:56",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2022-10-12 14:29:59",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Ios",
-                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91645",
-                  "name" : "#SouthwestHeart",
-                  "description" : "Go with Heart."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Southwest Airlines",
-                  "screenName" : "@SouthwestAir"
-                },
-                "impressionTime" : "2022-10-23 18:53:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-23 18:53:16",
-                  "engagementType" : "TrendView"
-                },
-                {
-                  "engagementTime" : "2022-10-23 18:53:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Ios",
-                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1584591707911462915",
-                  "tweetText" : "The top toys of the season are waiting for you at Macy’s! Get ahead of your holiday shopping when you discover Toys”R”Us at your local Macy’s or online.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Macy's",
-                  "screenName" : "@Macys"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "Building Toys"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "Games For Kids"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@FamHealthGuide"
-                  },
-                  {
-                    "targetingType" : "Website Activity",
-                    "targetingValue" : "WCA Macy's Toys R Us Site Visitors"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "BAU_Retain_09_TRU_Cntl_F22P07=Y"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "BAU_Migrate_Reactivate_03_TRU_Cntl_F22P07=Y"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "BAU_Onboard_02_TRU_Cntl_F22P07=Y"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "BAU_TRU_Customers_Cntl_F22P08=Y"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "BAU_Reengaged_10_TRU_Cntl_F22P07=Y"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "BAU_Migrate_Occasionalists_04_TRU_Cntl_F22P07=Y"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Women"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 to 54"
-                  }
-                ],
-                "impressionTime" : "2022-11-04 15:51:18"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-04 15:51:39",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
                   "osType" : "Desktop"
                 },
                 "displayLocation" : "Trends",
@@ -608,17 +420,7 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "TrendView"
                 }
               ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
+            },
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -748,6 +550,591 @@ window.YTD.ad_engagements.part0 = [
                 {
                   "engagementTime" : "2022-11-27 04:35:27",
                   "engagementType" : "VideoSession"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93084",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Free Bets!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-01 17:40:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-01 17:40:45",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93084",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Free Bets!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-01 17:40:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-01 17:40:45",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93084",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Free Bets!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-01 17:41:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-01 17:45:20",
+                  "engagementType" : "TrendView"
+                },
+                {
+                  "engagementTime" : "2023-01-01 17:41:18",
+                  "engagementType" : "TrendView"
+                },
+                {
+                  "engagementTime" : "2023-01-01 17:41:28",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1601040914675163136",
+                  "tweetText" : "𝙔𝙤𝙪 𝙙𝙚𝙨𝙚𝙧𝙫𝙚 𝙢𝙤𝙧𝙚 💙\n\nPrioritize your well-being with Balance, ✨Apple's App of the Day.\n\n𝗙𝗿𝗲𝗲 𝗼𝗻𝗲-𝘆𝗲𝗮𝗿 𝘀𝘂𝗯𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗮𝗹𝗹 𝗻𝗲𝘄 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Balance",
+                  "screenName" : "@balanceapp"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Purchase Balance: Meditation & Sleep IOS All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install Balance: Meditation & Sleep IOS All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Sign up Balance: Meditation & Sleep IOS All"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  },
+                  {
+                    "targetingType" : "OS versions",
+                    "targetingValue" : "iOS 15.0 and above"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "iOS"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2023-01-01 17:40:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-01 17:40:46",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1594752476535734272",
+                  "tweetText" : "Still using spreadsheets to track your finances? You need Rocket Money.\n\n🚫 Cancel unwanted subscriptions\n🤑 Lower your bills\n💸 Optimize spending\n\nDownload now",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Rocket Money",
+                  "screenName" : "@RocketMoneyApp"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install Rocket Money - Bills & Budgets IOS All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Purchase Rocket Money - Bills & Budgets ANDROID All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Purchase Rocket Money - Bills & Budgets IOS All"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "08-03-22 Exclusion List iOS + Android"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install Rocket Money - Bills & Budgets ANDROID All"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "iOS"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "OS versions",
+                    "targetingValue" : "iOS 14.0 and above"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2023-01-01 17:41:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-01 17:44:36",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93084",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Free Bets!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-01 17:40:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-01 17:40:55",
+                  "engagementType" : "TrendView"
+                },
+                {
+                  "engagementTime" : "2023-01-01 17:40:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-04 02:23:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-04 02:23:23",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-04 02:23:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-04 02:23:37",
+                  "engagementType" : "TrendView"
+                },
+                {
+                  "engagementTime" : "2023-01-04 02:23:23",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 18:29:30"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 18:29:31",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 21:13:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 21:13:45",
+                  "engagementType" : "TrendView"
+                },
+                {
+                  "engagementTime" : "2023-01-03 21:13:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 21:13:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 21:13:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 23:49:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 23:49:33",
+                  "engagementType" : "TrendView"
+                },
+                {
+                  "engagementTime" : "2023-01-03 23:49:35",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 23:49:32"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 23:49:33",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93229",
+                  "name" : "#DraftKings",
+                  "description" : "Get a NO-SWEAT Wild Card Bet!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-15 04:07:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-15 04:07:09",
+                  "engagementType" : "TrendView"
+                },
+                {
+                  "engagementTime" : "2023-01-15 04:07:06",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93229",
+                  "name" : "#DraftKings",
+                  "description" : "Get a NO-SWEAT Wild Card Bet!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-15 03:55:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-15 03:55:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93229",
+                  "name" : "#DraftKings",
+                  "description" : "Get a NO-SWEAT Wild Card Bet!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-15 03:55:31"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-15 03:55:31",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93229",
+                  "name" : "#DraftKings",
+                  "description" : "Get a NO-SWEAT Wild Card Bet!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-15 03:55:46"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-15 03:56:02",
+                  "engagementType" : "TrendView"
+                },
+                {
+                  "engagementTime" : "2023-01-15 03:55:47",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Ios",
+                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93229",
+                  "name" : "#DraftKings",
+                  "description" : "Get a NO-SWEAT Wild Card Bet!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2023-01-15 03:55:31"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-15 03:55:32",
+                  "engagementType" : "TrendView"
                 }
               ]
             }

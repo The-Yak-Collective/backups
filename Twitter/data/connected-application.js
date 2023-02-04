@@ -53,6 +53,21 @@ window.YTD.connected_application.part0 = [
   {
     "connectedApplication" : {
       "organization" : {
+        "name" : "The Yak Collective"
+      },
+      "name" : "GitHub Automation",
+      "description" : "This app was created to use the Twitter API.",
+      "permissions" : [
+        "read",
+        "write"
+      ],
+      "approvedAt" : "2022-12-31T20:38:36.000Z",
+      "id" : "26462202"
+    }
+  },
+  {
+    "connectedApplication" : {
+      "organization" : {
         "name" : "Twitter"
       },
       "name" : "Twitter for iPad",
@@ -82,24 +97,6 @@ window.YTD.connected_application.part0 = [
       ],
       "approvedAt" : "2020-06-24T01:56:24.000Z",
       "id" : "177000"
-    }
-  },
-  {
-    "connectedApplication" : {
-      "organization" : {
-        "name" : "Tapbots LLC",
-        "url" : "https://tapbots.com",
-        "privacyPolicyUrl" : "https://tapbots.net/tweetbot6/privacy/"
-      },
-      "name" : "Tweetbot for iΟS",
-      "description" : "A Twitter client for iOS.",
-      "permissions" : [
-        "read",
-        "write",
-        "directmessages"
-      ],
-      "approvedAt" : "2022-11-08T21:51:29.000Z",
-      "id" : "6207723"
     }
   }
 ]
