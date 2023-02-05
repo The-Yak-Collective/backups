@@ -7,8 +7,8 @@
 - In attendance: [[Chris Reid]], [[Drew Schorno]], Grigori Milov, [[Jordan Peacock]], [[John Grant]], [[Sachin Benny]] (apologies if I forgot anyone)
 - 
 - ## **Notes from Round-Robin Discussion:**
-- 
 - ## **Round Robin Chat**
+- 
 - ### **Round One**
 - [[Chris Reid]]
     - 1. "with regards to marketing and communications “emphasis on consistency and repetition”
