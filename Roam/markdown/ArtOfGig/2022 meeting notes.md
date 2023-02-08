@@ -641,7 +641,7 @@ problem, leading, in some cases, to poor representations of a problem.
                 - If common infra, what do we expect really?
         - going to ICRA 2023?
             - https://www.icra2023.org/
-    - Nov 15:
+    - Nov 15: Tailscale for robots
         - Rhett and Jascha: Informal on infrastructure/protocols/Tailscale for robots
             - Connection topologies in general (ie. centralized cloud vs federated fog vs completely p2p)
             - Typical struggles observed in industry with connecting things
@@ -692,7 +692,7 @@ problem, leading, in some cases, to poor representations of a problem.
             - Loosen Mars Mission thing?
             - Distributed design engineering?
             - "Robot focused tailscale" ????
-    - Nov 22:
+    - Nov 22: Simulated rovers, tailscale vs. zerotier
         - Simulated rover
             - Allow software coordination
         - Levels of "simulation"
@@ -714,7 +714,7 @@ problem, leading, in some cases, to poor representations of a problem.
             - Robust, easy on/off
             - These systems skip dns
         - Minimum-viable experiment??
-    - Nov. 29
+    - Nov. 29: APIs for rovers
         - Follow up after last week on VPN-related technologies
         - Rhett: Rover Stack
             - Tier 0: Collaboration Infrastructure (People)
@@ -737,7 +737,7 @@ problem, leading, in some cases, to poor representations of a problem.
         - Next week on Tier 0
             - Working example with Rhett, Jascha and Maier.
             - Look into Nvidia Omniverse or Unity?
-    - Dec. 7th
+    - Dec. 7th: Collaborative infrastructure
         - On collaborative infrastructure
         - Demo with TailScale on a RPi-based rover.
             - Step by step review and discussion.
@@ -759,7 +759,7 @@ problem, leading, in some cases, to poor representations of a problem.
             - Potential to expose clearer topics that people can related to and join.
             - Similar to what OpenRobotics is doing. But having a single mission is important toward a concrete goal.
         - Next week on simulation, Jascha and Eric (something about Gazebo, Unity, Isaac?)
-    - Dec. 14th
+    - Dec. 14th: Simulators
         - On simulators
         - Goals of simulation
             - Photo-realistic simulations for show/demo
@@ -793,7 +793,7 @@ problem, leading, in some cases, to poor representations of a problem.
             - WorldViz Vizard
         - Links shared during the presentation: https://discord.com/channels/692111190851059762/779070653122084864/1049411994169651200
         - Next week: Continue on simulation, review of the Unity ecosystem for robotics (Eric)
-    - Dec. 21st
+    - Dec. 21st: Unity for robotics
         - Review of Unity for robotics
         - Unity
             - Game tooling for 2D and 3D game, with physics engine.
@@ -852,7 +852,7 @@ problem, leading, in some cases, to poor representations of a problem.
                     - Depending on the work and attitude behind Gazebo, this snapshot may change well in the next few years.
                         - The Gazebo community and documentation are issues for many, apparently. It may change with the ROS2 industrial push.
                         - Unity is lauded for its documentation and community. This is however true for the game development side. On the ROS integration, quite limited.
-    - Dec 28th
+    - Dec 28th x
 - Saturn Cycle
     - Jan 3 -- ??
     - Jan 10 -- Unity for SLAM
@@ -885,8 +885,50 @@ problem, leading, in some cases, to poor representations of a problem.
             - "Design-time considerations" a.k.a. hard constraints for the tool to work
                 - Works, but constrains many things like the name of components (must start with `dof_` or does not work at all)---very specific or unusable.
                 - Components must be constructed in some specific order, or the tool does not find its way properly.
+    - Feb 7 -- Project Management meeting
+        - Project management
+        - 2022 Review
+            - Eric: Original idea to do common software, but unable to join from April, so most of the year. Some work on software, looked at progress around in ML (e.g. RT-1).
+            - Venkatesh: Would like to work on software, but skill gap. Would like to focus on core skills, mechanical.
+            - Rhett: Some work in software, like VPN, etc. Simulation is exciting, but motivation more on the existing build. Not clear what we should collaborate on.
+            - Maier: Would like to collaborate for motivation. Lack of opportunities to collaborate, so little progress at all.
+            - Anuraj: Enjoyed 2022, as could touch many aspects, but little mechanical and slow down over the year. Crypto, AI, silicon design. Wish more integrated. Meeting time changed hard.
+            - Jascha: Work on common threads, e.g. VPN, CAD. Challenging year.
+        - Is software easier to collaborate on? (idea for 2022)
+            - Getting ready to work on software can be challenging.
+            - Working on "intermediate topic" like agreed upon electronics (RPi 4 with that much memory) could be easier.
+            - Some time last year on cloud software
+                - OnShape
+                - VPN
+            - Having enough simulation in place to reproduce common scenarios, but easy to use.
+            - Ideally a topic with compounding return?
+                - Enough common infrastructure, more concrete and accessible to the group.
+                - How to have people work on "edge" stuff, rather than on too narrow, specialist topics?
+                - Past few weeks on bootcamp style (VPN, simulators, CAD). Why not continue?
+        - Bootcamp topics
+            - language/gpt/saycan
+            - images
+            - vpns
+            - simulation/unity
+            - robotics protocols...
+            - wireless/mesh/cellular/private cellular
+            - RISCV
+        - What's the space angle... if we retain it
+        - Structure for 2023 weekly meetings 
+        - Collaborative artifact for 2023...
+            - "Hello world reports"
+    - Feb 14: Rhett -- API stuff
+    - Feb 21: OnShape part 2
+    - Feb 28:
 - Uranus Cycle
+    - March 7
+    - March 14
+    - March 21
+    - March 28
 - Neptune Cycle
 - Pluto Cycle
 - Hopper
-    - Coworking session on interface for all types of robots
+    - Hello world topic ideas
+        - API (Rhett/Anuraj)
+        - Gazebo (Eric)
+        - RISCV (Anuraj) -- FPGA
