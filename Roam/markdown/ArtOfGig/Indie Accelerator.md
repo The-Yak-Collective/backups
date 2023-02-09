@@ -22,3 +22,21 @@
             - Jenna: 
                 - Has anchor clients. No reason to bail even though it might be the *wrong* way. 
                 - Using #[[Indie Accelerator]] as a potential for a reboot. 
+    - February 8th, 2023
+        - Reading: 
+        - Notes: 
+            - Drew:
+                - Different problem. 
+                - Leg of sales is the hardest. Going from the connection -> sale is tough. 
+            - Gbenga: 
+                - What are good strategies to find common ground and make networking less taxing. 
+            - Shreeda
+                - Perhaps YC could help with circling. Do the reading, discussion and then a circling session? 
+                    - Circling: Ideas to help one person through a case study. 
+            - 
+            - Ideas: 
+                - Personal website audit/design? 
+            - Next steps: 
+                - Perma-post for intros
+                - Add a book list to this group. 
+            - 
