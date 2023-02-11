@@ -10,6 +10,50 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Fri, Feb 10th, 2023: https://jods.mitpress.mit.edu/pub/issue3-brand/release/2
+        - Ananth
+            - easy to read & liked it
+            - web3/blockchain ecosytem 
+                - computers, internet, internet forums / governance mechanisms, layer 1s, primitives / NFT toolings, application layer 
+                - how do the layers impact each other?
+        - Bryan
+            - disappointed it was not a solar system model 
+            - don't like the way they categorize the layers -- dynamics of civilization don't match neat layering 
+        - Grigori
+            - pace and layering --> temporal and spatial dimensions (happens a lot in natural sciences)
+            - skyline of a city as an example
+            - conflation of space and time should be relegated to natural sciences and should not be discussed by other domains... 
+        - Jenna
+            - guidance counselors have to help people understand time horizons
+            - anything that tries to model everything is wrong but anything that points to time horizons is good 
+        - Kiran
+            - It made him think of a ribbonfarm post with layers (people, instituitions, markets, ideas)
+            - recycling shouldn't place responsibility at the level of individuals --> wrong level of abstraction 
+            - the nature of work is the system that interested him
+        - Sachin
+            - He didn't really like the layer thing — it feels wrong 
+                - Depending on the time that you're in, they're moving at different paces; maybe it's more like the other layers adapt to one that is moving the fastest. It's not neat 
+                - A new technology that is taking off rapidly -- all technology being an extinction of the senses? A new technology accelerates one sense by numbing the other senses
+                - Last 10 years --> a lot of activity in commerce but not changes in infrastucture 
+                - Harmot Rosa reading on acceleration (frenetic standstill) — things are moving so fast that there is no change taking place. Lot of speed but nothing really happens or moves forward. 
+                - End of History essay — Hegel predicted end of history in 1806
+        - Shreeda
+            - still new and young
+        - Venkat
+            - lots of thoughts because he's been thinking about this for a very long time 
+            - the part of the model that is wrong is where most of the interesting stuff happens 
+            - solar system orbits — unstable orbits that collapse or collide
+            - human civilization doesn't operate like this
+            - “There are decades where nothing happens; and there are weeks where decades happen” – Vladimir Ilyich Lenin
+            - Some related links https://hbr.org/1997/03/the-living-company
+            - Eruptions and change — tectonic and volcanic activity 
+                - Pace layers have to collide 
+            - why is this model so attractive? clean stacks that miss the point
+                - architectural cleanliness 
+                - pure arts — music and architecture, pure in time, pure in space 
+                - architect pretending to be a musician... 
+                - architectural thinking leads you astray b/c in buildings you have artificial control. platonic, clean
+                - things you can design vs complex, emergent systems 
     - https://saylordotorg.github.io/text_money-and-banking-v2.0/s22-01-the-trilemma-or-impossible-tri.html
         - https://www.figma.com/file/jYo46NXmEBq6O6sLVHmX1Y/Untitled?node-id=0%3A1&t=yxO36LIDYKHAmcPV-1
         - Bryan
