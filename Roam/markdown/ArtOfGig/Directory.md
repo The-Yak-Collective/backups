@@ -17,7 +17,7 @@
 {{embed: ((Trivedi Girish))}}``` and then paste your block ref. It should end up looking something like this: ```clojure
 {{embed: ((((Hello, my name is Girish Trivedi and Iam based in New Delhi , India. Iam a Consultant focused around technology, Media and Telecom vertical. I work on Growth strategies, Got to market strategies and Segmentation projects. I am also a transition coach for professionals in transition and on my way towards becoming ICF( International Coach Federation) certified coach.                 ))))}}```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.
         - If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.
-- 
+- {{embed: [[Les Greys]]}}
 - {{embed: [[Raphael Ronot]]}}
 - {{embed: [[Joseph Abrahamson]]}}
 - {{embed: [[Nathan Acks]]}}

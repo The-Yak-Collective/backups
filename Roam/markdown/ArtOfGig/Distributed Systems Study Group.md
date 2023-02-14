@@ -708,6 +708,52 @@ but consider - is what is being sent data or programs?
                 - 
         - Jan 30:
         - Feb 6: [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface)
+        - Feb 13: [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks)
+            - Discussion
+                - [[Jenna Dixon]] - comment in hypothesis
+                - [[Meredith Noelle]] - why was this paper selected
+                - [[Shreeda Segan]] 
+                    - level of agency required to play this free market game 
+                    - lens protocol, xmtp 
+                - [[Steven Chung]]
+                    - technically good and well written
+                    - how to make around this? 
+                    - people not willing to give up the features of centralized platforms
+                - [[Venkatesh Rao]]
+                    - tricky read, CTO of farcaster wrote it
+                    - these are super early days, seems to be about something 3-4 years ahead
+                    - Mastodon Harry Potter culture war blow up and server going to shut down
+                    - Dan Romero casted - this is why ActivityPub like things is very difficult
+                    - Farcaster has truly global name space and it has deeper implications
+                    - Social administration is much easier via Hubs in Farcaster
+                    - Idea of sufficiency is basically, there can be no BDFL
+                    - Interesting hypothesis
+                    - Lens protocol - it is much more fragmented, difficult to know what, name squatting
+                - [[Ananth]]
+                    - Definition of sufficient decentralization is interesting
+                    - not sure, the list seems incomplete for sufficient decentralization
+                    - balance between what should be put on chain and offchain
+                    - novel social primitives required 
+                    - problems of centralized networks affected by people on the fringe
+                - [[Anuraj R]]
+                - [[Ben Mahala]]
+                    - problems with Mastodon, recent collapse of a server, 
+                    - ENS - global names might not be that good. Pet Name Server - TLDR everyone can be their own DNS, how to prevent people losing names, scams, squatting
+                    - this article does not go enough about why email failed, Email fully centrailzed, it is not a decentralized and fully captured by few players
+                    - spam problem and how it destroyed email
+                - [[Bryan King]]
+                    - all this blockchain is laying foundation of future networks
+                    - we are trying web2 social platforms are anomaly
+                    - now we are trying to reverse engineer these large networks
+                - [[Commits Vortex]]
+                    - social media have become too large, article comes with the assumption that people want an audience
+                    - with things like Matrix a lot interesting things happening, taking the protocol and doing things like annotation, archiving histories
+                    - object capability paradigms 
+                - [[Grigori Milov]]
+                    - what do people want? - interesting assymetry - people want audience and clean timeline - this causes platforms to make tradeoffs
+                    - [[Ben Mahala]]'s observation about email and its trasition from decentralized to centralized
+                    - new networks like farcaster need to play something other than status games
+                    - 
 - Hopper -- articles we could read
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
     - Paper about reconstructing images from fMRI scans from 2019: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633
