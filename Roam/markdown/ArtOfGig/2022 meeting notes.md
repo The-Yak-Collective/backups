@@ -917,7 +917,27 @@ problem, leading, in some cases, to poor representations of a problem.
         - Structure for 2023 weekly meetings 
         - Collaborative artifact for 2023...
             - "Hello world reports"
+            - Pattern:
+                - Availability of the tech
+                - Reproducible
+                - At least one "real-world" application/example
     - Feb 14: Rhett -- API stuff
+        - yakapi web server for communicating with and among rovers
+            - https://github.com/The-Yak-Collective/yakapi
+            - Middleware
+        - Earlier work about remote and local motor & sensor control
+            - Working and fine
+            - Discussions about "higher level" layers
+        - Now hello world with server and simulated rover.
+            - Demo2D rover simulator https://github.com/rhettg/roversim
+            - Commands sent to rover
+            - Rover listening component stores in a buffer (Redis)
+            - Rover "action" component reads the buffer command stream
+            - Similar to what ROS nodes do
+        - ROS2 stack around Data Distribution Service
+        - Tech stack
+            - Redis key-value store
+            - Docker / Compose
     - Feb 21: OnShape part 2
     - Feb 28:
 - Uranus Cycle
