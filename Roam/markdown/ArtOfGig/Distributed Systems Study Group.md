@@ -706,7 +706,7 @@ but consider - is what is being sent data or programs?
                 - google drive to 3d mode
             - [[Nathan Acks]]
                 - 
-        - Jan 30:
+        - Jan 30: Robin Sloan, [Attention Router](https://www.robinsloan.com/lab/attention-router/)
         - Feb 6: [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface)
         - Feb 13: [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks)
             - Discussion

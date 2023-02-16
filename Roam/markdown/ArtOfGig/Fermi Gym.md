@@ -74,6 +74,10 @@
         - https://twitter.com/jamestfrith/status/1522238154635362305?s=21&t=5U5LM3LtWUqcAhPEqMZb7w
         - 
     - Productized fermi gym game: https://www.confidentgame.com/
+    - Novel math book https://www.amazon.com/Measurement-Paul-Lockhart/dp/0674284380
+    - Critique by same author https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
+    - Dimensional analysis https://gregorygundersen.com/blog/2023/02/11/dimensional-analysis/
+    - Trinity bomb test estimation example https://quantian.substack.com/p/from-trinity-to-liquidity
 - **YakCon Pt1**
     - How to use basic science facts to get order of magnitude estimates for interesting questions
     - It is worthwhile to provide some intro facts to get everyone to the same baseline
