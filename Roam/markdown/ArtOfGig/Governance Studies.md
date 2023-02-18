@@ -10,6 +10,47 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Fri, Feb 17th, 2023:  https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
+        - Ananth — listen mode
+        - Aneesh
+            - people have a voice but don't want to say anything 
+            - if you want free speech, it has to be done on the government level 
+            - he thinks we need platforms but just don't like the ones we have right now
+            - if you unbundle a platform, it will get bundled again anyways
+        - Bryan
+            - on his time horizon, platforms emerged because they solved problems and are built on protocols anyway
+            - we're building new protocols but are going to have to build new platforms anyway
+            - new cyclical thing on a 50 year time horizon... 
+            - tech gods to solve our problems, e.g. chatgpt, (modern age) vs previously thought of divine gods 
+            - protocol not that invisible yet not that tangible... doesn't have confidence software can ever evolve to that level 
+        - Grigori
+            - lens of free speech is incorrect — practically not even dealing with free speech 
+            - add short entity pipeline at a traditional company... not a platform 
+        - Jenna — listen mode
+        - Matthew
+            - liked the reading — laid out fundamentals for him 
+            - are there any fundamental changes in the rhetoric that have happened in the intervening years?
+                - Vgr: sentiment has swung. people would build careers being platform consultants. it's not the villain of the show somehow 
+        - Sachin
+            - internet equivalent of trad aesthetics — going back to something that used to be good, robin sloan also frames it that way
+            - farcaster sufficient decentralization framework -- trying to make protocols work with existing systems (like the big push to make cities walkable — you have to drive there and then walk) 
+            - free speech is not solvable through protocols 
+            - decentralized network of rapid changes... you can't create great outcomes and adoption 
+            - usenet vs reddit description: platforms that exist now are vertical integrations of multiple protocols on different layers. 
+                - you have to now horizontally integrate with other industries that solve the same problems for ppl (metaverse, rhea)
+                - maybe sufficiently strong protocols don't exist for those
+        - Shreeda
+            - something is missing right now for adoption... 
+        - Venkat 
+            - protocol is such a broad concept... handshakes are a greeting protocol, etc. he likes the broad definition 
+            - make your definition of platforms as rich as protocol definition but you'll find that there are more protocols than there are platforms 
+            - how do you draw interesting platforms around platform, language, grammars, protocol, APIs? they're ways of organizing the instituitonal landscape of social realities  
+            - free speech impetus mismatch for this piece... blockchain people talk about it as censorship resistance (which is well defined enough you can design spec it)
+            - good orientation piece 
+            - everyone wants tokens but no one wants to show up for governance votes... given a voice but not using it 
+            - trad thing is a red herring -- new protocols are going to be much more sophisticated. 
+            - protocols get captured as platforms as they age — surface reason is spam. a problem you can only solve with massive scale. spam was used as the excuse to capture the email protocol. you get a nice protocol, it gets exploited. someone steps in to stop the exploitation. then it becomes a platform. then platform gets disrupt. then people build new protocols... maybe that's the lifecycle but not super confident it tracks 
+            - 
     - Fri, Feb 10th, 2023: https://jods.mitpress.mit.edu/pub/issue3-brand/release/2
         - Ananth
             - easy to read & liked it
