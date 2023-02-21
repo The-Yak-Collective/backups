@@ -754,6 +754,36 @@ but consider - is what is being sent data or programs?
                     - [[Ben Mahala]]'s observation about email and its trasition from decentralized to centralized
                     - new networks like farcaster need to play something other than status games
                     - 
+        - Feb 20: [How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/)
+            - [[Ben Mahala]]
+                - started out using rust but went with go, reading the article piqued the interest again
+                - idea of safety parameters in compiler
+                - good that it is trying to replace C++
+            - [[Bryan King]]
+                - would gravitate towards C for backend
+            - [[Grigori Milov]]
+                - not a programmer, agree with Bryan, that one way is good for lazy people and other for disciplined people
+                - in distributed systems the difference between lazy and discplined is greater
+            - [[Maier Fenster]]
+                - the way rust handles memory similar to the way ios handled apps, okay for some way of working
+                - difference between "motivated by fear" which is rust and being motivated by freedom which is C
+            - [[Nathan Acks]]
+                - we think of computer memories like human memories but it more like memory aids
+                - what happends when LLM get connected to other computing systems
+            - [[Sachin Benny]]
+                - with respect to human memory, LLM are different
+            - [[Shreeda Segan]]
+                - design a programming language course - scheme
+                - continous passing style
+            - [[Steven Chung]]
+                - tradeoff between speed and ergonomics
+            - [[Venkatesh Rao]]
+                - programming experience with mostly dyanamic typed languages
+                - ELI5 - garbage collection basically picks out isolated pieces from the graph of references and throws them away
+                - socialogy of homeless people - are you graph garbage, homeless people are not connected to anyone
+                - memory safety in multi-process environment
+                - https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b
+                - 
 - Hopper -- articles we could read
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
     - Paper about reconstructing images from fMRI scans from 2019: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633
