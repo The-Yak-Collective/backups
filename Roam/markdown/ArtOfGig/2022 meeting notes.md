@@ -938,10 +938,34 @@ problem, leading, in some cases, to poor representations of a problem.
         - Tech stack
             - Redis key-value store
             - Docker / Compose
-    - Feb 21: OnShape part 2
-    - Feb 28:
+    - Feb 21: OnShape to Simulations
+        - Jascha
+        - Delays on demo, so postponed
+        - Joined robotics event
+            - 1h talk on [URDF](http://wiki.ros.org/urdf) and its challenges
+            - Relevant aspects across the event
+        - URDF
+            - Topic on usability of URDF
+                - Difficult to use
+                - Fragmented format
+                    - Not feature complete
+                    - xacro (macro on XML) --- community added more features, but no converged effort, so fragmentation
+                    - Common problem in the ROS ecosystem (e.g. Catkin is on CMake)
+                - Absence of tooling to create a pipeline
+                    - Several companies have unpublished internal tools (e.g. OnShape to URDF)
+                - Models in URDF from vendors are rare. Vendors don't seem to buy in.
+                - Formant's take on URDF is informative: https://formant.io/urdf/
+            - Alternatives to URDF
+                - SDF, mainly in Gazebo
+                - USD Nvidia format (still new and niche) https://developer.nvidia.com/usd
+                - URDF models robots. SDF/USD seem more for "scenes", but there is much coverage, and URDF seems the most generic?
+        - Misc
+            - Discussions on Canonical Multipass to run Ubuntu VMs easily
+            - Isaac is hardly taking off, perhaps first year out of 5 year history
+            - Isaac tries to be good at synthetic data (perhaps why RTX for ray tracing are required)
+    - Feb 28: Venkatesh
 - Uranus Cycle
-    - March 7
+    - March 7: Gazebo simulator --- Eric
     - March 14
     - March 21
     - March 28
