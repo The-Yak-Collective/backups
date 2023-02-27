@@ -1,4 +1,4 @@
-- Public Safety thinker and consultant, researching what public safety will look like in 2050 and how we get there. Have carved out an industry niche in the intersection between tech and policy, and the power dynamics among the human agents in the municipal process (elected/appointed, civilian/sworn, executive/legislative). Math/Biostatistics background.
+- Public Safety thinker and consultant, reseaching what public safety will look liker in 2050 and how we get there. Have carved out an industry niche in the intersection between tech and policy, and the power dynamics among the human agents in the municipal process (elected/appointed, civilian/sworn, executive/legislative). Math/Biostatistics background.
     - Writer at www.rollcall.substack.com. Best pieces:
         - [Tech Stack of a PD, Modern Duty Belt pt. 1](https://rollcall.substack.com/p/tech-stack-and-workflows-today) and [pt. 2](https://rollcall.substack.com/p/human-infrastructure-week)
         - [Strong Arm of the Law, Power in a PD](https://rollcall.substack.com/p/the-strong-arm-of-the-law)
