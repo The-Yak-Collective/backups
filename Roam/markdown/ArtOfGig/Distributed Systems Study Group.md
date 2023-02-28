@@ -784,6 +784,48 @@ but consider - is what is being sent data or programs?
                 - memory safety in multi-process environment
                 - https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b
                 - 
+        - Feb 27: [A Logic-in-Memory Computer ](https://safari.ethz.ch/architecture/fall2020/lib/exe/fetch.php?media=stone_logic_in_memory_1970.pdf)
+            - [[Ben Mahala]]
+                - question and tradeoff - cache and main memory
+                - caches misses
+                - latency number - branch miss predict time
+            - [[Jenna Dixon]]
+                - ELI5 - put decision in the right place
+                - command and control in military - 
+            - [[Maier Fenster]]
+                - Logic in memory computer does ask for memory, tell the memory what to do
+                - human level problem
+                - trust our memory many of us, 
+                - outsource memory chatgpt, and when ask question then it gets processed
+                - some parallel with managment, peer-to-peer network
+            - [[Sachin Benny]]
+                - from the point of view of program, cache and main memory appear to the same
+                - judging self vs learning self - inner game of tennis
+            - [[Steven Chung]]
+                - ELI5 - the article is trying to propose is "memory has logic"
+                - most programs are concurrent but hardware is not
+            - [[Venkatesh Rao]]
+                - in computing there is a notion of data-flow computing - similar to data flowing through routes
+                - distributed cognition 
+                - hotels - the toilet paper has last few sheets have different colours
+                - how do you expose higher level languages to users
+                - CISC vs RISC
+                - out of order execution
+                - memory has gotten smarter 
+                - Eg - waiter in banquet hall kind of settings
+                    - assembly line of worker and complexity
+                    - googling things
+                - swarm type robots and cellular automata
+            - [[Ananth]]
+                - enabling some logic components near memory
+                - the need for high level languages
+                - binary neural networks with logic in memory
+                - dog example
+            - [[Jenna Dixon]]
+                - question - to what extent is genius needed for this
+                    - innovation study - how many people came up with similar ideas
+                - [[Venkatesh Rao]]
+                    - in computing a lot depends on who has access to 
 - Hopper -- articles we could read
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
     - Paper about reconstructing images from fMRI scans from 2019: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633
