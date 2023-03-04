@@ -171,11 +171,6 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/santhoshguru/lists/tech-miscellany-19967"
-    }
-  },
-  {
-    "userListInfo" : {
       "url" : "https://twitter.com/fuckfomo/lists/community"
     }
   },

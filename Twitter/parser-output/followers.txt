@@ -9,7 +9,6 @@
 0x_mordred https://twitter.com/i/user/1317912913408151552
 0xbasedchimp https://twitter.com/i/user/1537868624886747138
 0xcda7a https://twitter.com/i/user/15093930
-0xgokhan https://twitter.com/i/user/1120763028184674305
 0xpawgchamp https://twitter.com/i/user/1094297209225531395
 0xxd34db33f https://twitter.com/i/user/1176917736401920000
 1111TEMPLE https://twitter.com/i/user/1588355947843375104
@@ -172,11 +171,9 @@ DB22ONEMILLION https://twitter.com/i/user/1202945362211856385
 DIDIsoccertees https://twitter.com/i/user/155562942
 DMWebDesigner https://twitter.com/i/user/20744275
 DMattin https://twitter.com/i/user/19159322
-DMilanov https://twitter.com/i/user/159410955
 DailySuicide https://twitter.com/i/user/175921863
 DamienAtts https://twitter.com/i/user/973519263213543424
 DanGrover https://twitter.com/i/user/769496
-DanSing67540433 https://twitter.com/i/user/1650729577
 DanielROINelson https://twitter.com/i/user/234190373
 DavidAmal https://twitter.com/i/user/508951376
 DavidBahry https://twitter.com/i/user/1337916667
@@ -203,7 +200,6 @@ DonyChristie https://twitter.com/i/user/1213570589392130048
 DorukAkpek https://twitter.com/i/user/91685258
 DrErnestLim https://twitter.com/i/user/900313795305906180
 DrZ_behaviorist https://twitter.com/i/user/970562435403755522
-Dunewrk https://twitter.com/i/user/95083275
 EBurdine https://twitter.com/i/user/433064271
 EKFarNorth https://twitter.com/i/user/1435984807679377408
 ELaukli https://twitter.com/i/user/2339564494
@@ -350,6 +346,7 @@ JulianMartinezA https://twitter.com/i/user/88220464
 JulioHolon https://twitter.com/i/user/16325805
 JustPicnic https://twitter.com/i/user/1434886189115379712
 JustinPetite https://twitter.com/i/user/2461986752
+K41R0N https://twitter.com/i/user/1321993939000446977
 KK_Aravind https://twitter.com/i/user/75281936
 KamalJogia https://twitter.com/i/user/2780202434
 KariDotPeters https://twitter.com/i/user/1325192069208440832
@@ -477,6 +474,7 @@ NotoriousNBG https://twitter.com/i/user/35344376
 Nura_Sheik https://twitter.com/i/user/44482405
 Observateur_d https://twitter.com/i/user/275972746
 OceanBorne3 https://twitter.com/i/user/821571526071697409
+OdaOmholt https://twitter.com/i/user/1490019440456609795
 OldFaria https://twitter.com/i/user/199471778
 OliverHolms https://twitter.com/i/user/213800722
 Omkarmalin https://twitter.com/i/user/101969964
@@ -514,7 +512,6 @@ PittLabs https://twitter.com/i/user/1025354900
 PlaneHarvester https://twitter.com/i/user/1438504544632127489
 Prafulfillment https://twitter.com/i/user/11212912
 PranavBudhwant https://twitter.com/i/user/1353403176
-Pratyush_ism https://twitter.com/i/user/1189468109515550721
 ProductFanatic https://twitter.com/i/user/773846964932870144
 ProfessorStrix https://twitter.com/i/user/719539651233460224
 Pseudo_Daemon https://twitter.com/i/user/1007366423595843584
@@ -602,6 +599,7 @@ SqInchAnthro https://twitter.com/i/user/19386633
 SquareFlint https://twitter.com/i/user/748566555168890880
 Stefan271828 https://twitter.com/i/user/1609818277
 Steven_L_Miller https://twitter.com/i/user/339925263
+StrategyBrian https://twitter.com/i/user/976251824482107394
 StuartNuttall1 https://twitter.com/i/user/459368118
 SummerhayeSteve https://twitter.com/i/user/310115958
 SweetPassSP https://twitter.com/i/user/1095194218920886272
@@ -618,6 +616,7 @@ TaylorLetterman https://twitter.com/i/user/461707732
 TeamSobol https://twitter.com/i/user/1105551707726114823
 TedAPeters https://twitter.com/i/user/1637464902
 Terence_Hughes https://twitter.com/i/user/76172540
+TestUser_0110 https://twitter.com/i/user/1623082730945642496
 ThaNagler https://twitter.com/i/user/56542952
 TheCuriousCynic https://twitter.com/i/user/338584591
 TheFreysDeFi https://twitter.com/i/user/1530227929732599808
@@ -684,12 +683,12 @@ XanderSquats https://twitter.com/i/user/1364613911992016897
 Xlabos https://twitter.com/i/user/42450216
 YanalSM https://twitter.com/i/user/66349498
 YefetGlobal https://twitter.com/i/user/910477878277623808
+Yehi56 https://twitter.com/i/user/1367747762
 YounesTalkDZ https://twitter.com/i/user/1160508039503519744
 ZaalimManjha https://twitter.com/i/user/1277692606131187712
 ZachBibeault https://twitter.com/i/user/43408902
 Zachary4949 https://twitter.com/i/user/1374643895946997760
 Zachary_Goldman https://twitter.com/i/user/434547480
-ZackMaril https://twitter.com/i/user/175044427
 Zloto https://twitter.com/i/user/15357555
 Zoe45793924 https://twitter.com/i/user/1406641146965680137
 Zubin_Sharma https://twitter.com/i/user/301237223
@@ -731,6 +730,7 @@ _siddharthkar https://twitter.com/i/user/1468439461
 _sireesh https://twitter.com/i/user/569592167
 _superdecent_ https://twitter.com/i/user/15673943
 _tinyrobots https://twitter.com/i/user/1024235496992649218
+a380op https://twitter.com/i/user/1384794757226958857
 a802785478096 https://twitter.com/i/user/346292006
 aTailaTheWun https://twitter.com/i/user/975180520907853824
 a_aldawood https://twitter.com/i/user/40900583
@@ -762,6 +762,7 @@ adamdavidlong https://twitter.com/i/user/1276430462
 adhfwn https://twitter.com/i/user/805077040680443905
 adichintea https://twitter.com/i/user/915792896
 adityasdhawan https://twitter.com/i/user/11539092
+adityavaday https://twitter.com/i/user/3229847796
 ae43ae43 https://twitter.com/i/user/878338511715389440
 agambrahma https://twitter.com/i/user/18772401
 agnomery https://twitter.com/i/user/1552056131731787776
@@ -831,7 +832,6 @@ analystdesign https://twitter.com/i/user/731424226524028928
 anbarelm https://twitter.com/i/user/1468564156626649093
 anbuteau https://twitter.com/i/user/2519007301
 and__sand https://twitter.com/i/user/33413514
-anderskitson https://twitter.com/i/user/4633808432
 andersonroads https://twitter.com/i/user/1055486727295508480
 andrea_is_a https://twitter.com/i/user/461207402
 andresdbv https://twitter.com/i/user/316209618
@@ -873,6 +873,7 @@ atas76 https://twitter.com/i/user/15157335
 athomson https://twitter.com/i/user/1456971
 atthatmatt https://twitter.com/i/user/3151595166
 audiodado https://twitter.com/i/user/1286450186701635584
+audsssy https://twitter.com/i/user/3363548950
 aurko_joshi https://twitter.com/i/user/3433616105
 auryn_macmillan https://twitter.com/i/user/40364621
 auxiliarywits https://twitter.com/i/user/928625810524606467
@@ -928,11 +929,9 @@ blendorsefaj https://twitter.com/i/user/270929201
 bmann https://twitter.com/i/user/10821
 bmata85 https://twitter.com/i/user/4774460296
 bmlehan https://twitter.com/i/user/231454172
-boldlybryan https://twitter.com/i/user/2821407077
 borg22 https://twitter.com/i/user/14344830
 bourdaincel https://twitter.com/i/user/1518892697871921154
 breakoutsmart https://twitter.com/i/user/1314496337321361408
-briangoldstrat https://twitter.com/i/user/976251824482107394
 brianyeado https://twitter.com/i/user/17326847
 briefnorris https://twitter.com/i/user/1208620357898231808
 brinkerhoft https://twitter.com/i/user/1546386145
@@ -941,6 +940,7 @@ brn_pl https://twitter.com/i/user/844598470996623360
 brodieconley https://twitter.com/i/user/55081277
 brooklynbrunts https://twitter.com/i/user/602320428
 bryan_e https://twitter.com/i/user/5846512
+bryankingxyz https://twitter.com/i/user/2821407077
 bryanzug https://twitter.com/i/user/161043
 bschne https://twitter.com/i/user/19248923
 btdOuBain https://twitter.com/i/user/1408759840147652609
@@ -1056,6 +1056,7 @@ cyrilnotes https://twitter.com/i/user/1392060650520723456
 daeliro https://twitter.com/i/user/925207522683781127
 daferna2 https://twitter.com/i/user/59691713
 daftmonk https://twitter.com/i/user/17393525
+dajinglu https://twitter.com/i/user/1301536282128953346
 dakkxh https://twitter.com/i/user/1574352755535540225
 daleBradshaw https://twitter.com/i/user/17316987
 dalgoso https://twitter.com/i/user/36488962
@@ -1270,11 +1271,9 @@ galencrout https://twitter.com/i/user/945857841507721216
 galtenberg https://twitter.com/i/user/17296646
 gansanay https://twitter.com/i/user/573683972
 gareth_o_ https://twitter.com/i/user/81417878
-garrettjblack https://twitter.com/i/user/97989047
 garyzhexizhang https://twitter.com/i/user/72641506
 gauravp___ https://twitter.com/i/user/967399358521139201
 gavinauty https://twitter.com/i/user/282037892
-gavinyerxa https://twitter.com/i/user/1454944016689156096
 gbreavin https://twitter.com/i/user/26718842
 gbrl_dick https://twitter.com/i/user/1064114381980495872
 gedar11 https://twitter.com/i/user/185832292
@@ -1310,7 +1309,6 @@ grahamhawkes https://twitter.com/i/user/12880372
 greed2022 https://twitter.com/i/user/1147164512216162304
 green____i https://twitter.com/i/user/1439982875525402627
 greenjeffs https://twitter.com/i/user/239931158
-greenpointvice https://twitter.com/i/user/1321793010485485568
 gregory_kramer https://twitter.com/i/user/16070106
 gunjan_goswami https://twitter.com/i/user/1136523914
 gunsworth https://twitter.com/i/user/16987487
@@ -1419,6 +1417,7 @@ ironiclast_ https://twitter.com/i/user/1401122870948814856
 irshaadv https://twitter.com/i/user/14515161
 irwang_ https://twitter.com/i/user/834240496746819588
 ishasshah https://twitter.com/i/user/964613645144649729
+ishitakhatrii https://twitter.com/i/user/1572628313826537473
 ishivamsaini https://twitter.com/i/user/159526809
 it_is_nithin https://twitter.com/i/user/3310398264
 its7amsmwhere https://twitter.com/i/user/1040196272
@@ -1501,7 +1500,6 @@ jiaangou https://twitter.com/i/user/315809219
 jimbobgrab https://twitter.com/i/user/780205594259103748
 jimkleiber https://twitter.com/i/user/319864618
 jimmyjamesjiang https://twitter.com/i/user/3308325911
-jindahong69 https://twitter.com/i/user/1301536282128953346
 jinyu_archive https://twitter.com/i/user/1286868512393367552
 jisifu https://twitter.com/i/user/30821285
 jjanzic https://twitter.com/i/user/28880963
@@ -1615,6 +1613,7 @@ kingmonkeyv https://twitter.com/i/user/972968844
 kingshukdas https://twitter.com/i/user/18966843
 kirstenrpomales https://twitter.com/i/user/2903954528
 kitchinsink https://twitter.com/i/user/932912137
+kjcorbin https://twitter.com/i/user/27646581
 kkonstan https://twitter.com/i/user/15959201
 kmunz https://twitter.com/i/user/16182432
 kn_neeraj https://twitter.com/i/user/752955708
@@ -1680,19 +1679,18 @@ llungboy https://twitter.com/i/user/62742945
 lobsteropteryx https://twitter.com/i/user/2361330691
 lofo__ https://twitter.com/i/user/116280434
 loganpugh https://twitter.com/i/user/72994199
-longterm_growth https://twitter.com/i/user/1469186255229374466
 lorenpmc https://twitter.com/i/user/387001727
 louispotok https://twitter.com/i/user/118817364
 lovegreg https://twitter.com/i/user/7913792
 lowcodekrish https://twitter.com/i/user/60002257
 lowproCPO https://twitter.com/i/user/1420825401899823108
+lsam95 https://twitter.com/i/user/337586347
 lskanwal https://twitter.com/i/user/713410791785955330
 lsparrish https://twitter.com/i/user/158398234
 lucasrblanco https://twitter.com/i/user/87723344
 luchokool https://twitter.com/i/user/29471574
 luerverte https://twitter.com/i/user/1038474492194914304
 lukaszlata https://twitter.com/i/user/193631137
-lukdeer https://twitter.com/i/user/586451848
 lukealexmiller https://twitter.com/i/user/839955202371379200
 lunarpunk_0x https://twitter.com/i/user/514812230
 lwalkerbtc https://twitter.com/i/user/47422934
@@ -1741,7 +1739,6 @@ maxisawesome538 https://twitter.com/i/user/513267526
 maxorgel https://twitter.com/i/user/260274714
 maxsrinivas https://twitter.com/i/user/618223270
 maxwschulz https://twitter.com/i/user/939653822389026816
-maybeJDMurphy https://twitter.com/i/user/1443641013357228032
 mayfer https://twitter.com/i/user/14103325
 mbeaudroit https://twitter.com/i/user/26553539
 mdanmartinez https://twitter.com/i/user/14548720
@@ -1786,9 +1783,9 @@ miha_ghi https://twitter.com/i/user/484074431
 mijinjkwon https://twitter.com/i/user/2237122358
 mikaelmoore https://twitter.com/i/user/20952451
 mike_osberg https://twitter.com/i/user/39623758
-mikedotwaves https://twitter.com/i/user/894994051698532352
 mikejestes https://twitter.com/i/user/802066
 mikemccabe https://twitter.com/i/user/13712332
+mikewawszczak https://twitter.com/i/user/894994051698532352
 mikkyman https://twitter.com/i/user/46370387
 minimalosis https://twitter.com/i/user/248253804
 mirkowilhelm https://twitter.com/i/user/45103175
@@ -1844,7 +1841,6 @@ nayandha11 https://twitter.com/i/user/1480489820
 nazariix https://twitter.com/i/user/1092006130094669824
 nboyadjiev https://twitter.com/i/user/2907837543
 nckhde https://twitter.com/i/user/1268174532
-nclnka https://twitter.com/i/user/221731557
 ndreij https://twitter.com/i/user/16227461
 neatonk https://twitter.com/i/user/1486347701222576134
 nebelcanal https://twitter.com/i/user/703253982899269632
@@ -1875,6 +1871,7 @@ nileschaurasiya https://twitter.com/i/user/741031166631780352
 ninjaparticle https://twitter.com/i/user/2733809394
 nintynick_ https://twitter.com/i/user/208759405
 nischmainali https://twitter.com/i/user/1051512876471635968
+nishitvpandya https://twitter.com/i/user/336421573
 njbotkin https://twitter.com/i/user/897174897004249089
 njokingumi https://twitter.com/i/user/372641086
 nnickhay https://twitter.com/i/user/282711962
@@ -1999,6 +1996,7 @@ polysemic https://twitter.com/i/user/760794230801530880
 popeduggan https://twitter.com/i/user/2364454703
 popkir https://twitter.com/i/user/1085881662964158464
 popp0x https://twitter.com/i/user/25675983
+post_mullen https://twitter.com/i/user/1321793010485485568
 pov_global https://twitter.com/i/user/1244000131109830656
 powersreserved https://twitter.com/i/user/1279576603828170752
 ppawlettjackson https://twitter.com/i/user/2863944509
@@ -2067,7 +2065,6 @@ reedrosenbluth https://twitter.com/i/user/198186450
 refactordream https://twitter.com/i/user/450597336
 rendroid1 https://twitter.com/i/user/885995407
 residentOfWeb https://twitter.com/i/user/908032404
-revaochuba https://twitter.com/i/user/3283606410
 rhetornick https://twitter.com/i/user/1257490994225807361
 rhettford https://twitter.com/i/user/28743430
 rhizospastic https://twitter.com/i/user/274362554
@@ -2082,7 +2079,6 @@ rishipatel23 https://twitter.com/i/user/71286765
 riteshkpais https://twitter.com/i/user/65565673
 rittbomm https://twitter.com/i/user/619585227
 ritvikcarvalho https://twitter.com/i/user/47974248
-rivenbark_ https://twitter.com/i/user/165880234
 riveong https://twitter.com/i/user/62823
 rjegundo https://twitter.com/i/user/14474971
 rjjasperson https://twitter.com/i/user/21159891
@@ -2237,6 +2233,7 @@ spencerjpeters https://twitter.com/i/user/2633104852
 spiderfoods https://twitter.com/i/user/129306988
 squiddle https://twitter.com/i/user/18405715
 srajan821 https://twitter.com/i/user/1059825684
+srbsh_ https://twitter.com/i/user/95083275
 sri_gangsta https://twitter.com/i/user/70152880
 srinidhi21 https://twitter.com/i/user/366752537
 srinivasvivek https://twitter.com/i/user/13657252
@@ -2245,7 +2242,7 @@ srytonin https://twitter.com/i/user/1240308509792763906
 ssaulgoodmann69 https://twitter.com/i/user/132809363
 sscullion https://twitter.com/i/user/1611291
 sssirda https://twitter.com/i/user/2400562754
-staykeen_eth https://twitter.com/i/user/1153215632
+stay_keen_ https://twitter.com/i/user/1153215632
 steadydrift https://twitter.com/i/user/20513088
 steelmarco https://twitter.com/i/user/148821692
 stefan_arrr https://twitter.com/i/user/199718332
@@ -2257,7 +2254,6 @@ stephenanderson https://twitter.com/i/user/356663
 stephenhuppert https://twitter.com/i/user/347161664
 steve_hoeg https://twitter.com/i/user/1722664891
 steven47719192 https://twitter.com/i/user/753775484580745218
-stevenchabot https://twitter.com/i/user/17711342
 stnicholas__ https://twitter.com/i/user/2795331829
 stopcontinues https://twitter.com/i/user/14186926
 strangeattracto https://twitter.com/i/user/16181688
@@ -2377,7 +2373,7 @@ twinfrey https://twitter.com/i/user/38670988
 tylerwillis https://twitter.com/i/user/3916461
 tyrsalvia https://twitter.com/i/user/7782372
 tywenk https://twitter.com/i/user/1692778471
-tznpinx https://twitter.com/i/user/2915896240
+tznels https://twitter.com/i/user/2915896240
 uberstuber https://twitter.com/i/user/15033755
 udit https://twitter.com/i/user/7265552
 ugherm_ https://twitter.com/i/user/1337260599676301313
@@ -2392,7 +2388,6 @@ unrestrictedart https://twitter.com/i/user/1272199939016339457
 upshot_llama https://twitter.com/i/user/985955096478527489
 urblon https://twitter.com/i/user/1585639169644146690
 utilitatum https://twitter.com/i/user/1281198155703476225
-uushpz https://twitter.com/i/user/1522136420395401216
 v0idnnull https://twitter.com/i/user/392244286
 vaeltaja11 https://twitter.com/i/user/3837085983
 vahlamorgulis https://twitter.com/i/user/523875557
@@ -2410,6 +2405,7 @@ verbaitis https://twitter.com/i/user/18336981
 vgr https://twitter.com/i/user/8500962
 vib_exe https://twitter.com/i/user/452857395
 victorvanica https://twitter.com/i/user/1265591082781421570
+vigoda_aleena https://twitter.com/i/user/1437409003974369281
 vijay_chetty https://twitter.com/i/user/1042765970
 vijayragavanv https://twitter.com/i/user/886577863
 viknanda https://twitter.com/i/user/37425977
@@ -2443,7 +2439,6 @@ wchamwud https://twitter.com/i/user/969009145511927808
 wdonno https://twitter.com/i/user/17179015
 wearetalmix https://twitter.com/i/user/49978289
 web3__ https://twitter.com/i/user/1389394414339072002
-web3founder https://twitter.com/i/user/1425807046226681856
 weirb4 https://twitter.com/i/user/861014000
 weltfrieben https://twitter.com/i/user/968281519
 whittems https://twitter.com/i/user/2244046995

@@ -471,7 +471,6 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1256864659895975936",
-      "fullText" : "@p_millerd I find your work extremely interesting and the @yak_collective “don’t waste the reboot” has been very thought provoking for me as someone working in consulting. \n\nI do have to point out the irony of you sharing all that in a 56 page slide deck...",
       "expandedUrl" : "https://twitter.com/i/web/status/1256864659895975936"
     }
   },
