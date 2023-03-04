@@ -5,8 +5,8 @@
     - I'm a huge proponent of tools that enable non-technical folks to do stuff that was previously only possible with code.
     - If I like something, I tend to sell it to everybody. 
     - Software excites me, great software makes me want to jump!
-    - If I like something, I tend to sell it to everybody.
     - I revel in the fact that I'm a jack of all trades.
+    - If I like something, I tend to sell it to everybody.
     - In particular, I am good at selling my ideas and writing about them.
     - If I dislike something, I tend to prevent others from buying into it.
     - 2020 has been a strange year -- I have gained so much but lost even more.
