@@ -826,6 +826,8 @@ but consider - is what is being sent data or programs?
                     - innovation study - how many people came up with similar ideas
                 - [[Venkatesh Rao]]
                     - in computing a lot depends on who has access to 
+        - Mar 13: [American Standoff](https://kingshukdas.medium.com/american-standoff-9098536e4aa3)
+            - 
 - Hopper -- articles we could read
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
     - Paper about reconstructing images from fMRI scans from 2019: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633
