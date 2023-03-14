@@ -827,7 +827,33 @@ but consider - is what is being sent data or programs?
                 - [[Venkatesh Rao]]
                     - in computing a lot depends on who has access to 
         - Mar 13: [American Standoff](https://kingshukdas.medium.com/american-standoff-9098536e4aa3)
-            - 
+            - prompt:: [Reaction + interesting ingredients alt axis for thinking about traffic besides order vs. chaos](https://discord.com/channels/692111190851059762/1084613012272451604/1084855169235292261)
+            - attendees::
+                - [[Ananth]]
+                - [[Anuraj R]] (listen only mode, livestream management)
+                - [[Ben Mahala]]
+                - [[Grigori Milov]]
+                - [[Jenna Dixon]]
+                - [[Nathan Acks]] (listen only mode, note taking)
+                - [[Shreeda Segan]]
+                - [[Steven Chung]]
+                - [[Venkatesh Rao]]
+            - notes::
+                - [[Ananth]] notes that civility is important for the smooth functioning of much of society. US road signs seem to embody certain aspects of the US culture, and the __constraint__ dimension of this culture are actually quite important.
+                - [[Anuraj R]] (in chat) counters that the US/India comparison may be apples/oranges.
+                - [[Ben Mahala]] notes that traffic __is__ a microcosm of society. But one important thing to keep in mind is that US roads are much more heavily policed than in many other countries. This enables traffic to flow more smoothly, but there __is__ an advantage to slower, more chaotic traffic: It __may__ enforce more situational awareness and lower speeds, which may in turn lead to a __safer__ traffic situation. Simple, embodied, rules seem good. It's not clear how much the driving example generalizes to politics, however. Driving is a more cooperative(ish) game than politics.
+                - [[Venkatesh Rao]] (in chat) notes that Indian traffic fatality rates are actually higher than in the US ([1](https://discord.com/channels/692111190851059762/1084613012272451604/1084859658176573581), [2](https://discord.com/channels/692111190851059762/1084613012272451604/1084859733778899055)).
+                - [[Grigori Milov]] found the article biased and rhetorically weak. This even comes out in the pictures: The US example photo shows __many__ fewer cares than the Indian picture. A US street with as many cars as the example Indian street would probably need some sort of manual intervention (police) to function. The article was also very data-light. Also, are stop signs really necessary? Maybe all that's necessary is a rule about how to function at an intersection.
+                - [[Jenna Dixon]] thought that the article's three-point summary was actually quite good. In Maine, there's a lot of snowmobile accidents, partly because the rules of the road (hand signals, in the case of snowmobiles) aren't as well established.
+                - [[Shreeda Segan]] found the article's __structure__ annoying (it's very TED Talk-ish), but thinks that __is__ on to something: It's remarkable how many __different__ kinds of neurotypes can cooperate in driving (because of the simple rules?). It would be interesting to see how __sticky__ traffic norms are culturally. What is the history here? What does social enforcement look like? How do norms and rules interact to enforce/weaken each other? (For example, someone not turning on green is likely to get honked at. But someone just moving too slowly in the left lane will just get passed on the right.)
+                - [[Steven Chung]] remembers an article they ran into about roundabouts being more efficient than stop signs. Do stop signs allow for greater traffic density? Are they more efficient?
+                - [[Venkatesh Rao]] (in chat) notes that roundabouts are indeed more efficient than four-way stops.
+                - [[Venkatesh Rao]] notes that there were two big changes they encountered when re-learning how to drive after moving from India to the US: Driving on the other side of the road, and the sheer __speed__ at which traffic moves in the US. Like, US traffic can move at a truly terrifying rate compared to elsewhere in the world. One important thing to remember is that when traffic gets chaotic, people avoid it. This leads to a bit of a tragedy of the commons in India w.r.t. traffic: Only the bravest people travel in the densest, most chaotic areas, and those people tend to choose more maneuverable modes of transit that can actually make congestion __worse__ (even if the individual drivers can navigate more effectively). Chaotic traffic situations, even slow ones, __are__ truly dangerous. Clear, enforced rules allow more people to participate in those systems; this is not just about how well the system works, but also the sheer psychological stress that chaotic situations can induce in their participants. That said, it's likely that near optimal outcomes will appear quite chaotic, especially in higher dimensional spaces.
+                - [[Nathan Acks]] notes that one reason traffic rules may work is because people in the US are actually abnormally cooperative. Having simple, explicit rules may help with this: Even if simple rules aren't as efficient as a more complex ruleset, you can get greater social buy-in with them, because people are better able to understand __how__ they fit into the system and __what__ is expected from them (and what they can in turn expect).
+                - [[Venkatesh Rao]] agrees that Americans really do appear to be abnormally cooperative. They like to work together. Even de Tocqueville observed this. India can sometimes be the reverse though: On the surface very cooperative, but very "out for number one" when push comes to shove. Interestingly, even foreigners will switch out these cooperative norms on a moment's notice. There might be a 2x2 here: Order vs. chaos on one axis and deep vs. superficial cooperation on the other.
+                - [[Jenna Dixon]] observes that some homeless folks in South Africa were providing __ad hoc__ traffic signaling services during some recent large-scale power outages. There's a good question here about how __strongly__ rules/norms should be enforced. When is it okay for a norm to be (soft) broken? BBC From Our Own Correspondent:
+                    - [South Africa's Rolling Blackouts](https://www.bbc.co.uk/programmes/m001k0lg)
+                - [[Grigori Milov]] thinks an alternate 2x2 might be rules/norms vs. order/chaos.
 - Hopper -- articles we could read
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
     - Paper about reconstructing images from fMRI scans from 2019: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633
