@@ -10,6 +10,69 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Fri, Mar 17th, 2023: https://en.m.wikipedia.org/wiki/Media_ecology#Core_concepts 
+        - Ananth
+            - likes the reading — reminds him of slime mold metaphor in coordination headwinds. "information takes the path of least resistance" 
+            - he thought the ages thought to be lacking but liked robert k logan's iteration of it more
+        - Bryan 
+            - marshall mcluhan frustrates him — would be a twitter influencer posting big threads that sound cute but don't have a whole lot of substance
+            - it's a good starting point and makes sense for when it was published (when new media was emerging)
+            - last century has been an anomoly — historical anomaly. we figured out how to scale media that were thousands of years old and reach all corners of the earth 
+            - but he doesn't think there will be a huge revolution of media — tiktok not very new, just leverages what exists in different ways
+            - emberto echo, baudrillard, guettari (however you spell these names) — maybe go towards semiotics instead
+        - Grigori 
+            - interesting reads & he doesn't get frustrated bc it was written a long time ago and was revolutionary then
+            - ages and transitions is most interesting part 
+            - people are still using mental models from previous ages on social media and applying it to very different media 
+            - we're already transitioning to a new age of media — what AI can produce is hard to distinguish from what humans produce... 
+            - what does it mean to be an author? 
+        - Jenna
+            - always good to revisit mcluhan 
+                - my rough notes
+media all the way down
+signaling all the way down
+protocols all the way down
+if this then that all the way down
+systems thinking all way down
+everything is connected all the way down
+
+"a system" is bc someone decided on some borders (arbitrary or otherwise)
+
+Liked the bit about what sense organ/s lead at different times
+1. tribal age = ears
+2. literacy age = eyes
+3. print age = portable book which led to privacy in thought
+4. electronic age = started with phone; return to environment w sound and touch, rather than sight
+
+medium is the message
+cf convo about the effect of publishing on Medium v Mirror or Paragraph, let alone LinkedIn
+            - media all the way down, protocols all the way down = under the hood, systems thinking... which gets to the mystical... keep going down in layers
+            - artificial edges around something and call it a system
+            - back then, you only knew what the cool kids in your village are doing... 
+        - Kiran
+            - hadn't heard of McLuhan but had heard of his ideas already
+            - his ideas have influenced stratechery 
+            - the rise of each new medium corresponds to the downfall of another? 
+            - broadcast media has propped up the nation state
+            - new media could be the rise of the fifth estate? the common person 
+            - each new version has had a lesser impact.... folklore, you've had to memorize things. books that you've had to memorize has far changed his mindset 
+            - ownership / authorship with AI... using AI to generate new ideas hardly requires intervention on him. so it won't have a sticky effect or impact 
+            - nice analogy with cities... walkable cities. close interactions with people
+        - Madebo 
+            - hasn't read the piece so going to react to what kiran said... 
+            - transition from oral to generative age is an opportunity to r
+        - Shreeda 
+            - DJ F anecdote... obliteration of artists. competition... good luck with that.
+            - originality and markets is something i really think about 
+        - Venkat 
+            - it was super influential for him ... somewhat sympathetic to bryan's take but you have to understand when he was writing... 
+            - it used to take so much courage to say things like mcluhan back then... 
+                - in today's world it doesn't take the same amount of courage right now to have these new types of thoughts
+            - [lee de forest](https://en.wikipedia.org/wiki/Lee_de_Forest) inventor of the triode who observed radio helped create a boost in pop culture / media 
+                - these things were obvious but mcluhan had the courage to examine all the assumptions about media x society x culture x politics and flip some axes that were a little to sacred to people 
+                - disrespecting the elites a bit.. 
+            - people know mcluhan in media and resent him a bit bc his stuff is all in the water but they lack the same courage to make similar statements... 
+            - 
     - Fri, Feb 17th, 2023:  https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
         - Ananth — listen mode
         - Aneesh
@@ -1346,7 +1409,7 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
             - every human system seems to fail...is it just because we aren't good enough
         - Sachin
             - reminded of Carrier Bag Theory of Fiction
-                - we grow used to things, and we but those things in our bags
+                - we grow used to things, and we put those things in our bags
         - Venkat
             - not everything that was murder would've counted as murder
             - Deadwood
@@ -1366,9 +1429,10 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - hard to believe that lack of core organizing principles could work
             - find another reading that challenges this interpretation of history
         - Jenna
-            - The Distant Mirror (Tipman?)
+            - The Distant Mirror (Tuchman)
                 - in the past, you couldn't grow up without being broken
                 - would we be able to recognize the people in the past
+                - via vgr [Notes: A Distant Mirror by Barbara Tuchman](https://www.ribbonfarm.com/2020/07/06/notes-a-distant-mirror-by-barbara-tuchman/)
         - Venkat
             - 14th century children were raised to be psychopaths
                 - sort of had to be that way to make it to adulthood
