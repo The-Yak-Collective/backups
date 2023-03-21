@@ -22,12 +22,6 @@
 - [[Alex Wagner]]
 - How to create a Grand Unifying Problem to create "head-in-the-game" culture for Yaks.
     - Existential threats are great, but so is an effective, and urgent narrative.
-- The "Apprentice Yak"-level.
-    - We can do a project that a traditional firm can't, we can apply a higher-level of sophistication to a Mechanical Turk-style process.
-    - Skeptical of medieval guild-style hierarchy
-        - Vision for guild is more along "Amazon affiliate network" model of hierarchy.
-    - Encouraged: "Creating little profitable activities. Small teams, creating viral hits. Leads to workshops, client engagements.
-        - Discouraged: free-writing pontification in Discord and Roam, attempts to leverage Yak for marketing purposes.
 - [[Venkatesh Rao]]
     - Two challenges:
         - Conference-making 
@@ -36,6 +30,12 @@
         - "An open source consulting network that can compete with McKinsey." 
             - "It's a moonshot."
                 - "Generating consulting revenue here is a level 5."
+- The "Apprentice Yak"-level.
+    - We can do a project that a traditional firm can't, we can apply a higher-level of sophistication to a Mechanical Turk-style process.
+    - Skeptical of medieval guild-style hierarchy
+        - Vision for guild is more along "Amazon affiliate network" model of hierarchy.
+    - Encouraged: "Creating little profitable activities. Small teams, creating viral hits. Leads to workshops, client engagements.
+        - Discouraged: free-writing pontification in Discord and Roam, attempts to leverage Yak for marketing purposes.
 - [[Alex Wagner]]
 - [[Venkatesh Rao]]
     - Doing experiments in "making that first consulting dollar"

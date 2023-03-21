@@ -854,6 +854,32 @@ but consider - is what is being sent data or programs?
                 - [[Jenna Dixon]] observes that some homeless folks in South Africa were providing __ad hoc__ traffic signaling services during some recent large-scale power outages. There's a good question here about how __strongly__ rules/norms should be enforced. When is it okay for a norm to be (soft) broken? BBC From Our Own Correspondent:
                     - [South Africa's Rolling Blackouts](https://www.bbc.co.uk/programmes/m001k0lg)
                 - [[Grigori Milov]] thinks an alternate 2x2 might be rules/norms vs. order/chaos.
+        - [[March 20th, 2023]]: [The surprising ease and effectiveness of AI in a loop](https://interconnected.org/home/2023/03/16/singularity)
+            - thread:: https://discord.com/channels/692111190851059762/1087213151361171486
+            - prompt:: [In what areas of your life does the AI-in-the-loop approach Webb describes seem useful? In what ways do you think that Webb is overly-optimistic about this approach? Underly-optimistic?](https://discord.com/channels/692111190851059762/1087213151361171486/1087389696537149480)
+            - attendees::
+                - [[Anuraj R]]
+                - [[Nathan Acks]]
+                - [[Jenna Dixon]]
+                - [[Ananth]]
+                - [[Steven Chung]]
+                - [[Grigori Milov]]
+                - [[Commits Vortex]]
+                - [[Venkatesh Rao]]
+                - [[Vinay Débrou]]
+            - notes::
+                - [[Steven Chung]] thought that the blog post was perhaps overly-optimistic, and that the loop would require more iterations and fine-tuning than Webb's examples. That said, the code so far __does__ look really simple. The applications to writing code are interesting.
+                - [[Ananth]] finds LangChain really interesting, and thinks that article does a good job of both describing the uses of this framework and the more general ReAct approach. Robin Sloan's observation that LLMs may become "universal couplers", just generic text over TCP, seems right. One thing that this approach might help with is the conversion of the physical domain into the simulation domain; doing this is kind of a dark art right now, and an AI-in-the-loop approach might make this a lot faster/easier. That said, Ananth felt that the examples were somewhat trivial, and the leap to "the Singularity is nigh!" was not really supported. But the applications are really interesting.
+                - [[Anuraj R]] also found the end of the article ("the Singularity is nigh!") was annoying. The ReAct loop has some similarities to current programming paradigms. Anuraj has been using ChatGPT as a kind of "interactive Stack Overflow".
+                    - [[Steven Chung]] has also been using ChatGPT similarly.
+                - [[Commits Vortex]] is in listen-only mode...
+                - [[Grigori Milov]] thinks that the ReAct framework is already something that disciplined human thinking uses. So LLMs helping us do this faster seems like a no-brainer. AI systems still seem to be weak at __real__ observation right now; people don't base their thinking on a single observation, but rather experiments and life experience that contain __many__ data points we draw inferences from. Figuring out when a data point is "bullshit" is hard, and right now AI doesn't seem to have a good way of building out a "bullshit detector" for the data it ingests. How to teach a machine intuition? Also, "the Singularity is nigh" was annoying to Grigori as well. As a counter-example, consider chess: The best machines can beat the best humans, but not by much of a margin. Even this domain-specific brute-forcing approach only gives a computer a __little__ bit of an edge. And chess is very simple compared to the real world. Machines might be better than us, but not that much better. So a little bit of hope there.
+                - [[Jenna Dixon]] notes that there's a never-ending difficulty "managing underlings". Virtual assistants have some of the same scoping problems. The best use of delegation is simple, "dumb" tasks that are maybe hard to code explicitly, but so simple we don't want to do them ourselves. Jenna wonders when the process described in the article will become simple enough to be broadly accessible. Jenna is reminded of a book that had a smart agent like this, that would go off and study interesting questions and then discuss the results, which would be an interesting interface paradigm.
+                - [[Nathan Acks]] is in listen-only mode...
+                - [[Venkatesh Rao]] thinks that, based on this article and their own experiences, this sort of loop is a good idea. Shorter, focused prompts with a subsequent human response seems to work well. Like Jenna, Venkat isn't looking forward to a future where we have to manage smart, enthusiastic, and mistake-prone virtual assistants. The best managerial roles are more partnerships where you're in continuous, informal interaction with competent, experienced peers. AIs seems to be a long way from this, but an approach like this may be promising.
+                - [[Nathan Acks]] notes that, to make a __Star Trek__ analogy, everyone thinks we're building Data, and really what we're building here is the ship's computer (which none of the crew members would ever mistake as anything other than a tool). Also, there's some real non-code limits to how fast an AI can iterate itself. LLMs are not just code, but also weighted models based on huge data sets. This data has to come from somewhere, and will take time to process (even if the code to do that processing, or then run inferences on that data set, can be improved on). Also, ChatGPT and its ilk are __very__ expensive from a hardware perspective, and improvements in GPUs, etc. are much harder to come by than improvements in code.
+                - [[Anuraj R]] agrees that the hardware aspects of AI are hard to iterate on.
+                - [[Jenna Dixon]] notes that there's a proposal on the server to share prompt recipes. This could be interesting/fun. Jenna wants a simple, obvious toggle for these systems that switches them between "things I know" and "things I don't know". Basically, what data source is the AI drawing from.
 - Hopper -- articles we could read
     - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
     - Paper about reconstructing images from fMRI scans from 2019: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633
