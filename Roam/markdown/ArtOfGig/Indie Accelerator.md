@@ -52,4 +52,9 @@
         - 
     - February 22nd, 2023
     - February 29th, 2023
-    - 
+    - March 29, 2023
+        - Meeting Thread: https://discord.com/channels/692111190851059762/1090415587890561145
+        - Drew
+        - Jenna
+        - Kiran
+        - Maier
