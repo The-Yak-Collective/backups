@@ -10,6 +10,36 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Fri, Mar 31st, 2023: https://gk3fyi.substack.com/p/the-cost-of-craft 
+        - Ananth
+            - tension between craft and metrics: football / soccer 
+                - some teams that are able to play games and win consistently 
+        - Jenna
+            - not interested in solving the problems of large organizations
+            - self-organizing systems, yak collective type of groups are more interesting to her
+            -  she was involved in exactly this tension — the good enough design threshold 
+                - craiglist has shit design yet persists
+            - hard to make for just one person or for the masses 
+        - Kiran 
+            - hits home for him given his experience
+            - too many things have been pushed to the protocol layer and everything built on top of the protocol layer will have its own aesthetic 
+            - hard to maintain aesthetic across devices on amazon
+        - Sachin
+            - we read a lot of these principles in coordination headwinds 
+            - there is always a BDFx setting the course for a particular product 
+            - a lack of some type of desired technology that you need a BDFx to do that 
+        - Shreeda 
+            - experiencing this a lot in my current $dayjob and liked the article 
+            - though i agree about craftsman virtue ethics not being fully justified itself 
+            - read shopcraft as soulcraft / zen and the art of motorcycle maintenance 
+        - Venkat 
+            - starting with craft they're very stubborn about it or something 
+            - the ethical way of being a craft oriented person: you have to let go of people 
+            - aesthetic bullies — craft oriented dictators gone wrong. rant and rave... yell at people for being corrupt 
+            - he feels hostility and skepticism because he is usually on the other side 
+            - the good thing about the article is that it recognizes that there's a balance needed, not profaning a sacred vision 
+            - the alternative to craftsman ethos is protocol ethos — process for coordination versus defining end-state vision with precision. we're willing to shift the vision according to uncertainties. protocol-bureaucratic. feels lifeless and soulless to craft oriented persons. 
+            - still falls in craftsman oriented as morally superior one
     - Fri, Mar 17th, 2023: https://en.m.wikipedia.org/wiki/Media_ecology#Core_concepts 
         - Ananth
             - likes the reading — reminds him of slime mold metaphor in coordination headwinds. "information takes the path of least resistance" 
