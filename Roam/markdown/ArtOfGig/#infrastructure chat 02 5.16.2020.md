@@ -1,4 +1,5 @@
 - #Infrastructure
+- **Participants**: [[Steven Moody]], [[John Grant]], [[Scott Allen]], [[Mike Morris]], [[Sachin Benny]], [[Venkatesh Rao]]
 - Provocation from for this chat [[Venkatesh Rao]]
     - **Thought experiment: unlimited resources what infrastructure would we have?** 
     - **Chaos from illegibility vs chaos from underpowered tools**
@@ -9,7 +10,6 @@
     - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
     - [10:24 AM]
     - ## Venkatesh Rao (US Pacific)Today at 10:23 AM
-- **Participants**: [[Steven Moody]], [[John Grant]], [[Scott Allen]], [[Mike Morris]], [[Sachin Benny]], [[Venkatesh Rao]]
 - [[Sachin Benny]]: noise from discord - a lot to process if you're not on-line for 2 days
     - VGR: Fomo isn't an issue. Tune into what you want... Soft discussion works networking...
         - Hard constraints require. Slightly infrastructure. People get demotivated
@@ -57,6 +57,7 @@
     - most of scott's client work is time & materials bc there's a lot of uncertainty 
     - prob next 1-2 years work is going to be brought-in by one of members looking for collaborators for delivery 
     - may not have anything to do with structured marketplace 
+- Escalate to email quicker vs too quickly
 - [[John Grant]]
     - visiting a public job board, don't really know where you fit in
         - can't leverage your network / current context 
@@ -66,7 +67,10 @@
         - bidding system could be time towards this ... 
             - may not be undercutting on dollar but bidding on skillset
         - so it's a risk assessment for the requestor 
-- Escalate to email quicker vs too quickly
+- [[Mike Morris]]
+    - everyone who's likely to bid is roughly comparable costs 
+    - undercutting bids
+    - not enough time and interaction to build network/trust relationships
 - [[Venkatesh Rao]] pivot to prompt - what's the competitive advantage of YC we can lean into
     - McKinsey - has closed system ... has the back office in India
     - we have a very open system ... anyone can contribute on discord and get a role
@@ -77,10 +81,6 @@
         - we can do several hundred - elemental map reduce tasks - but not mechanical turk - coordinated in a distributed way
             - not strategy + marketing + ______
             - certai ntask but requires certain skill + knowledge requirements
-- [[Mike Morris]]
-    - everyone who's likely to bid is roughly comparable costs 
-    - undercutting bids
-    - not enough time and interaction to build network/trust relationships
 - Complexity and illegibility of the work
     - shared skin in the game
 - [[Steven Moody]] Archers doesn't matter what the problem is 
