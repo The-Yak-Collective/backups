@@ -33,6 +33,7 @@ Interest- constantly learning & reading about different facets of the brain...ov
     - [[Sachin Benny: Order Ways]]
     - [[Kannen Ramsamy: Power Ways]]
     - [[Chris Reid: Freedom Ways]]
+- [[Neurofuturama Applicant Selection Process]]
 - **References**: Mainly for Monday, 25th discovery session
     - [[Neuroscience/Neurotech 101 Page]] <-- start here if you're coming in totally cold
     - [[Shared Brainstorm Questions page]]
@@ -105,7 +106,6 @@ developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229
     - https://www.jneurosci.org/content/36/37/9659
     - https://www.nytimes.com/2016/12/31/opinion/sunday/how-to-become-a-superager.html
     - https://qz.com/1454466/your-language-influences-your-color-perception-says-a-new-study/
-- [[Neurofuturama Applicant Selection Process]]
 - **Week 1 Summary Notes**
     - May 25: [[Summary: Brainstorm Questions]]
     - May 26: [[Notes on call with Kernel, May 26 2020]]
