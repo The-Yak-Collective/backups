@@ -1,0 +1,30 @@
+- today we are brainstorming modular robot kits (whatever that means)
+- step 1 intro
+- step 2 (15 min) - each yak takes a subject from the following list and suggest between 3-5 alternative designs
+- Step 3 (5 min) - each yak writes down 2-3 questions on the subject and that occurred to them while doing step 2
+- Step 4 (5 min each) - each yak present their ideas and questions 
+- Step 5 (10 min) pairing subjects. take one idea from each of two subjects and say how they work together. does in parallel, in writing
+- Step 6 Summary and discuss linking a mission to some sort of parametrization
+- subjects:
+    - Data power bus
+        - ideas
+        - questions
+    - Electrical connections
+        - ideas
+        - questions
+    - Mechanical connection
+        - ideas
+        - questions
+    - Diversity in parts vs alternatives
+        - ideas
+        - questions
+    - Software modularity
+        - ideas
+        - questions
+    - brain and internal organs (cpu, power supply, etc)
+        - ideas
+        - questions
+    - Self configuration
+        - ideas
+        - questions
+    - NOT: checking how things work, power load, coordination
