@@ -6,25 +6,105 @@
 - Step 5 (10 min) pairing subjects. take one idea from each of two subjects and say how they work together. does in parallel, in writing
 - Step 6 Summary and discuss linking a mission to some sort of parametrization
 - subjects:
-    - Data power bus
+    1. Data power bus - jascha
+        - ideas
+            - Existing solution space
+                - Ethernet (not necessarily RJ45 physical layer -- look at halodi servo drives)
+                - Single pair ethernet (new/up and coming in automotive and industrial)
+                - Power over ethernet
+                - CANBus/LIN Bus (maier link to existing implementation)
+                - Hacking phantom power into CANBus/LIN Bus
+                - Modulated data over power rails (see industrial 4-20 HART as an example, uses FSK over an analog signal to send both analog+digital)
+                - One-wire bus + power (look at smart power packs)
+            - Optical connections? Power over optical connections?
+            - Everything over Coax or Triax?
+            - Wireless?
+        - questions
+            - Cost/benefit of consolidated power+data?
+            - Robustness implications?
+            - System architecture implications?
+            - Coupling between power and data regions of performance?
+    2. Electrical connections
+        - ideas
+            - see data/power
+        - questions
+            - see data/power
+    3. Mechanical connection -- Venkat
+        - ideas
+            - Modularity within Jascha's model -- modular version of the 2-wheeler
+                - Integrated unit is the whole 2-wheeler. Connection point is between 2 2-wheelers
+                - "Subatomic" connections not in scope -- use the strongest one
+                - Atom-to-atom ideas
+                    - Compliant mechanism (flex plastic): needs strength to make/break
+                    - Solenoid based clasp
+                    - Non-autonomous ball-joint (human has to make connections)
+            - "Edge-heavy" modules (smart wheel, smart power pack etc) -- atoms are functional subassemblies
+                - 3 basic building blocks: smart wheel, smart limb, smart chassis
+                - Bolted connections, but on standard hole pattern/bolt size like Meccano
+            - Budget gray goo -- go as small as possible on the atoms, use a non-autonomous, non-fastener connection mechanism, basically lego-like 3dp parts
+        - questions
+            - What is the most interesting level of "atom" to work with?
+            - Autonomous vs. non-autonomous assembly/disassembly
+            - High-strength robust joints (prob non-autonomous) vs. low-strength compliant snap-fit or passive lock type ideas?
+            - Routing the data/power wire harness across these mechanical connection types...
+    4. Diversity in parts vs alternatives [[Maier Fenster]]
+        - ideas
+            - basic building block - like a cube of standard size + leaves: wheels, sensors, end effectors.
+            - interface parts of each modular unit is standard, but shape inside can be anything, 3D printed
+            - copying from a system like lego or erector set - the number and type of each component. hopefully, we can actually use such a kit and just add on parts to make these components into our components.
+            - 2 sets of components. first set is designed to make a small number of basic designs. second set is designed to "decorate" the basic designs 
+        - questions
+            - how do we make a kit that is fun, allows diverse designs and also is not to complex for us to design
+            - how do we enable users to add components to the kit and which will allow the kit to be expanded for use for other users (without having too many incompatible alternatives for a same item)
+    5. Software modularity -- Rhettg
+        - ideas
+            - ROS - Standard stack for robotics. Very heavy middleware, but potentially off-the-shelf reusable modules can be "easily" integrated. Supports C++ and Python (maybe others? but "protocol" requires a library, limited support)
+            - Unix, I know this. - Maybe robotics / rovers aren't that special. Run a python a script. It does a thing. Maybe it calls another python script. Or anything else a unix system can run.
+            - Rhett's Yak Server / Redis Architecture - modules, written in any language, communicate over Redis as a service bus. Heavy in the sense that it requires multiple components, likely distributed via docker, etc. But operationally straightforward to install, supports wide variety of situations.
+            - Microcontroller Stack - NASA Flightcontroller style. Designed for components compiled into a single piece of software. It is the brains and the operating system. fprime. Requires a single language, usually C++
+            - Rhett's Janky Microcontroller Stack (CiC). C, Arduino
+        - questions
+            - What kind of compute? Low power microcontrollers vs. Full Linux System changes the game.
+            - What kind of capabilities, simple motor control, teleoperation, or machine learning powered autonomy.
+            - Are there AI/ML stacks that we don't know about? Or is ROS integration the assumption.
+            - Do we care about being part of a software ecosystem?
+            - Do we care or are limited by languages we want to use?
+            - How reliable does the software need to be. Hobby vs. Space Mission
+    6. brain and internal organs (cpu, power supply, sensors, etc)
         - ideas
         - questions
-    - Electrical connections
+    7. Configuration
         - ideas
         - questions
-    - Mechanical connection
-        - ideas
-        - questions
-    - Diversity in parts vs alternatives
-        - ideas
-        - questions
-    - Software modularity
-        - ideas
-        - questions
-    - brain and internal organs (cpu, power supply, etc)
-        - ideas
-        - questions
-    - Self configuration
-        - ideas
-        - questions
-    - NOT: checking how things work, power load, coordination
+    8. NOT: checking how things work, power load, coordination
+- pairs
+    - Software + Data/Bus Connection -- rhettg
+        - Proprietary or esoteric bus further limits what software you can use, languages available, etc. Ethernet + IP sure is nice. Also whatever is builtin to the platform (i2c on raspberry pi, serial, etc.) 
+            - Imagine the increased complexity of integrating a commercial driver for some hardware to speak a certain protocol into a microcontroller, compared to using wifi. 
+        - How much data do we need to move?
+        - What sort of latencies are dealing with? Same rover might have low-latency motor control and high bandwidth image processing.
+        - Is it software talking to other software at a high level, or just turning on a motor.
+    - Software + Mechanical connection -- Venkat
+        - pieces connected together should see themselves as a single thing but be individuals when separate... this should be seamless
+        - The larger the atoms, the easier this is: a set of big-atom 2-wheelers each with an RPi and power on board will connect in a way that composes a distributed computer in a serial topology basically
+        - Can each module have its own small brain (microcontroller or smaller all the way to RPi) talking across the mechanical connection?
+        - Can we make up a set of "common signals" that are polled for a global intelligence data stream? Eg. a sub-ROS module that puts out signals on 1 pin that alternates from "health" (0/1), energy level (0-256), etc. 
+        - Can the connection type reflect trust? Eg: bolted connection creates a high-trust ROS node but snap-on temp connection = low-trust messaging pathway
+    - Wireless + budget grey goo -- Jascha
+        - Software-defined mechanical connection.
+        - Why link together mechanically when motion can be coordinated between atoms? Is there actually mechanical force being transmitted over the physical connection out of necessity or is it just convenience?
+        - Can the sensing and actuation be completely decoupled? Is the headless horseman a useful or advantageous system architecture
+        - Wireless power transfer imposes serious constraints, but is feasible in certain circumstances.
+        - Does wireless provide advantages in the black box to black box interconnect standardization problem? How often is it actually net cheaper?
+    - bus + diversity [[Maier Fenster]]
+        - splitting data and power inside the unit can be a problem
+            - one solution is when we provide the interfaces part, that the interface includes non-reflecting circuitry 
+            - another solution is dedicated splitting and bus-end components, that have no structural function
+            - either way, we need some sort of bus ending to prevent reflections, power leakage, noise at open ends
+    - Mech + data/bus - anuraj
+        - choice of atomic unit affects of bus 
+- summary
+    - some basic issues affect many decisions
+        - robustness (as in a rugged rover) - defines connections, perhaps also module size
+        - what are the other top level design considerations
+            - 
