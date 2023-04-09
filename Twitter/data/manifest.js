@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "13470850",
-    "generationDate" : "2023-03-04T16:07:19.356Z",
+    "sizeBytes" : "13536183",
+    "generationDate" : "2023-04-08T14:52:54.600Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -55,7 +55,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-engagements.js",
         "globalName" : "YTD.ad_engagements.part0",
-        "count" : "0"
+        "count" : "2"
       } ]
     },
     "adFreeArticleVisits" : {
@@ -69,7 +69,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "0"
+        "count" : "1"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -188,11 +188,18 @@ window.__THAR_CONFIG = {
         "count" : "0"
       } ]
     },
+    "deletedNoteTweet" : {
+      "files" : [ {
+        "fileName" : "data/deleted-note-tweet.js",
+        "globalName" : "YTD.deleted_note_tweet.part0",
+        "count" : "0"
+      } ]
+    },
     "deletedTweetHeaders" : {
       "files" : [ {
         "fileName" : "data/deleted-tweet-headers.js",
         "globalName" : "YTD.deleted_tweet_headers.part0",
-        "count" : "0"
+        "count" : "1"
       } ]
     },
     "deletedTweets" : {
@@ -200,7 +207,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweets.js",
         "globalName" : "YTD.deleted_tweets.part0",
-        "count" : "0"
+        "count" : "1"
       } ]
     },
     "deletedTweetsMedia" : {
@@ -210,7 +217,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "8"
+        "count" : "11"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -267,7 +274,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2501"
+        "count" : "2490"
       } ]
     },
     "following" : {
@@ -281,14 +288,14 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "479"
+        "count" : "463"
       } ]
     },
     "like" : {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "83"
+        "count" : "84"
       } ]
     },
     "listsCreated" : {
@@ -302,7 +309,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/lists-member.js",
         "globalName" : "YTD.lists_member.part0",
-        "count" : "56"
+        "count" : "58"
       } ]
     },
     "listsSubscribed" : {
@@ -338,6 +345,13 @@ window.__THAR_CONFIG = {
         "fileName" : "data/ni-devices.js",
         "globalName" : "YTD.ni_devices.part0",
         "count" : "1"
+      } ]
+    },
+    "noteTweet" : {
+      "files" : [ {
+        "fileName" : "data/note-tweet.js",
+        "globalName" : "YTD.note_tweet.part0",
+        "count" : "0"
       } ]
     },
     "periscopeAccountInformation" : {
@@ -502,7 +516,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "2027"
+        "count" : "2061"
       } ]
     },
     "tweetdeck" : {
@@ -517,7 +531,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "2027"
+        "count" : "2061"
       } ]
     },
     "tweetsMedia" : {

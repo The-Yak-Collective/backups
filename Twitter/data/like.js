@@ -1,6 +1,13 @@
 window.YTD.like.part0 = [
   {
     "like" : {
+      "tweetId" : "1643629157799141379",
+      "fullText" : "Open call for today‘s call with something for everybody: \n“How to kick off a project w/ @HiredThought ”\n\n“One of the clearest thinkers on strategy I’ve ever met” — @tasshinfogleman\n\nhttps://t.co/4wsHsBHn6q\n\nOn Yak Collective Discord. Join https://t.co/7nv7Uo3q3n",
+      "expandedUrl" : "https://twitter.com/i/web/status/1643629157799141379"
+    }
+  },
+  {
+    "like" : {
       "tweetId" : "1598632188144193537",
       "fullText" : "@todd_x_y This is a pretty good shitpost because it's a binary use of the language for something which is inevitable and entirely non-binary :-)\nJoin @yak_collective and their distributed governance discussion.",
       "expandedUrl" : "https://twitter.com/i/web/status/1598632188144193537"
@@ -261,7 +268,6 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1271935817368457220",
-      "fullText" : "This was interesting to go through and got me thinking about how the world might change in the next decade. A few thoughts: 1) I wonder how many of these changes would have happened anyway, albeit slower, without COVID? And conversely how many would not have happened without it? https://t.co/HO7sUtlTjg",
       "expandedUrl" : "https://twitter.com/i/web/status/1271935817368457220"
     }
   },
@@ -471,6 +477,7 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1256864659895975936",
+      "fullText" : "@p_millerd I find your work extremely interesting and the @yak_collective “don’t waste the reboot” has been very thought provoking for me as someone working in consulting. \n\nI do have to point out the irony of you sharing all that in a 56 page slide deck...",
       "expandedUrl" : "https://twitter.com/i/web/status/1256864659895975936"
     }
   },

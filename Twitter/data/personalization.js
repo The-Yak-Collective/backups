@@ -39,6 +39,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Aphex Twin",
+            "isDisabled" : false
+          },
+          {
             "name" : "Aposto!",
             "isDisabled" : false
           },
@@ -55,11 +59,27 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Art",
+            "isDisabled" : false
+          },
+          {
             "name" : "Automobile Brands",
             "isDisabled" : false
           },
           {
             "name" : "B2B",
+            "isDisabled" : false
+          },
+          {
+            "name" : "BBC",
+            "isDisabled" : false
+          },
+          {
+            "name" : "BBC News",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Balenciaga",
             "isDisabled" : false
           },
           {
@@ -143,6 +163,18 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Dance & electronic",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Designer fashion",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Digital artwork",
+            "isDisabled" : false
+          },
+          {
             "name" : "Dining Out",
             "isDisabled" : false
           },
@@ -167,7 +199,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Dungeons & Dragons",
+            "isDisabled" : false
+          },
+          {
             "name" : "Education around the world",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Electronic music",
             "isDisabled" : false
           },
           {
@@ -183,11 +223,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Facebook",
+            "name" : "Entertainment industry",
             "isDisabled" : false
           },
           {
-            "name" : "Family & relationships",
+            "name" : "Facebook",
             "isDisabled" : false
           },
           {
@@ -263,7 +303,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Google Innovation",
+            "isDisabled" : false
+          },
+          {
             "name" : "Government institutions",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Guardians of the Galaxy",
             "isDisabled" : false
           },
           {
@@ -351,6 +399,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Midjourney",
+            "isDisabled" : false
+          },
+          {
             "name" : "Model figures",
             "isDisabled" : false
           },
@@ -435,7 +487,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Ryuichi Sakamoto",
+            "isDisabled" : false
+          },
+          {
             "name" : "Sandwiches",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Sauna",
             "isDisabled" : false
           },
           {
@@ -495,6 +555,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Tabletop gaming",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Tabletop role-playing games",
+            "isDisabled" : false
+          },
+          {
             "name" : "Tech news",
             "isDisabled" : false
           },
@@ -508,10 +576,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Television",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Tom Scott",
             "isDisabled" : false
           },
           {
@@ -602,16 +666,15 @@ window.YTD.personalization.part0 = [
           "numAudiences" : "0"
         },
         "shows" : [
+          "Clueless",
           "La reine des neiges",
           "MythBusters",
-          "Projeto Intelligence",
-          "South Park"
+          "Projeto Intelligence"
         ]
       },
       "locationHistory" : [
-        "Denver, CO, USA",
-        "Los Angeles, CA, USA",
-        "Lebanon, NH, USA"
+        "Hawthorne, CA, USA",
+        "Denver, CO, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [

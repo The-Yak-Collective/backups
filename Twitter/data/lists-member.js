@@ -1,6 +1,11 @@
 window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
+      "url" : "https://twitter.com/ajwaxman/lists/1641965791305236480"
+    }
+  },
+  {
+    "userListInfo" : {
       "url" : "https://twitter.com/riveranomics/lists/1580154842374250496"
     }
   },
@@ -257,6 +262,11 @@ window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
       "url" : "https://twitter.com/achurchassoc/lists/ea"
+    }
+  },
+  {
+    "userListInfo" : {
+      "url" : "https://twitter.com/adamshurwitz/lists/tech1"
     }
   },
   {

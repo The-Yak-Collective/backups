@@ -337,6 +337,13 @@ connected-application.js
 - permissions: List of permissions granted to the connected application by the Twitter account. For example: read or write.
 - id: Unique identifier for the application.
 ----------------------
+deleted-note-tweet.js
+- noteTweetId: Note Tweet id associated with a tweet
+- createdAt: Date and time a Note Tweet is created at
+- lifecycle: Lifecycle state of a note tweet
+- updatedAt: Date and time the lifecycle state of Note Tweet is updated at
+- core: Core fields for a note tweet such as entity information (hashtag, cashtag, url, mentions), richtext and text
+----------------------
 deleted-tweet-headers.js
 This JSON file contains metadata associated with Tweets that you have deleted, but have not yet been deleted from our production systems.
 - tweetId: Unique identifier for the Tweet
@@ -444,6 +451,13 @@ ni-devices.js
 - createdDate: Field indicating when the association between the device and the Twitter account was made.
 - updatedDate: Field indicating the last time this association was updated.
 - udid: Field indicating the application-generated device ID. This ID is unique to the device and persists through device updates, but not through device reinstallations.
+----------------------
+note-tweet.js
+- noteTweetId: Note Tweet id associated with a tweet
+- createdAt: Date and time a Note Tweet is created at
+- lifecycle: Lifecycle state of a note tweet
+- updatedAt: Date and time the lifecycle state of Note Tweet is updated at
+- core: Core fields for a note tweet such as entity information (hashtag, cashtag, url, mentions), richtext and text
 ----------------------
 periscope-broadcast-metadata.js
 - id: Unique id for the broadcast posted by the shell account.
