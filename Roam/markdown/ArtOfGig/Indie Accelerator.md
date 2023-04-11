@@ -61,4 +61,4 @@
     - April 5,2023
         - Meeting thread: https://discord.com/channels/692111190851059762/1083236200845955154
         - Voice channel: https://discord.com/channels/692111190851059762/698566364595486720/1093200682359738519
-        - 
+        - Meeting transcription/recording: https://otter.ai/u/-KmdMu2sbAj6735MztyEyukZF7Q 
