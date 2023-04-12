@@ -1,0 +1,22 @@
+- Uranus Cycle
+    - March 7: Gazebo simulator --- Eric
+    - March 14
+    - March 21
+    - March 28 - Jascha on 2-wheeler idea with OnShape
+    - April 4 -- modular
+    - April 11 - Second session on the 2-wheeler idea
+        - On going support documents:
+            - https://docs.google.com/spreadsheets/d/1FykRwccn5lINySqkuxCuumnPzT1lK6Yg2339UBMTvm8/edit?usp=sharing
+        - Goal is first to go to Mojave desert
+        - Mission principles
+            - Get to the field faster
+        - Milestones -- simple rover out very quickly
+    - Budget... ~$2000
+    - April 18 - System block diagram
+- Neptune Cycle
+- Pluto Cycle
+- Hopper
+    - Hello world topic ideas
+        - API (Rhett/Anuraj)
+        - Gazebo (Eric)
+        - RISCV (Anuraj) -- FPGA
