@@ -62,3 +62,11 @@
         - Meeting thread: https://discord.com/channels/692111190851059762/1083236200845955154
         - Voice channel: https://discord.com/channels/692111190851059762/698566364595486720/1093200682359738519
         - Meeting transcription/recording: https://otter.ai/u/-KmdMu2sbAj6735MztyEyukZF7Q 
+    - April 12, 2023
+        - Meeting transcription: 
+        - Drew
+            - Mainly drawing from Taleb's book. Taxi driver vs. Salaried employee. 
+            - 
+        - Jenna
+            - Car loan (modern economy is actually unsuitable for indies)
+            - How do we collaborate together? Tough to move money around and sharing the fruits of the labor together. 
