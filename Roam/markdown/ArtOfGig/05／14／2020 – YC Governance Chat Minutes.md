@@ -19,9 +19,9 @@
     - Being minimum viable new institutions.
 - [[Scott Garlinger]]
     - https://the-syllabus.com/
-- [[Alex Wagner]]
 - How to create a Grand Unifying Problem to create "head-in-the-game" culture for Yaks.
     - Existential threats are great, but so is an effective, and urgent narrative.
+- [[Alex Wagner]]
 - The "Apprentice Yak"-level.
     - We can do a project that a traditional firm can't, we can apply a higher-level of sophistication to a Mechanical Turk-style process.
     - Skeptical of medieval guild-style hierarchy
