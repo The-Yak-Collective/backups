@@ -5,6 +5,11 @@
 - Step 4 (5 min each) - each yak present their ideas and questions 
 - Step 5 (10 min) pairing subjects. take one idea from each of two subjects and say how they work together. does in parallel, in writing
 - Step 6 Summary and discuss linking a mission to some sort of parametrization
+- Step 7 - (15 min) each yak comes from home (ok, 15 min at start) with 1-3 ideas of what a modular robotic system/kit looks like. 
+    - reminder - this is the start of such a design, so a vision is enough
+- Step 8 - (5 min) each yak select one configuration to present
+- Step 9 - (20 min) group mashup to define a proposal
+- step 10 - (10 min) reality-check: loopback to how design will be used and sample missions
 - subjects:
     1. Data power bus - jascha
         - ideas
@@ -70,13 +75,110 @@
             - Do we care about being part of a software ecosystem?
             - Do we care or are limited by languages we want to use?
             - How reliable does the software need to be. Hobby vs. Space Mission
-    6. brain and internal organs (cpu, power supply, sensors, etc)
+    6. brain and internal organs (cpu, power supply, sensors, etc) -- Eric
         - ideas
+            - Organ categories: Compute, Power, Sensor, Actuator? Assuming radio/comm is sensor.
+            - Identify MVOs---Minimum Viable Organisms---a series of fully-functioning matriochkas
+            - Redundancy, fall backs and fail safes in structuring/validating the doll layers.
+            - Scavengability scope and limits: What is the minimal MVO? What component dependency make some critical? Notion of component criticality (higher criticality=# component links, lower scavengability)
+            - Swapability of components, related to their criticality (a bit like RAID0-5, iSCSI, etc disks in data storage)
+            - Compute split lizard / neocortex sides, for energy management and fail safe.
+            - Test framework along system layers
         - questions
-    7. Configuration
+            - Other categories?
+            - Reliable energy lookup table per component
+            - How to test MVOs, and automate testing? For reproducible tests.
+    7. Configuration -- [[Robert Peake]]
         - ideas
+            - Universal configuration, component distribution (SBC, microcontroller, etc.)
+                - Configuration compilation and application intervals (game loops)
+                - Runtime v compile-time
+            - Configuration as code (Puppet, Chef, Ansible, Docker, Kubernetes)
+                - Declarative / idempotent configuration and reconfiguration
+            - Decentralised configuration (octopus mode)
+            - Linting and confidence; failures of intent v. failures of syntax
+            - Easter eggs :)
+            - Environment as configuration (beacons, waypoints, other guides)
+            - Machine learning versus machine telling (hyperparameters and toggle switches)
+            - Minimum viable imperatives and RFC-style protocol declarations (opposite of configuration is discovery - Venkat; configuration opposed to convention - Eric) leads to "negotiation based on discovery" and "reconfiguration based on new conventions"
+                - Language: should, should not, must, must not, always, never
         - questions
-    8. NOT: checking how things work, power load, coordination
+            - What needs to be preconfigured?
+            - What needs to be configured on-the-fly? How long does it take? Can we have contact? From where?
+            - At what rate does configuration apply? Hardware clock? Fixed pulse? Set it and forget it?
+            - What needs to be self-configuring? What is disk and what is RAM?
+            - To what extent does "configuration" manifest as analog?
+            - What elements need to be absolute, what need to be "negotiable"
+            - How do we demystify a dark art (smtpd)?
+    8. modularity on existing bot  -- Venkat
+        - ideas
+            - Basically a stylized build vs. buy decision: teardown systematically and ask how each part can be replaced with a more standard, more general part
+            - Design for monolithic first: ideal design, assuming all bespoke parts and then modularize (like in chips: monolithic --> SoC/IP) OR go the other way (Tesla)
+            - Separate architecture into a chasis+fabric/interconnect component (more bespoke) and swappable modules -- centralize the non-modular bits into the fewest systemic pieces
+            - Alternative approach: shrink minimal core and have a lot more "hard points" with flexible extension capabilities. Payload deck is hte obvious one, but also: wheel hubs, a manipulator with generic end-effector etc.
+            - Put design in the "extended universe" of an existing design language. Eg. mechanical components should use meccano standards (hole spacing, fastener size) 
+            - "Teardown for modularity..." (as opposed to "design for modularity")
+        - questions
+            - How does this apply specifically to the Yakasaur bot Jascha is designing
+                - Eg: put physical geometry into "meccanno space"
+                - Design standoffs to hold multiple candidate cards (RPi, BBB)
+                - Payload deck should be open to standard sensors
+                - Converged design BUT with component choices? Eg: pick a shaft size and a motor minimum rating, but design chassis to hold at least 2 motors
+                - Pick a few components, eg. wheels, to be for many swappable units
+            - What is a "test" for modularity? Interchangeable parts among instances of same design obviously, but what else?
+                - "Improvised field repairability? If a robot breaks down in some way, can you improvise a repair using random stuff? 
+            - What are general properties that measure modularizability of an existing bot? Is Spot the dog more or less modularizable than Roomba?
+            - 
+    9. base station -- Jascha
+        - ideas
+            - Immobile?
+                - Provides resources that are expensive to constantly carry around (ie. heavy stuff/large volume/low density object)
+                - Provides resources that require large surface area (ie. solar, antenna aperture area)
+                - Compute?
+                - Immobile (not self-propelled), but movable by rovers.
+                - Exists in physically distinct environment (ie. comms satellite)
+            - Mobile
+                - Individual rovers can assume the base station "role"
+                - Multiple rovers can "platoon" or physically link to assume base station role
+            - How expensive?
+                - Maybe it is so cheap to build a base station, you build it and then abandon when you need to build another (ie. starcraft pylons)
+        - questions
+            - Definition? Potentially very consequential architecturally
+            - When must a base station differ from a rover, and how? Can a rover serve all base station functions?
+            - Can multiple rovers (atoms) combine to form a base station? Is a base station a molecule?
+            - Can rovers move the base station, if it is a discrete and separate element?
+    10. power supply - [[Maier Fenster]]
+        - ideas
+            - power supply is modular so you can add storage and/or power output as needed
+                - power blocks may have own unique connectors for mating
+            - power supply is distributed, so adding power means plugging a power block somewhere
+                - could result in more than one power bus
+            - separate storage, power delivery (bus control), power monitoring, power source finding and power acquisition functions - each its own component(s)
+                - some of these components may have a software side - maybe they talk to main brain or upload to it. or maybe not. in any case, probably need some smarts and a data connection. data connection can be wireless, as low bandwidth compared to video.  
+                    - perhaps map to metabolic system (liver, pancreas) in human
+                    - consider all data to be wireless - maybe we do not need much bus, just power distribution
+            - power modules associated with power-using components, like motors. again - maybe a dedicated connector. maybe dedicated bus
+                - but want it to be easy to recharge them all together - manual attach/detach all for charging big headache. if we agree to slow charging, can use data/power bus or just data bus
+                - option of all the power elements being a single component, like a layer/net, that we add onto device and can detach as a unit. yes, limits geometrical options. actually, same design can be used for data. cut to size? assemble separately?
+        - questions
+            - how do we know and then deal with power needs, when user can simply add on power sinks uncontrollably
+            - can we leave power design to user
+            - is power cycle time something we want to set ahead of time? limit in some way or enable all options
+            - soft fail on power issues - how do we make it so?
+    11. sensors and end effectors -- [[Anuraj R]]
+        - ideas
+            - cameras, lidars are light based. radars use other part of the electromagnetic spectrum
+            - magnetometers, odometers, gyroscopes, temperature sensors, ultra sonic, current sensors, 
+            - radioactivity sensors, water detection, 
+            - complex sensors made to detect water and other chemicals that are on a base station and other robots bring in samples
+            - what sort of protection is needed for the sensors
+            - modular end effectors to allow different types of manipulation and combine it with sensing
+            - self identificaiton of sensors
+        - questions
+            - What do we want sense? proprioception vs interception
+            - What kind of sensors do work in the given environment. Eg Moon does not have any magnetic poles so this rules out magnetometer 
+            - power considerations of the sensors
+            - How can we do this based parts that are used to construct the body of the rover
 - pairs
     - Software + Data/Bus Connection -- rhettg
         - Proprietary or esoteric bus further limits what software you can use, languages available, etc. Ethernet + IP sure is nice. Also whatever is builtin to the platform (i2c on raspberry pi, serial, etc.) 

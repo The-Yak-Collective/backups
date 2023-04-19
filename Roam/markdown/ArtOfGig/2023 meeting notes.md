@@ -13,7 +13,13 @@
         - Milestones -- simple rover out very quickly
     - Budget... ~$2000
     - April 18 - System block diagram
+        - Maier on modularity, round 2
+        - https://roamresearch.com/#/app/ArtOfGig/page/NFUD7XhbS
+        - Covered all listed topics. Started paired topic reviews.
 - Neptune Cycle
+    - April 24
+    - May 1
+    - May 8
 - Pluto Cycle
 - Hopper
     - Hello world topic ideas
