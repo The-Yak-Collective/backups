@@ -11,15 +11,24 @@
         - Mission principles
             - Get to the field faster
         - Milestones -- simple rover out very quickly
-    - Budget... ~$2000
+        - Budget... ~$2000
     - April 18 - System block diagram
         - Maier on modularity, round 2
         - https://roamresearch.com/#/app/ArtOfGig/page/NFUD7XhbS
         - Covered all listed topics. Started paired topic reviews.
 - Neptune Cycle
-    - April 24
-    - May 1
-    - May 8
+    - April 25 - Design review
+        - https://docs.google.com/spreadsheets/d/1FykRwccn5lINySqkuxCuumnPzT1lK6Yg2339UBMTvm8/edit
+        - Mission
+            - Mission: Drop off a cheap rover that we are willing to lose, and operates for a few days at least (Rhett)
+            - BIG mission constraint: Not on WiFi...
+        - Discussion on whether or not to add a base station, what the mission means.
+        - Some preliminary task/topic allocations.
+        - Relevant to add making a PCB
+            - Avoid wild and unreliable jumper wiring
+            - Post-meeting extra: Sure on PCB, but after some time when clear that wiring layout and requirements are stable.
+    - May 2
+    - May 9
 - Pluto Cycle
 - Hopper
     - Hello world topic ideas
