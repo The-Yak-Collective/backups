@@ -31,12 +31,12 @@
                 - 350
                     - {{calc: ((ju_oDFArd))-((J8qui4FDZ))}}
                         - [[Sachin Benny]]
-    - mm//dd/yy
-        - __next tx__
-            - -
-                - 0
-                    - {{calc:((CDgAwVdhy))-((-t2sDCsh9))}}
-                        - tbd
+    - 4/15/23
+        - Sustaining Views
+            - Credit
+                - 2000
+                    - {{calc:((CDgAwVdhy))+((-t2sDCsh9))}}
+                        - [[Maier Fenster]]
     - mm//dd/yy
         - __next tx2__
             - -

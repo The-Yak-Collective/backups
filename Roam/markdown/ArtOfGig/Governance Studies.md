@@ -10,6 +10,60 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Top Talent
+        - https://nadia.xyz/top-talent
+        - Jenna
+            - unease w/ idea of best and brightest
+            - how do we raise all boats?
+            - Burn Notice, The Last Dip
+                - the cleverest person solves complicated problems
+                - navy has long tradition of teaching people to be clever
+            - difference between A player and linchpin
+                - so much openness to neurodiversity...those people are also very good at very specific things, they just need that thing
+        - Kiran
+            - concern about putting 10x developer on pedestal
+            - saving grace for distributions
+                - lots of movement that happens underneath
+                - tendency in tech of thinking of people as being really good at what they do
+                    - but high performance can be anomaly, sometimes you hit rough spots, stuck in realm of mediocrity
+                - perhaps more representative of a snapshot in time
+            - don't think companies are aware of these tendencies
+                - recent tech layoffs...nobody understands the choices that are being made
+                - high performance is very subjective
+            - thinking about rules
+                - relation between thick/thin rules and the type of talent distribution you choose
+                - thick - people need to cut through complexity
+                - thin - probably need bureacrats to step in and help
+        - Venkat
+            - does believe the model is fundamentally correct as a description of what you see
+                - but it doesn't explain why
+                - no use getting mad about it
+                - might choose one based on preference
+            - bimodal distribution
+                - 10x is a bad label
+                - two different subtypes
+                    - neurodivergent person, other trait, which makes you exceptionally good at a thing
+                        - this category isn't conflated with 10x dev category
+                        - people like this often flounder
+                    - someone who has undergone orginzational enlightenment
+                        - found ownership, permissionlessness, agency
+                        - find things that they can own
+                        - when you remove blockers of effectiveness, your relationship to authority/constraints/etc, you feel a sense of ownership that allows person from exercising agency
+            - Feyman biography
+                - talent vs. genius
+                    - you can grind it out, or you can just see things entirely different
+            - two subtypes of bimodal org
+        - Grigori
+            - recruitment and firing is broken most places
+            - if you think about pareto distribution, you hiring mgmt consultancy
+            - most companies are unaware of distribution, bad at hiring, but good at pretending that talent program is good
+            - you can't really choose a distribution of talent
+                - not really a good definition of talent in the original study
+                - often talking about executive talent anyways
+            - simplest distribution of talent: whoever gets the job done
+                - nature of work is changing
+            - impossible to apply to small businesses (see exec talent point above)
+                - talent is scale-dependent
     - Fri, Mar 31st, 2023: https://gk3fyi.substack.com/p/the-cost-of-craft 
         - Ananth
             - tension between craft and metrics: football / soccer 
