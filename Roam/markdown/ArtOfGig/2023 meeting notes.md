@@ -28,6 +28,7 @@
             - Avoid wild and unreliable jumper wiring
             - Post-meeting extra: Sure on PCB, but after some time when clear that wiring layout and requirements are stable.
     - May 2
+        - [[Modular Robots Kit Brainstorm]] 
     - May 9
 - Pluto Cycle
 - Hopper

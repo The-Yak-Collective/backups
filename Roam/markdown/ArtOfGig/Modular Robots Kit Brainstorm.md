@@ -1,0 +1,49 @@
+- Step 7 - (15 min) each yak comes from home (ok, 15 min at start) with 1-3 ideas of what a modular robotic system/kit looks like.
+- rhettg (who probably isn't following directions)
+    - Need a customer: hard to design anything without constraints on cost, technical ability, need, etc.
+    - Need experience: hard to build a reusable kit without building a lot of robots to see what works.
+        - DRY (don't repeat yourself) vs. YAGNI (you aren't going to need it)
+    - Scale: What level of abstraction?
+        - High-level: The kit is a protocol for robots to interact. Anyone can build a "module" that speaks the protocol to other robots.
+        - Low-level: Plug these boxes together. One is a battery, one is compute, one is a motor. m5stack.com
+        - Software Only: Maybe the hardware doesn't matter as long as it can run x. Just buy a kit with a raspberry pi.
+        - Hardware Only: Maybe the software doesn't matter, because it's all provided and off-the-shelf.
+        - (does the above fit in a 2x2?)
+    - What does a non-modular robot look like?
+- Venkat
+    - Bogie system
+        - Build around smart "bogies" (2 wheelers like motorcycles) that can grasp a variety of chassis types from the sides (basic container, a manipulator platform etc)
+        - Chassis types: basic open container, manipulator platform, compute platform, comms...
+        - Chassis types can link up to form trains
+        - Wheels can go passive -- they are low powered
+        - Can have an "engine" type that provides higher traction
+    - Hub-spoke platform
+        - "Hub" is a complete, minimalist, integrated, non-modular rover
+        - "Spokes" are extensible artifacts -- wheel hubs, manipulators with end-effectors, etc
+        - The "spoke" end pieces form a ("library" of parts that are stored in bays in the main rover but can be swapped out (so maybe 10 slots can be filled with a variety of options)
+        - Hard points
+    - Yakasaur -- modular version
+        - Take Jascha's basic approach and modularize it
+        - Minimum definition: the wheel units, middle+tail, payload have to be completely interchangeable
+        - 
+- maier:
+    - option 1: some sort of existing construction toy. we provide an addon which provide data and power between attached components. the construction toy parts can be 3d printed. desirably, the data is all Bluetooth links, so we only have power connectors. "internal organs" are all in one central block, which can be upgraded. motorized parts need to be smarter. connections are manually robust
+    - option 2: we define a set of building blocks and a set of terminal leaves, like motors, sensors. many can be 3D printed. the blocks have a conduit for cables, which we use standard cables and connectors for something like the CAN bus. motorized parts do not need to be smart. connections are manually robust.
+    - option 3: we focus only on add-ons. a set of components which can be added to existing robots. so two types of connectors - one to existing structures and one between units.  
+    - in all cases, brain is not tiny - i want a Pi4, at least. running something like ROS. configuration will be self-configuration - so parts desirably report that they were added. somehow. robust power supply. base station can be same build as bot, just no motors and probably more power storage.
+- anuraj:
+    - each part of the robot that get connected to robot has a small microcontroller brain except the chassis. eg sensor, gripper, wheel 
+    - wheeled modular robot 
+        - {{[[video]]: https://www.youtube.com/watch?v=AIrH01N9AsE}}
+- proposed structure:
+    - smart components with similar processors (Arduino like)
+        - no "heart", but a box (with same capability as other atoms) can be dedicated to control other components.
+    - data bus (bluetooth/wifi? dedicated video bus?) needs to be wide enough to have processors work together
+        - may be separate from the i2c or other hardware control/data bus
+    - modular power storage for a base station
+    - atoms of single function - chassis, wheel, camera, gripper, power source, comm (at least) 
+        - maybe some flexible atoms as well, at least for chassis parts
+        - form factor modularity -1U, etc.
+            - some components - like solar collector might be non-standard, but with a standard base
+    - connection using screws - have a pattern of holes
+    - each atom has its own PCB (if any needed)
