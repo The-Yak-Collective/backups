@@ -84,22 +84,30 @@
         - __Permission to Slow Down__, Nat Eliason. https://blog.nateliason.com/p/slow
 - ### Door 4 | Play with movement snacks
     - {{[[TODO]]}} Share your movement snack experiments on the YC Discord yakfit-💪 channel.
-    - https://twitter.com/caseyjohnston/status/1609612543701536768
-    - All kinds of options for movement snacks these days!
-        - Katy Bowman
-            - [Move All Day](https://www.nutritiousmovement.com/move-more-without-exercise/)
+    - All kinds of options for movement snacks these days, old and new
+        - {{video: https://youtu.be/CxBbm7w1Ems}}
+        - [Katy Bowman - Move All Day](https://www.nutritiousmovement.com/move-more-without-exercise/)
             - > Most days, I move first thing in the morning. I walk with a friend, so that my “movement time” is also my “coffee with a friend” date. Stacking my life this way, getting movement and something else I need/love to do, is key to fitting it all in. I always wear minimal shoes. A wide, flexible, and totally flat shoe means when I move, more of me is moving! At home, our family uses low tables and the floor instead of sitting in couches and chairs. When I am working, I have a dynamic workstation (I don’t work in the same position all the time), and I take movement breaks at my desk. While I am home, I use objects in and around my home to facilitate movement and I break up my workday with chores. Also, I take calls and do errands on foot, often at the same time. The bulk of our family time (before and after school, weekends, holidays) is spent outside, moving. We typically walk wherever we go—if we’re not going to walk the whole way there, then we park at a distance and walk the rest of the way.
-        - Original Strength
-            - https://www.youtube.com/@OriginalStrengthSystem
-            - shoulder rotation https://www.youtube.com/watch?v=GadACcgWDcM
-            - seated rolls https://www.youtube.com/watch?v=iUGAS3WzHx0 
+        - https://twitter.com/sc_sager/status/1611038150125649921
+        - [Original Strength](https://www.youtube.com/@OriginalStrengthSystem)
+            - {{video: https://www.youtube.com/watch?v=GadACcgWDcM}}
+            - {{video: https://www.youtube.com/watch?v=iUGAS3WzHx0}}
         - Strength Side
             - {{video: https://youtu.be/VvYKtA-eIVU}}
-            - many good short like: https://youtube.com/shorts/N2Zsq6AVUCk
-        - MovNat
-        - Ido Portal
+            - many good shorts like: https://youtube.com/shorts/N2Zsq6AVUCk
+        - [MovNat](https://www.movnat.com/)
+            - {{video: https://youtu.be/JKCVAC8QlRo}}
+            - [Sample MovNat Daily Workout](https://mailchi.mp/90398cbb003d/z9z1cw5gwt-2767437)
+            - [MOD daily workout video playlist](https://youtube.com/playlist?list=PLC5sbdn5ESCSKU66Fbp6stQFPLaNQ8rib)
+        - [Ido Portal](http://www.idoportal.com/) 
+            - Ido’s gotten more water, less fire with time:
+                - {{video: https://youtu.be/2x_jzFq6QQs}}
+                - {{video: https://youtu.be/ybi2iL2ESkM}}
         - MovementbyDavid "stay flexy"
             - uptempo quick hits of movement inspo eg
+                - {{video: https://youtu.be/cofNfQAmtQ4}}
+                - {{video: https://youtu.be/UJ04zchVHIE}}
+                - {{video: https://youtu.be/eQHmKJh20_c}}
                 - short: https://youtube.com/shorts/c5dog2sRz-4
                 - short: https://www.youtube.com/shorts/XMnJxoI8D3E
         - Dan Kleiman 
@@ -126,18 +134,17 @@
             - Four energies of tai chi — https://www.youtube.com/watch?v=Wk0PCIAxD1c
                 - > You will hear about the four energies and see demonstrations of them for a better understanding of tai chi.
         - Peter Attiah
-        - Andrew Huberman
-            - https://hubermanlab.com
-            - Huberman v Jocko
-                - https://hubermanlab.com/jocko-willink-how-to-become-resilient-forge-your-identity-and-lead-others/
+        - [Andrew Huberman](https://hubermanlab.com)
+            - https://twitter.com/sc_sager/status/1611159019200069632
+            - [Huberman and Jocko](https://hubermanlab.com/jocko-willink-how-to-become-resilient-forge-your-identity-and-lead-others/)
                 - two types of meditation fr Rick Rubin
                 - morning light exposure 
                     - cf my experience studying qigong in Kunming
-                - _generators vs projectors_
-            - Huberman v Ido Portal 
-                - https://hubermanlab.com/ido-portal-the-science-and-practice-of-movement/ 
+                - __generators vs projectors__
+            - [Huberman and Ido Portal](https://hubermanlab.com/ido-portal-the-science-and-practice-of-movement/)
+                - {{video: https://youtu.be/JMzThWHk4CQ}}
         - Kelly Starrett and Supple Leopard
-        - Stephen Kotler and his newest book
+        - Stephen Kotler and his new book
             - https://twitter.com/steven_kotler/status/1610305643994574848
             - https://www.gnarcountry.com/enter-the-gnar-course
             - https://www.gnarcountry.com/
