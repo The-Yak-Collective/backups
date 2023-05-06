@@ -1,98 +1,99 @@
-  1/ 93 ./parser-output/media/1588560444226437120-FguzTP-UYAALJbW.jpg: SUCCESS. New version is 112% larger in bytes and 191% larger in pixels. 0.7MB downloaded
-  2/ 93 ./parser-output/media/1256637591824236548-EXB5NvsU8AAhZmG.jpg: SUCCESS. New version is  53% larger in bytes and  85% larger in pixels. 0.1MB downloaded
-  3/ 93 ./parser-output/media/1256045909126848512-EW5ex0YXsAMLY43.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
-  4/ 93 ./parser-output/media/1255582970393624576-EWy6AQvX0AIsegQ.jpg: SUCCESS. New version is 140% larger in bytes and 156% larger in pixels. 0.4MB downloaded
-  5/ 93 ./parser-output/media/1255370726858776577-EWv5AhYWAAAVrdi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
-  6/ 93 ./parser-output/media/1556854606986186753-FZsPA9UX0AAAudw.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
-  7/ 93 ./parser-output/media/1541621028996034560-FWTwF-AUEAA5f3e.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
-  8/ 93 ./parser-output/media/1541611418079961088-FWTnamAXEAAlaw4.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
-  9/ 93 ./parser-output/media/1538945987816919042-FVtvOBUWYAEvOJy.jpg: SUCCESS. New version is 201% larger in bytes and 418% larger in pixels. 0.3MB downloaded
- 10/ 93 ./parser-output/media/1531418784304492544-FUCxRC-UYAAmkeA.jpg: SUCCESS. New version is  80% larger in bytes and 191% larger in pixels. 0.3MB downloaded
- 11/ 93 ./parser-output/media/1501061780222607362-FNTXsm4VEAA9PIl.jpg: SUCCESS. New version is  41% larger in bytes and  58% larger in pixels. 0.0MB downloaded
- 12/ 93 ./parser-output/media/1495992978359287810-FMLVb2NVgAI2IkP.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 13/ 93 ./parser-output/media/1495990144431628291-FMLTAALUUAEArHe.jpg: SUCCESS. New version is  86% larger in bytes and 148% larger in pixels. 0.2MB downloaded
- 14/ 93 ./parser-output/media/1490033001505247233-FK2pHenVgAgqHfX.jpg: SUCCESS. New version is  96% larger in bytes and 191% larger in pixels. 0.1MB downloaded
- 15/ 93 ./parser-output/media/1488402973835157504-FKfeihlUcAIt-SZ.jpg: SUCCESS. New version is  64% larger in bytes and 113% larger in pixels. 0.1MB downloaded
- 16/ 93 ./parser-output/media/1488391650577575936-FKfUKl3VkAIdhSb.jpg: SUCCESS. New version is 113% larger in bytes and 219% larger in pixels. 0.1MB downloaded
- 17/ 93 ./parser-output/media/1487110341884399617-FKNG-QaVkAErYth.jpg: SUCCESS. New version is  77% larger in bytes and 191% larger in pixels. 0.2MB downloaded
- 18/ 93 ./parser-output/media/1478238978469863425-FIPCg5RXwAElj10.jpg: SUCCESS. New version is  84% larger in bytes and 191% larger in pixels. 0.2MB downloaded
- 19/ 93 ./parser-output/media/1470812631434858504-FGlgR4EVgAUsMMV.jpg: SUCCESS. New version is 126% larger in bytes and 241% larger in pixels. 0.2MB downloaded
- 20/ 93 ./parser-output/media/1470800966815731712-FGlVrSgUYAQyqs3.jpg: SUCCESS. New version is 141% larger in bytes and 260% larger in pixels. 0.2MB downloaded
- 21/ 93 ./parser-output/media/1470782464436191245-FGlE1UmXoAQx8fA.jpg: SUCCESS. New version is  84% larger in bytes and 180% larger in pixels. 0.2MB downloaded
- 22/ 93 ./parser-output/media/1470779331333001222-FGlB-6TWQAMXK9T.jpg: SUCCESS. New version is 124% larger in bytes and 180% larger in pixels. 0.2MB downloaded
- 23/ 93 ./parser-output/media/1470774987959250950-FGk-CMvXEAUVbzo.jpg: SUCCESS. New version is 165% larger in bytes and 326% larger in pixels. 0.2MB downloaded
- 24/ 93 ./parser-output/media/1470092648153292800-FGbRDjjWYAE8aki.jpg: SUCCESS. New version is 191% larger in bytes and 418% larger in pixels. 0.2MB downloaded
- 25/ 93 ./parser-output/media/1470092648153292800-FGbRDjeWUAcCdAi.jpg: SUCCESS. New version is 200% larger in bytes and 418% larger in pixels. 0.4MB downloaded
- 26/ 93 ./parser-output/media/1470092648153292800-FGbRDjgXEAUbVBw.jpg: SUCCESS. New version is 200% larger in bytes and 418% larger in pixels. 0.3MB downloaded
- 27/ 93 ./parser-output/media/1470085088419651586-FGbKglJXMAYZ2WO.jpg: SUCCESS. New version is 417% larger in bytes and 792% larger in pixels. 0.6MB downloaded
- 28/ 93 ./parser-output/media/1470085088419651586-FGbKkgBWQAUYSZa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 29/ 93 ./parser-output/media/1470085088419651586-FGbKkgEWUAcCtEf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 30/ 93 ./parser-output/media/1470085088419651586-FGbKkgDWQAkQmGa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 31/ 93 ./parser-output/media/1470081976480763905-FGbHeyZX0AYM6wF.jpg: SUCCESS. New version is 499% larger in bytes and 792% larger in pixels. 0.6MB downloaded
- 32/ 93 ./parser-output/media/1470081976480763905-FGbHeyhXMAcsTN0.jpg: SUCCESS. New version is 544% larger in bytes and 792% larger in pixels. 0.7MB downloaded
- 33/ 93 ./parser-output/media/1470081976480763905-FGbHezdXMAUCKoV.jpg: SUCCESS. New version is 557% larger in bytes and 792% larger in pixels. 0.7MB downloaded
- 34/ 93 ./parser-output/media/1470081976480763905-FGbHeyiXsAAr5mS.jpg: SUCCESS. New version is 592% larger in bytes and 861% larger in pixels. 0.7MB downloaded
- 35/ 93 ./parser-output/media/1470080594780594187-FGbGfdGWYAUpkIi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 36/ 93 ./parser-output/media/1470080594780594187-FGbGfdIXwAA0W4R.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 37/ 93 ./parser-output/media/1470080594780594187-FGbGfdIWYA4Tv-O.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 38/ 93 ./parser-output/media/1470080594780594187-FGbGfdMX0AYIJt9.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 39/ 93 ./parser-output/media/1470078961443033097-FGbD_0uX0AwUrAE.jpg: SUCCESS. New version is 428% larger in bytes and 792% larger in pixels. 0.6MB downloaded
- 40/ 93 ./parser-output/media/1470078961443033097-FGbECsaWQAItBLH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 41/ 93 ./parser-output/media/1470076776504254471-FGbCntQXoAkPjoy.jpg: SUCCESS. New version is 456% larger in bytes and 792% larger in pixels. 0.4MB downloaded
- 42/ 93 ./parser-output/media/1470076776504254471-FGbCntVWYAYx_xv.jpg: SUCCESS. New version is 458% larger in bytes and 792% larger in pixels. 0.4MB downloaded
- 43/ 93 ./parser-output/media/1470076110167814153-FGbCMlJXIAACPYy.jpg: SUCCESS. New version is 397% larger in bytes and 792% larger in pixels. 0.5MB downloaded
- 44/ 93 ./parser-output/media/1470076110167814153-FGbCQeqWQAg_W2v.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 45/ 93 ./parser-output/media/1470076110167814153-FGbCQesX0AcYWRc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 46/ 93 ./parser-output/media/1470076110167814153-FGbCQetWUAEvOed.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 47/ 93 ./parser-output/media/1470075032881803280-FGbBCjKXoAgHq5M.jpg: SUCCESS. New version is 519% larger in bytes and 792% larger in pixels. 0.6MB downloaded
- 48/ 93 ./parser-output/media/1470075032881803280-FGbBCjKWQAMhyQf.jpg: SUCCESS. New version is 528% larger in bytes and 792% larger in pixels. 0.6MB downloaded
- 49/ 93 ./parser-output/media/1470069959380418566-FGa710gXEAAFk2r.jpg: SUCCESS. New version is 509% larger in bytes and 792% larger in pixels. 0.6MB downloaded
- 50/ 93 ./parser-output/media/1470069959380418566-FGa710iX0Ac8-uQ.jpg: SUCCESS. New version is 500% larger in bytes and 792% larger in pixels. 0.6MB downloaded
- 51/ 93 ./parser-output/media/1470069959380418566-FGa8HFdXIAk6Bvj.jpg: SUCCESS. New version is 509% larger in bytes and 792% larger in pixels. 0.7MB downloaded
- 52/ 93 ./parser-output/media/1470069959380418566-FGa8tjKWQAMf3fi.jpg: SUCCESS. New version is 509% larger in bytes and 792% larger in pixels. 0.6MB downloaded
- 53/ 93 ./parser-output/media/1470064890677186561-FGa4HPuXEAMRNlg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 54/ 93 ./parser-output/media/1470064890677186561-FGa4HP0XIAcvz6a.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 55/ 93 ./parser-output/media/1470064890677186561-FGa4HPyXoAsFKK3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 56/ 93 ./parser-output/media/1470064890677186561-FGa4HP4XMAkks5a.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 57/ 93 ./parser-output/media/1470063948984692750-FGa2-h0XoAYGFui.jpg: SUCCESS. New version is 525% larger in bytes and 792% larger in pixels. 0.7MB downloaded
- 58/ 93 ./parser-output/media/1470061647763021824-FGa1QfEX0AQsyAd.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 59/ 93 ./parser-output/media/1470061647763021824-FGa1QfGX0A45OBa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 60/ 93 ./parser-output/media/1470061647763021824-FGa1QfGXIAMQMvC.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 61/ 93 ./parser-output/media/1470061203041009672-FGa02DNXMAAc6Fz.jpg: SUCCESS. New version is 505% larger in bytes and 792% larger in pixels. 0.7MB downloaded
- 62/ 93 ./parser-output/media/1470059362739793924-FGazHIqXMAckFcT.jpg: SUCCESS. New version is 349% larger in bytes and 458% larger in pixels. 0.5MB downloaded
- 63/ 93 ./parser-output/media/1470058580871192582-FGaybSvXMAYKuZ1.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 64/ 93 ./parser-output/media/1470058580871192582-FGaybTKWUAQiWAn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 65/ 93 ./parser-output/media/1470058580871192582-FGaybTOWYAQK0Ah.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 66/ 93 ./parser-output/media/1470058580871192582-FGaybTKWQA42fKp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 67/ 93 ./parser-output/media/1470058206697340928-FGayI4gXIAM9u8m.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 68/ 93 ./parser-output/media/1470057737589600258-FGaxtnYXwAIpxtV.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 69/ 93 ./parser-output/media/1470057644178161669-FGaxn5SXwAEeihD.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 70/ 93 ./parser-output/media/1470057243617943556-FGaxQl8WYA4ND89.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 71/ 93 ./parser-output/media/1470057091079487490-FGaxG36XwAQLgDB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 72/ 93 ./parser-output/media/1470052361322348546-FGaspmZXIAIZh0l.jpg: SUCCESS. New version is 126% larger in bytes and 147% larger in pixels. 0.2MB downloaded
- 73/ 93 ./parser-output/media/1469753681134305280-FGWcRPxVUAEOxBP.jpg: SUCCESS. New version is 158% larger in bytes and 224% larger in pixels. 0.4MB downloaded
- 74/ 93 ./parser-output/media/1614315331001909255-Fmcy6DgXoAABjBJ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 75/ 93 ./parser-output/media/1456740512342282240-FDdhxcfVEAUn6cf.jpg: SUCCESS. New version is  47% larger in bytes and  88% larger in pixels. 0.1MB downloaded
- 76/ 93 ./parser-output/media/1432569037955891201-E-GBx2pUUAQjJaN.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 77/ 93 ./parser-output/media/1417346512250572800-E6ttIjKUYAIUre-.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 78/ 93 ./parser-output/media/1414021328684953602-E5-c577WQAAIbEB.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 79/ 93 ./parser-output/media/1414020231874367488-E5-b6FBWQAAT0K9.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 80/ 93 ./parser-output/media/1411343274908999681-E5YZOpsWYAE658g.jpg: SUCCESS. New version is  37% larger in bytes and  62% larger in pixels. 0.1MB downloaded
- 81/ 93 ./parser-output/media/1611647712729989122-Fl25BiPXkAAak6F.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 82/ 93 ./parser-output/media/1610343456429473793-FlkWkRpaYAEdpj5.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 83/ 93 ./parser-output/media/1361973127744544768-EuazV1sXAAEGlpq.jpg: SUCCESS. New version is 180% larger in bytes and 154% larger in pixels. 0.6MB downloaded
- 84/ 93 ./parser-output/media/1337100105015382016-Eo5Vc4hU0AEntLB.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 85/ 93 ./parser-output/media/1336742399708557312-Eo0QIHAU8AABwgU.jpg: SUCCESS. New version is  87% larger in bytes and 191% larger in pixels. 0.2MB downloaded
- 86/ 93 ./parser-output/media/1333835737066733568-EoK8iEoUcAEjOEl.jpg: SUCCESS. New version is  92% larger in bytes and 191% larger in pixels. 0.2MB downloaded
- 87/ 93 ./parser-output/media/1333835164120596480-EoK8AtcVcAAbUtN.jpg: SUCCESS. New version is  97% larger in bytes and 191% larger in pixels. 0.3MB downloaded
- 88/ 93 ./parser-output/media/1333834578654420992-EoK7eqvUwAEsZxP.jpg: SUCCESS. New version is 103% larger in bytes and 191% larger in pixels. 0.2MB downloaded
- 89/ 93 ./parser-output/media/1333834144770527234-EoK7FYdVQAAcqtD.jpg: SUCCESS. New version is  88% larger in bytes and 191% larger in pixels. 0.1MB downloaded
- 90/ 93 ./parser-output/media/1333833799596064775-EoK6xQLVkAEZLIj.jpg: SUCCESS. New version is 103% larger in bytes and 191% larger in pixels. 0.3MB downloaded
- 91/ 93 ./parser-output/media/1333832682841653249-EoK5wTXVoAYlrIg.jpg: SUCCESS. New version is  41% larger in bytes and  53% larger in pixels. 0.2MB downloaded
- 92/ 93 ./parser-output/media/1333831451792478209-EoK4otSVoAA3jAy.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 93/ 93 ./parser-output/media/1283597596699684864-EdAXuDEUwAAOudd.png: SUCCESS. New version is actually  28% smaller in bytes but  42% larger in pixels. 0.3MB downloaded
+  1/ 94 ./parser-output/media/1648007799840841741-Ft7mTJ5WIAEYRvZ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  2/ 94 ./parser-output/media/1256637591824236548-EXB5NvsU8AAhZmG.jpg: SUCCESS. New version is  53% larger in bytes and  85% larger in pixels. 0.1MB downloaded
+  3/ 94 ./parser-output/media/1256045909126848512-EW5ex0YXsAMLY43.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  4/ 94 ./parser-output/media/1255582970393624576-EWy6AQvX0AIsegQ.jpg: SUCCESS. New version is 140% larger in bytes and 156% larger in pixels. 0.4MB downloaded
+  5/ 94 ./parser-output/media/1255370726858776577-EWv5AhYWAAAVrdi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  6/ 94 ./parser-output/media/1588560444226437120-FguzTP-UYAALJbW.jpg: SUCCESS. New version is 112% larger in bytes and 191% larger in pixels. 0.7MB downloaded
+  7/ 94 ./parser-output/media/1556854606986186753-FZsPA9UX0AAAudw.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  8/ 94 ./parser-output/media/1541621028996034560-FWTwF-AUEAA5f3e.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  9/ 94 ./parser-output/media/1541611418079961088-FWTnamAXEAAlaw4.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 10/ 94 ./parser-output/media/1538945987816919042-FVtvOBUWYAEvOJy.jpg: SUCCESS. New version is 201% larger in bytes and 418% larger in pixels. 0.3MB downloaded
+ 11/ 94 ./parser-output/media/1531418784304492544-FUCxRC-UYAAmkeA.jpg: SUCCESS. New version is  80% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 12/ 94 ./parser-output/media/1501061780222607362-FNTXsm4VEAA9PIl.jpg: SUCCESS. New version is  41% larger in bytes and  58% larger in pixels. 0.0MB downloaded
+ 13/ 94 ./parser-output/media/1495992978359287810-FMLVb2NVgAI2IkP.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 14/ 94 ./parser-output/media/1495990144431628291-FMLTAALUUAEArHe.jpg: SUCCESS. New version is  86% larger in bytes and 148% larger in pixels. 0.2MB downloaded
+ 15/ 94 ./parser-output/media/1490033001505247233-FK2pHenVgAgqHfX.jpg: SUCCESS. New version is  96% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+ 16/ 94 ./parser-output/media/1488402973835157504-FKfeihlUcAIt-SZ.jpg: SUCCESS. New version is  64% larger in bytes and 113% larger in pixels. 0.1MB downloaded
+ 17/ 94 ./parser-output/media/1488391650577575936-FKfUKl3VkAIdhSb.jpg: SUCCESS. New version is 113% larger in bytes and 219% larger in pixels. 0.1MB downloaded
+ 18/ 94 ./parser-output/media/1487110341884399617-FKNG-QaVkAErYth.jpg: SUCCESS. New version is  77% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 19/ 94 ./parser-output/media/1478238978469863425-FIPCg5RXwAElj10.jpg: SUCCESS. New version is  84% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 20/ 94 ./parser-output/media/1470812631434858504-FGlgR4EVgAUsMMV.jpg: SUCCESS. New version is 126% larger in bytes and 241% larger in pixels. 0.2MB downloaded
+ 21/ 94 ./parser-output/media/1470800966815731712-FGlVrSgUYAQyqs3.jpg: SUCCESS. New version is 141% larger in bytes and 260% larger in pixels. 0.2MB downloaded
+ 22/ 94 ./parser-output/media/1470782464436191245-FGlE1UmXoAQx8fA.jpg: SUCCESS. New version is  84% larger in bytes and 180% larger in pixels. 0.2MB downloaded
+ 23/ 94 ./parser-output/media/1470779331333001222-FGlB-6TWQAMXK9T.jpg: SUCCESS. New version is 124% larger in bytes and 180% larger in pixels. 0.2MB downloaded
+ 24/ 94 ./parser-output/media/1470774987959250950-FGk-CMvXEAUVbzo.jpg: SUCCESS. New version is 165% larger in bytes and 326% larger in pixels. 0.2MB downloaded
+ 25/ 94 ./parser-output/media/1470092648153292800-FGbRDjjWYAE8aki.jpg: SUCCESS. New version is 191% larger in bytes and 418% larger in pixels. 0.2MB downloaded
+ 26/ 94 ./parser-output/media/1470092648153292800-FGbRDjeWUAcCdAi.jpg: SUCCESS. New version is 200% larger in bytes and 418% larger in pixels. 0.4MB downloaded
+ 27/ 94 ./parser-output/media/1470092648153292800-FGbRDjgXEAUbVBw.jpg: SUCCESS. New version is 200% larger in bytes and 418% larger in pixels. 0.3MB downloaded
+ 28/ 94 ./parser-output/media/1470085088419651586-FGbKglJXMAYZ2WO.jpg: SUCCESS. New version is 417% larger in bytes and 792% larger in pixels. 0.6MB downloaded
+ 29/ 94 ./parser-output/media/1470085088419651586-FGbKkgBWQAUYSZa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 30/ 94 ./parser-output/media/1470085088419651586-FGbKkgEWUAcCtEf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 31/ 94 ./parser-output/media/1470085088419651586-FGbKkgDWQAkQmGa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 32/ 94 ./parser-output/media/1470081976480763905-FGbHeyZX0AYM6wF.jpg: SUCCESS. New version is 499% larger in bytes and 792% larger in pixels. 0.6MB downloaded
+ 33/ 94 ./parser-output/media/1470081976480763905-FGbHeyhXMAcsTN0.jpg: SUCCESS. New version is 544% larger in bytes and 792% larger in pixels. 0.7MB downloaded
+ 34/ 94 ./parser-output/media/1470081976480763905-FGbHezdXMAUCKoV.jpg: SUCCESS. New version is 557% larger in bytes and 792% larger in pixels. 0.7MB downloaded
+ 35/ 94 ./parser-output/media/1470081976480763905-FGbHeyiXsAAr5mS.jpg: SUCCESS. New version is 592% larger in bytes and 861% larger in pixels. 0.7MB downloaded
+ 36/ 94 ./parser-output/media/1470080594780594187-FGbGfdGWYAUpkIi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 37/ 94 ./parser-output/media/1470080594780594187-FGbGfdIXwAA0W4R.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 38/ 94 ./parser-output/media/1470080594780594187-FGbGfdIWYA4Tv-O.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 39/ 94 ./parser-output/media/1470080594780594187-FGbGfdMX0AYIJt9.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 40/ 94 ./parser-output/media/1470078961443033097-FGbD_0uX0AwUrAE.jpg: SUCCESS. New version is 428% larger in bytes and 792% larger in pixels. 0.6MB downloaded
+ 41/ 94 ./parser-output/media/1470078961443033097-FGbECsaWQAItBLH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 42/ 94 ./parser-output/media/1470076776504254471-FGbCntQXoAkPjoy.jpg: SUCCESS. New version is 456% larger in bytes and 792% larger in pixels. 0.4MB downloaded
+ 43/ 94 ./parser-output/media/1470076776504254471-FGbCntVWYAYx_xv.jpg: SUCCESS. New version is 458% larger in bytes and 792% larger in pixels. 0.4MB downloaded
+ 44/ 94 ./parser-output/media/1470076110167814153-FGbCMlJXIAACPYy.jpg: SUCCESS. New version is 397% larger in bytes and 792% larger in pixels. 0.5MB downloaded
+ 45/ 94 ./parser-output/media/1470076110167814153-FGbCQeqWQAg_W2v.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 46/ 94 ./parser-output/media/1470076110167814153-FGbCQesX0AcYWRc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 47/ 94 ./parser-output/media/1470076110167814153-FGbCQetWUAEvOed.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 48/ 94 ./parser-output/media/1470075032881803280-FGbBCjKXoAgHq5M.jpg: SUCCESS. New version is 519% larger in bytes and 792% larger in pixels. 0.6MB downloaded
+ 49/ 94 ./parser-output/media/1470075032881803280-FGbBCjKWQAMhyQf.jpg: SUCCESS. New version is 528% larger in bytes and 792% larger in pixels. 0.6MB downloaded
+ 50/ 94 ./parser-output/media/1470069959380418566-FGa710gXEAAFk2r.jpg: SUCCESS. New version is 509% larger in bytes and 792% larger in pixels. 0.6MB downloaded
+ 51/ 94 ./parser-output/media/1470069959380418566-FGa710iX0Ac8-uQ.jpg: SUCCESS. New version is 500% larger in bytes and 792% larger in pixels. 0.6MB downloaded
+ 52/ 94 ./parser-output/media/1470069959380418566-FGa8HFdXIAk6Bvj.jpg: SUCCESS. New version is 509% larger in bytes and 792% larger in pixels. 0.7MB downloaded
+ 53/ 94 ./parser-output/media/1470069959380418566-FGa8tjKWQAMf3fi.jpg: SUCCESS. New version is 509% larger in bytes and 792% larger in pixels. 0.6MB downloaded
+ 54/ 94 ./parser-output/media/1470064890677186561-FGa4HPuXEAMRNlg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 55/ 94 ./parser-output/media/1470064890677186561-FGa4HP0XIAcvz6a.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 56/ 94 ./parser-output/media/1470064890677186561-FGa4HPyXoAsFKK3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 57/ 94 ./parser-output/media/1470064890677186561-FGa4HP4XMAkks5a.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 58/ 94 ./parser-output/media/1470063948984692750-FGa2-h0XoAYGFui.jpg: SUCCESS. New version is 525% larger in bytes and 792% larger in pixels. 0.7MB downloaded
+ 59/ 94 ./parser-output/media/1470061647763021824-FGa1QfEX0AQsyAd.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 60/ 94 ./parser-output/media/1470061647763021824-FGa1QfGX0A45OBa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 61/ 94 ./parser-output/media/1470061647763021824-FGa1QfGXIAMQMvC.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 62/ 94 ./parser-output/media/1470061203041009672-FGa02DNXMAAc6Fz.jpg: SUCCESS. New version is 505% larger in bytes and 792% larger in pixels. 0.7MB downloaded
+ 63/ 94 ./parser-output/media/1470059362739793924-FGazHIqXMAckFcT.jpg: SUCCESS. New version is 349% larger in bytes and 458% larger in pixels. 0.5MB downloaded
+ 64/ 94 ./parser-output/media/1470058580871192582-FGaybSvXMAYKuZ1.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 65/ 94 ./parser-output/media/1470058580871192582-FGaybTKWUAQiWAn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 66/ 94 ./parser-output/media/1470058580871192582-FGaybTOWYAQK0Ah.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 67/ 94 ./parser-output/media/1470058580871192582-FGaybTKWQA42fKp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 68/ 94 ./parser-output/media/1470058206697340928-FGayI4gXIAM9u8m.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 69/ 94 ./parser-output/media/1470057737589600258-FGaxtnYXwAIpxtV.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 70/ 94 ./parser-output/media/1470057644178161669-FGaxn5SXwAEeihD.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 71/ 94 ./parser-output/media/1470057243617943556-FGaxQl8WYA4ND89.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 72/ 94 ./parser-output/media/1470057091079487490-FGaxG36XwAQLgDB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 73/ 94 ./parser-output/media/1470052361322348546-FGaspmZXIAIZh0l.jpg: SUCCESS. New version is 126% larger in bytes and 147% larger in pixels. 0.2MB downloaded
+ 74/ 94 ./parser-output/media/1469753681134305280-FGWcRPxVUAEOxBP.jpg: SUCCESS. New version is 158% larger in bytes and 224% larger in pixels. 0.4MB downloaded
+ 75/ 94 ./parser-output/media/1456740512342282240-FDdhxcfVEAUn6cf.jpg: SUCCESS. New version is  47% larger in bytes and  88% larger in pixels. 0.1MB downloaded
+ 76/ 94 ./parser-output/media/1432569037955891201-E-GBx2pUUAQjJaN.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 77/ 94 ./parser-output/media/1417346512250572800-E6ttIjKUYAIUre-.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 78/ 94 ./parser-output/media/1414021328684953602-E5-c577WQAAIbEB.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 79/ 94 ./parser-output/media/1414020231874367488-E5-b6FBWQAAT0K9.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 80/ 94 ./parser-output/media/1411343274908999681-E5YZOpsWYAE658g.jpg: SUCCESS. New version is  37% larger in bytes and  62% larger in pixels. 0.1MB downloaded
+ 81/ 94 ./parser-output/media/1614315331001909255-Fmcy6DgXoAABjBJ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 82/ 94 ./parser-output/media/1361973127744544768-EuazV1sXAAEGlpq.jpg: SUCCESS. New version is 180% larger in bytes and 154% larger in pixels. 0.6MB downloaded
+ 83/ 94 ./parser-output/media/1337100105015382016-Eo5Vc4hU0AEntLB.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 84/ 94 ./parser-output/media/1336742399708557312-Eo0QIHAU8AABwgU.jpg: SUCCESS. New version is  87% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 85/ 94 ./parser-output/media/1611647712729989122-Fl25BiPXkAAak6F.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 86/ 94 ./parser-output/media/1333835737066733568-EoK8iEoUcAEjOEl.jpg: SUCCESS. New version is  92% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 87/ 94 ./parser-output/media/1333835164120596480-EoK8AtcVcAAbUtN.jpg: SUCCESS. New version is  97% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 88/ 94 ./parser-output/media/1333834578654420992-EoK7eqvUwAEsZxP.jpg: SUCCESS. New version is 103% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 89/ 94 ./parser-output/media/1333834144770527234-EoK7FYdVQAAcqtD.jpg: SUCCESS. New version is  88% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+ 90/ 94 ./parser-output/media/1333833799596064775-EoK6xQLVkAEZLIj.jpg: SUCCESS. New version is 103% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 91/ 94 ./parser-output/media/1333832682841653249-EoK5wTXVoAYlrIg.jpg: SUCCESS. New version is  41% larger in bytes and  53% larger in pixels. 0.2MB downloaded
+ 92/ 94 ./parser-output/media/1333831451792478209-EoK4otSVoAA3jAy.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 93/ 94 ./parser-output/media/1610343456429473793-FlkWkRpaYAEdpj5.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 94/ 94 ./parser-output/media/1283597596699684864-EdAXuDEUwAAOudd.png: SUCCESS. New version is actually  28% smaller in bytes but  42% larger in pixels. 0.3MB downloaded
 
-93 of 93 tested media files are known to be the best-quality available.
+94 of 94 tested media files are known to be the best-quality available.
 
 Total downloaded: 19.0MB = 0.02GB
-Time taken: 54s
+Time taken: 49s

@@ -1,6 +1,13 @@
 window.YTD.like.part0 = [
   {
     "like" : {
+      "tweetId" : "1654607044907769856",
+      "fullText" : "The Starfighters of Eve does not exist #TerranTradeAuthority #AIArt #midjourney https://t.co/9LmYGZlwUQ",
+      "expandedUrl" : "https://twitter.com/i/web/status/1654607044907769856"
+    }
+  },
+  {
+    "like" : {
       "tweetId" : "1643629157799141379",
       "fullText" : "Open call for today‘s call with something for everybody: \n“How to kick off a project w/ @HiredThought ”\n\n“One of the clearest thinkers on strategy I’ve ever met” — @tasshinfogleman\n\nhttps://t.co/4wsHsBHn6q\n\nOn Yak Collective Discord. Join https://t.co/7nv7Uo3q3n",
       "expandedUrl" : "https://twitter.com/i/web/status/1643629157799141379"
@@ -477,7 +484,6 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1256864659895975936",
-      "fullText" : "@p_millerd I find your work extremely interesting and the @yak_collective “don’t waste the reboot” has been very thought provoking for me as someone working in consulting. \n\nI do have to point out the irony of you sharing all that in a 56 page slide deck...",
       "expandedUrl" : "https://twitter.com/i/web/status/1256864659895975936"
     }
   },

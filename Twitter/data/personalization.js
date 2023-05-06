@@ -135,6 +135,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Clueless",
+            "isDisabled" : false
+          },
+          {
             "name" : "Coffee",
             "isDisabled" : false
           },
@@ -144,6 +148,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Computer programming",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Consulting",
             "isDisabled" : false
           },
           {
@@ -323,6 +331,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Home automation",
+            "isDisabled" : false
+          },
+          {
             "name" : "Indie rock",
             "isDisabled" : false
           },
@@ -463,6 +475,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Pseudoscience",
+            "isDisabled" : false
+          },
+          {
             "name" : "Racial Equality",
             "isDisabled" : false
           },
@@ -483,7 +499,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Robotics",
+            "isDisabled" : false
+          },
+          {
             "name" : "Roleplaying games",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Rom-com films",
             "isDisabled" : false
           },
           {
@@ -516,6 +540,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Slack",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Smart technology",
             "isDisabled" : false
           },
           {
@@ -631,6 +659,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Web3",
+            "isDisabled" : false
+          },
+          {
             "name" : "Writing",
             "isDisabled" : false
           },
@@ -673,8 +705,8 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
-        "Hawthorne, CA, USA",
-        "Denver, CO, USA"
+        "Los Angeles, CA, USA",
+        "Welby, CO, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [

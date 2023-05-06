@@ -37,22 +37,6 @@ window.YTD.connected_application.part0 = [
   {
     "connectedApplication" : {
       "organization" : {
-        "name" : ""
-      },
-      "name" : "yakborg",
-      "description" : "This app was created to use the Twitter API.",
-      "permissions" : [
-        "read",
-        "write",
-        "directmessages"
-      ],
-      "approvedAt" : "2021-01-25T18:48:02.000Z",
-      "id" : "19950465"
-    }
-  },
-  {
-    "connectedApplication" : {
-      "organization" : {
         "name" : "The Yak Collective"
       },
       "name" : "GitHub Automation",
