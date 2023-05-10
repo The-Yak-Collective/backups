@@ -34,15 +34,15 @@ will continue convo in #Infrastructure)
         - Don't consciously try to read everything or stay on top of things. 
         - Got lucky in joining first time. Convo going on was much less. These days just scan and have convos. 
         - Convos on DMs and look on Roam page for projects to collab. 
+    - Not all volunteer opps are available to jump on
+        - Not sure how to tackle trust/competence thing
+        - let people fail 
+        - earn access to critical infrastructure 
     - Kevin
         - Been following. Brand new. Temporary invite... Still orienting
         - Used to discord..
         - Figuring out where the chat was maybe a little harder. Not in infrastructure channel.. in the main channel.
         - Reading art of gig substack and tom's blog and venkat's block. Following both of them. Some grounding 
-    - Not all volunteer opps are available to jump on
-        - Not sure how to tackle trust/competence thing
-        - let people fail 
-        - earn access to critical infrastructure 
     - We're not trying to be intimidating ... but not hand holding either. Somewhere in b/n. 
     - Venkat
         - Expect ppl to sensemake

@@ -30,9 +30,16 @@
     - May 2
         - [[Modular Robots Kit Brainstorm]] 
     - May 9
+        - Misc discussions
+        - [Robotics Design Competition](https://coda.io/@nicolas-tzovanis/robotics-design-competition) by June 4th.
+            - Possible 4h a week for a few people, using Flux.
+            - First, a high-level component/ electrical diagram:
+                - Working document: https://excalidraw.com/#room=672ac66aacdd06f64f77,UOpmcJu2QfVAnsUHX1g5Qg
+                - Session result (read-only): https://excalidraw.com/#json=E3W4B1el7EIF8wvSq5oKA,gr9rQEkFNDsHlT41BP0oOg
+            - 
 - Pluto Cycle
 - Hopper
     - Hello world topic ideas
         - API (Rhett/Anuraj)
-        - Gazebo (Eric)
+        - Gazebo (Eric), CoppeliaSim (Anuraj)
         - RISCV (Anuraj) -- FPGA
