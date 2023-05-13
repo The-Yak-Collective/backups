@@ -10,6 +10,46 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Kropotkin Was No Crackpot
+        - Today's reading is __Kropotkin Was No Crackpot__ by Stephen Jay Gould: https://www.marxists.org/subject/science/essays/kropotkin.htm
+Some prompts (provided by ChatGPT):
+            - Kropotkin suggests that cooperation and mutual aid can be applied to human societies and governance structures.
+                - What are the potential benefits and challenges of adopting such an approach?
+                - Can you think of any real-world examples where cooperation has been prioritized over competition in governance?
+                - Can elements of his theory be integrated into existing governance structures to address societal issues?
+        - Bryan
+            - General response
+                - must accept that nature is amoral, but morality is a key component of human evolution/cooperation
+                - The gladitorial mindset is what leads to evolutionary arms races (Darwin economy) - big deer antlers, doping in sports, plastic surgery, etc
+                    - predators can go extinct
+                - Ironic that it seems Kropotkin was so impactful with his work on anarchism because he was a very moral guy, something most subsequent anarchists seemed to struggle with
+                - was reading some other candidates for today's session, was struck that most anarchists are anarchists because they hold the competition view, but don't reap benefits of anarchy, whereas average people who hold cooperative mindset are freer, even under tyranny.
+            - Benefits
+                - Feelings of safety
+                - Resiliency/antifragility
+            - Challenges
+                - probably have to accept a satisficing mode over an optimizing mode
+                - still have to fend off non-cooperative hostiles
+                    - cooperatives have to have guardians
+                - how to effectively organize cooperative groups in hostile environments with lots of actors
+        - Matthew
+            - Don't really agree with idea that nature has morality, but still there is some morals especially in human
+            - open source AI tooling outpacing incumbents
+                - google having no moat
+                - communities more powerful than companies
+            - challenge: dissolving conflict is very hard
+                - like an individual trying to achieve enlightment
+                    - nirvana that is rare to achieve
+                    - if you can achieve, can you incentivize it?
+                    - probably not, has to emerge
+                    - incentives create a new game
+            - examples
+                - semicoordinated COVID response
+                - markets usually have rules and constraints
+            - incorporating
+                - can't really force cooperation
+                - has to be pressure from environment that is so overwhelming that it overcomes competition
+                - 
     - Top Talent
         - https://nadia.xyz/top-talent
         - Jenna
