@@ -36,7 +36,9 @@
             - First, a high-level component/ electrical diagram:
                 - Working document: https://excalidraw.com/#room=672ac66aacdd06f64f77,UOpmcJu2QfVAnsUHX1g5Qg
                 - Session result (read-only): https://excalidraw.com/#json=E3W4B1el7EIF8wvSq5oKA,gr9rQEkFNDsHlT41BP0oOg
-            - 
+    - May 16
+        - Continue on electrical diagram
+            - Session result (read-only): https://excalidraw.com/#json=7HeN8A3el8lFxwv9SQVme,j22M0dFxGjS_xDvmb_l--g
 - Pluto Cycle
 - Hopper
     - Hello world topic ideas
