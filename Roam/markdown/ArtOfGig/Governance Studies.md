@@ -10,6 +10,35 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - Filthy Lucre? (https://deliverypdf.ssrn.com/delivery.php?ID=093116088071091120078083070086096089033069066016061000078026118065003098123098017000063039024035109012028122098016001001066030012000008073033125005104119090028071087026078022126029105103002069101115005016019127065011110111076122111086067000102074081006&EXT=pdf&INDEX=TRUE)
+        - Grigori: 
+            - see some problems with this article — selection of the examples and main conclusion
+            - doesn't think it's an identity that plays a role here but rather a way OSS is built
+            - iPhone example is old 
+            - what's special about OSS is that it's not written for general audience / regular people. it's written for enthusiasts and requires some prior knowledge (unix, linux, packages, add ons) but iPhone software is written for general audience
+            - apple was known for building software that was out of the box and required no prior knowledge
+            - mindset not identity as differentiator
+            - it would be interesting to compare a group of OSS developers to a successful iOS developers or something 
+        - Kiran: 
+            - KTLO & Chores — the main issue. 
+            - trivial to commercialize OSS iphone app and publish to app store
+            - OSS used by enthusiasts vs iphone store — tax implications, responding to reviews, whole diff personality required after developing an app
+            - not trivial to commercialize
+            - you can commercialize and put up an app but it might be shitty with no reviews, etc 
+            - if you're getting praise from within your community, you might not want to commercialize to a generalist audience 
+            - is identity more important than external pressures from community? seems directionally correct to kiran 
+            - developer tools are that one spot where you cater to the enthusiast in the beginning —> start with OSS and then commercialize
+                - there is a way of commericalizing within OSS 
+            - capitalism: owning of means of production by private people (his friend's definition)
+                - open source software is a good example of opposite 
+            - software eating the world means OSS system should work for many different professions 
+        - Shreeda:
+            - web3 communities trying to bridge OSS and commercialization by treating the latter thing as an automatic side effect of thing
+        - Jenna:
+            - metalabel 
+            - it's good to imagine about something else besides capitalist structures 
+            - nice to revisit that moment in history —> iphone app store, feels like a turning point in history 
+            - 
     - Kropotkin Was No Crackpot
         - Today's reading is __Kropotkin Was No Crackpot__ by Stephen Jay Gould: https://www.marxists.org/subject/science/essays/kropotkin.htm
 Some prompts (provided by ChatGPT):
