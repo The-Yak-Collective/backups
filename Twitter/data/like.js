@@ -275,6 +275,7 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1271935817368457220",
+      "fullText" : "You’re unable to view this Tweet because this account owner limits who can view their Tweets. {learnmore}",
       "expandedUrl" : "https://twitter.com/i/web/status/1271935817368457220"
     }
   },
@@ -372,14 +373,14 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1258058599575814149",
-      "fullText" : "And that just suggests no critical thought. The circle jerk is very real when people say it. \n\nPeople who say “people suck” suck",
+      "fullText" : "This Tweet is from a suspended account. {learnmore}",
       "expandedUrl" : "https://twitter.com/i/web/status/1258058599575814149"
     }
   },
   {
     "like" : {
       "tweetId" : "1258058185144926208",
-      "fullText" : "“Humans suck” is generally a lame view. It is not insightful at all, but people who say it seem to believe they are of some enlightened view other humans lack. \n\nPeople saying it also usually aren’t misanthropes. They only think humans suck when referring to the outgroup.",
+      "fullText" : "This Tweet is from a suspended account. {learnmore}",
       "expandedUrl" : "https://twitter.com/i/web/status/1258058185144926208"
     }
   },
@@ -479,12 +480,6 @@ window.YTD.like.part0 = [
       "tweetId" : "1257432066939117570",
       "fullText" : "Left brain vs. right brain: Characteristics, functions, and myths https://t.co/lL80O4Q2DQ",
       "expandedUrl" : "https://twitter.com/i/web/status/1257432066939117570"
-    }
-  },
-  {
-    "like" : {
-      "tweetId" : "1256864659895975936",
-      "expandedUrl" : "https://twitter.com/i/web/status/1256864659895975936"
     }
   },
   {

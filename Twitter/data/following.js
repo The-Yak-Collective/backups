@@ -49,12 +49,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "441036343",
-      "userLink" : "https://twitter.com/intent/user?user_id=441036343"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "185257430",
       "userLink" : "https://twitter.com/intent/user?user_id=185257430"
     }

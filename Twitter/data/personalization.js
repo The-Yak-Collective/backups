@@ -63,6 +63,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Artificial intelligence",
+            "isDisabled" : false
+          },
+          {
             "name" : "Automobile Brands",
             "isDisabled" : false
           },
@@ -111,6 +115,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "British Gas",
+            "isDisabled" : false
+          },
+          {
             "name" : "British Royal Family",
             "isDisabled" : false
           },
@@ -128,6 +136,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Celebrities",
+            "isDisabled" : false
+          },
+          {
+            "name" : "ChatGPT",
             "isDisabled" : false
           },
           {
@@ -339,6 +351,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Industries",
+            "isDisabled" : false
+          },
+          {
             "name" : "Information Privacy Worldwide",
             "isDisabled" : false
           },
@@ -444,6 +460,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Open source",
+            "isDisabled" : false
+          },
+          {
+            "name" : "OpenAI",
             "isDisabled" : false
           },
           {
@@ -635,14 +655,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Vine",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Vine",
-            "isDisabled" : false
-          },
-          {
             "name" : "Visual arts",
             "isDisabled" : false
           },
@@ -668,6 +680,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "YouTube",
+            "isDisabled" : false
+          },
+          {
+            "name" : "YouTubers",
             "isDisabled" : false
           },
           {
@@ -705,8 +721,7 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
-        "Los Angeles, CA, USA",
-        "Welby, CO, USA"
+        "Los Angeles, CA, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [
