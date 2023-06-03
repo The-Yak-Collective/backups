@@ -10,6 +10,39 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - [[June 2nd, 2023]] Idea Labs vs Echo Chambers
+        - https://web.archive.org/web/20220723220200/https://waitbutwhy.com/2019/10/idea-labs-echo-chambers.html
+            - Does anybody read this at all? Asking just in case.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-rUh37PdDD.png?alt=media&token=97e67e93-2fe5-4c3e-b570-3934df5d4cf4)
+                    - Insert jokes about DC below.
+                - Kiran: 
+                    - Loves the reading . The idea itself seems a little naive and a lot of societies degraded into echochambers. 
+                    - A member of a few idea labs.
+                    - Goes back to the theme of archetypes and rules.
+                    - Weak norms can be easily transgressed and that leads to charismatic capture.
+                    - Degrading typically happens because the norms are weak. In one of the group the core designed the norms and then let the community go. And some people started violating norms and every time the norm is violated it made people feel bad. And when people feel bad they don't think on a high level.
+                    - How to slow down the slide? People have to nudge the rules and gradually strengthen the norms. And have enough members who put group imterets above their own.
+                - Bryan:
+                    - The first initial response is that an echo chamber is a natural state of humanity. We are trying to avoid the conflict. We go with the flow, most things don't matter so much as to rock the boat and risk break the taboos.
+                    - Mainstream now is in a process of renegotiating the taboos. 
+                    - Informal Idea lab is an internet or twitter, where the ideology poped up, some universities are idea-labs, industry groups, etc.
+                    - Idea labs are reformers of echo chambers. They move the Overton window to better suit the members.
+                    - Running an idea lab is hard. To hold a taboo position is exhausting. 
+                    - A chicken and egg problem. Echo Chamber happens first then idea labs pop up and disappear. 
+                    - The second prompt: Darwinian thing.
+                - Grigori:
+                    - Idea Labs are based on principles, not rules.
+                    - The key ingredient is scientific method. It is very young (a few hundreds of years) compasred to the history of humanity.
+                    - Most people love to just node their heads while listening or reading. We find it satisfying when we agree with someone, when someone shares our beliefs.
+                    - Echo Chambers feel more comfortable. It feels good, more energy efficient to agree with someone, that to disagree with someone.
+                    - Disagreement leads to risk of rejection or, say, risk of lost sales.
+                    - Idea Lab values independent thought. There should be some thinking in the first place, though.
+                    - Echo Chambers Increases group risk, decreases individual risks. (I will not be rejected until the group slides into irrelevance). Fits individuially selfish/groupwise selfless people. Short-term selfish, long term selfless. Idea Labs are opposite of that. (One can be selfless now, when one thinks that there is a good shot for a better future. When there is no shot though, it is better to be selfish)
+                    - Having arguments without pissing each other off is also tough.
+                    - Requires an effort not to piss another person and especially not to get pissed off. But it is a skill that can be trained. Because typically we are conditioned to behave in a different way.
+                    - So It is a skill that is hard to learn. Much easier to pretend that you have learned something by nodding your head.
+                    - Echo chambers are cute, but make everybody worse off in the long run, both individually and as a group.
+                    - Chat GPT is a giant Echo Chamber.
     - Filthy Lucre? (https://deliverypdf.ssrn.com/delivery.php?ID=093116088071091120078083070086096089033069066016061000078026118065003098123098017000063039024035109012028122098016001001066030012000008073033125005104119090028071087026078022126029105103002069101115005016019127065011110111076122111086067000102074081006&EXT=pdf&INDEX=TRUE)
         - Grigori: 
             - see some problems with this article — selection of the examples and main conclusion
