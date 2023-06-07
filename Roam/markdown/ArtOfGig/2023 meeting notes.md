@@ -39,6 +39,17 @@
     - May 16
         - Continue on electrical diagram
             - Session result (read-only): https://excalidraw.com/#json=7HeN8A3el8lFxwv9SQVme,j22M0dFxGjS_xDvmb_l--g
+    - May 30
+        - Discussion on component selection
+        - We want to have imagery and sound.
+        - Some times on seeing whether we can use modules like AudioMoth
+    - June 6
+        - Update on component diagram: https://excalidraw.com/#room=853043d2fdfce4feddd0,bpH5D2VZAphbU6TRvXI9_A
+        - Can we select components already like an MCU, so software can start proceed (learning, trials)?
+        - Converging to ESP32-S3 WROOM CAM board from Freenove
+        - Software people can start looking into the board + Zephyr RTOS
+        - Add solar and comms with Blues Notecarrier A (or F?)
+        - Why not using a smartphone to replace all?
 - Pluto Cycle
 - Hopper
     - Hello world topic ideas
