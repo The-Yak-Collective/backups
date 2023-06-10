@@ -10,6 +10,52 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - [[June 9th, 2023]] Jesuit Education Principles
+        - Shreeda:
+            - I'm mid Uber and going to drop but
+            - I met someone yesterday at work who studied in Jesuit syst
+            - She described it as very social justice and service oriented
+            - And strict about what service oriented work can even look like
+            - It seemed that she felt favorably about it
+            - I'm curious about the impetus to grigoris question about Latin stuff
+                - Grigori: Just came up with a hypothesis that in case of jesuits Latin wasn't so much a stepping stone but a part of "learning how to think" core curriculum
+            - I guess I don't see why it's compelling
+            - However I thought it was interesting how the paper says the system was somewhat of a reactionary formulation to a decrepit state of education overall
+            - Made me think of today's academia
+            - Jesuits come up a lot in yak gov studies so I'm curious what the prior insights were or where the prior interest in them came from
+                - Grigori: To the best of my knowledge, the first time we touched it, we read this essay, https://engelsbergideas.com/essays/jesuit/ recommended by @vgr#6648. 
+                - The education principles were not covered in the essay. 
+Even though they played a huge role and still are very influential even after abstracting away the religious part. There is something special about the particular interplay between chaos and order, or evolution and structure, or strength and flexibility: providing the necessary structure and then letting evolution to play its part. 
+        - Bryan: 
+            - Don't have a religious education. Went to a big public school in Detroit. But similar in how classroom was structured. Heavy critical thinking oriented with the end goal of going to college. The main difference is a lack of spiritual focus. Striving to perfection and things of that matter.
+            - Schools in america are heavily influenced by jesuits. There main drive is essentially to get to fancy university. Didn't answer the question what are we doing? Why are we learning? 
+            - Interested to hearing from jesuits: how to deal with large classes, like 40 people. Modern school system is industrial kind taylorist system to go to work at factory. 
+            - The common thruline is hiring a tutor.
+            - Another issue is How to instruct excellent teachers, when you are struggling to give base education?
+            - The latin thing is interesting. It is pride thing. You do it because you can. A language gives you an access to the originals, that can be much better than a translation.
+        - Ananth: 
+            - Grew up in India. Attendeded 5 different private schools. Couple of them were Catholic Schools.
+            - Public schools in India are really bad.
+            - The experience that we had across the schools were similar in terms of critical thinking, physical education, etc,
+            - School and class sizes were massive. No one to one attention was possible. Teachers were doing sermons.
+            - Deviations from the framework.
+            - Jesuits were not slaves to Ratio Studiorum. They were flexible to implementation. Turns out, that nowadays people are somewhat less flexible and trying to stay true to the established norms.
+            - There are a lot of order and hierarchy in most of indian schools.
+            - Latin: fascinating on how languages have evolved. Learning a language helped people coordinate. A protoccol for human coordination.
+        - Grigori
+            - Is a product of a Soviet educational system. 
+            - No religion was ever possible. But other than that some of the principles were very similar to what jesuits were doing.
+            - In particluar: wholistic approach. The focus on teaching people, not e.g. just math, or literature.
+            - Principles of curriculum were also similar: 1) oriented toward formation as opposed to instruction 2) Intensive
+            - Similar orientation
+                - First, teach how to think (which is frankly is quite hard and a bit of mystery)
+                    - Just came up with a hypothesis that in case of jesuits Latin wasn't so much a stepping stone but a part of "learning how to think" core curriculum
+                - Second, provide stepping stones for further development
+            - Looking back, I was lucky to attend a very good school, and it is still hard to believe that it is very unusual to be proud of your school.
+            - The classes were large (30 pupils), but it didn't really matter, because some of the teachers were very good.
+            - Teachers were very important, but it is hard to collect the best across all the disciplines. So my school were very strong at physics, math, not so good at literature, but tried to compensate for the weaknesses by focusing on the core.
+            - Learning Latin is a good way to learn how any language works. Hard to do when you know only one language you have acquired naturally and it became something like air  (you don't have a proper frame to think about it).
+
     - [[June 2nd, 2023]] Idea Labs vs Echo Chambers
         - https://web.archive.org/web/20220723220200/https://waitbutwhy.com/2019/10/idea-labs-echo-chambers.html
             - Does anybody read this at all? Asking just in case.
