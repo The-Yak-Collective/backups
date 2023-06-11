@@ -15,8 +15,8 @@
     - if you quote denis de rougemont, you might win the hearts and minds of america.
     - [10:14 PM]
     - Miranda July's irl texting app: https://www.youtube.com/watch?v=iz13HMsvb6o
-    - Unauthorized SFMOMA: https://radicalnetworks.org/archives/2017/participants/unauthorized-sfmoma-show/
     - and mention the evolution of romance as a historical formation
+    - Unauthorized SFMOMA: https://radicalnetworks.org/archives/2017/participants/unauthorized-sfmoma-show/
     - [10:14 PM]
     - OkCupid Blog: https://theblog.okcupid.com/love-in-the-time-of-corona-massive-spikes-in-matching-messaging-and-virtual-dates-around-the-ec12c49eab86
     - 

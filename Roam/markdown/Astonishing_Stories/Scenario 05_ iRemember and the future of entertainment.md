@@ -31,6 +31,8 @@
         - "The forgotten" who lived a large portion of their lives before the introduction of the iRemember and who are rarely believed about anything they say occurred in their past.
         - People who make strong claims or tell grandiose and hyperbolic stories about their personal lives.
         - Criminals
+- ## How do people talk about the choices we made in 2020?
+    - Kind of like the way we talk about 9/11 today. A certain reverence for the event itself, a kind of embarrassment at the course of events afterwards. It is nevertheless deeply meaningful for those who were alive on either side of it.
 - Older early-draft material
     - ## Describe this world
         - 'Fly me to the moon' - A reality show following a group of wealthy, older Americans leaving Earth to take up residence in space and escape the pandemic ended 8 years ago after a single season. There was a lot of advertising, a nation-wide talent search, a training facility set up at Disney World's Space Mountain, and then their parent company declared bankruptcy. It was hard to care too much about some old people you didn't know, when the iRemember was available. Able to record all your thoughts and memories, people became more interested in their own and other people's pasts. With advances in AI algorithms, the recorded past could even be used as training data to generate personalized stories in your own preferred forms. Want to relive your adolescence in the Arkansas Bible Belt as a lost sequel to the Indiana Jones series? The iRemember can help.
@@ -38,10 +40,8 @@
         - Tensions: The future as entertainment versus the past, the desire to live life privately and the incentive to live life more dramatically and capture it with iRemember in the hopes of a future television deal. Governments wanting access to the data.
         - Paradoxes: Being able to record all your thoughts and memories would seem to have much bigger implications outside of entertainment, but I think it has that regression to the mean quality that many innovations have. Kind of like how the internet puts all of civilization's knowledge at your fingertips, but many people just use it to send emails to their grand kids or share cat pictures.
         - Challenges: Large data storage requirements, privacy concerns over how and how much data is shared with others, seems like it might be desirable to hackers and bad actors who could use it for blackmail, but it could also change the justice system a lot. Easier to convict people if you can just download their memory of the event in question, although there's the 5th Amendment. I'm sure advertisers would want to stick ads in there somehow.
-- ## How do people talk about the choices we made in 2020?
-    - Kind of like the way we talk about 9/11 today. A certain reverence for the event itself, a kind of embarrassment at the course of events afterwards. It is nevertheless deeply meaningful for those who were alive on either side of it.
+- **Described by: [[Ben S]]
 - ## What keeps you up at night?
     - Worries or excitement about what you will record or capture on your iRemember device.
     - Whether a story you told about yourself is actually true.
     - The possibility for data theft, hacking, fabrication or alteration of iRemember data.
-- **Described by: [[Ben S]]
