@@ -38,19 +38,19 @@
         - "A Yak Collective Compact"
     - Talking about responsibility to monitor for violations, and deciding what to do. "What does that decision look like? And how is that community?"
         - Is there a commitment to transparency? Is there a commitment to letting Yaks know about paid projects?
-- How will governance towards Yak projects work from country-to-country?
 - [[hershpat]]
-- [[Venkatesh Rao]]
-    - YakC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__
+- How will governance towards Yak projects work from country-to-country?
 - Only do subcontracts over national borders to mitigate counterparty risk of hiring international contracts.
     - "We try to make sure this doesn't happen."
-- [[Jordan Peacock]]
+- [[Venkatesh Rao]]
+    - YakC doesn't mitigate risks you don't already have as an indie consultant. What it does do is serve as an amplifier to connect and source back-end brainpower. __Paraphrasing here. - Alex__
 - YC operating on a community-model/trust. 
+- [[Jordan Peacock]]
 - Going for implicit over explicit guidelines here.
 - [[Venkatesh Rao]]
     - Possible 360-review process per project, report publicly available after project wraps.
-- "How do we ensure a certain level of quality?"
 - [[Christian Bacher]]
+- "How do we ensure a certain level of quality?"
 - [[Venkatesh Rao]]
     - **Prefer "feed-forward" over feedback.**
     - We trial people and processes on unpaid projects. "We now trust it enough that we can use it on this Neurofuturama project."
