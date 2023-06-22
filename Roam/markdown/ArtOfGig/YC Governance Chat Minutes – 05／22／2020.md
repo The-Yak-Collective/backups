@@ -49,8 +49,8 @@
 - Going for implicit over explicit guidelines here.
 - [[Venkatesh Rao]]
     - Possible 360-review process per project, report publicly available after project wraps.
-- [[Christian Bacher]]
 - "How do we ensure a certain level of quality?"
+- [[Christian Bacher]]
 - [[Venkatesh Rao]]
     - **Prefer "feed-forward" over feedback.**
     - We trial people and processes on unpaid projects. "We now trust it enough that we can use it on this Neurofuturama project."
