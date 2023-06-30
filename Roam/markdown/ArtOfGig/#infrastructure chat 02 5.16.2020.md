@@ -57,7 +57,6 @@
     - most of scott's client work is time & materials bc there's a lot of uncertainty 
     - prob next 1-2 years work is going to be brought-in by one of members looking for collaborators for delivery 
     - may not have anything to do with structured marketplace 
-- Escalate to email quicker vs too quickly
 - [[John Grant]]
     - visiting a public job board, don't really know where you fit in
         - can't leverage your network / current context 
@@ -67,10 +66,7 @@
         - bidding system could be time towards this ... 
             - may not be undercutting on dollar but bidding on skillset
         - so it's a risk assessment for the requestor 
-- [[Mike Morris]]
-    - everyone who's likely to bid is roughly comparable costs 
-    - undercutting bids
-    - not enough time and interaction to build network/trust relationships
+- Escalate to email quicker vs too quickly
 - [[Venkatesh Rao]] pivot to prompt - what's the competitive advantage of YC we can lean into
     - McKinsey - has closed system ... has the back office in India
     - we have a very open system ... anyone can contribute on discord and get a role
@@ -81,6 +77,10 @@
         - we can do several hundred - elemental map reduce tasks - but not mechanical turk - coordinated in a distributed way
             - not strategy + marketing + ______
             - certai ntask but requires certain skill + knowledge requirements
+- [[Mike Morris]]
+    - everyone who's likely to bid is roughly comparable costs 
+    - undercutting bids
+    - not enough time and interaction to build network/trust relationships
 - Complexity and illegibility of the work
     - shared skin in the game
 - [[Steven Moody]] Archers doesn't matter what the problem is 
