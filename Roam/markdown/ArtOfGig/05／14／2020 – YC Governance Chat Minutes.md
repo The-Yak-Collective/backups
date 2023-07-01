@@ -19,9 +19,9 @@
     - https://the-syllabus.com/
 - Not better TED talks, or better bureaucracies. How do you build something to work as quickly as possible? 
     - Being minimum viable new institutions.
+- [[Alex Wagner]]
 - How to create a Grand Unifying Problem to create "head-in-the-game" culture for Yaks.
     - Existential threats are great, but so is an effective, and urgent narrative.
-- [[Alex Wagner]]
 - [[Venkatesh Rao]]
     - Two challenges:
         - Conference-making 
