@@ -17,6 +17,20 @@
 Excerpt From: Morgan Quigley. “Programming Robots with ROS: A Practical Introduction to the Robot Operating System”. Apple Books. 
 - [[Yak Rover Demo Day]]
 - [[Learning Wishlist]]
+- Learnings
+    - Zephyr on ESP32
+        - Official docs / quickstart: https://docs.zephyrproject.org/latest/boards/xtensa/esp32/doc/index.html
+            - Tried and working on recent MacOS and ESP32-WROOM-32
+        - List of supported features: https://github.com/zephyrproject-rtos/zephyr/issues/29394
+            - Important that ESP32 and ESP32-S3 seem the most covered as for mid-2023.
+            - It seems the community is quite active. Many PRs on GitHub.
+        - Sample applications are okay, but many do not work on ESP32s
+            - Blinky does not work, but README has notes on how to add the missing entries in the device tree for LED PWM support.
+            - Servo Motor does not work either, for lack of MC PWM in device tree (motor control) --> Eric spent some time on it early July 2023 (blocked as misuse of PWM driver apparently).
+                - Sample uses ROB-09065 from Sparkfun, very common.
+                - I have instead a SG90 from Tower Pro.
+                - Confirmed both are equivalent with ChatGPT, including mapping of the different wire colours---pretty cool: https://chat.openai.com/share/0e612eb8-d13d-4887-962b-e3da3f486ce6
+            - Examples can require wiring. Example PIN guide: https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 - [[Project Ideas]]
 - [[Common Problems]]
 - ^^[[Things We Are Looking For]]^^

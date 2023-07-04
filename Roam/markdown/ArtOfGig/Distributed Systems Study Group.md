@@ -686,7 +686,7 @@ but consider - is what is being sent data or programs?
         7. Dec 12:
         8. Dec 19:
         9. Dec 26: Boxing Day, NO MEETING 
-- 2023 Readings
+- **2023 Readings**
     - Season: Winter
         - Jan 2: [Wikipedia on Memory Hierarchy](https://en.m.wikipedia.org/wiki/Memory_hierarchy)
         - Jan 9: [Cache Coherency](https://en.wikipedia.org/wiki/Cache_coherence)
@@ -911,9 +911,237 @@ but consider - is what is being sent data or programs?
                 - [[Ananth]] thinks the mathematical reasoning portion of the paper was particularly interesting. The fact that GPT-4 breaks so easily when doing mathematics is potentially telling. But it __is__ good at sketching out answers that require cross-disciplinary knowledge, and it also seems good at Fermi Estimation. Ananth is skeptical that GPT-4 is really "general" yet; non-linear thinking and working memory seem to be real problems. The models __are__ surprisingly creative, and seems to be reasonably good at working within constraints.
                 - [[Anuraj R]] is in listen-only mode.
                 - [[Venkatesh Rao]] wants to continue the discussion in this vein next week. We need a good follow-up reading.
-- Hopper -- articles we could read
-    - https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
-    - Paper about reconstructing images from fMRI scans from 2019: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633
-    - From 2012, reconstructing what we hear from brain activity: https://journals.plos.org/plosbiology/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001251
-    - High-level overview of work reconstructing spoken and heard words from brain activity, circa 2019: https://www.science.org/content/article/artificial-intelligence-turns-brain-activity-speech
-    - Overview of another 2019 paper, reconstructing words spoken to monkeys: https://engineering.brown.edu/news/2019-12-12/researchers-reconstruct-spoken-words-processed-nonhuman-primate-brains
+    - Season: Spring
+        - [[April 3rd, 2023]] [CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
+            - https://www.youtube.com/watch?v=trID0pJXMEw
+        - [[April 10th, 2023]] [Noosphere, a protocol for thought](https://subconscious.substack.com/p/noosphere-a-protocol-for-thought)
+            - https://www.youtube.com/watch?v=CA5VIMCz730
+            - **Attendees**
+                - [[Ananth]]
+                - [[Anuraj R]] (🙊)
+                - [[Commits Vortex]] (🙊)
+                - [[Grigori Milov]]
+                - [[Maier Fenster]]
+                - [[Nai-Chi]]
+                - [[Venkatesh Rao]]
+                - [[Nathan Acks]]
+                - [[Sachin Benny]] (🙊)
+                - Jenna Dixon (🙊)
+            - **Prompt**
+                - > How will the evolutionary competition between a massively multiplayer shared second brain and more individual experiences play out? — [Venkatesh Rao, April 10 @ 09:01](https://discord.com/channels/692111190851059762/1094986765896519710/1095000630206136521)
+            - **Meeting Notes**
+                - [[Nathan Acks]] is a little bit doubtful of the overall value of “multiplayer” experiences. While Noosphere is interesting, it’s not clear that it’s enough to make multiplayer compelling. There’s also the question of how to get people to use it: Is Noosphere really compelling enough for “ordinary folk” to start using. And can it be made simple enough? (As an aside, the Same-Origin Policy seems to be a frequent villain in proposals like this, but it solves a very real problem where the internet is full of bad actors trying to run malicious code to access data via ordinary users. The Same-Origin Policy __does__ encourage centralization, but if you’re going to throw it out then you need to wrestle with the security issues it was designed to mitigate, and nobody seems to really do that.)
+                - [[Nai-Chi]] thinks that whether open source multiplayer web-like hyperobjects happen is going to strongly depend on the attention landscape, and how much “press” new media gets on old media. Maintenance is also a problem; without maintenance, both software and content tend to rapidly degrade. How easy can maintenance become for “ordinary folk”? How much can we get “ordinary folk” even __interested__ in maintenance?
+                - [[Maier Fenster]] notes that the Noosphere proposal is more __static__ than dynamic; it seems to be a catalogue of __thoughts__, rather than a tool for __thinking__. There’s no sense of automatic processing or updating of content, so the maintenance problem raises its head again. Also, there’s no sense of scale in this proposal... What’s the right scale of multiplayer groups? And what about discovery here? How do people find other graph content to interact with at all?
+                - [[Grigori Milov]] is skeptical about what this problem is actually trying to solve; the proposal seems to try too hard to be general. A better approach might be to start with the “second brain” concept at the __individual__ level, and then add more and more sophisticated methods of sharing, rather than trying to jump right to a maximally decentralized end product. Grigori also worries about the __information__ trust issues within Noosphere content; this is already a big problem on the World Wide Web, and is likely to be an even bigger problem in a __less__ centralized system.
+                - [[Ananth]] is likewise skeptical (there’s an emerging theme here). Like previous speakers, Ananth doesn’t see how a new protocol will be able to catch on without an associated application. As for the prompt, Ananth doesn’t think there’s a tension between individual and multiplayer experiences. Most apps already require people to produce content for each other. The future is probably in finding ways to __tailor__ individual experiences within a multiplayer context, rather than iterating between multiplayer and individual experiences.
+                - [[Venkatesh Rao]] agrees with Maier that Noosphere is trying to solve multiple problems: **(1)** how to decentralize a centralized process, and **(2)** how do you identify trusted data on the internet? For the latter problem, the solution seems to be to combine the social (trust) graph and the interest graph. These __are__ different things, and need to be tracked __somewhat__ separately... But they’re also deeply entangled. The best way we have to do this right now is to continuously talk to people, but the Noosphere proposal replaces this with key-based trust (either CID hashes for content or individual private keys for individuals). These two layers are probably sufficient to create entangled social/interest graphs; IPFS and Spheres enable content and keys / address books to be portable. Overall, Venkat thinks collective authorship is pretty inevitable, and some proposal like this will probably be an important part of making this happen. NFTs may be an important part of gating Noosphere content.
+                - [[Nathan Acks]] thinks that Farcaster might provide an interesting notification and discovery channel for Noosphere; the two projects seem complimentary in that way. And perhaps the Same-Origin Policy could be replaced with CID or private key based trust? Unfortunately, trusting __both__ CIDs and private keys probably leads to too many edge cases, and Nathan suspects that ultimately trust would become centralized in keys (individuals) rather than content.
+                - [[Maier Fenster]] wonders what problem this solves.
+                - [[Nathan Acks]] agrees somewhat. Noosphere __does__ solve a set of problems, but it’s not clear that it really solves them in a way that’s __more__ compelling than the current system, especially considering that all of the content kinda lives in the World Wide Web right now.
+                - [[Anuraj R]] wonders how this is is different than Farcaster.
+                - [[Venkatesh Rao]] thinks that Noosphere is mostly another step in decentralization.
+                - [[Nai-Chi]] observes that something like the Noosphere probably would help with AI training, as it includes both text and the social metadata related to that text.
+                - [[Maier Fenster]] sees that more as a hope, rather than something to be excited about. Farcaster solves a problem people have __now__, while Noosphere seems to solve a more theoretical set of problems. Training other people’s AI models doesn’t seem like a winning pitch.
+                - [[Venkatesh Rao]] notes that there are some frustrating trade-offs in current “second brain” tools: practicality and performance vs. ability to interlink. Noosphere seems to be trying to “have its cake and eat it too” in this regard.
+                - [[Maier Fenster]] still doesn’t see the excitement here.
+                - [[Anuraj R]] notes that you need a critical mass of people to make something interesting. Twitter is falling apart, but it’s still a better social discover tool than Farcaster. And Noosphere doesn’t even really exist.
+        - [[April 17th, 2023]] [Everyone Will Have Their Own AI](https://subconscious.substack.com/p/everyone-will-have-their-own-ai)
+            - https://www.youtube.com/watch?v=zFTfh3W0Kx0
+            - **Attendees**
+                - [[Nathan Acks]]
+                - [[Anuraj R]] (🙊)
+                - [[Gordon Brander]]
+                - [[Jenna Dixon]] (🙊)
+                - [[Na]] (🙊)
+                - [[Venkatesh Rao]]
+                - [[Sachin Benny]] (🙊)
+                - [[Ananth]]
+                - [[Commits Vortex]]
+                - [[Grigori Milov]]
+                - [[Steven Chung]]
+                - [[Ben Mahala]]
+                - [[Bryan King]] (🙊)
+            - **Meeting Notes**
+                - **Gordon Brander’s Opening Remarks**
+                    - Brander sees the current “tools for thought” as the resurrection of older ideas at the dawn of hypertext. Subconscious has a couple of aims:
+                        - Make sure that people own their own data, and don’t lose access to it if any one application becomes defunct.
+                        - Allow for __networked__ thinking between knowledge graphs.
+                        - Combine this network of hypertext documents with AI to allow these graphs to “think”.
+                - **Discussion**
+                    - [[Commits Vortex]] has two questions: (1) How does an AI companion interact with our concept of “death”. (2) How will governance work in the context of Noosphere?
+                    - [[Grigori Milov]] finds the idea of AIs that sync with each other immensely problematic. Moreover, does having “two brains” really help us think better, or will the AI become a personal echo chamber?
+                    - [[Nathan Acks]] is interested in the protocol. Noosphere seems to solve the problems addressed by the Same-Origin Policy by separating authentication, document storage/retrieval/display, and document creation/update/delete. This seems (superficially) similar to the approach taken by the Gemini Protocol, but using IPFS to ensure distributed availability/backup. Is this the correct way to think about Noosphere? How do private documents (single and shared) work in this context (uploading encrypted blobs?)? For shared documents, is the idea that signing can become a way of building a human-like web of trust within Noosphere (this key posts documents I find safe/knowledgable/etc.)?
+                    - [[Steven Chung]] has always had a problem organizing a notebook into a second brain, and is interested in how AI can help __organize__ this output. Isn’t search perhaps a better tool for finding links between documents?
+                    - [[Venkatesh Rao]] wonders what it will look like to go from Roam to something that’s local first, social, and automated __all at the same time__. Right now, the Yak Collective’s Roam is more of a “shared repository”, rather than “thinking together”. Over time, we’ve actually moved away from Roam a bit, and are using Discord bots more and more. What does this suggest about how we might interact with Subconscious’s AI? Roam is very good about capturing passive connections. In a networked context, shared graphs are likely to require new protocols... How do we get there with __private__ notebooks? Can the AIs in Subconscious talk to each other with some level of trust, independent of human interaction/command?
+                    - [[Ananth]] wonders how AI will help augment our memories. How would keeping a running log of our experiences work in practice? At the protocol level, how does Noosphere enable a richer, multiple-application ecosystem?
+                    - [[Ben Mahala]] thinks the idea of an AI trained just on a single person is interesting, but isn’t sure that there’s enough data generated by a single person.
+                - **Gordon Brander’s Reactions**
+                    - Gordon has a broader notion of AI that’s different than the dominant narratives: Most conversations evolve around AIs as “servants” or “gods”, but Gordon’s interested in them as a form of __augmentation__.
+                    - Roam is essentially a conversation between yourself and “yourself over time”. Gordon wants to add AI as a third member to this conversation, asking questions and trying to draw ideas out of this conversation.
+                    - The idea behind the Noosphere protocol is not to be exciting in itself, but to solve a set of problems that creates a new greenfield (in this case, a network of knowledge graphs).
+                    - Ownership is defined in Noosphere around “credible exit”. Security is still handled by drawing boundaries, but the idea is to __not__ draw every boundary around “the server”. What’s broken out from the server is data (IPFS), linking (pet names), and AuthN/AuthZ (UCAN).
+                    - Anything you link in your knowledge graph gets copied into your Sphere. So Noosphere is all about forking and versioning. Eventually Spheres will be multisig (so, e2e-encrypted to __multiple__ parties).
+                    - Gordon thinks that signing will be used to determine the providence of data (and hence reputation), and is ultimately the solution to AI-generated “misinformation”.
+                    - Part of the idea of Subconscious is that people can follow both other people and AIs. Follows get some level of access to your notes, and can start to riff off of them.
+                    - Gordon doesn’t think that AIs need to be particularly smart to be effective riffing partners.
+                    - Subconscious will initially be mobile-first (and probably iOS-first), with a web-app to follow. The beta will probably launch within the next 6 months.
+        - [[April 24th, 2023]] [Web3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
+            - https://www.youtube.com/watch?v=5PwHcTH-px4
+            - **Attendees**
+                - [[Ananth]]
+                - [[Anuraj R]]
+                - [[Ben Mahala]]
+                - [[Jenna Dixon]] (🙊)
+                - [[Jordan Peacock]]
+                - [[Nathan Acks]]
+                - [[Venkatesh Rao]]
+                - [[Na]] (🙊)
+                - [[Gregory Milov]]
+                - [[Maier Fenster]]
+                - [[Steven Chung]] (🙊)
+                - [[Commits Vortex]] (🙊)
+            - **Meeting Notes**
+                - [[Ben Mahala]] likes this article a lot. The move from email/username to key pairs as identities is good, though key management is still a problem. Another way to slice the web3 space might be between protocols that have “economic finality” (blockchains) vs. those that don’t (Farcaster, Bluesky). To a certain extent, owning your own key pair largely negates the __technical__ need for DNS. Sybil attacks are a problem in social media; people generally try to solve this by enforcing real-world identity, but Ben thinks that enforcing payments in some way (maybe at a group level) is probably the right solution.
+                - [[Grigori Milov]] notes that once content is published, it’s really out of the creator’s control: People screenshot and record things with abandon these days. Perhaps the focus on the content creator isn’t the right one? The right focus may be on how content is controlled __after__ it is published.
+                - [[Jordan Peacock]] finds this article interesting from a general perspective. What does an economy based on “web3” systems look like?
+                - [[Maier Fenster]] wonders why I need __authority__ to create content. The issue isn’t about content __creation__, but rather about how __discoverable__ that content is to others. Is cryptography really necessary to ensure discoverability? And is a self-certifying protocol really important here?
+                - [[Nathan Acks]] think that “permissionless protocol” may be an important, missing piece of this conception. It’s possible to construct a “web3” protocol like Jay describes that’s still controlled by a single organization and set of servers (a lot of corporate blockchains look like this). One of the lessons of Web 2.0 is that it’s less about the specifics of the software, and more about data portability __and__ interoperability. “User-generated authority enabled by self-certifying web protocols” gets us the first of these, but “permissionless protocols” are what get us the second. (Content addressing are a __necessary__ part of “permissionless protocols”, but are not in and of themselves __sufficient__.)
+                - [[Venkatesh Rao]] thinks that identity can be “created” in web3 using a TOFU model with key pairs. Venkat also likes Jay’s model of the hosted/posted/signed web. Signing is somewhere between “execution” and “ownership”. “Ownership” is a powerful cultural attractor, and Venkat isn’t sure that this middle ground is stable. It might be good enough for more “hive mind” like groups. Web of trust + TOFU is basically social trust.
+                - [[Ananth]] thinks that the key application of web3 is situations where there is no trusted central party. Blockchains talked about this first, but it’s a more general problem. Also, the key value these days isn’t generally in the content itself, but it the social graph.
+                - [[Anuraj R]] thinks that a better definition of “web3” is blockchain + social graphs.
+                - [[Jenna Dixon]] notes that Bluesky is already having moderation problems. Moderation is going to be __very__ important in decentralized networks.
+                - [[Venkatesh Rao]] notes that they’ve also experienced more “meanness” on Bluesky. Farcaster seems like a nicer, more individualist place, while Bluesky seems to already have a lot of subcultural baggage. But maybe there’s an element of “an armed society is a polite society”? But Farcaster just seems to be composed of a lot of conflict-averse people. This suggests that the AT Protocol may be a more natural fit for groups.
+                - [[Maier Fenster]] doesn’t quite buy the relationship between protocol and politeness.
+                - [[Venkatesh Rao]] thinks that ownership is an important aspect to politeness. There are people who think ownership is fundamental (Farcaster), while others think ownership is instrumental (Bluesky). Mutualist tendencies are also important.
+                - [[Maier Fenster]] thinks that the shape of the protocol and the people who initially populate it are important.
+                - [[Venkatesh Rao]] thinks that the interaction here is that culture leads to changes in the protocol, which then further cements given cultural trends.
+                - [[Venkatesh Rao]] wonders if “the medium is the message” applies to protocols as a whole, or just individual apps. The experience of Mastodon seems to suggest that protocols __are__ a medium.
+                - [[Nathan Acks]] agrees, in the sense that protocols will evolve to make different moderation styles easier or harder.
+        - [[May 1st, 2023]] [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
+            - https://www.youtube.com/watch?v=j277KqYFAqA
+            - **Attendees**
+                - [[Ananth]]
+                - [[Drew Schorno]]
+                - [[Na]]
+                - [[Maier Fenster]]
+                - [[Anuraj R]] (🙊)
+                - [[Jenna Dixon]]
+                - [[Nathan Acks]]
+                - [[Venkatesh Rao]]
+                - [[Ben Mahala]]
+            - **Prompt**
+                - > ELI5 — [Venkatesh Rao](https://discord.com/channels/692111190851059762/1102571590643892354/1102611603335168152)
+            - **Meeting Notes**
+                - [[Ben Mahala]] notes that the writers of this paper are fairly big names in the ZK proof space.
+                - [[Jenna Dixon]] is all for people trying to figure out soundness. Having “confidence intervals” around AI answers would be really valuable.
+                - [[Maier Fenster]] thinks that this is interesting from a theoretical perspective, but doesn’t present any practical applications. It’s not really clear if what’s being tested here is “knowledge” in any useful sense.
+                - [[Na]] notes that this is about __generalizing__ knowledge: Can I transpose knowledge into a different domain?
+                - [[Nathan Acks]] observes that the question in this paper is not really “counting”, but “can I generalize my understanding of a fruit”?
+                - [[Venkatesh Rao]] wonders what kind of knowledge current LLMs/LIMs have? At the moment, they “know” characteristics, but not necessarily semantics. But another kind of knowledge is about “solving equations”, which even people do (heuristically) even if they don’t “know” how to do it symbolically. LLMs seem to have this “birds know how to fly” sense, but don’t have a more general conceptual map. Is it possible to “know” about something like regular expressions in a “birds know how to fly” way?
+                - [[Ananth]] generally found this interesting.
+                - [[Maier Fenster]] wonders what “knowledge” means in an LLM sense?
+                - [[Drew Schorno]] notes that it’s about the ability to do a thing with new knowledge.
+                - [[Ben Mahala]] tries to operationalize this by suggesting that you should be able to answer a question in a consistent way within some set of error bounds.
+                - [[Venkatesh Rao]] thinks that knowledge can be measures in terms of “predictable mistakes” (and if those mistakes are within tolerances). Memory seems to be important here.
+                - [[Na]] thinks that decoupling the notions of “intelligence” and “knowledge” may be useful here.
+                - [[Ben Mahala]] thinks that the question of “knowledge” is one of being able to predict something consistently.
+                - [[Nathan Acks]] thinks that we’re all circling around the idea of “knowledge” as “do you have an accurate map of the world”? And __how complex__ are these maps?
+                - [[Ben Mahala]] worries that there will always be adversarial starting conditions that make an LLM look like it doesn’t “know” something.
+                - [[Nathan Acks]] points out that an adversarial starting condition for human’s innate understanding of mechanics is our instinct to flinch when a pendulum that was released in front of us swings back around.
+        - [[May 8th, 2023]] [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+            - **Attendees**
+                - [[Ananth]]
+                - [[Anuraj R]]
+                - [[Maier Fenster]]
+                - [[Nathan Acks]]
+            - **Meeting Notes**
+                - [[Maier Fenster]] notes that this leak paints a remarkably __not__ evil picture of Google. It doesn’t read like something a would-be monopolist would write. Google’s offerings are still inferior to OpenAI’s; that said, the open source people __do__ seem to be pushing a lot of what the Yak Collective is interested in. Perhaps open source and distributed systems can be a model for confronting monopolies?
+                - [[Nathan Acks]] has a few observations...
+                    - A throw-away observation: A side-note here is that “intellectual property” seems to be creating a lot of drag in this space. It seems that “open source” here means something more akin to William Gibson’s “the street finds its own use for things” than “open source” as the software institution.
+                    - The distinction here between smaller, highly tuned models and larger generalist models is interesting. I’m __really__ curious as to what drives this, as well as the power of small, iterative improvements, though it may be that no one knows.
+                    - The existence of a smarts vs. breadth trade-off isn’t surprising. You see this all the time in humans. Maybe being “smart” at everything is just a lot harder than we imagine?
+                    - Relatedly, the power of __quality__ over __quantity__ in training data is highly suggestive. Also very __human__...
+                    - There’s an interesting future sketched out here in local and “artisanal” LLMs. Apple should jump on this.
+                    - Not an AI-specific observation, but it feels like a through line of this entire argument is a general problem I think Google suffers from: A focus on centralized cloud-based computing. It’s a focus that ignores both the relative power of edge devices, and the fact that networking still __sucks__ outside of small geographic areas. That a cloud/server-based solution isn’t working well here isn’t surprising, but I also don’t expect Google (or most of the tech sector) to do anything with this. Giving power to edge devices is anathema.
+                    - You know who also is going to hate a world of edge-device AI? The AI safety/ethics people...
+                - [[Ananth]] is skeptical that LLMs are going to be the “final frontier” model that everyone seems to think they are right now. It’s telling that Google’s lost so many AI people of late...
+                - [[Anuraj R]] thinks that the idea that Google has “no moat” is a bit overblown. The code debugging models of GPT-4 is __way__ higher quality than these local models. This means that there will probably always be a market for larger model. Can “edge AI” really compete? Perhaps the future is edge models for simple tasks, with these models making calls out to a larger central model for harder tasks.
+                - [[Nathan Acks]] riffs off of this, and imagines a world where more generalist LLMs running on the edge make calls to more specialist LLMs.
+                - [[Anuraj R]] finds the work in this direction right now very interesting, and notes that [some systems are experimenting with BitTorrent](https://petals.ml/) for transferring data and connecting different parts of an LLM.
+                - [[Maier Fenster]] notes that a “moat” isn’t just technology: It’s also branding. Is anyone actually interested in solving the problem of a __distributed__ LLM. Where’s the LLM that runs on both phones and computers and refrigerators.
+                - [[Nathan Acks]] thinks that this is similar to Beowulf clusters. Perhaps there’s a future where there’s an “LLM module” that can be dropped into home automation systems. This turns “home automation” into something more like a “home cloud”.
+                - [[Ananth]] observes that such “home LLM modules” could go a long way to making tools like Siri more useful, as well as solving the “shitty internet” problem.
+        - [[May 22nd, 2023]] [Inside Datadog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
+            - https://www.youtube.com/watch?v=FBspmMb-GlI
+        - [[May 29th, 2023]] [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+            - https://www.youtube.com/watch?v=zkSq6Nrc7E0
+        - [[June 5th, 2023]] [ZK Machine Learning]
+        - [[June 12th, 2023]] [Computers that live two seconds in the future](https://interconnected.org/home/2023/06/09/future)
+            - https://www.youtube.com/watch?v=hUAJrcneBqc
+        - [[June 19th, 2023]] [Latency in Distributed Systems](https://en.wikipedia.org/wiki/Latency_%28engineering%29)
+            - https://www.youtube.com/watch?v=Qmvk3AkTPcc
+        - [[June 26th, 2023]] [Society's Technical Debt and Software's Gutenberg Moment](https://skventures.substack.com/p/societys-technical-debt-and-softwares)
+            - https://www.youtube.com/watch?v=f6ia4N3Agqs
+            - **Attendees**
+                - [[Anuraj R]]
+                - [[Jenna Dixon]] (🙊)
+                - [[Venkatesh Rao]]
+                - [[Nathan Acks]]
+                - [[Ananth]]
+                - [[Gregori Milov]]
+                - [[Ben Mahala]]
+                - [[Steven Chung]]
+            - **Prompt**
+                - > General reactions and speculate on what the world will be like if this argument is correct. — [Venkatesh Rao](https://discord.com/channels/692111190851059762/1122686297430052924/1122903247225638995)
+            - **Meeting Notes**
+                - [[Grigori Milov]] thinks that this argument fundamentally misunderstands software. However, if the argument __is__ right it will probably lead to ultra-customizable software. But this is likely to destroy the value of software, by making it too complex. Upgrade cycles may also increase, maybe even up to a daily cycle. But this is going to make it even harder to track new features and keep up with updates. New features are generally a thing that are explored by a minority of people, and most people don’t change their work patterns, so all this new software development will probably be for naught. The limit is how fast people can change their minds.
+                - [[Nathan Acks]] has security-related thoughts...
+                - [[Steven Chung]] is a bit skeptical of this argument, as they’ve been using ChatGPT-4 for coding and have found it lacking. It might be better to think of these tools less as “solve this problem for me” and more “give me a starting point”. Thinking of the __structure__ of your program is __really__ important, and manually typing code is probably not the bottleneck — code and ecosystem __complexity__ is the bottleneck. That said, if this thesis __is__ correct, this probably just accelerates existing trends. We may have more tools, but we’re bounded on demand... Not just how much people can __consume__, but importantly how much they can __imagine__.
+                - [[Venkatesh Rao]] agrees that these tools are likely to be less (or even less-than) useful for serious/professional programmers. But the sweet spot of this technology might be the amateur/prosumer experience — small projects that take tens of lines of code, rather than hundreds or thousands. So, perhaps you don’t see Microsoft Word coming out of this, but maybe lots of Microsoft Word __plugins__. This is much more the realm of “bespoke variants of known problems”, which is probably easier both to debug and have AI write. Venkat actually thinks that upgrade cycles may get pushed __out__ by AI customizability — people are likely to demand __more__ stability in their (software) environment, rather than less. Think of AI coding as “duct-tape software engineering”. Like me, Venkat sees a world with __a lot__ more bespoke tools. More importantly, we’re used to software being both very __precise__ and very __fragile__; but perhaps this is a move to something more realistic, where software becomes more satisficing (“70% is good enough”). Perhaps this leads to a more __mediocre__ world.
+                - [[Ananth]] liked this argument, but kept getting hung up on standards. There’s a real lack of standards in the space (or, when there are standards, there are __too many__ of them). A lot of what a software engineer does is choose what standards/libraries/etc. to loose. One advantage of the Ethereum virtual machine is that it’s an extremely constrained, specified environment... But this makes it a space that’s actually __easier__ to experiment in.
+                - [[Anuraj R]] expands on Ananth’s argument: Standards make things __expensive__ in software. Things need to be certified, and then can’t be changed... Even if better solutions come along. The article’s arguments work for __simple__ software, but not anything of meaningful complexity.
+                - [[Ben Mahala]] notes that many of the systems that this article classifies as “rules-based” are actually nothing of the sort — they’re an amalgam of rules and heuristics and social expectations and the current cultural moment. So, ChatGPT can’t replace these, but it’s also a misunderstanding to think that it __does__, or __can__... It’s basically Stack Overflow, a way of answering the question “am I on the right path?” But even if LLMs __do__ make coding much easier, there’s still the question of the __social__ interface for code. The transition from writing in assembly and writing in “code” was big, but it wasn’t __exponential__.
+                - [[Venkatesh Rao]] thinks that this article may be right for the wrong reasons.
+    - Season: Summer - [Increment Magazine](https://increment.com/issues/)
+        - [[July 3rd, 2023]] Retrospective and cycle planning discussion
+            - **Attendees**
+                - [[Venkatesh Rao]]
+                - [[Ananth]]
+                - [[Jenna Dixon]]
+                - [[Anuraj R]] (🙊)
+                - [[Maier Fenster]] (🙊)
+                - [[Nathan Acks]]
+                - [[Gregori Milov]]
+            - **Prompt**
+                - > For tomorrow I thought we could do a review+planning session. A mix of review of readings since the last review plus craft a syllabus/map of summer season readings. The theme I have in mind is practical engineering of distributed systems since we’ve been dealing with abstract CS  stuff and kinda philosophical exploration of memory for a while. Hence the Increment archives as a core resource. But can add around that. Prompt: Pick 1-2 memorable article from the last 12 weeks (use thread index to review) to comment on. 15 min review time. We’ll use last 20 minutes to talk about summer season plan, themes of interest etc. — [Venkatesh Rao](https://discord.com/channels/692111190851059762/904793053598998618/1125297023378272276)
+            - **Meeting Notes**
+                - [[Grigori Milov]] found the most memorable articles the lighter ones. The Farcaster protocol readings were the most interesting. How to build new social media networks around new communication primitives is fascinating. The “Sparks of Artificial General Intelligence” Microsoft paper was also interesting.
+                - [[Jenna Dixon]] found the general discussion around automation and its social interfaces the most inspiring and terrifying. How do we co-evolve with protocolization and automation? Jenna’s particularly interested in technological __undergrowth__: How do these things actually work? But we could talk more about how people actually __live__ with these systems.
+                - [[Nathan Acks]] found the readings around Noosphere/Subsconscious the most interesting. Also, like Jenna, the discussions of how humans and computers work together __mutualistically__.
+                - [[Venkatesh Rao]] thinks that we’re moving away from __distributed__ computing towards something more like __liquid__ computing, where the distinction between nodes are beginning to disintegrate. Venkat really liked the Datadog outage post-mortem. How do humans and distributed systems fail __together__? Complex interactions that span multiple levels of computing are particularly interesting. “Logic in memory” seems like an important concept... Increasingly important for AI hardware acceleration.
+                - [[Ananth]] found the articles about ZK systems/proofs interesting. The article about hobo “sign language” fascinating; the core ideas from that seem to come up again and again in different contexts.
+                - [[Anuraj R]] points out that the scope of the readings doesn’t __look__ much like a reading group about distributed systems.
+                - [[Venkatesh Rao]] thinks that maybe we should expand the name? But we don’t want too much scope creep.
+                - [[Nathan Acks]] notes that “liquid computing” is an interesting idea. Our readings seem to orbit around “computation and network” and its interactions with “human society” writ large.
+                - [[Venkatesh Rao]] points out that the social focus may be an artifact of the fact that this group originally grew out of the Governance Studies chat.
+                - [[Grigori Milov]] likes the current name.
+                - [[Venkatesh Rao]] wants to stay more technical for the next cycle. It may be interesting to do readings from a single source: [Increment Magazine](https://increment.com/issues/), from Stripe.
+                - [[Jenna Dixon]] thinks that maybe we should use an entire issue, as many articles are very short.
+                - [[Venkatesh Rao]] suggests that we pick a single core article, but then let people explore articles beyond this.
+        - [[July 10th, 2023]] [Issue 19: Planning](https://increment.com/planning/)
+            - Core readings:
+                - [Software development as a wicked problem](https://increment.com/planning/software-development-as-a-wicked-problem/)
+                - [Planning for change with RFCs](https://increment.com/planning/planning-with-requests-for-comments/)
+        - [[July 17th, 2023]] [Issue 14: APIs](https://increment.com/apis/)
+            - Core reading: [The land before modern APIs](https://increment.com/apis/land-before-modern-apis/)
+        - [[July 24th, 2023]]
+        - [[July 31st, 2023]]
+        - [[August 7th, 2023]]
+        - [[August 14th, 2023]]
+        - [[August 21st, 2023]]
+        - [[August 28th, 2023]]
+        - [[September 4th, 2023]]
+        - [[September 11th, 2023]]
+        - [[September 18th, 2023]]
+        - [[September 25th, 2023]]
