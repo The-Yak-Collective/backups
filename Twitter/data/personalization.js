@@ -9,7 +9,7 @@ window.YTD.personalization.part0 = [
           }
         ],
         "genderInfo" : {
-          "gender" : "male"
+          "gender" : "female"
         }
       },
       "interests" : {
@@ -36,10 +36,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Anti-fascism",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Aphex Twin",
             "isDisabled" : false
           },
           {
@@ -76,14 +72,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "BBC",
-            "isDisabled" : false
-          },
-          {
-            "name" : "BBC News",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Balenciaga",
             "isDisabled" : false
           },
           {
@@ -147,10 +135,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Clueless",
-            "isDisabled" : false
-          },
-          {
             "name" : "Coffee",
             "isDisabled" : false
           },
@@ -183,14 +167,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Dance & electronic",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Designer fashion",
-            "isDisabled" : false
-          },
-          {
             "name" : "Digital artwork",
             "isDisabled" : false
           },
@@ -219,15 +195,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Dungeons & Dragons",
-            "isDisabled" : false
-          },
-          {
             "name" : "Education around the world",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Electronic music",
             "isDisabled" : false
           },
           {
@@ -323,15 +291,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Google Innovation",
+            "name" : "Google brand conversation",
             "isDisabled" : false
           },
           {
             "name" : "Government institutions",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Guardians of the Galaxy",
             "isDisabled" : false
           },
           {
@@ -435,6 +399,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Movies & TV",
+            "isDisabled" : false
+          },
+          {
             "name" : "Music",
             "isDisabled" : false
           },
@@ -479,6 +447,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Podcasts",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Podcasts & radio",
+            "isDisabled" : false
+          },
+          {
             "name" : "Political figures",
             "isDisabled" : false
           },
@@ -492,10 +468,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Pop",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Pseudoscience",
             "isDisabled" : false
           },
           {
@@ -527,7 +499,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Rom-com films",
+            "name" : "Rotten Tomatoes",
             "isDisabled" : false
           },
           {
@@ -536,10 +508,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Sandwiches",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Sauna",
             "isDisabled" : false
           },
           {
@@ -600,14 +568,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Surfing",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Tabletop gaming",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Tabletop role-playing games",
             "isDisabled" : false
           },
           {
@@ -721,7 +681,7 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
-        "Los Angeles, CA, USA"
+        "Inglewood-Finn Hill, WA, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [

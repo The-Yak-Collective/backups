@@ -404,6 +404,14 @@ following.js
 - accountId: Unique identifiers for the other accounts this account follows.
 - userLink: Link to information about the blocked users’ profiles if accessible to the account. For example, this information might not be accessible if blocked profiles are protected or deactivated.
 ----------------------
+key-registry.js
+- userId: Unique identifier for the user account
+- deviceId: Unique identifier for the device registered for Encrypt Dms
+- registrationToken: Registration token with one to one mapping with deviceId
+- identityKey: Public key used to set up encrypted dm session
+- userAgent: String content extracted from request header that includes device metadata info
+- createdAt: Date and time of registration
+----------------------
 like.js
 - tweetId: Unique identifiers for the Tweets liked.
 - expandedUrl: Link to the actual tweet on twitter.com if the account has access to it.

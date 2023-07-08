@@ -10,186 +10,6 @@ window.YTD.ad_engagements.part0 = [
                   "osType" : "Ios",
                   "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
                 },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "94236",
-                  "name" : "#SuperMarioMovie",
-                  "description" : "Tickets on sale now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Super Mario Bros. Movie",
-                  "screenName" : "@supermariomovie"
-                },
-                "impressionTime" : "2023-03-11 05:11:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2023-03-11 05:11:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Ios",
-                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "94236",
-                  "name" : "#SuperMarioMovie",
-                  "description" : "Tickets on sale now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Super Mario Bros. Movie",
-                  "screenName" : "@supermariomovie"
-                },
-                "impressionTime" : "2023-03-11 05:11:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2023-03-11 05:12:42",
-                  "engagementType" : "TrendView"
-                },
-                {
-                  "engagementTime" : "2023-03-11 05:11:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "94700",
-                  "name" : "#DnDMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dungeons & Dragons Movie",
-                  "screenName" : "@DnDMovie"
-                },
-                "impressionTime" : "2023-03-30 13:56:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2023-03-30 13:56:45",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "94857",
-                  "name" : "#EvilDeadRise",
-                  "description" : "Get Advance Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Evil Dead",
-                  "screenName" : "@EvilDead"
-                },
-                "impressionTime" : "2023-04-07 14:45:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2023-04-07 14:45:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "94857",
-                  "name" : "#EvilDeadRise",
-                  "description" : "Get Advance Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Evil Dead",
-                  "screenName" : "@EvilDead"
-                },
-                "impressionTime" : "2023-04-07 14:39:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2023-04-07 14:39:08",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "94857",
-                  "name" : "#EvilDeadRise",
-                  "description" : "Get Advance Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Evil Dead",
-                  "screenName" : "@EvilDead"
-                },
-                "impressionTime" : "2023-04-07 14:48:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2023-04-07 14:48:31",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Ios",
-                  "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
-                },
                 "displayLocation" : "TimelineHome",
                 "promotedTweetInfo" : {
                   "tweetId" : "1638659777411575809",
@@ -301,16 +121,6 @@ window.YTD.ad_engagements.part0 = [
                   "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
                 },
                 "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1651713444545196034",
-                  "tweetText" : "\"This is the coolest toy I've ever seen\"✈️\nGet it 👉 https://t.co/Et3ECaczVO https://t.co/gOqWKGRt98",
-                  "urls" : [
-                    "https://t.co/Et3ECaczVO"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/gOqWKGRt98"
-                  ]
-                },
                 "advertiserInfo" : {
                   "advertiserName" : "Tole",
                   "screenName" : "@thetoleshop"
@@ -828,6 +638,40 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2023-05-05 23:26:47",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "95617",
+                  "name" : "#SpiderVerse",
+                  "description" : "Now Playing In Theaters. Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spider-Man: Across The Spider-Verse",
+                  "screenName" : "@SpiderVerse"
+                },
+                "impressionTime" : "2023-06-02 15:24:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-06-02 15:24:16",
                   "engagementType" : "TrendView"
                 }
               ]

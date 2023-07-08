@@ -6,151 +6,6 @@ window.YTD.ad_impressions.part0 = [
           "impressions" : [
             {
               "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Daniel Chabert | CRO Expert",
-                "screenName" : "@Dan_Chabert"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@mrsharma"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-30 03:36:28"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Avalanche 🔺",
-                "screenName" : "@avax"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@novogratz"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@haydenzadams"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@BarrySilbert"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@RaoulGMI"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@FEhrsam"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@dan_pantera"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@twobitidiot"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@defipulse"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-04-09 01:16:14"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Helcim",
-                "screenName" : "@Helcim"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@jpmorgan"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@stripe"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-04-09 04:28:22"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
                 "osType" : "Ios",
                 "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
               },
@@ -257,16 +112,6 @@ window.YTD.ad_impressions.part0 = [
                 "deviceId" : "2eVW2/fWZAazjwP/uvHAa4qkFW/vxfWcs2GVKmq/Lvo="
               },
               "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1651713444545196034",
-                "tweetText" : "\"This is the coolest toy I've ever seen\"✈️\nGet it 👉 https://t.co/Et3ECaczVO https://t.co/gOqWKGRt98",
-                "urls" : [
-                  "https://t.co/Et3ECaczVO"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/gOqWKGRt98"
-                ]
-              },
               "advertiserInfo" : {
                 "advertiserName" : "Tole",
                 "screenName" : "@thetoleshop"
@@ -808,6 +653,45 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-05-06 14:48:05"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1632841182450683904",
+                "tweetText" : "Introducing Dynasty\n\nLast year, I took the leap to start a company with @EdisonSalman  and Kyle Hanson.\n\nAll 3 of us were early employees at Carta, where we built a business by turning complex legal documents like stock agreements and option grants into https://t.co/djhCUkIIlS…",
+                "urls" : [
+                  "https://t.co/djhCUkIIlS"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Alessandro Chesser",
+                "screenName" : "@SandroChess"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2023-06-01 14:46:04"
             }
           ]
         }

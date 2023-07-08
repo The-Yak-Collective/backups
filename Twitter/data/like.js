@@ -1,6 +1,20 @@
 window.YTD.like.part0 = [
   {
     "like" : {
+      "tweetId" : "1668808126492016641",
+      "fullText" : "@p_millerd is author of _The Pathless Path. \nPaul's website https://t.co/M7YEE85a48\n\nIf not already on the Yak Collective server, join up with a few clicks here:\nhttps://t.co/UMieUbN93P",
+      "expandedUrl" : "https://twitter.com/i/web/status/1668808126492016641"
+    }
+  },
+  {
+    "like" : {
+      "tweetId" : "1668806317232750593",
+      "fullText" : "Indie event tomorrow Tue 2023-06-14. Paul Millard joining us for an conversation about the indie life. Paul is a long-time yak and was lead editor of first Yak Collective report \"Don't waste the reboot\"\nevent link: https://t.co/3qkMzkZi7u",
+      "expandedUrl" : "https://twitter.com/i/web/status/1668806317232750593"
+    }
+  },
+  {
+    "like" : {
       "tweetId" : "1654607044907769856",
       "fullText" : "The Starfighters of Eve does not exist #TerranTradeAuthority #AIArt #midjourney https://t.co/9LmYGZlwUQ",
       "expandedUrl" : "https://twitter.com/i/web/status/1654607044907769856"
