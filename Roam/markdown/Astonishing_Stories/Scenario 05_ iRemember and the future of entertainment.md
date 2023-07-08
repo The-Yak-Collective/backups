@@ -40,8 +40,8 @@
         - Tensions: The future as entertainment versus the past, the desire to live life privately and the incentive to live life more dramatically and capture it with iRemember in the hopes of a future television deal. Governments wanting access to the data.
         - Paradoxes: Being able to record all your thoughts and memories would seem to have much bigger implications outside of entertainment, but I think it has that regression to the mean quality that many innovations have. Kind of like how the internet puts all of civilization's knowledge at your fingertips, but many people just use it to send emails to their grand kids or share cat pictures.
         - Challenges: Large data storage requirements, privacy concerns over how and how much data is shared with others, seems like it might be desirable to hackers and bad actors who could use it for blackmail, but it could also change the justice system a lot. Easier to convict people if you can just download their memory of the event in question, although there's the 5th Amendment. I'm sure advertisers would want to stick ads in there somehow.
+- **Described by: [[Ben S]]
 - ## What keeps you up at night?
     - Worries or excitement about what you will record or capture on your iRemember device.
     - Whether a story you told about yourself is actually true.
     - The possibility for data theft, hacking, fabrication or alteration of iRemember data.
-- **Described by: [[Ben S]]

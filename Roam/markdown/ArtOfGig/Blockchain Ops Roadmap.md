@@ -45,10 +45,10 @@
                 - Idenity
                     - Reputatiom/clout
                 - Decentralized Identity
-                - Community provenance
                 - Cloud identity.
                     - Reputation Clout
                     - What is the right way to create flexible on-chain identities? 
+                - Community provenance
                 - Community provenance
                 - Cultural component of DAOification
                 - Agreements -> Rules (D of DAO). 
