@@ -880,37 +880,6 @@ but consider - is what is being sent data or programs?
                 - [[Nathan Acks]] notes that, to make a __Star Trek__ analogy, everyone thinks we're building Data, and really what we're building here is the ship's computer (which none of the crew members would ever mistake as anything other than a tool). Also, there's some real non-code limits to how fast an AI can iterate itself. LLMs are not just code, but also weighted models based on huge data sets. This data has to come from somewhere, and will take time to process (even if the code to do that processing, or then run inferences on that data set, can be improved on). Also, ChatGPT and its ilk are __very__ expensive from a hardware perspective, and improvements in GPUs, etc. are much harder to come by than improvements in code.
                 - [[Anuraj R]] agrees that the hardware aspects of AI are hard to iterate on.
                 - [[Jenna Dixon]] notes that there's a proposal on the server to share prompt recipes. This could be interesting/fun. Jenna wants a simple, obvious toggle for these systems that switches them between "things I know" and "things I don't know". Basically, what data source is the AI drawing from.
-        - [[March 27th, 2023]]: [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712)
-            - thread:: https://discord.com/channels/692111190851059762/1089771264396251236
-            - prompt:: [Considering second-order impacts here, what are the possible practical ways to integrate AI into your work/life?](https://discord.com/channels/692111190851059762/698566364595486720/1089772183850582056)
-            - transcript:: https://otter.ai/u/vgvcjwMPHpVsuj8JDtRwGUcChGs
-            - audio recording:: 
-                - {{[[audio]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F56vEI9fa4f.mp3?alt=media&token=ea2dad1b-9030-438b-8add-28a02aa96e43}}
-            - attendees::
-                - [[Venkatesh Rao]]
-                - [[Anuraj R]] (listen mode)
-                - [[Nathan Acks]]
-                - [[Ananth]]
-                - [[Bryan King]]
-                - [[Jenna Dixon]] (listen mode; responded in call thread)
-                - [[Grigori Milov]]
-                - [[Maier Fenster]]
-                - [[Steven Chung]] (listen mode)
-                - [[Kyle Mathews]]
-            - notes::
-                - We're going to look into AI (or just automated) transcription / note-taking! That would be handy...
-                    - doing a test recording with #[[MEE6]], to pass to otter.ai, possibly to set up a zap or similar #[[jrd]]
-                - [[Bryan King]] observes that all of the LLMs seem to be "deep generalists", but often function in a very surface level, like a particular kinda of Twitter personality. So to Bryan, these models feel very close to human-level. But human-level intelligence may not be the bottle neck for making things happen. AI feels like a "so what?" moment; Bryan really struggles to find a use for the current crop of AI tools. It might be useful as a one-off thing, but is it really useful for big projects? Do AIs produce maintainable systems?
-                - [[Grigori Milov]] agrees with the papers authors that "intelligence" is a slippery concept. It can kind of be anything; almost any one-dimensional definition breaks down, and multi-dimensional definitions become a kind of "I'll know it when I see it" problem. A lot of the discussion right now is thus retrospective: Rather than coming up with forward-looking tests and definitions, people are asking how well it can perform already-defined tasks. How much of GPT-4's performance is just memorization? Grigori thinks the key here is the concept of __mastery__, which suggests that the questions the authors are asking are the wrong ones. How could we learn from a future iteration of this AI? This may require us to learn how to be "interesting" to the LLM...
-                - [[Jenna Dixon]] is in listen-only mode today.
-                - [[Kyle Mathews]] has been playing around a lot with LLMs in the last year. It's pretty hit-or-miss right now; the reliability just isn't there, though it __is__ useful when asking questions that are normally swamped by spam in search. For programming, ChatGPT requires __a lot__ of review. GitHub's CoPilot seems more useful. OpenAI's plugin architecture looks like a real game-changer.
-                - [[Maier Fenster]] has been working on a presentation about how generative AI will impact IP law. Maier sees it as kind of the opposite of the internet; AI is about zeitgeist, while the internet is about specifics. GPT-4 is __very__ good at generating and processing words; this seems like something patent attorneys might use to describe a new invention. ChatGPT as an "explanation engine" seems like it will be a big deal. It seems like __generating__ text is going to become easier, but __understanding__ text (in particular, sorting signal from noise __within__ a document) is going to be harder. ChatGPT is already good enough to write a bad patent.
-                - [[Nathan Acks]] sees GPT-4 as a symbolic manipulator, and is interested in automation.
-                - [[Steven Chung]] is in listen-only mode.
-                - [[Venkatesh Rao]] thinks that this paper actually defines the concept of "general" more reasonably, as "human equivalence". There's a central question here of whether __humans__ are actually "general intelligences", or just __more__ general than other species on Earth. Certainly GPT-4 is __much__ more general than previous LLMs, but it still experiences __a lot__ of hallucinations and still goes on a lot of tangents. Processing the output of GPT-4 seems to be roughly as hard as processing interactions with "the real world". Calculators meaningfully reduce how "smart" people need to be: Now we don't need to know arithmetic (beyond the basic symbols and logic). But GPT-4 doesn't provide this sort of affordance; for example, if you ask for an essay, you still have to edit the whole thing. And editing is often harder than creating. So we're not really meaningfully __reducing__ the amount of intelligence required of humans, and in fact may be __increasing__ the requirements (debugging/editing/etc. is hard!). What happens when people begin using LLMs to substitute for things like StackOverflow? The only way to get around this loss may be to have the model train itself from its own users' __inputs__. But how do you get out of corner cases, where there are few, if any examples to train the AI but the task is meaningfully human-complex?
-                - [[Ananth]] thinks the mathematical reasoning portion of the paper was particularly interesting. The fact that GPT-4 breaks so easily when doing mathematics is potentially telling. But it __is__ good at sketching out answers that require cross-disciplinary knowledge, and it also seems good at Fermi Estimation. Ananth is skeptical that GPT-4 is really "general" yet; non-linear thinking and working memory seem to be real problems. The models __are__ surprisingly creative, and seems to be reasonably good at working within constraints.
-                - [[Anuraj R]] is in listen-only mode.
-                - [[Venkatesh Rao]] wants to continue the discussion in this vein next week. We need a good follow-up reading.
     - Season: Spring
         - [[April 3rd, 2023]] [CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
             - https://www.youtube.com/watch?v=trID0pJXMEw
@@ -1103,6 +1072,51 @@ but consider - is what is being sent data or programs?
                 - [[Anuraj R]] expands on Ananth’s argument: Standards make things __expensive__ in software. Things need to be certified, and then can’t be changed... Even if better solutions come along. The article’s arguments work for __simple__ software, but not anything of meaningful complexity.
                 - [[Ben Mahala]] notes that many of the systems that this article classifies as “rules-based” are actually nothing of the sort — they’re an amalgam of rules and heuristics and social expectations and the current cultural moment. So, ChatGPT can’t replace these, but it’s also a misunderstanding to think that it __does__, or __can__... It’s basically Stack Overflow, a way of answering the question “am I on the right path?” But even if LLMs __do__ make coding much easier, there’s still the question of the __social__ interface for code. The transition from writing in assembly and writing in “code” was big, but it wasn’t __exponential__.
                 - [[Venkatesh Rao]] thinks that this article may be right for the wrong reasons.
+    - Season: Spring
+        - March 27: [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+            - thread:: https://discord.com/channels/692111190851059762/1089771264396251236
+            - prompt:: [Considering second-order impacts here, what are the possible practical ways to integrate AI into your work/life?](https://discord.com/channels/692111190851059762/698566364595486720/1089772183850582056)
+            - transcript:: https://otter.ai/u/vgvcjwMPHpVsuj8JDtRwGUcChGs
+            - audio recording:: 
+                - {{[[audio]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F56vEI9fa4f.mp3?alt=media&token=ea2dad1b-9030-438b-8add-28a02aa96e43}}
+            - attendees::
+                - [[Venkatesh Rao]]
+                - [[Anuraj R]] (listen mode)
+                - [[Nathan Acks]]
+                - [[Ananth]]
+                - [[Bryan King]]
+                - [[Jenna Dixon]] (listen mode; responded in call thread)
+                - [[Grigori Milov]]
+                - [[Maier Fenster]]
+                - [[Steven Chung]] (listen mode)
+                - [[Kyle Mathews]]
+            - notes::
+                - We're going to look into AI (or just automated) transcription / note-taking! That would be handy...
+                    - doing a test recording with #[[MEE6]], to pass to otter.ai, possibly to set up a zap or similar #[[jrd]]
+                - [[Bryan King]] observes that all of the LLMs seem to be "deep generalists", but often function in a very surface level, like a particular kinda of Twitter personality. So to Bryan, these models feel very close to human-level. But human-level intelligence may not be the bottle neck for making things happen. AI feels like a "so what?" moment; Bryan really struggles to find a use for the current crop of AI tools. It might be useful as a one-off thing, but is it really useful for big projects? Do AIs produce maintainable systems?
+                - [[Grigori Milov]] agrees with the papers authors that "intelligence" is a slippery concept. It can kind of be anything; almost any one-dimensional definition breaks down, and multi-dimensional definitions become a kind of "I'll know it when I see it" problem. A lot of the discussion right now is thus retrospective: Rather than coming up with forward-looking tests and definitions, people are asking how well it can perform already-defined tasks. How much of GPT-4's performance is just memorization? Grigori thinks the key here is the concept of __mastery__, which suggests that the questions the authors are asking are the wrong ones. How could we learn from a future iteration of this AI? This may require us to learn how to be "interesting" to the LLM...
+                - [[Jenna Dixon]] is in listen-only mode today.
+                - [[Kyle Mathews]] has been playing around a lot with LLMs in the last year. It's pretty hit-or-miss right now; the reliability just isn't there, though it __is__ useful when asking questions that are normally swamped by spam in search. For programming, ChatGPT requires __a lot__ of review. GitHub's CoPilot seems more useful. OpenAI's plugin architecture looks like a real game-changer.
+                - [[Maier Fenster]] has been working on a presentation about how generative AI will impact IP law. Maier sees it as kind of the opposite of the internet; AI is about zeitgeist, while the internet is about specifics. GPT-4 is __very__ good at generating and processing words; this seems like something patent attorneys might use to describe a new invention. ChatGPT as an "explanation engine" seems like it will be a big deal. It seems like __generating__ text is going to become easier, but __understanding__ text (in particular, sorting signal from noise __within__ a document) is going to be harder. ChatGPT is already good enough to write a bad patent.
+                - [[Nathan Acks]] sees GPT-4 as a symbolic manipulator, and is interested in automation.
+                - [[Steven Chung]] is in listen-only mode.
+                - [[Venkatesh Rao]] thinks that this paper actually defines the concept of "general" more reasonably, as "human equivalence". There's a central question here of whether __humans__ are actually "general intelligences", or just __more__ general than other species on Earth. Certainly GPT-4 is __much__ more general than previous LLMs, but it still experiences __a lot__ of hallucinations and still goes on a lot of tangents. Processing the output of GPT-4 seems to be roughly as hard as processing interactions with "the real world". Calculators meaningfully reduce how "smart" people need to be: Now we don't need to know arithmetic (beyond the basic symbols and logic). But GPT-4 doesn't provide this sort of affordance; for example, if you ask for an essay, you still have to edit the whole thing. And editing is often harder than creating. So we're not really meaningfully __reducing__ the amount of intelligence required of humans, and in fact may be __increasing__ the requirements (debugging/editing/etc. is hard!). What happens when people begin using LLMs to substitute for things like StackOverflow? The only way to get around this loss may be to have the model train itself from its own users' __inputs__. But how do you get out of corner cases, where there are few, if any examples to train the AI but the task is meaningfully human-complex?
+                - [[Ananth]] thinks the mathematical reasoning portion of the paper was particularly interesting. The fact that GPT-4 breaks so easily when doing mathematics is potentially telling. But it __is__ good at sketching out answers that require cross-disciplinary knowledge, and it also seems good at Fermi Estimation. Ananth is skeptical that GPT-4 is really "general" yet; non-linear thinking and working memory seem to be real problems. The models __are__ surprisingly creative, and seems to be reasonably good at working within constraints.
+                - [[Anuraj R]] is in listen-only mode.
+                - [[Venkatesh Rao]] wants to continue the discussion in this vein next week. We need a good follow-up reading.
+        - April 3: ?? did we not have a call?
+        - April 10: Your Brain on IPFS — can’t find link
+        - April 17: [Everyone will have their own AI](https://subconscious.substack.com/p/everyone-will-have-their-own-ai)
+        - April 24: [Web 3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
+        - May 1: [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
+        - May 8: [Google: We have no most](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+        - May 15: [AI memes are going mainstream](https://goldsguide.com/ai-memes-by-balenciaga-how-to/)
+        - May 22: [Inside Datadog’s 5m Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
+        - May 29: [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+        - Jun 5: [ZK Machine Learning](https://0xparc.org/blog/zk-mnist)
+        - June 12: [Computers that live two seconds in the future](https://interconnected.org/home/2023/06/09/future)
+        - June 19: [Latency](https://en.m.wikipedia.org/wiki/Latency_(engineering)) — anyone know how to escape the inner parentheses?
+        - June 26: [Society's Technical Debt and Software's Gutenberg Moment](https://skventures.substack.com/p/societys-technical-debt-and-softwares)
     - Season: Summer - [Increment Magazine](https://increment.com/issues/)
         - [[July 3rd, 2023]] Retrospective and cycle planning discussion
             - **Attendees**
@@ -1145,3 +1159,19 @@ but consider - is what is being sent data or programs?
         - [[September 11th, 2023]]
         - [[September 18th, 2023]]
         - [[September 25th, 2023]]
+    - Season: Summer 
+        - July 3: Review/planning session
+        - July 10: [Software development as a wicked problem](https://increment.com/planning/software-development-as-a-wicked-problem/) — Jenna pick
+        - July 17: [Before modern APIs](https://increment.com/apis/land-before-modern-apis/) - Nathan pick
+        - July 24:[Planning for change with RFCs](https://increment.com/planning/planning-with-requests-for-comments/) — Ananth pick
+        - July 31:
+        - Aug 7:
+        - Aug 14:
+        - Aug 21:
+        - Aug 28:
+        - Sept 4:
+        - Sept 11:
+        - Sept 18:
+        - Sept 25:
+    - Season: Winter
+        - Oct 2: Review/planning session
