@@ -143,8 +143,8 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
 - **Turn to Shreeda to choose questions out of the chat **- 
     - depending on if there are questions in there or not or if not too many attendees, could have them raise hands 
 - 6:20
-- 6:30
 - 
+- 6:30
 - 
 - Topic ideas:
     - Childcare/education
