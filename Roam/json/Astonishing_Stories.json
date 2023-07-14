@@ -40752,5 +40752,18 @@
     ":edit/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     }
+  },
+  {
+    "create-time": 1689328101417,
+    "title": "July 14th, 2023",
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    ":log/id": 1689328101415,
+    "uid": "07-14-2023",
+    "edit-time": 1689328101417,
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
   }
 ]
