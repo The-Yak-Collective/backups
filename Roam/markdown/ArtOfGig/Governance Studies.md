@@ -10,6 +10,114 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - [[July 14th, 2023]] What Should Data Science Education Do with Large Language Models?
+        - The source: https://arxiv.org/pdf/2307.02792v2.pdf
+        - Prompts: 
+            - To what degree do you agree with the authors' analysis?
+            - Can the same logic be applied to other less sexy disciplines than Data Science?
+            - What, if anything, do authors miss?
+        - LLMs reshape the role of data scientists. Authors argue that LLMs are transforming the responsibilities of data scientists, shifting their focus from hands-on coding, data-wrangling and conducting standard analyses to assessing and managing analyses performed by these automated AIs. This evolution of roles is reminiscent of the transition from a software engineer to a product manager, where strategic planning, coordinating resources, and overseeing the overall product life cycle supersede the task of writing code. These developments necessitate a meaningful evolution in data science education. Pedagogy must now place greater emphasis on cultivating diverse skillsets among students, such as LLM informed creativity, critical thinking, AI-guided programming, and interdisciplinary knowledge.
+        - Venkat:
+            - Hoped to see the case studies, but instead found AI-generated curriculum. Similar to what I would attenpt. 
+            - Basic reaction. The futire painted here is extremely boring. Turning scientists into product managers is slow death. Solving the problems that you didn't think you could solve is what attract people to science in the first place.
+            - Very demotivating. A very different person would study Data Science with LLMs.
+            - Am giving a playbook a benefit of a doubt. But then the output is that far less creative people graduated. 
+            - The upside if it works it becomes very scalable. Now Data Science is esoteric skill. A lot of people are code or formula monkeys = they don't understand what they are doing.
+            - And, yes we will have more manager types.
+        - Matthew: 
+            - Overlaps with precious discussion. The benefits will accrue to beginners. The more interesting news. On the currillum design front. Quite an interesting idea to iterate the curriculum.
+            - Just mapping out the problem space and a solution space and triaging.
+            - Not sure how much LLM change the education. the format of an article makes it suboptimal. There is missed opportunity for a rant or a blog recounting experience of someone who tried to build this. Could add a little bit of vibrancy. 
+        - Kiran: 
+            - I agree, I wish it was a different format. They could give people ideas on how to make experiments.
+            - I have two scenarios: a distopian and an utopian. Think about negative stuff more. In my experience dealing with data on my own, trying to present conclusions to people, the key part is to have a lot of confidence. If you do you can wrap the data and tell almost any story. Slice the data differently, and it will tell a different story. If you give anyone a superpower to clean the data and then create visuals you end up generating sexy output, but there is no guarantee that it will make sense to you. When you are presenting to people you need to bring them with you. Where the data is coming from, how it gets measured.
+            - Introduces the incompetency in people processes. 
+            - Useful to accelerate learning. But will it give you enough hooks to understand why it is doing the things it is doing is a big question.
+        - Bryan: 
+            - The interesting thing is to perform the A/B test on the effectivenes of LLM enhanced education. 
+            - Does LLM enhanced ed make a difference? People with expertise can keep an eye on model and still train the students. What happens when they are replaced with machines?
+            - Who is going to push boubdaries to discover new things?
+            - Product managers are the most demoralizing, PMs are business savy, not technical enough to call bullshit and deliver the product.
+            - In general all this reminds of lazy web. I am bored and I am not want to do boring work.
+            - Having a human design a curriculum and trying to get somewhere vs just checking the boxes. 
+        - Grigori: 
+            - The main thing the authors miss is the difference between an industry and a discipline. Data Science is a discipline or a major. It is not an industry. 
+            - Discipline is something you can major in. Industry is where economic activity happens and value is created. 
+            - They are orthogonal in a sense. You can't map a discipline structure to an industry structure, because every industry is cross-disciplinary. And as a graduate you want to have employment opportunities not just in one industry, but across quite a few of them.
+            - English is a major. Publishing is an industry. Computer Science is a major. Software is an industry. Finance is a major. Private Equity is an industry. Business Administration is a major. Consulting is an industry.
+            - Data Science is not an industry. It is a rather freshly cooked discipline. There are Departments of Data Science in some universities, I have checked, but they were formed rather recently. The whole discipline is probably a couple of decades old. 
+            - The appeal of the Data Science as a discipline is that it is by definition a very wide cross-industry major. You can find a job in many different places potentially. So you are not tied up to a particular industry dynamics.
+            - An industry needs much more than a bunch of graduates with the same major. So the industry can be very flexible in what kind of specialists they hire and how much training they provide. And an employer can use instruments of life-long learning to teach people some complementary skills.
+            - Other than that the analysis seem to be rather solid. It starts with employment, i. e. the roles, which is good. The roles change though.
+            - It talks about both what and how? or, in other words, the content of data science education (what to teach/learn) and the methods of data science education (how to teach/learn). But it places both questions in a domain of education. 
+            - We can inmagine a future in which What? is a question employers ask. And How is the question the educational institution can answer. and LLMs help them both.
+            - Finally, instead of focusing of what will change (almost everything) an interesting exercise would be to focus on what will remain unchanged/the same and then we can build on top of that structure.
+            - Like whatever they describe as topics in Current State section is not going anywhere anytime soon: statistics, probability, linear algebra, programming (usually with languages Python or R), machine learning algorithms, data visualization, and databases.
+            - One can think about unbundling Data Science (or any other discipline): make sure you have some skills in selected topics and then decide how to rebundle it  and whether to call the aggregate Data Science or whatever you want it to call. 
+            - This way you can make some educated guesses and they will inform your choices much better than a bet on a paradigm shift within a specific industry or a discipline.
+        - Kiran:
+            - Reminded of Seeing Like a State. If LLMs become very pervasive in Data Science, it will affects the governance. LLMs intoduce another level of complexity and governace can become even more confusing. Seeing like a state argues that you need to be like archeologists. Pave the roads people are already taking.
+    - [[July 7th, 2023]] DARPA Incentives and Structure
+        - The source: https://benjaminreinhardt.com/wddw#incentives_and_structure
+        - The Prompt: 
+            - When do you think a fair bit of opacity is good for an org and when it is not?
+            - Can we distinguish good opacity from bad one?
+            - How can an org increase its tolerance to good opacity (without increasing tolerance to bad opacity as well)?
+        - > Abstractly, opacity seems important because if your source of money is constantly looking over your shoulder and judging what you’re doing, you’re going to take actions that look good. A source of money like Congress that has many opinions exacerbates the incentive to ‘play it safe’ because making sure any action you take is acceptable to a committee is almost as bad as the committee determining those actions.
+        - > Decisions made by committees lead to median results.
+        - > If you buy the argument that it’s important to pay attention to DARPA’s informal process and ignore formal process it leads to the conclusion that opacity is important to DARPA’s outlier success and DARPAs director is important.
+        - > Opacity can also be abused: getting nothing done, dumping money into stupid projects or unnecessary expenses, giving contracts to performers with whom you have a special relationship, or just straight up stealing. Opacity can be abused in too many ways to list and prevent, which means that a better strategy is to incentivize people not to abuse it.
+        - Sachin: 
+            - There is always some opacity in hierarchical structures. And it is good. For an org to function, implicit opacity is needed. Not everybody can have a full context and everything that what is going on. 
+            - Implicit opacity implies trust. from the example of politization of DARPA and government being involved.
+            - Needed when authority figure wants playing a leader. When there is no opacity at all, you get people who meddle even with small feature which signals disfunctional org, because no one can have a full context on why a specific button works in a specific way.
+            - Bad opacity. Everyone wants to manage others and nothing is done. Section of not hiring people with online presence feels wrong. Works with moonshots. true outliers stuff with high chance of failure or polarizing public opinion.
+            - The opposite of start-ups fundraising. Don't want to end up with a lot of cash and nothing to do with it.
+        - Shreeda: 
+            - Found it educational. Supermediocre with commetees of people. Can see the merits of director being able to defend the long-term vision.
+            - Keep it small and limited in size.
+            - The bad opacity is preventing feedback loops. Don't know the answer to how to increase tolerance.
+        - Venkat: 
+            - In 2006 was a part of DARPA grand proposal. DARPA puts out themes that are specific but also too big for a one group. Need to put together at least 3 groups and 3 academics. DARPA coordinated the program.
+            - Huge complicated "system of systems" call, that looked and sounded like bullshit. People have taken opacity seriosly and were writing proposals in BS like terms. 
+            - What was actually happening: Pick a size that is too hard for one team to capture. The 3 academics will never agree on anything enough to be able to capture. 
+            - Big, unruly, messy, headless zombie projects. Academics hate DARPA money they call they blood money and prefer NSF money.
+            - All the successful DARPA projects like the internet, or autonomous driver are outliers. Autonomous driver was specific, but not specific in detailed way. 
+            - But they dont't fit the mold. Apart from a few outliers DARPA projects are lot of wasted money.
+            - Success of accidence.
+            - The old outliers worked in a different way. More like an old boy clubs. PM was pulling the clubs for DARPA.
+            - Porting the network into new contexts. OSS run by Vannevar Bush inherited social networks.
+            - Successes are network related or outliers. Or accidental.
+            - Very mixed feelings about opacity. 99% of times it is bad. You need a leader in the middle. Bureaucracy is so good of capturing. Makes a revolving door for an oportunistic grifter. The trouble with Intel right now.
+            - Opacity as a strategic defensive pattern is dangerous. See the cost of DARPA. All reasearch should be inefficient, but DARPA is blowing up a lot.
+            - Unwise to manage research money that way.
+            - VCs are far more efficient than DARPA: 1 invetsment that returns the whole fund, a few 10x, and the rest are losers.
+            - DARPA relies on a Selfless Visionary Person in the middle. Not an outcome I would bet on. Without that opacity will kill you.
+        - Grigori: 
+            - The main incentive is to work with amazing people on amazing things. And you want to keep it that way. It doesn't happen naturally. Seems easy, but there are a lot of other factors involved. One way to do it is to eliminate status games completely. (No promotion inside, you go out after your time). Still hard to keep it that way.
+            - The answer on the 1st question hinges on the issue of whether people who funds are competent enough to understand what's going on and not to interfere almost no matter what. Basically, competence is an ability to distinguish between business risk related to a particular idea and all other sorts of risks, including risk of doing nothing.
+            - What do you want to see from outside is an evidence that the bets are made and what kind of bets they are. And then you want to be transparent with the outcomes of the bets (did it work out? didn't it work out? What went wrong?) So that you can do a poost-mortem of sorts and learn just a little bit from the outcome.
+            - But as an outsider you want to avoid making the bet or influence people making the bet. So that you hire for this ability and then let PM to make their bets, and then let the bets play out naturally.
+            - This is good opacity. 
+            - Bad opacity is when no actual bets are made or bets are made by the people other than PMs, or the outcomes are unclear, or post-mortems can not be performed.
+    - [[June 30th, 2023]] The Future of Education in a world of AI
+        - The Source: https://www.oneusefulthing.org/p/the-future-of-education-in-a-world
+        - The Prompt: 
+In your view, does the article overestimate or underestimate the impact of LLMs on education and specifically business education (and executive education, or, alternatively, whatever type of education you are most familiar with) where the author is working?
+What are your the most conservative and the most revolutionary scenario for upcoming changes?
+    - [[June 23rd, 2023]] AI is a Lot of Work
+        - The Source: https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots
+        - The Prompt: If you have ever seen any signs of ingenuity or creativity coming from ChatGPT or similar models, what, in your view, is the main source of it?
+        - 
+    - [[June 16th, 2023]] How ChatGPT Learns 
+        - The Source: https://www.linkedin.com/pulse/understanding-chatgpt-triumph-rhetoric-geoffrey-moore/
+            - It is, of course, a less than perfect description of how ChatGPT works. 
+            - The original long article is here https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+            - The relevant short chapters seem to be 
+                - The Training of ChatGPT and
+                - Beyond The Basic Training
+        - The Prompt: Based on what you have just read and what you already know, give us your shortest possible description of how the mechanism of ChatGPT works? How does it learn? It shouldn't be perfect either. What, if anything, Geoffrey Moore is missing in his description?
+            - Why do you think people have hard time articulating the way AI works?
     - [[June 9th, 2023]] Jesuit Education Principles
         - Shreeda:
             - I'm mid Uber and going to drop but
