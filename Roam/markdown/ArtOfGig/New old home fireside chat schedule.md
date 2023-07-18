@@ -140,14 +140,16 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
     - We were able to get this together pretty quickly because...
     - I had limited capacity to manage because I have 3 kids under age 5 and no childcare at the time...
     - 
+- 6:20
 - **Turn to Shreeda to choose questions out of the chat **- 
     - depending on if there are questions in there or not or if not too many attendees, could have them raise hands 
-- 6:20
 - 6:30
 - 
 - Topic ideas:
     - Childcare/education
     - 
+- 
+- 
 - 
 - Intro/Overview **(Jordan starts)**
     1. Jordan welcomes audience
@@ -155,16 +157,14 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
     3. Jordan introduces NOH collab
     4. Jordan introduces Pamela Hobart: 
         - "Pamela aka The Life Coach for Smart People is an independent philosopher in private practice. She proposed the NOH project in April, I'll let her explain the concept to you ... take it away Pamela"
-    5. **Pamela** introduces "New Old Home" concept
     5. Bios
         - Yak Collective
         - Pamela Hobart
         - Drew Schorno
+    5. **Pamela** introduces "New Old Home" concept
     6. Pamela invites Drew as co-lead take it away Drew...
     7. **Drew ** introduces himself 
     8. Drew: so without further ado, let's dig into the deck... 
-- 
-- 
 - 
 - 
 - 

@@ -16,10 +16,10 @@
         - 5) Solving Opposition 
             - Neuro-dialogue between those with opposing political views - lots of signs that political belief is a product of emotion - wondering if neuroproducts could help us move beyond communicating political arguments and more towards how those arguments were formed...House of Commons debate with Kernel helmets strapped on...
 - 
-- TECHNICAL CONSTRAINTS:
 - Notes
-- IMPOSSIBILITIES: 
+- TECHNICAL CONSTRAINTS:
 - Expose a number individuals to a future scenario on a sensory level and gain precise/categorised insight into their sentiment towards this scenario - which can then be fleshed out further discursively in a group setting
+- IMPOSSIBILITIES: 
 - METAPHORS: 
 - Barrett emotions theory [Policing application](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01946/full)
     - The brain as a predictive model - theory of constructed emotion - citizen predictions of political growth that takes place around them to inform that growth when political leaders make decisions
