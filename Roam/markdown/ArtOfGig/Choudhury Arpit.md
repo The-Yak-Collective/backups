@@ -1,18 +1,18 @@
 - Hi! I’m Arpit, an independent growth/product marketing consultant based in Kolkata, India.
     - I like to think about the big challenges we are facing as a society, work on challenging problems, and challenge the status quo.
     - I'm driven by building value and not by personal gain. 
+    - Software excites me, great software makes me want to jump!
     - I'm a huge proponent of tools that enable non-technical folks to do stuff that was previously only possible with code.
-    - Software excites me, great software makes me want to jump!
-    - Software excites me, great software makes me want to jump!
     - If I like something, I tend to sell it to everybody. 
-    - I revel in the fact that I'm a jack of all trades.
+    - Software excites me, great software makes me want to jump!
     - If I like something, I tend to sell it to everybody.
+    - I revel in the fact that I'm a jack of all trades.
     - If I dislike something, I tend to prevent others from buying into it.
     - In particular, I am good at selling my ideas and writing about them.
-    - I get paid to engage people who use certain software tools.
     - 2020 has been a strange year -- I have gained so much but lost even more.
-    - If I dislike something, I tend to prevent others from buying into it.
+    - I get paid to engage people who use certain software tools.
     - I revel in the fact that I'm a jack of all trades.
+    - If I dislike something, I tend to prevent others from buying into it.
     - In particular, I am good at selling my ideas and writing about them.
     - I get paid to engage people who use certain software tools.
     - I'm driven by building value and not by personal gain.
