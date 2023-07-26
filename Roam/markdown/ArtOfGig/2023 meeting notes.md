@@ -50,6 +50,22 @@
         - Software people can start looking into the board + Zephyr RTOS
         - Add solar and comms with Blues Notecarrier A (or F?)
         - Why not using a smartphone to replace all?
+    - July 18
+        - Software architecture stuff
+        - Merits of using RTOS
+    - July 25
+        - Rhetto early demo with FreeRTOS and esp-idf. Code for sending some telemetry over WiFi.
+        - Is WiFi desired on Yakasaur?
+            - Maybe good for mesh networking
+            - Problem 2.4GHz is rather short range compared to what we can get at say 900MHz
+        - Antenna?
+            - About adding an external extra antenna for additional gain.
+            - Molex antenna?
+            - Antenna integrated in the body?
+        - Discussion about cooling
+            - Passive vs. active
+            - Heat exchanger vs. refrigeration
+            - Design ideas like putting solar panels on top, cover the whole rover and keep an air gap. A bit like Sojourner? https://spaceplace.nasa.gov/mars-sojourner/en/sojourner-movie.en.gif
 - Pluto Cycle
 - Hopper
     - Hello world topic ideas
