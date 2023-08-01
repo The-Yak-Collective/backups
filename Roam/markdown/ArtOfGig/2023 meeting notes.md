@@ -54,7 +54,7 @@
         - Software architecture stuff
         - Merits of using RTOS
     - July 25
-        - Rhetto early demo with FreeRTOS and esp-idf. Code for sending some telemetry over WiFi.
+        - Rhett early demo with FreeRTOS and esp-idf. Code for sending some telemetry over WiFi.
         - Is WiFi desired on Yakasaur?
             - Maybe good for mesh networking
             - Problem 2.4GHz is rather short range compared to what we can get at say 900MHz
