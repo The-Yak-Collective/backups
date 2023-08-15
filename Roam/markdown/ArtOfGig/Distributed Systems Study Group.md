@@ -1166,7 +1166,8 @@ but consider - is what is being sent data or programs?
         - July 24:[Planning for change with RFCs](https://increment.com/planning/planning-with-requests-for-comments/) — Ananth pick
         - July 31:
         - Aug 7:
-        - Aug 14:
+        - Aug 14: [Richard I. Cook: A Life in Many Acts](https://www.adaptivecapacitylabs.com/blog/2022/09/12/richard-cook-a-life-in-many-acts/)
+            - 
         - Aug 21:
         - Aug 28:
         - Sept 4:
