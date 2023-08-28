@@ -2,24 +2,6 @@ window.YTD.device_token.part0 = [
   {
     "deviceToken" : {
       "clientApplicationId" : "3033300",
-      "token" : "Nypiy5GSesYF7sqiyTzs2xJ0TbermLIssCXM3I1S",
-      "createdAt" : "2022-01-28T19:13:29.119Z",
-      "lastSeenAt" : "2022-01-28T19:13:29.121Z",
-      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
-    }
-  },
-  {
-    "deviceToken" : {
-      "clientApplicationId" : "3033300",
-      "token" : "DmY2l2kssiDjMw1d90ieAiKavYamNuU4WkEjvqVg",
-      "createdAt" : "2022-02-03T00:24:32.384Z",
-      "lastSeenAt" : "2022-02-03T00:24:32.386Z",
-      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
-    }
-  },
-  {
-    "deviceToken" : {
-      "clientApplicationId" : "3033300",
       "token" : "XgFM0IJggaCPhMDxU5KOPTleqVgcnAvhVsacL6RA",
       "createdAt" : "2022-11-06T03:44:45.836Z",
       "lastSeenAt" : "2022-11-08T19:12:24.097Z",
@@ -86,6 +68,33 @@ window.YTD.device_token.part0 = [
       "token" : "4VsUgbf00HvLzB4aWau63J8kpEMyGt6K39C1gASK",
       "createdAt" : "2023-03-19T16:10:05.548Z",
       "lastSeenAt" : "2023-03-30T03:36:26.621Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "TJW59bDXUZXirME9eqkMS3Ucb9WieqTX6KG2F76E",
+      "createdAt" : "2023-07-25T03:22:55.461Z",
+      "lastSeenAt" : "2023-07-25T03:23:23.513Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "OaF2vHkb2moK34DIaJMqu415AZsHzQ7LBQWZw6op",
+      "createdAt" : "2023-07-27T04:50:36.969Z",
+      "lastSeenAt" : "2023-07-27T04:51:53.717Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "w5Cc6VPR5wuI92sTWWxupR4d8M53zyS9hMJDUwvE",
+      "createdAt" : "2023-08-05T22:32:02.282Z",
+      "lastSeenAt" : "2023-08-05T22:33:06.615Z",
       "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
     }
   }

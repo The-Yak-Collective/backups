@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14473880",
-    "generationDate" : "2023-07-08T14:13:05.078Z",
+    "sizeBytes" : "14508311",
+    "generationDate" : "2023-08-28T03:36:32.713Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -55,14 +55,14 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-engagements.js",
         "globalName" : "YTD.ad_engagements.part0",
-        "count" : "4"
+        "count" : "1"
       } ]
     },
     "adImpressions" : {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "5"
+        "count" : "1"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -210,7 +210,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "10"
+        "count" : "11"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -267,21 +267,21 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2473"
+        "count" : "2456"
       } ]
     },
     "following" : {
       "files" : [ {
         "fileName" : "data/following.js",
         "globalName" : "YTD.following.part0",
-        "count" : "34"
+        "count" : "33"
       } ]
     },
     "ipAudit" : {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "379"
+        "count" : "325"
       } ]
     },
     "keyRegistry" : {
@@ -295,7 +295,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "86"
+        "count" : "84"
       } ]
     },
     "listsCreated" : {
@@ -309,7 +309,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/lists-member.js",
         "globalName" : "YTD.lists_member.part0",
-        "count" : "62"
+        "count" : "59"
       } ]
     },
     "listsSubscribed" : {
@@ -516,7 +516,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "2169"
+        "count" : "2218"
       } ]
     },
     "tweetdeck" : {
@@ -531,7 +531,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "2169"
+        "count" : "2218"
       } ]
     },
     "tweetsMedia" : {

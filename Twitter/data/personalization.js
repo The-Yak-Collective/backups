@@ -15,11 +15,11 @@ window.YTD.personalization.part0 = [
       "interests" : {
         "interests" : [
           {
-            "name" : "AI image generation",
+            "name" : "Ada Colau",
             "isDisabled" : false
           },
           {
-            "name" : "Ada Colau",
+            "name" : "Airbnb",
             "isDisabled" : false
           },
           {
@@ -55,14 +55,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Art",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Artificial intelligence",
-            "isDisabled" : false
-          },
-          {
             "name" : "Automobile Brands",
             "isDisabled" : false
           },
@@ -71,7 +63,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "BBC",
+            "name" : "Bagels",
             "isDisabled" : false
           },
           {
@@ -111,7 +103,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Bullet journaling",
+            "isDisabled" : false
+          },
+          {
             "name" : "Business & finance",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Business & finance podcasts",
             "isDisabled" : false
           },
           {
@@ -123,11 +123,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Celebrities",
+            "name" : "Career podcast",
             "isDisabled" : false
           },
           {
-            "name" : "ChatGPT",
+            "name" : "Careers",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Celebrities",
             "isDisabled" : false
           },
           {
@@ -136,6 +140,14 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Coffee",
+            "isDisabled" : false
+          },
+          {
+            "name" : "College & High School podcast",
+            "isDisabled" : false
+          },
+          {
+            "name" : "College life",
             "isDisabled" : false
           },
           {
@@ -167,10 +179,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Digital artwork",
-            "isDisabled" : false
-          },
-          {
             "name" : "Dining Out",
             "isDisabled" : false
           },
@@ -195,7 +203,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Education",
+            "isDisabled" : false
+          },
+          {
             "name" : "Education around the world",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Educational podcast",
             "isDisabled" : false
           },
           {
@@ -212,6 +228,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Entertainment industry",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Events",
             "isDisabled" : false
           },
           {
@@ -232,6 +252,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Fields of study",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Firefighting",
             "isDisabled" : false
           },
           {
@@ -299,7 +323,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Government podcast",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Health & fitness podcasts",
+            "isDisabled" : false
+          },
+          {
             "name" : "Herbs and spices",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Higher Education",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Higher Education podcast",
             "isDisabled" : false
           },
           {
@@ -307,15 +347,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Home automation",
-            "isDisabled" : false
-          },
-          {
             "name" : "Indie rock",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Industries",
             "isDisabled" : false
           },
           {
@@ -371,6 +403,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Medical education",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Medicine podcast",
+            "isDisabled" : false
+          },
+          {
             "name" : "Meditation",
             "isDisabled" : false
           },
@@ -388,10 +428,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Microsoft Office",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Midjourney",
             "isDisabled" : false
           },
           {
@@ -415,6 +451,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "New York podcast",
+            "isDisabled" : false
+          },
+          {
             "name" : "News",
             "isDisabled" : false
           },
@@ -428,10 +468,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Open source",
-            "isDisabled" : false
-          },
-          {
-            "name" : "OpenAI",
             "isDisabled" : false
           },
           {
@@ -471,6 +507,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Prestige",
+            "isDisabled" : false
+          },
+          {
             "name" : "Racial Equality",
             "isDisabled" : false
           },
@@ -503,7 +543,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Ryuichi Sakamoto",
+            "name" : "Rugby",
             "isDisabled" : false
           },
           {
@@ -527,19 +567,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Sheryl Sandberg",
+            "isDisabled" : false
+          },
+          {
             "name" : "Slack",
             "isDisabled" : false
           },
           {
-            "name" : "Smart technology",
-            "isDisabled" : false
-          },
-          {
             "name" : "Soccer",
             "isDisabled" : false
           },
           {
             "name" : "Soccer",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Social causes",
             "isDisabled" : false
           },
           {
@@ -567,11 +611,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Stripe",
+            "isDisabled" : false
+          },
+          {
             "name" : "Surfing",
             "isDisabled" : false
           },
           {
             "name" : "Tech news",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Tech personalities",
             "isDisabled" : false
           },
           {
@@ -631,19 +683,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Web3",
-            "isDisabled" : false
-          },
-          {
             "name" : "Writing",
             "isDisabled" : false
           },
           {
             "name" : "YouTube",
-            "isDisabled" : false
-          },
-          {
-            "name" : "YouTubers",
             "isDisabled" : false
           },
           {
@@ -681,7 +725,7 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
-        "Inglewood-Finn Hill, WA, USA"
+        "Bellevue, WA, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [

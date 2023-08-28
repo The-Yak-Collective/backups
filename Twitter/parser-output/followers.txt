@@ -5,7 +5,6 @@ MR_TallGuy https://twitter.com/i/user/30436852
 Matthew_Sweet https://twitter.com/i/user/544352986
 MythologyStudio https://twitter.com/i/user/185257430
 RejuvenatingRo1 https://twitter.com/i/user/1195710816319922177
-Rodrigo_plp https://twitter.com/i/user/3075441796
 Vladiim https://twitter.com/i/user/16673905
 WabiSabiFutures https://twitter.com/i/user/1176714625775128579
 alexdw5 https://twitter.com/i/user/19404730
@@ -278,7 +277,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/1173333286866698240
 ~unknown~handle~ https://twitter.com/i/user/11738212
 ~unknown~handle~ https://twitter.com/i/user/1176571152065540098
-~unknown~handle~ https://twitter.com/i/user/1176917736401920000
 ~unknown~handle~ https://twitter.com/i/user/1177927451609051138
 ~unknown~handle~ https://twitter.com/i/user/1178086948021211136
 ~unknown~handle~ https://twitter.com/i/user/1179393955378581504
@@ -339,7 +337,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/1215127544845877249
 ~unknown~handle~ https://twitter.com/i/user/12159032
 ~unknown~handle~ https://twitter.com/i/user/121615708
-~unknown~handle~ https://twitter.com/i/user/1216736343121973253
 ~unknown~handle~ https://twitter.com/i/user/1218101424942452736
 ~unknown~handle~ https://twitter.com/i/user/1218233240730902528
 ~unknown~handle~ https://twitter.com/i/user/121918001
@@ -440,7 +437,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/1267304401103753220
 ~unknown~handle~ https://twitter.com/i/user/1267921471579578382
 ~unknown~handle~ https://twitter.com/i/user/1268174532
-~unknown~handle~ https://twitter.com/i/user/1268469549386436609
 ~unknown~handle~ https://twitter.com/i/user/1270420187712454656
 ~unknown~handle~ https://twitter.com/i/user/1270609763810885632
 ~unknown~handle~ https://twitter.com/i/user/1270617846
@@ -537,7 +533,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/1329514669
 ~unknown~handle~ https://twitter.com/i/user/132984044
 ~unknown~handle~ https://twitter.com/i/user/1330021640902635522
-~unknown~handle~ https://twitter.com/i/user/1330498531824721920
 ~unknown~handle~ https://twitter.com/i/user/1330623376751255554
 ~unknown~handle~ https://twitter.com/i/user/1331360885135216641
 ~unknown~handle~ https://twitter.com/i/user/1333179942604050441
@@ -603,12 +598,10 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/1380239321157009408
 ~unknown~handle~ https://twitter.com/i/user/1382254932456214530
 ~unknown~handle~ https://twitter.com/i/user/1382343681244418053
-~unknown~handle~ https://twitter.com/i/user/1384244796714143753
 ~unknown~handle~ https://twitter.com/i/user/1384531654014685184
 ~unknown~handle~ https://twitter.com/i/user/1384794757226958857
 ~unknown~handle~ https://twitter.com/i/user/1386081852901974019
 ~unknown~handle~ https://twitter.com/i/user/138859827
-~unknown~handle~ https://twitter.com/i/user/1389394414339072002
 ~unknown~handle~ https://twitter.com/i/user/1389395482577817604
 ~unknown~handle~ https://twitter.com/i/user/1389449354
 ~unknown~handle~ https://twitter.com/i/user/1390059374891180039
@@ -814,7 +807,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/15065415
 ~unknown~handle~ https://twitter.com/i/user/15071492
 ~unknown~handle~ https://twitter.com/i/user/1507859957760376841
-~unknown~handle~ https://twitter.com/i/user/1508679076478742535
 ~unknown~handle~ https://twitter.com/i/user/15093930
 ~unknown~handle~ https://twitter.com/i/user/15096544
 ~unknown~handle~ https://twitter.com/i/user/15106068
@@ -858,7 +850,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/1537868624886747138
 ~unknown~handle~ https://twitter.com/i/user/15378909
 ~unknown~handle~ https://twitter.com/i/user/15394153
-~unknown~handle~ https://twitter.com/i/user/1539442885925298176
 ~unknown~handle~ https://twitter.com/i/user/15396560
 ~unknown~handle~ https://twitter.com/i/user/1539940986
 ~unknown~handle~ https://twitter.com/i/user/1540427270912847872
@@ -893,7 +884,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/15705037
 ~unknown~handle~ https://twitter.com/i/user/1571158505607897089
 ~unknown~handle~ https://twitter.com/i/user/157129932
-~unknown~handle~ https://twitter.com/i/user/1572628313826537473
 ~unknown~handle~ https://twitter.com/i/user/15735370
 ~unknown~handle~ https://twitter.com/i/user/1574352755535540225
 ~unknown~handle~ https://twitter.com/i/user/15750194
@@ -975,6 +965,7 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/1662977125
 ~unknown~handle~ https://twitter.com/i/user/1663619677
 ~unknown~handle~ https://twitter.com/i/user/16647085
+~unknown~handle~ https://twitter.com/i/user/1665566692947427333
 ~unknown~handle~ https://twitter.com/i/user/16690281
 ~unknown~handle~ https://twitter.com/i/user/1669495219
 ~unknown~handle~ https://twitter.com/i/user/16695445
@@ -1010,7 +1001,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/17307822
 ~unknown~handle~ https://twitter.com/i/user/17316987
 ~unknown~handle~ https://twitter.com/i/user/17326847
-~unknown~handle~ https://twitter.com/i/user/17346911
 ~unknown~handle~ https://twitter.com/i/user/17352457
 ~unknown~handle~ https://twitter.com/i/user/17362278
 ~unknown~handle~ https://twitter.com/i/user/17392585
@@ -1201,7 +1191,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/2149780338
 ~unknown~handle~ https://twitter.com/i/user/21503342
 ~unknown~handle~ https://twitter.com/i/user/21519632
-~unknown~handle~ https://twitter.com/i/user/21631727
 ~unknown~handle~ https://twitter.com/i/user/21652497
 ~unknown~handle~ https://twitter.com/i/user/21662434
 ~unknown~handle~ https://twitter.com/i/user/2167969087
@@ -1362,7 +1351,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/2527141
 ~unknown~handle~ https://twitter.com/i/user/2528653656
 ~unknown~handle~ https://twitter.com/i/user/253193807
-~unknown~handle~ https://twitter.com/i/user/253236151
 ~unknown~handle~ https://twitter.com/i/user/25357843
 ~unknown~handle~ https://twitter.com/i/user/254279046
 ~unknown~handle~ https://twitter.com/i/user/25447441
@@ -1766,9 +1754,7 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/41654311
 ~unknown~handle~ https://twitter.com/i/user/4166406203
 ~unknown~handle~ https://twitter.com/i/user/4170721
-~unknown~handle~ https://twitter.com/i/user/41773805
 ~unknown~handle~ https://twitter.com/i/user/41775637
-~unknown~handle~ https://twitter.com/i/user/417849332
 ~unknown~handle~ https://twitter.com/i/user/418688728
 ~unknown~handle~ https://twitter.com/i/user/420998234
 ~unknown~handle~ https://twitter.com/i/user/423677001
@@ -1809,7 +1795,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/4527067343
 ~unknown~handle~ https://twitter.com/i/user/452857395
 ~unknown~handle~ https://twitter.com/i/user/453598545
-~unknown~handle~ https://twitter.com/i/user/455226731
 ~unknown~handle~ https://twitter.com/i/user/455300931
 ~unknown~handle~ https://twitter.com/i/user/456032435
 ~unknown~handle~ https://twitter.com/i/user/45638807
@@ -1898,7 +1883,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/509
 ~unknown~handle~ https://twitter.com/i/user/510596410
 ~unknown~handle~ https://twitter.com/i/user/512034854
-~unknown~handle~ https://twitter.com/i/user/513267526
 ~unknown~handle~ https://twitter.com/i/user/514812230
 ~unknown~handle~ https://twitter.com/i/user/515845582
 ~unknown~handle~ https://twitter.com/i/user/515894787
@@ -2027,6 +2011,7 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/66349498
 ~unknown~handle~ https://twitter.com/i/user/670483
 ~unknown~handle~ https://twitter.com/i/user/67409906
+~unknown~handle~ https://twitter.com/i/user/67586045
 ~unknown~handle~ https://twitter.com/i/user/67591455
 ~unknown~handle~ https://twitter.com/i/user/67658554
 ~unknown~handle~ https://twitter.com/i/user/6820962
@@ -2141,6 +2126,7 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/77904463
 ~unknown~handle~ https://twitter.com/i/user/7792262
 ~unknown~handle~ https://twitter.com/i/user/780097619775356932
+~unknown~handle~ https://twitter.com/i/user/780751261230522368
 ~unknown~handle~ https://twitter.com/i/user/783548571421380613
 ~unknown~handle~ https://twitter.com/i/user/785481562418741248
 ~unknown~handle~ https://twitter.com/i/user/787404042012098560
@@ -2168,7 +2154,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/802066
 ~unknown~handle~ https://twitter.com/i/user/80273385
 ~unknown~handle~ https://twitter.com/i/user/803438184923176960
-~unknown~handle~ https://twitter.com/i/user/80414123
 ~unknown~handle~ https://twitter.com/i/user/805077040680443905
 ~unknown~handle~ https://twitter.com/i/user/806620919229620224
 ~unknown~handle~ https://twitter.com/i/user/80674730
@@ -2325,7 +2310,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/9094942
 ~unknown~handle~ https://twitter.com/i/user/909807920
 ~unknown~handle~ https://twitter.com/i/user/910016786
-~unknown~handle~ https://twitter.com/i/user/910121675793956867
 ~unknown~handle~ https://twitter.com/i/user/910477878277623808
 ~unknown~handle~ https://twitter.com/i/user/911350654857334790
 ~unknown~handle~ https://twitter.com/i/user/911427535
@@ -2397,7 +2381,6 @@ vinaydebrou https://twitter.com/i/user/570588149
 ~unknown~handle~ https://twitter.com/i/user/94841318
 ~unknown~handle~ https://twitter.com/i/user/948732405631905792
 ~unknown~handle~ https://twitter.com/i/user/949590449387376641
-~unknown~handle~ https://twitter.com/i/user/9505692
 ~unknown~handle~ https://twitter.com/i/user/950607545252614145
 ~unknown~handle~ https://twitter.com/i/user/951661957731381248
 ~unknown~handle~ https://twitter.com/i/user/952021717681098752

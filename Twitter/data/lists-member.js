@@ -1,16 +1,6 @@
 window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/chalkcobug83206/lists/1677069591107846146"
-    }
-  },
-  {
-    "userListInfo" : {
-      "url" : "https://twitter.com/lidatallei33444/lists/1676754598709837824"
-    }
-  },
-  {
-    "userListInfo" : {
       "url" : "https://twitter.com/ajwaxman/lists/1641965791305236480"
     }
   },
@@ -237,11 +227,6 @@ window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
       "url" : "https://twitter.com/antlerboy/lists/interesting-people1"
-    }
-  },
-  {
-    "userListInfo" : {
-      "url" : "https://twitter.com/kieranjohng/lists/post-brexit-news-list-20294"
     }
   },
   {

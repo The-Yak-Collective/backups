@@ -246,13 +246,6 @@ window.YTD.like.part0 = [
   },
   {
     "like" : {
-      "tweetId" : "1286834297169752064",
-      "fullText" : "5 remote workshops this last week uhhhhhh\nmight not do that again",
-      "expandedUrl" : "https://twitter.com/i/web/status/1286834297169752064"
-    }
-  },
-  {
-    "like" : {
       "tweetId" : "1283552289022590976",
       "fullText" : "Favourite thing this week: facilitating #futurething sessions with the @yak_collective https://t.co/k0bx95Tf59",
       "expandedUrl" : "https://twitter.com/i/web/status/1283552289022590976"
@@ -449,13 +442,6 @@ window.YTD.like.part0 = [
   },
   {
     "like" : {
-      "tweetId" : "1257680341202022404",
-      "fullText" : "Learned about Hero Patterns today via @tomcritchlow 😊 \nhttps://t.co/VaUygZ9Mjm",
-      "expandedUrl" : "https://twitter.com/i/web/status/1257680341202022404"
-    }
-  },
-  {
-    "like" : {
       "tweetId" : "1257502730744029184",
       "fullText" : "the trick to being Extremely Online in a way that doesn't involve turning into a shell script is... you have to learn to surf the chaos of other people\n\nit is said that hell is other people; there is a truth to that\n\nwhat I do is a form of hell-surfing\n\nit's an extreme sport",
       "expandedUrl" : "https://twitter.com/i/web/status/1257502730744029184"
@@ -513,7 +499,6 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1255980215240658946",
-      "fullText" : "A group of independent consultants I'm proud to be part of, @yak_collective, is releasing its inaugural report in the form of a slide deck.\n\nhttps://t.co/N2pOYZppYI\n\n25 non-mainstream ideas, systems, provocations, and frameworks to help leaders out of this crisis. https://t.co/EDARPK4CiX",
       "expandedUrl" : "https://twitter.com/i/web/status/1255980215240658946"
     }
   },
