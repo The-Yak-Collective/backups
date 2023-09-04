@@ -11,8 +11,8 @@
     - In particular, I am good at selling my ideas and writing about them.
     - I get paid to engage people who use certain software tools.
     - 2020 has been a strange year -- I have gained so much but lost even more.
-    - If I dislike something, I tend to prevent others from buying into it.
     - I revel in the fact that I'm a jack of all trades.
+    - If I dislike something, I tend to prevent others from buying into it.
     - In particular, I am good at selling my ideas and writing about them.
     - I get paid to engage people who use certain software tools.
     - I'm driven by building value and not by personal gain.
