@@ -67,6 +67,21 @@
             - Heat exchanger vs. refrigeration
             - Design ideas like putting solar panels on top, cover the whole rover and keep an air gap. A bit like Sojourner? https://spaceplace.nasa.gov/mars-sojourner/en/sojourner-movie.en.gif
 - Pluto Cycle
+    - September 6
+        - Rhett demo and general discussion
+            - FreeNode, send telemetry on WiFi to a web app (Rails), Yak GDS.
+            - C code needs to construct a JSON payload
+            - Web app can send commands and show device answers/telemetry
+            - Trials sending images with different resolution. Above 2KB, chunking must happen?
+            - Issues with platform.io on esp-idf configuration. E.g. must configure PSRAM to octal, or the camera frame buffer cannot be written. Dunno why.
+            - Some challenges integrating with the FreeNode, like the PIN numbers. Got them from datasheet-like document for Arduino (not ESP32-CAM).
+        - About the value of platform.io
+            - Works well with Arduino. Harder with ESP.
+            - High learning curve based on Anuraj's experience.
+            - Not sure if platform.io has net benefits. Learning curve, but it manages to automatically do stuff like install dependency transparently.
+            - In general hard to make a generic tool for embedded software development. A reason why Zephyr may be interesting and takes time to progress.
+        - Misc
+            - Measure power consumption of an embedded solution: https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2s
 - Hopper
     - Hello world topic ideas
         - API (Rhett/Anuraj)
