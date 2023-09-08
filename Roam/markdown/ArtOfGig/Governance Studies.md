@@ -10,6 +10,13 @@
 - 
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
+    - [[September 1st, 2023]] Freedom Will Be Enforced
+    - [[August 25th, 2023]] Engineering Serendipity
+    - [[August 18th, 2023]] Stick With What You Can Learn
+    - [[August 11th, 2023]]  Finite AI, Infinite AI
+    - [[August 4th, 2023]] The Avalanche That Never Came
+    - [[July 28th, 2023]] What CEOs Should Know About LLMs
+    - [[July 21st, 2023]] Immortal Artists Copy, Mortal Artists Distill
     - [[July 14th, 2023]] What Should Data Science Education Do with Large Language Models?
         - The source: https://arxiv.org/pdf/2307.02792v2.pdf
         - Prompts: 
