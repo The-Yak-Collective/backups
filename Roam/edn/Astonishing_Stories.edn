@@ -56,6 +56,7 @@
   :block/parents
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :graph/name {:db/unique :db.unique/identity},
+  :append-api/fb-push-key {:db/unique :db.unique/value},
   :block/page
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :version/id {:db/unique :db.unique/identity}},
@@ -31408,8 +31409,8 @@
   [3797 :version/id "0.10.2" 536882903]
   [3797
    :version/nonce
-   "uuid24430b95-f00c-4b2f-ada6-a8e09169906c"
-   536882929]
+   "uuid72067025-f34a-43cf-aa99-bf20c1c0f929"
+   536882930]
   [3798 :block/uid "08-15-2023" 536882904]
   [3798 :create/time 1692092883450 536882904]
   [3798 :create/user 2367 536882904]
@@ -31584,4 +31585,11 @@
   [3822 :edit/time 1694166530329 536882929]
   [3822 :edit/user 2367 536882929]
   [3822 :log/id 1694166530327 536882929]
-  [3822 :node/title "September 8th, 2023" 536882929]]}
+  [3822 :node/title "September 8th, 2023" 536882929]
+  [3823 :block/uid "09-09-2023" 536882930]
+  [3823 :create/time 1694252876171 536882930]
+  [3823 :create/user 2367 536882930]
+  [3823 :edit/time 1694252876171 536882930]
+  [3823 :edit/user 2367 536882930]
+  [3823 :log/id 1694252876170 536882930]
+  [3823 :node/title "September 9th, 2023" 536882930]]}

@@ -1,6 +1,6 @@
 - [@]
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fostue73zov.png?alt=media&token=ef9b52d3-2cf2-4d39-8b30-aaa97ba765e5)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FsxB-KQBWrD.png?alt=media&token=a1a35732-a26c-4af1-b7b2-dcea60aa340c)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fostue73zov.png?alt=media&token=ef9b52d3-2cf2-4d39-8b30-aaa97ba765e5)
 - 🗺San Francisco Bay Area, California, USA
 - 👨‍💼 Formerly: Citrix, New Relic, HashiCorp | Currently: Double Loop, Google
 - 🛠 Building GoToMarket Strat & Ops Orgs at scale

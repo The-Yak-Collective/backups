@@ -11,12 +11,273 @@
 - ---
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
+        - https://www.thefp.com/p/we-cant-wait-for-universities-to
+        - The Prompts are: 
+        - What are, in your view, the key advantages and disadvatages (opportunities and threats) of creating a new university with a completely new governance structure compared to adjusting governance structure of one of the established schools? 
+        - Is timing right? 
+        - What are the key characteristics of the right moment in history when there is an opening for a new university that can matter and last?
+        - Notes:
+            - the climate on their campus prevented students from saying things they believe
+            - faculty are being treated like thought criminals
+            - But it turns out that fear can become endemic in a free society. It can become most acute in the one place—the university—that is supposed to defend “the right to think the unthinkable, discuss the unmentionable, and challenge the unchallengeable.”
+            - Amidst the brick and ivy, these students entertain ever-more-inaccessible theories while often just blocks away their neighbors figure out how to scratch out a living.
+            - The priority at most other institutions is simply to avoid financial collapse. They are in a desperate contest to attract a dwindling number of students, who are less and less capable of paying skyrocketing tuition. Over the last three decades, the cost of a degree from a four-year private college has nearly doubled; the cost of a degree from a public university has nearly tripled. The nation’s students owe $1.7 trillion in loans.
+            - The warped incentives of higher education—prestige or survival—mean that an increasing proportion of tuition dollars are spent on administration rather than instruction. Universities now aim to attract and retain students through client-driven “student experiences”—from trivial entertainment to emotional support to luxury amenities.
+            - Universities are the places where society does its thinking, where the habits and mores of our citizens are shaped.
+            - What unites us is a common dismay at the state of modern academia and a recognition that we can no longer wait for the cavalry. And so we must be the cavalry.
+            - We believe human beings think and learn better when they gather in dedicated locations, where they are, to some extent, insulated from the quotidian struggle to make ends meet, and where there is no fundamental distinction between those who teach and those who learn, beyond the extent of their knowledge and wisdom.
+            - > For many students it is the degree itself rather than the teaching and learning that really matters. A degree has currency in the labour market and while, as we have seen in some cases, its value may be falling, it is nevertheless a passport to a range of professional opportunities denied to those without one. Not all degrees are equal, of course, and the university brand remains potent. If your degree is from one of the top universities, its value is greatly enhanced. https://www.ippr.org/files/images/media/files/publication/2013/04/avalanche-is-coming_Mar2013_10432.pdf
+        - Grigori: The attempt looks very naive to me. They have identified a number of well-known disfunctions, but the ivy league kind of works. And it is a very large complex system and all the disfunctions are a part of it. 
+            - It works for a lot of professors, a lot of students, graduates and alumni, it works for administrators, it works for employers.
+            - Trying to build a system that works for all of them and does more from scratch seems a rather difficult task. So there will be tendency to focus on some aspects, but not the others. For example, people can focus on faculty building and ignore employers. Or on student experiences, promoting hard work and grit, but will forget about employment opportuunities that are available to students of the Ivy League.
+            - What they seem to have is a network of celebrities, who made their names elsewhere, academic outcasts, who are looking for stability after being rejected from other universities, and billionairs, who will demand more impressive results faster.
     - [[August 25th, 2023]] Engineering Serendipity
+        - Today's read in Governance Studies is Engineering Serendipity: When does knowledge sharing lead to knowledge production? https://onlinelibrary.wiley.com/doi/10.1002/smj.3256
+        - Focus on first 2 sections: 1/Introduction and 2/Theory and hypotheses than skip to 5/Discussion.
+        - The prompts are: 
+        - How can access to the same LLMs affect knowledge similarity between people?
+        - Can you propose some potential ways of increasing intellectual similarities (personal interests and passions or how people think as opposed to what they know/the body of knowledge) between people from different fields?
+        - Grigori: 
+            - The AIs know a lot but don't really care about anything. Humans, on the other hand, have limited knowledge, but can deepen it by applying some kind of curiosity. They can discover something or find a non-obvious connection. It seems like both initial knowledge (or data) and the way to deal with curiosity (applied curiosity) play a role.
+                - Yet our ability to handle data is not that impressive, except in cases when we generate data by taking actions. So the task of handling data can be potentially outsourced.
+                - the generative ability seems to be more important in case of humans. Ability to learn something beats our ability to hold knowledge in our heads. The article seems to reflect this fact. People don't seem to produce new knowledge when they compare their data and conclude that the data is similar. but they seem to produce knew knoeleldge when the compare the algorithms of handling data find some similarities and some differences and then learn from each other by exploring the differences.
+                - Some kind of exchamge. i can learn from you and you can learn from me and it will not treaten our relative competitive positions.
+                - Generating new knowledge is not necessarily competitive, it is like growing the pie. Best collaborations lead to abundant value add, not value destruction.
+                - How to increase intellectual similarities? probably dedicate some time of studying the methods of different fields in cross- domain settings. Can be a conference about methods or a course. Explain your method to a really smart person from another field can be as interesting as explain your work to a 5 yo.
+                - OpenAI is trying to explain AI to investors, and this is why these memos are very intersting.
+                - We can also try to make LLM a serendipity machine.
+        - Bryan: 
+            - The more important piece is not tangible. Get along and feel comfortable and safe. I don't think serendipity can be enginnered.
+            - Looking for efficiency seems also weird. Peak discoveries seem to be not efficient.
+            - Overlap in knowledge and overlap in interest. Synthesize what you know and explain like you are 5 kind of thing. YC is a serendipity engine. we are all hanging out here to create a space for exploration.
+            - The difference between resarch and industry: you don't hear about these things in industry because of job hopping. How do corporation look for long term gains is an interesting question.
+            - Reversion to the mean: everybody develops the same opinion and drive out dissent. Maybe LLMs can be programmed to fight against that.
+        - Ananth: 
+            - Didn't quite finish it. Feels like lost cause from the beginning. The measurement that they were using are the citations of the pairs. People with the same of the field knowledge (similar background) tend to not to collaborate. Felt somehow insufficient.
+            - Reproducibility crisis. Quality of the works matters. Assumptions can be a challenge.
+            - People spending time together for longer time than just meeting on a conference.
+            - The entire point is to get the right people in the room and set the context. Seems rather forced.
+            - Interesting example: In oppenheimer movie - creating a town in the middle of knowhere.
+            - The prompt is interesting.
+        - Venkat:
+            - Collected links about serendipity. As well as Zemblanity. How do you kill collaboration is also an interesting question.
+            - The methodology and definitions are naive. My experience in research: serendipity happens via paper and books you see on other papers desks.
+            - Once found a papeer that was fundamental to Venkats research. On a peer's desk.
+            - In more informal comntext: watching same movies, listening to the same speeches. Companies have slack channels about industry. This serendipity doesn't show up in metrics. too minor interaction to put in acknowledgements but superimportant. 
+            - Weak links in knowledge production.
+            - Have to be close enough that you can talk about it, but not too close to increase competitive pressure. The closer someone to you the less likely he knows or can learn something surprising.
+            - When that happens you know about it and don't call it serendipity. Co-authorship is weird. It happens either serendipitously or very planned ways. You can select a topic because of who is there.
+            - There is large context and there is planned way to reasearch but there are a lot to be done. Instituational planning. 60-70% 
+            - Social graph serendipity
+            - True Kind of Serendipity: Reveals common interests and something clicks that 10% tips of the iceberg.
+            - Not wrong but limited perspective.
+            - LLMs are anti-serendipity, they dilute the knowledge. We have limited context. Take the context and dissolve it in water. The probability of serendipity goes down, not up.
+            - Make LLM active researcher. Inside a watercooler itself. Make it trained on local context and global context. And it can joibn the conversation in an intelligent way. It is doable with existing technology.
+            - Individual usage leads to divergence of all the conversations. If you want convergence -- create a persona.
+            - The prompt is a conversation. LLMs overheards the conversation.
+        - Sachin:
+            - The topic is interesting. The paper is not. Better approached indirectly. Found 2 last jobs via Twitter. Wasn't using Twitter for jobs, and if used wouldn't led to results. Works best approaching indirectly. There is a very boring situation, neither Serendipity, not Zemblanity, but a middle point.
+            - People learned a technique of getting to Yale via ticktok, but it spread so widely that Yale changed criteria.
+            - Serendipitous interactions on Twitter in 2020. Probably based on oral history.
+            - Twitter doesn't have that much serendipity for Sachin and a lot of people feel that way. Going to places like Oakland and talk to random people. Used to do it more online, and now does it off-line.
+        - Kiran: 
+            - Ideas in the paper are interesting. Inverted U looks right. You kill serendipity with direct approach. The phrase itself is oximiron. How do you create random interactions with people. The answer is blah. One-two day events. Or Oppenheiner. 
+            - All you can do is to bring people and let people connect.
+            - Field similarity and Intellectual similarity are not as important as vibe similarity. The Gladwell's idea of mavens. In certain context they help to transfer knowledge.
+            - People love to tell you what they have learned. 
+            - LLMs can cause divergence, because they are so dependent on the prompt. Tell me what I want to hear. AI leads to echo chamber.
     - [[August 18th, 2023]] Stick With What You Can Learn
+        - Today's read in Governance Studies is more than 3 years old piece from HBR.
+        - https://hbr.org/2020/01/competing-in-the-age-of-ai
+        - The prompts are: 
+            - How does the growing sophistication of Generative AI affect the arguments of the article? 
+            - Can the arguments stay valid when every user has a pretty sophisticated AI tool at their fingertips?
+        - Strategies are shifting away from traditional differentiation based on cost, quality, and brand equity and specialized, vertical expertise and toward advantages like business network position, the accumulation of unique data, and the deployment of sophisticated analytics.
+        - Grigori: 
+            - It doesn't really matter how do you define induustry boundaries, they are more of a blessing than a curse. They help you navigate the scene and make sense out of market dynamics. Now the way traditional industry boundaries are defined is based on the assumption the they don't change that much over time. 
+            - But now we have clearly entered the period when the boundaries are moving. One way to describe the transition is from boundaries defined by a supply to boundaries defined by the behavior patterns of your customers.  People still have their bodies located somewhere, so that geography matters. There are other patterns too. Like younger people are faster adopters of new ways to buy stuff via smartphones, older people are not.
+            - Ignoring industries executives understand in favor of ML, Big Data is remarkably bad advice. Because, of course, of winner-takes-all dynamics. If you are not good at making coffee, you are not going to get good at machine learning either.
+            - Coffehouse pattern. Every couple of years a new brand of coffee shops gets its chance. It basically has to offer a better tasting coffee, which is achieved by using better water and better beens, and caring about the coffee. Inevitably it gets some traction, because of obvious reasons. But an average consumer doesn't have taste for coffee, so there is a lot of signalling going on. Once the certain scale is achieved, the aggregated datat the coffeehouse has points out that they can easily drop the quality and the average consumer won't even mention the difference. So they do. Coffee turns bad, but people keep going because of a habit. Until a new challenger arives with an idea of a good coffee.
+            - The ultimate advantage is undertsanding the customers side behavior patterns. It can be achieved via observation, or data collection or data analysis, but you have to know where to look and what to do, which can be not that obvious for an data-engineer without background in coffee. 
+            - Another ultimate advantage is of course how fast can you learn from either your data, or 3d party data.
+            - And finally, the only thing that doesn't scale is customer's data. You still need to persuade people to join your service and earn enough trust from their side to allow you to collect more data from them than the competition. To earn that trust you need people (either on the engineering side, or customer facing side). Somewhere, there should be people, and a lot of them. So you have to decide what kind of people will give you a better chance to compete with Google, etc. Maybe it is software engineers. Maybe not.
+        - Kiran: 
+            - Disagreed with the fact that they moved humans out from the center. Amazon WBR. Look at all the data. the data is being ingested, but we don't have a good way of using them without humans. Didn't have intelligence engine. Data come In and the humans are at the center.
+            - The article from 2006 is similar from Software is eating the worlds. The business operations is not becoming AI. Have not come to the point that business decisions are made by algorythms.
+        - Sachin: 
+            - A lot of things are more about algorithms and algorithmic practice. What they are talking about is something like SEO. Google create something because it is easy for users. And then people are trying to gane it and drive it useless.
+            - Eventually once poeple understand how to gane the model, wwill the model change. Even within 2 years the equilibrium moved to the side of not useful. Even Amazon search doesn't work. Even traditional retailers hybrid models are better.
+            - It happens with a lot of technologies. Once everybody adopts it the equilibrium moves to the other side.
+        - Venkat: 
+            - The article is from the interesting time. More conventional extrapolation. It seems cynical. The authors may be pandering to the exectuvies.
+            - The core argument is 2 models: declining plateau is the other is exponential. I didn't see any justification that traditional industrial scaling has been broken. It is just taller s-curve that sunstitute the older one.
+            - the scaling limit of transmission. If you zoom in a wrong way you can come up with the bullshit. The part of the article that is new is wrong, and what is right is 2006 article.
+            - Take a single human defined task and replace it with algorythm. Weaak AI is enough is a strange argument. You are choosing not to use more powerful model because you don't know what to do with it.
+            - Statistical Quality control to modern analytics. C2A4 is a parter of Amazon. Offers to get payed right now with a small discount.
+            - the basic article is that automation is becoming the core. It is not the radical claim. Straiggtforward continuation. No one knows how to integrate LLM.
+            - It meant to reassure CEOs who don't want to change. lullaby for babys.
+        - Ananth:
+            -  Interesting read. The continuation of digital transformation. Felt somethng was missing. It is about competition, but not really. ore like how to apply technology.  AI is at the center, and the examples are google, amazon, alibaba. It ignores that there are customers. They almost dismissed the importance of specialized domain knowledge. Seems to me that specialized
     - [[August 11th, 2023]]  Finite AI, Infinite AI
+        - Today's read Governance Studies is this document
+        - https://openai.com/our-structure
+        - The prompts: 
+            - What, if anything, does it remind you of?
+            - Can it do it's job long-term? Can it be a source of competitive advantage short-term?
+            - What, in your view, are the key weaknesses of the governance model described in the doc?
+        - Ananth: 
+            - Reminded me of the original announcement. Thought is was impossible. Non-profit kind of failed.  Like shibolleth. Capping the profits, trying to project altruistic take was a distraction. 
+            - Give me GPT 5/0. The board is adjudicator of whether AGI is achieved.
+        - Bryan:
+            -  Similar to journalism. Or the distinction between WordPress.org and WordPress.com. The profits from one funds the other. It feels like they are taking the idea to the next level. But it makes it hard to regulate. It kind of freaks me to make it compex enough to regulate. A competitive advantage -- hard to regulate.
+            - Controls they put in place is interesting. I didn't look up the number of investors, but there 400 employees. Not a lot of potential investors to deal with.
+        - Jenna:
+            -  Wanted a 1B commitments. Relationships with Microsoft are vague. How to exclude. 
+        - Kiran:
+            - What if they actually meant it? They believe they can invent AGI and want to keep it under check. They mean well, but can do the wrong things for the right reasons. But a part of me doesn't believe that it is realistic. Interesting definition of AGI. Can do enou8ghto disrupt human life. 
+            - The people in the middle believe that in case AGI they need not only legal backing but also psychological backing. It reminds sovereign wealth fund. Uncommon: non-profit controlling for-profit. Same with sovereign wealth fund. Government controls for profit motifs.
+            - One thing I learned over the years. Focus on product first. OpenAOI turned in on its head. We know them because of ChatGPT. We see the feature that are coming. It is inside our reality bubble.
+            - Nice to believe that OpenAI is more important than ChatGPT. But maybe the opposite is true.
+        - Sachin: 
+            - They honest why they wanted to go from non-profit to for profit. Need to compete with Google, Meta.
+            - The map is not the territory.
+            - The structure reminiscent of non-profit Venture Fund. Micro-Finance companies. Not exactly the match, but follws the similar structure.
+            - Profits are capped at 100X of investments. Not realistic. MS investment is 10B. The deal is to get back 100B.
+            - Benevolent dictators and wikipedia. Still depends on charisma of the founder in case of wikipedia. 
+            - The core capability is ability to raise money and attract employees.
+            - Facebook can open-source because it has all the money.
+        - Venkat:
+            - The points that have not been made. Despite commitment to OpenAI the models are not open. Don't publish the secret source. The only way to access throughAPI.
+            - Safety is justified to be close.
+            - Ironic that FB released LLAMA. Some ability to use commersially. Mirrors the structure of Meta. Turned from publicly traded co to privately controlled. 
+            - Everybody's paying attention to ChatGPT product and it is what matters. Claude. LLMs with context windows are turning into the community.
+            - There is a secret source on how to build centers a lot of cos already have secret sauces/
+            - The difference between revealed prefernce and stated preference. Revealed preference tells a different story.
+            - AGI is bullshit. The group that sets itself to call it. is like Vatikan. Changing dioxctrie in 2005, but the rest of the world movedon from the debate long time ago. Vatican 11 council is not irrelevant because it owns a lot of real estate and has a lot of power.
+            - The currect catholic movements sound like angels on a pinhead bullshit. But it matters. trillions of dollars can be governed differently.
+            - You can write a very funny story: make an analogy very apparent. And it can be done to be very funny. Maintain control no matter what. Have an excuse to milking profits indefinitely. 
+            - The current pope vs previous one. The new one is social guy. he wants to be good. 
     - [[August 4th, 2023]] The Avalanche That Never Came
+        - Today's Read in Governance Studies is an excerpt from 10 years old piece on disruption in education.
+        - https://www.ippr.org/files/images/media/files/publication/2013/04/avalanche-is-coming_Mar2013_10432.pdf
+        - Focus on Chapter 3: Unbundling, or the New Competition.
+        - The Prompts are: 
+            - Why, in your opinion, the avalanche hasn't really come yet?
+            - How can recent developments in AI affect the process of unbundling and rebundling as well as the individual components of educational experience, described in chapter 3?
+        - Grigori: 
+            - The educational system is build on a cadence that is quite hard to interrupt. You need to admit people each year. You have to run them through the battery of courses and activities. You have to invite employers on campus. You have to graduate the students and pray that they will find meaningful and relevant enployment.
+            - There is no specific point in time when you can start inplementing large scale change. And the change raises more questions thatn provides answers. like what happens with our alimnis = degrees holders?
+            - Can we secure employers support for at least a decade. Etc., etc, 
+            - So that the only way to implement changes is on the same or faster cadence. Accumulation of positive changes as opposed to a big bang.
+            - New programs are somewhat easier to make successful than redesign of the old ones, but even in this case the university is happy to provide a bureaucratic noose/rope for a reformer to hang yourself. 
+            - And for the newcomers it is rather hard to figure out supply and demand. When there is shortage of AI programmers, everybody wants to scale up, but there is no way scale down fast. 
+            - Generative AI puts a pressure on universities because there are signs that there will be a lot of demand for peopel well versed in applying genrative AI. And probably not enough supply. And no easy way to match the 2.
+            - Earlier this year Ilya sutskever on a fireside chat said that the number of people increased 1000s of time in just  a few years. And he means research as opposed to application which is much harder problem.
+        - Anath: 
+            - A really good pattern. Equate education with other markets. It is a wrong way to look at university. Treating university as supply and demand is kind of wrong. One learning for supply and demand and the other is not. The best universities are getting better with age. Standford on Bitcoin is very good. The good universities are getting much better. 
+            - Faculty living in one area is interesting. All the readings fits into the team on how current ed system works.
+        - Venkat: 
+            - It is not that old. Feels much more dated. Like before the avalance there is calm. but the avalanche have came, but hasn't affected ed. University model survived a lot of dusruptions. 1000 years old.
+            - Talking to young people recently. GenZ are more interested to university than millenials. Much less entreprenerial ambitions. Back to vakluing credentials much more. For a while a lot of careers especially in high-tech didb't require degrees.
+            - But now the pendulum is swinging back. But you have to afford it. Affordability is an issue. Most people pay much less than sticker price. Most people pay very little. Downside is low, the upside is high. and one of the things is zero-interest rate environment. Opportunity cost wise the choice between 2M venture capital vs to get a degree.
+            - Brain dead choice is to take the 
+            - Peter Thiel did under 20 were moderately successful. But then scale. Don't go to college, go to programming school. Turms out that most of them were scums.
+            - In the us there was a big boom and bust in for profit universities.
+            - Took student loans and the education was bullshit. And lawsuits were won. In india the demand is higher than supply.
+            - Last point: Despite the ,ain prediction is not coming true, something still happened. YouTube channels. Kids are doing things like heavy duty hacking. Zaloof build semicinductor fab in his garage. And now he got funding Good rare outlier. You either billionair abcker or social 
+            - Attempts typically lead to very scammy things. Pendulum swing back to traditional universities.
+            - What the report is predicting is coming thrue but slower. 
+            - As for the prompt for AI. I don't think AI is still there yet. Whatefver the model you need human support from people. Without it it is not good enough. Much o
+            - Gaming divison of Netflix
+            - UX and Game developments.
+            - UX people are coming from Universities but in Game Development is from hands-on experience.
+            - Games are much more complex user experiences. It is more complex than the theory doesn't 
+            - Gamedev is a field where the university ed is 
+            - AI can become a good teacher wherethere are a lot of text books or a lot of clean datsets. Peopel post questions and answers. 
+            - One of the fun things with AI is that it can kill anything that it touches. Like e. g. Stack Overflow. No incentive to post questions and answers.
+            - Some instabilities are possible.
     - [[July 28th, 2023]] What CEOs Should Know About LLMs
+        - The source: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/what-every-ceo-should-know-about-generative-ai
+        - The prompts are:
+            - 1. Focus on a closing section called Considerations for Getting Started. Does it really address the issue of speed the technology is moving? What are the potential alternative ways for an org to start using Generative AI and keep up with the technology development?
+            - 2. Look critically at the structure of the whole primer. What are the most interesting parts, the least interesting parts, the ways to improve the whole thing?
+        - Grigori: 
+            - The whole document look remarkably boring to me. The contrast is striking. Especially given the breakneck speed the public narrative is developed and the story of Generative AI is unfolding before our eyes.
+            - I have included the piece for 2 reasons: 1. We may consider writing a shorter, but more engaging primer based on our readings.
+            - 2. We can learn a little bit from McK on how this thing is done and what should we avoid. 
+            - Of course the piece doesn't address the issue of speed in the final section (a section with all the recommendations). And all the recommendations are kind of run of the mill. I can imagine a similar article written about say Big Data, or machine Learning, with exactly the same type of recommendation with appropriate terms replaced and only slight modifications. The problem for establisjed advisors is that they wrote this type of thing a decade and 2 decades ago. So there are some baggage they have to carry.
+            - The doc also assumes (as you have to as an author) a level of competence of the target audience in the domain. And the assumption here is CEOs know next to nothing. 
+            - This raises an interesting question: how do you bring a person who knows next to nothing about generative AI to a level where an intelligent conversation about practical usage is possible? I think it is a non-trivial task, given time constraints, and this particular primer of course failed to do it. But the question is interesting. 
+            - The way to improve it is to include some kind of a story. There are a lot of them unfolding. Like Hinton leaving Google. Or Musk going after hisformer proteges with x.ai. Or Google vs Microsooft thing.
+            - How do you address the issue of speed? I guess the best way to do it is very direct: This is how to educate yourself about Generative AI in very limited time. The options are: a canon, a short course, a list of concepts weaved into an interesting story.
+            - Stories are unfolding, so it is not that difficult to pick one or two. Examples: Vision Fund blowing up hundreds of millions on AI before learning about LLMs.
+            - Or OpenAI long term strategy. Or intellectual history of LLMs -> the history of all the breakthrougths that led to the current state. 
+        - Bryan : 
+            - Same thing was reading 15 years ago about digital tranformation. Interesting to see 5 yo version of AI. They alluded to it at the very beginning. More than a chatbot thing.
+            - Classified thing is interesting. A lot of companies are doing stuff like that for a while. It has been around for a while. What is a difference between GAI and other software.
+            - People were using software to make all type of pages and pdfs. Yea, you can write software. But it solves a very specific problem, there is no variations. The benfit of using GPT is that inputs can very. You can process them at will. 
+            - How often do you have such diverse inputs to process. 
+            - Suggesting to a sales person an opportunities for upselling.
+            - How much CEO needs GenerativeAI vs rigid systems that are reliable. Bridging digital transformation staff and AI benefits and people lived through it and overall arch 
+        - Kiran: 
+            - Same as Brian. Recommendations are centralized. Create a cross-functional team, it is what to do with all technologies. It could be cool to consider a technology that it is not top-down.
+            - Gates wrote: Hey we are doing a IE. It wasn't the push, but people to make their work easier. There were cross-functional teams. At NYTimes employees were using internet.
+            - Employees are already using it. I had to insert a comma. it was a 2 minute job with chatgpt. Give people of the companies the superpower.
+            - The old school methods de-risk things from CEO perspectives, but they are not.
+            - The use cases. Companies are already doing the things. The way you implement bottom - up is let the things fall. 
+            - Have to take care of the risks. maybe we can tell the story. Focus on risks instead of the use cases.
+        - Sachin: 
+            - It seems like something with acadenic background. Content is fine. There is nothing particularly wrong with it. Applying AI to work, it kind of discounts any intelligence in organizations. The problem is not creating a cross-functional team. The problem is politics of an org that will prevent it to take risks. It feels like it discounts all the real world problems. The map is not the territory.
+            - I don't know how to improve on it. The implementation is very specific.
+            - Reading the book The Big Score. 
+            - HP and Intel were the Googles of their times. Their success were based on technical innovation. The org structure were a nice to have thing. The model was not build org structure first and innovation later. It started with tech.
+            - I feel like The org structure doesn't matter. The technical innovation can drive the thing, not the other way around.
+            - It also reminded the book called Obliquity. The best way to approach things is indirectly. In corporate organization. The science of muddling through.
+            - The anithesis of that. trying to approach a problem very direct.
+        - Bryan : 
+            - Interesting ethnographic study. How do people are using it. From the bottom . Superpowers. And it is entirely the hype. Empowered individual are superproductive.
+            - There are a lot of compaies are laying off a lot of stuff and the rest will be supervisors. And CEOs have little knowledge.
+            - We don't know what are implications. TYes. We are going to use chatGPT. And nobody knows where it going to go. How do you a get experience. You have to do some of the work to work the problem. it will be interesting to see where it can go.
+            - What kind of challenges do they deal with.  
     - [[July 21st, 2023]] Immortal Artists Copy, Mortal Artists Distill
+        - Grigori: 
+            - The metaphor of mortal/immortal computing doesn't work for me on several different levels. 
+            - 1. the way Hinton use an idea of mortality looks rather clickbaity
+            - My understanding of mortality is different from Hinton's. An exact same copy of something is much more dead than alive. This is not how nature operates. It doesn't produce exact same copies and that makes all the difference.
+            - 2. I am immediately thinking about my 20+ years old computer, that collects dust somewhere in the corner. I can potentially even start it up one day. So, it seems to be alive. Yet, it is not. It probably doesn't have a browser that would work with modern internet.
+            - 3. Same thing happens in business. Companies die because they reain the same carbon copy of themselves from the past. Companies that survive change their mind so to speak. The longest surviving companies changed their hardware and sofware many times. 
+            - The missing piece is an environment that is unknown and is changing. So you have to respond to it, meaning to change. Different species respond differently to changes.
+            - the information is in the variance, not the mean. In very unique personal experiences of individual people.
+            - If you want to learn you want to vbe able to share those individual experiences in a very efficient way. That's why distilling is important.
+            - I had an experience I put this information in a container that i gcan share with others so that the can have their experiences and learn from me.
+            - 3. The trade-off between energy cost and mortality seems rather wrong. 
+            - But the whole article is very generative, as frequently happens with Hinton's ideas. They make you think, as opposed to just repeat the meme.
+        - Mathew: 
+            - Quite interesting.
+            - Neither of them have a better argument. Agreed with both of them. Hinton's argument is digital brains are parallelizable, they smarter. Digiatl brains won't be smarter than analog brains. 
+            - the best way to distill information. 
+            - Day-today product work. Involves making consequentual decisions based on low level of data with a lot variation. You can average out the spikes and the nuances. But spikes gives you much richer understanding
+            - Mortality of computation is not necessaryly a bad thing.
+            - Didn't end up with conclusions.
+        - Sachin: 
+            - Was thinking of other analogs to Parallelism. One example is fast fashion. You create something and use the template 1000 times. It can be copied and reasonably good t-shorts can be created. The opposite of fast fashion is wqhen all the peices are hand made by the person. Each of them unique and a lot of attention have gone to each piece. Mass-production vs hand made. The knowledge and skill of the designer will be gone after his death. 
+            - The back propagation part: the model wants to see which weight must be corrected for more correct play. Hard to compare with human brain. Reminded Sachin of  The Inner Game of Tennis. If you focus on the specific of a shot you will fuck it up. Don't know why it works, but it works. Need to be somewhere in the middle.  We don't really know how analog brains work.
+        - Venkat: 
+            - This is an interesting sociological read. Hinton is kind of lost his nerve. It reminds me Clark's law. “When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.”
+            - Separation software and hardware can go beyond human. 
+            - The statement that the Human Brains can't do backprop algorythms seems wrong. Backprop is not that hard. We can run it even on a piece of paper. Not a very tricky mathematical operation, not ethoteric. Why it works is a mystery. Don't think it is unrealizable.
+            - Elements of analog computers were around for decades. Not sure, but believe thyat it is Possible to do backprop on an analog computer.
+            - In the 90s Roger Penrose wrote 2 books on quantum mechanics and computation and subjective consciousness. Ended up talking about microtubuls small enough for quantum effects to be possible.
+            - Similar things of other thinkers. Descart came up with carthesian theater, but when push came to shove ended up talking in opinion gland and weird analogical arguments. But this turns his argument nonsense.
+            - The Hinton's argument is not even wrong, and a response is not even wrong because the author of the blog post takes the original argument seriosly.
+            - Maybe there is something there, it is aiming at it and missing the mark.
+            - The best case I can come up with is Britain vs France seafaring technology.
+            - France became briefly a naval power. With top-down approach. But it didn't stick. If you achieve a separation of hardware and software, you are not creating something that is better. You get a speedup, but that is not sustainable. 
+        - Bryan: 
+            - Interesting how self-driving cars engineers handle such situations. Compared with intelligent algorithm. There are better ways to think about it than hardware and software.
+            - They take immortality of digital things for granted. But we know that Bitrot is a thing. Sustainability of electric cars is pretty much questionable. How long will Tesla support the car and when the warranty is up is it going to be servisable. And the most probable answer is that they will have to recycle. The whole immortality thing doesn't seem right for me. A lot of operating systems. Computers can't run a single web app.
+            - The digital brain can not exist without a human brain. Communities are more powerfull and more adaptable.
+            - We tend to think of intelligence as just processing. But there are a lot of things that we probably do unconsciously, we don't do it consciously.
     - [[July 14th, 2023]] What Should Data Science Education Do with Large Language Models?
         - The source: https://arxiv.org/pdf/2307.02792v2.pdf
         - Prompts: 
