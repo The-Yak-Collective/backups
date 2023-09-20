@@ -82,6 +82,12 @@
             - In general hard to make a generic tool for embedded software development. A reason why Zephyr may be interesting and takes time to progress.
         - Misc
             - Measure power consumption of an embedded solution: https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2s
+    - September 20
+        - Anuraj on recent experience with Zephyr on ESP32
+            - Made it work, but not the CAM, which requires lower-level and more time-consuming port.
+            - E.g. https://github.com/anuraj-rp/esp32s3-zephyr/tree/main
+            - Interesting, but would be a good option if someone from or close to Zephyr was involved.
+        - Zephyr appealing but we currently do not need portability. Zephyr may be too edge for the project, and FreeRTOS or esp-idf more appropriate.
 - Hopper
     - Hello world topic ideas
         - API (Rhett/Anuraj)
