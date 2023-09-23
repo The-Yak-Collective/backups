@@ -299,7 +299,7 @@
         - Kiran: 
             - I agree, I wish it was a different format. They could give people ideas on how to make experiments.
             - I have two scenarios: a distopian and an utopian. Think about negative stuff more. In my experience dealing with data on my own, trying to present conclusions to people, the key part is to have a lot of confidence. If you do you can wrap the data and tell almost any story. Slice the data differently, and it will tell a different story. If you give anyone a superpower to clean the data and then create visuals you end up generating sexy output, but there is no guarantee that it will make sense to you. When you are presenting to people you need to bring them with you. Where the data is coming from, how it gets measured.
-            - Introduces the incompetency in people processes. 
+            - Introduces the incompetency in people processes. You need to go deep often times to get an intuitive understanding of the data. 
             - Useful to accelerate learning. But will it give you enough hooks to understand why it is doing the things it is doing is a big question.
         - Bryan: 
             - The interesting thing is to perform the A/B test on the effectivenes of LLM enhanced education. 
@@ -370,13 +370,60 @@
             - Bad opacity is when no actual bets are made or bets are made by the people other than PMs, or the outcomes are unclear, or post-mortems can not be performed.
     - [[June 30th, 2023]] The Future of Education in a world of AI
         - The Source: https://www.oneusefulthing.org/p/the-future-of-education-in-a-world
-        - The Prompt: 
-In your view, does the article overestimate or underestimate the impact of LLMs on education and specifically business education (and executive education, or, alternatively, whatever type of education you are most familiar with) where the author is working?
+        - The Prompt: In your view, does the article overestimate or underestimate the impact of LLMs on education and specifically business education (and executive education, or, alternatively, whatever type of education you are most familiar with) where the author is working?
 What are your the most conservative and the most revolutionary scenario for upcoming changes?
+        - Kiran: 
+            - The key skill that we develop today is to how to use the internet: detecting bullshit. AI is wrong in a subtle ways. ChatGPT will change your ideas. Will have to use the brush. the key skills -- editing side and bullshit detection side.
+            - Good at generating all the scaffolding tp generate your idea.
+        - Matthew: 
+            - Like a subset of new technology being seen as a slave or an augmenter. Mostly positive. Don't think the author overestimates or underestimates impact. Most of the utility will accrue to the beginners. Will get the rough map of the territory. Also add a lot of value to people who are accomplished 
+            - The most concervative; Remains the same.
+            - The more revolutionary scenario: from one size fits all or most -> to small groups active learning and 1:1. Will take away 90% of bureaucratic load from teachers, can be good. 
+            - A lot of institutions risk to be exposed as pretty poor.
+        - Shreeda: 
+            - Anti-school in general Pro replacing home work, menial work.
+            - Business Education requires a lot of situational awareness from the past.  Don't know how to trasmit critical thinking. 
+            - Pro AI working as a lab instructor, helping to solve problems.
+        - Venkat:
+            -  Good initial framing. AI as a calculator. Liked Inverting the classroom. 
+            - Education: three loops. 
+            - The First Loop: Formally teaching, formally learning, close it with the test. Has its problems.
+            - The Second loop: the best way to learn the subject is to teach it. Teaching context: students teach a teaxher. You don't know where the questions are coming from. all kind of questions from all kind of people. 
+            - The Third loop closure: Pass the test, have to use it in the real world. Like the topic of linear programming. Learned, had to teach, finally had to use it in a real project. that was hellish.
+            - AI thrown into the process depends on the purpose. Studying for the test, not much difference. Pass the test.
+            - AI being a teacher to yourself is less useful there. Sometimes you ask AI for explonation, and sometimes it works, and sometimes it doesn't.
+            - In real world the stakes are so high that you are not going to trust chatgpt.
+            - As the stakes deepen you care more for the answer to be right.
+            - Think about it like a hierarchy of loops.
+            - School is not a revolutionary technology.
+            - On the other extreme: people call bullshit on the school. Re-invent the school entirely. Maybe start with the second level: teach.
     - [[June 23rd, 2023]] AI is a Lot of Work
         - The Source: https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots
         - The Prompt: If you have ever seen any signs of ingenuity or creativity coming from ChatGPT or similar models, what, in your view, is the main source of it?
-        - 
+        - Grigori: 
+            - To train a machine to be more humanlike you have to follow instructions.
+            - It can be that we just misunderstand what is going on when we are learning something. 
+            - We automatically assign a high status to a person who is for example lecturing us on a particular sunject because we think that giving a lecture requires preparation and superior understanding of the subject and a certin skill of delivering it in a well-established format. All of it may be true, but this how how we teach other people, not how they learn.
+            - The content of any given lecture is not what people learn or take away from the process.
+            - What people take away is not the content but some kind of a set of priorities: what is worth of their attention and and what is not.
+            - The knowledge is typically available elsewhere, and to acquire it we need to repeat it several times. The best professors just persuade us to give a shit to do the part which is probably quite boring (especially for those who don't give a shit).
+        - Kiran: 
+            - This is great read. The source of creativity is randomness. Humans are creating guardrails. 
+            - Humans are not injecting the creativity. 
+            - Maybe it never ends. As long is we have big data, we will have to do the labeling.
+        - Shreeda: 
+            - Glad the article was picked. Worked for 8 months as AI labelel. Was fired fro. I didn't really realized how work was absurd to her. Was just repressing the information.
+            - Have not experienced the creativity from Chat GPT, anything I saw was borrowed from human content. Why I though it was autoomated elsewhere. Interesting Catch 22 thinking.
+        - Venkat: 
+            - Yes I have sympathy for below API. The author Failed to go to experts and figure out how hard it is to eliminate the tagging. There is no cosmic law of inevitability. There is a plenty of good promising technologies.
+            - The big technical part is to include AI instead of a human. Reinforcement Learning applied to cy dogs by
+            - Pretty optimistic that human tagging can be eliminated. Important spotlight, disenginious.
+        - Bryan: 
+            - I really like it.  I don't know whether ingenuity and creativity is the right way to decribe it. Originality maybe. AI does a pretty good job of remixing things. The source is all of the texts that were uploaded to the model.
+            - But maybe it will change how we think about human creativity: How do you expect new versions to learn. A lot of interesting governance things. The real world moved on, and there is a completely new thing. 
+            - Or when AI dreams up something new and it is not very documented. 
+            - Rough consensus of annotating the model. How do you get the consensus on what is a polo shirt.
+            - The consensus part is interesting, because we don't need the consensus. If we are trying to outsource the meaning to the model, the model has to be very stern. Languages are very flexible, models can use language to reason .
     - [[June 16th, 2023]] How ChatGPT Learns 
         - The Source: https://www.linkedin.com/pulse/understanding-chatgpt-triumph-rhetoric-geoffrey-moore/
             - It is, of course, a less than perfect description of how ChatGPT works. 
@@ -386,7 +433,26 @@ What are your the most conservative and the most revolutionary scenario for upco
                 - Beyond The Basic Training
         - The Prompt: Based on what you have just read and what you already know, give us your shortest possible description of how the mechanism of ChatGPT works? How does it learn? It shouldn't be perfect either. What, if anything, Geoffrey Moore is missing in his description?
             - Why do you think people have hard time articulating the way AI works?
+            - Venkat: 
+                - Disappointed by Geoffrey Moore. Reduced an excellent book to something trivial and comfortable to understand. You are using language to use language. What makes it different?
+                - We might as well say that our brains are similar to electrical circuits. 
+                - The question is more diffcult then he is making it up to be. Like an autocomplete.
+                - My own understanding: there are more unknowns than knowns here. What is the difference between infrmation and language. Whatever is happening inside the brain is uncollapsed wave function and it is interesting. Nobody understands how it works.
+            - Ananth: 
+                - Just looks at the number of parameters. How I think and it is not quite different from how ChatGPT works. Recognises patterns 
+                - More complex that predictive analysis.
+                - Brian: Almost everything I have read about LLM was beyond my comfort zone. It is not an autocomplete. It can not predict how many miles in it to the moon. So it looks it up.
+                - Google does it for 10 years. What may be different is trying to synthesize the answer where the google gives the search result.
+                - What happens is we all ask the same question? Does it has a canned cashed response? Google has cache.
+            - Kiran: 
+                - The practice and lore of neural net training. So much trial and error. The fundamental thing which is confusing is why humans mess with the weight. More parameters than neurons in the brain.
+                - A good example is a kid learning to speak and it doesn't have sematics. It has only probabilistic understanding of things. Not congruent with how my kid is learning to speak. Semantics appears after a few successful trials. A selection bias. There are so many parrallels of how ChatGPT is supposed to work.
+                - The main difference is in the type of inputs. A human being gets input from different senses. And a leap of faith has to be done at some point To go from probabilistic words generation to semantics.
     - [[June 9th, 2023]] Jesuit Education Principles
+        - The Source: https://www.seattleu.edu/media/university-core/files/jesuit_model_education.pdf
+        - The Prompt: Don't focus too much on the details, try to get a wholistic picture of the system.
+Reflect a little on your own educational experience. How is the system that was used in your case different from the jesuit system described in the reading?
+Optional: What does one really learn by studying Latin? Or, in other words, What can we achieve by teaching "Latin" to LLM like ChatGPT?
         - Shreeda:
             - I'm mid Uber and going to drop but
             - I met someone yesterday at work who studied in Jesuit syst
@@ -433,7 +499,12 @@ Even though they played a huge role and still are very influential even after ab
             - Learning Latin is a good way to learn how any language works. Hard to do when you know only one language you have acquired naturally and it became something like air  (you don't have a proper frame to think about it).
 
     - [[June 2nd, 2023]] Idea Labs vs Echo Chambers
-        - https://web.archive.org/web/20220723220200/https://waitbutwhy.com/2019/10/idea-labs-echo-chambers.html
+        - The Source: https://web.archive.org/web/20220723220200/https://waitbutwhy.com/2019/10/idea-labs-echo-chambers.html
+        - But because it is a simple compare and contrast exercise, one can spend roughly half the time reading about Idea Labs, then skip to Echo Chambers.
+        - The Prompts: 
+What are the reasons (or what are the key driving forces) why Idea Labs tend to degrade into Echo Chambers and not vice versa?
+What can be done to slow down, stop or even to reverse the slide?
+Optional, very short responses needed. What does all this have to do with ... ChatGPT?
             - Does anybody read this at all? Asking just in case.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-rUh37PdDD.png?alt=media&token=97e67e93-2fe5-4c3e-b570-3934df5d4cf4)
                     - Insert jokes about DC below.
@@ -465,7 +536,7 @@ Even though they played a huge role and still are very influential even after ab
                     - So It is a skill that is hard to learn. Much easier to pretend that you have learned something by nodding your head.
                     - Echo chambers are cute, but make everybody worse off in the long run, both individually and as a group.
                     - Chat GPT is a giant Echo Chamber.
-    - Filthy Lucre? (https://deliverypdf.ssrn.com/delivery.php?ID=093116088071091120078083070086096089033069066016061000078026118065003098123098017000063039024035109012028122098016001001066030012000008073033125005104119090028071087026078022126029105103002069101115005016019127065011110111076122111086067000102074081006&EXT=pdf&INDEX=TRUE)
+    - [Filthy Lucre?](https://deliverypdf.ssrn.com/delivery.php?ID=093116088071091120078083070086096089033069066016061000078026118065003098123098017000063039024035109012028122098016001001066030012000008073033125005104119090028071087026078022126029105103002069101115005016019127065011110111076122111086067000102074081006&EXT=pdf&INDEX=TRUE)
         - Grigori: 
             - see some problems with this article — selection of the examples and main conclusion
             - doesn't think it's an identity that plays a role here but rather a way OSS is built
@@ -810,7 +881,6 @@ cf convo about the effect of publishing on Medium v Mirror or Paragraph, let alo
                 - how individual identities play into governance models
                 - IDs specific to contexts, "identity stacks"
             - 
-    - 
     - Fri, Jan 27th, 2023 
         - Selected reading: 1. https://thepsmiths.substack.com/p/review-the-art-of-not-being-governed 
 2. https://maggieappleton.com/ai-dark-forest 
