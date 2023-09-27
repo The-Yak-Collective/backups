@@ -88,6 +88,16 @@
             - E.g. https://github.com/anuraj-rp/esp32s3-zephyr/tree/main
             - Interesting, but would be a good option if someone from or close to Zephyr was involved.
         - Zephyr appealing but we currently do not need portability. Zephyr may be too edge for the project, and FreeRTOS or esp-idf more appropriate.
+    - September 27
+        - New format, starting with a quick recap of recent editions.
+        - Interesting discussion about what should be done with software, what should be done with hardware.
+            - Hybrid solutions with hardware and software compensation needed sometimes.
+        - Roundtable
+            - Venkatesh on software learning curve, with Tumbler
+            - Anuraj on code, covering Arduino interface on the Freenove, keeping using Zephyr on the side.
+            - Maier experimenting with the Tumbler.
+        - Should sub-brains be wired or wirelessly connected?
+        - Next weeks perhaps on mechanical CAD or live coding
 - Hopper
     - Hello world topic ideas
         - API (Rhett/Anuraj)
