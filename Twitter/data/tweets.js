@@ -4,6 +4,1273 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1707937665524355442"
+          ],
+          "editableUntil" : "2023-09-30T02:57:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/hqfiURIUuF",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/fear-of-oozification",
+            "display_url" : "studio.ribbonfarm.com/p/fear-of-oozi…",
+            "indices" : [
+              "57",
+              "80"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1707937665524355442",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1707937665524355442",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 30 01:57:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Fear of Oozification\". https://t.co/hqfiURIUuF",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1707773684692255048"
+          ],
+          "editableUntil" : "2023-09-29T16:05:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/jZO0FiQTJt",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-103-dd7750e46db4?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "87",
+              "110"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "110"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1707773684692255048",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1707773684692255048",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Sep 29 15:05:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #103\". https://t.co/jZO0FiQTJt",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1707517681966993514"
+          ],
+          "editableUntil" : "2023-09-28T23:08:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/IxlTXRypkq",
+            "expanded_url" : "https://summerlightning.substack.com/p/tintin-in-america",
+            "display_url" : "summerlightning.substack.com/p/tintin-in-am…",
+            "indices" : [
+              "55",
+              "78"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "78"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1707517681966993514",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1707517681966993514",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Sep 28 22:08:34 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Tintin in America \". https://t.co/IxlTXRypkq",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1707357485177139422"
+          ],
+          "editableUntil" : "2023-09-28T12:32:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/es8EUnlO1F",
+            "expanded_url" : "https://nesslabs.com/burnout-vs-boreout?utm_source=rss&utm_medium=rss&utm_campaign=burnout-vs-boreout",
+            "display_url" : "nesslabs.com/burnout-vs-bor…",
+            "indices" : [
+              "64",
+              "87"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "87"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1707357485177139422",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1707357485177139422",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Sep 28 11:32:00 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Is it burnout or boreout?\". https://t.co/es8EUnlO1F",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1706590680921825431"
+          ],
+          "editableUntil" : "2023-09-26T09:44:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/UtxyX9ckPG",
+            "expanded_url" : "https://antlerboy.medium.com/the-quest-for-efficiency-through-digital-in-government-is-in-a-doom-loop-6c1c9f6602d9?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/the-quest-for-…",
+            "indices" : [
+              "109",
+              "132"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "132"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1706590680921825431",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1706590680921825431",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Sep 26 08:44:59 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"The quest for efficiency through Digital in government is in a doom loop\". https://t.co/UtxyX9ckPG",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1705693475394511211"
+          ],
+          "editableUntil" : "2023-09-23T22:19:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/0PIKlhZRJZ",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/fluid-fogs-and-fixed-flows",
+            "display_url" : "studio.ribbonfarm.com/p/fluid-fogs-a…",
+            "indices" : [
+              "63",
+              "86"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "86"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1705693475394511211",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1705693475394511211",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 23 21:19:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Fluid Fogs and Fixed Flows\". https://t.co/0PIKlhZRJZ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1705239568591515699"
+          ],
+          "editableUntil" : "2023-09-22T16:16:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/6hmImq0exQ",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-102-fe3d190d4729?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "87",
+              "110"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "110"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1705239568591515699",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1705239568591515699",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Sep 22 15:16:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #102\". https://t.co/6hmImq0exQ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1704813184115212587"
+          ],
+          "editableUntil" : "2023-09-21T12:01:51.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/fqOumlYvHj",
+            "expanded_url" : "https://nesslabs.com/writing-thinking-tool?utm_source=rss&utm_medium=rss&utm_campaign=writing-thinking-tool",
+            "display_url" : "nesslabs.com/writing-thinki…",
+            "indices" : [
+              "65",
+              "88"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "88"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1704813184115212587",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1704813184115212587",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Sep 21 11:01:51 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Writing is a thinking tool\". https://t.co/fqOumlYvHj",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1704563401496658369"
+          ],
+          "editableUntil" : "2023-09-20T19:29:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/WuJ2W1kfd0",
+            "expanded_url" : "https://summerlightning.substack.com/p/love-in-concrete-island",
+            "display_url" : "summerlightning.substack.com/p/love-in-conc…",
+            "indices" : [
+              "60",
+              "83"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "83"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1704563401496658369",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1704563401496658369",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Sep 20 18:29:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Love on Concrete Island\". https://t.co/WuJ2W1kfd0",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1704476354597523594"
+          ],
+          "editableUntil" : "2023-09-20T13:43:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/4ppgrY9B9g",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/reading-the-game",
+            "display_url" : "uncertaintymindset.substack.com/p/reading-the-…",
+            "indices" : [
+              "60",
+              "83"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "83"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1704476354597523594",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1704476354597523594",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Sep 20 12:43:25 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Reading the game\". https://t.co/4ppgrY9B9g",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1704071304221987183"
+          ],
+          "editableUntil" : "2023-09-19T10:53:53.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/xifNcqY6p4",
+            "expanded_url" : "https://antlerboy.medium.com/so-you-want-to-transform-public-services-f9f87c26888f?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/so-you-want-to…",
+            "indices" : [
+              "79",
+              "102"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "102"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1704071304221987183",
+      "truncated" : false,
+      "retweet_count" : "2",
+      "id" : "1704071304221987183",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Sep 19 09:53:53 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"So, you want to transform public services?\". https://t.co/xifNcqY6p4",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1703200522314928445"
+          ],
+          "editableUntil" : "2023-09-17T01:13:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/vJSPhuEQse",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/this-is-the-new-real-world",
+            "display_url" : "studio.ribbonfarm.com/p/this-is-the-…",
+            "indices" : [
+              "63",
+              "86"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "86"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1703200522314928445",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1703200522314928445",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Sep 17 00:13:43 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"This is the New Real World\". https://t.co/vJSPhuEQse",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1702227346911039914"
+          ],
+          "editableUntil" : "2023-09-14T08:46:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/bujP5c9xhs",
+            "expanded_url" : "https://nesslabs.com/self-anthropology-field-notes?utm_source=rss&utm_medium=rss&utm_campaign=self-anthropology-field-notes",
+            "display_url" : "nesslabs.com/self-anthropol…",
+            "indices" : [
+              "114",
+              "137"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "137"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1702227346911039914",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1702227346911039914",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Sep 14 07:46:40 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Self-Anthropology: Become your own anthropologist with personal field notes\". https://t.co/bujP5c9xhs",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1702109618749497739"
+          ],
+          "editableUntil" : "2023-09-14T00:58:51.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/w6UXT94SFC",
+            "expanded_url" : "https://summerlightning.substack.com/p/unknown-scents",
+            "display_url" : "summerlightning.substack.com/p/unknown-scen…",
+            "indices" : [
+              "52",
+              "75"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1702109618749497739",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1702109618749497739",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Sep 13 23:58:51 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Unknown Scents \". https://t.co/w6UXT94SFC",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1700395581238125002"
+          ],
+          "editableUntil" : "2023-09-09T07:27:53.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/J72AEerFTs",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/what-we-seek-to-save-when-we-seek",
+            "display_url" : "studio.ribbonfarm.com/p/what-we-seek…",
+            "indices" : [
+              "88",
+              "111"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "111"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1700395581238125002",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1700395581238125002",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 09 06:27:53 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"What we seek to save when we seek to save the world\". https://t.co/J72AEerFTs",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1700167020656935369"
+          ],
+          "editableUntil" : "2023-09-08T16:19:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/o13MaLRl0z",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-101-d727edf98aa9?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "87",
+              "110"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "110"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1700167020656935369",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1700167020656935369",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Sep 08 15:19:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #101\". https://t.co/o13MaLRl0z",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1699796534576255016"
+          ],
+          "editableUntil" : "2023-09-07T15:47:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/tpeieapmKb",
+            "expanded_url" : "https://nesslabs.com/personal-or-professional-growth?utm_source=rss&utm_medium=rss&utm_campaign=personal-or-professional-growth",
+            "display_url" : "nesslabs.com/personal-or-pr…",
+            "indices" : [
+              "63",
+              "86"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "86"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1699796534576255016",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1699796534576255016",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Sep 07 14:47:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"You Don’t Need to Choose\". https://t.co/tpeieapmKb",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1699433729070936210"
+          ],
+          "editableUntil" : "2023-09-06T15:45:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/XQMo8myUPd",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/good-experiment",
+            "display_url" : "uncertaintymindset.substack.com/p/good-experim…",
+            "indices" : [
+              "65",
+              "88"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "88"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1699433729070936210",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1699433729070936210",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Sep 06 14:45:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"The \"good\" experiment\". https://t.co/XQMo8myUPd",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1699027011056869547"
+          ],
+          "editableUntil" : "2023-09-05T12:49:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/xnJvLMqUAK",
+            "expanded_url" : "https://antlerboy.medium.com/lets-all-remember-fish-in-a-tie-restaurant-clapham-junction-battersea-f6e2964db00e?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/lets-all-remem…",
+            "indices" : [
+              "110",
+              "133"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "133"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1699027011056869547",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1699027011056869547",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Sep 05 11:49:40 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Let’s all remember Fish in a Tie restaurant, Clapham Junction, Battersea.\". https://t.co/xnJvLMqUAK",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1698235103086850558"
+          ],
+          "editableUntil" : "2023-09-03T08:22:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/24B2vtE94f",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/sweating-solarpunk",
+            "display_url" : "studio.ribbonfarm.com/p/sweating-sol…",
+            "indices" : [
+              "55",
+              "78"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "78"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1698235103086850558",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1698235103086850558",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Sep 03 07:22:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Sweating Solarpunk\". https://t.co/24B2vtE94f",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1697760622421606527"
+          ],
+          "editableUntil" : "2023-09-02T00:57:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ADY1swm2xL",
+            "expanded_url" : "https://summerlightning.substack.com/p/minority-report",
+            "display_url" : "summerlightning.substack.com/p/minority-rep…",
+            "indices" : [
+              "52",
+              "75"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1697760622421606527",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1697760622421606527",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Sep 01 23:57:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Minority Report\". https://t.co/ADY1swm2xL",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1697627631988977768"
+          ],
+          "editableUntil" : "2023-09-01T16:09:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/MddCnMakse",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-100-601570322d0e?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "87",
+              "110"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "110"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1697627631988977768",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1697627631988977768",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Sep 01 15:09:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #100\". https://t.co/MddCnMakse",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1696437518307094696"
+          ],
+          "editableUntil" : "2023-08-29T09:19:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/VJiIXhCjgu",
+            "expanded_url" : "https://antlerboy.medium.com/we-put-as-much-thought-into-our-learning-design-and-delivery-as-we-do-into-content-at-the-the-b982ac3b1621?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/we-put-as-much…",
+            "indices" : [
+              "131",
+              "154"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "154"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1696437518307094696",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1696437518307094696",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Aug 29 08:19:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"We put as much thought into our learning design and delivery as we do into content at the The…\". https://t.co/VJiIXhCjgu",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1695321038827966817"
           ],
           "editableUntil" : "2023-08-26T07:23:27.000Z",
@@ -147,7 +1414,7 @@ window.YTD.tweets.part0 = [
         "0",
         "101"
       ],
-      "favorite_count" : "0",
+      "favorite_count" : "1",
       "id_str" : "1694711849336586303",
       "truncated" : false,
       "retweet_count" : "0",
@@ -235,7 +1502,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -897,7 +2164,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -940,169 +2207,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1688890941640265728"
+            "1641964105337647106"
           ],
-          "editableUntil" : "2023-08-08T13:32:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/NxUodga3rS",
-            "expanded_url" : "https://think-boundless.com/bilal-zaidi/?utm_source=rss&utm_medium=rss&utm_campaign=bilal-zaidi",
-            "display_url" : "think-boundless.com/bilal-zaidi/?u…",
-            "indices" : [
-              "235",
-              "258"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "258"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1688890941640265728",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1688890941640265728",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Aug 08 12:32:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Living Intentionally After “Enough” – Bilal Zaidi on leaving Google, emigrating to the US, the intensity of New York, writing poetry and spoken word, and travel vs. vacations (Pathless Path Podcast)\". https://t.co/NxUodga3rS",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1688830867165040640"
-          ],
-          "editableUntil" : "2023-08-08T09:33:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/XWbNQScF6b",
-            "expanded_url" : "https://antlerboy.medium.com/is-your-organisation-addicted-5ebca7cdabcd?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/is-your-organi…",
-            "indices" : [
-              "67",
-              "90"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "90"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1688830867165040640",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1688830867165040640",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Aug 08 08:33:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Is your organisation addicted?\". https://t.co/XWbNQScF6b",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1688679688187588610"
-          ],
-          "editableUntil" : "2023-08-07T23:33:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/DD3NipUJFn",
-            "expanded_url" : "https://summerlightning.substack.com/p/how-much-a-bagel-cost",
-            "display_url" : "summerlightning.substack.com/p/how-much-a-b…",
-            "indices" : [
-              "59",
-              "82"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "82"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1688679688187588610",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1688679688187588610",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Aug 07 22:33:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"How Much a Bagel Cost \". https://t.co/DD3NipUJFn",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1687676861403279360"
-          ],
-          "editableUntil" : "2023-08-05T05:08:13.000Z",
+          "editableUntil" : "2023-04-01T01:12:03.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -1126,1607 +2233,9 @@ window.YTD.tweets.part0 = [
         ],
         "urls" : [
           {
-            "url" : "https://t.co/sgrCCu4msm",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/rediscovering-narratability",
-            "display_url" : "studio.ribbonfarm.com/p/rediscoverin…",
-            "indices" : [
-              "64",
-              "87"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "87"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1687676861403279360",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1687676861403279360",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Aug 05 04:08:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Rediscovering Narratability\". https://t.co/sgrCCu4msm",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1687480653535666178"
-          ],
-          "editableUntil" : "2023-08-04T16:08:34.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Famq3fl5kZ",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-97-6d5dcfbed2cc?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1687480653535666178",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1687480653535666178",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Aug 04 15:08:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #97\". https://t.co/Famq3fl5kZ",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1686420968208584707"
-          ],
-          "editableUntil" : "2023-08-01T17:57:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/kpwkFHdoY8",
-            "expanded_url" : "https://think-boundless.com/sabbatical-convo/?utm_source=rss&utm_medium=rss&utm_campaign=sabbatical-convo",
-            "display_url" : "think-boundless.com/sabbatical-con…",
-            "indices" : [
-              "101",
-              "124"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "124"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1686420968208584707",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1686420968208584707",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Aug 01 16:57:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"How To Take A Sabbatical: Stories From Five People Who Took Them\". https://t.co/kpwkFHdoY8",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1686294042076745729"
-          ],
-          "editableUntil" : "2023-08-01T09:33:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "LinkedIn",
-            "indices" : [
-              "42",
-              "51"
-            ]
-          },
-          {
-            "text" : "algorithm",
-            "indices" : [
-              "52",
-              "62"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/xKhwY02nAx",
-            "expanded_url" : "https://antlerboy.medium.com/the-new-linkedin-algorithm-has-got-me-down-9ece37065d34?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/the-new-linked…",
-            "indices" : [
-              "82",
-              "105"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "105"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1686294042076745729",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1686294042076745729",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Aug 01 08:33:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"The new #LinkedIn #algorithm has got me down.\". https://t.co/xKhwY02nAx",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1686018247152242688"
-          ],
-          "editableUntil" : "2023-07-31T15:17:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/MptWL9iewl",
-            "expanded_url" : "https://think-boundless.com/benmercer/?utm_source=rss&utm_medium=rss&utm_campaign=benmercer",
-            "display_url" : "think-boundless.com/benmercer/?utm…",
-            "indices" : [
-              "114",
-              "137"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "137"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1686018247152242688",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1686018247152242688",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jul 31 14:17:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"From Rugby to Writer &amp; Book Influencer: How Ben Mercer Reinvented Himself\". https://t.co/MptWL9iewl",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1685401661500481536"
-          ],
-          "editableUntil" : "2023-07-29T22:27:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/hubnflwPz0",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/thick-time",
-            "display_url" : "studio.ribbonfarm.com/p/thick-time",
-            "indices" : [
-              "47",
-              "70"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1685401661500481536",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1685401661500481536",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 29 21:27:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Thick Time\". https://t.co/hubnflwPz0",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1685259692790906880"
-          ],
-          "editableUntil" : "2023-07-29T13:03:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/RJQFoseB07",
-            "expanded_url" : "https://summerlightning.substack.com/p/upon-this-trail",
-            "display_url" : "summerlightning.substack.com/p/upon-this-tr…",
-            "indices" : [
-              "52",
-              "75"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "75"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1685259692790906880",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1685259692790906880",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 29 12:03:16 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Upon this Trail\". https://t.co/RJQFoseB07",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1684943861066375168"
-          ],
-          "editableUntil" : "2023-07-28T16:08:15.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/0fTpU9DUvK",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-96-411d773b7db2?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1684943861066375168",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1684943861066375168",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jul 28 15:08:15 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #96\". https://t.co/0fTpU9DUvK",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1684568577905655808"
-          ],
-          "editableUntil" : "2023-07-27T15:17:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Rh7cZ0bzHh",
-            "expanded_url" : "https://nesslabs.com/inverted-pyramid-life?utm_source=rss&utm_medium=rss&utm_campaign=inverted-pyramid-life",
-            "display_url" : "nesslabs.com/inverted-pyram…",
-            "indices" : [
-              "93",
-              "116"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "116"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1684568577905655808",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1684568577905655808",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jul 27 14:17:01 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Stop looking for The One: The Inverted Pyramid of Life\". https://t.co/Rh7cZ0bzHh",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1684270807873212416"
-          ],
-          "editableUntil" : "2023-07-26T19:33:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/KhNrKuiZdx",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/firefighting",
-            "display_url" : "uncertaintymindset.substack.com/p/firefighting",
-            "indices" : [
-              "56",
-              "79"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "79"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1684270807873212416",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1684270807873212416",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jul 26 18:33:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Firefighting\". https://t.co/KhNrKuiZdx",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1683852746544349185"
-          ],
-          "editableUntil" : "2023-07-25T15:52:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/VPiSYhHuVu",
-            "expanded_url" : "https://think-boundless.com/ali-abdaal/?utm_source=rss&utm_medium=rss&utm_campaign=ali-abdaal",
-            "display_url" : "think-boundless.com/ali-abdaal/?ut…",
-            "indices" : [
-              "154",
-              "177"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "177"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1683852746544349185",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1683852746544349185",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Jul 25 14:52:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Ali Abdaal on Identity, Prestige, Creativity &amp; Meaning and Deciding To Leave Medicine | The Pathless Path Podcast\". https://t.co/VPiSYhHuVu",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1683841108948951040"
-          ],
-          "editableUntil" : "2023-07-25T15:06:19.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Ghsb7JvlIy",
-            "expanded_url" : "https://think-boundless.com/kyla-scanlon/?utm_source=rss&utm_medium=rss&utm_campaign=kyla-scanlon",
-            "display_url" : "think-boundless.com/kyla-scanlon/?…",
-            "indices" : [
-              "152",
-              "175"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "175"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1683841108948951040",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1683841108948951040",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Jul 25 14:06:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Kyla Scanlon on the Passion Crisis, Vibecession, and Quitting Her Job To Bet On Herself | The Pathless Path Podcast\". https://t.co/Ghsb7JvlIy",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1683766069247242249"
-          ],
-          "editableUntil" : "2023-07-25T10:08:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/5SRAvMeW49",
-            "expanded_url" : "https://antlerboy.medium.com/you-cant-get-order-for-free-what-do-you-do-to-balance-order-and-chaos-in-your-life-or-88d78446113b?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/you-cant-get-o…",
-            "indices" : [
-              "126",
-              "149"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "149"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1683766069247242249",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1683766069247242249",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Jul 25 09:08:08 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"You can’t get order for free — what do you do to balance order and chaos in your life or…\". https://t.co/5SRAvMeW49",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1683490970099240965"
-          ],
-          "editableUntil" : "2023-07-24T15:54:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/CMMSwg7TEZ",
-            "expanded_url" : "https://www.youtube.com/watch?v=KCt8_KRpmoQ",
-            "display_url" : "youtube.com/watch?v=KCt8_K…",
-            "indices" : [
-              "67",
-              "90"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "175"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1683490970099240965",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1683490970099240965",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jul 24 14:54:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading Stripe's \"Increment Magazine Issue 14: APIs\"\n\nhttps://t.co/CMMSwg7TEZ\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1683266460888576001"
-          ],
-          "editableUntil" : "2023-07-24T01:02:52.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/WrXA9DDqkB",
-            "expanded_url" : "https://summerlightning.substack.com/p/look-in-the-armoire",
-            "display_url" : "summerlightning.substack.com/p/look-in-the-…",
-            "indices" : [
-              "57",
-              "80"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1683266460888576001",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1683266460888576001",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jul 24 00:02:52 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Look in the Armoire \". https://t.co/WrXA9DDqkB",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1682569344411213825"
-          ],
-          "editableUntil" : "2023-07-22T02:52:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/KYXSMOQZDy",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/unnarratability",
-            "display_url" : "studio.ribbonfarm.com/p/unnarratabil…",
-            "indices" : [
-              "52",
-              "75"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "75"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1682569344411213825",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1682569344411213825",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 22 01:52:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Unnarratability\". https://t.co/KYXSMOQZDy",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1682408679998455810"
-          ],
-          "editableUntil" : "2023-07-21T16:14:21.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/YQCmMJuf9b",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-95-54cc8794fb15?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1682408679998455810",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1682408679998455810",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jul 21 15:14:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #95\". https://t.co/YQCmMJuf9b",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1681221999765454848"
-          ],
-          "editableUntil" : "2023-07-18T09:38:54.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "charity",
-            "indices" : [
-              "64",
-              "72"
-            ]
-          },
-          {
-            "text" : "community",
-            "indices" : [
-              "77",
-              "87"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/MwnoRjoPAf",
-            "expanded_url" : "https://antlerboy.medium.com/whats-the-difference-between-charity-and-community-7fd678fa0b2c?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/whats-the-diff…",
-            "indices" : [
-              "91",
-              "114"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "114"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1681221999765454848",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1681221999765454848",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Jul 18 08:38:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What’s the difference between #charity and #community?\". https://t.co/MwnoRjoPAf",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1680752153999147013"
-          ],
-          "editableUntil" : "2023-07-17T02:31:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/1FJNGzp8ct",
-            "expanded_url" : "https://think-boundless.com/aida-alston/?utm_source=rss&utm_medium=rss&utm_campaign=aida-alston",
-            "display_url" : "think-boundless.com/aida-alston/?u…",
-            "indices" : [
-              "168",
-              "191"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "191"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1680752153999147013",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1680752153999147013",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jul 17 01:31:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"The Nonlinear Life Path: College at 16, Med School in Cuba &amp; Starting Over After Kids – Aida Alston | The Pathless Path Podcast\". https://t.co/1FJNGzp8ct",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1680747030744911874"
-          ],
-          "editableUntil" : "2023-07-17T02:11:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/0xCNrDOk7l",
-            "expanded_url" : "https://think-boundless.com/diewithzero/?utm_source=rss&utm_medium=rss&utm_campaign=diewithzero",
-            "display_url" : "think-boundless.com/diewithzero/?u…",
-            "indices" : [
-              "120",
-              "143"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "143"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1680747030744911874",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1680747030744911874",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jul 17 01:11:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Die With Zero: Why Too Many Save Too Much for Too Late In Their Lives (Book Review)\". https://t.co/0xCNrDOk7l",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1631219979189116928"
-          ],
-          "editableUntil" : "2023-03-02T09:38:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/4d5mjDVZRY",
-            "expanded_url" : "https://antlerboy.medium.com/how-do-organisations-keep-on-keeping-on-3ef4fc425ee5?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/how-do-organis…",
-            "indices" : [
-              "77",
-              "100"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "100"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1631219979189116928",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1631219979189116928",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 02 09:08:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"How do organisations keep on keeping on?\". https://t.co/4d5mjDVZRY",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1631098763346419714"
-          ],
-          "editableUntil" : "2023-03-02T01:37:04.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Zo2RQ8xpET",
-            "expanded_url" : "https://summerlightning.substack.com/p/narrative-deserts",
-            "display_url" : "summerlightning.substack.com/p/narrative-de…",
-            "indices" : [
-              "54",
-              "77"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "77"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1631098763346419714",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1631098763346419714",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 02 01:07:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Narrative Deserts\". https://t.co/Zo2RQ8xpET",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1629319546090790913"
-          ],
-          "editableUntil" : "2023-02-25T03:47:05.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/oH8wjojnc4",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/truth-in-inconvenience",
-            "display_url" : "studio.ribbonfarm.com/p/truth-in-inc…",
-            "indices" : [
-              "59",
-              "82"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "82"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1629319546090790913",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1629319546090790913",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Feb 25 03:17:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Truth in Inconvenience\". https://t.co/oH8wjojnc4",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1629250399436783617"
-          ],
-          "editableUntil" : "2023-02-24T23:12:19.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/f1VfIpX1Lt",
-            "expanded_url" : "https://summerlightning.substack.com/p/unemployed-and-well-nourished",
-            "display_url" : "summerlightning.substack.com/p/unemployed-a…",
-            "indices" : [
-              "67",
-              "90"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "90"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1629250399436783617",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1629250399436783617",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Feb 24 22:42:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Unemployed and Well Nourished \". https://t.co/f1VfIpX1Lt",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1628943487713398784"
-          ],
-          "editableUntil" : "2023-02-24T02:52:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Su9DulDfSI",
-            "expanded_url" : "https://summerlightning.substack.com/p/hallowed-be-your-words",
-            "display_url" : "summerlightning.substack.com/p/hallowed-be-…",
-            "indices" : [
-              "59",
-              "82"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "82"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1628943487713398784",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1628943487713398784",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Feb 24 02:22:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Hallowed Be Your Words\". https://t.co/Su9DulDfSI",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1628369899696300033"
-          ],
-          "editableUntil" : "2023-02-22T12:53:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/hkYBKNRryv",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/approaching-the-wood",
-            "display_url" : "uncertaintymindset.substack.com/p/approaching-…",
-            "indices" : [
-              "64",
-              "87"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "87"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1628369899696300033",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1628369899696300033",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Feb 22 12:23:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Approaching the wood\". https://t.co/hkYBKNRryv",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1628342210361008131"
-          ],
-          "editableUntil" : "2023-02-22T11:03:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/jyji3vn4Hh",
-            "expanded_url" : "https://antlerboy.medium.com/what-do-you-do-when-you-dont-have-enough-people-for-the-jobs-d313dbfbf5e7?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/what-do-you-do…",
-            "indices" : [
-              "99",
-              "122"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "122"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1628342210361008131",
-      "truncated" : false,
-      "retweet_count" : "2",
-      "id" : "1628342210361008131",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Feb 22 10:33:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What do you do when you don’t have enough people for the jobs?\". https://t.co/jyji3vn4Hh",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1627425884851273728"
-          ],
-          "editableUntil" : "2023-02-19T22:22:21.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/efoOwx4OdA",
-            "expanded_url" : "https://summerlightning.substack.com/p/31-prompts-and-priests",
-            "display_url" : "summerlightning.substack.com/p/31-prompts-a…",
-            "indices" : [
-              "61",
-              "84"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "84"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1627425884851273728",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1627425884851273728",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Feb 19 21:52:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"#31 Prompts and Priests \". https://t.co/efoOwx4OdA",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1626835770546827265"
-          ],
-          "editableUntil" : "2023-02-18T07:17:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/B2u3k4UMuH",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/text-is-all-you-need",
-            "display_url" : "studio.ribbonfarm.com/p/text-is-all-…",
-            "indices" : [
-              "57",
-              "80"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1626835770546827265",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1626835770546827265",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Feb 18 06:47:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Text is All You Need\". https://t.co/B2u3k4UMuH",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1626334967444783104"
-          ],
-          "editableUntil" : "2023-02-16T22:07:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3KJaRfeqlA",
-            "expanded_url" : "https://summerlightning.substack.com/p/the-spider-and-the-vine",
-            "display_url" : "summerlightning.substack.com/p/the-spider-a…",
+            "url" : "https://t.co/48btivFjSz",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/the-priest-in-the-arena",
+            "display_url" : "studio.ribbonfarm.com/p/the-priest-i…",
             "indices" : [
               "60",
               "83"
@@ -2739,14 +2248,14 @@ window.YTD.tweets.part0 = [
         "83"
       ],
       "favorite_count" : "0",
-      "id_str" : "1626334967444783104",
+      "id_str" : "1641964105337647106",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1626334967444783104",
+      "id" : "1641964105337647106",
       "possibly_sensitive" : false,
-      "created_at" : "Thu Feb 16 21:37:26 +0000 2023",
+      "created_at" : "Sat Apr 01 00:42:03 +0000 2023",
       "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"The Spider and The Vine\". https://t.co/3KJaRfeqlA",
+      "full_text" : "Check out @vgr's new newsletter, \"The Priest in the Arena\". https://t.co/48btivFjSz",
       "lang" : "en"
     }
   },
@@ -2755,9 +2264,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1626204880275914755"
+            "1641947801880756225"
           ],
-          "editableUntil" : "2023-02-16T13:30:31.000Z",
+          "editableUntil" : "2023-04-01T00:07:16.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -2767,100 +2276,32 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
-            "url" : "https://t.co/QSpPx6CSut",
-            "expanded_url" : "https://nesslabs.com/delibr-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=delibr-featured-tool",
-            "display_url" : "nesslabs.com/delibr-feature…",
+            "url" : "https://t.co/usr8IZWbEY",
+            "expanded_url" : "https://summerlightning.substack.com/p/smooth-shifting-dunes-1",
+            "display_url" : "summerlightning.substack.com/p/smooth-shift…",
             "indices" : [
-              "130",
-              "153"
+              "62",
+              "85"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "153"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1626204880275914755",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1626204880275914755",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Feb 16 13:00:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Harness the power of AI to supercharge your productivity with Nils Janse, founder of Delibr\". https://t.co/QSpPx6CSut",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1626203566980620295"
-          ],
-          "editableUntil" : "2023-02-16T13:25:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/l8lS9CYFEE",
-            "expanded_url" : "https://nesslabs.com/purpose-anxiety?utm_source=rss&utm_medium=rss&utm_campaign=purpose-anxiety",
-            "display_url" : "nesslabs.com/purpose-anxiet…",
-            "indices" : [
-              "100",
-              "123"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "123"
+        "85"
       ],
       "favorite_count" : "0",
-      "id_str" : "1626203566980620295",
+      "id_str" : "1641947801880756225",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1626203566980620295",
+      "id" : "1641947801880756225",
       "possibly_sensitive" : false,
-      "created_at" : "Thu Feb 16 12:55:18 +0000 2023",
+      "created_at" : "Fri Mar 31 23:37:16 +0000 2023",
       "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Purpose Anxiety: The Fear of not Knowing your Purpose in Life\". https://t.co/l8lS9CYFEE",
+      "full_text" : "Check out @sachinb91's new post, \"Smooth Shifting Dunes - 1\". https://t.co/usr8IZWbEY",
       "lang" : "en"
     }
   },
@@ -2869,42 +2310,151 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1625730283738738688"
+            "1641818546043858944"
           ],
-          "editableUntil" : "2023-02-15T06:04:38.000Z",
+          "editableUntil" : "2023-03-31T15:33:39.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">yakborg</a>",
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
       "entities" : {
-        "hashtags" : [
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
           {
-            "text" : "yakbot",
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
             "indices" : [
-              "96",
-              "103"
-            ]
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
           }
         ],
+        "urls" : [
+          {
+            "url" : "https://t.co/paGLYzNxDJ",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-82-be9cfc142ec5?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1641818546043858944",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1641818546043858944",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Mar 31 15:03:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #82\". https://t.co/paGLYzNxDJ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641435286239420416"
+          ],
+          "editableUntil" : "2023-03-30T14:10:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/p33c0XiHmz",
+            "expanded_url" : "https://nesslabs.com/loneliness-solitude?utm_source=rss&utm_medium=rss&utm_campaign=loneliness-solitude",
+            "display_url" : "nesslabs.com/loneliness-sol…",
+            "indices" : [
+              "87",
+              "110"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "110"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1641435286239420416",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1641435286239420416",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 30 13:40:43 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Loneliness or solitude? The case for being alone\". https://t.co/p33c0XiHmz",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641127166246023168"
+          ],
+          "editableUntil" : "2023-03-29T17:46:21.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
         "symbols" : [ ],
         "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "103"
+        "133"
       ],
       "favorite_count" : "0",
-      "id_str" : "1625730283738738688",
+      "id_str" : "1641127166246023168",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1625730283738738688",
-      "created_at" : "Wed Feb 15 05:34:38 +0000 2023",
+      "id" : "1641127166246023168",
+      "created_at" : "Wed Mar 29 17:16:21 +0000 2023",
       "favorited" : false,
-      "full_text" : "Rhett Garber spoke about the Yak Rover API a few hours ago and how to make it language agnostic #yakbot",
-      "lang" : "en"
+      "full_text" : "Indie accelerator call today worked through diagramming skills, simple to complex, on the fly to developed, high concept to high data",
+      "lang" : "en",
+      "contributors" : [
+        "755296"
+      ]
     }
   },
   {
@@ -2912,9 +2462,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1625189334159659014"
+            "1638475137870643201"
           ],
-          "editableUntil" : "2023-02-13T18:15:06.000Z",
+          "editableUntil" : "2023-03-22T10:08:08.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -2926,41 +2476,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Randy Lubin",
-            "screen_name" : "randylubin",
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
             "indices" : [
               "10",
-              "21"
+              "20"
             ],
-            "id_str" : "21455277",
-            "id" : "21455277"
+            "id_str" : "14464195",
+            "id" : "14464195"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/IfAjWX68Qy",
-            "expanded_url" : "https://blog.randylubin.com/recently-played-the-isabel-and-villagesong",
-            "display_url" : "blog.randylubin.com/recently-playe…",
+            "url" : "https://t.co/fYBzafE2k0",
+            "expanded_url" : "https://antlerboy.medium.com/what-did-we-learn-from-the-covid-period-bb7c2dbaf212?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/what-did-we-le…",
             "indices" : [
-              "81",
-              "104"
+              "77",
+              "100"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "104"
+        "100"
       ],
-      "favorite_count" : "0",
-      "id_str" : "1625189334159659014",
+      "favorite_count" : "4",
+      "id_str" : "1638475137870643201",
       "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1625189334159659014",
+      "retweet_count" : "1",
+      "id" : "1638475137870643201",
       "possibly_sensitive" : false,
-      "created_at" : "Mon Feb 13 17:45:06 +0000 2023",
+      "created_at" : "Wed Mar 22 09:38:08 +0000 2023",
       "favorited" : false,
-      "full_text" : "Check out @randylubin's new post, \"Recently played: The Isabel and Villagesong\". https://t.co/IfAjWX68Qy",
+      "full_text" : "Check out @antlerboy's new post, \"What did we learn from the Covid period?\". https://t.co/fYBzafE2k0",
       "lang" : "en"
     }
   },
@@ -2969,55 +2519,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1624860239869640704"
+            "1636890811903164418"
           ],
-          "editableUntil" : "2023-02-12T20:27:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/PNZ4E2PZDl",
-            "expanded_url" : "https://summerlightning.substack.com/p/30-speedrunning-a-midlife-crisis",
-            "display_url" : "summerlightning.substack.com/p/30-speedrunn…",
-            "indices" : [
-              "71",
-              "94"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "94"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1624860239869640704",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1624860239869640704",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Feb 12 19:57:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"#30 Speedrunning a Midlife Crisis \". https://t.co/PNZ4E2PZDl",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1624174538165571586"
-          ],
-          "editableUntil" : "2023-02-10T23:02:40.000Z",
+          "editableUntil" : "2023-03-18T01:12:36.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -3041,29 +2545,29 @@ window.YTD.tweets.part0 = [
         ],
         "urls" : [
           {
-            "url" : "https://t.co/zSIW4m6RyK",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/the-mediocre-computing-trilemma",
-            "display_url" : "studio.ribbonfarm.com/p/the-mediocre…",
+            "url" : "https://t.co/hTcIDVTd3r",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/courage-in-computing",
+            "display_url" : "studio.ribbonfarm.com/p/courage-in-c…",
             "indices" : [
-              "68",
-              "91"
+              "57",
+              "80"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "91"
+        "80"
       ],
       "favorite_count" : "0",
-      "id_str" : "1624174538165571586",
+      "id_str" : "1636890811903164418",
       "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1624174538165571586",
+      "retweet_count" : "0",
+      "id" : "1636890811903164418",
       "possibly_sensitive" : false,
-      "created_at" : "Fri Feb 10 22:32:40 +0000 2023",
+      "created_at" : "Sat Mar 18 00:42:36 +0000 2023",
       "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Mediocre Computing Trilemma\". https://t.co/zSIW4m6RyK",
+      "full_text" : "Check out @vgr's new newsletter, \"Courage in Computing\". https://t.co/hTcIDVTd3r",
       "lang" : "en"
     }
   },
@@ -3072,9 +2576,1105 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1624119175672209414"
+            "1636756376859836416"
           ],
-          "editableUntil" : "2023-02-10T19:22:40.000Z",
+          "editableUntil" : "2023-03-17T16:18:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/qutHI0GdPE",
+            "expanded_url" : "https://antlerboy.medium.com/implementing-requisite-agility-workshop-for-change-agents-7b7a60e85315?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/implementing-r…",
+            "indices" : [
+              "94",
+              "117"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "117"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1636756376859836416",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1636756376859836416",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Mar 17 15:48:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Implementing Requisite Agility Workshop for Change Agents\". https://t.co/qutHI0GdPE",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636303983168872451"
+          ],
+          "editableUntil" : "2023-03-16T10:20:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/nPDFDd1Mr6",
+            "expanded_url" : "https://nesslabs.com/optionality-fallacy?utm_source=rss&utm_medium=rss&utm_campaign=optionality-fallacy",
+            "display_url" : "nesslabs.com/optionality-fa…",
+            "indices" : [
+              "73",
+              "96"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "96"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1636303983168872451",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636303983168872451",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 16 09:50:45 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Unlocking the power of optionality\". https://t.co/nPDFDd1Mr6",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636294999766712320"
+          ],
+          "editableUntil" : "2023-03-16T09:45:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/5tjkTRMvzT",
+            "expanded_url" : "https://nesslabs.com/mindsera-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=mindsera-featured-tool",
+            "display_url" : "nesslabs.com/mindsera-featu…",
+            "indices" : [
+              "112",
+              "135"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "135"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1636294999766712320",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636294999766712320",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 16 09:15:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The importance of clear thinking with Chris Reinberg, founder of Mindsera\". https://t.co/5tjkTRMvzT",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635946057245814784"
+          ],
+          "editableUntil" : "2023-03-15T10:38:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/hY38Ot2abd",
+            "expanded_url" : "https://antlerboy.medium.com/how-do-you-cope-when-theres-a-sudden-release-of-strong-emotions-in-a-meeting-or-facilitated-a055f6fdef5d?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/how-do-you-cop…",
+            "indices" : [
+              "130",
+              "153"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "153"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1635946057245814784",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635946057245814784",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Mar 15 10:08:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"How do you cope when there’s a sudden release of strong emotions in a meeting or facilitated…\". https://t.co/hY38Ot2abd",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635434947220586498"
+          ],
+          "editableUntil" : "2023-03-14T00:47:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/n5QYi95SyL",
+            "expanded_url" : "https://summerlightning.substack.com/p/monetize-the-sublime-horror",
+            "display_url" : "summerlightning.substack.com/p/monetize-the…",
+            "indices" : [
+              "64",
+              "87"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "87"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635434947220586498",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635434947220586498",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Mar 14 00:17:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Monetize The Sublime Horror\". https://t.co/n5QYi95SyL",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634350196841644034"
+          ],
+          "editableUntil" : "2023-03-11T00:57:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Cf54V7qHke",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/the-bones-of-time",
+            "display_url" : "studio.ribbonfarm.com/p/the-bones-of…",
+            "indices" : [
+              "54",
+              "77"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "77"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1634350196841644034",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634350196841644034",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Mar 11 00:27:06 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"The Bones of Time\". https://t.co/Cf54V7qHke",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633780952001331201"
+          ],
+          "editableUntil" : "2023-03-09T11:15:07.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Phil Wolff 狼爱马",
+            "screen_name" : "evanwolf",
+            "indices" : [
+              "10",
+              "19"
+            ],
+            "id_str" : "13407",
+            "id" : "13407"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/8Z2f4pWdjg",
+            "expanded_url" : "https://wider.team/2023/03/09/smta-europe-event/",
+            "display_url" : "wider.team/2023/03/09/smt…",
+            "indices" : [
+              "88",
+              "111"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "111"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1633780952001331201",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1633780952001331201",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 09 10:45:07 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @evanwolf's new post, \"SSI standards can counter electronics counterfeiting\". https://t.co/8Z2f4pWdjg",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633757105856430082"
+          ],
+          "editableUntil" : "2023-03-09T09:40:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/eVC9eSNX7i",
+            "expanded_url" : "https://nesslabs.com/science-of-curiosity?utm_source=rss&utm_medium=rss&utm_campaign=science-of-curiosity",
+            "display_url" : "nesslabs.com/science-of-cur…",
+            "indices" : [
+              "89",
+              "112"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "112"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1633757105856430082",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633757105856430082",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 09 09:10:22 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The science of curiosity: why we keep asking “why”\". https://t.co/eVC9eSNX7i",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633481117968867330"
+          ],
+          "editableUntil" : "2023-03-08T15:23:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/TBISfjZMxW",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/monochrome",
+            "display_url" : "uncertaintymindset.substack.com/p/monochrome",
+            "indices" : [
+              "54",
+              "77"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "77"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633481117968867330",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633481117968867330",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Mar 08 14:53:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Monochrome\". https://t.co/TBISfjZMxW",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633414381554868225"
+          ],
+          "editableUntil" : "2023-03-08T10:58:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/xPE0GSxSS9",
+            "expanded_url" : "https://antlerboy.medium.com/which-horse-are-you-backing-to-bring-us-creativity-innovation-and-productivity-in-the-future-19b93891af4d?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/which-horse-ar…",
+            "indices" : [
+              "132",
+              "155"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "155"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1633414381554868225",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1633414381554868225",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Mar 08 10:28:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Which horse are you backing to bring us creativity, innovation, and productivity in the future?\". https://t.co/xPE0GSxSS9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633263115029839873"
+          ],
+          "editableUntil" : "2023-03-08T00:57:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/uhImqKbSyZ",
+            "expanded_url" : "https://summerlightning.substack.com/p/sauna-zeitgeist-2",
+            "display_url" : "summerlightning.substack.com/p/sauna-zeitge…",
+            "indices" : [
+              "56",
+              "79"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "79"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633263115029839873",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633263115029839873",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Mar 08 00:27:25 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Sauna Zeitgeist - 2\". https://t.co/uhImqKbSyZ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632673238068109314"
+          ],
+          "editableUntil" : "2023-03-06T09:53:28.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/DnQZXE97SK",
+            "expanded_url" : "https://antlerboy.medium.com/stochastic-parrots-will-keep-us-trapped-in-our-own-mediocrity-5383eaa69c5a?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/stochastic-par…",
+            "indices" : [
+              "98",
+              "121"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "121"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1632673238068109314",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1632673238068109314",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Mar 06 09:23:28 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Stochastic parrots will keep us trapped in our own mediocrity\". https://t.co/DnQZXE97SK",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293936678571249664"
+          ],
+          "editableUntil" : "2020-08-13T16:45:19.009Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
+            "indices" : [
+              "166",
+              "189"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "189"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1293936678571249664",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1293936678571249664",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 13 15:45:19 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! New Yak Q&amp;A – Hosted by Alex Wagner and Jordan Peacock, Aug 13, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293886531237797889"
+          ],
+          "editableUntil" : "2020-08-13T13:26:02.953Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/5SNoiV8Zof",
+            "expanded_url" : "https://nesslabs.com/constructive-criticism-give-receive-feedback?utm_source=rss&utm_medium=rss&utm_campaign=constructive-criticism-give-receive-feedback",
+            "display_url" : "nesslabs.com/constructive-c…",
+            "indices" : [
+              "95",
+              "118"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "118"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1293886531237797889",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1293886531237797889",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 13 12:26:02 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Constructive criticism: how to give and receive feedback\". https://t.co/5SNoiV8Zof",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293841298303135744"
+          ],
+          "editableUntil" : "2020-08-13T10:26:18.581Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/5g2BkhYReF",
+            "expanded_url" : "https://nesslabs.com/systematic-inventive-thinking-inside-the-box?utm_source=rss&utm_medium=rss&utm_campaign=systematic-inventive-thinking-inside-the-box",
+            "display_url" : "nesslabs.com/systematic-inv…",
+            "indices" : [
+              "106",
+              "129"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "129"
+      ],
+      "favorite_count" : "15",
+      "id_str" : "1293841298303135744",
+      "truncated" : false,
+      "retweet_count" : "2",
+      "id" : "1293841298303135744",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 13 09:26:18 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Systematic inventive thinking: the power of thinking inside the box\". https://t.co/5g2BkhYReF",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293811064107409408"
+          ],
+          "editableUntil" : "2020-08-13T08:26:10.187Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/p143maMAzD",
+            "expanded_url" : "https://nesslabs.com/mindful-productivity-intermittent-fasting?utm_source=rss&utm_medium=rss&utm_campaign=mindful-productivity-intermittent-fasting",
+            "display_url" : "nesslabs.com/mindful-produc…",
+            "indices" : [
+              "93",
+              "116"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "116"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1293811064107409408",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1293811064107409408",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 13 07:26:10 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The mindful productivity guide to intermittent fasting\". https://t.co/p143maMAzD",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293548851354316801"
+          ],
+          "editableUntil" : "2020-08-12T15:04:13.795Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/9iZLOmWaPo",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/41-surrendering-control",
+            "display_url" : "uncertaintymindset.substack.com/p/41-surrender…",
+            "indices" : [
+              "69",
+              "92"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "92"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1293548851354316801",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1293548851354316801",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Aug 12 14:04:13 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"#41: Surrendering control\". https://t.co/9iZLOmWaPo",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293459024566984710"
+          ],
+          "editableUntil" : "2020-08-12T09:07:17.420Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/5DBGZEIgul",
+            "expanded_url" : "https://medium.com/@antlerboy/heres-the-complete-set-of-articles-on-the-force-in-organisational-life-so-far-ed8531fe879b?source=rss-97852f5a56ae------2",
+            "display_url" : "medium.com/@antlerboy/her…",
+            "indices" : [
+              "119",
+              "142"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "142"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1293459024566984710",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1293459024566984710",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Aug 12 08:07:17 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"- Here's the complete set of articles on The Force in organisational life, so far.\". https://t.co/5DBGZEIgul",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293459023036022785"
+          ],
+          "editableUntil" : "2020-08-12T09:07:17.055Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/lWrMUQdxko",
+            "expanded_url" : "https://medium.com/@antlerboy/heres-the-complete-set-of-articles-on-the-force-in-organisational-life-so-far-142732f91a8a?source=rss-97852f5a56ae------2",
+            "display_url" : "medium.com/@antlerboy/her…",
+            "indices" : [
+              "119",
+              "142"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "142"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1293459023036022785",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1293459023036022785",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Aug 12 08:07:17 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"- Here's the complete set of articles on The Force in organisational life, so far.\". https://t.co/lWrMUQdxko",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293356940945502211"
+          ],
+          "editableUntil" : "2020-08-12T02:21:38.788Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
+            "indices" : [
+              "154",
+              "177"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "177"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1293356940945502211",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1293356940945502211",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Aug 12 01:21:38 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! YAK CHAT: BUILD A RIGHT BRAIN / NATURE THEATRE, Aug 11, 2020 06:30PM. Get invite link here: https://t.co/JDzOebSgv9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1293274548876517378"
+          ],
+          "editableUntil" : "2020-08-11T20:54:14.988Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -3098,29 +3698,29 @@ window.YTD.tweets.part0 = [
         ],
         "urls" : [
           {
-            "url" : "https://t.co/4ZgOv9ftaa",
-            "expanded_url" : "https://tomcritchlow.com/2023/02/10/riffs/",
-            "display_url" : "tomcritchlow.com/2023/02/10/rif…",
+            "url" : "https://t.co/79trjIMk86",
+            "expanded_url" : "http://tomcritchlow.com/2020/08/11/hire-me-page/",
+            "display_url" : "tomcritchlow.com/2020/08/11/hir…",
             "indices" : [
-              "74",
-              "97"
+              "73",
+              "96"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "97"
+        "96"
       ],
-      "favorite_count" : "0",
-      "id_str" : "1624119175672209414",
+      "favorite_count" : "2",
+      "id_str" : "1293274548876517378",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1624119175672209414",
+      "id" : "1293274548876517378",
       "possibly_sensitive" : false,
-      "created_at" : "Fri Feb 10 18:52:40 +0000 2023",
+      "created_at" : "Tue Aug 11 19:54:14 +0000 2020",
       "favorited" : false,
-      "full_text" : "Check out @tomcritchlow's new post, \"Writing, riffs &amp; relationships\". https://t.co/4ZgOv9ftaa",
+      "full_text" : "Check out @tomcritchlow's new post, \"What makes a good \"hire me\" page?\". https://t.co/79trjIMk86",
       "lang" : "en"
     }
   },
@@ -3129,9 +3729,407 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1623656801655828482"
+            "1292956797326757892"
           ],
-          "editableUntil" : "2023-02-09T12:45:22.000Z",
+          "editableUntil" : "2020-08-10T23:51:37.115Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
+            "indices" : [
+              "180",
+              "203"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "203"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1292956797326757892",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1292956797326757892",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Aug 10 22:51:37 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Yak chat hosted by Sachin Benny - Astonishing Stories project discussion, Aug 10, 2020 04:00PM. Get invite link here: https://t.co/JDzOebSgv9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1292150762257158147"
+          ],
+          "editableUntil" : "2020-08-08T18:28:43.379Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "infrastructure",
+            "indices" : [
+              "62",
+              "77"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
+            "indices" : [
+              "140",
+              "163"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "163"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1292150762257158147",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1292150762257158147",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Aug 08 17:28:43 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! #infrastructure chat with Darren, Aug 08, 2020 10:30AM. Get invite link here: https://t.co/JDzOebSgv9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1292134992584343553"
+          ],
+          "editableUntil" : "2020-08-08T17:26:03.596Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
+            "indices" : [
+              "141",
+              "164"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "164"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1292134992584343553",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1292134992584343553",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Aug 08 16:26:03 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Final-Frontiers Week 4 Discussion, Aug 08, 2020 09:30AM. Get invite link here: https://t.co/JDzOebSgv9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1291928666033750016"
+          ],
+          "editableUntil" : "2020-08-08T03:46:11.513Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/1ZwoTRTzkF",
+            "expanded_url" : "https://breakingsmart.substack.com/p/the-descent-of-the-public",
+            "display_url" : "breakingsmart.substack.com/p/the-descent-…",
+            "indices" : [
+              "62",
+              "85"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "85"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1291928666033750016",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1291928666033750016",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Aug 08 02:46:11 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"The Descent of the Public\". https://t.co/1ZwoTRTzkF",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1291773941883850753"
+          ],
+          "editableUntil" : "2020-08-07T17:31:22.401Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Toh6sCtZ6V",
+            "expanded_url" : "https://yakcollective.substack.com/p/presidential-campaign-as-decentralized",
+            "display_url" : "yakcollective.substack.com/p/presidential…",
+            "indices" : [
+              "103",
+              "126"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "126"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1291773941883850753",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1291773941883850753",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Aug 07 16:31:22 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out the latest edition of the Yak Talk newsletter, \"Presidential Campaign as Decentralized Org\". https://t.co/Toh6sCtZ6V",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1291763669337018368"
+          ],
+          "editableUntil" : "2020-08-07T16:50:33.235Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
+            "indices" : [
+              "151",
+              "174"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "174"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1291763669337018368",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1291763669337018368",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Aug 07 15:50:33 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Online governance study group hosted by vgr, Aug 07, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1291447455989616640"
+          ],
+          "editableUntil" : "2020-08-06T19:54:02.098Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Tom Critchlow",
+            "screen_name" : "tomcritchlow",
+            "indices" : [
+              "10",
+              "23"
+            ],
+            "id_str" : "6419982",
+            "id" : "6419982"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/CIHkJ1bvX8",
+            "expanded_url" : "http://tomcritchlow.com/2020/08/06/indie-alumni/",
+            "display_url" : "tomcritchlow.com/2020/08/06/ind…",
+            "indices" : [
+              "79",
+              "102"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "102"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1291447455989616640",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1291447455989616640",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 06 18:54:02 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @tomcritchlow's new post, \"Generating an alumni network for indies\". https://t.co/CIHkJ1bvX8",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1291402028149878785"
+          ],
+          "editableUntil" : "2020-08-06T16:53:31.257Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
+            "indices" : [
+              "166",
+              "189"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "189"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1291402028149878785",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1291402028149878785",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 06 15:53:31 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! New Yak Q&amp;A – Hosted by Alex Wagner and Jordan Peacock, Aug 06, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1291365015052746754"
+          ],
+          "editableUntil" : "2020-08-06T14:26:26.647Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -3155,29 +4153,29 @@ window.YTD.tweets.part0 = [
         ],
         "urls" : [
           {
-            "url" : "https://t.co/I9m3VQHgX5",
-            "expanded_url" : "https://nesslabs.com/introspection-trap?utm_source=rss&utm_medium=rss&utm_campaign=introspection-trap",
-            "display_url" : "nesslabs.com/introspection-…",
+            "url" : "https://t.co/mIhtN5Gncd",
+            "expanded_url" : "https://nesslabs.com/pre-mortem-anticipate-failure-with-prospective-hindsight?utm_source=rss&utm_medium=rss&utm_campaign=pre-mortem-anticipate-failure-with-prospective-hindsight",
+            "display_url" : "nesslabs.com/pre-mortem-ant…",
             "indices" : [
-              "61",
-              "84"
+              "103",
+              "126"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "84"
+        "126"
       ],
-      "favorite_count" : "1",
-      "id_str" : "1623656801655828482",
+      "favorite_count" : "15",
+      "id_str" : "1291365015052746754",
       "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1623656801655828482",
+      "retweet_count" : "3",
+      "id" : "1291365015052746754",
       "possibly_sensitive" : false,
-      "created_at" : "Thu Feb 09 12:15:22 +0000 2023",
+      "created_at" : "Thu Aug 06 13:26:26 +0000 2020",
       "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The Introspection Trap\". https://t.co/I9m3VQHgX5",
+      "full_text" : "Check out @anthilemoon's new post, \"Pre-mortem: how to anticipate failure with prospective hindsight\". https://t.co/mIhtN5Gncd",
       "lang" : "en"
     }
   },
@@ -3186,9 +4184,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1623428576862167044"
+            "1291334754827153408"
           ],
-          "editableUntil" : "2023-02-08T21:38:29.000Z",
+          "editableUntil" : "2020-08-06T12:26:12.047Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -3200,7 +4198,121 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/zO5JI6CMdd",
+            "expanded_url" : "https://nesslabs.com/replenishing-vacation?utm_source=rss&utm_medium=rss&utm_campaign=replenishing-vacation",
+            "display_url" : "nesslabs.com/replenishing-v…",
+            "indices" : [
+              "90",
+              "113"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "113"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1291334754827153408",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1291334754827153408",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 06 11:26:12 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"How to take a replenishing vacation (or staycation)\". https://t.co/zO5JI6CMdd",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1291319684873281542"
+          ],
+          "editableUntil" : "2020-08-06T11:26:19.090Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/LeZNNttYoA",
+            "expanded_url" : "https://nesslabs.com/rational-benefits-of-emotions?utm_source=rss&utm_medium=rss&utm_campaign=rational-benefits-of-emotions",
+            "display_url" : "nesslabs.com/rational-benef…",
+            "indices" : [
+              "72",
+              "95"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "95"
+      ],
+      "favorite_count" : "4",
+      "id_str" : "1291319684873281542",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1291319684873281542",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 06 10:26:19 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The rational benefits of emotions\". https://t.co/LeZNNttYoA",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1291012184659709961"
+          ],
+          "editableUntil" : "2020-08-05T15:04:25.326Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -3212,29 +4324,29 @@ window.YTD.tweets.part0 = [
         ],
         "urls" : [
           {
-            "url" : "https://t.co/2eubQtCjAj",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/at-the-fairs",
-            "display_url" : "uncertaintymindset.substack.com/p/at-the-fairs",
+            "url" : "https://t.co/teHeho8ih6",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/40-trials-and-tribulations",
+            "display_url" : "uncertaintymindset.substack.com/p/40-trials-an…",
             "indices" : [
-              "56",
-              "79"
+              "72",
+              "95"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "79"
+        "95"
       ],
       "favorite_count" : "1",
-      "id_str" : "1623428576862167044",
+      "id_str" : "1291012184659709961",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1623428576862167044",
+      "id" : "1291012184659709961",
       "possibly_sensitive" : false,
-      "created_at" : "Wed Feb 08 21:08:29 +0000 2023",
+      "created_at" : "Wed Aug 05 14:04:25 +0000 2020",
       "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"At the fairs\". https://t.co/2eubQtCjAj",
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"#40: Trials and tribulations\". https://t.co/teHeho8ih6",
       "lang" : "en"
     }
   },
@@ -3243,9 +4355,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1623278731816062977"
+            "1290967609157058562"
           ],
-          "editableUntil" : "2023-02-08T11:43:03.000Z",
+          "editableUntil" : "2020-08-05T12:07:17.698Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -3269,29 +4381,75 @@ window.YTD.tweets.part0 = [
         ],
         "urls" : [
           {
-            "url" : "https://t.co/EiZUDnmajj",
-            "expanded_url" : "https://antlerboy.medium.com/what-are-your-top-tips-for-using-consultants-3708d2356ead?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/what-are-your-…",
+            "url" : "https://t.co/mwF3AHl86H",
+            "expanded_url" : "https://medium.com/@antlerboy/organisational-jedi-knights-have-to-confront-themselves-with-love-4caed5c1142c?source=rss-97852f5a56ae------2",
+            "display_url" : "medium.com/@antlerboy/org…",
             "indices" : [
-              "82",
-              "105"
+              "102",
+              "125"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "105"
+        "125"
       ],
-      "favorite_count" : "3",
-      "id_str" : "1623278731816062977",
+      "favorite_count" : "4",
+      "id_str" : "1290967609157058562",
       "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1623278731816062977",
+      "retweet_count" : "2",
+      "id" : "1290967609157058562",
       "possibly_sensitive" : false,
-      "created_at" : "Wed Feb 08 11:13:03 +0000 2023",
+      "created_at" : "Wed Aug 05 11:07:17 +0000 2020",
       "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What are your top tips for using consultants?\". https://t.co/EiZUDnmajj",
+      "full_text" : "Check out @antlerboy's new post, \"Organisational Jedi Knights have to confront themselves with love\". https://t.co/mwF3AHl86H",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1290819913809113090"
+          ],
+          "editableUntil" : "2020-08-05T02:20:24.383Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
+            "indices" : [
+              "154",
+              "177"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "177"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1290819913809113090",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1290819913809113090",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Aug 05 01:20:24 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! YAK CHAT: BUILD A RIGHT BRAIN / NATURE THEATRE, Aug 04, 2020 06:30PM. Get invite link here: https://t.co/JDzOebSgv9",
       "lang" : "en"
     }
   },
@@ -3946,7 +5104,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -4950,7 +6108,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -5791,7 +6949,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "user_mentions" : [
           {
-            "name" : "Amanda Reeves",
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
             "screen_name" : "WabiSabiFutures",
             "indices" : [
               "3",
@@ -6104,7 +7262,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -6833,7 +7991,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -7937,7 +9095,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -9013,7 +10171,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -10846,7 +12004,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "20",
@@ -11900,7 +13058,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "21",
       "id_str" : "1261747488970518528",
       "truncated" : false,
-      "retweet_count" : "8",
+      "retweet_count" : "7",
       "id" : "1261747488970518528",
       "possibly_sensitive" : false,
       "created_at" : "Sat May 16 19:56:58 +0000 2020",
@@ -12401,6 +13559,1055 @@ window.YTD.tweets.part0 = [
       "created_at" : "Mon May 11 20:54:38 +0000 2020",
       "favorited" : false,
       "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Yak chat hosted by Sachin Benny, May 11, 2020 02:00PM. Get invite link here: https://t.co/JDzOebSgv9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632673235555762180"
+          ],
+          "editableUntil" : "2023-03-06T09:53:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/8z6KT6aG6A",
+            "expanded_url" : "https://antlerboy.medium.com/never-doubt-that-a-small-group-of-thoughtful-committed-citizens-can-change-the-world-89d3a855c8f5?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/never-doubt-th…",
+            "indices" : [
+              "123",
+              "146"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "146"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1632673235555762180",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1632673235555762180",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Mar 06 09:23:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Never doubt that a small group of thoughtful, committed citizens can change the world®\". https://t.co/8z6KT6aG6A",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632479275147227136"
+          ],
+          "editableUntil" : "2023-03-05T21:02:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/kP7F4r2R0V",
+            "expanded_url" : "https://summerlightning.substack.com/p/brown-phase",
+            "display_url" : "summerlightning.substack.com/p/brown-phase",
+            "indices" : [
+              "48",
+              "71"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "71"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632479275147227136",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632479275147227136",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Mar 05 20:32:43 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Brown Phase\". https://t.co/kP7F4r2R0V",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631308543440609282"
+          ],
+          "editableUntil" : "2023-03-02T15:30:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/W32cdnS6n7",
+            "expanded_url" : "https://nesslabs.com/high-leverage-activities?utm_source=rss&utm_medium=rss&utm_campaign=high-leverage-activities",
+            "display_url" : "nesslabs.com/high-leverage-…",
+            "indices" : [
+              "104",
+              "127"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "127"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1631308543440609282",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1631308543440609282",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 02 15:00:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"High-leverage activities: how to identify your energy multipliers\". https://t.co/W32cdnS6n7",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631219979189116928"
+          ],
+          "editableUntil" : "2023-03-02T09:38:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/4d5mjDVZRY",
+            "expanded_url" : "https://antlerboy.medium.com/how-do-organisations-keep-on-keeping-on-3ef4fc425ee5?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/how-do-organis…",
+            "indices" : [
+              "77",
+              "100"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "100"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1631219979189116928",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1631219979189116928",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 02 09:08:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"How do organisations keep on keeping on?\". https://t.co/4d5mjDVZRY",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631098763346419714"
+          ],
+          "editableUntil" : "2023-03-02T01:37:04.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Zo2RQ8xpET",
+            "expanded_url" : "https://summerlightning.substack.com/p/narrative-deserts",
+            "display_url" : "summerlightning.substack.com/p/narrative-de…",
+            "indices" : [
+              "54",
+              "77"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "77"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631098763346419714",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631098763346419714",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 02 01:07:04 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Narrative Deserts\". https://t.co/Zo2RQ8xpET",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1629319546090790913"
+          ],
+          "editableUntil" : "2023-02-25T03:47:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/oH8wjojnc4",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/truth-in-inconvenience",
+            "display_url" : "studio.ribbonfarm.com/p/truth-in-inc…",
+            "indices" : [
+              "59",
+              "82"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "82"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1629319546090790913",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1629319546090790913",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Feb 25 03:17:05 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Truth in Inconvenience\". https://t.co/oH8wjojnc4",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1629250399436783617"
+          ],
+          "editableUntil" : "2023-02-24T23:12:19.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/f1VfIpX1Lt",
+            "expanded_url" : "https://summerlightning.substack.com/p/unemployed-and-well-nourished",
+            "display_url" : "summerlightning.substack.com/p/unemployed-a…",
+            "indices" : [
+              "67",
+              "90"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "90"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1629250399436783617",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1629250399436783617",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Feb 24 22:42:19 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Unemployed and Well Nourished \". https://t.co/f1VfIpX1Lt",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1628943487713398784"
+          ],
+          "editableUntil" : "2023-02-24T02:52:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Su9DulDfSI",
+            "expanded_url" : "https://summerlightning.substack.com/p/hallowed-be-your-words",
+            "display_url" : "summerlightning.substack.com/p/hallowed-be-…",
+            "indices" : [
+              "59",
+              "82"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "82"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1628943487713398784",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1628943487713398784",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Feb 24 02:22:46 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Hallowed Be Your Words\". https://t.co/Su9DulDfSI",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1628369899696300033"
+          ],
+          "editableUntil" : "2023-02-22T12:53:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/hkYBKNRryv",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/approaching-the-wood",
+            "display_url" : "uncertaintymindset.substack.com/p/approaching-…",
+            "indices" : [
+              "64",
+              "87"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "87"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1628369899696300033",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1628369899696300033",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Feb 22 12:23:32 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Approaching the wood\". https://t.co/hkYBKNRryv",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1628342210361008131"
+          ],
+          "editableUntil" : "2023-02-22T11:03:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/jyji3vn4Hh",
+            "expanded_url" : "https://antlerboy.medium.com/what-do-you-do-when-you-dont-have-enough-people-for-the-jobs-d313dbfbf5e7?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/what-do-you-do…",
+            "indices" : [
+              "99",
+              "122"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "122"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1628342210361008131",
+      "truncated" : false,
+      "retweet_count" : "2",
+      "id" : "1628342210361008131",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Feb 22 10:33:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"What do you do when you don’t have enough people for the jobs?\". https://t.co/jyji3vn4Hh",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1627425884851273728"
+          ],
+          "editableUntil" : "2023-02-19T22:22:21.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/efoOwx4OdA",
+            "expanded_url" : "https://summerlightning.substack.com/p/31-prompts-and-priests",
+            "display_url" : "summerlightning.substack.com/p/31-prompts-a…",
+            "indices" : [
+              "61",
+              "84"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "84"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1627425884851273728",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1627425884851273728",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Feb 19 21:52:21 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"#31 Prompts and Priests \". https://t.co/efoOwx4OdA",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1626835770546827265"
+          ],
+          "editableUntil" : "2023-02-18T07:17:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/B2u3k4UMuH",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/text-is-all-you-need",
+            "display_url" : "studio.ribbonfarm.com/p/text-is-all-…",
+            "indices" : [
+              "57",
+              "80"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1626835770546827265",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1626835770546827265",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Feb 18 06:47:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Text is All You Need\". https://t.co/B2u3k4UMuH",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1626334967444783104"
+          ],
+          "editableUntil" : "2023-02-16T22:07:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/3KJaRfeqlA",
+            "expanded_url" : "https://summerlightning.substack.com/p/the-spider-and-the-vine",
+            "display_url" : "summerlightning.substack.com/p/the-spider-a…",
+            "indices" : [
+              "60",
+              "83"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "83"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1626334967444783104",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1626334967444783104",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Feb 16 21:37:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"The Spider and The Vine\". https://t.co/3KJaRfeqlA",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1626204880275914755"
+          ],
+          "editableUntil" : "2023-02-16T13:30:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/QSpPx6CSut",
+            "expanded_url" : "https://nesslabs.com/delibr-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=delibr-featured-tool",
+            "display_url" : "nesslabs.com/delibr-feature…",
+            "indices" : [
+              "130",
+              "153"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "153"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1626204880275914755",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1626204880275914755",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Feb 16 13:00:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Harness the power of AI to supercharge your productivity with Nils Janse, founder of Delibr\". https://t.co/QSpPx6CSut",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1626203566980620295"
+          ],
+          "editableUntil" : "2023-02-16T13:25:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/l8lS9CYFEE",
+            "expanded_url" : "https://nesslabs.com/purpose-anxiety?utm_source=rss&utm_medium=rss&utm_campaign=purpose-anxiety",
+            "display_url" : "nesslabs.com/purpose-anxiet…",
+            "indices" : [
+              "100",
+              "123"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "123"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1626203566980620295",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1626203566980620295",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Feb 16 12:55:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Purpose Anxiety: The Fear of not Knowing your Purpose in Life\". https://t.co/l8lS9CYFEE",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1625730283738738688"
+          ],
+          "editableUntil" : "2023-02-15T06:04:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">yakborg</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "yakbot",
+            "indices" : [
+              "96",
+              "103"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "103"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1625730283738738688",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1625730283738738688",
+      "created_at" : "Wed Feb 15 05:34:38 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Rhett Garber spoke about the Yak Rover API a few hours ago and how to make it language agnostic #yakbot",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1625189334159659014"
+          ],
+          "editableUntil" : "2023-02-13T18:15:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Randy Lubin",
+            "screen_name" : "randylubin",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "21455277",
+            "id" : "21455277"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/IfAjWX68Qy",
+            "expanded_url" : "https://blog.randylubin.com/recently-played-the-isabel-and-villagesong",
+            "display_url" : "blog.randylubin.com/recently-playe…",
+            "indices" : [
+              "81",
+              "104"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "104"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1625189334159659014",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1625189334159659014",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Feb 13 17:45:06 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @randylubin's new post, \"Recently played: The Isabel and Villagesong\". https://t.co/IfAjWX68Qy",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1624860239869640704"
+          ],
+          "editableUntil" : "2023-02-12T20:27:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/PNZ4E2PZDl",
+            "expanded_url" : "https://summerlightning.substack.com/p/30-speedrunning-a-midlife-crisis",
+            "display_url" : "summerlightning.substack.com/p/30-speedrunn…",
+            "indices" : [
+              "71",
+              "94"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "94"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1624860239869640704",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1624860239869640704",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Feb 12 19:57:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"#30 Speedrunning a Midlife Crisis \". https://t.co/PNZ4E2PZDl",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1624174538165571586"
+          ],
+          "editableUntil" : "2023-02-10T23:02:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/zSIW4m6RyK",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/the-mediocre-computing-trilemma",
+            "display_url" : "studio.ribbonfarm.com/p/the-mediocre…",
+            "indices" : [
+              "68",
+              "91"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "91"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1624174538165571586",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1624174538165571586",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Feb 10 22:32:40 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"The Mediocre Computing Trilemma\". https://t.co/zSIW4m6RyK",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1624119175672209414"
+          ],
+          "editableUntil" : "2023-02-10T19:22:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Tom Critchlow",
+            "screen_name" : "tomcritchlow",
+            "indices" : [
+              "10",
+              "23"
+            ],
+            "id_str" : "6419982",
+            "id" : "6419982"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/4ZgOv9ftaa",
+            "expanded_url" : "https://tomcritchlow.com/2023/02/10/riffs/",
+            "display_url" : "tomcritchlow.com/2023/02/10/rif…",
+            "indices" : [
+              "74",
+              "97"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "97"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1624119175672209414",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1624119175672209414",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Feb 10 18:52:40 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @tomcritchlow's new post, \"Writing, riffs &amp; relationships\". https://t.co/4ZgOv9ftaa",
       "lang" : "en"
     }
   },
@@ -13650,6 +15857,1861 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1256233103787544576"
+          ],
+          "editableUntil" : "2020-05-01T15:44:46.282Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Tom Critchlow",
+            "screen_name" : "tomcritchlow",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "6419982",
+            "id" : "6419982"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1256233103787544576",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1256233103787544576",
+      "created_at" : "Fri May 01 14:44:46 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @tomcritchlow: From yesterday - the Yak Collective released their first report. It's a collection of indie, weird, alternative strategie…",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1256169912738906112"
+          ],
+          "editableUntil" : "2020-05-01T11:33:40.362Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
+            "screen_name" : "WabiSabiFutures",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "1176714625775128579",
+            "id" : "1176714625775128579"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "104",
+              "119"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1256169912738906112",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1256169912738906112",
+      "created_at" : "Fri May 01 10:33:40 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @WabiSabiFutures: I'm one of 25 independent consultants sharing 25 non-mainstream ideas in the first @yak_collective collaboration. \n\nDo…",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1256169898000121856"
+          ],
+          "editableUntil" : "2020-05-01T11:33:36.848Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "90",
+              "105"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/NEpgPIkxfi",
+            "expanded_url" : "https://bit.ly/2YkDLdR",
+            "display_url" : "bit.ly/2YkDLdR",
+            "indices" : [
+              "63",
+              "86"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "105"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1256169898000121856",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1256169898000121856",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri May 01 10:33:36 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @antlerboy: Why you need spoopy consulting and how to do it https://t.co/NEpgPIkxfi\nCc @yak_collective",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1256169883739488256"
+          ],
+          "editableUntil" : "2020-05-01T11:33:33.448Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Miikka Koskinen",
+            "screen_name" : "arcatan",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "1206501",
+            "id" : "1206501"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "102",
+              "117"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1256169883739488256",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1256169883739488256",
+      "created_at" : "Fri May 01 10:33:33 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @arcatan: If something in the \"back to normal\" business speak seems off, check out these slides by @yak_collective https://t.co/ikzp6nob…",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1256059146824118272"
+          ],
+          "editableUntil" : "2020-05-01T04:13:31.710Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "gameB",
+            "indices" : [
+              "119",
+              "125"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Brad B.",
+            "screen_name" : "RejuvenatingRo1",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "1195710816319922177",
+            "id" : "1195710816319922177"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1256059146824118272",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1256059146824118272",
+      "created_at" : "Fri May 01 03:13:31 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @RejuvenatingRo1: I know I already retweeted this today but this is valuable stuff.\n\nEveryone in business or in the #gameB community sho…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1256045909126848512"
+          ],
+          "editableUntil" : "2020-05-01T03:20:55.597Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JuEgfCmjAd",
+            "expanded_url" : "https://yakcollective.org/projects/yak-wisdom",
+            "display_url" : "yakcollective.org/projects/yak-w…",
+            "indices" : [
+              "38",
+              "61"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1256045909126848512/photo/1",
+            "indices" : [
+              "62",
+              "85"
+            ],
+            "url" : "https://t.co/2PDW24l7bf",
+            "media_url" : "http://pbs.twimg.com/media/EW5ex0YXsAMLY43.png",
+            "id_str" : "1256045556050407427",
+            "id" : "1256045556050407427",
+            "media_url_https" : "https://pbs.twimg.com/media/EW5ex0YXsAMLY43.png",
+            "sizes" : {
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : "453",
+                "h" : "443",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "453",
+                "h" : "443",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "453",
+                "h" : "443",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/2PDW24l7bf"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "85"
+      ],
+      "favorite_count" : "8",
+      "id_str" : "1256045909126848512",
+      "truncated" : false,
+      "retweet_count" : "2",
+      "id" : "1256045909126848512",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri May 01 02:20:55 +0000 2020",
+      "favorited" : false,
+      "full_text" : "how many layers of normal are you on\n\nhttps://t.co/JuEgfCmjAd https://t.co/2PDW24l7bf",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1256045909126848512/photo/1",
+            "indices" : [
+              "62",
+              "85"
+            ],
+            "url" : "https://t.co/2PDW24l7bf",
+            "media_url" : "http://pbs.twimg.com/media/EW5ex0YXsAMLY43.png",
+            "id_str" : "1256045556050407427",
+            "id" : "1256045556050407427",
+            "media_url_https" : "https://pbs.twimg.com/media/EW5ex0YXsAMLY43.png",
+            "sizes" : {
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : "453",
+                "h" : "443",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "453",
+                "h" : "443",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "453",
+                "h" : "443",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/2PDW24l7bf"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255927757529395201"
+          ],
+          "editableUntil" : "2020-04-30T19:31:26.061Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "krish",
+            "screen_name" : "krishkhubchand",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "875736009866084352",
+            "id" : "875736009866084352"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "36",
+              "51"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255927757529395201",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255927757529395201",
+      "created_at" : "Thu Apr 30 18:31:26 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @krishkhubchand: just discovered @yak_collective ... it is sooo close to the new form I was thinking of, worth reading their philosophy:…",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255927732506107904"
+          ],
+          "editableUntil" : "2020-04-30T19:31:20.095Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Tom Critchlow",
+            "screen_name" : "tomcritchlow",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "6419982",
+            "id" : "6419982"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "25",
+              "40"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255927732506107904",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255927732506107904",
+      "created_at" : "Thu Apr 30 18:31:20 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @tomcritchlow: So the @yak_collective emerges today with their first report - a sensemaking deck on the \"next normal\". Navigating uncert…",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255927628743290886"
+          ],
+          "editableUntil" : "2020-04-30T19:30:55.356Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Collin Ferry",
+            "screen_name" : "collinferry",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "1262419156776808451",
+            "id" : "1262419156776808451"
+          },
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "17",
+              "27"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255927628743290886",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255927628743290886",
+      "created_at" : "Thu Apr 30 18:30:55 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @collinferry: @p_millerd @context_ing @yak_collective I converted the entire deck to a @RoamResearch page which I've made public here: h…",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255901959543861249"
+          ],
+          "editableUntil" : "2020-04-30T17:48:55.342Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JuEgfCDUrL",
+            "expanded_url" : "https://yakcollective.org/projects/yak-wisdom",
+            "display_url" : "yakcollective.org/projects/yak-w…",
+            "indices" : [
+              "125",
+              "148"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "148"
+      ],
+      "favorite_count" : "67",
+      "id_str" : "1255901959543861249",
+      "truncated" : false,
+      "retweet_count" : "28",
+      "id" : "1255901959543861249",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Apr 30 16:48:55 +0000 2020",
+      "favorited" : false,
+      "full_text" : "And so it begins! Our first report is out: Don’t Waste the Covid-19 Reboot. Stay tuned for a lot more where this came from.\n\nhttps://t.co/JuEgfCDUrL",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255887233829105664"
+          ],
+          "editableUntil" : "2020-04-30T16:50:24.458Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Ben Ford",
+            "screen_name" : "commandodev",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "3917595395",
+            "id" : "3917595395"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "50",
+              "65"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "94"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255887233829105664",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255887233829105664",
+      "created_at" : "Thu Apr 30 15:50:24 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @commandodev: This is really, really good. The @yak_collective is going to be one to watch!",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255886923459002371"
+          ],
+          "editableUntil" : "2020-04-30T16:49:10.460Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "",
+            "screen_name" : "SachinB91",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "-1",
+            "id" : "-1"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255886923459002371",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255886923459002371",
+      "created_at" : "Thu Apr 30 15:49:10 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @SachinB91: The COVID-19 reboot gives an opportunity for smaller companies to create marketplaces where none existed - Cinema halls coul…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255886889543847936"
+          ],
+          "editableUntil" : "2020-04-30T16:49:02.374Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "",
+            "screen_name" : "SachinB91",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "-1",
+            "id" : "-1"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "19",
+              "34"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255886889543847936",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255886889543847936",
+      "created_at" : "Thu Apr 30 15:49:02 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @SachinB91: The @yak_collective's first project is out and I enjoyed contributing to it\n\n*Don't Waste the Reboot*\n\n25 create and unexpec…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255875550901448704"
+          ],
+          "editableUntil" : "2020-04-30T16:03:59.031Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "David McDougall",
+            "screen_name" : "dmcdougall",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "14069647",
+            "id" : "14069647"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "20",
+              "35"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255875550901448704",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255875550901448704",
+      "created_at" : "Thu Apr 30 15:03:59 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @dmcdougall: The @yak_collective's first project is out and I contributed to it --\n\n*Don't Waste the Reboot* \n\n25 creative and unexpecte…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255836542091870210"
+          ],
+          "editableUntil" : "2020-04-30T13:28:58.606Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "vinay (is building)",
+            "screen_name" : "vinaydebrou",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "570588149",
+            "id" : "570588149"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "21",
+              "36"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255836542091870210",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255836542091870210",
+      "created_at" : "Thu Apr 30 12:28:58 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @vinaydebrou: The @yak_collective's first project is out and I contributed to it--\n\nDon't Waste the Reboot\n\nExpect ideas outside the lim…",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255824852100972544"
+          ],
+          "editableUntil" : "2020-04-30T12:42:31.495Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Raj Kunkolienkar",
+            "screen_name" : "kunksed",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "105437895",
+            "id" : "105437895"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "17",
+              "32"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/qMWImggX9U",
+            "expanded_url" : "https://twitter.com/p_millerd/status/1255800715227869185",
+            "display_url" : "twitter.com/p_millerd/stat…",
+            "indices" : [
+              "42",
+              "65"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "65"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255824852100972544",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255824852100972544",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Apr 30 11:42:31 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @kunksed: The @yak_collective is fun 😄 https://t.co/qMWImggX9U",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255800810597908481"
+          ],
+          "editableUntil" : "2020-04-30T11:06:59.554Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255800810597908481",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255800810597908481",
+      "created_at" : "Thu Apr 30 10:06:59 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @p_millerd: The big consulting firms have stopped producing interesting ideas\n\nOver the past 2+ weeks I've been helping to wrangle inter…",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255691395421085696"
+          ],
+          "editableUntil" : "2020-04-30T03:52:12.943Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "94"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1255691395421085696",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1255691395421085696",
+      "created_at" : "Thu Apr 30 02:52:12 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord! Discord chat hosted by Jordan, Apr 29, 2020 08:00PM",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255690234886598656"
+          ],
+          "editableUntil" : "2020-04-30T03:47:36.250Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "get fucked Elon",
+            "screen_name" : "hewhocutsdown",
+            "indices" : [
+              "3",
+              "17"
+            ],
+            "id_str" : "7826642",
+            "id" : "7826642"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "19",
+              "34"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "131"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255690234886598656",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255690234886598656",
+      "created_at" : "Thu Apr 30 02:47:36 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @hewhocutsdown: @yak_collective we'll be talking about using randomness strategically in 15 minutes on your regular call-in show",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255582970393624576"
+          ],
+          "editableUntil" : "2020-04-29T20:41:22.402Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "user_mentions" : [ ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1255582970393624576/photo/1",
+            "indices" : [
+              "36",
+              "59"
+            ],
+            "url" : "https://t.co/EK1FMJLsHd",
+            "media_url" : "http://pbs.twimg.com/media/EWy6AQvX0AIsegQ.jpg",
+            "id_str" : "1255582909785952258",
+            "id" : "1255582909785952258",
+            "media_url_https" : "https://pbs.twimg.com/media/EWy6AQvX0AIsegQ.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "680",
+                "h" : "453",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1920",
+                "h" : "1280",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "1200",
+                "h" : "800",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/EK1FMJLsHd"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "59"
+      ],
+      "favorite_count" : "8",
+      "id_str" : "1255582970393624576",
+      "truncated" : false,
+      "retweet_count" : "4",
+      "id" : "1255582970393624576",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 29 19:41:22 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Emergent ideas.  \n\nComing tomorrow. https://t.co/EK1FMJLsHd",
+      "lang" : "en",
+      "contributors" : [
+        "14338338"
+      ],
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1255582970393624576/photo/1",
+            "indices" : [
+              "36",
+              "59"
+            ],
+            "url" : "https://t.co/EK1FMJLsHd",
+            "media_url" : "http://pbs.twimg.com/media/EWy6AQvX0AIsegQ.jpg",
+            "id_str" : "1255582909785952258",
+            "id" : "1255582909785952258",
+            "media_url_https" : "https://pbs.twimg.com/media/EWy6AQvX0AIsegQ.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "680",
+                "h" : "453",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1920",
+                "h" : "1280",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "1200",
+                "h" : "800",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/EK1FMJLsHd"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255370726858776577"
+          ],
+          "editableUntil" : "2020-04-29T06:37:59.600Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "user_mentions" : [ ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1255370726858776577/photo/1",
+            "indices" : [
+              "0",
+              "23"
+            ],
+            "url" : "https://t.co/2Fd0XInQUG",
+            "media_url" : "http://pbs.twimg.com/media/EWv5AhYWAAAVrdi.jpg",
+            "id_str" : "1255370708508606464",
+            "id" : "1255370708508606464",
+            "media_url_https" : "https://pbs.twimg.com/media/EWv5AhYWAAAVrdi.jpg",
+            "sizes" : {
+              "medium" : {
+                "w" : "800",
+                "h" : "600",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "800",
+                "h" : "600",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "510",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/2Fd0XInQUG"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "23"
+      ],
+      "favorite_count" : "115",
+      "id_str" : "1255370726858776577",
+      "truncated" : false,
+      "retweet_count" : "14",
+      "id" : "1255370726858776577",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 29 05:37:59 +0000 2020",
+      "favorited" : false,
+      "full_text" : "https://t.co/2Fd0XInQUG",
+      "lang" : "zxx",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1255370726858776577/photo/1",
+            "indices" : [
+              "0",
+              "23"
+            ],
+            "url" : "https://t.co/2Fd0XInQUG",
+            "media_url" : "http://pbs.twimg.com/media/EWv5AhYWAAAVrdi.jpg",
+            "id_str" : "1255370708508606464",
+            "id" : "1255370708508606464",
+            "media_url_https" : "https://pbs.twimg.com/media/EWv5AhYWAAAVrdi.jpg",
+            "sizes" : {
+              "medium" : {
+                "w" : "800",
+                "h" : "600",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "800",
+                "h" : "600",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "510",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/2Fd0XInQUG"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1255177368852971520"
+          ],
+          "editableUntil" : "2020-04-28T17:49:39.459Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "103"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1255177368852971520",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1255177368852971520",
+      "created_at" : "Tue Apr 28 16:49:39 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord! Discord chat hosted by Scott Garlinger, Apr 28, 2020 10:00AM",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1254875373172637697"
+          ],
+          "editableUntil" : "2020-04-27T21:49:38.078Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "94"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1254875373172637697",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1254875373172637697",
+      "created_at" : "Mon Apr 27 20:49:38 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord! Discord chat hosted by Sachin, Apr 27, 2020 02:00PM",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1254870848160378886"
+          ],
+          "editableUntil" : "2020-04-27T21:31:39.231Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "",
+            "screen_name" : "SachinB91",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "-1",
+            "id" : "-1"
+          },
+          {
+            "name" : "The Art of Gig",
+            "screen_name" : "artofgig",
+            "indices" : [
+              "26",
+              "35"
+            ],
+            "id_str" : "1129480100112547840",
+            "id" : "1129480100112547840"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "131"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1254870848160378886",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1254870848160378886",
+      "created_at" : "Mon Apr 27 20:31:39 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @SachinB91: Hosting an @artofgig Discord chat at 4PM CST! Today we'll be reading and discussing the pmarca's \"ITS TIME TO BUILD\"",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1254612420959457281"
+          ],
+          "editableUntil" : "2020-04-27T04:24:45.385Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/puUUvDHQPl",
+            "expanded_url" : "https://www.cnn.com/2020/04/26/us/gig-workers-informal-jobs-coronavirus/index.html",
+            "display_url" : "cnn.com/2020/04/26/us/…",
+            "indices" : [
+              "19",
+              "42"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "42"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1254612420959457281",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1254612420959457281",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 27 03:24:45 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Gig economy go brr https://t.co/puUUvDHQPl",
+      "lang" : "in"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1254515461489737728"
+          ],
+          "editableUntil" : "2020-04-26T21:59:28.446Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/wn5S35WZQ9",
+            "expanded_url" : "https://twitter.com/amelapay/status/1254498870752673793",
+            "display_url" : "twitter.com/amelapay/statu…",
+            "indices" : [
+              "14",
+              "37"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "37"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1254515461489737728",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1254515461489737728",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Apr 26 20:59:28 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Starting now! https://t.co/wn5S35WZQ9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1254512944253227009"
+          ],
+          "editableUntil" : "2020-04-26T21:49:28.290Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1254512944253227009",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1254512944253227009",
+      "created_at" : "Sun Apr 26 20:49:28 +0000 2020",
+      "favorited" : false,
+      "full_text" : "Event coming up on Yak Collective discord! Chat led by Pam, Apr 26, 2020 02:00PM",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1254498972166754305"
+          ],
+          "editableUntil" : "2020-04-26T20:53:57.085Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Pamela J. Hobart",
+            "screen_name" : "amelapay",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "23123041",
+            "id" : "23123041"
+          },
+          {
+            "name" : "The Art of Gig",
+            "screen_name" : "artofgig",
+            "indices" : [
+              "57",
+              "66"
+            ],
+            "id_str" : "1129480100112547840",
+            "id" : "1129480100112547840"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "68",
+              "83"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          },
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "114",
+              "118"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "118"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1254498972166754305",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1254498972166754305",
+      "created_at" : "Sun Apr 26 19:53:57 +0000 2020",
+      "favorited" : false,
+      "full_text" : "RT @amelapay: Hosting chat for indie consultant types on @artofgig/ @yak_collective discord server at 5pm ET \n\ncc @vgr",
+      "lang" : "en",
+      "contributors" : [
+        "23123041"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1623656801655828482"
+          ],
+          "editableUntil" : "2023-02-09T12:45:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/I9m3VQHgX5",
+            "expanded_url" : "https://nesslabs.com/introspection-trap?utm_source=rss&utm_medium=rss&utm_campaign=introspection-trap",
+            "display_url" : "nesslabs.com/introspection-…",
+            "indices" : [
+              "61",
+              "84"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "84"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1623656801655828482",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1623656801655828482",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Feb 09 12:15:22 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The Introspection Trap\". https://t.co/I9m3VQHgX5",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1623428576862167044"
+          ],
+          "editableUntil" : "2023-02-08T21:38:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/2eubQtCjAj",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/at-the-fairs",
+            "display_url" : "uncertaintymindset.substack.com/p/at-the-fairs",
+            "indices" : [
+              "56",
+              "79"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "79"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1623428576862167044",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1623428576862167044",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Feb 08 21:08:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"At the fairs\". https://t.co/2eubQtCjAj",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1623278731816062977"
+          ],
+          "editableUntil" : "2023-02-08T11:43:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/EiZUDnmajj",
+            "expanded_url" : "https://antlerboy.medium.com/what-are-your-top-tips-for-using-consultants-3708d2356ead?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/what-are-your-…",
+            "indices" : [
+              "82",
+              "105"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "105"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1623278731816062977",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1623278731816062977",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Feb 08 11:13:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"What are your top tips for using consultants?\". https://t.co/EiZUDnmajj",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1623102557257183233"
           ],
           "editableUntil" : "2023-02-08T00:03:00.000Z",
@@ -13973,7 +18035,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -14724,1690 +18786,6 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1256233103787544576"
-          ],
-          "editableUntil" : "2020-05-01T15:44:46.282Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Critchlow",
-            "screen_name" : "tomcritchlow",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "6419982",
-            "id" : "6419982"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1256233103787544576",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1256233103787544576",
-      "created_at" : "Fri May 01 14:44:46 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @tomcritchlow: From yesterday - the Yak Collective released their first report. It's a collection of indie, weird, alternative strategie…",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1256169912738906112"
-          ],
-          "editableUntil" : "2020-05-01T11:33:40.362Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Amanda Reeves",
-            "screen_name" : "WabiSabiFutures",
-            "indices" : [
-              "3",
-              "19"
-            ],
-            "id_str" : "1176714625775128579",
-            "id" : "1176714625775128579"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "104",
-              "119"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1256169912738906112",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1256169912738906112",
-      "created_at" : "Fri May 01 10:33:40 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @WabiSabiFutures: I'm one of 25 independent consultants sharing 25 non-mainstream ideas in the first @yak_collective collaboration. \n\nDo…",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1256169898000121856"
-          ],
-          "editableUntil" : "2020-05-01T11:33:36.848Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "90",
-              "105"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/NEpgPIkxfi",
-            "expanded_url" : "https://bit.ly/2YkDLdR",
-            "display_url" : "bit.ly/2YkDLdR",
-            "indices" : [
-              "63",
-              "86"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "105"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1256169898000121856",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1256169898000121856",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri May 01 10:33:36 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @antlerboy: Why you need spoopy consulting and how to do it https://t.co/NEpgPIkxfi\nCc @yak_collective",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1256169883739488256"
-          ],
-          "editableUntil" : "2020-05-01T11:33:33.448Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Miikka Koskinen",
-            "screen_name" : "arcatan",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "1206501",
-            "id" : "1206501"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "102",
-              "117"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1256169883739488256",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1256169883739488256",
-      "created_at" : "Fri May 01 10:33:33 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @arcatan: If something in the \"back to normal\" business speak seems off, check out these slides by @yak_collective https://t.co/ikzp6nob…",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1256059146824118272"
-          ],
-          "editableUntil" : "2020-05-01T04:13:31.710Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "gameB",
-            "indices" : [
-              "119",
-              "125"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Brad B.",
-            "screen_name" : "RejuvenatingRo1",
-            "indices" : [
-              "3",
-              "19"
-            ],
-            "id_str" : "1195710816319922177",
-            "id" : "1195710816319922177"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1256059146824118272",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1256059146824118272",
-      "created_at" : "Fri May 01 03:13:31 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @RejuvenatingRo1: I know I already retweeted this today but this is valuable stuff.\n\nEveryone in business or in the #gameB community sho…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1256045909126848512"
-          ],
-          "editableUntil" : "2020-05-01T03:20:55.597Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JuEgfCmjAd",
-            "expanded_url" : "https://yakcollective.org/projects/yak-wisdom",
-            "display_url" : "yakcollective.org/projects/yak-w…",
-            "indices" : [
-              "38",
-              "61"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1256045909126848512/photo/1",
-            "indices" : [
-              "62",
-              "85"
-            ],
-            "url" : "https://t.co/2PDW24l7bf",
-            "media_url" : "http://pbs.twimg.com/media/EW5ex0YXsAMLY43.png",
-            "id_str" : "1256045556050407427",
-            "id" : "1256045556050407427",
-            "media_url_https" : "https://pbs.twimg.com/media/EW5ex0YXsAMLY43.png",
-            "sizes" : {
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "medium" : {
-                "w" : "453",
-                "h" : "443",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "453",
-                "h" : "443",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "453",
-                "h" : "443",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/2PDW24l7bf"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "85"
-      ],
-      "favorite_count" : "8",
-      "id_str" : "1256045909126848512",
-      "truncated" : false,
-      "retweet_count" : "3",
-      "id" : "1256045909126848512",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri May 01 02:20:55 +0000 2020",
-      "favorited" : false,
-      "full_text" : "how many layers of normal are you on\n\nhttps://t.co/JuEgfCmjAd https://t.co/2PDW24l7bf",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1256045909126848512/photo/1",
-            "indices" : [
-              "62",
-              "85"
-            ],
-            "url" : "https://t.co/2PDW24l7bf",
-            "media_url" : "http://pbs.twimg.com/media/EW5ex0YXsAMLY43.png",
-            "id_str" : "1256045556050407427",
-            "id" : "1256045556050407427",
-            "media_url_https" : "https://pbs.twimg.com/media/EW5ex0YXsAMLY43.png",
-            "sizes" : {
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "medium" : {
-                "w" : "453",
-                "h" : "443",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "453",
-                "h" : "443",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "453",
-                "h" : "443",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/2PDW24l7bf"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255927757529395201"
-          ],
-          "editableUntil" : "2020-04-30T19:31:26.061Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "krish",
-            "screen_name" : "krishkhubchand",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "875736009866084352",
-            "id" : "875736009866084352"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "36",
-              "51"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255927757529395201",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255927757529395201",
-      "created_at" : "Thu Apr 30 18:31:26 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @krishkhubchand: just discovered @yak_collective ... it is sooo close to the new form I was thinking of, worth reading their philosophy:…",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255927732506107904"
-          ],
-          "editableUntil" : "2020-04-30T19:31:20.095Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Critchlow",
-            "screen_name" : "tomcritchlow",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "6419982",
-            "id" : "6419982"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "25",
-              "40"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255927732506107904",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255927732506107904",
-      "created_at" : "Thu Apr 30 18:31:20 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @tomcritchlow: So the @yak_collective emerges today with their first report - a sensemaking deck on the \"next normal\". Navigating uncert…",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255927628743290886"
-          ],
-          "editableUntil" : "2020-04-30T19:30:55.356Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Collin Ferry",
-            "screen_name" : "collinferry",
-            "indices" : [
-              "3",
-              "15"
-            ],
-            "id_str" : "1262419156776808451",
-            "id" : "1262419156776808451"
-          },
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "17",
-              "27"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255927628743290886",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255927628743290886",
-      "created_at" : "Thu Apr 30 18:30:55 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @collinferry: @p_millerd @context_ing @yak_collective I converted the entire deck to a @RoamResearch page which I've made public here: h…",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255901959543861249"
-          ],
-          "editableUntil" : "2020-04-30T17:48:55.342Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JuEgfCDUrL",
-            "expanded_url" : "https://yakcollective.org/projects/yak-wisdom",
-            "display_url" : "yakcollective.org/projects/yak-w…",
-            "indices" : [
-              "125",
-              "148"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "148"
-      ],
-      "favorite_count" : "67",
-      "id_str" : "1255901959543861249",
-      "truncated" : false,
-      "retweet_count" : "29",
-      "id" : "1255901959543861249",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Apr 30 16:48:55 +0000 2020",
-      "favorited" : false,
-      "full_text" : "And so it begins! Our first report is out: Don’t Waste the Covid-19 Reboot. Stay tuned for a lot more where this came from.\n\nhttps://t.co/JuEgfCDUrL",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255887233829105664"
-          ],
-          "editableUntil" : "2020-04-30T16:50:24.458Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Ben Ford",
-            "screen_name" : "commandodev",
-            "indices" : [
-              "3",
-              "15"
-            ],
-            "id_str" : "3917595395",
-            "id" : "3917595395"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "50",
-              "65"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "94"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255887233829105664",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255887233829105664",
-      "created_at" : "Thu Apr 30 15:50:24 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @commandodev: This is really, really good. The @yak_collective is going to be one to watch!",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255886923459002371"
-          ],
-          "editableUntil" : "2020-04-30T16:49:10.460Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "",
-            "screen_name" : "SachinB91",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "-1",
-            "id" : "-1"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255886923459002371",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255886923459002371",
-      "created_at" : "Thu Apr 30 15:49:10 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @SachinB91: The COVID-19 reboot gives an opportunity for smaller companies to create marketplaces where none existed - Cinema halls coul…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255886889543847936"
-          ],
-          "editableUntil" : "2020-04-30T16:49:02.374Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "",
-            "screen_name" : "SachinB91",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "-1",
-            "id" : "-1"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "19",
-              "34"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255886889543847936",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255886889543847936",
-      "created_at" : "Thu Apr 30 15:49:02 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @SachinB91: The @yak_collective's first project is out and I enjoyed contributing to it\n\n*Don't Waste the Reboot*\n\n25 create and unexpec…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255875550901448704"
-          ],
-          "editableUntil" : "2020-04-30T16:03:59.031Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "David McDougall",
-            "screen_name" : "dmcdougall",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "14069647",
-            "id" : "14069647"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "20",
-              "35"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255875550901448704",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255875550901448704",
-      "created_at" : "Thu Apr 30 15:03:59 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @dmcdougall: The @yak_collective's first project is out and I contributed to it --\n\n*Don't Waste the Reboot* \n\n25 creative and unexpecte…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255836542091870210"
-          ],
-          "editableUntil" : "2020-04-30T13:28:58.606Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "vinay (is building)",
-            "screen_name" : "vinaydebrou",
-            "indices" : [
-              "3",
-              "15"
-            ],
-            "id_str" : "570588149",
-            "id" : "570588149"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "21",
-              "36"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255836542091870210",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255836542091870210",
-      "created_at" : "Thu Apr 30 12:28:58 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @vinaydebrou: The @yak_collective's first project is out and I contributed to it--\n\nDon't Waste the Reboot\n\nExpect ideas outside the lim…",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255824852100972544"
-          ],
-          "editableUntil" : "2020-04-30T12:42:31.495Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Raj Kunkolienkar",
-            "screen_name" : "kunksed",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "105437895",
-            "id" : "105437895"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "17",
-              "32"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/qMWImggX9U",
-            "expanded_url" : "https://twitter.com/p_millerd/status/1255800715227869185",
-            "display_url" : "twitter.com/p_millerd/stat…",
-            "indices" : [
-              "42",
-              "65"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "65"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255824852100972544",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255824852100972544",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Apr 30 11:42:31 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @kunksed: The @yak_collective is fun 😄 https://t.co/qMWImggX9U",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255800810597908481"
-          ],
-          "editableUntil" : "2020-04-30T11:06:59.554Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255800810597908481",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255800810597908481",
-      "created_at" : "Thu Apr 30 10:06:59 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @p_millerd: The big consulting firms have stopped producing interesting ideas\n\nOver the past 2+ weeks I've been helping to wrangle inter…",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255691395421085696"
-          ],
-          "editableUntil" : "2020-04-30T03:52:12.943Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "94"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1255691395421085696",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1255691395421085696",
-      "created_at" : "Thu Apr 30 02:52:12 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord! Discord chat hosted by Jordan, Apr 29, 2020 08:00PM",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255690234886598656"
-          ],
-          "editableUntil" : "2020-04-30T03:47:36.250Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "get fucked Elon",
-            "screen_name" : "hewhocutsdown",
-            "indices" : [
-              "3",
-              "17"
-            ],
-            "id_str" : "7826642",
-            "id" : "7826642"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "19",
-              "34"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "131"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255690234886598656",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255690234886598656",
-      "created_at" : "Thu Apr 30 02:47:36 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @hewhocutsdown: @yak_collective we'll be talking about using randomness strategically in 15 minutes on your regular call-in show",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255582970393624576"
-          ],
-          "editableUntil" : "2020-04-29T20:41:22.402Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "user_mentions" : [ ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1255582970393624576/photo/1",
-            "indices" : [
-              "36",
-              "59"
-            ],
-            "url" : "https://t.co/EK1FMJLsHd",
-            "media_url" : "http://pbs.twimg.com/media/EWy6AQvX0AIsegQ.jpg",
-            "id_str" : "1255582909785952258",
-            "id" : "1255582909785952258",
-            "media_url_https" : "https://pbs.twimg.com/media/EWy6AQvX0AIsegQ.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "680",
-                "h" : "453",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1920",
-                "h" : "1280",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1200",
-                "h" : "800",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/EK1FMJLsHd"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "59"
-      ],
-      "favorite_count" : "8",
-      "id_str" : "1255582970393624576",
-      "truncated" : false,
-      "retweet_count" : "4",
-      "id" : "1255582970393624576",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 29 19:41:22 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Emergent ideas.  \n\nComing tomorrow. https://t.co/EK1FMJLsHd",
-      "lang" : "en",
-      "contributors" : [
-        "14338338"
-      ],
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1255582970393624576/photo/1",
-            "indices" : [
-              "36",
-              "59"
-            ],
-            "url" : "https://t.co/EK1FMJLsHd",
-            "media_url" : "http://pbs.twimg.com/media/EWy6AQvX0AIsegQ.jpg",
-            "id_str" : "1255582909785952258",
-            "id" : "1255582909785952258",
-            "media_url_https" : "https://pbs.twimg.com/media/EWy6AQvX0AIsegQ.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "680",
-                "h" : "453",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1920",
-                "h" : "1280",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1200",
-                "h" : "800",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/EK1FMJLsHd"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255370726858776577"
-          ],
-          "editableUntil" : "2020-04-29T06:37:59.600Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "user_mentions" : [ ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1255370726858776577/photo/1",
-            "indices" : [
-              "0",
-              "23"
-            ],
-            "url" : "https://t.co/2Fd0XInQUG",
-            "media_url" : "http://pbs.twimg.com/media/EWv5AhYWAAAVrdi.jpg",
-            "id_str" : "1255370708508606464",
-            "id" : "1255370708508606464",
-            "media_url_https" : "https://pbs.twimg.com/media/EWv5AhYWAAAVrdi.jpg",
-            "sizes" : {
-              "medium" : {
-                "w" : "800",
-                "h" : "600",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "800",
-                "h" : "600",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "510",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/2Fd0XInQUG"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "117",
-      "id_str" : "1255370726858776577",
-      "truncated" : false,
-      "retweet_count" : "14",
-      "id" : "1255370726858776577",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 29 05:37:59 +0000 2020",
-      "favorited" : false,
-      "full_text" : "https://t.co/2Fd0XInQUG",
-      "lang" : "zxx",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1255370726858776577/photo/1",
-            "indices" : [
-              "0",
-              "23"
-            ],
-            "url" : "https://t.co/2Fd0XInQUG",
-            "media_url" : "http://pbs.twimg.com/media/EWv5AhYWAAAVrdi.jpg",
-            "id_str" : "1255370708508606464",
-            "id" : "1255370708508606464",
-            "media_url_https" : "https://pbs.twimg.com/media/EWv5AhYWAAAVrdi.jpg",
-            "sizes" : {
-              "medium" : {
-                "w" : "800",
-                "h" : "600",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "800",
-                "h" : "600",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "510",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/2Fd0XInQUG"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1255177368852971520"
-          ],
-          "editableUntil" : "2020-04-28T17:49:39.459Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1255177368852971520",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1255177368852971520",
-      "created_at" : "Tue Apr 28 16:49:39 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord! Discord chat hosted by Scott Garlinger, Apr 28, 2020 10:00AM",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1254875373172637697"
-          ],
-          "editableUntil" : "2020-04-27T21:49:38.078Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "94"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1254875373172637697",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1254875373172637697",
-      "created_at" : "Mon Apr 27 20:49:38 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord! Discord chat hosted by Sachin, Apr 27, 2020 02:00PM",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1254870848160378886"
-          ],
-          "editableUntil" : "2020-04-27T21:31:39.231Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "",
-            "screen_name" : "SachinB91",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "-1",
-            "id" : "-1"
-          },
-          {
-            "name" : "The Art of Gig",
-            "screen_name" : "artofgig",
-            "indices" : [
-              "26",
-              "35"
-            ],
-            "id_str" : "1129480100112547840",
-            "id" : "1129480100112547840"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "131"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1254870848160378886",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1254870848160378886",
-      "created_at" : "Mon Apr 27 20:31:39 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @SachinB91: Hosting an @artofgig Discord chat at 4PM CST! Today we'll be reading and discussing the pmarca's \"ITS TIME TO BUILD\"",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1254612420959457281"
-          ],
-          "editableUntil" : "2020-04-27T04:24:45.385Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/puUUvDHQPl",
-            "expanded_url" : "https://www.cnn.com/2020/04/26/us/gig-workers-informal-jobs-coronavirus/index.html",
-            "display_url" : "cnn.com/2020/04/26/us/…",
-            "indices" : [
-              "19",
-              "42"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "42"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1254612420959457281",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1254612420959457281",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 27 03:24:45 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Gig economy go brr https://t.co/puUUvDHQPl",
-      "lang" : "in"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1254515461489737728"
-          ],
-          "editableUntil" : "2020-04-26T21:59:28.446Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/wn5S35WZQ9",
-            "expanded_url" : "https://twitter.com/amelapay/status/1254498870752673793",
-            "display_url" : "twitter.com/amelapay/statu…",
-            "indices" : [
-              "14",
-              "37"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "37"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1254515461489737728",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1254515461489737728",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Apr 26 20:59:28 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Starting now! https://t.co/wn5S35WZQ9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1254512944253227009"
-          ],
-          "editableUntil" : "2020-04-26T21:49:28.290Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1254512944253227009",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1254512944253227009",
-      "created_at" : "Sun Apr 26 20:49:28 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord! Chat led by Pam, Apr 26, 2020 02:00PM",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1254498972166754305"
-          ],
-          "editableUntil" : "2020-04-26T20:53:57.085Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Pamela J. Hobart",
-            "screen_name" : "amelapay",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "23123041",
-            "id" : "23123041"
-          },
-          {
-            "name" : "The Art of Gig",
-            "screen_name" : "artofgig",
-            "indices" : [
-              "57",
-              "66"
-            ],
-            "id_str" : "1129480100112547840",
-            "id" : "1129480100112547840"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "68",
-              "83"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          },
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "114",
-              "118"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "118"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1254498972166754305",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1254498972166754305",
-      "created_at" : "Sun Apr 26 19:53:57 +0000 2020",
-      "favorited" : false,
-      "full_text" : "RT @amelapay: Hosting chat for indie consultant types on @artofgig/ @yak_collective discord server at 5pm ET \n\ncc @vgr",
-      "lang" : "en",
-      "contributors" : [
-        "23123041"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1616751485324349440"
           ],
           "editableUntil" : "2023-01-21T11:26:06.000Z",
@@ -16959,7 +19337,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -18909,7 +21287,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -20907,7 +23285,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -22010,7 +24388,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -24090,7 +26468,7 @@ window.YTD.tweets.part0 = [
         "0",
         "138"
       ],
-      "favorite_count" : "17",
+      "favorite_count" : "16",
       "id_str" : "1588560444226437120",
       "truncated" : false,
       "retweet_count" : "2",
@@ -24366,6 +26744,1120 @@ window.YTD.tweets.part0 = [
       "contributors" : [
         "2721763552"
       ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1688890941640265728"
+          ],
+          "editableUntil" : "2023-08-08T13:32:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/NxUodga3rS",
+            "expanded_url" : "https://think-boundless.com/bilal-zaidi/?utm_source=rss&utm_medium=rss&utm_campaign=bilal-zaidi",
+            "display_url" : "think-boundless.com/bilal-zaidi/?u…",
+            "indices" : [
+              "235",
+              "258"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "258"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1688890941640265728",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1688890941640265728",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Aug 08 12:32:33 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Living Intentionally After “Enough” – Bilal Zaidi on leaving Google, emigrating to the US, the intensity of New York, writing poetry and spoken word, and travel vs. vacations (Pathless Path Podcast)\". https://t.co/NxUodga3rS",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1688830867165040640"
+          ],
+          "editableUntil" : "2023-08-08T09:33:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/XWbNQScF6b",
+            "expanded_url" : "https://antlerboy.medium.com/is-your-organisation-addicted-5ebca7cdabcd?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/is-your-organi…",
+            "indices" : [
+              "67",
+              "90"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "90"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1688830867165040640",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1688830867165040640",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Aug 08 08:33:50 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Is your organisation addicted?\". https://t.co/XWbNQScF6b",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1688679688187588610"
+          ],
+          "editableUntil" : "2023-08-07T23:33:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/DD3NipUJFn",
+            "expanded_url" : "https://summerlightning.substack.com/p/how-much-a-bagel-cost",
+            "display_url" : "summerlightning.substack.com/p/how-much-a-b…",
+            "indices" : [
+              "59",
+              "82"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "82"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1688679688187588610",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1688679688187588610",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Aug 07 22:33:06 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"How Much a Bagel Cost \". https://t.co/DD3NipUJFn",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1687676861403279360"
+          ],
+          "editableUntil" : "2023-08-05T05:08:13.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/sgrCCu4msm",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/rediscovering-narratability",
+            "display_url" : "studio.ribbonfarm.com/p/rediscoverin…",
+            "indices" : [
+              "64",
+              "87"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "87"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1687676861403279360",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1687676861403279360",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Aug 05 04:08:13 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Rediscovering Narratability\". https://t.co/sgrCCu4msm",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1687480653535666178"
+          ],
+          "editableUntil" : "2023-08-04T16:08:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Famq3fl5kZ",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-97-6d5dcfbed2cc?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1687480653535666178",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1687480653535666178",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Aug 04 15:08:34 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #97\". https://t.co/Famq3fl5kZ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1686420968208584707"
+          ],
+          "editableUntil" : "2023-08-01T17:57:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/kpwkFHdoY8",
+            "expanded_url" : "https://think-boundless.com/sabbatical-convo/?utm_source=rss&utm_medium=rss&utm_campaign=sabbatical-convo",
+            "display_url" : "think-boundless.com/sabbatical-con…",
+            "indices" : [
+              "101",
+              "124"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "124"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1686420968208584707",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1686420968208584707",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Aug 01 16:57:45 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"How To Take A Sabbatical: Stories From Five People Who Took Them\". https://t.co/kpwkFHdoY8",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1686294042076745729"
+          ],
+          "editableUntil" : "2023-08-01T09:33:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "LinkedIn",
+            "indices" : [
+              "42",
+              "51"
+            ]
+          },
+          {
+            "text" : "algorithm",
+            "indices" : [
+              "52",
+              "62"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/xKhwY02nAx",
+            "expanded_url" : "https://antlerboy.medium.com/the-new-linkedin-algorithm-has-got-me-down-9ece37065d34?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/the-new-linked…",
+            "indices" : [
+              "82",
+              "105"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "105"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1686294042076745729",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1686294042076745729",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Aug 01 08:33:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"The new #LinkedIn #algorithm has got me down.\". https://t.co/xKhwY02nAx",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1686018247152242688"
+          ],
+          "editableUntil" : "2023-07-31T15:17:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/MptWL9iewl",
+            "expanded_url" : "https://think-boundless.com/benmercer/?utm_source=rss&utm_medium=rss&utm_campaign=benmercer",
+            "display_url" : "think-boundless.com/benmercer/?utm…",
+            "indices" : [
+              "114",
+              "137"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "137"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1686018247152242688",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1686018247152242688",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jul 31 14:17:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"From Rugby to Writer &amp; Book Influencer: How Ben Mercer Reinvented Himself\". https://t.co/MptWL9iewl",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1685401661500481536"
+          ],
+          "editableUntil" : "2023-07-29T22:27:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/hubnflwPz0",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/thick-time",
+            "display_url" : "studio.ribbonfarm.com/p/thick-time",
+            "indices" : [
+              "47",
+              "70"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "70"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1685401661500481536",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1685401661500481536",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jul 29 21:27:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Thick Time\". https://t.co/hubnflwPz0",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1685259692790906880"
+          ],
+          "editableUntil" : "2023-07-29T13:03:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/RJQFoseB07",
+            "expanded_url" : "https://summerlightning.substack.com/p/upon-this-trail",
+            "display_url" : "summerlightning.substack.com/p/upon-this-tr…",
+            "indices" : [
+              "52",
+              "75"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1685259692790906880",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1685259692790906880",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jul 29 12:03:16 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Upon this Trail\". https://t.co/RJQFoseB07",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1684943861066375168"
+          ],
+          "editableUntil" : "2023-07-28T16:08:15.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/0fTpU9DUvK",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-96-411d773b7db2?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1684943861066375168",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1684943861066375168",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jul 28 15:08:15 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #96\". https://t.co/0fTpU9DUvK",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1684568577905655808"
+          ],
+          "editableUntil" : "2023-07-27T15:17:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Rh7cZ0bzHh",
+            "expanded_url" : "https://nesslabs.com/inverted-pyramid-life?utm_source=rss&utm_medium=rss&utm_campaign=inverted-pyramid-life",
+            "display_url" : "nesslabs.com/inverted-pyram…",
+            "indices" : [
+              "93",
+              "116"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "116"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1684568577905655808",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1684568577905655808",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jul 27 14:17:01 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Stop looking for The One: The Inverted Pyramid of Life\". https://t.co/Rh7cZ0bzHh",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1684270807873212416"
+          ],
+          "editableUntil" : "2023-07-26T19:33:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/KhNrKuiZdx",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/firefighting",
+            "display_url" : "uncertaintymindset.substack.com/p/firefighting",
+            "indices" : [
+              "56",
+              "79"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "79"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1684270807873212416",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1684270807873212416",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jul 26 18:33:47 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Firefighting\". https://t.co/KhNrKuiZdx",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1683852746544349185"
+          ],
+          "editableUntil" : "2023-07-25T15:52:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/VPiSYhHuVu",
+            "expanded_url" : "https://think-boundless.com/ali-abdaal/?utm_source=rss&utm_medium=rss&utm_campaign=ali-abdaal",
+            "display_url" : "think-boundless.com/ali-abdaal/?ut…",
+            "indices" : [
+              "154",
+              "177"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "177"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1683852746544349185",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1683852746544349185",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Jul 25 14:52:33 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Ali Abdaal on Identity, Prestige, Creativity &amp; Meaning and Deciding To Leave Medicine | The Pathless Path Podcast\". https://t.co/VPiSYhHuVu",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1683841108948951040"
+          ],
+          "editableUntil" : "2023-07-25T15:06:19.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Ghsb7JvlIy",
+            "expanded_url" : "https://think-boundless.com/kyla-scanlon/?utm_source=rss&utm_medium=rss&utm_campaign=kyla-scanlon",
+            "display_url" : "think-boundless.com/kyla-scanlon/?…",
+            "indices" : [
+              "152",
+              "175"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "175"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1683841108948951040",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1683841108948951040",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Jul 25 14:06:19 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Kyla Scanlon on the Passion Crisis, Vibecession, and Quitting Her Job To Bet On Herself | The Pathless Path Podcast\". https://t.co/Ghsb7JvlIy",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1683766069247242249"
+          ],
+          "editableUntil" : "2023-07-25T10:08:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/5SRAvMeW49",
+            "expanded_url" : "https://antlerboy.medium.com/you-cant-get-order-for-free-what-do-you-do-to-balance-order-and-chaos-in-your-life-or-88d78446113b?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/you-cant-get-o…",
+            "indices" : [
+              "126",
+              "149"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "149"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1683766069247242249",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1683766069247242249",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Jul 25 09:08:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"You can’t get order for free — what do you do to balance order and chaos in your life or…\". https://t.co/5SRAvMeW49",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1683490970099240965"
+          ],
+          "editableUntil" : "2023-07-24T15:54:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/CMMSwg7TEZ",
+            "expanded_url" : "https://www.youtube.com/watch?v=KCt8_KRpmoQ",
+            "display_url" : "youtube.com/watch?v=KCt8_K…",
+            "indices" : [
+              "67",
+              "90"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "175"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1683490970099240965",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1683490970099240965",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jul 24 14:54:59 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading Stripe's \"Increment Magazine Issue 14: APIs\"\n\nhttps://t.co/CMMSwg7TEZ\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1683266460888576001"
+          ],
+          "editableUntil" : "2023-07-24T01:02:52.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/WrXA9DDqkB",
+            "expanded_url" : "https://summerlightning.substack.com/p/look-in-the-armoire",
+            "display_url" : "summerlightning.substack.com/p/look-in-the-…",
+            "indices" : [
+              "57",
+              "80"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1683266460888576001",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1683266460888576001",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jul 24 00:02:52 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Look in the Armoire \". https://t.co/WrXA9DDqkB",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1682569344411213825"
+          ],
+          "editableUntil" : "2023-07-22T02:52:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/KYXSMOQZDy",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/unnarratability",
+            "display_url" : "studio.ribbonfarm.com/p/unnarratabil…",
+            "indices" : [
+              "52",
+              "75"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1682569344411213825",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1682569344411213825",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jul 22 01:52:46 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Unnarratability\". https://t.co/KYXSMOQZDy",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1682408679998455810"
+          ],
+          "editableUntil" : "2023-07-21T16:14:21.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/YQCmMJuf9b",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-95-54cc8794fb15?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1682408679998455810",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1682408679998455810",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jul 21 15:14:21 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #95\". https://t.co/YQCmMJuf9b",
+      "lang" : "en"
     }
   },
   {
@@ -25685,1105 +29177,6 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1680612545449668611"
-          ],
-          "editableUntil" : "2023-07-16T17:17:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/4KrUTGlM3o",
-            "expanded_url" : "https://think-boundless.com/luke-burgis/?utm_source=rss&utm_medium=rss&utm_campaign=luke-burgis",
-            "display_url" : "think-boundless.com/luke-burgis/?u…",
-            "indices" : [
-              "133",
-              "156"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "156"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1680612545449668611",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1680612545449668611",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Jul 16 16:17:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Luke Burgis on Mimetic Desire, The Three City Problem &amp; Academia | The Pathless Path Podcast\". https://t.co/4KrUTGlM3o",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1680604908691640322"
-          ],
-          "editableUntil" : "2023-07-16T16:46:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/pEtmJkNBd9",
-            "expanded_url" : "https://think-boundless.com/melvin-vargheese/?utm_source=rss&utm_medium=rss&utm_campaign=melvin-vargheese",
-            "display_url" : "think-boundless.com/melvin-varghee…",
-            "indices" : [
-              "103",
-              "126"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "126"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1680604908691640322",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1680604908691640322",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Jul 16 15:46:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Melvin Varghese: The Creator Therapist | The Pathless Path Podcast\". https://t.co/pEtmJkNBd9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1680071603109937152"
-          ],
-          "editableUntil" : "2023-07-15T05:27:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Ztp9Wi9dh1",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/grimdark-hopepunk-with-a-chance-of",
-            "display_url" : "studio.ribbonfarm.com/p/grimdark-hop…",
-            "indices" : [
-              "80",
-              "103"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1680071603109937152",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1680071603109937152",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 15 04:27:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Grimdark-Hopepunk With a Chance of Icecream\". https://t.co/Ztp9Wi9dh1",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1680065046401916928"
-          ],
-          "editableUntil" : "2023-07-15T05:01:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/b42MMcnJJV",
-            "expanded_url" : "https://think-boundless.com/dawn-baker/?utm_source=rss&utm_medium=rss&utm_campaign=dawn-baker",
-            "display_url" : "think-boundless.com/dawn-baker/?ut…",
-            "indices" : [
-              "134",
-              "157"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "157"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1680065046401916928",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1680065046401916928",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 15 04:01:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Why Sheryl Sandberg is Wrong — Dawn Baker on The Art of “Leaning Out” | The Pathless Path Podcast\". https://t.co/b42MMcnJJV",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1679958232222306310"
-          ],
-          "editableUntil" : "2023-07-14T21:57:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/31dfobZOtu",
-            "expanded_url" : "https://summerlightning.substack.com/p/dog-days-at-the-ballpark",
-            "display_url" : "summerlightning.substack.com/p/dog-days-at-…",
-            "indices" : [
-              "61",
-              "84"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "84"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1679958232222306310",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1679958232222306310",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jul 14 20:57:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Dog Days at the Ballpark\". https://t.co/31dfobZOtu",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1679873154137698304"
-          ],
-          "editableUntil" : "2023-07-14T16:19:05.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/XcLnIMtuT3",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-94-c98c0e91ca69?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1679873154137698304",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1679873154137698304",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jul 14 15:19:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #94\". https://t.co/XcLnIMtuT3",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1679467221410537472"
-          ],
-          "editableUntil" : "2023-07-13T13:26:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/t8ONmdLAua",
-            "expanded_url" : "https://nesslabs.com/fear-of-failure?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-failure",
-            "display_url" : "nesslabs.com/fear-of-failur…",
-            "indices" : [
-              "91",
-              "114"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "114"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1679467221410537472",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1679467221410537472",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jul 13 12:26:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Turning Fear of Failure into Increments of Curiosity\". https://t.co/t8ONmdLAua",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1679418807192788992"
-          ],
-          "editableUntil" : "2023-07-13T10:13:40.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/WgDtiTyqcm",
-            "expanded_url" : "https://antlerboy.medium.com/what-do-you-look-for-in-a-conference-speaker-or-chair-2153743a7592?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/what-do-you-lo…",
-            "indices" : [
-              "91",
-              "114"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "114"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1679418807192788992",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1679418807192788992",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jul 13 09:13:40 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What do you look for in a conference speaker or chair?\". https://t.co/WgDtiTyqcm",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1679115463723237377"
-          ],
-          "editableUntil" : "2023-07-12T14:08:17.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/QV2Ox5i9n9",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/human-mrna",
-            "display_url" : "uncertaintymindset.substack.com/p/human-mrna",
-            "indices" : [
-              "54",
-              "77"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "77"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1679115463723237377",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1679115463723237377",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jul 12 13:08:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Human mRNA\". https://t.co/QV2Ox5i9n9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1678411493119782917"
-          ],
-          "editableUntil" : "2023-07-10T15:30:57.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Stripe",
-            "screen_name" : "stripe",
-            "indices" : [
-              "21",
-              "28"
-            ],
-            "id_str" : "102812444",
-            "id" : "102812444"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/D8ORE978mo",
-            "expanded_url" : "https://www.youtube.com/watch?v=fQ070EvN9U4",
-            "display_url" : "youtube.com/watch?v=fQ070E…",
-            "indices" : [
-              "74",
-              "97"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "182"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1678411493119782917",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1678411493119782917",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jul 10 14:30:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading @stripe 's  \"Increment magazine Issue 19: Planning\"\n\nhttps://t.co/D8ORE978mo\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1677462074404773889"
-          ],
-          "editableUntil" : "2023-07-08T00:38:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Y4PRf6ANxY",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/cafes-and-grand-narratives",
-            "display_url" : "studio.ribbonfarm.com/p/cafes-and-gr…",
-            "indices" : [
-              "63",
-              "86"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "86"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1677462074404773889",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1677462074404773889",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jul 07 23:38:18 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Cafes and Grand Narratives\". https://t.co/Y4PRf6ANxY",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1677336521123217413"
-          ],
-          "editableUntil" : "2023-07-07T16:19:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/oHuRSmYO4F",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-93-4b7d0f021f6a?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1677336521123217413",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1677336521123217413",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jul 07 15:19:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #93\". https://t.co/oHuRSmYO4F",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1677129960601841664"
-          ],
-          "editableUntil" : "2023-07-07T02:38:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/gczBnDHEtx",
-            "expanded_url" : "https://summerlightning.substack.com/p/songs-from-the-comatose-couch",
-            "display_url" : "summerlightning.substack.com/p/songs-from-t…",
-            "indices" : [
-              "66",
-              "89"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "89"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1677129960601841664",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1677129960601841664",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jul 07 01:38:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Songs From The Comatose Couch\". https://t.co/gczBnDHEtx",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1676515948721844225"
-          ],
-          "editableUntil" : "2023-07-05T09:58:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/MeLy5X8uiT",
-            "expanded_url" : "https://antlerboy.medium.com/what-have-you-read-from-me-that-resonated-what-would-you-like-to-hear-more-of-1f55c1f0ec7d?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/what-have-you-…",
-            "indices" : [
-              "117",
-              "140"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1676515948721844225",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1676515948721844225",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jul 05 08:58:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What have you read, from me, that resonated?What would you like to hear more of?\". https://t.co/MeLy5X8uiT",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1674935328493256706"
-          ],
-          "editableUntil" : "2023-07-01T01:17:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/LTvYrZk7nq",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/magic-mundanity-and-deep-protocolization",
-            "display_url" : "studio.ribbonfarm.com/p/magic-mundan…",
-            "indices" : [
-              "78",
-              "101"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "101"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1674935328493256706",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1674935328493256706",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 01 00:17:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Magic, Mundanity and Deep Protocolization\". https://t.co/LTvYrZk7nq",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1674850138223673358"
-          ],
-          "editableUntil" : "2023-06-30T19:39:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/peGCoqNJbC",
-            "expanded_url" : "https://yakcollective.substack.com/p/archetypes",
-            "display_url" : "yakcollective.substack.com/p/archetypes",
-            "indices" : [
-              "71",
-              "94"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "94"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1674850138223673358",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1674850138223673358",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 30 18:39:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out the latest edition of the Yak Talk newsletter, \"Archetypes\". https://t.co/peGCoqNJbC",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1674586775434543106"
-          ],
-          "editableUntil" : "2023-06-30T02:12:54.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chris Butler",
-            "screen_name" : "chrizbot",
-            "indices" : [
-              "10",
-              "19"
-            ],
-            "id_str" : "1594631",
-            "id" : "1594631"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/z41EJOsm37",
-            "expanded_url" : "https://medium.com/predict/micromanaged-dont-fight-your-bureaucracy-insure-against-it-6c31ad9c33a7?source=rss-ba6349c9c628------2",
-            "display_url" : "medium.com/predict/microm…",
-            "indices" : [
-              "98",
-              "121"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "121"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1674586775434543106",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1674586775434543106",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 30 01:12:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @chrizbot's new post, \"MICROMANAGED? Don’t fight your bureaucracy, insure against it!\". https://t.co/z41EJOsm37",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1674580572163678208"
-          ],
-          "editableUntil" : "2023-06-30T01:48:15.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/fwotqq1er7",
-            "expanded_url" : "https://summerlightning.substack.com/p/ghost-trees",
-            "display_url" : "summerlightning.substack.com/p/ghost-trees",
-            "indices" : [
-              "49",
-              "72"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "72"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1674580572163678208",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1674580572163678208",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 30 00:48:15 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Ghost Trees \". https://t.co/fwotqq1er7",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1674086186388799491"
-          ],
-          "editableUntil" : "2023-06-28T17:03:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/PJesiuyPdl",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/good-brittle",
-            "display_url" : "uncertaintymindset.substack.com/p/good-brittle",
-            "indices" : [
-              "56",
-              "79"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "79"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1674086186388799491",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1674086186388799491",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 28 16:03:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Good brittle\". https://t.co/PJesiuyPdl",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1674064079391006724"
-          ],
-          "editableUntil" : "2023-06-28T15:35:53.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/wgGaYu1zTm",
-            "expanded_url" : "https://nesslabs.com/10000-hour-rule?utm_source=rss&utm_medium=rss&utm_campaign=10000-hour-rule",
-            "display_url" : "nesslabs.com/10000-hour-rul…",
-            "indices" : [
-              "80",
-              "103"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1674064079391006724",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1674064079391006724",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 28 14:35:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The false promise of the 10,000 hour rule\". https://t.co/wgGaYu1zTm",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1577141560646553600"
           ],
           "editableUntil" : "2022-10-04T04:10:24.000Z",
@@ -27716,7 +30109,7 @@ window.YTD.tweets.part0 = [
         "0",
         "146"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1567992862406766592",
       "truncated" : false,
       "retweet_count" : "0",
@@ -30580,7 +32973,7 @@ window.YTD.tweets.part0 = [
         "0",
         "126"
       ],
-      "favorite_count" : "4",
+      "favorite_count" : "2",
       "id_str" : "1548931358004690944",
       "truncated" : false,
       "retweet_count" : "1",
@@ -31158,10 +33551,10 @@ window.YTD.tweets.part0 = [
         "0",
         "160"
       ],
-      "favorite_count" : "16",
+      "favorite_count" : "15",
       "id_str" : "1545457171139215360",
       "truncated" : false,
-      "retweet_count" : "5",
+      "retweet_count" : "4",
       "id" : "1545457171139215360",
       "created_at" : "Fri Jul 08 17:17:57 +0000 2022",
       "favorited" : false,
@@ -34572,7 +36965,7 @@ window.YTD.tweets.part0 = [
         "0",
         "146"
       ],
-      "favorite_count" : "6",
+      "favorite_count" : "5",
       "id_str" : "1531418784304492544",
       "truncated" : false,
       "retweet_count" : "1",
@@ -35673,7 +38066,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -36978,6 +39371,1131 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1681221999765454848"
+          ],
+          "editableUntil" : "2023-07-18T09:38:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "charity",
+            "indices" : [
+              "64",
+              "72"
+            ]
+          },
+          {
+            "text" : "community",
+            "indices" : [
+              "77",
+              "87"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/MwnoRjoPAf",
+            "expanded_url" : "https://antlerboy.medium.com/whats-the-difference-between-charity-and-community-7fd678fa0b2c?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/whats-the-diff…",
+            "indices" : [
+              "91",
+              "114"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "114"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1681221999765454848",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1681221999765454848",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Jul 18 08:38:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"What’s the difference between #charity and #community?\". https://t.co/MwnoRjoPAf",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1680752153999147013"
+          ],
+          "editableUntil" : "2023-07-17T02:31:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/1FJNGzp8ct",
+            "expanded_url" : "https://think-boundless.com/aida-alston/?utm_source=rss&utm_medium=rss&utm_campaign=aida-alston",
+            "display_url" : "think-boundless.com/aida-alston/?u…",
+            "indices" : [
+              "168",
+              "191"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "191"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1680752153999147013",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1680752153999147013",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jul 17 01:31:55 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"The Nonlinear Life Path: College at 16, Med School in Cuba &amp; Starting Over After Kids – Aida Alston | The Pathless Path Podcast\". https://t.co/1FJNGzp8ct",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1680747030744911874"
+          ],
+          "editableUntil" : "2023-07-17T02:11:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/0xCNrDOk7l",
+            "expanded_url" : "https://think-boundless.com/diewithzero/?utm_source=rss&utm_medium=rss&utm_campaign=diewithzero",
+            "display_url" : "think-boundless.com/diewithzero/?u…",
+            "indices" : [
+              "120",
+              "143"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "143"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1680747030744911874",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1680747030744911874",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jul 17 01:11:33 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Die With Zero: Why Too Many Save Too Much for Too Late In Their Lives (Book Review)\". https://t.co/0xCNrDOk7l",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1680612545449668611"
+          ],
+          "editableUntil" : "2023-07-16T17:17:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/4KrUTGlM3o",
+            "expanded_url" : "https://think-boundless.com/luke-burgis/?utm_source=rss&utm_medium=rss&utm_campaign=luke-burgis",
+            "display_url" : "think-boundless.com/luke-burgis/?u…",
+            "indices" : [
+              "133",
+              "156"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "156"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1680612545449668611",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1680612545449668611",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Jul 16 16:17:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Luke Burgis on Mimetic Desire, The Three City Problem &amp; Academia | The Pathless Path Podcast\". https://t.co/4KrUTGlM3o",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1680604908691640322"
+          ],
+          "editableUntil" : "2023-07-16T16:46:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/pEtmJkNBd9",
+            "expanded_url" : "https://think-boundless.com/melvin-vargheese/?utm_source=rss&utm_medium=rss&utm_campaign=melvin-vargheese",
+            "display_url" : "think-boundless.com/melvin-varghee…",
+            "indices" : [
+              "103",
+              "126"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "126"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1680604908691640322",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1680604908691640322",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Jul 16 15:46:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Melvin Varghese: The Creator Therapist | The Pathless Path Podcast\". https://t.co/pEtmJkNBd9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1680071603109937152"
+          ],
+          "editableUntil" : "2023-07-15T05:27:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Ztp9Wi9dh1",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/grimdark-hopepunk-with-a-chance-of",
+            "display_url" : "studio.ribbonfarm.com/p/grimdark-hop…",
+            "indices" : [
+              "80",
+              "103"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "103"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1680071603109937152",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1680071603109937152",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jul 15 04:27:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Grimdark-Hopepunk With a Chance of Icecream\". https://t.co/Ztp9Wi9dh1",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1680065046401916928"
+          ],
+          "editableUntil" : "2023-07-15T05:01:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/b42MMcnJJV",
+            "expanded_url" : "https://think-boundless.com/dawn-baker/?utm_source=rss&utm_medium=rss&utm_campaign=dawn-baker",
+            "display_url" : "think-boundless.com/dawn-baker/?ut…",
+            "indices" : [
+              "134",
+              "157"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "157"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1680065046401916928",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1680065046401916928",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jul 15 04:01:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Why Sheryl Sandberg is Wrong — Dawn Baker on The Art of “Leaning Out” | The Pathless Path Podcast\". https://t.co/b42MMcnJJV",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1679958232222306310"
+          ],
+          "editableUntil" : "2023-07-14T21:57:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/31dfobZOtu",
+            "expanded_url" : "https://summerlightning.substack.com/p/dog-days-at-the-ballpark",
+            "display_url" : "summerlightning.substack.com/p/dog-days-at-…",
+            "indices" : [
+              "61",
+              "84"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "84"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1679958232222306310",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1679958232222306310",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jul 14 20:57:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Dog Days at the Ballpark\". https://t.co/31dfobZOtu",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1679873154137698304"
+          ],
+          "editableUntil" : "2023-07-14T16:19:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/XcLnIMtuT3",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-94-c98c0e91ca69?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1679873154137698304",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1679873154137698304",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jul 14 15:19:05 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #94\". https://t.co/XcLnIMtuT3",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1679467221410537472"
+          ],
+          "editableUntil" : "2023-07-13T13:26:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/t8ONmdLAua",
+            "expanded_url" : "https://nesslabs.com/fear-of-failure?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-failure",
+            "display_url" : "nesslabs.com/fear-of-failur…",
+            "indices" : [
+              "91",
+              "114"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "114"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1679467221410537472",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1679467221410537472",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jul 13 12:26:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Turning Fear of Failure into Increments of Curiosity\". https://t.co/t8ONmdLAua",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1679418807192788992"
+          ],
+          "editableUntil" : "2023-07-13T10:13:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/WgDtiTyqcm",
+            "expanded_url" : "https://antlerboy.medium.com/what-do-you-look-for-in-a-conference-speaker-or-chair-2153743a7592?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/what-do-you-lo…",
+            "indices" : [
+              "91",
+              "114"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "114"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1679418807192788992",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1679418807192788992",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jul 13 09:13:40 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"What do you look for in a conference speaker or chair?\". https://t.co/WgDtiTyqcm",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1679115463723237377"
+          ],
+          "editableUntil" : "2023-07-12T14:08:17.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/QV2Ox5i9n9",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/human-mrna",
+            "display_url" : "uncertaintymindset.substack.com/p/human-mrna",
+            "indices" : [
+              "54",
+              "77"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "77"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1679115463723237377",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1679115463723237377",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jul 12 13:08:17 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Human mRNA\". https://t.co/QV2Ox5i9n9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1678411493119782917"
+          ],
+          "editableUntil" : "2023-07-10T15:30:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Stripe",
+            "screen_name" : "stripe",
+            "indices" : [
+              "21",
+              "28"
+            ],
+            "id_str" : "102812444",
+            "id" : "102812444"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/D8ORE978mo",
+            "expanded_url" : "https://www.youtube.com/watch?v=fQ070EvN9U4",
+            "display_url" : "youtube.com/watch?v=fQ070E…",
+            "indices" : [
+              "74",
+              "97"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "182"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1678411493119782917",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1678411493119782917",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jul 10 14:30:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading @stripe 's  \"Increment magazine Issue 19: Planning\"\n\nhttps://t.co/D8ORE978mo\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1677462074404773889"
+          ],
+          "editableUntil" : "2023-07-08T00:38:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Y4PRf6ANxY",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/cafes-and-grand-narratives",
+            "display_url" : "studio.ribbonfarm.com/p/cafes-and-gr…",
+            "indices" : [
+              "63",
+              "86"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "86"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1677462074404773889",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1677462074404773889",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jul 07 23:38:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Cafes and Grand Narratives\". https://t.co/Y4PRf6ANxY",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1677336521123217413"
+          ],
+          "editableUntil" : "2023-07-07T16:19:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/oHuRSmYO4F",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-93-4b7d0f021f6a?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1677336521123217413",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1677336521123217413",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jul 07 15:19:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #93\". https://t.co/oHuRSmYO4F",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1677129960601841664"
+          ],
+          "editableUntil" : "2023-07-07T02:38:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/gczBnDHEtx",
+            "expanded_url" : "https://summerlightning.substack.com/p/songs-from-the-comatose-couch",
+            "display_url" : "summerlightning.substack.com/p/songs-from-t…",
+            "indices" : [
+              "66",
+              "89"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "89"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1677129960601841664",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1677129960601841664",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jul 07 01:38:36 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Songs From The Comatose Couch\". https://t.co/gczBnDHEtx",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1676515948721844225"
+          ],
+          "editableUntil" : "2023-07-05T09:58:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/MeLy5X8uiT",
+            "expanded_url" : "https://antlerboy.medium.com/what-have-you-read-from-me-that-resonated-what-would-you-like-to-hear-more-of-1f55c1f0ec7d?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/what-have-you-…",
+            "indices" : [
+              "117",
+              "140"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1676515948721844225",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1676515948721844225",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jul 05 08:58:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"What have you read, from me, that resonated?What would you like to hear more of?\". https://t.co/MeLy5X8uiT",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1674935328493256706"
+          ],
+          "editableUntil" : "2023-07-01T01:17:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/LTvYrZk7nq",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/magic-mundanity-and-deep-protocolization",
+            "display_url" : "studio.ribbonfarm.com/p/magic-mundan…",
+            "indices" : [
+              "78",
+              "101"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "101"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1674935328493256706",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1674935328493256706",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jul 01 00:17:55 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Magic, Mundanity and Deep Protocolization\". https://t.co/LTvYrZk7nq",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1674850138223673358"
+          ],
+          "editableUntil" : "2023-06-30T19:39:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/peGCoqNJbC",
+            "expanded_url" : "https://yakcollective.substack.com/p/archetypes",
+            "display_url" : "yakcollective.substack.com/p/archetypes",
+            "indices" : [
+              "71",
+              "94"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "94"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1674850138223673358",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1674850138223673358",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 30 18:39:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out the latest edition of the Yak Talk newsletter, \"Archetypes\". https://t.co/peGCoqNJbC",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1674586775434543106"
+          ],
+          "editableUntil" : "2023-06-30T02:12:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chris Butler",
+            "screen_name" : "chrizbot",
+            "indices" : [
+              "10",
+              "19"
+            ],
+            "id_str" : "1594631",
+            "id" : "1594631"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/z41EJOsm37",
+            "expanded_url" : "https://medium.com/predict/micromanaged-dont-fight-your-bureaucracy-insure-against-it-6c31ad9c33a7?source=rss-ba6349c9c628------2",
+            "display_url" : "medium.com/predict/microm…",
+            "indices" : [
+              "98",
+              "121"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "121"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1674586775434543106",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1674586775434543106",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 30 01:12:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @chrizbot's new post, \"MICROMANAGED? Don’t fight your bureaucracy, insure against it!\". https://t.co/z41EJOsm37",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1523332983930986498"
           ],
           "editableUntil" : "2022-05-08T16:34:20.000Z",
@@ -37746,7 +41264,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Amanda Reeves",
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
             "screen_name" : "WabiSabiFutures",
             "indices" : [
               "37",
@@ -38216,1116 +41734,6 @@ window.YTD.tweets.part0 = [
       "favorited" : false,
       "full_text" : "Today's featured yak: Mike Wimsatt  https://t.co/ieIfpUsY0W",
       "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1673970493525721091"
-          ],
-          "editableUntil" : "2023-06-28T09:24:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/aDbnXiCRCj",
-            "expanded_url" : "https://antlerboy.medium.com/im-looking-forward-to-hosting-the-public-sector-show-next-week-in-the-midst-of-the-polycrisis-793ddb31daf4?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/im-looking-for…",
-            "indices" : [
-              "133",
-              "156"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "156"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1673970493525721091",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1673970493525721091",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 28 08:24:01 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"I’m looking forward to hosting the Public Sector Show next week — in the midst of the polycrisis\". https://t.co/aDbnXiCRCj",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1673540843733483520"
-          ],
-          "editableUntil" : "2023-06-27T04:56:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/MQMSlhijxe",
-            "expanded_url" : "https://think-boundless.com/kevin-kelly/?utm_source=rss&utm_medium=rss&utm_campaign=kevin-kelly",
-            "display_url" : "think-boundless.com/kevin-kelly/?u…",
-            "indices" : [
-              "221",
-              "244"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "244"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1673540843733483520",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1673540843733483520",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Jun 27 03:56:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Goofing Off On Purpose – Kevin Kelly on owning his time, staying optimistic about the future, raising children, and his new book Excellent Advice for Living | The Pathless Path Podcast\". https://t.co/MQMSlhijxe",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1673336919063707655"
-          ],
-          "editableUntil" : "2023-06-26T15:26:25.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Gps2lTqlGH",
-            "expanded_url" : "http://bit.ly/3BLYCsr",
-            "display_url" : "bit.ly/3BLYCsr",
-            "indices" : [
-              "159",
-              "182"
-            ]
-          },
-          {
-            "url" : "https://t.co/TvJoitYSIB",
-            "expanded_url" : "https://www.youtube.com/watch?v=f6ia4N3Agqs",
-            "display_url" : "youtube.com/watch?v=f6ia4N…",
-            "indices" : [
-              "184",
-              "207"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "207"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1673336919063707655",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1673336919063707655",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jun 26 14:26:25 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading - \n\n\"Society's Technical Debt and Software's Gutenberg Moment\" \n\nin our Distributed Systems Study Group. Livestream in 1 hour on YouTube\n\nhttps://t.co/Gps2lTqlGH\n\nhttps://t.co/TvJoitYSIB",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1673157019761618946"
-          ],
-          "editableUntil" : "2023-06-26T03:31:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/ogaEI8tjH1",
-            "expanded_url" : "https://think-boundless.com/derek/?utm_source=rss&utm_medium=rss&utm_campaign=derek",
-            "display_url" : "think-boundless.com/derek/?utm_sou…",
-            "indices" : [
-              "49",
-              "72"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "72"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1673157019761618946",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1673157019761618946",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jun 26 02:31:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Derek Sivers\". https://t.co/ogaEI8tjH1",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1672691901227491328"
-          ],
-          "editableUntil" : "2023-06-24T20:43:21.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/qXLr2MxE97",
-            "expanded_url" : "https://summerlightning.substack.com/p/too-much-birthday",
-            "display_url" : "summerlightning.substack.com/p/too-much-bir…",
-            "indices" : [
-              "55",
-              "78"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "78"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1672691901227491328",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1672691901227491328",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 24 19:43:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Too Much Birthday \". https://t.co/qXLr2MxE97",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1672672689113255937"
-          ],
-          "editableUntil" : "2023-06-24T19:27:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/rhqIVqWo8t",
-            "expanded_url" : "https://think-boundless.com/annagat/?utm_source=rss&utm_medium=rss&utm_campaign=annagat",
-            "display_url" : "think-boundless.com/annagat/?utm_s…",
-            "indices" : [
-              "96",
-              "119"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "119"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1672672689113255937",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1672672689113255937",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 24 18:27:00 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"Anna Gát Reinvented Herself and Intellectual Culture Online\". https://t.co/rhqIVqWo8t",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1672439984802897921"
-          ],
-          "editableUntil" : "2023-06-24T04:02:19.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/xYtSwWuOWX",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/the-titan-affair",
-            "display_url" : "studio.ribbonfarm.com/p/the-titan-af…",
-            "indices" : [
-              "53",
-              "76"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "76"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1672439984802897921",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1672439984802897921",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 24 03:02:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Titan Affair\". https://t.co/xYtSwWuOWX",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1672349263064432643"
-          ],
-          "editableUntil" : "2023-06-23T22:01:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Mg5WfhKULD",
-            "expanded_url" : "https://think-boundless.com/selfpublishinglessons/?utm_source=rss&utm_medium=rss&utm_campaign=selfpublishinglessons",
-            "display_url" : "think-boundless.com/selfpublishing…",
-            "indices" : [
-              "106",
-              "129"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "129"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1672349263064432643",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1672349263064432643",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 23 21:01:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"My Self-Publishing Journey &amp; Lessons Learned (71 Page Slide Deck)\". https://t.co/Mg5WfhKULD",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1672260240270557184"
-          ],
-          "editableUntil" : "2023-06-23T16:08:05.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/ISFihFcgvn",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-92-9bbcfc0a9507?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1672260240270557184",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1672260240270557184",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 23 15:08:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #92\". https://t.co/ISFihFcgvn",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1671803605626568705"
-          ],
-          "editableUntil" : "2023-06-22T09:53:34.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/at8G5Ns7Ns",
-            "expanded_url" : "https://antlerboy.medium.com/the-operational-excellence-summit-in-hamburg-exceeded-my-expectations-1833e3418bc5?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/the-operationa…",
-            "indices" : [
-              "107",
-              "130"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1671803605626568705",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1671803605626568705",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jun 22 08:53:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"The Operational Excellence summit in Hamburg exceeded my expectations.\". https://t.co/at8G5Ns7Ns",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1671597615534710785"
-          ],
-          "editableUntil" : "2023-06-21T20:15:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Gps2lTqlGH",
-            "expanded_url" : "http://bit.ly/3BLYCsr",
-            "display_url" : "bit.ly/3BLYCsr",
-            "indices" : [
-              "68",
-              "91"
-            ]
-          },
-          {
-            "url" : "https://t.co/OvPHNNXaja",
-            "expanded_url" : "https://youtu.be/I8ONC6HiCrc",
-            "display_url" : "youtu.be/I8ONC6HiCrc",
-            "indices" : [
-              "93",
-              "116"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "116"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1671597615534710785",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1671597615534710785",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 21 19:15:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Component Selection Session for YakRover Yakasaur is up on YouTube\n\nhttps://t.co/Gps2lTqlGH\n\nhttps://t.co/OvPHNNXaja",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1670800146139889670"
-          ],
-          "editableUntil" : "2023-06-19T15:26:11.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/9B8ZkhrsQW",
-            "expanded_url" : "https://www.youtube.com/watch?v=Qmvk3AkTPcc",
-            "display_url" : "youtube.com/watch?v=Qmvk3A…",
-            "indices" : [
-              "127",
-              "150"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "150"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1670800146139889670",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1670800146139889670",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jun 19 14:26:11 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading \"Latency in Distributed Systems\" in our Distributed Systems Study Group\n\nLive streams starts in one hour\n\nhttps://t.co/9B8ZkhrsQW",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1670188652960309248"
-          ],
-          "editableUntil" : "2023-06-17T22:56:20.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/gbtrk9eVbK",
-            "expanded_url" : "https://think-boundless.com/mediocre/?utm_source=rss&utm_medium=rss&utm_campaign=mediocre",
-            "display_url" : "think-boundless.com/mediocre/?utm_…",
-            "indices" : [
-              "60",
-              "83"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1670188652960309248",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1670188652960309248",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 17 21:56:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"The Way of Mediocre Man\". https://t.co/gbtrk9eVbK",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1670144957468798977"
-          ],
-          "editableUntil" : "2023-06-17T20:02:42.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Si17SOkTmM",
-            "expanded_url" : "https://summerlightning.substack.com/p/tote-americana",
-            "display_url" : "summerlightning.substack.com/p/tote-america…",
-            "indices" : [
-              "52",
-              "75"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "75"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1670144957468798977",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1670144957468798977",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 17 19:02:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Tote Americana \". https://t.co/Si17SOkTmM",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1669919586945232898"
-          ],
-          "editableUntil" : "2023-06-17T05:07:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/K5jzmPA2Hr",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/book-review-slouching-towards-utopia",
-            "display_url" : "studio.ribbonfarm.com/p/book-review-…",
-            "indices" : [
-              "74",
-              "97"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "97"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1669919586945232898",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1669919586945232898",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 17 04:07:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Book Review: Slouching Towards Utopia\". https://t.co/K5jzmPA2Hr",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1669759143039709186"
-          ],
-          "editableUntil" : "2023-06-16T18:29:36.982Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Anuraj R.",
-            "screen_name" : "anurajenp",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "2721763552",
-            "id" : "2721763552"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1669759143039709186",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1669759143039709186",
-      "created_at" : "Fri Jun 16 17:29:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @anurajenp: would the microphone on yakasaur be able to listen to the pitter patter of little feet of ants ?🐜 \n\ndiscussion on @yak_colle…",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1669747072701018130"
-          ],
-          "editableUntil" : "2023-06-16T17:41:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "7",
-              "17"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/lEMEGWdHKK",
-            "expanded_url" : "https://youtube.com/shorts/suzTSHrYI2w?feature=share",
-            "display_url" : "youtube.com/shorts/suzTSHr…",
-            "indices" : [
-              "121",
-              "144"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "144"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1669747072701018130",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1669747072701018130",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 16 16:41:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "We had @p_millerd with us a couple of days ago to talk about \"The Pathless Path\" and the challenges of indie consulting\n\nhttps://t.co/lEMEGWdHKK",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1669727591337451521"
-          ],
-          "editableUntil" : "2023-06-16T16:24:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/R0toWq6mJ4",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-91-84070a584483?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1669727591337451521",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1669727591337451521",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 16 15:24:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #91\". https://t.co/R0toWq6mJ4",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1669356956434436104"
-          ],
-          "editableUntil" : "2023-06-15T15:51:28.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/ZiaxpG110b",
-            "expanded_url" : "https://nesslabs.com/creative-burnout?utm_source=rss&utm_medium=rss&utm_campaign=creative-burnout",
-            "display_url" : "nesslabs.com/creative-burno…",
-            "indices" : [
-              "89",
-              "112"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "112"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1669356956434436104",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1669356956434436104",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jun 15 14:51:28 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Creative burnout: when the creativity tap runs dry\". https://t.co/ZiaxpG110b",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1669015796083748866"
-          ],
-          "editableUntil" : "2023-06-14T17:15:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "17",
-              "27"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/OlXHDdfQpg",
-            "expanded_url" : "https://www.youtube.com/watch?v=LrAOQ2G4gWE",
-            "display_url" : "youtube.com/watch?v=LrAOQ2…",
-            "indices" : [
-              "60",
-              "83"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1669015796083748866",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1669015796083748866",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 14 16:15:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "We are live with @p_millerd discussing \"The Pathless Path\"\n\nhttps://t.co/OlXHDdfQpg",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
     }
   },
   {
@@ -42259,18 +44667,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Rodrigo Pinto",
-            "screen_name" : "Rodrigo_plp",
-            "indices" : [
-              "37",
-              "49"
-            ],
-            "id_str" : "3075441796",
-            "id" : "3075441796"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
             "url" : "https://t.co/O2i2XYZm2S",
@@ -43323,7 +45720,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -46737,7 +49134,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Amanda Reeves",
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
             "screen_name" : "WabiSabiFutures",
             "indices" : [
               "37",
@@ -49440,6 +51837,1102 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1674580572163678208"
+          ],
+          "editableUntil" : "2023-06-30T01:48:15.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/fwotqq1er7",
+            "expanded_url" : "https://summerlightning.substack.com/p/ghost-trees",
+            "display_url" : "summerlightning.substack.com/p/ghost-trees",
+            "indices" : [
+              "49",
+              "72"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "72"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1674580572163678208",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1674580572163678208",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 30 00:48:15 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Ghost Trees \". https://t.co/fwotqq1er7",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1674086186388799491"
+          ],
+          "editableUntil" : "2023-06-28T17:03:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/PJesiuyPdl",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/good-brittle",
+            "display_url" : "uncertaintymindset.substack.com/p/good-brittle",
+            "indices" : [
+              "56",
+              "79"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "79"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1674086186388799491",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1674086186388799491",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 28 16:03:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Good brittle\". https://t.co/PJesiuyPdl",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1674064079391006724"
+          ],
+          "editableUntil" : "2023-06-28T15:35:53.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/wgGaYu1zTm",
+            "expanded_url" : "https://nesslabs.com/10000-hour-rule?utm_source=rss&utm_medium=rss&utm_campaign=10000-hour-rule",
+            "display_url" : "nesslabs.com/10000-hour-rul…",
+            "indices" : [
+              "80",
+              "103"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "103"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1674064079391006724",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1674064079391006724",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 28 14:35:53 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The false promise of the 10,000 hour rule\". https://t.co/wgGaYu1zTm",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1673970493525721091"
+          ],
+          "editableUntil" : "2023-06-28T09:24:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/aDbnXiCRCj",
+            "expanded_url" : "https://antlerboy.medium.com/im-looking-forward-to-hosting-the-public-sector-show-next-week-in-the-midst-of-the-polycrisis-793ddb31daf4?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/im-looking-for…",
+            "indices" : [
+              "133",
+              "156"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "156"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1673970493525721091",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1673970493525721091",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 28 08:24:01 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"I’m looking forward to hosting the Public Sector Show next week — in the midst of the polycrisis\". https://t.co/aDbnXiCRCj",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1673540843733483520"
+          ],
+          "editableUntil" : "2023-06-27T04:56:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/MQMSlhijxe",
+            "expanded_url" : "https://think-boundless.com/kevin-kelly/?utm_source=rss&utm_medium=rss&utm_campaign=kevin-kelly",
+            "display_url" : "think-boundless.com/kevin-kelly/?u…",
+            "indices" : [
+              "221",
+              "244"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "244"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1673540843733483520",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1673540843733483520",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Jun 27 03:56:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Goofing Off On Purpose – Kevin Kelly on owning his time, staying optimistic about the future, raising children, and his new book Excellent Advice for Living | The Pathless Path Podcast\". https://t.co/MQMSlhijxe",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1673336919063707655"
+          ],
+          "editableUntil" : "2023-06-26T15:26:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Gps2lTqlGH",
+            "expanded_url" : "http://bit.ly/3BLYCsr",
+            "display_url" : "bit.ly/3BLYCsr",
+            "indices" : [
+              "159",
+              "182"
+            ]
+          },
+          {
+            "url" : "https://t.co/TvJoitYSIB",
+            "expanded_url" : "https://www.youtube.com/watch?v=f6ia4N3Agqs",
+            "display_url" : "youtube.com/watch?v=f6ia4N…",
+            "indices" : [
+              "184",
+              "207"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "207"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1673336919063707655",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1673336919063707655",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jun 26 14:26:25 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading - \n\n\"Society's Technical Debt and Software's Gutenberg Moment\" \n\nin our Distributed Systems Study Group. Livestream in 1 hour on YouTube\n\nhttps://t.co/Gps2lTqlGH\n\nhttps://t.co/TvJoitYSIB",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1673157019761618946"
+          ],
+          "editableUntil" : "2023-06-26T03:31:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ogaEI8tjH1",
+            "expanded_url" : "https://think-boundless.com/derek/?utm_source=rss&utm_medium=rss&utm_campaign=derek",
+            "display_url" : "think-boundless.com/derek/?utm_sou…",
+            "indices" : [
+              "49",
+              "72"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "72"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1673157019761618946",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1673157019761618946",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jun 26 02:31:33 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Derek Sivers\". https://t.co/ogaEI8tjH1",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1672691901227491328"
+          ],
+          "editableUntil" : "2023-06-24T20:43:21.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/qXLr2MxE97",
+            "expanded_url" : "https://summerlightning.substack.com/p/too-much-birthday",
+            "display_url" : "summerlightning.substack.com/p/too-much-bir…",
+            "indices" : [
+              "55",
+              "78"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "78"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1672691901227491328",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1672691901227491328",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jun 24 19:43:21 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Too Much Birthday \". https://t.co/qXLr2MxE97",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1672672689113255937"
+          ],
+          "editableUntil" : "2023-06-24T19:27:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/rhqIVqWo8t",
+            "expanded_url" : "https://think-boundless.com/annagat/?utm_source=rss&utm_medium=rss&utm_campaign=annagat",
+            "display_url" : "think-boundless.com/annagat/?utm_s…",
+            "indices" : [
+              "96",
+              "119"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "119"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1672672689113255937",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1672672689113255937",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jun 24 18:27:00 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"Anna Gát Reinvented Herself and Intellectual Culture Online\". https://t.co/rhqIVqWo8t",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1672439984802897921"
+          ],
+          "editableUntil" : "2023-06-24T04:02:19.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/xYtSwWuOWX",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/the-titan-affair",
+            "display_url" : "studio.ribbonfarm.com/p/the-titan-af…",
+            "indices" : [
+              "53",
+              "76"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "76"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1672439984802897921",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1672439984802897921",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jun 24 03:02:19 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"The Titan Affair\". https://t.co/xYtSwWuOWX",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1672349263064432643"
+          ],
+          "editableUntil" : "2023-06-23T22:01:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Mg5WfhKULD",
+            "expanded_url" : "https://think-boundless.com/selfpublishinglessons/?utm_source=rss&utm_medium=rss&utm_campaign=selfpublishinglessons",
+            "display_url" : "think-boundless.com/selfpublishing…",
+            "indices" : [
+              "106",
+              "129"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "129"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1672349263064432643",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1672349263064432643",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 23 21:01:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"My Self-Publishing Journey &amp; Lessons Learned (71 Page Slide Deck)\". https://t.co/Mg5WfhKULD",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1672260240270557184"
+          ],
+          "editableUntil" : "2023-06-23T16:08:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ISFihFcgvn",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-92-9bbcfc0a9507?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1672260240270557184",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1672260240270557184",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 23 15:08:05 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #92\". https://t.co/ISFihFcgvn",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1671803605626568705"
+          ],
+          "editableUntil" : "2023-06-22T09:53:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/at8G5Ns7Ns",
+            "expanded_url" : "https://antlerboy.medium.com/the-operational-excellence-summit-in-hamburg-exceeded-my-expectations-1833e3418bc5?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/the-operationa…",
+            "indices" : [
+              "107",
+              "130"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "130"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1671803605626568705",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1671803605626568705",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jun 22 08:53:34 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"The Operational Excellence summit in Hamburg exceeded my expectations.\". https://t.co/at8G5Ns7Ns",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1671597615534710785"
+          ],
+          "editableUntil" : "2023-06-21T20:15:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Gps2lTqlGH",
+            "expanded_url" : "http://bit.ly/3BLYCsr",
+            "display_url" : "bit.ly/3BLYCsr",
+            "indices" : [
+              "68",
+              "91"
+            ]
+          },
+          {
+            "url" : "https://t.co/OvPHNNXaja",
+            "expanded_url" : "https://youtu.be/I8ONC6HiCrc",
+            "display_url" : "youtu.be/I8ONC6HiCrc",
+            "indices" : [
+              "93",
+              "116"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "116"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1671597615534710785",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1671597615534710785",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 21 19:15:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Component Selection Session for YakRover Yakasaur is up on YouTube\n\nhttps://t.co/Gps2lTqlGH\n\nhttps://t.co/OvPHNNXaja",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1670800146139889670"
+          ],
+          "editableUntil" : "2023-06-19T15:26:11.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/9B8ZkhrsQW",
+            "expanded_url" : "https://www.youtube.com/watch?v=Qmvk3AkTPcc",
+            "display_url" : "youtube.com/watch?v=Qmvk3A…",
+            "indices" : [
+              "127",
+              "150"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "150"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1670800146139889670",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1670800146139889670",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jun 19 14:26:11 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading \"Latency in Distributed Systems\" in our Distributed Systems Study Group\n\nLive streams starts in one hour\n\nhttps://t.co/9B8ZkhrsQW",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1670188652960309248"
+          ],
+          "editableUntil" : "2023-06-17T22:56:20.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/gbtrk9eVbK",
+            "expanded_url" : "https://think-boundless.com/mediocre/?utm_source=rss&utm_medium=rss&utm_campaign=mediocre",
+            "display_url" : "think-boundless.com/mediocre/?utm_…",
+            "indices" : [
+              "60",
+              "83"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "83"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1670188652960309248",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1670188652960309248",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jun 17 21:56:20 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"The Way of Mediocre Man\". https://t.co/gbtrk9eVbK",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1670144957468798977"
+          ],
+          "editableUntil" : "2023-06-17T20:02:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Si17SOkTmM",
+            "expanded_url" : "https://summerlightning.substack.com/p/tote-americana",
+            "display_url" : "summerlightning.substack.com/p/tote-america…",
+            "indices" : [
+              "52",
+              "75"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1670144957468798977",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1670144957468798977",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jun 17 19:02:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Tote Americana \". https://t.co/Si17SOkTmM",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1669919586945232898"
+          ],
+          "editableUntil" : "2023-06-17T05:07:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/K5jzmPA2Hr",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/book-review-slouching-towards-utopia",
+            "display_url" : "studio.ribbonfarm.com/p/book-review-…",
+            "indices" : [
+              "74",
+              "97"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "97"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1669919586945232898",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1669919586945232898",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jun 17 04:07:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Book Review: Slouching Towards Utopia\". https://t.co/K5jzmPA2Hr",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1669759143039709186"
+          ],
+          "editableUntil" : "2023-06-16T18:29:36.982Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Anuraj R.",
+            "screen_name" : "anurajenp",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "2721763552",
+            "id" : "2721763552"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1669759143039709186",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1669759143039709186",
+      "created_at" : "Fri Jun 16 17:29:36 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @anurajenp: would the microphone on yakasaur be able to listen to the pitter patter of little feet of ants ?🐜 \n\ndiscussion on @yak_colle…",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1669747072701018130"
+          ],
+          "editableUntil" : "2023-06-16T17:41:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "7",
+              "17"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/lEMEGWdHKK",
+            "expanded_url" : "https://youtube.com/shorts/suzTSHrYI2w?feature=share",
+            "display_url" : "youtube.com/shorts/suzTSHr…",
+            "indices" : [
+              "121",
+              "144"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "144"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1669747072701018130",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1669747072701018130",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 16 16:41:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "We had @p_millerd with us a couple of days ago to talk about \"The Pathless Path\" and the challenges of indie consulting\n\nhttps://t.co/lEMEGWdHKK",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1490858708380774401"
           ],
           "editableUntil" : "2022-02-08T02:23:09.550Z",
@@ -50996,1021 +54489,6 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1669002614212575232"
-          ],
-          "editableUntil" : "2023-06-14T16:23:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Gps2lTqlGH",
-            "expanded_url" : "http://bit.ly/3BLYCsr",
-            "display_url" : "bit.ly/3BLYCsr",
-            "indices" : [
-              "74",
-              "97"
-            ]
-          },
-          {
-            "url" : "https://t.co/0WlxHHyYGb",
-            "expanded_url" : "https://www.youtube.com/watch?v=H9FaCA9SpKM",
-            "display_url" : "youtube.com/watch?v=H9FaCA…",
-            "indices" : [
-              "99",
-              "122"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "122"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1669002614212575232",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1669002614212575232",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 14 15:23:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "YakRover Yakasaur \"Mission Scenario Planning Session 2\" is up on YouTube\n\nhttps://t.co/Gps2lTqlGH\n\nhttps://t.co/0WlxHHyYGb",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1668987602194530312"
-          ],
-          "editableUntil" : "2023-06-14T15:23:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/uUqr0DBxri",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/generative-uncertainty",
-            "display_url" : "uncertaintymindset.substack.com/p/generative-u…",
-            "indices" : [
-              "67",
-              "90"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "90"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1668987602194530312",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1668987602194530312",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 14 14:23:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Generative uncertainty.\". https://t.co/uUqr0DBxri",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1668904449706737666"
-          ],
-          "editableUntil" : "2023-06-14T09:53:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/NN5p2R81e4",
-            "expanded_url" : "https://antlerboy.medium.com/whats-the-future-of-operational-excellence-b406392eb9dc?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/whats-the-futu…",
-            "indices" : [
-              "81",
-              "104"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "104"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1668904449706737666",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1668904449706737666",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 14 08:53:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What’s the future of Operational Excellence?\". https://t.co/NN5p2R81e4",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1668808126492016641"
-          ],
-          "editableUntil" : "2023-06-14T03:30:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/M7YEE85a48",
-            "expanded_url" : "https://think-boundless.com/",
-            "display_url" : "think-boundless.com",
-            "indices" : [
-              "60",
-              "83"
-            ]
-          },
-          {
-            "url" : "https://t.co/UMieUbN93P",
-            "expanded_url" : "https://www.yakcollective.org/join.html",
-            "display_url" : "yakcollective.org/join.html",
-            "indices" : [
-              "162",
-              "185"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "185"
-      ],
-      "favorite_count" : "2",
-      "in_reply_to_status_id_str" : "1668806317232750593",
-      "id_str" : "1668808126492016641",
-      "in_reply_to_user_id" : "1254475197274443776",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1668808126492016641",
-      "in_reply_to_status_id" : "1668806317232750593",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 14 02:30:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@p_millerd is author of _The Pathless Path. \nPaul's website https://t.co/M7YEE85a48\n\nIf not already on the Yak Collective server, join up with a few clicks here:\nhttps://t.co/UMieUbN93P",
-      "lang" : "en",
-      "contributors" : [
-        "755296"
-      ],
-      "in_reply_to_screen_name" : "yak_collective",
-      "in_reply_to_user_id_str" : "1254475197274443776"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1668806317232750593"
-          ],
-          "editableUntil" : "2023-06-14T03:23:25.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3qkMzkZi7u",
-            "expanded_url" : "https://discord.com/events/692111190851059762/1106762052934045757",
-            "display_url" : "discord.com/events/6921111…",
-            "indices" : [
-              "215",
-              "238"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "238"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1668806317232750593",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1668806317232750593",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 14 02:23:25 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Indie event tomorrow Tue 2023-06-14. Paul Millard joining us for an conversation about the indie life. Paul is a long-time yak and was lead editor of first Yak Collective report \"Don't waste the reboot\"\nevent link: https://t.co/3qkMzkZi7u",
-      "lang" : "en",
-      "contributors" : [
-        "755296"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1668725484316762116"
-          ],
-          "editableUntil" : "2023-06-13T22:02:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chris Butler",
-            "screen_name" : "chrizbot",
-            "indices" : [
-              "10",
-              "19"
-            ],
-            "id_str" : "1594631",
-            "id" : "1594631"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/hRguyom6ON",
-            "expanded_url" : "https://medium.com/predict/ritefeeling-behavior-modification-program-to-reduce-meetings-ccbd06a1cf3b?source=rss-ba6349c9c628------2",
-            "display_url" : "medium.com/predict/ritefe…",
-            "indices" : [
-              "96",
-              "119"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "119"
-      ],
-      "favorite_count" : "3",
-      "id_str" : "1668725484316762116",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1668725484316762116",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Jun 13 21:02:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @chrizbot's new post, \"RiteFeeling behavior modification program to reduce meetings\". https://t.co/hRguyom6ON",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1668265863059783684"
-          ],
-          "editableUntil" : "2023-06-12T15:35:51.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Eny9wpFoj0",
-            "expanded_url" : "https://www.youtube.com/watch?v=hUAJrcneBqc",
-            "display_url" : "youtube.com/watch?v=hUAJrc…",
-            "indices" : [
-              "85",
-              "108"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "193"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1668265863059783684",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1668265863059783684",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jun 12 14:35:51 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading - \"Computers that live two seconds in the future\" by Matt Webb\n\nhttps://t.co/Eny9wpFoj0\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1667127988217864192"
-          ],
-          "editableUntil" : "2023-06-09T12:14:20.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/HNxrOUWuwx",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-90-a97389296a04?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1667127988217864192",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1667127988217864192",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 09 11:14:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #90\". https://t.co/HNxrOUWuwx",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1666847044864995328"
-          ],
-          "editableUntil" : "2023-06-08T17:37:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/b7j9tNwwD2",
-            "expanded_url" : "https://summerlightning.substack.com/p/carrier-bag-theory-of-non-people",
-            "display_url" : "summerlightning.substack.com/p/carrier-bag-…",
-            "indices" : [
-              "69",
-              "92"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "92"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1666847044864995328",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1666847044864995328",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jun 08 16:37:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Carrier Bag Theory of Non People\". https://t.co/b7j9tNwwD2",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1666836810100531202"
-          ],
-          "editableUntil" : "2023-06-08T16:57:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chris Butler",
-            "screen_name" : "chrizbot",
-            "indices" : [
-              "10",
-              "19"
-            ],
-            "id_str" : "1594631",
-            "id" : "1594631"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3ijTRnnHKz",
-            "expanded_url" : "https://medium.com/agileinsider/how-to-write-good-product-management-fiction-bf03793fd789?source=rss-ba6349c9c628------2",
-            "display_url" : "medium.com/agileinsider/h…",
-            "indices" : [
-              "80",
-              "103"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1666836810100531202",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1666836810100531202",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jun 08 15:57:18 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @chrizbot's new post, \"How to write good product management fiction\". https://t.co/3ijTRnnHKz",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1666376558624350211"
-          ],
-          "editableUntil" : "2023-06-07T10:28:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/fDQn0LlfYz",
-            "expanded_url" : "https://antlerboy.medium.com/vuca-isnt-a-condition-it-s-an-experience-of-the-world-efef145d606a?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/vuca-isnt-a-co…",
-            "indices" : [
-              "94",
-              "117"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "117"
-      ],
-      "favorite_count" : "3",
-      "id_str" : "1666376558624350211",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1666376558624350211",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Jun 07 09:28:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"VUCA isn’t a condition — it’s an experience of the world.\". https://t.co/fDQn0LlfYz",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1665874386845417474"
-          ],
-          "editableUntil" : "2023-06-06T01:12:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chris Butler",
-            "screen_name" : "chrizbot",
-            "indices" : [
-              "10",
-              "19"
-            ],
-            "id_str" : "1594631",
-            "id" : "1594631"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/QjadwzBo2z",
-            "expanded_url" : "https://medium.com/predict/rotten-tomatoes-meeting-reviews-google-chrome-extension-bab1c2e60b8c?source=rss-ba6349c9c628------2",
-            "display_url" : "medium.com/predict/rotten…",
-            "indices" : [
-              "91",
-              "114"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "114"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1665874386845417474",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1665874386845417474",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Jun 06 00:12:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @chrizbot's new post, \"Rotten Tomatoes Meeting Reviews Google Chrome Extension\". https://t.co/QjadwzBo2z",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1665813985927503874"
-          ],
-          "editableUntil" : "2023-06-05T20:42:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Critchlow",
-            "screen_name" : "tomcritchlow",
-            "indices" : [
-              "10",
-              "23"
-            ],
-            "id_str" : "6419982",
-            "id" : "6419982"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/C62khiTgyK",
-            "expanded_url" : "https://tomcritchlow.com/2023/06/05/clients-detail/",
-            "display_url" : "tomcritchlow.com/2023/06/05/cli…",
-            "indices" : [
-              "82",
-              "105"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "105"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1665813985927503874",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1665813985927503874",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jun 05 20:12:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @tomcritchlow's new post, \"Clients Have a Surprising Amount of Detail\". https://t.co/C62khiTgyK",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1665098453645508612"
-          ],
-          "editableUntil" : "2023-06-03T21:19:42.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/W5EkU5SkWN",
-            "expanded_url" : "https://youtube.com/clip/Ugkx6JRoYxgsoFtpp1wMjWg3IvU4lrAPt3WB",
-            "display_url" : "youtube.com/clip/Ugkx6JRoY…",
-            "indices" : [
-              "53",
-              "76"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "76"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1665094563843784704",
-      "id_str" : "1665098453645508612",
-      "in_reply_to_user_id" : "1254475197274443776",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1665098453645508612",
-      "in_reply_to_status_id" : "1665094563843784704",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 03 20:49:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "A plant or an insect search mission for Yakasaur ? \n\nhttps://t.co/W5EkU5SkWN",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ],
-      "in_reply_to_screen_name" : "yak_collective",
-      "in_reply_to_user_id_str" : "1254475197274443776"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1665094563843784704"
-          ],
-          "editableUntil" : "2023-06-03T21:04:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Gps2lTqlGH",
-            "expanded_url" : "http://bit.ly/3BLYCsr",
-            "display_url" : "bit.ly/3BLYCsr",
-            "indices" : [
-              "104",
-              "127"
-            ]
-          },
-          {
-            "url" : "https://t.co/DP1vuWPRwK",
-            "expanded_url" : "https://www.youtube.com/watch?v=2_A559-dLFg",
-            "display_url" : "youtube.com/watch?v=2_A559…",
-            "indices" : [
-              "129",
-              "152"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "152"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1665094563843784704",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1665094563843784704",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 03 20:34:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Mission Scenario Planning Session 1 for Yakasaur in our YakCollective Robotics Garage is up on YouTube\n\nhttps://t.co/Gps2lTqlGH\n\nhttps://t.co/DP1vuWPRwK",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1664652755745529856"
-          ],
-          "editableUntil" : "2023-06-02T15:48:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3iJ7MDanNS",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-89-1723eeb050b9?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1664652755745529856",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1664652755745529856",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jun 02 15:18:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #89\". https://t.co/3iJ7MDanNS",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1664052478332006400"
-          ],
-          "editableUntil" : "2023-06-01T00:03:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/w2xYTlIpcF",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/finding-third-way",
-            "display_url" : "uncertaintymindset.substack.com/p/finding-thir…",
-            "indices" : [
-              "65",
-              "88"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "88"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1664052478332006400",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1664052478332006400",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 31 23:33:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Finding the third way\". https://t.co/w2xYTlIpcF",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1663836088467611649"
-          ],
-          "editableUntil" : "2023-05-31T09:43:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/QYUuZC3bIM",
-            "expanded_url" : "https://antlerboy.medium.com/have-you-ever-been-stalked-by-british-gas-ffab702adac4?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/have-you-ever-…",
-            "indices" : [
-              "79",
-              "102"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "102"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1663836088467611649",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1663836088467611649",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 31 09:13:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Have you ever been stalked by British Gas?\". https://t.co/QYUuZC3bIM",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1488326536469958656"
           ],
           "editableUntil" : "2022-02-01T02:41:12.721Z",
@@ -52080,18 +54558,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Rodrigo Pinto",
-            "screen_name" : "Rodrigo_plp",
-            "indices" : [
-              "37",
-              "49"
-            ],
-            "id_str" : "3075441796",
-            "id" : "3075441796"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
             "url" : "https://t.co/HchZK0gP8f",
@@ -53645,7 +56112,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -56437,18 +58904,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Rodrigo Pinto",
-            "screen_name" : "Rodrigo_plp",
-            "indices" : [
-              "37",
-              "49"
-            ],
-            "id_str" : "3075441796",
-            "id" : "3075441796"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
             "url" : "https://t.co/KIeKMu4MEt",
@@ -64826,7 +67282,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -64862,6 +67318,1024 @@ window.YTD.tweets.part0 = [
       "favorited" : false,
       "full_text" : "Check out @vaughn_tan's new newsletter, \"“Leaky beans.”\". https://t.co/kqyQTtrAhE",
       "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1669727591337451521"
+          ],
+          "editableUntil" : "2023-06-16T16:24:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/R0toWq6mJ4",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-91-84070a584483?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1669727591337451521",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1669727591337451521",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 16 15:24:14 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #91\". https://t.co/R0toWq6mJ4",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1669356956434436104"
+          ],
+          "editableUntil" : "2023-06-15T15:51:28.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ZiaxpG110b",
+            "expanded_url" : "https://nesslabs.com/creative-burnout?utm_source=rss&utm_medium=rss&utm_campaign=creative-burnout",
+            "display_url" : "nesslabs.com/creative-burno…",
+            "indices" : [
+              "89",
+              "112"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "112"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1669356956434436104",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1669356956434436104",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jun 15 14:51:28 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Creative burnout: when the creativity tap runs dry\". https://t.co/ZiaxpG110b",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1669015796083748866"
+          ],
+          "editableUntil" : "2023-06-14T17:15:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "17",
+              "27"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/OlXHDdfQpg",
+            "expanded_url" : "https://www.youtube.com/watch?v=LrAOQ2G4gWE",
+            "display_url" : "youtube.com/watch?v=LrAOQ2…",
+            "indices" : [
+              "60",
+              "83"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "83"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1669015796083748866",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1669015796083748866",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 14 16:15:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "We are live with @p_millerd discussing \"The Pathless Path\"\n\nhttps://t.co/OlXHDdfQpg",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1669002614212575232"
+          ],
+          "editableUntil" : "2023-06-14T16:23:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Gps2lTqlGH",
+            "expanded_url" : "http://bit.ly/3BLYCsr",
+            "display_url" : "bit.ly/3BLYCsr",
+            "indices" : [
+              "74",
+              "97"
+            ]
+          },
+          {
+            "url" : "https://t.co/0WlxHHyYGb",
+            "expanded_url" : "https://www.youtube.com/watch?v=H9FaCA9SpKM",
+            "display_url" : "youtube.com/watch?v=H9FaCA…",
+            "indices" : [
+              "99",
+              "122"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "122"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1669002614212575232",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1669002614212575232",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 14 15:23:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "YakRover Yakasaur \"Mission Scenario Planning Session 2\" is up on YouTube\n\nhttps://t.co/Gps2lTqlGH\n\nhttps://t.co/0WlxHHyYGb",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1668987602194530312"
+          ],
+          "editableUntil" : "2023-06-14T15:23:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/uUqr0DBxri",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/generative-uncertainty",
+            "display_url" : "uncertaintymindset.substack.com/p/generative-u…",
+            "indices" : [
+              "67",
+              "90"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "90"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1668987602194530312",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1668987602194530312",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 14 14:23:47 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Generative uncertainty.\". https://t.co/uUqr0DBxri",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1668904449706737666"
+          ],
+          "editableUntil" : "2023-06-14T09:53:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/NN5p2R81e4",
+            "expanded_url" : "https://antlerboy.medium.com/whats-the-future-of-operational-excellence-b406392eb9dc?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/whats-the-futu…",
+            "indices" : [
+              "81",
+              "104"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "104"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1668904449706737666",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1668904449706737666",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 14 08:53:22 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"What’s the future of Operational Excellence?\". https://t.co/NN5p2R81e4",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1668808126492016641"
+          ],
+          "editableUntil" : "2023-06-14T03:30:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/M7YEE85a48",
+            "expanded_url" : "https://think-boundless.com/",
+            "display_url" : "think-boundless.com",
+            "indices" : [
+              "60",
+              "83"
+            ]
+          },
+          {
+            "url" : "https://t.co/UMieUbN93P",
+            "expanded_url" : "https://www.yakcollective.org/join.html",
+            "display_url" : "yakcollective.org/join.html",
+            "indices" : [
+              "162",
+              "185"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "185"
+      ],
+      "favorite_count" : "2",
+      "in_reply_to_status_id_str" : "1668806317232750593",
+      "id_str" : "1668808126492016641",
+      "in_reply_to_user_id" : "1254475197274443776",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1668808126492016641",
+      "in_reply_to_status_id" : "1668806317232750593",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 14 02:30:36 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@p_millerd is author of _The Pathless Path. \nPaul's website https://t.co/M7YEE85a48\n\nIf not already on the Yak Collective server, join up with a few clicks here:\nhttps://t.co/UMieUbN93P",
+      "lang" : "en",
+      "contributors" : [
+        "755296"
+      ],
+      "in_reply_to_screen_name" : "yak_collective",
+      "in_reply_to_user_id_str" : "1254475197274443776"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1668806317232750593"
+          ],
+          "editableUntil" : "2023-06-14T03:23:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/3qkMzkZi7u",
+            "expanded_url" : "https://discord.com/events/692111190851059762/1106762052934045757",
+            "display_url" : "discord.com/events/6921111…",
+            "indices" : [
+              "215",
+              "238"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "238"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1668806317232750593",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1668806317232750593",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 14 02:23:25 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Indie event tomorrow Tue 2023-06-14. Paul Millard joining us for an conversation about the indie life. Paul is a long-time yak and was lead editor of first Yak Collective report \"Don't waste the reboot\"\nevent link: https://t.co/3qkMzkZi7u",
+      "lang" : "en",
+      "contributors" : [
+        "755296"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1668725484316762116"
+          ],
+          "editableUntil" : "2023-06-13T22:02:13.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chris Butler",
+            "screen_name" : "chrizbot",
+            "indices" : [
+              "10",
+              "19"
+            ],
+            "id_str" : "1594631",
+            "id" : "1594631"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/hRguyom6ON",
+            "expanded_url" : "https://medium.com/predict/ritefeeling-behavior-modification-program-to-reduce-meetings-ccbd06a1cf3b?source=rss-ba6349c9c628------2",
+            "display_url" : "medium.com/predict/ritefe…",
+            "indices" : [
+              "96",
+              "119"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "119"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1668725484316762116",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1668725484316762116",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Jun 13 21:02:13 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @chrizbot's new post, \"RiteFeeling behavior modification program to reduce meetings\". https://t.co/hRguyom6ON",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1668265863059783684"
+          ],
+          "editableUntil" : "2023-06-12T15:35:51.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Eny9wpFoj0",
+            "expanded_url" : "https://www.youtube.com/watch?v=hUAJrcneBqc",
+            "display_url" : "youtube.com/watch?v=hUAJrc…",
+            "indices" : [
+              "85",
+              "108"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "193"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1668265863059783684",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1668265863059783684",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jun 12 14:35:51 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading - \"Computers that live two seconds in the future\" by Matt Webb\n\nhttps://t.co/Eny9wpFoj0\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1667127988217864192"
+          ],
+          "editableUntil" : "2023-06-09T12:14:20.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/HNxrOUWuwx",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-90-a97389296a04?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1667127988217864192",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1667127988217864192",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 09 11:14:20 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #90\". https://t.co/HNxrOUWuwx",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1666847044864995328"
+          ],
+          "editableUntil" : "2023-06-08T17:37:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/b7j9tNwwD2",
+            "expanded_url" : "https://summerlightning.substack.com/p/carrier-bag-theory-of-non-people",
+            "display_url" : "summerlightning.substack.com/p/carrier-bag-…",
+            "indices" : [
+              "69",
+              "92"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "92"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1666847044864995328",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1666847044864995328",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jun 08 16:37:58 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Carrier Bag Theory of Non People\". https://t.co/b7j9tNwwD2",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1666836810100531202"
+          ],
+          "editableUntil" : "2023-06-08T16:57:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chris Butler",
+            "screen_name" : "chrizbot",
+            "indices" : [
+              "10",
+              "19"
+            ],
+            "id_str" : "1594631",
+            "id" : "1594631"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/3ijTRnnHKz",
+            "expanded_url" : "https://medium.com/agileinsider/how-to-write-good-product-management-fiction-bf03793fd789?source=rss-ba6349c9c628------2",
+            "display_url" : "medium.com/agileinsider/h…",
+            "indices" : [
+              "80",
+              "103"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "103"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1666836810100531202",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1666836810100531202",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jun 08 15:57:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @chrizbot's new post, \"How to write good product management fiction\". https://t.co/3ijTRnnHKz",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1666376558624350211"
+          ],
+          "editableUntil" : "2023-06-07T10:28:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/fDQn0LlfYz",
+            "expanded_url" : "https://antlerboy.medium.com/vuca-isnt-a-condition-it-s-an-experience-of-the-world-efef145d606a?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/vuca-isnt-a-co…",
+            "indices" : [
+              "94",
+              "117"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "117"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1666376558624350211",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1666376558624350211",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Jun 07 09:28:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"VUCA isn’t a condition — it’s an experience of the world.\". https://t.co/fDQn0LlfYz",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1665874386845417474"
+          ],
+          "editableUntil" : "2023-06-06T01:12:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chris Butler",
+            "screen_name" : "chrizbot",
+            "indices" : [
+              "10",
+              "19"
+            ],
+            "id_str" : "1594631",
+            "id" : "1594631"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/QjadwzBo2z",
+            "expanded_url" : "https://medium.com/predict/rotten-tomatoes-meeting-reviews-google-chrome-extension-bab1c2e60b8c?source=rss-ba6349c9c628------2",
+            "display_url" : "medium.com/predict/rotten…",
+            "indices" : [
+              "91",
+              "114"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "114"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1665874386845417474",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1665874386845417474",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Jun 06 00:12:58 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @chrizbot's new post, \"Rotten Tomatoes Meeting Reviews Google Chrome Extension\". https://t.co/QjadwzBo2z",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1665813985927503874"
+          ],
+          "editableUntil" : "2023-06-05T20:42:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Tom Critchlow",
+            "screen_name" : "tomcritchlow",
+            "indices" : [
+              "10",
+              "23"
+            ],
+            "id_str" : "6419982",
+            "id" : "6419982"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/C62khiTgyK",
+            "expanded_url" : "https://tomcritchlow.com/2023/06/05/clients-detail/",
+            "display_url" : "tomcritchlow.com/2023/06/05/cli…",
+            "indices" : [
+              "82",
+              "105"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "105"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1665813985927503874",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1665813985927503874",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jun 05 20:12:58 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @tomcritchlow's new post, \"Clients Have a Surprising Amount of Detail\". https://t.co/C62khiTgyK",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1665098453645508612"
+          ],
+          "editableUntil" : "2023-06-03T21:19:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/W5EkU5SkWN",
+            "expanded_url" : "https://youtube.com/clip/Ugkx6JRoYxgsoFtpp1wMjWg3IvU4lrAPt3WB",
+            "display_url" : "youtube.com/clip/Ugkx6JRoY…",
+            "indices" : [
+              "53",
+              "76"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "76"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1665094563843784704",
+      "id_str" : "1665098453645508612",
+      "in_reply_to_user_id" : "1254475197274443776",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1665098453645508612",
+      "in_reply_to_status_id" : "1665094563843784704",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jun 03 20:49:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "A plant or an insect search mission for Yakasaur ? \n\nhttps://t.co/W5EkU5SkWN",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ],
+      "in_reply_to_screen_name" : "yak_collective",
+      "in_reply_to_user_id_str" : "1254475197274443776"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1665094563843784704"
+          ],
+          "editableUntil" : "2023-06-03T21:04:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Gps2lTqlGH",
+            "expanded_url" : "http://bit.ly/3BLYCsr",
+            "display_url" : "bit.ly/3BLYCsr",
+            "indices" : [
+              "104",
+              "127"
+            ]
+          },
+          {
+            "url" : "https://t.co/DP1vuWPRwK",
+            "expanded_url" : "https://www.youtube.com/watch?v=2_A559-dLFg",
+            "display_url" : "youtube.com/watch?v=2_A559…",
+            "indices" : [
+              "129",
+              "152"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "152"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1665094563843784704",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1665094563843784704",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jun 03 20:34:14 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Mission Scenario Planning Session 1 for Yakasaur in our YakCollective Robotics Garage is up on YouTube\n\nhttps://t.co/Gps2lTqlGH\n\nhttps://t.co/DP1vuWPRwK",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
     }
   },
   {
@@ -65374,7 +68848,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Amanda Reeves",
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
             "screen_name" : "WabiSabiFutures",
             "indices" : [
               "37",
@@ -65716,7 +69190,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -66081,1141 +69555,6 @@ window.YTD.tweets.part0 = [
       "contributors" : [
         "8500962"
       ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1663321242496126978"
-          ],
-          "editableUntil" : "2023-05-29T23:37:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/63NWWGrqqs",
-            "expanded_url" : "https://summerlightning.substack.com/p/a-great-american-pastime",
-            "display_url" : "summerlightning.substack.com/p/a-great-amer…",
-            "indices" : [
-              "62",
-              "85"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "85"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1663321242496126978",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1663321242496126978",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon May 29 23:07:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"A Great American Pastime \". https://t.co/63NWWGrqqs",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1663190585006514176"
-          ],
-          "editableUntil" : "2023-05-29T14:58:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/MADkj6udIo",
-            "expanded_url" : "https://www.youtube.com/watch?v=zkSq6Nrc7E0",
-            "display_url" : "youtube.com/watch?v=zkSq6N…",
-            "indices" : [
-              "75",
-              "98"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "183"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1663190585006514176",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1663190585006514176",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon May 29 14:28:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading - \"Patterns of Distributed Systems\" by Unmesh Joshi \n\nhttps://t.co/MADkj6udIo\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1660659322567761920"
-          ],
-          "editableUntil" : "2023-05-22T15:20:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/DVcgBnc4Nf",
-            "expanded_url" : "https://www.youtube.com/watch?v=FBspmMb-GlI",
-            "display_url" : "youtube.com/watch?v=FBspmM…",
-            "indices" : [
-              "187",
-              "210"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "210"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1660659322567761920",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1660659322567761920",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon May 22 14:50:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading \n\n\"Inside Datadog’s $5M Outage\" by Tyler Gold in our distributed systems study group\n\nLive Stream - \n\n16:20 UTC\n08:20 Pacific\n11:20 Eastern\n20:50 Indian\n00:20 Tokyo\n\nhttps://t.co/DVcgBnc4Nf",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1660336660662431746"
-          ],
-          "editableUntil" : "2023-05-21T17:58:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Sv6u8Z4AM5",
-            "expanded_url" : "https://summerlightning.substack.com/p/honor-in-the-machine",
-            "display_url" : "summerlightning.substack.com/p/honor-in-the…",
-            "indices" : [
-              "57",
-              "80"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1660336660662431746",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1660336660662431746",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun May 21 17:28:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Honor in the Machine\". https://t.co/Sv6u8Z4AM5",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1659576949793079297"
-          ],
-          "editableUntil" : "2023-05-19T15:39:12.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/i5HDNxo4OH",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-88-981718650ba0?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1659576949793079297",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1659576949793079297",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri May 19 15:09:12 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #88\". https://t.co/i5HDNxo4OH",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1659110598162907136"
-          ],
-          "editableUntil" : "2023-05-18T08:46:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/kI4A3aEKfm",
-            "expanded_url" : "https://nesslabs.com/distress-and-eustress?utm_source=rss&utm_medium=rss&utm_campaign=distress-and-eustress",
-            "display_url" : "nesslabs.com/distress-and-e…",
-            "indices" : [
-              "85",
-              "108"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "108"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1659110598162907136",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1659110598162907136",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu May 18 08:16:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The two sides of stress: distress and eustress\". https://t.co/kI4A3aEKfm",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1658898580013293568"
-          ],
-          "editableUntil" : "2023-05-17T18:43:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/zOVTFWPpCx",
-            "expanded_url" : "https://twitter.com/yak_collective/status/1656312686240514049",
-            "display_url" : "twitter.com/yak_collective…",
-            "indices" : [
-              "22",
-              "45"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "45"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1658898343387439104",
-      "id_str" : "1658898580013293568",
-      "in_reply_to_user_id" : "1254475197274443776",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1658898580013293568",
-      "in_reply_to_status_id" : "1658898343387439104",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 17 18:13:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Last week's session \n\nhttps://t.co/zOVTFWPpCx",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ],
-      "in_reply_to_screen_name" : "yak_collective",
-      "in_reply_to_user_id_str" : "1254475197274443776"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1658898343387439104"
-          ],
-          "editableUntil" : "2023-05-17T18:42:40.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/UtXqPjvgYb",
-            "expanded_url" : "https://www.youtube.com/watch?v=3g_MKGWLNW0",
-            "display_url" : "youtube.com/watch?v=3g_MKG…",
-            "indices" : [
-              "85",
-              "108"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "108"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1658898343387439104",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1658898343387439104",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 17 18:12:40 +0000 2023",
-      "favorited" : false,
-      "full_text" : "YakRover Yakasaur Electrical System Block Diagram Design Session 2 is up on YouTube\n\nhttps://t.co/UtXqPjvgYb",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1658802028988997639"
-          ],
-          "editableUntil" : "2023-05-17T12:19:57.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/4eR8ARmj9M",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/overloading-appropriation",
-            "display_url" : "uncertaintymindset.substack.com/p/overloading-…",
-            "indices" : [
-              "73",
-              "96"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "96"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1658802028988997639",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1658802028988997639",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 17 11:49:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Overloading and appropriation\". https://t.co/4eR8ARmj9M",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1658766709392646144"
-          ],
-          "editableUntil" : "2023-05-17T09:59:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/09v1hHBgFL",
-            "expanded_url" : "https://antlerboy.medium.com/what-is-the-future-of-operational-excellence-f08b0f2ff312?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/what-is-the-fu…",
-            "indices" : [
-              "82",
-              "105"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "105"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1658766709392646144",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1658766709392646144",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 17 09:29:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What is the future of Operational Excellence?\". https://t.co/09v1hHBgFL",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1658496966525964290"
-          ],
-          "editableUntil" : "2023-05-16T16:07:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/fQBIRdtmZJ",
-            "expanded_url" : "https://www.youtube.com/watch?v=L4CB5ekmvcs",
-            "display_url" : "youtube.com/watch?v=L4CB5e…",
-            "indices" : [
-              "162",
-              "185"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "185"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1658496966525964290",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1658496966525964290",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue May 16 15:37:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we have Jordan Peacock with us to tell us about \"Distributing Energies in Indie Consulting\" in our Indie Accelerator study group\n\nLivestream in 20 minutes\n\nhttps://t.co/fQBIRdtmZJ",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1658125560755650560"
-          ],
-          "editableUntil" : "2023-05-15T15:31:54.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/eLDDZsbwV4",
-            "expanded_url" : "https://twitter.com/anurajenp/status/1658125328122781701",
-            "display_url" : "twitter.com/anurajenp/stat…",
-            "indices" : [
-              "26",
-              "49"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "49"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1658125560755650560",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1658125560755650560",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon May 15 15:01:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "live stream in 20 minutes https://t.co/eLDDZsbwV4",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1657845272997769217"
-          ],
-          "editableUntil" : "2023-05-14T20:58:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/OwblvjhoT2",
-            "expanded_url" : "https://summerlightning.substack.com/p/middle-american-irony",
-            "display_url" : "summerlightning.substack.com/p/middle-ameri…",
-            "indices" : [
-              "58",
-              "81"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "81"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1657845272997769217",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1657845272997769217",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun May 14 20:28:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Middle American Irony\". https://t.co/OwblvjhoT2",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1657216487646547968"
-          ],
-          "editableUntil" : "2023-05-13T03:19:34.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/N6QlC04Rf7",
-            "expanded_url" : "https://yakcollective.substack.com/p/rules",
-            "display_url" : "yakcollective.substack.com/p/rules",
-            "indices" : [
-              "66",
-              "89"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "89"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1657216487646547968",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1657216487646547968",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat May 13 02:49:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out the latest edition of the Yak Talk newsletter, \"Rules\". https://t.co/N6QlC04Rf7",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1657041431087792134"
-          ],
-          "editableUntil" : "2023-05-12T15:43:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Ub64jNJrsi",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-87-8c3c199a4550?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1657041431087792134",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1657041431087792134",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri May 12 15:13:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #87\". https://t.co/Ub64jNJrsi",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1656626667752767492"
-          ],
-          "editableUntil" : "2023-05-11T12:15:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/MeCUgKZB80",
-            "expanded_url" : "https://nesslabs.com/time-is-not-a-measure-of-productivity?utm_source=rss&utm_medium=rss&utm_campaign=time-is-not-a-measure-of-productivity",
-            "display_url" : "nesslabs.com/time-is-not-a-…",
-            "indices" : [
-              "76",
-              "99"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "99"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1656626667752767492",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1656626667752767492",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu May 11 11:45:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Time is not a measure of productivity\". https://t.co/MeCUgKZB80",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1656312686240514049"
-          ],
-          "editableUntil" : "2023-05-10T15:28:11.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/UW3L4rv7Kf",
-            "expanded_url" : "https://www.youtube.com/watch?v=M6HVe2d4_XI&t=3040s",
-            "display_url" : "youtube.com/watch?v=M6HVe2…",
-            "indices" : [
-              "102",
-              "125"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "125"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1656312686240514049",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1656312686240514049",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 10 14:58:11 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Yesterday we started the system block diagram for our two wheeled rover Yakasaur. It's up on YouTube\n\nhttps://t.co/UW3L4rv7Kf",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1656223506852462594"
-          ],
-          "editableUntil" : "2023-05-10T09:33:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/nkjP5MeJCq",
-            "expanded_url" : "https://antlerboy.medium.com/how-do-you-get-salty-how-does-one-become-a-curmudgeon-ea744f2807bf?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/how-do-you-get…",
-            "indices" : [
-              "92",
-              "115"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "115"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1656223506852462594",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1656223506852462594",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 10 09:03:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"How do you get salty? How does one become a curmudgeon?\". https://t.co/nkjP5MeJCq",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1655630969909518336"
-          ],
-          "editableUntil" : "2023-05-08T18:19:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Gps2lTqlGH",
-            "expanded_url" : "http://bit.ly/3BLYCsr",
-            "display_url" : "bit.ly/3BLYCsr",
-            "indices" : [
-              "82",
-              "105"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1655630969909518336/video/1",
-            "indices" : [
-              "106",
-              "129"
-            ],
-            "url" : "https://t.co/hiuZHoruPa",
-            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1655630680208859141/pu/img/OCANsZ9yQVwCCJOn.jpg",
-            "id_str" : "1655630680208859141",
-            "id" : "1655630680208859141",
-            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1655630680208859141/pu/img/OCANsZ9yQVwCCJOn.jpg",
-            "sizes" : {
-              "large" : {
-                "w" : "1280",
-                "h" : "720",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1200",
-                "h" : "675",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "383",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/hiuZHoruPa"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "129"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1655630969909518336",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1655630969909518336",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon May 08 17:49:18 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out our YouTube Channel \n\nWe put our weekly study group meetups on YouTube\n\nhttps://t.co/Gps2lTqlGH https://t.co/hiuZHoruPa",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ],
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1655630969909518336/video/1",
-            "indices" : [
-              "106",
-              "129"
-            ],
-            "url" : "https://t.co/hiuZHoruPa",
-            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1655630680208859141/pu/img/OCANsZ9yQVwCCJOn.jpg",
-            "id_str" : "1655630680208859141",
-            "video_info" : {
-              "aspect_ratio" : [
-                "16",
-                "9"
-              ],
-              "duration_millis" : "14212",
-              "variants" : [
-                {
-                  "bitrate" : "256000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/480x270/FdyKReMIPVmBSgT3.mp4?tag=12"
-                },
-                {
-                  "content_type" : "application/x-mpegURL",
-                  "url" : "https://video.twimg.com/ext_tw_video/1655630680208859141/pu/pl/jkE4y8ZIZrZX2Qqu.m3u8?tag=12"
-                },
-                {
-                  "bitrate" : "2176000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/1280x720/BWu9lcZMZKlztEJ9.mp4?tag=12"
-                },
-                {
-                  "bitrate" : "832000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/640x360/T4BuKU4ia3oZ6PGm.mp4?tag=12"
-                }
-              ]
-            },
-            "additional_media_info" : {
-              "monetizable" : false
-            },
-            "id" : "1655630680208859141",
-            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1655630680208859141/pu/img/OCANsZ9yQVwCCJOn.jpg",
-            "sizes" : {
-              "large" : {
-                "w" : "1280",
-                "h" : "720",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1200",
-                "h" : "675",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "383",
-                "resize" : "fit"
-              }
-            },
-            "type" : "video",
-            "display_url" : "pic.twitter.com/hiuZHoruPa"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1655298380803854339"
-          ],
-          "editableUntil" : "2023-05-07T20:17:42.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/50oRX6253g",
-            "expanded_url" : "https://summerlightning.substack.com/p/everyone-is-a-performance-artist",
-            "display_url" : "summerlightning.substack.com/p/everyone-is-…",
-            "indices" : [
-              "74",
-              "97"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "97"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1655298380803854339",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1655298380803854339",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun May 07 19:47:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Everyone is a Performance Artist Now \". https://t.co/50oRX6253g",
-      "lang" : "en"
     }
   },
   {
@@ -69516,18 +71855,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Rodrigo Pinto",
-            "screen_name" : "Rodrigo_plp",
-            "indices" : [
-              "37",
-              "49"
-            ],
-            "id_str" : "3075441796",
-            "id" : "3075441796"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
             "url" : "https://t.co/uab9okKfPV",
@@ -70993,7 +73321,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -73124,7 +75452,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -76231,18 +78559,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Rodrigo Pinto",
-            "screen_name" : "Rodrigo_plp",
-            "indices" : [
-              "37",
-              "49"
-            ],
-            "id_str" : "3075441796",
-            "id" : "3075441796"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
             "url" : "https://t.co/UpNFaqhzby",
@@ -77137,6 +79454,1051 @@ window.YTD.tweets.part0 = [
       "favorited" : false,
       "full_text" : "Today's featured yak: Praful Mathur  https://t.co/64PPejsNrw",
       "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664652755745529856"
+          ],
+          "editableUntil" : "2023-06-02T15:48:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/3iJ7MDanNS",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-89-1723eeb050b9?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1664652755745529856",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664652755745529856",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 02 15:18:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #89\". https://t.co/3iJ7MDanNS",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664052478332006400"
+          ],
+          "editableUntil" : "2023-06-01T00:03:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/w2xYTlIpcF",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/finding-third-way",
+            "display_url" : "uncertaintymindset.substack.com/p/finding-thir…",
+            "indices" : [
+              "65",
+              "88"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "88"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1664052478332006400",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664052478332006400",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 31 23:33:22 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Finding the third way\". https://t.co/w2xYTlIpcF",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1663836088467611649"
+          ],
+          "editableUntil" : "2023-05-31T09:43:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/QYUuZC3bIM",
+            "expanded_url" : "https://antlerboy.medium.com/have-you-ever-been-stalked-by-british-gas-ffab702adac4?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/have-you-ever-…",
+            "indices" : [
+              "79",
+              "102"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "102"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1663836088467611649",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1663836088467611649",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 31 09:13:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Have you ever been stalked by British Gas?\". https://t.co/QYUuZC3bIM",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1663321242496126978"
+          ],
+          "editableUntil" : "2023-05-29T23:37:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/63NWWGrqqs",
+            "expanded_url" : "https://summerlightning.substack.com/p/a-great-american-pastime",
+            "display_url" : "summerlightning.substack.com/p/a-great-amer…",
+            "indices" : [
+              "62",
+              "85"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "85"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1663321242496126978",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1663321242496126978",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon May 29 23:07:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"A Great American Pastime \". https://t.co/63NWWGrqqs",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1663190585006514176"
+          ],
+          "editableUntil" : "2023-05-29T14:58:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/MADkj6udIo",
+            "expanded_url" : "https://www.youtube.com/watch?v=zkSq6Nrc7E0",
+            "display_url" : "youtube.com/watch?v=zkSq6N…",
+            "indices" : [
+              "75",
+              "98"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "183"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1663190585006514176",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1663190585006514176",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon May 29 14:28:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading - \"Patterns of Distributed Systems\" by Unmesh Joshi \n\nhttps://t.co/MADkj6udIo\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1660659322567761920"
+          ],
+          "editableUntil" : "2023-05-22T15:20:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/DVcgBnc4Nf",
+            "expanded_url" : "https://www.youtube.com/watch?v=FBspmMb-GlI",
+            "display_url" : "youtube.com/watch?v=FBspmM…",
+            "indices" : [
+              "187",
+              "210"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "210"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1660659322567761920",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1660659322567761920",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon May 22 14:50:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading \n\n\"Inside Datadog’s $5M Outage\" by Tyler Gold in our distributed systems study group\n\nLive Stream - \n\n16:20 UTC\n08:20 Pacific\n11:20 Eastern\n20:50 Indian\n00:20 Tokyo\n\nhttps://t.co/DVcgBnc4Nf",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1660336660662431746"
+          ],
+          "editableUntil" : "2023-05-21T17:58:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Sv6u8Z4AM5",
+            "expanded_url" : "https://summerlightning.substack.com/p/honor-in-the-machine",
+            "display_url" : "summerlightning.substack.com/p/honor-in-the…",
+            "indices" : [
+              "57",
+              "80"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1660336660662431746",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1660336660662431746",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun May 21 17:28:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Honor in the Machine\". https://t.co/Sv6u8Z4AM5",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1659576949793079297"
+          ],
+          "editableUntil" : "2023-05-19T15:39:12.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/i5HDNxo4OH",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-88-981718650ba0?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1659576949793079297",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1659576949793079297",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri May 19 15:09:12 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #88\". https://t.co/i5HDNxo4OH",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1659110598162907136"
+          ],
+          "editableUntil" : "2023-05-18T08:46:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/kI4A3aEKfm",
+            "expanded_url" : "https://nesslabs.com/distress-and-eustress?utm_source=rss&utm_medium=rss&utm_campaign=distress-and-eustress",
+            "display_url" : "nesslabs.com/distress-and-e…",
+            "indices" : [
+              "85",
+              "108"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "108"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1659110598162907136",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1659110598162907136",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu May 18 08:16:06 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The two sides of stress: distress and eustress\". https://t.co/kI4A3aEKfm",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1658898580013293568"
+          ],
+          "editableUntil" : "2023-05-17T18:43:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/zOVTFWPpCx",
+            "expanded_url" : "https://twitter.com/yak_collective/status/1656312686240514049",
+            "display_url" : "twitter.com/yak_collective…",
+            "indices" : [
+              "22",
+              "45"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "45"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1658898343387439104",
+      "id_str" : "1658898580013293568",
+      "in_reply_to_user_id" : "1254475197274443776",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1658898580013293568",
+      "in_reply_to_status_id" : "1658898343387439104",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 17 18:13:36 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Last week's session \n\nhttps://t.co/zOVTFWPpCx",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ],
+      "in_reply_to_screen_name" : "yak_collective",
+      "in_reply_to_user_id_str" : "1254475197274443776"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1658898343387439104"
+          ],
+          "editableUntil" : "2023-05-17T18:42:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/UtXqPjvgYb",
+            "expanded_url" : "https://www.youtube.com/watch?v=3g_MKGWLNW0",
+            "display_url" : "youtube.com/watch?v=3g_MKG…",
+            "indices" : [
+              "85",
+              "108"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "108"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1658898343387439104",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1658898343387439104",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 17 18:12:40 +0000 2023",
+      "favorited" : false,
+      "full_text" : "YakRover Yakasaur Electrical System Block Diagram Design Session 2 is up on YouTube\n\nhttps://t.co/UtXqPjvgYb",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1658802028988997639"
+          ],
+          "editableUntil" : "2023-05-17T12:19:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/4eR8ARmj9M",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/overloading-appropriation",
+            "display_url" : "uncertaintymindset.substack.com/p/overloading-…",
+            "indices" : [
+              "73",
+              "96"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "96"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1658802028988997639",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1658802028988997639",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 17 11:49:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Overloading and appropriation\". https://t.co/4eR8ARmj9M",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1658766709392646144"
+          ],
+          "editableUntil" : "2023-05-17T09:59:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/09v1hHBgFL",
+            "expanded_url" : "https://antlerboy.medium.com/what-is-the-future-of-operational-excellence-f08b0f2ff312?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/what-is-the-fu…",
+            "indices" : [
+              "82",
+              "105"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "105"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1658766709392646144",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1658766709392646144",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 17 09:29:36 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"What is the future of Operational Excellence?\". https://t.co/09v1hHBgFL",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1658496966525964290"
+          ],
+          "editableUntil" : "2023-05-16T16:07:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/fQBIRdtmZJ",
+            "expanded_url" : "https://www.youtube.com/watch?v=L4CB5ekmvcs",
+            "display_url" : "youtube.com/watch?v=L4CB5e…",
+            "indices" : [
+              "162",
+              "185"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "185"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1658496966525964290",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1658496966525964290",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue May 16 15:37:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we have Jordan Peacock with us to tell us about \"Distributing Energies in Indie Consulting\" in our Indie Accelerator study group\n\nLivestream in 20 minutes\n\nhttps://t.co/fQBIRdtmZJ",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1658125560755650560"
+          ],
+          "editableUntil" : "2023-05-15T15:31:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/eLDDZsbwV4",
+            "expanded_url" : "https://twitter.com/anurajenp/status/1658125328122781701",
+            "display_url" : "twitter.com/anurajenp/stat…",
+            "indices" : [
+              "26",
+              "49"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "49"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1658125560755650560",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1658125560755650560",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon May 15 15:01:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "live stream in 20 minutes https://t.co/eLDDZsbwV4",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1657845272997769217"
+          ],
+          "editableUntil" : "2023-05-14T20:58:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/OwblvjhoT2",
+            "expanded_url" : "https://summerlightning.substack.com/p/middle-american-irony",
+            "display_url" : "summerlightning.substack.com/p/middle-ameri…",
+            "indices" : [
+              "58",
+              "81"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "81"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1657845272997769217",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1657845272997769217",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun May 14 20:28:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Middle American Irony\". https://t.co/OwblvjhoT2",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1657216487646547968"
+          ],
+          "editableUntil" : "2023-05-13T03:19:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/N6QlC04Rf7",
+            "expanded_url" : "https://yakcollective.substack.com/p/rules",
+            "display_url" : "yakcollective.substack.com/p/rules",
+            "indices" : [
+              "66",
+              "89"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "89"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1657216487646547968",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1657216487646547968",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat May 13 02:49:34 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out the latest edition of the Yak Talk newsletter, \"Rules\". https://t.co/N6QlC04Rf7",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1657041431087792134"
+          ],
+          "editableUntil" : "2023-05-12T15:43:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Ub64jNJrsi",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-87-8c3c199a4550?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1657041431087792134",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1657041431087792134",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri May 12 15:13:58 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #87\". https://t.co/Ub64jNJrsi",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1656626667752767492"
+          ],
+          "editableUntil" : "2023-05-11T12:15:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/MeCUgKZB80",
+            "expanded_url" : "https://nesslabs.com/time-is-not-a-measure-of-productivity?utm_source=rss&utm_medium=rss&utm_campaign=time-is-not-a-measure-of-productivity",
+            "display_url" : "nesslabs.com/time-is-not-a-…",
+            "indices" : [
+              "76",
+              "99"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "99"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1656626667752767492",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1656626667752767492",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu May 11 11:45:50 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Time is not a measure of productivity\". https://t.co/MeCUgKZB80",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1656312686240514049"
+          ],
+          "editableUntil" : "2023-05-10T15:28:11.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/UW3L4rv7Kf",
+            "expanded_url" : "https://www.youtube.com/watch?v=M6HVe2d4_XI&t=3040s",
+            "display_url" : "youtube.com/watch?v=M6HVe2…",
+            "indices" : [
+              "102",
+              "125"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "125"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1656312686240514049",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1656312686240514049",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 10 14:58:11 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Yesterday we started the system block diagram for our two wheeled rover Yakasaur. It's up on YouTube\n\nhttps://t.co/UW3L4rv7Kf",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
     }
   },
   {
@@ -78389,1069 +81751,6 @@ window.YTD.tweets.part0 = [
       "created_at" : "Tue Aug 10 14:00:46 +0000 2021",
       "favorited" : false,
       "full_text" : "Check out @anthilemoon's new post, \"Eliminating bias in online education with the founder of Learnopoly\". https://t.co/iVeCajCSI9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1654957394198249472"
-          ],
-          "editableUntil" : "2023-05-06T21:42:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/6ckdRjWYUl",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/summer-break-6a0",
-            "display_url" : "studio.ribbonfarm.com/p/summer-break…",
-            "indices" : [
-              "49",
-              "72"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "72"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1654957394198249472",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1654957394198249472",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat May 06 21:12:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Summer Break\". https://t.co/6ckdRjWYUl",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1654570382475644928"
-          ],
-          "editableUntil" : "2023-05-05T20:04:54.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/OpLbLWPdHS",
-            "expanded_url" : "https://yakcollective.substack.com/p/yak-governance-studies-sequence-intro",
-            "display_url" : "yakcollective.substack.com/p/yak-governan…",
-            "indices" : [
-              "99",
-              "122"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "122"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1654570382475644928",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1654570382475644928",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri May 05 19:34:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out the latest edition of the Yak Talk newsletter, \"Yak Governance Studies Sequence: Intro\". https://t.co/OpLbLWPdHS",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1653742163623301121"
-          ],
-          "editableUntil" : "2023-05-03T13:13:51.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Q1IGnXWmFS",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/naming-risky-situations",
-            "display_url" : "uncertaintymindset.substack.com/p/naming-risky…",
-            "indices" : [
-              "67",
-              "90"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "90"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1653742163623301121",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1653742163623301121",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 03 12:43:51 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Naming risky situations\". https://t.co/Q1IGnXWmFS",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1653701941942263809"
-          ],
-          "editableUntil" : "2023-05-03T10:34:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3qmAo9XUkc",
-            "expanded_url" : "https://antlerboy.medium.com/we-shape-our-technology-and-thereafter-our-technology-shapes-us-how-will-ai-shape-business-c7b5d9f70b73?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/we-shape-our-t…",
-            "indices" : [
-              "133",
-              "156"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "156"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1653701941942263809",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1653701941942263809",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 03 10:04:01 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"‘We shape our technology and thereafter our technology shapes us’. How will ‘AI’ shape business?\". https://t.co/3qmAo9XUkc",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1653052789134614561"
-          ],
-          "editableUntil" : "2023-05-01T15:34:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/QEdbyOyVhu",
-            "expanded_url" : "https://www.youtube.com/watch?v=j277KqYFAqA",
-            "display_url" : "youtube.com/watch?v=j277Kq…",
-            "indices" : [
-              "159",
-              "182"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "246"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1653052789134614561",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1653052789134614561",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon May 01 15:04:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading \n\nDo language models possess knowledge (soundness)? by Tarun Chitra and Henry Prior in our distributed systems study group\n\nLive Stream - https://t.co/QEdbyOyVhu\n\n16:20 UTC\n08:20 Pacific\n11:20 Eastern\n20:50 Indian\n00:20 Tokyo",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1652779228599910400"
-          ],
-          "editableUntil" : "2023-04-30T21:27:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/cG1c6ehKJN",
-            "expanded_url" : "https://summerlightning.substack.com/p/some-kind-of-mediocre-genius",
-            "display_url" : "summerlightning.substack.com/p/some-kind-of…",
-            "indices" : [
-              "66",
-              "89"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "89"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1652779228599910400",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1652779228599910400",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Apr 30 20:57:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Some Kind of Mediocre Genius \". https://t.co/cG1c6ehKJN",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1652065976945352713"
-          ],
-          "editableUntil" : "2023-04-28T22:13:17.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/5EDNBubFli",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/the-puzzle-of-the-permaweird",
-            "display_url" : "studio.ribbonfarm.com/p/the-puzzle-o…",
-            "indices" : [
-              "65",
-              "88"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "88"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1652065976945352713",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1652065976945352713",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 28 21:43:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Puzzle of the Permaweird\". https://t.co/5EDNBubFli",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1651969826972213250"
-          ],
-          "editableUntil" : "2023-04-28T15:51:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/CwSCrEbLVt",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-86-17018db2dfe1?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1651969826972213250",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1651969826972213250",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 28 15:21:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #86\". https://t.co/CwSCrEbLVt",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1651491747569061891"
-          ],
-          "editableUntil" : "2023-04-27T08:11:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3GCw0M0OhJ",
-            "expanded_url" : "https://nesslabs.com/neuroproductivity?utm_source=rss&utm_medium=rss&utm_campaign=neuroproductivity",
-            "display_url" : "nesslabs.com/neuroproductiv…",
-            "indices" : [
-              "93",
-              "116"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "116"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1651491747569061891",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1651491747569061891",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Apr 27 07:41:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The neurochemicals of productivity and procrastination\". https://t.co/3GCw0M0OhJ",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1651270705667883038"
-          ],
-          "editableUntil" : "2023-04-26T17:33:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Critchlow",
-            "screen_name" : "tomcritchlow",
-            "indices" : [
-              "10",
-              "23"
-            ],
-            "id_str" : "6419982",
-            "id" : "6419982"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/fFNIDNb8rw",
-            "expanded_url" : "https://tomcritchlow.com/2023/04/26/career-maps/",
-            "display_url" : "tomcritchlow.com/2023/04/26/car…",
-            "indices" : [
-              "82",
-              "105"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "105"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1651270705667883038",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1651270705667883038",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 26 17:03:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @tomcritchlow's new post, \"What would a map of your career look like?\". https://t.co/fFNIDNb8rw",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1651240704373391360"
-          ],
-          "editableUntil" : "2023-04-26T15:33:57.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Phil Wolff 狼爱马",
-            "screen_name" : "evanwolf",
-            "indices" : [
-              "10",
-              "19"
-            ],
-            "id_str" : "13407",
-            "id" : "13407"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/M35h2SnMH4",
-            "expanded_url" : "https://wider.team/2023/04/26/vienna36/",
-            "display_url" : "wider.team/2023/04/26/vie…",
-            "indices" : [
-              "151",
-              "174"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "174"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1651240704373391360",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1651240704373391360",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 26 15:03:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @evanwolf's new post, \"2023 May 2 – Digital Identity from Vienna #36: Thinking Locally and Globally for Digital Wallets and Identification\". https://t.co/M35h2SnMH4",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1651192985432866816"
-          ],
-          "editableUntil" : "2023-04-26T12:24:20.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/G6JAy9L3SP",
-            "expanded_url" : "https://antlerboy.medium.com/in-a-world-of-large-language-models-and-machine-learning-is-operational-excellence-as-we-know-it-e2625a12e5f4?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/in-a-world-of-…",
-            "indices" : [
-              "135",
-              "158"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "158"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1651192985432866816",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1651192985432866816",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 26 11:54:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"In a world of Large Language Models and Machine Learning, is Operational Excellence as we know it…\". https://t.co/G6JAy9L3SP",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1650955698149412865"
-          ],
-          "editableUntil" : "2023-04-25T20:41:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/UMieUbNGTn",
-            "expanded_url" : "https://www.yakcollective.org/join.html",
-            "display_url" : "yakcollective.org/join.html",
-            "indices" : [
-              "166",
-              "189"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "189"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1650955697033728000",
-      "id_str" : "1650955698149412865",
-      "in_reply_to_user_id" : "1254475197274443776",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1650955698149412865",
-      "in_reply_to_status_id" : "1650955697033728000",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Apr 25 20:11:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "You can join the discord here. For 2023, we're currently deciding between trying to build a simple, low-cost desert rover together and/or a modular rover kit system. https://t.co/UMieUbNGTn",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "yak_collective",
-      "in_reply_to_user_id_str" : "1254475197274443776"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1650955697033728000"
-          ],
-          "editableUntil" : "2023-04-25T20:41:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/GS9cx48AhC",
-            "expanded_url" : "https://www.yakcollective.org/projects/yak-rover.html",
-            "display_url" : "yakcollective.org/projects/yak-r…",
-            "indices" : [
-              "228",
-              "251"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "251"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1650955697033728000",
-      "truncated" : false,
-      "retweet_count" : "3",
-      "id" : "1650955697033728000",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Apr 25 20:11:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "The Yak Rover project is looking for people with experience and/or interest in doing a custom PCB design for the 2023 design effort. Hop on the Discord to talk to the team. We meet on Zoom+Discord every Tuesday at noon Pacific. https://t.co/GS9cx48AhC",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1650669050253434880"
-          ],
-          "editableUntil" : "2023-04-25T01:42:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/m4RVYthgUb",
-            "expanded_url" : "https://summerlightning.substack.com/p/your-body-is-the-palace-of-versailles",
-            "display_url" : "summerlightning.substack.com/p/your-body-is…",
-            "indices" : [
-              "75",
-              "98"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "98"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1650669050253434880",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1650669050253434880",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Apr 25 01:12:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Your Body is The Palace of Versailles \". https://t.co/m4RVYthgUb",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1650502736473980928"
-          ],
-          "editableUntil" : "2023-04-24T14:41:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Ck7CROL0R8",
-            "expanded_url" : "https://www.youtube.com/watch?v=5PwHcTH-px4",
-            "display_url" : "youtube.com/watch?v=5PwHcT…",
-            "indices" : [
-              "64",
-              "87"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "172"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1650502736473980928",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1650502736473980928",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 24 14:11:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading - \"Web3 is Self-Certifying\" by Jay Graber\n\nhttps://t.co/Ck7CROL0R8\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1649911913067757569"
-          ],
-          "editableUntil" : "2023-04-22T23:33:48.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JQsw9BGIdU",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/history-after-history",
-            "display_url" : "studio.ribbonfarm.com/p/history-afte…",
-            "indices" : [
-              "58",
-              "81"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "81"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1649911913067757569",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1649911913067757569",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Apr 22 23:03:48 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"History After History\". https://t.co/JQsw9BGIdU",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1649430643154059264"
-          ],
-          "editableUntil" : "2023-04-21T15:41:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/7Y947zGAQG",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-85-4558b349e3de?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1649430643154059264",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1649430643154059264",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 21 15:11:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #85\". https://t.co/7Y947zGAQG",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1649209786326450177"
-          ],
-          "editableUntil" : "2023-04-21T01:03:48.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Dyi0RPhKVc",
-            "expanded_url" : "https://summerlightning.substack.com/p/are-you-content-yet",
-            "display_url" : "summerlightning.substack.com/p/are-you-cont…",
-            "indices" : [
-              "58",
-              "81"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "81"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1649209786326450177",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1649209786326450177",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 21 00:33:48 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Are You Content Yet? \". https://t.co/Dyi0RPhKVc",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648893168690122752"
-          ],
-          "editableUntil" : "2023-04-20T04:05:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/GuS6NWffsZ",
-            "expanded_url" : "https://nesslabs.com/growth-loops?utm_source=rss&utm_medium=rss&utm_campaign=growth-loops",
-            "display_url" : "nesslabs.com/growth-loops?u…",
-            "indices" : [
-              "90",
-              "113"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "113"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1648893168690122752",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648893168690122752",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Apr 20 03:35:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Growth Loops: From linear growth to circular growth\". https://t.co/GuS6NWffsZ",
       "lang" : "en"
     }
   },
@@ -83110,7 +85409,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Amanda Reeves",
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
             "screen_name" : "WabiSabiFutures",
             "indices" : [
               "37",
@@ -83393,18 +85692,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Rodrigo Pinto",
-            "screen_name" : "Rodrigo_plp",
-            "indices" : [
-              "37",
-              "49"
-            ],
-            "id_str" : "3075441796",
-            "id" : "3075441796"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
             "url" : "https://t.co/cuGEddqNCP",
@@ -85624,7 +87912,7 @@ window.YTD.tweets.part0 = [
         "0",
         "77"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1410731825010397184",
       "truncated" : false,
       "retweet_count" : "1",
@@ -87604,7 +89892,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Amanda Reeves",
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
             "screen_name" : "WabiSabiFutures",
             "indices" : [
               "37",
@@ -89414,6 +91702,1170 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1656223506852462594"
+          ],
+          "editableUntil" : "2023-05-10T09:33:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/nkjP5MeJCq",
+            "expanded_url" : "https://antlerboy.medium.com/how-do-you-get-salty-how-does-one-become-a-curmudgeon-ea744f2807bf?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/how-do-you-get…",
+            "indices" : [
+              "92",
+              "115"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "115"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1656223506852462594",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1656223506852462594",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 10 09:03:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"How do you get salty? How does one become a curmudgeon?\". https://t.co/nkjP5MeJCq",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1655630969909518336"
+          ],
+          "editableUntil" : "2023-05-08T18:19:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Gps2lTqlGH",
+            "expanded_url" : "http://bit.ly/3BLYCsr",
+            "display_url" : "bit.ly/3BLYCsr",
+            "indices" : [
+              "82",
+              "105"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1655630969909518336/video/1",
+            "indices" : [
+              "106",
+              "129"
+            ],
+            "url" : "https://t.co/hiuZHoruPa",
+            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1655630680208859141/pu/img/OCANsZ9yQVwCCJOn.jpg",
+            "id_str" : "1655630680208859141",
+            "id" : "1655630680208859141",
+            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1655630680208859141/pu/img/OCANsZ9yQVwCCJOn.jpg",
+            "sizes" : {
+              "large" : {
+                "w" : "1280",
+                "h" : "720",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "1200",
+                "h" : "675",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "383",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/hiuZHoruPa"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "129"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1655630969909518336",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1655630969909518336",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon May 08 17:49:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out our YouTube Channel \n\nWe put our weekly study group meetups on YouTube\n\nhttps://t.co/Gps2lTqlGH https://t.co/hiuZHoruPa",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ],
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1655630969909518336/video/1",
+            "indices" : [
+              "106",
+              "129"
+            ],
+            "url" : "https://t.co/hiuZHoruPa",
+            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1655630680208859141/pu/img/OCANsZ9yQVwCCJOn.jpg",
+            "id_str" : "1655630680208859141",
+            "video_info" : {
+              "aspect_ratio" : [
+                "16",
+                "9"
+              ],
+              "duration_millis" : "14212",
+              "variants" : [
+                {
+                  "bitrate" : "256000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/480x270/FdyKReMIPVmBSgT3.mp4?tag=12"
+                },
+                {
+                  "content_type" : "application/x-mpegURL",
+                  "url" : "https://video.twimg.com/ext_tw_video/1655630680208859141/pu/pl/jkE4y8ZIZrZX2Qqu.m3u8?tag=12"
+                },
+                {
+                  "bitrate" : "2176000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/1280x720/BWu9lcZMZKlztEJ9.mp4?tag=12"
+                },
+                {
+                  "bitrate" : "832000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/640x360/T4BuKU4ia3oZ6PGm.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info" : {
+              "monetizable" : false
+            },
+            "id" : "1655630680208859141",
+            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1655630680208859141/pu/img/OCANsZ9yQVwCCJOn.jpg",
+            "sizes" : {
+              "large" : {
+                "w" : "1280",
+                "h" : "720",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "1200",
+                "h" : "675",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "383",
+                "resize" : "fit"
+              }
+            },
+            "type" : "video",
+            "display_url" : "pic.twitter.com/hiuZHoruPa"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1655298380803854339"
+          ],
+          "editableUntil" : "2023-05-07T20:17:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/50oRX6253g",
+            "expanded_url" : "https://summerlightning.substack.com/p/everyone-is-a-performance-artist",
+            "display_url" : "summerlightning.substack.com/p/everyone-is-…",
+            "indices" : [
+              "74",
+              "97"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "97"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1655298380803854339",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1655298380803854339",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun May 07 19:47:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Everyone is a Performance Artist Now \". https://t.co/50oRX6253g",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1654957394198249472"
+          ],
+          "editableUntil" : "2023-05-06T21:42:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/6ckdRjWYUl",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/summer-break-6a0",
+            "display_url" : "studio.ribbonfarm.com/p/summer-break…",
+            "indices" : [
+              "49",
+              "72"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "72"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1654957394198249472",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1654957394198249472",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat May 06 21:12:45 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"Summer Break\". https://t.co/6ckdRjWYUl",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1654570382475644928"
+          ],
+          "editableUntil" : "2023-05-05T20:04:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/OpLbLWPdHS",
+            "expanded_url" : "https://yakcollective.substack.com/p/yak-governance-studies-sequence-intro",
+            "display_url" : "yakcollective.substack.com/p/yak-governan…",
+            "indices" : [
+              "99",
+              "122"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "122"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1654570382475644928",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1654570382475644928",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri May 05 19:34:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out the latest edition of the Yak Talk newsletter, \"Yak Governance Studies Sequence: Intro\". https://t.co/OpLbLWPdHS",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1653742163623301121"
+          ],
+          "editableUntil" : "2023-05-03T13:13:51.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Q1IGnXWmFS",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/naming-risky-situations",
+            "display_url" : "uncertaintymindset.substack.com/p/naming-risky…",
+            "indices" : [
+              "67",
+              "90"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "90"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1653742163623301121",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1653742163623301121",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 03 12:43:51 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Naming risky situations\". https://t.co/Q1IGnXWmFS",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1653701941942263809"
+          ],
+          "editableUntil" : "2023-05-03T10:34:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/3qmAo9XUkc",
+            "expanded_url" : "https://antlerboy.medium.com/we-shape-our-technology-and-thereafter-our-technology-shapes-us-how-will-ai-shape-business-c7b5d9f70b73?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/we-shape-our-t…",
+            "indices" : [
+              "133",
+              "156"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "156"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1653701941942263809",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1653701941942263809",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed May 03 10:04:01 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"‘We shape our technology and thereafter our technology shapes us’. How will ‘AI’ shape business?\". https://t.co/3qmAo9XUkc",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1653052789134614561"
+          ],
+          "editableUntil" : "2023-05-01T15:34:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/QEdbyOyVhu",
+            "expanded_url" : "https://www.youtube.com/watch?v=j277KqYFAqA",
+            "display_url" : "youtube.com/watch?v=j277Kq…",
+            "indices" : [
+              "159",
+              "182"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "246"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1653052789134614561",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1653052789134614561",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon May 01 15:04:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading \n\nDo language models possess knowledge (soundness)? by Tarun Chitra and Henry Prior in our distributed systems study group\n\nLive Stream - https://t.co/QEdbyOyVhu\n\n16:20 UTC\n08:20 Pacific\n11:20 Eastern\n20:50 Indian\n00:20 Tokyo",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1652779228599910400"
+          ],
+          "editableUntil" : "2023-04-30T21:27:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/cG1c6ehKJN",
+            "expanded_url" : "https://summerlightning.substack.com/p/some-kind-of-mediocre-genius",
+            "display_url" : "summerlightning.substack.com/p/some-kind-of…",
+            "indices" : [
+              "66",
+              "89"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "89"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1652779228599910400",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1652779228599910400",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Apr 30 20:57:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Some Kind of Mediocre Genius \". https://t.co/cG1c6ehKJN",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1652065976945352713"
+          ],
+          "editableUntil" : "2023-04-28T22:13:17.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/5EDNBubFli",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/the-puzzle-of-the-permaweird",
+            "display_url" : "studio.ribbonfarm.com/p/the-puzzle-o…",
+            "indices" : [
+              "65",
+              "88"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "88"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1652065976945352713",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1652065976945352713",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 28 21:43:17 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"The Puzzle of the Permaweird\". https://t.co/5EDNBubFli",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1651969826972213250"
+          ],
+          "editableUntil" : "2023-04-28T15:51:13.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/CwSCrEbLVt",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-86-17018db2dfe1?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1651969826972213250",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1651969826972213250",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 28 15:21:13 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #86\". https://t.co/CwSCrEbLVt",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1651491747569061891"
+          ],
+          "editableUntil" : "2023-04-27T08:11:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/3GCw0M0OhJ",
+            "expanded_url" : "https://nesslabs.com/neuroproductivity?utm_source=rss&utm_medium=rss&utm_campaign=neuroproductivity",
+            "display_url" : "nesslabs.com/neuroproductiv…",
+            "indices" : [
+              "93",
+              "116"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "116"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1651491747569061891",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1651491747569061891",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Apr 27 07:41:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The neurochemicals of productivity and procrastination\". https://t.co/3GCw0M0OhJ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1651270705667883038"
+          ],
+          "editableUntil" : "2023-04-26T17:33:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Tom Critchlow",
+            "screen_name" : "tomcritchlow",
+            "indices" : [
+              "10",
+              "23"
+            ],
+            "id_str" : "6419982",
+            "id" : "6419982"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/fFNIDNb8rw",
+            "expanded_url" : "https://tomcritchlow.com/2023/04/26/career-maps/",
+            "display_url" : "tomcritchlow.com/2023/04/26/car…",
+            "indices" : [
+              "82",
+              "105"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "105"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1651270705667883038",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1651270705667883038",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 26 17:03:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @tomcritchlow's new post, \"What would a map of your career look like?\". https://t.co/fFNIDNb8rw",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1651240704373391360"
+          ],
+          "editableUntil" : "2023-04-26T15:33:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Phil Wolff 狼爱马",
+            "screen_name" : "evanwolf",
+            "indices" : [
+              "10",
+              "19"
+            ],
+            "id_str" : "13407",
+            "id" : "13407"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/M35h2SnMH4",
+            "expanded_url" : "https://wider.team/2023/04/26/vienna36/",
+            "display_url" : "wider.team/2023/04/26/vie…",
+            "indices" : [
+              "151",
+              "174"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "174"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1651240704373391360",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1651240704373391360",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 26 15:03:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @evanwolf's new post, \"2023 May 2 – Digital Identity from Vienna #36: Thinking Locally and Globally for Digital Wallets and Identification\". https://t.co/M35h2SnMH4",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1651192985432866816"
+          ],
+          "editableUntil" : "2023-04-26T12:24:20.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/G6JAy9L3SP",
+            "expanded_url" : "https://antlerboy.medium.com/in-a-world-of-large-language-models-and-machine-learning-is-operational-excellence-as-we-know-it-e2625a12e5f4?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/in-a-world-of-…",
+            "indices" : [
+              "135",
+              "158"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "158"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1651192985432866816",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1651192985432866816",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 26 11:54:20 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"In a world of Large Language Models and Machine Learning, is Operational Excellence as we know it…\". https://t.co/G6JAy9L3SP",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1650955698149412865"
+          ],
+          "editableUntil" : "2023-04-25T20:41:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/UMieUbNGTn",
+            "expanded_url" : "https://www.yakcollective.org/join.html",
+            "display_url" : "yakcollective.org/join.html",
+            "indices" : [
+              "166",
+              "189"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "189"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1650955697033728000",
+      "id_str" : "1650955698149412865",
+      "in_reply_to_user_id" : "1254475197274443776",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1650955698149412865",
+      "in_reply_to_status_id" : "1650955697033728000",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Apr 25 20:11:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "You can join the discord here. For 2023, we're currently deciding between trying to build a simple, low-cost desert rover together and/or a modular rover kit system. https://t.co/UMieUbNGTn",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "yak_collective",
+      "in_reply_to_user_id_str" : "1254475197274443776"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1650955697033728000"
+          ],
+          "editableUntil" : "2023-04-25T20:41:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/GS9cx48AhC",
+            "expanded_url" : "https://www.yakcollective.org/projects/yak-rover.html",
+            "display_url" : "yakcollective.org/projects/yak-r…",
+            "indices" : [
+              "228",
+              "251"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "251"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1650955697033728000",
+      "truncated" : false,
+      "retweet_count" : "3",
+      "id" : "1650955697033728000",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Apr 25 20:11:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "The Yak Rover project is looking for people with experience and/or interest in doing a custom PCB design for the 2023 design effort. Hop on the Discord to talk to the team. We meet on Zoom+Discord every Tuesday at noon Pacific. https://t.co/GS9cx48AhC",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1650669050253434880"
+          ],
+          "editableUntil" : "2023-04-25T01:42:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/m4RVYthgUb",
+            "expanded_url" : "https://summerlightning.substack.com/p/your-body-is-the-palace-of-versailles",
+            "display_url" : "summerlightning.substack.com/p/your-body-is…",
+            "indices" : [
+              "75",
+              "98"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "98"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1650669050253434880",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1650669050253434880",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Apr 25 01:12:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Your Body is The Palace of Versailles \". https://t.co/m4RVYthgUb",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1650502736473980928"
+          ],
+          "editableUntil" : "2023-04-24T14:41:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Ck7CROL0R8",
+            "expanded_url" : "https://www.youtube.com/watch?v=5PwHcTH-px4",
+            "display_url" : "youtube.com/watch?v=5PwHcT…",
+            "indices" : [
+              "64",
+              "87"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "172"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1650502736473980928",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1650502736473980928",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 24 14:11:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading - \"Web3 is Self-Certifying\" by Jay Graber\n\nhttps://t.co/Ck7CROL0R8\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1649911913067757569"
+          ],
+          "editableUntil" : "2023-04-22T23:33:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JQsw9BGIdU",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/history-after-history",
+            "display_url" : "studio.ribbonfarm.com/p/history-afte…",
+            "indices" : [
+              "58",
+              "81"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "81"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1649911913067757569",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1649911913067757569",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Apr 22 23:03:48 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"History After History\". https://t.co/JQsw9BGIdU",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1400427508051460098"
           ],
           "editableUntil" : "2021-06-03T13:21:51.261Z",
@@ -90651,1172 +94103,6 @@ window.YTD.tweets.part0 = [
       "created_at" : "Mon May 24 07:11:52 +0000 2021",
       "favorited" : false,
       "full_text" : "Today's featured yak: Scott Garlinger (@scott_garlinger) - Director of Business Development, Groupmuse; A.I. Operator, Dynasty https://t.co/T0dz9AdOBn",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648720051875266560"
-          ],
-          "editableUntil" : "2023-04-19T16:37:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "0",
-              "4"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/9e8Z1gYyvB",
-            "expanded_url" : "https://www.youtube.com/watch?v=bKCXcRAycik",
-            "display_url" : "youtube.com/watch?v=bKCXcR…",
-            "indices" : [
-              "21",
-              "44"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1648718396878475268",
-      "id_str" : "1648720051875266560",
-      "in_reply_to_user_id" : "1254475197274443776",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648720051875266560",
-      "in_reply_to_status_id" : "1648718396878475268",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 19 16:07:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@vgr livestream here\nhttps://t.co/9e8Z1gYyvB",
-      "lang" : "en",
-      "contributors" : [
-        "755296"
-      ],
-      "in_reply_to_screen_name" : "yak_collective",
-      "in_reply_to_user_id_str" : "1254475197274443776"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648718396878475268"
-          ],
-          "editableUntil" : "2023-04-19T16:31:12.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "0",
-              "4"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/qDXval2eFJ",
-            "expanded_url" : "https://artofgig.com/",
-            "display_url" : "artofgig.com",
-            "indices" : [
-              "61",
-              "84"
-            ]
-          },
-          {
-            "url" : "https://t.co/6YkDSLv47V",
-            "expanded_url" : "https://discord.com/events/692111190851059762/1089959438665908284",
-            "display_url" : "discord.com/events/6921111…",
-            "indices" : [
-              "89",
-              "112"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "112"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1648718396878475268",
-      "in_reply_to_user_id" : "8500962",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648718396878475268",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 19 16:01:12 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@vgr dropping in the indie accelerator channel to talk about https://t.co/qDXval2eFJ now\nhttps://t.co/6YkDSLv47V",
-      "lang" : "en",
-      "contributors" : [
-        "755296"
-      ],
-      "in_reply_to_screen_name" : "vgr",
-      "in_reply_to_user_id_str" : "8500962"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648668414901202946"
-          ],
-          "editableUntil" : "2023-04-19T13:12:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/sunJC7Rllr",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/the-appreciation-of-rocks",
-            "display_url" : "uncertaintymindset.substack.com/p/the-apprecia…",
-            "indices" : [
-              "69",
-              "92"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "92"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1648668414901202946",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648668414901202946",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 19 12:42:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"The appreciation of rocks\". https://t.co/sunJC7Rllr",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648600942827241472"
-          ],
-          "editableUntil" : "2023-04-19T08:44:28.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/tMSm58TCdt",
-            "expanded_url" : "https://antlerboy.medium.com/what-kind-of-a-leader-are-you-e3ad04df1b39?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/what-kind-of-a…",
-            "indices" : [
-              "67",
-              "90"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "90"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1648600942827241472",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1648600942827241472",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 19 08:14:28 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What kind of a leader are you?\". https://t.co/tMSm58TCdt",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648354960696922112"
-          ],
-          "editableUntil" : "2023-04-18T16:27:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Critchlow",
-            "screen_name" : "tomcritchlow",
-            "indices" : [
-              "10",
-              "23"
-            ],
-            "id_str" : "6419982",
-            "id" : "6419982"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/K6kjDVR6Ta",
-            "expanded_url" : "https://tomcritchlow.com/2023/04/18/roadmap-territory/",
-            "display_url" : "tomcritchlow.com/2023/04/18/roa…",
-            "indices" : [
-              "72",
-              "95"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "95"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1648354960696922112",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648354960696922112",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Apr 18 15:57:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @tomcritchlow's new post, \"The roadmap is not the territory\". https://t.co/K6kjDVR6Ta",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648127068897460235"
-          ],
-          "editableUntil" : "2023-04-18T01:21:28.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/aKMmMGMl4e",
-            "expanded_url" : "https://think-boundless.com/pebble/?utm_source=rss&utm_medium=rss&utm_campaign=pebble",
-            "display_url" : "think-boundless.com/pebble/?utm_so…",
-            "indices" : [
-              "89",
-              "112"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "112"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1648127068897460235",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648127068897460235",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Apr 18 00:51:28 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"A Pebble In My Shoe (Excerpt From The Pathless Path)\". https://t.co/aKMmMGMl4e",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648008548050149394"
-          ],
-          "editableUntil" : "2023-04-17T17:30:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jascha Wilcox 🤖",
-            "screen_name" : "jaschawilcox",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "68726651",
-            "id" : "68726651"
-          },
-          {
-            "name" : "Anuraj R.",
-            "screen_name" : "anurajenp",
-            "indices" : [
-              "14",
-              "24"
-            ],
-            "id_str" : "2721763552",
-            "id" : "2721763552"
-          },
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "25",
-              "29"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          },
-          {
-            "name" : "Eric Platon",
-            "screen_name" : "not_replica",
-            "indices" : [
-              "30",
-              "42"
-            ],
-            "id_str" : "532657310",
-            "id" : "532657310"
-          },
-          {
-            "name" : "Maier Fenster",
-            "screen_name" : "maierfenster",
-            "indices" : [
-              "43",
-              "56"
-            ],
-            "id_str" : "548568991",
-            "id" : "548568991"
-          },
-          {
-            "name" : "Rhett Garber",
-            "screen_name" : "rhettford",
-            "indices" : [
-              "57",
-              "67"
-            ],
-            "id_str" : "28743430",
-            "id" : "28743430"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/TTLKVex8bb",
-            "expanded_url" : "https://www.youtube.com/watch?v=NFYIM4ZRcqU",
-            "display_url" : "youtube.com/watch?v=NFYIM4…",
-            "indices" : [
-              "90",
-              "113"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "113"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1648008329531105282",
-      "id_str" : "1648008548050149394",
-      "in_reply_to_user_id" : "1254475197274443776",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648008548050149394",
-      "in_reply_to_status_id" : "1648008329531105282",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 17 17:00:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jaschawilcox @anurajenp @vgr @not_replica @maierfenster @rhettford Session 2 on YouTube\n\nhttps://t.co/TTLKVex8bb",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ],
-      "in_reply_to_screen_name" : "yak_collective",
-      "in_reply_to_user_id_str" : "1254475197274443776"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648008329531105282"
-          ],
-          "editableUntil" : "2023-04-17T17:29:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jascha Wilcox 🤖",
-            "screen_name" : "jaschawilcox",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "68726651",
-            "id" : "68726651"
-          },
-          {
-            "name" : "Anuraj R.",
-            "screen_name" : "anurajenp",
-            "indices" : [
-              "85",
-              "95"
-            ],
-            "id_str" : "2721763552",
-            "id" : "2721763552"
-          },
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "98",
-              "102"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          },
-          {
-            "name" : "Eric Platon",
-            "screen_name" : "not_replica",
-            "indices" : [
-              "105",
-              "117"
-            ],
-            "id_str" : "532657310",
-            "id" : "532657310"
-          },
-          {
-            "name" : "Maier Fenster",
-            "screen_name" : "maierfenster",
-            "indices" : [
-              "120",
-              "133"
-            ],
-            "id_str" : "548568991",
-            "id" : "548568991"
-          },
-          {
-            "name" : "Rhett Garber",
-            "screen_name" : "rhettford",
-            "indices" : [
-              "136",
-              "146"
-            ],
-            "id_str" : "28743430",
-            "id" : "28743430"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/zM9G9SKQN7",
-            "expanded_url" : "https://www.youtube.com/watch?v=XC57PG7xEOo",
-            "display_url" : "youtube.com/watch?v=XC57PG…",
-            "indices" : [
-              "172",
-              "195"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "195"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1648007799840841741",
-      "id_str" : "1648008329531105282",
-      "in_reply_to_user_id" : "1254475197274443776",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648008329531105282",
-      "in_reply_to_status_id" : "1648007799840841741",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 17 16:59:38 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jaschawilcox We had two planning sessions for the design in the last two weeks with @anurajenp , @vgr , @not_replica , @maierfenster , @rhettford \n\nSession 1 on YouTube \n\nhttps://t.co/zM9G9SKQN7",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ],
-      "in_reply_to_screen_name" : "yak_collective",
-      "in_reply_to_user_id_str" : "1254475197274443776"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648007799840841741"
-          ],
-          "editableUntil" : "2023-04-17T17:27:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "Jascha Wilcox 🤖",
-            "screen_name" : "jaschawilcox",
-            "indices" : [
-              "193",
-              "206"
-            ],
-            "id_str" : "68726651",
-            "id" : "68726651"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1648007799840841741/photo/1",
-            "indices" : [
-              "207",
-              "230"
-            ],
-            "url" : "https://t.co/9uaLFdKphP",
-            "media_url" : "http://pbs.twimg.com/media/Ft7mTJ5WIAEYRvZ.png",
-            "id_str" : "1648007730412527617",
-            "id" : "1648007730412527617",
-            "media_url_https" : "https://pbs.twimg.com/media/Ft7mTJ5WIAEYRvZ.png",
-            "sizes" : {
-              "small" : {
-                "w" : "680",
-                "h" : "528",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "690",
-                "h" : "536",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "690",
-                "h" : "536",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/9uaLFdKphP"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "230"
-      ],
-      "favorite_count" : "3",
-      "id_str" : "1648007799840841741",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648007799840841741",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 17 16:57:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "For 2023, the YakRover project plan is to try and design a modular rover with a globally distributed team and if possible test the rover in a remote place\n\nHere is a quick mech design proto by @jaschawilcox https://t.co/9uaLFdKphP",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ],
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/yak_collective/status/1648007799840841741/photo/1",
-            "indices" : [
-              "207",
-              "230"
-            ],
-            "url" : "https://t.co/9uaLFdKphP",
-            "media_url" : "http://pbs.twimg.com/media/Ft7mTJ5WIAEYRvZ.png",
-            "id_str" : "1648007730412527617",
-            "id" : "1648007730412527617",
-            "media_url_https" : "https://pbs.twimg.com/media/Ft7mTJ5WIAEYRvZ.png",
-            "sizes" : {
-              "small" : {
-                "w" : "680",
-                "h" : "528",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "690",
-                "h" : "536",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "690",
-                "h" : "536",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/9uaLFdKphP"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647978904735424513"
-          ],
-          "editableUntil" : "2023-04-17T15:32:43.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/mNv0MdSlBz",
-            "expanded_url" : "https://twitter.com/yak_collective/status/1647953434144849934",
-            "display_url" : "twitter.com/yak_collective…",
-            "indices" : [
-              "19",
-              "42"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "42"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647978904735424513",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647978904735424513",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 17 15:02:43 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Live in 15 minutes https://t.co/mNv0MdSlBz",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647953434144849934"
-          ],
-          "editableUntil" : "2023-04-17T13:51:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Gordon",
-            "screen_name" : "gordonbrander",
-            "indices" : [
-              "14",
-              "28"
-            ],
-            "id_str" : "12665",
-            "id" : "12665"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/CtUPy9oXd8",
-            "expanded_url" : "https://subconscious.substack.com/p/everyone-will-have-their-own-ai",
-            "display_url" : "subconscious.substack.com/p/everyone-wil…",
-            "indices" : [
-              "135",
-              "158"
-            ]
-          },
-          {
-            "url" : "https://t.co/Yb9yeXzIvB",
-            "expanded_url" : "https://www.youtube.com/watch?v=zFTfh3W0Kx0",
-            "display_url" : "youtube.com/watch?v=zFTfh3…",
-            "indices" : [
-              "245",
-              "268"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "268"
-      ],
-      "favorite_count" : "3",
-      "id_str" : "1647953434144849934",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1647953434144849934",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 17 13:21:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we have @gordonbrander as our guest in our Distributed Systems Study Group to tell us how we could all have our own personal AI\n\nhttps://t.co/CtUPy9oXd8\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo\n\nhttps://t.co/Yb9yeXzIvB",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647302610964082688"
-          ],
-          "editableUntil" : "2023-04-15T18:45:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/CpvHhl2sE5",
-            "expanded_url" : "https://www.youtube.com/playlist?list=PLrJaiS43Txmbu_j8cU1IOzqWJQWTvffcW",
-            "display_url" : "youtube.com/playlist?list=…",
-            "indices" : [
-              "113",
-              "136"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "136"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1647302610964082688",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1647302610964082688",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Apr 15 18:15:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Our first quarter weekly meetings for YakRover project of YakCollective Robotics Garage is up on YouTube. Enjoy\n\nhttps://t.co/CpvHhl2sE5",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647193310178709504"
-          ],
-          "editableUntil" : "2023-04-15T11:31:03.175Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Anuraj R.",
-            "screen_name" : "anurajenp",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "2721763552",
-            "id" : "2721763552"
-          },
-          {
-            "name" : "The Yak Collective",
-            "screen_name" : "yak_collective",
-            "indices" : [
-              "40",
-              "55"
-            ],
-            "id_str" : "1254475197274443776",
-            "id" : "1254475197274443776"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647193310178709504",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647193310178709504",
-      "created_at" : "Sat Apr 15 11:01:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @anurajenp: made a new thumbnail for @yak_collective robotics garage (YARG…) 2023 weekly meetings  \n\ndon’t forget to like and subscribe…",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647050252858302464"
-          ],
-          "editableUntil" : "2023-04-15T02:02:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/FnZhWnrftS",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/the-firmament",
-            "display_url" : "studio.ribbonfarm.com/p/the-firmament",
-            "indices" : [
-              "50",
-              "73"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "73"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1647050252858302464",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647050252858302464",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Apr 15 01:32:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Firmament\". https://t.co/FnZhWnrftS",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646911840478167042"
-          ],
-          "editableUntil" : "2023-04-14T16:52:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chris Butler",
-            "screen_name" : "chrizbot",
-            "indices" : [
-              "10",
-              "19"
-            ],
-            "id_str" : "1594631",
-            "id" : "1594631"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/bR09SVIvQa",
-            "expanded_url" : "https://medium.com/agileinsider/tug-of-war-in-online-decision-making-148439884380?source=rss-ba6349c9c628------2",
-            "display_url" : "medium.com/agileinsider/t…",
-            "indices" : [
-              "72",
-              "95"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "95"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1646911840478167042",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646911840478167042",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 14 16:22:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @chrizbot's new post, \"Tug of war in online decision making\". https://t.co/bR09SVIvQa",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646895749538488321"
-          ],
-          "editableUntil" : "2023-04-14T15:48:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/TbHII7lp6Q",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-84-7ed824eaf1fc?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1646895749538488321",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1646895749538488321",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 14 15:18:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #84\". https://t.co/TbHII7lp6Q",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646690300784459776"
-          ],
-          "editableUntil" : "2023-04-14T02:12:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/NJhTnvjvHs",
-            "expanded_url" : "https://summerlightning.substack.com/p/context-window-problems",
-            "display_url" : "summerlightning.substack.com/p/context-wind…",
-            "indices" : [
-              "60",
-              "83"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646690300784459776",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646690300784459776",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 14 01:42:16 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Context Window Problems\". https://t.co/NJhTnvjvHs",
       "lang" : "en"
     }
   },
@@ -94165,18 +96451,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Rodrigo Pinto",
-            "screen_name" : "Rodrigo_plp",
-            "indices" : [
-              "37",
-              "49"
-            ],
-            "id_str" : "3075441796",
-            "id" : "3075441796"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
             "url" : "https://t.co/f9Q5JGmU3G",
@@ -94864,7 +97139,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -95732,7 +98007,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Amanda Reeves",
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
             "screen_name" : "WabiSabiFutures",
             "indices" : [
               "37",
@@ -98337,7 +100612,7 @@ window.YTD.tweets.part0 = [
         "0",
         "97"
       ],
-      "favorite_count" : "9",
+      "favorite_count" : "8",
       "id_str" : "1375795778678034434",
       "truncated" : false,
       "retweet_count" : "3",
@@ -98425,7 +100700,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -99722,7 +101997,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -101634,6 +103909,1172 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1649430643154059264"
+          ],
+          "editableUntil" : "2023-04-21T15:41:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/7Y947zGAQG",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-85-4558b349e3de?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1649430643154059264",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1649430643154059264",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 21 15:11:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #85\". https://t.co/7Y947zGAQG",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1649209786326450177"
+          ],
+          "editableUntil" : "2023-04-21T01:03:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Dyi0RPhKVc",
+            "expanded_url" : "https://summerlightning.substack.com/p/are-you-content-yet",
+            "display_url" : "summerlightning.substack.com/p/are-you-cont…",
+            "indices" : [
+              "58",
+              "81"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "81"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1649209786326450177",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1649209786326450177",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 21 00:33:48 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Are You Content Yet? \". https://t.co/Dyi0RPhKVc",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648893168690122752"
+          ],
+          "editableUntil" : "2023-04-20T04:05:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/GuS6NWffsZ",
+            "expanded_url" : "https://nesslabs.com/growth-loops?utm_source=rss&utm_medium=rss&utm_campaign=growth-loops",
+            "display_url" : "nesslabs.com/growth-loops?u…",
+            "indices" : [
+              "90",
+              "113"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "113"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1648893168690122752",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648893168690122752",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Apr 20 03:35:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"Growth Loops: From linear growth to circular growth\". https://t.co/GuS6NWffsZ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648720051875266560"
+          ],
+          "editableUntil" : "2023-04-19T16:37:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "0",
+              "4"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/9e8Z1gYyvB",
+            "expanded_url" : "https://www.youtube.com/watch?v=bKCXcRAycik",
+            "display_url" : "youtube.com/watch?v=bKCXcR…",
+            "indices" : [
+              "21",
+              "44"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "44"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1648718396878475268",
+      "id_str" : "1648720051875266560",
+      "in_reply_to_user_id" : "1254475197274443776",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648720051875266560",
+      "in_reply_to_status_id" : "1648718396878475268",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 19 16:07:46 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@vgr livestream here\nhttps://t.co/9e8Z1gYyvB",
+      "lang" : "en",
+      "contributors" : [
+        "755296"
+      ],
+      "in_reply_to_screen_name" : "yak_collective",
+      "in_reply_to_user_id_str" : "1254475197274443776"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648718396878475268"
+          ],
+          "editableUntil" : "2023-04-19T16:31:12.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "0",
+              "4"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/qDXval2eFJ",
+            "expanded_url" : "https://artofgig.com/",
+            "display_url" : "artofgig.com",
+            "indices" : [
+              "61",
+              "84"
+            ]
+          },
+          {
+            "url" : "https://t.co/6YkDSLv47V",
+            "expanded_url" : "https://discord.com/events/692111190851059762/1089959438665908284",
+            "display_url" : "discord.com/events/6921111…",
+            "indices" : [
+              "89",
+              "112"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "112"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1648718396878475268",
+      "in_reply_to_user_id" : "8500962",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648718396878475268",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 19 16:01:12 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@vgr dropping in the indie accelerator channel to talk about https://t.co/qDXval2eFJ now\nhttps://t.co/6YkDSLv47V",
+      "lang" : "en",
+      "contributors" : [
+        "755296"
+      ],
+      "in_reply_to_screen_name" : "vgr",
+      "in_reply_to_user_id_str" : "8500962"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648668414901202946"
+          ],
+          "editableUntil" : "2023-04-19T13:12:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/sunJC7Rllr",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/the-appreciation-of-rocks",
+            "display_url" : "uncertaintymindset.substack.com/p/the-apprecia…",
+            "indices" : [
+              "69",
+              "92"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "92"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1648668414901202946",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648668414901202946",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 19 12:42:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"The appreciation of rocks\". https://t.co/sunJC7Rllr",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648600942827241472"
+          ],
+          "editableUntil" : "2023-04-19T08:44:28.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/tMSm58TCdt",
+            "expanded_url" : "https://antlerboy.medium.com/what-kind-of-a-leader-are-you-e3ad04df1b39?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/what-kind-of-a…",
+            "indices" : [
+              "67",
+              "90"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "90"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1648600942827241472",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1648600942827241472",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 19 08:14:28 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"What kind of a leader are you?\". https://t.co/tMSm58TCdt",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648354960696922112"
+          ],
+          "editableUntil" : "2023-04-18T16:27:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Tom Critchlow",
+            "screen_name" : "tomcritchlow",
+            "indices" : [
+              "10",
+              "23"
+            ],
+            "id_str" : "6419982",
+            "id" : "6419982"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/K6kjDVR6Ta",
+            "expanded_url" : "https://tomcritchlow.com/2023/04/18/roadmap-territory/",
+            "display_url" : "tomcritchlow.com/2023/04/18/roa…",
+            "indices" : [
+              "72",
+              "95"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "95"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1648354960696922112",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648354960696922112",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Apr 18 15:57:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @tomcritchlow's new post, \"The roadmap is not the territory\". https://t.co/K6kjDVR6Ta",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648127068897460235"
+          ],
+          "editableUntil" : "2023-04-18T01:21:28.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14338338",
+            "id" : "14338338"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/aKMmMGMl4e",
+            "expanded_url" : "https://think-boundless.com/pebble/?utm_source=rss&utm_medium=rss&utm_campaign=pebble",
+            "display_url" : "think-boundless.com/pebble/?utm_so…",
+            "indices" : [
+              "89",
+              "112"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "112"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1648127068897460235",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648127068897460235",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Apr 18 00:51:28 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @p_millerd's new post, \"A Pebble In My Shoe (Excerpt From The Pathless Path)\". https://t.co/aKMmMGMl4e",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648008548050149394"
+          ],
+          "editableUntil" : "2023-04-17T17:30:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jascha Wilcox 🤖",
+            "screen_name" : "jaschawilcox",
+            "indices" : [
+              "0",
+              "13"
+            ],
+            "id_str" : "68726651",
+            "id" : "68726651"
+          },
+          {
+            "name" : "Anuraj R.",
+            "screen_name" : "anurajenp",
+            "indices" : [
+              "14",
+              "24"
+            ],
+            "id_str" : "2721763552",
+            "id" : "2721763552"
+          },
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "25",
+              "29"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          },
+          {
+            "name" : "Eric Platon",
+            "screen_name" : "not_replica",
+            "indices" : [
+              "30",
+              "42"
+            ],
+            "id_str" : "532657310",
+            "id" : "532657310"
+          },
+          {
+            "name" : "Maier Fenster",
+            "screen_name" : "maierfenster",
+            "indices" : [
+              "43",
+              "56"
+            ],
+            "id_str" : "548568991",
+            "id" : "548568991"
+          },
+          {
+            "name" : "Rhett Garber",
+            "screen_name" : "rhettford",
+            "indices" : [
+              "57",
+              "67"
+            ],
+            "id_str" : "28743430",
+            "id" : "28743430"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/TTLKVex8bb",
+            "expanded_url" : "https://www.youtube.com/watch?v=NFYIM4ZRcqU",
+            "display_url" : "youtube.com/watch?v=NFYIM4…",
+            "indices" : [
+              "90",
+              "113"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "113"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1648008329531105282",
+      "id_str" : "1648008548050149394",
+      "in_reply_to_user_id" : "1254475197274443776",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648008548050149394",
+      "in_reply_to_status_id" : "1648008329531105282",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 17 17:00:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jaschawilcox @anurajenp @vgr @not_replica @maierfenster @rhettford Session 2 on YouTube\n\nhttps://t.co/TTLKVex8bb",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ],
+      "in_reply_to_screen_name" : "yak_collective",
+      "in_reply_to_user_id_str" : "1254475197274443776"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648008329531105282"
+          ],
+          "editableUntil" : "2023-04-17T17:29:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jascha Wilcox 🤖",
+            "screen_name" : "jaschawilcox",
+            "indices" : [
+              "0",
+              "13"
+            ],
+            "id_str" : "68726651",
+            "id" : "68726651"
+          },
+          {
+            "name" : "Anuraj R.",
+            "screen_name" : "anurajenp",
+            "indices" : [
+              "85",
+              "95"
+            ],
+            "id_str" : "2721763552",
+            "id" : "2721763552"
+          },
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "98",
+              "102"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          },
+          {
+            "name" : "Eric Platon",
+            "screen_name" : "not_replica",
+            "indices" : [
+              "105",
+              "117"
+            ],
+            "id_str" : "532657310",
+            "id" : "532657310"
+          },
+          {
+            "name" : "Maier Fenster",
+            "screen_name" : "maierfenster",
+            "indices" : [
+              "120",
+              "133"
+            ],
+            "id_str" : "548568991",
+            "id" : "548568991"
+          },
+          {
+            "name" : "Rhett Garber",
+            "screen_name" : "rhettford",
+            "indices" : [
+              "136",
+              "146"
+            ],
+            "id_str" : "28743430",
+            "id" : "28743430"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/zM9G9SKQN7",
+            "expanded_url" : "https://www.youtube.com/watch?v=XC57PG7xEOo",
+            "display_url" : "youtube.com/watch?v=XC57PG…",
+            "indices" : [
+              "172",
+              "195"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "195"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1648007799840841741",
+      "id_str" : "1648008329531105282",
+      "in_reply_to_user_id" : "1254475197274443776",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648008329531105282",
+      "in_reply_to_status_id" : "1648007799840841741",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 17 16:59:38 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jaschawilcox We had two planning sessions for the design in the last two weeks with @anurajenp , @vgr , @not_replica , @maierfenster , @rhettford \n\nSession 1 on YouTube \n\nhttps://t.co/zM9G9SKQN7",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ],
+      "in_reply_to_screen_name" : "yak_collective",
+      "in_reply_to_user_id_str" : "1254475197274443776"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648007799840841741"
+          ],
+          "editableUntil" : "2023-04-17T17:27:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "Jascha Wilcox 🤖",
+            "screen_name" : "jaschawilcox",
+            "indices" : [
+              "193",
+              "206"
+            ],
+            "id_str" : "68726651",
+            "id" : "68726651"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1648007799840841741/photo/1",
+            "indices" : [
+              "207",
+              "230"
+            ],
+            "url" : "https://t.co/9uaLFdKphP",
+            "media_url" : "http://pbs.twimg.com/media/Ft7mTJ5WIAEYRvZ.png",
+            "id_str" : "1648007730412527617",
+            "id" : "1648007730412527617",
+            "media_url_https" : "https://pbs.twimg.com/media/Ft7mTJ5WIAEYRvZ.png",
+            "sizes" : {
+              "small" : {
+                "w" : "680",
+                "h" : "528",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "690",
+                "h" : "536",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "690",
+                "h" : "536",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/9uaLFdKphP"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "230"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1648007799840841741",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648007799840841741",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 17 16:57:32 +0000 2023",
+      "favorited" : false,
+      "full_text" : "For 2023, the YakRover project plan is to try and design a modular rover with a globally distributed team and if possible test the rover in a remote place\n\nHere is a quick mech design proto by @jaschawilcox https://t.co/9uaLFdKphP",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ],
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/yak_collective/status/1648007799840841741/photo/1",
+            "indices" : [
+              "207",
+              "230"
+            ],
+            "url" : "https://t.co/9uaLFdKphP",
+            "media_url" : "http://pbs.twimg.com/media/Ft7mTJ5WIAEYRvZ.png",
+            "id_str" : "1648007730412527617",
+            "id" : "1648007730412527617",
+            "media_url_https" : "https://pbs.twimg.com/media/Ft7mTJ5WIAEYRvZ.png",
+            "sizes" : {
+              "small" : {
+                "w" : "680",
+                "h" : "528",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "690",
+                "h" : "536",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "690",
+                "h" : "536",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/9uaLFdKphP"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647978904735424513"
+          ],
+          "editableUntil" : "2023-04-17T15:32:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/mNv0MdSlBz",
+            "expanded_url" : "https://twitter.com/yak_collective/status/1647953434144849934",
+            "display_url" : "twitter.com/yak_collective…",
+            "indices" : [
+              "19",
+              "42"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "42"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1647978904735424513",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1647978904735424513",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 17 15:02:43 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Live in 15 minutes https://t.co/mNv0MdSlBz",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647953434144849934"
+          ],
+          "editableUntil" : "2023-04-17T13:51:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Gordon",
+            "screen_name" : "gordonbrander",
+            "indices" : [
+              "14",
+              "28"
+            ],
+            "id_str" : "12665",
+            "id" : "12665"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/CtUPy9oXd8",
+            "expanded_url" : "https://subconscious.substack.com/p/everyone-will-have-their-own-ai",
+            "display_url" : "subconscious.substack.com/p/everyone-wil…",
+            "indices" : [
+              "135",
+              "158"
+            ]
+          },
+          {
+            "url" : "https://t.co/Yb9yeXzIvB",
+            "expanded_url" : "https://www.youtube.com/watch?v=zFTfh3W0Kx0",
+            "display_url" : "youtube.com/watch?v=zFTfh3…",
+            "indices" : [
+              "245",
+              "268"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "268"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1647953434144849934",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1647953434144849934",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 17 13:21:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we have @gordonbrander as our guest in our Distributed Systems Study Group to tell us how we could all have our own personal AI\n\nhttps://t.co/CtUPy9oXd8\n\nLivestream starts at\n16:15 UTC\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo\n\nhttps://t.co/Yb9yeXzIvB",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647302610964082688"
+          ],
+          "editableUntil" : "2023-04-15T18:45:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/CpvHhl2sE5",
+            "expanded_url" : "https://www.youtube.com/playlist?list=PLrJaiS43Txmbu_j8cU1IOzqWJQWTvffcW",
+            "display_url" : "youtube.com/playlist?list=…",
+            "indices" : [
+              "113",
+              "136"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "136"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1647302610964082688",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1647302610964082688",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Apr 15 18:15:22 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Our first quarter weekly meetings for YakRover project of YakCollective Robotics Garage is up on YouTube. Enjoy\n\nhttps://t.co/CpvHhl2sE5",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647193310178709504"
+          ],
+          "editableUntil" : "2023-04-15T11:31:03.175Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Anuraj R.",
+            "screen_name" : "anurajenp",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "2721763552",
+            "id" : "2721763552"
+          },
+          {
+            "name" : "The Yak Collective",
+            "screen_name" : "yak_collective",
+            "indices" : [
+              "40",
+              "55"
+            ],
+            "id_str" : "1254475197274443776",
+            "id" : "1254475197274443776"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1647193310178709504",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1647193310178709504",
+      "created_at" : "Sat Apr 15 11:01:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @anurajenp: made a new thumbnail for @yak_collective robotics garage (YARG…) 2023 weekly meetings  \n\ndon’t forget to like and subscribe…",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647050252858302464"
+          ],
+          "editableUntil" : "2023-04-15T02:02:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/FnZhWnrftS",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/the-firmament",
+            "display_url" : "studio.ribbonfarm.com/p/the-firmament",
+            "indices" : [
+              "50",
+              "73"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "73"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1647050252858302464",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1647050252858302464",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Apr 15 01:32:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"The Firmament\". https://t.co/FnZhWnrftS",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1361955647152078848"
           ],
           "editableUntil" : "2021-02-17T09:28:24.850Z",
@@ -102925,1154 +106366,6 @@ window.YTD.tweets.part0 = [
       "created_at" : "Thu Jan 28 02:58:12 +0000 2021",
       "favorited" : false,
       "full_text" : "Check out @p_millerd's new post, \"Daniel Vassallo – The Self-Employment Meta Game (Podcast)\". https://t.co/4nisxVcObL",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646472100037685250"
-          ],
-          "editableUntil" : "2023-04-13T11:45:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/n5ywrVvuXJ",
-            "expanded_url" : "https://nesslabs.com/psychology-of-happiness?utm_source=rss&utm_medium=rss&utm_campaign=psychology-of-happiness",
-            "display_url" : "nesslabs.com/psychology-of-…",
-            "indices" : [
-              "66",
-              "89"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "89"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1646472100037685250",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646472100037685250",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Apr 13 11:15:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The psychology of happiness\". https://t.co/n5ywrVvuXJ",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1645480393074671616"
-          ],
-          "editableUntil" : "2023-04-10T18:04:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
-            "screen_name" : "HiredThought",
-            "indices" : [
-              "17",
-              "30"
-            ],
-            "id_str" : "568646506",
-            "id" : "568646506"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/LqSsL5aHgm",
-            "expanded_url" : "https://bit.ly/3BLYCsr",
-            "display_url" : "bit.ly/3BLYCsr",
-            "indices" : [
-              "171",
-              "194"
-            ]
-          },
-          {
-            "url" : "https://t.co/cWaKzq3ais",
-            "expanded_url" : "https://www.youtube.com/watch?v=wlfPdExPB3w",
-            "display_url" : "youtube.com/watch?v=wlfPdE…",
-            "indices" : [
-              "196",
-              "219"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "219"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1645480393074671616",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1645480393074671616",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 10 17:34:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Last week we had @HiredThought join us in our indie-accelerator study group and he went into details of his secret sauce which he uses when starting a consulting project\n\nhttps://t.co/LqSsL5aHgm\n\nhttps://t.co/cWaKzq3ais",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1645439995874885633"
-          ],
-          "editableUntil" : "2023-04-10T15:24:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/LWRUz8LWVl",
-            "expanded_url" : "https://www.youtube.com/watch?v=CA5VIMCz730",
-            "display_url" : "youtube.com/watch?v=CA5VIM…",
-            "indices" : [
-              "184",
-              "207"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "207"
-      ],
-      "favorite_count" : "11",
-      "id_str" : "1645439995874885633",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1645439995874885633",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 10 14:54:00 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Today we are reading \"Noosphere, a protocol for thought\" in our Distributed Systems Study Group\n\nLivestream starts at\n\n16:15 GMT\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo \n\nhttps://t.co/LWRUz8LWVl",
-      "lang" : "en",
-      "contributors" : [
-        "2721763552"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1644560116794966020"
-          ],
-          "editableUntil" : "2023-04-08T05:07:40.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chris Butler",
-            "screen_name" : "chrizbot",
-            "indices" : [
-              "10",
-              "19"
-            ],
-            "id_str" : "1594631",
-            "id" : "1594631"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/k9eaZ0TIW1",
-            "expanded_url" : "https://uxdesign.cc/a-smart-home-is-one-that-talks-to-itself-58bb9222d893?source=rss-ba6349c9c628------2",
-            "display_url" : "uxdesign.cc/a-smart-home-i…",
-            "indices" : [
-              "76",
-              "99"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "99"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1644560116794966020",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1644560116794966020",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Apr 08 04:37:40 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @chrizbot's new post, \"A smart home is one that talks to itself\". https://t.co/k9eaZ0TIW1",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1644485729425281027"
-          ],
-          "editableUntil" : "2023-04-08T00:12:05.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/hUV1byl5t7",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/the-physics-of-intelligence",
-            "display_url" : "studio.ribbonfarm.com/p/the-physics-…",
-            "indices" : [
-              "64",
-              "87"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "87"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1644485729425281027",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1644485729425281027",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 07 23:42:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Physics of Intelligence\". https://t.co/hUV1byl5t7",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1644453137564958730"
-          ],
-          "editableUntil" : "2023-04-07T22:02:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/gadBRzqlIv",
-            "expanded_url" : "https://summerlightning.substack.com/p/the-lambs-of-houston",
-            "display_url" : "summerlightning.substack.com/p/the-lambs-of…",
-            "indices" : [
-              "57",
-              "80"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1644453137564958730",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1644453137564958730",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Apr 07 21:32:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"The Lambs of Houston\". https://t.co/gadBRzqlIv",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1644009243635326977"
-          ],
-          "editableUntil" : "2023-04-06T16:38:42.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/dgPk4WeKo5",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-83-c18e5b1b014d?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1644009243635326977",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1644009243635326977",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Apr 06 16:08:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #83\". https://t.co/dgPk4WeKo5",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643944175509880832"
-          ],
-          "editableUntil" : "2023-04-06T12:20:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/ZPybF8cSOo",
-            "expanded_url" : "https://nesslabs.com/default-definitions?utm_source=rss&utm_medium=rss&utm_campaign=default-definitions",
-            "display_url" : "nesslabs.com/default-defini…",
-            "indices" : [
-              "87",
-              "110"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "110"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1643944175509880832",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643944175509880832",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Apr 06 11:50:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"From Default Definitions to Deliberate Questions\". https://t.co/ZPybF8cSOo",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643656644570513417"
-          ],
-          "editableUntil" : "2023-04-05T17:17:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
-            "screen_name" : "HiredThought",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "568646506",
-            "id" : "568646506"
-          },
-          {
-            "name" : "Love Pilgrim",
-            "screen_name" : "tasshinfogleman",
-            "indices" : [
-              "14",
-              "30"
-            ],
-            "id_str" : "2063951",
-            "id" : "2063951"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/cWaKzq3ais",
-            "expanded_url" : "https://www.youtube.com/watch?v=wlfPdExPB3w",
-            "display_url" : "youtube.com/watch?v=wlfPdE…",
-            "indices" : [
-              "47",
-              "70"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643629157799141379",
-      "id_str" : "1643656644570513417",
-      "in_reply_to_user_id" : "1254475197274443776",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643656644570513417",
-      "in_reply_to_status_id" : "1643629157799141379",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 16:47:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@HiredThought @tasshinfogleman Livestream here\nhttps://t.co/cWaKzq3ais",
-      "lang" : "en",
-      "contributors" : [
-        "755296"
-      ],
-      "in_reply_to_screen_name" : "yak_collective",
-      "in_reply_to_user_id_str" : "1254475197274443776"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643629157799141379"
-          ],
-          "editableUntil" : "2023-04-05T15:28:23.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
-            "screen_name" : "HiredThought",
-            "indices" : [
-              "88",
-              "101"
-            ],
-            "id_str" : "568646506",
-            "id" : "568646506"
-          },
-          {
-            "name" : "Love Pilgrim",
-            "screen_name" : "tasshinfogleman",
-            "indices" : [
-              "164",
-              "180"
-            ],
-            "id_str" : "2063951",
-            "id" : "2063951"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/4wsHsBHn6q",
-            "expanded_url" : "https://hiredthought.com/2023/01/23/things-i-do-when-i-start-a-consulting-project/",
-            "display_url" : "hiredthought.com/2023/01/23/thi…",
-            "indices" : [
-              "182",
-              "205"
-            ]
-          },
-          {
-            "url" : "https://t.co/7nv7Uo3q3n",
-            "expanded_url" : "http://www.yakcollective.org",
-            "display_url" : "yakcollective.org",
-            "indices" : [
-              "239",
-              "262"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "262"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1643629157799141379",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1643629157799141379",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 14:58:23 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Open call for today‘s call with something for everybody: \n“How to kick off a project w/ @HiredThought ”\n\n“One of the clearest thinkers on strategy I’ve ever met” — @tasshinfogleman\n\nhttps://t.co/4wsHsBHn6q\n\nOn Yak Collective Discord. Join https://t.co/7nv7Uo3q3n",
-      "lang" : "en",
-      "contributors" : [
-        "755296"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643589053684621315"
-          ],
-          "editableUntil" : "2023-04-05T12:49:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/N0hOY6upG7",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/quality-time",
-            "display_url" : "uncertaintymindset.substack.com/p/quality-time",
-            "indices" : [
-              "56",
-              "79"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "79"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1643589053684621315",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643589053684621315",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 12:19:01 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Quality time\". https://t.co/N0hOY6upG7",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643528407135780864"
-          ],
-          "editableUntil" : "2023-04-05T08:48:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "government",
-            "indices" : [
-              "88",
-              "99"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/5KD3hlrF6b",
-            "expanded_url" : "https://antlerboy.medium.com/if-you-really-want-to-get-something-done-turn-to-the-government-a48e892e513e?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/if-you-really-…",
-            "indices" : [
-              "103",
-              "126"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "126"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1643528407135780864",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1643528407135780864",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 08:18:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"If you really want to get something done, turn to the #government.\". https://t.co/5KD3hlrF6b",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643437743005999105"
-          ],
-          "editableUntil" : "2023-04-05T02:47:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/4rXXsPlTEL",
-            "expanded_url" : "https://summerlightning.substack.com/p/apathy-is-balenciaga",
-            "display_url" : "summerlightning.substack.com/p/apathy-is-ba…",
-            "indices" : [
-              "57",
-              "80"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1643437743005999105",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643437743005999105",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 02:17:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Apathy is Balenciaga\". https://t.co/4rXXsPlTEL",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642866669927186434"
-          ],
-          "editableUntil" : "2023-04-03T12:58:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JBZ5bplQ8o",
-            "expanded_url" : "https://antlerboy.medium.com/things-you-know-that-aint-so-or-everything-you-thought-you-know-is-false-porn-the-cobra-64a169ea0335?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/things-you-kno…",
-            "indices" : [
-              "131",
-              "154"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "154"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1642866669927186434",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1642866669927186434",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 03 12:28:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Things you know, that ain’t so, or ‘everything you thought you know is false porn’… the Cobra…\". https://t.co/JBZ5bplQ8o",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642663847168229378"
-          ],
-          "editableUntil" : "2023-04-02T23:32:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/xofQkH4c3z",
-            "expanded_url" : "https://summerlightning.substack.com/p/an-aphex-twin-needle-drop",
-            "display_url" : "summerlightning.substack.com/p/an-aphex-twi…",
-            "indices" : [
-              "62",
-              "85"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "85"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1642663847168229378",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1642663847168229378",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Apr 02 23:02:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"An Aphex Twin Needle Drop\". https://t.co/xofQkH4c3z",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642604939913445382"
-          ],
-          "editableUntil" : "2023-04-02T19:38:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/PeLF59UBk7",
-            "expanded_url" : "https://antlerboy.medium.com/rip-ryuichi-sakamoto-7f0554a259e7?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/rip-ryuichi-sa…",
-            "indices" : [
-              "57",
-              "80"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1642604939913445382",
-      "truncated" : false,
-      "retweet_count" : "2",
-      "id" : "1642604939913445382",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Apr 02 19:08:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"RIP Ryuichi Sakamoto\". https://t.co/PeLF59UBk7",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642135970454577152"
-          ],
-          "editableUntil" : "2023-04-01T12:34:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/6XfwgEFDfH",
-            "expanded_url" : "https://antlerboy.medium.com/digital-vs-service-design-vs-bpr-vs-toms-versus-designing-services-in-organisations-for-a42ad19c5134?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/digital-vs-ser…",
-            "indices" : [
-              "136",
-              "159"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "159"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1642135970454577152",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1642135970454577152",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Apr 01 12:04:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"‘Digital’ vs ‘service design’ vs ‘BPR’ vs ‘TOMs’, versus designing services, in organisations, for…\". https://t.co/6XfwgEFDfH",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1641964105337647106"
-          ],
-          "editableUntil" : "2023-04-01T01:12:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/48btivFjSz",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/the-priest-in-the-arena",
-            "display_url" : "studio.ribbonfarm.com/p/the-priest-i…",
-            "indices" : [
-              "60",
-              "83"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1641964105337647106",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1641964105337647106",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Apr 01 00:42:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Priest in the Arena\". https://t.co/48btivFjSz",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1641947801880756225"
-          ],
-          "editableUntil" : "2023-04-01T00:07:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/usr8IZWbEY",
-            "expanded_url" : "https://summerlightning.substack.com/p/smooth-shifting-dunes-1",
-            "display_url" : "summerlightning.substack.com/p/smooth-shift…",
-            "indices" : [
-              "62",
-              "85"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "85"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1641947801880756225",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1641947801880756225",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Mar 31 23:37:16 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Smooth Shifting Dunes - 1\". https://t.co/usr8IZWbEY",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1641818546043858944"
-          ],
-          "editableUntil" : "2023-03-31T15:33:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/paGLYzNxDJ",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-82-be9cfc142ec5?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1641818546043858944",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1641818546043858944",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Mar 31 15:03:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #82\". https://t.co/paGLYzNxDJ",
       "lang" : "en"
     }
   },
@@ -107074,7 +109367,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -110123,7 +112416,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -114196,6 +116489,1154 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1646911840478167042"
+          ],
+          "editableUntil" : "2023-04-14T16:52:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chris Butler",
+            "screen_name" : "chrizbot",
+            "indices" : [
+              "10",
+              "19"
+            ],
+            "id_str" : "1594631",
+            "id" : "1594631"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/bR09SVIvQa",
+            "expanded_url" : "https://medium.com/agileinsider/tug-of-war-in-online-decision-making-148439884380?source=rss-ba6349c9c628------2",
+            "display_url" : "medium.com/agileinsider/t…",
+            "indices" : [
+              "72",
+              "95"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "95"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1646911840478167042",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646911840478167042",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 14 16:22:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @chrizbot's new post, \"Tug of war in online decision making\". https://t.co/bR09SVIvQa",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646895749538488321"
+          ],
+          "editableUntil" : "2023-04-14T15:48:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/TbHII7lp6Q",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-84-7ed824eaf1fc?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1646895749538488321",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1646895749538488321",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 14 15:18:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #84\". https://t.co/TbHII7lp6Q",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646690300784459776"
+          ],
+          "editableUntil" : "2023-04-14T02:12:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/NJhTnvjvHs",
+            "expanded_url" : "https://summerlightning.substack.com/p/context-window-problems",
+            "display_url" : "summerlightning.substack.com/p/context-wind…",
+            "indices" : [
+              "60",
+              "83"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "83"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646690300784459776",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646690300784459776",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 14 01:42:16 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Context Window Problems\". https://t.co/NJhTnvjvHs",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646472100037685250"
+          ],
+          "editableUntil" : "2023-04-13T11:45:13.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/n5ywrVvuXJ",
+            "expanded_url" : "https://nesslabs.com/psychology-of-happiness?utm_source=rss&utm_medium=rss&utm_campaign=psychology-of-happiness",
+            "display_url" : "nesslabs.com/psychology-of-…",
+            "indices" : [
+              "66",
+              "89"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "89"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1646472100037685250",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646472100037685250",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Apr 13 11:15:13 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"The psychology of happiness\". https://t.co/n5ywrVvuXJ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1645480393074671616"
+          ],
+          "editableUntil" : "2023-04-10T18:04:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "screen_name" : "HiredThought",
+            "indices" : [
+              "17",
+              "30"
+            ],
+            "id_str" : "568646506",
+            "id" : "568646506"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/LqSsL5aHgm",
+            "expanded_url" : "https://bit.ly/3BLYCsr",
+            "display_url" : "bit.ly/3BLYCsr",
+            "indices" : [
+              "171",
+              "194"
+            ]
+          },
+          {
+            "url" : "https://t.co/cWaKzq3ais",
+            "expanded_url" : "https://www.youtube.com/watch?v=wlfPdExPB3w",
+            "display_url" : "youtube.com/watch?v=wlfPdE…",
+            "indices" : [
+              "196",
+              "219"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "219"
+      ],
+      "favorite_count" : "4",
+      "id_str" : "1645480393074671616",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1645480393074671616",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 10 17:34:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Last week we had @HiredThought join us in our indie-accelerator study group and he went into details of his secret sauce which he uses when starting a consulting project\n\nhttps://t.co/LqSsL5aHgm\n\nhttps://t.co/cWaKzq3ais",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1645439995874885633"
+          ],
+          "editableUntil" : "2023-04-10T15:24:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/LWRUz8LWVl",
+            "expanded_url" : "https://www.youtube.com/watch?v=CA5VIMCz730",
+            "display_url" : "youtube.com/watch?v=CA5VIM…",
+            "indices" : [
+              "184",
+              "207"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "207"
+      ],
+      "favorite_count" : "11",
+      "id_str" : "1645439995874885633",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1645439995874885633",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 10 14:54:00 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Today we are reading \"Noosphere, a protocol for thought\" in our Distributed Systems Study Group\n\nLivestream starts at\n\n16:15 GMT\n08:15 Pacific\n11:15 Eastern\n20:45 Indian\n00:15 Tokyo \n\nhttps://t.co/LWRUz8LWVl",
+      "lang" : "en",
+      "contributors" : [
+        "2721763552"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1644560116794966020"
+          ],
+          "editableUntil" : "2023-04-08T05:07:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chris Butler",
+            "screen_name" : "chrizbot",
+            "indices" : [
+              "10",
+              "19"
+            ],
+            "id_str" : "1594631",
+            "id" : "1594631"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/k9eaZ0TIW1",
+            "expanded_url" : "https://uxdesign.cc/a-smart-home-is-one-that-talks-to-itself-58bb9222d893?source=rss-ba6349c9c628------2",
+            "display_url" : "uxdesign.cc/a-smart-home-i…",
+            "indices" : [
+              "76",
+              "99"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "99"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1644560116794966020",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1644560116794966020",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Apr 08 04:37:40 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @chrizbot's new post, \"A smart home is one that talks to itself\". https://t.co/k9eaZ0TIW1",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1644485729425281027"
+          ],
+          "editableUntil" : "2023-04-08T00:12:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
+            "indices" : [
+              "10",
+              "14"
+            ],
+            "id_str" : "8500962",
+            "id" : "8500962"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/hUV1byl5t7",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/the-physics-of-intelligence",
+            "display_url" : "studio.ribbonfarm.com/p/the-physics-…",
+            "indices" : [
+              "64",
+              "87"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "87"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1644485729425281027",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1644485729425281027",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 07 23:42:05 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vgr's new newsletter, \"The Physics of Intelligence\". https://t.co/hUV1byl5t7",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1644453137564958730"
+          ],
+          "editableUntil" : "2023-04-07T22:02:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/gadBRzqlIv",
+            "expanded_url" : "https://summerlightning.substack.com/p/the-lambs-of-houston",
+            "display_url" : "summerlightning.substack.com/p/the-lambs-of…",
+            "indices" : [
+              "57",
+              "80"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1644453137564958730",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1644453137564958730",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Apr 07 21:32:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"The Lambs of Houston\". https://t.co/gadBRzqlIv",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1644009243635326977"
+          ],
+          "editableUntil" : "2023-04-06T16:38:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/dgPk4WeKo5",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-83-c18e5b1b014d?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1644009243635326977",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1644009243635326977",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Apr 06 16:08:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #83\". https://t.co/dgPk4WeKo5",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643944175509880832"
+          ],
+          "editableUntil" : "2023-04-06T12:20:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Old Account",
+            "screen_name" : "anthilemoon",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1447130742748684292",
+            "id" : "1447130742748684292"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ZPybF8cSOo",
+            "expanded_url" : "https://nesslabs.com/default-definitions?utm_source=rss&utm_medium=rss&utm_campaign=default-definitions",
+            "display_url" : "nesslabs.com/default-defini…",
+            "indices" : [
+              "87",
+              "110"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "110"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1643944175509880832",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643944175509880832",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Apr 06 11:50:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @anthilemoon's new post, \"From Default Definitions to Deliberate Questions\". https://t.co/ZPybF8cSOo",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643656644570513417"
+          ],
+          "editableUntil" : "2023-04-05T17:17:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "screen_name" : "HiredThought",
+            "indices" : [
+              "0",
+              "13"
+            ],
+            "id_str" : "568646506",
+            "id" : "568646506"
+          },
+          {
+            "name" : "Love Pilgrim",
+            "screen_name" : "tasshinfogleman",
+            "indices" : [
+              "14",
+              "30"
+            ],
+            "id_str" : "2063951",
+            "id" : "2063951"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/cWaKzq3ais",
+            "expanded_url" : "https://www.youtube.com/watch?v=wlfPdExPB3w",
+            "display_url" : "youtube.com/watch?v=wlfPdE…",
+            "indices" : [
+              "47",
+              "70"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "70"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643629157799141379",
+      "id_str" : "1643656644570513417",
+      "in_reply_to_user_id" : "1254475197274443776",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643656644570513417",
+      "in_reply_to_status_id" : "1643629157799141379",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 16:47:36 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@HiredThought @tasshinfogleman Livestream here\nhttps://t.co/cWaKzq3ais",
+      "lang" : "en",
+      "contributors" : [
+        "755296"
+      ],
+      "in_reply_to_screen_name" : "yak_collective",
+      "in_reply_to_user_id_str" : "1254475197274443776"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643629157799141379"
+          ],
+          "editableUntil" : "2023-04-05T15:28:23.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "screen_name" : "HiredThought",
+            "indices" : [
+              "88",
+              "101"
+            ],
+            "id_str" : "568646506",
+            "id" : "568646506"
+          },
+          {
+            "name" : "Love Pilgrim",
+            "screen_name" : "tasshinfogleman",
+            "indices" : [
+              "164",
+              "180"
+            ],
+            "id_str" : "2063951",
+            "id" : "2063951"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/4wsHsBHn6q",
+            "expanded_url" : "https://hiredthought.com/2023/01/23/things-i-do-when-i-start-a-consulting-project/",
+            "display_url" : "hiredthought.com/2023/01/23/thi…",
+            "indices" : [
+              "182",
+              "205"
+            ]
+          },
+          {
+            "url" : "https://t.co/7nv7Uo3q3n",
+            "expanded_url" : "http://www.yakcollective.org",
+            "display_url" : "yakcollective.org",
+            "indices" : [
+              "239",
+              "262"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "262"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1643629157799141379",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1643629157799141379",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 14:58:23 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Open call for today‘s call with something for everybody: \n“How to kick off a project w/ @HiredThought ”\n\n“One of the clearest thinkers on strategy I’ve ever met” — @tasshinfogleman\n\nhttps://t.co/4wsHsBHn6q\n\nOn Yak Collective Discord. Join https://t.co/7nv7Uo3q3n",
+      "lang" : "en",
+      "contributors" : [
+        "755296"
+      ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643589053684621315"
+          ],
+          "editableUntil" : "2023-04-05T12:49:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vaughn Tan is in the Bay Area",
+            "screen_name" : "vaughn_tan",
+            "indices" : [
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/N0hOY6upG7",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/quality-time",
+            "display_url" : "uncertaintymindset.substack.com/p/quality-time",
+            "indices" : [
+              "56",
+              "79"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "79"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1643589053684621315",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643589053684621315",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 12:19:01 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Quality time\". https://t.co/N0hOY6upG7",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643528407135780864"
+          ],
+          "editableUntil" : "2023-04-05T08:48:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "government",
+            "indices" : [
+              "88",
+              "99"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/5KD3hlrF6b",
+            "expanded_url" : "https://antlerboy.medium.com/if-you-really-want-to-get-something-done-turn-to-the-government-a48e892e513e?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/if-you-really-…",
+            "indices" : [
+              "103",
+              "126"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "126"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1643528407135780864",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1643528407135780864",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 08:18:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"If you really want to get something done, turn to the #government.\". https://t.co/5KD3hlrF6b",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643437743005999105"
+          ],
+          "editableUntil" : "2023-04-05T02:47:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/4rXXsPlTEL",
+            "expanded_url" : "https://summerlightning.substack.com/p/apathy-is-balenciaga",
+            "display_url" : "summerlightning.substack.com/p/apathy-is-ba…",
+            "indices" : [
+              "57",
+              "80"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1643437743005999105",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643437743005999105",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 02:17:46 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"Apathy is Balenciaga\". https://t.co/4rXXsPlTEL",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642866669927186434"
+          ],
+          "editableUntil" : "2023-04-03T12:58:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/JBZ5bplQ8o",
+            "expanded_url" : "https://antlerboy.medium.com/things-you-know-that-aint-so-or-everything-you-thought-you-know-is-false-porn-the-cobra-64a169ea0335?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/things-you-kno…",
+            "indices" : [
+              "131",
+              "154"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "154"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1642866669927186434",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1642866669927186434",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 03 12:28:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Things you know, that ain’t so, or ‘everything you thought you know is false porn’… the Cobra…\". https://t.co/JBZ5bplQ8o",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642663847168229378"
+          ],
+          "editableUntil" : "2023-04-02T23:32:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/xofQkH4c3z",
+            "expanded_url" : "https://summerlightning.substack.com/p/an-aphex-twin-needle-drop",
+            "display_url" : "summerlightning.substack.com/p/an-aphex-twi…",
+            "indices" : [
+              "62",
+              "85"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "85"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1642663847168229378",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1642663847168229378",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Apr 02 23:02:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @sachinb91's new post, \"An Aphex Twin Needle Drop\". https://t.co/xofQkH4c3z",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642604939913445382"
+          ],
+          "editableUntil" : "2023-04-02T19:38:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/PeLF59UBk7",
+            "expanded_url" : "https://antlerboy.medium.com/rip-ryuichi-sakamoto-7f0554a259e7?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/rip-ryuichi-sa…",
+            "indices" : [
+              "57",
+              "80"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1642604939913445382",
+      "truncated" : false,
+      "retweet_count" : "2",
+      "id" : "1642604939913445382",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Apr 02 19:08:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"RIP Ryuichi Sakamoto\". https://t.co/PeLF59UBk7",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642135970454577152"
+          ],
+          "editableUntil" : "2023-04-01T12:34:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/6XfwgEFDfH",
+            "expanded_url" : "https://antlerboy.medium.com/digital-vs-service-design-vs-bpr-vs-toms-versus-designing-services-in-organisations-for-a42ad19c5134?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/digital-vs-ser…",
+            "indices" : [
+              "136",
+              "159"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "159"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1642135970454577152",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1642135970454577152",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Apr 01 12:04:59 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"‘Digital’ vs ‘service design’ vs ‘BPR’ vs ‘TOMs’, versus designing services, in organisations, for…\". https://t.co/6XfwgEFDfH",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1325302467068895234"
           ],
           "editableUntil" : "2020-11-08T06:01:45.735Z",
@@ -115364,1037 +118805,6 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1641435286239420416"
-          ],
-          "editableUntil" : "2023-03-30T14:10:43.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/p33c0XiHmz",
-            "expanded_url" : "https://nesslabs.com/loneliness-solitude?utm_source=rss&utm_medium=rss&utm_campaign=loneliness-solitude",
-            "display_url" : "nesslabs.com/loneliness-sol…",
-            "indices" : [
-              "87",
-              "110"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "110"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1641435286239420416",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1641435286239420416",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 30 13:40:43 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Loneliness or solitude? The case for being alone\". https://t.co/p33c0XiHmz",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1641127166246023168"
-          ],
-          "editableUntil" : "2023-03-29T17:46:21.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "133"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1641127166246023168",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1641127166246023168",
-      "created_at" : "Wed Mar 29 17:16:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Indie accelerator call today worked through diagramming skills, simple to complex, on the fly to developed, high concept to high data",
-      "lang" : "en",
-      "contributors" : [
-        "755296"
-      ]
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1638475137870643201"
-          ],
-          "editableUntil" : "2023-03-22T10:08:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/fYBzafE2k0",
-            "expanded_url" : "https://antlerboy.medium.com/what-did-we-learn-from-the-covid-period-bb7c2dbaf212?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/what-did-we-le…",
-            "indices" : [
-              "77",
-              "100"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "100"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1638475137870643201",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1638475137870643201",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Mar 22 09:38:08 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What did we learn from the Covid period?\". https://t.co/fYBzafE2k0",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636890811903164418"
-          ],
-          "editableUntil" : "2023-03-18T01:12:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/hTcIDVTd3r",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/courage-in-computing",
-            "display_url" : "studio.ribbonfarm.com/p/courage-in-c…",
-            "indices" : [
-              "57",
-              "80"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636890811903164418",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636890811903164418",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Mar 18 00:42:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Courage in Computing\". https://t.co/hTcIDVTd3r",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636756376859836416"
-          ],
-          "editableUntil" : "2023-03-17T16:18:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/qutHI0GdPE",
-            "expanded_url" : "https://antlerboy.medium.com/implementing-requisite-agility-workshop-for-change-agents-7b7a60e85315?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/implementing-r…",
-            "indices" : [
-              "94",
-              "117"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "117"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1636756376859836416",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1636756376859836416",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Mar 17 15:48:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Implementing Requisite Agility Workshop for Change Agents\". https://t.co/qutHI0GdPE",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636303983168872451"
-          ],
-          "editableUntil" : "2023-03-16T10:20:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/nPDFDd1Mr6",
-            "expanded_url" : "https://nesslabs.com/optionality-fallacy?utm_source=rss&utm_medium=rss&utm_campaign=optionality-fallacy",
-            "display_url" : "nesslabs.com/optionality-fa…",
-            "indices" : [
-              "73",
-              "96"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "96"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1636303983168872451",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636303983168872451",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 16 09:50:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Unlocking the power of optionality\". https://t.co/nPDFDd1Mr6",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636294999766712320"
-          ],
-          "editableUntil" : "2023-03-16T09:45:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/5tjkTRMvzT",
-            "expanded_url" : "https://nesslabs.com/mindsera-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=mindsera-featured-tool",
-            "display_url" : "nesslabs.com/mindsera-featu…",
-            "indices" : [
-              "112",
-              "135"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "135"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1636294999766712320",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636294999766712320",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 16 09:15:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The importance of clear thinking with Chris Reinberg, founder of Mindsera\". https://t.co/5tjkTRMvzT",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635946057245814784"
-          ],
-          "editableUntil" : "2023-03-15T10:38:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/hY38Ot2abd",
-            "expanded_url" : "https://antlerboy.medium.com/how-do-you-cope-when-theres-a-sudden-release-of-strong-emotions-in-a-meeting-or-facilitated-a055f6fdef5d?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/how-do-you-cop…",
-            "indices" : [
-              "130",
-              "153"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "153"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1635946057245814784",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635946057245814784",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Mar 15 10:08:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"How do you cope when there’s a sudden release of strong emotions in a meeting or facilitated…\". https://t.co/hY38Ot2abd",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635434947220586498"
-          ],
-          "editableUntil" : "2023-03-14T00:47:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/n5QYi95SyL",
-            "expanded_url" : "https://summerlightning.substack.com/p/monetize-the-sublime-horror",
-            "display_url" : "summerlightning.substack.com/p/monetize-the…",
-            "indices" : [
-              "64",
-              "87"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "87"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635434947220586498",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635434947220586498",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Mar 14 00:17:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Monetize The Sublime Horror\". https://t.co/n5QYi95SyL",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634350196841644034"
-          ],
-          "editableUntil" : "2023-03-11T00:57:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Cf54V7qHke",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/the-bones-of-time",
-            "display_url" : "studio.ribbonfarm.com/p/the-bones-of…",
-            "indices" : [
-              "54",
-              "77"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "77"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1634350196841644034",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634350196841644034",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Mar 11 00:27:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Bones of Time\". https://t.co/Cf54V7qHke",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633780952001331201"
-          ],
-          "editableUntil" : "2023-03-09T11:15:07.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Phil Wolff 狼爱马",
-            "screen_name" : "evanwolf",
-            "indices" : [
-              "10",
-              "19"
-            ],
-            "id_str" : "13407",
-            "id" : "13407"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/8Z2f4pWdjg",
-            "expanded_url" : "https://wider.team/2023/03/09/smta-europe-event/",
-            "display_url" : "wider.team/2023/03/09/smt…",
-            "indices" : [
-              "88",
-              "111"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "111"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1633780952001331201",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1633780952001331201",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 09 10:45:07 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @evanwolf's new post, \"SSI standards can counter electronics counterfeiting\". https://t.co/8Z2f4pWdjg",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633757105856430082"
-          ],
-          "editableUntil" : "2023-03-09T09:40:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/eVC9eSNX7i",
-            "expanded_url" : "https://nesslabs.com/science-of-curiosity?utm_source=rss&utm_medium=rss&utm_campaign=science-of-curiosity",
-            "display_url" : "nesslabs.com/science-of-cur…",
-            "indices" : [
-              "89",
-              "112"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "112"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1633757105856430082",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633757105856430082",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 09 09:10:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The science of curiosity: why we keep asking “why”\". https://t.co/eVC9eSNX7i",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633481117968867330"
-          ],
-          "editableUntil" : "2023-03-08T15:23:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/TBISfjZMxW",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/monochrome",
-            "display_url" : "uncertaintymindset.substack.com/p/monochrome",
-            "indices" : [
-              "54",
-              "77"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "77"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1633481117968867330",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633481117968867330",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Mar 08 14:53:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Monochrome\". https://t.co/TBISfjZMxW",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633414381554868225"
-          ],
-          "editableUntil" : "2023-03-08T10:58:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/xPE0GSxSS9",
-            "expanded_url" : "https://antlerboy.medium.com/which-horse-are-you-backing-to-bring-us-creativity-innovation-and-productivity-in-the-future-19b93891af4d?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/which-horse-ar…",
-            "indices" : [
-              "132",
-              "155"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "155"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1633414381554868225",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1633414381554868225",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Mar 08 10:28:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Which horse are you backing to bring us creativity, innovation, and productivity in the future?\". https://t.co/xPE0GSxSS9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633263115029839873"
-          ],
-          "editableUntil" : "2023-03-08T00:57:25.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/uhImqKbSyZ",
-            "expanded_url" : "https://summerlightning.substack.com/p/sauna-zeitgeist-2",
-            "display_url" : "summerlightning.substack.com/p/sauna-zeitge…",
-            "indices" : [
-              "56",
-              "79"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "79"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1633263115029839873",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633263115029839873",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Mar 08 00:27:25 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Sauna Zeitgeist - 2\". https://t.co/uhImqKbSyZ",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632673238068109314"
-          ],
-          "editableUntil" : "2023-03-06T09:53:28.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/DnQZXE97SK",
-            "expanded_url" : "https://antlerboy.medium.com/stochastic-parrots-will-keep-us-trapped-in-our-own-mediocrity-5383eaa69c5a?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/stochastic-par…",
-            "indices" : [
-              "98",
-              "121"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "121"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1632673238068109314",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1632673238068109314",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Mar 06 09:23:28 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Stochastic parrots will keep us trapped in our own mediocrity\". https://t.co/DnQZXE97SK",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632673235555762180"
-          ],
-          "editableUntil" : "2023-03-06T09:53:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/8z6KT6aG6A",
-            "expanded_url" : "https://antlerboy.medium.com/never-doubt-that-a-small-group-of-thoughtful-committed-citizens-can-change-the-world-89d3a855c8f5?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/never-doubt-th…",
-            "indices" : [
-              "123",
-              "146"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "146"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1632673235555762180",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1632673235555762180",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Mar 06 09:23:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Never doubt that a small group of thoughtful, committed citizens can change the world®\". https://t.co/8z6KT6aG6A",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632479275147227136"
-          ],
-          "editableUntil" : "2023-03-05T21:02:43.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/kP7F4r2R0V",
-            "expanded_url" : "https://summerlightning.substack.com/p/brown-phase",
-            "display_url" : "summerlightning.substack.com/p/brown-phase",
-            "indices" : [
-              "48",
-              "71"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "71"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1632479275147227136",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632479275147227136",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Mar 05 20:32:43 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Brown Phase\". https://t.co/kP7F4r2R0V",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1631308543440609282"
-          ],
-          "editableUntil" : "2023-03-02T15:30:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/W32cdnS6n7",
-            "expanded_url" : "https://nesslabs.com/high-leverage-activities?utm_source=rss&utm_medium=rss&utm_campaign=high-leverage-activities",
-            "display_url" : "nesslabs.com/high-leverage-…",
-            "indices" : [
-              "104",
-              "127"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "127"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1631308543440609282",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1631308543440609282",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 02 15:00:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"High-leverage activities: how to identify your energy multipliers\". https://t.co/W32cdnS6n7",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1322150357355663361"
           ],
           "editableUntil" : "2020-10-30T13:16:24.216Z",
@@ -116900,7 +119310,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -117537,7 +119947,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -117846,7 +120256,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -118426,7 +120836,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -119188,7 +121598,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -119700,7 +122110,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -120508,7 +122918,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -121693,7 +124103,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -121750,7 +124160,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "34",
@@ -122225,18 +124635,7 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Rodrigo Pinto",
-            "screen_name" : "Rodrigo_plp",
-            "indices" : [
-              "37",
-              "49"
-            ],
-            "id_str" : "3075441796",
-            "id" : "3075441796"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
             "url" : "https://t.co/dJVyGAIVzz",
@@ -122256,7 +124655,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "0",
       "id_str" : "1304261150452916226",
       "truncated" : false,
-      "retweet_count" : "1",
+      "retweet_count" : "0",
       "id" : "1304261150452916226",
       "possibly_sensitive" : false,
       "created_at" : "Fri Sep 11 03:31:04 +0000 2020",
@@ -122558,7 +124957,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -123537,7 +125936,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -123957,7 +126356,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Amanda Reeves",
+            "name" : "Amanda Reeves wabisabifutures.bsky.social",
             "screen_name" : "WabiSabiFutures",
             "indices" : [
               "37",
@@ -124345,7 +126744,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -125391,7 +127790,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan is in Marseille",
+            "name" : "Vaughn Tan is in the Bay Area",
             "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
@@ -125881,1226 +128280,6 @@ window.YTD.tweets.part0 = [
       "created_at" : "Fri Aug 14 15:55:28 +0000 2020",
       "favorited" : false,
       "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Online governance study group hosted by vgr, Aug 14, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293936678571249664"
-          ],
-          "editableUntil" : "2020-08-13T16:45:19.009Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "166",
-              "189"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "189"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1293936678571249664",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1293936678571249664",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 13 15:45:19 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! New Yak Q&amp;A – Hosted by Alex Wagner and Jordan Peacock, Aug 13, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293886531237797889"
-          ],
-          "editableUntil" : "2020-08-13T13:26:02.953Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/5SNoiV8Zof",
-            "expanded_url" : "https://nesslabs.com/constructive-criticism-give-receive-feedback?utm_source=rss&utm_medium=rss&utm_campaign=constructive-criticism-give-receive-feedback",
-            "display_url" : "nesslabs.com/constructive-c…",
-            "indices" : [
-              "95",
-              "118"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "118"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1293886531237797889",
-      "truncated" : false,
-      "retweet_count" : "2",
-      "id" : "1293886531237797889",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 13 12:26:02 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Constructive criticism: how to give and receive feedback\". https://t.co/5SNoiV8Zof",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293841298303135744"
-          ],
-          "editableUntil" : "2020-08-13T10:26:18.581Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/5g2BkhYReF",
-            "expanded_url" : "https://nesslabs.com/systematic-inventive-thinking-inside-the-box?utm_source=rss&utm_medium=rss&utm_campaign=systematic-inventive-thinking-inside-the-box",
-            "display_url" : "nesslabs.com/systematic-inv…",
-            "indices" : [
-              "106",
-              "129"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "129"
-      ],
-      "favorite_count" : "15",
-      "id_str" : "1293841298303135744",
-      "truncated" : false,
-      "retweet_count" : "2",
-      "id" : "1293841298303135744",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 13 09:26:18 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Systematic inventive thinking: the power of thinking inside the box\". https://t.co/5g2BkhYReF",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293811064107409408"
-          ],
-          "editableUntil" : "2020-08-13T08:26:10.187Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/p143maMAzD",
-            "expanded_url" : "https://nesslabs.com/mindful-productivity-intermittent-fasting?utm_source=rss&utm_medium=rss&utm_campaign=mindful-productivity-intermittent-fasting",
-            "display_url" : "nesslabs.com/mindful-produc…",
-            "indices" : [
-              "93",
-              "116"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "116"
-      ],
-      "favorite_count" : "3",
-      "id_str" : "1293811064107409408",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1293811064107409408",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 13 07:26:10 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The mindful productivity guide to intermittent fasting\". https://t.co/p143maMAzD",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293548851354316801"
-          ],
-          "editableUntil" : "2020-08-12T15:04:13.795Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/9iZLOmWaPo",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/41-surrendering-control",
-            "display_url" : "uncertaintymindset.substack.com/p/41-surrender…",
-            "indices" : [
-              "69",
-              "92"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "92"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1293548851354316801",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1293548851354316801",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Aug 12 14:04:13 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"#41: Surrendering control\". https://t.co/9iZLOmWaPo",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293459024566984710"
-          ],
-          "editableUntil" : "2020-08-12T09:07:17.420Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/5DBGZEIgul",
-            "expanded_url" : "https://medium.com/@antlerboy/heres-the-complete-set-of-articles-on-the-force-in-organisational-life-so-far-ed8531fe879b?source=rss-97852f5a56ae------2",
-            "display_url" : "medium.com/@antlerboy/her…",
-            "indices" : [
-              "119",
-              "142"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "142"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1293459024566984710",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1293459024566984710",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Aug 12 08:07:17 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"- Here's the complete set of articles on The Force in organisational life, so far.\". https://t.co/5DBGZEIgul",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293459023036022785"
-          ],
-          "editableUntil" : "2020-08-12T09:07:17.055Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/lWrMUQdxko",
-            "expanded_url" : "https://medium.com/@antlerboy/heres-the-complete-set-of-articles-on-the-force-in-organisational-life-so-far-142732f91a8a?source=rss-97852f5a56ae------2",
-            "display_url" : "medium.com/@antlerboy/her…",
-            "indices" : [
-              "119",
-              "142"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "142"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1293459023036022785",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1293459023036022785",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Aug 12 08:07:17 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"- Here's the complete set of articles on The Force in organisational life, so far.\". https://t.co/lWrMUQdxko",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293356940945502211"
-          ],
-          "editableUntil" : "2020-08-12T02:21:38.788Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "154",
-              "177"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "177"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1293356940945502211",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1293356940945502211",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Aug 12 01:21:38 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! YAK CHAT: BUILD A RIGHT BRAIN / NATURE THEATRE, Aug 11, 2020 06:30PM. Get invite link here: https://t.co/JDzOebSgv9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1293274548876517378"
-          ],
-          "editableUntil" : "2020-08-11T20:54:14.988Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Critchlow",
-            "screen_name" : "tomcritchlow",
-            "indices" : [
-              "10",
-              "23"
-            ],
-            "id_str" : "6419982",
-            "id" : "6419982"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/79trjIMk86",
-            "expanded_url" : "http://tomcritchlow.com/2020/08/11/hire-me-page/",
-            "display_url" : "tomcritchlow.com/2020/08/11/hir…",
-            "indices" : [
-              "73",
-              "96"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "96"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1293274548876517378",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1293274548876517378",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Aug 11 19:54:14 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @tomcritchlow's new post, \"What makes a good \"hire me\" page?\". https://t.co/79trjIMk86",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1292956797326757892"
-          ],
-          "editableUntil" : "2020-08-10T23:51:37.115Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "180",
-              "203"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "203"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1292956797326757892",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1292956797326757892",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Aug 10 22:51:37 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Yak chat hosted by Sachin Benny - Astonishing Stories project discussion, Aug 10, 2020 04:00PM. Get invite link here: https://t.co/JDzOebSgv9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1292150762257158147"
-          ],
-          "editableUntil" : "2020-08-08T18:28:43.379Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "infrastructure",
-            "indices" : [
-              "62",
-              "77"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "140",
-              "163"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "163"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1292150762257158147",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1292150762257158147",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Aug 08 17:28:43 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! #infrastructure chat with Darren, Aug 08, 2020 10:30AM. Get invite link here: https://t.co/JDzOebSgv9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1292134992584343553"
-          ],
-          "editableUntil" : "2020-08-08T17:26:03.596Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "141",
-              "164"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "164"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1292134992584343553",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1292134992584343553",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Aug 08 16:26:03 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Final-Frontiers Week 4 Discussion, Aug 08, 2020 09:30AM. Get invite link here: https://t.co/JDzOebSgv9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291928666033750016"
-          ],
-          "editableUntil" : "2020-08-08T03:46:11.513Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/1ZwoTRTzkF",
-            "expanded_url" : "https://breakingsmart.substack.com/p/the-descent-of-the-public",
-            "display_url" : "breakingsmart.substack.com/p/the-descent-…",
-            "indices" : [
-              "62",
-              "85"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "85"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1291928666033750016",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1291928666033750016",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Aug 08 02:46:11 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Descent of the Public\". https://t.co/1ZwoTRTzkF",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291773941883850753"
-          ],
-          "editableUntil" : "2020-08-07T17:31:22.401Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Toh6sCtZ6V",
-            "expanded_url" : "https://yakcollective.substack.com/p/presidential-campaign-as-decentralized",
-            "display_url" : "yakcollective.substack.com/p/presidential…",
-            "indices" : [
-              "103",
-              "126"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "126"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1291773941883850753",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1291773941883850753",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Aug 07 16:31:22 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out the latest edition of the Yak Talk newsletter, \"Presidential Campaign as Decentralized Org\". https://t.co/Toh6sCtZ6V",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291763669337018368"
-          ],
-          "editableUntil" : "2020-08-07T16:50:33.235Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "151",
-              "174"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "174"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1291763669337018368",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1291763669337018368",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Aug 07 15:50:33 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Online governance study group hosted by vgr, Aug 07, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291447455989616640"
-          ],
-          "editableUntil" : "2020-08-06T19:54:02.098Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Critchlow",
-            "screen_name" : "tomcritchlow",
-            "indices" : [
-              "10",
-              "23"
-            ],
-            "id_str" : "6419982",
-            "id" : "6419982"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/CIHkJ1bvX8",
-            "expanded_url" : "http://tomcritchlow.com/2020/08/06/indie-alumni/",
-            "display_url" : "tomcritchlow.com/2020/08/06/ind…",
-            "indices" : [
-              "79",
-              "102"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "102"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1291447455989616640",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1291447455989616640",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 06 18:54:02 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @tomcritchlow's new post, \"Generating an alumni network for indies\". https://t.co/CIHkJ1bvX8",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291402028149878785"
-          ],
-          "editableUntil" : "2020-08-06T16:53:31.257Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "166",
-              "189"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "189"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1291402028149878785",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1291402028149878785",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 06 15:53:31 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! New Yak Q&amp;A – Hosted by Alex Wagner and Jordan Peacock, Aug 06, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291365015052746754"
-          ],
-          "editableUntil" : "2020-08-06T14:26:26.647Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/mIhtN5Gncd",
-            "expanded_url" : "https://nesslabs.com/pre-mortem-anticipate-failure-with-prospective-hindsight?utm_source=rss&utm_medium=rss&utm_campaign=pre-mortem-anticipate-failure-with-prospective-hindsight",
-            "display_url" : "nesslabs.com/pre-mortem-ant…",
-            "indices" : [
-              "103",
-              "126"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "126"
-      ],
-      "favorite_count" : "15",
-      "id_str" : "1291365015052746754",
-      "truncated" : false,
-      "retweet_count" : "3",
-      "id" : "1291365015052746754",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 06 13:26:26 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"Pre-mortem: how to anticipate failure with prospective hindsight\". https://t.co/mIhtN5Gncd",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291334754827153408"
-          ],
-          "editableUntil" : "2020-08-06T12:26:12.047Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/zO5JI6CMdd",
-            "expanded_url" : "https://nesslabs.com/replenishing-vacation?utm_source=rss&utm_medium=rss&utm_campaign=replenishing-vacation",
-            "display_url" : "nesslabs.com/replenishing-v…",
-            "indices" : [
-              "90",
-              "113"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "113"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1291334754827153408",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1291334754827153408",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 06 11:26:12 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"How to take a replenishing vacation (or staycation)\". https://t.co/zO5JI6CMdd",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291319684873281542"
-          ],
-          "editableUntil" : "2020-08-06T11:26:19.090Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Old Account",
-            "screen_name" : "anthilemoon",
-            "indices" : [
-              "10",
-              "22"
-            ],
-            "id_str" : "1447130742748684292",
-            "id" : "1447130742748684292"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/LeZNNttYoA",
-            "expanded_url" : "https://nesslabs.com/rational-benefits-of-emotions?utm_source=rss&utm_medium=rss&utm_campaign=rational-benefits-of-emotions",
-            "display_url" : "nesslabs.com/rational-benef…",
-            "indices" : [
-              "72",
-              "95"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "95"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1291319684873281542",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1291319684873281542",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 06 10:26:19 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @anthilemoon's new post, \"The rational benefits of emotions\". https://t.co/LeZNNttYoA",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1291012184659709961"
-          ],
-          "editableUntil" : "2020-08-05T15:04:25.326Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vaughn Tan is in Marseille",
-            "screen_name" : "vaughn_tan",
-            "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/teHeho8ih6",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/40-trials-and-tribulations",
-            "display_url" : "uncertaintymindset.substack.com/p/40-trials-an…",
-            "indices" : [
-              "72",
-              "95"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "95"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1291012184659709961",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1291012184659709961",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Aug 05 14:04:25 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"#40: Trials and tribulations\". https://t.co/teHeho8ih6",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1290967609157058562"
-          ],
-          "editableUntil" : "2020-08-05T12:07:17.698Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Benjamin Taylor (cis) @antlerboy@mastodon.social",
-            "screen_name" : "antlerboy",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/mwF3AHl86H",
-            "expanded_url" : "https://medium.com/@antlerboy/organisational-jedi-knights-have-to-confront-themselves-with-love-4caed5c1142c?source=rss-97852f5a56ae------2",
-            "display_url" : "medium.com/@antlerboy/org…",
-            "indices" : [
-              "102",
-              "125"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "125"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1290967609157058562",
-      "truncated" : false,
-      "retweet_count" : "2",
-      "id" : "1290967609157058562",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Aug 05 11:07:17 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Organisational Jedi Knights have to confront themselves with love\". https://t.co/mwF3AHl86H",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1290819913809113090"
-          ],
-          "editableUntil" : "2020-08-05T02:20:24.383Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "154",
-              "177"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "177"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1290819913809113090",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1290819913809113090",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Aug 05 01:20:24 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! YAK CHAT: BUILD A RIGHT BRAIN / NATURE THEATRE, Aug 04, 2020 06:30PM. Get invite link here: https://t.co/JDzOebSgv9",
       "lang" : "en"
     }
   }

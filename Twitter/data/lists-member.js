@@ -231,6 +231,11 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
+      "url" : "https://twitter.com/kieranjohng/lists/post-brexit-news-list-20294"
+    }
+  },
+  {
+    "userListInfo" : {
       "url" : "https://twitter.com/BillSeitz/lists/raoverse"
     }
   },

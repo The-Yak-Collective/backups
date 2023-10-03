@@ -95,10 +95,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "British Gas",
-            "isDisabled" : false
-          },
-          {
             "name" : "British Royal Family",
             "isDisabled" : false
           },
@@ -156,10 +152,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Computer programming",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Consulting",
             "isDisabled" : false
           },
           {
@@ -435,10 +427,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Movies & TV",
-            "isDisabled" : false
-          },
-          {
             "name" : "Music",
             "isDisabled" : false
           },
@@ -531,15 +519,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Robotics",
-            "isDisabled" : false
-          },
-          {
             "name" : "Roleplaying games",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Rotten Tomatoes",
             "isDisabled" : false
           },
           {

@@ -282,7 +282,7 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1271935817368457220",
-      "fullText" : "You’re unable to view this Tweet because this account owner limits who can view their Tweets. {learnmore}",
+      "fullText" : "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
       "expandedUrl" : "https://twitter.com/i/web/status/1271935817368457220"
     }
   },
@@ -380,14 +380,14 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1258058599575814149",
-      "fullText" : "This Tweet is from a suspended account. {learnmore}",
+      "fullText" : "This Post is from a suspended account. {learnmore}",
       "expandedUrl" : "https://twitter.com/i/web/status/1258058599575814149"
     }
   },
   {
     "like" : {
       "tweetId" : "1258058185144926208",
-      "fullText" : "This Tweet is from a suspended account. {learnmore}",
+      "fullText" : "This Post is from a suspended account. {learnmore}",
       "expandedUrl" : "https://twitter.com/i/web/status/1258058185144926208"
     }
   },
@@ -494,12 +494,6 @@ window.YTD.like.part0 = [
       "tweetId" : "1256034507041341441",
       "fullText" : "@p_millerd @yak_collective Nice work flipping the 2x2!",
       "expandedUrl" : "https://twitter.com/i/web/status/1256034507041341441"
-    }
-  },
-  {
-    "like" : {
-      "tweetId" : "1255980215240658946",
-      "expandedUrl" : "https://twitter.com/i/web/status/1255980215240658946"
     }
   },
   {

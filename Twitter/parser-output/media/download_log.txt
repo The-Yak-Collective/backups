@@ -75,15 +75,15 @@
  75/ 95 ./parser-output/media/1470057091079487490-FGaxG36XwAQLgDB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
  76/ 95 ./parser-output/media/1470052361322348546-FGaspmZXIAIZh0l.jpg: SUCCESS. New version is 126% larger in bytes and 147% larger in pixels. 0.2MB downloaded
  77/ 95 ./parser-output/media/1469753681134305280-FGWcRPxVUAEOxBP.jpg: SUCCESS. New version is 158% larger in bytes and 224% larger in pixels. 0.4MB downloaded
- 78/ 95 ./parser-output/media/1655630969909518336-BWu9lcZMZKlztEJ9.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/1280x720/BWu9lcZMZKlztEJ9.mp4?tag=12 because of exception: 'content-length'
- 79/ 95 ./parser-output/media/1456740512342282240-FDdhxcfVEAUn6cf.jpg: SUCCESS. New version is  47% larger in bytes and  88% larger in pixels. 0.1MB downloaded
- 80/ 95 ./parser-output/media/1432569037955891201-E-GBx2pUUAQjJaN.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 81/ 95 ./parser-output/media/1417346512250572800-E6ttIjKUYAIUre-.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 82/ 95 ./parser-output/media/1414021328684953602-E5-c577WQAAIbEB.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 83/ 95 ./parser-output/media/1414020231874367488-E5-b6FBWQAAT0K9.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 84/ 95 ./parser-output/media/1411343274908999681-E5YZOpsWYAE658g.jpg: SUCCESS. New version is  37% larger in bytes and  62% larger in pixels. 0.1MB downloaded
- 85/ 95 ./parser-output/media/1648007799840841741-Ft7mTJ5WIAEYRvZ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
- 86/ 95 ./parser-output/media/1361973127744544768-EuazV1sXAAEGlpq.jpg: SUCCESS. New version is 180% larger in bytes and 154% larger in pixels. 0.6MB downloaded
+ 78/ 95 ./parser-output/media/1456740512342282240-FDdhxcfVEAUn6cf.jpg: SUCCESS. New version is  47% larger in bytes and  88% larger in pixels. 0.1MB downloaded
+ 79/ 95 ./parser-output/media/1432569037955891201-E-GBx2pUUAQjJaN.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 80/ 95 ./parser-output/media/1417346512250572800-E6ttIjKUYAIUre-.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 81/ 95 ./parser-output/media/1414021328684953602-E5-c577WQAAIbEB.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 82/ 95 ./parser-output/media/1414020231874367488-E5-b6FBWQAAT0K9.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 83/ 95 ./parser-output/media/1411343274908999681-E5YZOpsWYAE658g.jpg: SUCCESS. New version is  37% larger in bytes and  62% larger in pixels. 0.1MB downloaded
+ 84/ 95 ./parser-output/media/1655630969909518336-BWu9lcZMZKlztEJ9.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/1280x720/BWu9lcZMZKlztEJ9.mp4?tag=12 because of exception: 'content-length'
+ 85/ 95 ./parser-output/media/1361973127744544768-EuazV1sXAAEGlpq.jpg: SUCCESS. New version is 180% larger in bytes and 154% larger in pixels. 0.6MB downloaded
+ 86/ 95 ./parser-output/media/1648007799840841741-Ft7mTJ5WIAEYRvZ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
  87/ 95 ./parser-output/media/1337100105015382016-Eo5Vc4hU0AEntLB.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
  88/ 95 ./parser-output/media/1336742399708557312-Eo0QIHAU8AABwgU.jpg: SUCCESS. New version is  87% larger in bytes and 191% larger in pixels. 0.2MB downloaded
  89/ 95 ./parser-output/media/1333835737066733568-EoK8iEoUcAEjOEl.jpg: SUCCESS. New version is  92% larger in bytes and 191% larger in pixels. 0.2MB downloaded
@@ -101,4 +101,4 @@
 1 of 1 tested media files are known to be the best-quality available.
 
 Total downloaded: 19.0MB = 0.02GB
-Time taken: 68s
+Time taken: 55s

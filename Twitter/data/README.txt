@@ -406,11 +406,11 @@ following.js
 ----------------------
 key-registry.js
 - userId: Unique identifier for the user account
-- deviceId: Unique identifier for the device registered for Encrypt Dms
+- deviceId: Unique identifier for the device registered/deregistered for Encrypt Dms
 - registrationToken: Registration token with one to one mapping with deviceId
 - identityKey: Public key used to set up encrypted dm session
 - userAgent: String content extracted from request header that includes device metadata info
-- createdAt: Date and time of registration
+- createdAt: Date and time of registration/unregistration
 ----------------------
 like.js
 - tweetId: Unique identifiers for the Tweets liked.
