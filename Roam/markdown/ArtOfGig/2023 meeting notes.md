@@ -98,6 +98,24 @@
             - Maier experimenting with the Tumbler.
         - Should sub-brains be wired or wirelessly connected?
         - Next weeks perhaps on mechanical CAD or live coding
+    - October 4th
+        - Solar power, would be interesting to start digging
+            - Anuraj shows a $6 model
+            - Talk about switch time, power management, what can be done with 2V/200mA (e.g. the Arduino mini solar cells).
+            - What options to use power from a solar+battery, while the battery is also charging. E.g. Adafruit Universal USB charger [bq24074](https://www.adafruit.com/product/4755).
+            - Perhaps interesting to experiment with
+                - https://www.adafruit.com/product/390
+                - https://www.adafruit.com/product/2030
+                - https://www.amazon.com/KOOBOOK-Step-up-Voltage-Regulator-Converter/dp/B07T7FWVP8/ref=sr_1_2?crid=KTN6RWCDWJ2S&keywords=step+up+buck+3.3&qid=1696361838&s=electronics&sprefix=step+up+buck+3.%2Celectronics%2C109&sr=1-2
+            - Previous discussions on power
+                - [Generic from Jascha 2021](https://roamresearch.com/#/app/ArtOfGig/page/I-XFenJ15)
+                - [Specific to a build, information about C rates](https://docs.google.com/presentation/d/1B1_3P2Bx_HTENlYiGnStAqVFiMOcmPkv/edit?usp=sharing&ouid=115092828216128017090&rtpof=true&sd=true)
+            - Problem of level for say Tumbller
+                - So the introduction of power boosters or related
+                - Why not use charger circuits in series to have fewer conversions?
+            - Extra links on difficulties and feasability
+                - https://forums.adafruit.com/viewtopic.php?t=77791
+                - https://learn.adafruit.com/usb-dc-and-solar-lipoly-charger/design-notes
 - Hopper
     - Hello world topic ideas
         - API (Rhett/Anuraj)
