@@ -60,6 +60,20 @@
             - democracy is better at stoping things than at building/starting things - yellow jacket movement in France is a good example 
             - has to happen with dictatorial forces but then local resistance helps navigate it the right way 
             - how straight should the line be. 
+    - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
+        - Ananth
+        - Grigori
+        - Jenna
+            - Power and discomfort are definitely related. 
+            - 
+            - Human skills
+        - Kiran
+        - Sachin
+            - Humanist approach to power... 
+        - Venkat
+            - Lack of exit. 
+            - Two types of people once it becomes really uncomfortable (1) Bodhisattvas (2) Mentally ill 
+            - Very few situations where the method is effective, very few places, and very few people can make this work. These methods don't work. Can succeed in limited ways and fail in too many ways. Not so much a weapon of the weak as a weak weapon. 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
