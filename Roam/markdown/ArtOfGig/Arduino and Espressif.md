@@ -1,0 +1,16 @@
+- Experiments with code on Arduino and Espressif
+    - Different MCUs, but Espressif is supposed to be able to run Arduino code.
+    - [Configure Arduino IDE to interact with ESP32](https://dronebotworkshop.com/esp32-intro/)
+        - Toolchain to compile and deploy to ESP32 from the IDE.
+        - A bunch of extra examples codes.
+    - Trials
+        - Arduino IDE comes with examples, and non-Arduino board toolchains, including some ESP32s.
+        - Basic exercise structure:
+            - Pick an example (typically with some HW like LED or servo)
+            - Run it on Arduino
+            - Try on ESP32
+        - Works just fine with the most basic examples.
+        - Blocks at this point on an example from the ESP32 toolchain
+            - Servo/sweep.ino example, to run cheap servo back and forth infinitely.
+            - Example from ESP32, works fine on Arduino.
+            - Not on ESP32 itself, chocking on a provided header file <--- Eric stopped at this point as for 2023-10-09, TBC

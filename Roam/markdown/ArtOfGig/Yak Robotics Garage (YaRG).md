@@ -2,6 +2,7 @@
 - Study tracks
     - [[Robotics Simulation]] < -- new for 2023, Eric will present SLAM in Unity on Tuesday 10th at 2000 UTC
     - [["Tailscale for Robotics"]] <-- recent initiative, few weeks old, led by Rhett Garber
+    - [[Arduino and Espressif]] --- notes and mini-projects as building the Yakasaur embedded software.
 - Projects
     - [[Yak Rover]] <-- 2 year old pretty mature project
 - 
