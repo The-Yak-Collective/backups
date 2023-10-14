@@ -10,56 +10,94 @@
 - 
 - ---
 - Season 4
-    - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
-        - sachin
-            - things that made the project succesful - the DC ecosystem had lot of inlfuence and power which made constructing it easier - DC ecosystem being the BDF pattern here
-            - in the short term - likely to call it not successful but in the long term it is successful
-            - big project - the guggenheim is by frank gehry vs the sydney opera house which was won in competition - guggenheim had a BDF or in this case not such a benovalent dictator 
-            - building projects are more complex because now communication is also faster - and things like SBF can happen very fast -  which is not conducive for big projects like these 
-            - gas prices going up drives the demand 
-            - why do these projects still get funded ? if they are not successful? 
-            - Austin has a reliable bus system - but all the infrastructrure around it is missing - hard to do that when put under so much pressure 
-            - When I was in Houston - most of the people riding ubers were people working low skilled jobs in the center of the city who did not have a car and bus travel time took nearly 2 hours 
-        - Matthew 
-            - reminded of Robert Moses in the power broker - breaking ground produces a sense of inevitablity
-            - subways in places like DC get energy from certain political circles - so that they can move around easily so that the underclass can use the metro 
-            - Similar projects - Britain's high speed 
-            - slipping dead lines - reminded of 100 day vaccine project 
-            - "the arc of the moral universe is long, but it bends toward justice" [because injustice has proven too expensive to maintain]
-        - Kiran
-            - "burning bridges" as a project management technique 
-            - Bangalore metro rail
-            - Medellin is a good example of a project that is very popular among people, low vandalism. people are very proud of that metro. 
-            - Bangalore -  no sudden infusion of energy, people dont like that because of that reason 
-            - highlights how much feature creep/scope creep comes into these projects 
-            - paving cowpaths - does that work for such projects
-        - Grigori
-            - fundamental difference between evolution of problems and solutions that get implemented 
-            - large scale projects are trying to solve an evolving problem with a one time fix. The problem does not get solved because new problems come up - may be not the ideal way 
-            - lot of acrobatics involved in solving this kind of problem - get approval and then somehow get funding aftewards 
-            - projects that are under budget never get stated, the projects are complex and different stakeholders have different timelines. Hard to find agreement about the deadline easier to go ahead and do something 
-        - Ananth
-            - co-evolution of the problem and the solution is what causes delays. for example DC has a faster growing population than NYC
-            - the ridership does not meet the expected demand even though population of DC has grown. 
-            - about 80% of transport in the US is in cars, over 50% is less than three miles 
-            - Delhi metro - highest was in 2016 and it has remained consistent since. 
-        - Venkat
-            - lived in DC for several years - probably the best metro system in the US. NYC feels old and rickety and kind of dangerous compared to BART 
-            - seems to miss an important point - has not representation in congress -  that played a big role in making this happen successfully. 
-            - Core of it was influenced by the big government, nobody local had big influence 
-            - Difference between planning and execution - we have a tendency to blame the execution - sense is that reverse is true - the planning is bullshit and most of the intelligence happens on the execution side. 
-            - Political savvy in the planning less intelligent than political savvy in the execution 
-            - Election cycles does not align with projects that take 20-30 years 
-            - people living in an area when such a project starts - you are not going to see any value from it but the next generation will 
-            - on the cities track - metro system storeis would be a good class of stories to read 
-            - another reccomend - London metro history 
-            - China vs US. new systems vs old 
-            - new infrastructure get built over where there was old infrastructure 
-            - dictator places have straight lines vs democracies it tends to be wriggly 
-            - complex system - complexity lies in how you connect things up not in the nodes itself. 
-            - democracy is better at stoping things than at building/starting things - yellow jacket movement in France is a good example 
-            - has to happen with dictatorial forces but then local resistance helps navigate it the right way 
-            - how straight should the line be. 
+    - Scaling Cities Track
+        - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
+            - sachin
+                - things that made the project succesful - the DC ecosystem had lot of inlfuence and power which made constructing it easier - DC ecosystem being the BDF pattern here
+                - in the short term - likely to call it not successful but in the long term it is successful
+                - big project - the guggenheim is by frank gehry vs the sydney opera house which was won in competition - guggenheim had a BDF or in this case not such a benovalent dictator 
+                - building projects are more complex because now communication is also faster - and things like SBF can happen very fast -  which is not conducive for big projects like these 
+                - gas prices going up drives the demand 
+                - why do these projects still get funded ? if they are not successful? 
+                - Austin has a reliable bus system - but all the infrastructrure around it is missing - hard to do that when put under so much pressure 
+                - When I was in Houston - most of the people riding ubers were people working low skilled jobs in the center of the city who did not have a car and bus travel time took nearly 2 hours 
+            - Matthew 
+                - reminded of Robert Moses in the power broker - breaking ground produces a sense of inevitablity
+                - subways in places like DC get energy from certain political circles - so that they can move around easily so that the underclass can use the metro 
+                - Similar projects - Britain's high speed 
+                - slipping dead lines - reminded of 100 day vaccine project 
+                - "the arc of the moral universe is long, but it bends toward justice" [because injustice has proven too expensive to maintain]
+            - Kiran
+                - "burning bridges" as a project management technique 
+                - Bangalore metro rail
+                - Medellin is a good example of a project that is very popular among people, low vandalism. people are very proud of that metro. 
+                - Bangalore -  no sudden infusion of energy, people dont like that because of that reason 
+                - highlights how much feature creep/scope creep comes into these projects 
+                - paving cowpaths - does that work for such projects
+            - Grigori
+                - fundamental difference between evolution of problems and solutions that get implemented 
+                - large scale projects are trying to solve an evolving problem with a one time fix. The problem does not get solved because new problems come up - may be not the ideal way 
+                - lot of acrobatics involved in solving this kind of problem - get approval and then somehow get funding aftewards 
+                - projects that are under budget never get stated, the projects are complex and different stakeholders have different timelines. Hard to find agreement about the deadline easier to go ahead and do something 
+            - Ananth
+                - co-evolution of the problem and the solution is what causes delays. for example DC has a faster growing population than NYC
+                - the ridership does not meet the expected demand even though population of DC has grown. 
+                - about 80% of transport in the US is in cars, over 50% is less than three miles 
+                - Delhi metro - highest was in 2016 and it has remained consistent since. 
+            - Venkat
+                - lived in DC for several years - probably the best metro system in the US. NYC feels old and rickety and kind of dangerous compared to BART 
+                - seems to miss an important point - has not representation in congress -  that played a big role in making this happen successfully. 
+                - Core of it was influenced by the big government, nobody local had big influence 
+                - Difference between planning and execution - we have a tendency to blame the execution - sense is that reverse is true - the planning is bullshit and most of the intelligence happens on the execution side. 
+                - Political savvy in the planning less intelligent than political savvy in the execution 
+                - Election cycles does not align with projects that take 20-30 years 
+                - people living in an area when such a project starts - you are not going to see any value from it but the next generation will 
+                - on the cities track - metro system storeis would be a good class of stories to read 
+                - another reccomend - London metro history 
+                - China vs US. new systems vs old 
+                - new infrastructure get built over where there was old infrastructure 
+                - dictator places have straight lines vs democracies it tends to be wriggly 
+                - complex system - complexity lies in how you connect things up not in the nodes itself. 
+                - democracy is better at stoping things than at building/starting things - yellow jacket movement in France is a good example 
+                - has to happen with dictatorial forces but then local resistance helps navigate it the right way 
+                - how straight should the line be. 
+        - Comparing high speed rail in Indonesia vs Florida 
+            - Prompt:
+            - "we'll be trying something different this time. Today's ready will be a comparison of the construction and operation of a Chinese built high speed rail in Jakarta and a privately built high speed rail connecting Miami and Orlando. Both projects hit milestones recently, so good time for a comparison. Browse the articles in two local newspapers for both of these, click into the articles that you find interesting. Also feel free to google around, use ChatGPT etc
+comparison of jakarta-bandung and orlando-miami:
+                - Jakarta - 151 km , time 29 mins, top speed 350kmh
+                - Miami  - 378km, time 3:30 hours, top speed 200kmh
+                - Jakarta Post : https://www.thejakartapost.com/search?q=Jakarta+to+Bandung#gsc.tab=0&gsc.q=Jakarta%20to%20Bandung&gsc.page=1
+                - Miami Herald:  https://www.miamiherald.com/search/?q=brightline
+            - Sachin
+                - jakarta is chinese run and operated too. state debt seems like a big concern, belt and road project. japan always has lot of projects in asia 
+                - brightline private - lot of accident - built on old rail hence the speed limit 
+                - lot of suiing and litigation
+                - japan has concerns about mixing technology from two countries -  may be high speed rail does not have any "standards" as of now 
+                - definition is 110mph 
+                - NSK - big capital city project - so indonesia may be falls among the straigter lines of this project 
+                - Indonesia's problems are financial while American problems are more technical and political - politically indonesia seems more authoritarian - president's pet project - do American presidents have that? guess not since it would interfere with the state? 
+                - both seem targeted at an expensive market and not a smalll market by any means ? 
+                - high speed rail - mostly a middle class/upper middle class fantasy 
+            - Kiran
+                - timeline for both seem pretty close. Both Miami and Jakarta broke ground on the same time. Miami project - Softbank brought it in 2016. Both had investment issues. Complexity came from the porosity of the contract between china and indonesia. 
+                - jakarta provides much more improvement 
+                - connecting small ciies can create economic engines 
+            - Grigori
+                - something similar going on in Russia at a similar time. Already fully electified rail system. 20 years - regular train between Moscow and st Petersburg... regular train takes 8-9 hours. usually from Moscow to St Petersburg which was convenient for a weekend trip. now there is a high speed train and it takes three hours. now you have to spend the three hours fully awake and sleeping is much simpler for 8 hours than sitting for three hours.  so is it really productive? interesting project but times have already passed perhaps 
+                - train in miami was already considered in the 60s but projects have been proposed a long time ago - in 60s it was interesting most likely not that interesting anymore 
+                - people who wanted to create HSR created initial momentum in the 60s. 
+                - underlying patterns - if people are completely happy where they are then high speed rail is not going to help. 
+            - Venkat 
+                - "florida man behavior" - people dont like disciplined behavior with small constraints in the USA 
+                - financing - china set it up as business to business. It was partly underwritten by chinese banks and partly equity in the joint project. Clearly the chinese are concerned about the reputation of driving countries into debt trap. 
+                - The current posture is somewhere in the middle of being concerned about it - which may be works because its hard to tell from outside what the actual posture is 
+                - "if virgin does not seem reputable then brightline can back out" - was a clause. 
+                - Chinese case - state reputation. Florida case - brand reputation 
+                - because a lot of it is based on reputation and because those projects are complex people make decisions on brand reputation. 
+                - definitely have to misrepresent the project at the beginning to get it off the ground, then reputation manage to get through the project. so its overpromise and underdeliver on purpose - this strategy made sense 30-40 years but not so anymore 
+                - HSRs are cathedrals of urbanism - some places like california its cheaper to just run local air that is cheaper 
+                - energy wise they are not different in terms of energy consumption. The equation is slowly shifting because train is less and less convenient - especially with self driving cars etc 
     - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
         - Ananth
         - Grigori
