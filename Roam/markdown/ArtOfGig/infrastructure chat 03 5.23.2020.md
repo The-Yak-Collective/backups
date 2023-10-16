@@ -38,12 +38,6 @@
             - possibly lock some of the channels in opt-in ... like project channel.
         - treat it like Twitter
         - self-assignment mod 
-- having an active community to engage with is motivated enough 
-    - focus on the active community
-    - another topic: the format of proposing new volunteer projects
-        - standardize the project
-        - project brief for neurofuturuma was valuable and missing for some of these acti
-        - more clear roles defined
 - personal discord mgmt
     - muting aggressively
         - [[Drew Schorno]]  set mute for everything 
@@ -51,6 +45,12 @@
             - can't keep up with every channel 
                 - figure out which conversations / channels
         - async - optin read it like Twitter
+- having an active community to engage with is motivated enough 
+    - focus on the active community
+    - another topic: the format of proposing new volunteer projects
+        - standardize the project
+        - project brief for neurofuturuma was valuable and missing for some of these acti
+        - more clear roles defined
 - Discord 
     - Opt-in channels 
     - Social events - social / generative theme - like gaming 
