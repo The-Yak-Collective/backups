@@ -1,0 +1,12 @@
+- There are some themes coming up for me right now.
+- About work hard. Being clear on the thing I want to get very good at, and putting 10 times the effort I am now into that thing. 
+- I can see that I have not done this in my life. That I could have worked harder at the most important thing. Whether that be finding a partner, marriage, cricket, the podcast, writing. Putting in the time and effort is key here. Immersing myself and becoming really good at it.
+- So what do I want to become really good at? What is my purpose? What is my calling?
+- I want to have an amazing realtionship.
+- I want to move amazingly well.
+- I want to create many businesses, to have the money to create an incredible home, to take the boys on amazing adventures, to have the capacity to move and learn.
+- This is top of mind for me. So what does 10x of this look like? It looks like going amazingly hard at MIT. It looks like focusing all my attention on one physical activity. It looks like kicking ass at CA so I can progress in my career there.
+- But even all of that feels like too many things. What if I was to boil that down to one thing?
+- To create. To get amazingly good at creating things and seeing them flourish.
+- Lulu got in contact with me this week. She wants to be friends. My initial response is numbness. I don't know what do say. There is a little bit of anger in me. There is a little bit of hurt. There is a little bit of wondering what the point is. There is a little bit of missing her and wanting to connect to another human. There is a little bit of all of it.
+- I will sit with it a bit longer to see what comes up clearly.

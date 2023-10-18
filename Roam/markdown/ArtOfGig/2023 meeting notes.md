@@ -116,6 +116,20 @@
             - Extra links on difficulties and feasability
                 - https://forums.adafruit.com/viewtopic.php?t=77791
                 - https://learn.adafruit.com/usb-dc-and-solar-lipoly-charger/design-notes
+    - October 17th
+        - Quick review on trying to go solar power
+            - Current discussions on Discord on Sunfounder Galaxy deprecated toys.
+            - https://electronics.stackexchange.com/q/179479/38103
+        - Review of source code available for Tumbller
+            - Using v1.1 form Elegoo
+            - Discussion of Venkatesh's work on trying the ultrasonic sensor, exploring the code.
+            - Discussion difference header and source files.
+                - Elegoo source messy on headers.
+                - Better examples from Rhett's https://github.com/rhettg/stubborn/tree/main/rover
+        - Debugging for MCU
+            - Default boot sequence boot loader waiting 2s for a flash command
+                - Command comes -> install new code
+                - No command -> jumps to application
 - Hopper
     - Hello world topic ideas
         - API (Rhett/Anuraj)
