@@ -98,20 +98,21 @@ comparison of jakarta-bandung and orlando-miami:
                 - definitely have to misrepresent the project at the beginning to get it off the ground, then reputation manage to get through the project. so its overpromise and underdeliver on purpose - this strategy made sense 30-40 years but not so anymore 
                 - HSRs are cathedrals of urbanism - some places like california its cheaper to just run local air that is cheaper 
                 - energy wise they are not different in terms of energy consumption. The equation is slowly shifting because train is less and less convenient - especially with self driving cars etc 
-    - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
-        - Ananth
-        - Grigori
-        - Jenna
-            - Power and discomfort are definitely related. 
-            - 
-            - Human skills
-        - Kiran
-        - Sachin
-            - Humanist approach to power... 
-        - Venkat
-            - Lack of exit. 
-            - Two types of people once it becomes really uncomfortable (1) Bodhisattvas (2) Mentally ill 
-            - Very few situations where the method is effective, very few places, and very few people can make this work. These methods don't work. Can succeed in limited ways and fail in too many ways. Not so much a weapon of the weak as a weak weapon. 
+    - Weapons of the Weak Track
+        - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
+            - Ananth
+            - Grigori
+            - Jenna
+                - Power and discomfort are definitely related.
+                - Human skills
+            - Kiran
+            - Sachin
+                - Humanist approach to power... 
+            - Venkat
+                - Lack of exit. 
+                - Two types of people once it becomes really uncomfortable (1) Bodhisattvas (2) Mentally ill 
+                - Very few situations where the method is effective, very few places, and very few people can make this work. These methods don't work. Can succeed in limited ways and fail in too many ways. Not so much a weapon of the weak as a weak weapon. 
+        - 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
