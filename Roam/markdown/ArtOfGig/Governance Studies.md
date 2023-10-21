@@ -112,7 +112,34 @@ comparison of jakarta-bandung and orlando-miami:
                 - Lack of exit. 
                 - Two types of people once it becomes really uncomfortable (1) Bodhisattvas (2) Mentally ill 
                 - Very few situations where the method is effective, very few places, and very few people can make this work. These methods don't work. Can succeed in limited ways and fail in too many ways. Not so much a weapon of the weak as a weak weapon. 
-        - 
+        - [Rent seeking in dicatorships](https://readwise.io/reader/shared/01h9rk35ht9f4ksqmc8fzvxg0d/)
+            - Sachin
+                - Seems like he's confused about what a dictatorship is. "everything is a dictatorship" 
+                - Rent-seeking is vague as well. A better definition is needed. Sometimes when you *need* to get something done, better to have a trustworthy individual rather than an efficient person. 
+                - Rent-seeking in mercantilist is describing arbitrage (not rent-seeking). 
+                - Reliance as an example of a company that's clearly rent-seeking but *also* has discovered arbitrage opportunities (but it's also efficient). Could be good and/or bad? 
+            - Venkat
+                - Cleaner description in Dictator's handbook. 
+                - Never satisfied with economists notion of rent-seeking. 
+                - Reliance may not be a good example of "rents are good". Dhirubhai Ambani was super skilled at navigating license raj (and produced crappy stuff). 
+                - [This might be a better framework otherwise just confused](https://en.wikipedia.org/wiki/Selectorate_theory)
+            - Bryan
+                - There's an inner game of dictator's that would be fairly interesting. 
+                - Rent-seeking is a reward for dealing with BS. 
+                - Cascading rents across Nation, State, Community etc. Yes, those in power are rent-seeking. 
+            - Grigori
+                - Climbing up a totem pole does not look like rent to me. 
+                - Timing is very interesting - 1986 (Chernobyl). Chernobyl's effect on power was interesting in the Soviet Union. Chernobyl + other disasters brought the USSR down. 
+                - Small problems can get covered up until something terrible happens (cascading lack of risk mitigation). 
+                - Better than rent-seeking is State of Exception. They are the final arbitrator and rules need not apply. Dictator must win every battle (axiomatically). 
+                - Very tricky to drop out of the inner circle and retain control. 
+            - Jenna
+                - Is there more corrupt rent-seeking under democracy rather than dictatorship? Is a very interesting question. 
+                - Tyler Cowen had Ada Palmer. Medici were amazing city builders because they were good at passing around rents. 
+                - Real world is so hard is a consistent theme here. 
+            - Kiran
+                - Anachronistic read but 
+                - 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
