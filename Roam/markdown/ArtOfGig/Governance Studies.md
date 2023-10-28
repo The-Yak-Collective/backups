@@ -139,6 +139,32 @@ comparison of jakarta-bandung and orlando-miami:
                 - Real world is so hard is a consistent theme here. 
             - Kiran
                 - Anachronistic read but 
+        - [Reactionary Futurism](https://web.archive.org/web/20231026094018/https://www.nytimes.com/2023/10/26/opinion/marc-andreessen-reactionary-futurism.html)
+            - Matthew
+                - Capital, Labor and Technology as a trilemma. 
+                - Labor and Technology should hopefully win out - Ezra might
+                - Non-sovereign individuals are the weak. TOM - shrugs its shoulders and says that’s life. Klein thinks it’s more a deliberate choice of our systems. 
+                - NSIs ultimately have no agency. Differ in their view of who wants agency. 
+                - Individuals as the fundamental unit might be shifting -> Team as the individual. 
+            - Venkat
+                - Evolution from Software is eating the world -> Time to build -> Techno optimist manifesto. 
+                - Views have not changed at all (but in relative terms and the environment around has changed)
+                - The environment has changed a lot. Marc - VC Narrative and Klein - Vox (explainer + recession-born progressive narratives)
+                - What’s the best interpretation of their stories? Tech-determinism vs. Social-determinism. Generative Pluralism is Venkat’s take on a synthesis between the two. 
+                - Progressivism - can we take all the good of technology without all the change in society (communities, language, society etc.). 
+                - Technology has a libertarian bias. We’ve gone from very communal a few centuries ago, to individuals a few centuries ago. 
+                - The collectivism is more Star Trek borg transhumanism vs. collective bargaining. 
+                - Anybody actually weak, will reject these articles. Both are patronizing in their own ways (Hobbesian vs. Citadel mindsets). Trust but verify, market-based and communitarian model. Use the tools of AI and blockchain, to define what their weaponized new state is. 
+            - Ananth
+                - Seems more public policy folks have issues with this particular line of thinking. Social-determinism vs. Tech-determinism  
+                - Trust seems to be the most important thing in social-determinism but doesn’t reference crypto with anything but passing scorn. 
+            - Grigori
+                - Disagree with “struggling to build”. We are struggling to process information. 
+                - The weak are the minority - those intelligent people who think they know the world better than the rest of us. Missing opportunities. 
+                - More like a Creed (a collection of “We believes … “) than a Manifesto - more a structured document with chapters/core tenets. 
+            - Kiran
+                - Hobbesian vs. Citadel being the exclusion.
+                - Assets/skin in the game? VCs need to exclude for their business model, Publishers need to include for their business model. 
                 - 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
