@@ -1,0 +1,17 @@
+- Getting started — I think I used this video {{[[video]]: https://www.youtube.com/watch?v=pTpUMajQS_U}}
+    - Login via usb cable + ssh, set up wifi, then log in at beaglebone.local:3000
+- Beaglebone blue main
+    - Beaglebone site: https://beagleboard.org/blue
+    - Pinout: https://github.com/beagleboard/beaglebone-blue/blob/master/BeagleBone_Blue_sch.pdf
+    - Forum: https://forum.beagleboard.org/
+    -  Specs: https://inst.eecs.berkeley.edu/~ee192/sp21/files/BeagleBone_Blue_ShortSpec.pdf
+- Getting started video (gets to blink): https://www.youtube.com/watch?v=pTpUMajQS_U
+- Librobotcontrol
+    - Librobotcontrol
+    - Maintained by some random person at Strawson design http://www.strawsondesign.com/#!manual-install
+    - Github: https://github.com/beagleboard/librobotcontrol
+    - Manual: https://beagleboard.org/static/librobotcontrol/
+- ROS on BBLue
+    - https://medium.com/@atulsingh15743/ros-beagle-bone-blue-f2d95af857eb
+    - https://machinekoder.com/ros-with-debian-stretch-on-the-beaglebone-black-green-blue/
+- 

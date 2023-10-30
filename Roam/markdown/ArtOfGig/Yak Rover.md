@@ -9,6 +9,7 @@
     - Last Gardened:: [[December 9th, 2020]] by [[Venkatesh Rao]]
 - [[Yak Rover Reference Materials]]
 - [[Yak Rover 2021 Builds]]
+- [[Beaglebone Blue]]
 - **[[YaRG Meeting Notes]]**
 - [[Strawman Crowdfunded Project]]
 - License Discussion
