@@ -36,7 +36,7 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/crystalcultures/lists/1486951703005986816"
+      "url" : "https://twitter.com/esplvn/lists/1486951703005986816"
     }
   },
   {

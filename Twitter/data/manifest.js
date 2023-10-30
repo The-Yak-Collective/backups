@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14537231",
-    "generationDate" : "2023-10-02T23:45:30.062Z",
+    "sizeBytes" : "14609991",
+    "generationDate" : "2023-10-30T20:01:13.346Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -93,6 +93,13 @@ window.__THAR_CONFIG = {
         "count" : "0"
       } ]
     },
+    "adsRevenueSharing" : {
+      "files" : [ {
+        "fileName" : "data/ads-revenue-sharing.js",
+        "globalName" : "YTD.ads_revenue_sharing.part0",
+        "count" : "1"
+      } ]
+    },
     "ageinfo" : {
       "files" : [ {
         "fileName" : "data/ageinfo.js",
@@ -171,7 +178,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/connected-application.js",
         "globalName" : "YTD.connected_application.part0",
-        "count" : "6"
+        "count" : "5"
       } ]
     },
     "contact" : {
@@ -267,7 +274,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2446"
+        "count" : "2437"
       } ]
     },
     "following" : {
@@ -281,7 +288,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "274"
+        "count" : "320"
       } ]
     },
     "keyRegistry" : {
@@ -516,7 +523,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "2241"
+        "count" : "2264"
       } ]
     },
     "tweetdeck" : {
@@ -531,29 +538,11 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "2241"
+        "count" : "2264"
       } ]
     },
     "tweetsMedia" : {
       "mediaDirectory" : "data/tweets_media"
-    },
-    "twitterArticle" : {
-      "mediaDirectory" : "data/twitter_article_media",
-      "files" : [ {
-        "fileName" : "data/twitter-article.js",
-        "globalName" : "YTD.twitter_article.part0",
-        "count" : "0"
-      } ]
-    },
-    "twitterArticleMedia" : {
-      "mediaDirectory" : "data/twitter_article_media"
-    },
-    "twitterArticleMetadata" : {
-      "files" : [ {
-        "fileName" : "data/twitter-article-metadata.js",
-        "globalName" : "YTD.twitter_article_metadata.part0",
-        "count" : "0"
-      } ]
     },
     "twitterCircle" : {
       "mediaDirectory" : "data/twitter_circle_tweet_media",

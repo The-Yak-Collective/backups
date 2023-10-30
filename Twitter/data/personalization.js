@@ -705,6 +705,7 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
+        "Exton, PA, USA",
         "Bellevue, WA, USA"
       ],
       "inferredAgeInfo" : {

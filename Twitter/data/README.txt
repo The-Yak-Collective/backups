@@ -116,6 +116,7 @@ ip-audit.js
 - accountId: Unique identifier for the account.
 - createdAt: Date and time of a login to the account.
 - loginIp: IP address associated with the login.
+- loginPortNumber: Port number associated with the login.
 ----------------------
 periscope-account-information.js
 - id: Periscope shell account unique identifier automatically created as soon as the user goes to the "Live" section of the News Camera. A Periscope shell account will be created for the Twitter user before the user goes live.
@@ -226,6 +227,12 @@ ad-online-conversions-unattributed.js
 - conversionValue: Value associated with the event.
 - conversionTime: Date and time of the event.
 - additionalParameters: Other optional parameters associated with the event such as a currency or product category.
+----------------------
+ads-revenue-sharing.js
+- status: The user's status of the Ads Revenue Sharing program.
+- enrolledAt: The ISO8601 timestamp of when the user was enrolled into the Ads Revenue Sharing program.
+- paidAt: The ISO8601 timestamp of when the payout was made.
+- payoutAmountUsd: The payout amount in USD.
 ----------------------
 app.js
 - appId: Identifier of the app Twitter believes may be installed on devices associated with the user.
@@ -592,19 +599,6 @@ tweetdeck.js
 tweets.js
 This JSON file contains available Tweets which have not been deleted and it includes edited tweets if applicable. Users can edit a tweet up to five times; as such there are up to 5 edited tweets with unique “editTweetIds,” all connected by the “initialTweetID.” The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
 ----------------------
-twitter-article-metadata.js
-- authorId: Twitter ID of the author of this Twitter article.
-- visibility: State of the Twitter article: Draft or Published
-- createdAtMs: Timestamp of the creation of this Twitter article
-- updatedAtMs: Timestamp of the last update of this Twitter article
-- publishedAtMs: Timestamp of the first time this Twitter article was published
-- lastPublishedAtMs: Timestamp of the last time this Twitter article was published
-----------------------
-twitter-article.js
-- id: Unique identifier for the Twitter article.
-- title: The title of the article as specified by you
-- data: Content of the article split by sections with each has details for the text content, mentions, hashtags and styles applied to the text.
-----------------------
 twitter-circle-tweet.js
 This JSON file contains all the Tweets shared with a Twitter Circle and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
 ----------------------
@@ -615,9 +609,6 @@ twitter-shop.js
 - name: Name of the shop provided by you
 - description: Description of the shop provided by you
 - productSetIds: list of product set ids provided by you. Items from this set will be displayed in the shop
-----------------------
-twitter_article_media
-Folder of images, videos, and/or gifs shared in the account’s Twitter Articles that are posted on the user profile. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
 ----------------------
 user-link-clicks.js
 - tweetId: Unique identifier for the Tweet the user clicked on when using Twitter on iOS or Android.
