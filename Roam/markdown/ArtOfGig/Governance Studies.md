@@ -98,6 +98,49 @@ comparison of jakarta-bandung and orlando-miami:
                 - definitely have to misrepresent the project at the beginning to get it off the ground, then reputation manage to get through the project. so its overpromise and underdeliver on purpose - this strategy made sense 30-40 years but not so anymore 
                 - HSRs are cathedrals of urbanism - some places like california its cheaper to just run local air that is cheaper 
                 - energy wise they are not different in terms of energy consumption. The equation is slowly shifting because train is less and less convenient - especially with self driving cars etc 
+        - [Walter Benjamin on Naples](https://www.are.na/block/24507433)
+            - sachin
+                - how people orient themselves is different in cities like this - they dont orient by blocks but by smaller stores or landmarks 
+                - more like a socio-economic reasons than because it is engineered - the one here seems more 
+                - there is a porosity that is kind of engineered with high density  - such as Paris or nyc - but mostly done for policing reasons 
+                - the LA cops examples - you need helicopters for that reason 
+                - the palestine tunnels are an example of porosity used against governance in some way? 
+                - relates to the junkspace idea of rem koolhaas 
+                - public transit makes places less porous in some way - sort of blocked away from the rest of what is going on 
+                - modernisation is sort of trading porosity for somethign else? 
+                - written before tourism became a thing - so what most people experience as porosity is not really porous 
+            - Kiran
+                - porosity stood out 
+                - downtown cancun - street vendors, covered seating, was there for day of the dead, sitting there on a particularly crowded evening, someone new just invited everyone to his house, the public space was an extension of the porosity
+                - when you have porosity you feel like escaping the porosity so that you can recharge
+                - experience in india where people hang clothes outside -  and it gives apartment buildings these facades of clothes - everything inside is just out
+                - when you lose that porous nature, cities can become sterile
+                - in many porous areas - no point reporting to the cops
+                - land use things in India - they can only be resolved with thugs 
+                - legible governance is hard 
+                - mass transit system contributes to the porous nature 
+            - Jenna
+                - Ellena Ferante's - violet and ... culture - books about Italian
+                - illegible governance corresponds with danger, legible governance goes along with sterile - can both be mixed? 
+                - Everywhere is a swamp in terms of complexity 
+                - Elena Ferrante - https://en.wikipedia.org/wiki/Elena_Ferrante
+            - Grigori
+                - enjoyed the reading 
+                - not sure how much the author knows about naples 
+                - its mostly just massive contrast to what the author is used to 
+                - porosity is a feature and if you find it desirable then you will have to pay for it in some other way
+            - Venkat 
+                - agree with all of Grigori's cautions - they are impressions 
+                - the visual description matches perfectly
+                - its not quite on the tourist trail, people might stop there but not somewhere that people visit on the way to Pompeii 
+                - its not set up for toursim. Its at the intersection of middle east, africa and europe. It was ruled by a scandinavian king for several years. 
+                - some parts of it seems true - even if the city seems empty you are sort of walking through people's backyards and stuff like that. It seems to be much more dead 
+                - ambivalent of relationship 
+                - Naples cant really change - change cant be forced upon it - it has a tribalized vibe to it 
+                - on the surface it looks multiculural - but its actually quite insular and each subculture retreats into its own corner 
+                - if you are not in the the community, then you wont get access to it 
+                - Even though we might be using porosity 
+                - cloud mouse infrastructure 
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
