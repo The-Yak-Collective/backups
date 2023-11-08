@@ -1,13 +1,13 @@
 -  
     - 1) Communal political decision-making 
     - 
+- 
 -  Kernel 2040 Scenario
     - information presentation + VR demonstration of a community development (health, transport, housing etc etc) that is part of a local political representative's policy plan. during information session + within the VR demonstration the constituents have their neuromonitoring helmets strapped on. at the different stages of the pres/VR demo signals are picked up from the neuromonitoring device. these are then recorded and categorised (as qualitative feedback would be in today's consultation session) and are then explored within the consultation session - constituents can be invited to explore the readings (will the constituents be able to interpret the readings/will there be surprises e.g. when I heard about this project I was excited about XX but my reading shows contrary XXX [perhaps some more instinctive biological resistance, such as not having really considered the pollutant effects but my brain seems to be doing so] and now I must examine this) 
     - political representatives use the information to help improve the policy process by applying it to how the development will proceed 
     - Overall the expectation is that Kernel could help create a political participation process with greater depth and understanding between constituents and political decision-making on communal levels
     - 2) Fine-Tuning Voting
         - Service to understand how exactly you vote for candidates - most political scientists see votes as based on satisfying value/material needs which would activate an executive control region of the brain that wants to achieve certain goals but it is also acknowledged that we (disproportionately) judge candidates on their physical attractiveness which would be processed in limbic part of brain - understanding this information in a quantified way could help voters fine-tune their preferences/desired focus (power ways Attebyte control - https://medium.com/future-literacy/changing-our-minds-one-attebyte-at-a-time-764692703636)
-- 
 - Ideas
 - 3)Neuro-Manifestos 
     - Parties and political reps building out manifestos for people/communities by amalgamating neuro-information from a wide range of constituents - defining the group and categorising sentiment into something that becomes policy-relevant 
@@ -16,10 +16,10 @@
         - 5) Solving Opposition 
             - Neuro-dialogue between those with opposing political views - lots of signs that political belief is a product of emotion - wondering if neuroproducts could help us move beyond communicating political arguments and more towards how those arguments were formed...House of Commons debate with Kernel helmets strapped on...
 - 
-- TECHNICAL CONSTRAINTS:
 - Notes
-- IMPOSSIBILITIES: 
+- TECHNICAL CONSTRAINTS:
 - Expose a number individuals to a future scenario on a sensory level and gain precise/categorised insight into their sentiment towards this scenario - which can then be fleshed out further discursively in a group setting
+- IMPOSSIBILITIES: 
 - METAPHORS: 
 - Barrett emotions theory [Policing application](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01946/full)
     - The brain as a predictive model - theory of constructed emotion - citizen predictions of political growth that takes place around them to inform that growth when political leaders make decisions
