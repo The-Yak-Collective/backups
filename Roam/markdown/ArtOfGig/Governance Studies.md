@@ -209,6 +209,35 @@ comparison of jakarta-bandung and orlando-miami:
                 - Hobbesian vs. Citadel being the exclusion.
                 - Assets/skin in the game? VCs need to exclude for their business model, Publishers need to include for their business model. 
                 - 
+        - [Power of Defiance](https://discord.com/channels/692111190851059762/1172562793208230019)
+            - Ananth
+                - Lots to like - no clear enemy - how the ideologies self-perpetuate through rituals. 
+                - Use of rituals in the article was mostly negative - perpetuating a rote-automatism. 
+                - When the ideology is sharp, writers, artists etc. transgress by simply doing what they are meant to do. 
+                - Western democracies may also have a sense of automatism. 
+            - Grigori
+                - Read the PDF directly - important to tease out the meaning of a dictatorship, lots of nuanced terms.
+                - Story of beer brewing - not caring about quality of the beer. 
+                - Do the dictators really have totalitarian power? Probably not. 
+                - Who was the dictator in 1978? 
+                    - 
+            - Kiran
+                - Productive vs. unproductive defiance. 
+                - Role of ideology. 
+            - Sachin
+                - Role of citizen in the west is very different 
+                - Indians are way more cynical than in the west about national identity. Because of cultural, language etc. differences. 
+                - Weapons of the weak for the governed.
+                - Cyncism as a form of resistance
+                - Czech movie - https://en.wikipedia.org/wiki/Closely_Watched_Trains
+                - How does weapons to the weak becoming so cynical that it becomes too weak? Or is this a natural process? 
+            - Venkat
+                - Institutionalized totalization vs. One-off dictators. 
+                - Most societies - Havel describes the eastern European pattern - natural state is entrenched autocracy with strongman at top -  liberal democracy can work but it's fragile and needs to be protected. 
+                - "Half the society is spying on the other half". 
+                - Fundamental character of the US is still from this era - similar to the Grocer's communist slogan - the US Flag flying. Flying the flag is similar to the slogan where it displays . 
+                - Instead of centuries old bureaucracy being co-opted, in the US "Bureaucracy of the Karens" - lower middle class 
+                - It's a rationalization to assume that acts of defiance can course-correct bureaucracies. 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
