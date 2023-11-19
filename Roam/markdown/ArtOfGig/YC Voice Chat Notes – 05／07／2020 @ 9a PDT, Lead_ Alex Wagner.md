@@ -5,8 +5,8 @@
 - [[Sachin Benny]] also suggested Venkat's [The 7 Dimensions of Positioning](https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2010/08/innInfl.jpg)
 - ---
 - In attendance: [[Chris Reid]], [[Drew Schorno]], Grigori Milov, [[Jordan Peacock]], [[John Grant]], [[Sachin Benny]] (apologies if I forgot anyone)
-- 
 - ## **Notes from Round-Robin Discussion:**
+- 
 - 
 - ## **Round Robin Chat**
 - ### **Round One**
