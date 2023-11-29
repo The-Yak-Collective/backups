@@ -130,6 +130,13 @@
             - Default boot sequence boot loader waiting 2s for a flash command
                 - Command comes -> install new code
                 - No command -> jumps to application
+    - November 29th
+        - A few words on the devtools event in Istanbul where Anuraj and Venkatesh went.
+        - Demo from Rhett
+            - Beaglebone running the latest Debian image recommended by the maker
+            - Different boot modes, like from eMMC, from SD, from SD and install on eMMC, etc.
+                - In demo is from SD, where success should blink a blue LED, then run a demo routine that blinks a bleu LEDs array randomly.
+            - No Ethernet, uses USB as network interface at first
 - Hopper
     - Hello world topic ideas
         - API (Rhett/Anuraj)
