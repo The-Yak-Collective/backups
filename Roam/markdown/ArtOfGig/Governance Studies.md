@@ -141,6 +141,32 @@ comparison of jakarta-bandung and orlando-miami:
                 - if you are not in the the community, then you wont get access to it 
                 - Even though we might be using porosity 
                 - cloud mouse infrastructure 
+        - HS2 in Britain
+            - Sachin
+                - Reminds me of the reading about how small deviances become normal and people try to protect their jobs - thats what dominic cummings gets at - but I think hes wrong - its not the management that is wrong, it is the early planning that is wrong 
+                - more of a missions problem than an incentive problem 
+                - better solutions with existing infra - not as charismatic - bus service has improved but no one knows about it 
+                - Failuire of grand strategy or grand strategy gone amok
+                - covid
+            - Matthew 
+                - Cost creep caught the eye
+                - dud project and should be spend on something else - then demands on some kind of sovreign individual to come in and fix everything is seen as the solution
+                - played around with chatgpt to assess the fitness of western governments to build big infra projects 
+                - probably no - but if you are in a small town it is nice to be connected 
+                - ""Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure" 
+                - https://chat.openai.com/share/0cb389da-cb31-4cbc-8624-0c77b6dcb817
+            - Venkat
+                - What does the type of project say about who has power? for example if it rail over road then that says that federal government has more power 
+                - Zoning - if local zoning is the block to building more housing then the local government has more power 
+                - Transportation museaum - history of 200 years of building the Tube - that is substantial history - it is not trivial to put new infrastructure - predicament to western infrastructure
+                - California -  high speed rail is not greener in anyway - it is worse than air travel. HSR really depends on the region 
+                - No one wants regular time - speed for time - https://www.hindawi.com/journals/jat/2017/8426926/
+            - Jenna 
+                - its hard to believe the numbers - the numbers are usually jacked up by people who can jack up the prices 
+                - cant compare infrastructure projects in Asia vs here because of democracy vs authoritarianism 
+            - Grigori 
+                - Have to look at how budget cycle works - when they create a megaproject 
+                - Amount of money will get recycled every budget cycle 
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
