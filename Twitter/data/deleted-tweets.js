@@ -18,7 +18,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Jascha Wilcox 🤖",
+            "name" : "Jascha",
             "screen_name" : "jaschawilcox",
             "indices" : [
               "231",

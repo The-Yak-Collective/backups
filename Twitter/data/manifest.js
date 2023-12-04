@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14609991",
-    "generationDate" : "2023-10-30T20:01:13.346Z",
+    "sizeBytes" : "14628583",
+    "generationDate" : "2023-12-04T01:40:02.728Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -274,7 +274,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2437"
+        "count" : "2431"
       } ]
     },
     "following" : {
@@ -288,7 +288,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "320"
+        "count" : "259"
       } ]
     },
     "keyRegistry" : {
@@ -351,7 +351,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ni-devices.js",
         "globalName" : "YTD.ni_devices.part0",
-        "count" : "1"
+        "count" : "2"
       } ]
     },
     "noteTweet" : {
@@ -523,7 +523,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "2264"
+        "count" : "2283"
       } ]
     },
     "tweetdeck" : {
@@ -538,7 +538,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "2264"
+        "count" : "2283"
       } ]
     },
     "tweetsMedia" : {
@@ -588,6 +588,13 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/verified.js",
         "globalName" : "YTD.verified.part0",
+        "count" : "1"
+      } ]
+    },
+    "verifiedOrganization" : {
+      "files" : [ {
+        "fileName" : "data/verified-organization.js",
+        "globalName" : "YTD.verified_organization.part0",
         "count" : "1"
       } ]
     }

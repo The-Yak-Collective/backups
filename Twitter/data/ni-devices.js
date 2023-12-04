@@ -1,6 +1,18 @@
 window.YTD.ni_devices.part0 = [
   {
     "niDeviceResponse" : {
+      "pushDevice" : {
+        "deviceVersion" : "10.18",
+        "udid" : "B089C98E-E3BC-44A5-9C6E-1C0A33B702C9",
+        "deviceType" : "Twitter for iOS",
+        "token" : "hpnDfNDfcr45hXfwugzrottkR1cwo+uojOaIOOzyCxk=",
+        "updatedDate" : "2023.12.02",
+        "createdDate" : "2023.11.04"
+      }
+    }
+  },
+  {
+    "niDeviceResponse" : {
       "messagingDevice" : {
         "phoneNumber" : "+15854896304",
         "carrier" : "verizon",

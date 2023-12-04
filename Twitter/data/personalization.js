@@ -19,10 +19,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Airbnb",
-            "isDisabled" : false
-          },
-          {
             "name" : "Alternative rock",
             "isDisabled" : false
           },
@@ -36,10 +32,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Anti-fascism",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Aposto!",
             "isDisabled" : false
           },
           {
@@ -60,10 +52,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "B2B",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Bagels",
             "isDisabled" : false
           },
           {
@@ -99,15 +87,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Bullet journaling",
-            "isDisabled" : false
-          },
-          {
             "name" : "Business & finance",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Business & finance podcasts",
             "isDisabled" : false
           },
           {
@@ -116,14 +96,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "COVID-19",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Career podcast",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Careers",
             "isDisabled" : false
           },
           {
@@ -136,14 +108,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Coffee",
-            "isDisabled" : false
-          },
-          {
-            "name" : "College & High School podcast",
-            "isDisabled" : false
-          },
-          {
-            "name" : "College life",
             "isDisabled" : false
           },
           {
@@ -195,15 +159,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Education",
-            "isDisabled" : false
-          },
-          {
             "name" : "Education around the world",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Educational podcast",
             "isDisabled" : false
           },
           {
@@ -220,10 +176,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Entertainment industry",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Events",
             "isDisabled" : false
           },
           {
@@ -244,10 +196,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Fields of study",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Firefighting",
             "isDisabled" : false
           },
           {
@@ -307,31 +255,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Google brand conversation",
-            "isDisabled" : false
-          },
-          {
             "name" : "Government institutions",
             "isDisabled" : false
           },
           {
-            "name" : "Government podcast",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Health & fitness podcasts",
-            "isDisabled" : false
-          },
-          {
             "name" : "Herbs and spices",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Higher Education",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Higher Education podcast",
             "isDisabled" : false
           },
           {
@@ -395,14 +323,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Medical education",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Medicine podcast",
-            "isDisabled" : false
-          },
-          {
             "name" : "Meditation",
             "isDisabled" : false
           },
@@ -439,10 +359,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "New York podcast",
-            "isDisabled" : false
-          },
-          {
             "name" : "News",
             "isDisabled" : false
           },
@@ -471,14 +387,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Podcasts",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Podcasts & radio",
-            "isDisabled" : false
-          },
-          {
             "name" : "Political figures",
             "isDisabled" : false
           },
@@ -492,10 +400,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Pop",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Prestige",
             "isDisabled" : false
           },
           {
@@ -523,10 +427,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Rugby",
-            "isDisabled" : false
-          },
-          {
             "name" : "Sandwiches",
             "isDisabled" : false
           },
@@ -547,10 +447,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Sheryl Sandberg",
-            "isDisabled" : false
-          },
-          {
             "name" : "Slack",
             "isDisabled" : false
           },
@@ -560,10 +456,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Soccer",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Social causes",
             "isDisabled" : false
           },
           {
@@ -591,19 +483,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Stripe",
-            "isDisabled" : false
-          },
-          {
             "name" : "Surfing",
             "isDisabled" : false
           },
           {
             "name" : "Tech news",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Tech personalities",
             "isDisabled" : false
           },
           {
@@ -705,7 +589,6 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
-        "Exton, PA, USA",
         "Bellevue, WA, USA"
       ],
       "inferredAgeInfo" : {

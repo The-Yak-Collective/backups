@@ -44,7 +44,7 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1531770561172340736",
-      "fullText" : "@vgr @yak_collective https://t.co/KH8YlzbWgA",
+      "fullText" : "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
       "expandedUrl" : "https://twitter.com/i/web/status/1531770561172340736"
     }
   },

@@ -615,6 +615,13 @@ user-link-clicks.js
 - finalUrl: URL indicating where the Tweet linked to off Twitter.
 - timeStampOfInteraction: Date and time of when the click occured. This file includes 30 days of data from the time the archive was generated.
 ----------------------
+verified-organization.js
+- affiliatedToAccounts: List of verfied organization accounts that the current account is affiliated to
+- affiliates: List of affiliates are connected to the current verfied ogranization account
+- screenName: The affiliate or affiliation account’s current @username.
+- verfiedType: The flag to indicate account verified type.
+- createdAt: The ISO8601 date and time of the verified organization created or affiliate created in verified organization.
+----------------------
 verified.js
 - accountId: Unique identifier for the account.
 - verified: Indicates whether the account is verified.
