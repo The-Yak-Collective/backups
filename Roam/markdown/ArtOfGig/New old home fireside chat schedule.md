@@ -108,17 +108,18 @@
         - 
         - 
 I sort of wrote of experimental attempt mainly basing a hypothetical new language off of Venkat's concept of Farcaster Mansion, so we could have portals between the four different worlds. Or we can actually begin to give patterns that work with our tech tools, embrace them, and outfit nooks designed for ring lights, selfie sticks, or Zoom calls, etc. Just some ideas. 
+- 5:30
 - __3. Running the New Old Home____ __ **(Pamela presents)**
     - Sections
         - Home economics (Toby) - education
         - Do home techs save labor? wtf happened? 
         - making our own fun
     - Questions
-- 5:30
 - 5:40
 - __4. Working from the New Old Home____ __ (**Drew presents)**
     - Visible Knowledge Work
     - The Knowledge Work Apprenticeship
+- 5:50
 - __5. Families in the New Old Home____ __ (Pamela presents)
     - You really can't talk about work separate from families, as the school/daycare/home dichotomy for children is breaking down at the same time as the work/home dichotomoy is collapsing for adults
     - Intergenerational living
@@ -130,7 +131,6 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
             - Interracial families
         - The common thread is plural gradients, not singular discrete values.
         - Concern: double-counting
-- 5:50
 - 6:00
 - __ 6. Towards the New Old Home____ __ **(Drew presents)**
     - Section()s) tbd
@@ -140,9 +140,9 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
     - We were able to get this together pretty quickly because...
     - I had limited capacity to manage because I have 3 kids under age 5 and no childcare at the time...
     - 
+- 6:20
 - **Turn to Shreeda to choose questions out of the chat **- 
     - depending on if there are questions in there or not or if not too many attendees, could have them raise hands 
-- 6:20
 - 
 - 6:30
 - Topic ideas:

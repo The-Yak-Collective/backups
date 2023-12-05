@@ -449,7 +449,7 @@ but consider - is what is being sent data or programs?
                 - [[Maier Fenster]] tension between each meeting should standing on its own versus making a journey of papers
                 - 
     - **Season Fall** (15 sessions, 1 holiday, starting ~ Autumnal Equinox, Sept 22)
-        1. Oct 31: Gwern, unseeing
+        1. Oct 31: [Gwern, unseeing](https://gwern.net/unseeing)
             - Reading - https://www.gwern.net/Unseeing
             - Prompt -  Come up with an example of “unseeing” a social system
             - Discussion
@@ -481,7 +481,7 @@ but consider - is what is being sent data or programs?
                         - abstraction on trust relationship
                     - [[Maier Fenster]]
                         - fake pattern recognition
-        2. Nov 7: Spectral Utopias
+        2. Nov 7: [Spectral Utopias](https://hcommons.org/deposits/objects/hc:49430/datastreams/CONTENT/content)
             - Reading: https://www.dropbox.com/s/e8nymejjsx3y1dk/spectral%20utopias%20FINAL%20english%202021.pdf?dl=0
                 - Prompt: top lesson for modern post-social distributed systems, and top difference.
             - Discussion
@@ -526,7 +526,7 @@ but consider - is what is being sent data or programs?
                     - [[Venkatesh Rao]] farcaster - protocol does not require entire history
                         - something new in blockchain despite being local there can some global stuff
                     - 
-        3. Nov 14: Robin Sloan article
+        3. Nov 14: Robin Sloan article | [Discord thread](https://discord.com/channels/692111190851059762/1125297398831386654)
             - Reading - https://www.robinsloan.com/lab/specifying-spring-83/
             - Prompt -  if this protocol existed with tooling support and content how do you think people would actually use it and how would you use it?
             - Discussion
@@ -575,7 +575,7 @@ but consider - is what is being sent data or programs?
                     - time is interesting aspect of protocol
                         - stateless protocols without aspect of time is not a protocol? 
                     - 
-        4. Nov 21: Farcaster
+        4. Nov 21: Farcaster | Discord thread
             - Reading - https://www.farcaster.xyz/ecosystem
                 - [[Ben Mahala]] - 
                     - Major flaw is registering identity on chain
@@ -644,56 +644,58 @@ but consider - is what is being sent data or programs?
                         - usenet fragmented into two layers
                         - 
             - 
-        5. Nov 28: Pair of linked readings for next distributed systems call, posting early. Found via rover group exploring zerotier as an option for our rover vpn needs. A post, talking about the zerotier philosophy of “decentralize till it hurts, centralize till it works.” I have also scheduled the cited Google paper for the following week. Read this first https://adamierymenko.com/decentralization/ and if time, browse this https://www.zerotier.com/2019/06/30/lf-announcement/
-            - Prompt - reactions
-            - Discussion
-                - [[Nathan Acks]]
-                    - disagree about market forces - 
-                    - somthing like amazon s3
-                - [[Meredith Noelle]]
-                - [[Grigori Milov]]
-                    - all the bad things in centralizalized systems due to human internventions? 
-                    - analyse the incentive structure
-                    - incentive of the author of the article? 
-                    - hard to talk about centralization - priorities in the article
-                - [[Ben Mahala]]
-                    - one thing that was not brought up - when the author calls centralization it often had decentralization inside, many google systems are decentralized in some ways
-                    - what is the threat model from the system
-                - [[Venkatesh Rao]]
-                    - zerotier as vpn for rover
-                    - mixing up human centric problems with engineering problems, mixing up of many of them
-                        - difficult to know which of the contraints are hard ones
-                    - orchestration 
-                    - distributed is not decentralized - distribution is everything except agency
-                    - censorship resistance 
-                - [[Maier Fenster]]
-                    - depressing article because it tries to prove something we all want?
-                    - in yakrover this should be interesting
-                        - robots on mars - person writing patches is atleast 20 minutes away
-                - Open Floor
-                    - [[Maier Fenster]]
-                        - how does this relate to farcaster/Mastodon
-                    - [[Venkatesh Rao]]
-                        - no network level caching in Mastodon
-                        - cap theorem are contraints on global system but maybe not be true locally, there maybe local areas where C can be given up and AP gaurenteed. Are there protocol that choose ones from C, A and P in different locality
+        5. Nov 28: [Decentralize till it hurts](https://adamierymenko.com/decentralization/) | Discord thread
+            - Pair of linked readings for next distributed systems call, posting early. Found via rover group exploring zerotier as an option for our rover vpn needs. A post, talking about the zerotier philosophy of “decentralize till it hurts, centralize till it works.” I have also scheduled the cited Google paper for the following week. Read this first https://adamierymenko.com/decentralization/ and if time, browse this https://www.zerotier.com/2019/06/30/lf-announcement/
+                - Prompt - reactions
+                - Discussion
                     - [[Nathan Acks]]
-                        - three parallel networks that optimize for different things
-                    - [[Venkatesh Rao]]
-                        - eth2 tries this, consensus layer, execution layer and L2 layer
+                        - disagree about market forces - 
+                        - somthing like amazon s3
+                    - [[Meredith Noelle]]
+                    - [[Grigori Milov]]
+                        - all the bad things in centralizalized systems due to human internventions? 
+                        - analyse the incentive structure
+                        - incentive of the author of the article? 
+                        - hard to talk about centralization - priorities in the article
                     - [[Ben Mahala]]
-                        - 
+                        - one thing that was not brought up - when the author calls centralization it often had decentralization inside, many google systems are decentralized in some ways
+                        - what is the threat model from the system
+                    - [[Venkatesh Rao]]
+                        - zerotier as vpn for rover
+                        - mixing up human centric problems with engineering problems, mixing up of many of them
+                            - difficult to know which of the contraints are hard ones
+                        - orchestration 
+                        - distributed is not decentralized - distribution is everything except agency
+                        - censorship resistance 
+                    - [[Maier Fenster]]
+                        - depressing article because it tries to prove something we all want?
+                        - in yakrover this should be interesting
+                            - robots on mars - person writing patches is atleast 20 minutes away
+                    - Open Floor
+                        - [[Maier Fenster]]
+                            - how does this relate to farcaster/Mastodon
+                        - [[Venkatesh Rao]]
+                            - no network level caching in Mastodon
+                            - cap theorem are contraints on global system but maybe not be true locally, there maybe local areas where C can be given up and AP gaurenteed. Are there protocol that choose ones from C, A and P in different locality
+                        - [[Nathan Acks]]
+                            - three parallel networks that optimize for different things
+                        - [[Venkatesh Rao]]
+                            - eth2 tries this, consensus layer, execution layer and L2 layer
+                        - [[Ben Mahala]]
+                            - 
         6. Dec 5: [The power of ((even a little bit) of centralization](https://storage.googleapis.com/zt-web-large-files/2011__A_Little_Centralization__Tsitsiklis_Xu.pdf) — cited by the zerotier papers
-        7. Dec 12:
+        7. Dec 12: Sloan new avenues | [Discord thread](https://discord.com/channels/692111190851059762/1051891484141559808)
         8. Dec 19:
         9. Dec 26: Boxing Day, NO MEETING 
 - **2023 Readings**
-    - Season: Winter
-        - Jan 2: [Wikipedia on Memory Hierarchy](https://en.m.wikipedia.org/wiki/Memory_hierarchy)
-        - Jan 9: [Cache Coherency](https://en.wikipedia.org/wiki/Cache_coherence)
-        - Jan 16: Jeff Hawkins/Numenta memory-first model of cognition. Browse the Wikipedia article for context then the neuroscience one to the extent you can (surprisingly readable). The model has been increasingly influential in ML.
-            - Wikipedia: https://en.wikipedia.org/wiki/On_Intelligence 
-            - [Cortical columns paper](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full)
-        - Jan 23: [Map rooms](https://interconnected.org/home/2023/01/20/map_room)
+    - **Season: Winter**
+        - Jan 2: [Wikipedia on Memory Hierarchy](https://en.m.wikipedia.org/wiki/Memory_hierarchy) | Discord thread
+        - Jan 9: [Cache Coherency](https://en.wikipedia.org/wiki/Cache_coherence) | Discord thread
+        - Jan 16: [Cortical columns](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full) | [Discord thread](https://discord.com/channels/692111190851059762/1064581452567683132)
+            - Browse the Wikipedia article for context then the neuroscience one to the extent you can (surprisingly readable). The model has been increasingly influential in ML.
+                - Wikipedia: https://en.wikipedia.org/wiki/On_Intelligence 
+                - [Cortical columns paper](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full)
+        - Jan 23: [Map rooms](https://interconnected.org/home/2023/01/20/map_room) | [Discord thread](https://discord.com/channels/692111190851059762/1067114815979528232)
             - Discussion
             - [[Commits Vortex]]
                 - Interesting was inclusion of audio. 
@@ -706,9 +708,9 @@ but consider - is what is being sent data or programs?
                 - google drive to 3d mode
             - [[Nathan Acks]]
                 - 
-        - Jan 30: Robin Sloan, [Attention Router](https://www.robinsloan.com/lab/attention-router/)
-        - Feb 6: [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface)
-        - Feb 13: [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks)
+        - Jan 30: Robin Sloan, [Attention Router](https://www.robinsloan.com/lab/attention-router/) | [Discord thread](https://discord.com/channels/692111190851059762/1069645560652496896)
+        - Feb 6: [Baudrillard, Simulation and Simulacra](https://web.stanford.edu/class/history34q/readings/Baudrillard/Baudrillard_Simulacra.html)| [Discord thread](https://discord.com/channels/692111190851059762/1071965551884247171)
+        - Feb 13: [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) | [Discord thread](https://discord.com/channels/692111190851059762/1074515181897519144)
             - Discussion
                 - [[Jenna Dixon]] - comment in hypothesis
                 - [[Meredith Noelle]] - why was this paper selected
@@ -754,7 +756,7 @@ but consider - is what is being sent data or programs?
                     - [[Ben Mahala]]'s observation about email and its trasition from decentralized to centralized
                     - new networks like farcaster need to play something other than status games
                     - 
-        - Feb 20: [How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/)
+        - Feb 20: [How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/) | [Discord thread](https://discord.com/channels/692111190851059762/1077033039399493713)
             - [[Ben Mahala]]
                 - started out using rust but went with go, reading the article piqued the interest again
                 - idea of safety parameters in compiler
@@ -784,7 +786,7 @@ but consider - is what is being sent data or programs?
                 - memory safety in multi-process environment
                 - https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b
                 - 
-        - Feb 27: [A Logic-in-Memory Computer ](https://safari.ethz.ch/architecture/fall2020/lib/exe/fetch.php?media=stone_logic_in_memory_1970.pdf)
+        - Feb 27: [A Logic-in-Memory Computer ](https://safari.ethz.ch/architecture/fall2020/lib/exe/fetch.php?media=stone_logic_in_memory_1970.pdf) | [Discord thread](https://discord.com/channels/692111190851059762/1079627476973650032)
             - [[Ben Mahala]]
                 - question and tradeoff - cache and main memory
                 - caches misses
@@ -826,7 +828,8 @@ but consider - is what is being sent data or programs?
                     - innovation study - how many people came up with similar ideas
                 - [[Venkatesh Rao]]
                     - in computing a lot depends on who has access to 
-        - Mar 13: [American Standoff](https://kingshukdas.medium.com/american-standoff-9098536e4aa3)
+        - Marc 6: [Byzantine Empathy by Ken Liu](https://www.lightspeedmagazine.com/fiction/byzantine-empathy/) | [Discord Thread](https://discord.com/channels/692111190851059762/1082334026905423942)
+        - Mar 13: [American Standoff](https://kingshukdas.medium.com/american-standoff-9098536e4aa3) | [Discord thread](https://discord.com/channels/692111190851059762/1084613012272451604)
             - prompt:: [Reaction + interesting ingredients alt axis for thinking about traffic besides order vs. chaos](https://discord.com/channels/692111190851059762/1084613012272451604/1084855169235292261)
             - attendees::
                 - [[Ananth]]
@@ -854,7 +857,7 @@ but consider - is what is being sent data or programs?
                 - [[Jenna Dixon]] observes that some homeless folks in South Africa were providing __ad hoc__ traffic signaling services during some recent large-scale power outages. There's a good question here about how __strongly__ rules/norms should be enforced. When is it okay for a norm to be (soft) broken? BBC From Our Own Correspondent:
                     - [South Africa's Rolling Blackouts](https://www.bbc.co.uk/programmes/m001k0lg)
                 - [[Grigori Milov]] thinks an alternate 2x2 might be rules/norms vs. order/chaos.
-        - [[March 20th, 2023]]: [The surprising ease and effectiveness of AI in a loop](https://interconnected.org/home/2023/03/16/singularity)
+        - March 20: [The surprising ease and effectiveness of AI in a loop](https://interconnected.org/home/2023/03/16/singularity) | Discord thread
             - thread:: https://discord.com/channels/692111190851059762/1087213151361171486
             - prompt:: [In what areas of your life does the AI-in-the-loop approach Webb describes seem useful? In what ways do you think that Webb is overly-optimistic about this approach? Underly-optimistic?](https://discord.com/channels/692111190851059762/1087213151361171486/1087389696537149480)
             - attendees::
@@ -880,10 +883,41 @@ but consider - is what is being sent data or programs?
                 - [[Nathan Acks]] notes that, to make a __Star Trek__ analogy, everyone thinks we're building Data, and really what we're building here is the ship's computer (which none of the crew members would ever mistake as anything other than a tool). Also, there's some real non-code limits to how fast an AI can iterate itself. LLMs are not just code, but also weighted models based on huge data sets. This data has to come from somewhere, and will take time to process (even if the code to do that processing, or then run inferences on that data set, can be improved on). Also, ChatGPT and its ilk are __very__ expensive from a hardware perspective, and improvements in GPUs, etc. are much harder to come by than improvements in code.
                 - [[Anuraj R]] agrees that the hardware aspects of AI are hard to iterate on.
                 - [[Jenna Dixon]] notes that there's a proposal on the server to share prompt recipes. This could be interesting/fun. Jenna wants a simple, obvious toggle for these systems that switches them between "things I know" and "things I don't know". Basically, what data source is the AI drawing from.
-    - Season: Spring
-        - [[April 3rd, 2023]] [CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
+    - **Season: Spring**
+        - March 27: [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712) | [Discord thread](https://discord.com/channels/692111190851059762/1089771264396251236)
+            - thread:: https://discord.com/channels/692111190851059762/1089771264396251236
+            - prompt:: [Considering second-order impacts here, what are the possible practical ways to integrate AI into your work/life?](https://discord.com/channels/692111190851059762/698566364595486720/1089772183850582056)
+            - transcript:: https://otter.ai/u/vgvcjwMPHpVsuj8JDtRwGUcChGs
+            - audio recording:: 
+                - {{[[audio]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F56vEI9fa4f.mp3?alt=media&token=ea2dad1b-9030-438b-8add-28a02aa96e43}}
+            - attendees::
+                - [[Venkatesh Rao]]
+                - [[Anuraj R]] (listen mode)
+                - [[Nathan Acks]]
+                - [[Ananth]]
+                - [[Bryan King]]
+                - [[Jenna Dixon]] (listen mode; responded in call thread)
+                - [[Grigori Milov]]
+                - [[Maier Fenster]]
+                - [[Steven Chung]] (listen mode)
+                - [[Kyle Mathews]]
+            - notes::
+                - We're going to look into AI (or just automated) transcription / note-taking! That would be handy...
+                    - doing a test recording with #[[MEE6]], to pass to otter.ai, possibly to set up a zap or similar #[[jrd]]
+                - [[Bryan King]] observes that all of the LLMs seem to be "deep generalists", but often function in a very surface level, like a particular kinda of Twitter personality. So to Bryan, these models feel very close to human-level. But human-level intelligence may not be the bottle neck for making things happen. AI feels like a "so what?" moment; Bryan really struggles to find a use for the current crop of AI tools. It might be useful as a one-off thing, but is it really useful for big projects? Do AIs produce maintainable systems?
+                - [[Grigori Milov]] agrees with the papers authors that "intelligence" is a slippery concept. It can kind of be anything; almost any one-dimensional definition breaks down, and multi-dimensional definitions become a kind of "I'll know it when I see it" problem. A lot of the discussion right now is thus retrospective: Rather than coming up with forward-looking tests and definitions, people are asking how well it can perform already-defined tasks. How much of GPT-4's performance is just memorization? Grigori thinks the key here is the concept of __mastery__, which suggests that the questions the authors are asking are the wrong ones. How could we learn from a future iteration of this AI? This may require us to learn how to be "interesting" to the LLM...
+                - [[Jenna Dixon]] is in listen-only mode today.
+                - [[Kyle Mathews]] has been playing around a lot with LLMs in the last year. It's pretty hit-or-miss right now; the reliability just isn't there, though it __is__ useful when asking questions that are normally swamped by spam in search. For programming, ChatGPT requires __a lot__ of review. GitHub's CoPilot seems more useful. OpenAI's plugin architecture looks like a real game-changer.
+                - [[Maier Fenster]] has been working on a presentation about how generative AI will impact IP law. Maier sees it as kind of the opposite of the internet; AI is about zeitgeist, while the internet is about specifics. GPT-4 is __very__ good at generating and processing words; this seems like something patent attorneys might use to describe a new invention. ChatGPT as an "explanation engine" seems like it will be a big deal. It seems like __generating__ text is going to become easier, but __understanding__ text (in particular, sorting signal from noise __within__ a document) is going to be harder. ChatGPT is already good enough to write a bad patent.
+                - [[Nathan Acks]] sees GPT-4 as a symbolic manipulator, and is interested in automation.
+                - [[Steven Chung]] is in listen-only mode.
+                - [[Venkatesh Rao]] thinks that this paper actually defines the concept of "general" more reasonably, as "human equivalence". There's a central question here of whether __humans__ are actually "general intelligences", or just __more__ general than other species on Earth. Certainly GPT-4 is __much__ more general than previous LLMs, but it still experiences __a lot__ of hallucinations and still goes on a lot of tangents. Processing the output of GPT-4 seems to be roughly as hard as processing interactions with "the real world". Calculators meaningfully reduce how "smart" people need to be: Now we don't need to know arithmetic (beyond the basic symbols and logic). But GPT-4 doesn't provide this sort of affordance; for example, if you ask for an essay, you still have to edit the whole thing. And editing is often harder than creating. So we're not really meaningfully __reducing__ the amount of intelligence required of humans, and in fact may be __increasing__ the requirements (debugging/editing/etc. is hard!). What happens when people begin using LLMs to substitute for things like StackOverflow? The only way to get around this loss may be to have the model train itself from its own users' __inputs__. But how do you get out of corner cases, where there are few, if any examples to train the AI but the task is meaningfully human-complex?
+                - [[Ananth]] thinks the mathematical reasoning portion of the paper was particularly interesting. The fact that GPT-4 breaks so easily when doing mathematics is potentially telling. But it __is__ good at sketching out answers that require cross-disciplinary knowledge, and it also seems good at Fermi Estimation. Ananth is skeptical that GPT-4 is really "general" yet; non-linear thinking and working memory seem to be real problems. The models __are__ surprisingly creative, and seems to be reasonably good at working within constraints.
+                - [[Anuraj R]] is in listen-only mode.
+                - [[Venkatesh Rao]] wants to continue the discussion in this vein next week. We need a good follow-up reading.
+        - April 3rd: [CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/) | [Discord thread](https://discord.com/channels/692111190851059762/1092257316549693440)
             - https://www.youtube.com/watch?v=trID0pJXMEw
-        - [[April 10th, 2023]] [Noosphere, a protocol for thought](https://subconscious.substack.com/p/noosphere-a-protocol-for-thought)
+        - April 10th: [Noosphere, a protocol for thought](https://subconscious.substack.com/p/noosphere-a-protocol-for-thought) | [Discord thread](https://discord.com/channels/692111190851059762/1094986765896519710)
             - https://www.youtube.com/watch?v=CA5VIMCz730
             - **Attendees**
                 - [[Ananth]]
@@ -915,7 +949,7 @@ but consider - is what is being sent data or programs?
                 - [[Venkatesh Rao]] notes that there are some frustrating trade-offs in current “second brain” tools: practicality and performance vs. ability to interlink. Noosphere seems to be trying to “have its cake and eat it too” in this regard.
                 - [[Maier Fenster]] still doesn’t see the excitement here.
                 - [[Anuraj R]] notes that you need a critical mass of people to make something interesting. Twitter is falling apart, but it’s still a better social discover tool than Farcaster. And Noosphere doesn’t even really exist.
-        - [[April 17th, 2023]] [Everyone Will Have Their Own AI](https://subconscious.substack.com/p/everyone-will-have-their-own-ai)
+        - April 17th: [Everyone Will Have Their Own AI](https://subconscious.substack.com/p/everyone-will-have-their-own-ai) | [Discord thread](https://discord.com/channels/692111190851059762/1097266277233479830)
             - https://www.youtube.com/watch?v=zFTfh3W0Kx0
             - **Attendees**
                 - [[Nathan Acks]]
@@ -955,7 +989,7 @@ but consider - is what is being sent data or programs?
                     - Part of the idea of Subconscious is that people can follow both other people and AIs. Follows get some level of access to your notes, and can start to riff off of them.
                     - Gordon doesn’t think that AIs need to be particularly smart to be effective riffing partners.
                     - Subconscious will initially be mobile-first (and probably iOS-first), with a web-app to follow. The beta will probably launch within the next 6 months.
-        - [[April 24th, 2023]] [Web3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
+        - April 24th: [Web3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81) | [Discord thread](https://discord.com/channels/692111190851059762/1099912263483269160)
             - https://www.youtube.com/watch?v=5PwHcTH-px4
             - **Attendees**
                 - [[Ananth]]
@@ -987,7 +1021,7 @@ but consider - is what is being sent data or programs?
                 - [[Venkatesh Rao]] thinks that the interaction here is that culture leads to changes in the protocol, which then further cements given cultural trends.
                 - [[Venkatesh Rao]] wonders if “the medium is the message” applies to protocols as a whole, or just individual apps. The experience of Mastodon seems to suggest that protocols __are__ a medium.
                 - [[Nathan Acks]] agrees, in the sense that protocols will evolve to make different moderation styles easier or harder.
-        - [[May 1st, 2023]] [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
+        - May 1st: [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms) | [Discord thread](https://discord.com/channels/692111190851059762/1102571590643892354)
             - https://www.youtube.com/watch?v=j277KqYFAqA
             - **Attendees**
                 - [[Ananth]]
@@ -1018,7 +1052,8 @@ but consider - is what is being sent data or programs?
                 - [[Nathan Acks]] thinks that we’re all circling around the idea of “knowledge” as “do you have an accurate map of the world”? And __how complex__ are these maps?
                 - [[Ben Mahala]] worries that there will always be adversarial starting conditions that make an LLM look like it doesn’t “know” something.
                 - [[Nathan Acks]] points out that an adversarial starting condition for human’s innate understanding of mechanics is our instinct to flinch when a pendulum that was released in front of us swings back around.
-        - [[May 8th, 2023]] [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+        - May 15: [AI memes are going mainstream](https://goldsguide.com/ai-memes-by-balenciaga-how-to/) | [Discord thread](https://discord.com/channels/692111190851059762/1107678582903410719)
+        - May 8th:  [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) | [Discord thread](https://discord.com/channels/692111190851059762/1105145425339625532)
             - **Attendees**
                 - [[Ananth]]
                 - [[Anuraj R]]
@@ -1041,16 +1076,16 @@ but consider - is what is being sent data or programs?
                 - [[Maier Fenster]] notes that a “moat” isn’t just technology: It’s also branding. Is anyone actually interested in solving the problem of a __distributed__ LLM. Where’s the LLM that runs on both phones and computers and refrigerators.
                 - [[Nathan Acks]] thinks that this is similar to Beowulf clusters. Perhaps there’s a future where there’s an “LLM module” that can be dropped into home automation systems. This turns “home automation” into something more like a “home cloud”.
                 - [[Ananth]] observes that such “home LLM modules” could go a long way to making tools like Siri more useful, as well as solving the “shitty internet” problem.
-        - [[May 22nd, 2023]] [Inside Datadog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
+        - May 22nd: [Inside Datadog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage) | [Discord thread](https://discord.com/channels/692111190851059762/1109941786564112424)
             - https://www.youtube.com/watch?v=FBspmMb-GlI
-        - [[May 29th, 2023]] [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+        - May 29th: [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) | [Discord thread](https://discord.com/channels/692111190851059762/1112565674330570833)
             - https://www.youtube.com/watch?v=zkSq6Nrc7E0
-        - [[June 5th, 2023]] [ZK Machine Learning]
-        - [[June 12th, 2023]] [Computers that live two seconds in the future](https://interconnected.org/home/2023/06/09/future)
+        - Jun 5: [ZK Machine Learning](https://0xparc.org/blog/zk-mnist) | [Discord thread](https://discord.com/channels/692111190851059762/1115152551764045944)
+        - June 12th:  [Computers that live two seconds in the future](https://interconnected.org/home/2023/06/09/future) | [Discord thread](https://discord.com/channels/692111190851059762/1117677471249211433) | [Youtube](https://www.youtube.com/watch?v=hUAJrcneBqc)
             - https://www.youtube.com/watch?v=hUAJrcneBqc
-        - [[June 19th, 2023]] [Latency in Distributed Systems](https://en.wikipedia.org/wiki/Latency_%28engineering%29)
+        - June 19th:  [Latency in Distributed Systems](https://en.wikipedia.org/wiki/Latency_%28engineering%29) | [Discord thread](https://discord.com/channels/692111190851059762/1120242315282362468) | [Youtube](https://www.youtube.com/watch?v=Qmvk3AkTPcc)
             - https://www.youtube.com/watch?v=Qmvk3AkTPcc
-        - [[June 26th, 2023]] [Society's Technical Debt and Software's Gutenberg Moment](https://skventures.substack.com/p/societys-technical-debt-and-softwares)
+        - June 26th: [Society's Technical Debt and Software's Gutenberg Moment](https://skventures.substack.com/p/societys-technical-debt-and-softwares) | [Discord thread](https://discord.com/channels/692111190851059762/1122686297430052924) | [Youtube](https://www.youtube.com/watch?v=f6ia4N3Agqs)
             - https://www.youtube.com/watch?v=f6ia4N3Agqs
             - **Attendees**
                 - [[Anuraj R]]
@@ -1072,53 +1107,8 @@ but consider - is what is being sent data or programs?
                 - [[Anuraj R]] expands on Ananth’s argument: Standards make things __expensive__ in software. Things need to be certified, and then can’t be changed... Even if better solutions come along. The article’s arguments work for __simple__ software, but not anything of meaningful complexity.
                 - [[Ben Mahala]] notes that many of the systems that this article classifies as “rules-based” are actually nothing of the sort — they’re an amalgam of rules and heuristics and social expectations and the current cultural moment. So, ChatGPT can’t replace these, but it’s also a misunderstanding to think that it __does__, or __can__... It’s basically Stack Overflow, a way of answering the question “am I on the right path?” But even if LLMs __do__ make coding much easier, there’s still the question of the __social__ interface for code. The transition from writing in assembly and writing in “code” was big, but it wasn’t __exponential__.
                 - [[Venkatesh Rao]] thinks that this article may be right for the wrong reasons.
-    - Season: Spring
-        - March 27: [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712)
-            - thread:: https://discord.com/channels/692111190851059762/1089771264396251236
-            - prompt:: [Considering second-order impacts here, what are the possible practical ways to integrate AI into your work/life?](https://discord.com/channels/692111190851059762/698566364595486720/1089772183850582056)
-            - transcript:: https://otter.ai/u/vgvcjwMPHpVsuj8JDtRwGUcChGs
-            - audio recording:: 
-                - {{[[audio]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F56vEI9fa4f.mp3?alt=media&token=ea2dad1b-9030-438b-8add-28a02aa96e43}}
-            - attendees::
-                - [[Venkatesh Rao]]
-                - [[Anuraj R]] (listen mode)
-                - [[Nathan Acks]]
-                - [[Ananth]]
-                - [[Bryan King]]
-                - [[Jenna Dixon]] (listen mode; responded in call thread)
-                - [[Grigori Milov]]
-                - [[Maier Fenster]]
-                - [[Steven Chung]] (listen mode)
-                - [[Kyle Mathews]]
-            - notes::
-                - We're going to look into AI (or just automated) transcription / note-taking! That would be handy...
-                    - doing a test recording with #[[MEE6]], to pass to otter.ai, possibly to set up a zap or similar #[[jrd]]
-                - [[Bryan King]] observes that all of the LLMs seem to be "deep generalists", but often function in a very surface level, like a particular kinda of Twitter personality. So to Bryan, these models feel very close to human-level. But human-level intelligence may not be the bottle neck for making things happen. AI feels like a "so what?" moment; Bryan really struggles to find a use for the current crop of AI tools. It might be useful as a one-off thing, but is it really useful for big projects? Do AIs produce maintainable systems?
-                - [[Grigori Milov]] agrees with the papers authors that "intelligence" is a slippery concept. It can kind of be anything; almost any one-dimensional definition breaks down, and multi-dimensional definitions become a kind of "I'll know it when I see it" problem. A lot of the discussion right now is thus retrospective: Rather than coming up with forward-looking tests and definitions, people are asking how well it can perform already-defined tasks. How much of GPT-4's performance is just memorization? Grigori thinks the key here is the concept of __mastery__, which suggests that the questions the authors are asking are the wrong ones. How could we learn from a future iteration of this AI? This may require us to learn how to be "interesting" to the LLM...
-                - [[Jenna Dixon]] is in listen-only mode today.
-                - [[Kyle Mathews]] has been playing around a lot with LLMs in the last year. It's pretty hit-or-miss right now; the reliability just isn't there, though it __is__ useful when asking questions that are normally swamped by spam in search. For programming, ChatGPT requires __a lot__ of review. GitHub's CoPilot seems more useful. OpenAI's plugin architecture looks like a real game-changer.
-                - [[Maier Fenster]] has been working on a presentation about how generative AI will impact IP law. Maier sees it as kind of the opposite of the internet; AI is about zeitgeist, while the internet is about specifics. GPT-4 is __very__ good at generating and processing words; this seems like something patent attorneys might use to describe a new invention. ChatGPT as an "explanation engine" seems like it will be a big deal. It seems like __generating__ text is going to become easier, but __understanding__ text (in particular, sorting signal from noise __within__ a document) is going to be harder. ChatGPT is already good enough to write a bad patent.
-                - [[Nathan Acks]] sees GPT-4 as a symbolic manipulator, and is interested in automation.
-                - [[Steven Chung]] is in listen-only mode.
-                - [[Venkatesh Rao]] thinks that this paper actually defines the concept of "general" more reasonably, as "human equivalence". There's a central question here of whether __humans__ are actually "general intelligences", or just __more__ general than other species on Earth. Certainly GPT-4 is __much__ more general than previous LLMs, but it still experiences __a lot__ of hallucinations and still goes on a lot of tangents. Processing the output of GPT-4 seems to be roughly as hard as processing interactions with "the real world". Calculators meaningfully reduce how "smart" people need to be: Now we don't need to know arithmetic (beyond the basic symbols and logic). But GPT-4 doesn't provide this sort of affordance; for example, if you ask for an essay, you still have to edit the whole thing. And editing is often harder than creating. So we're not really meaningfully __reducing__ the amount of intelligence required of humans, and in fact may be __increasing__ the requirements (debugging/editing/etc. is hard!). What happens when people begin using LLMs to substitute for things like StackOverflow? The only way to get around this loss may be to have the model train itself from its own users' __inputs__. But how do you get out of corner cases, where there are few, if any examples to train the AI but the task is meaningfully human-complex?
-                - [[Ananth]] thinks the mathematical reasoning portion of the paper was particularly interesting. The fact that GPT-4 breaks so easily when doing mathematics is potentially telling. But it __is__ good at sketching out answers that require cross-disciplinary knowledge, and it also seems good at Fermi Estimation. Ananth is skeptical that GPT-4 is really "general" yet; non-linear thinking and working memory seem to be real problems. The models __are__ surprisingly creative, and seems to be reasonably good at working within constraints.
-                - [[Anuraj R]] is in listen-only mode.
-                - [[Venkatesh Rao]] wants to continue the discussion in this vein next week. We need a good follow-up reading.
-        - April 3: ?? did we not have a call?
-        - April 10: Your Brain on IPFS — can’t find link
-        - April 17: [Everyone will have their own AI](https://subconscious.substack.com/p/everyone-will-have-their-own-ai)
-        - April 24: [Web 3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
-        - May 1: [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
-        - May 8: [Google: We have no most](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
-        - May 15: [AI memes are going mainstream](https://goldsguide.com/ai-memes-by-balenciaga-how-to/)
-        - May 22: [Inside Datadog’s 5m Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
-        - May 29: [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
-        - Jun 5: [ZK Machine Learning](https://0xparc.org/blog/zk-mnist)
-        - June 12: [Computers that live two seconds in the future](https://interconnected.org/home/2023/06/09/future)
-        - June 19: [Latency](https://en.m.wikipedia.org/wiki/Latency_(engineering)) — anyone know how to escape the inner parentheses?
-        - June 26: [Society's Technical Debt and Software's Gutenberg Moment](https://skventures.substack.com/p/societys-technical-debt-and-softwares)
-    - Season: Summer - [Increment Magazine](https://increment.com/issues/)
-        - [[July 3rd, 2023]] Retrospective and cycle planning discussion
+    - **Season: Summer**
+        - July 3rd: Retrospective and cycle planning discussion | [Discord thread](https://discord.com/channels/692111190851059762/1125297398831386654) | [Youtube](https://www.youtube.com/watch?v=eBDUNbmtYy0)
             - **Attendees**
                 - [[Venkatesh Rao]]
                 - [[Ananth]]
@@ -1143,36 +1133,44 @@ but consider - is what is being sent data or programs?
                 - [[Venkatesh Rao]] wants to stay more technical for the next cycle. It may be interesting to do readings from a single source: [Increment Magazine](https://increment.com/issues/), from Stripe.
                 - [[Jenna Dixon]] thinks that maybe we should use an entire issue, as many articles are very short.
                 - [[Venkatesh Rao]] suggests that we pick a single core article, but then let people explore articles beyond this.
-        - [[July 10th, 2023]] [Issue 19: Planning](https://increment.com/planning/)
+        - July 10th: [Increment: Planning](https://increment.com/planning/) | [Discord thread](https://discord.com/channels/692111190851059762/1127809849841958983) | [Youtube](https://www.youtube.com/watch?v=fQ070EvN9U4)
             - Core readings:
                 - [Software development as a wicked problem](https://increment.com/planning/software-development-as-a-wicked-problem/)
                 - [Planning for change with RFCs](https://increment.com/planning/planning-with-requests-for-comments/)
-        - [[July 17th, 2023]] [Issue 14: APIs](https://increment.com/apis/)
-            - Core reading: [The land before modern APIs](https://increment.com/apis/land-before-modern-apis/)
-        - [[July 24th, 2023]]
-        - [[July 31st, 2023]]
-        - [[August 7th, 2023]]
-        - [[August 14th, 2023]]
-        - [[August 21st, 2023]]
-        - [[August 28th, 2023]]
-        - [[September 4th, 2023]]
-        - [[September 11th, 2023]]
-        - [[September 18th, 2023]]
-        - [[September 25th, 2023]]
-    - Season: Summer 
-        - July 3: Review/planning session
-        - July 10: [Software development as a wicked problem](https://increment.com/planning/software-development-as-a-wicked-problem/) — Jenna pick
-        - July 17: [Before modern APIs](https://increment.com/apis/land-before-modern-apis/) - Nathan pick
-        - July 24:[Planning for change with RFCs](https://increment.com/planning/planning-with-requests-for-comments/) — Ananth pick
-        - July 31:
-        - Aug 7:
-        - Aug 14: [Richard I. Cook: A Life in Many Acts](https://www.adaptivecapacitylabs.com/blog/2022/09/12/richard-cook-a-life-in-many-acts/)
-            - 
-        - Aug 21:
-        - Aug 28:
-        - Sept 4:
-        - Sept 11:
-        - Sept 18:
-        - Sept 25:
-    - Season: Winter
-        - Oct 2: Review/planning session
+        - July 17: [The Story of Erlang](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of) | [Discord Thread](https://discord.com/channels/692111190851059762/1130382329790083102) | [Youtube](https://www.youtube.com/watch?v=SA8yVK5FD4k)
+        - July 24: [Increment: APIs](https://increment.com/planning/planning-with-requests-for-comments/) | [Discord thread](https://discord.com/channels/692111190851059762/1132899106394738778) | [Youtube](https://www.youtube.com/watch?v=KCt8_KRpmoQ)
+        - July 31: [Hardware lottery](https://discord.com/channels/692111190851059762/1135588450561704007) | [Discord thread](https://discord.com/channels/692111190851059762/1135588450561704007)
+        - Aug 7:[ Increment: Reliability](https://increment.com/reliability/) | [Discord thread](https://discord.com/channels/692111190851059762/1137960417709277184)
+        - Aug 14: [Richard I. Cook: A Life in Many Acts](https://www.adaptivecapacitylabs.com/blog/2022/09/12/richard-cook-a-life-in-many-acts/) | [Discord thread](https://discord.com/channels/692111190851059762/1140512897005531217) | [Youtube](https://www.youtube.com/watch?v=n5C7tW23a4Q)
+        - Aug 21: [Earth as a Distributed System](https://en.m.wikipedia.org/wiki/Earth_system_science) | [Discord thread](https://discord.com/channels/692111190851059762/1143061696089444452)
+        - Aug 28: [Donella Meadows biography](https://geoffmarlow.substack.com/p/influential-thinkers-donella-meadows) | [Discord thread](https://discord.com/channels/692111190851059762/1145734770605695089) | [Youtube](https://www.youtube.com/watch?v=n47mN-Z7v8A)
+        - Sept 4: [ACM Biography, Tony Hoare](https://amturing.acm.org/award_winners/hoare_4622167.cfm) | [Discord thread](https://discord.com/channels/692111190851059762/1148190654309085215)
+        - Sept 11: [Architectural history of the network](https://varnelis.net/preliminary-findings-toward-an-architectural-history-of-the-network/) | [Discord thread](https://discord.com/channels/692111190851059762/1150717420911202354)
+        - Sept 18: [Traffic lights](https://www.smithsonianmag.com/innovation/brief-history-stoplight-180968734/) | [Discord thread](https://discord.com/channels/692111190851059762/1153337196993052702)
+        - Sept 25: [The Secret to Nvidia's Success](https://spectrum.ieee.org/nvidia-gpu) | [Discord thread](https://discord.com/channels/692111190851059762/1155746145692291163)
+    - **Season: Fall**
+        - Oct 2: [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) | [Discord thread](https://discord.com/channels/692111190851059762/1158217137006059544)
+        - Oct 9: [AI Reveals New Possibilities in Matrix Multiplication](https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/)| [Discord thread](https://discord.com/channels/692111190851059762/1160801525799604407)
+        - Oct 16: [The Dawn of LLMs](https://arxiv.org/abs/2309.17421) | [Discord thread](https://discord.com/channels/692111190851059762/1163334605609369610)
+        - Oct 23: [Enshittification](https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first) | [Discord thread](https://discord.com/channels/692111190851059762/1165858514443444295)
+        - Oct 30: [Living in Cars](https://www.theatlantic.com/ideas/archive/2023/08/california-vehicular-homelessness-car-dwelling-los-angeles/674901/) | [DIscord thread](https://discord.com/channels/692111190851059762/1168347706494820422)
+        - Nov 6: [Challenges with Distributed Systems](https://aws.amazon.com/builders-library/challenges-with-distributed-systems/) | [Discord thread](https://discord.com/channels/692111190851059762/1170976922105303083)
+        - Nov 13: [Postmorrtem on Cloudflare](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/) | [Discord thread](https://discord.com/channels/692111190851059762/1173654874106384466)
+        - Nov 20: [OpenAI craziness](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)| [Discord thread](https://discord.com/channels/692111190851059762/1176187375450325013) | [Youtube](https://www.youtube.com/watch?v=XR-0jnfpvEA&t=11s)
+        - Nov 27: [ Devconnect Trip Report](https://mirror.xyz/mapachurro.eth/vQXF6M6nbNNGTIxOj0evYo1akn3KJafovTZx-aLiI_Q) | [Discord thread](https://discord.com/channels/692111190851059762/1178422592256888833) | [Youtube](https://www.youtube.com/live/_r249pznCOg?si=wkS0JBZgvFlebtNF)
+        - Dec 4: [Zora Magic machine](https://zora.co/writings/Magic-Machine) | [Discord thread](https://discord.com/channels/692111190851059762/1181135397464588319) | [Youtube](https://www.youtube.com/watch?v=kbai9mSlISY) -- Kickoff of 2023/24 Crytpo explorations track
+        - Dec 11: 2022-23 Review, Part 1 | Discord thread | Youtube
+        - Dec 18: 2022-23 Review, Part 2 | Discord thread | Youtube
+        - Dec 25: No meeting, Christmas day
+- **2024 Readings**
+    - **Season: Winter**
+        - Jan 1: 2024 planning and housekeeping
+            - Review old [[Blockchain Ops Roadmap]] page from 2021/22 winter, including the **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox) spring session just before we generalized this to be DSS
+        - Jan 8: Dec 11: Optimism RPGF, [Original idea](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c), [RPGF3 details](https://optimism.mirror.xyz/oVnEz7LrfeOTC7H6xCXb5dMZ8Rc4dSkD2KfgG5W9cCw) 
+        - Jan 15:
+        - Jan 22:
+        - Jan 29:
+        - Feb 5:
+        - Feb 12:
+        - Feb 19:
+        - Feb 26:
