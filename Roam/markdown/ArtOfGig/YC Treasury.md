@@ -21,7 +21,7 @@
     - **YC Gnosis Safe**
         - **0xbD3A86bbb085FFE1373D6dedAc2983126566809b**
     - **YC Metamask**
-        - 
+        - **0x3B894393fbD9c879dc8d16d4D18277831bFf9fa1**
 - [Gnosis Safe address](https://gnosis-safe.io/app/#/safes/0xbD3A86bbb085FFE1373D6dedAc2983126566809b/balances): This will open as read-only unless you connect with a wallet with signing authority, in which case you'll be able to initiate transactions and admin actions.
 - [Gnosis Safe management best practices](https://help.gnosis-safe.io/en/articles/4772567-what-safe-setup-should-i-use)
 - [Using Gnosis with dApps](https://help.gnosis-safe.io/en/articles/4356253-walletconnect-safe-app)
