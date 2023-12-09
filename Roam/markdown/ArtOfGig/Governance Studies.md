@@ -167,6 +167,38 @@ comparison of jakarta-bandung and orlando-miami:
             - Grigori 
                 - Have to look at how budget cycle works - when they create a megaproject 
                 - Amount of money will get recycled every budget cycle 
+        - [High speed rail in China](https://discord.com/channels/692111190851059762/698566364595486720/1182724298151051324)
+            - Sachin
+                - An anonymous engineer in the industry said corruption relating to pile length was “almost standard practice”, implying there had been similar situations involving other companies’ work on pile foundations in the past, and that the issue was not unique to this project.
+                - The China Construction Eighth Engineering Division, which has more than 50,000 employees and six major branches, is one of the most profitable and experienced companies in the sector. It earned net profits of 12.25 billion yuan (US$1.7 billion) last year, making it the second most profitable subsidiary of China State Construction Engineering Corporation. 
+                - ### **[🔗](https://archive.is/o/kZcIM/https://www.scmp.com/economy/economic-indicators/article/3226660/china-speed-infrastructure-projects-shore-growth-amid-call-determine-scale-debt)**
+                - Speed of construction - it only started in 1997, but has the most expansive rail system in the world at the moment. does that align with the authoritarian places build trains faster? 
+                - corruption - probably happens but hard to find out and prosecute just because there are so many people just like there are so many data points
+                - lot of promised demand for construction and materials - have seen this in India as well 
+                - how much of it is a factor of density and number of people 
+                - There is a lack of good propaganda? 
+            - Venkat 
+                - Technological changes along with authoritarian vs democratic 
+                - Technology has advanced a lot in rail construction 
+                - Since its so much more expensive - may be it requires an authoritarian government to build it 
+                - Railway budget - usually a thing in countries with high densitiy
+                - What are countries that have Railway budgets? 
+                - relationship of physical scale and population density - all the network benefits exist only in large population density 
+                - demographic variables determine how good a country is 
+                - budgets are still not believable - but could argue from first principles that the costs are less 
+                - upside benefit is also murky -market forces cannot price this in 
+                - small projects - free market numbers are believable 
+                - other extreme of natural scale - its hard to say 
+                - Hydraulic empires - ancient civilizations that grew around river valleys. Egypt - nile flooding 
+                - Railways are Hydraullic empires - movement of people 
+            - Grigori
+                - in 2021, the network carried 2 billion people? this is what makes the whole project possible because there is always demand for it 
+                - In countries, there is a tendency to focus on some new technology for a while instead of investing in something existing - because it is a new charismatic project 
+                - its impractical to move them through air, it is impractical now - kind of need the rail network no matter what 
+                - you need a really large network to reap all the benefits. Its possible to export it now to other places 
+                - They will make more money from scale now 
+                - existence of mega cities in china and that is a reason for such big rail networks 
+                - Labor market is another interesting lens - what career opportunities do you have around this economy 
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
