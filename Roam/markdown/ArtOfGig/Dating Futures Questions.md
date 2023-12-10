@@ -11,14 +11,14 @@
     - https://www.youtube.com/watch?v=DLwskDkDPUE – the gamification of life, the gamification of all sociality, including dating
         - what's our fringey take on that black mirror episode – "Nosedive"?
             - https://www.theverge.com/2016/10/24/13379204/black-mirror-season-3-episode-1-nosedive-recap
-    - if you quote denis de rougemont, you might win the hearts and minds of america.
     - Speaking of dating futures, how about a text-based game set in a dystopian future where you lover has been kidnapped by the serpent queen and you've gone undercover as her artisan.
+    - if you quote denis de rougemont, you might win the hearts and minds of america.
     - [10:14 PM]
     - Miranda July's irl texting app: https://www.youtube.com/watch?v=iz13HMsvb6o
-    - Unauthorized SFMOMA: https://radicalnetworks.org/archives/2017/participants/unauthorized-sfmoma-show/
     - and mention the evolution of romance as a historical formation
-    - OkCupid Blog: https://theblog.okcupid.com/love-in-the-time-of-corona-massive-spikes-in-matching-messaging-and-virtual-dates-around-the-ec12c49eab86
+    - Unauthorized SFMOMA: https://radicalnetworks.org/archives/2017/participants/unauthorized-sfmoma-show/
     - [10:14 PM]
+    - OkCupid Blog: https://theblog.okcupid.com/love-in-the-time-of-corona-massive-spikes-in-matching-messaging-and-virtual-dates-around-the-ec12c49eab86
     - 
 - **Need to check out**
     - https://entitledopinions.stanford.edu/marisa-galvez-troubadour-poetry
