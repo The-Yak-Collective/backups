@@ -491,12 +491,12 @@ but consider - is what is being sent data or programs?
                     - fight came to end when Internet came around
                     - top difference - radio is really vocal and audio and limited to neighberhood or extended neighberhood
                 - [[Jenna Dixon]]
-                    - it is all about elite capture - the communcations platform
+                    - it is about elite capture - the communications platform
                     - fighting godzilla and little people running around on platforms
                     - apple ecosystem - bdfl or trapped inside a crappy dictator system
                     - parables of... 
                     - yak-collective as airport
-                    - solar punks
+                    - solarpunk aspirations
                 - [[Shreeda Segan]]
                     - don't devalue small scale efforts
                     - top-difference difficult to do small scale efforts
@@ -1139,7 +1139,7 @@ but consider - is what is being sent data or programs?
                 - [Planning for change with RFCs](https://increment.com/planning/planning-with-requests-for-comments/)
         - July 17: [The Story of Erlang](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of) | [Discord Thread](https://discord.com/channels/692111190851059762/1130382329790083102) | [Youtube](https://www.youtube.com/watch?v=SA8yVK5FD4k)
         - July 24: [Increment: APIs](https://increment.com/planning/planning-with-requests-for-comments/) | [Discord thread](https://discord.com/channels/692111190851059762/1132899106394738778) | [Youtube](https://www.youtube.com/watch?v=KCt8_KRpmoQ)
-        - July 31: [Hardware lottery](https://discord.com/channels/692111190851059762/1135588450561704007) | [Discord thread](https://discord.com/channels/692111190851059762/1135588450561704007)
+        - July 31: [Hardware lottery](https://arxiv.org/abs/2009.06489) | [Discord thread](https://discord.com/channels/692111190851059762/1135588450561704007)
         - Aug 7:[ Increment: Reliability](https://increment.com/reliability/) | [Discord thread](https://discord.com/channels/692111190851059762/1137960417709277184)
         - Aug 14: [Richard I. Cook: A Life in Many Acts](https://www.adaptivecapacitylabs.com/blog/2022/09/12/richard-cook-a-life-in-many-acts/) | [Discord thread](https://discord.com/channels/692111190851059762/1140512897005531217) | [Youtube](https://www.youtube.com/watch?v=n5C7tW23a4Q)
         - Aug 21: [Earth as a Distributed System](https://en.m.wikipedia.org/wiki/Earth_system_science) | [Discord thread](https://discord.com/channels/692111190851059762/1143061696089444452)
@@ -1150,19 +1150,29 @@ but consider - is what is being sent data or programs?
         - Sept 25: [The Secret to Nvidia's Success](https://spectrum.ieee.org/nvidia-gpu) | [Discord thread](https://discord.com/channels/692111190851059762/1155746145692291163)
     - **Season: Fall**
         - Oct 2: [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) | [Discord thread](https://discord.com/channels/692111190851059762/1158217137006059544)
-        - Oct 9: [AI Reveals New Possibilities in Matrix Multiplication](https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/)| [Discord thread](https://discord.com/channels/692111190851059762/1160801525799604407)
+        - Oct 9: [AI Reveals New Possibilities in Matrix Multiplication](https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/) | [Discord thread](https://discord.com/channels/692111190851059762/1160801525799604407)
         - Oct 16: [The Dawn of LLMs](https://arxiv.org/abs/2309.17421) | [Discord thread](https://discord.com/channels/692111190851059762/1163334605609369610)
         - Oct 23: [Enshittification](https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first) | [Discord thread](https://discord.com/channels/692111190851059762/1165858514443444295)
         - Oct 30: [Living in Cars](https://www.theatlantic.com/ideas/archive/2023/08/california-vehicular-homelessness-car-dwelling-los-angeles/674901/) | [DIscord thread](https://discord.com/channels/692111190851059762/1168347706494820422)
         - Nov 6: [Challenges with Distributed Systems](https://aws.amazon.com/builders-library/challenges-with-distributed-systems/) | [Discord thread](https://discord.com/channels/692111190851059762/1170976922105303083)
-        - Nov 13: [Postmorrtem on Cloudflare](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/) | [Discord thread](https://discord.com/channels/692111190851059762/1173654874106384466)
+        - Nov 13: [Postmortem on Cloudflare](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/) | [Discord thread](https://discord.com/channels/692111190851059762/1173654874106384466)
         - Nov 20: [OpenAI craziness](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)| [Discord thread](https://discord.com/channels/692111190851059762/1176187375450325013) | [Youtube](https://www.youtube.com/watch?v=XR-0jnfpvEA&t=11s)
         - Nov 27: [ Devconnect Trip Report](https://mirror.xyz/mapachurro.eth/vQXF6M6nbNNGTIxOj0evYo1akn3KJafovTZx-aLiI_Q) | [Discord thread](https://discord.com/channels/692111190851059762/1178422592256888833) | [Youtube](https://www.youtube.com/live/_r249pznCOg?si=wkS0JBZgvFlebtNF)
         - Dec 4: [Zora Magic machine](https://zora.co/writings/Magic-Machine) | [Discord thread](https://discord.com/channels/692111190851059762/1181135397464588319) | [Youtube](https://www.youtube.com/watch?v=kbai9mSlISY) -- Kickoff of 2023/24 Crytpo explorations track
         - **Dec 11: 2022-23 Retrospective, Part 1 **| Discord thread | Youtube
             - For the next 2 weeks DSS sessions, we will survey the readings from the last 18 months (starting summer 2022) and do a round of sensemaking, mapping, and perhaps rescoping/redefinition. For tomorrow (Dec 11), the goal is to simply spend an hour re-familiarizing ourselves with everything we've read since the start of this group, identifying themes, key concepts, concept-clusters, lighthouse readings etc. As a sort of focusing challenge, the goal will be to come up with the most conceptually coherent 2-sentence scope and definition of "distributed systems" together. We'll each try to make up one definition each, then talk about how to elegantly synthesize it. I'm reasonably happy with the name here, but changing the name of the group is on the table if people feel that either the scope  and contents are incoherent, or that the name doesn't accurately reflect it. I'll post more precise prompt in the session thread. Here's the cleaned up Roam page with all the readings, links to threads etc.
             - **Prompt 1: **Lighthouse readings (two) -- just list them here (15 min, 5 min share)
-            - **Prompt 2:** [[Key Concepts of Distributed Systems]] -- Add them to this page in alphabetical order (15 min, 5 min share a couple)
+                - [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/) ([Roam page](((JO1e3lGEI)))) #[[Nathan Acks]] /+1 #[[jrd]]
+                - [Web3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81) ([Roam page](((q0RdZll0f)))) #[[Nathan Acks]]
+                - Time in distributed systems - Venkat
+                - [Junkspace](https://maurann.com/assets/readings/koolhaas-rem_junkspace.pdf) - Venkat 
+                - [Hardware Lottery](https://arxiv.org/abs/2009.06489) Ananth
+                - Junkspace - Sachin 
+                - [Byzantine Empathy by Ken Liu](https://www.lightspeedmagazine.com/fiction/byzantine-empathy/) - Sachin /+1 #[[jrd]]
+                - [Enshittification](https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first) - Grigori /+1 #[[jrd]]
+                - AI in a Loop - Grigori / +1 Ananth
+                - [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf) #[[jrd]]
+            - **Prompt 2:** [[Key Concepts of Distributed Systems]] -- Add them to this page with your name next to any point you note (15 min, 5 min share a couple)
             - **Prompt 3:** [[Definition and Scope of Distributed Systems]] -- Add them to this page (10 min, share for 10 min)
         - **Dec 18: 2022-23 Review, Part **2 | Discord thread | Youtube
         - Dec 25: No meeting, Christmas day

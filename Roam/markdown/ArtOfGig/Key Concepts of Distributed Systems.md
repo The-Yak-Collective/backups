@@ -1,0 +1,75 @@
+- anything relating to #[[time]] - #[[jrd]] / +1 Ananth
+    - Aug 15: Discussion of [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
+    - June 12th:  [Computers that live two seconds in the future](https://interconnected.org/home/2023/06/09/future) | [Discord thread](https://discord.com/channels/692111190851059762/1117677471249211433) | [Youtube](https://www.youtube.com/watch?v=hUAJrcneBqc)
+    - June 19th:  [Latency in Distributed Systems](https://en.wikipedia.org/wiki/Latency_%28engineering%29) | [Discord thread](https://discord.com/channels/692111190851059762/1120242315282362468) | [Youtube](https://www.youtube.com/watch?v=Qmvk3AkTPcc)
+    - Aug 29: [Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
+    - 
+- Imperfect knowledge/trust #[[Nathan Acks]]
+    - Aug 29: [Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
+    - April 24th: [Web3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81) | [Discord thread](https://discord.com/channels/692111190851059762/1099912263483269160)
+    - Feb 13: [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) | [Discord thread](https://discord.com/channels/692111190851059762/1074515181897519144)
+    - All of the ZK readings fall under here in some sense (how do you prove something in a low-trust environment?) +1 venkat
+- attention is all you need  (sachin)
+- social software and a group is its own enemy ([from here](https://web.archive.org/web/20040415062627/http://shirky.com/writings/group_enemy.html)) sachin
+- "Perversely, the more educated you are, and the more of the map you know, the worse this effect can be, because you have more to unsee (eg. in [fiction](/story-of-your-life)). One must always maintain a certain contempt for [words](/language) & [spooks](https://en.wikipedia.org/wiki/Max_Stirner#Philosophy)." - Seeing and Unseeing
+- #[[understory]] and #[[overstory]] as useful distinction #[[jrd]]
+    - ((X-37tY9se))  
+- Junkspace -venkat /+1 sachin
+- enshittification - venkat  /+1 #[[jrd]] / +1 Ananth
+    - Oct 23: [Enshittification](https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first) | [Discord thread](https://discord.com/channels/692111190851059762/1165858514443444295)
+- ETTO principle - venkat /+1 #[[jrd]] / +1 Ananth/+1 sachin
+    - Sept 26: [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf)
+- #[[failure modes]] #[[jrd]] +1 venkat
+    - the case studies like data dog were very useful in pointing to a sort of “distributed systems mindset” … a mix of infosec/red team mindset plus something more -venkat 
+    - 
+- latency generally -venkat /+1 #[[Nathan Acks]]
+    - computers that live 2s in the future reading connects AI to rest via a time angle
+- #[[signalling]] #[[jrd]] /+1 #[[Nathan Acks]]
+    - Sept 18: [Traffic lights](https://www.smithsonianmag.com/innovation/brief-history-stoplight-180968734/) | [Discord thread](https://discord.com/channels/692111190851059762/1153337196993052702)
+- Cache coherence - Ananth /+1 #[[Nathan Acks]] / +1 Sachin
+    - Jan 9: [Cache Coherency](https://en.wikipedia.org/wiki/Cache_coherence) | Discord thread
+- something about the quadratic payments reading but more generally… mechanisms? patterns maybe? -venkat
+- #[[protocol]] lol #[[jrd]]
+    - Nov 14: Robin Sloan article | [Discord thread](https://discord.com/channels/692111190851059762/1125297398831386654)
+    - Nov 21: Farcaster | Discord thread
+- Memory hierarchy +1 venkat
+    - memory generally seems like a crucial but diffuse theme - venkat
+    - Jan 2: [Wikipedia on Memory Hierarchy](https://en.m.wikipedia.org/wiki/Memory_hierarchy) | Discord thread
+    - Feb 27: [A Logic-in-Memory Computer ](https://safari.ethz.ch/architecture/fall2020/lib/exe/fetch.php?media=stone_logic_in_memory_1970.pdf) | [Discord thread](https://discord.com/channels/692111190851059762/1079627476973650032)
+- #[[maps]] and anything else on how an individual can #[[orient]] in space+context /#[[jrd]]
+    - Jan 23: [Map rooms](https://interconnected.org/home/2023/01/20/map_room) | [Discord thread](https://discord.com/channels/692111190851059762/1067114815979528232)
+    - "Perversely, the more educated you are, and the more of the map you know, the worse this effect can be, because you have more to unsee (eg. in [fiction](/story-of-your-life)). One must always maintain a certain contempt for [words](/language) & [spooks](https://en.wikipedia.org/wiki/Max_Stirner#Philosophy)." - Seeing and Unseeing
+- "The whole is greater than the sum of it parts" #[[Nathan Acks]] + 1 Ananth
+    - March 20: [The surprising ease and effectiveness of AI in a loop](https://interconnected.org/home/2023/03/16/singularity) | Discord thread
+    - April 10th: [Noosphere, a protocol for thought](https://subconscious.substack.com/p/noosphere-a-protocol-for-thought) | [Discord thread](https://discord.com/channels/692111190851059762/1094986765896519710)
+    - April 17th: [Everyone Will Have Their Own AI](https://subconscious.substack.com/p/everyone-will-have-their-own-ai) | [Discord thread](https://discord.com/channels/692111190851059762/1097266277233479830)
+- “decentralize till it hurts, centralize till it works” from zerotier reading - venkat
+    - Nov 28: [Decentralize till it hurts](https://adamierymenko.com/decentralization/) | Discord thread
+    - +1 this connects to how to protocol for me #[[jrd]] cf #[[protocol]] lol #[[jrd]] 
+aka #[[The Goldilocks Principle]]
+- "Adversarial decentralization" (similar to "adversarial interoperability") #[[Nathan Acks]]
+    - May 8th:  [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) | [Discord thread](https://discord.com/channels/692111190851059762/1105145425339625532)
+- special role of biographies as a lens perhaps? the topic is fundamentally fragmented but the trajectories of individuals seem to provide a connective tissue - venkat
+    - is it easier to develop intuitions by following the career of an individual like lamport?
+- Distributed systems in __time__ rather than space ("social" evolution) #[[Nathan Acks]]
+    - +1 this connects to a throughline on when is a hard permanence desirable vs. undesirable, no links coming to mind but has come up #[[jrd]]
+        - Not one of the readings, but the "[Executing With Subtraction in the Infinite Garden](https://archive.devcon.org/archive/watch/6/opening-ceremonies-aya/?playlist=Staff%20Picks&tab=YouTube)" from DevCon 6 hits on this, I think #[[Nathan Acks]]
+- programming languages as a lens? venkat /+1 #[[Nathan Acks]] 
+    - July 17: [The Story of Erlang](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of) | [Discord Thread](https://discord.com/channels/692111190851059762/1130382329790083102) | [Youtube](https://www.youtube.com/watch?v=SA8yVK5FD4k) ??
+    - Feb 20: [How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/) | [Discord thread](https://discord.com/channels/692111190851059762/1077033039399493713) ??
+- Iterative Learning from [Federated Learning ](((p5Z6_2xdH))) - Grigori
+    - Training local models on local and thus limited datasets to produce a set of potential model updates at each node, and then aggregating and processing these local updates into a single global update and applying it to the global model.
+    - As opposed to merging the local datasets and then training on the aggregate.
+- Hardware Lottery - Ananth
+    - July 31: [Hardware lottery](https://arxiv.org/abs/2009.06489) | [Discord thread](https://discord.com/channels/692111190851059762/1135588450561704007)
+    -  From the abstract, "This essay posits that the gains from progress in
+computing are likely to become even more uneven, with certain research
+directions moving into the fast-lane while progress on others is further obstructed."
+- did we ever read about the CAP theorem explicitly? -venkat
+- The Spectral Utopia's paper: https://hcommons.org/deposits/objects/hc:49430/datastreams/CONTENT/content  - Ben. How physical and social technologies intertwine.
+- 
+- 
+- 
+- 
+- 
+- 
