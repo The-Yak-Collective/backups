@@ -296,6 +296,35 @@ comparison of jakarta-bandung and orlando-miami:
                 - Fundamental character of the US is still from this era - similar to the Grocer's communist slogan - the US Flag flying. Flying the flag is similar to the slogan where it displays . 
                 - Instead of centuries old bureaucracy being co-opted, in the US "Bureaucracy of the Karens" - lower middle class 
                 - It's a rationalization to assume that acts of defiance can course-correct bureaucracies. 
+        - [Micropatronage](https://discord.com/channels/692111190851059762/1185264723902611466)
+            - Sachin
+                - Core problems in the blog (How to compete w/ Patreon) still remain
+                - Zora has [new types of incentives](https://zora.mirror.xyz/LTBHZHk9zAQiK4n-CxPi_g_PjQ8jjGnArfZ_UJz0ILM)
+                - Fundamental problem is that the economics remains the same even though the interface has changed (e.g. Bandcamp). Most of the money is through merch. They're acting as ecommerce for physical goods. Core economics must change. 
+                - For the economics to change, the funding model for the platforms need to change - 
+            - Kiran
+                - 
+            - Jenna
+                - Buck a month - don't expect anything in return
+                - Covid post was really good
+                - Rhythm of the writing is awesome - 
+                - Gumroad as similar to Patreon. 
+            - Grigori
+                - Compare and contrast was a useful exercise. 
+                - Patreons promises seems to be empty words/empty promises ("Creators deserve more ..."). 
+                - Starving artists don't need to be in control of their business. They'd rather control the art and have the business taken care of so they don't think about it as much. 
+                    - Artists care a lot about the medium. Critics care a lot about the art. 
+                - Artists want to emphasize their own brand and de-emphasize the platform brand. 
+            - Venkat
+                - A lot of marketing here is disingenuous. Things that matter - tradeoff between platform vs. brand. 
+                - Conflict of interest that's not acknowledged. Distribution of platform usage that makes them money vs. distribution of platform usage that makes the platform money vs. distribution that benefits users are all different. 
+                - Substack used to be honest - free email distribution on Substack. 10% cut is much higher than self-hosting (<4000 subscribers).
+                    - They've gone off course as long as you don't put thumb on scales (which Substack has been doing). 
+                - Detest the micropatronage model
+                    - Patreon is infrastructure that causes audience capture. 
+                    - food blogger that got super fat
+                - Patronage should be zero. Micropatronage has no ethical limit. 
+                - Would much rather pursue a transactional model. 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
