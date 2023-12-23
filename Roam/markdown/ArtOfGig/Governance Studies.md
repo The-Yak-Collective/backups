@@ -199,6 +199,20 @@ comparison of jakarta-bandung and orlando-miami:
                 - They will make more money from scale now 
                 - existence of mega cities in china and that is a reason for such big rail networks 
                 - Labor market is another interesting lens - what career opportunities do you have around this economy 
+        - [MUTCD ](https://mutcd.fhwa.dot.gov/kno-overview.htm)
+            - Sachin
+                - traffic fatalities have gone up - partly because of how cars are designed - curious to know if they are involved in the design of these - guessing they are 
+                - also people seem crazier in general on the road - less attention to the roads 
+                - uber and other things at the airport 
+                - also agreed upon behaviors - such as reacting to fast drivers or to automated drives 
+            - Venkat 
+                - In places where there is more chaotic traffic - some places have become more disciplined while others have not 
+                - Taleb - getting rid of traffic signals completely so that people pay attention 
+                - ossfication - are living infrastructures - can they ever be done or can they be stabilized 
+            - Grigori
+                - tempo changes -  it is not upto an agency to decide 
+                - in my city - there are lot of electric scooters and they are used by delivery people. There are no rules of the road for the electric scooters - it is kind of agreed that they can travel on the sidewalks - how fast can an agency react to this change.
+                - you want to change the architecture to suit such fast developments
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
