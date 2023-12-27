@@ -16,8 +16,8 @@
         - 5) Solving Opposition 
             - Neuro-dialogue between those with opposing political views - lots of signs that political belief is a product of emotion - wondering if neuroproducts could help us move beyond communicating political arguments and more towards how those arguments were formed...House of Commons debate with Kernel helmets strapped on...
 - 
-- Notes
 - TECHNICAL CONSTRAINTS:
+- Notes
 - Expose a number individuals to a future scenario on a sensory level and gain precise/categorised insight into their sentiment towards this scenario - which can then be fleshed out further discursively in a group setting
 - IMPOSSIBILITIES: 
 - METAPHORS: 

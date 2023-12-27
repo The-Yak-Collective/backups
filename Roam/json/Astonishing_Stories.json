@@ -42922,5 +42922,18 @@
     ":edit/user": {
       ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
     }
+  },
+  {
+    "create-time": 1703670433685,
+    "title": "December 27th, 2023",
+    ":create/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    },
+    ":log/id": 1703670433685,
+    "uid": "12-27-2023",
+    "edit-time": 1703670433686,
+    ":edit/user": {
+      ":user/uid": "ZbY0TESZxRPgzCl68gDfzSfXBe82"
+    }
   }
 ]
