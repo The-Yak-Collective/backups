@@ -339,6 +339,39 @@ comparison of jakarta-bandung and orlando-miami:
                     - food blogger that got super fat
                 - Patronage should be zero. Micropatronage has no ethical limit. 
                 - Would much rather pursue a transactional model. 
+        - [Water Distribution](https://discord.com/channels/692111190851059762/709454740614021121/1190159322722873427)
+            - Matthew 
+                - Different types of people are drawn to things like this
+                    - Sprinters are drawn to different problem types altogether over marathon runners (who might be into )
+                    - It is a political function - Increase equity or enforce pre-existing structures. 
+                    - It's a rural context but similar to urban bridge building. 
+                    - Can't really hack the work here - No quick way around building 
+                    - Ways of subterfuge
+                        - Influence the system manager
+                        - Influence the metrics - break the technical measuring tools. 
+            - Venkat
+                - [Water](http://yashalevine.com/books/oligarch-valley) as weapon of the strong.
+                - Groundwater is not as big a factor (weapon of the weak for most people is overpumping of groundwater - borewells)
+                - Depending on terrain, needs the big dams, culverts and tanks. 
+                    - Tanks through Seasonal flows. 
+                - Are these actually weak people? 
+                    - Farming has a brand of oppressed people - but actual farming areas are usually rich people with large holdings. 
+                    - Crony capitalism dictates how water is used. 
+                    - Weapons of the middle class. 
+                - Allocation should follow lagging patterns of usage. 
+                - Market-driven freedom is good for farmers but there's tons of incentives that distort cash crop markets. Larger, more lucrative markets dominated by the bigger guy. The immediate customers might be small, but the overall beneficiary is bigger. 
+                - Staples have more dependencies - important for public distribution. 
+                    - Farmers are smaller, but downstream is the larger food security system 
+                - First order customers may be weak, but second order are strong. 
+                - Watersheds can be managed with big dams - 
+                - Large infrastructure is usually a weapon of the weak. 
+                    - Village-scale check-dams
+                    - Improved groundwater recharging can help. 
+                - Rainwater harvesting is sometimes illegal in the US. Can be charged with a crime. Rainfall is much harder to control. Much more a weapon of the weak. 
+            - Kiran
+                - Duality of Flood prevention vs. Irrigation
+                    - Flood prevention is the weapon of the weak whereas irrigation shores up strength. 
+                - 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
