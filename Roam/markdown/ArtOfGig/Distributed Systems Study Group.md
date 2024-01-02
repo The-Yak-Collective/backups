@@ -1180,6 +1180,8 @@ but consider - is what is being sent data or programs?
     - **Season: Winter**
         - Jan 1: 2024 planning and housekeeping
             - Review old [[Blockchain Ops Roadmap]] page from 2021/22 winter, including the **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox) spring session just before we generalized this to be DSS
+            - Notes: 
+                - 
         - Jan 8: Dec 11: Optimism RPGF, [Original idea](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c), [RPGF3 details](https://optimism.mirror.xyz/oVnEz7LrfeOTC7H6xCXb5dMZ8Rc4dSkD2KfgG5W9cCw) 
         - Jan 15:
         - Jan 22:
