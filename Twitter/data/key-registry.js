@@ -40,6 +40,13 @@ window.YTD.key_registry.part0 = [
             "deviceId" : "B089C98E-E3BC-44A5-9C6E-1C0A33B702C9"
           },
           {
+            "userAgent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+            "registrationToken" : "2f2dbca314092545f91e3ed4070f7e3f",
+            "identityKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjE8HouV/4BiojqSgLVjvwtc4xF9XE8Qr+LIXnr19A3/7r77HFYsICATS7/hAm+JuhYWSo4NanDeHS1pga+1DGw==",
+            "createdAt" : "2023-12-04T00:35:59.254Z",
+            "deviceId" : "b132c402-69b1-406f-a8fe-b51da3c4613e"
+          },
+          {
             "userAgent" : "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
             "registrationToken" : "82536023b651c839ddfb4ea12d6d1cf1",
             "identityKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENGnN6PCpj1rdtPowrKT1eiv15zbbLo7VQSDZ29PoIq2ujBJ5f9hF4MRt3TAN1HGxp2jAoRwVeroBHP9ZIhvNjA==",

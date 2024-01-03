@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14628583",
-    "generationDate" : "2023-12-04T01:40:02.728Z",
+    "sizeBytes" : "14643729",
+    "generationDate" : "2024-01-02T17:53:18.804Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -55,7 +55,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-engagements.js",
         "globalName" : "YTD.ad_engagements.part0",
-        "count" : "1"
+        "count" : "0"
       } ]
     },
     "adImpressions" : {
@@ -178,7 +178,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/connected-application.js",
         "globalName" : "YTD.connected_application.part0",
-        "count" : "5"
+        "count" : "6"
       } ]
     },
     "contact" : {
@@ -217,7 +217,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "12"
+        "count" : "14"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -274,7 +274,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2431"
+        "count" : "2434"
       } ]
     },
     "following" : {
@@ -288,7 +288,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "259"
+        "count" : "212"
       } ]
     },
     "keyRegistry" : {
@@ -351,7 +351,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ni-devices.js",
         "globalName" : "YTD.ni_devices.part0",
-        "count" : "2"
+        "count" : "3"
       } ]
     },
     "noteTweet" : {
@@ -453,6 +453,13 @@ window.__THAR_CONFIG = {
         "count" : "1"
       } ]
     },
+    "profileBlocks" : {
+      "files" : [ {
+        "fileName" : "data/profile-blocks.js",
+        "globalName" : "YTD.profile_blocks.part0",
+        "count" : "0"
+      } ]
+    },
     "profileMedia" : {
       "mediaDirectory" : "data/profile_media"
     },
@@ -523,7 +530,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "2283"
+        "count" : "2296"
       } ]
     },
     "tweetdeck" : {
@@ -538,7 +545,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "2283"
+        "count" : "2296"
       } ]
     },
     "tweetsMedia" : {

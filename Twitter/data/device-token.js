@@ -106,5 +106,23 @@ window.YTD.device_token.part0 = [
       "lastSeenAt" : "2023-10-01T23:35:39.169Z",
       "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
     }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "1lUZrrPD8QU0qn0dtkvY3gkleIsvGc3cfnOOi4AP",
+      "createdAt" : "2023-12-04T00:35:28.433Z",
+      "lastSeenAt" : "2023-12-04T00:35:57.974Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "557701",
+      "token" : "XSQLmNwS9QYdIZBsIwxRsNkhIulYtmG1iSralLmh",
+      "createdAt" : "2023-12-04T03:27:38.234Z",
+      "lastSeenAt" : "2023-12-04T03:29:51.677Z",
+      "clientApplicationName" : "Twitter for Mac (Twitter, Inc)"
+    }
   }
 ]

@@ -151,6 +151,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Drama TV",
+            "isDisabled" : false
+          },
+          {
             "name" : "Drawing & illustration",
             "isDisabled" : false
           },
@@ -235,6 +239,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Gingerbread",
+            "isDisabled" : false
+          },
+          {
             "name" : "Global Economy",
             "isDisabled" : false
           },
@@ -267,6 +275,18 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "House",
+            "isDisabled" : false
+          },
+          {
+            "name" : "House",
+            "isDisabled" : false
+          },
+          {
+            "name" : "House",
+            "isDisabled" : false
+          },
+          {
             "name" : "Indie rock",
             "isDisabled" : false
           },
@@ -280,6 +300,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Instagram",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Investing",
             "isDisabled" : false
           },
           {
@@ -323,6 +347,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Medical drama",
+            "isDisabled" : false
+          },
+          {
             "name" : "Meditation",
             "isDisabled" : false
           },
@@ -344,6 +372,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Model figures",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Movies & TV",
             "isDisabled" : false
           },
           {
@@ -511,10 +543,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Twitter",
-            "isDisabled" : false
-          },
-          {
             "name" : "UNICEF",
             "isDisabled" : false
           },
@@ -528,6 +556,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "United States Tax Reform",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Venture capital",
             "isDisabled" : false
           },
           {
@@ -548,6 +580,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Writing",
+            "isDisabled" : false
+          },
+          {
+            "name" : "X",
             "isDisabled" : false
           },
           {
@@ -583,9 +619,9 @@ window.YTD.personalization.part0 = [
         },
         "shows" : [
           "Clueless",
+          "House",
           "La reine des neiges",
-          "MythBusters",
-          "Projeto Intelligence"
+          "MythBusters"
         ]
       },
       "locationHistory" : [

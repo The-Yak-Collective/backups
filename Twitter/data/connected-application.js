@@ -83,5 +83,21 @@ window.YTD.connected_application.part0 = [
       "approvedAt" : "2020-06-24T01:56:24.000Z",
       "id" : "177000"
     }
+  },
+  {
+    "connectedApplication" : {
+      "organization" : {
+        "name" : "Twitter, Inc",
+        "url" : "http://twitter.com"
+      },
+      "name" : "Twitter for Mac",
+      "description" : "Twitter for Mac",
+      "permissions" : [
+        "read",
+        "write"
+      ],
+      "approvedAt" : "2023-12-04T03:29:51.000Z",
+      "id" : "557701"
+    }
   }
 ]

@@ -16,7 +16,6 @@ window.YTD.like.part0 = [
   {
     "like" : {
       "tweetId" : "1654607044907769856",
-      "fullText" : "The Starfighters of Eve does not exist #TerranTradeAuthority #AIArt #midjourney https://t.co/9LmYGZlwUQ",
       "expandedUrl" : "https://twitter.com/i/web/status/1654607044907769856"
     }
   },

@@ -542,6 +542,9 @@ profile.js
 - avatarMediaUrl: Link to the current profile avatar image, if the user has provided one.
 - headerMediaUrl: Link to the current profile header image, if the user has provided one.
 ----------------------
+profile_blocks.js
+- richText: Expanded bio rich text as displayed on the profile, if the user has provided it.
+----------------------
 protected-history.js
 - protectedAt: Date and time the "Protect your Tweets" setting was used in the last six months.
 - action: Whether the account is protected or unprotected.
