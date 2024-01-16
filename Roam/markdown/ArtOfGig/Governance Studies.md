@@ -372,6 +372,7 @@ comparison of jakarta-bandung and orlando-miami:
                 - Duality of Flood prevention vs. Irrigation
                     - Flood prevention is the weapon of the weak whereas irrigation shores up strength. 
                 - 
+        - 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
