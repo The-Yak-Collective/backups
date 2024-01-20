@@ -372,7 +372,22 @@ comparison of jakarta-bandung and orlando-miami:
                 - Duality of Flood prevention vs. Irrigation
                     - Flood prevention is the weapon of the weak whereas irrigation shores up strength. 
                 - 
-        - 
+        - [Broadband Buildout](https://discord.com/channels/692111190851059762/698566364595486720/1197944903049695373)
+            - Sachin
+                - Surprised that UK has not been able to build broadband. 
+                - Feels like the voucher system is a failure in investment. 
+            - Venkat
+                - Disparity between densities/isolation is very high currently. 
+                - Communities are not low density in other weapons of the weak. This seems more a function of sparsity of population. 
+                - Populations go into decline. 
+                - Similarities with Upstate NY (Erie Canal). These things become cute stories.
+                - One answer is depopulating these areas. Another (probably better) answer is to repopulate in a sustainable way. 
+            - Kiran
+                - Zero interest rate - asset overvaluations has caused more consolidation
+                - Ribbonfarms as infrastructure we already know. 
+            - Jenna
+                - Rocky mountain institute
+                - Post-apocolyptic 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
