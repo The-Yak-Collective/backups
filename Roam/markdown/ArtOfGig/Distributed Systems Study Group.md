@@ -1158,7 +1158,7 @@ but consider - is what is being sent data or programs?
         - Nov 13: [Postmortem on Cloudflare](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/) | [Discord thread](https://discord.com/channels/692111190851059762/1173654874106384466)
         - Nov 20: [OpenAI craziness](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)| [Discord thread](https://discord.com/channels/692111190851059762/1176187375450325013) | [Youtube](https://www.youtube.com/watch?v=XR-0jnfpvEA&t=11s)
         - Nov 27: [ Devconnect Trip Report](https://mirror.xyz/mapachurro.eth/vQXF6M6nbNNGTIxOj0evYo1akn3KJafovTZx-aLiI_Q) | [Discord thread](https://discord.com/channels/692111190851059762/1178422592256888833) | [Youtube](https://www.youtube.com/live/_r249pznCOg?si=wkS0JBZgvFlebtNF)
-        - Dec 4: [Zora Magic machine](https://zora.co/writings/Magic-Machine) | [Discord thread](https://discord.com/channels/692111190851059762/1181135397464588319) | [Youtube](https://www.youtube.com/watch?v=kbai9mSlISY) -- Kickoff of 2023/24 Crytpo explorations track
+        - Dec 4: [Zora Magic machine](https://zora.co/writings/Magic-Machine) | [Discord thread](https://discord.com/channels/692111190851059762/1181135397464588319) | [Youtube](https://www.youtube.com/watch?v=kbai9mSlISY) -- Kickoff of [[2023/24 Crytpo explorations track]]
         - **Dec 11: 2022-23 Retrospective, Part 1 **| Discord thread | Youtube
             - For the next 2 weeks DSS sessions, we will survey the readings from the last 18 months (starting summer 2022) and do a round of sensemaking, mapping, and perhaps rescoping/redefinition. For tomorrow (Dec 11), the goal is to simply spend an hour re-familiarizing ourselves with everything we've read since the start of this group, identifying themes, key concepts, concept-clusters, lighthouse readings etc. As a sort of focusing challenge, the goal will be to come up with the most conceptually coherent 2-sentence scope and definition of "distributed systems" together. We'll each try to make up one definition each, then talk about how to elegantly synthesize it. I'm reasonably happy with the name here, but changing the name of the group is on the table if people feel that either the scope  and contents are incoherent, or that the name doesn't accurately reflect it. I'll post more precise prompt in the session thread. Here's the cleaned up Roam page with all the readings, links to threads etc.
             - **Prompt 1: **Lighthouse readings (two) -- just list them here (15 min, 5 min share)
@@ -1177,16 +1177,18 @@ but consider - is what is being sent data or programs?
         - **Dec 18: 2022-23 Review, Part **2 | Discord thread | Youtube
         - Dec 25: No meeting, Christmas day
 - **2024 Readings**
-    - **Season: Winter**
+    - **Season: Winter** -- alternate weeks are [[2023/24 Crytpo explorations track]]
         - Jan 1: 2024 planning and housekeeping
             - Review old [[Blockchain Ops Roadmap]] page from 2021/22 winter, including the **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox) spring session just before we generalized this to be DSS
             - Notes: 
                 - 
-        - Jan 8: Dec 11: Optimism RPGF, [Original idea](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c), [RPGF3 details](https://optimism.mirror.xyz/oVnEz7LrfeOTC7H6xCXb5dMZ8Rc4dSkD2KfgG5W9cCw) 
-        - Jan 15:
-        - Jan 22:
+        - Jan 8: 
+        - Jan 15: 
+        - Jan 22: [Vitalk: Endgame](https://vitalik.eth.limo/general/2021/12/06/endgame.html) plus general exploration of L2s
         - Jan 29:
-        - Feb 5:
-        - Feb 12:
-        - Feb 19:
+        - Feb 5: [Base 2024 roadmap](https://base.mirror.xyz/Ouwm--AtTIVyz40He3FxI0fDAC05lOQwN6EzFMD_2UM)
+        - Feb 12: 
+        - Feb 19: [[2023/24 Crytpo explorations track]] big picture sense-making
         - Feb 26:
+        - Mar 4: [Solana 2024 State](https://solana.com/2024outlook)
+        - 

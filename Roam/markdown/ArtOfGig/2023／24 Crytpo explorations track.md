@@ -1,0 +1,15 @@
+- Exploration bingo card/to do list for all
+- L2s
+    - Base
+    - Optimism
+    - Gnosis
+    - Arbitum
+    - zkSync
+- Account abstraction
+- Ethereum roadmap foundations
+- Experiments
+    - Revisit Clarity
+    - Revisit Colony
+    - Revisit Gnosis Safe
+    - Make an NFT on Zora
+- ??
