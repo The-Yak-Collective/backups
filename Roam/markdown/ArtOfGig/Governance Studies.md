@@ -267,7 +267,7 @@ comparison of jakarta-bandung and orlando-miami:
                 - The environment has changed a lot. Marc - VC Narrative and Klein - Vox (explainer + recession-born progressive narratives)
                 - What’s the best interpretation of their stories? Tech-determinism vs. Social-determinism. Generative Pluralism is Venkat’s take on a synthesis between the two. 
                 - Progressivism - can we take all the good of technology without all the change in society (communities, language, society etc.). 
-                - Technology has a libertarian bias. We’ve gone from very communal a few centuries ago, to individuals a few centuries ago. 
+                - Technology has a libertarian bias. We’ve gone from very communal a few centuries ago, to individuals.
                 - The collectivism is more Star Trek borg transhumanism vs. collective bargaining. 
                 - Anybody actually weak, will reject these articles. Both are patronizing in their own ways (Hobbesian vs. Citadel mindsets). Trust but verify, market-based and communitarian model. Use the tools of AI and blockchain, to define what their weaponized new state is. 
             - Ananth
@@ -386,8 +386,8 @@ comparison of jakarta-bandung and orlando-miami:
                 - Zero interest rate - asset overvaluations has caused more consolidation
                 - Ribbonfarms as infrastructure we already know. 
             - Jenna
-                - Rocky mountain institute
-                - Post-apocolyptic 
+                - Rocky mountain institute - https://www.wholesystemsdesign.com/ 
+                - Post-apocolyptic  
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
