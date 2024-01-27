@@ -213,6 +213,34 @@ comparison of jakarta-bandung and orlando-miami:
                 - tempo changes -  it is not upto an agency to decide 
                 - in my city - there are lot of electric scooters and they are used by delivery people. There are no rules of the road for the electric scooters - it is kind of agreed that they can travel on the sidewalks - how fast can an agency react to this change.
                 - you want to change the architecture to suit such fast developments
+        - [Amusement Park Urbanism](https://www.bloomberg.com/news/features/2022-07-09/the-american-amusement-park-s-wild-ride)
+            - Grigori
+                - main driving points are spatial - proximity and other things. everything on the internet is 1-2 clicks away, there is no distance from anything, and everything is sort of utopia
+                - on internet hard to separate functions of what a "place" is for 
+                - amusement parks - they were entrepreneurial ventures - in the place where grigori lives - it popped up as a result of central planning. 
+                - if you are living in utopia already, it is hard to find a space where it is even more "crazier" than everywhere 
+                - amusement parks in Russia are state owned, and privately owned - only malls 
+                - Internet everywhere including in the park - it affected infrastructure inside a space - one space does not do everything 
+                - living in the map than in the territory - 
+            - Jenna 
+                - lived in San Diego
+                - Cory Doctrow - Down and out in the magic kingdom 
+                - if you are in charge of making things - easier if you can eliminate edge cases 
+                - if you happen to be the one on the wrong side of the protocol then its not a good place to be 
+                - Facebook and Burma 
+                - long tradition of the ability to entertain each other such as oral storytelling 
+                - murderbot series - sanctuary moon - same person with different series - the tools to entertain yourself is just really good. 
+            - Kiran
+                - gig shares are a pretty big leap - cant think of anything that has affected infrastructure the way gig shares have 
+                - instead of amusment parks - everything is already easily accessible to you 
+                - ridehsharing app - dedicated spots in airports, areas for pick up and drop off
+                - instagram, facebook - museaum of icecream - lot of it has happened in the private domain 
+                - Digital nomad aesthetic - its the same in south east asia and south america and it is in stark contrast to everything else 
+                - extra trolley space created amusement parks and such 
+                - trolley to car and car to internet 
+            - Sachin
+                - living within the google map than the territory
+                - extrastatecraft 
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
