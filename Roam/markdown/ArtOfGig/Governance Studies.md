@@ -241,6 +241,48 @@ comparison of jakarta-bandung and orlando-miami:
             - Sachin
                 - living within the google map than the territory
                 - extrastatecraft 
+        - American Infrastructure bill
+            - Sachin
+                - Transportation - lot of money - interesting 
+                - I35 Austin-San Antonio 
+                - American government offices function pretty well such as passport services and vehicle registration and things like that take barely 15-20 minutes 
+                - lot of investment in highways - I35 corridor expansion as an example 
+                - Things like trains - would require this type of funding but building out existing infrastructure is easier 
+                - 1970s - peak federal funding - not what you associate the 70s with I guess
+                - https://www.transit.dot.gov/grant-programs/accelerating-advanced-digital-construction-management-systems-program - grants program is interesting 
+                - per state funding more for democratic even tho overall balances out 
+                - also funding gets lopsided - to the richer local governments 
+                - Texas power grid is independent and is poorly managed - to avoid regulation 
+            - Grigori
+                - They never ask what has been built - its always which party got the money 
+                - An example, progress report for highways and bridges should include actual progress and not how much money was diverted to where 
+                - they dont make an effor to make it understandable 
+            - Kiran 
+                - Zero interest rate that the bill was passed on has affected the current progress of bill
+                - lot of projects are in the less than $10 million funding 
+                - Agree with Grigori. - it is a problem of deployment rather than having capital 
+                - Pattern for the constellation of projects is to deploy the projects as fast as possible 
+                - the competitive projects have not been deployed 
+            - Bryan
+                - smaller local bridge that the state is trying to rebuild - lot of back and forth on what the bridge is going to look like 
+                - "Things being iconic" "generation defining" - 
+                - Emphasis on spending transparency - there is heavy adminstrative bottle neck in getting the funding to the project - so the data is more available than before. 
+                - Carnegie library reading - fairly simple for smaller libraries to be built instead of big projects 
+            - Venkat 
+                - challenging because its vague 
+                - $1.2 Trillion in funding, federal tax revenue collection: $4 Trillion, US GDP: $27 Trillion, 15% of GDP is tax revenue 
+                - Mix of direct allocation - not insure whether it is inflation adjusted 
+                - inflation reduction act -- reduces the impact of inflation on the infrastructure bill 
+                - Of the total tax -  federal is the big chunk 
+                - Solving a financial circuitry problem - cascading back to the right level 
+                - local governments are terrible at spending in systematic ways 
+                - market for designing highway systems - is a natural monopoly 
+                - some things are a natural monopoly 
+                - per capita spending is very lopsided - $40 in Indiana vs $300 in Montana 
+                - "Whats the problem with Kansas?" - book 
+                - Tragedy of the commons. - nobody has any incentive to tell the right story 
+                - big government budgets - they dont have a marketing allocation 
+                - allocate some money for the projects to market themselves
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
