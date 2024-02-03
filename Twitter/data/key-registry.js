@@ -5,6 +5,13 @@ window.YTD.key_registry.part0 = [
       "registeredDevices" : {
         "deviceMetadataList" : [
           {
+            "userAgent" : "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+            "registrationToken" : "8f134813e3861f4b7d567ede722b3754",
+            "identityKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8Rfeo772aWq+ClGstZ1k3tJISl+YJA+KzFKn5R6/rNcOErRkBMHIlUe0JOLCYNujFT8NAgUQAr0murFQqZOw7Q==",
+            "createdAt" : "2024-01-18T14:47:12.562Z",
+            "deviceId" : "05bb145b-fbcb-4f6f-97c0-734974c23a0b"
+          },
+          {
             "userAgent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15",
             "registrationToken" : "930f7f28734a478bf6e4500c60bb61c3",
             "identityKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERQKsBySEWHEir0d5Zv5VZ0NxDkaVDJYTD/pd9Dwf+VRcvjcOkWgt0/YwxU831zY2UHMsaEATKFxfeXW8bQ4X1Q==",
@@ -24,6 +31,13 @@ window.YTD.key_registry.part0 = [
             "identityKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQx9UnOc9+QFuZmZ4hR4LPmC0wzjhs2OPVdWbMPqMWIOGijL1BHBjuzt8x8b3xLwRw8sXH5p6QMmq9cWXSbzAiQ==",
             "createdAt" : "2023-08-05T22:33:09.616Z",
             "deviceId" : "775224d6-de4c-4c36-aa86-c0de5288855a"
+          },
+          {
+            "userAgent" : "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+            "registrationToken" : "8a418e6b1a9c9cada864b3b6efa61386",
+            "identityKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOa2VJFwnCaf1pWlQcHNMdKyeYgVb3x6fPGBqdpNOpMIGF+DJ8vVJXb+gpiwsQ5UUojeVCguoPTm+rsSopmr6zg==",
+            "createdAt" : "2024-01-18T03:18:16.900Z",
+            "deviceId" : "7f56f9f8-5cd3-4ba8-b468-b135f21fd6ce"
           },
           {
             "userAgent" : "Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1",

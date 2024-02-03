@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14643729",
-    "generationDate" : "2024-01-02T17:53:18.804Z",
+    "sizeBytes" : "14665098",
+    "generationDate" : "2024-02-03T14:57:22.422Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -217,7 +217,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "14"
+        "count" : "16"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -274,7 +274,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2434"
+        "count" : "2422"
       } ]
     },
     "following" : {
@@ -288,7 +288,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "212"
+        "count" : "215"
       } ]
     },
     "keyRegistry" : {
@@ -302,7 +302,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "83"
+        "count" : "82"
       } ]
     },
     "listsCreated" : {
@@ -351,7 +351,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ni-devices.js",
         "globalName" : "YTD.ni_devices.part0",
-        "count" : "3"
+        "count" : "2"
       } ]
     },
     "noteTweet" : {
@@ -530,7 +530,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "2296"
+        "count" : "2315"
       } ]
     },
     "tweetdeck" : {
@@ -545,7 +545,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "2296"
+        "count" : "2315"
       } ]
     },
     "tweetsMedia" : {

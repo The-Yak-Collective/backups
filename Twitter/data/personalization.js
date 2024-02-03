@@ -291,6 +291,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Industries",
+            "isDisabled" : false
+          },
+          {
             "name" : "Information Privacy Worldwide",
             "isDisabled" : false
           },
@@ -625,6 +629,7 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
+        "Columbus, OH, USA",
         "Bellevue, WA, USA"
       ],
       "inferredAgeInfo" : {

@@ -15,12 +15,6 @@ window.YTD.like.part0 = [
   },
   {
     "like" : {
-      "tweetId" : "1654607044907769856",
-      "expandedUrl" : "https://twitter.com/i/web/status/1654607044907769856"
-    }
-  },
-  {
-    "like" : {
       "tweetId" : "1643629157799141379",
       "fullText" : "Open call for today‘s call with something for everybody: \n“How to kick off a project w/ @HiredThought ”\n\n“One of the clearest thinkers on strategy I’ve ever met” — @tasshinfogleman\n\nhttps://t.co/4wsHsBHn6q\n\nOn Yak Collective Discord. Join https://t.co/7nv7Uo3q3n",
       "expandedUrl" : "https://twitter.com/i/web/status/1643629157799141379"
