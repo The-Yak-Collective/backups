@@ -77,10 +77,10 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
         - [The Kernel helmet identifies focused/attentive states, integrates with Slack/GCal and modifies your status and calendar based on set rules](https://discord.com/channels/692111190851059762/712459471787393054/714544188557099038)
     - [[Luke Butler]]
         - [Sentiment based Neuro-psychotyping](https://discord.com/channels/692111190851059762/712459471787393054/714537894122881035)
+    - [An idea that could be evaluated w Kernel tech is how the self structure re-integrates via many healing modalities (cbt / somatics / narrative-based / psychedelics / etc)](https://discord.com/channels/692111190851059762/712459471787393054/714575534654357616)
     - [[Vinay Débrou]]
         - [Internet of brains - A WorldWide Mindweb](https://discord.com/channels/692111190851059762/712459471787393054/714544092180250674)
         - [Intention/emotion processing model on a partner's verbal data](https://discord.com/channels/692111190851059762/712459471787393054/714554572806553670)
-    - [An idea that could be evaluated w Kernel tech is how the self structure re-integrates via many healing modalities (cbt / somatics / narrative-based / psychedelics / etc)](https://discord.com/channels/692111190851059762/712459471787393054/714575534654357616)
     - [[Patrick Atwater]]
         - [Compare people classified in the various DSM5 psychological categories to normies](https://discord.com/channels/692111190851059762/712459471787393054/714551552618266664)
     - [[Luke Butler]]

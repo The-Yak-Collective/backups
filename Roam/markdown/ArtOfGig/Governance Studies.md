@@ -458,6 +458,31 @@ comparison of jakarta-bandung and orlando-miami:
             - Jenna
                 - Rocky mountain institute - https://www.wholesystemsdesign.com/ 
                 - Post-apocolyptic  
+        - [Federal Grant Irrigation](https://discord.com/channels/692111190851059762/709454740614021121/1205526978535493703)
+            - Bryan
+                - [Rand paul link](https://www.science.org/content/article/rand-paul-takes-poke-us-peer-review-panels)
+                - Building and operating broadband networks
+                - Interesting that there's space to give money to for-profit things, otherwise deployment wouldn't make financial sense. 
+                - Agricultural and Rural life is first and so dependent on federal funding. 
+                - Doesn't seem particularly hard to get funding
+            - Jenna
+                - A bunch of links in the core thread. 
+                - Friend - Expert on snow roads.
+                - 1/10 success ratio of grants. So quite difficult. 
+                - We don't have a legal entity so that's a huge blocker. 
+            - Sachin
+                - Endowment for the arts - not really offbeat. 
+                - Need to be specifically careerist and strategic direction if you want to be like them. 
+                    - Getting published in mags + publishing a book. 
+                    - Takes a lot of time just to get an article in a famous publication. 
+                    - Easy to pick people they're familiar with. 
+                    - ChatGPT generated manuscripts caused the failure of a grant program. 
+                        - One of the first examples of Rainwater harvesting causing irrigation failure.
+                    - Analogous to getting a job by "applying" rather than knowing contacts.  
+                    - Grants are funding proven end-result. It's a maturity thing. 
+                    - Indie films vs. Blockbuster trajectory. 
+            - Kiran
+                - 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
