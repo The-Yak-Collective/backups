@@ -1,0 +1,20 @@
+- 2024-02-13
+    - ML and Robotics
+    - Component ML vs. 
+    - Universal controller problem
+        - Optimal control
+            - Adaptive control
+            - Robot control
+            - Universal stablising control
+            - Internal model principle
+                - Switching approach to many conditions, but no stability guarantee
+        - In AI, search for a piece of software that can control any robotic body
+        - "Can operate seamlessly in any kind of environment, any object"
+    - "Auto RT"
+    - LLM, LMM and others look universal as they deal with an underlying notion of sequence, with some temporality.
+    - "Toward General Purpose..." robotics survey.
+    - Discussion on optimal control vs. LMM based approaches
+        - OC has careful model of the robot I/O and environment.
+        - LMM "encodes" aspects of the environment via training.
+        - An LMM trained on Earth would likely me more capable in an unknown environment like Mars, but still be lacking knowledge of the environment. E.g. skidding on regolith, unavailable on Earth.
+    - Mugatu bipedal robot
