@@ -1187,7 +1187,7 @@ but consider - is what is being sent data or programs?
         - Jan 22: [Vitalk: Endgame](https://vitalik.eth.limo/general/2021/12/06/endgame.html) plus general exploration of L2s
         - Jan 29:
         - Feb 5: [Base 2024 roadmap](https://base.mirror.xyz/Ouwm--AtTIVyz40He3FxI0fDAC05lOQwN6EzFMD_2UM)
-        - Feb 12: 
+        - Feb 12: [C]
         - Feb 19: [[2023/24 Crytpo explorations track]] big picture sense-making
         - Feb 26:
         - Mar 4: [Solana 2024 State](https://solana.com/2024outlook)
