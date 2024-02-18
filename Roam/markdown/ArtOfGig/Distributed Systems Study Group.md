@@ -1187,7 +1187,66 @@ but consider - is what is being sent data or programs?
         - Jan 22: [Vitalk: Endgame](https://vitalik.eth.limo/general/2021/12/06/endgame.html) plus general exploration of L2s
         - Jan 29:
         - Feb 5: [Base 2024 roadmap](https://base.mirror.xyz/Ouwm--AtTIVyz40He3FxI0fDAC05lOQwN6EzFMD_2UM)
-        - Feb 12: [C]
+        - Feb 12: [Cloudflare Thanksgiving Security Incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/) | [Discord thread](https://discord.com/channels/692111190851059762/1206617504861126656) 
+            - 
+                - [[Ananth]]
+                    - Cloudflare is an important infrastrucure and cybersecurity company and so its spooky to even see them be a victim of attacks like this 
+                    - Result of failure to rotate 1 service token and 3 service tokens of credentials involving a moveworks service token that granted access to their Atlassian system, a second one for Smartsheet, a third of Bitbucket service account that is used for source code management, and a fourth one for a AWS environment
+                    - the supply chain of credentials transfer for access seems like an important vector in terms of vulnerabilities that needs to be closely monitored and guarded 
+                    - appreciate the Cloudflare's leadership team trying to be transparent, publishing this and taking direct responsibilities albeit with a outbound link to Okta's issues which seems to have originated the attacks
+                    - wonder if 9 days to threat detection is too long? 
+                - [[Ben Mahala]]
+                    - What happened to Cloudflare is a best-case scenario given that they have the expertise and commitment to fight the threats constantly and can squash them with further subsequent diligent postmortem and analysis.
+                    - Cloudflare is one of the most important internet infrastructure companies in the industry, especially helping with DDoS attacks along with other critical functions in caching
+                    - How many of the other companies can boast similar capacity in talent and desire to - deal with such a threat?
+                    - Most companies are default software companies now and with that comes the responsibility of guarding against such attacks
+                    - This could have been a major attack if it was another company
+                    - The big question is how can relatively smaller companies subscribe to better operation security postures ?
+                - [[Grigori]]
+                    - Timeline of the events is most interesting. The attacker stayed on the network undetected for about 9 days rent-free. Of course, once detected the threat was handled swiftly
+                    - Risk is what you don’t see. The question to ask is what risks are folks unaware of right now?
+                    - We need a more robust presentation of the incident than what is currently presented
+                    - Cloudflare being the 2nd largest infrastructure company makes this news worse given one can expect better standards from the blue-chip companies
+                    - The article seems like an exercise in PR as supposed to making commitments to not let repeat actors be able to attack again
+                    - Cloudflare is perhaps not being hard on itself as it should be given all the information is not easily accessible to the public. The public scrutiny could make the efforts more robust against such future attacks
+
+                - [[Nathan Acks]]
+                    - Being in charge of defensive systems is a challenge and this article does a good job of explaining the post-mortem steps
+                    - Okta’s report seems much more perform-atory and much less informative.
+                    - Cloudflare’s report was straightforward, we missed these tokens, these connections and perhaps threw Okta under the bus in order to deflect some responsibilities
+                    - The mean time for threat detection used to be 3 months till some time ago. A decade ago it used to be 18 months. So 9 days seems like a huge improvement
+                    - The threat was contained within 24 hours once detected is also excellent
+                    - Least privilege is the best way of organizing IT with cloud services for Small businesses
+                    - Zero Trust is about continuous monitoring
+                    - Hardware security keys are a fight against organizational inertia to get deployed though once deployed is appreciated by everyone. You need more multi-factor authorizations to be secure
+                    - These sorts of attacks are quite cheap and are not that sophisticated. There’re guides online on how to do this.
+                    - which raises the question, how do you deal with this as a small org? Even as Yak Collective?
+                - [[Venkatesh Rao]]
+                    - Reading the report felt like reading a Sci-Fi account
+                    - The job of OpSec folks seems very high stress
+                    -  The system is setup to have asymmetric costs and hence justifies the attack. Similar to the case with Isreal and Palestine with cheap rockets vs Iron Dome where the defense costs orders of magnitude more. Physical DDoS defenders spend a lot of money on this
+                    - As a result of few tokens comprisoed, it required Cloudflare to rotate 1000s of tokens + became the engineering priority for a big chunk of the team at Cloudflare which leads to other unseen costs. Their effort to return even not compromised equipments in their Brazil Data Center while seems like an over-reaction, also adds to the costs of these attacks.
+                    - The asymmetry also succeeds in creating a cloud of security doubt around 5-6 major organizations involved here
+                    - Need for a macroeconomics study of security postures quantifying the cost of these attacks
+                    - And, finally, how complex a system should be without sacrificing elegance? Could we getaway from perimeter security to endpoint security? Is that a complication or simplification?
+                - Post first-round discussion
+                    - [[Nathan Acks]]
+                        - The lopsided ratio of economics can also be looked at from the lense of immune response to virus attacks 
+                        - What viruses do in biological systems are not that complex but the cost to treat them is quite high on the body? 
+                        - Millions of viruses try to harm biological systems all the time but we have developed a passive immune response to such attacks that most of them go unnoticed 
+                        - Perhaps that's the way to think about OpSec hygiene? To develop passive responses 
+                        - That can include things like hardware security keys, SSH for secure connections across networks, clear access/credentials segmentation, more passwords, and cryptographic keys 
+                        - Recall working at an NGO that had no aspiration to expand but was still under constant attacks. Had to resort to blacklisting and nerfing of different kinds. 
+                        - Internet is costly and there're more attacks than one might think 
+                        - There's some rational behind the take that a lot of the modern tech is a mistake, the Internet was a bad move that's still popular among some circles 
+                        - We moved very quickly and didn't quite spend time thinkning about the security 
+                        - resorted to just integrating with cryptography at the TCP/IP level
+                        - We opted to have the capability but not securely conflating internet of executable and internet of data 
+                        - It is trivially easy to own a box just with terminal emulators in a text box with control characters
+                        - Having special purpose devices. known communication channels., known protocols could be a way forward, special purpose devices for high-security applications
+                        -  UNIX philosophy, targeted apps loosely coupled is better than huge monolithic projects that are typically hard to defend 
+                    - [[Ben Mahala]]
+                        - designing systems with good OpSec hygiene are almost like biological systems with the body envelopes getting punctured often by the hostile environment leading to non-linear increase in costs and with it an ability to develop immune response 
         - Feb 19: [[2023/24 Crytpo explorations track]] big picture sense-making
         - Feb 26:
         - Mar 4: [Solana 2024 State](https://solana.com/2024outlook)
