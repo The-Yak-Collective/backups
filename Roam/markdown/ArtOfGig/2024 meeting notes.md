@@ -18,3 +18,24 @@
         - LMM "encodes" aspects of the environment via training.
         - An LMM trained on Earth would likely me more capable in an unknown environment like Mars, but still be lacking knowledge of the environment. E.g. skidding on regolith, unavailable on Earth.
     - Mugatu bipedal robot
+- 2024-02-20
+    - Multi "brain" MCU - CPU -GPU, ec
+        - When would the ML brain be used?
+        - Use cases
+        - Role allocation
+        - E.g. of the man who mistakes his wife for a hat: Brain section damage
+        - Failure modes
+    - Board option we discuss little is the Coral: https://coral.ai/products/#prototyping-products
+    - Role allocation
+        - Oak-D
+        - Jetson run LLM fed from Oak-D and other sensors
+    - Capabilities of Oak-D
+        - Can run different software, including object segmentation and classification.
+        - https://github.com/thedevyansh/oak-d
+        - https://docs.luxonis.com/en/latest/pages/tutorials/first_steps/#default-model
+    - Experiment
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXvzN0GnSAR.png?alt=media&token=f86b3742-9150-4b7e-b799-9a427ab4f33d)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FSnKWP7V2Yq.png?alt=media&token=1c9c230b-3b1d-4e0a-9677-1fab73eee2e4)
+        - GPT-4 can interpret basic data series data. And it can predict what happens or what to do. It can also generate data "plans", roughly convincing. and impressive.
+        - Can also (try to) generate graphical representation of he data.![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FnVtbM1Y96x.png?alt=media&token=e55600c3-547d-48f3-8bbc-edf9b8b94f9f)
+        - 
