@@ -483,6 +483,27 @@ comparison of jakarta-bandung and orlando-miami:
                     - Indie films vs. Blockbuster trajectory. 
             - Kiran
                 - 
+        - [ZIRP and WOTW](https://discord.com/channels/692111190851059762/698566364595486720/1210633181783531530)
+            - Ananth
+            - Sachin
+                - Phillip's curve (https://www.investopedia.com/terms/p/phillipscurve.asp) 
+                    - Monetary policy based on employment and inflation. 
+            - Venkat
+                - Confident that parts that are hard to understand are there on purpose (similar to religious text)
+                - Solid ground
+                    - ZIRP -> QEP (quantitative easing). Lots of new money. Money entered in the balance sheets of the banks -> radiated outwards 
+                    - [Cantillon effect](https://www.thehindu.com/business/Economy/cantillon-effect/article65746967.ece#:~:text=The%20Cantillon%20effect%20refers%20to,the%20misallocation%20of%20scarce%20resources.)
+                    - ZIRP/QE -> Top 20 banks carried higher debt -> went to large corporations. Then it gets muddled. Then it appreciated stocks (stock buybacks, etc.) The details are  muddy. 
+                    - Housing is similar. 
+                - Small businesses have a tough time at accessing money
+                    - Free (low interest rate) vs. Easy (handing out liberally) money. Larger institutions -> Stock price. Short circuited the economy. 
+                - Articles are too simple - it's too partisan. They aren't simple effects. A nuanced discussion here is needed. 
+                - Wages have gone up but it's going to people who don't need to absorb inflation costs. 
+                - Cost Disease Effect - Less innovative sectors have rising costs but not rising productivity. 
+            - Kiran
+                - Design interest rates
+            - 2nd Round
+                - Need to compare productive timelines for different assets. 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
