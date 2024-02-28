@@ -1,7 +1,7 @@
 - 2024-02-13
     - ML and Robotics
     - Component ML vs. 
-    - Universal controller problem
+    - **Universal controller problem**
         - Optimal control
             - Adaptive control
             - Robot control
@@ -19,7 +19,7 @@
         - An LMM trained on Earth would likely me more capable in an unknown environment like Mars, but still be lacking knowledge of the environment. E.g. skidding on regolith, unavailable on Earth.
     - Mugatu bipedal robot
 - 2024-02-20
-    - Multi "brain" MCU - CPU -GPU, ec
+    - **Multi "brain" MCU - CPU -GPU, ec**
         - When would the ML brain be used?
         - Use cases
         - Role allocation
@@ -38,4 +38,49 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FSnKWP7V2Yq.png?alt=media&token=1c9c230b-3b1d-4e0a-9677-1fab73eee2e4)
         - GPT-4 can interpret basic data series data. And it can predict what happens or what to do. It can also generate data "plans", roughly convincing. and impressive.
         - Can also (try to) generate graphical representation of he data.![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FnVtbM1Y96x.png?alt=media&token=e55600c3-547d-48f3-8bbc-edf9b8b94f9f)
-        - 
+- 2024-02-28
+    - LLMs as a logic processor for rovers (narrate only, vs. narrate+act)
+    - LLMs as a popular explanatory interface for low-code/no-code entrypoint
+    - Extend discussion about multi-compute architectures
+        - RaspberryPi (+GPU-like compute extensions) and Jetson Nano
+    - Config options
+        - Jetson Orin as whole brain
+        - RPi5 + PCIe --> Hat with M.2 connector --> Accelerator like Coral
+        - OrangePi (RaspberryPi alternative) can be smaller alternative as M.2 connector right on the board (no need for a hat)
+        - [Axelera](https://www.axelera.ai/) alternative ML board
+            - Has its own Voyager SDK
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F6FvbQtByWw.png?alt=media&token=377787e1-62ba-4a49-811a-547dc01a516e)
+        - More specialised HW like TPU, etc.Used to focus the architecture to CNN, now on accelerating transformer-like payloads (typically language models).
+        - Frameworks
+            - Jetpack for Jetson (Nvidia)
+            - Tensorflow Lite (many hardware)
+            - Voyager (Axelera)
+    - Decision points
+        - Which low-level framework? (Tensorflow level of abstraction)
+        - Which complete vertical stack (for getting to low-code, e.g. TVM compiler)
+        - Which hardware config? Jetson Orin, Coral, Axelera, FPGA directly (Amaranth language LLKs talking to pytorch and below)
+        - RISCV -- BeagleV Fire 
+        - Power budget for ML
+        - Low-code vs. high-code
+        - Robust long-term vs. easy start
+    - Constraint/bounding box
+        - M.2 connectors are limited supply
+        - 4G comms needs M.2, so does AI accelerator
+        - Size (has to be no larger than RPi or Jetson)
+        - Cooling/thermal considerations (fan etc)
+        - Connections through i2c (other sensors) and SPI (camera)
+        - Motor control 
+            - breakout boards
+            - single integrated hat
+        - "Hat architecture" constraints
+            - RPi = hats
+            - Beaglebone = capes
+            - Arduino = shields
+    - Rough roadmap
+        - Yakasaur 1.0 = small brain/big brain
+        - Yakasaur 1.1 = +Oak-D + USB
+            - Other connector options possible
+        - Yakasaur 2.0 = + ML accelerator
+- 2024-3-4
+    - How these computes interact with each other
+        - Protocol for failover in a redundant architecture
