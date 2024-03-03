@@ -504,6 +504,33 @@ comparison of jakarta-bandung and orlando-miami:
                 - Design interest rates
             - 2nd Round
                 - Need to compare productive timelines for different assets. 
+        - [Techstars Fall](https://discord.com/channels/692111190851059762/698566364595486720/1213163474499276811)
+            - Venkat
+                - [Black swan](https://paulgraham.com/swan.html) vs. [Moneyball](https://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
+                    - Black Swan - the entire fund is made by a black swan event. 
+                    - Moneyball - Go invest in secondary markets (techstars thesis). Took it extreme in Colombia, Asia etc. 
+                - Techstars blow up
+                    - The fundamental investment thesis doesn't work out for techstars. Success is a black swan event. 
+                - Secondary market strategies cannot have the payoff when there's this extreme asymmetry. 
+                - Early part of the growth curve have to have extreme talent growth (>500 people). It's basically down to the Bay Area. Cannot grow to black swan size. 
+                    - Seattle (risk averse folks)and LA are #2 and #3. 
+            - Scott
+                - Analogy of threes vs. layups in basketball. 
+                - When did we know the Bay Area won? 
+                - Pixar 
+                    - What if X has feelings? 
+            - Sachin
+                - YC companies all use each other. 
+                - ZIRP quantitative easing for SAAS companies. 
+                - Consumer apps vs. app stores 
+            - Kiran
+                - 
+            - Jenna
+                - "If you can live your life without an audience - do it". Lifestyle business - enough money to have my life - meant as an insult but maybe it's the way to go. 
+            - Grigori
+                - 
+            - Ananth
+                - 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
