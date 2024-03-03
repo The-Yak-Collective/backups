@@ -5,6 +5,13 @@ window.YTD.key_registry.part0 = [
       "registeredDevices" : {
         "deviceMetadataList" : [
           {
+            "userAgent" : "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+            "registrationToken" : "c98ba73b073b7dcab1dff2b3402942c4",
+            "identityKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhc7DijO+vUbUEujt8dMyXp6IEw2VF0AhpVLvHiDtSLUKUvT+NwxDiMjlvQYn+a9cAkgpogRvEXRwQSAZM0neSg==",
+            "createdAt" : "2024-02-08T05:25:15.788Z",
+            "deviceId" : "0311ecc1-6737-4b26-8e08-033eac01a643"
+          },
+          {
             "userAgent" : "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
             "registrationToken" : "8f134813e3861f4b7d567ede722b3754",
             "identityKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8Rfeo772aWq+ClGstZ1k3tJISl+YJA+KzFKn5R6/rNcOErRkBMHIlUe0JOLCYNujFT8NAgUQAr0murFQqZOw7Q==",

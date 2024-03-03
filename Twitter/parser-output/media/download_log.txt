@@ -1,5 +1,5 @@
-  1/ 95 ./parser-output/media/1655630969909518336-BWu9lcZMZKlztEJ9.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/1280x720/BWu9lcZMZKlztEJ9.mp4?tag=12 because of exception: 'content-length'
-  2/ 95 ./parser-output/media/1283597596699684864-EdAXuDEUwAAOudd.png: SUCCESS. New version is actually  28% smaller in bytes but  42% larger in pixels. 0.3MB downloaded
+  1/ 95 ./parser-output/media/1283597596699684864-EdAXuDEUwAAOudd.png: SUCCESS. New version is actually  28% smaller in bytes but  42% larger in pixels. 0.3MB downloaded
+  2/ 95 ./parser-output/media/1655630969909518336-BWu9lcZMZKlztEJ9.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/1280x720/BWu9lcZMZKlztEJ9.mp4?tag=12 because of exception: 'content-length'
   3/ 95 ./parser-output/media/1256637591824236548-EXB5NvsU8AAhZmG.jpg: SUCCESS. New version is  53% larger in bytes and  85% larger in pixels. 0.1MB downloaded
   4/ 95 ./parser-output/media/1256045909126848512-EW5ex0YXsAMLY43.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
   5/ 95 ./parser-output/media/1255582970393624576-EWy6AQvX0AIsegQ.jpg: SUCCESS. New version is 140% larger in bytes and 156% larger in pixels. 0.4MB downloaded
@@ -101,4 +101,4 @@
 1 of 1 tested media files are known to be the best-quality available.
 
 Total downloaded: 19.0MB = 0.02GB
-Time taken: 50s
+Time taken: 41s

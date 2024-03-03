@@ -151,12 +151,12 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/Sir_Danthony/lists/topfriends"
+      "url" : "https://twitter.com/gulfinvestors/lists/topfriends"
     }
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/Sir_Danthony/lists/topbusiness"
+      "url" : "https://twitter.com/gulfinvestors/lists/topbusiness"
     }
   },
   {
@@ -196,11 +196,6 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/ProfessorStrix/lists/sense-makers"
-    }
-  },
-  {
-    "userListInfo" : {
       "url" : "https://twitter.com/makanidotspace/lists/project-program-futures"
     }
   },
@@ -217,11 +212,6 @@ window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
       "url" : "https://twitter.com/borg22/lists/weirding"
-    }
-  },
-  {
-    "userListInfo" : {
-      "url" : "https://twitter.com/callumflack/lists/start-here-2"
     }
   },
   {

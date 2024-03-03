@@ -2,11 +2,11 @@ window.YTD.ni_devices.part0 = [
   {
     "niDeviceResponse" : {
       "pushDevice" : {
-        "deviceVersion" : "10.25",
+        "deviceVersion" : "10.30",
         "udid" : "B089C98E-E3BC-44A5-9C6E-1C0A33B702C9",
         "deviceType" : "Twitter for iOS",
         "token" : "hpnDfNDfcr45hXfwugzrottkR1cwo+uojOaIOOzyCxk=",
-        "updatedDate" : "2024.02.02",
+        "updatedDate" : "2024.03.02",
         "createdDate" : "2023.11.04"
       }
     }

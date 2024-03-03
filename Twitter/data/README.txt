@@ -86,13 +86,6 @@ If Tweets have been produced and there is associated media, you can match the me
 
 If your production includes a Tweet file and did not include a tweets_media folder, this is because there was no media associated with the Tweet file.
 ----------------------
-twitter_circle_tweet_media
-Folder of images, videos, and/or gifs shared in the account’s Tweets that are shared with a Twitter Circle. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
-
-If Tweets have been shared with a Twitter Circle and there is associated media, you can match the media to the twitter-circle-tweet data file. The filename for each media file in the twitter_circle_tweet_media folder contains a numerical ID that corresponds to a Twitter Circle Tweet in the twitter-circle-tweet file. By searching the twitter-circle-tweet file for the numeric portion of the filename of the media, you can find the corresponding Twitter Circle Tweet.
-
-If your production includes a twitter-circle-tweet file and did not include a twitter_circle_tweet_media folder, this is because there was no media associated with the twitter-circle-tweet file.
-----------------------
 
 === IDENTIFIERS ===
 (Real name, alias, postal address, telephone number, unique identifiers (such as a device identifier, cookies, mobile ad identifiers), customer number, Internet Protocol address, email address, account name, and other similar identifiers)
@@ -237,6 +230,22 @@ ads-revenue-sharing.js
 app.js
 - appId: Identifier of the app Twitter believes may be installed on devices associated with the user.
 - appNames: Name of the app Twitter believes may be installed on devices associated with the user.
+----------------------
+article-metadata.js
+- authorId: Twitter ID of the author of this Twitter article.
+- createdatMs: Timestamp of the creation of this Twitter article
+- updatedAtMs: Timestamp of the last update of this Twitter article
+- visibility: Visiblity of the article
+- tweetId: TweetId associated with the article
+- firstPublishedAtMs: Timestamp of the first time this Twitter article was first published
+- lifecycleState: State of the Twitter article: Draft or Published
+----------------------
+article.js
+- id: Unique identifier for the article.
+- title: The title of the article as specified by you.
+- content: Content of the article split by sections with each has details for the text content, mentions, hashtags and styles applied to the text.
+- coverMedia: The cover media of the article.
+- media: The medias associated with the article
 ----------------------
 block.js
 - accountId: Unique identifiers of accounts currently blocked by the account.
@@ -410,6 +419,15 @@ follower.js
 following.js
 - accountId: Unique identifiers for the other accounts this account follows.
 - userLink: Link to information about the blocked users’ profiles if accessible to the account. For example, this information might not be accessible if blocked profiles are protected or deactivated.
+----------------------
+grok-chat-item.js
+- accountId: Unique identifier of the account who sent a message to Grok.
+- createdAt: Date and time the Grok chat message was sent.
+- chatId: Unique identifier of the chat the account had with Grok.
+- message: Text content of the Grok Message
+- sender: Type of the sender in the Grok conversation.
+- postIds: Unique identifiers of the Posts in the Grok response.
+- grokMode: Grok mode during the conversation.
 ----------------------
 key-registry.js
 - userId: Unique identifier for the user account
@@ -601,9 +619,6 @@ tweetdeck.js
 ----------------------
 tweets.js
 This JSON file contains available Tweets which have not been deleted and it includes edited tweets if applicable. Users can edit a tweet up to five times; as such there are up to 5 edited tweets with unique “editTweetIds,” all connected by the “initialTweetID.” The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
-----------------------
-twitter-circle-tweet.js
-This JSON file contains all the Tweets shared with a Twitter Circle and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
 ----------------------
 twitter-shop.js
 - shopId: Unique identifier for a Shop
