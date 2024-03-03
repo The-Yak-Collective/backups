@@ -140,9 +140,9 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
     - We were able to get this together pretty quickly because...
     - I had limited capacity to manage because I have 3 kids under age 5 and no childcare at the time...
     - 
-- 6:20
 - **Turn to Shreeda to choose questions out of the chat **- 
     - depending on if there are questions in there or not or if not too many attendees, could have them raise hands 
+- 6:20
 - 6:30
 - 
 - Topic ideas:
