@@ -1,6 +1,8 @@
 #datascript/DB {:schema
  {:create/user
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :diagram.edge/target
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :plugin/id {:db/unique :db.unique/identity},
   :node/subpages
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
@@ -11,12 +13,20 @@
   :window/id {:db/unique :db.unique/identity},
   :attrs/lookup
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :diagram.node/block
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :diagram.node/parent-node
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :node/windows
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :d/v
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :block/clone
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :diagram/nodes
+  {:db/valueType :db.type/ref,
+   :db/cardinality :db.cardinality/many,
+   :db/isComponent true},
   :node/sections
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :harc/v
@@ -39,11 +49,17 @@
   :block/uid {:db/unique :db.unique/identity},
   :d/e
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :diagram/edges
+  {:db/valueType :db.type/ref,
+   :db/cardinality :db.cardinality/many,
+   :db/isComponent true},
   :d/a
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :user/uid {:db/unique :db.unique/identity},
   :node/links
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :diagram.edge/source
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :link/to
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :user/email {:db/unique :db.unique/identity},
@@ -32931,4 +32947,16 @@
   [4016 :edit/time 1710236844418 536883124]
   [4016 :edit/user 2367 536883124]
   [4016 :log/id 1710236844417 536883124]
-  [4016 :node/title "March 12th, 2024" 536883124]]}
+  [4016 :node/title "March 12th, 2024" 536883124]
+  [4017 :block/uid "03-13-2024" 536883125]
+  [4017 :create/time 1710323264188 536883125]
+  [4017 :create/user 2367 536883125]
+  [4017 :edit/time 1710323264188 536883125]
+  [4017 :edit/user 2367 536883125]
+  [4017 :log/id 1710323264187 536883125]
+  [4017 :node/title "March 13th, 2024" 536883125]
+  [4018 :version/id "0.11.4" 536883125]
+  [4018
+   :version/nonce
+   "uuid7a4ef12b-18b9-4206-ad2c-f8dad5b3856a" 
+   536883125]]}
