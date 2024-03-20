@@ -84,3 +84,17 @@
 - 2024-3-4
     - How these computes interact with each other
         - Protocol for failover in a redundant architecture
+- 2024-03-19
+    - Are we too slow? Are we too late?
+        - What about using new stuff every week? Why not focusing and build up?
+        - Depends on style and stability of technology.
+        - Questions become
+            - What is worth doing?
+            - What are the stable breakthroughs?
+    - Discussions and readings:
+        - Phases: Build each, build common, common platform like Tumblr, Yakasaur, LLM/crypto "only" or mainly.
+        - https://arxiv.org/pdf/2310.09605.pdf
+        - https://typeset.io/questions/can-we-use-llms-to-learn-a-representation-of-eeg-signals-35xf4vnw7f
+        - https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1.full.pdf
+        - https://x.com/chenwang_j/status/1768304378577084739?s=20
+        - https://galaxyrvr.sunfounder.com/

@@ -1,0 +1,31 @@
+- {{[[table]]}}
+    - **Feature**
+        - **What changes?**
+            - **What doesn't change?**
+    - Structure
+    - Construction
+    - Learning
+    - Navigation
+        - Precise maps to landmark based?
+            - 
+    - Vision Sensing
+    - Mobility
+    - Structure
+    - Low-level control
+    - Supervisory control
+- {{[[table]]}}
+    - **Aspect**
+        - **Before LLMs**
+            - **After LLMs**
+    - Body
+        - Build
+            - Buy
+    - Compute
+        - SBCs
+            - SBCs + AI accelerators
+    - Code
+        - Low-level
+            - Low-code/natural language
+    - Training
+        - From scratch
+            - Refine foundation models
