@@ -87,8 +87,8 @@ but something about suicide/euthanasia rights as well
         - Regarding family ways, age ways, i was just reading the pattern language on life cycles and how erasure of visible markers of transition detracts from the ability to live life fully
         - "regarding death ways, there's something interesting about how automation + atomization leads to people being "alive" to society but dead in actuality"
     - [[Scott Allen: Social Ways, Marriage Ways]]
-        - "I'll be hyperbolic and say that everyone who has ever been married has at some point in time wished they could read their partner's thoughts."
         - "Thinking about marriage ways, and trying not to overlap too much with sex ways or social ways, or the obvious use in conjunction with therapy, I'm drawn to focus in on the commitment to intimacy that is a marriage."
+        - "I'll be hyperbolic and say that everyone who has ever been married has at some point in time wished they could read their partner's thoughts."
         - "i think people who are married or are considering it also wonder constantly if they are truly compatible in some sort of deterministic way, "am i just wasting my time" and some neurocompatibility service would be compelling to get some sort of definite answer/security, obviously with lots of controversy"
         - "if you think of stuff like the "girlfriend experience" (the show as well as that pattern of prostitution), you can think of "marriage experience" if you can get to the right level of intimacy quickly enough using neuro-aids" 
         - "Now, I think the vast majority of people would be viscerally resistant to having some sort of open, automatic communication to their partner about what they're thinking/feeling, even if it's as broad as a general emotion."
