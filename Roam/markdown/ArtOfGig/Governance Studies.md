@@ -532,6 +532,31 @@ comparison of jakarta-bandung and orlando-miami:
                 - 
             - Ananth
                 - 
+        - [Harberger Tax](https://discord.com/channels/692111190851059762/1220762553420873792)
+            - Venkat
+                - First came across this with NIMBY discussion in SF. 
+                - Allocative vs. Investment Efficiency. 
+                - https://www.interfluidity.com/v2/6487.html 
+                - People *with* property hate this. It's eminent domain exercised by neighbors vs. only by government. 
+                - Factory vs. House. 
+                - Nice for middle class to have secured property ownership based on monopoly rights on when to sell. Anybody who doesn't have that is the flip side. 
+                - Easier to do on abstractions (domain names, spectrum) but harder on real estate. 
+                - Might be interesting to look at China
+            - Jenna
+                - In the Arena piece - something
+                - "Mechanism design" jumped out. 
+                - Marc Benioff case (buying Hawaii) - how do we prevent some rich folks from buying it up. Publicly owned beach fronts can be tough. 
+            - Sachin
+                - Vickery auction mechanism is familiar from online systems (google ads). Pretty cool to see the similarity with zora. 
+                - Most cities have holdout problems - people not selling. 
+                - Email job vs. delivery. Everybody not owning real estate is not really in the city, just works there. 
+                - Needs to be a dire situation to be implemented. 
+                - Can this be implemented non-violently? 
+                    - India land redistribution 
+                    - Large denomination currency banned
+            - Kiran
+                - House - Luxury, Utility and Asset put together. 
+                - How do you even get this kind of things to pass? Mass frustration? The Mob. 
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
