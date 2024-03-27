@@ -98,3 +98,15 @@
         - https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1.full.pdf
         - https://x.com/chenwang_j/status/1768304378577084739?s=20
         - https://galaxyrvr.sunfounder.com/
+- 2024-03-26
+    - PCB design: Anuraj's dual Nano new board
+        - Two designs: Components and layout.
+        - Components are the different electronics.
+        - Layout is how the components are arranged physically.
+        - Done with [KiCad](https://www.kicad.org/), OSS. Tried with Flux, but confusing and knew KiCad from earlier experienc.
+        - JLCPCB to manufacture. Faster if they have all required components sourced
+        - Use KiCad's catalogue, or snapmedia.com to find parts' footprints to put on the layout.
+        - ~55€ for manufacture and components (only ~4€ for PCB, way more expensive in, say, a German manufacturer)
+        - Actual PCB production is usually well automated. E.g. of PCBWay assembly manufacturing machine video on YouTube.
+        - KiCad has built-in validation (optional, so no validation by default and can be creating useless PCB), and there are there OSS for simulation, et
+        - https://discord.com/channels/692111190851059762/779070653122084864/1221484089236787321

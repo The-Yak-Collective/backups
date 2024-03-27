@@ -1,4 +1,5 @@
 - #Infrastructure
+- **Participants**: [[Steven Moody]], [[John Grant]], [[Scott Allen]], [[Mike Morris]], [[Sachin Benny]], [[Venkatesh Rao]]
 - Provocation from for this chat [[Venkatesh Rao]]
     - **Thought experiment: unlimited resources what infrastructure would we have?** 
     - **Chaos from illegibility vs chaos from underpowered tools**
@@ -9,7 +10,6 @@
     - ![ ](https://cdn.discordapp.com/avatars/692110789657755728/c96751584808ef900c3a2ae7c4682758.png?size=128)
     - [10:24 AM]
     - ## Venkatesh Rao (US Pacific)Today at 10:23 AM
-- **Participants**: [[Steven Moody]], [[John Grant]], [[Scott Allen]], [[Mike Morris]], [[Sachin Benny]], [[Venkatesh Rao]]
 - [[Sachin Benny]]: noise from discord - a lot to process if you're not on-line for 2 days
     - VGR: Fomo isn't an issue. Tune into what you want... Soft discussion works networking...
         - Hard constraints require. Slightly infrastructure. People get demotivated
