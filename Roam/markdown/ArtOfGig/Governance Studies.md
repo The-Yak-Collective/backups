@@ -284,6 +284,33 @@ comparison of jakarta-bandung and orlando-miami:
                 - Tragedy of the commons. - nobody has any incentive to tell the right story 
                 - big government budgets - they dont have a marketing allocation 
                 - allocate some money for the projects to market themselves
+        - Hydraulic Empires 
+            - Sachin
+                - Kaveri river water issue - in some ways hydraulic empires 
+                - it seems like a constraint of resources leads to finding some resource that can be controlled and in a lot of cases its water - if there are no resources 
+                - Los Angeles is a good example of this seems like? 
+                - Electric grid. - wonder how much of this can be applied to the electric grid and energy production 
+                - https://en.wikipedia.org/wiki/Ajuran_Sultanate
+            - Matthew 
+                - focussed a bit more on oriental despotism - theory of how what came from the orient was more 
+                - Asiatic civilization reading?? 
+                - The guy who coined hydraulic empires believed in great man theory
+                - braiding sweetgrass -  the tension between treating these things as resources or invoking some sort of personhood 
+            - Grigori
+                - one idea caught attention: what happened first, irrigation creates opportunity -> area that is irrigated is more attractive than area that is not irrigated - people are starting to get attracted to it 
+                - someone has to provide reliability and robustness for the irrigation 
+                - similar dynamic in the case of TSMC
+            - Venkat 
+                - Frank Herbert got interested in dune because of Egypt
+                - Nile river was very unpredictable. 
+                - Economic opportunity was extremely wild because the river was unpredictable. 
+                - The emperor set themselves as god - claim to predict what the nile does and so the people obey you more 
+                - Uncertainty factors
+                - Dune - the sandworms create the spices - only locals know how to control 
+                - Paul Atriedes becomes the "predictor" 
+                - Both wiki and britannica point out that historians dont like this idea - there might be a germ of truth here
+                - Jensen Huang - setting himself up as a messiah of sorts. God of Gods, emperor of emperors because all tech CEOs listen to it 
+                - uncertainties - edge of yield, AI software uncertainty 
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
