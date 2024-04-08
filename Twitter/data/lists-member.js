@@ -151,12 +151,12 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/gulfinvestors/lists/topfriends"
+      "url" : "https://twitter.com/strat_finance/lists/topfriends"
     }
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/gulfinvestors/lists/topbusiness"
+      "url" : "https://twitter.com/strat_finance/lists/topbusiness"
     }
   },
   {

@@ -119,6 +119,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Consulting",
+            "isDisabled" : false
+          },
+          {
             "name" : "Cooking",
             "isDisabled" : false
           },
@@ -148,10 +152,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Donald Trump",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Drama TV",
             "isDisabled" : false
           },
           {
@@ -239,10 +239,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Gingerbread",
-            "isDisabled" : false
-          },
-          {
             "name" : "Global Economy",
             "isDisabled" : false
           },
@@ -275,18 +271,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "House",
-            "isDisabled" : false
-          },
-          {
-            "name" : "House",
-            "isDisabled" : false
-          },
-          {
-            "name" : "House",
-            "isDisabled" : false
-          },
-          {
             "name" : "Indie rock",
             "isDisabled" : false
           },
@@ -304,10 +288,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Instagram",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Investing",
             "isDisabled" : false
           },
           {
@@ -339,6 +319,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Management consulting",
+            "isDisabled" : false
+          },
+          {
             "name" : "Marvel Universe",
             "isDisabled" : false
           },
@@ -348,10 +332,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "McKinsey & Company",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Medical drama",
             "isDisabled" : false
           },
           {
@@ -376,10 +356,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Model figures",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Movies & TV",
             "isDisabled" : false
           },
           {
@@ -563,10 +539,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Venture capital",
-            "isDisabled" : false
-          },
-          {
             "name" : "Visual arts",
             "isDisabled" : false
           },
@@ -629,7 +601,8 @@ window.YTD.personalization.part0 = [
         ]
       },
       "locationHistory" : [
-        "Bellevue, WA, USA"
+        "Columbus, OH, USA",
+        "Inglewood-Finn Hill, WA, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [

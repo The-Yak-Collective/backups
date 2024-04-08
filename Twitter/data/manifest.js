@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14685130",
-    "generationDate" : "2024-03-02T19:19:55.855Z",
+    "sizeBytes" : "14698080",
+    "generationDate" : "2024-04-08T15:53:38.894Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -62,7 +62,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "0"
+        "count" : "1"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -213,7 +213,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweet-headers.js",
         "globalName" : "YTD.deleted_tweet_headers.part0",
-        "count" : "3"
+        "count" : "0"
       } ]
     },
     "deletedTweets" : {
@@ -221,7 +221,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweets.js",
         "globalName" : "YTD.deleted_tweets.part0",
-        "count" : "3"
+        "count" : "0"
       } ]
     },
     "deletedTweetsMedia" : {
@@ -231,7 +231,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "17"
+        "count" : "18"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -288,7 +288,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2416"
+        "count" : "2411"
       } ]
     },
     "following" : {
@@ -309,7 +309,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "213"
+        "count" : "181"
       } ]
     },
     "keyRegistry" : {
@@ -551,7 +551,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "2327"
+        "count" : "2340"
       } ]
     },
     "tweetdeck" : {
@@ -566,7 +566,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "2327"
+        "count" : "2340"
       } ]
     },
     "tweetsMedia" : {
