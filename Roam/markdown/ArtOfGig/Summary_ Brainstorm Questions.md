@@ -18,11 +18,11 @@ A: Continued from above... And that’s for post-hoc analysis. Real-time (goal o
 A: First gen Kernel devices will focus primarily on sensing. However, for the futures exercise, prediction/complete loops can be considered 
     - Q: How do various sensing technologies compare when it comes to resolution?
 A: From [[Nikhil Deshmukh]] ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F00y9e_2NvE.png?alt=media&token=56ad1026-6d59-4d6f-a7ed-d68eb9cac911)
+    - Q: One question I have is about the capabilities of these types of measuring technologies with cortical vs. subcortical activity, and the implications of this when capturing / evaluating / making declarative claims about cognition & brain activity
+A: From [[Nikhil Deshmukh]] My understanding is that you only really measure averages of cortical surface activity
     - Q: Is it fair to assume that the sensing devices won't be able to go beyond coarse grained measurements and interpretations?
 A: If you have 20 years and you really want to do something totally noninvasive and real time?  It's a reasonable bet IMO. But otoh what you want to measure is some coarse grained thing! But no one is exactly sure what scale the salient degrees of freedom for like symbolic reasoning really lie, and there is very interesting debate about this. (Semon Rezchikov)
 A: I think we will be able to model circuits of 100 to 1000s of neurons in specific brain regions, and that these circuits will produce signals that are measurable non-invasively. The models can be developed with invasive single-cell recording techniques and then used for prediction. [[Nikhil Deshmukh]]
-    - Q: One question I have is about the capabilities of these types of measuring technologies with cortical vs. subcortical activity, and the implications of this when capturing / evaluating / making declarative claims about cognition & brain activity
-A: From [[Nikhil Deshmukh]] My understanding is that you only really measure averages of cortical surface activity
     - Q: Is it fair to assume that typical rates of innovation over the past 20 years will remain so going forward? I see a lot of old research on neurotech talking about the same things I see today and it makes me wonder how this will play out. Will it be something like ML/DL where core concepts were published decades ago but the tech to implement it only came along now. Is Kernel aspiring to be that point of inflection by making neurotech affordable/scalable?
 A: Solving a problem/idea for a new era of technology/scale/miniaturization/cost-point is basically a new challenge and the old/prescient research is often not as useful as the pioneers wish/hope [[Venkatesh Rao]]
 A: I think the limiting factor here is our understanding of the brain. Not sure if anyone has calculated the rate of discovery for neuroscience, but the balance is still heavily towards the unknown i.e. that we know far less about the neuroscience than what is possible to be known. [[Nikhil Deshmukh]]
@@ -57,16 +57,16 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
         - [Replicate this fMRI study by Jack Gallant et. al to decode visual images from brain signals. What if we could record the contents of our dreams?](https://discord.com/channels/692111190851059762/712459471787393054/714597421442793552)
     - [Improving memory, retention, recall, etc. ](https://discord.com/channels/692111190851059762/712459471787393054/714401674080288839)
     - [Sentiment analysis for planning scenarios/outcomes](https://discord.com/channels/692111190851059762/712459471787393054/714499053492109323)
+    - [Using optogenetics for corrective measures in law enforcement](https://discord.com/channels/692111190851059762/712459471787393054/714523671330291743)
     - [[Siva Swaroop]]
         - [Improving sleep quality](https://discord.com/channels/692111190851059762/712459471787393054/714498353429217320)
         - [Drowsiness detection during driving/autopilot](https://discord.com/channels/692111190851059762/712459471787393054/714500214672588901)
-    - [Using optogenetics for corrective measures in law enforcement](https://discord.com/channels/692111190851059762/712459471787393054/714523671330291743)
     - [Hollywood movie screening tests with Kernel](https://discord.com/channels/692111190851059762/712459471787393054/714499617051639828)
     - [[Kannen Ramsamy]]
         - [School assignment is a big policy problem in UK where Kernel could be used](https://discord.com/channels/692111190851059762/712459471787393054/714554020261265489)
-    - [An experiment that I think can be interesting is to look at environmental triggers of people's positive / negative affects based on Richard Davidson's work](https://discord.com/channels/692111190851059762/712459471787393054/714536141621035112)
     - [[Venkatesh Rao]]
         - [Predictively mute tweets/threads based on mute words and sentiment](https://discord.com/channels/692111190851059762/712459471787393054/714542761906274373)
+    - [An experiment that I think can be interesting is to look at environmental triggers of people's positive / negative affects based on Richard Davidson's work](https://discord.com/channels/692111190851059762/712459471787393054/714536141621035112)
     - [[Sachin Benny]]
         - [Using Speller ID tech where officers are supposed to recognize and make a decision to shoot/not shoot a subject based on the subject's behaviour/perceived threat level](https://discord.com/channels/692111190851059762/712459471787393054/714528092068249670)
         - [Measuring effects of environment/external factors on learning e.g. temperature](https://discord.com/channels/692111190851059762/712459471787393054/714531025220535333)
@@ -77,17 +77,17 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
         - [The Kernel helmet identifies focused/attentive states, integrates with Slack/GCal and modifies your status and calendar based on set rules](https://discord.com/channels/692111190851059762/712459471787393054/714544188557099038)
     - [[Luke Butler]]
         - [Sentiment based Neuro-psychotyping](https://discord.com/channels/692111190851059762/712459471787393054/714537894122881035)
+    - [An idea that could be evaluated w Kernel tech is how the self structure re-integrates via many healing modalities (cbt / somatics / narrative-based / psychedelics / etc)](https://discord.com/channels/692111190851059762/712459471787393054/714575534654357616)
     - [[Vinay Débrou]]
         - [Internet of brains - A WorldWide Mindweb](https://discord.com/channels/692111190851059762/712459471787393054/714544092180250674)
         - [Intention/emotion processing model on a partner's verbal data](https://discord.com/channels/692111190851059762/712459471787393054/714554572806553670)
-    - [An idea that could be evaluated w Kernel tech is how the self structure re-integrates via many healing modalities (cbt / somatics / narrative-based / psychedelics / etc)](https://discord.com/channels/692111190851059762/712459471787393054/714575534654357616)
     - [[Patrick Atwater]]
         - [Compare people classified in the various DSM5 psychological categories to normies](https://discord.com/channels/692111190851059762/712459471787393054/714551552618266664)
     - [[Luke Butler]]
         - [Also could connect this with Poly-vagal theory and interoception / body perceptions, which could provide more 360° feedback-style evaluation of where people “keep the score” in their bodies](https://discord.com/channels/692111190851059762/712459471787393054/714575973072371803)
+    - [Understand media impact on world view by channel and messaging](https://discord.com/channels/692111190851059762/712459471787393054/714598597454331965)
     - [[Promise Tewogbola]]
         - [Measure brain activity of experts/elite performers](https://discord.com/channels/692111190851059762/712459471787393054/714575589998329866)
-    - [Understand media impact on world view by channel and messaging](https://discord.com/channels/692111190851059762/712459471787393054/714598597454331965)
     - [[Jay Kalawar]]
         - [Kernel devices and systems compare signals from group of humans with confirmed synesthesia with those who are not. Potentially leading to ways of inducing synesthesia through signals, without invasive chemical inputs?](https://discord.com/channels/692111190851059762/712459471787393054/714577804099977227)
         - [Could Kernel devices be useful for this type of research, potentially decreasing costs of MRI, and making monitoring more widely available to Child Services social workers?](https://discord.com/channels/692111190851059762/712459471787393054/714580924569878548)
