@@ -110,3 +110,28 @@
         - Actual PCB production is usually well automated. E.g. of PCBWay assembly manufacturing machine video on YouTube.
         - KiCad has built-in validation (optional, so no validation by default and can be creating useless PCB), and there are there OSS for simulation, et
         - https://discord.com/channels/692111190851059762/779070653122084864/1221484089236787321
+- 2024-04-09
+    - PCB design problems
+    - Rhett's work
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FDhlq55heJL.png?alt=media&token=9852ab89-ea0d-498b-9dbc-095147e81f08)
+        - Trial but connections too close.
+        - Errors have mysterious ways, problems with too many parts.
+        - Lines may be too close to each other.
+        - Too many Y shapes?
+        - Comments from pros:
+            - Avoid 90º, rather use 45º for physical reasons. https://electronics.stackexchange.com/questions/226582/pcb-90-degree-angles and https://www.signalintegrityjournal.com/articles/2104-should-you-worry-about-90-degree-bends-in-circuit-board-traces
+            - Problem with filling space with ground https://electronics.stackexchange.com/questions/680791/should-i-fill-free-pcb-space-with-ground
+    - Anuraj's work
+        - Made boards received
+        - Did not work with Arduino connected.
+        - Problem was tests were done with old code, no properly recompiled.
+        - Debugging
+            - Found a problem of reset current, by measuring.
+            - A pin was receiving a square signal (duty cycle), while it should not have.
+            - Allowed to find a design problem, with capacity cycle (charge/discharge)
+            - Problem is that 2 different reset pins get connected (reset pushbutton on Arduino schematics)
+        - Solution
+            - Found the 2 lines connecting the reset pins
+            - Cut them physically
+            - One horizontal on the left, and a diagonal one between the two main chips on the board.
+            - After cut, works as expected.
