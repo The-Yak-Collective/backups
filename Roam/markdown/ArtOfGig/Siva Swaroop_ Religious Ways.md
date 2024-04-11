@@ -4,8 +4,8 @@
 - - YOU CAN PUT YOUR COMMENT HERE AND THEN TAG YOURSELF SO I KNOW WHO YOU ARE 
 - EVERYTHING BELOW THIS SECTION IS STUFF I PUT DOWN MYSELF 
     - Comment 1: [[Jay Kalawar]]
-        - On Religion Ways 2040 that dove tails into what happened at Zoom call with Kernel May 26th 2020  
         - Sharing some thoughts / speculative note
+        - On Religion Ways 2040 that dove tails into what happened at Zoom call with Kernel May 26th 2020  
         - Humans develop (evolve?) shared conceptual frameworks (what such frameworks consist of etc obviously needs drilling down) to navigate complexity, especially unknown unknowns. Lets call it Complexity Navigating Conceptual Framework (CNCF).
         - When a current CNCF fails to perform over some period of time (a few decades? Centuries?), then a new CNCF arises.
         - 
