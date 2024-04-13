@@ -9,6 +9,45 @@
 - » [Google Doc](https://docs.google.com/document/d/1WvCmvNeQLHy9XqiL1iq7fvSHllou6Liq8JJcxHag3tQ/edit?usp=sharing)
 - 
 - ---
+- Season 4.5
+    - Childbearing, monkhood and property rights in governance 
+        - [Eunuchs in the forbidden city ](https://multimedia.scmp.com/culture/article/2155959/forbidden-city/life/chapter_02.html)
+            - Sachin
+                - parallels to bureacracy in the present day. Bureacrats are no sexualized at all. You could say from any language even if you dont understand the language 
+                - same with workers who are encouraged to freeze their eggs (Facebook program) while CEOs taking maternal leave or bringing their babies to the IPO is celebrated 
+                - bouts of extreme anger -  not represented in fiction that much perhaps - they are all shown as calm and restraint - game of thrones 
+                - also a disadvantaged group in some way even if they were powerful
+                - they were separated from the bureaucrats
+                - also played the role of archivists  
+                - https://multimedia.scmp.com/culture/article/2154046/forbidden-city/life/chapter_01.html - follow up reading 
+                - forced monk-hood
+            - Ananth
+                - Eunuchs were contributing to child bearing but indirectly 
+                - gruesome read 
+                - seems quite prevalent in other empires 
+                - it was common in India 
+            - Matthew 
+                - Eunuchs are the shadow for a monk 
+                - They are focussed on their own interiority - monks 
+                - Eunuchs are focussed on increasing other people'e agency 
+                - There must be a really big impact on the culture of so many people changing how they look and how they move 
+                - not clear how much influence they have 
+                - They are invisible human agents 
+                - Fantasy series called Malazan Book of the Fallen similar group of people in it 
+                - they are similar analogies in Butlers and other roles - and they are replaced by invisible machines 
+            - Venkat 
+                - Islamic empire - Eunuchs played a very similar role 
+                - In a lot of examples, it was voluntary - they did not have a lot of options so they chose to it 
+                - along the margins you would find things that were coerced but under immense stressors or incentives 
+                - Interesting that they were unable to have children but they wielded secret power 
+                - may be we should read about egypt/islamic eunuchs in goverment 
+                - Clans are kinship based, when the eunuchs retained power they became powerful clans 
+                - May be we should include the monastic order in the governance track - functional claims are the same 
+                - in india - in the muslim era the castratri are similar to eunuchs 
+                - witchcraft - is that
+                - Harem origin story - you wanted general adminstration to rest on people who would not start clans of their own 
+                - Throwing sheep in boardroom - history of relationship between nobility and monkhood. The second and younger sons of nobility went off to become monks. They still had power ambitions - on the ways they controlled power was basically controlling when the royal family can have kids -> reason why catholic church has so much land 
+                - Were eunuch allowed to own property and how rich did they get? 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
