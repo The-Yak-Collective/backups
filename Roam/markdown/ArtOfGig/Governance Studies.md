@@ -48,6 +48,34 @@
                 - Harem origin story - you wanted general adminstration to rest on people who would not start clans of their own 
                 - Throwing sheep in boardroom - history of relationship between nobility and monkhood. The second and younger sons of nobility went off to become monks. They still had power ambitions - on the ways they controlled power was basically controlling when the royal family can have kids -> reason why catholic church has so much land 
                 - Were eunuch allowed to own property and how rich did they get? 
+        - [Sons of Soil](https://www.are.na/block/27910700)
+            - Jenna
+                - Full-on biological underpinning via "embodiment"... anything we use becomes a felt extension of our bodies. Land falls into this
+                    - https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01332/full
+                    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6923672/
+                - Example of gulls in *Finding Nemo* embodied this idea "mine, mine, mine"
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FfH6bSd3eWe.gif?alt=media&token=2f9bfd35-c023-4179-8c30-b7033e1ed9a0)
+                    - 
+                - humans always
+                - police being called to restore order - they always become more violent. Parallels to the current moment of college
+            - Ananth
+                - seems like an unnarrateable situation
+                - tension between people who are left behind and people
+            - Venkat
+                - Frames in which it is relevant - Israel v Gaza and southern border
+                - Historical exception narrative
+                - Definitions and coding need work - has there been migration trigerred conflits since 1980, seems a bit too narrow perhaps. If you code it liberally then all conflict is in the same mode
+                - knob should be either more liberal or there should be bands of it
+                - band 1: recent conflicts, state sponsored
+                - band 2: more long term, historic migration
+                - how people come to see themselves as sons of soil
+                - Three generations is probably what it will take for sons of soil politics
+                - communities putting down roots, States where this least basis for sons of the soil is where its strongest in the US
+                - language and number of different dialects in a place is a good indication
+            - Sachin
+                - Settler politics favor rural to rural immigration perhaps rural to city immigration would not produce as much conflict
+                - poor resources on both sides leads to civil war like situations
+                - interesting how there is low level conflict for a long time and then suddenly there is huge violence
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
