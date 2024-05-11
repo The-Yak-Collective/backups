@@ -76,6 +76,35 @@
                 - Settler politics favor rural to rural immigration perhaps rural to city immigration would not produce as much conflict
                 - poor resources on both sides leads to civil war like situations
                 - interesting how there is low level conflict for a long time and then suddenly there is huge violence
+        - Judith Butler 
+            - Sachin
+                - Gender has having historic context seems like a reasonably simple idea - not sure why its controversial
+                - It seems like there is an enforcement of gender that is similar to enforcement of being a monk or a eunuch 
+                - Preventing kinship vs encouraging a certain type of kinship - this seems like a through line in both 
+                - Ursula Le Guin stories - I think she has a couple of short stories where the gender of the person is assumed only for some time 
+                - Reads like Deleueze - post modern 
+                - almost seems anti-memetic in some way - cant tell if the person is serious or not
+            - Jenna
+                - Ada palerm Tyler Cowen intereview
+                - Growing up as a woman was pretty bad but has improved vastly 
+                - Agnes Callard being parodied - seems like there is no way to have a conversation around this 
+            - Ananth
+                - seems like there is disrcimination based on gender - based on previous studies
+            - Venkat 
+                - For some people this reads like the unabomber manifesto 
+                - interesting to see even Butler's poltiics seems older 
+                - State takes over the psychological function of being the parent of the child 
+                - There is some movement in some eastern state where there is a movement to ban home schooling 
+                - Reproduction -  who controls it - through line in all the readings 
+                - how do you make political alliances - that is what matters here the most? 
+                - There is no benefit of doubt cause both sides try to undermine scientific questioning of this 
+                - Groups in the middle try to not talk about it entirely - minimum they need to 
+                - On the two extremes - its just war room strategy -there is a pre-determined truth and no one has any doubts on the science 
+                - There is no possibility of scientific study on this 
+            - Mike 
+                - just joined the yak collective 
+                - could not find a connection to the non-contingent facts of physical reality. Physical reality imposes limits to the performance in certain way - like the set or props that an actor has available to them
+                - divorcing physical reality makes it hard 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
