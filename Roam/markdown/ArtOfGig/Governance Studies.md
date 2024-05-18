@@ -10,10 +10,10 @@
 - 
 - ---
 - Season 4.5
-    - Childbearing, monkhood and property rights in governance 
-        - [Eunuchs in the forbidden city ](https://multimedia.scmp.com/culture/article/2155959/forbidden-city/life/chapter_02.html)
+    - Childbearing, monk hood and sons of the soil
+        - [Eunuchs in the forbidden city ](https://multimedia.scmp.com/culture/article/2155959/forbidden-city/life/chapter_02.html)| [Discord Thread](https://discord.com/channels/692111190851059762/1228372439541481564)
             - Sachin
-                - parallels to bureacracy in the present day. Bureacrats are no sexualized at all. You could say from any language even if you dont understand the language 
+                - parallels to bureacracy in the present day. Bureacrats are not sexualized at all. You could say from any language even if you dont understand the language 
                 - same with workers who are encouraged to freeze their eggs (Facebook program) while CEOs taking maternal leave or bringing their babies to the IPO is celebrated 
                 - bouts of extreme anger -  not represented in fiction that much perhaps - they are all shown as calm and restraint - game of thrones 
                 - also a disadvantaged group in some way even if they were powerful
@@ -48,19 +48,18 @@
                 - Harem origin story - you wanted general adminstration to rest on people who would not start clans of their own 
                 - Throwing sheep in boardroom - history of relationship between nobility and monkhood. The second and younger sons of nobility went off to become monks. They still had power ambitions - on the ways they controlled power was basically controlling when the royal family can have kids -> reason why catholic church has so much land 
                 - Were eunuch allowed to own property and how rich did they get? 
-        - [Sons of Soil](https://www.are.na/block/27910700)
+        - [Sons of Soil](https://www.are.na/block/27910700) | [Discord Thread](https://discord.com/channels/692111190851059762/1235984283265400944)
             - Jenna
                 - Full-on biological underpinning via "embodiment"... anything we use becomes a felt extension of our bodies. Land falls into this
                     - https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01332/full
                     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6923672/
                 - Example of gulls in *Finding Nemo* embodied this idea "mine, mine, mine"
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FfH6bSd3eWe.gif?alt=media&token=2f9bfd35-c023-4179-8c30-b7033e1ed9a0)
-                    - 
                 - humans always
                 - police being called to restore order - they always become more violent. Parallels to the current moment of college
             - Ananth
                 - seems like an unnarrateable situation
-                - tension between people who are left behind and people
+                - tension between people who are left behind post independence in messy bureaucratic positions and the rest of the population with new political power 
             - Venkat
                 - Frames in which it is relevant - Israel v Gaza and southern border
                 - Historical exception narrative
@@ -76,7 +75,20 @@
                 - Settler politics favor rural to rural immigration perhaps rural to city immigration would not produce as much conflict
                 - poor resources on both sides leads to civil war like situations
                 - interesting how there is low level conflict for a long time and then suddenly there is huge violence
-        - Judith Butler 
+        - [From Asceticism to Administration of Wealth: Medieval Monasteries and Pitfalls of Rationalization](https://www.are.na/block/27789290) | [Discord Thread](https://discord.com/channels/692111190851059762/1233444698279120927)
+            - Jenna
+                - tai chi connection
+                - once you had people who could do other things it freed up time to things like going deep on tai chi
+                - difficulties that retirees and FIRE experience when they get to their goals - because we 
+                - Being rich makes you messed up 
+                - Iron cage similar to Kafka Index 
+            - Venkat 
+                - Reminded of Academic culture 
+                - Tenured faculty and Adjunct - adjuncts do the bulk of the teaching (they are "serfs" with no hope of tenure). modern Adjuncts are captive to being part of the university 
+                - similar to the Lay Brothers - they got gaslit into being serfs
+                - its not so much iron cage of bureacracy - if you live productively then there is a surplus and no idea what to do with surplus. 
+                - Is there a way to create a system of rules in such a way that you are always not able to follow all the rules 
+        - [Performative Acts and Gender Constitution](https://www.amherst.edu/system/files/media/1650/butler_performative_acts.pdf) | [Discord Thread](https://discord.com/channels/692111190851059762/1238520235586359356)
             - Sachin
                 - Gender has having historic context seems like a reasonably simple idea - not sure why its controversial
                 - It seems like there is an enforcement of gender that is similar to enforcement of being a monk or a eunuch 
@@ -85,17 +97,17 @@
                 - Reads like Deleueze - post modern 
                 - almost seems anti-memetic in some way - cant tell if the person is serious or not
             - Jenna
-                - Ada palerm Tyler Cowen intereview
-                - Growing up as a woman was pretty bad but has improved vastly 
+                - [Ada Palmer Tyler Cowen interview](https://share.snipd.com/snip/49d9295e-5e54-45bd-8919-81a937c55fe2)
+                - Growing up as a woman was pretty bad but has improved vastly... or has it
                 - Agnes Callard being parodied - seems like there is no way to have a conversation around this 
             - Ananth
-                - seems like there is disrcimination based on gender - based on previous studies
+                - seems like there is discrimination based on gender - based on previous studies
             - Venkat 
                 - For some people this reads like the unabomber manifesto 
                 - interesting to see even Butler's poltiics seems older 
                 - State takes over the psychological function of being the parent of the child 
                 - There is some movement in some eastern state where there is a movement to ban home schooling 
-                - Reproduction -  who controls it - through line in all the readings 
+                - Reproduction -  who controls it - throughline in all the readings 
                 - how do you make political alliances - that is what matters here the most? 
                 - There is no benefit of doubt cause both sides try to undermine scientific questioning of this 
                 - Groups in the middle try to not talk about it entirely - minimum they need to 
