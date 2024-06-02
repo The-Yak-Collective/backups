@@ -57,10 +57,10 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
         - [Replicate this fMRI study by Jack Gallant et. al to decode visual images from brain signals. What if we could record the contents of our dreams?](https://discord.com/channels/692111190851059762/712459471787393054/714597421442793552)
     - [Improving memory, retention, recall, etc. ](https://discord.com/channels/692111190851059762/712459471787393054/714401674080288839)
     - [Sentiment analysis for planning scenarios/outcomes](https://discord.com/channels/692111190851059762/712459471787393054/714499053492109323)
-    - [Using optogenetics for corrective measures in law enforcement](https://discord.com/channels/692111190851059762/712459471787393054/714523671330291743)
     - [[Siva Swaroop]]
         - [Improving sleep quality](https://discord.com/channels/692111190851059762/712459471787393054/714498353429217320)
         - [Drowsiness detection during driving/autopilot](https://discord.com/channels/692111190851059762/712459471787393054/714500214672588901)
+    - [Using optogenetics for corrective measures in law enforcement](https://discord.com/channels/692111190851059762/712459471787393054/714523671330291743)
     - [Hollywood movie screening tests with Kernel](https://discord.com/channels/692111190851059762/712459471787393054/714499617051639828)
     - [[Kannen Ramsamy]]
         - [School assignment is a big policy problem in UK where Kernel could be used](https://discord.com/channels/692111190851059762/712459471787393054/714554020261265489)
@@ -85,9 +85,9 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
         - [Compare people classified in the various DSM5 psychological categories to normies](https://discord.com/channels/692111190851059762/712459471787393054/714551552618266664)
     - [[Luke Butler]]
         - [Also could connect this with Poly-vagal theory and interoception / body perceptions, which could provide more 360° feedback-style evaluation of where people “keep the score” in their bodies](https://discord.com/channels/692111190851059762/712459471787393054/714575973072371803)
-    - [Understand media impact on world view by channel and messaging](https://discord.com/channels/692111190851059762/712459471787393054/714598597454331965)
     - [[Promise Tewogbola]]
         - [Measure brain activity of experts/elite performers](https://discord.com/channels/692111190851059762/712459471787393054/714575589998329866)
+    - [Understand media impact on world view by channel and messaging](https://discord.com/channels/692111190851059762/712459471787393054/714598597454331965)
     - [[Jay Kalawar]]
         - [Kernel devices and systems compare signals from group of humans with confirmed synesthesia with those who are not. Potentially leading to ways of inducing synesthesia through signals, without invasive chemical inputs?](https://discord.com/channels/692111190851059762/712459471787393054/714577804099977227)
         - [Could Kernel devices be useful for this type of research, potentially decreasing costs of MRI, and making monitoring more widely available to Child Services social workers?](https://discord.com/channels/692111190851059762/712459471787393054/714580924569878548)
