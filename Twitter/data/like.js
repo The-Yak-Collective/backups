@@ -64,13 +64,6 @@ window.YTD.like.part0 = [
   },
   {
     "like" : {
-      "tweetId" : "1495136667874725889",
-      "fullText" : "Clicked and collected. Epic https://t.co/vqCj2hGGYO",
-      "expandedUrl" : "https://twitter.com/i/web/status/1495136667874725889"
-    }
-  },
-  {
-    "like" : {
       "tweetId" : "1493528265377656835",
       "fullText" : "Extreme topic hacking. The @yak_collective are designing and building Mars rovers in the open. The intention is to actually send an open-source rover to Mars. The Yak Rover Weeklies require attention but are an informative and entertaining watch\n\nhttps://t.co/xqtCU0WWqZ",
       "expandedUrl" : "https://twitter.com/i/web/status/1493528265377656835"
@@ -81,13 +74,6 @@ window.YTD.like.part0 = [
       "tweetId" : "1482052901040234500",
       "fullText" : "@sachinnbenny @yak_collective so many quotable quote NFT opportunities",
       "expandedUrl" : "https://twitter.com/i/web/status/1482052901040234500"
-    }
-  },
-  {
-    "like" : {
-      "tweetId" : "1470359928422510596",
-      "fullText" : "This public document describes the design process for a community town hall or other similar community gathering events. For digital-first communities, the Town Hall is one of the anchor events that brings members together and helps create a shared mindset in their journey. 👇",
-      "expandedUrl" : "https://twitter.com/i/web/status/1470359928422510596"
     }
   },
   {

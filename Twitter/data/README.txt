@@ -412,6 +412,13 @@ direct-messages.js
 - id: Unique identifier for a specific Direct Message within the conversation.
 - createdAt: Date and time the Direct Message was sent.
 ----------------------
+expanded-profile.js
+This JSON file contains all expanded profile information.
+
+Specifically, an expanded profile is comprised of sections. Each section can have a title and 1 or more blocks.
+
+Blocks can be of different types, such as rich text or work experience. Different block types can have different fields.
+----------------------
 follower.js
 - accountId: Unique identifiers for the other accounts that follow this account.
 - userLink: Link to information about the blocked users’ profiles if accessible to the account. For example, this information might not be accessible if blocked profiles are protected or deactivated.
@@ -559,9 +566,6 @@ profile.js
 - location: Current account location as displayed on the profile, if the user has provided one.
 - avatarMediaUrl: Link to the current profile avatar image, if the user has provided one.
 - headerMediaUrl: Link to the current profile header image, if the user has provided one.
-----------------------
-profile_blocks.js
-- richText: Expanded bio rich text as displayed on the profile, if the user has provided it.
 ----------------------
 protected-history.js
 - protectedAt: Date and time the "Protect your Tweets" setting was used in the last six months.

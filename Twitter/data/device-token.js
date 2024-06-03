@@ -142,5 +142,14 @@ window.YTD.device_token.part0 = [
       "lastSeenAt" : "2024-03-07T05:47:54.714Z",
       "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
     }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "vudHCvKgDh7U9M7ytON7VV9KcV73Re5AuLqgXyUA",
+      "createdAt" : "2024-06-02T17:40:24.128Z",
+      "lastSeenAt" : "2024-06-02T17:40:24.130Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
   }
 ]

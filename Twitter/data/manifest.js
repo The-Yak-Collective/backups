@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14700499",
-    "generationDate" : "2024-05-12T18:17:09.781Z",
+    "sizeBytes" : "14697100",
+    "generationDate" : "2024-06-03T17:42:24.296Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -231,7 +231,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "16"
+        "count" : "17"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -284,11 +284,18 @@ window.__THAR_CONFIG = {
         "count" : "1"
       } ]
     },
+    "expandedProfile" : {
+      "files" : [ {
+        "fileName" : "data/expanded-profile.js",
+        "globalName" : "YTD.expanded_profile.part0",
+        "count" : "1"
+      } ]
+    },
     "follower" : {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2409"
+        "count" : "2410"
       } ]
     },
     "following" : {
@@ -309,7 +316,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "151"
+        "count" : "135"
       } ]
     },
     "keyRegistry" : {
@@ -323,7 +330,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "82"
+        "count" : "80"
       } ]
     },
     "listsCreated" : {
@@ -472,13 +479,6 @@ window.__THAR_CONFIG = {
         "fileName" : "data/profile.js",
         "globalName" : "YTD.profile.part0",
         "count" : "1"
-      } ]
-    },
-    "profileBlocks" : {
-      "files" : [ {
-        "fileName" : "data/profile-blocks.js",
-        "globalName" : "YTD.profile_blocks.part0",
-        "count" : "0"
       } ]
     },
     "profileMedia" : {

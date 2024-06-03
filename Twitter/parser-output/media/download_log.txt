@@ -3,7 +3,7 @@
   3/ 95 ./parser-output/media/1256045909126848512-EW5ex0YXsAMLY43.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
   4/ 95 ./parser-output/media/1255582970393624576-EWy6AQvX0AIsegQ.jpg: SUCCESS. New version is 140% larger in bytes and 156% larger in pixels. 0.4MB downloaded
   5/ 95 ./parser-output/media/1255370726858776577-EWv5AhYWAAAVrdi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
-  6/ 95 ./parser-output/media/1655630969909518336-BWu9lcZMZKlztEJ9.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1655630680208859141/pu/vid/1280x720/BWu9lcZMZKlztEJ9.mp4?tag=12 because of exception: 'content-length'
+  6/ 95 ./parser-output/media/1655630969909518336-BWu9lcZMZKlztEJ9.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
   7/ 95 ./parser-output/media/1648007799840841741-Ft7mTJ5WIAEYRvZ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
   8/ 95 ./parser-output/media/1614315331001909255-Fmcy6DgXoAABjBJ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
   9/ 95 ./parser-output/media/1611647712729989122-Fl25BiPXkAAak6F.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
@@ -94,11 +94,7 @@
  94/ 95 ./parser-output/media/1333832682841653249-EoK5wTXVoAYlrIg.jpg: SUCCESS. New version is  41% larger in bytes and  53% larger in pixels. 0.2MB downloaded
  95/ 95 ./parser-output/media/1333831451792478209-EoK4otSVoAA3jAy.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
 
-94 of 95 tested media files are known to be the best-quality available.
-
-  1/  1 ./parser-output/media/1655630969909518336-BWu9lcZMZKlztEJ9.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
-
-1 of 1 tested media files are known to be the best-quality available.
+95 of 95 tested media files are known to be the best-quality available.
 
 Total downloaded: 19.0MB = 0.02GB
-Time taken: 62s
+Time taken: 54s

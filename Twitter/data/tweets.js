@@ -8054,7 +8054,7 @@ window.YTD.tweets.part0 = [
         "0",
         "108"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1296377995553394688",
       "truncated" : false,
       "retweet_count" : "1",
@@ -11753,7 +11753,7 @@ window.YTD.tweets.part0 = [
         "0",
         "104"
       ],
-      "favorite_count" : "7",
+      "favorite_count" : "6",
       "id_str" : "1285883892365496326",
       "truncated" : false,
       "retweet_count" : "3",
@@ -13861,7 +13861,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "10",
@@ -15426,7 +15426,7 @@ window.YTD.tweets.part0 = [
         "0",
         "91"
       ],
-      "favorite_count" : "7",
+      "favorite_count" : "6",
       "id_str" : "1278726712382144512",
       "truncated" : false,
       "retweet_count" : "0",
@@ -15607,7 +15607,7 @@ window.YTD.tweets.part0 = [
         "0",
         "115"
       ],
-      "favorite_count" : "8",
+      "favorite_count" : "7",
       "id_str" : "1278711535079211009",
       "truncated" : false,
       "retweet_count" : "1",
@@ -17574,7 +17574,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "3",
@@ -18110,7 +18110,7 @@ window.YTD.tweets.part0 = [
         "0",
         "279"
       ],
-      "favorite_count" : "69",
+      "favorite_count" : "70",
       "id_str" : "1270812787745230848",
       "truncated" : false,
       "retweet_count" : "31",
@@ -19006,7 +19006,7 @@ window.YTD.tweets.part0 = [
         "0",
         "164"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1265837017763586049",
       "truncated" : false,
       "retweet_count" : "0",
@@ -53389,7 +53389,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -60474,7 +60474,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "7",
       "id_str" : "1501275954802401280",
       "truncated" : false,
-      "retweet_count" : "2",
+      "retweet_count" : "1",
       "id" : "1501275954802401280",
       "possibly_sensitive" : false,
       "created_at" : "Tue Mar 08 19:17:34 +0000 2022",
@@ -62190,7 +62190,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -71997,7 +71997,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -78401,7 +78401,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "12",
       "id_str" : "1470052361322348546",
       "truncated" : false,
-      "retweet_count" : "1",
+      "retweet_count" : "0",
       "id" : "1470052361322348546",
       "possibly_sensitive" : false,
       "created_at" : "Sun Dec 12 15:26:09 +0000 2021",
@@ -82983,7 +82983,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "11",
       "id_str" : "1457066682795573248",
       "truncated" : false,
-      "retweet_count" : "5",
+      "retweet_count" : "4",
       "id" : "1457066682795573248",
       "possibly_sensitive" : false,
       "created_at" : "Sat Nov 06 19:25:42 +0000 2021",
@@ -87391,7 +87391,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -93973,7 +93973,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -94144,7 +94144,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -99966,7 +99966,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -104446,7 +104446,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -108780,7 +108780,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "12",
       "id_str" : "1386655389974941702",
       "truncated" : false,
-      "retweet_count" : "2",
+      "retweet_count" : "1",
       "id" : "1386655389974941702",
       "possibly_sensitive" : false,
       "created_at" : "Mon Apr 26 12:16:22 +0000 2021",
@@ -112057,7 +112057,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -113633,7 +113633,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "37",
@@ -117836,7 +117836,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "shreeda (hiatus)",
+            "name" : "shreeda",
             "screen_name" : "freeshreeda",
             "indices" : [
               "3",
@@ -132936,7 +132936,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "16",
       "id_str" : "1315928161415319552",
       "truncated" : false,
-      "retweet_count" : "3",
+      "retweet_count" : "2",
       "id" : "1315928161415319552",
       "possibly_sensitive" : false,
       "created_at" : "Tue Oct 13 08:11:37 +0000 2020",

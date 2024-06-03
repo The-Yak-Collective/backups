@@ -1,6 +1,24 @@
 window.YTD.follower.part0 = [
   {
     "follower" : {
+      "accountId" : "1768407143588270080",
+      "userLink" : "https://twitter.com/intent/user?user_id=1768407143588270080"
+    }
+  },
+  {
+    "follower" : {
+      "accountId" : "787453590",
+      "userLink" : "https://twitter.com/intent/user?user_id=787453590"
+    }
+  },
+  {
+    "follower" : {
+      "accountId" : "14932545",
+      "userLink" : "https://twitter.com/intent/user?user_id=14932545"
+    }
+  },
+  {
+    "follower" : {
       "accountId" : "1445064674588905473",
       "userLink" : "https://twitter.com/intent/user?user_id=1445064674588905473"
     }
@@ -1707,12 +1725,6 @@ window.YTD.follower.part0 = [
     "follower" : {
       "accountId" : "1279894259605417984",
       "userLink" : "https://twitter.com/intent/user?user_id=1279894259605417984"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "998690288083206144",
-      "userLink" : "https://twitter.com/intent/user?user_id=998690288083206144"
     }
   },
   {
@@ -7393,6 +7405,12 @@ window.YTD.follower.part0 = [
   },
   {
     "follower" : {
+      "accountId" : "43665534",
+      "userLink" : "https://twitter.com/intent/user?user_id=43665534"
+    }
+  },
+  {
+    "follower" : {
       "accountId" : "1323474579038285824",
       "userLink" : "https://twitter.com/intent/user?user_id=1323474579038285824"
     }
@@ -9921,12 +9939,6 @@ window.YTD.follower.part0 = [
     "follower" : {
       "accountId" : "17973378",
       "userLink" : "https://twitter.com/intent/user?user_id=17973378"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "885648616357896192",
-      "userLink" : "https://twitter.com/intent/user?user_id=885648616357896192"
     }
   },
   {
@@ -13251,12 +13263,6 @@ window.YTD.follower.part0 = [
     "follower" : {
       "accountId" : "43480094",
       "userLink" : "https://twitter.com/intent/user?user_id=43480094"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "1112495569782616064",
-      "userLink" : "https://twitter.com/intent/user?user_id=1112495569782616064"
     }
   },
   {
