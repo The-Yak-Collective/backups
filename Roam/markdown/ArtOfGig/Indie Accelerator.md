@@ -1,6 +1,8 @@
 - About:: __ Study track with the goal of speeding up an indies first few months/years as an Indie Consultant. As an organization still in incubation (founded Jan 2023), we are still trying to define how to achieve this goal. [[Yak Collective]] has a depth of domain knowledge so we think we are well-positioned to support each other in this journey. 
 - Chief Page Wrangler:: [[Kiran Pathakota]]
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
+- Helpful links: 
+    - 
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
     - We are currently in study group mode but looking to supplement this with [[indie coffee chats]] and occasional workshops.
 - **Meeting time:** Wednesdays, 9am PST, 1700 UTC in the Yak General [voice channel](https://discord.com/channels/692111190851059762/692111190851059767)
