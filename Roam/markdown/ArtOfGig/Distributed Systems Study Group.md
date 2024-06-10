@@ -1182,8 +1182,8 @@ but consider - is what is being sent data or programs?
             - Review old [[Blockchain Ops Roadmap]] page from 2021/22 winter, including the **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox) spring session just before we generalized this to be DSS
             - Notes: 
                 - 
-        - Jan 8: 
-        - Jan 15: 
+        - Jan 8: [Curve Wars: DeFi's Fight for Liquidity](https://every.to/almanack/curve-wars)  | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1193803381152677949) | [YouTube](https://www.youtube.com/live/8dlH6ihJoyQ?si=OSU7ux8HUheI5rwU)
+        - Jan 15: [NIST Report on Adversarial ML](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1196338544596234331) | [YouTube](https://www.youtube.com/live/GgRwSvnrBm4?si=xA3vTSqkWN3Bl13a)
         - Jan 22: [Vitalk: Endgame](https://vitalik.eth.limo/general/2021/12/06/endgame.html) plus general exploration of L2s
         - Jan 29:
         - Feb 5: [Base 2024 roadmap](https://base.mirror.xyz/Ouwm--AtTIVyz40He3FxI0fDAC05lOQwN6EzFMD_2UM)
@@ -1247,7 +1247,20 @@ but consider - is what is being sent data or programs?
                         -  UNIX philosophy, targeted apps loosely coupled is better than huge monolithic projects that are typically hard to defend 
                     - [[Ben Mahala]]
                         - designing systems with good OpSec hygiene are almost like biological systems with the body envelopes getting punctured often by the hostile environment leading to non-linear increase in costs and with it an ability to develop immune response 
-        - Feb 19: [[2023/24 Crytpo explorations track]] big picture sense-making
-        - Feb 26:
-        - Mar 4: [Solana 2024 State](https://solana.com/2024outlook)
-        - 
+        - Feb 19: [Bluesky Protocol](https://arxiv.org/pdf/2402.03239.pdf) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1208989307688189962) | [YouTube](https://www.youtube.com/live/PoHMhgTWQOE?si=JR8vC4Y5UW5Qfujp)
+        - Feb 26: [Uber: Integrated Cache DB](https://discord.com/channels/692111190851059762/1211688674467782666/1211688678443720744) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1211688674467782666) | 
+        - Mar 4: [Optimism](https://solana.com/2024outlook) |  | [YouTube](https://www.youtube.com/live/zn3Vtrac7M0?si=Z25MVLmiAg_mq_jK)
+        - Mar 11: [Crypto-Powered Information Games](https://archetype.mirror.xyz/LNgRLem1I27s3Aj0kOChnwG-4bFBdywkJNFtJ7zcX8w) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1216561182748446771) | 
+        - Mar 18: No quorum 
+        - Mar 25: [[Why Birds Are Smart]]| [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1219152242503061506) | Recording
+        - Apr 1: XZ Exploit | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1224024526598312018) | [YouTube](https://www.youtube.com/live/I6h7ZxJV9lU?si=IbckAXU9MOaUJ3XO)
+        - Apr 8: [AI Safety is not a Model Property](https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1226893844797194321) | [YouTube](https://www.youtube.com/live/EhSn4CADN_k?si=zOgduYmjFhrD4hTb)
+        - Apr 15: No quorum
+        - Apr 22: [Stanford AI Report](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024.pdf) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1231817261673873408) | 
+        - Apr 29: [Internet of Agents](https://davidecrapis.notion.site/The-Internet-of-Agents-23aa09799b9c4620a1a287926bcfd6af) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1234497101145313401) | 
+        - May 6: [Vector Embeddings and Search](https://cloud.google.com/vertex-ai/docs/vector-search/overview) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1238520123715878912) |
+        - May 13: [Verifiable Compute: Scaling Trust with Cryptography](https://archetype.mirror.xyz/Lov-dI8FOueUt4J4MXPH9gXLyS4VXfHCdEmSg67jzoM) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1239593336432492554) | [YouTube](https://www.youtube.com/live/CslJd13Br3g?si=xA0RXwsiehmpYhE1)
+        - May 20: [8 Fallacies of Distributed Systems](https://www.simpleorientedarchitecture.com/8-fallacies-of-distributed-systems/) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1241971471451164754) |
+        -  May 27: [Using ML for Engineering Design](https://aws.amazon.com/blogs/hpc/using-machine-learning-to-drive-faster-automotive-design-cycles/) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1244646073314705451) | [YouTube](https://www.youtube.com/live/00w7ijhzii8?si=p9dTKq4oDY9ak0JF)
+        - Jun 3: [Mapping the Mind of a LLM](https://www.anthropic.com/research/mapping-mind-language-model) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1247150327610871920) | [YouTube](https://www.youtube.com/live/Oc5J8G1Butw?si=EduYhCfjpt2OT-3d)
+        - Jun 10:
