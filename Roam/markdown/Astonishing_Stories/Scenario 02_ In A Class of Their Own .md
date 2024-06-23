@@ -16,8 +16,8 @@
             - 2040
         - ## How does it feel to live in this time?
             - Lonely, intellectually fulfilling, high-pressure
-        - ## Who wins in this future? Who loses?
         - 
+        - ## Who wins in this future? Who loses?
         - ## How did we get from here to there?
             - Recurrent pandemics, advancement in delivery of education/computerised education & the desire to try and maintain the human connections that help spur great music/art
         - ## How do people talk about the choices we made in 2020?
