@@ -108,13 +108,13 @@
         - 
 I sort of wrote of experimental attempt mainly basing a hypothetical new language off of Venkat's concept of Farcaster Mansion, so we could have portals between the four different worlds. Or we can actually begin to give patterns that work with our tech tools, embrace them, and outfit nooks designed for ring lights, selfie sticks, or Zoom calls, etc. Just some ideas. 
 - 5:20
-- 5:30
 - __3. Running the New Old Home____ __ **(Pamela presents)**
     - Sections
         - Home economics (Toby) - education
         - Do home techs save labor? wtf happened? 
         - making our own fun
     - Questions
+- 5:30
 - 5:40
 - __4. Working from the New Old Home____ __ (**Drew presents)**
     - Visible Knowledge Work
