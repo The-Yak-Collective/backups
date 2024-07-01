@@ -1263,4 +1263,5 @@ but consider - is what is being sent data or programs?
         - May 20: [8 Fallacies of Distributed Systems](https://www.simpleorientedarchitecture.com/8-fallacies-of-distributed-systems/) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1241971471451164754) |
         -  May 27: [Using ML for Engineering Design](https://aws.amazon.com/blogs/hpc/using-machine-learning-to-drive-faster-automotive-design-cycles/) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1244646073314705451) | [YouTube](https://www.youtube.com/live/00w7ijhzii8?si=p9dTKq4oDY9ak0JF)
         - Jun 3: [Mapping the Mind of a LLM](https://www.anthropic.com/research/mapping-mind-language-model) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1247150327610871920) | [YouTube](https://www.youtube.com/live/Oc5J8G1Butw?si=EduYhCfjpt2OT-3d)
-        - Jun 10:
+        - Jun 10: 
+        - Jun 
