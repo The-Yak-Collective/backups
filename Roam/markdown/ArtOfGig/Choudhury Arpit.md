@@ -3,8 +3,8 @@
     - I like to think about the big challenges we are facing as a society, work on challenging problems, and challenge the status quo.
     - Software excites me, great software makes me want to jump!
     - I'm a huge proponent of tools that enable non-technical folks to do stuff that was previously only possible with code.
-    - Software excites me, great software makes me want to jump!
     - If I like something, I tend to sell it to everybody. 
+    - Software excites me, great software makes me want to jump!
     - I revel in the fact that I'm a jack of all trades.
     - If I like something, I tend to sell it to everybody.
     - If I dislike something, I tend to prevent others from buying into it.
