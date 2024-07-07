@@ -119,10 +119,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Consulting",
-            "isDisabled" : false
-          },
-          {
             "name" : "Cooking",
             "isDisabled" : false
           },
@@ -312,10 +308,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Lunch",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Management consulting",
             "isDisabled" : false
           },
           {

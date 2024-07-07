@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14697100",
-    "generationDate" : "2024-06-03T17:42:24.296Z",
+    "sizeBytes" : "14691076",
+    "generationDate" : "2024-07-07T20:40:28.314Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -62,7 +62,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "1"
+        "count" : "0"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -231,7 +231,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "17"
+        "count" : "15"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -295,7 +295,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2410"
+        "count" : "2408"
       } ]
     },
     "following" : {
@@ -316,7 +316,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "135"
+        "count" : "117"
       } ]
     },
     "keyRegistry" : {

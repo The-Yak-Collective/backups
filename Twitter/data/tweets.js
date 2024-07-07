@@ -3505,7 +3505,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "9",
       "id_str" : "1308767204868059136",
       "truncated" : false,
-      "retweet_count" : "2",
+      "retweet_count" : "1",
       "id" : "1308767204868059136",
       "possibly_sensitive" : false,
       "created_at" : "Wed Sep 23 13:56:32 +0000 2020",
@@ -4273,7 +4273,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -5826,7 +5826,7 @@ window.YTD.tweets.part0 = [
         "0",
         "116"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1302972075926335488",
       "truncated" : false,
       "retweet_count" : "1",
@@ -5940,7 +5940,7 @@ window.YTD.tweets.part0 = [
         "0",
         "88"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1302911549619740677",
       "truncated" : false,
       "retweet_count" : "1",
@@ -5997,7 +5997,7 @@ window.YTD.tweets.part0 = [
         "0",
         "153"
       ],
-      "favorite_count" : "1",
+      "favorite_count" : "0",
       "id_str" : "1302911547900035079",
       "truncated" : false,
       "retweet_count" : "0",
@@ -6726,7 +6726,7 @@ window.YTD.tweets.part0 = [
         "0",
         "80"
       ],
-      "favorite_count" : "22",
+      "favorite_count" : "21",
       "id_str" : "1300108846527062016",
       "truncated" : false,
       "retweet_count" : "2",
@@ -6837,7 +6837,7 @@ window.YTD.tweets.part0 = [
         "0",
         "123"
       ],
-      "favorite_count" : "6",
+      "favorite_count" : "5",
       "id_str" : "1299734328503603200",
       "truncated" : false,
       "retweet_count" : "3",
@@ -7111,7 +7111,7 @@ window.YTD.tweets.part0 = [
         "0",
         "111"
       ],
-      "favorite_count" : "3",
+      "favorite_count" : "2",
       "id_str" : "1299287415169966081",
       "truncated" : false,
       "retweet_count" : "0",
@@ -7225,7 +7225,7 @@ window.YTD.tweets.part0 = [
         "0",
         "125"
       ],
-      "favorite_count" : "3",
+      "favorite_count" : "4",
       "id_str" : "1298914674789019649",
       "truncated" : false,
       "retweet_count" : "1",
@@ -9957,7 +9957,7 @@ window.YTD.tweets.part0 = [
         "0",
         "125"
       ],
-      "favorite_count" : "4",
+      "favorite_count" : "3",
       "id_str" : "1290967609157058562",
       "truncated" : false,
       "retweet_count" : "2",
@@ -10404,7 +10404,7 @@ window.YTD.tweets.part0 = [
             "id" : "14338338"
           },
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "24",
@@ -10841,7 +10841,7 @@ window.YTD.tweets.part0 = [
         "0",
         "91"
       ],
-      "favorite_count" : "16",
+      "favorite_count" : "17",
       "id_str" : "1287260914899652608",
       "truncated" : false,
       "retweet_count" : "7",
@@ -13636,7 +13636,7 @@ window.YTD.tweets.part0 = [
         "0",
         "128"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1280775422624571394",
       "truncated" : false,
       "retweet_count" : "1",
@@ -17137,7 +17137,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "3",
@@ -17540,7 +17540,7 @@ window.YTD.tweets.part0 = [
         "0",
         "124"
       ],
-      "favorite_count" : "6",
+      "favorite_count" : "5",
       "id_str" : "1272625929437630464",
       "truncated" : false,
       "retweet_count" : "7",
@@ -18110,7 +18110,7 @@ window.YTD.tweets.part0 = [
         "0",
         "279"
       ],
-      "favorite_count" : "70",
+      "favorite_count" : "69",
       "id_str" : "1270812787745230848",
       "truncated" : false,
       "retweet_count" : "31",
@@ -19006,7 +19006,7 @@ window.YTD.tweets.part0 = [
         "0",
         "164"
       ],
-      "favorite_count" : "1",
+      "favorite_count" : "2",
       "id_str" : "1265837017763586049",
       "truncated" : false,
       "retweet_count" : "0",
@@ -20458,7 +20458,7 @@ window.YTD.tweets.part0 = [
         "0",
         "179"
       ],
-      "favorite_count" : "60",
+      "favorite_count" : "59",
       "id_str" : "1259210584362323969",
       "truncated" : false,
       "retweet_count" : "9",
@@ -21129,7 +21129,7 @@ window.YTD.tweets.part0 = [
             "id" : "9926812"
           },
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "14",
@@ -21883,7 +21883,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "krish’s notebook",
+            "name" : "krish",
             "screen_name" : "krishkhubchand",
             "indices" : [
               "3",
@@ -22320,7 +22320,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "3",
@@ -39188,7 +39188,7 @@ window.YTD.tweets.part0 = [
         "0",
         "138"
       ],
-      "favorite_count" : "17",
+      "favorite_count" : "16",
       "id_str" : "1588560444226437120",
       "truncated" : false,
       "retweet_count" : "2",
@@ -39576,7 +39576,7 @@ window.YTD.tweets.part0 = [
         "0",
         "106"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1586025306401423360",
       "truncated" : false,
       "retweet_count" : "2",
@@ -46242,7 +46242,7 @@ window.YTD.tweets.part0 = [
         "0",
         "160"
       ],
-      "favorite_count" : "15",
+      "favorite_count" : "14",
       "id_str" : "1545457171139215360",
       "truncated" : false,
       "retweet_count" : "4",
@@ -50586,7 +50586,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -58880,7 +58880,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -68066,7 +68066,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -74143,7 +74143,7 @@ window.YTD.tweets.part0 = [
         "0",
         "78"
       ],
-      "favorite_count" : "3",
+      "favorite_count" : "2",
       "in_reply_to_status_id_str" : "1470774987959250950",
       "id_str" : "1470779331333001222",
       "in_reply_to_user_id" : "1254475197274443776",
@@ -80253,7 +80253,7 @@ window.YTD.tweets.part0 = [
         "0",
         "120"
       ],
-      "favorite_count" : "1",
+      "favorite_count" : "0",
       "id_str" : "1465711523620290567",
       "truncated" : false,
       "retweet_count" : "0",
@@ -81253,7 +81253,7 @@ window.YTD.tweets.part0 = [
         "0",
         "182"
       ],
-      "favorite_count" : "25",
+      "favorite_count" : "24",
       "id_str" : "1462861481309925377",
       "truncated" : false,
       "retweet_count" : "1",
@@ -81617,7 +81617,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -91014,7 +91014,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -95551,7 +95551,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -107872,7 +107872,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -117748,7 +117748,7 @@ window.YTD.tweets.part0 = [
         "0",
         "132"
       ],
-      "favorite_count" : "9",
+      "favorite_count" : "8",
       "id_str" : "1356991209101799424",
       "truncated" : false,
       "retweet_count" : "0",
@@ -118819,7 +118819,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay",
+            "name" : "vinay (in build mode)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "10",
