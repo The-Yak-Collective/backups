@@ -117,6 +117,40 @@
                 - just joined the yak collective 
                 - could not find a connection to the non-contingent facts of physical reality. Physical reality imposes limits to the performance in certain way - like the set or props that an actor has available to them
                 - divorcing physical reality makes it hard 
+    - [Social Psychology of protests](https://research.vu.nl/ws/portalfiles/portal/703016/Current+Sociology+15+3+13+online.pdf)
+        - Sachin
+            - Cynicism,finally, works to both reduce and reinforce action participation depending on whether it goes together with perceived unfairness (Klandermans et al., 2008). The least active are those who combine political cynicism with the feeling that they are treated fairly; the most active are those who combine cynicism with the feeling that they are treated unfairly.
+            - The first social structural characteristic is permeability of the group boundaries,
+the possibilities perceived by the individual to attain membership of a higher status
+group. Permeable group boundaries allow disadvantaged group members to leave their
+group for a higher status group, whereas impermeable boundaries offer no such ‘exit’ (cf.
+Hirschman -  lower social mobility perhaps increases the number of protests 
+            - There is more trust in foreign policy than local policy which is why people protest palestine and ukraine but 
+            - he extent to which status positions are stable or variable. People who conceive status positions as variable see protest as a possible method to heighten group status, especially when the low group status is perceived as illegitimate - status as a service??
+            - political solidarity is psychological change in the self-categorization of members of high-status groups through which it is no longer the authority but the minority that best embodies the relevant norms, values and beliefs that define who ‘we’ are and how ‘we’ should relate to each other.
+            - migrants who display a dual identity - Indian families 
+        - Grigori
+            - Have participated in protests previously, not sure if it is helpful
+            - The image on page 11 is incomplete - they cut off the big feedback loop and reduced it into a linear process 
+            - once a person decides to participate in a movement - some further development may happen
+            - Problem of churn bigger than problem of organization itself. To sustain itself the movement needs leaders. It has to be smart and smarter than opposing forces 
+            - whatever the reason the protester had for joining - the movement should be able to address it
+        - Venkat
+            - Zero protest experience
+            - Has not been in any stress where there has been allyship 
+            - Never actually occurred to participate in protest
+            - The paper covered a lot of the classic dynamics of protests - summary 
+            - Protests are primarily effective through social media 
+            - In the past - a foreign power instigating protests would need strong prescence but now you dont - you can have a good online prescence and do it 
+            - idea of multiple identities - there was a time when loyalty to the company was a meaningul concept - but that is no longer true -  the opposite of it seems truer these days 
+            - similar thing seems to happen to international identity 
+            - 1920s ottoman empire - significant protests about the break up of the ottoman empire. religion and communism is the only solidarity. Now its completely random, there is no pressure 
+        - Ellen
+            - Their parents take them to protests
+            - one that was memorable - the abortion law was struck down in canada and mom negotiated with the police 
+        - Kiran
+            - "There are no elites"  - everyone is elite or weak in some way
+            - That is also why there are so many protests and counter protests 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
