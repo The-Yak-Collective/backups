@@ -1,0 +1,18 @@
+- Clean up #distributed-systems-studies references and make a map - venkat
+- Do a round of newsletter issues
+- Build rudimentary yak-meetup tracker
+- Help Anuraj level up youtube
+- Update website copy for various study groups
+    - Page for DSS
+    - Page for GovChat
+    - Maybe update Rover page to be a study group?
+- Improve newbie intake flow and funneling to study groups
+- Figure out a way to publicize study group sessions automatically
+- Create a basic Yak Orientation document with something like a fun list of 15 rules of Yakdom
+    - Hurling Frootmig principle
+    - Yak Ettiquette
+    - BDFxing
+    - 1 h/10 weeks > 10 h > 1 week
+    - Minimal energy mode
+    - Weekly study group as preferred default
+    - Tours of Duty
