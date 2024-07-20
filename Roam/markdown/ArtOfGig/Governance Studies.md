@@ -453,6 +453,37 @@ comparison of jakarta-bandung and orlando-miami:
                 - Both wiki and britannica point out that historians dont like this idea - there might be a germ of truth here
                 - Jensen Huang - setting himself up as a messiah of sorts. God of Gods, emperor of emperors because all tech CEOs listen to it 
                 - uncertainties - edge of yield, AI software uncertainty 
+        - Auroville and other experimental townships
+            - Sachin
+                - Seems like there is a lot of government support for the project - may be because of its foreign residents or because the Indian government use to appease foreigners a lot  - probably a bit of both 
+                - Had a BDFL once the BDFL quit, the project lost momentum 
+                - what is the limit of a BDFL town - is it the same as the size of a company or company town? 2000? 
+                - Is the Google campus in California a township? 
+                - Rawabi Palestine and Kibbutzi Israel may be interesting future reads 
+                - Tension between state sponsored big cities vs experimental townships - one focussed on scale and other on ideals? 
+            - Grigori
+                - The structure of governance is noticeable - "it does not belong to anyone" thats the origin. 
+                - You have to be a servant of the divine consciousnes -  you make something special - you dedicate it to an abstraction and specificity comes with a baseball bat 
+                - population of 8400 people ? 
+                - Hard for a small city to do something when there is a downside - it is hard to manage 
+                - what we have learned from the auroville - they are not going to achieve the scale 
+                -  ???? - same problems in a similar small city - how people can live in the city and make money is not their concern 
+                - Economic engines wont happen
+            - Venkat 
+                - Auroville is interesting because it has last so long 
+                - If it gets much older than auroville it become a regular city - if the project succeeds then they lose their experimental status - what is the boundary for such cities? 
+                - list of cities - they dont seem to scale beyond a certain point 
+                - scaling kills the philosophy - at every scale you have to resolve the problems of the previous scale 
+                - The Philosophy of a city would have to be redefined - how does it get redefined? A second generation leader will need to come up with a similar philosophhy -  additional factor beyond not having an economic engine
+                - They are in geographies where the city is cheap and they have enough international interest 
+                - It's not self sustaining - they are treating it as a living monument - it reminds of the way Canada and USA sustains these towns 
+                - There is no big factory - the only factory is tourism and people coming to the town 
+                - how many people stay in such cities generation after generation 
+                - A city ideally needs more than one economic sector sustaining it 
+                - 
+            - Ellen
+                - Kind of depends what aspect of this city is similar - intentional community - people do that all the type 
+                - Geodesic domes in Toronto
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
