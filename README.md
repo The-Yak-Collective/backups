@@ -1,4 +1,4 @@
-# Yak Collective Backups
+# Yak Collective backups
 
 ## Automatic
 
