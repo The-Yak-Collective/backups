@@ -757,6 +757,38 @@ comparison of jakarta-bandung and orlando-miami:
             - Kiran
                 - House - Luxury, Utility and Asset put together. 
                 - How do you even get this kind of things to pass? Mass frustration? The Mob. 
+        - J[ames Scott Intellectual Journey](https://www.annualreviews.org/docserver/fulltext/10.1146/annurev-polisci-032823-090908/annurev-polisci-032823-090908.pdf?expires=1722001773&id=id&accname=guest&checksum=C0735031CBD11F1FF34A3D76202C6698)
+            - Sachin
+                - crop burning
+                - fishermen
+                - quiet protests can also be a weapon of the strong such as apples laws about the app store in europe - once it reaches a certain
+                - british building highways into scottish highlands - the strange landscape of that terrain and how alien it seems and may be it is on purpose - the language
+                - lot of religions historically evolved that way - you adapt the religion to the current
+                - government as a peer vs government as patriarchy
+                - may be because in a developed country you have more respect for a government or more centralization
+                - sons of soil - once it becomes sons of soil politics then perhaps patriarchial
+            - Venkat
+                - seeing like a state was an accident, randomly picked it up and read it and turned
+                - against the grain not that radical
+                - art of not being governed it’s clear that it’s very pertinent to the time
+                - punk - technology without technocracy
+                - the other part of south east asia also has the same ideas such as rice punk
+                - seapunk
+                - France - sabotage of the train as part of the olympics - disables a lot of traffic coming into
+                - it’s always been a farce
+            - Ellen
+                - lived in rural sasquatchwan
+                - democratic place but there were less direct ways of saying you are upset about something
+                - people would use it against each other also
+                - Grandfather had to check if someone had put sugar in the gas tank
+                - gender segregated roles: food out to the fields and ate first but they were like the men had to eat first
+                - someone would set the dump on fire but no one prosecuted because no one knew what to do with the garbage
+            - Grigori
+                - don’t have any prior relationship with james scott but by that time it was some kind of political science bible
+                - people do this resistance to each other just like they do it the government
+            - Kiran
+                - influenced a lot of things the last couple of years
+                - hard to put him into a box
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
