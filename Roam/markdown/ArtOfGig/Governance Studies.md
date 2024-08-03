@@ -789,6 +789,37 @@ comparison of jakarta-bandung and orlando-miami:
             - Kiran
                 - influenced a lot of things the last couple of years
                 - hard to put him into a box
+        - Bullshit as Social Epistemology 
+            - Sachin
+                - The bullshit detector is a realist, believing that
+“reality is, on the whole, stable and orderly.” By contrast, the bullshitter is an antirealist, treating “reality as inherently risky and under construction,” - sometimes reality is risky and under construction such as in the case of a new technology- wonder how much of this is also cultural - pirotkin of 
+                - it takes more work to prove bullshit than it does to create it - because you have to acertain epistemology at all levels and people have stopped attempting to do that
+                - There is also such a thing as believing in too much reality which is the kind of thing that makes you depressed - I feel like the DFW essays get at this point in some ways 
+                - social familiarity lowers epistemic vigilance. favoring epistemic vigillance over social familiarlty is called culture war  
+                - If its two people and one - then the one goes with the bullshit and sometimes there is common knowledge 
+            - Kiran
+                - Trying to bullshit your way out of things is really important? 
+                - Wife is "allergic to bullshit in a way" - She does not treat it as bad. 
+                - Bullshit is a fundamental way of working towards the truth. 
+                - Lies is a tool for changing power structures 
+            - Jenna 
+                - 90% of our communication is relational and only 10% is something where you communicate how much you know 
+                - May be there is a genetic component to people just shooting the shit 
+                - Like all tools it can be a weapon of the weak 
+                - Sometimes we are not bullshitting each other but ourselves 
+            - Grigori
+                - respecfully disagree with the very first sentence which is that "bullshit is a widely recongized" 
+                - Its not a problem - its actually normal - the opposite is actually the problem 
+                - If we can see how many different frames you can take that shows how much of it is bullshit 
+                - In typical communication - we dont really have a purpose to prove each other epistemlogically correct 
+            - Ellen
+                - I actually care a lot by whats true vs whats not true and is kind of annoyed by bullshit 
+                - the premise that it is all socially constructed is kind of obsolete now because chatGPT and similar things 
+                - Husband admonished for using chatGPT at work because of concerns that GPT hallucinates - you can have an attacker find security holes --- is that bullshit?? 
+                - bullshit can be used by authoritarians - whats true and whats not true does not matter and you dont have to care about that 
+                - Canada has Sun Media (Fox news equivalent) - CRTC - Sun Media attempted to pass a law saying you didnt actually have to say something to be true, unless you can prove it is true - they backed down after getting applications 
+            - Venkat
+                - 2
 - Season 3 Reading Track (1/6/23 — TBD)
     - [[September 1st, 2023]] Freedom Will Be Enforced
         - https://www.thefp.com/p/we-cant-wait-for-universities-to
