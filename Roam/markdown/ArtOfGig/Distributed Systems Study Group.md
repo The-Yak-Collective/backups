@@ -4,7 +4,7 @@
     - Distributed computing (social)
     - Distributed systems generally (including swarms in nature etc)
 - The goal is to have a track complementary to the [[Governance Studies]] track, with a more technological focus.
-- We aim to create a [[Distributed Systems Map and Lexicon]] as our work product over the summer
+- We aim to create a [[Distributed Systems Lexicon]] as our work product over the summer
 - There is interest in creating a prompt-school type track around this, and we will be trialing this over the summer.
 - **2022 Readings**
     - Previously: **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
@@ -66,7 +66,7 @@ but consider - is what is being sent data or programs?
                         - Inactivity bleed of stake as solution to FLP
                     - Nathan: Recovery from failure? Maximal system integrity, optimize for correctness?
             - Prompt: Come up with ONE question about distributed systems that you don’t know the answer to, either social or technical . Plus general comments about the reading.
-            - Prompt: Based on what you know, add as many terms as you can in 15 minutes to the [[Distributed Systems Map and Lexicon]] lexicon section. Both technical and non-technical terms invited.
+            - Prompt: Based on what you know, add as many terms as you can in 15 minutes to the [[Distributed Systems Lexicon]] lexicon section. Both technical and non-technical terms invited.
         3. July 4: No meeting, US July 4th
         4. July 11: Vitalik Buterin: [Quadratic Payments](https://vitalik.ca/general/2019/12/07/quadratic.html)
             - Article - Quadratic Voting
@@ -1172,7 +1172,7 @@ but consider - is what is being sent data or programs?
                 - [Enshittification](https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first) - Grigori /+1 #[[jrd]]
                 - AI in a Loop - Grigori / +1 Ananth
                 - [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf) #[[jrd]]
-            - **Prompt 2:** [[Key Concepts of Distributed Systems]] -- Add them to this page with your name next to any point you note (15 min, 5 min share a couple)
+            - **Prompt 2:** [[Distributed Systems Lexicon]] -- Add them to this page with your name next to any point you note (15 min, 5 min share a couple)
             - **Prompt 3:** [[Definition and Scope of Distributed Systems]] -- Add them to this page (10 min, share for 10 min)
         - **Dec 18: 2022-23 Review, Part **2 | Discord thread | Youtube
         - Dec 25: No meeting, Christmas day
@@ -1252,7 +1252,7 @@ but consider - is what is being sent data or programs?
         - Mar 4: [Optimism](https://solana.com/2024outlook) |  | [YouTube](https://www.youtube.com/live/zn3Vtrac7M0?si=Z25MVLmiAg_mq_jK)
         - Mar 11: [Crypto-Powered Information Games](https://archetype.mirror.xyz/LNgRLem1I27s3Aj0kOChnwG-4bFBdywkJNFtJ7zcX8w) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1216561182748446771) | 
         - Mar 18: No quorum 
-        - Mar 25: [[Why Birds Are Smart]]| [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1219152242503061506) | Recording
+        - Mar 25: [Why Birds Are Smart](https://tinyurl.com/y46s9rw2)| [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1219152242503061506) | Recording
         - Apr 1: XZ Exploit | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1224024526598312018) | [YouTube](https://www.youtube.com/live/I6h7ZxJV9lU?si=IbckAXU9MOaUJ3XO)
         - Apr 8: [AI Safety is not a Model Property](https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1226893844797194321) | [YouTube](https://www.youtube.com/live/EhSn4CADN_k?si=zOgduYmjFhrD4hTb)
         - Apr 15: No quorum
@@ -1263,5 +1263,14 @@ but consider - is what is being sent data or programs?
         - May 20: [8 Fallacies of Distributed Systems](https://www.simpleorientedarchitecture.com/8-fallacies-of-distributed-systems/) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1241971471451164754) |
         -  May 27: [Using ML for Engineering Design](https://aws.amazon.com/blogs/hpc/using-machine-learning-to-drive-faster-automotive-design-cycles/) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1244646073314705451) | [YouTube](https://www.youtube.com/live/00w7ijhzii8?si=p9dTKq4oDY9ak0JF)
         - Jun 3: [Mapping the Mind of a LLM](https://www.anthropic.com/research/mapping-mind-language-model) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1247150327610871920) | [YouTube](https://www.youtube.com/live/Oc5J8G1Butw?si=EduYhCfjpt2OT-3d)
-        - Jun 10: 
-        - Jun 
+        - June 10: [Applied LLMs -- What we've learned from a year of building](https://applied-llms.org/) |[ Discord Thread](https://discord.com/channels/692111190851059762/1249597111079665725) | [YouTube](https://www.youtube.com/watch?v=IDYJl4lIcQQ)
+        - July 17: [Tony Hoare biography and contributions](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/tony-hoare/csp.html) | [Discord Thread](https://discord.com/channels/692111190851059762/1252109750309486625) | YouTube
+        - June 24: [How to design and build a datacenter](https://www.techtarget.com/searchdatacenter/How-to-design-and-build-a-data-center) | [Discord Thread](https://discord.com/channels/692111190851059762/1254808309416857601) | YouTube
+        - July 1: [Snowflake Incident](https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion) | [Discord](https://discord.com/channels/692111190851059762/1257182322286002238) | YouTube
+        - July 8: [Interprocess communication](https://en.wikipedia.org/wiki/Inter-process_communication) | [Discord](https://discord.com/channels/692111190851059762/1259886459226165380) | YouTube
+        - July 22: Crowdstrike Outage | [Discord Thread](https://discord.com/channels/692111190851059762/1264455423852023819) | [YouTube](https://www.youtube.com/watch?v=3QHgUC3gg7Q)
+        - July 29: [The Condor Project](https://chtc.cs.wisc.edu/doc/condor-practice.pdf) | [Discord Thread](https://discord.com/channels/692111190851059762/1267320896226332742) | [YouTube](https://www.youtube.com/watch?v=n55pNZhhdPk)
+        - Aug 5: [The New Internet](https://tailscale.com/blog/new-internet) | [Discord Thread](https://discord.com/channels/692111190851059762/1269737455708274688) | YouTube
+        - Aug 12: [Waiting time, load factor, and queueing theory: why you need to cut your systems a bit of slack](https://erikbern.com/2018/03/27/waiting-time-load-factor-and-queueing-theory.html) | Discord Thread | YouTube
+        - Aug 19: [[Distributed Systems Lexicon]] session | Discord Thread | YouTube
+        - Aug 26: [[Distributed Systems Map]] session | Discord Thread | YouTube
