@@ -97,4 +97,4 @@
 95 of 95 tested media files are known to be the best-quality available.
 
 Total downloaded: 19.0MB = 0.02GB
-Time taken: 44s
+Time taken: 54s

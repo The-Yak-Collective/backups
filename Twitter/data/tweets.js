@@ -4273,7 +4273,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -6597,7 +6597,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "34",
@@ -7370,7 +7370,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -10404,7 +10404,7 @@ window.YTD.tweets.part0 = [
             "id" : "14338338"
           },
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "24",
@@ -10815,7 +10815,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -17137,7 +17137,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "3",
@@ -21129,7 +21129,7 @@ window.YTD.tweets.part0 = [
             "id" : "9926812"
           },
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "14",
@@ -22320,7 +22320,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "3",
@@ -25860,7 +25860,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "17",
@@ -26263,7 +26263,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "0",
@@ -26338,7 +26338,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "88",
@@ -30268,7 +30268,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -36448,7 +36448,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -37303,7 +37303,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -37907,7 +37907,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -38443,7 +38443,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -38671,7 +38671,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -39031,7 +39031,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -50586,7 +50586,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -54939,7 +54939,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -55424,7 +55424,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "34",
@@ -58880,7 +58880,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -64030,7 +64030,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -64413,7 +64413,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "34",
@@ -68066,7 +68066,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -69525,7 +69525,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "34",
@@ -75730,7 +75730,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -81617,7 +81617,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -82495,7 +82495,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "34",
@@ -85337,7 +85337,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -90192,7 +90192,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "34",
@@ -90843,7 +90843,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -91014,7 +91014,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -95551,7 +95551,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -96224,7 +96224,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "34",
@@ -99795,7 +99795,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -103558,7 +103558,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -107164,7 +107164,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "34",
@@ -107872,7 +107872,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -109893,7 +109893,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -113576,7 +113576,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -116287,7 +116287,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -118819,7 +118819,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (in build mode)",
+            "name" : "vinay (building...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "10",
@@ -124727,7 +124727,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -125602,7 +125602,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -129494,7 +129494,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -130559,7 +130559,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom is in London!!",
+            "name" : "Tom (in SF aug-nov!)",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -130993,7 +130993,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",
@@ -132259,7 +132259,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Ben Mosior (co-author, Strategy Tactics)",
+            "name" : "Ben Mosior (find me on LinkedIn)",
             "screen_name" : "HiredThought",
             "indices" : [
               "10",

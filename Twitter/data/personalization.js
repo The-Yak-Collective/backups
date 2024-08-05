@@ -590,7 +590,7 @@ window.YTD.personalization.part0 = [
       },
       "locationHistory" : [
         "Columbus, OH, USA",
-        "Kirkland, WA, USA"
+        "Denver, CO, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [
