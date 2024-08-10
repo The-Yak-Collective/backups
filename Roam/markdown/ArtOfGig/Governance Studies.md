@@ -484,6 +484,49 @@ comparison of jakarta-bandung and orlando-miami:
             - Ellen
                 - Kind of depends what aspect of this city is similar - intentional community - people do that all the type 
                 - Geodesic domes in Toronto
+        - Congo has a new King 
+            - Sachin
+                - "The bush is a way of life; and where the bush is so overwhelming organized agriculture is an illogicality"
+                - Study that shows that air conditioning increases productivity but it seems like air conditioning comes after resources and productivity 
+                - The Belgian past is being scrubbed out as the Arab past has been scrubbed out. The Arabs were the Belgians’ rivals in the eastern Congo; an Arab was once governor of the Stanley Falls station. But who now associates the Congo with a nineteenth-century Arab empire
+                - Kind of think this type of article is missing from the modern day because its not quite a dunk on the place and people are not funded to write this type of stuff or find it offensive 
+                - documentary about herzog making fitzcaraldo 
+                - "The people who come now—after the general flight—are like the people who came then. They offer goods, deals, technical skills, the same perishable civilization; they bring nothing else. They are not pioneers; they know they cannot stay" - perishable vs non perishable civilization
+                - Horses were brought from Spain in the US
+                - Hard to find readings about non european non american places - not sure if its something to do with language or because these places dont necessarily document things
+                - Defining a place 
+                - Florida Man phenomenon
+                - Heart of Darkness vs Fitzcaraldo vs Burden of Dreams 
+            - Venkat 
+                - Achebe very critical joseph conrad
+                - Literary struggles to define a place like this is ongoing
+                - very resistant to abstract modelling of the place. Rest of the world you can read about the history and get an idea of the place and understand the governance of the place. 
+                - no one has managed to theorize africa at the abstract level 
+                - all thoughts have to do with sub saharan africa or literary imagery like this - thich descriptors of the region
+                - It is at the 1000 feet level 
+                - Environmental determinism - cold and heat are very different. India has parts of this kind of environmental determinism. Extreme heat drains people 
+                - heat and humidity drains the life out of you - as much as you can do to just lay around 
+                - hardship getting people to do ambitious - makes sense in cold places 
+                - jared diamond - major civilization zones have had big animals that can provide agriculture animals 
+                - If I was forced to live in this kind of region I would may be become a more reactive person 
+            - Ellen
+                - volunteered with engineers without borders. Know some people who were send to Cameron and places nearby 
+                - Colonial influences apparent 
+                - Probably not true that agriculture is not possible 
+                - Parents visit to Senegal and... 
+                - miners without borders - mining being more usable to the area 
+                - Book: critical villager 
+            - Grigori 
+                - rather long read did not finish the article 
+                - impossible to learn about a country like congo in a few days 
+                - accumulation of knowledge over a long time  - 1000 foot view 
+                - sometimes people enforce their view on educated population 
+                - what can you possibly do there if you want to change something - live there and they have their own idea about what can be done and what cannot be done
+                - 
+            - Jenna
+                - If you stay long you wont write anything - some anecdote about people who go to China to write something 
+                - happens in complex system
+                - nesting in weird places - it is a human thing we do 
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth

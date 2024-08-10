@@ -1,0 +1,3 @@
+- Projects
+    - Finish editing the essays by August 19th
+    - update on t
