@@ -151,6 +151,42 @@ Hirschman -  lower social mobility perhaps increases the number of protests
         - Kiran
             - "There are no elites"  - everyone is elite or weak in some way
             - That is also why there are so many protests and counter protests 
+    - [What Rough Beast](https://read.readwise.io/read/01j5dpnnv2fqdkjz5z84phhcbt)
+        - Sachin
+            - Kind of a non sequitor but each transition had its legendary comic duo - Don Quixote and Sancho, PG Wodehouse Jeeves and The Office perhaps? 
+            - It is usually the hedgehog type/highly aligned ideas that get mainstream attention but not the other ones -  this is perhaps by design
+            - network state is the highly aligned idea and something like james scott zomia is the the more distributed idea
+            - Role of woman and other crisis not mentioned
+            - Transitions are always violent? 
+        - Ellen
+            - not very impressed - not even wrong category 
+            - it will be good if governments handle technological transitions 
+            - 1930-1970 - "big governemnt/big labor would have your back" - all the people that I know that lived during that time 
+            - The role of woman has changed a lot - in Canada all women could only vote in the 1920s
+            - 1982 - Canadian constitution changed and made it so that men and women 
+            - "Externalities" - economists - women's work is not considered there 
+            - Brian Arthur - Nature of Technology 
+        - Grigori
+            - Communist Manifesto - the way the times changed has made it hard to write something like the communist manfesto because things have changed so much 
+            - these days - you have a picture and there is a lot of incoherence 
+            - Sees governance as an optimization problem 
+            - To treat governance as an optimization problem - assume it has knowledge(?) 
+        - Venkat 
+            - Ellen recommended Brian Arthur's book - enjoyed it more than slouching towards utopia 
+            - people come up with grand theories of the world - there is economist types and there is sociologist type - both approaches have their own merits
+            - the sociologist way is more thorough - for example economists tend to ignore the role of women in the economy
+            - economists do this in an efficient way - economists manage and triage with a few narrow tools - growth rate 
+            - according to him, around 1500, the growth rate went from less than 2% to above 2% year on year and since change happened at a scale faster than that - then it became too hard 
+            - Problem is when the theories are taken too seriously 
+            - crackpot physicists are usually crackpot engineers - doing foolish version of this theory 
+            - Only sociolgist who went deep crackpot is debt 5000 years -  but the core thing is still economics 
+            - This is probably why this attempted theory feelings annoying cause it ignores 
+            - Lazy summary of the whole thing - sort of going with the very first thing that occurs to you
+            - protocols - it gives you imaginative ways 
+            - James Scott - more imaginative theory
+            - Good compliment - technology and sociology 
+            - Big gap in the sociology territory 
+            - ambitious sociology book - 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
