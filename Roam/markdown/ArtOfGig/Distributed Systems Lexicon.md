@@ -194,9 +194,3 @@ computing are likely to become even more uneven, with certain research
 directions moving into the fast-lane while progress on others is further obstructed."
 - did we ever read about the CAP theorem explicitly? -venkat
 - The Spectral Utopia's paper: https://hcommons.org/deposits/objects/hc:49430/datastreams/CONTENT/content  - Ben. How physical and social technologies intertwine.
-- 
-- 
-- 
-- 
-- 
-- 
