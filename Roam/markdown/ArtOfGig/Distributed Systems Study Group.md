@@ -70,7 +70,7 @@ but consider - is what is being sent data or programs?
         3. July 4: No meeting, US July 4th
         4. July 11: Vitalik Buterin: [Quadratic Payments](https://vitalik.ca/general/2019/12/07/quadratic.html)
             - Article - Quadratic Voting
-                - https://vitalik.ca/general/2019/12/07/quadratic.html
+                - https://vitalik.eth.limo/general/2019/12/07/quadratic.html
             - Discussion
                 - [[Anuraj R]]
                     - h-index in academia
@@ -1172,6 +1172,9 @@ but consider - is what is being sent data or programs?
                 - [Enshittification](https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first) - Grigori /+1 #[[jrd]]
                 - AI in a Loop - Grigori / +1 Ananth
                 - [ETTO Principle](https://erikhollnagel.com/onewebmedia/ETTO.pdf) #[[jrd]]
+                - [ZK Machine Leaning](https://0xparc.org/blog/zk-mnist)- Ananth
+                - [Quadratic Payments](https://vitalik.eth.limo/general/2019/12/07/quadratic.html)-Ananth
+                - [Waiting time, load factor, and queueing theory: why you need to cut your systems a bit of slack](https://erikbern.com/2018/03/27/waiting-time-load-factor-and-queueing-theory.html) #[[jrd]] 
             - **Prompt 2:** [[Distributed Systems Lexicon]] -- Add them to this page with your name next to any point you note (15 min, 5 min share a couple)
             - **Prompt 3:** [[Definition and Scope of Distributed Systems]] -- Add them to this page (10 min, share for 10 min)
         - **Dec 18: 2022-23 Review, Part **2 | Discord thread | Youtube
@@ -1252,7 +1255,7 @@ but consider - is what is being sent data or programs?
         - Mar 4: [Optimism](https://solana.com/2024outlook) |  | [YouTube](https://www.youtube.com/live/zn3Vtrac7M0?si=Z25MVLmiAg_mq_jK)
         - Mar 11: [Crypto-Powered Information Games](https://archetype.mirror.xyz/LNgRLem1I27s3Aj0kOChnwG-4bFBdywkJNFtJ7zcX8w) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1216561182748446771) | 
         - Mar 18: No quorum 
-        - Mar 25: [Why Birds Are Smart](https://tinyurl.com/y46s9rw2)| [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1219152242503061506) | Recording
+        - Mar 25: [Why Birds Are Smart](https://tinyurl.com/y46s9rw2) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1219152242503061506) | Recording
         - Apr 1: XZ Exploit | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1224024526598312018) | [YouTube](https://www.youtube.com/live/I6h7ZxJV9lU?si=IbckAXU9MOaUJ3XO)
         - Apr 8: [AI Safety is not a Model Property](https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property) | [Discord Thread](https://discord.com/channels/692111190851059762/698566364595486720/1226893844797194321) | [YouTube](https://www.youtube.com/live/EhSn4CADN_k?si=zOgduYmjFhrD4hTb)
         - Apr 15: No quorum
@@ -1274,3 +1277,30 @@ but consider - is what is being sent data or programs?
         - Aug 12: [Waiting time, load factor, and queueing theory: why you need to cut your systems a bit of slack](https://erikbern.com/2018/03/27/waiting-time-load-factor-and-queueing-theory.html) | Discord Thread | YouTube
         - Aug 19: [[Distributed Systems Lexicon]] session | Discord Thread | YouTube
         - Aug 26: [[Distributed Systems Map]] session | Discord Thread | YouTube
+    - **Season: Fall**
+        - Sept 2: [An Evolutionary Approach to Norms](http://rochelleterman.com/ir/sites/default/files/Axelrod%201986.pdf) | Discord Thread | YouTube
+        - Sept 9: [The Big Ball of Mud](https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/) | Discord Thread | YouTube
+        - Sept 16: | Discord Thread | YouTube
+        - Sept 23: | Discord Thread | YouTube
+        - Sept 30: | Discord Thread | YouTube
+        - Oct 7: | Discord Thread | YouTube
+        - Oct 14: | Discord Thread | YouTube
+        - Oct 21: | Discord Thread | YouTube
+        - Oct 28: | Discord Thread | YouTube
+        - Nov 4: | Discord Thread | YouTube
+        - Nov 11: | Discord Thread | YouTube
+        - Nov 18: | Discord Thread | YouTube
+        - Nov 25: | Discord Thread | YouTube
+        - Dec 2: | Discord Thread | YouTube
+        - Dec 9: | Discord Thread | YouTube
+        - Dec 16: | Discord Thread | YouTube
+        - Dec 23: | Discord Thread | YouTube
+        - Dec 30: | Discord Thread | YouTube
+- **Hopper**
+    - https://en.wikipedia.org/wiki/Composability
+    - https://medium.com/building-the-metaverse/composability-is-the-most-powerful-creative-force-in-the-universe-e82e3dd83ccd
+    - https://increment.com/frontend/on-composable-modular-frontends/
+    - https://www.reddit.com/r/mlops/comments/1doygn4/modularity_and_composability_for_ai_systems/
+    - https://medium.com/statebox/modularity-vs-compositionality-a-history-of-misunderstandings-be0150033568
+    - https://www.hopsworks.ai/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage
+    - 

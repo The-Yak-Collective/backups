@@ -84,9 +84,22 @@
         - Consensus-preserving?
 - 
 - 
-- #[[Jenna]]
-    - `understory`
-    - `overstory`
+- [[Jenna]]
+    - flywheel and its many variants, positive feedback loops
+    - queuing theory
+    - good actors/bad actors wrt vgr `hardened commons`
+        - hall monitor and its many variants, Internet of beefs cf
+            - https://warpcast.com/dwr.eth/0x15e2f904
+                - > "Why do you keep telling people what to do?"
+"Stop being a hall monitor!"
+"People aren't going to change."
+
+Sure, but better to be clear upfront when we start tweak the spam labeling algorithms.
+
+re: hall monitor — yes, I am. Quality is what drives growth, that requires rules and taste. If you don't like those rules / taste, use or build another client. Beauty of a decentralized system.
+        - trail cops
+https://www.todayontrail.com/p/types-people-meet-woods-not-trees
+            - > Trail Cops: Fortunately very rare, but there are a special few people for whom even the cool green moss of the deep wilderness cannot snuff their burning need to make sure that everyone else knows there is only one correct way to do everything, and that whatever way you’re currently doing it is wrong. Lecturing passing hikers on trail right of way etiquette is a favorite topic, although I have been assured it’s the uphill hiker and the downhill hiker with equal certitude. Another good Trail Cop trick is stopping you and gesturing for you to take out an earbud, so they can tell you that you ought to be enjoying the beautiful sounds of nature. One white-bearded gent last week, perched at the top of a steep, rocky climb that Mica and I had just hauled ourselves to the top of, replied to my panted “Hello” by complaining in mortal indignation that Mica hadn’t greeted him as well. “No ‘hello’ from your friend there!” he grumped. Mica had actually said hello to him twice, he just hadn’t heard it, due presumably to how advanced were both his age and his self-regard.
     - > FLP, Zab, Time, Clocks and the Ordering of Events in a Distributed Systems, Viewstamped Replication, Paxos, Chubby and on and on. 
     - > MAIN CONCEPTS
     - > Distributed systems algorithms can be classified according to different kinds of attributes. Some classifications are: the timing model; the kind of interprocess communication used; the failure model assumed for the algorithm; and many others as we will see.
@@ -122,6 +135,7 @@
     - > many kinds of logical clocks algorithms, like Vector Clocks or Interval Tree Clocks
     - A Quick Look At FLP
     - > (lol can't find what FLP actually stands for) (Paper author initials)
+    - understory/overstory
 - 
 - 
 - 
