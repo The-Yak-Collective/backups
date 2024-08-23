@@ -1297,10 +1297,19 @@ but consider - is what is being sent data or programs?
         - Dec 23: | Discord Thread | YouTube
         - Dec 30: | Discord Thread | YouTube
 - **Hopper**
-    - https://en.wikipedia.org/wiki/Composability
-    - https://medium.com/building-the-metaverse/composability-is-the-most-powerful-creative-force-in-the-universe-e82e3dd83ccd
-    - https://increment.com/frontend/on-composable-modular-frontends/
-    - https://www.reddit.com/r/mlops/comments/1doygn4/modularity_and_composability_for_ai_systems/
-    - https://medium.com/statebox/modularity-vs-compositionality-a-history-of-misunderstandings-be0150033568
-    - https://www.hopsworks.ai/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage
-    - 
+    - Composability
+        - https://en.wikipedia.org/wiki/Composability
+        - https://medium.com/building-the-metaverse/composability-is-the-most-powerful-creative-force-in-the-universe-e82e3dd83ccd
+        - https://increment.com/frontend/on-composable-modular-frontends/
+        - https://www.reddit.com/r/mlops/comments/1doygn4/modularity_and_composability_for_ai_systems/
+        - https://medium.com/statebox/modularity-vs-compositionality-a-history-of-misunderstandings-be0150033568
+        - https://www.hopsworks.ai/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage
+    - Temporality for composable systems
+        - WebRTC
+            - https://sookocheff.com/post/networking/how-does-web-rtc-work/
+            - https://webrtcforthecurious.com/docs/01-what-why-and-how/
+            - https://www.enablex.io/insights/the-most-comprehensive-guide-on-webrtc/
+    - Hardening/cozy tech
+        - VPNs
+            - https://webrtcforthecurious.com/docs/01-what-why-and-how/
+            - https://www.cisa.gov/news-events/alerts/2021/09/28/cisa-and-nsa-release-guidance-selecting-and-hardening-vpns
