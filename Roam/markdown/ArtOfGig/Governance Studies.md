@@ -187,6 +187,47 @@ Hirschman -  lower social mobility perhaps increases the number of protests
             - Good compliment - technology and sociology 
             - Big gap in the sociology territory 
             - ambitious sociology book - 
+    - [No Exit Opportunities](https://americanaffairsjournal.org/2024/08/no-exit-opportunities-business-models-and-political-thought-in-silicon-valley/)
+        - Sachin
+            - overhearing mentions of network states everywhere 
+            - its hard to find faith good criticism these days, its either someone venerating someone or doing a takedown and this one is clearly an exception 
+            - gangster capitalism - Reliance is a good example of it perhaps 
+            - temporarily embarrassed platform monopolists is the revealed preference (with substack, with farcaster etc )
+            - rationalist thought does not take into account whatever has been or how we got here which matches well with how entrepreneurs operate from first principles but its hard to apply that to governance - the silk road and how much parallel it has with modern world 
+            - Entrepreneurship as labor - entrepreneurs as proleteriats - so it is not surprising how most of these theories have come from venture capitalist 
+            - everything is always in maintenance mode 
+            - People are really good at contextually blocking out memories and connects - and probably when you have more information it becomes very hard to do - its not quite a bubble, you are aware but don't care about it cause its too messy 
+            - sort of like middle class internal struggle 
+        - Kiran
+            - Lot of the authors are older and may be not easy to read 
+            - Joel Spolsky to Curtis Yarvin - read through things and hard to break out of it immediately
+        - Jenna
+            - pattern matching into whats important 
+            - what it actually means to exist in a community - https://discord.com/channels/692111190851059762/1276537075897729036/1276564142748340225
+            - historical accidents are important 
+        - Grigori
+            - agree with jenna that historical accidents are important 
+            - problem is that person is a professor - he writes for a living - he is seriously trying to catch up 
+            - whatever people like balaji write they dont write it for academia - they write for a different class - the action demanded by people like balaji is to go and do some action 
+            - some people who have actual agency have a shot at building something better than the incumbents 
+            - douglas north, gellner
+        - Ellen
+            - Agree with Grigori - hes an academic and hes writing about people who actually do things 
+            - Hard to understand what his core point is 
+            - the author has a feeling that something like a better American right is possible 
+            - lot of american companies are based on american specific problems perhaps? 
+        - Venkat
+            - discourse - this post and how did the seeing like a state as a cannon come about
+            - lot of reactions from liberal arts people - they were mad that their favorite book was read by people from 
+            - people like the idea of ideas being influential in a small circle - cause there is a lot of agency there - but once it goes outside it then 
+            - most influential ones are not the ideas that are the direct result of looking for a solution to a problem or you come up with a solution and go looking for a problem 
+            - the third one is accidental - this one is most useful since there is no problem solving agenda there 
+            - Criticism is sort of justified - normative silicon valley should probably not take it seriously 
+            - same mental models apply to both sides here 
+            - both sides are playing games of persuading people to adopt their political ideas 
+            - you should try to invalidate your ideas - both approaches have problems - trying to falsify is better 
+            - better to leave falsification to market outcomes - and leave ideas to a personal level 
+            - academia - more tribal warfare - they belong to schools of political thoughts 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
