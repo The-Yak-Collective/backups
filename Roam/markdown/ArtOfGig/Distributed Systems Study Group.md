@@ -6,6 +6,7 @@
 - The goal is to have a track complementary to the [[Governance Studies]] track, with a more technological focus.
 - We aim to create a [[Distributed Systems Lexicon]] as our work product over the summer
 - There is interest in creating a prompt-school type track around this, and we will be trialing this over the summer.
+- [[New Webpage Draft]]
 - **2022 Readings**
     - Previously: **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
     - **Season: Summer** (11 sessions, 2 holidays, starting ~ June 21, summer solstice)
