@@ -42,9 +42,9 @@
                     - Prioritize this by doing (Dogfooding)
                     - Blockchain implementations and different smart contract implementations
                     - How are security concerns handled? DAO attack vectors
+                - Decentralized Identity
                 - Idenity
                     - Reputatiom/clout
-                - Decentralized Identity
                 - Cloud identity.
                     - Reputation Clout
                     - What is the right way to create flexible on-chain identities? 
