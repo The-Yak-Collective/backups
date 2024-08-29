@@ -18,11 +18,11 @@ A: Continued from above... And that’s for post-hoc analysis. Real-time (goal o
 A: First gen Kernel devices will focus primarily on sensing. However, for the futures exercise, prediction/complete loops can be considered 
     - Q: How do various sensing technologies compare when it comes to resolution?
 A: From [[Nikhil Deshmukh]] ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F00y9e_2NvE.png?alt=media&token=56ad1026-6d59-4d6f-a7ed-d68eb9cac911)
+    - Q: One question I have is about the capabilities of these types of measuring technologies with cortical vs. subcortical activity, and the implications of this when capturing / evaluating / making declarative claims about cognition & brain activity
+A: From [[Nikhil Deshmukh]] My understanding is that you only really measure averages of cortical surface activity
     - Q: Is it fair to assume that the sensing devices won't be able to go beyond coarse grained measurements and interpretations?
 A: If you have 20 years and you really want to do something totally noninvasive and real time?  It's a reasonable bet IMO. But otoh what you want to measure is some coarse grained thing! But no one is exactly sure what scale the salient degrees of freedom for like symbolic reasoning really lie, and there is very interesting debate about this. (Semon Rezchikov)
 A: I think we will be able to model circuits of 100 to 1000s of neurons in specific brain regions, and that these circuits will produce signals that are measurable non-invasively. The models can be developed with invasive single-cell recording techniques and then used for prediction. [[Nikhil Deshmukh]]
-    - Q: One question I have is about the capabilities of these types of measuring technologies with cortical vs. subcortical activity, and the implications of this when capturing / evaluating / making declarative claims about cognition & brain activity
-A: From [[Nikhil Deshmukh]] My understanding is that you only really measure averages of cortical surface activity
     - Q: Is it fair to assume that typical rates of innovation over the past 20 years will remain so going forward? I see a lot of old research on neurotech talking about the same things I see today and it makes me wonder how this will play out. Will it be something like ML/DL where core concepts were published decades ago but the tech to implement it only came along now. Is Kernel aspiring to be that point of inflection by making neurotech affordable/scalable?
 A: Solving a problem/idea for a new era of technology/scale/miniaturization/cost-point is basically a new challenge and the old/prescient research is often not as useful as the pioneers wish/hope [[Venkatesh Rao]]
 A: I think the limiting factor here is our understanding of the brain. Not sure if anyone has calculated the rate of discovery for neuroscience, but the balance is still heavily towards the unknown i.e. that we know far less about the neuroscience than what is possible to be known. [[Nikhil Deshmukh]]
@@ -64,9 +64,9 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
     - [Hollywood movie screening tests with Kernel](https://discord.com/channels/692111190851059762/712459471787393054/714499617051639828)
     - [[Kannen Ramsamy]]
         - [School assignment is a big policy problem in UK where Kernel could be used](https://discord.com/channels/692111190851059762/712459471787393054/714554020261265489)
+    - [An experiment that I think can be interesting is to look at environmental triggers of people's positive / negative affects based on Richard Davidson's work](https://discord.com/channels/692111190851059762/712459471787393054/714536141621035112)
     - [[Venkatesh Rao]]
         - [Predictively mute tweets/threads based on mute words and sentiment](https://discord.com/channels/692111190851059762/712459471787393054/714542761906274373)
-    - [An experiment that I think can be interesting is to look at environmental triggers of people's positive / negative affects based on Richard Davidson's work](https://discord.com/channels/692111190851059762/712459471787393054/714536141621035112)
     - [[Sachin Benny]]
         - [Using Speller ID tech where officers are supposed to recognize and make a decision to shoot/not shoot a subject based on the subject's behaviour/perceived threat level](https://discord.com/channels/692111190851059762/712459471787393054/714528092068249670)
         - [Measuring effects of environment/external factors on learning e.g. temperature](https://discord.com/channels/692111190851059762/712459471787393054/714531025220535333)
