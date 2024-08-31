@@ -228,6 +228,34 @@ Hirschman -  lower social mobility perhaps increases the number of protests
             - you should try to invalidate your ideas - both approaches have problems - trying to falsify is better 
             - better to leave falsification to market outcomes - and leave ideas to a personal level 
             - academia - more tribal warfare - they belong to schools of political thoughts 
+    - Lifehouses
+        - Sachin
+            - Kind of sounds like network state but I just get the sense that author would hate the idea of network state 
+            - Temperance halls
+            - office space to buildings - but very expensive and kind of unrealistic
+            - Tea place in austin 
+            - Almost feel like if the idea is not messy enough then there is something suspicious about it - this may be a suspicion of top down design in general 
+            - Lifehouses online - which is sort of the idea of edge esemeralda and pop up cities I suppose 
+        - Venkat
+            - Saskia Sassens 
+            - Intersection of art work scene centered in London - they are performance artists 
+            - right way to interpret this book - peformance art project that goes up from real life studies 
+            - Historical 
+            - Slightly different than Network State - artistic approach - look at real world data and make that the center piece 
+            - Sympathetic way to respond - its a little bit like design fiction or right brain version of scenario planning 
+            - perform it like artwork - bit of kayfabe 
+            - mildly annoyed and frustrated when seeing signs of circular citations - no one outside their circle has looked seriously at this ideas - and if there are enough people doing that then other people have to take that seriously 
+            - upgraded version of hacker news 
+        - Ellen
+            - two main thoughts - bundling a lot of things together
+            - physical location - may be not everyone should meet there - especially in a post covid age 
+            - community fridge - found the organization to donate the food
+            - people who were making masks and sending it to the arctic 
+        - Grigori
+            - what is proposed is unsustainable 
+            - Whenever the crisis hits - the state wants to mobilize all the power that it wants to mobilize 
+            - you can attend concerts by the state but if you want to collect people to tell something to the state then they tell you that there is a covid protocol
+            - the idea of planning ahead is telling the state that what you are upto 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
