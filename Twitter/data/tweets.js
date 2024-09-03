@@ -2151,9 +2151,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1747233035500523747"
+            "1670188652960309248"
           ],
-          "editableUntil" : "2024-01-16T13:23:12.000Z",
+          "editableUntil" : "2023-06-17T22:56:20.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -2165,41 +2165,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Benjamin P. Taylor",
-            "screen_name" : "antlerboy",
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
             "indices" : [
               "10",
               "20"
             ],
-            "id_str" : "14464195",
-            "id" : "14464195"
+            "id_str" : "14338338",
+            "id" : "14338338"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/xbzr4eNk0p",
-            "expanded_url" : "https://chosen-path.org/2024/01/16/are-businesses-ecosystems/",
-            "display_url" : "chosen-path.org/2024/01/16/are…",
+            "url" : "https://t.co/gbtrk9eVbK",
+            "expanded_url" : "https://think-boundless.com/mediocre/?utm_source=rss&utm_medium=rss&utm_campaign=mediocre",
+            "display_url" : "think-boundless.com/mediocre/?utm_…",
             "indices" : [
-              "63",
-              "86"
+              "60",
+              "83"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "86"
+        "83"
       ],
-      "favorite_count" : "2",
-      "id_str" : "1747233035500523747",
+      "favorite_count" : "0",
+      "id_str" : "1670188652960309248",
       "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1747233035500523747",
+      "retweet_count" : "0",
+      "id" : "1670188652960309248",
       "possibly_sensitive" : false,
-      "created_at" : "Tue Jan 16 12:23:12 +0000 2024",
+      "created_at" : "Sat Jun 17 21:56:20 +0000 2023",
       "favorited" : false,
-      "full_text" : "Check out @antlerboy’s new post, “Are businesses ecosystems? ” https://t.co/xbzr4eNk0p",
+      "full_text" : "Check out @p_millerd's new post, \"The Way of Mediocre Man\". https://t.co/gbtrk9eVbK",
       "lang" : "en"
     }
   },
@@ -3291,55 +3291,44 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1665813985927503874"
+            "1308963069926805506"
           ],
-          "editableUntil" : "2023-06-05T20:42:58.000Z",
+          "editableUntil" : "2020-09-24T03:54:49.885Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Critchlow",
-            "screen_name" : "tomcritchlow",
-            "indices" : [
-              "10",
-              "23"
-            ],
-            "id_str" : "6419982",
-            "id" : "6419982"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
-            "url" : "https://t.co/C62khiTgyK",
-            "expanded_url" : "https://tomcritchlow.com/2023/06/05/clients-detail/",
-            "display_url" : "tomcritchlow.com/2023/06/05/cli…",
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
             "indices" : [
-              "82",
-              "105"
+              "147",
+              "170"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "105"
+        "170"
       ],
-      "favorite_count" : "0",
-      "id_str" : "1665813985927503874",
+      "favorite_count" : "1",
+      "id_str" : "1308963069926805506",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1665813985927503874",
+      "id" : "1308963069926805506",
       "possibly_sensitive" : false,
-      "created_at" : "Mon Jun 05 20:12:58 +0000 2023",
+      "created_at" : "Thu Sep 24 02:54:49 +0000 2020",
       "favorited" : false,
-      "full_text" : "Check out @tomcritchlow's new post, \"Clients Have a Surprising Amount of Detail\". https://t.co/C62khiTgyK",
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Reading Group Intelligence &amp; Spirit, Sep 23, 2020 08:00PM. Get invite link here: https://t.co/JDzOebSgv9",
       "lang" : "en"
     }
   },
@@ -14053,52 +14042,55 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1279465620610912256"
+            "1665813985927503874"
           ],
-          "editableUntil" : "2020-07-04T18:22:29.932Z",
+          "editableUntil" : "2023-06-05T20:42:58.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
       "entities" : {
-        "hashtags" : [
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
           {
-            "text" : "infrastructure",
+            "name" : "Tom Critchlow",
+            "screen_name" : "tomcritchlow",
             "indices" : [
-              "62",
-              "77"
-            ]
+              "10",
+              "23"
+            ],
+            "id_str" : "6419982",
+            "id" : "6419982"
           }
         ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
         "urls" : [
           {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
+            "url" : "https://t.co/C62khiTgyK",
+            "expanded_url" : "https://tomcritchlow.com/2023/06/05/clients-detail/",
+            "display_url" : "tomcritchlow.com/2023/06/05/cli…",
             "indices" : [
-              "140",
-              "163"
+              "82",
+              "105"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "163"
+        "105"
       ],
       "favorite_count" : "0",
-      "id_str" : "1279465620610912256",
+      "id_str" : "1665813985927503874",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1279465620610912256",
+      "id" : "1665813985927503874",
       "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 04 17:22:29 +0000 2020",
+      "created_at" : "Mon Jun 05 20:12:58 +0000 2023",
       "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! #infrastructure chat with Darren, Jul 04, 2020 10:30AM. Get invite link here: https://t.co/JDzOebSgv9",
+      "full_text" : "Check out @tomcritchlow's new post, \"Clients Have a Surprising Amount of Detail\". https://t.co/C62khiTgyK",
       "lang" : "en"
     }
   },
@@ -15134,55 +15126,52 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1657041431087792134"
+            "1279465620610912256"
           ],
-          "editableUntil" : "2023-05-12T15:43:58.000Z",
+          "editableUntil" : "2020-07-04T18:22:29.932Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
       "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
+        "hashtags" : [
           {
-            "name" : "Benjamin P. Taylor",
-            "screen_name" : "antlerboy",
+            "text" : "infrastructure",
             "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14464195",
-            "id" : "14464195"
+              "62",
+              "77"
+            ]
           }
         ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
         "urls" : [
           {
-            "url" : "https://t.co/Ub64jNJrsi",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-87-8c3c199a4550?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
             "indices" : [
-              "86",
-              "109"
+              "140",
+              "163"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "109"
+        "163"
       ],
-      "favorite_count" : "2",
-      "id_str" : "1657041431087792134",
+      "favorite_count" : "0",
+      "id_str" : "1279465620610912256",
       "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1657041431087792134",
+      "retweet_count" : "0",
+      "id" : "1279465620610912256",
       "possibly_sensitive" : false,
-      "created_at" : "Fri May 12 15:13:58 +0000 2023",
+      "created_at" : "Sat Jul 04 17:22:29 +0000 2020",
       "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #87\". https://t.co/Ub64jNJrsi",
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! #infrastructure chat with Darren, Jul 04, 2020 10:30AM. Get invite link here: https://t.co/JDzOebSgv9",
       "lang" : "en"
     }
   },
@@ -21329,7 +21318,7 @@ window.YTD.tweets.part0 = [
         "0",
         "264"
       ],
-      "favorite_count" : "8",
+      "favorite_count" : "9",
       "id_str" : "1256271321467510786",
       "truncated" : false,
       "retweet_count" : "0",
@@ -23131,6 +23120,63 @@ window.YTD.tweets.part0 = [
       "contributors" : [
         "23123041"
       ]
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1657041431087792134"
+          ],
+          "editableUntil" : "2023-05-12T15:43:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin P. Taylor",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Ub64jNJrsi",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-87-8c3c199a4550?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1657041431087792134",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1657041431087792134",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri May 12 15:13:58 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #87\". https://t.co/Ub64jNJrsi",
+      "lang" : "en"
     }
   },
   {
@@ -32489,9 +32535,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1613996199538790425"
+            "1747233035500523747"
           ],
-          "editableUntil" : "2023-01-13T20:57:35.000Z",
+          "editableUntil" : "2024-01-16T13:23:12.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -32503,41 +32549,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Sachin Bandgar",
-            "screen_name" : "Sachinb91",
+            "name" : "Benjamin P. Taylor",
+            "screen_name" : "antlerboy",
             "indices" : [
               "10",
               "20"
             ],
-            "id_str" : "1711759582609960961",
-            "id" : "1711759582609960961"
+            "id_str" : "14464195",
+            "id" : "14464195"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/nu1AbiPlVx",
-            "expanded_url" : "https://summerlightning.substack.com/p/23-bible-belt-blues",
-            "display_url" : "summerlightning.substack.com/p/23-bible-bel…",
+            "url" : "https://t.co/xbzr4eNk0p",
+            "expanded_url" : "https://chosen-path.org/2024/01/16/are-businesses-ecosystems/",
+            "display_url" : "chosen-path.org/2024/01/16/are…",
             "indices" : [
-              "58",
-              "81"
+              "63",
+              "86"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "81"
+        "86"
       ],
-      "favorite_count" : "0",
-      "id_str" : "1613996199538790425",
+      "favorite_count" : "2",
+      "id_str" : "1747233035500523747",
       "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1613996199538790425",
+      "retweet_count" : "1",
+      "id" : "1747233035500523747",
       "possibly_sensitive" : false,
-      "created_at" : "Fri Jan 13 20:27:35 +0000 2023",
+      "created_at" : "Tue Jan 16 12:23:12 +0000 2024",
       "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"#23 Bible Belt Blues \". https://t.co/nu1AbiPlVx",
+      "full_text" : "Check out @antlerboy’s new post, “Are businesses ecosystems? ” https://t.co/xbzr4eNk0p",
       "lang" : "en"
     }
   },
@@ -33574,9 +33620,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1734971036515303700"
+            "1613996199538790425"
           ],
-          "editableUntil" : "2023-12-13T17:18:23.000Z",
+          "editableUntil" : "2023-01-13T20:57:35.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -33588,41 +33634,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan",
-            "screen_name" : "vaughn_tan",
+            "name" : "Sachin Bandgar",
+            "screen_name" : "Sachinb91",
             "indices" : [
               "10",
-              "21"
+              "20"
             ],
-            "id_str" : "12571722",
-            "id" : "12571722"
+            "id_str" : "1711759582609960961",
+            "id" : "1711759582609960961"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/nI8bNEkYtG",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/balloon-conf",
-            "display_url" : "uncertaintymindset.substack.com/p/balloon-conf",
+            "url" : "https://t.co/nu1AbiPlVx",
+            "expanded_url" : "https://summerlightning.substack.com/p/23-bible-belt-blues",
+            "display_url" : "summerlightning.substack.com/p/23-bible-bel…",
             "indices" : [
-              "67",
-              "90"
+              "58",
+              "81"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "90"
+        "81"
       ],
-      "favorite_count" : "2",
-      "id_str" : "1734971036515303700",
+      "favorite_count" : "0",
+      "id_str" : "1613996199538790425",
       "truncated" : false,
-      "retweet_count" : "2",
-      "id" : "1734971036515303700",
+      "retweet_count" : "0",
+      "id" : "1613996199538790425",
       "possibly_sensitive" : false,
-      "created_at" : "Wed Dec 13 16:18:23 +0000 2023",
+      "created_at" : "Fri Jan 13 20:27:35 +0000 2023",
       "favorited" : false,
-      "full_text" : "Check out @vaughn_tan’s new post, “The hot-air balloon conference” https://t.co/nI8bNEkYtG",
+      "full_text" : "Check out @sachinb91's new post, \"#23 Bible Belt Blues \". https://t.co/nu1AbiPlVx",
       "lang" : "en"
     }
   },
@@ -44219,7 +44265,7 @@ window.YTD.tweets.part0 = [
         "0",
         "97"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1552189115722080256",
       "truncated" : false,
       "retweet_count" : "1",
@@ -45041,9 +45087,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1545575403590402048"
+            "1734971036515303700"
           ],
-          "editableUntil" : "2022-07-09T01:37:46.000Z",
+          "editableUntil" : "2023-12-13T17:18:23.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -45055,41 +45101,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
+            "name" : "Vaughn Tan",
+            "screen_name" : "vaughn_tan",
             "indices" : [
               "10",
-              "14"
+              "21"
             ],
-            "id_str" : "8500962",
-            "id" : "8500962"
+            "id_str" : "12571722",
+            "id" : "12571722"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/cpWWbJar68",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/the-depth-of-time",
-            "display_url" : "studio.ribbonfarm.com/p/the-depth-of…",
+            "url" : "https://t.co/nI8bNEkYtG",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/balloon-conf",
+            "display_url" : "uncertaintymindset.substack.com/p/balloon-conf",
             "indices" : [
-              "54",
-              "77"
+              "67",
+              "90"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "77"
+        "90"
       ],
-      "favorite_count" : "1",
-      "id_str" : "1545575403590402048",
+      "favorite_count" : "2",
+      "id_str" : "1734971036515303700",
       "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1545575403590402048",
+      "retweet_count" : "2",
+      "id" : "1734971036515303700",
       "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 09 01:07:46 +0000 2022",
+      "created_at" : "Wed Dec 13 16:18:23 +0000 2023",
       "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"The Depth of Time\". https://t.co/cpWWbJar68",
+      "full_text" : "Check out @vaughn_tan’s new post, “The hot-air balloon conference” https://t.co/nI8bNEkYtG",
       "lang" : "en"
     }
   },
@@ -46126,9 +46172,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1719720486609817611"
+            "1545575403590402048"
           ],
-          "editableUntil" : "2023-11-01T15:18:09.000Z",
+          "editableUntil" : "2022-07-09T01:37:46.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -46140,41 +46186,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Vaughn Tan",
-            "screen_name" : "vaughn_tan",
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
             "indices" : [
               "10",
-              "21"
+              "14"
             ],
-            "id_str" : "12571722",
-            "id" : "12571722"
+            "id_str" : "8500962",
+            "id" : "8500962"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/vYU61nHcGV",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/well-framed-problems",
-            "display_url" : "uncertaintymindset.substack.com/p/well-framed-…",
+            "url" : "https://t.co/cpWWbJar68",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/the-depth-of-time",
+            "display_url" : "studio.ribbonfarm.com/p/the-depth-of…",
             "indices" : [
-              "57",
-              "80"
+              "54",
+              "77"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "80"
+        "77"
       ],
-      "favorite_count" : "3",
-      "id_str" : "1719720486609817611",
+      "favorite_count" : "1",
+      "id_str" : "1545575403590402048",
       "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1719720486609817611",
+      "retweet_count" : "0",
+      "id" : "1545575403590402048",
       "possibly_sensitive" : false,
-      "created_at" : "Wed Nov 01 14:18:09 +0000 2023",
+      "created_at" : "Sat Jul 09 01:07:46 +0000 2022",
       "favorited" : false,
-      "full_text" : "Check out @vaughn_tan’s new post, “Well-framed problems” https://t.co/vYU61nHcGV",
+      "full_text" : "Check out @vgr's new newsletter, \"The Depth of Time\". https://t.co/cpWWbJar68",
       "lang" : "en"
     }
   },
@@ -57546,41 +57592,55 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1506064946420932617"
+            "1719720486609817611"
           ],
-          "editableUntil" : "2022-03-22T01:27:19.217Z",
+          "editableUntil" : "2023-11-01T15:18:09.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">yakborg</a>",
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
       "entities" : {
-        "hashtags" : [
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
           {
-            "text" : "yakbot",
+            "name" : "Vaughn Tan",
+            "screen_name" : "vaughn_tan",
             "indices" : [
-              "167",
-              "174"
-            ]
+              "10",
+              "21"
+            ],
+            "id_str" : "12571722",
+            "id" : "12571722"
           }
         ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
+        "urls" : [
+          {
+            "url" : "https://t.co/vYU61nHcGV",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/well-framed-problems",
+            "display_url" : "uncertaintymindset.substack.com/p/well-framed-…",
+            "indices" : [
+              "57",
+              "80"
+            ]
+          }
+        ]
       },
       "display_text_range" : [
         "0",
-        "174"
+        "80"
       ],
-      "favorite_count" : "1",
-      "id_str" : "1506064946420932617",
+      "favorite_count" : "3",
+      "id_str" : "1719720486609817611",
       "truncated" : false,
       "retweet_count" : "1",
-      "id" : "1506064946420932617",
-      "created_at" : "Tue Mar 22 00:27:19 +0000 2022",
+      "id" : "1719720486609817611",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Nov 01 14:18:09 +0000 2023",
       "favorited" : false,
-      "full_text" : "The YakRover group is collecting a trove of links on rover news and broader picture. Open discussion in a few hours! Please come join us this March 22nd at 5:00 UTC ! #yakbot",
+      "full_text" : "Check out @vaughn_tan’s new post, “Well-framed problems” https://t.co/vYU61nHcGV",
       "lang" : "en"
     }
   },
@@ -58606,55 +58666,41 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1710290238294159443"
+            "1506064946420932617"
           ],
-          "editableUntil" : "2023-10-06T14:45:43.000Z",
+          "editableUntil" : "2022-03-22T01:27:19.217Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "source" : "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">yakborg</a>",
       "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
+        "hashtags" : [
           {
-            "name" : "Vaughn Tan",
-            "screen_name" : "vaughn_tan",
+            "text" : "yakbot",
             "indices" : [
-              "10",
-              "21"
-            ],
-            "id_str" : "12571722",
-            "id" : "12571722"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/6zlEvkUx0a",
-            "expanded_url" : "https://uncertaintymindset.substack.com/p/organizational-technology",
-            "display_url" : "uncertaintymindset.substack.com/p/organization…",
-            "indices" : [
-              "90",
-              "113"
+              "167",
+              "174"
             ]
           }
-        ]
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "113"
+        "174"
       ],
-      "favorite_count" : "2",
-      "id_str" : "1710290238294159443",
+      "favorite_count" : "1",
+      "id_str" : "1506064946420932617",
       "truncated" : false,
       "retweet_count" : "1",
-      "id" : "1710290238294159443",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Oct 06 13:45:43 +0000 2023",
+      "id" : "1506064946420932617",
+      "created_at" : "Tue Mar 22 00:27:19 +0000 2022",
       "favorited" : false,
-      "full_text" : "Check out @vaughn_tan's new newsletter, \"Organizational technology for uncertainty work\". https://t.co/6zlEvkUx0a",
+      "full_text" : "The YakRover group is collecting a trove of links on rover news and broader picture. Open discussion in a few hours! Please come join us this March 22nd at 5:00 UTC ! #yakbot",
       "lang" : "en"
     }
   },
@@ -70355,9 +70401,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1476600088998948873"
+            "1710290238294159443"
           ],
-          "editableUntil" : "2021-12-30T18:04:29.777Z",
+          "editableUntil" : "2023-10-06T14:45:43.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -70369,41 +70415,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Anuraj R.",
-            "screen_name" : "anurajenp",
+            "name" : "Vaughn Tan",
+            "screen_name" : "vaughn_tan",
             "indices" : [
-              "32",
-              "42"
+              "10",
+              "21"
             ],
-            "id_str" : "2721763552",
-            "id" : "2721763552"
+            "id_str" : "12571722",
+            "id" : "12571722"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/CGtc7FA77f",
-            "expanded_url" : "https://www.yakcollective.org/members/100039/#20211230",
-            "display_url" : "yakcollective.org/members/100039…",
+            "url" : "https://t.co/6zlEvkUx0a",
+            "expanded_url" : "https://uncertaintymindset.substack.com/p/organizational-technology",
+            "display_url" : "uncertaintymindset.substack.com/p/organization…",
             "indices" : [
-              "67",
-              "90"
+              "90",
+              "113"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "90"
+        "113"
       ],
-      "favorite_count" : "0",
-      "id_str" : "1476600088998948873",
+      "favorite_count" : "2",
+      "id_str" : "1710290238294159443",
       "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1476600088998948873",
+      "retweet_count" : "1",
+      "id" : "1710290238294159443",
       "possibly_sensitive" : false,
-      "created_at" : "Thu Dec 30 17:04:29 +0000 2021",
+      "created_at" : "Fri Oct 06 13:45:43 +0000 2023",
       "favorited" : false,
-      "full_text" : "Today's featured yak: Anuraj R (@anurajenp) - Curious | Roboticist https://t.co/CGtc7FA77f",
+      "full_text" : "Check out @vaughn_tan's new newsletter, \"Organizational technology for uncertainty work\". https://t.co/6zlEvkUx0a",
       "lang" : "en"
     }
   },
@@ -71495,9 +71541,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1700167020656935369"
+            "1476600088998948873"
           ],
-          "editableUntil" : "2023-09-08T16:19:39.000Z",
+          "editableUntil" : "2021-12-30T18:04:29.777Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -71509,41 +71555,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Benjamin P. Taylor",
-            "screen_name" : "antlerboy",
+            "name" : "Anuraj R.",
+            "screen_name" : "anurajenp",
             "indices" : [
-              "10",
-              "20"
+              "32",
+              "42"
             ],
-            "id_str" : "14464195",
-            "id" : "14464195"
+            "id_str" : "2721763552",
+            "id" : "2721763552"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/o13MaLRl0z",
-            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-101-d727edf98aa9?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/transduction-l…",
+            "url" : "https://t.co/CGtc7FA77f",
+            "expanded_url" : "https://www.yakcollective.org/members/100039/#20211230",
+            "display_url" : "yakcollective.org/members/100039…",
             "indices" : [
-              "87",
-              "110"
+              "67",
+              "90"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "110"
+        "90"
       ],
-      "favorite_count" : "2",
-      "id_str" : "1700167020656935369",
+      "favorite_count" : "0",
+      "id_str" : "1476600088998948873",
       "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1700167020656935369",
+      "retweet_count" : "0",
+      "id" : "1476600088998948873",
       "possibly_sensitive" : false,
-      "created_at" : "Fri Sep 08 15:19:39 +0000 2023",
+      "created_at" : "Thu Dec 30 17:04:29 +0000 2021",
       "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #101\". https://t.co/o13MaLRl0z",
+      "full_text" : "Today's featured yak: Anuraj R (@anurajenp) - Curious | Roboticist https://t.co/CGtc7FA77f",
       "lang" : "en"
     }
   },
@@ -85494,9 +85540,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1449057311079686145"
+            "1700167020656935369"
           ],
-          "editableUntil" : "2021-10-15T17:59:19.801Z",
+          "editableUntil" : "2023-09-08T16:19:39.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -85506,32 +85552,43 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Benjamin P. Taylor",
+            "screen_name" : "antlerboy",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "14464195",
+            "id" : "14464195"
+          }
+        ],
         "urls" : [
           {
-            "url" : "https://t.co/3su4Ox9Jcx",
-            "expanded_url" : "https://www.yakcollective.org/members/wimsatt-mike/#20211015",
-            "display_url" : "yakcollective.org/members/wimsat…",
+            "url" : "https://t.co/o13MaLRl0z",
+            "expanded_url" : "https://antlerboy.medium.com/transduction-leading-transformation-issue-101-d727edf98aa9?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/transduction-l…",
             "indices" : [
-              "36",
-              "59"
+              "87",
+              "110"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "59"
+        "110"
       ],
-      "favorite_count" : "0",
-      "id_str" : "1449057311079686145",
+      "favorite_count" : "2",
+      "id_str" : "1700167020656935369",
       "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1449057311079686145",
+      "retweet_count" : "1",
+      "id" : "1700167020656935369",
       "possibly_sensitive" : false,
-      "created_at" : "Fri Oct 15 16:59:19 +0000 2021",
+      "created_at" : "Fri Sep 08 15:19:39 +0000 2023",
       "favorited" : false,
-      "full_text" : "Today's featured yak: Mike Wimsatt  https://t.co/3su4Ox9Jcx",
+      "full_text" : "Check out @antlerboy's new post, \"Transduction — leading transformation — Issue #101\". https://t.co/o13MaLRl0z",
       "lang" : "en"
     }
   },
@@ -86623,9 +86680,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1690222222370131968"
+            "1449057311079686145"
           ],
-          "editableUntil" : "2023-08-12T05:42:35.000Z",
+          "editableUntil" : "2021-10-15T17:59:19.801Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -86635,43 +86692,32 @@ window.YTD.tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Venkatesh Rao ☀️",
-            "screen_name" : "vgr",
-            "indices" : [
-              "10",
-              "14"
-            ],
-            "id_str" : "8500962",
-            "id" : "8500962"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
-            "url" : "https://t.co/tmiEOcnsr8",
-            "expanded_url" : "https://studio.ribbonfarm.com/p/never-ending-stories",
-            "display_url" : "studio.ribbonfarm.com/p/never-ending…",
+            "url" : "https://t.co/3su4Ox9Jcx",
+            "expanded_url" : "https://www.yakcollective.org/members/wimsatt-mike/#20211015",
+            "display_url" : "yakcollective.org/members/wimsat…",
             "indices" : [
-              "57",
-              "80"
+              "36",
+              "59"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "80"
+        "59"
       ],
       "favorite_count" : "0",
-      "id_str" : "1690222222370131968",
+      "id_str" : "1449057311079686145",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1690222222370131968",
+      "id" : "1449057311079686145",
       "possibly_sensitive" : false,
-      "created_at" : "Sat Aug 12 04:42:35 +0000 2023",
+      "created_at" : "Fri Oct 15 16:59:19 +0000 2021",
       "favorited" : false,
-      "full_text" : "Check out @vgr's new newsletter, \"Never-Ending Stories\". https://t.co/tmiEOcnsr8",
+      "full_text" : "Today's featured yak: Mike Wimsatt  https://t.co/3su4Ox9Jcx",
       "lang" : "en"
     }
   },
@@ -95333,7 +95379,7 @@ window.YTD.tweets.part0 = [
         "0",
         "113"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1419596675572719622",
       "truncated" : false,
       "retweet_count" : "1",
@@ -97968,9 +98014,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1413893148208766977"
+            "1690222222370131968"
           ],
-          "editableUntil" : "2021-07-10T17:09:30.054Z",
+          "editableUntil" : "2023-08-12T05:42:35.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -97982,41 +98028,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
+            "name" : "Venkatesh Rao ☀️",
+            "screen_name" : "vgr",
             "indices" : [
-              "36",
-              "46"
+              "10",
+              "14"
             ],
-            "id_str" : "14338338",
-            "id" : "14338338"
+            "id_str" : "8500962",
+            "id" : "8500962"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/mkxag3FXPA",
-            "expanded_url" : "https://www.yakcollective.org/members/millerd-paul/#20210710",
-            "display_url" : "yakcollective.org/members/miller…",
+            "url" : "https://t.co/tmiEOcnsr8",
+            "expanded_url" : "https://studio.ribbonfarm.com/p/never-ending-stories",
+            "display_url" : "studio.ribbonfarm.com/p/never-ending…",
             "indices" : [
-              "48",
-              "71"
+              "57",
+              "80"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "71"
+        "80"
       ],
-      "favorite_count" : "2",
-      "id_str" : "1413893148208766977",
+      "favorite_count" : "0",
+      "id_str" : "1690222222370131968",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1413893148208766977",
+      "id" : "1690222222370131968",
       "possibly_sensitive" : false,
-      "created_at" : "Sat Jul 10 16:09:30 +0000 2021",
+      "created_at" : "Sat Aug 12 04:42:35 +0000 2023",
       "favorited" : false,
-      "full_text" : "Today's featured yak: Paul Millerd (@p_millerd) https://t.co/mkxag3FXPA",
+      "full_text" : "Check out @vgr's new newsletter, \"Never-Ending Stories\". https://t.co/tmiEOcnsr8",
       "lang" : "en"
     }
   },
@@ -99123,9 +99169,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1683766069247242249"
+            "1413893148208766977"
           ],
-          "editableUntil" : "2023-07-25T10:08:08.000Z",
+          "editableUntil" : "2021-07-10T17:09:30.054Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -99137,41 +99183,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Benjamin P. Taylor",
-            "screen_name" : "antlerboy",
+            "name" : "Paul Millerd",
+            "screen_name" : "p_millerd",
             "indices" : [
-              "10",
-              "20"
+              "36",
+              "46"
             ],
-            "id_str" : "14464195",
-            "id" : "14464195"
+            "id_str" : "14338338",
+            "id" : "14338338"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/5SRAvMeW49",
-            "expanded_url" : "https://antlerboy.medium.com/you-cant-get-order-for-free-what-do-you-do-to-balance-order-and-chaos-in-your-life-or-88d78446113b?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/you-cant-get-o…",
+            "url" : "https://t.co/mkxag3FXPA",
+            "expanded_url" : "https://www.yakcollective.org/members/millerd-paul/#20210710",
+            "display_url" : "yakcollective.org/members/miller…",
             "indices" : [
-              "126",
-              "149"
+              "48",
+              "71"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "149"
+        "71"
       ],
-      "favorite_count" : "1",
-      "id_str" : "1683766069247242249",
+      "favorite_count" : "2",
+      "id_str" : "1413893148208766977",
       "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1683766069247242249",
+      "retweet_count" : "0",
+      "id" : "1413893148208766977",
       "possibly_sensitive" : false,
-      "created_at" : "Tue Jul 25 09:08:08 +0000 2023",
+      "created_at" : "Sat Jul 10 16:09:30 +0000 2021",
       "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"You can’t get order for free — what do you do to balance order and chaos in your life or…\". https://t.co/5SRAvMeW49",
+      "full_text" : "Today's featured yak: Paul Millerd (@p_millerd) https://t.co/mkxag3FXPA",
       "lang" : "en"
     }
   },
@@ -110039,9 +110085,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1382599093277618176"
+            "1683766069247242249"
           ],
-          "editableUntil" : "2021-04-15T08:38:05.943Z",
+          "editableUntil" : "2023-07-25T10:08:08.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -110065,29 +110111,29 @@ window.YTD.tweets.part0 = [
         ],
         "urls" : [
           {
-            "url" : "https://t.co/BM3D74j4pH",
-            "expanded_url" : "https://antlerboy.medium.com/what-idea-changed-the-way-you-see-the-world-2fd33baec887?source=rss-97852f5a56ae------2",
-            "display_url" : "antlerboy.medium.com/what-idea-chan…",
+            "url" : "https://t.co/5SRAvMeW49",
+            "expanded_url" : "https://antlerboy.medium.com/you-cant-get-order-for-free-what-do-you-do-to-balance-order-and-chaos-in-your-life-or-88d78446113b?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/you-cant-get-o…",
             "indices" : [
-              "81",
-              "104"
+              "126",
+              "149"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "104"
+        "149"
       ],
       "favorite_count" : "1",
-      "id_str" : "1382599093277618176",
+      "id_str" : "1683766069247242249",
       "truncated" : false,
       "retweet_count" : "1",
-      "id" : "1382599093277618176",
+      "id" : "1683766069247242249",
       "possibly_sensitive" : false,
-      "created_at" : "Thu Apr 15 07:38:05 +0000 2021",
+      "created_at" : "Tue Jul 25 09:08:08 +0000 2023",
       "favorited" : false,
-      "full_text" : "Check out @antlerboy's new post, \"What idea changed the way you see the world?\". https://t.co/BM3D74j4pH",
+      "full_text" : "Check out @antlerboy's new post, \"You can’t get order for free — what do you do to balance order and chaos in your life or…\". https://t.co/5SRAvMeW49",
       "lang" : "en"
     }
   },
@@ -111189,9 +111235,9 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1677129960601841664"
+            "1382599093277618176"
           ],
-          "editableUntil" : "2023-07-07T02:38:36.000Z",
+          "editableUntil" : "2021-04-15T08:38:05.943Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -111203,41 +111249,41 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Sachin Bandgar",
-            "screen_name" : "Sachinb91",
+            "name" : "Benjamin P. Taylor",
+            "screen_name" : "antlerboy",
             "indices" : [
               "10",
               "20"
             ],
-            "id_str" : "1711759582609960961",
-            "id" : "1711759582609960961"
+            "id_str" : "14464195",
+            "id" : "14464195"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/gczBnDHEtx",
-            "expanded_url" : "https://summerlightning.substack.com/p/songs-from-the-comatose-couch",
-            "display_url" : "summerlightning.substack.com/p/songs-from-t…",
+            "url" : "https://t.co/BM3D74j4pH",
+            "expanded_url" : "https://antlerboy.medium.com/what-idea-changed-the-way-you-see-the-world-2fd33baec887?source=rss-97852f5a56ae------2",
+            "display_url" : "antlerboy.medium.com/what-idea-chan…",
             "indices" : [
-              "66",
-              "89"
+              "81",
+              "104"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "89"
+        "104"
       ],
-      "favorite_count" : "0",
-      "id_str" : "1677129960601841664",
+      "favorite_count" : "1",
+      "id_str" : "1382599093277618176",
       "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1677129960601841664",
+      "retweet_count" : "1",
+      "id" : "1382599093277618176",
       "possibly_sensitive" : false,
-      "created_at" : "Fri Jul 07 01:38:36 +0000 2023",
+      "created_at" : "Thu Apr 15 07:38:05 +0000 2021",
       "favorited" : false,
-      "full_text" : "Check out @sachinb91's new post, \"Songs From The Comatose Couch\". https://t.co/gczBnDHEtx",
+      "full_text" : "Check out @antlerboy's new post, \"What idea changed the way you see the world?\". https://t.co/BM3D74j4pH",
       "lang" : "en"
     }
   },
@@ -122335,44 +122381,55 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1339978329005371395"
+            "1677129960601841664"
           ],
-          "editableUntil" : "2020-12-18T17:58:23.885Z",
+          "editableUntil" : "2023-07-07T02:38:36.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sachin Bandgar",
+            "screen_name" : "Sachinb91",
+            "indices" : [
+              "10",
+              "20"
+            ],
+            "id_str" : "1711759582609960961",
+            "id" : "1711759582609960961"
+          }
+        ],
         "urls" : [
           {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
+            "url" : "https://t.co/gczBnDHEtx",
+            "expanded_url" : "https://summerlightning.substack.com/p/songs-from-the-comatose-couch",
+            "display_url" : "summerlightning.substack.com/p/songs-from-t…",
             "indices" : [
-              "137",
-              "160"
+              "66",
+              "89"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "160"
+        "89"
       ],
       "favorite_count" : "0",
-      "id_str" : "1339978329005371395",
+      "id_str" : "1677129960601841664",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1339978329005371395",
+      "id" : "1677129960601841664",
       "possibly_sensitive" : false,
-      "created_at" : "Fri Dec 18 16:58:23 +0000 2020",
+      "created_at" : "Fri Jul 07 01:38:36 +0000 2023",
       "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Online governance study group, Dec 18, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
+      "full_text" : "Check out @sachinb91's new post, \"Songs From The Comatose Couch\". https://t.co/gczBnDHEtx",
       "lang" : "en"
     }
   },
@@ -123447,55 +123504,44 @@ window.YTD.tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1670188652960309248"
+            "1339978329005371395"
           ],
-          "editableUntil" : "2023-06-17T22:56:20.000Z",
+          "editableUntil" : "2020-12-18T17:58:23.885Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Millerd",
-            "screen_name" : "p_millerd",
-            "indices" : [
-              "10",
-              "20"
-            ],
-            "id_str" : "14338338",
-            "id" : "14338338"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
-            "url" : "https://t.co/gbtrk9eVbK",
-            "expanded_url" : "https://think-boundless.com/mediocre/?utm_source=rss&utm_medium=rss&utm_campaign=mediocre",
-            "display_url" : "think-boundless.com/mediocre/?utm_…",
+            "url" : "https://t.co/JDzOebSgv9",
+            "expanded_url" : "http://zpr.io/t47UH",
+            "display_url" : "zpr.io/t47UH",
             "indices" : [
-              "60",
-              "83"
+              "137",
+              "160"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "83"
+        "160"
       ],
       "favorite_count" : "0",
-      "id_str" : "1670188652960309248",
+      "id_str" : "1339978329005371395",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1670188652960309248",
+      "id" : "1339978329005371395",
       "possibly_sensitive" : false,
-      "created_at" : "Sat Jun 17 21:56:20 +0000 2023",
+      "created_at" : "Fri Dec 18 16:58:23 +0000 2020",
       "favorited" : false,
-      "full_text" : "Check out @p_millerd's new post, \"The Way of Mediocre Man\". https://t.co/gbtrk9eVbK",
+      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Online governance study group, Dec 18, 2020 09:00AM. Get invite link here: https://t.co/JDzOebSgv9",
       "lang" : "en"
     }
   },
@@ -132182,7 +132228,7 @@ window.YTD.tweets.part0 = [
         "0",
         "121"
       ],
-      "favorite_count" : "14",
+      "favorite_count" : "13",
       "id_str" : "1318853677935898627",
       "truncated" : false,
       "retweet_count" : "1",
@@ -134636,52 +134682,6 @@ window.YTD.tweets.part0 = [
       "created_at" : "Thu Sep 24 10:36:05 +0000 2020",
       "favorited" : false,
       "full_text" : "Check out @anthilemoon's new post, \"Negativity bias: how negative experiences cloud our judgement\". https://t.co/iFcZMejFQp",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1308963069926805506"
-          ],
-          "editableUntil" : "2020-09-24T03:54:49.885Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/JDzOebSgv9",
-            "expanded_url" : "http://zpr.io/t47UH",
-            "display_url" : "zpr.io/t47UH",
-            "indices" : [
-              "147",
-              "170"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "170"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1308963069926805506",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1308963069926805506",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Sep 24 02:54:49 +0000 2020",
-      "favorited" : false,
-      "full_text" : "Event coming up on Yak Collective discord in &lt; 15 minutes! Reading Group Intelligence &amp; Spirit, Sep 23, 2020 08:00PM. Get invite link here: https://t.co/JDzOebSgv9",
       "lang" : "en"
     }
   }

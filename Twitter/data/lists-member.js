@@ -36,7 +36,7 @@ window.YTD.lists_member.part0 = [
   },
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/mikuruntime/lists/1486951703005986816"
+      "url" : "https://twitter.com/crystalcultures/lists/1486951703005986816"
     }
   },
   {
@@ -217,11 +217,6 @@ window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
       "url" : "https://twitter.com/antlerboy/lists/interesting-people1"
-    }
-  },
-  {
-    "userListInfo" : {
-      "url" : "https://twitter.com/kieranjohng/lists/post-brexit-news-list-20294"
     }
   },
   {
