@@ -95,7 +95,6 @@
         - [New Narratives for the New Old Home](https://docs.google.com/presentation/d/1Bgs4e6YIEydMot0VM4lf-onZM2z6Zei3n87f3JHCeSk/edit#slide=id.g87c9b1e40b_0_660) – __Amanda Reeves__
             - Amanda uses Causal Layered Analysis to examine narratives about the home in the pre-, mid-, and post-COVID worlds: uncovering the deep underlying metaphors that shape our understanding
 - 5:10
-- 5:20
 - __2. Places & Spaces____ __ **(Drew presents)**
     - Drew talks about 1/3 space 
     - Drew talks about travel as ritual
@@ -108,6 +107,7 @@
         - 
         - 
 I sort of wrote of experimental attempt mainly basing a hypothetical new language off of Venkat's concept of Farcaster Mansion, so we could have portals between the four different worlds. Or we can actually begin to give patterns that work with our tech tools, embrace them, and outfit nooks designed for ring lights, selfie sticks, or Zoom calls, etc. Just some ideas. 
+- 5:20
 - __3. Running the New Old Home____ __ **(Pamela presents)**
     - Sections
         - Home economics (Toby) - education
@@ -143,13 +143,12 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
 - 6:20
 - **Turn to Shreeda to choose questions out of the chat **- 
     - depending on if there are questions in there or not or if not too many attendees, could have them raise hands 
-- 
 - 6:30
+- 
+- 
 - Topic ideas:
     - Childcare/education
     - 
-- 
-- 
 - Intro/Overview **(Jordan starts)**
     1. Jordan welcomes audience
     2. Jordan explains Yak Collective briefly
@@ -164,6 +163,7 @@ I sort of wrote of experimental attempt mainly basing a hypothetical new languag
     6. Pamela invites Drew as co-lead take it away Drew...
     7. **Drew ** introduces himself 
     8. Drew: so without further ado, let's dig into the deck... 
+- 
 - 
 - 
 - 
