@@ -1305,6 +1305,7 @@ but consider - is what is being sent data or programs?
         - https://www.reddit.com/r/mlops/comments/1doygn4/modularity_and_composability_for_ai_systems/
         - https://medium.com/statebox/modularity-vs-compositionality-a-history-of-misunderstandings-be0150033568
         - https://www.hopsworks.ai/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage
+        - https://vitalik.eth.limo/general/2024/09/02/gluecp.html
     - Temporality for composable systems
         - WebRTC
             - https://sookocheff.com/post/networking/how-does-web-rtc-work/
