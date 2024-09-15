@@ -11,7 +11,7 @@ You need:
 - A \*NIX environment (Linux, macOS, or [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install))
 - Write access to [this repo](https://github.com/The-Yak-Collective/backups)
 
-Download the Markdown (note that you'll need to replace `Roam-Export` in the downloaded file name with the graph name), EDN, msgpack backups of the [Art of Gig](https://roamresearch.com/#/app/ArtOfGig/search) and [Astonishing Stories](https://roamresearch.com/#/app/Astonishing_Stories/search) [Roam Research](https://roamresearch.com/) graphs.
+Download the Markdown (note that you'll need to replace `Roam-Export` in the downloaded file name with the graph name), EDN, and msgpack backups of the [Art of Gig](https://roamresearch.com/#/app/ArtOfGig/search) and [Astonishing Stories](https://roamresearch.com/#/app/Astonishing_Stories/search) [Roam Research](https://roamresearch.com/) graphs.
 
 Then, in the directory where you've downloaded those files...
 
