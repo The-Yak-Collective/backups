@@ -1,2 +1,0 @@
-- [[Pamela Hobart]]: "Clustering" the slide deck.
-    - "Are we only talking about rich people?"

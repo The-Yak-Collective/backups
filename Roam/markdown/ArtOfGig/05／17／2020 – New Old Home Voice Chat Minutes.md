@@ -1,6 +1,0 @@
-- **In attendance:**
-- 
-- ## Discussion:
-- [[Pamela Hobart]]: What's failed about the idea of "The Third Place" in architecture
-- [[Drew Schorno]]: Community spaces in apartment buildings not practical anymore, post-COVID. Online space tries, but doesn't replicate the happenstance "bumping-into-a-friend" experience of irl. 
-- [[Pamela Hobart]]: Just moved to a from a new building to an old building. 

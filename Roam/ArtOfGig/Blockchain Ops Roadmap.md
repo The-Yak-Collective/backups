@@ -1,0 +1,1129 @@
+- This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
+- This covers the period Fall 2021-Spring 2022 (~8 months)
+- Starting Summer 2022, we broadened this track into a [[Distributed Systems Study Group]]
+- [[YC Treasury]]
+- [[Blockchain Infrastructure Resources]]
+- [[Yak Colony Pilot]]
+- ## 2021 Meeting Notes
+    1. [[Chat with Rafa Nov 8 2021]] #[[meeting-notes]]
+    2. [[Weekly Call 2021-11-22]] #[[meeting-notes]]
+    3. [[November 22nd, 2021]] Nov 22 meeting agenda #[[meeting-notes]]
+        - Review of [[Mirror.xyz]]
+        - [[YC Indirect Cost Schedule]] model
+        - [[Paper Split Discussion]]
+    4. [[November 29th, 2021]] Nov 29 meeting agenda #[[meeting-notes]]
+        - [[Web 3 Implementation Research topics]] that need investigation
+        - Lore/Mission story
+    5. Dec 6 #[[meeting-notes]]
+    6. Dec 13: no meeting
+    7. Dec 20: Ack report: [Survey of art primitives](https://docs.google.com/presentation/d/1e4WeafuEqZ4lhWw9xXibwVSjHZ-Fo2l5RJqXj3O8kmw/edit?usp=sharing)
+        - Offshoot discussion on a possible project [[On-Chain Lexicons]]
+- ## 2022 Meeting Notes
+    - **Season: Winter** (12 sessions, starting ~ on Dec 22, 2021, Solstice)
+        1. Dec 26: Nathan: [[Blockchain File Storage and Hosting]]
+        2. __Jan 3: Winter Planning __
+            - Day/Time
+                - Seems to work for most people, unless there are severe conflicts later we will keep this. 
+            - Relation to other tracks
+                - Primarily tactical/practical application of decentralization
+                - Fridays are doctrine (high level principles)
+                - Mondays are blockchain specific strategy
+                - Wednesdays are turning Blockchain + others into practical implementation plans. 
+                - Saturdays are a working implementation session. 
+            - Roadmap prioritization
+                - DAOification
+                    - Tokenomics, emerging properties of tokens. 
+                    - Case studies, how are things emerging there? 
+                    - Automation at the center. How do we automate out the mechanisms so the automation is at the center? 
+                - Web3 publishing infrastructure
+                - NFTs
+                - Finance aspects
+                - Learning the tech: Solidity programming, etc.
+                    - Prioritize this by doing (Dogfooding)
+                    - Blockchain implementations and different smart contract implementations
+                    - How are security concerns handled? DAO attack vectors
+                - Decentralized Identity
+                - Idenity
+                    - Reputatiom/clout
+                - Cloud identity.
+                    - Reputation Clout
+                    - What is the right way to create flexible on-chain identities? 
+                - Community provenance
+                - Community provenance
+                - Cultural component of DAOification
+                - Agreements -> Rules (D of DAO). 
+                    - How does this turn into community participation? 
+                - DAO abstraction
+                    - Currently, DAOs try to build everything. How do they evolve to be symbiotic? 
+                - Next steps: 
+                    - VGR will consolidate the above list to 5-7 items and bucketize everything. 
+                        - As we talk about them, we will add checkmarks to the bucket. 
+                    - **Everyone**: Take dates off of the roadmap list (to research topics and present out)
+            - Meeting format
+                - Readings
+                - Rotating discussion leads
+                - Coworking sessions
+                - ?
+            - Presentation format
+                - Roam page
+                - Slides
+            - Discussion format
+                - Presentation +Q&A
+                - Roundtable comments like OGS chats
+            - Experiment bootstrap model
+                - Lexicon example
+            - Goals for 2022?
+        3. Jan 10: DAOs comparison paper
+            - Prompt Article - https://jisajournal.springeropen.com/articles/10.1186/s13174-021-00139-6
+                - Question - Prompt: Call out what key points jumped out at you, and what you think the most important design variables are for a DAO
+            - Discussion
+                - [[Anuraj R]] - Gas Prices, Do humans override blockchain
+                - [[Bryan King]] - 
+                - [[Commits Vortex]] - 
+                    - Development of Aragon ie 3 branch governance model, creating buffers of voting disputes, the proposal acceptance is not automatic, ability of someone to dissent
+                    - How important is to have voting mechanism on chain
+                - [[Grigori Milov]]
+                    - Difference in system based on proposals vs systems based on tasks, task-based appears simple
+                    - Vote systems - majority and threshold based
+                    - The paper does not seem exhaustive, maybe voting is not the best way to make decisions
+                    - Graph of the activity of the DAOs
+                - [[Jenna Dixon]] - 
+                    - appreciate the chance to feel the size and breadth
+                    - wonder how many of the communities are going after something we would call real
+                    - wonder if a consesus is being reached on the minimum viable size of a community
+                    - appreciated the explanation of Conviction Voting, would like see it in action, since it addresses the intermittant attention that we see in YakC and is prolly common in DAOs where participatnts and part-time
+                    - proposal-driven schema vs task-driven distinction seems like a big deal, maybe Venkat can say a bit of how/why Colony went that route
+                - [[Kiran Pathakota]]
+                    - Super low activity numbers for Aragon
+                    - Voting systems feed into design variables, we want high velocity decision system and also friction based decision system
+                    - Incentives, for some decisions, specific people are needed, what goes into blockchain
+                - [[Maier Fenster]]
+                    - What is YakC solving for and what are other DAOs 
+                        - They seem to solve of bad actors and trust
+                        - YakC seems to solve for goodness 
+                    - The other problem we want to solve for is "how to increase activity"? Project bounty gives some activity but maybe not the best incentive
+                    - Would interesting to solve for motivation without using money? What would make YakC interesting and pleasant
+                - [[Patrick Atwater]]
+                    - Is is possible to have an "amend the blockchain"? that was missing
+                    - In terms of YakC, what are we solving for, for others many solve for money, "What is the Tao of YakC"
+                - [[Rafael Fernandez]]
+                    - Good overview of all the voting mechanism in DAOs
+                    - This is the first generation of tooling, seem to going for enterprise solution, design space around decisions, what are you solving for is not fully explored
+                    - Do these tools make sense ? Mirror has not chosen any specific tooling. That does not exclude decentralizzed decisions
+                - [[Venkatesh Rao]]
+                    - Little premature to write an article, TheDAO - 50M stolen, ThaDAO for VC, and Ethereum was young enough to hard fork - the garden of Eden story of DAO
+                    - Do you truly want to go fully automated? Or have reversal mechanism? 
+                    - Initial focus on financial management, not on governance of others
+                    - Whether to use a platform or roll out your own 
+                    - Can you have not so legible mechanisms in decision, reputation affects voting in other areas, legible vs illegible
+                    - Can we design a DAO to motivate a full range of behaviour, can we really make it so that we could trade it outside DAO
+                - Discord voice-meta Discussion start - https://discordapp.com/channels/692111190851059762/698566364595486720/930126176482119810
+                - Open Floor
+                    - [[Rafael Fernandez]] - Composability and Fragmentation of Tooling
+                        - Two schools Full Enterprise Solution vs Plugin/Composibility(might win) Type Ecosystem
+                        - [[Venkatesh Rao]] - In IT infrastructure - Microsoft shops use the whole MS stack other use a mix and match approach. Smaller startups have more flexibility, both might emerge, but due to the nature of the medium the Plugin/Composibility types might win
+                        - [[Rafael Fernandez]] - Lot of the execution might happen at sub DAO level or inter DAO level
+                        - [[Nathan Acks]] - Data portability is a big concern while considering composability. Every thing on chain then standards on data might allow for flexibility
+                        - [[Commits Vortex]] - When we talk of composability, is each block a smart contract? Smart Contract A and Smart Contract B and be able to call from other Smart Contract? 
+                            - [[Rafael Fernandez]] - One is to be able to stack them together, eg a safe/vault can release from voting software, and the second is interoperability, voting within the pods in the DAO could be rolled up to make decision for the entire DAOs
+                        - [[Commits Vortex]] - When you talk about chain agnosticism, how do contemporary DAOs think about the mutability of software that isn't on chain? (i know you can make proxy contracts for on-chain contracts, but complicated). Do contemporary DAOs see any problem with the mutability of off-chain legos in terms of both decentralization and long-term operability between the legos? Or is that not the right way of framing the question of off-chain composability?
+                    - [[Venkatesh Rao]] -
+                        -  Roll ups are kind of like side chain mechanisms to minimize the number of transactions, something like batch processing, a design variable to play with.
+                        - In the #infrastructure channel the fundamental activity is not the tokens etc but of logging. so all of the activity is generating data and in principle could be implemented on chain and other extreme is illegible logging which is happening right now in this meeting. We need to decide what to capture and how much. It is a data design decision. Seems like a place to start
+                    - [[Jenna Dixon]] - Do we want have these calls recorded and posted to YouTube? 
+                        - seems to appear consensus - yes to recording - practice accountability and abandon [[Chatham House Rules]]
+                        - [[Jenna Dixon]] will record next three sessions 
+            - Outline of the DAO platform comparison paper, via [[Commits Vortex]]:
+                - TheDAO
+                    - hacked
+                    - fork of eth
+                    - risk in contracts
+                    - formation of dao creation platforms
+                        - Platforms
+                            - Aragon
+                                - apps (sets of smart contracts)
+                                    - Finance
+                                    - Token
+                                    - Agent
+                                    - Vote
+                                        - 1) The majority required: From all cast votes, the percentage of positive cast votes must be greater than or equals to the required percentage of support. 
+                                        - 2) The minimum participation required: The minimum acceptance quorum parameter states the minimum percentage of votes cast from all possible votes in the DAO.
+                                        - Holographic (derived from DAOstack)
+                                        - Dandelion (derived from DAOhaus)
+                                        - Dot-Vote
+                                            - More options than yes/no binary
+                                        - Conviction Voting
+                                            - express preference
+                                            - longer held, higher conviction
+                                            - can change at any time
+                                            - lowers conviction
+                                            - can set conviction thresholds for vote to pass
+                                        - Committee template
+                                            - sub-groups within dao
+                                            - see also optimistic dao structure
+                            - DAOstack
+                                - aims to tackle governance scalability problem
+                                - problem with 51% voter turnout to pass
+                                - lowering quarum to relative majority opens up attack vector of spamming proposals, and dilluting attention, resulting in more proposals (advisarial) being passed
+                                    - holographic cosensus
+                                        - meant to solve this problem through middle layer prediction market
+                                        - community members may “bet” if a certain proposal will pass or not pass, staking a certain amount of their tokens
+                                        - if a proposal receives enough stakes, reaching a threshold, it may skip the requirement of absolute majority voting and be passed with a relative majority.
+                                        - act as a filter for the community, which may focus on the proposals that attract attention from stakers.
+                                        - stakers filter out bad proposals
+                                        - thry do this through financial incentivisation based on rewards for being right or wrong in prediction
+                            - DAOhuas
+                                - mimic the behaviour of moloch dao
+                                - non-quorum
+                                    - relative majority is always enough to pass
+                                - rage-quit mech
+                                    - may exit dao with resources if not in agreement
+                                        - exiting happens during graceperiod after approvl and before settlement
+                                        - is around 30% exit, the proposal is rejected
+                                        - fear of rage-quit makes communities prone to consensous
+                                - two types of proposals
+                                    - calls to community action (allocation of shares)
+                                    - donations to dao (paying tributes)
+                                - two versions v1 and v2
+                                    - in v2, dao members can be expelled
+                                    - non-dao members can submit proposals
+                                    - introduction of sponsorship
+                                        - when proposal is sent, requires sponsorship
+                                        - brings it up into voting queue
+                                        - sponsor gets a portion of deposit back at end of voting regardless of outcome
+                            - Colony (not discussed)
+                                - DAOs are task-driven, which means tasks are published, and members accept them for a payout
+                    - network considerations
+                        - xDai sidechain of eth
+                        - fraction of gas to summon a proposal
+                        - less decentralized than eth, and dependent on eth
+                        - lower voting rate (not sure why)
+        4. Jan 17 — Venkat, [Discussion of Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+            - Article - https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q
+                - Prompt Q - any features that should be include in DAO design which you didn't think of before the article?  
+            - Discussion
+                - [[Anuraj R]]
+                    - Ruth Catlow, co-founder of Furtherfield and DECAL decentralized arts lab, notes, “We need to be building cultures before structures”
+                - [[Commits Vortex]]
+                    - how people could push against norms, disintermediation between economics and governance rights
+                - [[Grigori Milov]]
+                    - the idea of decoupling governance and economics
+                    - to use governance rights people need to have expertise, at the moment of crises democracy may not be the best way forward
+                    - "culture comes before structure"  - good to consider opposite view that one needs some structure as a basis for some culture. structure of incentives then it comes little earlier than culture, think incentives first
+                - [[Maier Fenster]]
+                    - A DAO - why all this focus on money? DAO -  a bastard child of gaming?, view from the article
+                    - What design features - create DAO in our culture, some sort of tool that allows create, absorb culture quickly
+                - [[Meredith Noelle]]
+                    - relation between economics and governance
+                    - how can we design a DAO differently? what does exactly "governance" mean? large part governance is resource management
+                    - quote by RAND corp - corps are for optimizing supply chain etc
+                        - "Sensory functions are quite different from production functions, and require different modes of organization—e.g., more networks connected to the world outside an office’s boundaries. Determining appropriate designs for all manner of sensory organizations may become a good meta-theme for innovative research and development in the years ahead"
+                - [[Rafael Fernandez]]
+                    - the article called into question - what does it actually mean to have these new types of toolkits? 
+                    - new forms of organization possible
+                    - gaming guilds, reputation accumulation
+                    - YakC cultural exploration, internet culture
+                    - changing boundaries of businesses - underated
+                - [[Venkatesh Rao]]
+                    - quote "most DAOs represent governance through tokesn ...." interesting point relating to [[Maier Fenster]] why do we want to bring in money in
+                    - money like principles into spaces that are not money related
+                    - interview of Alexis Ohanian and comment about games/token - https://discordapp.com/channels/692111190851059762/904793053598998618/932672125402222704
+                        - others comment  
+                    - Ivan Illich newsletter, defends spaces which are not market oriented. the preservation of vernacular spaces defence by Illich
+                    - people who want to preserve vernacular/illegible see DAOs as threat
+                    - DAOs planning to burn all its token if temperature goes above some degrees 
+                        - weird way to price in social costs
+                    - exit to community idea realization - theory of the community around the firm - theory of ecosystem
+                - Open Floor
+                    - [[Rafael Fernandez]] - backward financiazation
+                        - how many people are planning this don't have growth as the primary objective but have symbiotic and ecosystem harmony as primary objective
+                        - create sustainable spaces of exploration
+                    - [[Commits Vortex]]
+                        - trojan horsing into finance, how would it work? if systems are autonomous the capacity to enter into and influence seems different, 
+                        - [[Venkatesh Rao]]
+                            - whats the closest analogy - shareholder activism, started in the 80s, proxy-wars, corporate raider subcultures to change direction of business, since coroporate doesn't have automated decision making, so corporate has concept of inside people and outside raiders
+                            - what DAOs is different - there are no insiders if the core is autonomous enough, for YakC people who joined earlier have become insiders, but this could be different if the core is automated enough
+                            - taking over can occur in a deeper way compared to corporates
+                        - soft culture, [[Grigori Milov]]'s comment about democratic voting useful in certain contexts, 
+                        - twitch plays pokemon phenomenon, play by chat, in the beginning there was complete anarchy, temporary voting for control, the game oscillated between anarchy and democracy
+                        - which modality of governance is useful in what contexts
+                        - parameterize the contract so that governance could move between quadrants
+                    -  [[Rafael Fernandez]]
+                        - a lot of DAOs seems to have similar feeling of anarchy and democracy
+                        - when a DAO oscillates between democray and anarchy, does DAO compete with corporations? what corporation would compete with pokemon like DAO? 
+                        - [[Commits Vortex]]
+                            - there might be modalities in what corporates want to do
+                        - [[Rafael Fernandez]]
+                            - some concepts from corporates might not apply to DAOs
+                        - [[Meredith Noelle]]
+                            - historical accidence of corporates and the accident of DAOs? 
+                        - [[Rafael Fernandez]]
+                            - what is reality in the DAO landscape in cultural terms
+                                - [[Meredith Noelle]]
+                                    - corporates and countries have different cultures
+                - Discord discussion start - https://discordapp.com/channels/692111190851059762/698566364595486720/932663775054692413
+                    - [[Maier Fenster]] from discord
+                        - fancy 1:  This led to the idea that organizational values could be automated and executed by code, a lingering idea that perhaps falsely suggests tacit knowledge can be fully expressed in a software protocol
+                        - fancy 2:  In part, this is because not all stakeholders have the purchasing power representative of their stake, and their practical knowledge may be excluded from governance. This should be solved by shifting the culture toward more decision making mechanisms that decouple economic interest from governance rights.
+                        - fancy 3:  Stakeholders with practical knowledge, or “tacit” knowledge, like land stewards in the case of Regen Network, benefit governance by incorporating informal practices in decision making.
+                        - [19:02]
+                        - fancy 4:  the expectation of transparent co-ownership of its assets from the start
+                        - fancy 5:  In practice, this feature to distribute shares was rarely used because it did not enhance existing cultural patterns.
+                        - fancy 6:  a quote of a quote, actually: Much of the literature about redesigning organizations for the information-age focuses on production—on improving productivity, or manufacturing something new like the Boeing 777 jetliner. Yet, does this not reflect a lingering industrial-age mentality? Production organizations remain a crucial part of the organizational ecology. However, we should also be thinking about “sensory organizations.” Sensory functions are quite different from production functions, and require different modes of organization—e.g., more networks connected to the world outside an office’s boundaries. Determining appropriate designs for all manner of sensory organizations may become a good meta-theme for innovative research and development in the years ahead (27).
+        5. Jan 24 - [[Kiran Pathakota]] - [[Solana Ecosystem]] Options
+            - [[Anuraj R]] 
+                - What is the difference between solana and eth? 
+                - Why is solana cheaper?
+            - [[Commits Vortex]]
+                - Solana is a peek into the future of ethereum. 
+                - Network was degraded over the weekend (12 hour outage)
+                    - Inundation of bots spamming the network
+                    - https://github.com/solana-labs/solana/issues/21883
+                - Contrast with generative art market on tezos, [fxhash](https://www.fxhash.xyz/articles/beta), only open 12 hours at a time. Weird for an online commerce site having "hours of use". 
+                - [Nina](https://nina.market/). 
+                    - Exploratory phase, seeing what's around. 
+                    - What would YC want to do? 
+                        - Make a DAO? 
+                        - Make a protocol? 
+                        - Use a dApp for distribution? 
+            - [[Kiran Pathakota]]
+                - What would it look like for one of these protocols to focus on the ledger side of things rather than the currency
+                - The focus doesn't seem to be primarily focused on $SOL
+                - Since minting tokens on Solana is low friction, there is a different texture of activity on Solana
+                - One thing we could do as a simple experiment:
+                    - Take a past project and mint it as an NFT
+                - Would be really easy to mint a YC token
+                - 
+            - [[Maier Fenster]]
+                - i simply got lost and i wonder what kind of map would prevent that.
+            - [[Nathan Acks]]
+                - DEXs have moved but there's not a lot of support for SNS. 
+                    - Doing a swap would need two smart contracts (one on each chain). How do we handle the gas fees? 
+                - What's driving the cultural differences between Solana and Eth/Bitcoin? 
+                    - VC funding? 
+                    - lots of developer interest but the money still seems to be in Eth 
+                - The question of Identity management is really interesting
+                    - Maybe a space for this in Solana
+                    - What do folks think about https://democracy.earth/ ? - PA
+                - A lot of the links shared on Solana, and other blockchains, really lean into the financial aspect of ledgers, rather than more purely on just distributed ledger technology
+                - 
+            - [[Patrick Atwater]] 
+                - Solana has raised $340M. How do main folks make money back? 
+                - what on earth is a liquidator in the solana solend defi?
+                    - DAI might work like this. DAI is over-collaterized (put 150% eth in to withdraw 100% of DAI). If it fell below the threshold, vault would be liquidated, all the eth equivalent to the DAI, it would be sold at the auction. This is how it works in MakerDAO. 
+        6. Jan 31 - Reading/discussion of L2 technology
+            - Main Reading: [Ethereum.org article on Layer 2 rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
+            - Supporting reading: [A Primer on Ethereum L2 Scaling Techniques](https://medium.com/token-terminal/a-primer-on-ethereum-l2-scaling-techniques-17ac437891b1)
+            - Supporting reading: [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/#use-sidechains)
+            - Supporting reading: [Ethereum scaling](https://ethereum.org/en/developers/docs/scaling/)
+            - [Adding xDai/Gnosis to your Metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup)
+                - Go here: [Chainlist](https://chainlist.org/) and add the Gnosis chain to your Metamask
+            - [Adding Polygon/MATIC to your Metamask](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)
+            - [[Bryan King]]
+                -  A lot of this is similar to escrow
+                    - Or employer provided insurance and being part of a larger pool negotiating insurance coverage
+                - Are the L2 scaling solutions reducing autonomy and producing formal institutions?
+            - [[Commits Vortex]]
+                - Layer 2 saturations
+                - Is there an inherent way the network tends towards congestion?
+            - [[Maier Fenster]]
+                - Feeling cheated when reading about L2
+                - Promised a distributed network that would change the world
+                - The promise of 10-100x improvement might not be a lot
+                - The ability to dispute fraud seems against the ethos of the initial ideology
+                - What to do in contexts where humans and the need to execute quickly are in place?
+                    - This could be especially important in the context of L2
+            - [[Nathan Acks]]
+                - Came away from the reading with two questions about rollup types
+                    - Optimistic roll ups
+                        - Fraud challenge mechs
+                            - Somewhat undefined
+                            - Spot challenge might not be idea in terms of motivated watchers, and rather better to be randomized
+                    - Zero knowledge (ZK) proof roll up 
+                        - Seems like the better solution, but being handled with an even hand to Optimistic roll ups in the ethereum.org writeup
+                - Identity and Wallets
+                    - If wallet type technologies were how we came to handle identities, that would be a huge improvement in terms of being able to mix and match and create identity
+                    - Parallels with Gemini protocol
+                    - There is a general bubbling up of solutions to this particular issue of identity
+                - For all the narrative of speed, there seems to be more of a move towards deliberative transactions
+                    - Pace dissonance
+                - Scaling trilemma
+            - [[Patrick Atwater]]
+                - Had a friend developing on Stacks Chain. Similar to L2 for Bitcoin
+                - The way Ethereum was doing roll ups made it more difficult to audit data in the rollups
+            - [[Venkatesh Rao]]
+                - Try a sidechain
+                - Try the gnosis chain
+                - Switch to that chain
+                - Jeavons Paradox
+                    - Demand isn't solved
+                    - But this is actually good, in a progressive sense
+                        - More people frustrated is better than less people frustrated
+                - Braess' Paradox
+                    - Releasing congestion for traffic
+                    - Mathematical topological form of Jeavons Paradox
+                - The pattern of promise v. reality
+                    - When you hit the scaling problems you go back to a more pragmatic stance
+                    - In web3 -- even in the Satoshi whitepaper, there is a hint of utopianism
+                    - But when you go look at the technology, even though it has increased the level of decentralization, there still looks like there is still too much centralization, and this is spun into a moral failure
+                    - This was the pattern in the Moxie web3 article
+                    - Authentication is one example where decentralization has actually been relatively well implemented
+                    - > "The job of the science fiction author is not to predict the automobile, but to predict the traffic jam"
+                    - Metaphors for scalling
+                        - Side chains are like Side Service Lanes
+                        - L2 rollups are like HOV (High occupancy vehicles) Lanes
+                        - L1s are the Highway
+                    - The highway metaphor is comparable to the potentially idealistic nature of automobile ideas when they were first produced
+                - When we say that the blockchain is fast, we are making a comparison to centralized bureaucratic settlement
+                    - With a DAO smart contract
+                    - It might take a very short amount of time
+                    - But when we start to work with computers, we think of latency in a different scale
+                    - The comparison between human and computers is different
+                - Review proposals in proposal channel
+        7. Feb 7 - [[Maier Fenster]] -- Discussion of Moxie article
+            - Readings:
+                - [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+                - [Solana’s endgame: becoming an Ethereum rollup](https://polynya.medium.com/solanas-endgame-becoming-an-ethereum-rollup-c77ee479a8ae)
+            - Comments
+                - [[Anuraj R]]
+                    - Take away: NFT that was minted and booted from OpenSea
+                    - Argument that people will not run their own servers
+                    - Ease of running a server is key
+                - [[Bryan King]]
+                    - Implications of being a cryptographer and ideological disposition
+                    - The OpenSea experience is a white hat approach to OS and platform APIs
+                    - What do end-users/operators need to know or understand with the technology they use?
+                    - Web3 tech stack is complicated/overwhelming
+                    - Will the adoption of web3 be hindered by quirks because people are not patient enough to sit through and learn, and then just write them off
+                    - Gold rush means this might be a temporary moment unless it gathers enough gravity
+                - [[Commits Vortex]]
+                    - Solid pods - individual servers
+                    - Access mechs re: NFTs
+                    - web2 affordances and vc inflow
+                - [[Jenna]]
+                    - Scalability. The tension between small and agile and larger organizations
+                    - > I don’t share the same generational excitement for moving all aspects of life into an instrumented economy
+                        -  "moving all aspects of life into instrumented economy" not realistic. what goes on-chain v what stays off-chain seems like the current crux  
+                    - Middleware
+                        - When using metamask, still just as clueless and clicking through many accept dialogs without thought
+                        - Multiple ENS addresses for each tx
+                        - How do we fix any man in the middle type attacks
+                    - Solana piece
+                        - Piece is sufficiently technical, and possibly not ready for general audience broadcast
+                - [[Kiran Pathakota]] 
+                    - Node validators should be much easier to run than a full-blown server (95% availability)
+                        - Validators don't need to be up all the time
+                        - See [Vitalik's response to Moxie](https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/)
+                    - Black box servers (bought by individuals/power companies)
+                        - It should be easier to run a protocol rather than a specific service like AWS
+                    - Mobile libraries to be a validator (ledger storage on-device or in cloud)
+                    - Solana rollup
+                        - assumed lots of inside baseball. 
+                        - Solana with Serum *should* be able to perform cross-chain 
+                            - [Serum](https://www.projectserum.com/)
+                        - Comments
+                            - Tokens are all part of a complementary framework
+                                - YAKG, YAKB and XDAI
+                            - +1 - not one blockchain. 
+                            - Decentralization isn't the killer feature, it's the changes in incentivization
+                - [[Maier Fenster]]
+                    - Protocols move more slowly than platforms
+                    - Distributed systems managed by different people, with people moving in many directions, it is difficult to make changing decisions
+                    - How do you design a protocol and the people working on it to not feel constrained and not be automatically constrained by the network effects
+                    - The Nash Equilibrium is a factor in the email protocol
+                    - The origins of protocols being centralized v decentralized is unique
+                    - The Solana article makes some suggestions about where the world is going
+                    - The article is not in the competitive framework, but in the complimentary framework
+                        - Solving problems in Ethereum will naturally solve problems in Solana
+                - [[Meredith Noelle]]
+                    - Moxies' article is all about implimentation and not about the technologies themselvs
+                        - Thinking about early days of of search engines
+                        - Nothing abut web pages changed but how we thought about search changed
+                    - Did think that there was going to be _one_ blockchain
+                        - Now think that is wrong
+                        - Don't think it matters if Solana rolls up into Ethereum
+                        - It is okay to have multiple L1s for different purposes
+                - [[Patrick Atwater]] 
+                    - Pointing out areas where there are high degrees of centralization with these decentralized tools
+                        - Will we keep finding centralized points, Zeno's Paradox
+                        - Does it really matter if we do?
+                        - The purist vision might not matter as much as usefullness
+                            - Particularly in relation to PoS and tendencies toward plutocracy with both Ethereum and Solana
+                        - Chia is sort of interesting in the way of does proofing
+                        - Are we constantly returning to alpha with these L1 alts?
+                - [[Venkatesh Rao]]
+                    - Reaction: Why are people mad about the Moxie article?
+                        - The argument is between two types of utopians
+                        - Utopians for and against
+                        - If you don't have utopian expectations to begin with, this article is a shrug
+                            - Those who are more pragmatic or otherwise have a higher tolerance for ideological incoherence
+                    - The server as the primary unit of fixation - different flavors of utopianism
+                        - Vitalik points out that the server is not the key
+                        - Every tech stack has a particular tech fixation
+                            - 20 years ago, servers where the libratory point in a stack
+                            - This is now more and more complicated
+                                - python managers
+                                - dependencies upstream of that
+                                - relying on web servers
+                                - sever theatre
+                                    - (could be related to decentralization theatre)
+                        - Encryption is the fixation for someone like Moxie
+                        - Generational utopianism within the tech stack
+                            - We see generational differences in environmental movements and action
+                            - Older generation identifying with protestation of nuclear 
+                            - Newer generation may see nuclear as part of the solution
+                                - Yet they have a new identification valence between climate denialists and believers
+                        - Can see this also in terms of the web:
+                            - Tim Berner-Lees v Ted Nelson
+                            - Semantic web / html link handling
+                        - What is left after parsing away generational flavors
+                            - If you promise decentralization, build a UX that is as painful as decentralization, but it is still underpinned by centralization, then you are producing decentralization theatre. 
+                                - Jumping through the hops of decentralization without the reality of decentralization
+                                - A better solution would be to see what you are actually getting
+        8. Feb 14 - [[Venkatesh Rao]] - Clarity and Colony Overview
+            - See [[Yak Colony Pilot]] 
+            - [[Anuraj R]]
+                - 
+            - [[Commits Vortex]]
+                - 
+            - [[Grigori Milov]]
+                - 
+            - [[Jenna Dixon]]
+                - Discovered Clarity through Cabin's use of the application.
+                - Similar side bar functionality as Roam
+                - Clarity has an interesting wiki application
+                - The intro video gives a good overview of "views"
+                - Let's discuss the weekly pattern
+            - [[Kiran Pathakota]]
+                - Different pathways into governance / reputation
+                - 
+            - [[Maier Fenster]]
+                - 
+            - [[Patrick Atwater]]
+                - 
+            - [[Venkatesh Rao]]
+                - Initial thoughts on clarity
+                    - Notion of seasons and cycles
+                        - Seasons are a group's planning 
+                        - Cycles are "this week" "next week" "sprints
+                    - There is a lot of schaffolding
+                        - Dev team is working towards a plugin architecture where these opinionated designs can be customized to each base
+                    - "Initiatives"
+                        - Goals that are not time-linked
+                        - Tasks can be associated with Initiatives
+                    - Big reason for using Clarity is to work with Colony
+                        - Every task in Clarity will always include a nominal 0.1 xDai
+                        - This is a way to track participation before an incentive schedule/mechanism is designed
+                            - Suggested schedule:
+                                - Ordinary individual task or project: 0.1 xDai
+                                - Significant individual milestone task or project: 1 xDai
+                                - Ordinary simple  collaborative task or project: 0.1 xDai per contributor
+                                - Significant collaborative task or project: 42 xDai total, to be divided among all contributors
+                            - Relationship between incentive token and governance token
+                - Clarity Specifics
+                    - Tasks
+                        - Can leave tasks unassigned and people can simply self-assign
+                    - Pricing
+                        - $10 per member over posting/task limits
+                - Colony Discussion
+                    - 20% of NFT from [[Governance Studies]] paper will go to the Yak Collective
+                    - The staking formula is still unclear
+                    - Still unclear why or how a motion passes
+                - Tasks
+                    - Understand Colony Reputation and Staking
+                    - Understand Clarity
+        9. Feb 21 - [[Meredith Noelle]] - Tokenomics
+            - [[Meredith Noelle]] Goes over this Tokenomics slide deck:
+                - file:///C:/Users/m.s.baldwin/Projects/UnderstandingDAO/Study%20Docs/tokenomics-meredith-yc.pdf
+                - [[Commits Vortex]]'s notes:
+                    - Two primary ways of distributing tokens
+                        - Continuous
+                        - All at once
+                    - What do you do with your tokens after an auction?
+                        - What does that say about the health of your ecosystem?
+                    - 
+            - Discussion:
+                -  [[Venkatesh Rao]]
+                    - Both token models described are comprehensive
+                    - Looking at what we did with the colony token
+                    - No idea what to do, just vague calibration
+                    - A lot of low stake stuff like the yak project does not take this comprehensive approach
+            - Questions in Formation
+                - What are the implications of "Sufficient Decentralization"?
+                - How does the tape/program distinction intersect with monetary policy?
+                - Does the use of DIDs reduce the need for tokens to be indentity-correlating? 
+                - Tokens being over-burdened functionally. 
+                - Complicated v complex systems (comprehensiveness)
+        10. Feb 28 - Will Minshaw on 0xSplits
+        11. Mar 07 - [[Rafael Fernandez]] (Pre-Season Recap of Mirror DAO + Season 1 Update)
+        12. __March 14: Spring Planning__
+            - Review ground covered, overall comments
+            - Take stock of Colony+Clarity experiment
+                - Discuss ways to fill the tool-stack gap and put it on social clock
+            - Take stock of NFT and Lexicon experiments
+            - Make cunning plans for phase 2 of experiments
+            - Discussion question: What is our "game"??
+            - Sign up for sessions (8 available)
+            - Wishlist of topics -- maybe announce bounties?
+    - **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
+        1. Mar 21 - #[[Jenna]] [[Richie Bonilla]] & [[Caryn Tan]] of [[Clarity]]
+Twitter: [@richiebonilla](https://twitter.com/richiebonilla) and [@0xCaryn](https://twitter.com/0xCaryn)
+and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://twitter.com/kathihorvath) and [@creatorcabins](https://twitter.com/creatorcabins)
+            - rough timeline 40 mins + 20 mins convo
+                - overview = 4 minutes
+                - contributions = 8 minutes
+                - tokenbasedroles = 8 minutes
+                - daopatterns = 4 minutes
+                - newusers = 8 minutes
+                - pricing = 4 minutes
+                - time => 40 minutes
+            - Questions+Topic Suggestions
+                - **Back Stories** from Richie, Caryn, Kathi :04
+                    - backstories = 4 minutes
+                        - Richie
+                            - "productive communities"
+                            - June 2020 full time on clarity, post covid
+                            - Building for DAOs == building for productive communities with liquid talent
+                            - The biggest change from this pivot was bringing in more on-chain elements
+                        - Caryn
+                            - Focus: contributor experience
+                            - Notion of psychological safety in terms of feeling comfortable learning
+                            - How does Web3 enable flexible and modular work?
+                            - Interested in this in terms of the future of work
+                            - The Web3 space nourishes a generalist mindset?
+                        - Kathi (from Cabin)
+                            - Before moving more into DAO space was working as an intimacy coach
+                            - Primarily interested in building real life community
+                            - Noticed during onboarding that I didn't know how to claim a bounty, for instance
+                            - Joined the Cabin guild to help work on the onboarding experience
+                - **Overview** past-present-future of Clarity :04
+                    - > a lay of the land vision discussion from richie and then dive into tool demo followed by questions #[[Caryn Tan]]
+                    - Richie
+                        - web2 is built on relationships between people that are based on content creation and consumption
+                        - this leads to exploitative relationships and there aren't the tools for distributing resources back to creators
+                        - Clarity belives that DAOs open the opportunity for organization to work based on cooperation
+                        - DAOs can create their own arena with their own values, this is the autonomous part
+                        - The onchain element is for clarity about contributions
+                        - Clarity is working on making the contribution chain more legible
+                            - This is also important for cross-DAO collaboration
+                            - Reputation becomes a proxy for what ID was in web2
+                        - It is hard to do programatic reputation without clear metadata
+                        - This is why tasks are the primary block of Clarity
+                        - The metadata that is built in the schema for the task metadata allows for portable reputation
+                        - It is part of clarity's model to make this metadata portable and interoperable
+                        - Venkatesh:
+                            - Can you share your views more broadly on composability principles in web3
+                            - Richie:
+                                - This is a fundamental idea of web3.
+                                - The output of one software system can become the input to another software system
+                                - This is already possible with web2 via APIs
+                                - The permissionlessness of the blockchains are fundamentally different from APIs which are rate limited, need to have integrations maintained, are not fully open, etc.
+                        - Commits:
+                            - how are you approaching schemas for identity and credential interoperability
+                            - Richie:
+                                - People who are working on this many people rather than going alone to address this problem.
+                                - The obsession with being first leads to a lot of branding
+                - deep dive into how the on-chain parts of Clarity distinguish it from web2 collab tools like Todoist
+                    - **Contributions Workflow :08**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FCHuzH6SNGs.png?alt=media&token=ca72bfb4-c1be-486f-a608-bb8c6a970261)
+                        - https://www.clarity.so/post/introducing-the-contributions-workflow
+                    - **Token-based Roles & Permissions :08**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FYeRn5GKOWT.04.13%20AM.jpg?alt=media&token=cc5bba69-9794-44f3-a8ed-aa9a8b9c7d14)
+                        - https://www.clarity.so/post/introducing-token-based-roles-permissions
+                - **API + Discord bot plans?** #[[Maier Fenster]]
+                    - Richie
+                        - In S1
+                        - S1 was all about DAO workflows
+                            - Join workspaces
+                            - Token-gates documents
+                            - Goal was to find what was useful and what worked
+                                - 4 use cases
+                                    - Creating and sharing token-gated docs
+                                    - token-based roles and permissions
+                                    - community-wide wiki for connecting information across groups
+                        - Clarity is in a 4 phase roll out
+                            - End of april is tart of season 2
+                            - Theme will be integrations and workflows
+                            - Specifically DAO related work flows
+                            - Will be looking at one-off integrations at first and then making a generalized API with endpoints that anyone can use in V2
+                            - One of the one-off integrations will be Discord
+                                - Gnosis safe for paying out multiple pods within a DAO and making those pods more autonomous for paying out contributors
+                                - Orca pods and Clarity integration
+                                    - Shared NFT ownership
+                        - Maier
+                            - When we are talking about APIs we are talking about a gateway
+                            - It is difficult to convince people to use another tool
+                            - The way most members will use Clarity is to look at it, not to use it
+                            - The level 0 integration we need is a read only ability to read date from Clarity into something like Discord
+                            - This brings the look at it quality of Clarity into the spaces that people use
+                            - This is what I mean when I saw Minimum API
+                            - Richie
+                                - The thing that will help use with this is to understand use cases and champion workflows
+                                - I.e. the ability to see a list of tasks in discord
+                            - Maier
+                                - If all I had was an API and I could call the list, I could make a small piece of software that would tell people on Discord to type a command to see a list of tasks on offer on Clarity
+                                - In order to be introduced into the existence and power of Clarity that do not need to be on Clarity, and they are incentivized to use Clarity based on being paid for a contribution.
+                            - Richie
+                                - Agrees
+                                - Tasks from Clarity should be able to be listed anywhere that the DAO owns
+                                - This is in line with a lot of request Clarity has gotten
+                                - Especially top of funnel for DAOs
+                                - They realize they need a document and that it needs to be token-gated. They don't want to make a whole contribution stack using Clarity, but they want to make lists in Clarity and match it to their own platforms.
+                            - Maier
+                                - Clarity needs a direct link to the tasks page
+                                - Clarity needs to decide if they need to be in the front or in the back, and perhaps being in the back gives more exposure to the front end
+                            - Richie
+                                - Clarity would prefer to be in the back office
+                                - Talent is always going to be the scarsit resource, both talent and vibe fit
+                                - Being able to find and retain those people is going to be very important for DAOs
+                                - This is top of the funnel in terms of DAO ops
+                                - In a world where contributors are more polyamourous, having a consistant backend is important so you don't need to use many tools for working across orgs.
+                            - Venkatesh
+                                - One concern with this web3 model is that it approaches the Japanese business environment [[keiretsu]]
+                                    - A reference to a specific style kuritsu (sp*)
+                                - There is a more uniform approach towards the business stacks in this model
+                                - In the US ecosystem, businesses are constantly trying to eat other portions of the stack
+                                - Does how you want to position yourself, e.g. backend infra/office for DAOs on frontend, but is that the natural evolutionary end point where you can make enough money to survive? 
+                                - In a broader sense, what is you stategy thinking in terms of the value chain, and what type of environment will this result in?
+                            - Richie
+                                - A lot of what happens in web2 is switching cost
+                                - Take something like Asana. Asana doesn't really add a lot of value to the data.
+                                - In clarity, your data has longer life span
+                                - We are trending toward a world where data lock in is not a moat
+                                - The only moats left are UX and community
+                                - Our jobs are to create good UX for contributors and the people you find using Clarity are the people you would want to work in your DAO
+                                - DAOs paying Clarity for the tool
+                                - Clarity is fundamentally aligned with DAOs because they are making tools
+                        - Jenna
+                            - Wanting to talk about the underbelly
+                            - Yak Collective is headless
+                            - We don't have people like Kathi at Cabin that is making sense of the patterns afforded by Clarity
+                            - Caryn
+                                - Would want to hear more from Kathi
+                            - Kathi
+                                - A month ago complete newbi to Clarity
+                                - Used to taking the tools given to me and figuring out work flows based off prior web2 work
+                                - Have been working on how to jump between Discord and Clarity
+                                - Educating users on the fact that Clarity can do much more than used to
+                                - Also education on how to tend to digital landscapes
+                            - Richie: sharing screen (see recording)
+                            - Kathi:
+                                - How to setup and motivate a Clarity that isn't already setup with patterns and paths
+                            - Rafa
+                                - Should talk to Roxine about how they setup the layers of Clarity
+                            - Kathi
+                                - Looking at your DAO and defining the roles you see in it and the different users in the community and defining their specific needs is important to setting a path/pattern in Clarity
+                                - The automated weekly newsletter/recap via Clarity
+                                    - Core contributors edit this
+                                    - This is still a manual process
+                                    - Is integrated into the weekly meeting call
+                            - Richie
+                                - Communities with clearly defined goals work best with Clarity
+                                - Clarity is removing friction to clear goals, responsibility, autonomy, etc.
+                - **DAO Patterns** Any further highlights btw what Clarity is working on with DAO-ish patterns eg [[zodiac.wiki]] :04
+                    - **New Users** How do new users go from 0 to 60 :08
+                        - > skilling up users and remove barriers to adoption #[[Caryn Tan]]
+                        - Mindmap: Clarity and eg Notion both have the power of being very free form but which also brings the difficulty: until mindmap is internalized, tool has high friction for busy +/or occasional users
+                            - quests
+                            - certification cf AWS and Notion's new consultant cert
+                            - cohort-based course with NFT completion of work on chain cf [[Fweb3]]
+                - **Pricing** strategy, esp for tangentially involved members where 10/mo of Pro plan prohibitive :04
+                    - Richie
+                        - Per user per month does not align with how DAOs work
+                        - Per month is more aligned with monthly pay
+                        - The core utility of the product shouldn't get in the way of how DAOs work
+                        - Moving towards:
+                            - Pay for active contributors
+                            - Billed on a per day basis, around 70 cents a day
+                            - For the people who are actively working on bounties, passing project specs, etc., those are the billable users
+                            - You pay relative to community compute
+                            - This is the closest model though others are being ideated
+                    - Rafa
+                        - Creating a moat around "I like to coordinate with Clarity"
+                        - Mutually reinforcing
+                    - Maier
+                        - When you have a system in Clarity, it is based on some people doing the work and some people checking the work
+                        - The work may be complicated, but it might be easy to verify
+                        - Is it the case that the tasks are easier to verify than they are to do.
+                    - Richie
+                        - Have seen that the art of making a ticket is a real skill
+                        - And that bounties need to be clearly defined
+                        - Having the doc in the same place that the tasks are assigned is a value add
+                        - The work that can be verified is in the tickets, and there is work that is less easy to define
+                            - Did we finish our goal?
+                                - No: keep working
+                                - Yes: stop working
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fc4riPbSUN-.png?alt=media&token=1bb3d610-0d6f-45cc-a4d3-ecd21486c213)
+                - ---
+            - Some Clarity links 👉
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FP0BSIGeWUP.09.19%20AM.jpg?alt=media&token=71f55793-924e-424a-8986-d175c16f2796)
+                - https://www.clarity.so/
+                - https://www.clarity.so/blog
+                - Twitter: [@clarityteams](https://twitter.com/clarityteams)
+                - https://twitter.com/clarityteams/status/1502390308012576769
+                - https://twitter.com/gillpedroso/status/1503074269873545222
+                - https://twitter.com/divine_economy/status/1502775431602360322
+                - https://mailchi.mp/8276100b43e7/discord-code-blocks-pdf-embed-more-block-types-swap-panes-andsign-in-with-ethereum-15924364
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FmIH3OUWDdv.gif?alt=media&token=9456497b-caa3-4ce6-9454-d2a205675094)
+        2. Mar 28: — Discussion of DAO2DAO relations model
+            - https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d
+            - [[Jenna Dixon]]
+                - A lot of what was talked about during the last session was the understory.
+                - What we didn't get to is the overstory
+                - Kafka wasn't a metaphor
+                - It was real, implacable rules
+                - Daniel Swarez's novel Daemon
+            - Reading: the 2 part article linked in these notes https://buzzard.life/posts/kristen/dao2dao-research/
+            - [[Maier Fenster]]
+                - Share Jenna's worries about boxing ourselves into a beauracracy
+                - Included this quote:
+                    - > They have “two capacities: the capacity to think, and the capacity to maintain capital, are in theory all that an economic agent needs to survive in the marketplace, provided that its thoughts and capital allow it to create sellable value fast enough to keep up with its own resource demands.
+                - Legibility:
+                    - When you talk to people about NFTs they have certain perceptions
+                    - Yet there are values and resources to these projects that are not immediedtly obvious
+                    - How do you talk between two DAOs that have different orientations (happy DAO and bitcoin DAO)?
+                - What value is Yak Collective producing?
+                    - Up to today, it has not been money
+                - Concept of GPD
+                    - Measuring the health of a DAO
+            - https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d
+            - https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21
+            - [[Meredith Noelle]]
+                - Share the same nightmare scenario
+                - International Relations is a fascinating framework to look at DAOs through is useful.
+                - Seeing a lot of DAO bloat in many DAOs
+                    - This is a byproduct of capitalism and the imperative of growth
+                - How to keep DAOs small and purpose driven
+            - [[Nathan Acks]]
+                - Agree with keeping DAOs (and organizations in general) focused
+                - Easy to add and become paralyzed
+                - Not sure I agree with DAOs being embedded into high-level institutions
+                - They are code-based
+                - Lawrence Lessig's Code is Law in cyberspace comments
+                    - Is it better to think of DAOs at orthoganel to cooprations which are trying to build structure on different substrates
+                - In terms of DAO2DAO relations, funding makes the most sense
+                    - More of a collaborative joint venture model
+                    - Not clear where that fits in, especially in our context
+            - [[Sachin Benny]]
+                - The whole idea of IR itself -- it feels like elite overproduction
+                - It seems like it is trying to make legible something that is not legible
+                - Not convinced this is how 20th century international relations worked
+                - If DAOs have extremely high legibility, then a lot of these concepts can make sense, otherwise not as much
+                - Section 3a: Normative and Non-normative perspectives
+                    - Would be interesting to see what kind of DAOs can collaborate with each other
+                    - For example: Can DAOs with normative perspectives collaborate with DAOs with non-normative perspectives?
+            - [[Venkatesh Rao]]
+                - Thought of this in relation to a proposal to donate to another DAO
+                - The more we experiment the more opportunities to collaborate and fund others will come up
+                - There is extraordinary up and downsides to DAOs
+                - If you look at DAO like things in the past:
+                    - The international Space Station
+                    - already a complex collaboration between multiple countries
+                    - A crucial piece in this is Russia
+                    - Russia at war with the rest of the world
+                    - A lot of the systems need to run autonomously
+                    - The 3 or 4 astronauts don't know how to run the thing
+                    - You can see the history with the ISS:
+                        - Worried about being completely dependent on Russia for supplying rockets to the ISS
+                        - Now we have other hardware
+                    - If you have DAOs collaborating, in a low-trust context, how do you maintain and sustain opperations when trust deterorates
+                        - Inherent risks in IR maps onto the DAO2DAO risks of collaboration
+                        - But, when it does work, you are able to travel to space
+                        - Thinking about this in relation to the Yak Rover and organizational capacity
+                - When you have collaborations and money is not the best measure of output, how do you measure collaboration between different mission and value-aligned DAOs?
+                    - Again, the ISS is a useful model -- currency is mostly meaningless in space
+                    - Different nation states are offering material functional capabilities
+                    - Maybe there is a space for Yak Collective for running study group tracks
+                - Trying to keep a DAO small and purpos driven
+                    - Reminded of micro-serves in cloud computing
+                        - It is SOA for open internet, via splits
+                    - See also liquid orgs, liquid democracy, Kegan level 5 etc
+                - The collaboration premise assumes relatively convergent premises
+                    - It is not immediately clear to me that premises are convergent
+                    - There are material reasons that nation states are required to converge 
+                    - This is not necessarily the case in terms of resources that DAOs manage
+                - +1 are DAOs and Coorporations convergent?
+            - [[Ben Mahala]]
+                - Kafka:
+                    - Had me thinking about how that relates to David Chapmen's Keigen different levels
+                    - Kafka beuracracy is a level four system level failur
+                    - Things like Trump and Putin are a level three failure
+                    - Wondering if there is a 2X2 map for these different types of failures
+                    - Level 5 metarational / liquid mode
+                        - This is what should be aimed for
+                    - This goes back to what Venkatesh was saying about the extremities of the high/low rewards
+            - [[Grigori Milov]]
+                - DAO2DAO collaboration requires that DAOs individually have clear definitions and capabilities and incentives
+        3. April 4:   Tiger, Libby, and Toby from otherinternet will join to talk about their lore project 
+            - Reading: https://otherinter.net/research/lore/
+            - Libby Mars | https://twitter.com/libby_online
+            - Tiger Dingsun | https://twitter.com/goodgruel
+            - Toby Shorin | https://twitter.com/tobyshorin
+        4. April 11: [[AI + Blockchain Exploration]]
+        5. April 18: [[Venkatesh Rao]] -- Exploration of Gnosis Zodiac 
+            **Reading**
+                - [Zodiac](https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg) is a “composable design philosophy for DAOs”. There is an associated [Gnosis Safe](https://gnosis-safe.io/) app. Current setup:
+                    - Avatars
+                        - [Gnosis Safe](https://gnosis-safe.io/) — Identity
+                        - (Anything else using the [IAvatar](https://github.com/gnosis/zodiac/blob/master/contracts/interfaces/IAvatar.sol) interface…)
+                    - Modules (the actual “Zodiac”)
+                        - [Reality](https://gnosis.github.io/zodiac/docs/tutorial-module-reality/get-started) — Executes on-chain transactions (avatar control) depending on the the output of [a crowd-sourced oracle meant to interface with meat-space](https://reality.eth.link/)
+                        - [Bridge](https://gnosis.github.io/zodiac/docs/tutorial-module-bridge/get-started) — Cross-chain avatar control
+                        - [Exit](https://gnosis.github.io/zodiac/docs/tutorial-module-exit/get-started) — Allows members to redeem governance tokens and exit a DAO
+                        - (Safe) [Minion](https://daohaus.substack.com/p/6991f40b-3931-47ff-bea3-fa6f9c365135) — Avatar control via “v2 Moloch proposals”
+                        - [Seele](https://github.com/TokenWalk/Seele) — Voting infrastructure
+                    - Modifiers
+                        - [Delay](https://gnosis.github.io/zodiac/docs/tutorial-modifier-delay/get-started) — Introduce a time-delay between module transaction initiation and avatar action
+                    - Guards
+                        - [Scope](https://github.com/gnosis/zodiac-guard-scope) — Avatar/Module permissioning
+            Reading: [Zodiac: The expansion pack for DAOs](https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg)
+            **Initial Thoughts**
+                - [[Jenna Dixon]] 
+- the Gnosis team is small, which is a vulnerability. 
+- Gnosis just launched the [Exit](https://gnosis.github.io/zodiac/docs/tutorial-module-exit/get-started) module for Zodiac. 
+- Question of bugs in all web3 software. 
+                - [[Ben Mahala]] isn’t sure of the quality of the oracle or the bridge, and isn’t sure how much to trust these modules right now. The “exit” function is a good idea, but requires that people pay attention (the idea here is that there’s some window around every proposal where people can exit). [[Ben Mahala]]’s just not sure if this is the right set of tools for what the Yak Collective is trying to do.
+                - [[Anuraj R]] thought these tools look interesting, but won’t have an opinion until they start using them.
+                - [[Venkatesh Rao]] sees this as an attempt to try to realize composability. This is probably a utopian reaction against Web 2.0 style intense competition and consolidation. People are also concerned about how open source alternatives have had consistent failure to launch. So, this is an attempt to both enforce a certain amount of cooperation without giving up scalability by backing these principles in very early. [[Venkatesh Rao]] thinks this is a dangerous approach, as we don’t have a good sense of what standards we need right now. [[Venkatesh Rao]] sees this is a possible lower-stakes version of Colony… However, there’s a lot of complexity here, which makes the “activation energy” here perhaps a lot higher. Commitment voting might solve some of the problems with participation/neglect we’ve been wrestling with.
+                - [[Vaughn McKenzie-Landell]] notes that Gnosis just submitted the core modular concept for standardization. [[Vaughn McKenzie-Landell]] also feels that this seems premature — Gnosis is pushing this really fast. Things that might be standardized in a DAO: members, activity, name… Up until now, everything else has been boutique. [[Vaughn McKenzie-Landell]] thinks though that the ideas Gnosis is playing with here are really salient right now, so this might be a good time to submit. Apparently Gnosis is not well-regarded in the larger crypto community, however. There’s an interesting question here of how “complete” DAOs are — and how complete we want them to be?
+                - [[Nathan Acks]] is highly skeptical that __anything__ in the DAO space is going to functionally scale past the Dunbar Number. What may be more likely is that there will be “DAOs of DAOs” to enable larger-scale coordination. In terms of security, [[Nathan Acks]] finds Solidity a really weird language, and doesn’t have a good enough handle on smart contracts in particular or web3 in general to really be able to talk about security here. However, a lot of the issues we’ve been seeing recently seem to essentially be exploits around timing issues or race conditions. It feels like right now the ecosystem really needs a “break glass to halt process” tool in addition to waiting periods. “Exit” functionality provides some of that, but isn’t probably enough in and of itself.
+                - [[Maier Fenster]] wants to be more positive. Is this more “glue”, or more “widgets”? It feels something between a GitHub or editor for DAOs. There’s no management or debugging tools here though. This is important not just for DAO development, but also for user transparency. Perhaps there needs to be a tool to alert people to when they should pay attention. [[Maier Fenster]]’s unclear why Gnosis has opted to use the language of gaming, and feels that this is obscuring some of what’s going on. The components seem solid and important, however.
+            **General Discussion**
+                - [[Venkatesh Rao]] wonders if this might be a second experiment we could run. If we were to do an experiment with this ecosystem, what would be the simplest thing we could do?
+                - [[Jenna Dixon]] wonders if we should actually talk to more people in this space, rather than moving towards a more experimental approach.
+                - [[Rafael Fernandez]] notes that many DAOs are still thinking about *how* to use Zodiac — there really isn’t any integration yet. A lot of folks are experimenting, but not yet committing. This is complicated. Mirror is looking to get a demo, and [[Rafael Fernandez]] could probably let us listen in. Radicle is looking into using guards.
+                - [[Nathan Acks]] thinks that guard functionality is probably the most useful component of Zodiac for the web3 ecosystem as a whole, but it’s not clear how the Yak Collective would use that right now. Using these tools to build voting infrastructure probably makes the most sense for us, if just because we’ve thought about that question more. However, that is potentially a gnarlier problem.
+                - [[Venkatesh Rao]] thinks that this is fundamentally __not__ a social problem, but almost a pre-Turing computer science problem. What’s happening here feels like it might be a pre-to-post Turing transition… We have the __problem__ of social computing, but this hasn’t been __formalized__ yet. Perhaps this is why lore is so dominant in the space (we don’t have a formal theory yet). What’s the structure of the social computing space? We might not be able to build good tools, or really explore the solution space, until we have this formalism.
+                - [[Maier Fenster]] thinks that there’s a problem here of how destructive bugs can be, and how hard they are to patch rapidly. Blockchain may just not be flexible enough here. How do we add this flexibility?
+                - [[Vaughn McKenzie-Landell]] thinks that individual DAOs are extremely exposed, but the overall ecosystem may be much more resistant. There’s a lot of sharing, a lot of fail-fast here.
+                - [[Nathan Acks]] agrees with [[Vaughn McKenzie-Landell]] about the fragility of individual DAOs but the robustness of the ecosystem as a whole, but thinks that the bad press caused by that individual fragility is probably contributing to the polarization around web3. In general, [[Nathan Acks]]’s concerned about the speed that things like Zodiac are being pushed from a __security__ perspective, and thinks that the web3 space needs a slower, more careful development cadence. W.r.t. the idea of “social computing”, [[Nathan Acks]] wonders if this is actually a “computing” problem rather than an “interface” problem. To a certain extent, DAOs can be thought of as creating social groups of humans __and__ machines. The formalism for computer science came out of mathematics, but it’s not clear where the formalism for “social computing” / human-machine interfaces comes from. From a literary perspective, [[Nathan Acks]] thinks that the original __Ghost in the Shell__ mangas wrestle with some of these concepts.
+        6. April 25: All: [[YC as Weird Grad School DAO]]
+        7. May 2: [[Maier Fenster]] — [[what is mine and what is right?]]
+        8. May 9: [[Commits Vortex]] - [[Toucan Protocol Overview]]
+        9. May 16: [[Nathan Acks]] - Blockchain & Identity
+            - [Research Notes]([[web3 Identity Research Notes]])
+            - [Presentation]([[Identity in web3]])
+        10. May 23: [[2022 Stablecoin Crash Postmortem]]
+        11. May 30: Reading Hitchhikers Guide to Ethereum
+            - Article https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
+            - Notes
+                - > Here’s a glossary to shorten some words that will show up ~43531756765713534 times:
+DA – Data Availability
+DAS – Data Availability Sampling
+PBS – Proposer-builder Separation
+PDS – Proto-danksharding
+DS – Danksharding
+PoW – Proof of Work
+PoS – Proof of Stake
+                - Part I
+                    - Use Erasure/Reed–Solomon encoding with polynomials to encode block data
+                        - Basic idea, you can regenerate a whole block with 50% of the block data (any 50% will do)
+                    - Use Fraud Proofs or KZG commits to be sure it was Erasure coded correctly.
+                        - Fraud Proofs - someone checks the whole block and if it's not encoded correctly, warns everyone (and gets a reward)
+                        - KZG commits - Use cryptography to show the data is properly encoded (Erasure codes are polynomials, so it's a polynomial commitment)
+                    - Have a large number of independent nodes sample the block data to check for availability. 
+                - Part II
+                    - History - Everything that happened on the chain
+                        - Calldata? Gas cost reduction(EIP-4488)
+                            - EIP-4488 is the band-aid solution which has two components
+                                - 16 gas to 3 gas per byte
+                                - limit ~1 MB per block + 300 bytes/transaction
+                            - EIP-4444 makes it possible to prune history older than one year for clients
+                                - ~2.5 TB storage per year when implemented
+                                - PDS is also ~2.5 TB
+                                - DS is ~40 TB
+                                - Who stores all history?? 
+                                    - Institutional volunteers, Block explorers, etc
+                            - Peer to Peer protocols used by Ethereum today are here [devp2p](https://github.com/ethereum/devp2p) which might be replaced by something called "checkpoint sync" with something called [weak subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/)
+                                - https://github.com/ethereum/devp2p
+                    - Weak Statelessness
+                        - State: too big for RAM, HDD is slow so we use SSD
+                        - Validation is stateful, to know if transactions are valid 
+                - Part III
+                - Part IV
+            - [[Ben Mahala]]
+                - We already live in multi-chain world. Merge all security together. Find someway to tie the economic finality of all the chains together. 
+                - Plasma chains - instead of all the data on chain put the hash of the Merkle Root
+                    - Discovered the Data Availability problem
+                - Ethereum treid to solve this with Erasure coding + proofs that the encoding was correct
+                    - Erasure codes use the fact that you can reconstruct any polynomial of degree d from any d+1 coordinates that lie on that polynomial. You encode the data onto a polynomial so it can be reconstructed with  
+                    - 
+            - [[Nathan Acks]]
+                - The first two “key takeaways” are really more “premises” for the entire piece. I find the second obvious but the first non-obvious.
+                    - “Ethereum is the only major protocol building a scalable unified settlement and data availability layer”
+                    - “Rollups scale computation while leveraging Ethereum’s security“
+                - Data availability sampling: If I understand what they’re driving at correctly, the idea is to represent data in a block using a high-degree polynomial, and then to calculate additional points on this polynomial for use in determining data validity.
+                    - If this understanding is correct, then the sample graphic illustrating the relationship between the original data points and the concurrent polynomial is __completely__ misleading.
+                    - I __think__ we’re using a 2x extension for the actual data with 50% sampling for validation when validating the initial block, but a 4x extension with 75% sampling for __reconstruction__.
+                    - The idea here here is to make it possible for low-powered nodes and light clients to reconstruct all of the data. Splitting up the data into more “KZG commitments” allows clients to sample discrete rows and columns of a block and then coordinate amongst themselves to determine is enough data is available for reconstruction.
+                    - I find the distinction between “polynomial” and “vector” commitments a bit weird, since polynomials __are__ vectors.
+                - In general, there was something about this piece that kind of rubbed me the wrong way. I can’t quite put my finger on it, but it doesn’t __feel__ like the system being described has the level of robustness or scalability being ascribed to it. But then, I’m not super-knowledgable about the inner workings of Ethereum.
+                    - I continue to suspect that monolithic scaling won’t work, and instead we need “chains of chains”. But this is really an old anarchist take on how to organizing at scale which would probably be attacked (somewhat ironically, IMHO) as “insufficiently decentralized” these days.
+            - [[Jenna]]
+                - Concluding Thoughts #[[Jenna]]
+                    - > All roads lead to the endgame of centralized block production, decentralized trustless block validation, and censorship resistance. Ethereum’s roadmap has this vision square in its sights.
+
+Ethereum aims to be the ultimate unified DA and settlement layer – massively decentralized and secure at the base with scalable computation on top. This condenses cryptographic assumptions to one robust layer. A unified modular (or [disaggregated](https://twitter.com/epolynya/status/1520266209861668864?s=20&t=PdcmqDUTjarL77tq-Z8cNQ) now?) base layer with execution included also captures the highest value across L1 designs – leading to monetary premium and economic security as I recently covered (now open-sourced [here](https://members.delphidigital.io/reports/valuing-layer-1s-memes-money-or-more)).
+
+I hope you gathered a clearer view of how Ethereum research is all so interwoven. There are so many moving pieces, it’s very cutting-edge, and there’s a really big picture to wrap your head around. It’s hard to keep track of.
+
+Fundamentally, it all makes its way back to that singular vision. Ethereum presents a compelling path to massive scalability while holding dear those values we care so much about in this space.
+                        - "baroque financial products that average investors can't understand" — this bit from the [Wired](https://www.wired.com/story/web3-paradise-crypto-arcade/) cover text seems relevant to our convo today — would love to know what our knowledgeable yaks think about legibility for normies and how we mitigate this particular aspect of risk down the road. #[[Jenna]]
+                        - > WARNING: Users enter into transactions at their own risk; Web3 is not responsible for money lost, NFTs stolen, passwords phished, or dreams shattered in the course of this experiment. The edifice of Web3 is built on trillions of dollars invested in cryptocurrencies that, as yet, have little to no proven utility other than as speculative assets. Liquidity is provided by baroque financial products that average investors can't understand, which may end badly. Decentralization may or may not be a technological feature of systems, as opposed to a market condition, and thus is not actually guaranteed. Many decentralized autonomous organizations (DAOs) are neither decentralized nor autonomous. Past hopes of fully decentralized, participatory versions of the internet have been repeatedly dashed. It might be unwise to put personal data on a permanent uneditable public database. It may not be possible to disentangle the idealistic aspirations of Web3 from the cynical profit-seeking behavior exhibited by much of the crypto market, which is heavily concentrated in the hands of a small number of superrich people and Institutions. People tend to find ways to game systems despite the best intentions of those systems' designers. Results may vary. STORY BY GILAD EDELMAN
+                    - If only geniuses can understand, what does that mean. 
+`smart` v `smart enough`
+                    - `Danksharding` ftw!
+                    - The general criticism of complexity is not on its own dealbreaking; tons of things in life are more complex than many can understand, never mind the things that no one understands.
+            - [[Maier Fenster]]
+                - maybe going slow is propery of the blockchain
+                - cell carriers used to make money now, now phone makers do. 
+            - [[Venkatesh Rao]]
+                - bitcoin and ethereum are philosopies of economy
+                - ethereums -> modern traditional economy
+                - bitcoin -> all this complexity that exists today is not needed
+                - whose calibration of the economy is correct?
+                - ashby's law of requisite variety
+                    - to control a complex system you need a complex system
+                    - https://en.wikipedia.org/wiki/Variety_(cybernetics)#Law_of_requisite_variety
+            - Open Discussion
+                - [[Ben Mahala]]
+                    - in the bitcoin space, there is something called the Drivechain proposal. https://www.truthcoin.info/ and  https://www.youtube.com/playlist?list=PLw8-6ARlyVciMH79ZyLOpImsMug3LgNc4  which is basically trying to do the same thing, but in a very Bitcoiny way
+                - [[Anuraj R]] https://www.stacks.co/
+                - [[Nathan Acks]] 
+                    - in future we might not have all data
+                    - what are ledger like things that are useful to do
+                        - [[Maier Fenster]] not just a ledger. also software and a virtual machine! so a smart ledger
+                - [[Maier Fenster]]
+                    - https://brettscott.substack.com/p/crypto-countertrade?s=r
+                        - crypto is not money, but a tool
+                - [[Jenna]]
+                    - https://en.wikipedia.org/wiki/Variety_(cybernetics)
+        12. June 6: Retrospective
+            - Prompt
+            - Notes
+                - When blockchain interacts with the real world what are the problems we encounter?
+                - In the space you run into three types of people:
+                    - People who know nothing about the space and don't care
+                    - Generally positive and/or invested 
+                        - Discussions too saccharin
+                    - Staunchly anti people
+                        - Have hit an eternal September where quality of discussion has dropped
+                    - In Yak Collective: appreciate that there is some critical discussion outside the Twitter discourse
+                - Valuable: Introduction to Brett Scott talking about distinction between money and non-money
+                - yak collective is not trust-less like blockchain usually assumes. at the same time, its tempo is very different, especially when considering voting.
+                - 4 dimensions: tech, vibe, attitude, experience
+                - Getting hands dirty with Colony was enjoyable
+                - Enjoyed presentations
+                - Enjoyed working on blockchain lexicon project
+                - Colony and Clarity has both shallow and deep failures
+                    - Shallow: Good at setting up, but not designing experiment scope well enough
+                    - Deep: Tools not ready for use
+                        - Clarity: overdesigned and over powered
+                        - Colony: Proposing a motion to make a decision
+                            - 72hr working period doesn't match tempo of YC weekly cadence
+                - Found Toucan underwhelming from tech perspective
+                - Enjoyed taking temperature of the space in general
+                - Middle ground:
+                    - Doing more than reading but not boot strapping
+                    - Doing raids:
+                        - Everyone from small group goes and tries new experiments with wallets
+                            - e.g. Lens protocol
+                        - Fresh perspective and low commitment
+            - Discussion
+                - Lens protocol is interesting to look at
+                - For next week:
+                    - Can we separate the blockchain track into execution and study tracks?
+                    - Can we turn a version of this into prompt school?
+                    - Should we keep this as it is?
+                    - Also offer new proposals
+                - Cycles
+                    - This bust feels different because tech sector is also experiencing a crisis. 
+                    - The macro environment has changed
+                        - Going into period of higher inflation and higher interest rates since Bitcoin was created
+                        - A lot of coins trade on risk-on prices
+                    - This bear market has been much less price-based
+                    - Crypto is good as sucking air out of everything, even though it is a mirror of the market
+                    - We should look at the boom, not the bust
+                        - The boom built out infrastructure
+                        - We have people and infrastructure and we need to continue building
+                        - More worried about chips shortage
+                    - Reminded of 2001
+                        - Shakedown of internet comps like pets.com
+                        - But in the end, everyone uses the internet
+                        - Feel similarly with web3
+                    - Not as worried about chips because production is centralized
+                    - Crypto and jackpot of crises (Gibson)
+                    - Might be facing upwards of 10 year economic downturn, and not 2-3 years
+                        - What do you do with crypto during this time?
+                        - Crypto might still exist in the future, but not in the same way that the internet still exists
+                        - Product Zeitgeist Fit might be off
+        13. __June 13: Summer planning__
+            - Agenda
+                - Tomorrow will be summer planning session for the blockchain call. Please try to make it. 
+                - Agenda:
+                    1. Topics you want covered 
+                        - Nathan -- infrastructure, website, IPFS, ENS. integrate wallets more
+                        - RT analysis of crypto winter [[Maier Fenster]]
+                            - drone slumps, AI slumps... 
+                        - other decentralized tech projects? -- ben
+                            - hollow....
+                            - chat app
+                        - #Jenna
+                            - __Fingerspitzengefuhl__
+                                - ¿ go back to honest broker role, invite conversation btw trusted players?
+                                - understory and overstory
+                                    - understory: underpinnings of the tech
+overstory: how it gets used by people and groups
+                                - weekly model v. popup model
+                                - is there a #promptschool activity cf #Fweb3 from February
+                        - Commits -- maybe only a few topics rather than many
+                    2. What YC should do during the slump
+                    3. Format for next 3 months — keep it same, or refactor it
+                        - lower or high energy? maier - lower energy
+                    4. Creative collaborative project ideas. Floor is open.
+                        - governance, human side
+                        - grigori -- blockchain governance primer (for a few weeks)
+                            - ogs took more than a year... try to do something in a shorter time
+                            - commits -- maybe do it in prompts school format
+                        - ben -- limited ability on the work side
+            - Maybe work on a paper?
+            - raids! [[Maier Fenster]]
+            - change what we do to be more slump-proof - needing less energy to participate and yet get something [[Maier Fenster]]
+            - if we build - focus on dao, not blockchain itself [[Maier Fenster]]
+- ## Bootstrapping Agenda Topics suggest by Rafa
+    - **Lore / Mission / Story** (I think your recent writing on fiction / sci-fi is particularly helpful here, as well as Impro)
+    - **Ethics, Governance Process** (probably need to start thinking about democracy, representation, delegation, and power dynamics. These then are translated into actual operational components like quadratic voting)
+    - **Treasury Management** (this includes thinking about digital assets like fungible tokens vs. NFT club passes, how they are distributed, who holds them, what liquidity should be available, transferability, utility (voting, access, economic reward)) -- initialized, see [[YC Treasury]]
+    - **Membership and Participation** (this is related to the "who" and what types of contribution zones we want to reinforce / support / nudge)
+    - ![](https://cdn.discordapp.com/attachments/904793053598998618/906601862801784842/FDbGMe2XoAwhq_j.png)
+- ## Currently proposed experiments
+    - A multi-sig wallet with n/m signature authority to hold and disburse YC funds in the form of ethereum or a suitable stablecoin (tbd)
+    - Publish the [[Governance Readings Six Pager]] on [mirror.xyz](https://mirror.xyz) as a split-contract NFT with proceeds being divided suitably among contributors and a YC fund.
+    - [[Rovers and Blockchain]]
+        - Put wallets on rovers  of the [[Yak Rover]] project and have them run a collaboration economy on tokens
+- ## Options to explore/look into
+    - Please add links directly here (preferred) or via the $readingadd command in the #blockchain-roadmap channel on discord.
+    - [[Zigzag]] podcast series on 2018 [[Civil]] token launch. 
+Real-time story arc of an early journo blockchain attempt. #[[Jenna]]
+        - https://zigzagpod.com/episodes/2018/06/14/episode-2
+        - https://zigzagpod.com/episodes/2018/06/21/chapter-3-higher-than-we-knew
+        - https://zigzagpod.com/episodes/2018/07/12/chapter-6-whats-a-cvl-token
+        - https://zigzagpod.com/episodes/2018/07/19/chapter-7-a-new-frontier-for-journalism
+        - https://zigzagpod.com/episodes/2018/07/26/chapter-8-putting-crypto-pioneers-to-the-test
+        - https://zigzagpod.com/episodes/2018/08/02/chapter-9-letter-from-startup-blockchain-women-entrepreneurland
+        - https://zigzagpod.com/episodes/2018/08/16/chapter-11-ten-things-you-should-know-about-crypto
+        - https://zigzagpod.com/episodes/2018/08/23/chapter-12-enter-the-mesh
+        - https://zigzagpod.com/episodes/2018/09/20/the-civil-token-sale-is-live
+        - https://zigzagpod.com/episodes/2018/10/18/s2-ep2-why-civils-token-sale-failed
+        - https://zigzagpod.com/episodes/2018/12/20/s2-ep12-lessons-learned-from-a-risky-crypto-experiment
+    - https://samczsun.com/
+        - https://samczsun.com/hiding-in-plain-sight/
+        - https://samczsun.com/research/
+        - 
+    - 
+- We have an associated study group track in [[Governance Studies]]
+- [[roam/comments]]
+    - [[July 21st, 2022]]
+        - [[Anonymous_22]]
+            - 2022 Meeting Notes
+                - 
