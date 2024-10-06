@@ -274,6 +274,28 @@ Hirschman -  lower social mobility perhaps increases the number of protests
             - word clouds such as "deep state" or "dark clouds of capital" is a gesture at something that exists but it does not make meaning of things 
             - what is the value of this kind of analysis - wiki paper - argument that investment in a country reduces emigration is wrong - in fact emigration increases with increased investment 
             - not as obvious - the nation state drawing borders is an exception and not the rule 
+    - Norms
+        - Sachin
+            - Strong norms can sometimes lead to less respect for codified rules - India example, jaywalking anywhere in the east coast 
+            - Norms as weapon of the weak among the strong - kind of like luxury beliefs - reminds me of this movie by Luis Bunuel - bourgeouise 
+            - meatanorm enforcement is a middle class thing
+            - middle class enforces norms in some ways - such as the elections ? 
+            - Norms around election - used as a weapon of the weak but by the strong 
+            - "privilleged group in a a collective action problem"
+            - family unit enforced norms through religion and other means but without that -> norms are enforced at the identity level
+            - norms are backstopped by codified rules if it is something that the majority believe in ? 
+            - middle class shrinking - leads to norms collapsing
+        - Kiran
+            - It is a thick rule because strong norms have strong traditions 
+            - norms can be read as a tool of the strong, but you can read it as weapon of the weak in some conditions 
+        - Ananth
+            - metanorms being the result of vengeance towards non defectors and non punishers 
+            - After 1857 -  the norms of the crown was enforced on India
+        - Venkat 
+            - big difference between distributed system and human condition is that the boundaries are more porous 
+            - norms by themselves tend to be unstable but metanorms is how the norms get enforced - the idea of metanorm enforcement 
+            - the mayor or the cops trying to enforce something on a population - that is enforcement -but norms that exist between politicians
+            - the norms game of presidential electrion is between tow people 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)

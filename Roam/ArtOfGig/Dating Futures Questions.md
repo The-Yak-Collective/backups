@@ -13,8 +13,8 @@
             - https://www.theverge.com/2016/10/24/13379204/black-mirror-season-3-episode-1-nosedive-recap
     - if you quote denis de rougemont, you might win the hearts and minds of america.
     - Speaking of dating futures, how about a text-based game set in a dystopian future where you lover has been kidnapped by the serpent queen and you've gone undercover as her artisan.
-    - [10:14 PM]
     - Miranda July's irl texting app: https://www.youtube.com/watch?v=iz13HMsvb6o
+    - [10:14 PM]
     - and mention the evolution of romance as a historical formation
     - Unauthorized SFMOMA: https://radicalnetworks.org/archives/2017/participants/unauthorized-sfmoma-show/
     - [10:14 PM]

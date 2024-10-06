@@ -1,6 +1,6 @@
 - This track will introduce two activities
     - [[Yak Robotics Garage (YaRG)]]
-    - [[Distributed Systems Study Group]]
+    - [[Composable and Distributed Systems]]
     - In passing we will also mention [[Astonishing Workshop]] and [[AI Workshop]] nascent tracks
 - **Theme for YakCon**: Distributed Memory for Robotics
     - **Session 1**: Sunday 8th (50 minutes)

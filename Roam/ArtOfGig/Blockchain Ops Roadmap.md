@@ -1,6 +1,6 @@
 - This is the the main page for the Yak Collective blockchain roadmapping proto-project. We are currently discussing and exploring options and planning early experiments. If you're interested in participating in making this happen, please install the Metamask Chrome extension, get yourself some crytpo if you can afford to, perhaps get yourself a personal .eth ENS name for your main social wallet, and explore some Web3 sites to get oriented. 
 - This covers the period Fall 2021-Spring 2022 (~8 months)
-- Starting Summer 2022, we broadened this track into a [[Distributed Systems Study Group]]
+- Starting Summer 2022, we broadened this track into a [[Composable and Distributed Systems]]
 - [[YC Treasury]]
 - [[Blockchain Infrastructure Resources]]
 - [[Yak Colony Pilot]]
@@ -42,9 +42,9 @@
                     - Prioritize this by doing (Dogfooding)
                     - Blockchain implementations and different smart contract implementations
                     - How are security concerns handled? DAO attack vectors
-                - Decentralized Identity
                 - Idenity
                     - Reputatiom/clout
+                - Decentralized Identity
                 - Cloud identity.
                     - Reputation Clout
                     - What is the right way to create flexible on-chain identities? 
