@@ -155,7 +155,7 @@ window.YTD.tweets.part0 = [
         "0",
         "82"
       ],
-      "favorite_count" : "0",
+      "favorite_count" : "1",
       "id_str" : "1780224237673881994",
       "truncated" : false,
       "retweet_count" : "0",
@@ -475,7 +475,7 @@ window.YTD.tweets.part0 = [
         "0",
         "91"
       ],
-      "favorite_count" : "1",
+      "favorite_count" : "2",
       "id_str" : "1774501657893552306",
       "truncated" : false,
       "retweet_count" : "0",
@@ -20447,7 +20447,7 @@ window.YTD.tweets.part0 = [
         "0",
         "179"
       ],
-      "favorite_count" : "59",
+      "favorite_count" : "60",
       "id_str" : "1259210584362323969",
       "truncated" : false,
       "retweet_count" : "9",
@@ -39622,7 +39622,7 @@ window.YTD.tweets.part0 = [
         "0",
         "106"
       ],
-      "favorite_count" : "4",
+      "favorite_count" : "5",
       "id_str" : "1586025306401423360",
       "truncated" : false,
       "retweet_count" : "2",
@@ -46288,7 +46288,7 @@ window.YTD.tweets.part0 = [
         "0",
         "160"
       ],
-      "favorite_count" : "14",
+      "favorite_count" : "15",
       "id_str" : "1545457171139215360",
       "truncated" : false,
       "retweet_count" : "4",
@@ -74189,7 +74189,7 @@ window.YTD.tweets.part0 = [
         "0",
         "78"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "3",
       "in_reply_to_status_id_str" : "1470774987959250950",
       "id_str" : "1470779331333001222",
       "in_reply_to_user_id" : "1254475197274443776",
@@ -80299,7 +80299,7 @@ window.YTD.tweets.part0 = [
         "0",
         "120"
       ],
-      "favorite_count" : "0",
+      "favorite_count" : "1",
       "id_str" : "1465711523620290567",
       "truncated" : false,
       "retweet_count" : "0",
@@ -81299,7 +81299,7 @@ window.YTD.tweets.part0 = [
         "0",
         "182"
       ],
-      "favorite_count" : "24",
+      "favorite_count" : "25",
       "id_str" : "1462861481309925377",
       "truncated" : false,
       "retweet_count" : "1",
@@ -117794,7 +117794,7 @@ window.YTD.tweets.part0 = [
         "0",
         "132"
       ],
-      "favorite_count" : "8",
+      "favorite_count" : "9",
       "id_str" : "1356991209101799424",
       "truncated" : false,
       "retweet_count" : "0",
@@ -125845,7 +125845,7 @@ window.YTD.tweets.part0 = [
         "0",
         "127"
       ],
-      "favorite_count" : "8",
+      "favorite_count" : "7",
       "id_str" : "1334435005825683457",
       "truncated" : false,
       "retweet_count" : "1",
@@ -134524,7 +134524,7 @@ window.YTD.tweets.part0 = [
         "0",
         "87"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1309613275374641154",
       "truncated" : false,
       "retweet_count" : "0",

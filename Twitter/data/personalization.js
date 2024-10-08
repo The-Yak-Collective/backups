@@ -6,6 +6,10 @@ window.YTD.personalization.part0 = [
           {
             "language" : "English",
             "isDisabled" : false
+          },
+          {
+            "language" : "No linguistic content",
+            "isDisabled" : false
           }
         ],
         "genderInfo" : {
@@ -103,7 +107,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Central Banks",
+            "isDisabled" : false
+          },
+          {
             "name" : "Cheese",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Climate change",
             "isDisabled" : false
           },
           {
@@ -590,7 +602,7 @@ window.YTD.personalization.part0 = [
       },
       "locationHistory" : [
         "Columbus, OH, USA",
-        "Denver, CO, USA"
+        "Redmond, WA, USA"
       ],
       "inferredAgeInfo" : {
         "age" : [
