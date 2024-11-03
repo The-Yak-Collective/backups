@@ -296,6 +296,55 @@ Hirschman -  lower social mobility perhaps increases the number of protests
             - norms by themselves tend to be unstable but metanorms is how the norms get enforced - the idea of metanorm enforcement 
             - the mayor or the cops trying to enforce something on a population - that is enforcement -but norms that exist between politicians
             - the norms game of presidential electrion is between tow people 
+    - LGFVS
+        - Sachin
+            - When the center boldly announced its RMB 4 trillion stimulus plan to ward off recession, it did not intend to fund the stimulus directly but instead turned to local governments, now replete with bank licenses and financing vehicle. - stimulus funded local government in china vs private companies here - private companies engaged in stock buyback, while local governments did a mix of corporate encouragement and infrastructure 
+            - Very legible 
+            - that is, substantial state involvement under conditions of weak institutionalization 
+            - Weak institutions in some ways - sort of a lack of informal or formal constraints and as a result weak instituitions Douglas North paper
+            - The center unleashed the National Audit Office (NAO) twice upon localities to try and scrape together the extent of the LGFV bonanza, first in 2011 and then again in 2013.[64](https://www.chinatalk.media/p/the-rise-and-fall-of-lgfvs?triedRedirect=true#footnote-64-143888456) The then bank regulator, CBRC (which then became the CBIRC and, as of 2023, the NFRA) also began keeping a comprehensive list of all LGFVs around that time, dividing them into “good” and “bad” and ostensibly demanding banks refrain from many types of lending to those on the naughty list.[65](https://www.chinatalk.media/p/the-rise-and-fall-of-lgfvs?triedRedirect=true#footnote-65-143888456)
+            - Braudel style description would be interesting 
+        - Venkat
+            - Suffers from the same cantillion effects that the west has 
+            - In the west you had money supply triple or quadruple - distributed through low interest rates which left banks with a lot of money 
+            - big part of the money supply went to stock prices - inflation was localized to the stock market sector 
+            - Dont think there is any structural differences between chinese economy and the US economy - the principles of how the machine works is the same 
+            - The Chinese economy does not have as much money - it may be because they dont trust their government 
+            - You see similar things in south america - currency getting valued - people spending money fast while the money still has value 
+            - not qualitatively different than the western machine 
+            - Summary of Red Plenty 
+            - Lot of questions 
+                - How do people behave at the micro level? 
+                - What happens when you have different levels of inflation 
+                - Double digit inflation - Turkey - what do people do there on a day to day basis 
+        - Ananth
+            - 80s and 90s -- SEZs 
+            - Blockchain chicken farm
+    - Evolution of Financial Instruments for Infrastructure Finance 
+        - Sachin
+            - That’s where a little ingenuity from financial big whigs at China Development Bank (CBD) came in to play. Chen Yuan, son of famed Chen Yun and then head of CBD, helped local officials in Anhui and Wuhu concoct a simple but brilliant way to expand their economic footprint: create a corporate entity owned by, though at arms length from, local governments that could borrow unconstrained by the 1994 budget and regulatory regime. The entity’s raison d'etre was simple: (1) raise money and (2) build infrastructure. This was the “Wuhu model,” and in 1998 it birthed China’s very first LGFV: Wuhu Construction Investment Company - it seems like the trend of development banks focussed on agriculture and then focussing on infrastructure which leads to focus on other speculation seems like the general trend
+            - It works as long as interest rates are kept in check and everyone buys into the same economic reality such as post bretton woods etc but as relationships between countries fray the economic reality frays 
+            - 2. Expanded use of nancial media in social relationships - further reading
+3. Discursive or material redenition of cultural practices as nancia
+            - Really the financial side of Extrastatecraft - which was about institutions that operated across borders without being subject to state regulation - in some ways it goes even further than suggested by Keller Easterling 
+            - NDB and multilateral development has decreased because the amount of funding available is less or not sustainable
+            - Bretton woods adapted, united stated
+        - Venkat 
+            - what constraints are driving this thing - two extremes of capital expectation - international and national governments - the loans are sort of expected to be forgiven
+            - the other extreme is private bank investment returns 
+            - At the scale of infrastructure investments - if you have bad loans then the underlying currency suffers - this is why reserve currency matters 
+            - Asian financial crisis had some effect in asia, US one had global implications but Argentina issues dont seem to affect the world as much 
+            - Reserve currency country matters, if not it depends on if there is contagion 
+            - lf some developing country puts up some infrastructure, then the member countries of investment banks would get first dip on new loans - geopolitical returns 
+            - paper does not answer interesting questions - what matter is the bounding box concerns 
+            - how does downstream monetisation of these infrastructure funds work  .. that would be interesting 
+        - Ellen
+            - Geopolitical considerations seems key 
+            - Flows and Stocks .. 
+            - Infrastructure as something that allows flows of various kinds 
+            - Infrastructure moves things from one place to the other - they are often flows 
+            - The railroad in canada was not financed because people wanted to make money 
+            - 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)

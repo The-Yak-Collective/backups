@@ -1304,7 +1304,7 @@ but consider - is what is being sent data or programs?
                         - Venkat -- two senses of imaginary, science-fictional counterfactual things (warp drive) and not-yet-real things that may never be (vaporware product visions)
                     - Jenna -- Similarity to difficulty characterizing "systems" meaningfully, and it comes down to arbitrary delineation of boundaries
                     - Venkat -- In a way, Yuk Hui's being an engineer-turned-philosopher is a weakness because he overindexes on a "builder" view of technical objects over a "user" view. So poorly justified focus on things like SemWeb sense of objects rather than experience-objects. Also emergent AI "thingness" (that don't rely on engineered scaffoldings like designs, architectures, and schema) fits the thesis of digital objects having true thingness/materiality better than software 1.0/GOFAI sense of objects. In a weaker sense, also true of "crypto" objects, which are defined more by cryptographic identity than function or affordances (tokens as elemental "things")
-        - Oct 7: | Discord Thread | YouTube
+        - Oct 7:  [Assembly Theory paper](https://www.nature.com/articles/s41586-023-06600-9) | Discord Thread | YouTube
         - Oct 14: | Discord Thread | YouTube
         - Oct 21: | Discord Thread | YouTube
         - Oct 28: | Discord Thread | YouTube
@@ -1337,7 +1337,6 @@ but consider - is what is being sent data or programs?
             - https://webrtcforthecurious.com/docs/01-what-why-and-how/
             - https://www.cisa.gov/news-events/alerts/2021/09/28/cisa-and-nsa-release-guidance-selecting-and-hardening-vpns
     - Cloud
-        - https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
     - AI
         - https://continuations.com/post/761729753693765632/we-need-actually-open-ai-now-more-than-ever-or
         - 
