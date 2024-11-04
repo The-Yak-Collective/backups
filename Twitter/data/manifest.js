@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "The Yak Collective"
   },
   "archiveInfo" : {
-    "sizeBytes" : "14691933",
-    "generationDate" : "2024-10-07T17:45:58.373Z",
+    "sizeBytes" : "14682345",
+    "generationDate" : "2024-11-04T16:06:34.654Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -295,14 +295,14 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "2382"
+        "count" : "2376"
       } ]
     },
     "following" : {
       "files" : [ {
         "fileName" : "data/following.js",
         "globalName" : "YTD.following.part0",
-        "count" : "33"
+        "count" : "32"
       } ]
     },
     "grokChatItem" : {
@@ -316,7 +316,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "146"
+        "count" : "100"
       } ]
     },
     "keyRegistry" : {

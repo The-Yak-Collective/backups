@@ -4262,7 +4262,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -5004,7 +5004,7 @@ window.YTD.tweets.part0 = [
         "0",
         "71"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1304608502778920960",
       "truncated" : false,
       "retweet_count" : "0",
@@ -6612,7 +6612,7 @@ window.YTD.tweets.part0 = [
         "0",
         "72"
       ],
-      "favorite_count" : "13",
+      "favorite_count" : "12",
       "id_str" : "1300471186380517378",
       "truncated" : false,
       "retweet_count" : "2",
@@ -6940,7 +6940,7 @@ window.YTD.tweets.part0 = [
         "0",
         "83"
       ],
-      "favorite_count" : "13",
+      "favorite_count" : "12",
       "id_str" : "1299538826390577153",
       "truncated" : false,
       "retweet_count" : "0",
@@ -7359,7 +7359,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -9718,7 +9718,7 @@ window.YTD.tweets.part0 = [
         "0",
         "126"
       ],
-      "favorite_count" : "15",
+      "favorite_count" : "14",
       "id_str" : "1291365015052746754",
       "truncated" : false,
       "retweet_count" : "3",
@@ -10393,7 +10393,7 @@ window.YTD.tweets.part0 = [
             "id" : "14338338"
           },
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "24",
@@ -10830,7 +10830,7 @@ window.YTD.tweets.part0 = [
         "0",
         "91"
       ],
-      "favorite_count" : "17",
+      "favorite_count" : "16",
       "id_str" : "1287260914899652608",
       "truncated" : false,
       "retweet_count" : "7",
@@ -11745,7 +11745,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "6",
       "id_str" : "1285883892365496326",
       "truncated" : false,
-      "retweet_count" : "3",
+      "retweet_count" : "2",
       "id" : "1285883892365496326",
       "possibly_sensitive" : false,
       "created_at" : "Wed Jul 22 10:26:25 +0000 2020",
@@ -17126,7 +17126,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "3",
@@ -20447,7 +20447,7 @@ window.YTD.tweets.part0 = [
         "0",
         "179"
       ],
-      "favorite_count" : "60",
+      "favorite_count" : "59",
       "id_str" : "1259210584362323969",
       "truncated" : false,
       "retweet_count" : "9",
@@ -21118,7 +21118,7 @@ window.YTD.tweets.part0 = [
             "id" : "9926812"
           },
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "14",
@@ -22064,7 +22064,7 @@ window.YTD.tweets.part0 = [
         "0",
         "148"
       ],
-      "favorite_count" : "67",
+      "favorite_count" : "66",
       "id_str" : "1255901959543861249",
       "truncated" : false,
       "retweet_count" : "28",
@@ -22309,7 +22309,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "3",
@@ -22738,7 +22738,7 @@ window.YTD.tweets.part0 = [
         "0",
         "23"
       ],
-      "favorite_count" : "124",
+      "favorite_count" : "123",
       "id_str" : "1255370726858776577",
       "truncated" : false,
       "retweet_count" : "14",
@@ -25482,7 +25482,7 @@ window.YTD.tweets.part0 = [
       "favorite_count" : "3",
       "id_str" : "1647953434144849934",
       "truncated" : false,
-      "retweet_count" : "1",
+      "retweet_count" : "0",
       "id" : "1647953434144849934",
       "possibly_sensitive" : false,
       "created_at" : "Mon Apr 17 13:21:30 +0000 2023",
@@ -25941,7 +25941,7 @@ window.YTD.tweets.part0 = [
         "0",
         "219"
       ],
-      "favorite_count" : "4",
+      "favorite_count" : "3",
       "id_str" : "1645480393074671616",
       "truncated" : false,
       "retweet_count" : "1",
@@ -26319,7 +26319,7 @@ window.YTD.tweets.part0 = [
             "id" : "568646506"
           },
           {
-            "name" : "Love Pilgrim",
+            "name" : "Fun Pilgrim",
             "screen_name" : "tasshinfogleman",
             "indices" : [
               "14",
@@ -26394,7 +26394,7 @@ window.YTD.tweets.part0 = [
             "id" : "568646506"
           },
           {
-            "name" : "Love Pilgrim",
+            "name" : "Fun Pilgrim",
             "screen_name" : "tasshinfogleman",
             "indices" : [
               "164",
@@ -37375,7 +37375,7 @@ window.YTD.tweets.part0 = [
         "0",
         "85"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1600838092285480961",
       "truncated" : false,
       "retweet_count" : "0",
@@ -37876,7 +37876,7 @@ window.YTD.tweets.part0 = [
         "0",
         "82"
       ],
-      "favorite_count" : "6",
+      "favorite_count" : "5",
       "id_str" : "1596357435505184770",
       "truncated" : false,
       "retweet_count" : "2",
@@ -37979,7 +37979,7 @@ window.YTD.tweets.part0 = [
         "0",
         "81"
       ],
-      "favorite_count" : "4",
+      "favorite_count" : "3",
       "id_str" : "1596220188583956482",
       "truncated" : false,
       "retweet_count" : "0",
@@ -38515,7 +38515,7 @@ window.YTD.tweets.part0 = [
         "0",
         "98"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1591284050521530369",
       "truncated" : false,
       "retweet_count" : "0",
@@ -50632,7 +50632,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -54985,7 +54985,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -55496,7 +55496,7 @@ window.YTD.tweets.part0 = [
         "0",
         "117"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1513186214375047184",
       "truncated" : false,
       "retweet_count" : "0",
@@ -58926,7 +58926,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -64076,7 +64076,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -64485,7 +64485,7 @@ window.YTD.tweets.part0 = [
         "0",
         "117"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1491096773129080833",
       "truncated" : false,
       "retweet_count" : "2",
@@ -68112,7 +68112,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -68412,7 +68412,7 @@ window.YTD.tweets.part0 = [
         "0",
         "74"
       ],
-      "favorite_count" : "6",
+      "favorite_count" : "5",
       "id_str" : "1483136415533830152",
       "truncated" : false,
       "retweet_count" : "2",
@@ -69597,7 +69597,7 @@ window.YTD.tweets.part0 = [
         "0",
         "117"
       ],
-      "favorite_count" : "3",
+      "favorite_count" : "2",
       "id_str" : "1479136813767876612",
       "truncated" : false,
       "retweet_count" : "1",
@@ -74439,7 +74439,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "rafa",
+            "name" : "rafa (Devcon)",
             "screen_name" : "rafathebuilder",
             "indices" : [
               "0",
@@ -75776,7 +75776,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -81663,7 +81663,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -85383,7 +85383,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -90264,7 +90264,7 @@ window.YTD.tweets.part0 = [
         "0",
         "72"
       ],
-      "favorite_count" : "6",
+      "favorite_count" : "4",
       "id_str" : "1436597823018053635",
       "truncated" : false,
       "retweet_count" : "0",
@@ -91060,7 +91060,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -95597,7 +95597,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -99841,7 +99841,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -103604,7 +103604,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -107236,7 +107236,7 @@ window.YTD.tweets.part0 = [
         "0",
         "72"
       ],
-      "favorite_count" : "3",
+      "favorite_count" : "2",
       "id_str" : "1392374506702901249",
       "truncated" : false,
       "retweet_count" : "0",
@@ -107918,7 +107918,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "36",
@@ -109939,7 +109939,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -118865,7 +118865,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "vinay (building...)",
+            "name" : "vinay (just doing things...)",
             "screen_name" : "vinaydebrou",
             "indices" : [
               "10",
@@ -124799,7 +124799,7 @@ window.YTD.tweets.part0 = [
         "0",
         "103"
       ],
-      "favorite_count" : "3",
+      "favorite_count" : "2",
       "id_str" : "1336916341815652353",
       "truncated" : false,
       "retweet_count" : "0",
@@ -125674,7 +125674,7 @@ window.YTD.tweets.part0 = [
         "0",
         "106"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1334601578737758212",
       "truncated" : false,
       "retweet_count" : "0",
@@ -128563,7 +128563,7 @@ window.YTD.tweets.part0 = [
         "0",
         "92"
       ],
-      "favorite_count" : "4",
+      "favorite_count" : "3",
       "id_str" : "1328035557033861125",
       "truncated" : false,
       "retweet_count" : "2",
@@ -129540,7 +129540,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -130605,7 +130605,7 @@ window.YTD.tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tom (in SF aug-nov!)",
+            "name" : "Tom is hiring devs in London!",
             "screen_name" : "tdoggyholhol",
             "indices" : [
               "39",
@@ -132114,7 +132114,7 @@ window.YTD.tweets.part0 = [
         "0",
         "111"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1318916699631005696",
       "truncated" : false,
       "retweet_count" : "1",
@@ -132331,7 +132331,7 @@ window.YTD.tweets.part0 = [
         "0",
         "107"
       ],
-      "favorite_count" : "5",
+      "favorite_count" : "4",
       "id_str" : "1317950639478050816",
       "truncated" : false,
       "retweet_count" : "1",

@@ -12,7 +12,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "14069647",
             "id" : "1257759918825910289",
-            "createdAt" : "2020-05-05T19:51:47.387Z"
+            "createdAt" : "2020-05-05T19:51:47.387Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -24,7 +25,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "14069647",
             "id" : "1257627222975930377",
-            "createdAt" : "2020-05-05T11:04:30.224Z"
+            "createdAt" : "2020-05-05T11:04:30.224Z",
+            "editHistory" : [ ]
           }
         }
       ]

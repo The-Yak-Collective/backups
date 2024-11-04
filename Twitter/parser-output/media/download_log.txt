@@ -101,4 +101,4 @@
 1 of 1 tested media files are known to be the best-quality available.
 
 Total downloaded: 19.0MB = 0.02GB
-Time taken: 54s
+Time taken: 48s

@@ -244,7 +244,6 @@ vgr https://twitter.com/i/user/8500962
 ~unknown~handle~ https://twitter.com/i/user/1155434771545305088
 ~unknown~handle~ https://twitter.com/i/user/1155495419620798464
 ~unknown~handle~ https://twitter.com/i/user/1155995907352977408
-~unknown~handle~ https://twitter.com/i/user/1156329101894049792
 ~unknown~handle~ https://twitter.com/i/user/1157106244827701248
 ~unknown~handle~ https://twitter.com/i/user/1157725326723543041
 ~unknown~handle~ https://twitter.com/i/user/1159245498412412928
@@ -282,7 +281,6 @@ vgr https://twitter.com/i/user/8500962
 ~unknown~handle~ https://twitter.com/i/user/11803762
 ~unknown~handle~ https://twitter.com/i/user/1181443569174736901
 ~unknown~handle~ https://twitter.com/i/user/1181937911215689729
-~unknown~handle~ https://twitter.com/i/user/1183793963846778881
 ~unknown~handle~ https://twitter.com/i/user/1185052890324328448
 ~unknown~handle~ https://twitter.com/i/user/1186002548794245121
 ~unknown~handle~ https://twitter.com/i/user/1186466922532986881
@@ -753,7 +751,6 @@ vgr https://twitter.com/i/user/8500962
 ~unknown~handle~ https://twitter.com/i/user/1485077963259404292
 ~unknown~handle~ https://twitter.com/i/user/14851411
 ~unknown~handle~ https://twitter.com/i/user/1485692863123902465
-~unknown~handle~ https://twitter.com/i/user/1486098938
 ~unknown~handle~ https://twitter.com/i/user/1486347701222576134
 ~unknown~handle~ https://twitter.com/i/user/14868908
 ~unknown~handle~ https://twitter.com/i/user/1487008940
@@ -939,7 +936,6 @@ vgr https://twitter.com/i/user/8500962
 ~unknown~handle~ https://twitter.com/i/user/16690281
 ~unknown~handle~ https://twitter.com/i/user/1669495219
 ~unknown~handle~ https://twitter.com/i/user/16695445
-~unknown~handle~ https://twitter.com/i/user/167073198
 ~unknown~handle~ https://twitter.com/i/user/1673849575
 ~unknown~handle~ https://twitter.com/i/user/1676448152
 ~unknown~handle~ https://twitter.com/i/user/167746460
@@ -1269,6 +1265,7 @@ vgr https://twitter.com/i/user/8500962
 ~unknown~handle~ https://twitter.com/i/user/2407877749
 ~unknown~handle~ https://twitter.com/i/user/2408657090
 ~unknown~handle~ https://twitter.com/i/user/24171456
+~unknown~handle~ https://twitter.com/i/user/2418597883
 ~unknown~handle~ https://twitter.com/i/user/242560398
 ~unknown~handle~ https://twitter.com/i/user/24276659
 ~unknown~handle~ https://twitter.com/i/user/2428046227
@@ -1332,7 +1329,6 @@ vgr https://twitter.com/i/user/8500962
 ~unknown~handle~ https://twitter.com/i/user/2568461
 ~unknown~handle~ https://twitter.com/i/user/256954556
 ~unknown~handle~ https://twitter.com/i/user/257053780
-~unknown~handle~ https://twitter.com/i/user/25715899
 ~unknown~handle~ https://twitter.com/i/user/257531053
 ~unknown~handle~ https://twitter.com/i/user/2587393812
 ~unknown~handle~ https://twitter.com/i/user/259948136
@@ -1399,7 +1395,6 @@ vgr https://twitter.com/i/user/8500962
 ~unknown~handle~ https://twitter.com/i/user/2763211279
 ~unknown~handle~ https://twitter.com/i/user/27646581
 ~unknown~handle~ https://twitter.com/i/user/276985657
-~unknown~handle~ https://twitter.com/i/user/2773542902
 ~unknown~handle~ https://twitter.com/i/user/2774548399
 ~unknown~handle~ https://twitter.com/i/user/2780202434
 ~unknown~handle~ https://twitter.com/i/user/27836880
@@ -2052,7 +2047,6 @@ vgr https://twitter.com/i/user/8500962
 ~unknown~handle~ https://twitter.com/i/user/77224345
 ~unknown~handle~ https://twitter.com/i/user/773846964932870144
 ~unknown~handle~ https://twitter.com/i/user/77462686
-~unknown~handle~ https://twitter.com/i/user/774962828843384832
 ~unknown~handle~ https://twitter.com/i/user/775223
 ~unknown~handle~ https://twitter.com/i/user/775842639417581568
 ~unknown~handle~ https://twitter.com/i/user/7782372
