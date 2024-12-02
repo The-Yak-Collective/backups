@@ -345,6 +345,13 @@ Hirschman -  lower social mobility perhaps increases the number of protests
             - Infrastructure moves things from one place to the other - they are often flows 
             - The railroad in canada was not financed because people wanted to make money 
             - 
+    - Tokyo Vernacular 
+        - Sachin
+            - Tokyo architecture kind of featureless so where things happen is where people gather, an example is shibuya scramble 
+            - The only area that is monumental is near the imperial palace, but not 
+            - The buildings you can view tokyo from not a monument like Empire state plaza, whichever buildings people can gain access to 
+            - Cancellation is an example of this in the online space, but it is not repeated enough over a long time, just a spontaneous burst and then dies off 
+            - monuments or museams are about every day and does not mention emperors specifically and not an accident that it is run by bureacrats and not by great men 
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
