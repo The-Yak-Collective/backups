@@ -17,11 +17,11 @@
     - NEXT STEP
         - Build out framework
             - Goals with credentials:
-1. Define assets.
-2. Risk assess assets.
-3. Establish security roles
-4. Establish credential sharing by roles
-5. Set up periodic review.
+              1. Define assets.
+              2. Risk assess assets.
+              3. Establish security roles
+              4. Establish credential sharing by roles
+              5. Set up periodic review.
             - ![🦾](https://discord.com/assets/12b7251a9a096c53443ac4efbd01d0a3.svg)
             - 1
             - ![ ](https://cdn.discordapp.com/avatars/696421821628809246/1fc24dae9be6f005e0f077c81010568b.png?size=128)

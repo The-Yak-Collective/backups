@@ -8,15 +8,15 @@
         - Check out our [members](https://www.yakcollective.org/members/) and [projects](https://www.yakcollective.org/projects/), read some of [our latest thoughts](https://www.yakcollective.org/writings/), and get in touch with any of us if you’d like to learn more.
         - 
         - text play space — **do not include**
-~~participatory management~~
-self-organizing systems (Ilya Pirogine)
-studying emerging ^^governance^^ models
-**decentralized organizations** (DOs) and decentralized __autonomous__ organizations (DAOs)
-decentralized collaboration
-self-management
-coordination
-governance
-
+          ~~participatory management~~
+          self-organizing systems (Ilya Pirogine)
+          studying emerging ^^governance^^ models
+          **decentralized organizations** (DOs) and decentralized __autonomous__ organizations (DAOs)
+          decentralized collaboration
+          self-management
+          coordination
+          governance
+          
         - /ARCHIVE/ Here you can find people with varied skills working together on technology building, research, writing, and art projects, and occasionally trying to make money together as well. Some of the things we’re doing include: building open-source rovers and experimental web infrastructures, publishing speculative fiction, and studying emerging decentralization. You can learn more about us on the [About page](https://www.yakcollective.org/about/).
 - **About page**
     - **Was**: a whole, now completely irrelevant and obsolete spiel about indie consulting

@@ -116,26 +116,26 @@
 - **PROJECT DETAILS** (Framing, motivation, audience)
     - **Goals**
         - **Eventual goal**:
-Develop an unconventional consulting offering for big corporations wanting to improve their ability to innovate. 
+          Develop an unconventional consulting offering for big corporations wanting to improve their ability to innovate. 
             - Why focus on big corporations? Because they have big budgets and they need __really__ unconventional thinking. Aiming at big corporates also forces discipline in construing problems and solutions so they are well-scoped, closed-ended consulting deliverables.
         - **Short-term goal **:
-Develop an idea framework that offers Yak-distinctive—i.e., unconventional but empirically grounded—explanations for why big corporations try but fail to innovate, and offer pragmatic solutions that can solve for the unique challenges of large, established companies face in innovating.
-
-This will be delivered as a pair of free multiple-authored ebooks on the problems of corporate innovation and their solutions, as outlined below.
+          Develop an idea framework that offers Yak-distinctive—i.e., unconventional but empirically grounded—explanations for why big corporations try but fail to innovate, and offer pragmatic solutions that can solve for the unique challenges of large, established companies face in innovating.
+          
+          This will be delivered as a pair of free multiple-authored ebooks on the problems of corporate innovation and their solutions, as outlined below.
     - **Frame: What is “innovation” and how should corporations solve the innovation problem?**
         - For this project, we take a broad view: corporations are innovative (vs simply creative) when they come up with new and useful things.
-
-These “things” can be products or services, and they can be radically or incrementally new. However, they cannot stop at being novel. To be innovative, they must also be buildable, and there must be a big enough group of customers that want to and have the ability to buy them.
-
-The reality is that innovation is hard to do.
-
-Innovation work is fundamentally different from all other types of work because it involves uncertainty both in how to do the work and in what the work is intended to achieve—ie both __how to proceed__ and __what success means__ are inherently uncertain. The inherent uncertainty of innovation work makes it uniquely challenging for large, established corporations because they are organised to execute and optimise an existing repeatable and scalable business model.
-
-Making big corporations more innovative requires first framing the problems, then identifying the solutions. Corporations hire traditional consulting companies to do this for them all the time. Their problem-framings are usually uninteresting, and their solutions ineffective. One boring obstacle to innovation is simply not having the “right” innovation resources in-house. A boring solution to this problem is mergers and acquisitions (M&A), in which a corporation fuses with or buys another, presumably more innovative, corporation. (This usually doesn’t work.)
-
-A Yak might frame the problem differently and come up with unconventional and more effective solutions. An example of a weirder view might be that large corporations are siloed, and that innovation-relevant goals and skills aren’t mutually legible across silos. A Yak-solution to this problem might be to create a team of part-time employees whose role is specifically to cross silos and make goals/skills legible across the organization—human mRNA.
-
-Between M&A and human mRNA lies an enormous range of possible problem-framings and solutions. Each problem-framing might have multiple possible solutions. This project is designed to open up space for Yaks to
+          
+          These “things” can be products or services, and they can be radically or incrementally new. However, they cannot stop at being novel. To be innovative, they must also be buildable, and there must be a big enough group of customers that want to and have the ability to buy them.
+          
+          The reality is that innovation is hard to do.
+          
+          Innovation work is fundamentally different from all other types of work because it involves uncertainty both in how to do the work and in what the work is intended to achieve—ie both __how to proceed__ and __what success means__ are inherently uncertain. The inherent uncertainty of innovation work makes it uniquely challenging for large, established corporations because they are organised to execute and optimise an existing repeatable and scalable business model.
+          
+          Making big corporations more innovative requires first framing the problems, then identifying the solutions. Corporations hire traditional consulting companies to do this for them all the time. Their problem-framings are usually uninteresting, and their solutions ineffective. One boring obstacle to innovation is simply not having the “right” innovation resources in-house. A boring solution to this problem is mergers and acquisitions (M&A), in which a corporation fuses with or buys another, presumably more innovative, corporation. (This usually doesn’t work.)
+          
+          A Yak might frame the problem differently and come up with unconventional and more effective solutions. An example of a weirder view might be that large corporations are siloed, and that innovation-relevant goals and skills aren’t mutually legible across silos. A Yak-solution to this problem might be to create a team of part-time employees whose role is specifically to cross silos and make goals/skills legible across the organization—human mRNA.
+          
+          Between M&A and human mRNA lies an enormous range of possible problem-framings and solutions. Each problem-framing might have multiple possible solutions. This project is designed to open up space for Yaks to
             - articulate both intuitive and counterintuitive framings of the problems large, established corporations face in innovating, and
             - present pragmatic but counter-intuitive solutions to those problems that can plausibly be translated into consulting engagements.
     - **Overall project deliverables:**
@@ -305,7 +305,7 @@ Between M&A and human mRNA lies an enormous range of possible problem-framings a
         - [[Damian Stewart]] i like the approach. The part-splits suggests a split-authorship model - i.e. there doesn't have to be a 1:1 correspondence essay:author - is that right? I personally do not know enough about how __largeco__s operate to be able to submit something that fits the bill for that requirement of parts B or C, __but__ if i'm fed a particular problem case that doesn't have a known, accepted 'solution' i think i could do a good job of pinpointing why it might be "trouble" and suggesting super left-field ways out of it. in other words - do you see a (partial) decoupling of idea generation from idea writing and research? or are you expecting 1 idea = 1 writer = 1 essay? 
             - i kinda feel like, this is me volunteering for both __sargeant__ and __infantry__ duty? point me in the direction of __X__ and i'll do my damnedest to write an essay that gets there (and perhaps beyond), but ask me to pick a direction in order to find an appropriate __X__ and i'll be like 'uhh i don't know'
         - [[Grigori Milov]] I worked for large companies and had a chance to observe quite a few of them. My initial take is that they typically don't have a lot of problems with early-stage innovations. People there have a lot of ideas. Some of them are quite good.
-The problem large companies are really having with innovations is that even the very best of their ideas (or innovations) fail to make a difference. It is an organizational problem related mostly to incentive structure and performance management.  A small team with very good ideas may underperform according to metrics that companies use for established business units. And there are no incentives in place to support underperforming units.
+          The problem large companies are really having with innovations is that even the very best of their ideas (or innovations) fail to make a difference. It is an organizational problem related mostly to incentive structure and performance management.  A small team with very good ideas may underperform according to metrics that companies use for established business units. And there are no incentives in place to support underperforming units.
         - [[Richard Hughes-Jones]] I don't know exactly where this fits in or if it is even helpful, but I'm interested in the 'leadership' angle to this (which no one seems to talk about). To [[Grigori Milov]] point above, you can have the best ideas and intentions around innovation but if often falls down at the 'people' and 'psychology' stage. In the same way that corporates go to established strategy consultancies for innovation the also go to established leadership development firms for their leadership development (and often the consultancies have a people/leadership team within them). 
         - The leadership development industry is failing to help large business deal with disruption because the market leading leadership development firms are themselves struggling to understand and adapt to the very same types of disruption as the clients that they are serving. To build on that, there appears to be a lot of homophily in leadership development... The stereotype of executive/leadership coaches as being older (50+) and former senior leaders in the same industry they now serve as a coach (empirical observation) doesn't appear to be unfounded - leaders 'surround themselves with people just like them', which we know creates an echo-chamber and prevents diverse and creative thinking. 
         - Fundamentally, corporates say that they want to 'think like startups' but I don't see this mindset being embedded in leadership development - I'm trying to look at this through the specific lens of leadership development (as opposed to innovation, disruption etc). I think that unless you get under the skin of the 'human factors' in relation to innovation (particularly career risk) progress will be limited. 

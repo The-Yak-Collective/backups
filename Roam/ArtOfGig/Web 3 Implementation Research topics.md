@@ -53,7 +53,7 @@
 - Basic situation awareness of PoW/PoS debates/criticisms/risks
     - General questions about how the incentives for folks who __run__ the networks do/don’t align with the incentives for network __users__, and also larger societal needs? #[[Nathan Acks]]
 - Culture war between Bitcoin and Ethereum and practical implications
-
+  
     - The Hic Et Nunc project on the Tezos Chain is in a current "Culture war". HEN is an open source NFT marketplace built on the Tezos chain by a Brazilian developer. NFTs minted on HEN are called OBJKT. The developer "discontinued" the project after a site called objct.com announced their own minting feature (using their own smart contract and not HEN's). HEN is an open source project, so several clones were made and members of the community resurrected the project. However, several other people not a part of the original community have since taken advantage of this market volatility and open source framework to appropriate the technology and marketplace into what the original community is framing as an act of global north hegemony. This global south/north tension might be an interesting and current case study of chain/culture wars. #[[Commits Vortex]]
     - Jargon: "The Flippening" (speculative future event when Ethereum's market cap might surpass Bitcoin's)
 - Social
@@ -88,7 +88,7 @@
         - https://www.cs.princeton.edu/~arvindn/cryptocurrency/
     - how-to for getting up to speed and joining the yc dao
 - What is the difference between a DAO and a corporation? 
-Between a DAO and a non-profit?
+  Between a DAO and a non-profit?
 - How do new paradigms like proof of space-time affect YC's infrastructure? https://en.wikipedia.org/wiki/Proof_of_space 
 - Incentive design 
     - https://twitter.com/tony_intern/status/1465719820071186440

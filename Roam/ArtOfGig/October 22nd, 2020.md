@@ -55,6 +55,6 @@
                 - potential to build a project to explore this 
                 - {{[[TODO]]}} decide on next steps
                 - The link to the initial discussion is here: https://discordapp.com/channels/692111190851059762/709454740614021121/768159146692313179
-The idea is essentially to make the dilemma explicit and to start looking for possible solutions.
-
+                  The idea is essentially to make the dilemma explicit and to start looking for possible solutions.
+                  
                 - Can we have an actual agenda next time? The Team A/Team B exercise can be on it. What else? 

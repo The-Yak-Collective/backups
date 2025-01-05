@@ -8,14 +8,14 @@
     - **Previously**: Data & Decision Science @ Philadelphia Inquirer, Naval systems analyst (civilian)
     - **Bio**:
         - > from philly
-> italo-celt (self-loathing colonizer-barbarian...[& catholic])
-> study poli sci & music (HS & college are deservedly defunct)
-> train in qual, autodidact quant ≈ 'empirical sensemaking'
-> Gr8 Recession hideout as gov employee (Navy)
-> millennial sabbatical
-> pivot to civic/social impact work
-> approximately 'game~b', 'doomer optimist'
-> tired of multiplicative value chain of dysfunctional orgs scaling my work to 0
-> go indie 2022
-> meta-game: more balanced & integrated life in greater community
-> doing the work, finding the others
+          > italo-celt (self-loathing colonizer-barbarian...[& catholic])
+          > study poli sci & music (HS & college are deservedly defunct)
+          > train in qual, autodidact quant ≈ 'empirical sensemaking'
+          > Gr8 Recession hideout as gov employee (Navy)
+          > millennial sabbatical
+          > pivot to civic/social impact work
+          > approximately 'game~b', 'doomer optimist'
+          > tired of multiplicative value chain of dysfunctional orgs scaling my work to 0
+          > go indie 2022
+          > meta-game: more balanced & integrated life in greater community
+          > doing the work, finding the others

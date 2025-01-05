@@ -49,7 +49,7 @@
     - **July-August 2020 Proposal Pages**
         - Starting with this cycle, we are introducing a formal [[Project Referee Role]]
         - [[Astonishing Stories
-...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [[Sachin Benny]] & [[Amanda Reeves]]. Combines updated thinking on previous proposals [[Speculative Fiction for the reboot ]] and [[Post-COVID scenario set]]
+          ...of what’s next]] - Mapping possible future scenarios to create worlds for speculative fiction. Led by [[Sachin Benny]] & [[Amanda Reeves]]. Combines updated thinking on previous proposals [[Speculative Fiction for the reboot ]] and [[Post-COVID scenario set]]
             - [[Speculative Fiction for the reboot ]] [[Sachin Benny]]
                 - 2-3 people per speculative fiction piece
                 - in collaboration with

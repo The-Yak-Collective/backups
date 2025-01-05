@@ -1,6 +1,6 @@
 - [[Astonishing-Stories Graph]]
 - [[Astonishing Stories -  Meeting notes]]
 - [[Astonishing Stories
-...of what’s next]]
+  ...of what’s next]]
 - [[Publications accepting submissions]]
 - [[Astonishing Stories - Project Management]]

@@ -8,7 +8,7 @@
 - [[Yak Talk]] Newsletter
     - Update from [[Matthew Sweet]] on [[September 24th, 2020]]
         - With the newsletter, we've been trying to build a consistent product that can help to find and establish an external audience, expand it and potentially bring in commissioned projects.
-The plan was to establish three tracks/beats: 
+          The plan was to establish three tracks/beats: 
             - trends and futures
             - online governance
             - complexity. 

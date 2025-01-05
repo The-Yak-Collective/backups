@@ -5,11 +5,11 @@
     - 
 - [[Jenna]]
     - appreciate this online governance study group
-feeling the Aug loss of momentum
-wondering about it turning into a boy’s club
-wondering about “emotional labor” cf the Metafilter document
-__Emotional Labor - The Metafilter Thread Condensed.pd__
-https://drive.google.com/file/d/0B0UUYL6kaNeBTDBRbkJkeUtabEk/view?usp=drivesdk
+      feeling the Aug loss of momentum
+      wondering about it turning into a boy’s club
+      wondering about “emotional labor” cf the Metafilter document
+      __Emotional Labor - The Metafilter Thread Condensed.pd__
+      https://drive.google.com/file/d/0B0UUYL6kaNeBTDBRbkJkeUtabEk/view?usp=drivesdk
 - [[Jordan Peacock]]
     - 
 - [[Sachin Benny]]

@@ -6,7 +6,7 @@
     - individual vs community
     - highly managed vs low levels of management
     - modern vs older (traditional?) prinicples
-
+      
     - political vs industrial
     - Heuristics/Models (Internal) vs. Outcomes (External)
     - Individual Transformation (Local) vs. Organizational Transformation (Global)

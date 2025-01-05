@@ -23,18 +23,18 @@
             - **Objective**
                 - Capture unique content (like a wiki/webpage)
                     - to label and reference a concept (e.g. positioning)
-similar to other label/tag systems
+                      similar to other label/tag systems
             - **Includes**
                 - Content
-and Roam automatic references
+                  and Roam automatic references
                     - Roam automatic references
-(optional) brief description of tag for disambiguation
-(optional) link to related tags
+                      (optional) brief description of tag for disambiguation
+                      (optional) link to related tags
             - **Formatting**
                 - Capitalised words 
-e.g. Yak Collective Collaborations
+                  e.g. Yak Collective Collaborations
                     - lowercase
-e.g. positioning
+                      e.g. positioning
 - ### How to comment/discuss
     - Roam is still not very friendly to track discussions and comments
     - before we get a way to hack notifications we use the tag ^^#ping^^ and the name of the person (page) -  "Let me know what you think [[Hugo Macedo]] #ping" 

@@ -121,10 +121,10 @@
         - Sachin
             - Cynicism,finally, works to both reduce and reinforce action participation depending on whether it goes together with perceived unfairness (Klandermans et al., 2008). The least active are those who combine political cynicism with the feeling that they are treated fairly; the most active are those who combine cynicism with the feeling that they are treated unfairly.
             - The first social structural characteristic is permeability of the group boundaries,
-the possibilities perceived by the individual to attain membership of a higher status
-group. Permeable group boundaries allow disadvantaged group members to leave their
-group for a higher status group, whereas impermeable boundaries offer no such ‘exit’ (cf.
-Hirschman -  lower social mobility perhaps increases the number of protests 
+              the possibilities perceived by the individual to attain membership of a higher status
+              group. Permeable group boundaries allow disadvantaged group members to leave their
+              group for a higher status group, whereas impermeable boundaries offer no such ‘exit’ (cf.
+              Hirschman -  lower social mobility perhaps increases the number of protests 
             - There is more trust in foreign policy than local policy which is why people protest palestine and ukraine but 
             - he extent to which status positions are stable or variable. People who conceive status positions as variable see protest as a possible method to heighten group status, especially when the low group status is perceived as illegitimate - status as a service??
             - political solidarity is psychological change in the self-categorization of members of high-status groups through which it is no longer the authority but the minority that best embodies the relevant norms, values and beliefs that define who ‘we’ are and how ‘we’ should relate to each other.
@@ -325,7 +325,7 @@ Hirschman -  lower social mobility perhaps increases the number of protests
             - That’s where a little ingenuity from financial big whigs at China Development Bank (CBD) came in to play. Chen Yuan, son of famed Chen Yun and then head of CBD, helped local officials in Anhui and Wuhu concoct a simple but brilliant way to expand their economic footprint: create a corporate entity owned by, though at arms length from, local governments that could borrow unconstrained by the 1994 budget and regulatory regime. The entity’s raison d'etre was simple: (1) raise money and (2) build infrastructure. This was the “Wuhu model,” and in 1998 it birthed China’s very first LGFV: Wuhu Construction Investment Company - it seems like the trend of development banks focussed on agriculture and then focussing on infrastructure which leads to focus on other speculation seems like the general trend
             - It works as long as interest rates are kept in check and everyone buys into the same economic reality such as post bretton woods etc but as relationships between countries fray the economic reality frays 
             - 2. Expanded use of nancial media in social relationships - further reading
-3. Discursive or material redenition of cultural practices as nancia
+              3. Discursive or material redenition of cultural practices as nancia
             - Really the financial side of Extrastatecraft - which was about institutions that operated across borders without being subject to state regulation - in some ways it goes even further than suggested by Keller Easterling 
             - NDB and multilateral development has decreased because the amount of funding available is less or not sustainable
             - Bretton woods adapted, united stated
@@ -352,6 +352,48 @@ Hirschman -  lower social mobility perhaps increases the number of protests
             - The buildings you can view tokyo from not a monument like Empire state plaza, whichever buildings people can gain access to 
             - Cancellation is an example of this in the online space, but it is not repeated enough over a long time, just a spontaneous burst and then dies off 
             - monuments or museams are about every day and does not mention emperors specifically and not an accident that it is run by bureacrats and not by great men 
+    - Dissolution of Japanese Combines
+        - Venkat
+            - Big difference single family control, recursive subsidiary structure, strong majority control - high level cronyism to evolve. 
+            - something natural about it - relatively weak state capacity allows single strong families to dominate it 
+            - In the run upto to WW2, the state allowed Zaibatsu's to buy small properties 
+            - Nissan was handed the contract to exploit manchuria, capitalized by japanese governements and by arm twisting life insurance 
+            - Mumbai airport - some business group did the modernization - BJP let the Adani group buy the Mumbai airport cheaply. No one becomes that rich that quickly 
+            - Apparently there is a pattern - uses state apartus to interfere in companies then interfere
+            - Keiretsu - interlocking family structure 
+            - ~ started in Italy in the 20s and 30s 
+            - Neoliberal era - ideological era has eroded - Trump administration - probably return to corporatism - loyalty based staffing 
+            - under the guise of tearing it down
+        - Jenna
+            - Island at the center of the world 
+            - Clash of the elites - people who benefit from peacetime vs people who benefit from war
+            - When corporations rule the world - 1995 
+        - Matthew 
+            - Kind of ironic that it is right after the two cities in Japan got bombed
+            - Kind of the reverse of the bullet or the ballot - take our version of the capitalism instead of yours 
+            - Extrastatecraft - this seems like an attempt to shutdown extrastate structures that originated in Japan
+            - 
+    - Ise jingu as Metaphor 
+        - Sachin
+            - Protocols don't build pyramids but are also really costly to maintain 
+            - Everyone should have a house of his own and the Shinto practice of a house being demolished fast
+            - And you can see this in Tokyo where buildings have a high churn and they dont really put much effort into preserving them
+            - Cyclical reconstruction served poorly in a progressive evolutionary model - protocols change often and hence don't have a defined history, kind of like Shintoism 
+            - As a loyal imperial subject,Sekino understood the shrine as a manifestation of the unbroken imperial line,while at the same time, as an architecture historian, he saw the significance of the reconstruction in what it revealed about ancient architecture - Patronage model 
+            - Sanskrit and palm leaves - the language has not changed at all 
+        - Venkat 
+            - Enshrinement as a concept 
+            - Enshrinement as a concept for physical construction - what is the technically best way to preserve it for the longest time - Take the most durable technologies you can think of and use that - the Long Now clock is a good example of that 
+            - Long Now - does not use grid electricity
+            - In traditional ship building - role of wood is reversed - wood is more durable
+            - durability of a material is in relation to context
+            - Temple that was constructed at Ayodhya - they dont use iron or cement or mortal -  only stone masonry and joinery 
+            - Palm leaves were writing material before paper - some are on stone, some are on copper plates but the main medium is palm leaves manuscripts - their lifetime when well preseved is 100-150 years 
+            - Palm Leaves - you need a tradition of scribes 
+            - The sweet spot for palm leaves type tradition is to renew them in shorter time scales - one generation 
+            - Element of sacredness in the idea of enshrinement -  early christian tradition - the relics of saints are really important. Early roman empire - peter, mark - patriarchies - church of st mark where the main church was in Alexandria but in Italy the cities of venice and aquilla were fighting over the city becoming the city of the patron saint. At one point Venice to seal the argument, couple of people went to Alexandria and stole the body and brought it back 
+            - Enshrinement follows the gradient of sacredness 
+        - Ellen
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
@@ -407,7 +449,7 @@ Hirschman -  lower social mobility perhaps increases the number of protests
         - Comparing high speed rail in Indonesia vs Florida 
             - Prompt:
             - "we'll be trying something different this time. Today's ready will be a comparison of the construction and operation of a Chinese built high speed rail in Jakarta and a privately built high speed rail connecting Miami and Orlando. Both projects hit milestones recently, so good time for a comparison. Browse the articles in two local newspapers for both of these, click into the articles that you find interesting. Also feel free to google around, use ChatGPT etc
-comparison of jakarta-bandung and orlando-miami:
+              comparison of jakarta-bandung and orlando-miami:
                 - Jakarta - 151 km , time 29 mins, top speed 350kmh
                 - Miami  - 378km, time 3:30 hours, top speed 200kmh
                 - Jakarta Post : https://www.thejakartapost.com/search?q=Jakarta+to+Bandung#gsc.tab=0&gsc.q=Jakarta%20to%20Bandung&gsc.page=1
@@ -728,6 +770,27 @@ comparison of jakarta-bandung and orlando-miami:
                 - If you stay long you wont write anything - some anecdote about people who go to China to write something 
                 - happens in complex system
                 - nesting in weird places - it is a human thing we do 
+        - Swiss Rail vs Irish Rail
+            - Mathew 
+                - Railroad boom mentioned in the new Byrne book - bubbles may have a big effect? 
+                - Legacy or historical effects 
+                - More contemporary perspective 
+                - default cultural stance towards people moving around in general - whether its something thats encouraged or something that is driven by an individual's desire to move around 
+                - Technical sophisitcation
+            - Venkat
+                - Ireland feels mostly empty
+                - Traveling in north england is hard - bus every hour 
+                - airbnb - called one guy who had one taxi 
+                - Geographic determinism - that determines whether road or rail is optimal
+                - and another perspective is general pattern of life: swiss more jetsetting, irish people may be dont travel very much 
+            - Sachin 
+                - You need a real estate boom period perhaps, and public investment fueled by that ? 
+                - You also need an efficient bureacracy - because in places like Bangkok or SF, you invest in large enclave apartments that are protected from homeless people 
+                - Ireland does not have airlines 
+                - May be there is a slight distrust of public transit 
+            - Jenna 
+                - Early days of rail - Ireland was not doing that well and now you have to build up infrastructure 
+                - 
     - Weapons of the Weak Track
         - [How much discomfort is the world worth](https://www.bostonreview.net/articles/how-much-discomfort-is-the-whole-world-worth/)
             - Ananth
@@ -1036,7 +1099,7 @@ comparison of jakarta-bandung and orlando-miami:
         - Bullshit as Social Epistemology 
             - Sachin
                 - The bullshit detector is a realist, believing that
-“reality is, on the whole, stable and orderly.” By contrast, the bullshitter is an antirealist, treating “reality as inherently risky and under construction,” - sometimes reality is risky and under construction such as in the case of a new technology- wonder how much of this is also cultural - pirotkin of 
+                  “reality is, on the whole, stable and orderly.” By contrast, the bullshitter is an antirealist, treating “reality as inherently risky and under construction,” - sometimes reality is risky and under construction such as in the case of a new technology- wonder how much of this is also cultural - pirotkin of 
                 - it takes more work to prove bullshit than it does to create it - because you have to acertain epistemology at all levels and people have stopped attempting to do that
                 - There is also such a thing as believing in too much reality which is the kind of thing that makes you depressed - I feel like the DFW essays get at this point in some ways 
                 - social familiarity lowers epistemic vigilance. favoring epistemic vigillance over social familiarlty is called culture war  
@@ -1426,7 +1489,7 @@ comparison of jakarta-bandung and orlando-miami:
     - [[June 30th, 2023]] The Future of Education in a world of AI
         - The Source: https://www.oneusefulthing.org/p/the-future-of-education-in-a-world
         - The Prompt: In your view, does the article overestimate or underestimate the impact of LLMs on education and specifically business education (and executive education, or, alternatively, whatever type of education you are most familiar with) where the author is working?
-What are your the most conservative and the most revolutionary scenario for upcoming changes?
+          What are your the most conservative and the most revolutionary scenario for upcoming changes?
         - Kiran: 
             - The key skill that we develop today is to how to use the internet: detecting bullshit. AI is wrong in a subtle ways. ChatGPT will change your ideas. Will have to use the brush. the key skills -- editing side and bullshit detection side.
             - Good at generating all the scaffolding tp generate your idea.
@@ -1506,8 +1569,8 @@ What are your the most conservative and the most revolutionary scenario for upco
     - [[June 9th, 2023]] Jesuit Education Principles
         - The Source: https://www.seattleu.edu/media/university-core/files/jesuit_model_education.pdf
         - The Prompt: Don't focus too much on the details, try to get a wholistic picture of the system.
-Reflect a little on your own educational experience. How is the system that was used in your case different from the jesuit system described in the reading?
-Optional: What does one really learn by studying Latin? Or, in other words, What can we achieve by teaching "Latin" to LLM like ChatGPT?
+          Reflect a little on your own educational experience. How is the system that was used in your case different from the jesuit system described in the reading?
+          Optional: What does one really learn by studying Latin? Or, in other words, What can we achieve by teaching "Latin" to LLM like ChatGPT?
         - Shreeda:
             - I'm mid Uber and going to drop but
             - I met someone yesterday at work who studied in Jesuit syst
@@ -1522,7 +1585,7 @@ Optional: What does one really learn by studying Latin? Or, in other words, What
             - Jesuits come up a lot in yak gov studies so I'm curious what the prior insights were or where the prior interest in them came from
                 - Grigori: To the best of my knowledge, the first time we touched it, we read this essay, https://engelsbergideas.com/essays/jesuit/ recommended by @vgr#6648. 
                 - The education principles were not covered in the essay. 
-Even though they played a huge role and still are very influential even after abstracting away the religious part. There is something special about the particular interplay between chaos and order, or evolution and structure, or strength and flexibility: providing the necessary structure and then letting evolution to play its part. 
+                  Even though they played a huge role and still are very influential even after abstracting away the religious part. There is something special about the particular interplay between chaos and order, or evolution and structure, or strength and flexibility: providing the necessary structure and then letting evolution to play its part. 
         - Bryan: 
             - Don't have a religious education. Went to a big public school in Detroit. But similar in how classroom was structured. Heavy critical thinking oriented with the end goal of going to college. The main difference is a lack of spiritual focus. Striving to perfection and things of that matter.
             - Schools in america are heavily influenced by jesuits. There main drive is essentially to get to fancy university. Didn't answer the question what are we doing? Why are we learning? 
@@ -1552,14 +1615,14 @@ Even though they played a huge role and still are very influential even after ab
             - The classes were large (30 pupils), but it didn't really matter, because some of the teachers were very good.
             - Teachers were very important, but it is hard to collect the best across all the disciplines. So my school were very strong at physics, math, not so good at literature, but tried to compensate for the weaknesses by focusing on the core.
             - Learning Latin is a good way to learn how any language works. Hard to do when you know only one language you have acquired naturally and it became something like air  (you don't have a proper frame to think about it).
-
+              
     - [[June 2nd, 2023]] Idea Labs vs Echo Chambers
         - The Source: https://web.archive.org/web/20220723220200/https://waitbutwhy.com/2019/10/idea-labs-echo-chambers.html
         - But because it is a simple compare and contrast exercise, one can spend roughly half the time reading about Idea Labs, then skip to Echo Chambers.
         - The Prompts: 
-What are the reasons (or what are the key driving forces) why Idea Labs tend to degrade into Echo Chambers and not vice versa?
-What can be done to slow down, stop or even to reverse the slide?
-Optional, very short responses needed. What does all this have to do with ... ChatGPT?
+          What are the reasons (or what are the key driving forces) why Idea Labs tend to degrade into Echo Chambers and not vice versa?
+          What can be done to slow down, stop or even to reverse the slide?
+          Optional, very short responses needed. What does all this have to do with ... ChatGPT?
             - Does anybody read this at all? Asking just in case.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-rUh37PdDD.png?alt=media&token=97e67e93-2fe5-4c3e-b570-3934df5d4cf4)
                     - Insert jokes about DC below.
@@ -1622,7 +1685,7 @@ Optional, very short responses needed. What does all this have to do with ... Ch
             - 
     - Kropotkin Was No Crackpot
         - Today's reading is __Kropotkin Was No Crackpot__ by Stephen Jay Gould: https://www.marxists.org/subject/science/essays/kropotkin.htm
-Some prompts (provided by ChatGPT):
+          Some prompts (provided by ChatGPT):
             - Kropotkin suggests that cooperation and mutual aid can be applied to human societies and governance structures.
                 - What are the potential benefits and challenges of adopting such an approach?
                 - Can you think of any real-world examples where cooperation has been prioritized over competition in governance?
@@ -1763,23 +1826,23 @@ Some prompts (provided by ChatGPT):
         - Jenna
             - always good to revisit mcluhan 
                 - my rough notes
-media all the way down
-signaling all the way down
-protocols all the way down
-if this then that all the way down
-systems thinking all way down
-everything is connected all the way down
-
-"a system" is bc someone decided on some borders (arbitrary or otherwise)
-
-Liked the bit about what sense organ/s lead at different times
-1. tribal age = ears
-2. literacy age = eyes
-3. print age = portable book which led to privacy in thought
-4. electronic age = started with phone; return to environment w sound and touch, rather than sight
-
-medium is the message
-cf convo about the effect of publishing on Medium v Mirror or Paragraph, let alone LinkedIn
+                  media all the way down
+                  signaling all the way down
+                  protocols all the way down
+                  if this then that all the way down
+                  systems thinking all way down
+                  everything is connected all the way down
+                  
+                  "a system" is bc someone decided on some borders (arbitrary or otherwise)
+                  
+                  Liked the bit about what sense organ/s lead at different times
+                  1. tribal age = ears
+                  2. literacy age = eyes
+                  3. print age = portable book which led to privacy in thought
+                  4. electronic age = started with phone; return to environment w sound and touch, rather than sight
+                  
+                  medium is the message
+                  cf convo about the effect of publishing on Medium v Mirror or Paragraph, let alone LinkedIn
             - media all the way down, protocols all the way down = under the hood, systems thinking... which gets to the mystical... keep going down in layers
             - artificial edges around something and call it a system
             - back then, you only knew what the cool kids in your village are doing... 
@@ -1938,7 +2001,7 @@ cf convo about the effect of publishing on Medium v Mirror or Paragraph, let alo
             - 
     - Fri, Jan 27th, 2023 
         - Selected reading: 1. https://thepsmiths.substack.com/p/review-the-art-of-not-being-governed 
-2. https://maggieappleton.com/ai-dark-forest 
+          2. https://maggieappleton.com/ai-dark-forest 
         - Bryan 
             - there is really no escape — how do you live outside of any surveillance mechanisms? there are really no stateless frontiers anymore
             - stateless crypto stuff is interesting in theory but a little immature 
@@ -2803,21 +2866,21 @@ cf convo about the effect of publishing on Medium v Mirror or Paragraph, let alo
                 - Joel Spolsky on launching a product: don't completely rebuild a product and launch a slightly different version of it
         - Jenna
             - - ktlo is often misidentified, maintenance is uncool eg Why I am Not a Maker piece by Deb Chachra
-https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
-- 2x2... 1 axis needed/notneeded, other axis:  __ __ __ __ __ __ __ __ _?
-- what actually moves the needle
-- work smarter not harder ie wu wei (not really, prolly)
-- yc reading list maintenance
-- event set up in discord
-- yaktweeting events
-- prompt school set up
-- knack set up
-- heat map+newsletter
-- welcome new yaks
-- rewarming existing yaks
-- what is minimum viable community management
-- gender divide, prolly
-- another piece on "glue work" relevant
+              https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
+              - 2x2... 1 axis needed/notneeded, other axis:  __ __ __ __ __ __ __ __ _?
+              - what actually moves the needle
+              - work smarter not harder ie wu wei (not really, prolly)
+              - yc reading list maintenance
+              - event set up in discord
+              - yaktweeting events
+              - prompt school set up
+              - knack set up
+              - heat map+newsletter
+              - welcome new yaks
+              - rewarming existing yaks
+              - what is minimum viable community management
+              - gender divide, prolly
+              - another piece on "glue work" relevant
         - Grigori
             - mistake to think that innovation and KTLO are opposites
             - sometimes people just want to present the dichotomy to make a point
@@ -3663,6 +3726,18 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
         - Rock paper scissors - Hobbesian and Gaian felt very simplistic and perhaps naive, rock paper scissors. what are some non cartoon ways of thinking about evolution 
         - blockchain readings back to this track 
         - historical case studies vs theoretical and conceptual evolution. what are conceptual leaps or technological leaps that create new governance ideas 
+    - Ellen
+        - Long Now clock - people need a reason to go there and having people involved would be good 
+        - building is used as a museaum - old grove forest wood and planks are vertical 
+        - how outsiders understand is what the article may be talks about a lot 
+        - Buried car
+    - Jenna
+        - Star wars - space ship - buried - accidentally fly away 
+        - preserving the impression of something vs preserving the thing 
+        - impressions of japan filtered through Haiwaian Japanese 
+        - They do what they have always done everything else is just cultural apporpriation and interpreation 
+        - How much of the work is compulsory vs paid 
+        - William Gibson - Japanese 
 - ## 2021-22 Tracks
 - ### Nature and Long-Term Thinking
     - **Completed**
@@ -3718,7 +3793,7 @@ https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/3847
                 - Complicated vs complex reminds me of https://www.infoq.com/presentations/Simple-Made-Easy
                 - Looking through a deployment lens:
                     - The success of microservices is entirely due to deployment 
-concerns. Microservices lean into Conway's Law by allowing teams to deploy on independent schedules. The interfaces aren't necessarily better in microservices, but by existing they turn into Schelling Points. People start to rely on them, and so the people who maintain them start to care about not breaking them.
+                      concerns. Microservices lean into Conway's Law by allowing teams to deploy on independent schedules. The interfaces aren't necessarily better in microservices, but by existing they turn into Schelling Points. People start to rely on them, and so the people who maintain them start to care about not breaking them.
                     - Vitalik says we should tend to try to encapsulate complexity, but that grants a lot of political power to the people who can make changes inside the encapsulation boundary.
         - [Biodiversity may thrive through games of rock paper scissors](https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/) 
             - 
@@ -3752,14 +3827,14 @@ concerns. Microservices lean into Conway's Law by allowing teams to deploy on in
                     - other examples 
                 - Matthew
                     - Main thing I noticed is that biodiversity/ecosystems science/thinking starts from a point of dynamism and motion, which turns out to be way more robust than other disciplines which start from stasis and stillness. The other thing I was wondering related to the Primer archetypes. Is there a rock-paper-scissors mechanic between them (e.g. does Gaia beat Muddler?), and are there longer-range cycles of dominance involving the archetypes (e.g. does Citadel dominate in wartime, Gaia in times of prosperity)?
-
-The other thing, based on Venkat's mention of instability, reminds me of something related to John Boyd. Deliberately engineered instability gave F15/16 its agility; can unstable ecosystems be deliberately created for certain situations?
+                      
+                      The other thing, based on Venkat's mention of instability, reminds me of something related to John Boyd. Deliberately engineered instability gave F15/16 its agility; can unstable ecosystems be deliberately created for certain situations?
     - **Queued**
         - [How cells can find their way through the human body](https://phys.org/news/2020-08-cells-human-body.html)
         - [Biodiversity May Thrive Through Games of Rock-Paper-Scissors](https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/)
         - [[Starhawk]], [The Empowerment Manual: A Guide for Collaborative Groups](https://newsociety.com/books/e/the-empowerment-manual?_ga=2.249791683.458793619.1636130017-946958014.1636130017&sitedomain=us)
-» [excerpt](http://nsp-blurbs.s3-website-us-west-2.amazonaws.com/9780865716971_excerpt.pdf)
-» [toc](http://nsp-blurbs.s3-website-us-west-2.amazonaws.com/9780865716971_toc.pdf)
+          » [excerpt](http://nsp-blurbs.s3-website-us-west-2.amazonaws.com/9780865716971_excerpt.pdf)
+          » [toc](http://nsp-blurbs.s3-website-us-west-2.amazonaws.com/9780865716971_toc.pdf)
 - ### Case Studies
     - **Completed**
         - [A Spark of Hope: The Ongoing Lessons of the Zapatista Revolution 25 Years On](https://nacla.org/news/2019/01/18/spark-hope-ongoing-lessons-zapatista-revolution-25-years)
@@ -4305,12 +4380,12 @@ The other thing, based on Venkat's mention of instability, reminds me of somethi
         - {{[[DONE]]}} Underutilized fixed assets created marketplaces 
             - https://kwokchain.com/2020/01/23/underutilized-fixed-assets/
         - {{[[DONE]]}} Netflix Culture Deck. Short version is here.
-https://jobs.netflix.com/culture
+          https://jobs.netflix.com/culture
             - Context: https://hbr.org/2014/01/how-netflix-reinvented-hr
-https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
-https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
+              https://www.netflixinvestor.com/ir-overview/long-term-view/default.aspx
+              https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/
         - An interesting case study about transitioning from a hierarchy to something else 
-https://jorgdesign.springeropen.com/articles/10.1186/s41469-017-0026-x
+          https://jorgdesign.springeropen.com/articles/10.1186/s41469-017-0026-x
         - {{[[DONE]]}} [Frederic Laloux points out the fragility of platforms. It is not the first time he is talking about it, of course.](https://www.rolandberger.com/en/Point-of-View/Frederic-Laloux-on-what-lies-ahead-for-business.html)
             - "There are not that many leaders yet who have internalized this new paradigm and can adopt the coherent set of management practices it calls for. But even when you have such a leader, there often remains a risk one level up: the board of directors. It's happened with more than one of these new organizations that the board at some point pulled the plug: "This is all working really well, but this is all a mystery to us. Let's put in a CEO that will do that top-down thing we understand and trust."
             - [[Frederic Laloux]]
@@ -4322,55 +4397,55 @@ https://jorgdesign.springeropen.com/articles/10.1186/s41469-017-0026-x
         - {{[[DONE]]}}  3. Do you need a business ecosystem?
             - https://www.bcg.com/ru-ru/publications/2019/do-you-need-business-ecosystem
             - "The concept of business ecosystems is not new. Indeed, the large fairs in many medieval cities at which merchants came together and exchanged goods for a given period of time each year can be regarded as early forms of ecosystems. Similarly, as early as the fourteenth century, the city of Prato, Italy, had established a textile industry as an ecosystem of independent craftsmen specializing in weaving, carding, spinning, fulling, and dyeing, and orchestrated by powerful wool merchants that acted as the trading hubs of the system and provided critical functions of production coordination, quality control, and even financing." 
-It is thought provoking and invites a reading about medieval marketplaces.
-The article above is a part of a series, that include:
+              It is thought provoking and invites a reading about medieval marketplaces.
+              The article above is a part of a series, that include:
                 - https://www.bcg.com/publications/2020/why-do-most-business-ecosystems-fail
                 - https://www.bcg.com/publications/2020/how-do-you-design-a-business-ecosystem
                 - https://www.bcg.com/en-us/publications/2019/emerging-art-ecosystem-management
                 - [McKinsey is also interested](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/new-evidence-for-the-power-of-digital-platforms)
         - {{[[DONE]]}} 4. An Interesting Read On The Fifth Generation Management
-https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
+          https://steveblank.com/2020/09/24/technology-innovation-and-modern-war-week-1/
             - ![](https://steveblank.files.wordpress.com/2020/09/weapons-systems.jpg?w=468&h=238)
         - {{[[DONE]]}} 5. What is the effect of interactivity on platform design and performance 
-https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
+          https://jefftowson.com/wp-content/uploads/2020/08/Interactive-Ecommerce-Whitepaper-2020.08.10.pdf
         - {{[[DONE]]}} 6. This one is on Medieval Guilds. It is free and interesting
-https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period
-And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat. 
+          https://www.researchgate.net/publication/231792017_Guilds_Reappraised_Italy_in_the_Early_Modern_Period
+          And the author (Luca Mocarelli) looks like a fun person to invite as a (surprise) guest to our group chat. 
             - Another short reading on medieval guilds https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/
-or something similar
+              or something similar
         - {{[[DONE]]}} 7. New: https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8#Sec22
         - {{[[TODO]]}} 8. Finally, there are some anecdotal evidence on what's going on in Asia, which is very interesting.
             - https://www.notion.so/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b
         - 9. About Trust and Common Ground.
-Given that lack of close connection and established trust, it’s also harder to develop the kind of common ground that facilitates productive interaction. The issues that people care about, the technical languages they speak, their modes of problem-solving, and their goals tend to diverge greatly when they work in different locations, specialize in different domains, and are responsible for different outcomes. It’s particularly challenging to bridge the gaps in understanding if they don’t know many people in common. The less employees know about each other’s motives and knowledge bases, research shows, the less inclined they are to share knowledge with each other. This can lead to more mistakes, slower project completion, and, in many cases, less innovative outcomes.
+          Given that lack of close connection and established trust, it’s also harder to develop the kind of common ground that facilitates productive interaction. The issues that people care about, the technical languages they speak, their modes of problem-solving, and their goals tend to diverge greatly when they work in different locations, specialize in different domains, and are responsible for different outcomes. It’s particularly challenging to bridge the gaps in understanding if they don’t know many people in common. The less employees know about each other’s motives and knowledge bases, research shows, the less inclined they are to share knowledge with each other. This can lead to more mistakes, slower project completion, and, in many cases, less innovative outcomes.
             - {{[[DONE]]}} https://sloanreview.mit.edu/article/picking-the-right-approach-to-digital-collaboration
         - {{[[DONE]]}} 10. A read on Valve recommended by [[Oliver King]]
-Hey Grigori, I was inspired by our chat re: GitLab and wanted to offer you the Valve employee handbook -- they're completely decentralized and self-organizing:
-http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf
-And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-organizing-utopia-6d32d329ecdb 
+          Hey Grigori, I was inspired by our chat re: GitLab and wanted to offer you the Valve employee handbook -- they're completely decentralized and self-organizing:
+          http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf
+          And also, this: https://medium.com/dunia-media/the-nightmare-of-valves-self-organizing-utopia-6d32d329ecdb 
         - {{[[DONE]]}} 11.  Tobi Lutke -- Gaming
-https://www.theobservereffect.org/tobi.html
+          https://www.theobservereffect.org/tobi.html
         - {{[[DONE]]}} 12. The plan for the chat this coming Friday --
-
-To keep rhythm and set the stage for discussion: a case study of organizational first principles. Please read the first article, feel free to skim the second for more color:
-
-1. https://corporate-rebels.com/morning-star/
-2. https://hbr.org/2011/12/first-lets-fire-all-the-managers
-
-Prompt:
-- In an ideal world, how would you like to be interacting with the Yak Collective in two years?
-- Are there any first principles you think we should be operating from?
-- As far as the meta goes, what do you think our priorities should be? What are blockers?
+          
+          To keep rhythm and set the stage for discussion: a case study of organizational first principles. Please read the first article, feel free to skim the second for more color:
+          
+          1. https://corporate-rebels.com/morning-star/
+          2. https://hbr.org/2011/12/first-lets-fire-all-the-managers
+          
+          Prompt:
+          - In an ideal world, how would you like to be interacting with the Yak Collective in two years?
+          - Are there any first principles you think we should be operating from?
+          - As far as the meta goes, what do you think our priorities should be? What are blockers?
         - {{[[DONE]]}} 13. A surprise read:
-Today read may come as a little surprise. It is the most recent annual letter to shareholders, by Jeff Bezos.
-https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders
-The prompt questions were:
+          Today read may come as a little surprise. It is the most recent annual letter to shareholders, by Jeff Bezos.
+          https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders
+          The prompt questions were:
             - How can we create value for people involved in The Yak Collective, potential clients, society at large?
             - Have we created something -- an idea, a process, a memorable phrase, a ritual, an artifact, ... , a bot, -- that can have lasting power, i.e. something that we will be able to refer to, say, 2, 5, 10 or 20 years from now?
     - **General Track 2020-21 archive**
         - [Seb Paquet Scene-Hacking](https://www.slideshare.net/vgururao/scene-hacking)
             - {{[[DONE]]}} [Geeks, MOPs, and sociopaths in subculture evolution | Meaningness](https://meaningness.com/geeks-mops-sociopaths) 
-How muggles and sociopaths invade and undermine creative subcultures; and how to stop them.
+              How muggles and sociopaths invade and undermine creative subcultures; and how to stop them.
             - 
         - {{[[DONE]]}} [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what) 
         - {{[[DONE]]}} [The Limits of Peer Production](https://fredturner.stanford.edu/wp-content/uploads/Kreiss-Finn-Turner-Limits-of-Peer-Production-NMS-3-111.pdf)
@@ -4409,7 +4484,7 @@ How muggles and sociopaths invade and undermine creative subcultures; and how to
         - {{[[DONE]]}} [[Anarchists in China]]
         - {{[[DONE]]}} [Intro to Kropotkin](http://www.ephemerajournal.org/contribution/peter-kropotkin%E2%80%99s-anarchist-vision-organization)
             - "An English child boxes one on one, not in a group as we Russians like to spar.”
-Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
+              Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) https://www.marxists.org/subject/science/essays/kropotkin.htm
             - Wikipedia on Mutual Aid: https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
         - {{[[DONE]]}} [Hoe Culture](https://srconstantin.wordpress.com/2017/09/13/hoe-cultures-a-type-of-non-patriarchal-society/)
         - {{[[DONE]]}} Ernest junger
@@ -4424,19 +4499,19 @@ Another good read on Kropotkin by Stephen J. Gould (added by [[Grigori Milov]]) 
         - [Albert O. Hirschman](https://en.wikipedia.org/wiki/Albert_O._Hirschman), [Exit, Voice, and Loyalty](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty)
         - [Social Change Ecosystem Map](https://buildingmovement.org/our-work/movement-building/social-change-ecosystem-map/) for the idea of roles, guilds within guilds
             - > The Social Change Ecosystem Map - Definition of Roles
-__Weavers:__ I see the through-lines of connectivity between people, places, organizations, ideas, and movements.
-__Experimenters:__ I innovate, pioneer, and invent. I take risks and course-correct as needed.
-Frontline Responders: I address community crises by marshaling and organizing resources,
-networks, and messages.
-__Visionaries:__ I imagine and generate our boldest possibilities, hopes and dreams, and remind us of our direction.
-__Builders:__ I develop, organize, and implement ideas, practices, people, and resources in service of a collective vision.
-__Caregivers:__ I nurture and nourish the people around me by creating and sustaining a community of care, joy, and connection.
-__Disruptors:__ I take uncomfortable and risky actions to shake up the status quo, to raise awareness, and to build power.
-__Healers:__ I recognize and tend to the generational and current traumas caused by oppressive
-systems, institutions, policies, and practices.
-__Storytellers:__ I craft and share our community stories, cultures, experiences, histories, and
-possibilities through art, music, media, and movement.
-__Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernment and wisdom
+              __Weavers:__ I see the through-lines of connectivity between people, places, organizations, ideas, and movements.
+              __Experimenters:__ I innovate, pioneer, and invent. I take risks and course-correct as needed.
+              Frontline Responders: I address community crises by marshaling and organizing resources,
+              networks, and messages.
+              __Visionaries:__ I imagine and generate our boldest possibilities, hopes and dreams, and remind us of our direction.
+              __Builders:__ I develop, organize, and implement ideas, practices, people, and resources in service of a collective vision.
+              __Caregivers:__ I nurture and nourish the people around me by creating and sustaining a community of care, joy, and connection.
+              __Disruptors:__ I take uncomfortable and risky actions to shake up the status quo, to raise awareness, and to build power.
+              __Healers:__ I recognize and tend to the generational and current traumas caused by oppressive
+              systems, institutions, policies, and practices.
+              __Storytellers:__ I craft and share our community stories, cultures, experiences, histories, and
+              possibilities through art, music, media, and movement.
+              __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernment and wisdom
             - ![Ecosystem Map 2020](https://buildingmovement.org/wp-content/uploads/2020/10/Ecosystem-Map-2020.png)
             - proposed by [[Jenna]]
         - Suez case study
@@ -4468,11 +4543,11 @@ __Guides:__ I teach, counsel, and advise, using my gifts of well-earned discernm
             - https://fabricegrinda.com/transcript-of-all-things-marketplaces/
         - Backup resources (not short reads, not free, or both)
             - There is also a lot of literature on guilds behind the paywalls, including 
-1. https://www.jstor.org/stable/1360368?seq=1
-2. https://global.oup.com/academic/product/the-art-of-solidarity-in-the-middle-ages-9780198201571?cc=us&lang=en&
-3. https://yalebooks.yale.edu/book/9780300169072/markets-and-marketplaces-medieval-italy-c-1100-c-1440
+              1. https://www.jstor.org/stable/1360368?seq=1
+              2. https://global.oup.com/academic/product/the-art-of-solidarity-in-the-middle-ages-9780198201571?cc=us&lang=en&
+              3. https://yalebooks.yale.edu/book/9780300169072/markets-and-marketplaces-medieval-italy-c-1100-c-1440
             - Len Rachitsky recently had an excellent 4 part series on modern platforms
-
+              
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-9ee
                 - https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911

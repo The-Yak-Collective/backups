@@ -58,7 +58,7 @@
                 - Quote: "Information technology obviates #queuing: patients call in advance, check in at kiosks or by smartphone, and receive printed directions to examination rooms, aligned in staggered positions along corridors to make #wayfinding signage visible at a distance with minimal supervision" https://archpaper.com/2015/10/a-prescription-for-place/
             - [[Acuity Adaptable]]: bring medical care to patient's dedicated [[room of one's own]]
                 - Quote:  "realistic scenario calls for acuity-adaptable rooms to rotate between Intermediate Care and Medical/Surgical unit; instead of doubling a room’s size, the most significant of these requirements would be an increase in minimum clear floor area (20sf), and medical gas outlets" 
-https://www.high-profile.com/acuity-adaptable-rooms-what-they-are-and-why-hospitals-need-them/
+                  https://www.high-profile.com/acuity-adaptable-rooms-what-they-are-and-why-hospitals-need-them/
             - #Control environment for #health AND #well-being
             - Budget intentionally for #family inside #bubble
             - [[Transitional space]] for entrance/exit

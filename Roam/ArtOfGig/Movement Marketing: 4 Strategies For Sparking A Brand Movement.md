@@ -52,7 +52,7 @@
                 - Are the people behind the movement Yaks or their clients or both
             - What are the things that we fundamentally believe that may be a movement?
     - [[Grigori Milov]] I recommended this article because of the Action Steps. The point is that everything starts with discovery phase. This is probably one thing we should strive to be good at (as well as learning, etc. )
-So what tools, what capabilities do we need to become good at Discovery (as opposed to Broadcasting)?
+      So what tools, what capabilities do we need to become good at Discovery (as opposed to Broadcasting)?
     - P. S. I would be careful copying **copyrighted** material into the public graph. 
     - P. P. S. this is one of the most overlooked "fundamentals" : **don't do anything that can potentially be illegal. ** Not as trivial as it might seem. Especially in case of publishing/broadcasting. 
     - Hence -- the issue of governance.

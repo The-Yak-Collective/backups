@@ -15,15 +15,15 @@
         - Position YC in innovation consulting
     - **Launch success:**
         - {{[[TODO]]}} what success looks like?
-`- webpage visits?
-- downloads?
-- new yaks
-- clients' conversations
-bringing clients is great, but think of leading indicators that are faster and easy to measure.`
-
+          `- webpage visits?
+          - downloads?
+          - new yaks
+          - clients' conversations
+          bringing clients is great, but think of leading indicators that are faster and easy to measure.`
+          
     - **Audience**
         - {{[[TODO]]}} Who's the target audience?
-`define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`
+          `define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`
         - CEOs
             - [[Hugo Macedo]]  they are anxious to see the return on innovation, they are observing the symptoms of the problems (slow, misalignment, underwhelming, no business impact)
         - Head of Innovation
@@ -35,13 +35,13 @@ bringing clients is great, but think of leading indicators that are faster and e
             - {{[[TODO]]}} can we get testimonials to validate the value?
                 - Who can vouch for the project outside YC - can we share a pre-launch version so we can have a recommendation?
         - {{[[TODO]]}} Project title - does it need to be reviewed?
-`does it have the right balance of being clear but attractive/inspiring? ``
+          `does it have the right balance of being clear but attractive/inspiring? ``
     - **Lauch strategy**
         - {{[[TODO]]}} full-launch
         - {{[[TODO]]}} teaser/early-access
-`one idea to get an initial interest and testimonials is to provide exclusive pre-launch access to key target individuals in exchange for a testimonial`
+          `one idea to get an initial interest and testimonials is to provide exclusive pre-launch access to key target individuals in exchange for a testimonial`
         - {{[[TODO]]}} release as series
-`launched as a sequence of periodic releases`
+          `launched as a sequence of periodic releases`
         - **Deliverales**
             - {{[[TODO]]}} a series of articles
             - {{[[TODO]]}} an ebook

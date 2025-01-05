@@ -21,14 +21,14 @@
         - Priorities
             - Important vs. Urgent
                 - Important - [[Foundations - Positioning]]
-all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning
+                  all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning
                 - Urgent - [[Showcase Projects Launch]]
-how do we launch showcase projects to maximize target visibility and engagement
+                  how do we launch showcase projects to maximize target visibility and engagement
                 - other 
                     - [[Marketing Channels]]
-where and how do we communicate and engage with the target audience
+                      where and how do we communicate and engage with the target audience
                     - [[Marketing Resources]]
-artifacts that we need or have that will be the base of our communication - what and how to build them (inc. Prospectus ) 
+                      artifacts that we need or have that will be the base of our communication - what and how to build them (inc. Prospectus ) 
     - ### Minutes
         - [[Hugo Macedo]] 
             - What's the CMO function - pragmatic aproach on identifing the needs and grow from there...
@@ -59,7 +59,7 @@ artifacts that we need or have that will be the base of our communication - what
         - [[Thomas Hollands]]
             - dif project have dif target 
             - focus on fundamentals
-But what are the fundamentals in our very unusual case? [[Grigori Milov]]
+              But what are the fundamentals in our very unusual case? [[Grigori Milov]]
         - [[Sachin Benny]]
             - Understanding the Innovation Consulting Project target launch experience
             - how do we measure?

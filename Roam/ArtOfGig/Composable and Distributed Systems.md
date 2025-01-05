@@ -1,4 +1,4 @@
-- Created as a broadening of the [[Blockchain Ops Roadmap]]. This was the  Distributed Systems Study Group until September 2024, at which point it became the VADS group has a broader scope, and covers:
+- Created as a broadening of the [[Blockchain Ops Roadmap]]. This was the  Distributed Systems Study Group until September 2024, at which point it became the CADS group has a broader scope, and covers:
     - Distributed computing (technical)
         - Including Blockchain technologies
     - Distributed computing (social)
@@ -18,12 +18,12 @@
                 - Algos meant for computer v algos suited to be applied in human contexts
                 - Ben
                     - 1) 1 to 1 vs. groups (A direct encrypted message (maybe PGP) vs. Mastodon /
-cwtch or Element)
-
+                      cwtch or Element)
+                      
                     - 2) Global State Replication vs. Fractured State (Paxos vs. Bittorrent, ZeroNet)
-
+                      
                     - 3) Insitituional Integrataion vs Economic Integration  (Google Internal
-Paxos-like systems vs Bitcoin and Ethereum)
+                      Paxos-like systems vs Bitcoin and Ethereum)
                 - Commits
                     - concentric circles of proxemity
                         - P2P
@@ -32,22 +32,22 @@ Paxos-like systems vs Bitcoin and Ethereum)
                         - Edge Computing
                 - Jenna
                     - islands on the distributed systems map 
-
+                      
                     - self-organizing systems
-
+                      
                     - participatory management
                     - decentralized governance
-
+                      
                     - remote work
-
+                      
                     - __really more a venn diagram thing for me__
                 - Maier
                     - island of systems pretending to be distributed
-continent of total mess with random waves
-sea of reforming systems
-land of the stable systems with only local behavior
-ocean of meme storms and basic stable structure
-but consider - is what is being sent data or programs?
+                      continent of total mess with random waves
+                      sea of reforming systems
+                      land of the stable systems with only local behavior
+                      ocean of meme storms and basic stable structure
+                      but consider - is what is being sent data or programs?
                 - Venkatesh
                     - Realtime / soft-realtime (north south axis)
                     - Genisis: Top-down design v emergent design
@@ -596,8 +596,8 @@ but consider - is what is being sent data or programs?
                     - in terms of protocol, two things
                         - 1. "Fids can be transferred between addresses, though the FIR ensures that an address owns only one fid at a time."  -- I can't work out what this means
                         - 2. "If the custody address does not cancel the transfer within three days, the recovery address can complete the transfer."
-- What is the notification system for this?
-- Wouldn't it be better to say "if the recovery address does no complete the transfer within three days, then the transfer fails."?
+                          - What is the notification system for this?
+                          - Wouldn't it be better to say "if the recovery address does no complete the transfer within three days, then the transfer fails."?
                 - [[Grigori Milov]]
                     - governance issue - how the protocol can be changed - anyone can propose and then team decides
                     - evolution of twitter - importance to notice the evolutionary path of twitter. Farcaster seems at the starting point of twitter
@@ -1213,7 +1213,7 @@ but consider - is what is being sent data or programs?
                     - Cloudflare being the 2nd largest infrastructure company makes this news worse given one can expect better standards from the blue-chip companies
                     - The article seems like an exercise in PR as supposed to making commitments to not let repeat actors be able to attack again
                     - Cloudflare is perhaps not being hard on itself as it should be given all the information is not easily accessible to the public. The public scrutiny could make the efforts more robust against such future attacks
-
+                      
                 - [[Nathan Acks]]
                     - Being in charge of defensive systems is a challenge and this article does a good job of explaining the post-mortem steps
                     - Okta’s report seems much more perform-atory and much less informative.

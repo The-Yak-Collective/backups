@@ -11,17 +11,17 @@
     - Illustrator needs on [[Future Frontiers]] project
     - Other needs?
 - - Cells list - Active
-    - Projects
-        - Final Frontier
-        - etc
-    - Infrastructure
-    - Newsletter
-    - Website
-- Cells - Aspirational
-    - Yak coin
-- Cells - Wishlist
-    - Welcome Committee
-    - Production Cell
-    - Code of Conduct
-    - Internal Volunteer Opportunites
-    - Things We Need
+      - Projects
+          - Final Frontier
+          - etc
+      - Infrastructure
+      - Newsletter
+      - Website
+  - Cells - Aspirational
+      - Yak coin
+  - Cells - Wishlist
+      - Welcome Committee
+      - Production Cell
+      - Code of Conduct
+      - Internal Volunteer Opportunites
+      - Things We Need

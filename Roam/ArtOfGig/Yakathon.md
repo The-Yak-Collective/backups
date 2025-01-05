@@ -127,10 +127,10 @@
         - %% __propose a channel in the create-destroy-channels, and once created, an admin will create a way for people to subscribe to the project using the subscribe-projects channel.__
     - Launch Deliverable:: {{or: Deck | Text-Heavy Website Section | Image-Heavy Website Section | New Type __specify with a short name__ }}
         - %% __This is what will launch on launch date. 
-Deck option is like the__ [[Don’t Waste the Reboot]] __project. 
-Text-heavy website section is like the__ [[Astonishing__ Stories]] __project. 
-Image-heavy website section is like__ [[Future Frontiers]]. 
-Consult [[Jenna]] for details
+          Deck option is like the__ [[Don’t Waste the Reboot]] __project. 
+          Text-heavy website section is like the__ [[Astonishing__ Stories]] __project. 
+          Image-heavy website section is like__ [[Future Frontiers]]. 
+          Consult [[Jenna]] for details
     - **Financial Structure**: Internal Project | Client Project
         - %% Delete the one that doesn't apply. Volunteer projects are eligible to ask for small grants (typically a few hundred dollars at most) from any [[YC Fiat Fund]]. Client projects are funded by a client. Check out [[Client Projects]] for details.
     - **Comments** %% __Free-form comments. Limit to 1 paragraph. If you need to say more, use your project's own page.__

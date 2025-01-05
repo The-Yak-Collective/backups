@@ -18,9 +18,10 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
         - `gid` is the Google Drive document ID for the Google Slides you want to embed. The `gid` is the long random string immediately prior to `/edit` in the URL for your document (not including the leading or trailing `/`).
     - Example usage:
         - ```html
-{% include widget-google-slides.html
-   gid="1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI"
-%}```
+          {% include widget-google-slides.html
+             gid="1OfBuSq4SImE1Gq2EaAGCAlkwC8LZRCWx-7O_VOHJ5TI"
+          %}
+          ```
     - See [Don't Waste the Reboot](https://www.yakcollective.org/projects/dont-waste-the-reboot/) and [The New Old Home](https://www.yakcollective.org/projects/the-new-old-home/) for examples of this widget in action.
 # widget-image
     - Insert an image in a "breakout box". This is provided as a fancier, more versatile alternative to just writing `![My alt text.](/path/to/image.jpg)` in Markdown; however, be aware that images included in this fashion will __not__ show up in site RSS feeds!
@@ -32,12 +33,13 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
         - `caption` specifies a caption, and is often used to provide image credits. Markdown is permitted here.
     - Example usage:
         - ```html
-{% include widget-image.html
-   layout="left"
-   image="/projects/astonishing-stories/wholeness-in-a-timeless-activity.jpg"
-   alt="Wholeness in a Timeless Activity"
-   caption="Illustration by [Justice](/members/thelot-justice/)."
-%}```
+          {% include widget-image.html
+             layout="left"
+             image="/projects/astonishing-stories/wholeness-in-a-timeless-activity.jpg"
+             alt="Wholeness in a Timeless Activity"
+             caption="Illustration by [Justice](/members/thelot-justice/)."
+          %}
+          ```
     - See __Astonishing Stories__ project (sub)pages (such as ["Wholeness in a Timeless Activity"](https://www.yakcollective.org/projects/astonishing-stories/wholeness-in-a-timeless-activity/)) for examples of this widget in action.
 # widget-member-card
     - Member cards can be used either as links to the actual member page or as containers of member information. In general you should In the first case.
@@ -47,9 +49,10 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
         - `standalone` is a [truthy/falsy](https://shopify.github.io/liquid/basics/truthy-and-falsy/) parameter indicating whether the card should be presented as a fully-functional container of member information (true), or as a link to a member page (false). Treated as falsy if omitted, which is almost always what you want.
     - Example usage:
         - ```html
-{% include widget-member-card.html
-   member="rao-venkatesh"
-%}```
+          {% include widget-member-card.html
+             member="rao-venkatesh"
+          %}
+          ```
     - Member cards can be found on many pages throughout the Yak Collective website; for example, start with the [Members](https://www.yakcollective.org/members/) page itself to see cards in their "default" mode, and then click through to any member page to see a card in `standalone` mode.
 # widget-project-box
     - Project boxes display project summary information, similar to member cards. As with member cards, they can be presented either as links to project pages or plain information containers, but unlike member cards you can't specify which to use -- project boxes are links if the project has been published, and simple containers if the project is unpublished.
@@ -59,15 +62,17 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
         - `hide_published` is a [truthy/falsy](https://shopify.github.io/liquid/basics/truthy-and-falsy/) parameter; when truthy, it _hides_ the final "published" timestamp line. Treated as falsy if omitted, which is almost always what you want.
     - Example usage:
         - ```html
-{% include widget-project-box.html
-   project="future-frontiers"
-%}```
+          {% include widget-project-box.html
+             project="future-frontiers"
+          %}
+          ```
     - Project boxes can be found on many pages throughout the Yak Collective website. For example, the [Projects](https://www.yakcollective.org/projects/) displays a list of project boxes in their "default" mode, while the [Now](https://www.yakcollective.org/now/) page displays project boxes in the (unpublished) "container" mode with the timestamp line hidden.
 # widget-toc
     - A widget that generates a "table of contents" from document headings. It has no configuration, and can _only_ be included on Markdown-formatted pages. If you are including this widget, it must come either immediately after the opening header line (`# My Page Title`) __or__ be the _first_ thing on the page if no leading header is being used.
     - Example usage:
         - ```html
-{% include widget-toc.md %}```
+          {% include widget-toc.md %}
+          ```
     - See the [About](https://www.yakcollective.org/about/) page for an example of this `widget-toc` in action.
 # widget-post-list
     - A widget that generates a list of __posts__, organized by month and year. It can __only__ be included on Markdown-formatted pages.
@@ -79,19 +84,21 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
         - `category` allows you to filter posts by category. Currently only `newsletters` and `writings` are valid post categories.
     - Example usage:
         - ```html
-{% include widget-post-list.md
-   init_header_level=2
-   show_author=true
-   category="writings"
-%}```
+          {% include widget-post-list.md
+             init_header_level=2
+             show_author=true
+             category="writings"
+          %}
+          ```
     - The canonical post list is the [Writings](https://www.yakcollective.org/writings/) page, but it is also included on some individual member pages.
 # widget-project-header
     - The widget that's used to display a project header. It's really meant to be included as the first line of content for a project, but if you want you can include it anywhere by specifying the optional `project` parameter (which should be a valid project ID). This parameter is not necessary on the project's main page.
     - Example usage:
         - ```html
-{% include widget-project-header.html
-   project="dont-waste-the-reboot"
-%}```
+          {% include widget-project-header.html
+             project="dont-waste-the-reboot"
+          %}
+          ```
     - See [Don't Waste the Reboot](https://www.yakcollective.org/projects/dont-waste-the-reboot/), [The New Old Home](https://www.yakcollective.org/projects/the-new-old-home/), [Astonishing Stories](https://www.yakcollective.org/projects/astonishing-stories/), and [Future Frontiers](https://www.yakcollective.org/projects/future-frontiers/) for examples of this widget in action.
 # widget-project-page-list
     - Include a grid of project page boxes for all _displayed_ pages associated with a given project. A "displayed" project page is one for which the `hidden` front matter attribute is either false or unset; see `projects/template-project/template-page.md` for more details.
@@ -99,9 +106,10 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
     - This widget is designed to be included on a project's main page, and requires no parameters in this case. In all other cases, the `project` parameter should be included and set to a valid project ID.
     - Example usage:
         - ```html
-{% include widget-project-page-list.html
-   project="astonishing-stories"
-%}```
+          {% include widget-project-page-list.html
+             project="astonishing-stories"
+          %}
+          ```
     - See [Astonishing Stories](https://www.yakcollective.org/projects/astonishing-stories/) for an example of this widget in action.
 # widget-project-slide-deck
     - Create [an "Idle Words" style "infinity" slide deck](https://idlewords.com/talks/). This is accomplished by chaining together instances of `widget-slide`, with slide data drawn from project slide files (see `projects/template-project/project-slide.md`).
@@ -120,19 +128,20 @@ This page documents the "widgets" (special [Jekyll includes](https://jekyllrb.co
         - `table_of_contents_hero_caption` specifies the image caption for the table of contents slide (generally used for image credits).
     - Example usage:
         - ```html
-{% include widget-project-slide-deck.html
-   project="future-frontiers"
-   hero_position="left"
-   slide_separator=true
-   slide_align="top"
-   title_links="internal"
-   show_dates=true
-   collapse_slides=true
-   table_of_contents=true
-   table_of_contents_hero="/projects/future-frontiers/table-of-contents.jpg"
-   table_of_contents_hero_description="Table of contents"
-   table_of_contents_hero_caption="[Venkatesh Rao](/members/rao-venkatesh)"
-%}```
+          {% include widget-project-slide-deck.html
+             project="future-frontiers"
+             hero_position="left"
+             slide_separator=true
+             slide_align="top"
+             title_links="internal"
+             show_dates=true
+             collapse_slides=true
+             table_of_contents=true
+             table_of_contents_hero="/projects/future-frontiers/table-of-contents.jpg"
+             table_of_contents_hero_description="Table of contents"
+             table_of_contents_hero_caption="[Venkatesh Rao](/members/rao-venkatesh)"
+          %}
+          ```
     - See [Future Frontiers](https://www.yakcollective.org/projects/future-frontiers/) for an example of this widget in action.
 # widget-slide
     - An advanced, lower-level widget used for producing slide-like layouts. The main reason this is considered to be "advanced" is that you will generally want to pass in either multi-line Markdown or straight HTML for the `slide_content`, which necessitates the use of [Liquid's "capture" operator](https://shopify.github.io/liquid/tags/variable/#capture). It __requires__ only a single parameter:

@@ -28,9 +28,9 @@
     - There's also the OG Enlightenment era republic of letters. See folks like Humboldt. 
 - 
 - four thieves vinegar: "Hello Friend-
-We are between versions on the MicroLab, and we are hoping to have version 4.0 ready for you soon.  In the mean time, keep checking back, and take care of each other.
-
-	-FTVC"
+  We are between versions on the MicroLab, and we are hoping to have version 4.0 ready for you soon.  In the mean time, keep checking back, and take care of each other.
+  
+  	-FTVC"
 - magic correspondence course in "bedknobs and broomsticks". teacher was just ripping pages out of a book. student became a witch...[[Maier Fenster]]
 - 
 - I'm finding I'm interested in models that don't include **faculty** eg Academy of Sciences, Royal Society aka The Royal Society of London for Improving Natural Knowledge #[[Jenna]]

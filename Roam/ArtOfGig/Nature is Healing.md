@@ -105,8 +105,8 @@
     - [[James Crook]]
         - **Action Plan:** I'd like to explore how to turn a company from optimising for $$$ profit to optimising for something subtler - and healthier - for its people and the planet.  Covid is an opportunity for companies to shift in that way, without losing their investors.  I'm thinking along the lines of a 2 slide module 'What companies should learn from immunology'.
     - [[Rok Pregelj]]
-
-
+      
+      
         - I was impressed by the idea of The Second Domistication of plants and animals. Disrupting the cow/animal as protein source and instead domesticating microorganisms as the base for fermenting proteins/foods of the future. 
         - 
         - I like some of the thoughts posed in RethinkX's "rethinking food and agriculture for 2020-30. Especially with COVID probably coming from caged animals is a big shout out to the new normals of new protein.

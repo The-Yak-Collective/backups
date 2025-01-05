@@ -1,6 +1,6 @@
 - About:: [[February 9th, 2021]] Crowdcast Watch Party
-[[Kim Stanley Robinson]] interviewed by [[Robin Sloan]] about [[Ministry for the Future]]
-Tue, Feb 9, 2021 10:00 PM EST
+  [[Kim Stanley Robinson]] interviewed by [[Robin Sloan]] about [[Ministry for the Future]]
+  Tue, Feb 9, 2021 10:00 PM EST
 - SIGNUP LINK:: https://www.crowdcast.io/e/ksrobinson
 -  Page Wrangler: [[Jenna]]
     - Additional Page Wranglers: [[Oliver King]] | `[[Fname Lname]]`
@@ -17,7 +17,7 @@ Tue, Feb 9, 2021 10:00 PM EST
 - ---
 - 10:00 ET
     - #[[Jenna]] stream firing up now 22:04. 
-w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
+      w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
     - 
     - 
     - 
@@ -35,7 +35,7 @@ w[[Oliver King]] [[Alex Wagner]] [[Jordan Peacock]]
             - "dreaded expository lump" "Dump until you die"
             - cf [[Red Mars]]
         - "[heteroglossia](https://en.wikipedia.org/wiki/Heteroglossia)" (check spelling) @10:26 many voiced novels
-[[2312]] [[New York 2040]]
+          [[2312]] [[New York 2040]]
     - #[[Oliver King]]
         - "Education and entertainment is a false dichotomy"
         - "How do you store the things you learn?" -- IT SHOULD BE ROAM!

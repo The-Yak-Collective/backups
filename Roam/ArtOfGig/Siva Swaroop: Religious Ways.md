@@ -2,7 +2,7 @@
 - ---------------COMMENTS BY OTHER YAKs  -------------
 - NOTE: Please understand that this is a sensitive topic to explore without any attachments to personal experiences, own biases. I will try to be as neutral as possible in framing my ideas.
 - - YOU CAN PUT YOUR COMMENT HERE AND THEN TAG YOURSELF SO I KNOW WHO YOU ARE 
-- EVERYTHING BELOW THIS SECTION IS STUFF I PUT DOWN MYSELF 
+  - EVERYTHING BELOW THIS SECTION IS STUFF I PUT DOWN MYSELF 
     - Comment 1: [[Jay Kalawar]]
         - On Religion Ways 2040 that dove tails into what happened at Zoom call with Kernel May 26th 2020  
         - Sharing some thoughts / speculative note
@@ -30,11 +30,11 @@
     - College of Cardinals elects next Pope for his exceptional abilities to interpret brain imaging data
     - Major Wall Street firms prescribe individualized and timely prayer routines to traders to avoid fatigue and stress
     - Truck driver rams into busy neighborhood Café in downtown Chicago:
-Claims his unwanted meditative state is the cause of fatal accident 
+      Claims his unwanted meditative state is the cause of fatal accident 
     - Micro Religions: The last decade is witness to formation of a new wave of virtual micro religious groups with a shared understanding of super natural. They are open to other members with similar ritual response index. 
     - Role of Religion in Society: Nobel Prize winning Neurotheologist claims aim of Science is not to disprove Faith
     - More Atheists demonstrate signs of Faith during natural
-calamities and life uncertainties: New brain mapping study reveals true religious identities
+      calamities and life uncertainties: New brain mapping study reveals true religious identities
     - Brainwash Forecast: A scan will reveal how a person is being influenced by propaganda
     - Family donates their brain map data to a local Church.
     - More people multi-religious than previously thought : New Pew research
@@ -78,15 +78,15 @@ calamities and life uncertainties: New brain mapping study reveals true religiou
         - Religious belief is an exaptation a spandrel that turned out to be useful and so was subsequently selected for by evolutionary forces
         - Strongly believe there is a certain limitations to what we perceive as reality and there is a strong external authority above all the reality that we currently perceive. Religious activities are mainly a way of moving away from the current reality and move in to another reality (which we do not currently perceive with 5 senses) and communicate with this external authority
         - Attachment theory (Bowlby, 1969) proposes that a powerful affectional bond forms between an infant and the
-infant’s primary caretakers, usually the parents, during the
-early stages of life. The primary purpose of this bond is for
-maintaining security and safety for the vulnerable child.
-Bowlby (1979) theorized that the child forms internal working models (IWM) of both self and others that reflect the
-degree of security or insecurity experienced in the parent–
-child bond. He further theorized that the characteristics of
-those bonds and subsequent IWMs influence the quality of
-one’s relationships with others and one’s sense of self over
-the life span
+          infant’s primary caretakers, usually the parents, during the
+          early stages of life. The primary purpose of this bond is for
+          maintaining security and safety for the vulnerable child.
+          Bowlby (1979) theorized that the child forms internal working models (IWM) of both self and others that reflect the
+          degree of security or insecurity experienced in the parent–
+          child bond. He further theorized that the characteristics of
+          those bonds and subsequent IWMs influence the quality of
+          one’s relationships with others and one’s sense of self over
+          the life span
         - Cognitive Decoupling: Humans tend to form relationships and attachment with other humans. 
         - Ability to  anthropo-morphise objects.
         - Religion in search of hope
@@ -120,13 +120,13 @@ the life span
         - The EEGs of Carmelite nuns have shown marked changes during mystical experiences when they felt they were at one with God. In a state like this, individuals may also feel as if they have found the ultimate truth, lost all sense of time and space, are in harmony with mankind and the universe, and are filled with peace, joy, and unconditional love. 
         - Neuropharmacological studies show how crucial the activation of the dopamine reward system is in such experiences. In this context, brain disorders are also instructive. Alzheimer’s disease, for instance, is linked to the progressive loss of religious interest. The more slowly it progresses, the less religiousness and spirituality are affected. 
         - Conversely, hyperreligiosity is associated with fronto-temporal dementia, mania, obsessive-compulsive behavior, schizophrenia, and temporal lobe epilepsy. A number of these disorders are known to make the dopamine reward system more active.
-
+          
         - Carmelite nuns were asked to remember their most mystical Christian experience while undergoing functional scans. The scans showed a complex activation pattern of brain areas. Activation occurred in (1) the center of the temporal lobe, possibly relating to the feeling of being one with God (this region is also activated in temporal lobe epilepsy, sometimes causing intense religious experiences); (2) the caudate nucleus (an area in which emotions are processed), possibly relating to the feeling of joy and unconditional love; and (3) the brain stem, insular cortex, and prefrontal cortex, possibly relating to the bodily and autonomic reactions that go with these emotions and cortical consciousness of them. Finally, the parietal cortex was also activated, possibly relating to the feeling of changes in the body map similar to those in near-death experiences
         - Neuroscience research supports the idea that the brain is primed to believe, says Jordan Grafman, PhD, director of the cognitive neuroscience section at the National Institute of Neurological Disorders and Stroke. This tendency, he says, is spread throughout the brain, and probably arose from neural circuits developed for other uses.
         - What may make religion different from mundane thoughts about one’s parents are contemplative traditions, such as meditation and prayer, which have the potential to change how the brain is wired among regular practitioners, says University of Wisconsin psychologist Richard Davidson, PhD. His work using both fMRI and EEG to measure brain activity of long-term Buddhist meditation practitioners during meditation shows that they have a stronger and better organized attention system than people who are just learning how to meditate. In essence, meditation — and perhaps any contemplative spiritual practice — enhances attention and turns off the areas of the brain that focus on the self.
         - Meditation is a family of mental exercises that change the circuits in the brain involved in regulation of emotion and attention
         - These findings mesh with a large body of research and clinical reports that religious people are less prone to depression and anxiety, says Plante, editor of the book “Contemplative Practices in Action: Spirituality, Meditation, and Health” (APA, 2010). “Adaptive spiritual practices can be a foil to anxiety and depression,” Plante says.
-Having spiritual beliefs might also lead to enjoying a longer, healthier life. A large body of research finds that religious people live longer, are less prone to depression, are less likely to abuse alcohol and drugs, and even go to the dentist more often. Inzlicht’s research might provide a partial explanation for these findings, says University of Miami psychologist Michael McCullough, PhD.
+          Having spiritual beliefs might also lead to enjoying a longer, healthier life. A large body of research finds that religious people live longer, are less prone to depression, are less likely to abuse alcohol and drugs, and even go to the dentist more often. Inzlicht’s research might provide a partial explanation for these findings, says University of Miami psychologist Michael McCullough, PhD.
         - One study found that paranormal believers tended to perceive more intentionality in randomly moving objects and that this bias was associated with increased activity in the medial prefrontal cortex (MPFC) – a core region of the theory-of-mind network (Riekki et al.,2014)
         - People reflecting on their religious beliefs, for example, show increased activation in their theory-of-mind (ToM) networks (Kapogiannis et al., 2009)
         - fMRI study found that seeing more “meaning” in random pictures among paranormal believers was associated with reduced activation of the right inferior frontal gyrus, which means that enhanced intentionality detection could also be in part due to reduced cognitive inhibition (Lindeman, Svedholm, Riekki, Raij, & Hari 2013)

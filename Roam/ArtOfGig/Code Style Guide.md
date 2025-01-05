@@ -19,15 +19,16 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
     - Put spaces around operators (`1 + 1`, not `1+1`).
     - Parentheses, brackets, and braces
         ```javascript
-if (conditionOne || conditionTwo) {
-  // Statement
-} else {
-  //Statement
-}
-
-myArray = [ 1, 2, 3, 4 ];
-
-mathIsDifferent = 1 + (2 * (3 / 4));```
+        if (conditionOne || conditionTwo) {
+          // Statement
+        } else {
+          //Statement
+        }
+        
+        myArray = [ 1, 2, 3, 4 ];
+        
+        mathIsDifferent = 1 + (2 * (3 / 4));
+        ```
 # Code Comments
     - Every file (unless it's __very__ simple) should begin with a comment describing its purpose and giving other high-level information as applicable.
     - Every block of code should be preceded with a block of comments describing its operation.

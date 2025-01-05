@@ -21,12 +21,12 @@
 - **Publishing Workflow Kanban:** (temporari deprecated)
     - {{mermaid}}
         - graph LR
-    final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
+              final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
     - {{kanban}}
         - **Initial Contribution**
-            - [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8cac20a276_15_6) | [[Grigori Milov]]
-            - [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8c4f1ef5b7_0_0) | [[Siva Swaroop]]
             - [Metaphysical frontiers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8c6e0b5997_5_0) | [[Varun Adibhatla]]
+            - [Human as Eternal Migrants ](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8c4f1ef5b7_0_0) | [[Siva Swaroop]]
+            - [Thinking about mining](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g8cac20a276_15_6) | [[Grigori Milov]]
             - [2030 China - US Oceanic Race](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g86ae70180b_36_34) | [[Patrick Atwater]]
             - [Orbital Data Centers](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g86ae70180b_36_105) | [[Grigori Milov]]
             - [Future of Orbital Slots](https://docs.google.com/presentation/d/1zNjdVUgTuU7Xne1xcGz6e-j3sAoKAnqjGM8HKmLEosg/edit?pli=1#slide=id.g86ae70180b_36_60) | [[Suwaythan Nahaganeshan]]
@@ -109,7 +109,7 @@
         - [[Grigori Milov]]
             -  Is it possible to take a shot at calculating something like Return-on-Investments or Economic Value for all the previous Space Programs to see how and by whom it was captured and what can be different now compared with earlier periods?
             - There are also some interesting second order effects of space technologies.  E. g. we can now have billions of tiny gyroscopes in our pockets without much thinking about it. 
-Next decade can bring more examples like this one.
+              Next decade can bring more examples like this one.
         - [[Johann Richard]]
             - Although not as high-profile as some of the US-based initiatives, a lot is happening elsewhere too (e.g. Europe, but of course also India, China, Australia, NZ or Middle-East, as well as Africa) 
                 - Might be worth considering expanding the focus a bit 

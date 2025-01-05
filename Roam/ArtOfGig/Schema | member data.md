@@ -1,7 +1,7 @@
 About:: __Map of fields in Knack member database.__
 Chief Page Wrangler:: [[Nathan Acks]]
     - Additional Page Wranglers:: 
-[[Vinay Débrou]] | [[Maier Fenster]] | [[Jenna]] | [[Jordan Peacock]]
+      [[Vinay Débrou]] | [[Maier Fenster]] | [[Jenna]] | [[Jordan Peacock]]
 Last Updated:: [[December 11th, 2020]] by [[Nathan Acks]]
 Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
 Member data files are formally this is just a special kind of page. However, we treat the corresponding `.md` files more like a data structure that is then referenced in many other pages. Because of this, the most important part of these files is the front matter -- most member data files don't even have any content beyond that.
@@ -10,34 +10,37 @@ File names (less the `.md` extension) become the member ID, which is then used i
 Note that the functionality represented by the member data files will eventually be subsumed into [[Knack]].
 # Website Member Data Template
     ```yaml
-title: Member Template
-date: 2020-12-09 00:00:00
-indie_status: 10 years
-tagline: "Just a template, showing people how it's done"
-previously: A todo item in Roam
-currently: A file in GitHub
-avatar: /members/template-member.jpg
-twitter: yak_collective
-links:
-  - title: Website
-    url: https://www.yakcollective.org/
-  - title: Newsletter
-    url: https://yakcollective.substack.com/
-bio_short: |
-  I'm a template file that exists to demonstrate how to
-  construct a member data file.
-page_text_color: black
-page_bg_color: 255,255,255
-page_headers: |
-  <!-- HTML -->```
+    title: Member Template
+    date: 2020-12-09 00:00:00
+    indie_status: 10 years
+    tagline: "Just a template, showing people how it's done"
+    previously: A todo item in Roam
+    currently: A file in GitHub
+    avatar: /members/template-member.jpg
+    twitter: yak_collective
+    links:
+      - title: Website
+        url: https://www.yakcollective.org/
+      - title: Newsletter
+        url: https://yakcollective.substack.com/
+    bio_short: |
+      I'm a template file that exists to demonstrate how to
+      construct a member data file.
+    page_text_color: black
+    page_bg_color: 255,255,255
+    page_headers: |
+      <!-- HTML -->
+    ```
 # Formatting Notes
     - Be aware that if the __value__ of your front matter attribute contains a `:`, `&`, or `#`, then you __must__ either surround it in double quotes (`"`) __or__ use a `|` character, followed by a line break, and then with subsequent lines (until the next front matter attribute or the closing `---`) indented by __two__ spaces. So something like this
         - ```yaml
-title: "My #1 Page Title: Now With Two Unsafe Characters!"```
+          title: "My #1 Page Title: Now With Two Unsafe Characters!"
+          ```
     - is equivalent to
         - ```yaml
-title: |
-  My #1 Page Title: Now With Two Unsafe Characters!```
+          title: |
+            My #1 Page Title: Now With Two Unsafe Characters!
+          ```
     - In general, you should use quotes for shorter, single line values. Use the "`|` + indent" syntax for longer values, or when you need to use multiple lines.
     - For more information about the ins-and-outs of page front matter, refer to [Jekyll's documentation](https://jekyllrb.com/docs/front-matter/) and the [YAML specification](https://yaml.org/spec/1.2/spec.html).
 # Required Attributes
@@ -66,20 +69,22 @@ title: |
     - ## links
         - This attribute specifies an array of links, each of which has a title (to be displayed) and a URL. If `links` is set, its contents are included as the final line of `widget-member-card`, with each link separated by a slash (`/`). For example, suppose that `links` was set as follows:
             - ```yaml
-links:
-  - title: Website
-    url: https://www.yakcollective.org/
-  - title: Newsletter
-    url: https://yakcollective.substack.com/```
+              links:
+                - title: Website
+                  url: https://www.yakcollective.org/
+                - title: Newsletter
+                  url: https://yakcollective.substack.com/
+              ```
         - This would produce the following final line of `widget-member-card`:
             - > [Website](https://www.yakcollective.org/) / [Newsletter](https://yakcollective.substack.com/)
     - ## rss
         - Because we are moving away from [[IFTTT]], we will (eventually) need to store member RSS fields in Knack and import them into Jekyll as part of the build process. Really, this only makes sense if member data is imported as files, rather than directly into Jekyll.
         - This should be an `rss` attribute that has an array of RSS feeds as its value. For example:
             - ```yaml
-rss:
-  - https://www.yakcollective.org/writings/feed.xml
-  - https://yakcollective.substack.com/feed```
+              rss:
+                - https://www.yakcollective.org/writings/feed.xml
+                - https://yakcollective.substack.com/feed
+              ```
         - Here's the conversation from the previous version of this page:
             - [[Nathan Acks]] we should also have an "rss feed" field in the member data (for feeds to be aggregated on the "writings" page) [[October 15th, 2020]]
             - [[Jenna]] nice catch √ just added the field, and added it to the profile edit page for yaks and admins [[October 15th, 2020]]
@@ -108,18 +113,19 @@ rss:
     - https://github.com/The-Yak-Collective/yakcollective/blob/netlify-prod/members/peacock-jordan.md
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FinXUHxTeB6.png?alt=media&token=aa3784b3-ca84-4c44-8040-61374db640bb)
     - ```yaml
----
-title: Jordan Peacock
-date: 2020-04-30 00:00:00
-indie_status: 3+ years
-twitter: hewhocutsdown
-tagline: CEO, Becoming Machinic; Founder, Sortilege
-previously: U.S. Bank, HelpSystems
-avatar: /members/peacock-jordan.jpg
-links:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/hewhocutsdown/
----```
+      ---
+      title: Jordan Peacock
+      date: 2020-04-30 00:00:00
+      indie_status: 3+ years
+      twitter: hewhocutsdown
+      tagline: CEO, Becoming Machinic; Founder, Sortilege
+      previously: U.S. Bank, HelpSystems
+      avatar: /members/peacock-jordan.jpg
+      links:
+        - title: LinkedIn
+          url: https://www.linkedin.com/in/hewhocutsdown/
+      ---
+      ```
 # Current Members as of [[August 31st, 2020]]
     - Yak Collective members have contributed to one or more projects.
         - [   Alex Dobrenko Improviser / Writer / Filmmaker Indie status: 5+ years Previously: Distance / UCB / Funny or Die  alexdobrenko.com    @Dobrenkz  ](https://www.yakcollective.org/members/alex-dobrenko/)

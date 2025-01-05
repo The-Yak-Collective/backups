@@ -64,7 +64,7 @@
                         - Kick-Off Speaker(s)
                             - Productising Machine Learning Research, Killian Butler
                                 - Can Crypto Close the $4 Trillion SME Financing Gap?, Mike Casey
-Simulation Games Might Be What The World Needs Now, Dan Grover
+                                  Simulation Games Might Be What The World Needs Now, Dan Grover
                     - 1700-1720
                         - Break / Mixer
                             - na
@@ -72,17 +72,17 @@ Simulation Games Might Be What The World Needs Now, Dan Grover
                     - 1720-1755
                         - All-Hands: Track Intros and Activity Reviews/Previews
                             - [[Distributed Systems and Robotics]]
-[[Fermi Gym]]
-Governance Studies
-[[Infrastructure]]
-YC Pop-Up Consulting
-[[YakFit-💪]]
-Other Nascent Activities
+                              [[Fermi Gym]]
+                              Governance Studies
+                              [[Infrastructure]]
+                              YC Pop-Up Consulting
+                              [[YakFit-💪]]
+                              Other Nascent Activities
                                 - [[Distributed Systems and Robotics]]: 2023
-Fermi Gym: 2023
-Governance Studies: 2023
-[[Infrastructure: 2023]]
-Other Nascent Activities: 2023
+                                  Fermi Gym: 2023
+                                  Governance Studies: 2023
+                                  [[Infrastructure: 2023]]
+                                  Other Nascent Activities: 2023
                     - 1755-1805
                         - Break
                             - na
@@ -90,9 +90,9 @@ Other Nascent Activities: 2023
                     - 1805-1855
                         - Breakout Activities A
                             - [[Distributed Systems and Robotics]] Pt. 1
-Fermi Gym, Pt. 1
+                              Fermi Gym, Pt. 1
                                 - [[Distributed Systems and Robotics]] Pt. 2
-Fermi Gym, Pt. 2
+                                  Fermi Gym, Pt. 2
                     - 1855-1905
                         - Break
                             - na
@@ -100,9 +100,9 @@ Fermi Gym, Pt. 2
                     - 1905-1955
                         - Breakout Activities B
                             - Governance Studies, Pt. 1
-[[Infrastructure, Pt. 1]]
+                              [[Infrastructure, Pt. 1]]
                                 - Governance Studies, Pt. 2
-[[Infrastructure, Pt. 2]]
+                                  [[Infrastructure, Pt. 2]]
                     - 1955-2000
                         - Break
                             - na

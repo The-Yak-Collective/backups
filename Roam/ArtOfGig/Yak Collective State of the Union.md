@@ -1,58 +1,58 @@
 - {{kanban}}
     - **Icebox/Backlog**
         - [[Internal Volunteer Opportunities]] cell
-[[FnameL]] lead
+          [[FnameL]] lead
         - [[Things We Need]] cell
-[[FnameL]] lead
+          [[FnameL]] lead
         - [[Code of Conduct]] cell
-[[FnameL]] lead
+          [[FnameL]] lead
         - 
         - 
     - **Emerging Cells**
         - [[Yakcoin]] cell
-[[John N]] lead
+          [[John N]] lead
         - [[Yak Network Map]] cell
-[[Vinay Débrou]] lead
+          [[Vinay Débrou]] lead
         - [[New Yak+Welcoming Comm]] cell
-[[Alex Wagner]] lead
+          [[Alex Wagner]] lead
         - [[New to Consulting]] cell
-[[Shreeda Segan]] lead
+          [[Shreeda Segan]] lead
         - [[Online-Offsites]] cell
-[[Alex Wagner]] lead
+          [[Alex Wagner]] lead
         - [[Member Database]]  cell
-[[Maier Fenster]] lead? 
+          [[Maier Fenster]] lead? 
         - [[Momentum Problem]] cell
-[[Venkatesh Rao]] lead
+          [[Venkatesh Rao]] lead
         - [[Publishing Ops]] cell
-[[Jenna]] lead
+          [[Jenna]] lead
         - 
         - 
         - 
     - **Active Cells**
         - [[Future Frontiers]] cell
-[[Siva Swaroop]] lead
+          [[Siva Swaroop]] lead
         - [[Yaks do innovation consulting]] cell
-[[Vaughn Tan]] lead
+          [[Vaughn Tan]] lead
         - [[Astonishing Stories
-...of what’s next]] cell
-[[Amanda Reeves]] lead
+          ...of what’s next]] cell
+          [[Amanda Reeves]] lead
         - [[Infrastructure]] cell 
-[[Darren Kong]] lead
+          [[Darren Kong]] lead
         - [[Governance Studies]] cell
-[[Venkatesh Rao]] lead
+          [[Venkatesh Rao]] lead
         - [[Yak Discord server]] cell
-[[Jordan Peacock]]  lead
+          [[Jordan Peacock]]  lead
         - [[Yak Talk Newsletter – To Do and Content Ideas]] cell
-[[Alex Wagner]] lead
+          [[Alex Wagner]] lead
         - [[Yak Collective Website]] cell
-[[Nathan Acks]] lead
+          [[Nathan Acks]] lead
         - [[CFP Process]] cell
-[[Venkatesh Rao]] lead
+          [[Venkatesh Rao]] lead
     - **Archived Cells**
         - [[Don’t Waste the Reboot]] cell 
-[[Paul Millerd]] lead
+          [[Paul Millerd]] lead
         - [[The New Old Home]] cell
-[[Pamela Hobart]] lead
+          [[Pamela Hobart]] lead
         - [[Neurofuturama]] cell
-[[Jordan Peacock]] lead
+          [[Jordan Peacock]] lead
         - 

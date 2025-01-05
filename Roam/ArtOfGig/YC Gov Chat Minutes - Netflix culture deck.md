@@ -29,7 +29,7 @@
         - > Discussing the military’s performance during the Iraq War, Donald Rumsfeld, the former defense secretary, once famously said, “You go to war with the army you have, not the army you might want or wish to have at a later time.” When I talk to managers about creating great teams, I tell them to approach the process in exactly the opposite way.
 - [[John Grant]]
     - What can YC learn from Netflix's aggressive/clever marketing?
-Things like:
+      Things like:
         - Long term partnerships – the Neflix button on TV remote controls
         - Attracting talent - Open sourcing Chaos Monkey
     - Publishing (sponsored) living documents on GitHub?

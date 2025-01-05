@@ -9,7 +9,7 @@
         - PRE-MEETING SETUP
     - 15:00 - 15:05 —  5 min — 
         - Opening — @Sachin Benny (US Central)
-
+          
     - 15:05 - 15:15 — 10 min — 
         - Introductions **IN DISCORD CHAT**— @Sachin Benny (US Central)r)
     - 15:15 - 15:25 — 10 min —

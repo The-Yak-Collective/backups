@@ -46,11 +46,11 @@
                     - Readers
                         - Anyone can comment but not add blocks
     - - Block editing are all-or-nothing
-    - Editing the same block at the same time is not stable
-        - Editing has happened to my block but I didn't know!
-            - More fine-grained
-                - Live cursor and showing diffs
-                - Locking blocks while editing?
+          - Editing the same block at the same time is not stable
+              - Editing has happened to my block but I didn't know!
+                  - More fine-grained
+                      - Live cursor and showing diffs
+                      - Locking blocks while editing?
     - Example Style Guide::
         - https://roamresearch.com/#/app/roam-book-club/page/ZMD-9Tyrr
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FrstgUblcqG.png?alt=media&token=af3b672b-941c-4f5d-ab74-ab4a3069f623)

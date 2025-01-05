@@ -25,14 +25,14 @@
     - Fault-tolerant Byzantine sharding::
         - > I realize I’ve been unconsciously operating with this heuristic for a while. I am going to try and make it more rigorous. Something like “it should always take minimum 3 people to construct global state snapshot even approximately, and there should be no MECE subgroup... any group with global state awareness should also have minimum 2x redundancy. For example, if there are 3 logical bits in a state, p, q, and r, and 3 people, A, B, and C, who each know max 2 bits, you can have: A knows (p, q), B knows (q, r), C knows (p, r). The full state is known with 2x redundancy by the group. I’m guessing there’s a infosec or distributed computing idea like this. If not, I’m calling it fault-tolerant Byzantine sharding. —[[Venkatesh Rao]] on the [Discord](https://discord.com/channels/692111190851059762/704369362315772044/834599872656441374)
     - Flash teams:: Flash teams advance a vision of expert crowd work  that accomplishes complex, interdependent goals such as  engineering and design. Enable experts and amateurs alike to contribute skills they enjoy, on a set of tasks that they find interesting, and at scale.
-Flash teams require small atomic actions called blocks. 
-Flash teams exhibit distributed leadership.
+      Flash teams require small atomic actions called blocks. 
+      Flash teams exhibit distributed leadership.
         - Modular combinations of teams::
         - Elasticity:: the crowd can be an elastic resource, allowing teams to grow and shrink as needed
         - Pipelining:: Flash teams can be pipelined by streaming  intermediate results as they are ready, rather waiting for the entire task to complete.
         - Runtime:: 
         - source: [Expert Corwdsourcing with Flash Teams](https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf) 
-12:46 PM [[March 12th, 2021]] 
+          12:46 PM [[March 12th, 2021]] 
     - **Free Rider:** Classic economics concept whose study was pioneered by Mancur Olson. It refers to people who make use of public goods without contributing to their upkeep and renewal. Related to the Tragedy of the Commons. [Wikipedia link](https://en.wikipedia.org/wiki/Free-rider_problem)
 - G
     - **Greedy:** Try to make a claim on every piece of loot that drops. Seen in https://nostarch.com/download/guildleader_ch3.pdf
@@ -63,7 +63,7 @@ Flash teams exhibit distributed leadership.
     - **Poaching:** In MMO terms, to poach means to steal players from another guild’s roster by hard selling your guild to them or aggressively recruiting them. Seen in https://nostarch.com/download/guildleader_ch3.pdf
     - Platforms:: an underlying basis of operations from which functionality is executed, often through a [[Service interface]] - {{[[DONE]]}} [Steve Yegge Platform rant](https://gist.github.com/chitchcock/1281611)
     - Platform Business Models:: <somewhat tentative, will look again in a few days> A process of creating value by an array of players whose specific roles and responsibilities are geared toward generating and sustaining network effects.
-https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30
+      https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30
 - Q
 - R
     - **RFC**: Request for Comments. [Tao of the IETF](https://www.ietf.org/about/participate/tao/#what)

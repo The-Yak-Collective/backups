@@ -567,8 +567,8 @@
             - Wishlist of topics -- maybe announce bounties?
     - **Season: Spring** (13 sessions, starting ~ on March 20, Vernal equinox)
         1. Mar 21 - #[[Jenna]] [[Richie Bonilla]] & [[Caryn Tan]] of [[Clarity]]
-Twitter: [@richiebonilla](https://twitter.com/richiebonilla) and [@0xCaryn](https://twitter.com/0xCaryn)
-and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://twitter.com/kathihorvath) and [@creatorcabins](https://twitter.com/creatorcabins)
+           Twitter: [@richiebonilla](https://twitter.com/richiebonilla) and [@0xCaryn](https://twitter.com/0xCaryn)
+           and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://twitter.com/kathihorvath) and [@creatorcabins](https://twitter.com/creatorcabins)
             - rough timeline 40 mins + 20 mins convo
                 - overview = 4 minutes
                 - contributions = 8 minutes
@@ -879,9 +879,9 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
             Reading: [Zodiac: The expansion pack for DAOs](https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg)
             **Initial Thoughts**
                 - [[Jenna Dixon]] 
-- the Gnosis team is small, which is a vulnerability. 
-- Gnosis just launched the [Exit](https://gnosis.github.io/zodiac/docs/tutorial-module-exit/get-started) module for Zodiac. 
-- Question of bugs in all web3 software. 
+                  - the Gnosis team is small, which is a vulnerability. 
+                  - Gnosis just launched the [Exit](https://gnosis.github.io/zodiac/docs/tutorial-module-exit/get-started) module for Zodiac. 
+                  - Question of bugs in all web3 software. 
                 - [[Ben Mahala]] isn’t sure of the quality of the oracle or the bridge, and isn’t sure how much to trust these modules right now. The “exit” function is a good idea, but requires that people pay attention (the idea here is that there’s some window around every proposal where people can exit). [[Ben Mahala]]’s just not sure if this is the right set of tools for what the Yak Collective is trying to do.
                 - [[Anuraj R]] thought these tools look interesting, but won’t have an opinion until they start using them.
                 - [[Venkatesh Rao]] sees this as an attempt to try to realize composability. This is probably a utopian reaction against Web 2.0 style intense competition and consolidation. People are also concerned about how open source alternatives have had consistent failure to launch. So, this is an attempt to both enforce a certain amount of cooperation without giving up scalability by backing these principles in very early. [[Venkatesh Rao]] thinks this is a dangerous approach, as we don’t have a good sense of what standards we need right now. [[Venkatesh Rao]] sees this is a possible lower-stakes version of Colony… However, there’s a lot of complexity here, which makes the “activation energy” here perhaps a lot higher. Commitment voting might solve some of the problems with participation/neglect we’ve been wrestling with.
@@ -908,13 +908,13 @@ and [[Kathi Horvath]], Product Guild Liaison, [[Cabin]]. [kathihorvath](https://
             - Article https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
             - Notes
                 - > Here’s a glossary to shorten some words that will show up ~43531756765713534 times:
-DA – Data Availability
-DAS – Data Availability Sampling
-PBS – Proposer-builder Separation
-PDS – Proto-danksharding
-DS – Danksharding
-PoW – Proof of Work
-PoS – Proof of Stake
+                  DA – Data Availability
+                  DAS – Data Availability Sampling
+                  PBS – Proposer-builder Separation
+                  PDS – Proto-danksharding
+                  DS – Danksharding
+                  PoW – Proof of Work
+                  PoS – Proof of Stake
                 - Part I
                     - Use Erasure/Reed–Solomon encoding with polynomials to encode block data
                         - Basic idea, you can regenerate a whole block with 50% of the block data (any 50% will do)
@@ -962,16 +962,16 @@ PoS – Proof of Stake
             - [[Jenna]]
                 - Concluding Thoughts #[[Jenna]]
                     - > All roads lead to the endgame of centralized block production, decentralized trustless block validation, and censorship resistance. Ethereum’s roadmap has this vision square in its sights.
-
-Ethereum aims to be the ultimate unified DA and settlement layer – massively decentralized and secure at the base with scalable computation on top. This condenses cryptographic assumptions to one robust layer. A unified modular (or [disaggregated](https://twitter.com/epolynya/status/1520266209861668864?s=20&t=PdcmqDUTjarL77tq-Z8cNQ) now?) base layer with execution included also captures the highest value across L1 designs – leading to monetary premium and economic security as I recently covered (now open-sourced [here](https://members.delphidigital.io/reports/valuing-layer-1s-memes-money-or-more)).
-
-I hope you gathered a clearer view of how Ethereum research is all so interwoven. There are so many moving pieces, it’s very cutting-edge, and there’s a really big picture to wrap your head around. It’s hard to keep track of.
-
-Fundamentally, it all makes its way back to that singular vision. Ethereum presents a compelling path to massive scalability while holding dear those values we care so much about in this space.
+                      
+                      Ethereum aims to be the ultimate unified DA and settlement layer – massively decentralized and secure at the base with scalable computation on top. This condenses cryptographic assumptions to one robust layer. A unified modular (or [disaggregated](https://twitter.com/epolynya/status/1520266209861668864?s=20&t=PdcmqDUTjarL77tq-Z8cNQ) now?) base layer with execution included also captures the highest value across L1 designs – leading to monetary premium and economic security as I recently covered (now open-sourced [here](https://members.delphidigital.io/reports/valuing-layer-1s-memes-money-or-more)).
+                      
+                      I hope you gathered a clearer view of how Ethereum research is all so interwoven. There are so many moving pieces, it’s very cutting-edge, and there’s a really big picture to wrap your head around. It’s hard to keep track of.
+                      
+                      Fundamentally, it all makes its way back to that singular vision. Ethereum presents a compelling path to massive scalability while holding dear those values we care so much about in this space.
                         - "baroque financial products that average investors can't understand" — this bit from the [Wired](https://www.wired.com/story/web3-paradise-crypto-arcade/) cover text seems relevant to our convo today — would love to know what our knowledgeable yaks think about legibility for normies and how we mitigate this particular aspect of risk down the road. #[[Jenna]]
                         - > WARNING: Users enter into transactions at their own risk; Web3 is not responsible for money lost, NFTs stolen, passwords phished, or dreams shattered in the course of this experiment. The edifice of Web3 is built on trillions of dollars invested in cryptocurrencies that, as yet, have little to no proven utility other than as speculative assets. Liquidity is provided by baroque financial products that average investors can't understand, which may end badly. Decentralization may or may not be a technological feature of systems, as opposed to a market condition, and thus is not actually guaranteed. Many decentralized autonomous organizations (DAOs) are neither decentralized nor autonomous. Past hopes of fully decentralized, participatory versions of the internet have been repeatedly dashed. It might be unwise to put personal data on a permanent uneditable public database. It may not be possible to disentangle the idealistic aspirations of Web3 from the cynical profit-seeking behavior exhibited by much of the crypto market, which is heavily concentrated in the hands of a small number of superrich people and Institutions. People tend to find ways to game systems despite the best intentions of those systems' designers. Results may vary. STORY BY GILAD EDELMAN
                     - If only geniuses can understand, what does that mean. 
-`smart` v `smart enough`
+                      `smart` v `smart enough`
                     - `Danksharding` ftw!
                     - The general criticism of complexity is not on its own dealbreaking; tons of things in life are more complex than many can understand, never mind the things that no one understands.
             - [[Maier Fenster]]
@@ -1073,7 +1073,7 @@ Fundamentally, it all makes its way back to that singular vision. Ethereum prese
                                 - ¿ go back to honest broker role, invite conversation btw trusted players?
                                 - understory and overstory
                                     - understory: underpinnings of the tech
-overstory: how it gets used by people and groups
+                                      overstory: how it gets used by people and groups
                                 - weekly model v. popup model
                                 - is there a #promptschool activity cf #Fweb3 from February
                         - Commits -- maybe only a few topics rather than many
@@ -1104,7 +1104,7 @@ overstory: how it gets used by people and groups
 - ## Options to explore/look into
     - Please add links directly here (preferred) or via the $readingadd command in the #blockchain-roadmap channel on discord.
     - [[Zigzag]] podcast series on 2018 [[Civil]] token launch. 
-Real-time story arc of an early journo blockchain attempt. #[[Jenna]]
+      Real-time story arc of an early journo blockchain attempt. #[[Jenna]]
         - https://zigzagpod.com/episodes/2018/06/14/episode-2
         - https://zigzagpod.com/episodes/2018/06/21/chapter-3-higher-than-we-knew
         - https://zigzagpod.com/episodes/2018/07/12/chapter-6-whats-a-cvl-token

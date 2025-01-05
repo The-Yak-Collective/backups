@@ -29,7 +29,8 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
             3. Reboot.
             4. Open up **PowerShell** and run the following command:
                 ```shell
-wsl.exe --set-version Ubuntu 2```
+                wsl.exe --set-version Ubuntu 2
+                ```
     - If you are running Windows 10 Home or don't want to install WSL, it is possible to [install Jekyll on Windows natively](https://jekyllrb.com/docs/installation/windows/).
         - ^^However, some website features do __not__ build correctly on native Windows installs.^^
         - If you're building on Windows natively and something seems broken in `netlify-prod`, it's a good bet that the problem is your build environment, and __not__ the website.
@@ -37,9 +38,10 @@ wsl.exe --set-version Ubuntu 2```
     1. Make sure you have the necessary system-wide pre-requisites.
         - If you're using Ubuntu (either natively or via WSL):
             ```shell
-sudo apt update
-sudo apt full-upgrade
-sudo apt install bundler```
+            sudo apt update
+            sudo apt full-upgrade
+            sudo apt install bundler
+            ```
         - If you're running macOS, follow the [Jekyll on macOS](https://jekyllrb.com/docs/installation/macos/) guide.
         - If you're running Windows (__without WSL__), follow the [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/) guide.
     2. Check out the [website repo](https://github.com/The-Yak-Collective/yakcollective/).
@@ -47,9 +49,10 @@ sudo apt install bundler```
         - The [GitHub Desktop](https://desktop.github.com/) app makes working with repos really easy, and is highly recommended.
     3. Set up the your local build environment (this all happens using the terminal; where you see `$REPO_PATH`, just use whatever path you checked the repository out to in the last step).
         ```shell
-cd $REPO_PATH
-bundle config set path vendor/bundle
-bundle install```
+        cd $REPO_PATH
+        bundle config set path vendor/bundle
+        bundle install
+        ```
     4. Run `bundle exec jekyll serve --profile` to fire up Jekyll's local server mode. This will build your site and then let you see it by going to [http://localhost:4000](http://localhost:4000) in your web browser.
         - __Most of the time__, Jekyll will automatically rebuild the site whenever you make a change.
             - Jekyll won't detect changes that are made on Windows' file systems (so, any time you're using Jekyll natively, or if you're working with directories under `/mnt/c` in WSL).

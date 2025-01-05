@@ -3,8 +3,8 @@
 - David, a few of us were starting to think on putting together a "Minimum Viable Workshop" aimed at executives based on 1 or more of the slides from the [[Yak Deck v 1.0]]. Happy to pair with you on this. [[Alex Wagner]]
 - This draws a lot on [issue 10 of my newsletter Innovation at Scale](https://innovationatscale.substack.com/p/innovation-at-scale-10-making-effective) 
 - **“All else being equal, the fastest company in any market will win.”** - Dave Girouard, [Speed as a Habit](https://firstround.com/review/speed-as-a-habit/) 
-
-... and __the team that is fastest is the team that makes the fastest effective decisions__.
+  
+  ... and __the team that is fastest is the team that makes the fastest effective decisions__.
 - The thesis is this: for any business **speed is the only sustainable competitive edge**
     - Threats: 
         - Disruption (in the classical Clay Christensen definition) finds a way to threaten even the most established businesses. 
@@ -23,8 +23,8 @@
         - Decision Types - knowing how much scrutiny to apply to decisions up front
             - Type 1 and Type 2 decisions - Bezos shareholder letter
                 - "Some decisions are consequential and irreversible or nearly irreversible – one-way doors – and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions. But most decisions aren’t like that – they are changeable, reversible – they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.
-
-As organizations get larger, there seems to be a tendency to use the heavy-weight Type 1 decision-making __process__ on most decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention."
+                  
+                  As organizations get larger, there seems to be a tendency to use the heavy-weight Type 1 decision-making __process__ on most decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention."
         - Timeboxed decisions
             - Learning from Eric Schmidt at Google, Girouard suggests that decisions __should be timeboxed in advance__, to cut off protracted debate, and to build in the responsiveness required to decide __at the right time__ rather than attempt to perfect the decision in advance.
             - “The process of making and remaking decisions wastes an insane amount of time at companies. **The key takeaway: WHEN a decision is made is much more important than WHAT decision is made.”**
@@ -55,7 +55,7 @@ As organizations get larger, there seems to be a tendency to use the heavy-weigh
         - I'm keen to work on this. Sounds like one point of focus would be identifying contexts where decisions are reversible. 
     - [[Antoine Buteau]]
         - Probably discuss sensemaking in the context of speed. 
-Sensemaking tends to be retrospective, but what you do when you are moving at full speed and sensemaking is done in action.
+          Sensemaking tends to be retrospective, but what you do when you are moving at full speed and sensemaking is done in action.
     - [[Greg Docter]]
         - I'd be excited to contribute (5/28/20, I'm still excited)
         - That First Round article (and the resulting behavior), has been foundational for me and is something I point to over-and-over again.

@@ -8,9 +8,9 @@
 - Last Gardened:: `/today` by [[Fname Lname]]
 - Prompt::
     - If we want to build a platform (say, for independent consultants) from scratch, where do we start? 
-What can be a blueprint? 
-What is the foundation? 
-What are the building blocks?
+      What can be a blueprint? 
+      What is the foundation? 
+      What are the building blocks?
 - Reading::https://researchspace.auckland.ac.nz/bitstream/handle/2292/44885/Fehrer-Woratschek-Brodie_2018_A%2bSystemic%2bLogic%2bfor%2bPlatform%2bBusiness%2bModels.pdf?sequence=30
     -  
     - 

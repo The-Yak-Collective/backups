@@ -28,7 +28,7 @@
     - Possible features
         - RT video stream from the camera (and other sensors?)
         - ability to select or upload (via github?) a code to be executed by robot and view the effect in RT, including video and servo positions
-for now, i am thinking re delegate, that you have code on the robot and code on the server. one or both may need help.
+          for now, i am thinking re delegate, that you have code on the robot and code on the server. one or both may need help.
     - Hardware alternatives
         - From Sascha: Roomba gang and mux for cheap radiation resistance.
             - Benefit of possible scavenging when fleet of rovers.

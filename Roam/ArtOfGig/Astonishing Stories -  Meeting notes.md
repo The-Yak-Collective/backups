@@ -1,7 +1,7 @@
 - ### [[September 21st, 2020]] Yak Chat Astonishing Stories
     - call 19:00 on Discord General w [[Sachin Benny]] [[Amanda Reeves]] [[Jenna]] [[Jordan Peacock]] [[Justice]]
         - On the call today at 6CST we'll be talking through:
-
+          
             - Responses to the paid illustrator gig we posted 
                 - [[Sachin Benny]] will add folks to [[Publishing Ops]] Illustrator section
             - Timeline for publishing stories since we are close on engaging an illustrator

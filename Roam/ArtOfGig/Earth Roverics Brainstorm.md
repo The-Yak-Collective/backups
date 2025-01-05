@@ -1,7 +1,7 @@
 - What are existing examples of Earth rovers
     - Various underwater exploration vehicles
     - Weather balloons, weather drones
-
+      
     - tags/sensors on wild animals?
 - Differences between Earth and Mars rovers
     - You can go where the rover goes
@@ -83,10 +83,10 @@
         - haul things, etc
 - What makes a robot an earth rover as opposed to a service robot (like food delivery or butler or manufacturing)?
     - not so much destination as a domain
-
+      
     - observing, analyzing
 - What can you assume on earth that you can't assume on Mars or Moon
-
+  
     - weather changes
     - animals & other life
 - What are commercial applications if any

@@ -6,7 +6,7 @@
 - Last Gardened:: [[November 16th, 2020]] by [[Jenna]]
     - [[November 9th, 2020]] by [[Jenna]]
         - __reversed the order of the chat notes so that the newest is on top 👇
-suggest most recent note left untwirled for easy review to visitors__
+          suggest most recent note left untwirled for easy review to visitors__
             - [Quick link to view chat notes.](https://roamresearch.com/#/app/ArtOfGig/page/d4mEcgqn5)
 - ## Lists/Docs #needsupdate
     - [[Project Launch Checklist]]
@@ -343,8 +343,8 @@ suggest most recent note left untwirled for easy review to visitors__
             - [[Maier Fenster]] agrees that this could live in `#tool-time`.
             - [[Jenna]] thinks we should go for this. Let's drop something there.
                 - > Having opinions, rather than having a conversation.
-
--- [[Jenna]]
+                  
+                  -- [[Jenna]]
             - [[Maier Fenster]] would like to talk about project UI/UX a bit more. Projects aren't happening... But they aren't. We don't seem to have the right infrastructure to reliably get new projects off the ground (and keep them running).
             - [[Phil Wolff]] thinks that one of the challenges is Roam. It's too slow. Very few people use it. Everything's theoretically in Roam, but there's nothing in Discord feeding them there, and once people get to Roam it all gets very confused.
             - [[Maier Fenster]] thinks that basic project information (and voting) should be in Knack. Roam would be more of a wiki/notepad.
@@ -1397,10 +1397,10 @@ suggest most recent note left untwirled for easy review to visitors__
         - Yak talk newsletter
             - Hey everyone, myself and a few of the yak talk team will be dropping in today to talk about the newsletter, how its changing, and how we can collaborate.
         - What I know...
-- YakTalk
-- YakMap data schema
-- YakMap form: confirm build in Knack (or out)
-- Knack login ready for first testing >>> https://yak.knack.com/yaks#yak-profile/
+          - YakTalk
+          - YakMap data schema
+          - YakMap form: confirm build in Knack (or out)
+          - Knack login ready for first testing >>> https://yak.knack.com/yaks#yak-profile/
             - first pass close!
             - haven't added yak map member
             - haven't made any ask of members
@@ -1422,7 +1422,7 @@ suggest most recent note left untwirled for easy review to visitors__
                                     - {{[[DONE]]}} intro in discord
                                 - {{[[DONE]]}} go to Roam and read Start Here
                             - What's the "minimum viable interaction" you need to feel included/part of? 
-assume that you can't know/digest everything at once - YC is a complex and labyrintic  mansion just pick a small "room"
+                              assume that you can't know/digest everything at once - YC is a complex and labyrintic  mansion just pick a small "room"
                         - Way for members to get announcements or updates from projects
                 - internal fields for project contributions -> display member page 
         - updated infrastructure map 
@@ -1475,8 +1475,9 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
     - infrastructure chat 19 [[September 20th, 2020]] #meeting-notes
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FA7_7gZSq2J.png?alt=media&token=91c594a8-94c9-401d-8466-0c3b0ec1c019)
         - Discordpy
-            - Testing for activity ```javascript
-```
+            - Testing for activity 
+              ```javascript
+              ```
             - User/project Heartbeat 
                 - User availability ping on Discord
             - Project heartbeat
@@ -1713,28 +1714,28 @@ assume that you can't know/digest everything at once - YC is a complex and labyr
     - [[infrastructure chat 14]] [[August 8th, 2020]] #meeting-notes
         - [[Yak Collective State of the Union]] roam version
     - infrastructure chat 13 [[August 1st, 2020]]
-state of the union deck #meeting-notes
+      state of the union deck #meeting-notes
         - https://docs.google.com/presentation/d/12pLjGxC6egO4QJvy06AjBTWm_4XhkfStyfdQ7p6DoOg/edit#slide=id.p
     - [[infrastructure chat 12]] [[July 25th, 2020]] #meeting-notes
     - infrastructure chat 11 [[July 18th, 2020]]
-worked on spotlight/case study #meeting-notes
+      worked on spotlight/case study #meeting-notes
     - [[infrastructure chat 10]] [[July 11th, 2020]] #meeting-notes
     - [[infrastructure chat 09]] [[July 4th, 2020]] 
-Yakcoin dev updates and discussion w/ [[Johnicholas Hines]] #meeting-notes
+      Yakcoin dev updates and discussion w/ [[Johnicholas Hines]] #meeting-notes
     - [[infrastructure chat 08]] [[June 27th, 2020]]
-marketing outreach w/ [[Alex Wagner]]+ levelling up discord w/ [[Jordan Peacock]] #meeting-notes
+      marketing outreach w/ [[Alex Wagner]]+ levelling up discord w/ [[Jordan Peacock]] #meeting-notes
     - [[infrastructure chat 07]] [[June 20th, 2020]] 
-Consulting diagrams w/ [[Steven Moody]] #meeting-notes
+      Consulting diagrams w/ [[Steven Moody]] #meeting-notes
     - infrastructure chat 06 [[June 13th, 2020]] 
-notes in — [[Yak Collective Website]] + [[Yak Droppings]] #meeting-notes
+      notes in — [[Yak Collective Website]] + [[Yak Droppings]] #meeting-notes
         - Audio Recording: https://drive.google.com/file/d/1DVi_QFWCoyJjT1UPUXp52tQ876NS-vp2/view
     - [[infrastructure chat 05]] [[June 6th, 2020]] 
-didn't happen but agenda topics here #meeting-notes
+      didn't happen but agenda topics here #meeting-notes
     - [[infrastructure chat 04]] [[May 30th, 2020]]
-Project Capacity + experiences with Yakcoin discussion #meeting-notes
+      Project Capacity + experiences with Yakcoin discussion #meeting-notes
     - [[infrastructure chat 03]] [[May 23th, 2020]] 
-Updates on new-member onboarding, feedback mechanisms, event ideas #meeting-notes
+      Updates on new-member onboarding, feedback mechanisms, event ideas #meeting-notes
     - [[#infrastructure chat 02]] [[May 16th, 2020]] 
-Speculative discussion on ideal-state for YC infrastructure #meeting-notes
+      Speculative discussion on ideal-state for YC infrastructure #meeting-notes
     - [[#infrastructure chat 01]] [[May 9th, 2020]] 
-On-boarding new members #meeting-notes
+      On-boarding new members #meeting-notes

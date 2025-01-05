@@ -13,9 +13,13 @@
         - Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.
         - Copy the block ref of that summary paragraph
         - Embed (don't just copy) the block under your name on this page
-            - Indented under your name on this page, start typing ```html
-{{embed: ((Trivedi Girish))}}``` and then paste your block ref. It should end up looking something like this: ```clojure
-{{embed: ((((Hello, my name is Girish Trivedi and Iam based in New Delhi , India. Iam a Consultant focused around technology, Media and Telecom vertical. I work on Growth strategies, Got to market strategies and Segmentation projects. I am also a transition coach for professionals in transition and on my way towards becoming ICF( International Coach Federation) certified coach.                 ))))}}```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.
+            - Indented under your name on this page, start typing 
+              ```html
+              {{embed: ((Trivedi Girish))}}
+              ``` and then paste your block ref. It should end up looking something like this: 
+              ```clojure
+              {{embed: ((((Hello, my name is Girish Trivedi and Iam based in New Delhi , India. Iam a Consultant focused around technology, Media and Telecom vertical. I work on Growth strategies, Got to market strategies and Segmentation projects. I am also a transition coach for professionals in transition and on my way towards becoming ICF( International Coach Federation) certified coach.                 ))))}}
+              ```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.
         - If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.
 - {{embed: [[Les Greys]]}}
 - {{embed: [[Raphael Ronot]]}}
@@ -64,7 +68,7 @@
     - - Futurist from Melbourne, Australia. Background in foresight, strategy and design - bent for 'Workforce and social Futures'. In part indie foresight work in part conventional foresight work - aka pragmatic foresight - horizon scanning, scenarios etc for corps, alongside the ACTUAL work I enjoy - helping people step away from the present and ask more critical questions and also upending anything techno-utopia and anything with a title 'The Future of Xxxx'.....
 - [[Khuyen Bui]]
 - [[Xander Cansell]]
-
+  
     - I’ve recently started out on my journey of indie consulting. Currently looking to improve my consulting skillset, and move beyond my first group of mostly publishing and publishing-adjacent clients (usually working on business strategies, data analysis, digital strategy, a little technical stuff) and broaden my potential client base to other industries. Previously I was Head of Digital for a publishing/tech startup in London (Unbound). And I’m about half way through a (remote) EMBA.
 - [[Evan Carmi]]
     - Based in Portland
@@ -117,7 +121,7 @@
     - On-time secondary Math educator and school leader, now full-stack dev and small agency owner working with SMBs to develop prototypes at speed. I'm fascinated by learning and code - in digital gardens, user experiences and the leveraging of tech for good. Found at https://kevincunningham.co.uk and @dolearning on Twitter.
 - [[Massimo Curatella]]
     - Hi, I’m Massimo Curatella and I am a Senior Experience Designer, a Facilitator, a Trainer, and an Educator. I work as a Senior Strategic Designer in the fields of Service Design, UX Design, Interaction Design, User Research, User Interface Design, Usability Testing and managing small remote groups of designers and developers.
-I write about design, education, training, facilitation, Systems Thinking, and Technology on https://curatella.com
+      I write about design, education, training, facilitation, Systems Thinking, and Technology on https://curatella.com
 - [[Vinay Débrou]]
 - [[Roberto Delgado]]
     - Web developer (Lambda School student, WEBPT11). Indy consultant primarily for non-profits. Wordpress, Chatfuel, React. 
@@ -224,10 +228,10 @@ I write about design, education, training, facilitation, Systems Thinking, and T
         - [www.johnicholas.com](http://www.johnicholas.com)
 - [[Pamela Hobart]]
     - I'm a philosopher & philosophical life coach (est. 2019) in NYC. 
-
-Before that, I dropped out of a PhD program in philosophy & education and worked as a non-technical person in tech. 
-
-
+      
+      Before that, I dropped out of a PhD program in philosophy & education and worked as a non-technical person in tech. 
+      
+      
     - [pamelajhobart.com](https://www.pamelajhobart.com/)
     - Twitter: [@amelapay](https://twitter.com/amelapay)
 - [[Morgan Holland]]
@@ -297,7 +301,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
         - Started out doing full stack work with web startups and freelance work
         - Started a few web retail product and service businesses
         - Data architect/engineer/scientist for brick and mortar retail services company for a while
-
+          
         - Working now with a startup in SSO space
 - [[Darren Kong]]
     - Product person based in #Texas/Austin 
@@ -365,7 +369,7 @@ Before that, I dropped out of a PhD program in philosophy & education and worked
     - Previously, a short stint consulting inside a design agency (London/Istanbul), and 5 years of Product Management roles (LA, London) where I either introduced Product to an org, or developed & launched new ventures. 
     - First career: tv producer & filmmaker
     - Twitter: [@dmcdougall](https://twitter.com/dmcdougall) 
-LinkedIn: https://www.linkedin.com/in/dmcdougall
+      LinkedIn: https://www.linkedin.com/in/dmcdougall
 - [[Nik McFly]]
     - IT advisor based in Moscow, Russia. Currently in Barcelona, Spain.
         - **current projects:**
@@ -397,17 +401,17 @@ LinkedIn: https://www.linkedin.com/in/dmcdougall
         - **Previously**: Data & Decision Science @ Philadelphia Inquirer, Naval systems analyst (civilian)
         - **Bio**:
             - > from philly
-> italo-celt (self-loathing colonizer-barbarian...[& catholic])
-> study poli sci & music (HS & college are deservedly defunct)
-> train in qual, autodidact quant ≈ 'empirical sensemaking'
-> Gr8 Recession hideout as gov employee (Navy)
-> millennial sabbatical
-> pivot to civic/social impact work
-> approximately 'game~b', 'doomer optimist'
-> tired of multiplicative value chain of dysfunctional orgs scaling my work to 0
-> go indie 2022
-> meta-game: more balanced & integrated life in greater community
-> doing the work, finding the others
+              > italo-celt (self-loathing colonizer-barbarian...[& catholic])
+              > study poli sci & music (HS & college are deservedly defunct)
+              > train in qual, autodidact quant ≈ 'empirical sensemaking'
+              > Gr8 Recession hideout as gov employee (Navy)
+              > millennial sabbatical
+              > pivot to civic/social impact work
+              > approximately 'game~b', 'doomer optimist'
+              > tired of multiplicative value chain of dysfunctional orgs scaling my work to 0
+              > go indie 2022
+              > meta-game: more balanced & integrated life in greater community
+              > doing the work, finding the others
 - [[Vlad Mehakovic]]
     - Growth Marketer working on a mix of consulting and risk / reward gigs
     - Origination story involves falling feet-first into my first gig whilst wrapping up a failed startup
@@ -451,9 +455,9 @@ LinkedIn: https://www.linkedin.com/in/dmcdougall
     - M.Sc. Mechanical Engineer trying to find out **what holds the world together at its core.**
     - Experienced in working **Operation Research (Gurobi/SCIP), Statistical Analysis and Network Theory.** 
     - LinkedIn: https://www.linkedin.com/in/suwaythan-nahaganeshan-032579185/
- 
+       
 - [[Chris Neels]]
-
+  
     - Most recently managed innovation, strategy, foresight, and HCD projects at a consultancy. Wrapping up an MSc in Science and Technology Studies (STS) in London. Currently open to collabs, projects, and gigs.
     - Current project: Recasting academic research across a range of disciplines to help organizations shape emerging technologies towards better futures, see: [2100 Foundation](https://2100.foundation) and [2100 Design](https://2100.design).
     - [[Writer]] of the [2100 Newsletter](https://2100.substack.com)
@@ -469,9 +473,9 @@ LinkedIn: https://www.linkedin.com/in/dmcdougall
     - Interests: Working with people to uncover and apply their strengths in ways they haven't thought of before.
 - [[Oleksandr Nikitin]]
     - Architecture, Prototyping, Reverse Engineering -- in knowledge management, finance, cryptography, distributed computing, and more.
-
-If you have a technology problem - I can solve it. 
-If it's a people\process\requirements\ui\ux problem, if you're drowning in data or tech debt -- let's shed some light and see what can be done.
+      
+      If you have a technology problem - I can solve it. 
+      If it's a people\process\requirements\ui\ux problem, if you're drowning in data or tech debt -- let's shed some light and see what can be done.
     - [oleksandr@tvori.info](mailto:oleksandr@tvori.info), tg: [@oleksandr_now](https://t.me/oleksandr_now), often wizzard0
 - [[Meredith Noelle]]
 - [[Josh Nuttall]]
@@ -484,10 +488,10 @@ If it's a people\process\requirements\ui\ux problem, if you're drowning in data 
 - [[Chad Owen]]
 - [[Sam Panter]]
     - Designer/Programmer/Strategist based in Brooklyn. Working mostly in hemp/cannabis grow tech at the moment, with a background in HR software, fine art, and ecommerce.
-
-Always looking to pick up odd web tech or product jobs (coding, design, troubleshooting) to pad my margins :)
-
-hello@sampanter.info
+      
+      Always looking to pick up odd web tech or product jobs (coding, design, troubleshooting) to pad my margins :)
+      
+      hello@sampanter.info
 - [[Jordan Peacock]]
     - [Husband, father of four, CEO and cofounder of Becoming Machinic Inc., founder of Sortilege Incorporated.]
     - Twitter: [@hewhocutsdown](https://twitter.com/hewhocutsdown)
@@ -592,12 +596,12 @@ hello@sampanter.info
 - [[Shreeda Segan]]
 - [[Vijay Shankar V]]
     - Currently: Senior Data Scientist at PagerDuty in [[Toronto]]. Work at the intersection of applied machine learning and product strategy. 
-
+      
     - I am looking to do more writing and indie strategy work connected to product innovation enabled by machine learning or other modelling techniques. Curious about organizational and individual approaches to learning and complex systems. 
     - Previously: Fraud Strategy at Capital One Canada, PhD in Condensed Matter Physics at University of [[Toronto]], Interest Rate Derivates at Lehman Brothers and some more random gigs as bike mechanic and STEAM educator.  
-
+      
     - Twittter: https://twitter.com/vijayshankarv
-LinkedIn: https://www.linkedin.com/in/vijayshankarv0
+      LinkedIn: https://www.linkedin.com/in/vijayshankarv0
 - [[Toby Shorin]]
     - Product + brand strategist with product and design background. Cultural analysis and strategy. Blog at [Subpixel Space](https://subpixel.space).
     - twitter: [@tobyshorin](twitter.com/tobyshorin)
@@ -609,18 +613,18 @@ LinkedIn: https://www.linkedin.com/in/vijayshankarv0
     - I have Methodological Experience in survey design, statistical analysis of survey data, semi-structured interviews, focus group moderation, and thematic analysis.
 - [[Matt Smith]]
     - **Short Bio:** Located in Australia (near Melbourne) but these days I tend to work with clients outside of my country. My background is in instructional design, management consulting, training, change management, communications and management. 
-
-My passion and focus is on learning & development and I'm also very interested in changing how we think about, define and "do" work.
-
-My traditional consulting work has been:
-
-1. Helping Learning & Development (L&D) departments up-skill and develop a org-wide strategy 
-2. helping a business build (or rebuild) an L&D function 
-3. designing L&D projects for large scale change (e.g. digital transformation)
-
-__but__ I am much more interested in using my time now to really push the boundaries of using technology and art to accelerate people's development and growth.
-
-Previously founder/CEO of Pure Learning (a digital learning and consulting company) and have been in consulting for 10 years. 
+      
+      My passion and focus is on learning & development and I'm also very interested in changing how we think about, define and "do" work.
+      
+      My traditional consulting work has been:
+      
+      1. Helping Learning & Development (L&D) departments up-skill and develop a org-wide strategy 
+      2. helping a business build (or rebuild) an L&D function 
+      3. designing L&D projects for large scale change (e.g. digital transformation)
+      
+      __but__ I am much more interested in using my time now to really push the boundaries of using technology and art to accelerate people's development and growth.
+      
+      Previously founder/CEO of Pure Learning (a digital learning and consulting company) and have been in consulting for 10 years. 
         - I'm always interested in meeting smart and interesting people, so please feel free to reach out. Here are my contact details:
             - email: hello@thisismattsmith.com
             - Twitter: [@MattSmithTweets](https://twitter.com/MattSmithTweets)
@@ -684,18 +688,18 @@ Previously founder/CEO of Pure Learning (a digital learning and consulting compa
     - connect: 
         - https://www.linkedin.com/in/matttreacey/
         - https://twitter.com/matt_treacey
-
+          
 - [[Gökhan Turhan]]
     - Conceptual creative with a background in comparative literature, media labs, archives, conceptual art, experimental poetics, monetary art, communication & marketing, and financial technology. Believes that smart contractual primordial soup is genuine, & hedging our species against the entropic decay of both natural events, and the biases of masses, or atomic sub-DAOs such as an individual. 
-
-Jumped on the decentralization orbit whilst contemplating (qualitatively) upon that MA thesis wherein a significant amount of futurist shit-posting flirts with longevity, digital objects, gaming, conceptual arts with blockchain technology in theory. 
-
-Decided to learn what the heck that non-fungible format was, and is, at around early 2020 without any prior knowledge of financial technology, composability, game theory, coordination etc. (The Smiths—Sweet and Tender Hooligan intervenes). Been minting, trading, and actively power-using anything decentralized since then. Some say he an artist, others gym shark. 
-
-**Twitter** [@0xgokhan](https://twitter.com/0xgokhan)
-**Newsletters** [Mirror](https://gokhan.mirror.xyz), [Substack](https://gokhan.substack.com)
-**Formality** [LinkedIn](https://www.linkedin.com/0xgokhanturhan), [Academia](https://independentresearcher.academia.edu/gokhanturhan)
-[Linktree](https://linktr.ee/0xgokhan)
+      
+      Jumped on the decentralization orbit whilst contemplating (qualitatively) upon that MA thesis wherein a significant amount of futurist shit-posting flirts with longevity, digital objects, gaming, conceptual arts with blockchain technology in theory. 
+      
+      Decided to learn what the heck that non-fungible format was, and is, at around early 2020 without any prior knowledge of financial technology, composability, game theory, coordination etc. (The Smiths—Sweet and Tender Hooligan intervenes). Been minting, trading, and actively power-using anything decentralized since then. Some say he an artist, others gym shark. 
+      
+      **Twitter** [@0xgokhan](https://twitter.com/0xgokhan)
+      **Newsletters** [Mirror](https://gokhan.mirror.xyz), [Substack](https://gokhan.substack.com)
+      **Formality** [LinkedIn](https://www.linkedin.com/0xgokhanturhan), [Academia](https://independentresearcher.academia.edu/gokhanturhan)
+      [Linktree](https://linktr.ee/0xgokhan)
 - [[Saravanan V]]
     - Gig curious Techie. Right now at the second level - contracting. Here to see if/how  to move up to the next level. 
     - Currently Network Solutions guy for Telcos & large enterprise orgs. Ping me if I could help in someway. Contacts in the name page. 

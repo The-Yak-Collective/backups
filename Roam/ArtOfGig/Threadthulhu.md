@@ -1,6 +1,6 @@
 - [[August 16th, 2022]]
     - **Twitter Blue** | Grabbed this vgr text comm-A in Twitter Blue thread view. 
-__(Twitter bought Threader and turned it into Blue » https://threader.app/ )__
+      __(Twitter bought Threader and turned it into Blue » https://threader.app/ )__
         - URL: https://twitter.com/vgr/status/1529870394034794499
             - # Thread
                 - ![](https://pbs.twimg.com/profile_images/1558999691672440837/j2u1Ypag_x96.jpg)[🔗](https://twitter.com/vgr)
@@ -35,13 +35,13 @@ __(Twitter bought Threader and turned it into Blue » https://threader.app/ )__
                 - ![](https://pbs.twimg.com/card_img/1558179297877053440/2jD0LneV?format=jpg&name=small)[🔗](https://t.co/LJvG9Hc37o)
                 - [studio.ribbonfarm.comDerangements![🟨](https://abs-0.twimg.com/emoji/v2/svg/1f7e8.svg)![⬜](https://abs-0.twimg.com/emoji/v2/svg/2b1c.svg)![🟨](https://abs-0.twimg.com/emoji/v2/svg/1f7e8.svg)![🟩](https://abs-0.twimg.com/emoji/v2/svg/1f7e9.svg)![⬜](https://abs-0.twimg.com/emoji/v2/svg/2b1c.svg)](https://t.co/LJvG9Hc37o)
                 - Step-by-step-ism (needs a better name) is exactly the antidote we need to a bunch of unhealthy things:
-
-- vibing as a bad substitute for sense-making
-- derangement syndromes as a chronic state of mental ill-health
-- uncritical brute-force trial-and-error that learns nothing
+                  
+                  - vibing as a bad substitute for sense-making
+                  - derangement syndromes as a chronic state of mental ill-health
+                  - uncritical brute-force trial-and-error that learns nothing
                 - I think we’re about to discover that there are “10x teachers” and that prompting skill is fat-tailed
-
-Prompting and step-by-stepping is basically skilled teaching, whether it’s silicon or living neural nets. Except in the former you can also do some “brain surgery”
+                  
+                  Prompting and step-by-stepping is basically skilled teaching, whether it’s silicon or living neural nets. Except in the former you can also do some “brain surgery”
                 - Thanks
                 - [@kylemathews](https://twitter.com/kylemathews)
                 -  for reminding me of this piece. Yes, Blue Origin “gradatim ferociter” might have a moment again. I forgot I wrote this. Much as I admire SpaceX, long-term I think I trust this philosophy more, whatever the execution troubles.
@@ -50,8 +50,8 @@ Prompting and step-by-stepping is basically skilled teaching, whether it’s sil
                 - In general, I guess this is a swing away from both “one-shot” intuitionism where you get from A to B via a stroke of illegible genius AND away from the move-fast-break-things mode of inefficient learning where you get a high learning rate at the cost of high waste and risk
                 - A more “slow is smooth, smooth is fast” approach to mindful learning.
                 - There is also going to be a tendency to deny there us anything new here and an effort to identify this development with a favored old tradition. I’d suggest resisting that temptation. 
-
-There’s more than “Socratic method, you invented the Socratic method!” here.
+                  
+                  There’s more than “Socratic method, you invented the Socratic method!” here.
     - **Readwise** | DMd link to @readwise + `t` (or `thread`), then used Export Highlights command in app, which download a .md file
         - # Tagging an Interesting M... by @vgr on Twitter
             - URL: https://twitter.com/vgr/status/1529870394034794499

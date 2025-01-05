@@ -8,11 +8,11 @@
 - Breakdown of nation state?
 - Highlights from the discussion on 29th May, 2020
     - "My reflexive collision points are longer-term trends:
-- More/much older people (impacts on healthcare, biotech, finance. More elderly than children across the non-African world in 2040.)
-- Bigger cities (cultural attitudes, power devolution from countries, concentrations of wealth, energy. 2/3 of humans will be urban in 2040.)
-- Climate Change (energy, supply chains, general mitigation)
-- Internet/AI (still eating the world, esp undisrupted sectors e.g. construction)"  
-[[Chris Reid]]
+      - More/much older people (impacts on healthcare, biotech, finance. More elderly than children across the non-African world in 2040.)
+      - Bigger cities (cultural attitudes, power devolution from countries, concentrations of wealth, energy. 2/3 of humans will be urban in 2040.)
+      - Climate Change (energy, supply chains, general mitigation)
+      - Internet/AI (still eating the world, esp undisrupted sectors e.g. construction)"  
+      [[Chris Reid]]
     - " A subtler collision force is neurotech itself... the original "traffic jam" model is not cars+another trend, but isolated car ownership --> pervasive car ownership and infrastructure shift. So a homogeneous pattern of traffic jam = everybody has some access to neurotech, either through data, or NaaS, or the devices themselves, and infrastructure has evolved to support it. Like asphalt roads for cars." [[Venkatesh Rao]]
     - "New methods for authentication per the whole faceID - neuroID line of thought" [[Darren Kong]]
     - "I really like the idea of anyone being able to mock up an image or direct a movie through visualization and some AI assist on details. It's like not just no-code but also no-body production" [[Chris Reid]]

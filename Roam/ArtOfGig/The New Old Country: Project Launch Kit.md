@@ -34,29 +34,29 @@
     - HISTORY & CULTURAL FORCES 
         - How homesteading has changed from Manifest Destiny era (about “opportunities” being provided to Americans) to 1960s - 2020 (about how America has failed its citizens, failed as a state)
         - CREATION OF THE NEW COUNTRY (historical timeline and forces)
-19th Century
-Homestead_Acts
-Immigrant Adverts
-Land Grant Schools
-Railroad
-
-20th Century 
-Interstate
-Suburban Development
-Back to the Land 
-Whole Earth Catalogue
-Homesteading 
-Tribal Land Grant Colleges
-
-
-Old Country
-1st, 2nd, 3rd generations
-Fresh Off The Boat (FOB)
-Langauge 
-Industrial Shifts (Sail, Steam, Si)
-Sovereign Shifts (Aboriginal, Colonial, Home Rule)
-(Village, subject, refugee, citizen)
-Economic Shifts (Dutch Company, Port Los Angeles, Schengen)
+          19th Century
+          Homestead_Acts
+          Immigrant Adverts
+          Land Grant Schools
+          Railroad
+          
+          20th Century 
+          Interstate
+          Suburban Development
+          Back to the Land 
+          Whole Earth Catalogue
+          Homesteading 
+          Tribal Land Grant Colleges
+          
+          
+          Old Country
+          1st, 2nd, 3rd generations
+          Fresh Off The Boat (FOB)
+          Langauge 
+          Industrial Shifts (Sail, Steam, Si)
+          Sovereign Shifts (Aboriginal, Colonial, Home Rule)
+          (Village, subject, refugee, citizen)
+          Economic Shifts (Dutch Company, Port Los Angeles, Schengen)
     - VERNACULAR ARCHITECTURE 
         - regional/cultural methods of building as reflected in language for building methods, e.g. pole barns  
     - BUILDING METHODS, SCIENCE, ARCHITECTURE 

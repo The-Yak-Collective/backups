@@ -19,16 +19,16 @@
     - **Society/Macro Cluster**
     - [[Nikhil Deshmukh: Speech Ways]]
         - I did my PhD in computational neuroscience, making electrophysiological recordings from cells in the retina to inform models of computation and signal processing. More broadly, my work was answering the question of how circuits of neurons compute useful things. In terms of neurotech, I've developed a novel silicon micropipette for single-neuron recording, as well as algorithms to sort spikes from multi-electrode arrays that record from hundreds of neurons simultaneously. I also designed and built a pieozelectric sensor to detect nanoscale motion from neurons. Turns out they inflate and deflate when they spike :)   
-https://www.jneurosci.org/content/32/43/14859
-https://www.nature.com/articles/nnano.2012.112
+          https://www.jneurosci.org/content/32/43/14859
+          https://www.nature.com/articles/nnano.2012.112
     - [[Michael Colin: Time Ways, Building Ways]]
     - [[Drew Schorno: Wealth Ways]]
     - [[Luke Butler: Rank Ways]]
         - Studied psych & neuroscience in undergrad, and studied public health for grad school with a focus on the neurobiology of developmental trauma. 
-
-Been working on the last 3 years on developing youth workforce development programming that incorporates brain science into curriculum model. 
-
-Interest- constantly learning & reading about different facets of the brain...over the quarantine have probably pulled ~400 journal articles, of which I've read maybe 10%
+          
+          Been working on the last 3 years on developing youth workforce development programming that incorporates brain science into curriculum model. 
+          
+          Interest- constantly learning & reading about different facets of the brain...over the quarantine have probably pulled ~400 journal articles, of which I've read maybe 10%
     - [[Scott Allen: Social Ways, Marriage Ways]] -- social
     - [[Sachin Benny: Order Ways]]
     - [[Kannen Ramsamy: Power Ways]]
@@ -80,8 +80,8 @@ Interest- constantly learning & reading about different facets of the brain...ov
     - [Arthur C. Clarke -- Hazards of Prophecy](http://www.sfcenter.ku.edu/Sci-Tech-Society/stored/futurists_hazards_of_prophecy.pdf) -- classic read on "failure of imagination" versus "failure of nerve"
     - [Decade of the Brain -- Wikipedia](https://en.wikipedia.org/wiki/Decade_of_the_Brain) -- [[Luke Butler]]
     - [Executive function: Reflection, iterative
-reprocessing, complexity, and the
-developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229715000295) -- [[Luke Butler]]
+      reprocessing, complexity, and the
+      developing brain](https://www.sciencedirect.com/science/article/abs/pii/S0273229715000295) -- [[Luke Butler]]
     - [It's all done with mirrors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904333/) -- [[Nikhil Deshmukh]]
     - [Direct neural interface and DARPA (video, 2017)](https://www.youtube.com/watch?v=nvUHDK59Igw&feature=youtu.be)
     - [A Higher-Order Theory of Emotional Consciousness (Ledoux & Brown, 2017)](https://www.pnas.org/content/114/10/E2016) -- [[Luke Butler]]

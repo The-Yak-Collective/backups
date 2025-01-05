@@ -279,7 +279,7 @@
                     - Wholesale/warehouse
                     - Transport
                     - Receiver:
-hospital/pharmacy/reseller
+                      hospital/pharmacy/reseller
                 - Packaging design constraints / modifications
                     - Temperature sensor with memory – cold chain consistency check
                     - Lock/seal – integrity check
@@ -295,7 +295,7 @@ hospital/pharmacy/reseller
                     - Central warehouse
                     - Optional courier
                     - Receiver: hospital
-ward/room
+                      ward/room
                 - Packaging design constraints / modifications
                     - Additional inlays for easier transport of different things
                     - Spill-proofing

@@ -1,7 +1,7 @@
 - About:: __collection of web links showing interesting information design as models future projects might riff off of__
 - 
 - [[**Monu** and **Aamya** live in one of the world’s most polluted cities. Only one of their families can afford air purifiers.]] » [NYTimes](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html) 
-__integrated text-data-video storytelling__
+  __integrated text-data-video storytelling__
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F-68lMX5TDe.png?alt=media&token=f848a7de-12ef-4e2c-9b1e-a507f3884469)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FecgS3YUkz9.png?alt=media&token=23c844f7-727a-44bc-9479-82eb8ee98620)
 - 
@@ -11,14 +11,14 @@ __integrated text-data-video storytelling__
     - > The Pudding is a digital publication that explains ideas debated in culture with visual essays.
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F7vLtjWY8NS.png?alt=media&token=158975e6-6fbf-4b8a-83ab-6efa60f9261f)
     - > Visual essays are an emerging form of journalism. Some of the most complex, debated topics get lost in “too long; didn’t read” 10,000-word articles. Visual storytelling makes ideas more accessible—or so goes the adage “a picture is worth a thousand words.”
-
-At The Pudding, our goal is to advance public discourse and avoid media echo chambers. We’re not chasing current events or clickbait. We choose topics where visuals both entertain and inform. This means that we invest in research and ignore news cycle noise. We’re in the business of bringing you stories you didn’t know you needed.
-
-We believe in a journalism that denounces false equivalence, one that can explicitly say Black Lives Matter, one that never views human rights as partisan issues, and one that believes a person's own experiences are central to strong storytelling.
-
-We hope to be a place that centers and amplifies voices that have long been ignored. We strive for our journalism to be one of key making, not gate keeping, and we won't shy away from stories that tackle racism, sexism, and classism head on.
-
-We are committed to listening, learning, making changes, and being pro-active in the fight for equity, inclusion, and racial and social justice.
+      
+      At The Pudding, our goal is to advance public discourse and avoid media echo chambers. We’re not chasing current events or clickbait. We choose topics where visuals both entertain and inform. This means that we invest in research and ignore news cycle noise. We’re in the business of bringing you stories you didn’t know you needed.
+      
+      We believe in a journalism that denounces false equivalence, one that can explicitly say Black Lives Matter, one that never views human rights as partisan issues, and one that believes a person's own experiences are central to strong storytelling.
+      
+      We hope to be a place that centers and amplifies voices that have long been ignored. We strive for our journalism to be one of key making, not gate keeping, and we won't shy away from stories that tackle racism, sexism, and classism head on.
+      
+      We are committed to listening, learning, making changes, and being pro-active in the fight for equity, inclusion, and racial and social justice.
     - [[Why are K-pop groups so large]] » [pudding.cool](https://pudding.cool/2020/10/kpop/)
         - __excellent use of scroll fixations__
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fy-v5KugBIM.png?alt=media&token=dd395c19-e1cc-4eb4-aea2-4b66d9d78cb0)

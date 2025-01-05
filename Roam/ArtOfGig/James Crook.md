@@ -1,7 +1,7 @@
 - Open Source software developer based in [[Ireland/Dublin]]. Diverse career in tech and research, including stints working in automated pharmaceutical research, satellite operating systems (x2), information discovery, broadcast television.  
-
-**Roam is making a mess of the following section.  I keep editing it back to what it should be, and it keeps merging in duplicate content, including content that isn't mine.**
-
+  
+  **Roam is making a mess of the following section.  I keep editing it back to what it should be, and it keeps merging in duplicate content, including content that isn't mine.**
+  
     - **current projects:**
         - [Audacity](http://audacityteam.org) — Since 2001 I have been contributing my time and programming skills to this popular free audio editing software.  Our teamwork builds software to enable people to be creative with their voices and music.  We're currently working on version 2.4.2, blending work that 'has to be done' with features that are fun for us to do.  
         - [Wikidiagrams](http://wikipedia.org) — A project to transform Wikipedia through collaboratively created, curated data-backed diagrams.

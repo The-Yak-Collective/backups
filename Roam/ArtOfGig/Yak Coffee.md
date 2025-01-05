@@ -1,5 +1,5 @@
 - **tl;dr: Book a free call with a few Yaks about something you saw/heard that might lead to longer and paid conversations.** [[Yak Collective Café]]  
-The project: [[Yak Coffee]]
+  The project: [[Yak Coffee]]
 - # Project meta: 
     - **Discord channel**:: Incubator > coffee-with-a-yak; also: [[infrastructure chats]] and [[YC Marketing]] chats  
     - Current State:: {{or:Started | Draft | Proposed | Stalled | Live | Finished | Abandoned}}
@@ -14,17 +14,17 @@ The project: [[Yak Coffee]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FC1MAJLotMn.png?alt=media&token=ba9c0ac7-0089-432f-8375-246791f9e3c4)
     - **The Problem: **: [[Marketing]]
         - How do we convert interest in Yak ideas into a consulting gig? 
-A conversation. 
-How to turn interest into positive press and reputation? 
-Many conversations.  
+          A conversation. 
+          How to turn interest into positive press and reputation? 
+          Many conversations.  
     - **This project will let us test these assumptions** about YakC and consulting:
         - Intake-calls work with more than one person taking the call
-
+          
         - Herds (small groups of Yaks) are a viable unit of organizing
-
+          
         - Free calls lead to enough paid engagement 
         - Yaks want YakC to serve (in part) as a bizdev channel for folks who dislike or are newbies at or are bad at bizdev
-
+          
         - Yaks can discover trustworthy colleagues within our community
         - Yaks will try a platform offering services comparable to fiverr (gig productization), Patreon (subscription models), and a design portfolio service.
         - Inbound marketing can substitute substantially for direct marketing and networking and word of mouth.
@@ -66,7 +66,7 @@ Many conversations.
             - Commerce. Lower friction for Yaks to solicit business 
             - Velocity. Increase surface area for PL collaboration and discovery
             - Craft. Yaks get collectively better at shaping offers and closing for projects
-
+              
         - C. From a Yak's perspective:
             - Goals: build peer and client network, turn conversations into leads, make this part of your sales funnel
             - Experience
@@ -80,7 +80,7 @@ Many conversations.
                     - Talk with your Herd about roles in coffee chats (facilitator, scribe, closer, etc) and coffee goals. Intent: being relaxed/professional with each other during a coffee. 
                     - Talk in your Herd about common project scope, the language you use, the size and scale, and how projects like this might work.
                     - Talk in your Herd about powerful and audacious Coffee offers. Why are you worth the distinctive premium your clients will gladly pay? 
-
+                      
                 - Complete your Herd profile
                     - Name, membership
                     - Time zones served
@@ -88,11 +88,11 @@ Many conversations.
                     - Kinds of funny-shaped problems you solve - tags, blurbs
                     - Links to artifacts (presentations, portfolios, videos) 
                 - Connect your personal calendars to our scheduling service
-
+                  
                 - Promote your Herd
-
+                  
                 - confirm bookings like a human professional, not a bot
-
+                  
                 - show up for calls
             - Effort: low
             - Price: free to start. 
@@ -103,7 +103,7 @@ Many conversations.
     - Agreements and legal boilerplate for free calls.
         - YakC Mutual NDA 
         - YakC Terms, privacy policy
-
+          
         - YakC IP and creative commons
     - Paid gigs. 
         - You Can't Stop At Just One. Subscribe to a series of calls.
@@ -111,7 +111,7 @@ Many conversations.
         - YakC splits policy 
     - Come to the [[Yak Collective Café]] 
         - Linking content marketing to a Herd's CoffeeMe workflow
-
+          
     - Reputation and feedback to signal that some herds have earned more trust  
     - A special role for sherpas with bizdev skills 
         - Sherpas can host the calls for yaks who are inexperienced, asocial, introverted, or of a different culture 

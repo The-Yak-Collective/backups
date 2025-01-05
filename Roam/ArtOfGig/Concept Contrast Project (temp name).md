@@ -64,7 +64,7 @@
     - Genesis::
         - https://discordapp.com/channels/692111190851059762/706606552819433482/766052418219147274
             - We were talking about viable old-fashioned journalism opportunity?
-
+              
             - My suggestion is: we have the power to call out new controversial perspectives.
             - MVP Recommendation: find companies which are already going against the grain.
             - Scalability: take the approach, generalise and take to potential clients

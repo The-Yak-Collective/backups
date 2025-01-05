@@ -33,6 +33,6 @@
         - Acknowledge acts of Sherpa giving, calm, grit, and wisdom.
 - ## More Sherpa resources
     - ### 
-
+      
 - Notes on this: 
     - [[Phil Wolff]] started this page based on a [[governancechat]] on [[January 15th, 2021]]. [[Yak Gov Chat Minutes - Discovery and Serendipity]]

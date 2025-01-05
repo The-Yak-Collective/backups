@@ -26,7 +26,7 @@
         - NDA
             - https://nondisclosureagreement.com/independent-contractor.html  (needs to be edited for subcontractor)
             - Here's a unilateral NDA that I used wtih a consultant. Obviously, IANAL, etc, etc
-https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=sharing [[Jordan Peacock]]
+              https://drive.google.com/file/d/1qXvzBcKyuOU6PMdxDIN3MaiZav0za9ja/view?usp=sharing [[Jordan Peacock]]
         - subcontract
             - https://www.pandadoc.com/subcontractor-agreement-template/
     - https://avokaado.com/ - A tool to draft contracts "code-review" style.

@@ -16,7 +16,7 @@
 - # Background
     - request for help on establishing a YakC Marketing function 
         - from discord announcements channel by [[Venkatesh Rao]]
-__Area 2: Developing a proper marketing capability around our assets and members. Ie, keeping track of how our project output is doing, leads coming in, maybe developing marketing assets to land more paid collective projects and leads for gigs for individual members etc. Basically a decenteralized/cooperative CMO type activity.__
+          __Area 2: Developing a proper marketing capability around our assets and members. Ie, keeping track of how our project output is doing, leads coming in, maybe developing marketing assets to land more paid collective projects and leads for gigs for individual members etc. Basically a decenteralized/cooperative CMO type activity.__
     - [[Hugo Macedo]] volunteered - initial conversation with [[Maier Fenster]]
     - [[Matthew Sweet]] that is running the Newsletter wants to be involved
     - [[Grigori Milov]] also volunteered to join
@@ -62,13 +62,13 @@ __Area 2: Developing a proper marketing capability around our assets and members
         - Weekly calls - Wednesday at 5pm GMT
 - # Workstreams
     - [[Foundations - Positioning]]
-all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning
+      all foundational topics related to the value proposition, benefits, barriers, target personas, #branding, #positioning
     - [[Showcase Projects Launch]]
-how do we launch showcase projects to maximize target visibility and engagement
+      how do we launch showcase projects to maximize target visibility and engagement
     - [[Marketing Channels]]
-where and how do we communicate and engage with the target audience
+      where and how do we communicate and engage with the target audience
     - [[Marketing Resources]]
-artifacts that we need or have that will be the base of our communication - what and how to build them (inc. Prospectus ) 
+      artifacts that we need or have that will be the base of our communication - what and how to build them (inc. Prospectus ) 
     - 
 - ### Random Notes
     - to be edit/comment/upgraded to the main doc
@@ -116,7 +116,7 @@ artifacts that we need or have that will be the base of our communication - what
             - Persona
                 - How does our target ideal client looks like?
                 - Censydiam Model compass
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FpDWquf-7hA.png?alt=media&token=c8f805f7-c9ac-492c-a011-4f3eded825dd)
+                  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FpDWquf-7hA.png?alt=media&token=c8f805f7-c9ac-492c-a011-4f3eded825dd)
             - Benefits
                 - Functional benefit - what's in it for me
                 - Emotional benefit - how does it make me feel
@@ -145,15 +145,15 @@ artifacts that we need or have that will be the base of our communication - what
         - good old SWOT that everyone understands
             - {{[[table]]}}
                 - ^^** Strengths **
-^^Diversity - skills, experience, sectors, mind-sets
+                  ^^Diversity - skills, experience, sectors, mind-sets
                     - ^^** Weakness **
-^^coordinate effort in a decentralized organization
-consistency of message
+                      ^^coordinate effort in a decentralized organization
+                      consistency of message
                 - ^^** Opportunities **
-^^size and footprint of the network
-content from the network
+                  ^^size and footprint of the network
+                  content from the network
                     - ^^** Threats **^^
-Yaks competing for attention
+                      Yaks competing for attention
         - Ideas need sorting
             - YC Publication (twitter, blog, podcast, newsletter) - curated content from the YC
                 - What if you could gather the combined audience from all Yaks

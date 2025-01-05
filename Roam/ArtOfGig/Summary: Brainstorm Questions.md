@@ -2,35 +2,35 @@
 - If you are new to neurotech and Kernel, please go through the references on the main page [[Neurofuturama]]
 - Quotes from experts (guest participants) and principal
     - Reach out to (Semon Rezchikov) if you have questions related to this
-"The main technical thing I can contribute is that I spent some time thinking about fundamental limits to very high-fidelity recordings of the brain, and what are the tradeoffs between better spatial and temporal data. And also how to approach using small model organisms with advances in neural recording technology to isolate and try to make progress on some basic problems."
+      "The main technical thing I can contribute is that I spent some time thinking about fundamental limits to very high-fidelity recordings of the brain, and what are the tradeoffs between better spatial and temporal data. And also how to approach using small model organisms with advances in neural recording technology to isolate and try to make progress on some basic problems."
     - Spatio-temporal limits to recording neural activity (Simon Rezchikov)
-"My understanding is that if you really want per-neuron recordings the obstruction you get is basically that its extraordinarily difficult not to set fire to the brain"
+      "My understanding is that if you really want per-neuron recordings the obstruction you get is basically that its extraordinarily difficult not to set fire to the brain"
     - Kernel correlations at a symbolic level [[Venkatesh Rao]]
-"How should we understand the kind of techniques Kernel uses? I thought the idea of encoding a unique flicker pattern in letters displayed on a screen to establishing a quick correlation between stimuli and response was great... but it's sort of at a 'symbolic' level"
+      "How should we understand the kind of techniques Kernel uses? I thought the idea of encoding a unique flicker pattern in letters displayed on a screen to establishing a quick correlation between stimuli and response was great... but it's sort of at a 'symbolic' level"
     - "A basic phenomenon in neural recording (and this continues to be very actively debated) is basically if you record bad data from a small subset of neurons, you might hope that everything is correlated enough that if you do dimensionality reduction on your recording you might actually find that it behaves in a relatively low-dimensional, and sort of 'meaningful' way. This sort of works! But it's sort of unclear what is going on." (Simon Rezchikov)
     - "In general, I think looking to the periphery of utopian/dystopian ideas to the interesting dynamic underneath I think leads to more fertile speculations. Something about both the dystopian/utopian labels evaluating a thing seems to cauterize the imagination a bit, which is why I'm mostly not a fan of black mirror though many episodes are fun... it's gotcha narrativism". [[Venkatesh Rao]]
 - FAQs
     - Q: What's the resolution limit for measuring neuron activity using non-invasive neurotech such as Kernel? 
-A: Groups of neurons 1000s to 10000s or even worse. There's a fundamental assumption baked in that whatever one needs to read can be read reliably from EXTREMELY coarse activity patterns (Semon Rezchikov)
+      A: Groups of neurons 1000s to 10000s or even worse. There's a fundamental assumption baked in that whatever one needs to read can be read reliably from EXTREMELY coarse activity patterns (Semon Rezchikov)
     - Q: How difficult is it to perform real time analysis on the data being captured through non-invasive neurotech?
-A: Continued from above... And that’s for post-hoc analysis. Real-time (goal of these techs) is even harder i.e. there’s a lot of computationally expensive ways to play with data after you’ve captured it to do categorization and prediction on different sets. Doing that live is a whole other ballgame (Joseph Fridman)
+      A: Continued from above... And that’s for post-hoc analysis. Real-time (goal of these techs) is even harder i.e. there’s a lot of computationally expensive ways to play with data after you’ve captured it to do categorization and prediction on different sets. Doing that live is a whole other ballgame (Joseph Fridman)
     - Q: Will first gen Kernel devices act as sensing devices or prediction devices?
-A: First gen Kernel devices will focus primarily on sensing. However, for the futures exercise, prediction/complete loops can be considered 
+      A: First gen Kernel devices will focus primarily on sensing. However, for the futures exercise, prediction/complete loops can be considered 
     - Q: How do various sensing technologies compare when it comes to resolution?
-A: From [[Nikhil Deshmukh]] ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F00y9e_2NvE.png?alt=media&token=56ad1026-6d59-4d6f-a7ed-d68eb9cac911)
+      A: From [[Nikhil Deshmukh]] ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F00y9e_2NvE.png?alt=media&token=56ad1026-6d59-4d6f-a7ed-d68eb9cac911)
     - Q: One question I have is about the capabilities of these types of measuring technologies with cortical vs. subcortical activity, and the implications of this when capturing / evaluating / making declarative claims about cognition & brain activity
-A: From [[Nikhil Deshmukh]] My understanding is that you only really measure averages of cortical surface activity
+      A: From [[Nikhil Deshmukh]] My understanding is that you only really measure averages of cortical surface activity
     - Q: Is it fair to assume that the sensing devices won't be able to go beyond coarse grained measurements and interpretations?
-A: If you have 20 years and you really want to do something totally noninvasive and real time?  It's a reasonable bet IMO. But otoh what you want to measure is some coarse grained thing! But no one is exactly sure what scale the salient degrees of freedom for like symbolic reasoning really lie, and there is very interesting debate about this. (Semon Rezchikov)
-A: I think we will be able to model circuits of 100 to 1000s of neurons in specific brain regions, and that these circuits will produce signals that are measurable non-invasively. The models can be developed with invasive single-cell recording techniques and then used for prediction. [[Nikhil Deshmukh]]
+      A: If you have 20 years and you really want to do something totally noninvasive and real time?  It's a reasonable bet IMO. But otoh what you want to measure is some coarse grained thing! But no one is exactly sure what scale the salient degrees of freedom for like symbolic reasoning really lie, and there is very interesting debate about this. (Semon Rezchikov)
+      A: I think we will be able to model circuits of 100 to 1000s of neurons in specific brain regions, and that these circuits will produce signals that are measurable non-invasively. The models can be developed with invasive single-cell recording techniques and then used for prediction. [[Nikhil Deshmukh]]
     - Q: Is it fair to assume that typical rates of innovation over the past 20 years will remain so going forward? I see a lot of old research on neurotech talking about the same things I see today and it makes me wonder how this will play out. Will it be something like ML/DL where core concepts were published decades ago but the tech to implement it only came along now. Is Kernel aspiring to be that point of inflection by making neurotech affordable/scalable?
-A: Solving a problem/idea for a new era of technology/scale/miniaturization/cost-point is basically a new challenge and the old/prescient research is often not as useful as the pioneers wish/hope [[Venkatesh Rao]]
-A: I think the limiting factor here is our understanding of the brain. Not sure if anyone has calculated the rate of discovery for neuroscience, but the balance is still heavily towards the unknown i.e. that we know far less about the neuroscience than what is possible to be known. [[Nikhil Deshmukh]]
+      A: Solving a problem/idea for a new era of technology/scale/miniaturization/cost-point is basically a new challenge and the old/prescient research is often not as useful as the pioneers wish/hope [[Venkatesh Rao]]
+      A: I think the limiting factor here is our understanding of the brain. Not sure if anyone has calculated the rate of discovery for neuroscience, but the balance is still heavily towards the unknown i.e. that we know far less about the neuroscience than what is possible to be known. [[Nikhil Deshmukh]]
     - Q: Can Kernel devices track smell, taste and touch reactions? I am assuming yes. So then set up experiment to track reaction to same smell in many different humans. Same with taste and with touch.  My sense is sound and sight has been done many times over perhaps?
-
+      
     - Q: Can use of Kernel devices in brain research have the potential to substantially decrease costs and accelerate research time-lines? Can they effectively at least complement imaging tools that are now central to brain research?
-A: Yes, that much is clear. It’s a big cost-down for some kinds of research, as well as feature expansion since you can be mobile instead of strapped into a huge machine. [[Venkatesh Rao]]
-
+      A: Yes, that much is clear. It’s a big cost-down for some kinds of research, as well as feature expansion since you can be mobile instead of strapped into a huge machine. [[Venkatesh Rao]]
+      
 - Metaphors
     - [Could a neuroscientist understand a microprocessor?](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268) [[Venkatesh Rao]]
     - Brain-as-a-planet [[Venkatesh Rao]]
@@ -77,10 +77,10 @@ A: Yes, that much is clear. It’s a big cost-down for some kinds of research, a
         - [The Kernel helmet identifies focused/attentive states, integrates with Slack/GCal and modifies your status and calendar based on set rules](https://discord.com/channels/692111190851059762/712459471787393054/714544188557099038)
     - [[Luke Butler]]
         - [Sentiment based Neuro-psychotyping](https://discord.com/channels/692111190851059762/712459471787393054/714537894122881035)
+    - [An idea that could be evaluated w Kernel tech is how the self structure re-integrates via many healing modalities (cbt / somatics / narrative-based / psychedelics / etc)](https://discord.com/channels/692111190851059762/712459471787393054/714575534654357616)
     - [[Vinay Débrou]]
         - [Internet of brains - A WorldWide Mindweb](https://discord.com/channels/692111190851059762/712459471787393054/714544092180250674)
         - [Intention/emotion processing model on a partner's verbal data](https://discord.com/channels/692111190851059762/712459471787393054/714554572806553670)
-    - [An idea that could be evaluated w Kernel tech is how the self structure re-integrates via many healing modalities (cbt / somatics / narrative-based / psychedelics / etc)](https://discord.com/channels/692111190851059762/712459471787393054/714575534654357616)
     - [[Patrick Atwater]]
         - [Compare people classified in the various DSM5 psychological categories to normies](https://discord.com/channels/692111190851059762/712459471787393054/714551552618266664)
     - [[Luke Butler]]

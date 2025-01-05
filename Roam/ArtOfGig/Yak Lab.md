@@ -1,16 +1,16 @@
 - __purpose__ experiment with yaks supporting early stage / small startups
 - __longer description__ 
-- goal is to run a one year experiment to see how yaks can provide management consulting services
-- guestimating zeroing in once a quarter to provide focused advice 
-- I have a couple startup friends in mind ( incitu.us / thecadc.org / coprocure.us ) though open to other suggestions
-- targeting 2-5 yaks participating
+  - goal is to run a one year experiment to see how yaks can provide management consulting services
+  - guestimating zeroing in once a quarter to provide focused advice 
+  - I have a couple startup friends in mind ( incitu.us / thecadc.org / coprocure.us ) though open to other suggestions
+  - targeting 2-5 yaks participating
 - __yak-role__ Yak-Lab-Coat with access to the Yak-Lab-v0.1 channel that's available to yak-lab-coat roles and read only to others. We will create a private google drive folder for anything that the startups want to share that they don't want to share publicly
 - Yak-Lab-Coats should have a demonstrated interest or experience in cities, sustainability and/or early stage startups. Would be particularly great to get folks with AR expertise, market design, and data analytics skills
 - __what's in it for participants__ 
-
-- potential lead for gigs
-- build Yak capacity for a v1.0 yak-lab
-- potential materials for Yak marketing
+  
+  - potential lead for gigs
+  - build Yak capacity for a v1.0 yak-lab
+  - potential materials for Yak marketing
 - _what's in it for yaks_  do a few lightweight things for free to 1) build the relationship long term for paid gigs as they grow 2) get marketing to help improve the Yak Collective brand and 3) have some fun with cool companies. *Participating Yaks*
     - [[Patrick Atwater]]
     - [[Maier Fenster]] ?? 

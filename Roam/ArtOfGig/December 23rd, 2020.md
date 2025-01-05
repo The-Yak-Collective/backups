@@ -8,7 +8,7 @@
         - TBC
     - Agenda/minutes
         - (id **8**) From @Maier (U+2):
-review past discussions for action items
+          review past discussions for action items
             - go back to [Movement Marketing](https://www.strawberryfrog.com/movement-marketing-4-strategies-for-sparking-a-brand-movement/)
             - we need a page/way to show what we're on
                 - {{[[kanban]]}}
@@ -34,15 +34,15 @@ review past discussions for action items
                 - What's 
                 - 
         - (id **9**) From @Maier (U+2):
-discuss how to launch, in view of latest results of launch
+          discuss how to launch, in view of latest results of launch
         - (id **10**) From @Maier (U+2):
-where is teh GDPR issue to be discussed?
+          where is teh GDPR issue to be discussed?
         - (id **11**) From @Maier (U+2):
-rethink yc-marketing goals in view of input from annual meeting
+          rethink yc-marketing goals in view of input from annual meeting
         - (id **12**) From @Maier (U+2):
-how to coordinate the various players involved in launch, especially continuous launch
+          how to coordinate the various players involved in launch, especially continuous launch
         - (id **13**) From @Maier (U+2):
-how to build a calendar of expected marketing events, like launches
+          how to build a calendar of expected marketing events, like launches
         - (id **15**) From @Venkatesh Rao (US Pacific):
-discuss potentially presenting our capabilities by vertical sector for better marketing (healthcare, robotics) instead of/in addition to offering type (futures, analysis, trends...) or format (pop-up think tank, whitepaper...)
+          discuss potentially presenting our capabilities by vertical sector for better marketing (healthcare, robotics) instead of/in addition to offering type (futures, analysis, trends...) or format (pop-up think tank, whitepaper...)
         - 

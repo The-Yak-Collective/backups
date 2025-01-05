@@ -4,6 +4,6 @@
 - [[Covid19 Case Studies]]
 - [SBIR solicitation for Coronavirus research](https://www.nsf.gov/pubs/2020/nsf20065/nsf20065.jsp)
 - [[Ganesh (RG) Ramakrishnan Links on Big 4 Consulting Virus Response Advice]] 
-
-Sorry, Roam noob here. If the above page title or where it should be linked should be changed, go ahead and do it or suggest.
+  
+  Sorry, Roam noob here. If the above page title or where it should be linked should be changed, go ahead and do it or suggest.
 - 

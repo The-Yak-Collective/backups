@@ -10,7 +10,7 @@
                 - https://www.amazon.com/dp/B074CFH1MF?binding=kindle_edition&qid=1439951368&sr=1-1-catcorr&ref=dbs_dp_rwt_sb_pc_tukn
     - Notes from the vol 2 document now open in Word
         - {{[[TODO]]}} Vellum only has room for a chapter title and one level of header, somewhat weirdly. In my looking around, seems current H3s could become H2s with no real loss of structural intent. Fallback would be manually setting up a run-in head. 
-(This prolly explains the header weirdness that went by when I was cleaning up vol 1 in Vellum)
+          (This prolly explains the header weirdness that went by when I was cleaning up vol 1 in Vellum)
             - eg the three H3s in these examples could be H2s
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FAwt2kti0Ph.png?alt=media&token=8693a739-3ae8-48ed-bd5e-74eace85fcde)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FIcNZwBXyfg.png?alt=media&token=007196e9-6e10-46e0-8b70-58d1a672a710)

@@ -20,13 +20,13 @@
                 - https://docs.google.com/presentation/d/1KjAaOmZf4o1K8uL8wYl0WlItXTfts4e032NkmPhj0ps/edit?usp=sharing 
                 - Thank you, and to everyone (@Anuraj R (UTC+2) @Victor Hill (PST) @Jascha Wilcox (PST) @Eric Platon (U+9) @Maier (U+2) @Jenna Dixon U-4 @Bryan King (US East) @Sachin Benny (US Central)) for all the work that went into this. 
             - Victor Hill 
-This was the deck for "What on Earth?" https://docs.google.com/presentation/d/1xnD2CiYJe0rAIbsw8UmBMxRhfqR_aG7DJtScQ-ULtMo/edit?usp=sharing. Thanks @Anuraj R (UTC+2) @Mark Ryan Sallee (US PT) @John Grant (GMT) @ThinkingWithVision, @George Harris (US Pacific), Steven Knieser, and Nalini Muppala.  
+              This was the deck for "What on Earth?" https://docs.google.com/presentation/d/1xnD2CiYJe0rAIbsw8UmBMxRhfqR_aG7DJtScQ-ULtMo/edit?usp=sharing. Thanks @Anuraj R (UTC+2) @Mark Ryan Sallee (US PT) @John Grant (GMT) @ThinkingWithVision, @George Harris (US Pacific), Steven Knieser, and Nalini Muppala.  
             - this was our deck for The second Mars Colony session - https://docs.google.com/presentation/d/16gg0pHg7UZbgqf3WSCJnGyFbeefNqOjQ6UlnXgfAQEE/edit#slide=id.p will post next steps soon
-Google Docs
-Design Fictions for second Mars colony
-Design Fictions Second Colony on Mars
-
-Thanks @Meredith Noelle (ET) @Phil Wolff @Vaughn McKenzie-Landell (UK) @Oliver King (US East) and @DanielRiveong (CET) . Was great to do this with you guys!
+              Google Docs
+              Design Fictions for second Mars colony
+              Design Fictions Second Colony on Mars
+              
+              Thanks @Meredith Noelle (ET) @Phil Wolff @Vaughn McKenzie-Landell (UK) @Oliver King (US East) and @DanielRiveong (CET) . Was great to do this with you guys!
             - Reinventing the wheels session deck https://docs.google.com/presentation/d/1ERBT0zSNvkvUP2b734d-jAFmH86XeFoOn4HWgi13N9k/edit
             - 
             - Session 7. 

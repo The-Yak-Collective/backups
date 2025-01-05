@@ -40,13 +40,13 @@
     - https://www.cisin.com/coffee-break/technology/would-the-crypto-market-be-cracked-with-the-combination-of-ai-blockchain.html
     - https://intellias.com/five-benefits-of-combining-ai-and-blockchain/
         - > Untangling the way AI thinks
-Regardless of how great AI is, people won’t use it if they don’t trust it. One of the issues that has put the brakes on broader adoption of AI is the impossibility to explain decisions made by the computer. With the possibility to record the decision-making process, AI can gain public trust much sooner.
-
-By using the blockchain for artificial intelligence, we can make the way computers think more transparent. A distributed ledger can store every decision made by AI, data point by data point, and make them available for analysis. With a blockchain, you can also be sure that the information is tamper-resistant from recording to examination.
+          Regardless of how great AI is, people won’t use it if they don’t trust it. One of the issues that has put the brakes on broader adoption of AI is the impossibility to explain decisions made by the computer. With the possibility to record the decision-making process, AI can gain public trust much sooner.
+          
+          By using the blockchain for artificial intelligence, we can make the way computers think more transparent. A distributed ledger can store every decision made by AI, data point by data point, and make them available for analysis. With a blockchain, you can also be sure that the information is tamper-resistant from recording to examination.
     - https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html
         - > Other start-ups are using blockchains to open access to the artificial intelligence models themselves. Dr. Goertzel has created SingularityNET, a blockchain that will serve as a link among A.I. services around the world. If one artificial intelligence module is unable to come up with an answer, it can consult with others, and provide compensation if one of the other modules is able to get it right.
-
-“It lets you have a network of A.I.s that nobody owns,” Dr. Goertzel said.
+          
+          “It lets you have a network of A.I.s that nobody owns,” Dr. Goertzel said.
 - [[Jenna]]
     - Googling gets you what google's algo prioritizes #[[Jenna]]
         - would be curious to compare eg with DuckDuckGo's results on same terms

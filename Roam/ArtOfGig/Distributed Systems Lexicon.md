@@ -91,14 +91,14 @@
         - hall monitor and its many variants, Internet of beefs cf
             - https://warpcast.com/dwr.eth/0x15e2f904
                 - > "Why do you keep telling people what to do?"
-"Stop being a hall monitor!"
-"People aren't going to change."
-
-Sure, but better to be clear upfront when we start tweak the spam labeling algorithms.
-
-re: hall monitor — yes, I am. Quality is what drives growth, that requires rules and taste. If you don't like those rules / taste, use or build another client. Beauty of a decentralized system.
+                  "Stop being a hall monitor!"
+                  "People aren't going to change."
+                  
+                  Sure, but better to be clear upfront when we start tweak the spam labeling algorithms.
+                  
+                  re: hall monitor — yes, I am. Quality is what drives growth, that requires rules and taste. If you don't like those rules / taste, use or build another client. Beauty of a decentralized system.
         - trail cops
-https://www.todayontrail.com/p/types-people-meet-woods-not-trees
+          https://www.todayontrail.com/p/types-people-meet-woods-not-trees
             - > Trail Cops: Fortunately very rare, but there are a special few people for whom even the cool green moss of the deep wilderness cannot snuff their burning need to make sure that everyone else knows there is only one correct way to do everything, and that whatever way you’re currently doing it is wrong. Lecturing passing hikers on trail right of way etiquette is a favorite topic, although I have been assured it’s the uphill hiker and the downhill hiker with equal certitude. Another good Trail Cop trick is stopping you and gesturing for you to take out an earbud, so they can tell you that you ought to be enjoying the beautiful sounds of nature. One white-bearded gent last week, perched at the top of a steep, rocky climb that Mica and I had just hauled ourselves to the top of, replied to my panted “Hello” by complaining in mortal indignation that Mica hadn’t greeted him as well. “No ‘hello’ from your friend there!” he grumped. Mica had actually said hello to him twice, he just hadn’t heard it, due presumably to how advanced were both his age and his self-regard.
     - > FLP, Zab, Time, Clocks and the Ordering of Events in a Distributed Systems, Viewstamped Replication, Paxos, Chubby and on and on. 
     - > MAIN CONCEPTS
@@ -187,7 +187,7 @@ https://www.todayontrail.com/p/types-people-meet-woods-not-trees
 - “decentralize till it hurts, centralize till it works” from zerotier reading - venkat
     - Nov 28: [Decentralize till it hurts](https://adamierymenko.com/decentralization/) | Discord thread
     - +1 this connects to how to protocol for me #[[jrd]] cf #[[protocol]] lol #[[jrd]] 
-aka #[[The Goldilocks Principle]]
+      aka #[[The Goldilocks Principle]]
 - "Adversarial decentralization" (similar to "adversarial interoperability") #[[Nathan Acks]]
     - May 8th:  [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) | [Discord thread](https://discord.com/channels/692111190851059762/1105145425339625532)
 - special role of biographies as a lens perhaps? the topic is fundamentally fragmented but the trajectories of individuals seem to provide a connective tissue - venkat
@@ -204,7 +204,7 @@ aka #[[The Goldilocks Principle]]
 - Hardware Lottery - Ananth
     - July 31: [Hardware lottery](https://arxiv.org/abs/2009.06489) | [Discord thread](https://discord.com/channels/692111190851059762/1135588450561704007)
     -  From the abstract, "This essay posits that the gains from progress in
-computing are likely to become even more uneven, with certain research
-directions moving into the fast-lane while progress on others is further obstructed."
+      computing are likely to become even more uneven, with certain research
+      directions moving into the fast-lane while progress on others is further obstructed."
 - did we ever read about the CAP theorem explicitly? -venkat
 - The Spectral Utopia's paper: https://hcommons.org/deposits/objects/hc:49430/datastreams/CONTENT/content  - Ben. How physical and social technologies intertwine.

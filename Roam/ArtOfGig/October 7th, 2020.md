@@ -14,17 +14,17 @@
                 - started [here](https://discordapp.com/channels/692111190851059762/756113566452678707/762740941852508240)
                 - [[Hugo Macedo]] comments:
                     - In fact, the more I’m involved and experience YC from the inside the more I believe we have to discover the core from the inside. 
-“Who are we?” - I thought it was an identity question for the outside. But I now realize that is not solved for the inside (Yaks)
-And if we don’t know who we are, we can’t define how we want to be known/perceived to the outside world. 
-This means that we need to give priority to Yak Marketing vs. YC Marketing. 
-
-- who are we?
-- why should I care?
-- cater different personas 
-- define the yak journey and yak success
-...
-Once we have a stronger base, we will attract and activate and maintain  great talent, we will be much stronger. 
-We will have a common root that we can talk about and we can build on top a brand, a value proposition, products,...
+                      “Who are we?” - I thought it was an identity question for the outside. But I now realize that is not solved for the inside (Yaks)
+                      And if we don’t know who we are, we can’t define how we want to be known/perceived to the outside world. 
+                      This means that we need to give priority to Yak Marketing vs. YC Marketing. 
+                      
+                      - who are we?
+                      - why should I care?
+                      - cater different personas 
+                      - define the yak journey and yak success
+                      ...
+                      Once we have a stronger base, we will attract and activate and maintain  great talent, we will be much stronger. 
+                      We will have a common root that we can talk about and we can build on top a brand, a value proposition, products,...
                 - 
             - discussion
                 - [[Grigori Milov]]
@@ -33,7 +33,7 @@ We will have a common root that we can talk about and we can build on top a bran
                     - is very difficult because diversity
                     - ^^instead define what we do - not a noun but a verb ^^
                         - does a newsletter - THE YakC newsletter not A newsletter, or several newsletter [[Grigori Milov]] I was trying to say that it is a mistake to treat Yak Talk as The Newsletter. We don't know what YakC is, how can we know what The Newsletter should look like?
-So we came up with an idea for a newsletter, and I was one of its authors, and implemented it. Others can have their own ideas and their own newsletters. and many members of YakC actually do. Don't like Yak Talk -- go ahead, create your own, it takes like 2 minutes to register at Substack.
+                          So we came up with an idea for a newsletter, and I was one of its authors, and implemented it. Others can have their own ideas and their own newsletters. and many members of YakC actually do. Don't like Yak Talk -- go ahead, create your own, it takes like 2 minutes to register at Substack.
                         - has a discussion on governance. [[Grigori Milov]] and Philosophy, and potentially Art, and, maybe Music, etc.
                         - does project X, Y, Z
                         - ...
@@ -71,9 +71,9 @@ So we came up with an idea for a newsletter, and I was one of its authors, and i
                     - give agency the people - this motivates people
                     - we need a team that makes all the decisions 
                     - [[Grigori Milov]]many teams, actually. Each project should have a team with agency and proper governance. 
-In case of a newsletter, good editor says No most of the time. Especially to outsiders. Want a newsletter - go do it.
-https://twitter.com/grigorimilov/status/1313928927900037120?s=20
-
+                      In case of a newsletter, good editor says No most of the time. Especially to outsiders. Want a newsletter - go do it.
+                      https://twitter.com/grigorimilov/status/1313928927900037120?s=20
+                      
                     - most people have a lot of opinions - impossible to navigate and satisfy 
                 - [[Hugo Macedo]]
                     -  - veto, what not to do
@@ -110,7 +110,7 @@ https://twitter.com/grigorimilov/status/1313928927900037120?s=20
             - still in proofreading and wireframe
         - {{[[TODO]]}} Positioning - approach 
             - VGR comment on discord: 
-`Positioning discussion thought-starter phrase: work-as-play. It’d be great if we can strongly tie YC to that concept. Cf “sufficiently advanced work is indistinguishable from play” — Seb Paquet`
+              `Positioning discussion thought-starter phrase: work-as-play. It’d be great if we can strongly tie YC to that concept. Cf “sufficiently advanced work is indistinguishable from play” — Seb Paquet`
             - Positioning YC will be hard with so many diverse perspectives - what's the best way to embrace and distill (?) this diversity?
         - [[Maier Fenster]] project launch & pages as a tool for personal branding
             - they should be optimized to be a leverage for personal branding 

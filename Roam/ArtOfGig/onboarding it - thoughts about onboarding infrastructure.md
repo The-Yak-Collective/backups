@@ -6,10 +6,10 @@
 - Last Gardened:: [[December 7th, 2020]] by [[Nathan Acks]]
 - 
 - it looks like we are talking about some combination of:
-
+  
     - 1. yak starts with minimal friction to get into discord
     - 2. somewhere along the line we ask for some basic info
-
+      
     - 3. somewhere along the line (can be at same time as #2) we ask for more info, like yak-map data
     - 4. we expect yak to post introduction
     - 5. we want to show yak where to start
@@ -25,9 +25,9 @@
     - b. interface with yak via discord
     - c. onboarding via email or website
 - please let me know if i am missing anything major.
-anyway, i was thinking on how we tie it all together.
+  anyway, i was thinking on how we tie it all together.
 - if we take discord as our main interface, i would like to suggest we: 
-
+  
     - i. use knack to store information about new yaks - at first only their discord name!
     - ii. use a discord robot to identify new yaks joining and send them to knack to enter new data, etc.
     - iii. define a state-transition table describing different stages in the onboarding of a yak, including  pruning the yak from both knack and discord. the table includes actions which move the yak between states. the robot use the table to contact new yaks and send them prompts, links, etc. as needed.
@@ -58,7 +58,7 @@ anyway, i was thinking on how we tie it all together.
         1. 1. yak starts with minimal friction to get into discord
         2. 4. we expect yak to post introduction
         3. 2. somewhere along the line we ask for some basic info
-
+           
         4. 5. we want to show yak where to start
         5. 8. filter out yak if they do not do one or more of the steps
         6. 7. invite yak to orientation call

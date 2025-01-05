@@ -6,21 +6,21 @@
         - [[Jenna]]
     - Agenda and Minutes:: 
         - {{[[TODO]]}} review: revised YakMap signup form no login: 
-https://yak.knack.com/yaks#yakmap-participation-signup/
+          https://yak.knack.com/yaks#yakmap-participation-signup/
             - notes
                 - if we do it this way, will have to manually map all submissions to the Yak's Discord UID VS the form that is behind a login and triggered by a clever Discord bot with profiled UID
                 - alt form » https://yak.knack.com/yaks#yak-profile/
                 - pull in a Discord bot team member
                     - need a bot that listens to new Yak on Discord
             - {{[[TODO]]}} review: Knack Approval Template
-https://builder.knack.com/yak/yaks#data/object_2/settings
+              https://builder.knack.com/yak/yaks#data/object_2/settings
                 - Hello {{first_name}},
                 - Your Yaks account has been approved. To login please visit the following link:
                 - https://yak.knack.com/yaks/#yak-profile-login
                 - To manage your account settings, please visit the following link:
                 - https://yak.knack.com/yaks/#yak-profile-login/knack-account
             - {{[[TODO]]}} review: Knack Account Info Template
-https://builder.knack.com/yak/yaks#data/object_2/settings
+              https://builder.knack.com/yak/yaks#data/object_2/settings
                 - Hello {{first_name}},
                 - To login to your Yaks account, please click on the following link:
                 - https://yak.knack.com/yaks/#yak-profile-login
@@ -30,7 +30,7 @@ https://builder.knack.com/yak/yaks#data/object_2/settings
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FxUMEa5MwAN.png?alt=media&token=951e4ed3-ab26-45a4-9a8f-6f0e92ba3571)
                 - 
         - {{[[TODO]]}} fix: field instructions per 
-https://www.knack.com/developer-documentation/#move-field-instructions
+          https://www.knack.com/developer-documentation/#move-field-instructions
         - {{[[TODO]]}} review: [[Astonishing Stories]] publishing calendar for coming week
 - [[Infrastructure]] weekly call #meeting-notes
     - Time:: 13:30-14:15 ET

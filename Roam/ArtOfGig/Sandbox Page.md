@@ -4,13 +4,17 @@
 - Testing **What:** can actually be written in a block.{{word count here}}
 - Testing how to use the directory page 
     - High-usability version (allows people to read your page embedded within this page instead of jumping around):
-
+      
         - Put a summary sentence/paragraph on your page. Create all additional content on your page indented under the first paragraph.
         - Copy the block ref of that summary paragraph
         - Embed (don't just copy)the block under your name on this page
-            - Indented under your name on this page, start typing ```clojure
-{{embed: (())}}``` and then paste your block ref. It should end up looking something like this: ```clojure
-{{embed: ((((sOudXb4qS))))}}```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.
+            - Indented under your name on this page, start typing 
+              ```clojure
+              {{embed: (())}}
+              ``` and then paste your block ref. It should end up looking something like this: 
+              ```clojure
+              {{embed: ((((sOudXb4qS))))}}
+              ```This will embed that summary paragraph and anything else under it here on this page. You can then edit it in either place.
         - If you'd like help with this (or just want it done for you), message @ScottAllenTVH on Discord.
 - [[James Crook]]
 - [[Moe 'enable human' Ali]]

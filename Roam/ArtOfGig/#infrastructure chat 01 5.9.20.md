@@ -3,12 +3,12 @@
     - https://discord.com/channels/692111190851059762/698566364595486720/708739942020546630
     - darren kong — CSTToday at 12:59 PM
     - thanks for chatting @Sachin Benny (US Central) @Praful Mathur (US - NYC) @Venkatesh Rao (US Pacific) @dolearning (Kevin) @Grigori Milov (GMT+3) 
-today's chat takeaways for me: 
-
-we discussed how to provide more affordances for new members to sense make.
-1. creating new member orientation materials with the ethos of giving helpful hints and general rules of engagement (empty stub here: https://roamresearch.com/#/app/ArtOfGig/page/vA90wJbvO 
-will continue convo in #Infrastructure) 
-2. providing a wkly voice chat space that could be an orientation hall and a way to build friendly connections
+      today's chat takeaways for me: 
+      
+      we discussed how to provide more affordances for new members to sense make.
+      1. creating new member orientation materials with the ethos of giving helpful hints and general rules of engagement (empty stub here: https://roamresearch.com/#/app/ArtOfGig/page/vA90wJbvO 
+      will continue convo in #Infrastructure) 
+      2. providing a wkly voice chat space that could be an orientation hall and a way to build friendly connections
 - **First topic:** [[Onboarding for New Yaks]]
     - Praful
         - How to understand how proposals work
@@ -34,15 +34,15 @@ will continue convo in #Infrastructure)
         - Don't consciously try to read everything or stay on top of things. 
         - Got lucky in joining first time. Convo going on was much less. These days just scan and have convos. 
         - Convos on DMs and look on Roam page for projects to collab. 
-    - Not all volunteer opps are available to jump on
-        - Not sure how to tackle trust/competence thing
-        - let people fail 
-        - earn access to critical infrastructure 
     - Kevin
         - Been following. Brand new. Temporary invite... Still orienting
         - Used to discord..
         - Figuring out where the chat was maybe a little harder. Not in infrastructure channel.. in the main channel.
         - Reading art of gig substack and tom's blog and venkat's block. Following both of them. Some grounding 
+    - Not all volunteer opps are available to jump on
+        - Not sure how to tackle trust/competence thing
+        - let people fail 
+        - earn access to critical infrastructure 
     - We're not trying to be intimidating ... but not hand holding either. Somewhere in b/n. 
     - Venkat
         - Expect ppl to sensemake

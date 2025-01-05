@@ -84,71 +84,73 @@
         - Underlying code
             - [[Buttondown]]
                 - ```html
-<div class=3D"tweet">
-<blockquote>
-<div class=3D"header">
-<div class=3D"author">
-                <a class=3D"link link_blend" href=3D"https://twitter.com/Sa=
-chinB91">
-          <span class=3D"avatar">
-            <img class=3D"avatar-image" src=3D"https://pbs.twimg.com/profil=
-e_images/1376569458450427905/pld3Kiv__normal.jpg" />
-          </span>
-                    <span class=3D"identifier">
-                    <span class=3D"name" title=3D"Sachin">Sachin</span><br =
-/>
-<span class=3D"screen_name" title=3D"@SachinB91">@SachinB91</span>
-                    </span>
-                </a>
-            </div>
-</div>
-<div class=3D"body">
-<p class=3D"text">wonder if there are no new genres of fiction because ther=
-e is no longer a need for sublimation of beliefs through fiction. Whatever =
-crazy/taboo thing you believe you would have better luck finding other peop=
-le by starting a subreddit or a conspiracy theory</p>
-<br />
-<div class=3D"metadata">
-                <a class=3D"link_blend" href=3D"https://twitter.com/SachinB=
-91/status/1408140834659352577">June 24, 2021, 7:11 p.m.</a>
-            </div>
-</div>
-</blockquote>
-</div>```
+                  <div class=3D"tweet">
+                  <blockquote>
+                  <div class=3D"header">
+                  <div class=3D"author">
+                                  <a class=3D"link link_blend" href=3D"https://twitter.com/Sa=
+                  chinB91">
+                            <span class=3D"avatar">
+                              <img class=3D"avatar-image" src=3D"https://pbs.twimg.com/profil=
+                  e_images/1376569458450427905/pld3Kiv__normal.jpg" />
+                            </span>
+                                      <span class=3D"identifier">
+                                      <span class=3D"name" title=3D"Sachin">Sachin</span><br =
+                  />
+                  <span class=3D"screen_name" title=3D"@SachinB91">@SachinB91</span>
+                                      </span>
+                                  </a>
+                              </div>
+                  </div>
+                  <div class=3D"body">
+                  <p class=3D"text">wonder if there are no new genres of fiction because ther=
+                  e is no longer a need for sublimation of beliefs through fiction. Whatever =
+                  crazy/taboo thing you believe you would have better luck finding other peop=
+                  le by starting a subreddit or a conspiracy theory</p>
+                  <br />
+                  <div class=3D"metadata">
+                                  <a class=3D"link_blend" href=3D"https://twitter.com/SachinB=
+                  91/status/1408140834659352577">June 24, 2021, 7:11 p.m.</a>
+                              </div>
+                  </div>
+                  </blockquote>
+                  </div>
+                  ```
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2Fo2Py01UT_P.jpg?alt=media&token=2bd0b875-5301-4650-8df7-23de981c74a3)
             - Substack
                 - ```html
-<div class=3D"tweet" style=3D"background: #=
-fff; border: 1px solid #e1e8ed; border-radius: 5px; display: block; font: n=
-ormal normal 16px/1.4 Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; f=
-ont-size: 16px; line-height: 26px; margin: 1em auto; max-width: 520px; padd=
-ing: 20px 20px 11.6px 20px;"><a href=3D"https://email.mg2.substack.com/c/eJ=
-wlkEGOwyAMRU9TlhEYXMiCxcxiLjAHiAi4LZ2EREBa5fZDGskYY-n74-ddpfuSd7supbIjDXVfy=
-SZ6l4lqpcy2QnmIwQoDChUCC1YFYdCwWIZbJppdnGzNG7F1G6foXY1LOhSIHCV7WHVTbhQkoZdg=
-QHI_AgjdS-MdGifk6eu2ECl5svSivC-J2GQfta7lIr8u8NOivuPxo84vc3v9Ov-I6bsXrS7V1a2=
-0QihujiPVFXuJgFqzaIGD4JorAEApOtFprl0IyEkJ9HRTXvY84JU8aO9o5BfF5zt0ZRvbZP93OL=
-Jsn60dnjEl92m0bYd2z1uKdR8ouXGicIKoJ88PmuFOiXLjHAZXrbgCKqlRCYH9uXgjJY3UAEqy5=
-hiWpkp2d39-mSbyNb7oH0AUiZ8" target=3D"_blank" style=3D"color: black; displa=
-y: block; text-decoration: none; white-space: pre-wrap;"><div class=3D"twee=
-t-header" style=3D"display: block; font-size: 16px; line-height: 1.2; margi=
-n-bottom: 14px; text-decoration: none;"><img class=3D"tweet-user-avatar" sr=
-c=3D"https://cdn.substack.com/image/twitter_name/w_36/SachinB91.jpg" alt=3D=
-"Twitter avatar for @SachinB91" style=3D"-ms-interpolation-mode: bicubic; b=
-order: none !important; border-radius: 50%; display: block; float: left; he=
-ight: 36px; margin: 0 8px 0 0; max-width: 550px; vertical-align: middle; wi=
-dth: 36px;"><span class=3D"tweet-author-name" style=3D"color: #1c2022; disp=
-lay: block; font-weight: 700;">Sachin </span><span class=3D"tweet-author" s=
-tyle=3D"color: #697882; display: block; font-size: 14px;">@SachinB91</span>=
-</div>wonder if there are no new genres of fiction because there is no long=
-er a need for sublimation of beliefs through fiction. Whatever crazy/taboo =
-thing you believe you would have better luck finding other people by starti=
-ng a subreddit or a conspiracy theory<div class=3D"tweet-footer" style=3D"c=
-olor: #697882; display: block; font-size: 14px; line-height: 26px; margin-t=
-op: 10px; text-decoration: none;"><p class=3D"tweet-date" style=3D"border-b=
-ottom: 1px solid #e1e8ed; color: #697882; display: block; font-size: 14px; =
-line-height: 1.4; margin: 0; margin-bottom: 10px; padding-bottom: 10px;">Ju=
-ne 24th 2021</p><span class=3D"likes" style=3D"display: inline-block; margi=
-n-right: 8px;"><span class=3D"like-count" style=3D"color: #1c2022; font-wei=
-ght: bold;">1</span> Like</span></div></a></div>```
+                  <div class=3D"tweet" style=3D"background: #=
+                  fff; border: 1px solid #e1e8ed; border-radius: 5px; display: block; font: n=
+                  ormal normal 16px/1.4 Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; f=
+                  ont-size: 16px; line-height: 26px; margin: 1em auto; max-width: 520px; padd=
+                  ing: 20px 20px 11.6px 20px;"><a href=3D"https://email.mg2.substack.com/c/eJ=
+                  wlkEGOwyAMRU9TlhEYXMiCxcxiLjAHiAi4LZ2EREBa5fZDGskYY-n74-ddpfuSd7supbIjDXVfy=
+                  SZ6l4lqpcy2QnmIwQoDChUCC1YFYdCwWIZbJppdnGzNG7F1G6foXY1LOhSIHCV7WHVTbhQkoZdg=
+                  QHI_AgjdS-MdGifk6eu2ECl5svSivC-J2GQfta7lIr8u8NOivuPxo84vc3v9Ov-I6bsXrS7V1a2=
+                  0QihujiPVFXuJgFqzaIGD4JorAEApOtFprl0IyEkJ9HRTXvY84JU8aO9o5BfF5zt0ZRvbZP93OL=
+                  Jsn60dnjEl92m0bYd2z1uKdR8ouXGicIKoJ88PmuFOiXLjHAZXrbgCKqlRCYH9uXgjJY3UAEqy5=
+                  hiWpkp2d39-mSbyNb7oH0AUiZ8" target=3D"_blank" style=3D"color: black; displa=
+                  y: block; text-decoration: none; white-space: pre-wrap;"><div class=3D"twee=
+                  t-header" style=3D"display: block; font-size: 16px; line-height: 1.2; margi=
+                  n-bottom: 14px; text-decoration: none;"><img class=3D"tweet-user-avatar" sr=
+                  c=3D"https://cdn.substack.com/image/twitter_name/w_36/SachinB91.jpg" alt=3D=
+                  "Twitter avatar for @SachinB91" style=3D"-ms-interpolation-mode: bicubic; b=
+                  order: none !important; border-radius: 50%; display: block; float: left; he=
+                  ight: 36px; margin: 0 8px 0 0; max-width: 550px; vertical-align: middle; wi=
+                  dth: 36px;"><span class=3D"tweet-author-name" style=3D"color: #1c2022; disp=
+                  lay: block; font-weight: 700;">Sachin </span><span class=3D"tweet-author" s=
+                  tyle=3D"color: #697882; display: block; font-size: 14px;">@SachinB91</span>=
+                  </div>wonder if there are no new genres of fiction because there is no long=
+                  er a need for sublimation of beliefs through fiction. Whatever crazy/taboo =
+                  thing you believe you would have better luck finding other people by starti=
+                  ng a subreddit or a conspiracy theory<div class=3D"tweet-footer" style=3D"c=
+                  olor: #697882; display: block; font-size: 14px; line-height: 26px; margin-t=
+                  op: 10px; text-decoration: none;"><p class=3D"tweet-date" style=3D"border-b=
+                  ottom: 1px solid #e1e8ed; color: #697882; display: block; font-size: 14px; =
+                  line-height: 1.4; margin: 0; margin-bottom: 10px; padding-bottom: 10px;">Ju=
+                  ne 24th 2021</p><span class=3D"likes" style=3D"display: inline-block; margi=
+                  n-right: 8px;"><span class=3D"like-count" style=3D"color: #1c2022; font-wei=
+                  ght: bold;">1</span> Like</span></div></a></div>
+                  ```
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2F_aL1WDyXND.jpg?alt=media&token=3e309ae7-5c89-4b29-b84d-5c6f04d29b8c)
     - NOTE: The new links outputs (not yet live) already chunks links by channel and includes a link back to the original Discord comment. At the moment Twitter and other links without extra table titles are interwoven as comments.

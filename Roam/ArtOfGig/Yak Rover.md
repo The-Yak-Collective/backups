@@ -14,8 +14,8 @@
 - [[Strawman Crowdfunded Project]]
 - License Discussion
     - According to a 2015 book on ROS
-“The core of ROS is released under the permissive BSD license, which allows commercial and noncommercial use. ROS passes data between modules using interprocess communication (IPC), which means that systems built using ROS can have fine-grained licensing of their various components. Commercial systems, for example, often have several closed source modules communicating with a large number of open source modules. Academic and hobby projects are often fully open source. Commercial product development is often done completely behind a firewall. All of these use cases, and more, are common and perfectly valid under the ROS license.”
-Excerpt From: Morgan Quigley. “Programming Robots with ROS: A Practical Introduction to the Robot Operating System”. Apple Books. 
+      “The core of ROS is released under the permissive BSD license, which allows commercial and noncommercial use. ROS passes data between modules using interprocess communication (IPC), which means that systems built using ROS can have fine-grained licensing of their various components. Commercial systems, for example, often have several closed source modules communicating with a large number of open source modules. Academic and hobby projects are often fully open source. Commercial product development is often done completely behind a firewall. All of these use cases, and more, are common and perfectly valid under the ROS license.”
+      Excerpt From: Morgan Quigley. “Programming Robots with ROS: A Practical Introduction to the Robot Operating System”. Apple Books. 
 - [[Yak Rover Demo Day]]
 - [[Learning Wishlist]]
 - Learnings

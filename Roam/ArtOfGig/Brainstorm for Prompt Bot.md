@@ -70,61 +70,61 @@
     - of course, like any channel (and sometime soon, thread), a channel can have a reading list, agenda, etc.
 - [[Nathan Acks]]
     - # Create things. The first two should only work in [[Maier Fenster]] Ifelt it was more natural to be object oriented rather than action oriented, especially since the threads help narrow the choices in a nice way 
-# the channel, the third only in threads.
-#
-/ps create course <COURSE>
-/ps create prompt <PROMPT>
-/ps create hint <HINT>
-
-# Set variables related to the course. Not sure
-# what this is for, but it's in the v0.5 proposal.
-# Should only work in the channel.
-#
-/ps course get <NAME|all>
-/ps course set <NAME> [to|=] <VALUE>
-/ps course del <NAME>
-
-# Submit a response. Should only work in a thread.
-#
-/ps respond <RESPONSE>
-
-# Get responses. Should only work in a thread. The
-# set/del commands should be restricted to the
-# caller's own responses. NUMBER only makes sense
-# when looking at the caller's own responses.
-#
-/ps response get <NUMBER|all> [for] [me|everyone]
-/ps response set <NUMBER> [to|=] <RESPONSE>
-/ps response del <NUMBER>
-
-# Show various things. The first two commands
-# should return contextual information based on
-# whether they're called in a channel or a thread.
-# The last two commands should be restricted to
-# threads.
-#
-/ps show stats
-/ps show mates
-/ps show prompts [limit] [to] [NUMBER]
-/ps show <response|responses> [for] <me|all|NUMBER>
-
-# Clean up courses/prompts. The first should only
-# be callable from a channel, the second from a
-# thread.
-#
-/ps archive course
-/ps archive prompt
-Notes:
-
-- This uses get/set/del instead of show/set/pop just because I think it's clearer.
-
-- I'm using "response" rather than "submission" here, since I kind of like the feel of "prompt/response" more than "prompt/submission".
-
-- Includes some additional functionality from Venkat's original brainstorm. Mostly just because it fit into what I was writing.
-
-- I have no idea if this sort of multi-keyword approach works with the slash-command API. I haven't checked. So feel free to ignore. [[Maier Fenster]] it does, but not too many levels, so I only use one 
+      # the channel, the third only in threads.
+      #
+      /ps create course <COURSE>
+      /ps create prompt <PROMPT>
+      /ps create hint <HINT>
+      
+      # Set variables related to the course. Not sure
+      # what this is for, but it's in the v0.5 proposal.
+      # Should only work in the channel.
+      #
+      /ps course get <NAME|all>
+      /ps course set <NAME> [to|=] <VALUE>
+      /ps course del <NAME>
+      
+      # Submit a response. Should only work in a thread.
+      #
+      /ps respond <RESPONSE>
+      
+      # Get responses. Should only work in a thread. The
+      # set/del commands should be restricted to the
+      # caller's own responses. NUMBER only makes sense
+      # when looking at the caller's own responses.
+      #
+      /ps response get <NUMBER|all> [for] [me|everyone]
+      /ps response set <NUMBER> [to|=] <RESPONSE>
+      /ps response del <NUMBER>
+      
+      # Show various things. The first two commands
+      # should return contextual information based on
+      # whether they're called in a channel or a thread.
+      # The last two commands should be restricted to
+      # threads.
+      #
+      /ps show stats
+      /ps show mates
+      /ps show prompts [limit] [to] [NUMBER]
+      /ps show <response|responses> [for] <me|all|NUMBER>
+      
+      # Clean up courses/prompts. The first should only
+      # be callable from a channel, the second from a
+      # thread.
+      #
+      /ps archive course
+      /ps archive prompt
+      Notes:
+      
+      - This uses get/set/del instead of show/set/pop just because I think it's clearer.
+      
+      - I'm using "response" rather than "submission" here, since I kind of like the feel of "prompt/response" more than "prompt/submission".
+      
+      - Includes some additional functionality from Venkat's original brainstorm. Mostly just because it fit into what I was writing.
+      
+      - I have no idea if this sort of multi-keyword approach works with the slash-command API. I haven't checked. So feel free to ignore. [[Maier Fenster]] it does, but not too many levels, so I only use one 
     - 
-
-- Some of these clearly need to be restricted to trusted yaks (/ps archive course, for example).[[Maier Fenster]] right now, nothing is deleted, like a blockchain :)
-
-- I kind of like the idea of having people react with emojis when a prompt is displayed, rather than an explicit slash command. Feels more "Discord native". [[Maier Fenster]] in thread version, there is no "single" showing of the prompt. i guess Icoudl detect reactions on each showing, but not for ephermal ones (when you do "recall") 
+      
+      - Some of these clearly need to be restricted to trusted yaks (/ps archive course, for example).[[Maier Fenster]] right now, nothing is deleted, like a blockchain :)
+      
+      - I kind of like the idea of having people react with emojis when a prompt is displayed, rather than an explicit slash command. Feels more "Discord native". [[Maier Fenster]] in thread version, there is no "single" showing of the prompt. i guess Icoudl detect reactions on each showing, but not for ephermal ones (when you do "recall") 

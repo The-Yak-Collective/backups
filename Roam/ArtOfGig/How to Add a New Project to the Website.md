@@ -13,24 +13,25 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
 # Project (Main) Page
     - Project pages are generally simple Markdown (`.md`) files (though more technical projects can use HTML); in Jekyll, these files should conform to the [kramdown](https://kramdown.gettalong.org/) spec. Generally, the first line of a project main page (immediately below the closing `---` of the front matter) will be `{% include widget-project-header.html %}`, which will generate the project header. Projects have some combination of the following [front matter](https://jekyllrb.com/docs/front-matter/):
         - ```yaml
-title: Project Main Page Template
-tagline: Learn how to create project main pages!
-date: 2020-12-09 00:00:00
-sequence: covid-19
-type: Report
-hero_image: /projects/astonishing-stories/astonishing-stories.jpg
-summary: |
-  This file will teach you the basics for creating project main pages.
-description: A shorter page description.
-credits:
-  lead_editors:
-    - acks-nathan
-  collaborators:
-    - fenster-maier
-page_text_color: black
-page_bg_color: 255,255,255
-page_headers: |
-  <!-- HTML -->```
+          title: Project Main Page Template
+          tagline: Learn how to create project main pages!
+          date: 2020-12-09 00:00:00
+          sequence: covid-19
+          type: Report
+          hero_image: /projects/astonishing-stories/astonishing-stories.jpg
+          summary: |
+            This file will teach you the basics for creating project main pages.
+          description: A shorter page description.
+          credits:
+            lead_editors:
+              - acks-nathan
+            collaborators:
+              - fenster-maier
+          page_text_color: black
+          page_bg_color: 255,255,255
+          page_headers: |
+            <!-- HTML -->
+          ```
     - For more information about the ins-and-outs of page front matter, refer to [Jekyll's documentation](https://jekyllrb.com/docs/front-matter/) and the [YAML specification](https://yaml.org/spec/1.2/spec.html). You are strongly encouraged to take a look at other project main pages (and the contents of their resource directories) in order to get a sense for how this looks in practice.
     - Projects will automatically go alive more-or-less on the `date` listed in the main page front matter. Unpublished, upcoming projects are listed on the [Now](/now/) page, while published projects are automatically moved to the [Projects](/projects/) page. If you are building the site locally, you can simulate this using `jekyll serve --future` (or an equivalent command).
     - You can use any [website widget]([[Website Widgets]]) on a project (main) page.
@@ -63,14 +64,15 @@ page_headers: |
             - The `credits` attribute is a flexible object of credits/collaborators for the project. It can have any number of sub-attributes, each of which represents a different type of credit, and under which is an array of member IDs (that will be linked to member pages) or plain names (that will be displayed as-is). sub-attributes should be lower-case, and underscores (`_`) will be replaced with spaces. By convention, collaborators in each section should be ordered alphabetically by family name, and then given name.
             - How this works is easiest to see with an example. Suppose we have the following `credits` object in our project main page front matter:
                 - ```yaml
-credits:
-  lead_editors:
-    - acks-nathan
-    - rao-venkatesh
-  collaborators:
-    - "Jamie Chen"
-    - dixon-jenna
-    - fenster-maier```
+                  credits:
+                    lead_editors:
+                      - acks-nathan
+                      - rao-venkatesh
+                    collaborators:
+                      - "Jamie Chen"
+                      - dixon-jenna
+                      - fenster-maier
+                  ```
             - This will produce two credit sections:
                 1. A section titled **Lead editors** listing "Nathan Acks" and "Venkatesh Rao", both of whose names are linked back to their respective member pages.
                 2. A section titled **Collaborators** listing "Jamie Chen", "Jenna Dixon", and "Maier Fenster". Jenna and Maier's names will both be linked back to their respective member pages, but Jamie's name will appear as a simple, unlinked credit.
@@ -89,18 +91,19 @@ credits:
     - Non-hidden project sub-pages can be listed on the project main page using `widget-project-page-list`.
     - Project sub-pages don't have any required front matter, but there are a number of optional fields that you may want to specify.
         - ```yaml
-title: The Page Title
-date: 2020-12-09 00:00:00
-hero_image: /projects/astonishing-stories/agglomerizing-the-aesthetic.jpg
-hero_attach_vertical: center
-hero_attach_horizontal: center
-description: A description of the page.
-author: acks-nathan
-hidden: false
-page_text_color: black
-page_bg_color: 255,255,255
-page_headers: |
-  <!-- HTML -->```
+          title: The Page Title
+          date: 2020-12-09 00:00:00
+          hero_image: /projects/astonishing-stories/agglomerizing-the-aesthetic.jpg
+          hero_attach_vertical: center
+          hero_attach_horizontal: center
+          description: A description of the page.
+          author: acks-nathan
+          hidden: false
+          page_text_color: black
+          page_bg_color: 255,255,255
+          page_headers: |
+            <!-- HTML -->
+          ```
     - Each of these header attributes is described in more detail in the following sections.
     - ## Optional Front Matter
         - ### title
@@ -137,24 +140,25 @@ page_headers: |
     - Also, be aware that slides are ordered by `widget-project-slide-deck` by URL (basically, file name), and this ordering impacts both the formatting of the table of contents and the effect of `collapse_slides=true` -- only slides that are "adjacent" will have their sections and titles "rolled up". If you're using either of these features in `widget-project-slide-deck`, you'll want to make sure you adopt a slide naming convention that ensures that slides of a given section, and slides with the same title/author combination, always appear in sequence when sorted by name in your file manager.
     - Project slides have some combination of the following front matter attributes.
         - ```yaml
-title: Project Slide Template
-layout: page-project-slide
-date: 2020-12-01 00:00:00
-section: A Section
-tags:
-  - philosophy
-hero_image: /projects/future-frontiers/01-philosophy-01-on-horizons-01.jpg
-hero_position: left
-hero_border: true
-hero_description: On horizons
-hero_caption:  |
-  Carse photo from [Simon &amp; Schuster](https://www.simonandschuster.biz/authors/James-Carse/313085); collage by [Jenna Dixon](/members/dixon-jenna/)
-description: Frontiers are essential food for the psyche, for a species with the temporal imagination to see past the limits of individual mortality.
-author: rao-venkatesh
-page_text_color: black
-page_bg_color: "252,251,248"
-page_headers: |
-  <!-- HTML -->```
+          title: Project Slide Template
+          layout: page-project-slide
+          date: 2020-12-01 00:00:00
+          section: A Section
+          tags:
+            - philosophy
+          hero_image: /projects/future-frontiers/01-philosophy-01-on-horizons-01.jpg
+          hero_position: left
+          hero_border: true
+          hero_description: On horizons
+          hero_caption:  |
+            Carse photo from [Simon &amp; Schuster](https://www.simonandschuster.biz/authors/James-Carse/313085); collage by [Jenna Dixon](/members/dixon-jenna/)
+          description: Frontiers are essential food for the psyche, for a species with the temporal imagination to see past the limits of individual mortality.
+          author: rao-venkatesh
+          page_text_color: black
+          page_bg_color: "252,251,248"
+          page_headers: |
+            <!-- HTML -->
+          ```
     - Required and optional attributes are described in more detail in the following sections.
     - ## Required Front Matter
         - ### title
@@ -193,16 +197,17 @@ page_headers: |
         - ### tags
             - A list of "tags" to attach to the slide. At the moment, these tags don't link anywhere, and simply serve as a sign post for readers. They are displayed in a row beneath the slide title and author, with each tag prefixed by a hash character (`#`). For example, consider the following slide front matter:
                 - ```yaml
-title: The Music of the Freeways
-author: acks-nathan
-tags:
-  - cars
-  - philosophy
-  - xylophones```
+                  title: The Music of the Freeways
+                  author: acks-nathan
+                  tags:
+                    - cars
+                    - philosophy
+                    - xylophones
+                  ```
             - This will produce a title block that looks like the following:
                 - > **The Music of the Freeways**
-[Nathan Acks](https://www.yakcollective.org/members/acks-nathan/)
-#cars #philosophy #xylophones
+                  [Nathan Acks](https://www.yakcollective.org/members/acks-nathan/)
+                  #cars #philosophy #xylophones
         - ### hero_image
             - The slide's main image; by default, it will take up either the left or right half of the slide, depending on the value of `hero_position`. Also used for the slide's Twitter card.
             - Should generally be a square or landscape image 1024px - 3072px on its longest slide.

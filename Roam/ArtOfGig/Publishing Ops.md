@@ -5,7 +5,7 @@
 -  
 - Invited::
     - [[Astonishing Stories
-...of what’s next]]
+      ...of what’s next]]
         - [[Amanda Reeves]]
         - [[Sachin Benny]]
     - [[Future Frontiers]] 
@@ -20,20 +20,20 @@
     - others?
 - Suggested coordination tools::
     - __How granular to be? eg a Kanban in Notion or Trello with a card for each piece__ 
-^^update^^ [[September 2nd, 2020]] __consensus for now is to use in-Roam kanban__
+      ^^update^^ [[September 2nd, 2020]] __consensus for now is to use in-Roam kanban__
     - [[Roam Production Kanban]]
 - ----------------------------------------------------------------------------
 - # 1. Model workflow from a final draft
 - {{mermaid}}
     - graph LR
-    final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
+          final_draft-->dev_edit-->author_review1-->copyedit-- loop as needed -->author_review1-->design-->layout-- loop as needed -->design-->proofread-->publish
 - {{mermaid}}
     - graph LR
-    submission-->dev_edit-- loop as needed -->author_review1-->dev_edit-- author approval-->copyedit-- loop as needed -->author_review2-->copyedit-- author approval-->design-->layout-- loop as needed -->design-- production approval-->proofread-- production approval-->publish
+          submission-->dev_edit-- loop as needed -->author_review1-->dev_edit-- author approval-->copyedit-- loop as needed -->author_review2-->copyedit-- author approval-->design-->layout-- loop as needed -->design-- production approval-->proofread-- production approval-->publish
 - # 2. Production contributor roles — stub
     - ## Developmental editors aka Referees
         - __Read at the forest level. Big picture on structure and content. 
-More formal than #reader or #sparring-partner.__
+          More formal than #reader or #sparring-partner.__
         - Add your name here if interested in this role::
             - [[Scott Garlinger]]
                 - [[Astonishing Stories]]
@@ -54,7 +54,7 @@ More formal than #reader or #sparring-partner.__
             - [[Jenna]]
     - ## Design & Layout
         - __Work with__ [[Yak Collective Website]] __to add projects to the website. 
-Native, Webflow, Carrd, Google Slides....__
+          Native, Webflow, Carrd, Google Slides....__
         - Add your name here if interested in this role::
             - [[Suwaythan Nahaganeshan]]
                 - [[Future Frontiers]]

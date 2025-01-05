@@ -10,6 +10,6 @@
 - COTS FPGAs in space
     - "An FPGA-based Radiation Tolerant SmallSat ComputerSystem", paper out of MSU. Combines multiple relevant concepts and technologies in one paper. The entire cubesat process is very interesting from a hardware and testing point of view. https://www.montana.edu/blameres/vitae/publications/d_conference_full/conf_full_033_fpga_based_smallsat_computer.pdf
     - A paper on "Reconfigurable Fault Tolerance: A Comprehensive Framework
-for Reliable and Adaptive FPGA-Based Space Computing"  http://www.ann.ece.ufl.edu/pubs_and_talks/TECS12_jacobs_RFT.pdf
+      for Reliable and Adaptive FPGA-Based Space Computing"  http://www.ann.ece.ufl.edu/pubs_and_talks/TECS12_jacobs_RFT.pdf
     - A paper comparing radiation hardened FPGAs to COTS FPGAs, using specific Xilinx FPGAS https://ieeexplore.ieee.org/document/7231159
     - A workshop slide deck on "A COTS approach with Radiation Tolerant FPGAs and MSICs"  https://indico.esa.int/event/246/attachments/2941/3619/3.7_microsemi_presentation_to_HEDTP.pdf

@@ -327,8 +327,8 @@
             - Venkat's inter agent protocol, where agents are rovers, non-roving robots and humans.
             - Rhett's bottom up proposal to leverage practical technologies, ground for actually completing something by demo day.
             - The above link, which focuses on software architecture to accommodate a few aspects we have been talking about.
-
-What is surprisingly interesting is the complementary of the views: Inter agent, intra agent, and mapping to real tech.
+              
+              What is surprisingly interesting is the complementary of the views: Inter agent, intra agent, and mapping to real tech.
         - Venkatesh on "inter agent protocol"
             - Inspired by the games/missions we have in mind
             - 3 kinds of agents: Robots, base stations/satellites, humans
@@ -544,8 +544,8 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
         - what does a smart contract with a rover look like?
         - a bit trolly/clickbaity, but some interesting points https://scale.com/blog/text-universal-interface
         - multi-way com:
-1. A tells B talk to C
-2. A talks to B & C
+          1. A tells B talk to C
+          2. A talks to B & C
         - [9:29 PM]
         - 3. A talks to a group of B (swarm?)
         - [9:31 PM]
@@ -564,13 +564,13 @@ What is surprisingly interesting is the complementary of the views: Inter agent,
         - paper I cite often https://castlelab.princeton.edu/html/Papers/languages.pdf
         - [9:53 PM]
         - Abstract: The modeling of very complex problems requires the participation of people
-with diverse backgrounds. The combined eorts of these people, properly coordinated,
-can contribute to the solution of complex problems, but only if we facilitate the process
-of communicating. In this paper, we highlight the importance of languages, illustrated
-by a discussion of the \languages" used by four core groups of people. We show how
-the choice of language can either disguise similarities or hide important dierences.
-Most signicantly, we illustrate how the language we speak can color our view of the
-problem, leading, in some cases, to poor representations of a problem.
+          with diverse backgrounds. The combined eorts of these people, properly coordinated,
+          can contribute to the solution of complex problems, but only if we facilitate the process
+          of communicating. In this paper, we highlight the importance of languages, illustrated
+          by a discussion of the \languages" used by four core groups of people. We show how
+          the choice of language can either disguise similarities or hide important dierences.
+          Most signicantly, we illustrate how the language we speak can color our view of the
+          problem, leading, in some cases, to poor representations of a problem.
         - metaphoric mapping between human and rover movements
         - scene from pacific rim where 2 brothers control the giant mecha robot https://www.youtube.com/watch?v=9Pn6NgaX8I0
         - instructions using maps

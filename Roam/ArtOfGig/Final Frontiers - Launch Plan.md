@@ -19,7 +19,7 @@
             - citations? 
     - **Audience**
         - {{[[TODO]]}} Who's the target audience?
-`define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`
+          `define as best as you can the intended audience, the better we do this the easier will be to achieve our goal`
     - **Messaging**
         - {{[[TODO]]}} oneliner/tweet
             - 
@@ -30,7 +30,7 @@
         - Campaign
             - {{[[TODO]]}} full-launch
             - {{[[TODO]]}} teaser/early-access + full-launch
-`one idea to get an initial interest and testimonials is to provide exclusive pre-launch access to key target individuals in exchange for a testimonial`
+              `one idea to get an initial interest and testimonials is to provide exclusive pre-launch access to key target individuals in exchange for a testimonial`
     - **Channels**
         - {{[[TODO]]}} Yak talk newsletter
         - {{[[TODO]]}} YC social networks - twitter, linkedin

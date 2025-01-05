@@ -85,8 +85,8 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FBJ-qf8Yg9t.2%20Chicago%E2%80%99s%20general%20rule%E2%80%94zero%20through%20one%20hundred%202022-09-01%20at%204.35.19%20PM.jpg?alt=media&token=13086011-97ed-411d-8b51-4ec5ae340d72)
     - 
     - > 9.3: An alternative rule—zero through nine
-
-Many publications, including those in scientific or journalistic contexts, follow the simple rule of spelling out only single-digit numbers and using numerals for all others (but see [9.7](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec007.html)). Most of the exceptions to the general rule ([9.2](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec002.html)) also apply to this alternative rule. Round multiples of hundreds, thousands, and hundred thousands, however, are typically expressed as numerals when the alternative rule is in force (cf. [9.4](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec004.html)).
+      
+      Many publications, including those in scientific or journalistic contexts, follow the simple rule of spelling out only single-digit numbers and using numerals for all others (but see [9.7](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec007.html)). Most of the exceptions to the general rule ([9.2](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec002.html)) also apply to this alternative rule. Round multiples of hundreds, thousands, and hundred thousands, however, are typically expressed as numerals when the alternative rule is in force (cf. [9.4](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec004.html)).
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FhCTsqeWHk2.3%20An%20alternative%20rule%E2%80%94zero%20through%20nine%202022-09-01%20at%204.46.47%20PM.jpg?alt=media&token=25ba59f6-783a-4991-8ce1-a1e6cbbe438c)
         - 
         - 
