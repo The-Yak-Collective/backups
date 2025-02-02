@@ -1,0 +1,29 @@
+- 15/16 Jan
+    - What makes a thing a robot
+    - What makes a thing an AI robotics
+- 22/23 Jan
+    - Points from before
+        - AI for evolutionary design (AutoCAD generative model examples)
+        - AI for evolved behavior
+        - Emergent subsumption architecture
+    - 2035 State of AI and how to align
+        - d/acc approach
+            - Vitalik [original post](https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html) and [follow-up](https://vitalik.eth.limo/general/2025/01/05/dacc2.html)
+        - Cloud/big cloud tethered approach
+        - Where will the hardware be by that point?
+        - AI in design
+        - AI in ops
+            - RL for basic behaviors
+            - Mode ID and reconfiguration/fault recovery etc
+    - Builds+AI ideas
+        - Yakasaur
+            - [RPi AI kit](https://www.raspberrypi.com/products/ai-kit/)
+            - [RPi AI documentation](https://www.raspberrypi.com/documentation/computers/ai.html)
+            - [Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/product-development/), Cosmos
+            - Coral AI
+            - SiFive RISCV boards
+        - AI in Tumbller?
+        - AI in Galaxy?
+    - Simulation ideas
+        - Omniverse/Cosmos
+        - Genesis

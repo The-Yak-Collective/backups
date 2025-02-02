@@ -1317,6 +1317,7 @@
         - Dec 16: | Discord Thread | YouTube
         - Dec 23: | Discord Thread | YouTube
         - Dec 30: | Discord Thread | YouTube
+- **2025 Readings**
 - **Hopper**
     - Composability
         - https://en.wikipedia.org/wiki/Composability

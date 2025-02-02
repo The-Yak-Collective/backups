@@ -2,7 +2,7 @@
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
 - Status:: {{or: Active | Early Concept | Proposal | Complete}}
-- We meet every Friday on Discord Chat at 9 AM Pacific to read and discuss a short reading relevant to online governance. We have multiple reading tracks each with their queues, which you can find below. 
+- We meet every Friday on Discord Chat at 8 AM Pacific to read and discuss a short reading relevant to online governance. We have multiple reading tracks each with their queues, which you can find below. 
 - For the 2021-22 season, we have 4 active tracks with active queues: Nature and Long-Term Thinking, Case Studies, Technology, and General. Please feel free to add links to any queue (preferred), or in the Discord ogs channel using the `$readingadd` command. The Discord list is used as an inbox/buffer and is periodically cleared and moved here.
 - ---
 - [[The Art of Online Governance | Production]] [[November 26th, 2021]]
@@ -394,6 +394,60 @@
             - Element of sacredness in the idea of enshrinement -  early christian tradition - the relics of saints are really important. Early roman empire - peter, mark - patriarchies - church of st mark where the main church was in Alexandria but in Italy the cities of venice and aquilla were fighting over the city becoming the city of the patron saint. At one point Venice to seal the argument, couple of people went to Alexandria and stole the body and brought it back 
             - Enshrinement follows the gradient of sacredness 
         - Ellen
+    - Venice and Colleganza 
+        - Venkat
+            - Closure was not really closure since representation increased a lot 
+            - Inqueality within the elites was because of political conditions 
+            - Venice refers to the maritime empire and not just the place Venice, and maintaining this required a large number of 
+            - Venetian economic and mercantile policy played out against state policy 
+            - Secret service had a lot of control
+            - Nobility sort of reached the limit of governability 
+            - Era of good trades sort of ended, because of the Ottomans and the other threats it kind of got reduced 
+            - The paper makes it sound like the top 0.1% as closing access to the nobility - what actually happened was that the risks in trading environment led to 
+            - Bureacracy capturing the economy - nobility controlled the aparatus - right analogy to modern times, its not members of congress buying the lucractive start-ups, they decide which sectors to turn into 
+            - Insurance was innovated more by Genoa - Colleganza effectively did insurance, most of the rich merchants bough a piece of multiple voyages, traveling merchant 
+            - Why Genoa innovated in insurance - may be a reading on Genoa - why did they take over trade in the US and the India
+            - Genoa insurance 
+            - Midwestern grain contracts
+            - Cotton contracts 
+        - Sachin
+            - Family as the ultimate little unit that everyone eventually reduces things to 
+            - Contracts sort of show how this evolved along with other historical events - motivated reasoning 
+            - Zaibatsus - Tie between the government and the nobility
+            - Renaisance and how the early contracts on stuff was given out 
+            - Commons that evolved around contracts and movements
+            - Seems very obvious why things would change the way they did 
+    - Genoa and Maritime insurance 
+        - Sachin
+            - Rizq and risk, risk vs collateral. You put up a collateral
+            - Seemed like it evolved into some kind of gambling eventually - I wonder if that is the state of any second order trading, does it always evolve into gambling? Thinking about memecoins and other financial resource things
+            - Partially a commons, because it was somewhat collectivist in structure though there was no formal monitoring before it became instituitionalized through banks and the east india company 
+            - Can there be a thread of looking at evolution of documents or things that are partial commons, can there be a modern commons equivalent
+            - Venice employed
+        - Ananth
+            - Amalfi coast - maritime dispute resolution
+            - Contracts and Insurance are a weapon of the weak
+            - Portfolios of the poor - survey of all sorts of schemes to provide financial services to themselves. most common is the chit fund, every month someone gets the big pot 
+            - briding is financialization of the week - whether the model relies on rich person underwriting the debt 
+            - yak collective is a group of the poor - only small amounts of time 
+            - weapons of the weak way of doing robotics 
+            - Temporalization of the poor - time is money for everyone - that makes a difference in how you manage 
+        - Venkat 
+            - Devolution of insurance market to gambling market - in modernity both those things have separated, typically you gamble on more fun things 
+            - Distinction between - Genoese and Venice, Genoa was trading more 
+            - difference in culture vs difference in position. Genoa closer to France
+            - Genoa was the anarchic version of Venice, Hobbesian state of violence 
+            - Venice as platform economics and Genoa in the Hobbesian part - makes a difference in how they operated 
+            - Genoese merchants may be gave more flexibility to the merchants 
+            - not being a platform - they were generally more open to doing more weird things 
+            - Spain and Portugal right after the re-conquesta - may be worth investigating 
+            - Insurance markets evolved from Italy to little later in Britain and then the mathematics was invented, all along the way it looks like Commons all the way
+            - Modern insurance markets are extremely corporatized - platform corporates have won
+            - California, fire insurance, tried to make it a commons market, as the risk increases, insurance commissioner has to sign off on rate increases, he is accountable to electorate 
+            - next time california has a budget deficit -  tax money is being used to keep an insurance market afloat - takeaway is, California as Commons insurance market is failing 
+            - People should stop building in the wilderness periphery, which means the housing market 
+            - Insurance as a problem is not bounded, its all coupled
+            - GoFundMe is kind of commons -  writing on who is participating in defacto insurance markets, also an element of charity involved  
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)

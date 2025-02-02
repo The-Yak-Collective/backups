@@ -2,3 +2,4 @@
 - [[2022 meeting notes]]
 - [[2023 meeting notes]]
 - [[2024 meeting notes]]
+- [[2025 meeting notes]]
