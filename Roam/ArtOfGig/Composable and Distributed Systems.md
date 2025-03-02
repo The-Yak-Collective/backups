@@ -1318,6 +1318,8 @@
         - Dec 23: | Discord Thread | YouTube
         - Dec 30: | Discord Thread | YouTube
 - **2025 Readings**
+    - [[Feb 24: 2025 EPF Week 1]]
+    - 
 - **Hopper**
     - Composability
         - https://en.wikipedia.org/wiki/Composability

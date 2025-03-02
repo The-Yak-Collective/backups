@@ -1,0 +1,27 @@
+- ### Study Track Overview
+    - Ethereum Foundation runs 6-8 week protocol development study track
+    - Proposal to run a slower-paced version focusing on protocol development
+    - Goal to potentially contribute to the Ethereum Wiki
+    - Links to Wiki and study materials shared
+- ### Learning Structure Agreement
+    - Will use 15-20 minutes for reading during sessions
+    - Participants will review and discuss materials
+    - Will use Granola to generate summaries of lecture content
+    - Baseline expectation: Review slides + text summary before meetings
+    - Next session starts at 18:25
+- ### Content Format Discussion
+    - Each lecture includes:
+        - 90-minute video lecture
+        - Accompanying slides
+        - Wiki pages
+        - Technical deep dives
+        - Background philosophy articles
+    - Granola summaries prove efficient - compress 90-min lectures into 20-min readable content
+- ### Learning Materials Approach
+    - First week’s Granola summary is concise and manageable
+    - Participants will focus on:
+        - Granola-generated lecture summaries
+        - Slide deck review
+        - Linked articles based on interest
+        - Technical and philosophical background materials
+    - Future lectures may require adjusted approach based on content density

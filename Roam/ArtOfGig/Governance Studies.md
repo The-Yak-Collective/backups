@@ -448,6 +448,93 @@
             - People should stop building in the wilderness periphery, which means the housing market 
             - Insurance as a problem is not bounded, its all coupled
             - GoFundMe is kind of commons -  writing on who is participating in defacto insurance markets, also an element of charity involved  
+    - Morality
+        - Sachin
+            - When the did concept of "humanity" come around 
+            - A lot of the development seems accidental or as side effect of someone following self interest - insurance and evolution of it - and funnily enough 
+            - United States president has a lot of power, and it is because there is this consideration that the united states president would be a moral person 
+            - immigration is moral when there is a labor shortage
+            - more to it than taste - game theory is the answer in terms of evolutionary pressures 
+            - things that people trust in terms of morality - usually fiction - probably cause people
+        - Kiran
+            - Evolved a cognitive social dynamic change where we are thinking of economies and insurance 
+            - There are people
+        - Jenna
+            - I was 14 years old when women could finally have a credit card 
+            - Rooting for "our team" is not the part of us that we want to grow 
+        - Ellen
+            - Married women in quebec and canada got property rights in 1960
+            - You dont need the cultural/technical context to have moral intuitions 
+            - Having a washing machine - you have surplus time so you have time to do something else 
+        - Andre
+            - art in the age of mechanical reproduction - it dilutes everyone's belief in community 
+            - Commons that need to persist in time will need to be designed with the idea that people are diverging and not believing in community 
+        - Venkat
+            - Reviewed triggered me in .. annoying ways 
+            - It seems like a domain squatting book - dont have much interesting things to say about it 
+            - Axelrod - more solid and empirically correct 
+            - Skeptic of arc of moral progress - more a case of technology reshaping the environment - easily be justified to do the right thing for the wrong reasons 
+            - Little bit of a hobby - magical thinking genre
+            - Horse - strange sociality going - like or dislike each other but they co-operate in peaceful ways 
+    - Passports
+        - Kiran
+            - It was not easy to become a full citizen. At that point you had to become part of the nobility class
+            - Citizenship was not that important - it was about estates and your last name was important 
+            - Greencard rules vary depending on the country you are going 
+            - State department US played a role 
+        - Sachin
+            - people used to have multiple identities - in India it was not needed for a person to have their name declared on their birth certificate, so all my neighbors came to know me by a different name and I was only named when I went to school 
+            - Can the US revoke a passport - I guess possibly? 
+            - Lot of identity document - insitution was based on something being true in the future -  but all bets are off now
+            - Green card - buying a plane ticket - its sort of like a 
+            - Rich people can get citizenships 
+        - Ellen
+            - Canada in 1793 passed a rule saying there would no new slaves but people who were existing slaves would remain slaves for a while 
+            - 1834 -  Britain abolished slavery 
+            - Canada did not have a constiution until 1982
+            - 1867 - this is when Canada became a country 
+            - if an enslaved person made it into a free state they had to returned to their slave owner after 1850
+            - but before 1850 that was not the case ? 
+            - underground railroad - 1793 - if someone made it back to Canada they did not have to go back 
+            - 1856 - passport became important - partly because of the debate around slavery
+            - the manifest destiny thing used to be a big thing 
+            - passports are they enough to protect you - someone 
+        - Andre
+            - Interesting that Turkey had a better protocol for identifying documents 
+            - document heavy culture not so much in the United State
+            - Canadian passport printer - security requirement is the same as the dollar bill printing 
+        - Venkat 
+            - "show your papers" as a phrase suddenly makes more sense 
+            - most people would have passports - some might be people who require supporting requirements -  you had to carry an I20 document along with it 
+            - awkward shape and form factor of the thing I20 - Green card - 
+            - A flimsy document is more easy to contest 
+            - Complete bespoke documents - Marco polo Kublai Khan - Kublai Khan gives him a golden passport - it guarenteed quite a lot more than
+            - Border of Texas. - green card - on the way back did not have documents - close to border - they had border patrol - ones who had passport were fine 
+            - friends - fax copies - eventually what happened only one happened to get a faxed visa page 
+    - Summary session
+        - Venkat 
+            - There is no written document at the the center of the emergent ideology of Silicon Valley. Almost as a point of pride that doing > writing
+            - Judith Butler stuff - gender theory
+            - Intersectionality paper - Crenshaw 
+            - 60s civil rights movement - 10/15 years of focus on social justice -  then economics and Reagan era - then it switched to social justice as the main theme. In between there was the pickety stuff and occupy wall street - the intellectual reaction to it was brief and quick Focus shifted to social justice 
+            - 80s - lot of the readings such as the Saskia Sassens etc belongs to the anti-reagan era. Saskia Sassen from 2017 but (50 year time scale)
+            - The other one is a longer arc (500 year time scale) of governance mechanism
+            - Whats happening the US at least - counterprogramming the 50 year arc and bring them to a conclusion 
+            - Lot of people on all sides who have a historical consciousness of the 500 year arc 
+            - Tom Holland - Dominion 
+            - Lot of ritual notions of native wisdom - decolonization - Australia, Canada and United States 
+            - Lot in Common - mongols, turks, with the north American native 
+            - Kurulthai - large number of small mongol tribes congregate to declare a new khan 
+            - Afghanistan - moveable parliament traditional thing 
+            - sort of understood - paper about how leaders are elected across the world in nomadic peoples 
+        - Ananth
+        - Andre
+            - Papers on the Commons would be interesting to listen to
+            - Legal systems different than our own - paper 
+        - Ellen
+            - Broadsheet Ballads
+            - Indigenous structures of government 
+            - Geology and governance - when you change geological zones everything changes - how does that affect people to organize themselves
 - Season 4
     - Scaling Cities Track
         - [How DC got its Metro](https://open.substack.com/pub/constructionphysics/p/how-washington-dc-got-its-metro)
