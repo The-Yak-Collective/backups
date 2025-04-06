@@ -1,0 +1,3 @@
+- [Ethereum Execution Layer | Matt | Week 3](https://www.youtube.com/watch?v=pniTkWo70OY) 
+    - https://www.youtube.com/watch?v=FqKjWYt6yWk
+- [[Granola Summary of the Week 3 lecture]]

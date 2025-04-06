@@ -8,7 +8,6 @@
     - Participants will review and discuss materials
     - Will use Granola to generate summaries of lecture content
     - Baseline expectation: Review slides + text summary before meetings
-    - Next session starts at 18:25
 - ### Content Format Discussion
     - Each lecture includes:
         - 90-minute video lecture

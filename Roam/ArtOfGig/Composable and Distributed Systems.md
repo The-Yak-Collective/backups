@@ -1319,7 +1319,9 @@
         - Dec 30: | Discord Thread | YouTube
 - **2025 Readings**
     - [[Feb 24: 2025 EPF Week 1]]
-    - 
+    - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
+    - [[March 10, 2025 EPF Week 2]]
+    - [[March 31st, 2025 EPF Week 3]]
 - **Hopper**
     - Composability
         - https://en.wikipedia.org/wiki/Composability

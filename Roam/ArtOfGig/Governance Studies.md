@@ -9,6 +9,97 @@
 - » [Google Doc](https://docs.google.com/document/d/1WvCmvNeQLHy9XqiL1iq7fvSHllou6Liq8JJcxHag3tQ/edit?usp=sharing)
 - 
 - ---
+- Season 5
+    - Hyperstition
+        - Sachin
+            - ChatGPT - theory fiction > slop. Theory fiction is motivated slop - it is such a common thing that it is not that different from Slop
+            - Manifest destiny as something that emerged later, similar to the piece about treaure hunting
+            - Always been hyperstitional in some way but now people have accepted permanent hypersitition without any empiricism - not checking whether there is gas but always assuming there will be
+            - people who meme things into existence 
+            - Story came first then came the action, similar to Disney
+            - Very humorless in some way - I think philosophy needs to be a bit funny 
+        - Venkat
+            - Most people think it is as influential as other wing of Nrx
+            - Less direct political influence 
+            - Very anglo about NRX - what is it 
+            - Merged with the moldbug wing of things 
+            - acceleration is the belief that if you floor the accelerator then gas will just appear
+        - Kiran
+            - Theory fiction shifts the place of the reader in the world 
+            - Neal Stephenson - Ada Palmer - related to accelerationist
+        - Ellen
+            - Basic idea - you can imagine something and the if enough people believe in it 
+            - NRX -> Private equity -- how 
+            - 
+        - Andre
+            - things fizzled out and died 
+            - cyberfeminism - xenofeminism etc 
+        - Ananth
+    - Neomedievalism
+        - Andre
+            - Dune and Feudalism as "natural end state" for governance
+        - Ellen
+            - Not so sure about neomedievalism part of this 
+            - Regions talk between each other 
+            - Canada - Ontario Governments representative to Hong Kong - they were living in Hong Kong 
+            - You can have nation states, you can also have smaller regions within nation states talking to each other 
+            - If you want to business - then Netherlands is the place to go - Eidhoven 
+            - Natural History of muscle - harness for pulling horses - big technological development - technologically flourishing time 
+        - Sachin
+            - Cities and city states first - Istanbul, Venice, even Genoa - people lived in the cities and traded with others - and trade will always remain important and people will sort of look away because it benefits everyone
+            - Venice - Istanbul prescence even though
+            - City states - but its mostly symbolic - Denver - Tajikstan - but may be that will change
+            - Regions that are dominated by corporations that have significant advantage - may be 
+            - In general with authoritarian places - basically if you dont make any troubles then things are fine 
+            - Venzuela/Dubai - identity etc 
+        - Jenna
+            - not sure if anything was gained from the framing 
+            - MurderBot - murderbot + corporate
+        - Venkat
+            - cold war
+            - post state intermezzo
+            - post 9/11 - revenge of territoriality - thats where its medieval 
+            - main reason the theisis was wrong - the multiple levels were autonomous 
+            - throwback to medieval 
+    - Why is Critique Bad? 
+        - Sachin
+            - Thing and an object - thing as something that has "meaning" while object is something more detached and something that people are used to
+            - Most popular critique is deconstruction of something 
+            - Is Latour popular for deconstruction 
+            - Hyperstititioning vs being constructivist - debunking leads to construction of new realities that dont have much to stand on 
+            - pre-history of hyperstitioning - because this was also the time when CCRU was writing about accelerationism etc 
+            - Capitalist realism and David Graeber (who also manufactured a lot of stuff regarding bullshit jobs  - one is basically fully adopted it and the other group has adopted it but with some hesitancy - like your public education )
+        - Venkat 
+            - Scientists had a lot of high reputation
+            - End of Clinton adminstration - weaponing the idea that everything should be questioned 
+            - Book - Merchants of Doubt - as the basis of sophisticated science 
+            - post 9/11 - WMD 
+        - Jenna
+            - careened btw the prince in movie Mozart "too many notes" and "oh that's a good point" "I get that bit" esp when he speaks in the vernacular e.g.
+            - The problem with philosophers is that because their jobs are so hard they drink a lot of coﬀee and thus use in their arguments an inordinate quantity of pots, mugs, and jugs--to which, sometimes, they might add the occasional rock.
+            - [10:48 AM]
+            - what useful distinction btw "critique" and what we might say is normal critical thinking
+              what's a muggle to do
+              ~and~ 
+              how would we ever find a way back to anything like consensus reality
+        - Ellen
+            - How non-profits marketed themselves - save the ... made up name landscape 
+            - Canada - regulation around news 
+    - Structured Messiness
+        - Kiran
+            - Similar to Christopher Alexander pattern language 
+            - Some of it feels a little circular - is it because I find diversity 
+            - What is the structured part of structured messiness - not too much intelligent design behind - feels like pure organic growth
+            - pop is structured - easy to numb yourself 
+            - Raga gives you the structure, and everything inside, Alapana 
+        - Ellen
+            - zoning etc provides structure 
+            - house owned for a while - neighborhood close to the university that underwent a big zoning change - city saying we dont know what we need here so lets zone it for both business and apartments 
+        - Sachin
+            - Reminds me of how under Lalu Prasad Yadav people were studying the success of Indian railways 
+        - Venkat
+            - Vaughn researching Tokyo food courts 
+            - Underground malls and subway infrastructure connected allows weather proofing - once you want those advantages 
 - Season 4.5
     - Childbearing, monk hood and sons of the soil
         - [Eunuchs in the forbidden city ](https://multimedia.scmp.com/culture/article/2155959/forbidden-city/life/chapter_02.html)| [Discord Thread](https://discord.com/channels/692111190851059762/1228372439541481564)
@@ -527,7 +618,6 @@
             - Kurulthai - large number of small mongol tribes congregate to declare a new khan 
             - Afghanistan - moveable parliament traditional thing 
             - sort of understood - paper about how leaders are elected across the world in nomadic peoples 
-        - Ananth
         - Andre
             - Papers on the Commons would be interesting to listen to
             - Legal systems different than our own - paper 

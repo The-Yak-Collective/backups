@@ -1,0 +1,74 @@
+- ### Block Validation in the Execution Layer
+    - Post-merge simplification: Execution layer now primarily performs state transition function
+    - Consensus layer interacts via process_execution_payload
+    - Key validation steps:
+        - Header verification (gas limits, block numbers, base fee updates)
+        - Transaction execution through EVM
+        - State updates
+        - Return true/false to consensus layer indicating validity
+- ### State Transition Function Implementation
+    - Takes inputs:
+        - Parent block
+        - Current block
+        - State DB (current valid state)
+    - Returns:
+        - Updated state DB
+        - Error (if validation fails)
+    - Key components:
+        - Header verification
+        - Transaction execution loop
+        - State updates
+        - Withdrawal processing (post-merge addition)
+- ### EVM Architecture and Operation
+    - Core components:
+        - Program Counter (PC)
+        - Code being executed
+        - Stack
+        - Memory
+        - Gas remaining
+    - Instruction categories:
+        - Arithmetic operations
+        - Bitwise functions
+        - Environment functions
+        - Call frame instructions
+        - Control flow
+        - Stack operations
+        - System calls
+    - Gas costs determined historically through benchmarking targeting specific gas/second processing rates
+- ### Transaction Pool and Block Building
+    - Transaction selection based on value/gas price
+    - Block building process:
+        - Environment setup (timestamp, number, base fee)
+        - Transaction selection from pool
+        - Gas limit management (currently ~30M gas)
+        - Block finalization
+    - Invalid transactions skipped rather than failing block build
+- ### P2P Protocol (devp2p)
+    - Current version: ETH68
+    - Main protocols:
+        - ETH
+        - Snap
+    - Historical protocols (now deprecated):
+        - Whisper
+        - LES
+        - Witness propagation
+- ### Network Communication Optimization
+    - Transaction propagation:
+        - Full transaction sent to √n peers
+        - Only hashes sent to remaining peers
+        - Implemented in eth/handler.go
+    - Methods:
+        - getBlockHeaders
+        - getBlockBodies
+        - getReceipts
+        - transactions
+        - newPooledTransactionHashes
+- ### Snap Sync Implementation
+    - Two-phase protocol:
+        - Phase 1: Contiguous state retrieval
+        - Phase 2: Healing phase
+    - Uses authenticated roots from weak subjectivity checkpoints
+    - Performance depends on download speed during contiguous phase
+    - Healing complexity increases with state deformation
+    - State validation through economic majority assumption
+    - Alternative: Full sync from genesis for complete verification
