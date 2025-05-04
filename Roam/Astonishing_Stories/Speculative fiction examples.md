@@ -11,7 +11,7 @@
         - (suitable for common thread or unfolding over time) - https://xkcd.com/1732/
     - ## Single/two panel comic
         - (ideal for storylines exploring collisions) eg:neurofuturama
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2FcSmaCrtLUB.png?alt=media&token=f36b464a-a85f-41a0-be63-3de2f92cd9f8)
+          ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAstonishing_Stories%2FcSmaCrtLUB.png?alt=media&token=f36b464a-a85f-41a0-be63-3de2f92cd9f8)
         - ## Letter to the present from the future
             - [Love letter from 2029: I want you to know we did it, we turned the ship around](https://www.theguardian.com/culture/2020/jul/30/love-letter-from-2029-i-want-you-to-know-we-did-it-we-turned-the-ship-around)
         - ## Short narrative fictions

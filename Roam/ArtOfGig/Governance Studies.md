@@ -100,6 +100,21 @@
         - Venkat
             - Vaughn researching Tokyo food courts 
             - Underground malls and subway infrastructure connected allows weather proofing - once you want those advantages 
+    - Abundance
+        - Ellen
+            - Some rules exist for complex reasons - and it is easier to get rid of - is that what is holding us back? probably not 
+        - Andre
+            - Both essays ring pretty true - process seems to hamper things
+            - Buidling and contracting practices - lot of times the public service will act as the owner but they will use private services of construction - trying to push the blame 
+        - Sachin
+            - Process - god in the process - which is that god suffers 
+            - Central-left is mostly PMCs and the people who actually have to do these things 
+            - 
+        - Venkat 
+            - lot of memetic pressure to read this book
+            - coalesced as a fractional effort to get a left of center effort - co-opting the points - part of that - ditching 
+            - Gavin Newsom - cynical politician who will say what is needed to say 
+            - New machine candidate" - driving new consensus
 - Season 4.5
     - Childbearing, monk hood and sons of the soil
         - [Eunuchs in the forbidden city ](https://multimedia.scmp.com/culture/article/2155959/forbidden-city/life/chapter_02.html)| [Discord Thread](https://discord.com/channels/692111190851059762/1228372439541481564)
