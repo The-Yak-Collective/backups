@@ -1,0 +1,59 @@
+- {{[[table]]}}
+    - Strategy
+        - Purpose
+            - Representative tools / infra
+    - **Shadow‑forks**
+        - Spin up CL + EL nodes with new fork rules against mainnet state; exercise real‑world load & edge‑case state.
+            - ad‑hoc scripts; public Shadow‑Fork channels
+    - **Differential testing**
+        - Feed identical inputs to all four EL clients (Geth, Nethermind, Besu, Erigon) and compare state roots / traces.
+            - `go‑evmlab`, Hive nightly CI (≈48 k spec tests)
+    - **Fuzzing**
+        - Randomised or coverage‑guided input generation for txs, blocks, engine‑API calls, p2p messages.
+            - `fuzzy‑vm`, `tx‑fuzz`, `beacon‑fuzz`, Antithesis
+    - **Malicious nodes (“bad‑block generators”)**
+        - Intentionally craft invalid blocks/attestations, duplicate votes, engine‑API lies, malformed p2p packets.
+            - custom “evil” forks of CL & EL clients
+    - **Community testnets & bounties**
+        - Wider surface (hardware, OS, network), docs written by users, real incentive to break things.
+            - Kintsugi, Kiln, Goerli‑ShadowN, bounty ↑ to $250 k (quadrupled for Merge)
+- {{[[table]]}}
+    - Where it lived
+        - Trigger / symptom
+            - Root cause & impact
+    - **Besu gas‑refund calc** (pre‑Merge)
+        - Underflow drove `gasRemaining` HUGE → node DoS
+            - Bad subtraction in EIP‑3529 refund logic
+    - **Kintsugi 3‑way split**
+        - Geth vs  (Teku + Geth) vs  (Nethermind + Besu)
+            - Bad‑block generator swapped `parentHash`; Besu lacked the “hash matches payload” check, Nethermind cached by hash → divergent heads
+    - **Ticking gas‑limit cliff** (Shadow‑Fork  #1)
+        - Gas target drifted toward 8 M
+            - Geth default wasn’t updated to the mined 30 M target, so CL vote trended downwards
+    - **600 k‑block re‑org OOM**
+        - Shadow‑fork node blew RAM during deep reorg
+            - Inefficient state pruning during unwind; fixed by chunked flush
+    - **Prysm base‑fee endian bug**
+        - Invalid blocks once `baseFeePerGas > 255 255`
+            - CL → EL field was LE instead of BE
+    - **Infura outage**
+        - 1 % of network panicked on crafted tx, taking Infura down
+            - Older Geth build still had RETURN‑data shallow‑copy panic
+    - **Geth shift modExp panic** (found by fuzzers)
+        - Crafted `MODEXP` with enormous modulus crashed node
+            - Off‑by‑one (`b` vs `b‑1`) in bit‑shift
+    - **Nethermind `MOD` wrong sign**
+        - `(-2) mod n` returned `2` not `‑2`, consensus split risk
+            - Incorrect BigInteger negation path
+    - **Besu `MODEXP` RAM bomb**
+        - Reads giant exponent even if len=0 → DoS
+            - Order‑of‑operations bug in precompile
+    - **Geth v1.10.22 state corruption** (almost the Merge release)
+        - Dirty‑Trie flush wrote nodes out‑of‑order, dangling hashes
+            - LRU “already‑seen” check skipped last key
+- ##  Key takeaways
+    1. **Spec ≠ implementation** – All four EL clients __must__ compute identical state roots; even trivial endian mistakes show up only under real mainnet state or fuzzed corner‑cases.
+    2. **Shadow‑forks catch what unit tests miss** – Gas‑limit drift, unexpected re‑org depths, and performance pathologies only appear under real‑world load.
+    3. **Malicious nodes are free chaos‑monkeys** – By automating “evil” behaviour (double‑votes, wrong hashes, bogus engine‑API payloads) they surface whole‑class bugs before attackers do.
+    4. **Community testing pays off** – 400+ volunteers hammered testnets, wrote how‑tos, and earned bounties; their strange setups unearthed env‑specific crashes.
+    5. **Regression risk is permanent** – The near‑miss with Geth 1.10.22 shows why every hard‑fork cycle restarts the full gauntlet of fuzz/hive/shadow‑fork runs.

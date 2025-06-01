@@ -1,0 +1,3 @@
+- [[Granola Summary of the Week 4 lecture]]
+- [[Finding Consensus Issues in Layer 1]]
+- [[EIP History, Documentation & Processes]]

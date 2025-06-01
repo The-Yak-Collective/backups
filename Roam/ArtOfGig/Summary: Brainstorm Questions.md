@@ -64,9 +64,9 @@
     - [Hollywood movie screening tests with Kernel](https://discord.com/channels/692111190851059762/712459471787393054/714499617051639828)
     - [[Kannen Ramsamy]]
         - [School assignment is a big policy problem in UK where Kernel could be used](https://discord.com/channels/692111190851059762/712459471787393054/714554020261265489)
+    - [An experiment that I think can be interesting is to look at environmental triggers of people's positive / negative affects based on Richard Davidson's work](https://discord.com/channels/692111190851059762/712459471787393054/714536141621035112)
     - [[Venkatesh Rao]]
         - [Predictively mute tweets/threads based on mute words and sentiment](https://discord.com/channels/692111190851059762/712459471787393054/714542761906274373)
-    - [An experiment that I think can be interesting is to look at environmental triggers of people's positive / negative affects based on Richard Davidson's work](https://discord.com/channels/692111190851059762/712459471787393054/714536141621035112)
     - [[Sachin Benny]]
         - [Using Speller ID tech where officers are supposed to recognize and make a decision to shoot/not shoot a subject based on the subject's behaviour/perceived threat level](https://discord.com/channels/692111190851059762/712459471787393054/714528092068249670)
         - [Measuring effects of environment/external factors on learning e.g. temperature](https://discord.com/channels/692111190851059762/712459471787393054/714531025220535333)

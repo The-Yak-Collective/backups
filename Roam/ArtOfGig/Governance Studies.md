@@ -115,6 +115,54 @@
             - coalesced as a fractional effort to get a left of center effort - co-opting the points - part of that - ditching 
             - Gavin Newsom - cynical politician who will say what is needed to say 
             - New machine candidate" - driving new consensus
+    - Democracy
+        - Sachin
+            - One way to view the republican party of the current time is - you can't advance anything with institutions that currently exist
+            - You can see the democratic party trying to take the same stance now, at least a small percentage of it 
+            - new tweaks basically meant power concentrated within the hands of the president through foreign affairs 
+            - It is destroying the lights, not exactly turning them or remaking them
+            - " When incremental fixes fail, systems may punctuate: a **constitutional convention**, a **truth and reconciliation commission**, or an **external guarantor** (e.g. UN‑brokered settlement) resets the rules. The key is that all major forces buy into the process because the old equilibrium has irretrievably broken down." - chatGPT
+            - Bureacracy as a buffer to the democratic process - you cant have too many uncertain things all the time, and need some guarentees - and in an increasinly complex world, the amount of items that come under the gambit is larger 
+            - a combination of too much constraint in some areas such as healthcare and too little constraint in others such as foreign affairs or rule by executive order
+            - new processes/protocol institutionalize uncertainity - uncertainty comes from too many outcomes that are possible 
+            - all insituitions cannot protect all realms at the same time - there is some destruction, creative destruction at times at times not 
+            - lot of preference modeling in the american election
+        - Venkat 
+            - big update: the ex-ante of the standing of the legitimacy of the process is not ex-post acceptance of the outcomes 
+            - preference modeling is not a way to think about democracy 
+            - the only thing the election is doing is if you are getting your preferred outcome now or how likely is it that you will get it in the future
+            - repeatedly buying time - there is no epistemic function of democratic processes - not necessarily part of the democratic process. 
+        - Kiran
+            - updated perceptions
+            - had the idea that once elections are done you have to disagree and commit, except it may be not 
+    - Capgras Syndrome 
+        - Ellen
+            - Fractured mirror as a metaphor
+            - Brian Arthur - capture natural phenomenon for a particular purpose - the way in which we use a phenomenon is because of different cultures - reflecting back our culture ideas in technological forms 
+        - Jenna 
+            - things are normally fucked up but you dont need that more perhaps 
+            - 
+        - Sachin
+        - Venkat 
+            - Game of life, automatons - 1D things that evolve and you get weird graphical patterns 
+    - Should trees have legal rights
+        - Sachin
+            - First thing that brings to mind, moral advancements as a sphere of concern - factory workers being children for example during the industrial revolution
+            - cynical view is that  - economy and production incentivizes safety 
+            - Framing conservation as for us - nature is entertainment - rainforest cafe - preservation of actual rainforest 
+            - norms, metanorms around it 
+            - rivers are an interesting case and where personhood makes a lot of sense - constantly in different environments and in some ways matches our perception of something alive 
+            - Hiroshi yoshimura - plant music - japan - keeping with the music theme 
+            - model nature - production to entertainment - may be the ambient music people were onto something in the 1970s - they were all process oriented 
+        - Ellen
+            - Some trees have rights in Canada
+            - Gotts Pine trees - invasive species - tree bylaw that says that you cant just cut down trees like that 
+            - how are you going to replace - with non invasive trees but instead the bylaw manager was like - I would not buy this at all 
+            - Extending this to AI - open source - may be this is a way to re-imagine relationships to such objects 
+        - Venkat 
+            - Southeast asia - mandala system -violent and based around slavery - archipelago that was shifting fast 
+            - south east asia - natural predisposition to animism
+            - "what nature is" is determined by cultural concepts 
 - Season 4.5
     - Childbearing, monk hood and sons of the soil
         - [Eunuchs in the forbidden city ](https://multimedia.scmp.com/culture/article/2155959/forbidden-city/life/chapter_02.html)| [Discord Thread](https://discord.com/channels/692111190851059762/1228372439541481564)
