@@ -11,7 +11,7 @@ for GRAPH in "${GRAPHS[@]}"; do
 	if [[ -f "${GRAPH}.edn" ]]; then
 		mkdir -p "${GRAPH}.assets"
 
-		for FRAGMENT in $(grep "$FIREBASE_PREFIX" "${GRAPH}.edn" | sed "s#.*$FIREBASE_PREFIX##;s#\()\|}\|\"\).*##"); do
+		for FRAGMENT in $(grep "$FIREBASE_PREFIX" "${GRAPH}.edn" | sed "s#.*$FIREBASE_PREFIX##;s#).*##;s#}.*##;s#\(\"\).*##"); do
 			FIREBASE_URL="$FIREBASE_PREFIX$FRAGMENT"
 			FILE="${GRAPH}.assets/$(echo "$FRAGMENT" | sed "s#${GRAPH}%2F##;s#\?.*##")"
 
