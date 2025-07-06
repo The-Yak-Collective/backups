@@ -85,9 +85,9 @@
         - [Compare people classified in the various DSM5 psychological categories to normies](https://discord.com/channels/692111190851059762/712459471787393054/714551552618266664)
     - [[Luke Butler]]
         - [Also could connect this with Poly-vagal theory and interoception / body perceptions, which could provide more 360° feedback-style evaluation of where people “keep the score” in their bodies](https://discord.com/channels/692111190851059762/712459471787393054/714575973072371803)
-    - [Understand media impact on world view by channel and messaging](https://discord.com/channels/692111190851059762/712459471787393054/714598597454331965)
     - [[Promise Tewogbola]]
         - [Measure brain activity of experts/elite performers](https://discord.com/channels/692111190851059762/712459471787393054/714575589998329866)
+    - [Understand media impact on world view by channel and messaging](https://discord.com/channels/692111190851059762/712459471787393054/714598597454331965)
     - [[Jay Kalawar]]
         - [Kernel devices and systems compare signals from group of humans with confirmed synesthesia with those who are not. Potentially leading to ways of inducing synesthesia through signals, without invasive chemical inputs?](https://discord.com/channels/692111190851059762/712459471787393054/714577804099977227)
         - [Could Kernel devices be useful for this type of research, potentially decreasing costs of MRI, and making monitoring more widely available to Child Services social workers?](https://discord.com/channels/692111190851059762/712459471787393054/714580924569878548)

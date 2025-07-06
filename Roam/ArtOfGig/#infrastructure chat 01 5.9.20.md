@@ -67,10 +67,10 @@
     - Grigori
         - Less explaining, more doing (for newbies).. small project 5-10 people? with guidance for longer-standing participant
         - simple questions, difficult answer
-    - Creation of knowledge. every week
     - Venkatesh
         - Expectation settin rather than explaining.. 
         - +1 on experimental, trial & error community... keep that in mind and navigate accordingly
+    - Creation of knowledge. every week
     - Praful 
         - here's some helpful tips on how to play the game they may not be relevant (or outdated) 
 - Venkat is the bottle neck for too many things

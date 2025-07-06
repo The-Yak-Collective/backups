@@ -1322,7 +1322,8 @@
     - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
     - [[March 10, 2025 EPF Week 2]]
     - [[March 31st, 2025 EPF Week 3]]
-    - [[March 31st, 2025 EPF Week 4]]
+    - [[May 14, 2025 EPF Week 4]]
+    - [[Jun 2, 2025 EPF Week 5 Granola Summary]]
 - **Hopper**
     - Composability
         - https://en.wikipedia.org/wiki/Composability

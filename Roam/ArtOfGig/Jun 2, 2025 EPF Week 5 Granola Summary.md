@@ -1,0 +1,62 @@
+- 
+- ### Ethereum Roadmap Overview
+    - Comprehensive review of Ethereum’s development roadmap covering The Merge, Surge, Verge, Purge, and Splurge
+    - Presented by Donati, mouthpiece of Ethereum Foundation Research & Development
+    - Based on Vitalik’s yearly roadmap update
+- ### The Merge Achievements & Ongoing Work
+    - Implemented Proof of Stake with ~1 million active validators
+    - $110 billion in economic security
+    - Light client protocol implementation using committee of 512 validators
+    - Secret leader election (WHISK protocol) in development
+    - Finality achieved every 12.6 minutes (2 epochs)
+    - Single slot finality (SSF) research ongoing with potential solutions:
+        - Reducing active validator count
+        - Signature aggregation schemes
+        - Distributed validator stacks
+- ### The Surge: Data Availability & Rollups
+    - EIP-4844 implemented on mainnet
+    - Current blob metrics:
+        - Average 1.16 blobs per block
+        - Target of 3 blobs per block
+        - Cost: ~0.00013 ETH per blob
+        - ~5 Gwei total burned by blob data
+    - Data Availability Sampling (DAS):
+        - Uses polynomial commitments
+        - Requires only 30 samples for 1-in-a-billion confidence
+        - Enables efficient data verification without full download
+- ### The Verge: State Management
+    - Verkle Trees implementation planned to replace Merkle Patricia Trees
+    - Benefits:
+        - Shorter proofs
+        - 256 children per node vs current 16
+        - ZK-friendly structure
+        - Enables stateless validation
+        - Potential to triple gas limit
+    - Portal Network development for history access
+    - SSZ standardization planned to replace RLP
+- ### MEV & Staking Economics
+    - Proposer-Builder Separation (PBS) development
+    - Execution tickets concept for block proposal rights
+    - MaxEV plans to increase max effective balance from 32 ETH to 2048 ETH
+    - Liquid staking improvements:
+        - Protocol-level LST consideration
+        - Potential 2 ETH cap on slashing penalties
+    - Stake targeting research for ~25% of supply
+- ### Account Abstraction & EVM Improvements
+    - EOF (EVM Object Format) in development
+    - Account abstraction priorities:
+        - Smart wallet standards (ERC-4337)
+        - Improved key management
+        - Custom spending conditions
+        - Social recovery options
+    - EIP-1559 endgame improvements:
+        - AMM-style curve implementation
+        - Multidimensional resource pricing
+        - Time-aware base fee calculation
+- ### Future Cryptography Research
+    - Quantum-resistant consensus mechanisms
+    - Fully homomorphic encryption exploration
+    - One-shot signatures research
+    - Verifiable Delay Functions (VDF) development
+    - Encrypted mempool solutions for MEV mitigation
+    - Chat with meeting transcript: https://notes.granola.ai/d/9435afb9-bc8e-4b2f-aae3-f8e3be966453

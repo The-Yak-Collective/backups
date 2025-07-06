@@ -163,6 +163,8 @@
             - Southeast asia - mandala system -violent and based around slavery - archipelago that was shifting fast 
             - south east asia - natural predisposition to animism
             - "what nature is" is determined by cultural concepts 
+    - Are Suburbs Real?
+    - Crystal vs Mud in Property Law
 - Season 4.5
     - Childbearing, monk hood and sons of the soil
         - [Eunuchs in the forbidden city ](https://multimedia.scmp.com/culture/article/2155959/forbidden-city/life/chapter_02.html)| [Discord Thread](https://discord.com/channels/692111190851059762/1228372439541481564)

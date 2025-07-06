@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": 400,
+    "message": "The path may not end with '/' or contain two consecutive '/'s"
+  }
+}
