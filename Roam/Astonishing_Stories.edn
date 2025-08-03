@@ -32510,6 +32510,7 @@
           [4196 :block/uid "token-entity" 536883297]
           [4197 :version/id "0.12.1" 536883297]
           [4197 :version/nonce "uuidf54251b4-6bda-484a-86ad-15e229e2394d" 536883301]
+          [4197 :version/upgraded-nonce "uuidf54251b4-6bda-484a-86ad-15e229e2394d" 536883308]
           [4198 :block/uid "04-06-2025" 536883300]
           [4198 :create/time 1743962129251 536883300]
           [4198 :create/user 2301 536883300]
@@ -32533,6 +32534,7 @@
           [4200 :node/title "May 19th, 2025" 536883302]
           [4201 :version/id "0.12.3" 536883302]
           [4201 :version/nonce "uuidedda16fd-17d8-4abf-89b8-5e8c4787953e" 536883303]
+          [4201 :version/upgraded-nonce "uuidedda16fd-17d8-4abf-89b8-5e8c4787953e" 536883308]
           [4202 :block/open true 536883304]
           [4202 :block/order 0 536883304]
           [4202 :block/page 560 536883305]
@@ -32542,12 +32544,22 @@
           [4202 :create/time 1747782549697 536883304]
           [4202 :edit/time 1747782549697 536883304]
           [4203 :version/id "0.12.4" 536883304]
-          [4203 :version/nonce "uuid5696811f-d2ae-47ba-9d47-9a3b50d1eb14" 536883306]
+          [4203 :version/nonce "uuid68833679-df76-40a1-afa3-cf6babd9eb19" 536883307]
+          [4203 :version/upgraded-nonce "uuid68833679-df76-40a1-afa3-cf6babd9eb19" 536883308]
           [4204 :block/uid "05-20-2025" 536883306]
           [4204 :create/time 1747782571716 536883306]
           [4204 :edit/time 1747782571716 536883306]
           [4204 :log/id 1747782571716 536883306]
-          [4204 :node/title "May 20th, 2025" 536883306]],
+          [4204 :node/title "May 20th, 2025" 536883306]
+          [4205 :block/uid "07-06-2025" 536883307]
+          [4205 :create/time 1751830571996 536883307]
+          [4205 :create/user 2301 536883307]
+          [4205 :edit/time 1751830571996 536883307]
+          [4205 :edit/user 2301 536883307]
+          [4205 :log/id 1751830571995 536883307]
+          [4205 :node/title "July 6th, 2025" 536883307]
+          [4206 :version/id "0.12.5" 536883308]
+          [4206 :version/nonce "uuid3a23c9f3-52f2-4c30-ad0e-ac531542208b" 536883308]],
  :schema {:append-api/fb-push-key {:db/unique :db.unique/value},
           :attrs/lookup {:db/cardinality :db.cardinality/many, :db/valueType :db.type/ref},
           :block/children {:db/cardinality :db.cardinality/many, :db/valueType :db.type/ref},
