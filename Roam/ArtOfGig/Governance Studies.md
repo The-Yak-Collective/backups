@@ -10,161 +10,204 @@
 - 
 - ---
 - Season 5
-    - Hyperstition
-        - Sachin
-            - ChatGPT - theory fiction > slop. Theory fiction is motivated slop - it is such a common thing that it is not that different from Slop
-            - Manifest destiny as something that emerged later, similar to the piece about treaure hunting
-            - Always been hyperstitional in some way but now people have accepted permanent hypersitition without any empiricism - not checking whether there is gas but always assuming there will be
-            - people who meme things into existence 
-            - Story came first then came the action, similar to Disney
-            - Very humorless in some way - I think philosophy needs to be a bit funny 
-        - Venkat
-            - Most people think it is as influential as other wing of Nrx
-            - Less direct political influence 
-            - Very anglo about NRX - what is it 
-            - Merged with the moldbug wing of things 
-            - acceleration is the belief that if you floor the accelerator then gas will just appear
-        - Kiran
-            - Theory fiction shifts the place of the reader in the world 
-            - Neal Stephenson - Ada Palmer - related to accelerationist
-        - Ellen
-            - Basic idea - you can imagine something and the if enough people believe in it 
-            - NRX -> Private equity -- how 
-            - 
-        - Andre
-            - things fizzled out and died 
-            - cyberfeminism - xenofeminism etc 
-        - Ananth
-    - Neomedievalism
-        - Andre
-            - Dune and Feudalism as "natural end state" for governance
-        - Ellen
-            - Not so sure about neomedievalism part of this 
-            - Regions talk between each other 
-            - Canada - Ontario Governments representative to Hong Kong - they were living in Hong Kong 
-            - You can have nation states, you can also have smaller regions within nation states talking to each other 
-            - If you want to business - then Netherlands is the place to go - Eidhoven 
-            - Natural History of muscle - harness for pulling horses - big technological development - technologically flourishing time 
-        - Sachin
-            - Cities and city states first - Istanbul, Venice, even Genoa - people lived in the cities and traded with others - and trade will always remain important and people will sort of look away because it benefits everyone
-            - Venice - Istanbul prescence even though
-            - City states - but its mostly symbolic - Denver - Tajikstan - but may be that will change
-            - Regions that are dominated by corporations that have significant advantage - may be 
-            - In general with authoritarian places - basically if you dont make any troubles then things are fine 
-            - Venzuela/Dubai - identity etc 
-        - Jenna
-            - not sure if anything was gained from the framing 
-            - MurderBot - murderbot + corporate
-        - Venkat
-            - cold war
-            - post state intermezzo
-            - post 9/11 - revenge of territoriality - thats where its medieval 
-            - main reason the theisis was wrong - the multiple levels were autonomous 
-            - throwback to medieval 
-    - Why is Critique Bad? 
-        - Sachin
-            - Thing and an object - thing as something that has "meaning" while object is something more detached and something that people are used to
-            - Most popular critique is deconstruction of something 
-            - Is Latour popular for deconstruction 
-            - Hyperstititioning vs being constructivist - debunking leads to construction of new realities that dont have much to stand on 
-            - pre-history of hyperstitioning - because this was also the time when CCRU was writing about accelerationism etc 
-            - Capitalist realism and David Graeber (who also manufactured a lot of stuff regarding bullshit jobs  - one is basically fully adopted it and the other group has adopted it but with some hesitancy - like your public education )
-        - Venkat 
-            - Scientists had a lot of high reputation
-            - End of Clinton adminstration - weaponing the idea that everything should be questioned 
-            - Book - Merchants of Doubt - as the basis of sophisticated science 
-            - post 9/11 - WMD 
-        - Jenna
-            - careened btw the prince in movie Mozart "too many notes" and "oh that's a good point" "I get that bit" esp when he speaks in the vernacular e.g.
-            - The problem with philosophers is that because their jobs are so hard they drink a lot of coﬀee and thus use in their arguments an inordinate quantity of pots, mugs, and jugs--to which, sometimes, they might add the occasional rock.
-            - [10:48 AM]
-            - what useful distinction btw "critique" and what we might say is normal critical thinking
-              what's a muggle to do
-              ~and~ 
-              how would we ever find a way back to anything like consensus reality
-        - Ellen
-            - How non-profits marketed themselves - save the ... made up name landscape 
-            - Canada - regulation around news 
-    - Structured Messiness
-        - Kiran
-            - Similar to Christopher Alexander pattern language 
-            - Some of it feels a little circular - is it because I find diversity 
-            - What is the structured part of structured messiness - not too much intelligent design behind - feels like pure organic growth
-            - pop is structured - easy to numb yourself 
-            - Raga gives you the structure, and everything inside, Alapana 
-        - Ellen
-            - zoning etc provides structure 
-            - house owned for a while - neighborhood close to the university that underwent a big zoning change - city saying we dont know what we need here so lets zone it for both business and apartments 
-        - Sachin
-            - Reminds me of how under Lalu Prasad Yadav people were studying the success of Indian railways 
-        - Venkat
-            - Vaughn researching Tokyo food courts 
-            - Underground malls and subway infrastructure connected allows weather proofing - once you want those advantages 
-    - Abundance
-        - Ellen
-            - Some rules exist for complex reasons - and it is easier to get rid of - is that what is holding us back? probably not 
-        - Andre
-            - Both essays ring pretty true - process seems to hamper things
-            - Buidling and contracting practices - lot of times the public service will act as the owner but they will use private services of construction - trying to push the blame 
-        - Sachin
-            - Process - god in the process - which is that god suffers 
-            - Central-left is mostly PMCs and the people who actually have to do these things 
-            - 
-        - Venkat 
-            - lot of memetic pressure to read this book
-            - coalesced as a fractional effort to get a left of center effort - co-opting the points - part of that - ditching 
-            - Gavin Newsom - cynical politician who will say what is needed to say 
-            - New machine candidate" - driving new consensus
-    - Democracy
-        - Sachin
-            - One way to view the republican party of the current time is - you can't advance anything with institutions that currently exist
-            - You can see the democratic party trying to take the same stance now, at least a small percentage of it 
-            - new tweaks basically meant power concentrated within the hands of the president through foreign affairs 
-            - It is destroying the lights, not exactly turning them or remaking them
-            - " When incremental fixes fail, systems may punctuate: a **constitutional convention**, a **truth and reconciliation commission**, or an **external guarantor** (e.g. UN‑brokered settlement) resets the rules. The key is that all major forces buy into the process because the old equilibrium has irretrievably broken down." - chatGPT
-            - Bureacracy as a buffer to the democratic process - you cant have too many uncertain things all the time, and need some guarentees - and in an increasinly complex world, the amount of items that come under the gambit is larger 
-            - a combination of too much constraint in some areas such as healthcare and too little constraint in others such as foreign affairs or rule by executive order
-            - new processes/protocol institutionalize uncertainity - uncertainty comes from too many outcomes that are possible 
-            - all insituitions cannot protect all realms at the same time - there is some destruction, creative destruction at times at times not 
-            - lot of preference modeling in the american election
-        - Venkat 
-            - big update: the ex-ante of the standing of the legitimacy of the process is not ex-post acceptance of the outcomes 
-            - preference modeling is not a way to think about democracy 
-            - the only thing the election is doing is if you are getting your preferred outcome now or how likely is it that you will get it in the future
-            - repeatedly buying time - there is no epistemic function of democratic processes - not necessarily part of the democratic process. 
-        - Kiran
-            - updated perceptions
-            - had the idea that once elections are done you have to disagree and commit, except it may be not 
-    - Capgras Syndrome 
-        - Ellen
-            - Fractured mirror as a metaphor
-            - Brian Arthur - capture natural phenomenon for a particular purpose - the way in which we use a phenomenon is because of different cultures - reflecting back our culture ideas in technological forms 
-        - Jenna 
-            - things are normally fucked up but you dont need that more perhaps 
-            - 
-        - Sachin
-        - Venkat 
-            - Game of life, automatons - 1D things that evolve and you get weird graphical patterns 
-    - Should trees have legal rights
-        - Sachin
-            - First thing that brings to mind, moral advancements as a sphere of concern - factory workers being children for example during the industrial revolution
-            - cynical view is that  - economy and production incentivizes safety 
-            - Framing conservation as for us - nature is entertainment - rainforest cafe - preservation of actual rainforest 
-            - norms, metanorms around it 
-            - rivers are an interesting case and where personhood makes a lot of sense - constantly in different environments and in some ways matches our perception of something alive 
-            - Hiroshi yoshimura - plant music - japan - keeping with the music theme 
-            - model nature - production to entertainment - may be the ambient music people were onto something in the 1970s - they were all process oriented 
-        - Ellen
-            - Some trees have rights in Canada
-            - Gotts Pine trees - invasive species - tree bylaw that says that you cant just cut down trees like that 
-            - how are you going to replace - with non invasive trees but instead the bylaw manager was like - I would not buy this at all 
-            - Extending this to AI - open source - may be this is a way to re-imagine relationships to such objects 
-        - Venkat 
-            - Southeast asia - mandala system -violent and based around slavery - archipelago that was shifting fast 
-            - south east asia - natural predisposition to animism
-            - "what nature is" is determined by cultural concepts 
-    - Are Suburbs Real?
-    - Crystal vs Mud in Property Law
+    - ### Philosophy of Laws
+        - [Should trees have legal rights](https://iseethics.wordpress.com/wp-content/uploads/2013/02/stone-christopher-d-should-trees-have-standing.pdf)
+            - Sachin
+                - First thing that brings to mind, moral advancements as a sphere of concern - factory workers being children for example during the industrial revolution
+                - cynical view is that  - economy and production incentivizes safety 
+                - Framing conservation as for us - nature is entertainment - rainforest cafe - preservation of actual rainforest 
+                - norms, metanorms around it 
+                - rivers are an interesting case and where personhood makes a lot of sense - constantly in different environments and in some ways matches our perception of something alive 
+                - Hiroshi yoshimura - plant music - japan - keeping with the music theme 
+                - model nature - production to entertainment - may be the ambient music people were onto something in the 1970s - they were all process oriented 
+            - Ellen
+                - Some trees have rights in Canada
+                - Gotts Pine trees - invasive species - tree bylaw that says that you cant just cut down trees like that 
+                - how are you going to replace - with non invasive trees but instead the bylaw manager was like - I would not buy this at all 
+                - Extending this to AI - open source - may be this is a way to re-imagine relationships to such objects 
+            - Venkat 
+                - Southeast asia - mandala system -violent and based around slavery - archipelago that was shifting fast 
+                - south east asia - natural predisposition to animism
+                - "what nature is" is determined by cultural concepts 
+            - [Chat](https://discord.com/channels/692111190851059762/1375482650642481193)
+            - [Summary](https://yakcollective.substack.com/p/online-governance-study-group-bbe)
+        - Crystal vs Mud in Property Law 
+            - [Reading ](https://openyls.law.yale.edu/server/api/core/bitstreams/58824b8f-030d-4d24-8d6f-b19445b06ab6/content)
+            - [Chat ](https://discord.com/channels/692111190851059762/1383081613759483964)
+            - [Summary](https://yakcollective.substack.com/p/online-governance-study-group-c5a)
+        - The Society of Society
+            - [Reading](https://rencanaresearch.wordpress.com/wp-content/uploads/2022/07/32e2c-the-society-of-society-the-grand-finale-of-niklas-luhmann.pdf)
+            - [Summary](https://yakcollective.substack.com/p/online-governance-study-group-24f)
+            - [Discord Chat](https://discord.com/channels/692111190851059762/1385629257509769348)
+        - Process as Punishment
+            - [Reading ](https://www.lawfaremedia.org/article/process-as-punishment--an-american-history-of-political-spectacle)
+            - [Summary ](https://yakcollective.substack.com/p/governance-study-group-699)
+            - [Chat](https://discord.com/channels/692111190851059762/1393236146045194251)
+        - Nomos and Narrative 
+            - [Reading](https://openyls.law.yale.edu/server/api/core/bitstreams/319accb7-cba3-4cef-a0e2-c66c3160d138/content)
+            - [Summary ](https://notes.granola.ai/d/a221e061-b0c7-41be-925e-a04c22f07cec)
+            - [Chat ](https://discord.com/channels/692111190851059762/1395763229950480424)
+        - Principles of Islamic Jurisprudence
+            - [Reading ](https://en.wikipedia.org/wiki/Principles_of_Islamic_jurisprudence)
+            - Summary (in chat)
+            - [Chat](https://discord.com/channels/692111190851059762/1398301256627257539)
+        - Declining Dominance of Lawyer politicians
+            - [Reading ](https://clp.law.harvard.edu/knowledge-hub/magazine/issues/lawyers-in-politics/declining-dominance/)
+            - [Chat ](https://discord.com/channels/692111190851059762/1400599389852139551)
+            - Summary (in chat)
+    - ### Messy reality vs Neat simulation
+        - Capgras Syndrome 
+            - [Reading](https://endnotes.cc/p/the-replacements-capgras-and-the)
+            - [Chat](https://discord.com/channels/692111190851059762/1372927751253655592) 
+            - Summary (in chat)
+            - Ellen
+                - Fractured mirror as a metaphor
+                - Brian Arthur - capture natural phenomenon for a particular purpose - the way in which we use a phenomenon is because of different cultures - reflecting back our culture ideas in technological forms 
+            - Jenna 
+                - things are normally fucked up but you dont need that more perhaps 
+                - 
+            - Sachin
+            - Venkat 
+                - Game of life, automatons - 1D things that evolve and you get weird graphical patterns 
+        - Are Suburbs Real?
+            - [Reading](https://discord.com/channels/692111190851059762/1380544227485679676)
+            - [Chat](https://discord.com/channels/692111190851059762/1380544227485679676)
+        - Structured Messiness
+            - Kiran
+                - Similar to Christopher Alexander pattern language 
+                - Some of it feels a little circular - is it because I find diversity 
+                - What is the structured part of structured messiness - not too much intelligent design behind - feels like pure organic growth
+                - pop is structured - easy to numb yourself 
+                - Raga gives you the structure, and everything inside, Alapana 
+            - Ellen
+                - zoning etc provides structure 
+                - house owned for a while - neighborhood close to the university that underwent a big zoning change - city saying we dont know what we need here so lets zone it for both business and apartments 
+            - Sachin
+                - Reminds me of how under Lalu Prasad Yadav people were studying the success of Indian railways 
+            - Venkat
+                - Vaughn researching Tokyo food courts 
+                - Underground malls and subway infrastructure connected allows weather proofing - once you want those advantages 
+        - Community Wishlist
+            - [Reading](https://www.gog.com/wishlist)
+            - [Discord ](https://discord.com/channels/692111190851059762/1388166006865920020)
+        - Why is Critique Bad? 
+            - Sachin
+                - Thing and an object - thing as something that has "meaning" while object is something more detached and something that people are used to
+                - Most popular critique is deconstruction of something 
+                - Is Latour popular for deconstruction 
+                - Hyperstititioning vs being constructivist - debunking leads to construction of new realities that dont have much to stand on 
+                - pre-history of hyperstitioning - because this was also the time when CCRU was writing about accelerationism etc 
+                - Capitalist realism and David Graeber (who also manufactured a lot of stuff regarding bullshit jobs  - one is basically fully adopted it and the other group has adopted it but with some hesitancy - like your public education )
+            - Venkat 
+                - Scientists had a lot of high reputation
+                - End of Clinton adminstration - weaponing the idea that everything should be questioned 
+                - Book - Merchants of Doubt - as the basis of sophisticated science 
+                - post 9/11 - WMD 
+            - Jenna
+                - careened btw the prince in movie Mozart "too many notes" and "oh that's a good point" "I get that bit" esp when he speaks in the vernacular e.g.
+                - The problem with philosophers is that because their jobs are so hard they drink a lot of coﬀee and thus use in their arguments an inordinate quantity of pots, mugs, and jugs--to which, sometimes, they might add the occasional rock.
+                - [10:48 AM]
+                - what useful distinction btw "critique" and what we might say is normal critical thinking
+                  what's a muggle to do
+                  ~and~ 
+                  how would we ever find a way back to anything like consensus reality
+            - Ellen
+                - How non-profits marketed themselves - save the ... made up name landscape 
+                - Canada - regulation around news 
+    - ### Political realities
+        - Hyperstition
+            - Sachin
+                - ChatGPT - theory fiction > slop. Theory fiction is motivated slop - it is such a common thing that it is not that different from Slop
+                - Manifest destiny as something that emerged later, similar to the piece about treaure hunting
+                - Always been hyperstitional in some way but now people have accepted permanent hypersitition without any empiricism - not checking whether there is gas but always assuming there will be
+                - people who meme things into existence 
+                - Story came first then came the action, similar to Disney
+                - Very humorless in some way - I think philosophy needs to be a bit funny 
+            - Venkat
+                - Most people think it is as influential as other wing of Nrx
+                - Less direct political influence 
+                - Very anglo about NRX - what is it 
+                - Merged with the moldbug wing of things 
+                - acceleration is the belief that if you floor the accelerator then gas will just appear
+            - Kiran
+                - Theory fiction shifts the place of the reader in the world 
+                - Neal Stephenson - Ada Palmer - related to accelerationist
+            - Ellen
+                - Basic idea - you can imagine something and the if enough people believe in it 
+                - NRX -> Private equity -- how 
+                - 
+            - Andre
+                - things fizzled out and died 
+                - cyberfeminism - xenofeminism etc 
+            - Ananth
+        - Neomedievalism
+            - Andre
+                - Dune and Feudalism as "natural end state" for governance
+            - Ellen
+                - Not so sure about neomedievalism part of this 
+                - Regions talk between each other 
+                - Canada - Ontario Governments representative to Hong Kong - they were living in Hong Kong 
+                - You can have nation states, you can also have smaller regions within nation states talking to each other 
+                - If you want to business - then Netherlands is the place to go - Eidhoven 
+                - Natural History of muscle - harness for pulling horses - big technological development - technologically flourishing time 
+            - Sachin
+                - Cities and city states first - Istanbul, Venice, even Genoa - people lived in the cities and traded with others - and trade will always remain important and people will sort of look away because it benefits everyone
+                - Venice - Istanbul prescence even though
+                - City states - but its mostly symbolic - Denver - Tajikstan - but may be that will change
+                - Regions that are dominated by corporations that have significant advantage - may be 
+                - In general with authoritarian places - basically if you dont make any troubles then things are fine 
+                - Venzuela/Dubai - identity etc 
+            - Jenna
+                - not sure if anything was gained from the framing 
+                - MurderBot - murderbot + corporate
+            - Venkat
+                - cold war
+                - post state intermezzo
+                - post 9/11 - revenge of territoriality - thats where its medieval 
+                - main reason the theisis was wrong - the multiple levels were autonomous 
+                - throwback to medieval 
+        - Abundance
+            - [Reading 1](https://open.substack.com/pub/persuasion1/p/an-abundance-reading-list), [Reading 2](https://www.noahpinion.blog/p/book-review-abundance)
+            - [Chat](https://discord.com/channels/692111190851059762/1360265644666392877)
+            - Ellen
+                - Some rules exist for complex reasons - and it is easier to get rid of - is that what is holding us back? probably not 
+            - Andre
+                - Both essays ring pretty true - process seems to hamper things
+                - Buidling and contracting practices - lot of times the public service will act as the owner but they will use private services of construction - trying to push the blame 
+            - Sachin
+                - Process - god in the process - which is that god suffers 
+                - Central-left is mostly PMCs and the people who actually have to do these things 
+                - 
+            - Venkat 
+                - lot of memetic pressure to read this book
+                - coalesced as a fractional effort to get a left of center effort - co-opting the points - part of that - ditching 
+                - Gavin Newsom - cynical politician who will say what is needed to say 
+                - New machine candidate" - driving new consensus
+        - Democracy 
+            - [Chat](https://discord.com/channels/692111190851059762/1370129422199558226) Reading and Summary in chat
+            - Sachin
+                - One way to view the republican party of the current time is - you can't advance anything with institutions that currently exist
+                - You can see the democratic party trying to take the same stance now, at least a small percentage of it 
+                - new tweaks basically meant power concentrated within the hands of the president through foreign affairs 
+                - It is destroying the lights, not exactly turning them or remaking them
+                - " When incremental fixes fail, systems may punctuate: a **constitutional convention**, a **truth and reconciliation commission**, or an **external guarantor** (e.g. UN‑brokered settlement) resets the rules. The key is that all major forces buy into the process because the old equilibrium has irretrievably broken down." - chatGPT
+                - Bureacracy as a buffer to the democratic process - you cant have too many uncertain things all the time, and need some guarentees - and in an increasinly complex world, the amount of items that come under the gambit is larger 
+                - a combination of too much constraint in some areas such as healthcare and too little constraint in others such as foreign affairs or rule by executive order
+                - new processes/protocol institutionalize uncertainity - uncertainty comes from too many outcomes that are possible 
+                - all insituitions cannot protect all realms at the same time - there is some destruction, creative destruction at times at times not 
+                - lot of preference modeling in the american election
+            - Venkat 
+                - big update: the ex-ante of the standing of the legitimacy of the process is not ex-post acceptance of the outcomes 
+                - preference modeling is not a way to think about democracy 
+                - the only thing the election is doing is if you are getting your preferred outcome now or how likely is it that you will get it in the future
+                - repeatedly buying time - there is no epistemic function of democratic processes - not necessarily part of the democratic process. 
+            - Kiran
+                - updated perceptions
+                - had the idea that once elections are done you have to disagree and commit, except it may be not 
+        - Andor and Contemporary Politics
+            - [Reading](https://archive.is/wpTne)
+            - [Summary](https://yakcollective.substack.com/p/governance-study-group?triedRedirect=true)
+            - [Discord Chat](https://discord.com/channels/692111190851059762/1385629257509769348)
 - Season 4.5
     - Childbearing, monk hood and sons of the soil
         - [Eunuchs in the forbidden city ](https://multimedia.scmp.com/culture/article/2155959/forbidden-city/life/chapter_02.html)| [Discord Thread](https://discord.com/channels/692111190851059762/1228372439541481564)

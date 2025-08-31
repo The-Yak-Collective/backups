@@ -1,0 +1,196 @@
+- # Fitness as infinite game | YakCon Siderail
+    - playing the long game yak-style // original post on discord
+        - > I occasionally still muse on what a yakfit project could be too. Primal movement stuff like your Strength Side guys… who basically scare me as having unattainable looks for normies and who also don’t actually move that well (acknowledging self as movement snob)
+        - > https://youtu.be/DZPvK1MWGdg
+        - > and MovNat, Ido Portal, Katie Bowman (“movement snacks” ftw), MovementbyDavid, Hybrid Calisthenics, and Original Strength (tx @Matthew Sweet (UTC) for that rec)
+        - > … but maybe the deeper traditions of like Shi Heng Yi who has the Strength Side guys’ look but for realz, really curious what allowed him to share what he does since my martial arts instructors talked a lot about how all the real stuff was village-secret level for most of all time + in the Chinese traditions all the people who really knew something died or were killed in the cultural revolution 
+        - > eg this bone marrow washing vid…
+        - > https://youtu.be/Jz7MNKX63sI
+        - >  ... or his fundamentals of qigong series
+        - > https://youtu.be/d1EHSYWS1B4
+        - > The big divide for me is around fitness-for-what: high level sports and endurance stuff v playing the long game. Used to do the former, kinda forced into the latter now so have to be pretty strategic. Also no more “workout” thinking, move more all through the day is where it’s at for buttjobs. Known paradox: If your work is on your feet, there’s nothing like the moment when you get to take a seat. If your work is stationary, nothing like the moment when you get to stride out. 
+    - `infinitness` `infitness` ?
+- ## Invitation for weeklong experiment based off ideas with reasonable science behind them
+    - Choose Your Own Adventure. DIY structure. Many of us prolly already doing some or many experiments! Share on the thread on #yakfit-💪 channel. Earlier example is [Josh Waitzkin](https://www.joshwaitzkin.com/) and [tai chi](https://www.joshwaitzkin.com/the-art-of-learning). 
+    - Big reframe: aging is not a slow slide into decline. In tai chi, you aren't considered to really hit your stride until around 70, shifting to that mindset pretty big change for many of us. Suggest Fire Method v. Water Method a good construct for playing the long game.
+    - Goal of this YakCon siderail to explore a YakFit-💪 strategy for playing a long game for fitness, functional fitness as something that makes everything else better. BASF ads as model — "we don't make the thing, we make it better." 
+        - {{video: https://youtu.be/ZJHPpsb3FzM}}
+    - Rightsizing time and energy commitment for the long game in contradistinction to big-push styles like American football, Crossfit, and other approaches modeled on wartime training like Jocko and Navy Seal types. When I studied tai chi, the really good elders practiced 4, 6 hours a day. Similar shift with meditation practices for monks versus householders.
+        - Fire Method example, willingness to get hurt. See Kotler below also.
+            - {{video: https://vimeo.com/717945664}}
+        - New example is [Commoncog](https://commoncog.com/2022-commoncog-recap/) guy. 
+          “About a month ago I relocated to the capital of Malaysia to train for the Malaysian Senior Judo Nationals. I train Judo four hours a day, and have basically cut out everything else from my life for a period of three months.”
+        - Earlier example is [Josh Waitzkin](https://www.joshwaitzkin.com/) and [tai chi](https://www.joshwaitzkin.com/the-art-of-learning). 
+          ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FXdJcY6dUd-.png?alt=media&token=01786f11-73c0-405b-b477-3817983a7c5f)
+            - [THE DISTILLATION OF JOSH WAITZKIN](https://theartoflearningproject.org/2021/09/the-distillation-of-josh-waitzkin/) — KEY THEMES
+                - Unobstructed Self Expression 
+                - Thematic Learning
+                - Depth over Breadth 
+                - Go towards Stress, Tension & Weaknesses 
+                - Life works in Oscillation
+    - Suggest looking at and using Water Method cf
+        - [Simple Wellness: Soft Living (Pt. 1)](https://www.paulcavel.com/blog/simple-wellness-soft-living-part-1)
+    - ---
+    - ## General inspo
+        - [Don’t Go to War With Yourself - Interview with Oliver Burkeman](https://www.theatlantic.com/ideas/archive/2023/01/new-years-resolutions-oliver-burkeman/672465/?ref=the-browser)
+            - “The difference between not doing anything at all and doing 10 minutes a few times a week is absolute.”
+        - [Steve Jobs’ Former Assistant Reveals Lessons About Burnout and Wellbeing](https://www.tlnt.com/steve-jobs-former-assistant-reveals-lessons-about-burnout-and-wellbeing/) 
+            - “Steve was able to sustain his determined focus, clear vision, and exceptional creativity precisely because he was so disciplined about tending to his self-care. He took the time to feed his fire. **He had a meditation practice, exercised regularly, nourished his body and mind, had a loving family, and maintained a deep sense of purpose while building Apple.** [emphasis added]
+              
+              “Steve’s downfall as a leader was that, as attentive as he was to his own wellbeing, he was inattentive to the wellbeing of his people. He challenged and stretched people outside of their comfort zone, making them better and helping them fulfill their highest potential, but often at the expense of their health.”
+        - [‘I sleep better, I feel incredible and my energy levels are through the roof’: the one exercise that finally worked — four writers on finding their perfect route to fitness - The Guardian](https://www.theguardian.com/lifeandstyle/2022/dec/31/exercise-fitness-new-year-weightlifting-couch-to-5k)
+        - [Exploring Our Why: To uncover our own motivation for exercise - Intuitive Fitness](https://intuitivefitness.substack.com/p/motivation)
+        - [27 Life-Changing Micro Habits That Require Only A Few Minutes](https://www.fatherly.com/life/micro-habits-that-can-improve-your-life)
+        - [Macro Decisions - Dan Go](https://www.linkedin.com/posts/danfounder_the-other-day-i-had-a-conversation-with-a-activity-7014223362860204032-59Px/) `758 reactions` on __LinkedIn__ 😲
+        - [Permission to Slow Down - Nat Eliason](https://blog.nateliason.com/p/slow) who knows a trend when he sees one
+        - “You’ll have more energy and focus during the daytime to get work done if you get better sleep. It’s a vicious cycle. Start one step at a time. Turn the phone off and put it in another room 1-2 hours before bed, then in a week or two, do the same with the laptop. Take it as gradually as you need to, but you can do it. Easy.” —grimhood
+        - “In performance training, first we learn to flow with whatever comes. Then we learn to use whatever comes to our advantage. Finally, we learn to be completely self-sufficient and create our own earthquakes, so our mental process feeds itself explosive inspirations without the need for outside stimulus.”
+          —Josh Waitzkin, __The Art of Learning__ newly via [Tiago on Ribbonfarm](https://www.ribbonfarm.com/2016/01/28/productivity-for-precious-snowflakes/)
+        - BJ Fogg and Tiny Habits
+            - Tiny Habits preceded Atomic Habits by quite a bit.
+            - [Tiny Habits](https://tinyhabits.com/)
+            - [Quick Start Guide — Tiny Habits® 5-Day Program](https://tinyhabits.com/quickstart/)
+            - [BJ Fogg, PhD](https://tinyhabits.com/author/bjadmin/)
+- ---
+- ### Door 1 | Play with daylight for better sleep/circadian rhythms
+    - {{[[TODO]]}} Share your daylight experiments on the YC Discord yakfit-💪 channel.
+    - Commit to waking before sunrise
+    - Commit to 20 min first light outdoor amble cf
+        - how common early morning qigong practices are
+            - personally saw this in Kunming, China
+        - Huberman and Grimhood both big on this one
+            - https://twitter.com/hubermanlab/status/1565404591922892800
+    - Commit to super low light btw local sunset and bedtime
+        - bonus points for red light
+        - bonus points for no screens
+    - Commit to bedtime 3-4 hours after sunset 
+        - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4720388/ via grimhood discord
+- ### Door 2 | Play with ultradian rhythm
+    - {{[[TODO]]}} Share your ultradian timeboxing experiments on the YC Discord yakfit-💪 channel.
+    - Commit to shifting gears in ±90 mins cycles through the day cf
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FjMmWW3h86p.png?alt=media&token=a7e62254-4813-44c5-83d0-575f18a5d63b)
+        - [Use the Science of Ultradian Rhythms To Boost Productivity, Energy, and Willpower](https://www.bluezones.com/2020/06/how-taking-breaks-can-increase-productivity-boost-energy-levels-and-help-you-show-up-in-your-life/)
+        - [Avoid Burnout and Increase Awareness Using Ultradian Rhythms: Circadian rhythms’ lesser know cousins may hold the key to a more fruitful day](https://betterhumans.pub/avoid-burnout-and-increase-awareness-using-ultradian-rhythms-5e64158e7e19)
+            - "For productivity, we are concerned with the specific ultradian rhythm known as the [Basic Rest-Activity Cycle](http://chronicle.uchicago.edu/990923/kleitman.shtml) (BRAC). This is a rhythm that plays out in 80–120 minute cycles non-stop, day and night. It is most detectable during sleep, when we move from non-REM sleep to REM sleep and back, over and over again throughout the night."
+        - [Ultradian Rhythms: How to Achieve Peak Productivity](https://www.kosmotime.com/ultradian-rhythm/)
+        - [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal](https://www.amazon.com/gp/product/0743226755/)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FArtOfGig%2FY6SPsEkIMR.png?alt=media&token=6abcd2bd-7481-4df2-8574-916d0bb3500e)
+- ### Door 3 | Play with deep rest
+    - {{[[TODO]]}} Share your deep rest experiments on the YC Discord yakfit-💪 channel.
+    - Commit to a pause when shifting between activities cf
+        - Josh Waitzkin 30 sec reset
+        - Huberman deep rest stuff
+        - Martha Beck pausing during transitions
+        - __Permission to Slow Down__, Nat Eliason. https://blog.nateliason.com/p/slow
+- ### Door 4 | Play with movement snacks
+    - {{[[TODO]]}} Share your movement snack experiments on the YC Discord yakfit-💪 channel.
+    - All kinds of options for movement snacks these days, old and new
+        - {{video: https://youtu.be/CxBbm7w1Ems}}
+        - [Katy Bowman - Move All Day](https://www.nutritiousmovement.com/move-more-without-exercise/)
+            - > Most days, I move first thing in the morning. I walk with a friend, so that my “movement time” is also my “coffee with a friend” date. Stacking my life this way, getting movement and something else I need/love to do, is key to fitting it all in. I always wear minimal shoes. A wide, flexible, and totally flat shoe means when I move, more of me is moving! At home, our family uses low tables and the floor instead of sitting in couches and chairs. When I am working, I have a dynamic workstation (I don’t work in the same position all the time), and I take movement breaks at my desk. While I am home, I use objects in and around my home to facilitate movement and I break up my workday with chores. Also, I take calls and do errands on foot, often at the same time. The bulk of our family time (before and after school, weekends, holidays) is spent outside, moving. We typically walk wherever we go—if we’re not going to walk the whole way there, then we park at a distance and walk the rest of the way.
+        - https://twitter.com/sc_sager/status/1611038150125649921
+        - [Original Strength](https://www.youtube.com/@OriginalStrengthSystem)
+            - {{video: https://www.youtube.com/watch?v=GadACcgWDcM}}
+            - {{video: https://www.youtube.com/watch?v=iUGAS3WzHx0}}
+        - Strength Side
+            - {{video: https://youtu.be/VvYKtA-eIVU}}
+            - many good shorts like: https://youtube.com/shorts/N2Zsq6AVUCk
+        - [MovNat](https://www.movnat.com/)
+            - {{video: https://youtu.be/JKCVAC8QlRo}}
+            - [Sample MovNat Daily Workout](https://mailchi.mp/90398cbb003d/z9z1cw5gwt-2767437)
+            - [MOD daily workout video playlist](https://youtube.com/playlist?list=PLC5sbdn5ESCSKU66Fbp6stQFPLaNQ8rib)
+        - [Ido Portal](http://www.idoportal.com/) 
+            - Ido’s gotten more water, less fire with time:
+                - {{video: https://youtu.be/2x_jzFq6QQs}}
+                - {{video: https://youtu.be/ybi2iL2ESkM}}
+        - MovementbyDavid "stay flexy"
+            - uptempo quick hits of movement inspo eg
+                - {{video: https://youtu.be/cofNfQAmtQ4}}
+                - {{video: https://youtu.be/UJ04zchVHIE}}
+                - {{video: https://youtu.be/eQHmKJh20_c}}
+                - short: https://youtube.com/shorts/c5dog2sRz-4
+                - short: https://www.youtube.com/shorts/XMnJxoI8D3E
+        - Dan Kleiman 
+            - really solid tai chi and qigong, generous sharing in the early blogging tradition
+            - more accessible vessel for Bruce Frantzis eg
+                - https://dankleiman.com/2012/05/22/what-should-i-practice-today/
+                - https://dankleiman.com/2012/11/26/how-to-feel-the-4-main-energies-of-tai-chi/
+                    - > Peng. expanding/rising energy
+                    - > Ji. pressing forward energy
+                    - > Lu. absorb/yielding energy
+                    - > An. condensing/downward energy
+                - https://dankleiman.com/2013/10/09/the-problem-with-learning-tai-chi-from-the-classics/
+                    - http://www.scheele.org/lee/classics.html
+                - quick links
+                    - https://dankleiman.com/categories/tai-chi/
+                    - https://dankleiman.com/categories/qigong/
+                    - https://dankleiman.com/categories/movement-practice/
+                    - https://dankleiman.com/categories/inner-form/
+                    - https://dankleiman.com/categories/xing-yi/
+        - Bruce Frantzis "knows some things but is also prolly crazy'
+            - https://www.youtube.com/@EnergyArts
+            - "there is no stop or start" https://www.youtube.com/shorts/ubeaDFz1Qe0
+            - Tai Chi Tip series — https://www.youtube.com/watch?v=eFTH5F40k5M&list=PLZGxERtakiPZ4O9x8P44HVqZnWTkMLKiu
+            - Four energies of tai chi — https://www.youtube.com/watch?v=Wk0PCIAxD1c
+                - > You will hear about the four energies and see demonstrations of them for a better understanding of tai chi.
+        - Peter Attiah
+        - [Andrew Huberman](https://hubermanlab.com)
+            - https://twitter.com/sc_sager/status/1611159019200069632
+            - [Huberman and Jocko](https://hubermanlab.com/jocko-willink-how-to-become-resilient-forge-your-identity-and-lead-others/)
+                - two types of meditation fr Rick Rubin
+                - morning light exposure 
+                    - cf my experience studying qigong in Kunming
+                - __generators vs projectors__
+            - [Huberman and Ido Portal](https://hubermanlab.com/ido-portal-the-science-and-practice-of-movement/)
+                - {{video: https://youtu.be/JMzThWHk4CQ}}
+        - Kelly Starrett and Supple Leopard
+        - Stephen Kotler and his new book
+            - https://twitter.com/steven_kotler/status/1610305643994574848
+            - https://www.gnarcountry.com/enter-the-gnar-course
+            - https://www.gnarcountry.com/
+            - _main point to me is changing the mindset about low slow slide into decline which is also from tai chi_
+            - he's a serious marketer, always wonder about how legit
+        - Sheng Heng Yi-style intensity aka fire method (v water method)
+        - Contrarian view from [Casey Johnston](https://www.caseyjohnston.website/)
+            - https://www.shesabeast.co/exercise-snack-i-dont-like-it/
+        - QS world
+            - deciding on how granular to track personally and what to share something the Quantified Self folks have been going at hard for a long time
+- ### Door 5 | Play with moving slo-oooow
+    - {{[[TODO]]}} Share your slo-oooow experiments on the YC Discord yakfit-💪 channel.
+    - Tai chi does a lot of moving glacially. It’s our only real shot at the possibility of repatterning movement habits and esp premovement habits. Smoother, less injurious. Try doing any movement glacially, see what you notice.
+    - cf “A conversation with Lisa Feldman Barrett, author of Seven and a Half Lessons About the Brain”
+        - Q: Why do I have a brain?
+        - A: Brain’s didn’t evolve so you can think, feel or see. **They evolved to control bodies**. Everything your brain does – think, feel, see, hear, etc. -- it does in the service of controlling your body. This is your brain’s most important job. Understanding this illuminates mysteries like: How are your mind and body linked? How does chronic stress seep under the skin and make you sick? Why are physical illnesses like heart disease and Parkinson’s disease so similar to mental illnesses like depression? And why there is a growing epidemic of depression and anxiety around the world?
+- ### Door 6 | Play with doing stuff in meatspace | __specialization is for insects__
+    - {{[[TODO]]}}  Share your non-screen doings on the YC Discord yakfit-💪 channel.
+    - Heinlein quote
+        - > “A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.” ― Robert A. Heinlein
+    - Knots
+        - I tackled knots last year.
+        - Levels of Knot Tying: Easy to Complex | WIRED https://www.youtube.com/watch?v=d-hTvyIESfQ&t=502s
+            - https://www.youtube.com/watch?v=d-hTvyIESfQ&lc=UgzpKjChji4lmNlbyql4AaABAg
+            - 0:13 Level 1 Overhand knot
+            - 0:28 Stopper knot
+            - 0:39 Square knot
+            - 0:59 Level 2 Bowline
+            - 1:36 Level 3 Slipknot
+            - 2:31 Level 4 Solomon bar/Cobra knot
+            - 3:27 Level 5 Zipper sinnet
+            - 4:39 Level 6 Trucker's hitch
+            - 5:07 Half hitch, Full hitch
+            - 5:49 Level 7 Fisherman's knot
+            - 6:30 Zeppelin bend
+            - 7:23 Level 8 Double coin knot
+            - 8:19 Level 9 Prosperity knot
+            - 9:58 Level 10 Snake knot
+            - 11:42 Level 11 Spindle fiber bar
+            - 13:49 Level 12 Emergency snow goggles
+            - 15:40 Level 13 Backbone bar
+            - 16:45 Level 14 Utility pouch
+            - 17:49 Level 15 Bush sandals 
+        - First Class Amateur
+            - intermediate guide to knots https://www.youtube.com/watch?v=eYO0tPOYwyM
+            - sport shoe carrier https://www.youtube.com/watch?v=gRbSgR0XvbY
+            - knot for pulling cable https://www.youtube.com/watch?v=L5bVvpA75eQ
+        - + many many other neat knot youtubes
+    - Many other possibilities: at different times I've also played at carving spoons, carving walking sticks, twig fires, wood splitting, sewing, woodworking, leatherwork, metalwork, chicken wrangling, gardening, farming, overwintering in Vermont with wood heat (rocket stoves are amazing) and no running water, trail crew work including trail maintenance, chainsawing, sledgehammer, hole digging etc etc etc etc.

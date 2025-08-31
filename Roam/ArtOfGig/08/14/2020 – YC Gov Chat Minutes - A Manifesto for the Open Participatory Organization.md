@@ -1,0 +1,64 @@
+- Reading
+    - https://medium.com/open-participatory-organized/a-manifesto-for-open-participation-60b62d327684
+- Opening
+    - [[Venkatesh Rao]] - 
+        - Prompt 1: What is your thoughts on manifestos ability to realize their claims? 
+        - Prompt 2: How effective is 'A Manifesto for Open Participation' at realizing its goal of activating a participatory network?  
+- [[Greg Kramer]] - 
+    - "Sucker for manifestos". Read this manifesto before and think they work. 
+- [[Grigori Milov]] -
+    - Manifestos are good to help organizations how to not get into trouble 
+    - Have doubts of manifestos as agile manifesto got adapted which surprised even the initial members 
+    - 
+- [[Jenna]] - 
+    - 2 weeks ago we spoke about sermons cf [[Boil the Ocean]]
+    - may not be that similar: pods within a larger org and a standalone participatory org
+- [[Meredith Noelle]]
+    - Been on Bonnitta Roy rabbit hole for a while 
+    - Manifesto to manifest things is an interesting concept but believes it sets the values of the group but there's a large diff between idea & execution 
+    - Interesting to see what a meta-manifesto would be 
+    - Next step is "how to implement"? 
+- [[Praful Mathur]]
+    - Don't think manifestos are able to realize their claims
+    - Bitcoin paper served as a manifesto for the crypto value system 
+    - Bitcoin paper was paired with code so had more impact 
+- [[Sachin Benny]]
+    - Not a personal fan of manifestos
+    - In general, good manifestos are viral 
+    - Manifestos are a good way to decentralize principle development based on execution in different fields e.g. how we use OSS terms for open communities. Manifestos are only effective once there's a large market penetration. 
+- [[Venkatesh Rao]]
+    - Mostly satirize manifestos as doesn't take them seriously. 
+    - Helps a subset group of people in a sermon-like quality which are short, 
+    - Helps with verbal bias to help manifest something in a group 
+    - Skeptical of pretty words and what they you can "make them do" 
+    - Preclude a populist way of manifesting something 
+    - Single manifesto freezes discussion as once manifestos reach poetic peaks they are put up on a wall and freeze the values
+    - Many manifestos benefit the community 
+    - To set up YC Manifesto ask the whole community to participate with a "gamification" threshold e.g. manifestos are limited to 7 points which can be used as a start of a debate 
+    - Manifesto marketing is a resonant tagline e.g. "Free as in speech, not as in beer" 
+    - Cathedral vs Bazaar is known by those in software in the last 10 years where you won't remember the details but know the structure of differences between software dev of Linux vs Windows. 
+    - Would prefer expiring manifestos so that the community isn't held by frozen principles 
+- Open Discussion
+    - [[Venkatesh Rao]] thinking about the Accelerationist Manifesto
+    - [[Meredith Noelle]] 
+        - other manifestos Communist Manifesto, Hacker Manifesto, or ??? Manifesto 
+        - both manifested a mindset which created a space for something to happen
+        - serves the role of sales 
+    - [[Greg Kramer]] 
+        - Read Accelerationist Manifesto and asked Venkat to elaborate 
+    - [[Venkatesh Rao]] 
+        - Accelerationist Manifesto (AM) talks to a particular point of history trying to claim the part of the space where the right occupies e.g. Alt Right and that part of the world. AM author wanted to build a leftist version of the Alt Right (AR) and distance from AR and its fascist leanings as well as leaning away from the socialist big gov. They leaned into technological dev. 
+        - Lesson: Good manifestos speak to a specific point in history 
+        - Started to read the Marshall Plan and shaped by 3 manifesto like docs:
+            - Stalin Speech
+            - Churchill Speech 
+            - George Cannon response to Stalin Speech 
+            - Truman's Congressional Address
+        - Tom Peters had a manifesto spoke to a point in time as a reaction to Regan where if we lean too much into numbers we'll see ourselves in the financialization of the economy which is where we are today 
+        - There's a lag time between a manifesto launch and when the ideas become relevant 
+    - [[Jenna]] I didn’t unmute but wanted to add that a new manifesto might address the 50k-ft view (aka eagle view aka sermon) and the 10k-ft view (aka mouse view) in the sense of big clear intentions for sure; but then also super granular how-we-are-going-to-get-there statements too
+      » eg a thread I fell into last week following a link posted to #yak-sparring by [[Venkatesh Rao]]. An example would be the 20 behaviors from the Goldsmith. From my own Roam notes:
+        - #Read via [[Venkatesh Rao]] on Discord #yak-sparring
+            - [[Prickles and Goo | Melting Asphalt]]
+            - [[What Got You Here Won’t Get You There by Marshall Goldsmith]]
+                - this is [[Venkatesh Rao]]'s summary of the book. the list of 20 behaviors is gold for MVP collaboration.

@@ -1,0 +1,40 @@
+- https://gist.github.com/djinna/0f30c9c5f0c067337599038f98f2cd68
+- Tick the box when solved! Add comments if/when needed for a strategy conversation.
+    - {{[[TODO]]}} [Page Not Found](https://www.yakcollective.org/projects/astonishing-stories/>)  
+        - {{[[DONE]]}} q: link broken somehow with trailing characters, s/b .../astonishing-stories/
+    - {{[[TODO]]}} [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)  
+        - {{[[TODO]]}} q: Roam links are not picked up correctly
+    - {{[[TODO]]}} [Yak Collective](https://calendar.google.com/calendar/u/0/embed?src=o995m43173bpslmhh49nmrp5i4@group.calendar.google.com)  
+        - {{[[TODO]]}} q: "Calendar" not included in title
+    - {{[[TODO]]}} [503 - Service Unavailable Error](https://www.amazon.co.uk/Concepts-Programming-Languages-Robert-Sebesta/dp/013394302X)  
+        - {{[[TODO]]}} ~~q: Amazon links give 503 error~~
+            - [[Nathan Acks]]: Not fixable
+    - {{[[TODO]]}} [Stephen Wolfram, A New Kind of Science – review by Cosma Shalizi, 2002 | Systems Community of Inquiry](https://www.google.com/amp/s/stream.syscoi.com/2021/05/03/stephen-wolfram-a-new-kind-of-science-review-by-cosma-shalizi-2002/amp/)  
+        - {{[[TODO]]}} q: any way to convert amp links into their originals
+    - {{[[TODO]]}} [Access denied | papers.ssrn.com used Cloudflare to restrict access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3868332)  
+    - {{[[TODO]]}} [Access denied | bookshop.org used Cloudflare to restrict access](https://bookshop.org/books/the-secret-to-superhuman-strength/9780544387652)  
+        - {{[[TODO]]}} ~~q: cloudflare error messages, errors out on grabbing title~~
+            - [[Nathan Acks]]: Not fixable
+    - {{[[TODO]]}} [Telegram: Join Group Chat](https://t.me/joinchat/UyFHixAf3uc3NGIy)  
+        - {{[[TODO]]}} ~~q: useful title not pulled~~
+            - [[Nathan Acks]]: Not fixable
+    - {{[[TODO]]}} [Governance Chat 6-pager - جداول بيانات Google](https://docs.google.com/spreadsheets/d/1pfP_39fHiIiv7pSKgYhsJwERyiIYx467_OhoqTd54O4/edit) 
+    - {{[[TODO]]}} [WWG and all is well in the world - العروض التقديمية من Google](https://docs.google.com/presentation/d/1boLilPxI1S49fzfxvRyxnPn7x0CIuyk88z9-vLTaszY/edit) 
+        - {{[[TODO]]}} q: arabic script pulled?
+    - {{[[TODO]]}} [Launch Meeting - Zoom](https://ipatent-co-il.zoom.us/j/2692498533)  
+        - {{[[TODO]]}} q: useful Zoom link title not pulled
+    - {{[[TODO]]}} [Discord](https://discordapp.com/channels/692111190851059762/779070653122084864/858965997620690945)  
+        - {{[[TODO]]}} q: useful Discord post link title not pulled
+    - {{[[TODO]]}} [Knack](https://www.knack.com/r/yak)  
+    - {{[[TODO]]}} [Knack](https://yak.knack.com/yaks)  
+        - {{[[TODO]]}} q: useful page title not pulled
+    - {{[[TODO]]}} [All The Gear â Ridgeline issue 119](https://craigmod.com/ridgeline/119/)  
+        - {{[[TODO]]}} q: text encoding error? s/b dash (—)
+    - {{[[TODO]]}} [LD-AIR LiDAR | 360° TOF Sensor For All Robotic Applications by LDROBOT — Kickstarter](https://www.kickstarter.com/projects/ldrobot/ld-air-lidar-360-tof-sensor-for-all-robotic-applications)  
+    - {{[[TODO]]}} [LD-AIR LiDAR | 360° TOF Sensor For All Robotic Applications by LDROBOT — Kickstarter](http://kck.st/2UKIdTv)  
+        - {{[[DONE]]}} q: any way to auto delete a dupe like this
+    - {{[[TODO]]}} [#Ask me anything! - Benjamin P. Taylor - Medium](https://antlerboy.medium.com/ask-me-anything-c3f364f4c5d9)  
+        - {{[[TODO]]}} q: the leading # causes problems bc markdown
+    - {{[[TODO]]}} [Screenwriting Tip Of The Day by William C. 
+        - {{[[TODO]]}} Martell](http://www.scriptsecrets.net/tips/tip59.htm)  
+            - {{[[DONE]]}} q: spurious linebreak
