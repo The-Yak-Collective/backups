@@ -1,7 +1,7 @@
 - About:: __As a very new organization (founded April 2020), we are in a heavy learning mode. So a learning track...__
 - Chief Page Wrangler:: [[Venkatesh Rao]]
     - Additional Page Wranglers:: [[Grigori Milov]] | [[Fname Lname]]
-- Status:: {{or: Active | Early Concept | Proposal | Complete}}
+- Status:: {{or:Active | Early Concept | Proposal | Complete}}
 - We meet every Friday on Discord Chat at 8 AM Pacific to read and discuss a short reading relevant to online governance. We have multiple reading tracks each with their queues, which you can find below. 
 - For the 2021-22 season, we have 4 active tracks with active queues: Nature and Long-Term Thinking, Case Studies, Technology, and General. Please feel free to add links to any queue (preferred), or in the Discord ogs channel using the `$readingadd` command. The Discord list is used as an inbox/buffer and is periodically cleared and moved here.
 - ---
@@ -55,6 +55,17 @@
             - [Reading ](https://clp.law.harvard.edu/knowledge-hub/magazine/issues/lawyers-in-politics/declining-dominance/)
             - [Chat ](https://discord.com/channels/692111190851059762/1400599389852139551)
             - Summary (in chat)
+        - Islamic Jurisprudence 
+            - [Chat](https://discord.com/channels/692111190851059762/1398301256627257539)
+            - [Reading](https://en.wikipedia.org/wiki/Principles_of_Islamic_jurisprudence)
+        - Wael B Hallaq on History of Islamic Law
+            - [Chat](https://discord.com/channels/692111190851059762/1403391370986782751)
+        - Property and Personhood
+            - [Chat](https://discord.com/channels/692111190851059762/1405672133262184529)
+        - Rise and Fall of Qin Dynasty
+            - [Chat](https://discord.com/channels/692111190851059762/1408451762620465182)
+        - Twilight of Legality
+            - [Link to Chat](https://discord.com/channels/692111190851059762/1410996912340860961)
     - ### Messy reality vs Neat simulation
         - Capgras Syndrome 
             - [Reading](https://endnotes.cc/p/the-replacements-capgras-and-the)
