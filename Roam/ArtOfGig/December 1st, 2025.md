@@ -1,0 +1,8 @@
+- knowing about a feature/capability 
+- knowing how it works. 
+- thinking about why it works. 
+- the I is Doing a thing
+- the I is Learning a thing
+- the I is Learbing of the existence of a thing. 
+- what is the correct level of depth? 
+- 
