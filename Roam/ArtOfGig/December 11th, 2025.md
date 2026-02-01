@@ -1,0 +1,81 @@
+- [[rather frustrated]]
+    - Losing touch with time in some way perhaps
+    - Unable to get out of the loop also in some ways
+    - it seems like I show up every day - not sure why thats a bad thing 
+    - may be this showing up every day is not focussed enough
+    - a mind map of ideas would be good, would be a good place to start for a lot of things 
+    - Frustrated with myself about several things such as shopping (been restraint but at the edge of restraint, want to enjoy the things that I have more) and also porn (seems like Ive been chanelling whatever the shopping impulse is towards porn)
+    - would be good to think more about it 
+    - what is this 
+    - not thinking too hard, trying to induce an excitement tempo when things feel down 
+    - trying to induce a tempo when things feel down
+    - particularly easy to do when tired
+    - when tired
+    - cause mind is not at rest
+    - interesting interesting interesting 
+    - is it really that interesting? Im not sure
+    - ah yes make a dumb mistake first, get it flowing 
+    - forget the lessons you have learned often
+    - which is interesting 
+    - forgetfulness
+    - ADHD 
+    - I dont know - may be it stopped working and so I decided to forget it 
+    - who knows who knows
+    - I like repetition for some reason
+    - why why why
+    - who is my JG Ballard 
+    - may be I should do this more often
+    - I ...... dont knoww...........
+    - unsure unsure unsure 
+    - say the same word again and againa and again and again 
+    - prose
+    - words
+    - prose
+    - prose
+    - ideas ideas ideas 
+    - want both both both both
+    - thats whats interesting about Ballard 
+    - he has both both both 
+    - is this getting the wiggles out? is this getting the wiggles out 
+    - what did I lose
+    - overthinking overthinknig 
+    - that part of me that wants to do something do something 
+    - but the more I try hard to do something the. more I see to fial
+    - inhibition 
+    - the space between thought and action
+    - aknowledge it 
+    - aknowledge it 
+    - aknowlege it 
+    - I could keeep going keep going all day and all night until the sun comes up oh no wait at some point I have to stop to rev up the engine again, induce some high tempo, how about a jacket or a how about 
+    - how about some porn, young young young 
+    - why why why
+    - ahhh yes because Im 34
+    - Im an adult 
+    - its some kind of subconsious longing for youth 
+    - nah its not that deeo
+    - well these are my thoughts 
+    - of course
+    - of course
+    - does over intellectualization. help 
+    - probably not 
+    - money money money momey
+    - $200000
+    - 4200000
+    - $2500000
+    - $250000
+    - $250000
+    - $250000
+    - $250000
+    - need more zeroes 
+    - thats where I am
+    - is this a poem 
+    - is this a poem
+    - is this a poem
+    - may be most probably not 
+    - just thoughts 
+    - thoughts that keep going 
+    - Am I plugged into something 
+    - Am I plugged into something 
+    - Am I plugged into something 
+    - I dont know I dont know 
+    - 

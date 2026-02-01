@@ -1,0 +1,5 @@
+- VLA models - vibe coding projects - defense + other stuff
+- how are big companies using AI inside their org - so example set ups and such 
+- Lot of technical takes or takes for non technical people - but also useful to develop it out as its own genre or field - such as how does a small business use AI
+- AI as media 
+- Expanding on overfitting? 

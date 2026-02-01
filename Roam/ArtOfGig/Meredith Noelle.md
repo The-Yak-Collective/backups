@@ -5,6 +5,6 @@
 - [instagram meredith.noelle](https://twitter.com/meredith.noelle)
 - [Coder](https://github.com/msrobot0)
 - [twitter hellomere](https://twitter.com/hellomere)
-- [Weird Idiosyncratic Blog](https://thewitchofendor.com)
 - [Twitter: hellomere](https://twitter.com/hellomere)
+- [Weird Idiosyncratic Blog](https://thewitchofendor.com)
 - [IG: meredith.noelle](https://instagram.com/meredith.noelle)
