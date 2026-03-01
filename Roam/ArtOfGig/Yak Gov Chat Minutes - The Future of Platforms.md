@@ -26,10 +26,10 @@
     - YakC = Herding cats
     - Seems like a pretty good wrap-up of the questions YakC is working on:
         - > Moreover, all platform companies face the same four business challenges. 
-          _ They must choose the key “sides” of the platform (that is, identify which market participants they want to bring together, such as buyers and sellers, or users and innovators).
-          _ They must solve a chicken-or-egg problem to jump-start the network effects on which they depend. 
-          _ They must design a business model capable of generating revenues that exceed their costs. 
-          _ And finally, they must establish rules for using (and not abusing) the platform, as well as cultivating and governing the all-important ecosystem.
+          > _ They must choose the key “sides” of the platform (that is, identify which market participants they want to bring together, such as buyers and sellers, or users and innovators).
+          > _ They must solve a chicken-or-egg problem to jump-start the network effects on which they depend. 
+          > _ They must design a business model capable of generating revenues that exceed their costs. 
+          > _ And finally, they must establish rules for using (and not abusing) the platform, as well as cultivating and governing the all-important ecosystem.
     - > Future Platform Trends
         - Trend 1: More hybrid business models.
         - Trend 2: More turbocharged innovation.

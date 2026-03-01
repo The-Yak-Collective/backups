@@ -1,4 +1,4 @@
-- Created as a broadening of the [[Blockchain Ops Roadmap]]. This was the  Distributed Systems Study Group until September 2024, at which point it became the CADS group has a broader scope, and covers:
+- Created as a broadening of the [[Blockchain Ops Roadmap]]. This was the  Distributed Systems Study Group until September 2024, at which point it became the CADS group has a broader scope, and covers
     - Distributed computing (technical)
         - Including Blockchain technologies
     - Distributed computing (social)

@@ -29,5 +29,5 @@
             - Applicants should be informed and consent to how their emails or other personal information will be used.
             - Jordan provided the weighting of responses to the principal, but not broadly to the Yak Collective. Should the collective decide that this should be published, it can be made available.
             - Feel free to add your own feedback.
-            - >> I feel as though the criteria were unclear; I thought I'd missed something on the form - there didn't seem to be a way to 'make a case' for what you wanted to work on, or why you should be selected. [[Benjamin P Taylor - London]]
+            - > > I feel as though the criteria were unclear; I thought I'd missed something on the form - there didn't seem to be a way to 'make a case' for what you wanted to work on, or why you should be selected. [[Benjamin P Taylor - London]]
 - Results from the above form were exported into a database (Jordan used Notion), and sorted based on domain-specific expertise and past contribution history.

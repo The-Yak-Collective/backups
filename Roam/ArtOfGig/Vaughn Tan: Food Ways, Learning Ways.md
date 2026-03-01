@@ -1,9 +1,9 @@
-- >>>> YAKS COMMENT HERE POR FAVOR <<<<
+- > >>> YAKS COMMENT HERE POR FAVOR <<<<
 - Share your thoughts and brickbats here. If you don't mind being contacted for follow-up, please attach your discord handle or preferred contact method to the comment...
 - for [[Sachin Benny: Order Ways]] I'm looking at what an economy around third party learning may look like - micropayments for accessing someone else's API to their brain
 - 
 - 
-- >>>> END OF YAK COMMENTS <<<<
+- > >>> END OF YAK COMMENTS <<<<
 - overall considerations
     - correlational analyses require independent and dependent variables
     - neural activity measures are both independent and dependent variables

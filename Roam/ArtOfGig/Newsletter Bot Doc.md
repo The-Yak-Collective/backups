@@ -92,7 +92,7 @@
                 - We use links in YakC conversations. A lot. It would be cool to automatically aggregate and share those link on a link blog. 
                 - [Linklogs](https://en.wikipedia.org/wiki/Linklog) are pretty basic. A web page, often with a simplified blogging CMS behind it, formatted with simplified blog post entries.
                     - > [Linklogs have a history](https://en.wikipedia.org/wiki/Linklog)
-                      [#ComplexityChannel](https://discord.com/channels/692111190851059762/704369362315772044/830621240725209108). [13 April 2021, 1302 Pacific](https://github.com/The-Yak-Collective/onboarding_robot/issues/31#permalinkhere).
+                      > [#ComplexityChannel](https://discord.com/channels/692111190851059762/704369362315772044/830621240725209108). [13 April 2021, 1302 Pacific](https://github.com/The-Yak-Collective/onboarding_robot/issues/31#permalinkhere).
                 - Outcomes I hope for:
                     - more sharing of our social objects. If you talk about it in our discord, it might be amplified by the linklog.
                     - more discovery by yaks of interesting conversations. source links take you back to a channel. a privilege of yakdom.

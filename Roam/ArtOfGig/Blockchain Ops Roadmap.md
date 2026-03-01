@@ -908,13 +908,13 @@
             - Article https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
             - Notes
                 - > Here’s a glossary to shorten some words that will show up ~43531756765713534 times:
-                  DA – Data Availability
-                  DAS – Data Availability Sampling
-                  PBS – Proposer-builder Separation
-                  PDS – Proto-danksharding
-                  DS – Danksharding
-                  PoW – Proof of Work
-                  PoS – Proof of Stake
+                  > DA – Data Availability
+                  > DAS – Data Availability Sampling
+                  > PBS – Proposer-builder Separation
+                  > PDS – Proto-danksharding
+                  > DS – Danksharding
+                  > PoW – Proof of Work
+                  > PoS – Proof of Stake
                 - Part I
                     - Use Erasure/Reed–Solomon encoding with polynomials to encode block data
                         - Basic idea, you can regenerate a whole block with 50% of the block data (any 50% will do)
@@ -962,12 +962,12 @@
             - [[Jenna]]
                 - Concluding Thoughts #[[Jenna]]
                     - > All roads lead to the endgame of centralized block production, decentralized trustless block validation, and censorship resistance. Ethereum’s roadmap has this vision square in its sights.
-                      
-                      Ethereum aims to be the ultimate unified DA and settlement layer – massively decentralized and secure at the base with scalable computation on top. This condenses cryptographic assumptions to one robust layer. A unified modular (or [disaggregated](https://twitter.com/epolynya/status/1520266209861668864?s=20&t=PdcmqDUTjarL77tq-Z8cNQ) now?) base layer with execution included also captures the highest value across L1 designs – leading to monetary premium and economic security as I recently covered (now open-sourced [here](https://members.delphidigital.io/reports/valuing-layer-1s-memes-money-or-more)).
-                      
-                      I hope you gathered a clearer view of how Ethereum research is all so interwoven. There are so many moving pieces, it’s very cutting-edge, and there’s a really big picture to wrap your head around. It’s hard to keep track of.
-                      
-                      Fundamentally, it all makes its way back to that singular vision. Ethereum presents a compelling path to massive scalability while holding dear those values we care so much about in this space.
+                      > 
+                      > Ethereum aims to be the ultimate unified DA and settlement layer – massively decentralized and secure at the base with scalable computation on top. This condenses cryptographic assumptions to one robust layer. A unified modular (or [disaggregated](https://twitter.com/epolynya/status/1520266209861668864?s=20&t=PdcmqDUTjarL77tq-Z8cNQ) now?) base layer with execution included also captures the highest value across L1 designs – leading to monetary premium and economic security as I recently covered (now open-sourced [here](https://members.delphidigital.io/reports/valuing-layer-1s-memes-money-or-more)).
+                      > 
+                      > I hope you gathered a clearer view of how Ethereum research is all so interwoven. There are so many moving pieces, it’s very cutting-edge, and there’s a really big picture to wrap your head around. It’s hard to keep track of.
+                      > 
+                      > Fundamentally, it all makes its way back to that singular vision. Ethereum presents a compelling path to massive scalability while holding dear those values we care so much about in this space.
                         - "baroque financial products that average investors can't understand" — this bit from the [Wired](https://www.wired.com/story/web3-paradise-crypto-arcade/) cover text seems relevant to our convo today — would love to know what our knowledgeable yaks think about legibility for normies and how we mitigate this particular aspect of risk down the road. #[[Jenna]]
                         - > WARNING: Users enter into transactions at their own risk; Web3 is not responsible for money lost, NFTs stolen, passwords phished, or dreams shattered in the course of this experiment. The edifice of Web3 is built on trillions of dollars invested in cryptocurrencies that, as yet, have little to no proven utility other than as speculative assets. Liquidity is provided by baroque financial products that average investors can't understand, which may end badly. Decentralization may or may not be a technological feature of systems, as opposed to a market condition, and thus is not actually guaranteed. Many decentralized autonomous organizations (DAOs) are neither decentralized nor autonomous. Past hopes of fully decentralized, participatory versions of the internet have been repeatedly dashed. It might be unwise to put personal data on a permanent uneditable public database. It may not be possible to disentangle the idealistic aspirations of Web3 from the cynical profit-seeking behavior exhibited by much of the crypto market, which is heavily concentrated in the hands of a small number of superrich people and Institutions. People tend to find ways to game systems despite the best intentions of those systems' designers. Results may vary. STORY BY GILAD EDELMAN
                     - If only geniuses can understand, what does that mean. 

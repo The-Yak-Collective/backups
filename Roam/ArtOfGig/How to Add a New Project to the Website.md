@@ -206,8 +206,8 @@ Last Gardened:: `/Today` by `[[Fname Lname]]`
                   ```
             - This will produce a title block that looks like the following:
                 - > **The Music of the Freeways**
-                  [Nathan Acks](https://www.yakcollective.org/members/acks-nathan/)
-                  #cars #philosophy #xylophones
+                  > [Nathan Acks](https://www.yakcollective.org/members/acks-nathan/)
+                  > #cars #philosophy #xylophones
         - ### hero_image
             - The slide's main image; by default, it will take up either the left or right half of the slide, depending on the value of `hero_position`. Also used for the slide's Twitter card.
             - Should generally be a square or landscape image 1024px - 3072px on its longest slide.
