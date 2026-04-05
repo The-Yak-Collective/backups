@@ -9,6 +9,27 @@
 - » [Google Doc](https://docs.google.com/document/d/1WvCmvNeQLHy9XqiL1iq7fvSHllou6Liq8JJcxHag3tQ/edit?usp=sharing)
 - 
 - ---
+- Season 6
+    - ## Every Day Carry 
+        - [Ancient Every day Weirdness by Bruce Sterling](https://bruces.medium.com/ancient-everyday-weirdness-591955f40a2d)
+        - Drawing Things Together (Immutable objects) by Bruno Latour
+            - [Chat](https://discord.com/channels/692111190851059762/1476971744865550478)
+        - [Do Artifacts Have Politics? ](https://discord.com/channels/692111190851059762/1479506710170177686)
+    - ## Current Affairs
+        - [Wizards of Armageddon (Nuclear safety)](https://www.commentary.org/articles/edward-luttwak-2/the-wizards-of-armageddon-strategists-of-the-nuclear-age-by-fred-kaplan)
+            - [chat](https://discord.com/channels/692111190851059762/1482022760766242829)
+        - [Ukraine Drones and Russian Dark Trades](https://discord.com/channels/692111190851059762/1474432195534913647)
+        - [Epstein , Sex and Power in Politics](https://discord.com/channels/692111190851059762/1471899937733345422)
+        - [Direct Action in Minnesota ](https://discord.com/channels/692111190851059762/1466810044048740372)
+        - [Aging and Declining Birth Rates](https://discord.com/channels/692111190851059762/1469213376327450881)
+        - [West's Last Chance](https://discord.com/channels/692111190851059762/1464279738293162221)
+    - ## Philosophy of Law Continued 
+        - [Limits of Habeas Corpus Laws](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=3020&context=clr&utm_source=chatgpt.com)
+            - [chat](https://discord.com/channels/692111190851059762/1461732495836975288)
+        - [What is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
+            - [chat](https://discord.com/channels/692111190851059762/1484567910784700527)
+    - ## Carnival vs Archival Time
+        - [Archival Time](https://discord.com/channels/692111190851059762/1459204965531779092)
 - Season 5
     - ### Philosophy of Laws
         - [Should trees have legal rights](https://iseethics.wordpress.com/wp-content/uploads/2013/02/stone-christopher-d-should-trees-have-standing.pdf)
