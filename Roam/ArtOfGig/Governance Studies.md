@@ -10,11 +10,14 @@
 - 
 - ---
 - Season 6
-    - ## Every Day Carry 
+    - ## Every Day Carry and SCOT
         - [Ancient Every day Weirdness by Bruce Sterling](https://bruces.medium.com/ancient-everyday-weirdness-591955f40a2d)
         - Drawing Things Together (Immutable objects) by Bruno Latour
             - [Chat](https://discord.com/channels/692111190851059762/1476971744865550478)
         - [Do Artifacts Have Politics? ](https://discord.com/channels/692111190851059762/1479506710170177686)
+        - T[he Social Construction of The Automobile](http://sjbae.pbworks.com/w/file/fetch/41532772/kline_pinch_1996.pdf)
+        - Phreaking Politics
+        - Decline of the Wooden Airplane
     - ## Current Affairs
         - [Wizards of Armageddon (Nuclear safety)](https://www.commentary.org/articles/edward-luttwak-2/the-wizards-of-armageddon-strategists-of-the-nuclear-age-by-fred-kaplan)
             - [chat](https://discord.com/channels/692111190851059762/1482022760766242829)

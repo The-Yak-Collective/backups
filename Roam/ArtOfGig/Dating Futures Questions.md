@@ -17,8 +17,8 @@
     - [10:14 PM]
     - Unauthorized SFMOMA: https://radicalnetworks.org/archives/2017/participants/unauthorized-sfmoma-show/
     - and mention the evolution of romance as a historical formation
-    - OkCupid Blog: https://theblog.okcupid.com/love-in-the-time-of-corona-massive-spikes-in-matching-messaging-and-virtual-dates-around-the-ec12c49eab86
     - [10:14 PM]
+    - OkCupid Blog: https://theblog.okcupid.com/love-in-the-time-of-corona-massive-spikes-in-matching-messaging-and-virtual-dates-around-the-ec12c49eab86
     - 
 - **Need to check out**
     - https://entitledopinions.stanford.edu/marisa-galvez-troubadour-poetry
